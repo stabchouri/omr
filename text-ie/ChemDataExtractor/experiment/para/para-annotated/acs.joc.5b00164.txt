@@ -1,0 +1,978 @@
+Article
+
+pubs.acs.org/joc
+
+Regioselective Hydration of Terminal Alkynes Catalyzed by a Neutral
+Gold(I) Complex [(IPr)AuCl] and One-Pot Synthesis of Optically Active
+Secondary Alcohols from Terminal Alkynes by the Combination of
+[(IPr)AuCl] and Cp*RhCl[(R,R)‑TsDPEN]
+Feng Li,* Nana Wang, Lei Lu, and Guangjun Zhu
+Key Laboratory for Soft Chemistry and Functional Materials, Ministry of Education, Nanjing University of Science & Technology,
+Nanjing 210094, People’s Republic of China
+*S Supporting Information
+
+for
+
+terminal alkynes,
+
+the hydration of
+
+ABSTRACT: A neutral gold(I) complex [(IPr)AuCl] (IPr = 1,3-
+bis(diisopropylphenyl)imidazol-2-ylidene) was found to be a highly
+eﬀective catalyst
+including
+aromatic alkynes and aliphatic alkynes. The desired methyl ketones were
+obtained in high yields with complete regioselectivities. Furthermore, a
+series of optically active secondary alcohols could be obtained in high
+yield with good to excellent enatioselectivities via one-pot sequential
+hydration/asymmetric transfer hydrogenation (ATH) from terminal
+alkynes by the combination of of [(IPr)AuCl] and Cp*RhCl[(R,R)-
+TsDPEN] (Cp* = pentamethylcyclopentadienyl, TsDPEN = N-(p-
+toluenesulfonyl)-1,2-diphenylethylenediamine). Notably,
+this research
+exhibited the potential of the direct use of neutral gold(I) complexes
+instead of cationic ones as catalysts for the activation of multiple bonds
+for organic synthesis.
+
+■ INTRODUCTION
+The regioselective hydration of terminal alkynes to methyl
+ketones represents one of the most important C−O bond-
+forming reactions in organic synthesis because of the wide
+availability of alkynyl substrates, the fundamental importance of
+the carbonyl motif, and the complete atom eﬃciency of the
+reaction.1 Traditionally, this transformation is performed in the
+presence of a large amount of concentrated sulfuric acid
+(typically ≥ stoichiometric amount) and/or highly toxic
+mercury reagents.2 Over the past several decades, various
+metal complexes such as Pt,3 Fe,4 Pd,5 Ir,6 Ag,7 Co,8 and Au9
+have been developed as catalysts for such transformations.
+Recently, cationic gold(I) species [Au(L)]+ (L = phosphine or
+N-heterocyclic carbene) have emerged as one of the most
+promising catalysts for the regioselective hydration of terminal
+alkynes because of high reactivity and regioselectivity.9f−s
+Generally, cationic gold(I) species were generated via reactions
+of neutral gold(I) complexes [Au(L)Cl] with silver salts (AgX,
+X = OTf, BF4, SbF6, NTf2, etc.) (Scheme 1, A). However, these
+procedures have some drawbacks, such as high price and the
+light sensitivity of silver salts. In addition, silver salts have
+themselves also catalytic activities for the hydration of akynes.10
+More recently,
+the
+generation of cationic gold(I) species have been developed,
+including a protic acid (methanesulfonic acid) activation of
+[Au(CH3)(PPh3)] complex (Scheme 1, B),11 a Brønsted acid
+activation of [(IPr)Au(OH)] (Scheme 1, C),12 the use of the
+
+salt-free protocols
+
+several
+
+silver
+
+for
+
+silylium salt [(Tol)SiEt3][B(C6F5)4] to activate [(IPr)AuCl]
+(Scheme 1, D),13 the use of Cu(OTf)2 to acivate [(PPh3)AuCl]
+(Scheme 1, E),14 and the use of a Brønsted acid/Lewis acid to
+[(PPh3)Au(Pht)] (Scheme 1, F).15 Despite these advances, the
+direct use of a neutral gold(I) complex [Au(L)Cl] as an
+eﬃcient catalyst for the regioselective hydration of terminal
+alkynes to methyl ketons is apparently highly desirable from
+both synthetic and environmental points of view.
+
+We have reported a series of catalytic transformations with
+alcohols as electrophiles catalyzed by an iridium complex.16 We
+also described the combination of cationic gold(I) and iridium
+catalysts for the synthesis of α-alkylated ketones17a and α-
+alkylated amides.17b As part of our continuing interest in this
+ﬁeld of research, we herein demonstrate the direct use of a
+neutral gold(I) complex as a general and highly eﬀective
+catalyst for the regioselective hydration of terminal alkynes.
+Furthermore, one-pot synthesis of optically active secondary
+alcohols via hydration/asymmetric transfer hydrogenation
+(ATH) from terminal alkynes by the combination of
+[(IPr)AuCl] and Cp*RhCl[(R,R)-Tsdpen] (Cp* = pentam-
+ethylcyclopentadienyl, Tsdpen = N-(p-toluenesulfonyl)-1,2-
+diphenylethylenediamine) was demonstrated.
+
+Received:
+January 24, 2015
+Published: March 10, 2015
+
+© 2015 American Chemical Society
+
+3538
+
+DOI: 10.1021/acs.joc.5b00164
+J. Org. Chem. 2015, 80, 3538−3546
+
+The Journal of Organic Chemistry
+
+Scheme 1. Advances in the Generation of Cationic Gold(I)
+Species
+
+■ RESULTS AND DISCUSSION
+<para sub=“opt”>
+Initially, the hydration of phenylacetylene (1a) was chosen as a
+model reaction. The reaction of 1a was carried out in the
+presence of [(IPr)AuCl] (IPr = 1,3-bis(diisopropylphenyl)-
+imidazol-2-ylidene) (0.5 mol %) in MeOH/H2O (2:1) at 80 °C
+for 6 h to aﬀord acetophenone (2a) in 88% yield with complete
+regioselectivity. It was observed that the product 2a could be
+obtained in 99% yield when the temperature of reaction was
+enhanced to 110 °C. When [(Ph3P)AuCl] was used as an
+alternative catalyst under
+this
+reaction gave the product 2a in 51% yield (Scheme 2).
+
+same reaction conditions,
+</para>
+Scheme 2. Hydration of Phenylacetylene (1a)
+<para sub="scope">
+Having established the optimized conditions, the hydration
+of a variety of alkynes 1 was conducted, and the results are
+shown in Table 1. Reactions of phenylacetylenes bearing one or
+two halogen atoms, such as 3-ﬂuoro (1b), 4-ﬂuoro (1c), 4-
+chloro (1d), 3-bromo (1e), and 4-bromo (1f), gave the
+corresponding products 2b−f
+in 93−97% yields (Table 1,
+entries 1−5). Phenylacetylenes bearing a serious electron-
+withdrawing group, such as 4-nitro (1g), 4-(triﬂuoromethyl)
+(1h), and 4-cyano (1i), could be converted to the desired
+products 2g−i in 91%−94% yields, although relatively long
+reaction time was required (Table 1, entries 6−8). When
+phenylacetylenes bearing an electron-donating group, such as 3-
+methyl (1j), 4-methyl (1k), 4-ethyl (1l), 4-propyl (1m), 4-
+methoxy (1n), and 4-amino (1o), were used as substrates, the
+</para>
+Article
+<para sub="scope">
+corresponding products 2j−o were obtained in 89−96% yields
+(Table 1, entries 9−14). Transformations of other arylalkynes,
+such as 2-ethynylnaphthalene (1p) and 2-ethynylthiophene
+(1q), also aﬀorded the desired products 2p and 2q in 94% and
+93% yields, respectively (Table 1, entries 15 and 16). In the
+case of bisalkyne, such as 1,3-diethynylbenzene (1r) and 1,4-
+diethynylbenzene (1s), the corresponding bisketones 2r and 2s
+were isolated in 90% and 92% yields, respectively (Table 1,
+entries 17 and 18). Aliphatic alkynes, such as 3,3-dimethyl-1-
+butyne (1t), ethynylcyclopropane (1u), 1-hexyne (1v), 3-
+butynol (1w), and propargyl acetate (1x), were proven to be
+suitable substrates, and reactions gave the corresponding
+products 2t−x in >99% NMR yields (Table 1, entries 19−
+23). However, no reaction occurred when nonterminal alkyne
+1,2-diphenylethyne (1y) was used as a substrate under the same
+reaction conditions (Table 1, entry 24).
+</para>
+<para sub="scope">
+It noteworthy that apart from the desired methyl ketones,
+none of isomer byproducts (aldehydes) were observed in all
+cases. Clearly, the hydration of terminal alkynes catalyzed by
+[(IPr)AuCl] exhibited complete regioselectivities.
+</para>
+<para sub="scope">
+To demonstrate the practicality and safety of this protocol,
+the hydration of alkyne on a multigram scale was investigated
+(Scheme 3). In a sealed 250 mL Schlenk tube, the reaction of
+1a (5.1 g, 50 mmol) was carried out in the presence of
+[(IPr)AuCl] (0.2 mol %) in MeOH/H2O (2:1) at 110 °C for
+12 h to give the product in 90% yield. This experiment is safe
+under
+safety
+precautions.
+
+reaction conditions without
+
+the present
+</para>
+<para sub=“ques”>
+A possible reacion mechansm is proposed to account for the
+hydration of alkynes catalyzed by [(IPr)AuCl] (Scheme 4).
+The initial step of the reaction involved the formation of
+cationic species A by the dissociation of [(IPr)AuCl] in a polar
+H2O/MeOH mixture.18 The resulting species A was coordi-
+nated with an alkyne as a two-electron ligand to give species B.
+Furthermore, species B underwent nucleophilic attack of water
+to aﬀord species C, which could be converted to species D via
+keto−enol equilibrium. Finally, the reaction of species D and
+H+ occurred to release methyl ketones as
+the product
+accompanied by the regeneration of catalytic species A.
+</para>
+<para sub="scope">
+As shown in Figure 1, the addition of NaCl (10 mol %) has
+obvious inﬂuence on the reaction rate. Apparently, the presence
+of a large excess of chloride resulted in a left shift of equilibrium
+in Scheme 5, and thus, the reaction rate for the hydration of 1a
+is reduced. This result strongly supported the proposed
+reaction mechanism in Scheme 4 where [(IPr)Au]+ is the
+catalytic active species.
+</para>
+In recent years, one-pot syntheses have received great
+attention as an alternative to traditional multistep synthetic
+procedures for the rapid assembly of biologically active and
+complex chiral molecules from simple substrates because they
+minimize the use of chemicals, energy, and waste production.19
+Herzon and co-workers demonstrated a one-pot syntheis of
+racemic secondary alcohols involving cationic gold(I)-catalyzed
+regioselective hydration of alkynes.9m Very recently, Lei, Sun,
+and co-workers described the synthesis of optical active
+secondary alcohols via one-pot sequential hydration/asymmet-
+ric-transfer hydrogenation (ATH) from terminal alkynes
+catalyzed by the combination of Salen−Co3+ catalyst and chiral
+ruthenium catalyst.8b However, the addition of H2SO4 (2 mol
+%) is necessary for the hydration of terminal alkynes. In
+addition, the scope of reaction is also limited and Salen−Co3+
+catalyst is not eﬀective for the hydration of phenylacetylenes
+bearing a serious electron-withdrawing group. As a result, we
+
+3539
+
+DOI: 10.1021/acs.joc.5b00164
+J. Org. Chem. 2015, 80, 3538−3546
+
+The Journal of Organic Chemistry
+Table 1. Hydration of a Variety of Alkynes 1 to Methyl Ketones Catalyzed by [(IPr)AuCl]a
+
+Article
+
+aReaction conditions: 1 (1 mmol), [(IPr)AuCl] (0.5 mol %), MeOH (1 mL), H2O (0.5 mL), 110 °C, 6 h. b[(IPr)AuCl] (1 mol %). c[(IPr)AuCl] (1
+mol %), 120 °C. d12 h. eDetermined by 1H NMR spectroscopy.
+
+3540
+
+DOI: 10.1021/acs.joc.5b00164
+J. Org. Chem. 2015, 80, 3538−3546
+
+The Journal of Organic Chemistry
+
+Scheme 3. Hydration of Phenylacetylene (1a) on a
+Multigram Scale
+
+Article
+<para sub=“opt”>
+As shown in Scheme 6, a series of Noyori−Ikariya catalysts
+including RuCl[(R,R)-TsDPEN](p-cymene),
+
+(0.3 mol %),
+</para>
+Scheme 6. One-Pot Synthesis of Optically Active 1-
+Phenylethanol (3a) from Phenylacetylene (1a)
+
+Scheme 4. Proposed Reaction Mechanism
+<para sub=“opt”>
+Cp*IrCl[(R,R)-TsDPEN], and Cp*RhCl[(R,R)-TsDPEN],
+were selected as a catalyst, and HCOONa (5 equiv) was
+used as a hydrogen source for
+the asymmetric-transfer
+hydrogenation (ATH) of acetophenone (2a), which resulted
+from the regioselective hydration of phenylacetylene (1a)
+catalyzed by [(IPr)AuCl]. Among them, Cp*RhCl[(R,R)-
+TsDPEN] exhibited the highest reactivity and enatioselectivity,
+and this cascade reaction aﬀorded (R)-1-phenylethanol (3a) in
+97% yield with 97% ee. When Cp*RhCl[(S,S)-TsDPEN] was
+used as an alternative catalyst, the product (S)-1-phenylethanol
+(4a) was obtained in 96% yield with 98% ee.
+</para>
+<para sub="scope">
+To expend the scope of this one-pot sequential reaction, a
+range of alkynes were investigated, and these results are
+outlined in Table 2. Transformations of phenylacetylenes
+bearing a halide atom (1b−f) aﬀorded the corresponding
+products 3b−f in 89−95% yields with 90−97% ee (Table 2,
+entries 1−5). Furthermore, phenylacetylenes bearing a serious
+electron-withdrawing group, such as nitro (1g), triﬂuoromethyl
+(1h), and cyano (1i), could be converted to the desired
+products 3g−i in 88−90% yields with 87−95% ee (Table 2,
+entries 6−8). This catalytic system was also successfully applied
+to phenylacetylenes bearing an electron-donating group, such
+as methyl (1j,k), ethyl (1l), propyl (1m), methoxy (1n), and
+amino (1o), aﬀording the desired products 3j−o in 80−93%
+yield with 93−98% ee, although a longer time (24 h) is
+required (Table 2, entries 9−14). For 2-ethynylnaphthalene
+(1p) and 2-ethynylthiophene (1q),
+reactions proceeded
+smoothly to give the corresponding products 3p and 3q in
+92% yield with 92% ee and in 91% yield with 98% ee,
+respectively (Table 2, entries 15 and 16).
+</para>
+■ CONCLUSION
+
+In summary, we have demonstrated that a neutral gold(I)
+complex [(IPr)AuCl] is a general and highly eﬀective catalyst
+for the regioselective hydration of terminal alkynes, including
+aromatic alkynes and aliphatic alkynes. A series of methyl
+
+3541
+
+DOI: 10.1021/acs.joc.5b00164
+J. Org. Chem. 2015, 80, 3538−3546
+
+Figure 1. Time-Course of the Hydration of 1a. Reaction conditions
+for black course are described in Scheme 2. The red course indicates
+the addition of NaCl (10 mol %).
+
+Scheme 5. Dissociation Equilibrium of [(IPr)AuCl]
+
+are interested in exploring the combination of [(IPr)AuCl] and
+Noyori−Ikariya catalysts20 for one-pot synthesis of optically
+active secondary alcohols from terminal alkynes.
+
+The Journal of Organic Chemistry
+
+Article
+
+Table 2. One-Pot Synthesis of Optically Active Alcohols from Terminal Alkynes 1 by the Combination of [(IPr)AuCl] and
+Cp*RhCl[(R,R)-TsDPEN].a
+
+aReaction conditions: (1) 1a (1 mmol), [(IPr)AuCl] (0.5 mol %), MeOH (1 mL), H2O (0.5 mL), 110 °C, 6 h; (2) [Cp*RhCl[(R,R)-TsDPEN]
+(0.3 mol %), HCOONa (5 equiv), H2O (1.5 mL), 30 °C, 5 h. bDetermined by chiral GC or HPLC analysis. cIn the ﬁrst step, [(IPr)AuCl] (1 mol
+%). dIn the ﬁrst step, [(IPr)AuCl] (1 mol %), 120 °C; in the second step, [Cp*RhCl[(R,R)-TsDPEN] (1 mol %), 40 °C. eIn the ﬁrst step,
+[(IPr)AuCl] (1 mol %), 120 °C. f In the ﬁrst step, 12 h.
+
+ketones were obtained in high yields with complete
+regioselectivities. Furthermore, a range of optically active
+secondary alcohols could be obtained in high yields with
+good to excellent enatioselectivities from terminal alkynes via a
+one-pot sequential hydration/asymmetric-transfer hydrogena-
+tion (ATH) by the combination of of [(IPr)AuCl] and
+Cp*RhCl[(R,R)-TsDPEN]. Notably,
+this research exhibited
+the potential of the direct use of neutral gold(I) complexes
+instead of cationic ones as catalysts for the activation of of
+multiple bonds for organic synthesis.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+Experimental Details. Melting points were measured on a
+micromelting apparatus. 1H NMR spectra were recorded at 500
+MHz. Chemical shifts are reported in delta (δ) units, parts per million
+(ppm) downﬁeld from tetramethylsilane or ppm relative to the center
+of the singlet at 7.26 ppm for CDCl3. Coupling constants (J) are
+reported in hertz (Hz), and the splitting patterns are designated as
+follows: s, singlet; d, doublet; t, triplet; m, multiplet; b, broad. 13C{1H}
+NMR spectra were recorded at 125 MHz with broadband 1H
+decoupling. Chemical shifts are reported in δ, ppm relative to the
+center of the triplet at 77.0 ppm for CDCl3. 19F NMR spectra were
+recorded at 470 MHz. Analytical thin-layer chromatography (TLC)
+</para>
+3542
+
+DOI: 10.1021/acs.joc.5b00164
+J. Org. Chem. 2015, 80, 3538−3546
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+was carried out using 0.2 mm commercial silica gel plates. Optical
+rotations were measured on a polarimeter. The enantiomeric excess of
+the compounds was determined by chiral GC or HPLC using racemic
+compounds as references.
+
+[(IPr)AuCl],21,22 RuCl[(R,R)-TsDPEN](p-cymene),23 Cp*IrCl-
+[(R,R)-TsDPEN],24 Cp*RhCl[(R,R)-TsDPEN],25 and Cp*RhCl-
+[(S,S)-TsDPEN]25 were synthesized according the previous reports.
+General Procedure for Hydration of Alkynes Catalyzed by
+[(IPr)AuCl] (Table 1). To a 25 mL Schlenk tube were added alkyne 1
+(1 mmol), [(IPr)AuCl] (3.1 mg, 0.5 mol %), MeOH (1 mL), and H2O
+(0.5 mL). The mixture was heated at 110 °C for 6 h and was then
+allowed to cool to ambient temperature. The reaction was concetrated
+in vacuo and puriﬁed by ﬂash column chromatography with hexanes/
+ethyl acetate to aﬀord the corresponding product.
+Acetophenone (2a):26 light yellow oil; 99% yield (119 mg); 1H
+NMR (500 MHz, CDCl3) δ 7.99−7.94 (m, 2H), 7.59−7.54 (m, 1H),
+7.46 (t, J = 7.7 Hz, 2H), 2.61 (s, 3H); 13C{1H} NMR (125 MHz,
+CDCl3) δ 198.0, 136.9, 133.0, 128.4, 128.1, 26.4.
+
+1-(3-Fluorophenyl)ethanone (2b):26 colorless oil; 97% yield (134
+mg); 1H NMR (500 MHz, CDCl3) δ 7.74 (d, J = 7.1 Hz, 1H), 7.63 (d,
+J = 8.9 Hz, 1H), 7.45 (q, J = 7.1 Hz, 1H), 7.30−7.24 (m, 1H), 2.60 (d,
+J = 0.9 Hz, 3H); 13C{1H} NMR (125 MHz, CDCl3) δ 196.5, 162.6 (d,
+JC−F = 245.7 Hz), 139.0 (d, JC−F = 5.8 Hz), 130.6 (d, JC−F = 7.5 Hz),
+123.9, 119.8 (d, JC−F = 22.0 Hz), 114.6 (d, JC−F = 22.6 Hz), 26.35; 19F
+NMR (470 MHz, CDCl3) δ −111.9.
+1-(4-Fluorophenyl)ethanone (2c):27 colorless oil; 96% yield (133
+mg); 1H NMR (500 MHz, CDCl3) δ 8.01−7.96 (m, 2H), 7.13 (t, J =
+8.5 Hz, 2H), 2.59 (s, 3H); 13C{1H} NMR (125 MHz, CDCl3) δ 196.4,
+165.7 (d, JC−F = 252.5 Hz), 133.5, 130.9 (d, JC−F = 9.1 Hz), 115.6 (d,
+JC−F = 22.2 Hz), 26.40; 19F NMR (470 MHz, CDCl3) δ −105.3.
+1-(4-Chlorophenyl)ethanone (2d):28 colorless oil; 94% yield (145
+mg); 1H NMR (500 MHz, CDCl3) δ 7.90 (dt, J = 8.5 and 2.2 Hz, 2H),
+7.44 (dt, J = 8.6 and 2.1 Hz, 2H), 2.59 (s, 3H); 13C{1H} NMR (125
+MHz, CDCl3) δ 196.7, 139.4, 135.3, 129.6, 128.8, 26.4.
+
+1-(3-Bromophenyl)ethanone (2e):28 colorless oil; 93% yield (186
+mg); 1H NMR (500 MHz, CDCl3) δ 8.08 (s, 1H), 7.88 (d, J = 8.0 Hz,
+1H), 769 (d, J = 8.0 Hz, 1H), 7.35 (t, J = 7.6 Hz, 1H), 2.59 (s, 3H);
+13C{1H} NMR (125 MHz, CDCl3) δ 196.5, 138.7, 135.8, 131.3, 130.1,
+126.8, 122.9, 26.5.
+
+1-(4-Bromophenyl)ethanone (2f):27 yellow solid; 95% yield (189
+mg); 1H NMR (500 MHz, CDCl3) δ 7.82 (dt, J = 8.6 and 2.1 Hz, 2H),
+7.60 (dt, J = 8.6 and 2.1 Hz, 2H), 2.58 (s, 3H); 13C{1H} NMR (125
+MHz, CDCl3) δ 196.8, 135.7, 131.7, 129.7, 128.1, 26.4.
+1-(4-Nitrophenyl)ethanone (2g):29 yellow solid; 94% yield (156
+mg); m.p 82−83 °C; 1H NMR (500 MHz, CDCl3) δ 8.32 (d, J = 9.3
+Hz, 2H), 8.11 (d, J = 9.3 Hz, 2H), 2.68 (s, 3H); 13C{1H} NMR (125
+MHz, CDCl3) δ 196.2, 150.3, 141.3, 129.2, 123.7, 26.9.
+
+1-(4-(Triﬂuoromethyl)phenyl)ethanone (2h):30 yellow oil; 91%
+yield (171 mg); 1H NMR (500 MHz, CDCl3) δ 8.06 (d, J = 8.3 Hz,
+2H), 7.74 (d, J = 8.3 Hz, 2H), 2.65 (s, 3H); 13C{1H} NMR (125 MHz,
+CDCl3) δ 196.7, 139.6, 134.2 (q, JC−F = 32.4 Hz), 128.5, 125.6 (d, JC−F
+= 3.4 Hz), 123.5 (q, JC−F = 270.6 Hz), 26.41; 19F NMR (470 MHz,
+CDCl3) δ −63.1.
+4-Acetylbenzonitrile (2i):31 white solid; 92% yield (133 mg); m.p
+60−61 °C; 1H NMR (500 MHz, CDCl3) δ 8.05 (d, J = 8.2 Hz, 2H),
+7.78 (d, J = 7.8 Hz, 2H), 2.65 (s, 3H); 13C{1H} NMR (125 MHz,
+CDCl3) δ 196.4, 139.8, 132.4, 128.6, 117.8, 116.3, 26.7.
+1-m-Tolylethanone (2j:.32 colorless oil; 96% yield (129 mg); 1H
+NMR (500 MHz, CDCl3) δ 7.78−7.73 (m, 2H), 7.40−7.33 (m, 2H),
+2.59 (s, 3H), 2.41 (s, 3H); 13C{1H} NMR (125 MHz, CDCl3) δ 198.3,
+138.2, 137.1, 133.7, 128.7, 128.3, 125.5, 26.5, 21.2.
+
+1-p-Tolylethanone (2k):32 colorless oil; 95% yield (127 mg); 1H
+NMR (500 MHz, CDCl3) δ 7.85 (d, J = 8.1 Hz, 2H), 7.25 (d, J = 8.4
+Hz, 2H), 2.57 (s, 3H), 2.40 (s, 3H, CH3); 13C{1H} NMR (125 MHz,
+CDCl3) δ 197.6, 143.7, 134.5, 129.0, 128.2, 26.2, 21.4.
+
+1-(4-Ethylphenyl)ethanone (2l):32 colorless oil; 93% yield (137
+mg); 1H NMR (500 MHz, CDCl3) δ 7.88 (d, J = 8.5 Hz, 2H), 7.28 (d,
+J = 8.5 Hz, 2H), 2.71 (q, J = 7.8 Hz, 2H), 2.58 (s, 3H), 1.25 (t, J = 7.6
+Hz, 3H); 13C{1H} NMR (125 MHz, CDCl3) δ 197.8, 150.0, 134.9,
+128.5, 128.0, 28.8, 26.4, 15.1.
+
+1-(4-Propylphenyl)ethanone (2m):31 colorless oil; 89% yield (144
+mg); 1H NMR (500 MHz, CDCl3) δ 7.88 (d, J = 7.9 Hz, 2H), 7.26 (d,
+J = 7.9 Hz, 2H), 2.64 (t, J = 7.9 Hz, 2H), 2.58 (s, 3H), 1.66 (sext, J =
+7.6 Hz, 2H), 0.94 (t, J = 7.5 Hz, 3H); 13C{1H} NMR (125 MHz,
+CDCl3) δ 197.7, 148.4, 134.9, 128.5, 128.3, 37.9, 26.4, 24.1, 13.6.
+
+1-(4-Methoxyphenyl)ethanone (2n):26 colorless oil; 92% yield
+(138 mg); 1H NMR (500 MHz, CDCl3) δ 7.94 (d, J = 9.0 Hz, 2H),
+6.93 (d, J = 8.6 Hz, 2H), 3.87 (s, 3H), 2.55 (s, 3H); 13C{1H} NMR
+(125 MHz, CDCl3) δ 196.7, 163.4, 130.5, 130.2, 113.6, 55.4, 26.2.
+1-(3-Aminophenyl)ethanone (2o):32 yellow solid; 90% yield (122
+mg); mp 98−99 °C; 1H NMR (500 MHz, CDCl3) δ 7.33 (d, J = 7.5
+Hz, 1H), 7.28−7.21 (m, 2H), 6.89−6.85 (m, 1H), 3.81 (br s, 2H),
+2.56 (s, 3H); 13C{1H} NMR (125 MHz, CDCl3) δ 198.5, 146.7, 138.1,
+129.3, 119.6, 118.6, 113. 9, 26.5.
+1-(Naphthalen-2-yl)ethanone (2p):27 white solid; 95% yield (161
+mg); m.p 58−59 °C; 1H NMR (500 MHz, CDCl3) δ 8.47 (s, 1H),
+8.04 (d, J = 8.8 Hz, 1H), 7.97 (d, J = 7.2 Hz, 1H), 7.89 (t, J = 8.0 Hz,
+1H), 7.63−7.53 (m, 2H), 2.73 (s, 3H); 13C{1H} NMR (125 MHz,
+CDCl3) δ 197.8, 135.3, 134.2, 132.3, 130.0, 129.3, 128.2, 128.2, 127.5,
+126.5, 123.6, 26.4.
+1-(Thiophene-2-yl)ethanone (2q):31 colorless oil; 93% yield (117
+mg); 1HNMR (500 MHz, CDCl3) δ 7.71−7.69 (m, 1H), 7.64 (d, J =
+4.8 Hz, 1H), 7.15−7.11 (m, 1H), 2.57 (d, J = 2.1 Hz), 13C{1H} NMR
+(125 MHz, CDCl3) δ 190.4, 144.1, 133.5, 132.3, 127.8, 26.5.
+
+1,3-Diacetylbenzene (2r):33 white solid; 90% yield (145 mg); 1H
+NMR (500 MHz, CDCl3) δ 8.52 (s, 1H), 8.16 (dd, J = 1.3 and 7.8 Hz,
+2H), 7.59 (t, J = 7.7 Hz, 1H), 2.67 (s, 3H); 13C{1H} NMR (125 MHz,
+CDCl3) δ 197.2, 137.3, 132.4, 128.9, 127.9, 26.6.
+
+1,4-Diacetylbenzene (2s):31 white solid; 92% yield (150 mg); 1H
+NMR (500 MHz, CDCl3) δ 8.03 (s, 4H), 2.65 (s, 6H); 13C{1H} NMR
+(125 MHz, CDCl3) δ 197.4, 140.0, 128.4, 26.8.
+3,3-Dimethylbutan-2-one (2t):26 colorless oil; 1H NMR (500
+MHz, CDCl3) δ 2.16−2.13 (m, 3H), 1.16−1.13 (m, 9H); 13C{1H}
+NMR (125 MHz, CDCl3) δ 214.0, 44.1, 26.2, 24.5.
+1-Cyclopropylethanone (2u):34 colorless oil; 1H NMR (500 MHz,
+CDCl3) δ 2.25−2.23 (m, 3H), 1.98−1.91 (m, 1H), 1.05−1.00 (m,
+2H), 0.92−0.86 (m, 2H); 13C{1H} NMR (125 MHz, CDCl3) δ 208.6,
+29.8, 20.9, 10.4.
+Hexan-2-one (2v):35 colorless oil; 1H NMR (500 MHz, CDCl3) δ
+2.43 (t, J = 7.7 Hz, 2H), 2.14 (s, 3H), 1.60−1.51 (m, 2H), 1.37−1.27
+(m, 2H), 0.90 (td, J = 7.4 and 1.3 Hz, 3H); 13C{1H} NMR (125 MHz,
+CDCl3) δ 209.3, 43.4, 29.7, 25.9, 22.2, 13.7.
+4-Hydroxybutan-2-one (2w):36 colorless oil; 1H NMR (500 MHz,
+CDCl3) δ 3.84 (q, J = 4.9 Hz, 2H), 2.79 (br s, 1H), 2.73−2.67 (m,
+2H), 2.21−2.18 (m, 3H); 13C{1H} NMR (125 MHz, CDCl3) δ 209.5,
+57.6, 45.3, 30.4.
+2-Oxopropyl acetate (2x):37 pale yellow oil; 1H NMR (500 MHz,
+CDCl3) δ 4.66 (s, 2H), 2.17 (s, 3H), 2.16 (s, 3H); 13C{1H} NMR
+(125 MHz, CDCl3) δ 201.5, 170.1, 68.2, 25.9, 20.3.
+
+Procedure for the Hydration of 1a on a Multigram Scale
+(Scheme 3). To a 250 mL Schlenk tube were added alkyne 1a (5.1 g,
+50 mmol), [(IPr)AuCl] (62 mg, 0.2 mol %), MeOH (20 mL), and
+H2O (10 mL). The mixture was heated at 110 °C for 12 h and was
+then allowed to cool to ambient temperature. The reaction mixture
+was concetrated in vacuo and puriﬁed by ﬂash column chromatog-
+raphy with hexanes/ethyl acetate to aﬀord the corresponding product
+2a in 90% yield (5.371 g).
+Cascade Synthesis of Optically Active Secondary Alcohols
+Catalyzed by the Combination of [(IPr)AuCl] and Cp*RhCl-
+[(R,R)-TsDPEN] (Table 2). To a 25 mL Schlenk tube were added
+alkyne 1 (1 mmol), [(IPr)AuCl] (3.1 mg, 0.5 mol %), MeOH (1 mL),
+and H2O (0.5 mL). The mixture was heated at 110 °C for 6 h and was
+temperature. Cp*RhCl[(R,R)-
+then allowed to cool
+TsDPEN] (1.9 mg, 0.3 mol %), HCOONa (340 mg, 5 mmol, 5
+equiv), and water (1.5 mL) were added, and the mixture was further
+stirred at 30 °C for another 5 h. The reaction mixture was cooled to
+ambient temperature, concentrated in vacuo, and puriﬁed by ﬂash
+column chromatography with hexanes/ethyl acetate to aﬀord the
+corresponding product.
+
+to ambient
+</para>
+3543
+
+DOI: 10.1021/acs.joc.5b00164
+J. Org. Chem. 2015, 80, 3538−3546
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+(R)-1-Phenylethanol (3a):38 yellow oil; 97% yield (118 mg); [α]26
+D
++72.4 (c 1, CHCl3, 97% ee) (lit.38 [α]23
+D +55.9 (c 0.78, CHCl3, 94.9%
+ee); 1HNMR (500 MHz, CDCl3) δ 7.39−7.32 (m, 4H), 7.29−7.24
+(m, 1H), 4.88 (q, J = 5.0 Hz, 1H), 1.92 (br s, 1H), 1.49 (dd, J = 1.20
+and 6.45 Hz, 3H); 13C{1H} NMR (125 MHz, CDCl3) δ 145.8, 128.3,
+127.2, 125.3, 70.1, 25.0.
+GC analysis: CP-Chirasil-DEX CB column (25 m × 0.32 mm);
+carrier gas: N2; ﬂow rate 2 mL/min; injector temp = 230 °C; detector
+temp (FID) = 280 °C; column temp: 1 min at 70 °C, heating at 20
+°C/min to 130 °C, keeping at 130 °C for 5 min; tR = 6.60 min, tS =
+6.86 min
+(R)-1-(3-Fluorophenyl)ethanol (3b):39 light yellow oil; 95% yield
+(133 mg); [α]26
+D +42.4 (c 1,
+CHCl3, 96% ee); 1H NMR (500 MHz, CDCl3) δ 7.33−7.28 (m, 1H),
+7.15−7.08 (m, 2H), 6.95 (m, 1H), 4.94−4.87 (m, 1H), 1.85 (d, J = 3.4
+Hz, 1H), 1.49 (d, J = 6.5 Hz, 3H); 13C{1H} NMR (125 MHz, CDCl3)
+δ 162.9 (d, JC−F = 244.3 Hz), 148.5 (d, JC−F = 6.7 Hz), 129.9 (d, JC−F =
+7.7 Hz), 120.9 (d, JC−F = 2.8 Hz), 114.2 (d, JC−F = 20.8 Hz), 112.3 (d,
+JC−F = 21.8 Hz), 69.7, 25.2; 19F NMR (470 MHz, CDCl3) δ −112.9.
+GC analysis: CP-Chirasil-DEX CB column (25 m × 0.32 mm);
+carrier gas: N2; ﬂow rate 2 mL/min; injector temp = 250 °C; detector
+temp (FID) = 300 °C; column temp: 1 min at 70 °C, heating at 20
+°C/min to 140 °C, keeping at 140 °C for 9 min; tR = 6.26 min, tS =
+6.49 min.
+
+D +49.7 (c 1, CHCl3, 97% ee) (lit.39 [α]20
+
+D +66.4 (c 1, CHCl3, 95% ee) (lit.38 [α]23
+
+(R)-1-(4-Fluorophenyl)ethanol (3c):38 light yellow oil; 93% yield
+(130 mg); [α]26
+D +43.1 (c
+0.73, CHCl3, 92.3% ee); 1H NMR (500 MHz, CDCl3) δ 7.36−7.32
+(m, 2H), 7.02 (t, J = 8.7 Hz, 2H), 4.88 (q, J = 6.3 Hz, 1H), 1.89 (br s,
+1H), 1.47 (d, J = 6.5 Hz, 3H); 13C{1H} NMR (125 MHz, CDCl3) δ
+162.0 (d, JC−F = 244.0 Hz), 141.8 (d, JC−F = 2.6 Hz), 127.0 (d, JC−F =
+7.5 Hz), 115.1 (d, JC−F = 20.9 Hz), 69.6, 25.2; 19F NMR (470 MHz,
+CDCl3) δ −115.3.
+GC analysis: CP-Chirasil-DEX CB column (25 m × 0.32 mm);
+carrier gas: N2; ﬂow rate 2 mL/min; injector temp = 230 °C; detector
+temp (FID) = 280 °C; column temp: 1 min at 70 °C, heating at 20
+°C/min to 130 °C, keeping at 130 °C for 5 min; tR = 7.18 min, tS =
+7.61 min.
+
+D +56.4 (c 1, CHCl3, 95% ee) (lit.40 [α]21
+
+(R)-1-(4-Chlorophenyl)ethanol (3d):40 light yellow oil; 94% yield
+(146 mg); [α]26
+D +41.3 (c
+1.1, Et2O, 91% ee); 1H NMR (500 MHz, CDCl3) δ 7.31 (s, 4H), 4.88
+(q, J = 6.4 Hz, 1H), 1.83 (br s, 1H), 1.47 (d, J = 6.6 Hz, 3H); 13C{1H}
+NMR (125 MHz, CDCl3) δ 144.2, 132.9, 128.5, 126.7, 69.6, 25.2.
+GC analysis: CP-Chirasil-DEX CB column (25 m × 0.32 mm);
+carrier gas: N2; ﬂow rate 2 mL/min; injector temp = 250 °C; detector
+temp (FID) = 300 °C; column temp: 1 min at 70 °C, heating at 20
+°C/min to 140 °C, keeping at 140 °C for 9 min; tR = 10.32 min, tS =
+11.10 min.
+
+(R)-1-(3-Bromophenyl)ethanol (3e):41 yellow oil; 89% yield (178
+D +46.75 (c 1, CHCl3, 89% ee) (lit.41 [α]D +45.0 (c 1,
+mg); [α]26
+CHCl3, 96% ee); 1H NMR (500 MHz, CDCl3) δ 7.52 (s, 1H), 7.39
+(d, J = 7.8 Hz, 1H), 7.27 (d, J = 7.8 Hz, 1H), 7.20 (t, J = 7.9 Hz, 1H),
+4.84 (q, J = 6.3 Hz, 1H), 2.11 (br s, 1H), 1.47 (d, J = 6.4 Hz, 3H);
+13C{1H} NMR (125 MHz, CDCl3) δ 148.1, 130.4, 130.1, 128.5, 124.0,
+122.6, 69.7, 25.2.
+
+D +49.2 (c 1, CHCl3, 96% ee) (lit.42 [α]20
+
+HPLC analysis: Chiralpak IA column, UV detection at 254 nm, ﬂow
+1.0 mL/min, n-hexane/i-PrOH = 96:4, tR = 7.84 min, tS = 8.31 min.
+(R)-1-(4-Bromophenyl)ethanol (3f):42 colorless oil; 94% yield (188
+mg); [α]26
+D +36.0 (c 1.7,
+CH2Cl2, 95% ee); 1H NMR (500 MHz, CDCl3) δ 7.47 (d, J = 8.3 Hz,
+2H), 7.25 (d, J = 8.6 Hz, 2H), 4.86 (q, J = 7.2 Hz, 1H), 1.85 (s, 1H),
+1.47 (d, J = 6.9 Hz, 3H); 13C{1H} NMR (125 MHz, CDCl3) δ 144.8,
+131.6, 127.1, 121.2, 69.8, 25.2.
+GC analysis: CP-Chirasil-DEX CB column (25 m × 0.32 mm);
+carrier gas: N2; 15 psi; injector temp = 250 °C; detector temp (FID) =
+300 °C; column temp: 1 min at 70 °C, heating at 20 °C/min to 170
+°C, keeping at 170 °C for 6 min; tR = 7.06 min, tS = 7.20 min.
+(R)-1-(4-Nitrophenyl)ethanol (3g):38 yellow oil; 90% yield (151
+mg); [α]26
+D +35.1 (c 1.46,
+CHCl3, 88.4% ee); 1H NMR (500 MHz, CDCl3) δ 8.19 (d, J = 8.5 Hz,
+2H), 7.54 (d, J = 8.6 Hz, 2H), 5.06−4.99 (m, 1H), 2.20 (br s, 1H),
+
+D +26.3 (c 1, CHCl3, 87% ee), (lit.38 [α]23
+
+D +52.78 (c 1, CHCl3, 92% ee) (lit.44 [α]20
+
+1.52 (d, J = 7.1 Hz, 3H); 13C{1H} NMR (125 MHz, CDCl3) δ 153.1,
+147.1, 126.1, 123.7, 69.5, 25.5.
+GC analysis: CP-Chirasil-DEX CB column (25 m × 0.32 mm);
+carrier gas: N2; 30 psi; injector temp = 250 °C; detector temp (FID) =
+300 °C; column temp = 170 °C; tR = 3.56 min, tS = 3.88 min.
+(R)-1-(4-(Triﬂuoromethyl)phenyl)ethanol (3h):43 yellow oil; 88%
+D +43.5 (c 1, CHCl3, 95% ee) (lit.43 [α]25
+yield (167 mg); [α]26
+D +35.0
+(c 0.3, CHCl3, 91% ee); 1H NMR (500 MHz, CDCl3) δ 7.60 (d, J =
+8.4 Hz, 2H), 7.48 (d, J = 8.3 Hz, 2H), 4.96 (q, J = 9.8 Hz, 1H), 2.05
+(br s, 1H), 1.50 (d, J = 6.4 Hz, 3H); 13C{1H} NMR (125 MHz,
+CDCl3) δ 149.7, 129.5 (q, JC−F = 32.4 Hz), 124.1 (q, JC−F = 270.4 Hz),
+125.6, 125.3 (d, JC−F = 3.5 Hz), 69.6, 25.1; 19F NMR (470 MHz,
+CDCl3) δ −62.4.
+GC analysis: CP-Chirasil-DEX CB column (25 m × 0.32 mm);
+carrier gas: N2; 7 psi; injector temp = 250 °C; detector temp (FID) =
+300 °C; column temp: 1 min at 70 °C, heating at 20 °C/min to 170
+°C, keeping at 170 °C for 6 min; tR = 6.75 min, tS = 6.91 min.
+(R)-4-(1-Hydroxyethyl)benzonitrile (3i):44 yellow oil; 90% yield
+(133 mg); [α]26
+D +77.1 (c
+0.7, CHCl3, 92% ee); 1H NMR (500 MHz, CDCl3) δ 7.66−7.60 (m,
+2H), 7.49 (d, J = 7.8 Hz, 2H), 5.00−4.94 (m, 1H), 2.18 (br s, 1H),
+1.49 (d, J = 6.6 Hz, 3H); 13C{1H} NMR (125 MHz, CDCl3) δ 151.1,
+132.3, 126.0, 118.8, 111.0, 69.6.
+GC analysis: CP-Chirasil-DEX CB column (25 m × 0.32 mm);
+carrier gas: N2; 30 psi; injector temp = 250 °C; detector temp (FID) =
+300 °C; column temp = 170 °C; tR = 2.14 min, tS = 2.33 min.
+(R)-1-m-Tolylethanol (3j):39 yellow oil; 93% yield (126 mg); [α]26
+D
++56.0 (c 1, CHCl3, 97% ee) (lit.39 [α]20
+D +64.2 (c 1, CHCl3, 97% ee);
+1H NMR (500 MHz, CDCl3) δ 7.26−7.22 (m, 1H), 7.19 (s, 1H),
+7.18−7.14 (d, J = 7.9 Hz, 1H), 7.10−7.07 (d, J = 7.4 Hz, 1H), 4.85 (q,
+J = 6.4 Hz, 1H), 2.36 (s, 3H), 1.86 (br s, 1H), 1.48 (d, J = 6.6 Hz, 3H);
+13C{1H} NMR (125 MHz, CDCl3) δ 145.8, 138.1, 128.4, 128.2, 126.1,
+122.4, 70.4, 25.1, 21.4.
+GC analysis: CP-Chirasil-DEX CB column (25 m × 0.32 mm);
+carrier gas: N2; ﬂow rate 2 mL/min; injector temp = 250 °C; detector
+temp (FID) = 300 °C; column temp: 1 min at 70 °C, heating at 20
+°C/min to 140 °C, keeping at 140 °C for 9 min; tR = 6.88 min, tS =
+7.06 min.
+(R)-1-p-Tolylethanol (3k):38 yellow oil; 91% yield (124 mg); [α]26
+D
++56.0 (c 1, CHCl3, 96% ee) (lit.38 [α]23
+D +52.2 (c 0.96, CHCl3, 93.7%
+ee); 1H NMR (500 MHz, CDCl3) δ 7.28−7.24 (d, J = 7.8 Hz, 2H),
+7.18−7.14 (d, J = 8.2 Hz, 2H), 4.86 (m, 1H), 2.34 (s, 3H), 1.83 (br s,
+1H), 1.47 (d, J = 6.5, 3H); 13C{1H} NMR (125 MHz, CDCl3) δ 142.9,
+137.1, 129.1, 125.3, 70.2, 25.1, 21.1;
+GC analysis: CP-Chirasil-DEX CB column (25 m × 0.32 mm);
+carrier gas: N2; ﬂow rate 2 mL/min; injector temp = 250 °C; detector
+temp (FID) = 300 °C; column temp: 1 min at 70 °C, heating at 20
+°C/min to 140 °C, keeping at 140 °C for 9 min; tR = 6.64 min, tS =
+6.90 min.
+(R)-1-(4-Ethylphenyl)ethanol (3l):45 yellow oil; 90% yield (135
+mg); [α]26
+D +32.6 (c 0.62,
+CHCl3, 97% ee); 1H NMR (500 MHz, CDCl3) δ 7.29 (d, J = 7.7 Hz,
+2H), 7.18 (d, J = 7.7 Hz, 2H), 4.86 (q, J = 7.2 Hz, 1H), 2.64 (q, J = 7.7
+Hz, 2H), 1.85 (d, J = 19.1 Hz, 1H), 1.48 (d, J = 7.0 Hz, 3H), 1.23 (t, J
+= 7.8 Hz, 3H); 13C{1H} NMR (125 MHz, CDCl3) δ 143.5, 143.1,
+128.0, 125.4, 70.3, 28.5, 25.0, 15.6;
+GC analysis: CP-Chirasil-DEX CB column (25 m × 0.32 mm);
+carrier gas: N2; ﬂow rate 2 mL/min; injector temp = 250 °C; detector
+temp (FID) = 300 °C; column temp: 1 min at 70 °C, heating at 20
+°C/min to 140 °C, keeping at 140 °C for 9 min; tR = 8.16 min, tS =
+8.47 min.
+
+D +47.5 (c 1, CHCl3, 97% ee) (lit.45 [α]23
+
+D +47.9 (c 1, CHCl3, 98% ee) (lit.46 [α]20
+
+(R)-1-(4-Propylphenyl)ethanol (3m):46 Yellow oil; 87% yield (143
+mg); [α]26
+D +33.2 (c 2.2,
+MeOH, 93% ee); 1H NMR (500 MHz, CDCl3) δ 7.28 (d, J = 7.6 Hz,
+2H), 7.16 (d, J = 8.1 Hz, 2H), 4.87 (q, J = 6.8 Hz, 1H), 2.57 (t, J = 7.7
+Hz, 2H), 1.79 (br s, 1H), 1.68−1.58 (m, 2H), 1.49 (d, J = 6.1 Hz, 3H),
+0.94 (t, J = 7.3 Hz, 3H); 13C{1H} NMR (125 MHz, CDCl3) δ 143.0,
+142.0, 128.6, 125.3, 70.3, 37.7, 25.0, 24.6, 13.8.
+GC analysis: CP-Chirasil-DEX CB column (25 m × 0.32 mm);
+carrier gas: N2; ﬂow rate 2 mL/min; injector temp = 250 °C; detector
+</para>
+3544
+
+DOI: 10.1021/acs.joc.5b00164
+J. Org. Chem. 2015, 80, 3538−3546
+
+D +51.8 (c 1, CHCl3, 98% ee) (lit.40 [α]25
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+temp (FID) = 300 °C; column temp: 1 min at 70 °C, heating at 20
+°C/min to 140 °C, keeping at 140 °C for 9 min; tR = 10.40 min, tS =
+10.90 min.
+(R)-1-(4-Methoxyphenyl)ethanol (3n):40 yellow oil; 84% yield (127
+mg); [α]26
+D +53.5 (c 1.7,
+CHCl3, 94% ee); 1H NMR (500 MHz, CDCl3) δ 7.31 (d, J = 8.7 Hz,
+2H), 6.90 (d, J = 8.8 Hz, 2H), 4.85 (q, J = 6.5 Hz, 1H), 3.82 (s, 3H),
+2.15 (br s, 1H), 1.49 (d, J = 6.3 Hz, 3H); 13C{1H} NMR (125 MHz,
+CDCl3) δ 158.9, 138.0, 126.6, 113.8, 69.8, 55.2, 24.9;
+GC analysis: CP-Chirasil-DEX CB column (25 m × 0.32 mm);
+carrier gas: N2; ﬂow rate 2 mL/min; injector temp = 250 °C; detector
+temp (FID) = 300 °C; column temp: 1 min at 70 °C, heating at 20
+°C/min to 140 °C, keeping at 140 °C for 9 min; tR = 10.20 min, tS =
+10.60 min.
+(R)-1-(3-Aminophenyl)ethanol (3o):47 brown oil; 80% yield (110
+mg); mp 64−65 °C; [α]26
+D +45.7 (c 1.2, CHCl3, 93% ee) (lit.47 [α]25
+D
++45.6 (c 1.2, CHCl3, 95% ee); 1H NMR (500 MHz, CDCl3) δ 7.11 (t,
+J = 7.8 Hz, 1H), 6.72 (d, J = 7.3 Hz, 1H), 6.66 (s, 1H), 6.56 (d, J = 8.3
+Hz, 1H), 4.75 (q, J = 9.8 Hz, 1H), 3.67 (s, 2H), 2.43 (br s, 1H), 1.43
+(d, J = 6.8 Hz, 3H); 13C{1H} NMR (125 MHz, CDCl3) δ 147.2, 129.4,
+115.6, 114.2, 112.0, 70.4, 25.0.
+
+HPLC analysis: Chiralpak IA column, UV detection at 254 nm, ﬂow
+1.0 mL/min, hexane/EtOH = 90:10, tR = 15.35 min, tS = 16.72 min.
+(R)-1-(Naphthalen-2-yl)ethanol (3p):38 white solid; 92% yield (159
+mg); mp 69−70 °C; [α]26
+D +53.7 (c 1, CHCl3, 92% ee) (lit.38 [α]23
+D
++46.7 (c 1.04, CHCl3, 92% ee); 1H NMR (500 MHz, CDCl3) δ 7.86−
+7.80 (m, 4H), 7.52−7.44 (m, 3H), 5.06 (q, J = 6.9 Hz, 1H), 1.95 (br s,
+1H), 1.58 (d, J = 5.8 Hz, 3H); 13C{1H} NMR (125 MHz, CDCl3) δ
+143.2, 133.3, 132.8, 128.2, 127.9, 127.6, 126.1, 125.7, 123.8, 123.7,
+70.4, 25.1.
+
+D +39.9 (c 1, CHCl3, 98% ee) (lit.38 [α]23
+
+HPLC analysis: Chiralpak IA column, UV detection at 254 nm, ﬂow
+1.0 mL/min, n-hexane/EtOH = 98:2, tR = 14.63 min, tS = 15.61 min.
+(R)-1-(Thiophene-2-yl)ethanol (3q):38 yellow oil; 91% yield (116
+mg); [α]26
+D +20.4 (c 0.56,
+CHCl3, 94.7% ee); 1H NMR (500 MHz, CDCl3) δ 7.23 (dd, J = 1.6
+and 1.5 Hz, 1H), 6.99−6.95 (m, 2H), 5.12 (q, J = 6.4 Hz, 1H), 2.10
+(br s, 1H), 1.60 (d, J = 6.4 Hz, 3H); 13C{1H} NMR (125 MHz,
+CDCl3) δ 149.8, 126.4, 124.1, 123.0, 65.8, 25.0.
+GC analysis: CP-Chirasil-DEX CB column (25 m × 0.32 mm);
+carrier gas: N2; 7 psi; injector temp = 250 °C; detector temp (FID) =
+300 °C; column temp: 1 min at 70 °C, heating at 20 °C/min to 170
+°C, keeping at 170 °C for 6 min; tR = 6.33 min, tS = 6.41 min.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+1H NMR, 13C NMR, and 19F NMR spectra of products; chiral
+GC and HPLC chromatograms of chiral products. This
+material is available free of charge via the Internet at http://
+pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: fengli@njust.edu.cn.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was supported by the National Natural Science
+Foundation of China (No. 21272115).
+
+■ REFERENCES
+(1) For selected reviews, see: (a) Alonso, F.; Beletskaya, I. P.; Yus, M.
+Chem. Rev. 2004, 104, 3079−3159. (b) Beller, M.; Seayad, J.; Tillack,
+Int. Ed. 2004, 43, 3368−3398.
+A.;
+(c) Hintermann, L.; Labonne, A. Synthesis 2007, 1121−1150.
+(d) Brenzovich, W. E. Angew. Chem., Int. Ed. 2012, 51, 8933−8935.
+
+Jiao, H. Angew. Chem.,
+
+Article
+
+(2) (a) Kutscheroff, M. Chem. Ber. 1881, 14, 1540−1542.
+(b) Neumann, B.; Schneider, H. Angew. Chem. 1920, 33, 189−192.
+(c) Thomas, R. J.; Campbell, K. N.; Hennion, G. F. J. Am. Chem. Soc.
+1938, 60, 718−720. (d) Budde, W. L.; Dessy, R. E. J. Am. Chem. Soc.
+1963, 85, 3964−3970. (e) Janout, V.; Regen, S. L. J. Org. Chem. 1982,
+47, 3331−3333.
+(3) (a) Hiscox, W.; Jennings, P. W. Organometallics 1990, 9, 1997−
+1999. (b) Jennings, P. W.; Hartman, J. W.; Hiscox, W. C. Inorg. Chim.
+Acta 1994, 222, 317−322. (c) Francisco, L. W.; Moreno, D. A.;
+Atwood, J. D. Organometallics 2001, 20, 4237−4245.
+(4) (a) Damiano, J. P.; Postel, M. J. Organomet. Chem. 1996, 522,
+303−305. (b) Wu, X. F.; Bezier, D.; Darcel, C. Adv. Synth. Catal. 2009,
+351, 367−370.
+(5) (a) Fukuda, Y.; Shiragami, H.; Utimoto, K.; Nozaki, H. J. Org.
+Chem. 1991, 56, 5816−5819. (b) Xu, C.; Du, W.; Zeng, Y.; Dai, B.;
+Guo, H. Org. Lett. 2014, 16, 948−951.
+(6) Hirabayashi, T.; Okimoto, Y.; Saito, A.; Morita, M.; Sakaguchi, S.;
+Ishii, Y. Tetrahedron 2006, 62, 2231−2234.
+(7) (a) Thuong, M. B. T.; Mann, A.; Wagner, A. Chem. Commun.
+2012, 48, 434−436. (b) Venkateswara, K. T.; Prasad, P. S. S.; Lingaiah,
+N. Green Chem. 2012, 14, 1507−1514.
+(8) (a) Tachinami, T.; Nishimura, T.; Ushimaru, R.; Noyori, R.;
+Naka, H. J. Am. Chem. Soc. 2013, 135, 50−53. (b) Wang, S.; Miao, C.;
+Wang, W.; Lei, Z.; Sun, W. ChemCatChem 2014, 6, 1612−1616.
+(9) (a) Fukuda, Y.; Utimoto, K. J. Org. Chem. 1991, 56, 3729−3731.
+(b) Teles, J. H.; Brode, S.; Chabanas, M. Angew. Chem., Int. Ed. 1998,
+37, 1415−1418. (c) Mizushima, E.; Sato, K.; Hayashi, T.; Tanaka, M.
+Angew. Chem., Int. Ed. 2002, 41, 4563−4565. (d) Casado, R.; Contel,
+M.; Laguna, M.; Romero, P.; Sanz, S. J. Am. Chem. Soc. 2003, 125,
+11925−11935. (e) Zhou, C. Y.; Chan, P. W. H.; Che, C. M. Org. Lett.
+2006, 8, 325−328. (f) Marion, N.; Ramon, R. S.; Nolan, S. P. J. Am.
+Chem. Soc. 2009, 131, 448−449. (g) Leyva, A.; Corma, A. J. Org. Chem.
+2009, 74, 2067−2074. (h) Almassy, A.; Nagy, C. E.; Benyei, A. C.; Joo,
+F. Organometallics 2010, 29, 2484−2490. (i) Hashmi, A. S. K.; Hengst,
+T.; Lothutz, C.; Romingera, F. Adv. Synth. Catal. 2010, 352, 1315−
+1337. (j) Cavarzan, A.; Scarso, A.; Sgarbossa, P.; Strukul, G.; Reek, J.
+N. H. J. Am. Chem. Soc. 2011, 133, 2848−2851. (k) Ghosh, N.; Nayak,
+S.; Sahoo, A. K. J. Org. Chem. 2011, 76, 500−511. (l) Wang, D.; Cai,
+R.; Sharma, S.; Jirak, J.; Thummanapelli, S. K.; Akhmedov, N. G.;
+Zhang, H.; Liu, X.; Petersen, J. L.; Shi, X. J. Am. Chem. Soc. 2012, 134,
+9012−9019. (m) Li, L.; Herzon, S. B. J. Am. Chem. Soc. 2012, 134,
+17376−17379. (n) Dunsford, J. J.; Cavell, K. J.; Kariuki, B. M.
+Organometallics 2012, 31, 4118−4121. (o) Xu, X.; Kim, S. H.; Zhang,
+X.; Das, A. K.; Hirao, H.; Hong, S. H. Organometallics 2013, 32, 164−
+171. (p) Weber, S. G.; Zahner, D.; Rominger, F.; Straub, B. F.
+ChemCatChem. 2013, 5, 2330−2335. (q) Xie, L.; Wu, Y.; Yi, W.; Zhu,
+L.; Xiang, J.; He, W. J. Org. Chem. 2013, 78, 9190−9195. (r) Xie, L.;
+Yuan, R.; Wang, R.; Peng, Z.; Xiang, J.; He, W. Eur. J. Org. Chem. 2014,
+2668−2671. (s) Xu, Y.; Hu, X.; Shao, J.; Yang, G.; Wu, Y.; Zhang, Z.
+Green Chem. 2015, 17, 532−537.
+(10) Mathieu, B. T. T.; Andre, M.; Alain, W. Chem. Commun. 2012,
+48, 434−436.
+(11) (a) Teles, J. H.; Brode, S.; Chabanas, M. Angew. Chem., Int. Ed.
+1998, 37, 1415−1418. (b) Mizushima, E.; Sato, K.; Hayashi, T.;
+Int. Ed. 2002, 41, 4563−4565.
+Tanaka, M. Angew. Chem.,
+(c) Mizushima, E.; Hayashi, T.; Tanaka, M. Org. Lett. 2003, 5,
+3349−3352.
+(12) (a) Gaillard, S.; Bosson, J.; Ramon, R. S.; Nun, P.; Slawin, A. M.
+Z.; Nolan, S. P. Chem.Eur. J. 2010, 16, 13729−13740. (b) Gomez-
+Suarez, A.; Oonishi, Y.; Meiries, S.; Nolan, S. P. Organometallics 2013,
+32, 1106−1111.
+(13) Lavallo, V.; Frey, G. D.; Kousar, S.; Donnadieu, B.; Bertrand, G.
+Proc. Nat. Acad. Sci. U.S.A. 2007, 104, 13569−13573.
+(14) Guerinot, A.; Fang, W.; Sircoglou, M.; Bour, C.; Bezzenine-
+Lafollee, S.; Gandon, V. Angew. Chem., Int. Ed. 2013, 52, 5848−5852.
+(15) Han, J.; Shimizu, N.; Lu, Z.; Amii, H.; Hammond, G. B.; Xu, B.
+Org. Lett. 2014, 16, 3500−3503.
+(16) (a) Li, F.; Shan, H.; Chen, L.; Kang, Q.; Zou, P. Chem. Commun.
+2012, 48, 603−605. (b) Li, F.; Kang, Q.; Shan, H.; Chen, L.; Xie, J.
+
+3545
+
+DOI: 10.1021/acs.joc.5b00164
+J. Org. Chem. 2015, 80, 3538−3546
+
+The Journal of Organic Chemistry
+Eur. J. Org. Chem. 2012, 5085−5092. (c) Li, F.; Sun, C.; Shan, H.; Zou,
+X.; Xie, J. ChemCatChem 2013, 5, 1543−1552. (d) Li, F.; Qu, P.; Ma,
+J.; Zou, X.; Sun, C. ChemCatChem 2013, 5, 2178−2182. (e) Sun, C.;
+Zou, X.; Li, F. Chem.Eur. J. 2013, 19, 14030−14033. (f) Qu, P.; Sun,
+C.; Ma, J.; Li, F. Adv. Synth. Catal. 2014, 356, 447−459. (g) Wang, N.;
+Zou, X.; Ma, J.; Li, F. Chem. Commun. 2014, 50, 8303−8305. (h) Li,
+F.; Sun, C.; Wang, N. J. Org. Chem. 2014, 79, 8031−8039. (i) Li, F.;
+Ma, J.; Wang, N. J. Org. Chem. 2014, 79, 10447−10455.
+(17) (a) Ma, J.; Wang, N.; Li, F. Asian J. Org. Chem. 2014, 3, 940−
+947. (b) Li, F.; Ma, J.; Lu, L.; Bao, X.; Tang, W. Catal. Sci. Technol.
+2015, 5, 1953−1960.
+(18) As one of reviewers suggested, the hydration of 1a is carrried
+out in a polytetraﬂuoroethylene (PTFE) reactor. It is found that the
+reaction rate is not aﬀected. Consequently, glassware surface is not the
+primary cause of the dissociation of [(IPr)AuCl].
+(19) For selected reviews, see: (a) Tietze, L. F. Chem. Rev. 1996, 96,
+115−136. (b) Nicolaou, K. C.; Edmonds, D. J.; Bulger, P. G. Angew.
+Chem., Int. Ed. 2006, 45, 7134−7186. (c) Zhou, J. Chem.Asian J.
+2010, 5, 422−434. (d) Yu, J.; Shi, F.; Gong, L. Z. Acc. Chem. Res. 2011,
+44, 1156−1171. (e) Lu, Q. L.; Chen, J. R.; Xiao, W. J. Acc. Chem. Res.
+2012, 45, 1278−1293. (f) Pellissier, H. Chem. Rev. 2013, 113, 442−
+524.
+(20) For selected reviews on asymmetric transfer hydrogenation of
+ketones using Noyori−Ikariya catalysts,
+see: (a) Noyori, R.;
+Hashiguchi, S. Acc. Chem. Res. 1997, 30, 97−102. (b) Palmer, M. J.;
+Wills, M. Tetrahedron: Asymmetry 1999, 10, 2045. (c) Noyori, R.;
+Yamakawa, M.; Hashiguchi, S. J. Org. Chem. 2001, 66, 7931−7944.
+(d) Ikariya, T.; Murata, K.; Noyori, R. Org. Biomol. Chem. 2006, 4,
+393−406. (e) Gladiali, S.; Alberico, E. Chem. Soc. Rev. 2006, 35, 226−
+236. (f) Samec, J. S. M.; Backvall, J. E.; Andersson, P. G.; Brandt, P.
+Chem. Soc. Rev. 2006, 35, 237−248. (g) Ikariya, T.; Blacker, A. J. Acc.
+Chem. Res. 2007, 40, 1300−1308. (h) Chao, W.; Xiaofeng, W.;
+Jianliang, X. Chem.Asian J. 2008, 3, 1750−1770.
+(21) Frémont, P.; Scott, N. M.; Stevens, E. D.; Nolan, S. P.
+Organometallics 2005, 24, 2411−2418.
+(22) Nolan and co-workers developed an improved protocol for one-
+step synthesis of [(NHC)AuX] (X = Cl, Br, I) complexes using
+diﬀerent NHC·HCl salts and [Au(DMS)Cl] in the presence of K2CO3
+under mild condtions (60 °C); see: Collado, A.; Gomez-Suarez, A.;
+Martin, A. R.; Slawin, A. M. Z.; Nolan, S. P. Chem. Commun. 2013, 49,
+5541−5543.
+(23) Haack, K. J.; Hashiguchi, S.; Fujii, A.; Ikariya, T.; Noyori, R.
+Angew. Chem., Int. Ed. 1997, 36, 285−288.
+(24) Mashima, K.; Abe, T.; Tani, K. Chem. Lett. 1998, 27, 1199−
+1200.
+(25) Mao, J.; Baker, D. C. Org. Lett. 1999, 1, 841−843.
+(26) Marion, N.; Ramon, R. S.; Nolan, S. P. J. Am. Chem. Soc. 2009,
+131, 448−449.
+(27) Chorghade, R.; Battilocchio, C.; Hawkins, J. M.; Ley, S. V. Org.
+Lett. 2013, 15, 5698−5701.
+(28) Genna, D. T.; Posoner, G. H. Org. Lett. 2011, 13, 5358−5361.
+(29) Moriyama, K.; Takemura, M.; Togo, H. J. Org. Chem. 2014, 79,
+6094−6104.
+(30) Zhu, F. X.; Wang, W.; Li, H. X. J. Am. Chem. Soc. 2011, 133,
+11632−11640.
+(31) Gao, Q.; Li, S. Y.; Pan, Y. M.; Xu, Y. L.; Wang, H. S. Tetrahedron
+2013, 69, 3775−3781.
+(32) Wang, W. L.; Zheng, A. M.; Zhao, P. Q.; Xia, C. G.; Li, F. W.
+ACS Catal. 2014, 4, 321−327.
+(33) Mo, J.; Xu, L.; Xiao, J. J. Am. Chem. Soc. 2005, 127, 751−760.
+(34) Wommack, A. J.; Moebius, D. C.; Travis, A. L.; Kingsbury, J. S.
+Org. Lett. 2009, 11, 3202−3205.
+(35) Takale, B. S.; Telvekar, V. N. Chem. Lett. 2010, 39, 1279−1280.
+(36) Helfer, D. S.; Phaho, D. S.; Atwood, J. D. Organometallics 2006,
+25, 410−415.
+(37) Alvarez-Manzaneda, E.; Chahboun, R.; Alvarez, E.; Alvarez-
+Manzaneda, R.; Muñoz, P. E.; Jimenez, F.; Bouanou, H. Tetrahedron
+2011, 67, 8910−8917.
+
+Article
+
+(38) Ma, Y. P.; Liu, H.; Chen, L.; Cui, X.; Zhu, J.; Deng, J. G. Org.
+Lett. 2003, 5, 2103−2106.
+(39) Cheermala, M. N.; Gayral, M.; Brown, J. M.; Rossen, K.;
+Knochel, P. Synthesis 2007, 24, 3877−3885.
+(40) Cheung, F. K.; Lin, C.; Minissi, F.; Criville, A. L.; Graham, M.
+A.; Fox, D. J.; Wills, M. Org. Lett. 2007, 9, 4659−4662.
+(41) Cozzi, P. G.; Kotrusz, P. J. Am. Chem. Soc. 2006, 128, 4940−
+4941.
+(42) Du, D. M.; Fang, T.; Xu, J. X.; Zhang, S. W. Org. Lett. 2006, 8,
+1327−1330.
+(43) Johnson, T. C.; Totty, W. G.; Wills, M. Org. Lett. 2012, 14,
+5230−5233.
+(44) Kunisu, T.; Oguma, T.; Katsuki, T. J. Am. Chem. Soc. 2011, 133,
+12937−12939.
+(45) Wei, S. M.; Du, H. F. J. Am. Chem. Soc. 2014, 136, 12261−
+12264.
+(46) Xu, J.; Su, X.; Zhang, Q. Tetrahedron: Asymmetry 2003, 14,
+1781−1786.
+(47) Ponzo, V. L.; Kaufman, T. S. Synlett 2002, 1128−1130.
+
+3546
+
+DOI: 10.1021/acs.joc.5b00164
+J. Org. Chem. 2015, 80, 3538−3546
+
+

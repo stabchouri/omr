@@ -1,0 +1,933 @@
+Note
+
+pubs.acs.org/joc
+
+Copper-Catalyzed Radical Methylation/C−H Amination/Oxidation
+Cascade for the Synthesis of Quinazolinones
+Yajie Bao, Yizhe Yan, Kun Xu, Jihu Su, Zhenggen Zha, and Zhiyong Wang*
+Hefei National Laboratory for Physical Sciences at Microscale, CAS Key Laboratory of Soft Matter Chemistry, and Department of
+Chemistry & Collaborative Innovation Center of Suzhou Nano Science and Technology, University of Science and Technology of
+China, Hefei, Anhui 230026, People’s Republic of China
+*S Supporting Information
+
+ABSTRACT: A copper-catalyzed radical methylation/sp3 C−
+H amination/oxidation reaction for the facile synthesis of
+quinazolinone was developed. In this cascade reaction, dicumyl
+peroxide acts not only as a useful oxidant but also as an
+eﬃcient methyl source. Notably, a methyl radical, generated
+from peroxide, was conﬁrmed by electron paramagnetic
+resonance for the ﬁrst time.
+
+T he use of peroxides as methylation reagents has gained
+
+increasing attention in recent years. In 2008, Li developed
+a novel method for the direct methylation of aryl C−H bonds.
+In this reaction, dicumyl peroxide (DCP) was ﬁrst used as both
+methylating reagents and hydrogen acceptor (Scheme 1a).1a
+
+Scheme 1. Radical Methylation Reaction
+
+Recently, a copper-catalyzed N-methylation of amides and O-
+methylation of carboxylic acids was developed with DCP as the
+methylating reagent by Chen’s group (Scheme 1b).1b In the
+same year, Mao reported the copper-catalyzed methyl
+esteriﬁcation of benzylic alcohols, aldehydes, and acids using
+tert-butyl hydroperoxide (TBHP) as the methylating reagent
+(Scheme 1b).1c Very recently, Cheng and Li, respectively,
+reported the iron-catalyzed radical arylmethylation of activated
+alkenes using di-tert-butylperoxide (DTBP) or DCP as the
+methyl source,
+leading to the biologically active product 3-
+ethyl-3-substituted indolin-2-one (Scheme 1c).1d,e In light of
+these results above, we reasoned that peroxides could be used
+as a methyl source for
+the construction of other useful
+compounds.
+
+On the other hand,
+
+transition-metal-catalyzed oxidative
+amination of the sp3 C−H bond has emerged as a powerful
+and versatile method to form C−N bonds for its straightfor-
+ward and atom-economical advantages, avoiding tedious
+prefunctionalized processes.2 In particular, copper as an
+inexpensive and less toxic metal catalyst has been widely used
+to catalyze the sp3 C−H amination reaction.3 Our group has
+also been focused on developing sp3 C−H amination for the
+synthesis of heterocycles.4 Notably, quinazolinone as an
+important structural unit has been widely found in many
+natural products and pharmaceuticals.5 Many great eﬀorts have
+been made toward their construction starting from a variety of
+substrates,6 among which 2-aminobenzamide is probably the
+most typical one. Herein, we demonstrated a facile method for
+the synthesis of N-substituted quinazolinones starting from
+anthranilamides using DCP as the methyl source (Scheme 1d).
+This reaction involved a tandem N-methylation/sp3 C−H
+amination/oxidation process in the presence of a copper
+catalyst.
+<para sub=“opt”>
+Initially, we began our study with the reaction of 1 equiv of 2-
+amino-N-phenylbenzanilide (1a) and 3 equiv of DCP as the
+·H2O as the
+oxidant in the presence of 20 mol % of Cu(OAc)2
+catalyst. When the reaction mixture was stirred in 1 mL of PhCl
+at 120 °C for 10 h under air, 3-phenyl-4(3H)-quinazolinone
+(2a) was obtained in 20% yield (Table 1, entry 1). To improve
+the reaction yield, 2 equiv of base was employed. To our
+delight, imidazole gave the best result with 65% yield (Table 1,
+entries 2−6). Besides, reducing the volume of solvent from 1 to
+0.5 mL obviously increased the yield to 82% (Table 1, entry 7).
+In the absence of copper salt, the corresponding product 2a was
+obtained in 50% yield, while reducing the amount of
+·H2O to 10 mol % also decreased the yield, which
+Cu(OAc)2
+showed that copper catalysts played an important role in this
+</para>
+Received:
+Published: April 7, 2015
+
+January 27, 2015
+
+© 2015 American Chemical Society
+
+4736
+
+DOI: 10.1021/acs.joc.5b00191
+J. Org. Chem. 2015, 80, 4736−4742
+
+The Journal of Organic Chemistry
+Table 1. Optimization of Reaction Conditionsa
+
+Table 2. Synthesis of Various Quinazolinonesa
+
+Note
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+
+catalyst
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+
+·H2O
+·H2O
+·H2O
+·H2O
+·H2O
+·H2O
+·H2O
+
+Cu(OAc)2
+CuCl
+Cu(OTf)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+
+·H2O
+
+·H2O
+·H2O
+·H2O
+·H2O
+·H2O
+·H2O
+·H2O
+·H2O
+
+base
+
+imidazole
+NEt3
+DBU
+pyridine
+DMAP
+imidazole
+imidazole
+imidazole
+imidazole
+imidazole
+imidazole
+imidazole
+imidazole
+imidazole
+imidazole
+imidazole
+imidazole
+imidazole
+
+peroxide T (°C)
+120
+DCP
+120
+DCP
+120
+DCP
+120
+DCP
+120
+DCP
+DCP
+120
+120
+DCP
+120
+DCP
+120
+DCP
+120
+DCP
+DCP
+120
+120
+TBHP
+120
+TBPB
+120
+DTBP
+DCP
+110
+130
+DCP
+120
+DCP
+120
+DCP
+DCP
+120
+
+yieldb (%)
+20c
+65c
+25c
+28c
+35c
+50c
+82 (74)d
+50
+74e
+70
+54
+20
+nd
+40
+70
+72
+69f
+56g
+79h
+
+aReaction conditions: 1a (0.2 mmol), peroxide (0.6 mmol), catalyst
+(0.04 mmol), base (0.4 mmol), PhCl (0.5 mL), 10 h. bIsolated yield.
+cPhCl (1.0 mL). dThe data in parentheses are the result when 1a was
+·
+0.5 mmol and the reaction time was 24 h. e10 mol % of Cu(OAc)2
+H2O was used. fUnder N2. gDCP (1 equiv) was used. hDCP (2 equiv)
+was used (NEt3 = triethylamine, DBU = 1,8-diaza-7-bicyclo[5.4.0]-
+undecene, DMAP = 4-(N,N-dimethylamino)pyridine, TBHP = tert-
+butyl hydroperoxide (70% in aqueous), TBPB = benzoyl tert-butyl
+peroxide, DTBP = di-tert-butylperoxide, nd = not detected).
+<para sub=“opt”>
+transformation (Table 1, entries 8 and 9). Other copper
+catalysts such as CuCl and Cu(OTf)2 gave lower yields (Table
+1, entries 10 and 11). Subsequently, various oxidants such as
+TBHP, benzoyl tert-butyl peroxide (TBPB), and DTBP were
+also examined but failed to give better results (Table 1, entries
+12−14). After a brief survey of reaction temperature, we found
+that the optimal reaction temperature was 120 °C (Table 1,
+entries 15 and 16). Considering the atom-economy synthesis,
+we reduced the amount of DCP to 2.0 and 1.0 equiv, and lower
+reaction yields were observed (Table 1, entries 18 and 19).
+Thus, the optimal reaction conditions were determined as
+described in entry 7.
+</para>
+<para sub="scope">
+this protocol,
+
+To examine the substrate scope of
+
+the
+optimized reaction conditions were then applied to the
+synthesis of a variety of quinazolinones (Table 2). First,
+when R1 was an aromatic substituent,
+the corresponding
+products (2aa−oa) were obtained in moderate to good yields.
+It
+is noted that o-aminobenzanilide bearing electron-with-
+drawing groups (4-CF3, 4-Cl, or 4-F) on the phenyl ring of R1
+gave the desired products in yields higher than those of
+electron-donating groups (4-CH3, 4-OCH3, 4-n-Bu, or 4-t-Bu)
+on the phenyl ring. Similarly, the eﬀect of steric hindrance on
+the phenyl ring of R1 had little inﬂuence on the reaction.
+Subsequently, substrates with aliphatic substituents, such as
+isopropyl, n-butyl, and cyclohexyl (2qa−ta), can be
+benzyl,
+employed in this reaction to give the corresponding products
+smoothly in spite of slightly lower yields. Finally, o-amino-
+</para>
+·
+aReaction conditions: 1a (0.2 mmol), DCP (0.6 mmol), Cu(OAc)2
+H2O (0.04 mmol), imidazole (0.4 mmol), PhCl (0.5 mL), 120 °C, 10
+h. Isolated yield.
+<para sub="scope">
+benzanilides with various R2 substitutes were also employed in
+this reaction, giving the desired products 2ab−ag in moderate
+yields.
+</para>
+<para sub="scope">
+To gain an insight into the reaction mechanism, the active
+intermediates were studied (Scheme 2). First, we observed that
+the reaction was obviously inhibited in the presence of 3.0
+equiv of the radical scavenger, 2,2,6,6-tetramethyl-1-piperidiny-
+trapping product 3 was also
+loxy (TEMPO). The radical
+detected by GC-MS (see Supporting Information for details).
+The methyl radical was further trapped by 5,5-dimethyl-1-
+proline-N-oxide (DMPO) in the electron paramagnetic
+resonance (EPR) experiments.7 In Figure 1, EPR spectra of
+the signal a, that is, the DMPO−CH3 adduct radical, was
+identiﬁed by the characteristic hyperﬁne constants for the
+nitrogen and proton A14N = 15.6 G and A1H = 23.2 G,
+respectively. Another signal b was assigned to oxidized DMPO
+with an A14N = 14.9 G for the nitrogen, which was possibly
+oxidized by DCP, although the precise mechanism was not
+clear. This observation implied that the reaction presumably
+involved a free methyl radical.
+</para>
+<para sub="scope">
+Moreover, the possible intermediates of this reaction were
+also investigated. When 2-(methylamino)-N-phenylbenzamide
+4 and 2-amino-N-methyl-N-phenylbenzamide 5 were carried
+out under the standard reaction conditions, the desired product
+2a was obtained in 50 and 15% yield, respectively. These results
+indicated that both 4 and 5 are intermediates, and compound 4
+may be the major intermediate.
+</para>
+<para sub=“ques”>
+On the basis of the results above and previous reports,1b a
+plausible mechanism is proposed (Scheme 3). Initially, the
+thermal cleavage of DCP produces a tert-butoxy radical, which
+is converted to a methyl radical by the loss of 1 equiv of
+</para>
+4737
+
+DOI: 10.1021/acs.joc.5b00191
+J. Org. Chem. 2015, 80, 4736−4742
+
+The Journal of Organic Chemistry
+
+Scheme 2. Control Experiments
+
+Note
+<para sub=“ques”>
+the nucleophilic attack of 1a to the methyl cation. The
+intermediate 4 then generates radical A1 via a SET process in
+the presence of Cu2+. Then intermediate B1 is formed by
+from A1. B1 can be further
+removing a hydrogen radical
+subjected to intramolecular nucleophilic attack to give the
+amination product C. Finally, the further oxidation of C gives
+the quinazolinone 2a. Meanwhile, the product 2a is probably
+generated from 5 via a minor pathway. In the entire pathway,
+imidazole is used as base to accept hydrogen.
+</para>
+In summary, we have developed a facile method for the
+synthesis of quinazolinones from anthranilamides. The reaction
+undergoes a copper-catalyzed tandem radical methylation/sp3
+C−H amination/oxidation pathway. It is noted that DCP was
+not only an oxidant but also an eﬃcient methylation reagent.
+Meanwhile, this reaction has wide substrate scope and good
+functional group tolerance, which represents a new avenue for
+practical multiple C−N bond formations. Further investigation
+to synthesize other heterocycles by this method is currently in
+progress.
+
+Figure 1. EPR spectra (X band, 9.07 GHz, room temperature) for
+reaction mixtures in the presence of the radical trapper DMPO (0.5
+mol/L). In the spectra, a is assigned to the DMPO−CH3 radical, while
+b is assigned to oxidized DMPOX (Sim = simulation, Exp =
+experiment).
+<para sub=“ques”>
+is transformed into a
+acetophenone. Then methyl radical
+methyl cation via a single electron transfer (SET) process in the
+presence of Cu2+. The intermediate 4 or 5 can be formed via
+</para>
+Scheme 3. Proposed Mechanism
+
+4738
+
+DOI: 10.1021/acs.joc.5b00191
+J. Org. Chem. 2015, 80, 4736−4742
+
+The Journal of Organic Chemistry
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Information. Unless otherwise indicated, all commercial
+reagents and solvents were used without additional puriﬁcation. 1H
+NMR and 13C NMR used TMS as an internal reference (1H NMR 400
+MHz, 13C NMR 100 MHz).
+
+General Procedure for the Synthesis of Quinazolinones. 2-
+Amino-N-phenylbenzanilide 1a (0.2 mmol, 42.4 mg), DCP (0.6 mmol,
+·H2O (0.04 mmol, 8 mg), and imidazole (0.4
+162 mg), Cu(OAc)2
+mmol, 27.2 mg) in PhCl (0.5 mL) were heated at 120 °C for 10 h in
+air. The completion of the reaction was monitored by thin layer
+chromatography and puriﬁed by column chromatography over silica
+gel to give the pure product 2a as an orange solid (36 mg, 82% yield).
+Preparation of Substrates. Synthesis of 1a, 1aa−fa, and 1ha−
+oa. Isatoic anhydride (815 mg, 5 mmol) was dissolved in EtOH (10
+mL) with aniline (916 μL, 5 mmol) and I2 (127 mg, 0.5 mmol). The
+mixture was stirred under reﬂux in air overnight. Then the reaction
+mixture was concentrated in vacuo, washed with EtOAc and Na2S2O3
+saturated solution three times, and the organic layer washed with brine
+and dried over anhydrous Na2SO4. The organic phase was
+concentrated in vacuum and puriﬁed by chromatographic column on
+silica gel, giving 2-amino-N-phenylbenzamide (1a) as a light yellow
+solid (715 mg, yield 67%).8
+1aa−fa and 1ha−oa were synthesized according to the procedure
+</para>
+Note
+<para sub=“exp”>
+times, washed with brine, and dried over anhydrous Na2SO4. The
+organic phase was concentrated in vacuum and puriﬁed by a
+chromatographic column on silica gel, giving 2-amino-5-methyl-N-
+phenylbenzamide (1ab) as a light yellow solid (780 mg, yield 69%).8
+
+1ac−ag were synthesized according to the procedure for 1ab.
+Further Investigation of the Mechanism. Experimental Details
+for the Capture of a Radical. A 10 mL reaction tube was equipped
+with a magnetic stirrer, then 2-amino-N-phenylbenzamide (1a) (0.2
+·H2O (0.04
+mmol, 42.4 mg), DCP (0.6 mmol, 162 mg), Cu(OAc)2
+mmol, 8 mg), and imidazole (0.4 mmol, 27.2 mg) in mesitylene (0.5
+mL) were heated at 120 °C for 1 h in air. A 50 μL solution was taken
+out into a small tube and mixed well with 0.3 mL of DMPO aqueous
+solution. This mixture was quick-freezed with liquid nitrogen and
+analyzed by EPR. The EPR measurements were performed at room
+temperature.
+
+Intermediate radical 1 trapped by DMPO was characterized by the
+hyperﬁne coupling. The hyperﬁne constants for the nitrogen and
+proton in a were A14N = 15.6 G and A1H = 23.2 G, respectively, and
+DMPO can be readily oxidized by DCP. The oxidized DMPO had an
+A14N = 14.9 G for the nitrogen (Scheme 4).
+</para>
+Scheme 4. Reaction of DMPO
+<para sub=“exp”>
+for 1a.
+
+Synthesis of 1ga and 1pa. o-Nitrobenzoic acid (835 mg, 5 mmol)
+was dissolved in dry DCM (5 mL) under N2. After being cooled to 0
+°C, thionyl chloride (726 μL, 10 mmol) with DCM (5 mL) solution
+was added slowly. The mixture was then allowed to warm to 40 °C for
+3−6 h. Subsequently, the reaction mixture was concentrated in vacuo
+to leave the crude product as a light yellow oil.4e
+
+o-Nitrobenzoyl chloride (5 mmol) in CHCl3 was treated with 2-
+triﬂuoromethyl phenylamine (628 μL, 5 mmol) under N2 atmosphere
+at reﬂux for 3 h. Upon being cooled, the reaction mixture was diluted
+with CHCl3 and washed consecutively with aq 1 M HCl and saturated
+NaHCO3 solution. The organic layer was dried over anhydrous
+Na2SO4 and concentrated under reduced pressure. The mixture was
+used for next step without further puriﬁcation.9
+
+Eight drops of concentrated HCl were added to the solution of N-
+(2-triﬂuoromethylphenyl)-2-nitrobenzamide (5 mmol) in EtOH (16
+mL) and water (4 mL) with iron powder (1.12 g, 20 mmol). The
+reaction was reﬂuxed at 80 °C for 2 h, ﬁltrated through silica gel, and
+the ﬁltrate was concentrated under reduced pressure and then washed
+with EtOAc and saturated NaHCO3 solution and brine. The organic
+layer was dried over anhydrous Na2SO4, concentrated in vacuum
+under reduced pressure, and puriﬁed by chromatographic column on
+silica gel, giving N-(2-triﬂuoromethylphenyl)-2-aminobenzamide
+(1ga) as a light yellow solid (642 mg, the total yield of three steps
+was 46%).4e
+
+1pa was synthesized according to the procedure for 1ga.
+Synthesis of 1qa−1ta. Isatoic anhydride (815 mg, 5 mmol) in
+DMF was treated with benzylamine (547 μL, 5 mmol) at 50−60 °C
+for 1 h. After the completion, the mixture was washed with EtOAc and
+H2O. The organic layer was dried over anhydrous Na2SO4,
+concentrated in vacuum under reduced pressure, and puriﬁed by
+chromatographic column on silica gel, giving 2-amino-N-
+(phenylmethyl)benzamide (1qa) as a white solid (1100 mg, yield
+98%).10
+
+1ra−1ta were synthesized according to the procedure for 1qa.
+Synthesis of 1ab−1ag. CrO3 (833 mg, 8.33 mmol) was added
+portionwise to a hot (90 °C) suspension of the 5-methylisatin (806
+mg, 5 mmol) in glacial AcOH (4 mL) and Ac2O (4 mL). The mixture
+was heated at 90 °C for 2 h. After being cooled at room temperature,
+the suspension was diluted with water (50 mL) and the solid collected
+and abundantly washed with H2O. The obtained mixture was used for
+next step without further puriﬁcation (796 mg, yield 90%).11
+
+The mixture was dissolved in EtOH (10 mL) with aniline (916 μL,
+5 mmol) and I2 (127 mg, 0.5 mmol). The mixture was stirred under
+reﬂux in air overnight. Then the reaction mixture was concentrated in
+vacuo, washed with EtOAc and saturated Na2S2O3 solution three
+
+Characterization Data for the Products. 3-Phenyl-4(3H)-
+Quinazolinone (2a):6b Synthesized according to a typical procedure
+and puriﬁed by column chromatography (petroleum ether/ethyl
+acetate = 3:1) to give a light yellow solid (36 mg, 82%); mp 136−137
+°C; 1H NMR (400 MHz, CDCl3) δ (ppm) 8.39−8.36 (d, J = 12 Hz, 1
+H), 8.14 (s, 1 H), 7.83−7.76 (m, 2H), 7.58−7.42 (m, 6H); 13C NMR
+(100 MHz, CDCl3) δ (ppm) 160.8, 147.9, 146.1, 137.5, 134.6, 129.7,
+129.2, 127.7, 127.6, 127.2, 127.2, 122.4.
+
+3-(2-Methylphenyl)-4(3H)-Quinazolinone (2aa):12 Synthesized
+according to a typical procedure and puriﬁed by column
+chromatography (petroleum ether/ethyl acetate = 3:1) to give a
+light red solid (35 mg, 75%); mp 136−137 °C; 1H NMR (400 MHz,
+CDCl3) δ (ppm) 8.38−8.37 (d, J = 7.8 Hz, 1H), 8.00 (s, 1 H), 7.82−
+7.78 (m, 2H), 7.58−7.53 (m, 1H), 7.42−7.36 (m, 3H), 7.26−7.24 (d, J
+= 7.3 Hz, 1H), 2.20 (s, 3H); 13C NMR (100 MHz, CDCl3) δ (ppm)
+160.5, 148.1, 146.4, 136.7, 135.9, 134.6, 131.4, 129.8, 127.9, 127.6,
+127.6, 127.4, 127.2, 122.4, 17.8.
+
+3-(3-Methylphenyl)-4(3H)-Quinazolinone (2ba):12 Synthesized
+according to a typical procedure and puriﬁed by column
+chromatography (petroleum ether/ethyl acetate = 3:1) to give a
+light red solid (29 mg, 61%); mp 136−137 °C; 1H NMR (400 MHz,
+CDCl3) δ (ppm) 8.37−8.35 (d, J = 8.4 Hz, 1H), 8.15 (s, 1H), 7.80−
+7.77 (m, 2H), 7.57−7.53 (m, 1H), 7.45−7.41 (m, 1H), 7.31−7.29 (d, J
+= 7.6 Hz, 1H), 7.23−7.20 (m, 2H), 2.43 (s, 3H); 13C NMR (100
+MHz, CDCl3) δ (ppm) 160.7, 147.5, 146.3, 139.9, 137.3, 134.7, 130.0,
+129.5, 127.7, 127.6, 127.3, 127.2, 124.0, 122.3, 21.4.
+
+3-(4-Methylphenyl)-4(3H)-Quinazolinone (2ca):6b Synthesized
+according to a typical procedure and puriﬁed by column
+chromatography (petroleum ether/ethyl acetate = 3:1) to give a
+light red solid (31 mg, 65%); mp 150−151 °C; 1H NMR (400 MHz,
+CDCl3) δ (ppm) 8.36−8.34 (d, J = 7.8 Hz, 1H), 8.14 (s, 1H), 7.80−
+7.76 (m, 2H), 7.56−7.52 (m, 1H), 7.35−7.28 (m, 4H), 2.43 (s, 3H);
+13C NMR (100 MHz, CDCl3) δ (ppm) 160.8, 147.5, 146.4, 139.3,
+134.8, 134.6, 130.3, 127.7, 127.4, 127.2, 126.7, 122.3, 21.2.
+
+3-(2-Methoxyphenyl)-4(3H)-Quinazolinone (2da):12 Synthesized
+according to a typical procedure and puriﬁed by column
+chromatography (petroleum ether/ethyl acetate = 3:1) to give red
+</para>
+4739
+
+DOI: 10.1021/acs.joc.5b00191
+J. Org. Chem. 2015, 80, 4736−4742
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+solid (30 mg, 60%); mp 156−157 °C; 1H NMR (400 MHz, CDCl3) δ
+(ppm) 8.37−8.35 (d, J = 8.5 Hz, 1H), 7.98 (s, 1H), 7.79−7.77 (m,
+2H), 7.54−7.45 (m, 2H), 7.35−7.33 (dd, J1 = 7.6 Hz, J2 = 1.5 Hz, 1H),
+7.12−7.07 (m, 2H), 3.80 (s, 3H); 13C NMR (100 MHz, CDCl3) δ
+(ppm) 160.7, 154.7, 148.0, 147.2, 134.4, 130.9, 129.1, 127.5, 127.3,
+127.2, 126.0, 122.7, 121.0, 112.3, 55.8.
+
+3-(3-Methoxyphenyl)-4(3H)-Quinazolinone (2ea):12 Synthesized
+according to a typical procedure and puriﬁed by column
+chromatography (petroleum ether/ethyl acetate = 3:1) to give a
+white solid (35 mg, 70%); mp 164−166 °C; 1H NMR (400 MHz,
+CDCl3) δ (ppm) 8.37−8.35 (d, J = 7.8 Hz, 1H), 8.12 (s, 1H), 7.80−
+7.75 (m, 2H), 7.56−7.52 (m, 1H), 7.46−7.42 (m, 1H), 7.03−6.97 (m,
+3H), 3.84 (s, 3H); 13C NMR (100 MHz, CDCl3) δ (ppm) 160.7,
+160.4, 147.9, 146.1, 138.5, 134.6, 130.4, 127.7, 127.6, 127.2, 122.4,
+119.1, 115.1, 112.9, 55.6.
+
+3-(4-Methoxyphenyl)-4(3H)-Quinazolinone (2fa):6b Synthesized
+according to a typical procedure and puriﬁed by column
+chromatography (petroleum ether/ethyl acetate = 3:1) to give a
+light yellow solid (33 mg, 66%); mp 209−210 °C; 1H NMR (400
+MHz, CDCl3) δ (ppm) 8.35−8.33 (d, J = 8.0 Hz, 1H), 8.11 (s, 1H),
+7.80−7.74 (m, 2H), 7.55−7.51 (m, 1H), 7.34−7.32 (d, J = 8.7 Hz,
+2H), 7.04−7.02 (d, J = 8.8 Hz, 2H), 3.86 (s, 3H); 13C NMR (100
+MHz, CDCl3) δ (ppm) 161.0, 159.9, 147.9, 146.5, 134.5, 130.2, 128.2,
+127.6, 127.5, 127.1, 122.4, 114.8, 55.6.
+
+3-[2-(Triﬂuoromethyl)phenyl]-4(3H)-Quinazolinone (2ga): Syn-
+thesized according to a typical procedure and puriﬁed by column
+chromatography (petroleum ether/ethyl acetate = 3:1) to give a light
+yellow solid (37 mg, 64%); mp 157−158 °C; 1H NMR (400 MHz,
+CDCl3) δ (ppm) 8.36−8.34 (d, J = 7.8 Hz, 1H), 7.98 (s, 1H), 7.90−
+7.88 (m, 1H), 7.85−7.75 (m, 3H), 7.70−7.66 (m, 1H), 7.59−7.55 (m,
+1H), 7.48−7.46 (d, J = 7.7 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ
+(ppm) 160.9, 147.7, 145.6, 135.2, 134.9, 133.5, 131.0, 130.3, 128.6 (q,
+J = 31 Hz), 127.9, 127.7 (q, J = 4.4 Hz), 127.7, 127.2, 122.8 (q, J = 272
+Hz), 122.1; HRMS (ESI) m/z calcd for C15H10F3N2O [M + H]+
+291.0745, found 291.0746; IR (ﬁlm, ν/cm−1) 3015, 1690, 1607, 1317,
+1176, 1128, 879, 772.
+
+3-[3-(Triﬂuoromethyl)phenyl]-4(3H)-Quinazolinone (2ha):13 Syn-
+thesized according to a typical procedure and puriﬁed by column
+chromatography (petroleum ether/ethyl acetate = 3:1) to give a light
+yellow solid (47 mg, 81%); mp 142−143 °C; 1H NMR (400 MHz,
+CDCl3) δ (ppm) 8.35−8.32 (dd, J1 = 7.2 Hz, J2 = 0.76 Hz, 1H), 8.10
+(s, 1H), 7.82−7.63 (m, 6H), 7.57−7.53 (m, 1H); 13C NMR (100
+MHz, CDCl3) δ (ppm) 159.5, 146.7, 144.2, 136.9, 133.9, 131.2 (q, J =
+33 Hz), 129.5, 129.3, 126.9, 126.7, 126.1, 124.9 (q, J = 3.6 Hz), 123.2
+(q, J = 3.7 Hz), 122.3 (q, J = 271 Hz), 121.1.
+
+3-[4-(Triﬂuoromethyl)phenyl]-4(3H)-Quinazolinone (2ia):14 Syn-
+thesized according to a typical procedure and puriﬁed by column
+chromatography (petroleum ether/ethyl acetate = 3:1) to give a light
+yellow solid (45 mg, 78%); mp 206−207 °C; 1H NMR (400 MHz,
+CDCl3) δ (ppm) 8.35−8.33 (d, J = 7.92 Hz, 1H), 8.11 (s, 1H), 7.83−
+7.80 (m, 3H), 7.77−7.75 (m, 1 H), 7.61−7.54 (m, 3H); 13C NMR
+(100 MHz, CDCl3) δ (ppm) 160.5, 147.7, 145.1, 140.4, 134.9, 131.3
+(q, J = 33 Hz), 128.0, 127.7, 127.5, 127.2, 126.8 (q, J = 3.7 Hz), 123.6
+(q, J = 271 Hz), 122.1.
+
+3-(2-Chlorophenyl)-4(3H)-Quinazolinone (2ja): Synthesized ac-
+cording to a typical procedure and puriﬁed by column chromatography
+(petroleum ether/ethyl acetate = 3:1) to give a yellow solid (32 mg,
+63%); mp 174−175 °C; 1H NMR (400 MHz, CDCl3) δ (ppm) 8.38−
+8.36 (d, J = 7.7 Hz, 1H), 7.99 (s, 1H), 7.85−7.79 (m, 2H), 7.63−7.54
+(m, 2H), 7.50−7.44 (m, 3H); 13C NMR (100 MHz, CDCl3) δ (ppm)
+160.1, 147.6, 145.9, 134.9, 134.8, 132.4, 131.0, 130.7, 129.8, 128.1,
+127.8, 127.5, 127.3, 122.3; HRMS (ESI) m/z calcd for C14H10ClN2O
+[M + H]+ 257.0482, found 257.0489; IR (ﬁlm, ν/cm−1) 3244, 1687,
+1608, 1474, 1307, 696, 541.
+
+3-(4-Chlorophenyl)-4(3H)-Quinazolinone (2ka):6b Synthesized
+according to a typical procedure and puriﬁed by column
+chromatography (petroleum ether/ethyl acetate = 3:1) to give a
+white solid (36 mg, 70%); mp 188−189 °C; 1H NMR (400 MHz,
+CDCl3) δ (ppm) 8.35−8.33 (d, J = 8.0 Hz, 1H), 8.08 (s, 1H), 7.82−
+7.75 (m, 2H), 7.57−7.51 (m, 3H), 7.39−7.37 (d, J = 8.6 Hz, 2H); 13C
+</para>
+Note
+<para sub=“exp”>
+NMR (100 MHz, CDCl3) δ (ppm) 160.6, 147.7, 145.6, 135.9, 135.2,
+134.8, 129.9, 128.3, 127.8, 127.7, 127.2, 122.2.
+
+3-(3-Fluorophenyl)-4(3H)-Quinazolinone (2la): Synthesized ac-
+cording to a typical procedure and puriﬁed by column chromatography
+(petroleum ether/ethyl acetate = 3:1) to give a white solid (35 mg,
+72%); mp 158−160 °C; 1H NMR (400 MHz, CDCl3) δ (ppm) 8.36−
+8.34 (dd, J1 = 7.1 Hz, J2 = 1.0 Hz, 1H), 8.15 (m, 1H), 7.84−7.77 (m,
+2H), 7.58−7.50 (m, 2H), 7.24−7.19 (m, 3H); 13C NMR (100 MHz,
+CDCl3) δ (ppm) 164.1, 161.6, 160.4, 147.3, 145.7, 138.6 (d, J = 10
+Hz), 134.9, 131.0 (d, J = 9 Hz), 127.9, 127.3 (d, J = 16 Hz), 122.7 (d, J
+= 3 Hz), 122.1, 116.4 (d, J = 21 Hz), 114.9(d, J = 24 Hz); HRMS
+(ESI) m/z calcd for C14H10FN2O [M + H]+ 241.0777,
+found
+241.0783; IR (ﬁlm, ν/cm−1) 3065, 1678, 1598, 1455,1398, 1292, 1255,
+1166, 863, 825, 764, 448.
+
+3-(4-Fluorophenyl)-4(3H)-Quinazolinone (2ma):6b Synthesized
+according to a typical procedure and puriﬁed by column
+chromatography (petroleum ether/ethyl acetate = 3:1) to give a
+white solid (39 mg, 82%); mp 164−166 °C; 1H NMR (400 MHz,
+CDCl3) δ (ppm) 8.35−8.33 (d, J = 7.9 Hz, 1H), 8.09 (s, 1H), 7.82−
+7.74 (m, 2H), 7.56−7.53 (m, 1H), 7.43−7.40 (m, 2H), 7.27−7.21 (m,
+2H); 13C NMR (100 MHz, CDCl3) δ (ppm) 162.8, 160.3, 159.8,
+146.8, 144.8, 133.7, 132.4 (d, J = 3.1 Hz), 127.9 (d, J = 8.8 Hz), 126.7
+(d, J = 15 Hz), 126.1, 121.2, 115.6 (d, J = 23 Hz).
+
+3-[4-(n-Butyl)phenyl]-4(3H)-Quinazolinone (2na): Synthesized
+according to a typical procedure and puriﬁed by column
+chromatography (petroleum ether/ethyl acetate = 3:1) to give a
+light yellow solid (41 mg, 73%); mp 101−102 °C; 1H NMR (400
+MHz, CDCl3) δ (ppm) 8.37−8.35 (d, J = 7.9 Hz, 1H), 8.16 (s, 1H),
+7.80−7.77 (m, 2H), 7.56−7.52 (m, 1H), 7.36−7.30 (m, 4H), 2.70−
+2.67 (t, 2H), 1.68−1.61 (q, 2H), 1.44−1.37 (s, 2H), 0.97−0.93 (t,
+3H); 13C NMR (100 MHz, CDCl3) δ (ppm) 159.7, 146.3, 145.4,
+143.2, 133.9, 133.6, 128.6, 126.7, 126.2, 125.7, 121.3, 34.3, 32.4, 21.3,
+12.9; HRMS (ESI) m/z calcd for C18H18N2ONa [M + Na]+ 301.1317,
+found 301.1322; IR (ﬁlm, ν/cm−1) 2925, 1677, 1601, 1474, 1324,
+1287, 1263, 1096, 1022, 798, 772, 477.
+
+3-[4-(1,1-Dimethylethyl)phenyl]-4(3H)-Quinazolinone (2oa): Syn-
+thesized according to a typical procedure and puriﬁed by column
+chromatography (petroleum ether/ethyl acetate = 3:1) to give a light
+red solid (38 mg, 68%); mp 120−121 °C; 1H NMR (400 MHz,
+CDCl3) δ (ppm) 8.34 (s, 1H), 8.22−8.19 (dd, J = 8.0 Hz, J = 1.5 Hz,
+1H), 7.90−7.86 (m, 1H), 7.75−7.73 (d, J = 8.1 Hz, 1H), 7.61−7.56
+(m, 3H), 7.47−7.45 (m, 2H), 1.34 (s, 9H); 13C NMR (100 MHz,
+CDCl3) δ (ppm) 160.5, 151.7, 148.2, 147.7, 135.5, 135.1, 127.9, 127.8,
+127.4, 126.9, 126.5, 122.4, 34.9, 31.5; HRMS (ESI) m/z calcd for
+C18H19N2O [M + H]+ 279.1497, found 279.1504; IR (ﬁlm, ν/cm−1)
+2961, 1686, 1606, 1512, 1469, 1294, 1262, 771.
+
+3-(1-Naphthalenyl)-4(3H)-Quinazolinone (2pa): Synthesized ac-
+cording to a typical procedure and puriﬁed by column chromatography
+(petroleum ether/ethyl acetate = 3:1) to give a yellow solid (34 mg,
+63%); mp 93−95 °C; 1H NMR (400 MHz, CDCl3) δ (ppm) 8.42−
+8.40 (d, J = 7.9 Hz, 1H), 8.10 (s, 1H), 8.04−8.02 (d, J = 8.2 Hz, 1H),
+7.98−7.96 (d, J = 7.9 Hz, 1H), 7.88−7.83 (m, 2H), 7.63−7.50 (m,
+6H); 13C NMR (100 MHz, CDCl3) δ (ppm) 161.1, 148.2, 146.9,
+134.8, 134.4, 134.1, 130.3, 129.8, 128.7, 127.8, 127.8, 127.7, 127.3,
+126.9, 126.0, 125.5, 122.4, 122.0; HRMS (ESI) m/z calcd for
+C18H13N2O [M + H]+ 273.1028, found 273.1034; IR (ﬁlm, ν/cm−1)
+3475, 2922, 1687, 1604, 1456, 1266, 774, 741, 699, 497.
+3-(Phenylmethyl)-4(3H)-Quinazolinone (2qa):6b Synthesized ac-
+cording to a typical procedure and puriﬁed by column chromatography
+(petroleum ether/ethyl acetate = 3:1) to give a light yellow solid (20
+mg, 42%); mp 117−118 °C; 1H NMR (400 MHz, CDCl3) δ (ppm)
+8.33−8.31 (d, J = 8.0 Hz, 1H), 8.11 (s, 1H), 7.77−7.69 (m, 2H),
+7.52−7.48 (m, 1H), 7.35−7.29 (m, 5H), 5.20 (s, 2H); 13C NMR (100
+MHz, CDCl3) δ (ppm) 161.1, 148.0, 146.4, 135.7, 134.3, 129.1, 128.3,
+128.0, 127.5, 127.4, 126.9, 122.2, 49.6.
+
+3-(1-Methylethyl)-4(3H)-Quinazolinone (2ra):6b Synthesized ac-
+cording to a typical procedure and puriﬁed by column chromatography
+(petroleum ether/ethyl acetate = 3:1) to give a light yellow solid (14
+mg, 37%); mp 98−100 °C; 1H NMR (400 MHz, CDCl3) δ (ppm)
+8.32−8.30 (d, J = 8.0 Hz, 1H), 8.13 (s, 1H), 7.77−7.69 (m, 2H),
+</para>
+4740
+
+DOI: 10.1021/acs.joc.5b00191
+J. Org. Chem. 2015, 80, 4736−4742
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+7.52−7.48 (m, 1H), 5.23−5.16 (m, 1H), 1.50−1.49 (d, J = 6.9 Hz,
+6H); 13C NMR (100 MHz, CDCl3) δ (ppm) 160.7, 147.5, 143.6,
+134.1, 127.3, 127.2, 126.9, 121.9, 46.0, 21.9.
+
+3-Butyl-4(3H)-Quinazolinone (2sa):6b Synthesized according to a
+typical procedure and puriﬁed by column chromatography (petroleum
+ether/ethyl acetate = 3:1) to give a light yellow solid (16 mg, 40%);
+mp 70−72 °C; 1H NMR (400 MHz, CDCl3) δ (ppm) 8.33−8.30 (d, J
+= 7.9 Hz, 1H), 8.10 (s, 1H), 7.78−7.71 (m, 2H), 7.53−7.49 (m, 1H),
+4.03−4.00 (t, 2H), 1.82−1.75 (q, 2H), 1.45−1.39 (s, 2H), 0.99−0.96
+(t, 3H); 13C NMR (100 MHz, CDCl3) δ (ppm) 160.9, 147.7, 146.7,
+134.2, 127.3, 127.1, 126.7, 122.1, 46.9, 31.4, 19.9, 13.6.
+
+3-Cyclohexyl-4(3H)-Quinazolinone (2ta):6b Synthesized according
+to a typical procedure and puriﬁed by column chromatography
+(petroleum ether/ethyl acetate = 3:1) to give a light yellow solid (16
+mg, 35%); mp 118−119 °C; 1H NMR (400 MHz, CDCl3) δ (ppm)
+8.24−8.22 (dd, J1 = 7.1 Hz, J2 = 0.9 Hz, 1H), 8.05 (s, 1H), 7.68−7.60
+(m, 2H), 7.42−7.38 (m, 1H), 4.76−4.70 (m, 1H), 1.93−1.84 (m, 4H),
+1.72−1.68 (m, 1H), 1.61−1.39 (m, 4H), 1.22−1.15 (m, 1H); 13C
+NMR (100 MHz, CDCl3) δ (ppm) 159.6, 146.4, 142.9, 133.1, 126.2,
+126.1, 125.9, 120.9, 52.3, 31.5, 24.9, 24.3.
+
+6-Chloro-3-phenyl-4(3H)-Quinazolinone (2ae): Synthesized ac-
+cording to a typical procedure and puriﬁed by column chromatography
+(petroleum ether/ethyl acetate = 3:1) to give a yellow solid (35 mg,
+68%); mp 190−191 °C; 1H NMR (400 MHz, CDCl3) δ (ppm) 8.32
+(s, 1H), 8.12 (s, 1H), 7.73−7.70 (m, 2H), 7.58−7.48 (m, 3H), 7.43−
+7.40 (m, 2H); 13C NMR (100 MHz, CDCl3) δ (ppm) 159.7, 146.4,
+146.3, 137.2, 135.0, 133.6, 129.8, 129.3, 129.3, 126.9, 126.6, 123.5;
+HRMS (ESI) m/z calcd for C14H10ClN2O [M + H]+ 257.0482, found
+257.0482; IR (ﬁlm, ν/cm−1) 3043, 2920, 1677, 1611, 1592,1472, 1180,
+832, 766, 644, 622.
+
+6-Bromo-3-phenyl-4(3H)-Quinazolinone (2af): Synthesized ac-
+cording to a typical procedure and puriﬁed by column chromatography
+(petroleum ether/ethyl acetate = 3:1) to give a white solid (45 mg,
+75%); mp 185−186 °C; 1H NMR (400 MHz, CDCl3) δ (ppm)
+8.486−8.480 (d, J = 2.3 Hz, 1H), 8.12 (s, 1H), 7.89−7.86 (dd, J1 = 8.6
+Hz, J2 = 2.3 Hz, 1H), 7.65−7.63(d, J = 8.6 Hz, 1H), 7.58−7.48 (m,
+3H), 7.42−7.40 (d, J = 7.6 Hz, 2H); 13C NMR (100 MHz, CDCl3) δ
+(ppm) 159.6, 146.7, 146.4, 137.8, 137.2, 129.8, 129.7, 129.4, 129.3,
+126.9, 123.8, 121.3; HRMS (ESI) m/z calcd for C14H10BrN2O [M +
+
+6-Methyl-3-phenyl-4(3H)-Quinazolinone (2ab): Synthesized ac-
+cording to a typical procedure and puriﬁed by column chromatography
+(petroleum ether/ethyl acetate = 3:1) to give a light yellow solid (34
+mg, 72%); mp 107−108 °C; 1H NMR (400 MHz, CDCl3) δ (ppm)
+8.15 (s, 1H), 8.08 (s, 1H), 7.68−7.60 (m, 2H), 7.57−7.47 (m, 3H),
+7.43−7.41 (m, 2H), 2.51 (s, 3H); 13C NMR (100 MHz, CDCl3) δ
+(ppm) 160.8, 145.8, 145.4, 138.0, 137.6, 136.0, 129.6, 129.1, 127.4,
+127.0, 126.6, 122.1, 21.4; HRMS (ESI) m/z calcd for C15H13N2O [M
++ H]+ 237.1028, found 237.1032; IR (ﬁlm, ν/cm−1) 3282, 3049, 2921,
+1687, 1642, 1611, 1547, 1496, 834, 754.
+
+6-Methoxy-3-phenyl-4(3H)-Quinazolinone (2ac): Synthesized ac-
+cording to a typical procedure and puriﬁed by column chromatography
+(petroleum ether/ethyl acetate = 3:1) to give a yellow solid (26 mg,
+52%); mp 167−168 °C; 1H NMR (400 MHz, CDCl3) δ (ppm) 8.05
+(s, 1H), 7.73−7.69 (m, 2H), 7.56−7.54 (m, 3H), 7.44−7.38 (m, 3H),
+3.93 (s, 3H); 13C NMR (100 MHz, CDCl3) δ (ppm) 159.6, 158.1,
+143.0, 141.2, 136.6, 128.6, 128.1, 128.03, 125.9, 123.7, 122.2, 105.6,
+54.9; HRMS (ESI) m/z calcd for C15H13N2O2 [M + H]+ 253.0977,
+found 253.0979; IR (ﬁlm, ν/cm−1) 3333, 3125, 2962, 2926, 1680,
+1617, 1552, 1350, 1025, 802, 751, 568.
+
+6-Fluoro-3-phenyl-4(3H)-Quinazolinone (2ad): Synthesized ac-
+cording to a typical procedure and puriﬁed by column chromatography
+(petroleum ether/ethyl acetate = 3:1) to give a white solid (33 mg,
+69%); mp 205−206 °C; 1H NMR (400 MHz, CDCl3) δ (ppm) 8.09
+(s, 1H), 8.00−7.98 (m, 1H), 7.80−7.76 (m, 1H), 7.58−7.48 (m, 4H),
+7.43−7.41 (d, J = 7.3 Hz, 2H); 13C NMR (100 MHz, CDCl3) δ (ppm)
+162.7, 160.2, 160.1 (d, J = 3.3 Hz), 145.4 (d, J = 2 Hz), 144.5, 137.3,
+130.0 (d, J = 8 Hz), 129.7, 129.3, 126.9, 123.1 (d, J = 24 Hz), 112.2 (d,
+J = 23 Hz); HRMS (ESI) m/z calcd for C14H10FN2O [M + H]+
+241.0777, found 241.0778; IR (ﬁlm, ν/cm−1) 3113, 3053, 3029, 2916,
+2853, 1594, 1483, 1284, 647, 500, 422.
+</para>
+Note
+<para sub=“exp”>
+H]+ 300.9977, found 300.9977; IR (ﬁlm, ν/cm−1) 3061, 2922, 1679,
+1591, 1508, 1267, 875, 749, 611, 486.
+
+6-Nitro-3-phenyl-4(3H)-Quinazolinone (2ag): Synthesized accord-
+ing to a typical procedure and puriﬁed by column chromatography
+(petroleum ether/ethyl acetate = 3:1) to give a yellow solid (35 mg,
+65%); mp 223−224 °C; 1H NMR (400 MHz, CDCl3) δ (ppm) 9.22−
+9.21 (d, J = 2.6 Hz, 1H), 8.60−8.57 (dd, J1 = 8.9 Hz, J2 = 2.6 Hz, 1H),
+8.26 (s, 1H), 7.92−7.89 (d, J = 8.9 Hz, 1H), 7.61−7.52 (m, 3H),
+7.45−7.42 (m, 2H); 13C NMR (100 MHz, CDCl3) δ (ppm) 159.6,
+151.9, 148.9, 146.4, 136.7, 129.9, 129.7, 129.4, 128.7, 126.8, 123.8,
+122.8; HRMS (ESI) m/z calcd for C14H10N3O3 [M + H]+ 268.0722,
+found 268.0727; IR (ﬁlm, ν/cm−1) 3023, 1743, 1683, 1615, 1568,
+1398, 1273, 1098, 913, 849, 749, 547, 467.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+1H NMR and 13C NMR spectra for all products. This material
+is available free of charge via the Internet at http://pubs.acs.org.
+■ AUTHOR INFORMATION
+Corresponding Author
+*Fax: 86-551-3631760. E-mail: zwang3@ustc.edu.cn.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We are grateful to National Nature Science Foundation of
+China (2127222, 91213303, 21172205, J1030412).
+
+■ REFERENCES
+
+(1) (a) Zhang, Y.; Feng, J.; Li, C.-J. J. Am. Chem. Soc. 2008, 130,
+2900. (b) Xia, Q.; Liu, X.; Zhang, Y.; Chen, C.; Chen, W. Org. Lett.
+2013, 15, 3326. (c) Zhu, Y.; Yan, H.; Lu, L.; Liu, D.; Rong, G.; Mao, J.
+J. Org. Chem. 2013, 78, 9898. (d) Dai, Q.; Yu, J.; Jiang, Y.; Guo, S.;
+Yang, H.; Cheng, J. Chem. Commun. 2014, 50, 3865. (e) Fan, J.; Zhou,
+M.; Liu, Y.; Wei, W.; Ouyang, X.; Song, R.; Li, J. Synlett 2014, 25, 657.
+(f) Xu, Z.; Yan, C.; Liu, Z.-Q. Org. Lett. 2014, 16, 5670. (g) Guo, S.;
+Wang, Q.; Jiang, Y.; Yu, J.-T. J. Org. Chem. 2014, 79, 11285. (h) Dai,
+Q.; Yu, J. T.; Feng, X.; Jiang, Y.; Yang, H.; Cheng, J. Adv. Synth. Catal.
+2014, 356, 3341. (i) Rong, G.; Liu, D.; Lu, L.; Yan, H.; Zheng, Y.;
+Chen, J.; Mao, J. Tetrahedron 2014, 70, 5033. (j) Li, P.; Zhao, J.; Lang,
+R.; Xia, C.; Li, F. Tetrahedron 2014, 55, 390. (k) Sharma, A.-K.; Roy,
+D.; Sunoj, R.-B. Dalton Trans. 2014, 43, 10183.
+(2) (a) Sun, W.-W.; Cao, P.; Mei, R.-Q.; Li, Y.; Ma, Y.-L.; Wu, B. Org.
+Lett. 2014, 16, 480. (b) Xia, R.; Niu, H.-Y.; Qu, G.-R.; Guo, H.-M. Org.
+Lett. 2012, 14, 5546. (c) Kim, H.-J.; Kim, J.; Cho, S.-H.; Chang, S. J.
+Am. Chem. Soc. 2011, 133, 16382. (d) Gao, W. C.; Jiang, S.; Wang, R.-
+L.; Zhang, C. Chem. Commun. 2013, 49, 4890. (e) Thu, H.-Y.; Yu, W.-
+Y.; Che, C. J. Am. Chem. Soc. 2006, 128, 9048. (f) Nadres, E. T.;
+Daugulis, O. J. Am. Chem. Soc. 2012, 134, 7−10. (g) Kang, T.; Kim, Y.;
+Lee, D.; Wang, Z.; Chang, S. J. Am. Chem. Soc. 2014, 136, 4141.
+(h) He, G.; Zhao, Y.; Zhang, S.; Lu, C.; Chen, G. J. Am. Chem. Soc.
+2012, 134, 3−6. (i) Neumann, J.-J.; Rakshit, S.; Dröge, T.; Glorius, F.
+Angew. Chem., Int. Ed. 2009, 48, 6892. (j) Pan, J.; Su, M.; Buchwald, S.
+L. Angew. Chem., Int. Ed. 2011, 50, 8647. (k) Fiori, K. W.; DuBois, J. J.
+Am. Chem. Soc. 2007, 129, 562. (l) Zhang, Q.; Chen, K.; Rao, W.;
+Zhang, Y.; Chen, F.-J.; Shi, B.-F. Angew. Chem., Int. Ed. 2013, 52,
+13588. (m) McNally, A.; Haffemayer, B.; Collins, B. S. L.; Gaunt, M. J.
+Nature 2014, 510, 129. (n) Ye, X.; He, Z.; Ahmed, T.; Weise, K.;
+Akhmedov, N. G.; Petersen, J. L.; Shi, X. Chem. Sci. 2013, 4, 3712.
+(o) Yang, M.; Su, B.; Wang, Y.; Chen, K.; Jiang, X.; Zhang, Y. F.;
+Zhang, X. S.; Chen, G.; Cheng, Y.; Cao, Z.; Guo, Q. Y.; Wang, L.; Shi,
+Z.-J. Nat. Commun. 2014, 5, 4707. (p) He, G.; Zhang, S.-Y.; Nack, W.-
+A.; Li, Q.; Chen, G. Angew. Chem., Int. Ed. 2013, 52, 11124.
+(3) (a) Allen, C.; Benkovics, T.; Turek, A.; Yoon, T. J. Am. Chem. Soc.
+2009, 131, 12560. (b) Michaudel, Q.; Thevenet, D.; Baran, P. J. Am.
+Chem. Soc. 2012, 134, 2547. (c) Li, Q.; Huang, Y.; Chen, T.; Zhou, Y.;
+
+4741
+
+DOI: 10.1021/acs.joc.5b00191
+J. Org. Chem. 2015, 80, 4736−4742
+
+Note
+
+The Journal of Organic Chemistry
+
+Xu, Q.; Yin, S.; Han, L. Org. Lett. 2014, 16, 3672. (d) Tran, B. L.; Li,
+B.; Driess, M.; Hartwig, J.-F. J. Am. Chem. Soc. 2014, 136, 2555.
+(e) Wu, X.; Zhao, Y.; Zhang, G.; Ge, H. Angew. Chem., Int. Ed. 2014,
+53, 3706. (f) Xia, R.; Niu, H.-Y.; Qu, G.; Guo, H.-M. Org. Lett. 2012,
+14, 5546. (g) Gephart, R.-T., III; Huang, D.-L.; Aguila, M. J. B.;
+Schmidt, G.; Shahu, A.; Warren, T. H. Angew. Chem., Int. Ed. 2012, 51,
+6488. (h) Wang, Z.; Ni, J.; Kuninobu, Y.; Kanai, M. Angew. Chem., Int.
+Ed. 2014, 53, 3496.
+(4) (a) Wan, C.; Zhang, J.; Wang, S.; Wang, Z. Org. Lett. 2010, 12,
+2338. (b) Zhang, J.; Yu, C.; Wang, S.; Wan, C.; Wang, Z. Chem.
+Commun. 2010, 46, 5244. (c) Yan, Y.; Zhang, Y.; Zha, Z.; Wang, Z.
+Org. Lett. 2013, 15, 2274. (d) Yan, Y.; Zhang, Y.; Feng, C.; Zha, Z.;
+Wang, Z. Angew. Chem., Int. Ed. 2012, 51, 8077. (e) Yan, Y.; Wang, Z.
+Chem. Commun. 2011, 47, 9513.
+(5) (a) Cohen, E.; Klarberg, B.; Vaughan, J. R., Jr. J. Am. Chem. Soc.
+1959, 81, 5508. (b) Chen, K.; Al Aowad, A.; Adelstein, S. J.; Kassis, A.
+J. Med. Chem. 2007, 50, 663. (c) Parmar, S.; Kumar, R. J. Med. Chem.
+1968, 11, 635. (d) Wang, K.; Kirichian, A.; Al Aowad, A.; Adelstein, S.
+J.; Kassis, A. Bioconjugate Chem. 2007, 18, 754. (e) Ma, J.; Li, P.; Li, X.;
+Shi, Q.; Wan, Z.; Hu, D.; Jin, L.; Song, B. J. Agric. Food Chem. 2014,
+62, 8928. (f) Rorsch, F.; la Buscato, E.; Deckmann, K.; Schneider, G.;
+Schubert-Zsilavecz, M.; Geisslinger, G.; Proschak, E.; Grösch, S. J.
+Med. Chem. 2012, 55, 3792.
+(6) For selected examples of synthesis of quinazolinones, see:
+(a) Dabiri, M.; Salehi, P.; Mohammadi, A. A.; Baghbanzadeh, M. Synth.
+Commun. 2005, 35, 279. (b) Farzipour, S.; Saeedi, M.; Mahdavi, M.;
+Yavari, H.; Mirzahekmati, M.; Ghaemi, N.; Foroumadi, A.; Shafiee, A.
+Synth. Commun. 2014, 44, 481. (c) Kim, N. Y.; Cheon, C.-H.
+Tetrahedron 2014, 55, 2340. (d) Bakavoli, M.; Sabzevari, O.;
+Rahimizadeh, M. Chin. Chem. Lett. 2007, 18, 533. (e) Nathubhai, A.;
+Patterson, R.; Woodman, T. J.; Sharp, H. E. C.; Chui, M. T. Y.; Chung,
+H. H. K.; Lau, S. W. S.; Zheng, J.; Lloyd, M. D.; Thompsona, A. S.;
+Threadgill, M. D. Org. Biomol. Chem. 2011, 9, 6089. (f) Zhao, D.;
+Wang, T.; Li, J.-X. Chem. Commun. 2014, 50, 6471. (g) Xu, L.; Jiang,
+Y.; Ma, D. Org. Lett. 2012, 14, 1150. (h) Wang, S.-L.; Yang, K.; Yao,
+C.-S.; Wang, X.-S. Synth. Commun. 2012, 42, 341. (i) Yang, D.; Fu, H.;
+Hu, L.; Jiang, Y.; Zhao, Y. J. Comb. Chem. 2009, 11, 653. (j) Liu, Y.;
+Wei, J.; Che, C.-M. Chem. Commun. 2010, 46, 6926.
+(7) (a) Zhang, Z.; Su, J.; Zha, Z.; Wang, Z. Chem.Eur. J. 2013, 19,
+17711. (b) Azman, N. A. M.; Peiró, S.; Fajarí, L.; Julià, L.; Almajano,
+M. P. J. Agric. Food. Chem. 2014, 62, 5743.
+(8) Zeng, L.; Yi, W.; Cai, C. Eur. J. Org. Chem. 2012, 3, 559.
+(9) Yoo, C.; Fettinger, J. C.; Kurth, M.-J. J. Org. Chem. 2005, 70,
+6941.
+(10) Tseng, M.; Chu, Y.; Tsai, H.; Lin, C.; Hwang, J.; Chu, Y. Org.
+Lett. 2011, 13, 920.
+(11) Romana, C.; Vittoria, C.; Daniela, C.; Flavia, V.; Ombretta, L.;
+Guido, F.; Chiara, C.; Alessandro, G. Eur. J. Org. Chem. 2005, 40, 897.
+(12) Zhou, J.; Fu, L.; Lv, M.; Liu, J.; Pei, D.; Ding, K. Synthesis 2008,
+24, 3974.
+(13) Lygin, A. V.; Meijere, A. Org. Lett. 2009, 11, 389.
+(14) Venkat Lingaiah, B.; Ezikiel, G.; Yakaiah, T.; Reddy, G.-V.; Rao,
+P. S. Synlett 2006, 15, 2507.
+
+4742
+
+DOI: 10.1021/acs.joc.5b00191
+J. Org. Chem. 2015, 80, 4736−4742
+
+

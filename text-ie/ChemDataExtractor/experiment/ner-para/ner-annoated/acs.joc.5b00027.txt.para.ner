@@ -1,0 +1,168 @@
+<para sub="scope">
+Stereoselective Synthesis of 2a. We investigated the
+stereoselective synthesis of the ﬁrst target molecule 2a. Parikh−
+Doering oxidation9 of the known <cem>alcohol</cem> 8, which was prepared
+from <cem>2-deoxy-D-ribose</cem> in four steps,10 followed by <cem>two-carbon</cem>
+elongation with <cem>(EtO)2P(O)CH2CO2Et</cem> and <cem>DIBAL-H</cem> reduc-
+tion, provided <cem>allylic alcohol</cem> 9 in 77% yield in three steps
+(Scheme 3). The <cem>alcohol</cem> 9 was protected as the <cem>TBDPS ether</cem>,
+and the regioselective reductive cleavage of the <cem>p-methox-
+ybenzylidene acetal</cem> moiety with <cem>DIBAL-H</cem> aﬀorded <cem>primary
+alcohol 10</cem>. The <cem>alcohol</cem> 10 was oxidized to the corresponding
+·pry/<cem>Et3N</cem>/<cem>DMSO.9</cem> Stereoselective aldol
+<inc_new>aldehyde</inc_new> with <cem>SO3</cem>
+addition of <cem>methyl acetoacetate</cem> (3) to the resulting <cem>α,β-bis-
+alkoxy aldehyde</cem> by using <cem>NaH</cem> and <cem>n-BuLi</cem> as bases produced <cem>β-
+hydroxy ketone 11</cem> possessing the desired C5 conﬁguration in
+94% yield as the inseparable 6:1 diastereomeric mixture.11,12
+We next tried the derivatization of 11 for the stereochemical
+conﬁrmation at the C5 position. Thus, removal of the <cem>TBDPS</cem>
+protective group with <newcem>HF·pyr</newcem> and subsequent oxidation of the
+13 gave unsaturated
+<cem>allylic alcohol</cem> with <cem>TEMPO</cem>/<inc_new>PhI(OAc)2</inc_new>
+<inc_new>aldehyde</inc_new> 12. Treatment of the <cem>alcohol</cem> 12 with <newcem>DDQ</newcem> provided
+<newcem>p-methoxybenzylidene acetal</newcem> 13.14 The observed NOEs of Ha/
+<incorrect>Hb</incorrect>, Ha/<incorrect>Hc</incorrect>, and Hb/Hc in 13, as shown by arrows, indicated
+that they were in syn relationships. Thereby, the absolute
+stereochemistry at the C5 position of 11 was unambiguously
+conﬁrmed. Next, we introduced the C3 <cem>oxymethine</cem> stereo-
+chemistry. Thus, diastereoselective reduction of 11 was carried
+15 to aﬀord <cem>syn-diol</cem> 14 in 98% yield
+out with <cem>Et2BOMe</cem>/<cem>NaBH4</cem>
+as a single product (Scheme 4). For
+the stereochemical
+conﬁrmation at the C3 position, the <cem>diol</cem> 14 was protected with
+<cem>p-MeOC6H4CH(OMe)2</cem>/<newcem>CSA</newcem> to give <cem>p-methoxybenzylidene
+acetal 15</cem>. The NOE correlations of Ha/<incorrect>Hb</incorrect>, Ha/<incorrect>Hc</incorrect>, and Hb/
+Hc in 15 suggested that all of them were oriented in axial
+positions, respectively. Thus, the absolute conﬁguration at the
+C3 position of 14 was elucidated.
+</para>
+
+<para sub="scope">
+Next, we examined the transformation of the <cem>diol</cem> 14 to the
+<cem>tetraol</cem> 2a. Protection of 14 with <cem>Me2C(OMe)2</cem>/<cem>p-TsOH·H2O</cem>
+gave <cem>acetonide</cem> 16 (Scheme 5). The <newcem>TBDPS</newcem> moiety of 16 was
+selectively removed with <cem>TBAF</cem>/<newcem>AcOH</newcem>16 to provide <cem>allylic
+alcohol 17</cem> in 68% yield. <cem>TEMPO</cem> oxidation13 of 17 and
+removal of the <newcem>PMB</newcem> group with <cem>DDQ</cem> aﬀorded <cem>unsaturated
+aldehyde</cem> 18 in 94% yield in two steps. The <cem>acetonide</cem> moiety of
+17 in <cem>CH2Cl2</cem> at −30 °C to aﬀord
+18 was removed with <inc_new>TiCl4</inc_new>
+<inc_new>triol</inc_new> 19 in 98% yield. Finally, treatment of the <newcem>TBS</newcem> <cem>ether</cem> 19
+with <newcem>HF·pyr</newcem> at 0 °C to room temperature produced the <cem>tetraol</cem>
+2a. Although we could obtain the ﬁrst target molecule 2a, the
+conversion of 19 to 2a was quite slow and the starting material
+19 was recovered in 52% yield. When the reaction time was
+prolonged, we observed the formation of several byproducts;
+furthermore, this transformation was irreproducible. Since this
+deprotection would be problematic in the subsequent synthesis
+</para>
+
+<para sub="scope">
+Stereodivergent Synthetic Plan of 2a−2b. The uniﬁed
+and stereodivergent synthetic plan of 2a−2d is depicted in
+</para>
+
+<para sub="scope">
+of 2b−2d, a change from the <newcem>TBS</newcem> protective group to a less-
+hindered and more easily removed group in the ﬁnal step was
+needed.
+</para>
+
+<para sub="scope">
+Removal of the <newcem>TBS</newcem> moiety of 17 was carried out with
+<cem>TBAF</cem>/<cem>AcOH</cem> in <cem>MeCN</cem> at 60 °C to give <cem>diol</cem> 20 in 86% yield
+(Scheme 6).18 Treatment of 20 with <newcem>TESOTf</newcem>/<cem>2,6-lutidine</cem>,
+followed by selective removal of the primary <newcem>TES</newcem> moiety,
+provided secondary <newcem>TES</newcem> <cem>ether</cem> 21. <cem>TEMPO</cem> oxidation13 of the
+<cem>allylic alcohol</cem> 21 and subsequent removal of the <newcem>PMB</newcem> group
+aﬀorded unsaturated <cem>aldehyde</cem> 22 in 76% yield in two steps.
+17 at −30 °C to room
+Finally, when 22 was treated with <cem>TiCl4</cem>
+temperature,
+the <cem>acetonide</cem> deprotection and subsequent
+removal of the <newcem>TES</newcem> moiety proceeded in one-pot to produce
+the <cem>tetraol</cem> 2a in 74% yield.
+</para>
+
+<para sub="scope">
+Stereoselective Synthesis of 2b. We next examined the
+stereoselective synthesis of the second target molecule 2b,
+which is the C6-epimer of 2a. We envisioned the stereo-
+the C6 position by the oxidation−reduction
+inversion at
+process. Thus, selective protection of the primary <cem>hydroxy</cem>
+the <cem>diol</cem> 20 with <cem>TESCl</cem>/<cem>imidazole</cem> yielded the
+group of
+<cem>secondary alcohol</cem>, which was
+subjected to the <newcem>TPAP</newcem>
+oxidation19 to aﬀord <cem>ketone</cem> 23 (Scheme 7). Diastereoselective
+reduction of 23 with <cem>NaBH4</cem> proceeded successfully to provide
+the desired <cem>alcohol</cem> 24 in 98% yield as the sole diastereomer.
+This stereochemical outcome is in line with a Felkin−Anh
+model, which is doubly eﬀected by the C5 and C7 stereogenic
+centers. The <incorrect>1H</incorrect> NMR spectrum of 24 was clearly diﬀerent
+from that of the <cem>secondary alcohol</cem> obtained in the ﬁrst step
+</para>
+
+<para sub="scope">
+from 20, which resulted in the conﬁgurational conﬁrmation at
+the C6 stereogenic center of 24. <newcem>TES</newcem> protection of the resulting
+secondary <cem>hydroxy</cem> moiety of 24, followed by selective removal
+of the primary <newcem>TES</newcem> group, yielded <cem>alcohol</cem> 25. Oxidation of 25
+13 and subsequent removal of the
+with <cem>TEMPO</cem>/<cem>PhI(OAc)2</cem>
+<newcem>PMB</newcem> group gave unsaturated <cem>aldehyde</cem> 26 in 82% yield in two
+steps. Stepwise deprotection of 26, that is, removal of the
+17 and the <newcem>TES</newcem> group by <newcem>HF·pyr</newcem>,
+<cem>acetonide</cem> moiety by <cem>TiCl4</cem>
+furnished the second target molecule 2b.
+</para>
+
+<para sub="scope">
+Stereoselective Synthesis of 2c and 2d. Having
+completed the stereoselective and stereodivergent synthesis of
+the ﬁrst and second target molecules 2a and 2b bearing the syn
+relationships at the C3 and C5 positions, we next commenced
+the synthesis of the third and fourth target molecules 2c and 2d
+with the C3/C5 anti correlations. The stereoselective synthesis
+of 2c is illustrated in Scheme 8. Treatment of the <cem>β-hydroxy</cem>
+20 furnished the desired anti-<cem>diol
+ketone 11</cem> with <cem>NaBH(OAc)3</cem>
+27 in 95% yield as a single diastereomer, as judged by its <incorrect>1H</incorrect>
+NMR spectrum, which was clearly diﬀerent from that of the
+<cem>syn-diol</cem> 14. Further transformation of 27 toward 2c was similar
+to that used in the synthesis of 2a. Protection of the resulting
+<cem>diol</cem> moiety of 27 and desilylation aﬀorded <cem>diol</cem> 28. The <cem>diol</cem> 28
+was transformed to unsaturated <cem>aldehyde</cem> 29 by the following
+four-step sequence: (1) bis-silylation, (2) selective desilylation
+of the primary <newcem>TES</newcem> moiety, (3) <cem>TEMPO</cem> oxidation13 of the
+<cem>allylic alcohol</cem>, and (4) removal of
+the <newcem>PMB</newcem> group.
+Simultaneous removal of the <cem>acetonide</cem> and <newcem>TES</newcem> moieties was
+17 to provide the third target molecule 2c
+performed with <cem>TiCl4</cem>
+in 44% yield.
+</para>
+
+<para sub="scope">
+The stereocontrolled synthesis of 2d, whose synthetic route
+was analogous to that of 2b, is shown in Scheme 9. The <cem>alcohol</cem>
+28, which was the key synthetic intermediate toward 2c, was
+converted to <cem>ketone</cem> 30 through the selective silylation of the
+<cem>primary alcohol</cem> and <newcem>TPAP</newcem> oxidation19 of
+the secondary
+<cem>alcohol</cem>. The <cem>ketone</cem> 30 was reduced with <cem>NaBH4</cem> to give
+<cem>alcohol</cem> 31 as the sole diastereomer. The resulting stereo-
+chemistry at the C6 position of 31 was conﬁrmed by comparing
+the <incorrect>1H</incorrect> NMR spectra between 31 and the secondary <cem>alcohol</cem>
+synthesized in the ﬁrst transformation from 28. <cem>Acetonide</cem> 32,
+which was synthesized from the <cem>alcohol</cem> 31 in 54% overall yield
+
+17 to provide the
+in four steps, was deprotected with <cem>TiCl4</cem>
+fourth target molecule 2d in 47% yield.
+</para>
+
+

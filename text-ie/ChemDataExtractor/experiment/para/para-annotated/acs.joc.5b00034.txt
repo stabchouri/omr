@@ -1,0 +1,1110 @@
+Article
+
+pubs.acs.org/joc
+
+Design of Pyrazolo-pyrrolo-pyrazines and Pyrazolo-pyrrolo-
+diazepines via AuCl3‑Catalyzed and NaH-Supported Cyclization of
+N‑Propargyl Pyrazoles
+Sinan Basceken†,‡ and Metin Balci*,†
+†
+Department of Chemistry, Middle East Technical University, 06800 Ankara, Turkey
+‡
+Department of Chemistry, Hitit University, 19030 Corum, Turkey
+*S Supporting Information
+
+ABSTRACT: A concise synthetic methodology for new
+heterocyclic scaﬀolds, such as pyrazolo-pyrrolo-pyrazine and
+pyrazolo-pyrrolo-diazepine skeletons, was developed. The key
+features of this method include (i) synthesis of pyrrole-derived
+α,β-alkynyl ketones, (ii) introduction of various substituents
+into the alkyne functionality by Sonogashira cross-coupling,
+(iii) synthesis of pyrazole units by the reaction of α,β-alkynyl compounds with hydrazine monohydrate, (iv) gold-catalyzed
+cyclization of pyrazoles with alkyne units, and (v) cyclization with NaH. Furthermore, this methodology allows various
+substituents to be introduced into all positions of the target compounds.
+
+■ INTRODUCTION
+
+Heterocycles play a central role in the design of biologically
+active molecules and advanced organic materials. The synthesis
+of pyrazoles1 has been extensively studied. Pyrazines2 represent
+a class of particularly interesting heterocycles due to their
+potential antiarrhythmic,3 antiamnesic, antihypoxic,4 psycho-
+tropic,5 antihypersensitive,6 and aldose reductase inhibition
+activities.7
+Ring closure reactions, in which a new carbon−heteroatom
+bond is formed, are a commonly used approach in the synthesis
+of heterocycles.8 Speciﬁcally, the intramolecular addition of a
+nitrogen functionality to an alkyne or an alkene is a valuable
+strategy.9 Herein, we report a synthetic methodology that
+enables eﬃcient access to the construction of ﬁve- and six-
+membered heterocyclic rings, such as pyrazoles and pyrazines,
+via intramolecular ring closure reactions.
+<para sub=“ques”>
+To the best of our knowledge, there is only one example of
+pyrazolo-pyrrolo-pyrazines 1 in the literature (Figure 1). 2-
+</para>
+Figure 1. Structures 1 and 2.
+<para sub=“ques”>
+Aminopyrrolo[1,2-a]pyrazinium mesitylenesulfonate 3 was
+reacted with dimethyl acetylenedicarboxylate (DMAD) to
+give the dihydro derivative 4, which was oxidized to 5 (Scheme
+1).10a Surprisingly, a pyrazolo-pyrrolo-quinoxaline 2 skeleton,
+which is a benzo-derivative of 1, has been generated as an
+unexpected product.10b
+</para>
+Scheme 1. Synthesis of 5 Starting from 3
+
+In this article, we ﬁrst illustrate the concept of cyclization of
+pyrrole-derived α,β-alkynyl ketones
+in the presence of
+hydrazine monohydrate and a subsequent gold(III)-catalyzed
+reaction11 to provide practical synthetic access to the design of
+pyrazolo-pyrrolo-pyrazines 1.
+■ RESULTS AND DISCUSSION
+<para sub="scope">
+First, we investigated the feasibility of the intended synthetic
+approach to the target pyrazole scaﬀold by exploring the
+reactivity of N-propargyl carboxylic acid 612 for the synthesis of
+α,β-alkynyl ketones. Acid 6 was treated with thionyl chloride in
+the presence of triethylamine in THF at room temperature.
+The resulting acid chloride 7 was then condensed in situ with
+the substituted trimethylsilyl acetylenes
+to furnish the
+corresponding α,β-acetylenic ketones 8 (Scheme 2).
+</para>
+<para sub="scope">
+Although this work deals mainly with the synthesis of the
+title compound, pyrazolo-pyrrolo-pyrazines 1, we reacted
+compound 8a with AuCl3 in a mixture of MeOH/CH3CN at
+room temperature and observed the formation of an eight-
+membered heterocycle 9 in 77% yield after chromatographic
+puriﬁcation (Scheme 3). The structure was assigned using 1D
+and 2D NMR spectra (DEPT, COSY, HSQC, and HMBC). In
+particular, the carbonyl carbon resonance at 191.1 ppm shows
+strong correlation with oleﬁnic proton H-8 (6.71 ppm) as well
+</para>
+Received:
+January 6, 2015
+Published: March 19, 2015
+
+© 2015 American Chemical Society
+
+3806
+
+DOI: 10.1021/acs.joc.5b00034
+J. Org. Chem. 2015, 80, 3806−3814
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 2. Synthesis of Alkyne-Substituted Pyrrole Derivatives 8
+
+Scheme 3. Synthesis of (6E,8Z)-6-Methoxypyrrolo[1,2-
+a]azocin-10(5H)-one (9)
+<para sub=“props”>
+as with pyrrole proton H-1 (6.77 ppm) over three bonds. On
+the other hand, the carbon resonance (C-6) at 155.2 ppm
+correlates with double bond protons H-8 (6.71 ppm) and H-7
+(5.52 ppm) and OCH3 protons resonating at 3.77 ppm.
+Furthermore, proton H-8, resonating at 6.72 ppm as a doublet
+of doublets, correlates with two oleﬁnic protons, H-9 and H-7,
+appearing at 5.91 and 5.52 ppm as doublets (COSY spectrum).
+All of these ﬁndings support the proposed structure 9.
+</para>
+<para sub="scope">
+The next step toward the substrate of the gold-catalyzed
+cyclization was the synthesis of a library of dialkynyl ketones 10
+with various substituents. The Sonogashira cross-coupling
+reaction13 was used for the synthesis of the desired starting
+materials.
+</para>
+<para sub="scope">
+As revealed in Scheme 4, several halo-substituted aromatic
+compounds were coupled smoothly with alkyne derivatives 8b
+to produce dialkynes 10.
+</para>
+Scheme 4. Synthesis of Substituted Dialkynes 10
+
+After the generation of substituted dialkynes 10 via the
+Sonogashira cross-coupling reaction, we turned our attention to
+the synthesis of pyrazole derivatives 11. Knorr pyrazole
+synthesis involving the condensation of a 1,3-dicarbonyl
+compound with hydrazine is the most widely used method
+for pyrazole skeleton construction.14 However, pyrazole
+synthesis by the condensation of pyropargyl ketones with
+hydrazines oﬀers some advantages.15 Even compounds with
+very sensitive functionalities can be readily constructed by a
+variety of acetylenic coupling reactions under very mild
+conditions.16
+<para sub="scope">
+To our delight, N-propargyl α,β-alkynyl acetylenes 8a−c and
+10a−e underwent a facile cyclization reaction with hydrazine,
+thus giving access to pyrazole-substituted pyrroles 11a−h in
+84−95% yields (Table 1).
+Interestingly, we found that
+hydrazine monohydrate reduces pyrazole 11a to 12 in the
+presence of air without any catalyst or metal (Scheme 5). We
+recently proposed that the oxygen dissolved in methanol was
+responsible for partial oxidation of hydrazine to diimide, which
+then reduced the triple and double bonds to the corresponding
+alkanes in high yields (Scheme 5).17
+</para>
+We envisioned that
+
+the metal-catalyzed intramolecular
+cyclization reaction between pyrazoles and alkynes might
+provide an entry to the facile synthesis of pyrazolo-pyrrolo-
+pyrazine 1318 and pyrazolo-pyrrolo-diazepine 14 systems.
+<para sub=“opt”>
+Seven diﬀerent catalysts were tested (Table 2). Surprisingly,
+no reaction was observed when the reaction was conducted
+with CuOTf, an N-heterocyclic carbene (NHC) complex of
+Au(I), and PtCl2(PPh3)3 in acetonitrile (Table 2, entries 1−3).
+Reactions with InCl3 and AgOTf gave trace amount of
+cyclization product after 24 h (entries 4 and 5). However,
+reactions with AuCl and AuCl3 catalysts gave endo-dig
+cyclization product 14g after 3 h (entries 6 and 7) in yields
+of 93 and 95%, respectively.
+</para>
+<para sub="scope">
+After having obtained the optimal conditions for the Au-
+catalyzed cyclization of 11g, we attempted to determine the
+scope and limitation of
+this transformation. To test our
+strategy, we reacted pyrazoles 11a−c, having terminal alkynes,
+with AuCl3 at room temperature to aﬀord pyrazolo-pyrrolo-
+pyrazines 13a−c in good-to-excellent yields (Table 3, entries
+1−3). The reaction proceeds via electrophilic activation of the
+triple bond followed by 6-exo-dig heterocyclization and H-shift,
+leading to pyrazolo-pyrrolo-pyrazine systems 13a−c. However,
+the reaction of substituted alkynes 11d−h, under the same
+reaction conditions, underwent smooth 7-endo-dig cycliza-
+tion19,20 to produce 14d−h having a pyrazolo[1,5-a]pyrrolo-
+[2,1-c][1,4]diazepine skeleton.21 The structures of cyclization
+products 13 and 14 were determined by 1D and 2D NMR
+(COSY, HSQC, and HMBC) spectra. The exact location of the
+methylene group in 13g was established from the HMBC
+spectrum, which showed a strong correlation between the
+methylene carbon appearing at 34.5 ppm with two o-protons of
+the benzene ring and a double bond proton in the pyrazine
+ring, clearly indicating that methylene protons are located
+between the double bond and the benzene ring. However, in
+the case of 14g, the methylene carbon shows correlation with
+the double bond proton as well as with the pyrrole proton,
+clearly showing that the methylene group is directly attached to
+the nitrogen atom of pyrrole.
+
+</para>
+<para sub="scope">
+The formation of 7-endo-dig cyclization products 14d−h can
+be explained by the initial activation of the alkyne unit with
+gold cation, where the positive charge is closer to the aromatic
+ring because of the better stabilization. The so-generated π-
+complex undergoes intramolecular nucleophilic attack by the
+</para>
+
+3807
+
+DOI: 10.1021/acs.joc.5b00034
+J. Org. Chem. 2015, 80, 3806−3814
+
+The Journal of Organic Chemistry
+
+Article
+
+Table 1. Reaction of Substituted 8 and 10 with Hydrazine
+under a Nitrogen Atmosphere To Give 11
+
+Scheme 5. Reaction of 8a with Hydrazine in the Presence
+and Absence of Air
+
+Table 2. Catalyst Screening on the Cyclization Reaction of
+11g
+
+entry
+
+catalyst
+
+1
+2
+3
+4
+5
+6
+7
+
+CuOTf
+PdCl2(PPh3)2
+Au(L)
+AgOTf
+InCl3
+AuCl
+AuCl3
+
+solvent
+CH3CN
+CH3CN
+CH3CN
+CH3CN
+CH3CN
+CH3CN
+CH3CN
+
+condition
+24 h, rt
+24 h, rt
+24 h, rt
+24 h, rt
+24 h, rt
+3 h, rt
+3 h, rt
+
+result
+
+no reaction
+no reaction
+no reaction
+trace
+trace
+93%
+95%
+<para sub=“ques”>
+On the basis of all the information obtained, we propose the
+following gold-catalyzed cyclization reaction mechanism
+(Scheme 6). The proposed catalytic cycle was initiated with
+π-activation of the triple bond by AuCl3 to form intermediate
+15, which triggers a gold-promoted intramolecular addition of
+the NH group of pyrazole to the alkyne functionality to give
+intermediates 16 and 17. The electronic nature of
+the
+substituents attached to the triple bond determines the mode
+of the nucleophilic attack. In the next step, the gold species is
+removed by a proton to give ﬁnal products 13 and 14.
+</para>
+<para sub="scope">
+After successful cyclization of pyrazole derivatives with
+AuCl3, giving 7-endo-dig as well as 6-exo-dig products, we
+turned our attention to intramolecular ring-cyclization reactions
+of 11a−h with NaH. The reaction of 11a−h with NaH in N,N-
+dimethylformamide (DMF) at
+room temperature gave
+exclusively 6-exo-dig heterocyclization products 13a−h. We
+assume that the alkyne functionality ﬁrst undergoes a base-
+catalyzed isomerization to give the corresponding allenes 18
+(Figure 2).12 Since the central carbon atom in the allene moiety
+is more electropositive, a nitrogen atom from the pyrazole ring
+attacks exclusively this carbon atom, giving rise to the formation
+of 6-exo-dig cyclization products 13 (Table 3).
+</para>
+<para sub="scope">
+It was interesting to observe that 10f did not form the
+expected pyrazole derivative 18 having acetylene units. The 13C
+NMR spectrum of the product showed that the acetylene
+carbon resonances were absent. The NMR spectra of the
+isolated product were in agreement with the cyclization product
+21 having an exo-methylene unit (Scheme 7). It is probable that
+hydrazine acts as a base and isomerizes the alkyne unit in 19 to
+the corresponding allene 20, which undergoes an intra-
+molecular 6-exo-trig cyclization reaction to give the isolated
+product 21.22 We assume that the pyridine ring, an electron-
+deﬁcient aromatic ring, is responsible for isomerization of the
+alkyne unit into the corresponding allene moiety. The NMR
+spectra of 21 supported the proposed structure. The isomer-
+ization of 21 into 22 was accomplished with DBU at room
+</para>
+3808
+
+DOI: 10.1021/acs.joc.5b00034
+J. Org. Chem. 2015, 80, 3806−3814
+
+aReaction conditions: ketones (0.5 mmol), hydrazine monohydrate (1
+mL), MeOH (15 mL), 70 °C, 3 h. bIsolated yields, %.
+<para sub="scope">
+nitrogen atom of the pyrazole group, aﬀording the seven-
+membered ring.
+</para>
+
+The Journal of Organic Chemistry
+Table 3. Intramolecular Cyclization of 11a−h with AuCl3
+and NaH To Produce 13 and 14
+
+Scheme 6. Proposed Reaction Mechanism for the
+Intramolecular Gold-Catalyzed Cyclization Reactions To
+Form 13 and 14
+
+Article
+
+Figure 2. Structure of the intermediate 18 formed during cyclization
+with NaH.
+
+Scheme 7. Reaction of 10f with Hydrazine and Synthesis of
+21 and 22
+<para sub="scope">
+temperature in high yield. The spectral data of 22 were in
+complete agreement with the proposed structure. Finally, the
+structure of 22 was further conﬁrmed by single-crystal X-ray
+analysis (see the Supporting Information).
+</para>
+■ CONCLUSIONS
+
+We have developed a concise synthetic methodology for new
+heterocyclic scaﬀolds, such as pyrazolo-pyrrolo-pyrazine skel-
+eton 13 as well as pyrazolo-pyrrolo-diazepine skeleton 14. The
+key features of this method include (i) synthesis of pyrrole-
+derived α,β-alkynyl ketones, (ii) introduction of various
+substituents into the alkyne functionality by Sonogashira
+cross-coupling, (iii) synthesis of pyrazole units by the reaction
+of α,β-alkynyl compounds with hydrazine monohydrate, (iv)
+gold-catalyzed cyclization of pyrazoles with alkyne units, and
+(v) cyclization with NaH. This synthetic strategy represents a
+reasonable methodology for
+the construction of hitherto
+unknown skeletons, pyrazolo-pyrrolo-diazepine and pyrazolo-
+pyrrolo-pyrazine, in high yield. Furthermore, this methodology
+will allow us to introduce various substituents into all positions
+of the target compound.
+
+3809
+
+DOI: 10.1021/acs.joc.5b00034
+J. Org. Chem. 2015, 80, 3806−3814
+
+The Journal of Organic Chemistry
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Methods. All reagents were used as purchased from
+commercial suppliers without
+further puriﬁcation. Proton nuclear
+magnetic resonance spectra (1H NMR) were recorded on a 400 MHz
+instrument, and chemical shifts are reported in parts per million (ppm)
+downﬁeld from TMS, using residual CDCl3 as an internal standard.
+The 13C NMR spectra were recorded on a 100 MHz instrument and
+are reported in ppm using solvent as an internal standard (CDCl3).
+Column chromatography was performed on silica gel (60 mesh). TLC
+was carried out on 0.2 mm silica gel 60 F254 analytical aluminum
+plates. High-resolution mass spectra were recorded by LC-MS TOF
+electrospray ionization. Chemicals and all solvents were commercially
+available and used without further puriﬁcation. Infrared (IR) spectra
+were recorded in the range 4000−600 cm−1 via ATR diamond.
+Melting points were measured using a melting point apparatus and
+were uncorrected. Evaporation of solvents was performed at reduced
+pressure, using a rotary vacuum evaporator.
+
+1-(Prop-2-yn-1-yl)-1H-pyrrole-2-carboxylic Acid (6).17 To a
+solution of methyl 1-(prop-2-yn-1-yl)-1H-pyrrole-2-carboxylate (1.0
+g, 6.13 mmol) in methanol (3 mL) were added a solution of
+methanol/water (1:1) (60 mL) and K2CO3 (15 g). The reaction
+mixture was reﬂuxed for 24 h. After cooling to room temperature, the
+mixture was acidiﬁed with 3 N hydrochloric acid in an ice bath for 15
+min and extracted with ethyl acetate. The organic extracts were dried
+over Na2SO4 and evaporated to give 1-(prop-2-yn-1-yl)-1H-pyrrole-2-
+carboxylic acid (6) as colorless crystals (95%, 5.82 mmol, 0.87 g). 1H
+NMR (400 MHz, CDCl3) δ 7.15−7.12 (m, 1H, CH), 7.07 (dd, J = 4.0
+and 1.8 Hz, 1H, CH), 6.15 (dd, J = 4.0 and 2.7 Hz, 1H, CH), 5.10 (d, J
+= 2.6 Hz, 2H, CH2), 2.38 (t, J = 2.6 Hz, 1H, CCH). 13C NMR (100
+MHz, CDCl3) δ 164.1, 127.3, 119.1, 118.9, 107.2, 76.1, 72.2, 36.5.
+1-(1-(Prop-2-yn-1-yl)-1H-pyrrol-2-yl)prop-2-yn-1-one (8a). To a
+solution of 1-(prop-2-yn-1-yl)-1H-pyrrole-2-carboxylic acid (6) (500
+mg, 3.35 mmol) in THF (20 mL) was added triethylamine (100 μL,
+0.7 mmol). The reaction mixture was stirred at room temperature for
+0.5 h. To this solution was then added a solution of thionyl chloride
+(800 μL, 11 mmol) in THF (2 mL) dropwise, and the resulting
+mixture was stirred at room temperature for 3 h. Afterward, the solid
+was ﬁltered oﬀ, and solvent was evaporated. The acyl chloride was
+dissolved in chloroform (5 mL) without puriﬁcation, and trimethylsilyl
+acetylene (480 μL, 1.0 equiv) was added to the solution at room
+temperature. The mixture was then added to a solution of aluminum
+chloride (450 mg, 3.4 mmol) in chloroform (15 mL) dropwise at 0 °C,
+and the mixture was stirred for 24 h at room temperature. After
+completion of the reaction (controlled by TLC), water (30 mL) was
+added, and the solution was extracted with ethyl acetate. The
+combined organic extracts were dried over Na2SO4. The solvent was
+evaporated to give crude product, which was puriﬁed by column
+chromatography, eluting with EtOAc/hexane to give 8a as colorless
+crystals (65%, 1.82 mmol, 0.29 g). mp 81−83 °C. Rf = 0.5 (ethyl
+acetate/hexane, 1:4). 1H NMR (400 MHz, CDCl3) δ 7.20 (ddd, J =
+5.8, 4.1, and 1.8 Hz, 2H, CH), 6.17 (dd, J = 4.1 and 2.6 Hz, 1H, CH),
+5.10 (d, J = 2.6 Hz, 2H, CH2), 3.13 (s, 1H, CCH), 2.41 (t, J = 2.6
+Hz, 1H, CCH). 13C NMR (100 MHz, CDCl3) δ 164.7, 130.3,
+129.9, 124.4, 108.9, 79.9, 76.4, 75.9, 73.7, 37.8. IR (ATR, cm−1) 3259,
+3107, 2915, 2121, 2097, 1608, 1463, 1395, 1335, 1235, 1059, 975, 939,
+736, 654. HRMS calcd for (C10H7NO) [M + H]+, 158.06004; found,
+158.05972.
+
+3-Phenyl-1-(1-(prop-2-yn-1-yl)-1H-pyrrol-2-yl)prop-2-yn-1-one
+(8b). To a solution of 1-(prop-2-yn-1-yl)-1H-pyrrole-2-carboxylic acid
+(6) (500 mg, 3.35 mmol) in THF (20 mL) was added triethylamine
+(100 μL, 0.7 mmol). The reaction mixture was stirred at room
+temperature for 0.5 h. To this solution was then added a solution of
+thionyl chloride (800 μL, 11 mmol) in THF (2 mL) dropwise, and the
+resulting mixture was stirred at room temperature for 3 h. Afterward,
+the solid was ﬁltered oﬀ, and solvent was evaporated. The acyl chloride
+was dissolved in chloroform (5 mL) without puriﬁcation, and
+trimethyl(phenylethynyl)silane21 (580 mg, 1.0 equiv) was added to
+the solution at room temperature. The mixture was then added to a
+solution of aluminum chloride (450 mg) in chloroform (15 mL)
+</para>
+Article
+<para sub=“exp”>
+dropwise at 0 °C, and the mixture was stirred for 24 h at room
+temperature. After completion of the reaction (controlled by TLC),
+water (30 mL) was added, and the solution was extracted with ethyl
+acetate. The combined organic extracts were dried over Na2SO4. The
+solvent was evaporated to give crude product, which was puriﬁed by
+column chromatography, eluting with EtOAc/hexane to give 8b as a
+brown colored solid (70%, 2.68 mmol, 625 mg). mp 79−81 °C. Rf =
+0.5 (ethyl acetate/hexane, 1:4). 1H NMR (400 MHz, CDCl3) δ 7.57−
+7.47 (m, 2H, CH), 7.37−7.25 (m, 3H, CH), 7.24 (dd, J = 4.1 and 1.7
+Hz, 1H, CH), 7.20−7.17 (m, 1H, CH), 6.17 (dd, J = 4.1 and 2.6 Hz,
+1H, CH), 5.14 (d, J = 2.6 Hz, 2H, CH2), 2.39 (t, J = 2.6 Hz, 1H, C
+CH). 13C NMR (100 MHz, CDCl3) δ 166.8, 132.9, 131.4, 130.8,
+130.3, 128.6, 124.6, 120.6, 109.8, 89.1, 87.5, 77.7, 74.6, 38.8. IR (ATR,
+cm−1) 3059, 2983, 2200, 2121, 1607, 1401, 1332, 1266, 1214, 1076,
+1050, 984, 746, 728, 686. HRMS calcd for (C16H11NO) [M + H]+,
+234.09134; found, 234.09136.
+
+1-(1-(Prop-2-yn-1-yl)-1H-pyrrol-2-yl)hept-2-yn-1-one (8c). To a
+solution of 1-(prop-2-yn-1-yl)-1H-pyrrole-2-carboxylic acid (6) (500
+mg, 3.35 mmol) in THF (20 mL) was added triethylamine (100 μL,
+0.7 mmol). The reaction mixture was stirred at room temperature for
+0.5 h. To this solution was then added a solution of thionyl chloride
+(800 μL, 11 mmol) in THF (2 mL) dropwise, and the resulting
+mixture was stirred at room temperature for 3 h. Afterward, the solid
+was ﬁltered oﬀ, and solvent was evaporated. The acyl chloride was
+dissolved in chloroform (5 mL) without puriﬁcation, and hex-1-yn-1-
+yltrimethylsilane (517 mg, 1.0 equiv) was added to the solution at
+room temperature. The mixture was then added to a solution of
+aluminum chloride (450 mg) in chloroform (15 mL) dropwise at 0 °C,
+and the mixture was stirred for 24 h at room temperature. After
+completion of the reaction (controlled by TLC), water (30 mL) was
+added, and the solution was extracted with ethyl acetate. The
+combined organic extracts were dried over Na2SO4. The solvent was
+evaporated to give crude product, which was puriﬁed by column
+chromatography, eluting with EtOAc/hexane to give 8c as a colorless
+viscous liquid (67%, 2.24 mmol, 478 mg). Rf = 0.7 (ethyl acetate/
+hexane, 1:4). 1H NMR (400 MHz, CDCl3) δ 7.06−7.02 (m, 1H, CH),
+6.99 (dd, J = 4.1 and 1.8 Hz, 1H, CH), 6.02 (dd, J = 4.1 and 2.6 Hz,
+1H, CH), 5.01 (d, J = 2.5 Hz, 1H, CH2), 2.26 (t, J = 2.6 Hz, 1H, C
+CH), 2.23 (t, J = 7.0 Hz, 2H, CH2), 1.47−1.37 (m, 2H, CH2), 1.28
+(hextet, J = 7.1 Hz, 1H, CH2), 0.75 (t, J = 7.3 Hz, 3H, CH3). 13C
+NMR (100 MHz, CDCl3) δ 167.5, 131.7, 130.6, 124.5, 109.7, 92.6,
+80.3, 77.9, 74.6, 38.9, 30.1, 22.3, 18.9, 13.8. IR (ATR, cm−1) 2962,
+2931, 2868, 2240, 2203, 1605, 1403, 1348, 1233, 1111, 1076, 901, 865,
+733. HRMS calcd for (C14H15NO) [M + H]+, 214.12264; found,
+214.12276.
+
+(6E,8Z)-6-Methoxypyrrolo[1,2-a]azocin-10(5H)-one (9). To a
+solution of 1-(1-(prop-2-yn-1-yl)-1H-pyrrol-2-yl)prop-2-yn-1-one
+(8a) (100 mg, 0.64 mmol) in acetonitrile (4 mL) was added gold
+trichloride (2.5 mmol %, 5 mg) in acetonitrile (1 mL) dropwise at
+room temperature. The reaction mixture suddenly becomes dark red,
+and then methanol (100 μL) was added. The resulting mixture was
+stirred at room temperature for 24 h. The crude product was
+chromatographed on a silica gel column, eluting with EtOAc/hexane
+to give 9 as an yellow-colored solid. (77%, 0.49 mmol, 0.09 g). mp
+119−120 °C. Rf = 0.5 (ethyl acetate/hexane, 1:2). 1H NMR (400
+MHz, CDCl3) δ 6.80−6.75 (m, 1H, CH), 6.72 (dd, J = 12.8 and 8.4
+Hz, 1H, CH), 6.48 (dd, J = 3.8 and 1.7 Hz, 1H, CH), 6.25 (dd, J = 3.8
+and 2.7 Hz, 1H, CH), 5.91 (d, J = 12.8 Hz, 1H, CH), 5.52 (d, J = 8.4
+Hz, 1H, CH), 4.64 (d, J = 13.4 Hz, 1H, CH), 4.37 (d, J = 13.4 Hz, 1H,
+CH), 3.77 (s, 3H, OCH3). 13C NMR (100 MHz, CDCl3) δ 191.1,
+155.2, 138.8, 126.9, 125.9, 121.9, 110.1, 109.7, 97.3, 54.9, 54.1. IR
+(ATR, cm−1) 3116, 2916, 2848, 1652, 1554, 1524, 1441, 1416, 1223,
+1156, 1078, 957, 758. HRMS calcd for (C11H11NO2) [M + H]+,
+190.08626; found, 190.08655.
+
+General Procedure for Sonogashira Coupling. A stirred mixture of
+CuI (17 mg, 0.09 mmol), PPh3 (90 mg, 0.34 mmol), and Pd(OAc)2
+(17 mg, 0.08 mmol) was purged with nitrogen for 30 min and heated
+at 50 °C. Then, a solution of α,β-acetylenic ketones (1.1 mmol), halide
+arenes (1.2 mmol), and DIPA (2 mL) in THF (15 mL) was added
+successively. The mixture was then reﬂuxed for 2−4 h at 70 °C. After
+</para>
+3810
+
+DOI: 10.1021/acs.joc.5b00034
+J. Org. Chem. 2015, 80, 3806−3814
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+complete conversion (monitored by TLC), solvent was evaporated,
+and the residue was chromatographed on silica gel, eluting with ethyl
+acetate/hexane to give pure product.
+
+added, and the mixture was extracted with ethyl acetate (2 × 20 mL).
+The combined extracts were dried over Na2SO4 and evaporated. The
+crude product was chromatographed on silica gel, eluting with ethyl
+acetate/hexane to give pyrazole derivatives.
+
+5-(1-(Prop-2-yn-1-yl)-1H-pyrrol-2-yl)-1H-pyrazole (11a). A light
+yellow viscous liquid (85%, 0.43 mmol, 73 mg). Rf = 0.5 (ethyl
+acetate/hexane, 1:2). 1H NMR (400 MHz, CDCl3) δ 9.73 (bs, 1H),
+7.49 (d, J = 2.1 Hz, 1H), 6.86 (dd, J = 2.7, 1.8 Hz, 1H), 6.41 (d, J = 2.1
+Hz, 1H), 6.36 (dd, J = 3.7, 1.8 Hz, 1H), 6.20−6.13 (m, 1H), 4.91 (d, J
+= 2.5 Hz, 2H), 2.31 (t, J = 2.5 Hz, 1H). 13C NMR (100 MHz, CDCl3)
+δ 141.2, 131.3, 124.0, 121.8, 108.8, 107.8, 103.3, 78.1, 72.3, 36.4. IR
+(ATR, cm−1) 3273, 3159, 2916, 2902, 2845, 1712, 1614, 1580, 1435,
+1401, 1111, 1072, 934, 791, 678. HRMS calcd for (C10H9N3) [M +
+H]+, 172.08692; found, 172.08650.
+
+3-Phenyl-5-(1-(prop-2-yn-1-yl)-1H-pyrrol-2-yl)-1H-pyrazole (11b).
+A light yellow viscous liquid (95%, 0.48 mmol, 117 mg). Rf = 0.6
+(ethyl acetate/hexane, 1:2). 1H NMR (400 MHz, CDCl3) δ 7.75−7.67
+(m, 2H), 7.42 (t, J = 7.4 Hz, 2H), 7.38−7.31 (m, 1H), 6.95 (dd, J =
+2.7, 1.8 Hz, 1H), 6.73 (s, 1H), 6.45 (dd, J = 3.6, 1.8 Hz, 1H), 6.27−
+6.23 (m, 1H), 4.96 (d, J = 2.5 Hz, 2H), 2.41 (t, J = 2.5 Hz, 1H). 13C
+NMR (100 MHz, CDCl3) δ 148.1, 134.9, 131.1, 128.9, 128.8, 128.4,
+125.6, 123.0, 109.9, 108.9, 101.8, 78.9, 73.6, 37.4. IR (ATR, cm−1)
+3289, 3153, 3104, 3065, 3016, 2919, 1690, 1605, 1581, 1456, 1283,
+1073, 966, 762, 717, 690. HRMS calcd for (C16H13N3) [M + H]+,
+248.11822; found, 248.11809.
+
+3-Butyl-5-(1-(prop-2-yn-1-yl)-1H-pyrrol-2-yl)-1H-pyrazole (11c).
+A light yellow viscous liquid (92%, 0.46 mmol, 105 mg). Rf = 0.4
+(ethyl acetate/hexane, 1:4). 1H NMR (400 MHz, CDCl3) δ 6.85 (dd, J
+= 2.6, 1.9 Hz, 1H), 6.29 (dd, J = 3.6, 1.9 Hz, 1H), 6.18−6.07 (m, 2H),
+4.93 (d, J = 2.5 Hz, 2H), 2.58−2.45 (t, J = 7.7 Hz, 2H), 2.28 (t, J = 2.5
+Hz, 1H), 1.53 (quintet, J = 7.5 Hz, 2H), 1.28 (hextet, J = 7.5 Hz, 2H),
+0.84 (t, J = 7.3 Hz, 3H). 13C NMR (100 MHz, CDCl3) δ 147.0, 135.0,
+125.8, 122.4, 109.4, 108.6, 102.6, 79.2, 73.2, 37.4, 31.3, 25.9, 22.3, 13.8.
+IR (ATR, cm−1) 3286, 3189, 3098, 2955, 2929, 2860, 1584, 1466,
+1273, 1068, 944, 786, 712. HRMS calcd for (C14H17N3) [M + H]+,
+228.14952; found, 228.15039.
+
+5-(1-(3-(3-Nitrophenyl)prop-2-yn-1-yl)-1H-pyrrol-2-yl)-3-phenyl-
+1H-pyrazole (11d). A yellow colored solid (94%, 0.47 mmol, 173 mg).
+mp 117−118 °C. Rf = 0.6 (ethyl acetate/hexane, 1:2). 1H NMR (400
+MHz, CDCl3) δ 8.11−8.08 (m, 2H), 7.63 (d, J = 6.9 Hz, 2H), 7.55 (t,
+J = 7.2 Hz, 1H), 7.39−7.27 (m, 4H), 6.96 (s, 1H), 6.72 (s, 1H), 6.49−
+6.41 (m, 1H), 6.26 (dd, J = 3.6, 1.8 Hz, 1H), 5.17 (s, 2H). 13C NMR
+(100 MHz, CDCl3) δ 148.5, 148.0, 143.0, 137.9, 131.2, 129.8, 129.5,
+128.9, 127.1, 126.2, 125.3, 124.6, 123.8, 123.6, 110.6, 109.6, 102.4,
+87.6, 83.2, 38.6. IR (ATR, cm−1) 3101, 3074, 2968, 2913, 1581, 1525,
+1348, 1280, 1073, 944, 802, 761,717. HRMS calcd for (C22H16N4O2)
+[M + H]+, 369.13460; found, 369.13714.
+
+5-(1-(3-(4-Fluorophenyl)prop-2-yn-1-yl)-1H-pyrrol-2-yl)-3-phenyl-
+1H-pyrazole (11e). A light yellow viscous liquid (84%, 0.42 mmol, 143
+mg). Rf = 0.4 (ethyl acetate/hexane, 1:4). 1H NMR (400 MHz,
+CDCl3) δ 9.39 (bs, 1H), 7.69 (d, J = 7.1 Hz, 2H), 7.46−7.35 (m, 5H),
+7.01−7.02 (m, 1H), 6.99−6.95 (J = 8.6, Hz, 2H), 6.74 (s, 1H), 6.45
+(dd, J = 3.6, 1.7 Hz, 1H), 6.31−6.20 (m, 1H), 5.12 (s, 2H). 13C NMR
+(100 MHz, CDCl3) δ 162.68 (d, JC,F = 248 Hz), 148.3, 141.4, 133.73
+(d, JC,F = 9 Hz), 131.2, 128.9, 128.3, 125.7, 124.3, 123.1, 118.4, 115.62
+(d, JC,F = 22 Hz), 109.9, 108.8, 101.8, 84.3, 83.9, 38.2. IR (ATR, cm−1)
+2971, 2916, 2850, 1651, 1590, 1525, 1504, 1454, 1345, 1076, 764, 715,
+690. HRMS calcd for (C22H16FN3) [M + H]+, 342.14010; found,
+342.14384.
+
+3-Phenyl-5-(1-(3-(p-tolyl)prop-2-yn-1-yl)-1H-pyrrol-2-yl)-1H-pyra-
+zole (11f). A yellow colored viscous oil (97%, 0.49 mmol, 165 mg). Rf
+= 0.4 (ethyl acetate/hexane, 1:4). 1H NMR (400 MHz, CDCl3) δ
+10.94 (bs, 1H), 7.80 (bd, J = 7.9 Hz, 2H), 7.45 (t, J = 7.2 Hz, 2H),
+7.41−7.38 (m, 3H), 7.16 (bd, J = 7.7 Hz, 2H), 7.11 (bs, 1H), 6.87 (bd,
+J = 1.9 HZ, 1H 1H), 6.56 (dd, J = 3.5, 1.7 Hz, 1H), 6.34 (dd, J = 3.5,
+2.6 Hz, 1H), 5.15 (s, 2H), 2.40 (s, 3H). 13C NMR (100 MHz, CDCl3)
+δ 148.4, 141.2, 138.8, 131.8, 131.2, 129.2, 128.9, 128.3, 125.8, 124.2,
+123.2, 119.4, 110.1, 108.8, 101.9, 85.7, 83.5, 38.3, 21.5. IR (ATR,
+cm−1) 3056, 2922, 1457, 1073. HRMS calcd for (C23H19N3) [M +
+H]+, 338.16517; found, 338.16333.
+</para>
+3811
+
+DOI: 10.1021/acs.joc.5b00034
+J. Org. Chem. 2015, 80, 3806−3814
+<para sub=“exp”>
+3-Phenyl-1-(1-(3-phenylprop-2-yn-1-yl)-1H-pyrrol-2-yl)prop-2-yn-
+1-one (10a). A yellow colored solid (85%, 0.94 mmol, 289 mg). mp
+76−78 °C. Rf = 0.5 (ethyl acetate/hexane, 1:10). 1H NMR (400 MHz,
+CDCl3) δ 7.56 (dd, J = 8.1, 1.4 Hz, 2H), 7.46−7.19 (m, 11H), 6.21
+(dd, J = 4.0, 2.6 Hz, 1H), 5.40 (s, 2H). 13C NMR (100 MHz, CDCl3)
+δ 166.8, 132.8, 131.9, 131.5, 130.8, 130.2, 128.7, 128.6, 128.3, 124.6,
+122.3, 120.7, 109.6, 88.9, 87.5, 86.3, 82.9, 39.7. IR (ATR, cm−1) 2974,
+2913, 2846, 2199, 1604, 1402, 1352, 1266, 1214, 1074, 1049, 971.
+HRMS calcd for (C22H15NO) [M + H]+, 310.12264;
+found,
+310.12365.
+
+1-(1-(3-(3-Nitrophenyl)prop-2-yn-1-yl)-1H-pyrrol-2-yl)-3-phenyl-
+prop-2-yn-1-one (10b). A yellow colored solid (80%, 0.88 mmol, 312
+mg). mp 100−102 °C. Rf = 0.4 (ethyl acetate/hexane, 1:4). 1H NMR
+(400 MHz, CDCl3) δ 8.31−8.24 (m, 1H), 8.17 (ddd, J = 8.3, 2.2, 1.0
+Hz, 1H), 7.76−7.71 (m, 1H), 7.67−7.59 (m, 2H), 7.54−7.26 (m, 7H),
+6.31 (dd, J = 4.1, 2.6 Hz, 1H), 5.50 (s, 2H). 13C NMR (100 MHz,
+CDCl3) δ 166.9, 148.1, 137.5, 132.8, 131.5, 130.9, 130.4, 129.4, 128.6,
+126.7, 124.6, 124.1, 123.4, 120.5, 109.9, 89.3, 87.4, 85.9, 83.3, 39.4. IR
+(ATR, cm−1) 3083, 2919, 2850, 2196, 1609, 1526, 1407, 1345, 1053,
+981, 729. HRMS calcd for (C22H14N2O3) [M + H]+, 355.10772;
+found, 355.10946.
+
+1-(1-(3-(4-Fluorophenyl)prop-2-yn-1-yl)-1H-pyrrol-2-yl)-3-phenyl-
+prop-2-yn-1-one (10c). A yellow colored solid (90%, 0.99 mmol, 324
+mg). mp 83−84 °C. Rf = 0.5 (ethyl acetate/hexane, 1:4). 1H NMR
+(400 MHz, CDCl3) δ 7.57−7.53 (m, 2H), 7.38−7.29 (m, 7H), 6.93 (t,
+J = 8.7 Hz, 2H), 6.23−6.19 (m, 1H), 5.38 (s, 2H). 13C NMR (100
+MHz, CDCl3) δ 165.7, 161.59 (d, JC,F = 248 Hz), 132.65 (d, JC,F = 8
+Hz), 131.6, 130.4, 129.6, 129.1, 127.4, 123.4, 119.5, 117.2, 114.48 (d,
+JC,F = 22 Hz), 108.5, 87.9, 86.4, 83.9, 81.6, 38.4. IR (ATR, cm−1) 2989,
+2962, 2917, 2196, 1611, 1503, 1402, 1350, 1220, 1050, 974, 833, 750,
+727, 683. HRMS calcd for (C22H14FNO) [M + H]+, 328.11322;
+found, 328.11648
+
+3-Phenyl-1-(1-(3-(p-tolyl)prop-2-yn-1-yl)-1H-pyrrol-2-yl)prop-2-
+yn-1-one (10d). A yellow colored solid (95%, 1.04 mmol, 336 mg).
+mp 94−96 °C. Rf = 0.7 (ethyl acetate/hexane, 1:4). 1H NMR (400
+MHz, CDCl3) δ 7.61−7.59 (m, 2H), 7.43−7.32 (m, 7H), 7.09 (d, J =
+8.1 Hz, 2H), 6.26 (dd, J = 4.0, 2.6 Hz, 1H), 5.43 (s, 2H), 2.31 (s, 3H).
+13C NMR (100 MHz, CDCl3) δ 166.8, 138.9, 132.8, 131.8, 131.5,
+130.9, 130.3, 129.1, 128.6, 124.6, 120.7, 119.2, 109.6, 89.0, 87.6, 86.5,
+82.2, 39.8, 21.5. IR (ATR, cm−1) 2985, 2970, 2899, 2196, 1607, 1407,
+1349, 1049. HRMS calcd for (C23H17NO) [M + H]+, 324.13829;
+found, 324.13612.
+
+3-(4-Methoxyphenyl)-1-(1-(3-(4-methoxyphenyl)prop-2-yn-1-yl)-
+1H-pyrrol-2-yl)prop-2-yn-1-one (10e). A yellow colored solid (83%,
+0.91 mmol, 337 mg). mp 102−104 °C. Rf = 0.4 (ethyl acetate/hexane,
+1:4). 1H NMR (400 MHz, CDCl3) δ 7.62−7.53 (m, 2H), 7.42−7.36
+(m, 3H), 7.33 (dd, J = 4.0, 1.7 Hz, 1H), 6.94−6.87 (m, 2H), 6.86−
+6.78 (m, 2H), 6.27 (dd, J = 4.0, 2.6 Hz, 1H), 5.45 (s, 2H), 3.84 (s,
+3H), 3.80 (s, 3H). 13C NMR (100 MHz, CDCl3) δ 167.1, 161.3,
+159.9, 134.7, 133.3, 131.6, 130.6, 124.2, 114.3, 113.9, 112.5, 109.4,
+89.9, 87.2, 86.2, 81.6, 55.4, 55.3, 39.8. IR (ATR, cm−1) 2917, 2847,
+2194, 1593, 1506, 1400, 1246, 1022, 826. HRMS calcd for
+(C24H19NO3) [M + H]+, 370.14377; found, 370.14424.
+
+3-Phenyl-1-(1-(3-(pyridin-2-yl)prop-2-yn-1-yl)-1H-pyrrol-2-yl)-
+prop-2-yn-1-one (10f). A yellow viscous liquid (91%, 1.0 mmol, 311
+mg). Rf = 0.4 (ethyl acetate/hexane, 1:2). 1H NMR (400 MHz,
+CDCl3) δ 8.59−8.55 (m, 1H), 7.64 (m, 3H), 7.49−7.33 (m, 6H), 7.24
+(ddd, J = 7.6, 4.9, 1.1 Hz, 1H), 6.28 (dd, J = 4.1, 2.6 Hz, 1H), 5.51 (s,
+2H). 13C NMR (100 MHz, CDCl3) δ 166.8, 150.0, 142.5, 136.2, 132.8,
+131.5, 131.1, 130.3, 128.7, 127.4, 124.6, 123.3, 120.6, 109.9, 89.1, 87.5,
+85.3, 83.0, 39.3. IR (ATR, cm−1) 2986, 2901, 2197, 1593, 1579, 1463,
+1401, 1269, 1045, 750, 728. HRMS calcd for (C21H14N2O) [M + H]+,
+311.11789; found, 311.12187.
+General Procedure for the Synthesis of Pyrazoles. To a reﬂuxing
+solution of methanol (15 mL) and ketones 8a−c/10a−e (0.5 mmol)
+was added hydrazine monohydrate (1 mL) dropwise at 70 °C under a
+nitrogen atmosphere. Reﬂuxing was continued for 3 h, water was
+</para>
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+3-Phenyl-5-(1-(3-phenylprop-2-yn-1-yl)-1H-pyrrol-2-yl)-1H-pyra-
+zole (11g). A light yellow viscous liquid (97%, 0.49 mmol, 157 mg). Rf
+= 0.4 (ethyl acetate/hexane, 1:4). 1H NMR (400 MHz, CDCl3) δ
+10.99 (bs, 1H), 7.59 (dd, J = 8.2, 1.1 Hz, 2H), 7.33−7.12 (m, 9H),
+6.91 (dd, J = 2.8, 1.8 Hz, 1H), 6.65 (s, 1H), 6.35 (dd, J = 3.6, 1.8 Hz,
+1H), 6.14 (dd, J = 3.6, 2.9 Hz, 1H), 4.98 (s, 2H). 13C NMR (100
+MHz, CDCl3) δ 147.2, 140.0, 130.7, 130.1, 127.8, 127.5, 127.2, 124.6,
+123.1, 122.1, 121.3, 108.9, 107.7, 100.8, 84.4, 83.0, 37.2. IR (ATR,
+cm−1) 3105, 3050, 2918, 1605, 1456, 1284, 1178, 1073, 966, 908.
+HRMS calcd for (C22H17N3) [M + H]+, 324.14952; found, 324.15236.
+3-(4-Methoxyphenyl)-5-(1-(3-(4-methoxyphenyl)prop-2-yn-1-yl)-
+1H-pyrrol-2-yl)-1H-pyrazole (11h). A light yellow viscous liquid (88%,
+0.44 mmol, 169 mg). Rf = 0.4 (ethyl acetate/hexane, 1:2). 1H NMR
+(400 MHz, CDCl3) δ 7.63 (bd, J = 8.7 Hz, 2H), 7.36−7.30 (m, 2H),
+7.02 (dd, J = 2.6, 1.8 Hz, 1H), 6.92 (bd, J = 8.8 Hz, 2H), 6.80 (bd, J =
+8.8 Hz, 2H), 6.67 (s, 1H), 6.44 (dd, J = 3.5, 1.8 Hz, 1H), 6.26−6.21
+(m, 1H), 5.11 (s, 2H), 3.82 (s, 3H), 3.78 (s, 3H). 13C NMR (100
+MHz, CDCl3) δ 159.8, 159.7, 146.1, 140.5, 133.3, 126.9, 124.3, 124.1,
+123.1, 114.4, 114.3, 113.9, 109.8, 108.6, 101.3, 85.4, 82.8, 55.3, 55.3,
+38.4. IR (ATR, cm−1) 2962, 2928, 2834, 1606, 1506, 1245, 1173, 1028,
+830. HRMS calcd for (C24H21N3O2) [M + H]+, 384.17065; found,
+384.17214.
+
+5-(1-Propyl-1H-pyrrol-2-yl)-1H-pyrazole (12). A yellow viscous
+liquid (85%, 0.43 mmol, 74 mg). Rf = 0.6 (ethyl acetate/hexane, 1:2).
+1H NMR (400 MHz, CDCl3) δ 9.26 (bs, 1H), 7.55 (bd, J = 2.1 Hz,
+1H), 6.77−6.75 (m, 1H), 6.39 (dd, J = 3.6, 1.8 Hz, 1H), 6.36 (d, J =
+2.1 Hz, 1H), 6.19 (dd, J = 3.6, 2.9 Hz, 1H), 4.05 (t, J = 0.3 Hz, 2H),
+1.71 (hextet, J = 7.3 Hz, 2H), 0.85 (t, J = 7.3 Hz, 3H). 13C NMR (100
+MHz, CDCl3) δ 141.3, 133.8, 124.5, 123.1, 109.3, 107.7, 104.1, 49.5,
+24.7, 11.2. IR (ATR, cm−1) 3162, 2920, 2834, 1706, 1575, 1463, 1302,
+1253, 1105, 1065, 1041, 764, 712. HRMS calcd for (C10H13N3) [M +
+H]+, 176.11822; found, 176.11776.
+
+General Procedure for
+
+Reaction of 11g with Diﬀerent Metal Catalysts. To a solution of
+pyrazole 11g (0.5 mmol) in acetonitrile (10 mL) was added a solution
+of metal catalysts (3% mol; see Table 2) in acetonitrile (1 mL)
+dropwise at room temperature under a nitrogen atmosphere. The
+reaction mixture was stirred for 3−24 h. The solvent was evaporated.
+The residue was puriﬁed by a short silica gel column, eluting with ethyl
+acetate/hexane. The residue was analyzed by 1H NMR spectroscopy.
+the Synthesis of Pyrazolo-pyrrolo-
+pyrazines and Pyrazolo-pyrollo-diazepines via AuCl3-Catalyzed
+Cyclization. To a solution of pyrazole 11 (0.4 mmol) in acetonitrile
+(10 mL) was added a solution of gold trichloride (2.5 mmol %, 3 mg)
+in acetonitrile (1 mL) dropwise at room temperature under a nitrogen
+atmosphere. The reaction mixture was stirred for 8−24 h. The solvent
+was evaporated. The residue was chromatographed on silica gel,
+eluting with ethyl acetate/hexane to give pyrazolo-pyrrolo-pyrazines
+and pyrazolo-pyrolo-diazepines 13 and 14.
+
+General Procedure for
+
+the Synthesis of Pyrazolo-pyrrolo-
+pyrazines via NaH-Promoted Cyclization. To a solution of pyrazole
+11 (0.4 mmol) in DMF (10 mL) was added sodium hydride (1.1
+equiv) at room temperature under a nitrogen atmosphere. The
+reaction mixture was stirred for 10−15 min. After complete conversion
+(monitored by TLC), water was added, and the mixture was extracted
+with ethyl acetate (2 × 20 mL). The combined extracts were dried
+over MgSO4 and evaporated. The crude product was chromato-
+graphed on silica gel, eluting with ethyl acetate/hexane to give
+pyrazolo-pyrrolo-pyrazines 13.
+
+5-Methylpyrazolo[1,5-a]pyrrolo[2,1-c]pyrazine (13a). A viscous
+oil (95%, 0.38 mmol, 65 mg). Rf = 0.5 (ethyl acetate/hexane, 1:4). 1H
+NMR (400 MHz, CDCl3) δ 7.80 (d, J = 2.0 Hz, 1H), 7.09−6.98 (m,
+2H), 6.66−6.62 (m, 1H), 6.60 (d, J = 2.0 Hz, 1H), 6.57 (dd, J = 3.7,
+2.7 Hz, 1H), 2.53 (d, J = 1.2 Hz, 3H). 13C NMR (100 MHz, CDCl3) δ
+140.8, 133.0, 122.3, 121.8, 115.1, 111.8, 109.8, 101.8, 97.3, 14.7. IR
+(ATR, cm−1) 3123, 3098, 2950, 2916, 2850, 1588, 1516, 1427, 1340,
+1071, 1032, 921, 772, 722. HRMS calcd for (C10H9N3) [M + H]+,
+172.08692; found, 172.08702.
+
+5-Methyl-2-phenylpyrazolo[1,5-a]pyrrolo[2,1-c]pyrazine (13b). A
+colorless viscous oil (91%, 0.36 mmol, 90 mg). Rf = 0.7 (ethyl acetate/
+hexane, 1:4). 1H NMR (400 MHz, CDCl3) δ 7.97 (dd, J = 8.1, 1.2 Hz,
+
+2H), 7.45 (bt, J = 7.6 Hz, 2H), 7.35 (bt, J = 7.1, 1H), 7.09 (bs, 1H),
+6.92 (s, 1H), 6.68 (dd, J = 2.8, 1.0 Hz, 1H), 6.60 (dd, J = 3.8, 2.7 Hz,
+1H), 2.60 (d, J = 1.1 Hz, 3H). 13C NMR (100 MHz, CDCl3) δ 152.5,
+134.3, 133.3, 128.7, 128.2, 126.2, 122.1, 115.2, 111.8, 109.8, 101.8,
+94.4, 14.8. IR (ATR, cm−1) 3101, 3059, 2959, 2919, 1593, 1502, 1454,
+1422, 1369, 1335, 1074, 1023, 756, 687. HRMS calcd for (C16H13N3)
+[M + H]+, 248.11822; found, 248.11819.
+
+2-Butyl-5-methylpyrazolo[1,5-a]pyrrolo[2,1-c]pyrazine (13c). A
+viscous oil (87%, 0.35 mmol, 79 mg). Rf = 0.6 (ethyl acetate/hexane,
+1:4). 1H NMR (400 MHz, CDCl3) δ 7.06 (dd, J = 2.4, 1.5 Hz, 1H),
+7.03 (bs, 1H), 6.60 (bd, J = 3.7 Hz, 1H), 6.56 (dd, J = 3.7, 2.7 Hz,
+1H), 6.43 (s, 1H), 2.78 (t, J = 7.8 Hz, 2H), 2.53 (d, J = 1.0 Hz, 3H),
+1.72 (quintet, J = 7.7 Hz, 2H), 1.44 (hextet, J = 7.4 Hz, 2H), 0.96 (t, J
+= 7.4 Hz, 3H). 13C NMR (100 MHz, CDCl3) δ 155.4, 133.6, 122.3,
+121.8, 114.9, 111.6, 108.9, 101.3, 95.9, 32.0, 28.3, 22.6, 14.9, 13.9. IR
+(ATR, cm−1) 3095, 2954, 2920, 2850, 1590, 1522, 1426, 1339, 1074,
+763, 707, 689. HRMS calcd for (C14H17N3) [M + H]+, 228.14952;
+found, 228.15045.
+5-(3-Nitrobenzyl)-2-phenylpyrazolo[1,5-a]pyrrolo[2,1-c]pyrazine
+(13d). A yellow colored solid (93%, 0.37 mmol, 136 mg). mp 187−
+189 °C. Rf = 0.5 (ethyl acetate/hexane, 1:4). 1H NMR (400 MHz,
+CDCl3) δ 8.31 (d, J = 1.7 Hz, 1H), 8.04 (dd, J = 8.2, 1.3 Hz, 1H), 7.85
+(bd, J = 7.0 Hz, 2H), 7.73 (bd, J = 7.7 Hz, 1H), 7.41 (t, J = 8.0 Hz,
+1H), 7.36 (t, J = 8.0 Hz, 2H), 7.28 (tt, J = 7.4, 1.2 Hz, 1H), 7.03 (dd, J
+= 2.6, 1.3 Hz, 1H), 6.96 (bs, 1H), 6.83 (s, 1H), 6.62 (bd, J = 3.6 Hz,
+1H), 6.55 (dd, J = 3.7, 2.8 Hz, 1H), 4.34 (s, 2H). 13C NMR (100
+MHz, CDCl3) δ 152.6, 148.4, 139.3, 135.6, 134.3, 133.0, 129.4, 128.7,
+128.3, 126.1, 124.5, 124.0, 122.1, 122.0, 115.9, 112.4, 110.9, 102.3,
+94.6, 34.4. IR (ATR, cm−1) 3095, 3064, 2967, 2921, 2857, 1520, 1505,
+1339, 1075. HRMS calcd for (C22H16N4O2) [M + H]+: 369.1346;
+Found: 369.13842.
+
+5-(4-Fluorobenzyl)-2-phenylpyrazolo[1,5-a]pyrrolo[2,1-c]-
+pyrazine (13e). A yellow colored viscous oil (85%, 0.34 mmol, 116
+mg). Rf = 0.7 (ethyl acetate/hexane, 1:4). 1H NMR (400 MHz,
+CDCl3) δ 7.88 (d, J = 7.7 Hz, 1H), 7.37 (t, J = 7.6 Hz, 2H), 7.34−7.28
+(m, 3H), 6.98−6.96 (m, 3H), 6.85 (s, 1H), 6.70 (s, 1H), 6.61 (bd, J =
+3.6 Hz, 1H), 6.52 (dd, J = 3.6, 2.8 Hz, 1H), 4.27 (s, 2H). 13C NMR
+(100 MHz, CDCl3) δ 161.97 (d, JC,F = 244 Hz), 152.4, 134.2, 133.2,
+132.3, 131.17 (d, JC,F = 8 Hz), 128.7, 128.2, 126.1, 125.7, 122.0, 115.64
+(d, JC,F = 8 Hz), 115.4, 112.1, 110.7, 102.0, 94.5, 33.8. IR (ATR, cm−1)
+2988, 2967, 2918, 2899, 1507, 1455, 1219, 1068. HRMS calcd for
+(C22H16FN3) [M + H]+, 342.1401; found, 342.14329.
+5-(4-Methylbenzyl)-2-phenylpyrazolo[1,5-a]pyrrolo[2,1-c]-
+pyrazine (13f). A colorless solid (82%, 0.33 mmol, 111 mg). mp 146−
+148 °C. Rf = 0.6 (ethyl acetate/hexane, 1:4). 1H NMR (400 MHz,
+CDCl3) δ 7.98 (dd, J = 7.1, 1.3 Hz, 2H), 7.45 (bt, J = 7.5, 2H), 7.36
+(bt, J = 7.5, 1H), 7.32 (d, J = 7.8 Hz, 2H), 7.18 (bd, J = 7.8 Hz, 2H),
+7.01 (dd, J = 2.8, 1.3 Hz, 1H), 6.93 (s, 1H), 6.73 (bs, 1H), 6.67 (bd, J
+= 3.7 Hz, 1H), 6.57 (dd, J = 3.7, 2.8 Hz, 1H), 4.34 (s, 2H), 2.37 (s,
+3H). 13C NMR (100 MHz, CDCl3) δ 152.4, 136.6, 134.2, 133.4, 133.3,
+129.7, 129.4, 128.7, 128.1, 126.3, 126.2, 122.0, 115.6, 112.0, 110.7,
+101.8, 94.4, 34.1, 21.1. IR (ATR, cm−1) 2988, 2964, 2920, 2896, 1588,
+1454, 1338, 1076. HRMS calcd for (C23H19N3) [M + H]+, 338.16517;
+found, 338.16418.
+5-Benzyl-2-phenylpyrazolo[1,5-a]pyrrolo[2,1-c]pyrazine (13g). A
+yellow colored solid (90%, 0.36 mmol, 116 mg). mp 127−129 °C. Rf =
+0.7 (ethyl acetate/hexane, 1:4). 1H NMR (400 MHz, CDCl3) δ 7.89
+(d, J = 7.4 Hz, 2H), 7.49−7.21 (m, 8H), 6.93 (dd, J = 2.7, 1.4 Hz, 1H),
+6.85 (s, 1H), 6.65 (s, 1H), 6.60 (bd, J = 3.5 Hz, 1H), 6.50 (dd, J = 3.5,
+2.7 Hz, 1H), 4.30 (s, 2H). 13C NMR (100 MHz, CDCl3) δ 152.4,
+136.6, 134.2, 133.3, 129.8, 128.7, 128.6, 128.2, 127.0, 126.2, 125.9,
+122.0, 115.7, 112.0, 110.8, 101.8, 94.5, 34.5. IR (ATR, cm−1) 2970,
+2918, 1455, 1362, 1071. HRMS calcd for (C22H17N3) [M + H]+,
+324.14952; found, 324.15291.
+
+5-(4-Methoxybenzyl)-2-(4-methoxyphenyl)pyrazolo[1,5-a]-
+pyrrolo[2,1-c]pyrazine (13h). A yellow colored viscous oil (74%, 0.29
+mmol, 113 mg). Rf = 0.5 (ethyl acetate/hexane, 1:4). 1H NMR (400
+MHz, CDCl3) δ 7.83 (bd, J = 8.8 Hz, 2H), 7.27 (bd, J = 8.6 Hz, 2H),
+6.95 (dd, J = 2.6, 1.4 Hz, 1H), 6.92 (d, J = 8.8 Hz, 2H), 6.85 (d, J = 8.6
+Hz, 2H), 6.79 (s, 1H), 6.63 (s, 1H), 6.59 (bd, J = 3.7 Hz, 1H), 6.50
+</para>
+3812
+
+DOI: 10.1021/acs.joc.5b00034
+J. Org. Chem. 2015, 80, 3806−3814
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(dd, J = 3.7, 2.6 Hz, 1H), 4.25 (s, 2H), 3.80 (s, 3H), 3.76 (s, 3H). 13C
+NMR (100 MHz, CDCl3) δ 159.8, 158.7, 152.2, 134.2, 130.8, 128.5,
+127.4, 126.4, 126.1, 122.0, 115.5, 114.1, 114.1, 111.9, 110.4, 101.6,
+93.9, 55.3, 55.3, 33.6. IR (ATR, cm−1) 3055, 2922, 2814, 1357, 1073.
+HRMS calcd for (C24H21N3O2) [M + H]+, 384.17065;
+found,
+384.17448.
+
+5-(3-Nitrophenyl)-2-phenyl-7H-pyrazolo[1,5-a]pyrrolo[2,1-c]-
+[1,4]diazepine (14d). A yellow colored solid (83%, 0.33 mmol, 122
+mg). mp 97−98 °C. Rf = 0.4 (ethyl acetate/hexane, 1:4). 1H NMR
+(400 MHz, CDCl3) δ 8.30 (dd, J = 2.2, 1.7 Hz, 1H), 8.23 (ddd, J = 8.1,
+2.2, 1.0 Hz, 1H), 7.76 (dd, J = 8.2, 1.6 Hz, 2H), 7.61 (bd, J = 8.0 Hz,
+1H), 7.51 (t, J = 8.0 Hz, 1H), 7.38−7.32 (m, 3H), 6.87 (s, 1H), 6.79
+(dd, J = 2.6, 1.6 Hz, 1H), 6.63 (dd, J = 3.7, 1.6 Hz, 1H), 6.27 (dd, J =
+3.7, 2.6 Hz, 1H), 6.09 (t, J = 7.4 Hz, 1H), 4.65 (d, J = 7.4 Hz, 2H). 13C
+NMR (100 MHz, CDCl3) δ 152.6, 148.2, 143.4, 138.4, 134.5, 132.4,
+128.9, 128.6, 128.5, 126.0, 123.8, 123.3, 122.9, 122.3, 114.6, 110.1,
+108.9, 102.7, 43.6. IR (ATR, cm−1) 2968, 2919, 2850, 1648, 1593,
+1526, 1345, 1078, 1028, 803, 765, 690. HRMS calcd for (C22H16N4O2)
+[M + H]+, 369.13460; found, 369.13738.
+
+5-(4-Fluorophenyl)-2-phenyl-7H-pyrazolo[1,5-a]pyrrolo[2,1-c]-
+[1,4]diazepine (14e). A light yellow viscous liquid (90%, 0.36 mmol,
+123 mg). Rf = 0.5 (ethyl acetate/hexane, 1:4). 1H NMR (400 MHz,
+CDCl3) δ 7.78 (dd, J = 8.3, 1.2 Hz, 2H), 7.37 (bt, J = 7.3 Hz, 2H),
+7.32−7.28 (m, 3H), 7.01 (t, J = 8.7 Hz, 2H), 6.83 (s, 1H), 6.76−6.72
+(m, 1H), 6.59 (dd, J = 3.7, 1.6 Hz, 1H), 6.23 (dd, J = 3.7, 2.7 Hz, 1H),
+5.91 (t, J = 7.5 Hz, 1H), 4.55 (d, J = 7.5 Hz, 2H). 13C NMR (100
+MHz, CDCl3) δ 163.22 (d, JC,F = 248 Hz), 152.1, 144.5, 140.7, 132.7
+(d, JC,F = 11 Hz), 130.25 (d, JC,F = 9 Hz), 128.6, 128.3, 126.0, 123.1,
+122.0, 115.2, 114.9, 112.8, 109.7, 108.7, 102.4, 43.6. IR (ATR, cm−1)
+3066, 2919, 2846, 1647, 1594, 1506, 1367, 1230, 1157, 1078, 906, 765,
+725, 693. HRMS calcd for (C22H17N3F) [M + H]+, 342.14010; found,
+342.14436.
+
+2-Phenyl-5-(p-tolyl)-7H-pyrazolo[1,5-a]pyrrolo[2,1-c][1,4]-
+diazepine (14f). A colorless viscous oil (95%, 0.38 mmol, 128 mg). Rf
+= 0.5 (ethyl acetate/hexane, 1:4). 1H NMR (400 MHz, CDCl3) δ 7.90
+(dd, J = 7.0, 1.1 Hz, 2H), 7.46 (bt, J = 7.0 Hz, 2H), 7.39 (dd, J = 7.0
+Hz, 1H), 7.30 (bd, J = 7.9 Hz, 2H), 7.21 (bd, J = 7.9 Hz, 2H), 6.93 (bs,
+1H), 6.80 (dd, J = 3.6, 2.1 Hz, 1H), 6.69 (dd, J = 3.6, 1.8 Hz, 1H), 6.32
+(dd, J = 3.6, 1.8 Hz, 1H), 5.99 (t, J = 7.5 Hz, 1H), 4.59 (d, J = 7.5 Hz,
+2H), 2.44 (s, 3H). 13C NMR (100 MHz, CDCl3) δ 151.9, 145.4,
+140.7, 139.0, 134.0, 132.9, 128.8, 128.6, 128.3, 128.2, 126.1, 123.3,
+122.0, 112.5, 109.5, 108.6, 102.3, 43.7, 21.4. IR (ATR, cm−1) 2969,
+2918, 2851, 1365, 1054. HRMS calcd for (C23H19N3) [M + H]+,
+338.16517; found, 338.16526.
+2,5-Diphenyl-7H-pyrazolo[1,5-a]pyrrolo[2,1-c][1,4]diazepine
+(14g). A yellow colored solid (95%, 0.38 mmol, 123 mg). mp 85−86
+°C. Rf = 0.5 (ethyl acetate/hexane, 1:4). 1H NMR (400 MHz, CDCl3)
+δ 7.71 (dd, J = 8.3, 1.2 Hz, 2H), 7.34−7.19 (m, 8H), 6.75 (s, 1H), 6.66
+(dd, J = 2.5, 1.8 Hz, 1H), 6.51 (dd, J = 3.7, 1.8 Hz, 1H), 6.15 (dd, J =
+3.6, 2.5 Hz, 1H), 5.88 (t, J = 7.5 Hz, 1H), 4.48 (d, J = 7.5 Hz, 2H). 13C
+NMR (100 MHz, CDCl3) δ 151.9, 145.5, 140.7, 136.7, 132.8, 129.0,
+128.6, 128.4, 128.2, 128.0, 126.1, 123.2, 121.9, 113.2, 109.6, 108.6,
+102.3, 43.7. IR (ATR, cm−1) 3056, 2919, 2850, 1642, 1593, 1496,
+1448, 1366, 1074, 1026, 762, 691. HRMS calcd for (C22H17N3) [M +
+H]+, 324.14952; found, 324.15137.
+
+2,5-Bis(4-methoxyphenyl)-7H-pyrazolo[1,5-a]pyrrolo[2,1-c][1,4]-
+diazepine (14h). A yellow colored solid (96%, 0.39 mmol, 115 mg).
+mp 80−81 °C. Rf = 0.4 (ethyl acetate/hexane, 1:4). 1H NMR (400
+MHz, CDCl3) δ 7.66 (bd, J = 8.9 Hz, 2H), 7.19 (bd, J = 8.8 Hz, 2H),
+6.83 (d, J = 8.9 Hz, 2H), 6.77 (d, J = 8.8 Hz, 2H), 6.83 (s, 1H), 6.69−
+6.64 (m, 2H), 6.50 (dd, J = 3.7, 1.6 Hz, 1H), 6.15 (dd, J = 3.7, 2.6 Hz,
+1H), 5.80 (t, J = 7.5 Hz, 1H), 4.47 (d, J = 7.5 Hz, 2H), 3.744 (s, 3H),
+3.741 (s, 3H). 13C NMR (100 MHz, CDCl3) δ 159.0, 158.5, 150.4,
+143.8, 139.3, 128.5, 128.1, 126.1, 124.4, 122.1, 120.5, 112.7, 112.2,
+110.1, 108.1, 107.3, 100.6, 54.1 (2C), 42.5. IR (ATR, cm−1) 2956,
+2919, 2846, 1642, 1609, 1505, 1245, 1174, 1029, 865, 719. HRMS
+calcd for (C24H21N3O2) [M + H]+, 384.17065; found, 384.17457.
+
+(Z)-2-Phenyl-5-(pyridin-2-ylmethylene)-5,6-dihydropyrazolo[1,5-
+a]pyrrolo[2,1-c]pyrazine (21). The compound has been synthesized
+by the reaction of 10f with hydrazine as described described above. A
+</para>
+Article
+<para sub=“exp”>
+yellow colored solid (92%, 0.37 mmol, 119 mg). mp =135−137 °C. Rf
+= 0.6 (ethyl acetate/hexane, 1:4). 1H NMR (400 MHz, CDCl3) δ 8.62
+(d, J = 4.8 Hz, 1H), 7.93 (d, J = 7.3 Hz, 2H), 7.61 (dt, J = 7.7, 1.5 Hz,
+1H), 7.45−7.41 (t, J = 7.4 Hz, 3H), 7.34 (d, J = 7.0 Hz, 1H), 7.30 (d, J
+= 7.9 Hz, 1H), 7.07 (dd, J = 7.3, 4.8 Hz, 1H), 6.83 (bs, 1H), 6.68 (s,
+1H), 6.47 (bd, J = 2.5 Hz, 1H), 6.27 (dd, J = 3.7, 2.5 Hz, 1H), 5.86 (d,
+J = 1.6 Hz, 2H). 13C NMR (100 MHz, CDCl3) δ 155.2, 153.8, 149.0,
+136.3, 135.3, 132.8, 132.6, 128.7, 128.5, 126.1, 125.5, 121.7, 120.9,
+120.7, 111.9, 110.2, 105.6, 97.2, 45.6. IR (ATR, cm−1) 3104, 3062,
+3038, 2995, 2916, 2850, 1967, 1906, 1634, 1620, 1584, 1404, 1356,
+1300, 1146, 1070, 1023, 951, 763, 715. HRMS calcd for (C21H16N4)
+[M + H]+, 325.14477; found, 325.14395.
+
+2-Phenyl-5-(pyridin-2-ylmethyl)pyrazolo[1,5-a]pyrrolo[2,1-c]-
+pyrazine (22). To a solution of 21 (119 mg, 0.37 mmol) in methylene
+chloride (5 mL) was added 1,8-diazabicyclo[5.4.0]undec-7-ene (DBU)
+(100 μL, 0.7 mmol). The reaction mixture was stirred at room
+temperature for 0.5 h. After completion of the reaction (controlled by
+TLC), water (5 mL) was added, and the solution was extracted with
+methylene chloride. The combined organic extracts were dried over
+MgSO4. The solvent was evaporated to give crude product, which was
+puriﬁed by column chromatography over silica gel eluting with
+EtOAc/hexane (1:2) to 22 as a yellow colored solid (97%, 0.36 mmol,
+117 mg). mp 147−149 °C. Rf = 0.3 (ethyl acetate/hexane, 1:2). 1H
+NMR (400 MHz, CDCl3) δ 8.56 (d, J = 4.8 Hz, 1H), 7.92 (d, J = 7.2
+Hz, 2H), 7.62 (dt, J = 7.6, 1.8 Hz, 1H), 7.55 (d, J = 7.8 Hz, 1H), 7.42
+(t, J = 7.5 Hz, 2H), 7.33 (t, J = 7.9 Hz, 1H), 7.18−7.12 (m, 2H), 7.07
+(dd, J = 2.7, 1.4 Hz, 1H), 6.89 (s, 1H), 6.66 (bd, J = 3.7 Hz, 1H), 6.58
+(dd, J = 3.7, 2.7 Hz, 1H), 4.51 (s, 2H). 13C NMR (100 MHz, CDCl3)
+δ 157.5, 152.2, 149.4, 136.7, 134.3, 133.3, 128.7, 128.1, 126.1, 124.4,
+123.7, 122.1, 121.9, 115.8, 112.1, 111.3, 101.9, 94.4, 37.1. IR (ATR,
+cm−1) 3107, 2970, 2901, 1583, 1461, 1282, 1073, 960, 761, 716, 692.
+HRMS calcd for (C21H16N4) [M + H]+, 325.14477; found, 325.14224.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Spectroscopic data (1D and 2D NMR spectra) of the products
+and the X-ray crystal structure of 22. This material is available
+free of charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: mbalci@metu.edu.tr.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+Financial support
+from the Scientiﬁc and Technological
+Research Council of Turkey (TUBITAK, grant no. TBAG-
+112 T360), the Turkish Academy of Sciences (TUBA), and
+Middle East Technical University (METU) is gratefully
+acknowledged. Furthermore, we are grateful to Prof. Ertan
+Şahin (Atatürk University, Erzurum/Turkey) for X-ray analysis.
+■ REFERENCES
+(1) (a) Kumari, S.; Paliwal, S.; Chauhan, R. Synth. Commun. 2014, 44,
+1521−1578. (b) Alex, J. M.; Kumar, R. J. Enzyme Inhib. Med. Chem.
+2014, 29, 427−442. (c) Kumar, V.; Kaur, K. T.; Gupta, G. K.; Sharma,
+A. K. Eur. J. Med. Chem. 2013, 69, 735−753. (d) Heterocyclic Chemistry
+in Drug Discovery; Li, J. J., Ed.; Wiley: Hoboken, NJ, 2013; pp 198−
+229. (e) Panda, N.; Jena, A. K. J. Org. Chem. 2012, 77, 9401−9406.
+(f) Deng, X.; Mani, N. S. J. Org. Chem. 2008, 73, 2412−2415.
+(g) Deng, X.; Mani, N. S. Org. Lett. 2008, 10, 1307−1310.
+(2) (a) Klatt, T.; Markiewicz, J. T.; Saemann, C.; Knochel, P. J. Org.
+Chem. 2014, 79, 4253−4269. (b) Nikishkin, N. I.; Huskens, J.;
+Verboom, W. Org. Biomol. Chem. 2013, 11, 3583−3602. (c) Yet, L.
+Prog. Heterocycl. Chem. 2012, 24, 393−420. (d) He, Y.; Lin, M.; Li, Z.;
+Liang, X.; Li, G.; Antilla, J. C. Org. Lett. 2011, 13, 4490−4493.
+
+3813
+
+DOI: 10.1021/acs.joc.5b00034
+J. Org. Chem. 2015, 80, 3806−3814
+
+The Journal of Organic Chemistry
+(e) Manlove, A.; Groziak, M. P. Prog. Heterocycl. Chem. 2009, 21, 375−
+414.
+(3) Likhosherstov, A. M.; Filippova, O. V.; Peresada, V. P.;
+Kryzhanovskii, S. A.; Vititnova, M. B.; Kaverina, N. V.; Reznikov, K.
+M. Pharm. Chem. J. 2003, 37, 6−9.
+(4) Seredenin, S. B.; Voronina, T. A.; Beshimov, A.; Peresada, V. P.;
+Likhosherstov, A. M. Patent RU 2099055, 1997.
+(5) Seredenin, S. B.; Voronina, T. A.; Likhosherstov, A. M.; Peresada,
+V. P.; Molodavkin, G. M.; Halikas, J. A. Patent US 5378846, 1995.
+(6) Peresada, V. P.; Medvedev, O. S.; Likhosherstov, A. M.;
+Skoldinov, A. P. Khim.-Farm. Zh. 1987, 21, 1054−1059.
+(7) Negoro, T.; Murata, M.; Ueda, S.; Fujitani, B.; Ono, Y.;
+Kuromiya, A.; Komiya, M.; Suzuki, K.; Matsumoto, J.-i. J. Med. Chem.
+1998, 41, 4118−4129.
+(8) (a) French, J. M.; Diver, S. T. J. Org. Chem. 2014, 79, 5569−5585.
+(b) Li, Y.; Xu, M.-H. Org. Lett. 2014, 16, 2712−2715. (c) Ghosh, P.;
+Saha, P.; Bondalapati, S.; Indukuri, K.; Saikia, A. K. J. Org. Chem. 2014,
+79, 4119−4124. (d) Rao, S. S.; Rambabu, D.; Layek, M.; Kumar, K. L.;
+Rao, M. V. B.; Haldar, D.; Pal, M. Lett. Drug Des. Discovery 2104, 11,
+199−206. (e) Alcaide, B.; Almendros, P. Acc. Chem. Res. 2014, 47,
+939−952. (f) Pawar, L.; Pigge, F. C. Tetrahedron Lett. 2013, 54, 6067−
+6070. (g) Gronnier, C.; Boissonnat, G.; Gagosz, F. Org. Lett. 2013, 15,
+4234−4237.
+(9) (a) Shi, Y.; Gevorgyan, V. Org. Lett. 2013, 15, 5394−5396.
+(b) Chattopadhyay, B.; Gevorgyan, V. Org. Lett. 2011, 13, 3746−3749.
+(c) Kovacs, G.; Lledos, A.; Ujaque, G. Angew. Chem., Int. Ed. 2011, 50,
+11147−11151. (d) Gilmore, K.; Alabugin, I. V. Chem. Rev. 2011, 111,
+6513−6556. (e) Leyva-Perez, A.; Cabrero-Antonino, J. R.; Cantin, A.;
+Corma, A. J. Org. Chem. 2010, 75, 7769−7780. (f) Koradin, C.; Dohle,
+W.; Rodriguez, A. L.; Schmid, B.; Knochel, P. Tetrahedron. 2003, 59,
+1571−1587.
+(10) (a) Minguez, J. M.; Castellote, M. I.; Vaquero, J. J.; Garcıa-
+Navio, J. L.; Alvarez-Builla, J.; Castano, O.; Andres, J. L. J. Org. Chem.
+1996, 61, 4655−4655. (b) Harrington, R. W.; Stanforth, S. P.
+Tetrahedron Lett. 2012, 53, 2111−2113.
+(11) (a) Fortman, G. C.; Nolan, S. P. Chem. Soc. Rev. 2011, 132,
+5151−5169. (b) Rudolph, M. In Modern Gold Catalyzed Synthesis;
+Hashmi, A. S. K., Toste, F. D., Eds.; Wiley: Weinheim, Germany, 2012;
+pp 331−362. (c) Cgeon, C. H.; Kanno, O.; Toste, F. D. J. Am. Chem.
+Soc. 2011, 133, 13248−13251. (d) Barluenga, J.; Sigüerio, R.; Vicente,
+R.; Ballesteros, A.; Tomas, M.; Rodriguez, M. A. Angew. Chem., Int. Ed.
+2012, 51, 10377−10381. (e) Alcarazo, M.; Stork, T.; Anoop, A.; Thiel,
+Int. Ed. 2010, 49, 2542−2546.
+W.; Fürstner, A. Angew. Chem.,
+(f) Hashmi, A. S. K. Chem. Rev. 2007, 107, 3180−3211. (g) Alcaide,
+B.; Almendros, P.; Quiros, M. T.; Fernandez, I. Beilstein J. Org. Chem.
+2013, 9, 818−826.
+(12) Menges, N.; Sari, O.; Abdullayev, Y.; Erdem, S. S.; Balci, M. J.
+Org. Chem. 2013, 78, 5184−5195.
+(13) (a) Chinchilla, R.; Najera, C. Chem. Rev. 2007, 107, 874−922.
+(b) Douchet, H.; Hierso, J.-C. Angew. Chem., Int. Ed. 2007, 46, 834−
+871. (c) Sonogashira, K.; Tohda, Y.; Hagihara, N. Tetrahedron Lett.
+1975, 16, 4467−4470. (d) Kost, A. N.; Grandberg, I. I. Adv. Heterocycl.
+Chem. 1966, 6, 347−4289. (e) Caporale, A.; Tartaggia, S.; Castellin,
+A.; Lucchi, O. D. Beilstein J. Org. Chem. 2014, 10, 384−393.
+(14) Murray, W.; Watcher, M. J. Heterocycl. Chem. 1989, 26, 1389−
+1392.
+(15) Moure, Ch.; Delange, R. Bull. Soc. Chim. Fr. 1901, 25, 302−313.
+(16) Zora, M.; Kivrak, A.; Yazici, C. J. Org. Chem. 2011, 76, 6726−
+6742.
+(17) Menges, N.; Balci, M. Synlett 2014, 25, 671−676.
+(18) For isomeric pyrazolo-pyrrolo-pyrazines see: (a) Farghaly, A.-R.;
+El-Kashef, H. J. Heterocycl. Chem. 2011, 48, 678−683. (b) Farghaly, A.-
+R.; El-Kashef, H. Monatsh. Chem. 2005, 136, 217−227.
+(19) (a) Hansmann, M. M.; Tsupova, S.; Rudolph, M.; Rominger, F.;
+Hashmi, A. S. K. Chem.Eur. J. 2014, 20, 2215−2223. (b) Chernyak,
+J. Am. Chem. Soc. 2008, 130, 5636−5637.
+N.; Gevorgyan, V.
+(c) Manzo, A. M.; Perboni, A. D.; Broggini, G.; Rigamonti, M.
+Tetrahedron Lett. 2009, 50, 4696−4699.
+
+Article
+
+isomeric pyrazolo-pyrrolo-diazepine derivatives,
+
+(20) (a) Brooner, R. E.; Widenhoefer, R. A. Angew. Chem., Int. Ed.
+2013, 52, 11714−11724. (b) Alcaide, B.; Almendros, P. Beilstein J. Org.
+Chem. 2011, 7, 622−630.
+see:
+(21) For
+(a) Vega, S.; Gil, M. S.; Darias, V.; Mateo, C. C. S.; Expósito, M.
+A.; Oset-Gasque, M. J.; Parramón, M.; González, M. P. Eur. J. Med.
+Chem. 1994, 29, 233−239. (b) Massa, S.; Stefancich, G.; Artico, M.;
+Corelli, F. J. Heterocyclic Chem. 1984, 21, 1877−1880.
+(22) We assume that
+similar
+stereochemistry, see: Patil, N. T.; Lutete, L. M.; Nishina, N.;
+Yamamoto, Y. Tetrahedron Lett. 2006, 47, 4749−4751.
+
+the conﬁguration is (E). For
+
+3814
+
+DOI: 10.1021/acs.joc.5b00034
+J. Org. Chem. 2015, 80, 3806−3814
+
+

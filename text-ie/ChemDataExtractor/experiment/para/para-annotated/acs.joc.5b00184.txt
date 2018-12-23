@@ -1,0 +1,1259 @@
+Article
+
+pubs.acs.org/joc
+
+Synthesis and Properties of 6′-Fluoro-tricyclo-DNA
+Michal Medvecky, Alena Istrate, and Christian J. Leumann*
+
+Department of Chemistry and Biochemistry, University of Bern, Freiestrasse 3, CH-3012 Bern, Switzerland
+
+*S Supporting Information
+
+ABSTRACT: The synthesis of the two ﬂuorinated tricyclic nucleosides 6′-F-tc-T and
+6′-F-tc-5MeC, as well as the corresponding building blocks for oligonucleotide
+assembly, was accomplished. An X-ray analysis of N4-benzoylated 6′-F-tc-5MeC
+reavealed a 2′-exo (north) conformation of the furanose ring, characterizing it as an
+RNA mimic. In contrast to observations in the bicyclo-DNA series, no short contact
+between the ﬂuorine atom and the H6 of the base, reminiscent of a nonclassical F···H
+hydrogen bond, could be observed. Tm measurements of modiﬁed oligodeoxynucleo-
+tides with complementary RNA showed slightly sequence-dependent duplex
+stabilization proﬁles with maximum ΔTm/mod values of +4.5 °C for 6′-F-tc-5MeC
+and +1 °C for 6′-F-tc-T. In comparison with parent tc-modiﬁed oligonucleotides, no relevant changes in Tm were detected,
+attributing the ﬂuorine substituent a neutral role in RNA aﬃnity. A structural analysis of duplexes with DNA and RNA by CD-
+spectroscopy revealed a shift from B- to A-type conformation induced by the 6′-F-tc-nucleosides. This is not a speciﬁc “ﬂuorine
+eﬀect”, as the same is also observed for the parent tc-modiﬁcations. The two ﬂuorinated tc-nucleosides were also incorporated
+into a pure tricyclo-DNA backbone and showed no discrimination in Tm with complementary RNA, demonstrating that 6′-F
+substitution is also compatible within fully modiﬁed tc-oligonucleotides.
+
+■ INTRODUCTION
+
+Fluorine is widely appreciated in small molecule medicinal
+chemistry due its metabolic stability-enhancing properties and
+its unique protein-binding characteristics.1−3 For
+similar
+reasons, ﬂuorinated DNA analogues are of
+in
+oligonucleotide therapeutic approaches. Among the ﬁrst
+ﬂuorinated oligonucleotides investigated were the 2′-deoxy-2′-
+ﬂuoro RNA (F-RNA) and the 2′deoxy-2′-ﬂuoro-arabino
+nucleic acids (F-ANA, Figure 1). While both analogues have
+been known for quite some time,
+structural and
+biophysical features have only recently been characterized in
+detail. Compared to their 2′-hydroxy variants RNA and ANA,
+both the F-RNA and F-ANA analogues bind with higher aﬃnity
+
+interest
+
+their
+
+(ΔTm = 1−2 °C/mod) to complementary RNA. The origin of
+the higher duplex stability in the case of F-RNA was attributed
+to improved hydrogen-bonding and base-stacking as a
+consequence of the polar C2′−F bond.4,5 In the case of F-
+ANA, internucleoside F−H8 pseudo hydrogen bonds, that are
+particularly strong at purine/pyrimidine sequence steps, have
+been invoked as a stability-enhancing feature.6,7 F-RNA and F-
+ANA have been shown to improve the performance of
+therapeutic siRNAs.8,9 Due to its unique RNaseH activating
+properties, F-ANA was also investigated in classical antisense
+applications.10
+
+Recently there has been a growing interest in investigating
+the eﬀect of ﬂuorine substitution in more complex,
+carbohydrate-modiﬁed oligonucleotide analogues such as F-
+HNA and its 2′-epimer Ara-F-HNA.11,12 While F-HNA shows
+increased thermal stability (ΔTm = +2 °C/mod) in complex
+with complementary RNA, the F-Ara-HNA analogue exhibits
+the opposite eﬀect (ΔTm = −3 °C/mod). The destabilization of
+Ara-F-HNA was attributed to repulsive steric eﬀects of the
+ﬂuoro substituent onto the 5′-adjacent nucleotide unit.11 Also
+ﬂuorinated versions of CeNA13 and cLNA14 were investigated.
+In these cases ﬂuorine substitution does not contribute
+signiﬁcantly to duplex stability. The most recent additions to
+the palette of ﬂuorinated oligonucleotide analogues were F-
+NMC and Ara-F-NMC,15 both derived from the northern
+methanocarbacyclic nucleoside (NMC) analogues.16,17 Here
+again, F-NMC stabilized duplexes by +2.2 °C/mod on average
+while Ara-F-NMC was destabilizing by −2.8 °C/mod. The
+intrinsic contribution of the ﬂuorine atom to thermal stability in
+
+Figure 1. Chemical structures of selected ﬂuorinated nucleic acid
+analogues.
+
+Received:
+January 27, 2015
+Published: March 13, 2015
+
+© 2015 American Chemical Society
+
+3556
+
+DOI: 10.1021/acs.joc.5b00184
+J. Org. Chem. 2015, 80, 3556−3565
+
+The Journal of Organic Chemistry
+
+Scheme 1. Synthesis of Phosphoramidite 11
+
+Article
+
+Scheme 2. Synthesis of Phosphoramidite 18
+
+the case of F-NMC was determined to be +0.6 °C/mod on
+average.18
+
+In terms of biological activity it has been shown previously
+that F-HNA gapmers can down-regulate gene expression in
+
+vivo in liver tissue more potently than LNA despite lower target
+aﬃnity.11 Thus, the higher potency of F-HNA seems to be the
+consequence of either improved biostability or more eﬃcient
+plasma transport or both. Other recent observations, attributing
+
+3557
+
+DOI: 10.1021/acs.joc.5b00184
+J. Org. Chem. 2015, 80, 3556−3565
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 2. Ortep plot (50% probability ellipsoids) of the X-ray structure of nucleoside 16: top-view (left) and side-view (right). Nonrelevant
+hydrogen atoms as well as the N4-benzoyl residue in 16 are omitted for clarity.
+
+a special but yet elusive role to ﬂuorine in antisense eﬃcacy
+were reported for gapmer oligonucleotides with F-RNA or F-
+ANA units targeting mutant huntingtin,19 and for F-RNA
+antisense oligonucleotides recruiting the interleukin enhancer-
+binding factor complex (ILF2/3).20
+Given these intriguing properties of ﬂuorinated oligonucleo-
+tides, and building on earlier work on 6′-F-bicyclo-DNA,21 we
+decided to investigate 6′-F-tc-DNA (Figure 1). In the following
+we present
+the
+corresponding 6′-F-tc-nucleosides containing the bases thymine
+and 5-methylcytosine, as well as the inﬂuence on duplex
+stability and conformation of these modiﬁcations if complexed
+with complementary RNA and DNA.
+
+the synthesis and structural properties of
+
+■ RESULTS AND DISCUSSION
+
+in multiple portions,
+<para sub="scope">
+Synthesis of the Phosphoramidite Building Blocks 11
+and 18. Drawing on earlier experiences during the synthesis of
+6′-ﬂuorinated bicyclo-DNA,21 we envisaged to introduce the
+ﬂuorine atom in an early step of the synthesis via electrophilic
+ﬂuorination of a metalated bicyclic sugar
+intermediate.
+Consequently, we started our synthetic journey with the
+known bicyclic silyl enol ether 1 (Scheme 1).22 Bromination of
+1 with Br2 at −78 °C gave the expected bromide 2 in 90% yield.
+To exclude side reactions during the following metal−halogen
+exchange, the free OH group in 2 was protected as a TMS ether
+(→ 3). Electrophilic ﬂuorination of 3 worked best if t-BuLi was
+used as lithiation reagent and if NFSI was added in one portion
+at a temperature of −120 °C. Temperatures above −78 °C, or
+addition of NFSI
+led to substantial
+decomposition and thus reduced yield. The treatment with an
+acidic ion-exchange resin after quenching of
+the reaction
+quantitatively removed the TMS group, resulting in a 60% yield
+of ﬂuoro silyl enol ether 4. The rationale of removing the TMS
+group at this stage was based on the hypothesis that the
+corresponding hydroxyl group could help in directing the
+subsequent cyclopropanation reaction to the convex side of the
+bicyclic ring system. Indeed, cyclopropanation of 4 with a Zn−
+carbene complex in homogeneous solution yielded exclusively
+the exotricyclic sugar 5 in good yield but only if TFA was added
+as accelerator.23 To prepare for β-selective nucleosidation,24,25
+compound 5 was converted to enol ether 6 with TMSOTf,
+which was then reacted with in situ persilylated thymine and
+NIS, yielding iodo-nucleoside 7 in 85% yield in a stereospeciﬁc
+manner. Removal of the iodine via radical reduction with
+Bu3SnH ﬁnally gave the expected O-protected 6′-ﬂuoro
+tricyclothymidine 8 in excellent yields. From here the synthesis
+
+the phosphoramidite building block was completed by
+of
+standard removal of the silyl protecting groups (→ 9) followed
+by dimethoxytritylation (→ 10) and phosphitylation with 2-
+cyanoethyl diisopropylamino chlorophosphine (CEP-Cl) to
+give 11 in a respectable overall yield of 13.4% starting from 1.
+</para>
+<para sub="scope">
+Given the availability of the thymine nucleoside 8 and known
+procedures to interconvert pyrimidine bases on the level of
+nucleosides and oligonucleotides,26,27 we next envisioned the
+synthesis of the building block 18 containing the base 5-
+methylcytosine. To this end, compound 8 was transformed into
+the triazolide 12 with 1,2,4-triazole and POCl3 (Scheme 2).
+Treatment of 12 with ammonia then aﬀorded the 5-
+methlytricyclocytidine 13 in 60% yield over two steps. N4-
+Benzoylation of 13 with Bz2O yielded the two nucleosides 14
+and 15 that diﬀered only by the presence or absence of the 3′-
+O-TMS group. This was of no harm, as the silyl groups in both
+14 and 15 were removed in the next step, yielding 16 in high
+yield. The synthesis of the phosphoramidite building block 18
+was then completed via standard dimethoxytritylation (→ 17)
+followed by phosphitylation as described above.
+</para>
+max of 31°. It
+
+X-ray Structure of 16. To conﬁrm the relative
+conﬁguration and to determine the eﬀect of
+the ﬂuorine
+substituent on the conformation of the tricyclic ring system,
+crystals of nucleoside 16 were grown and subjected to X-ray
+analysis. The molecular structure is depicted in Figure 2.
+<para sub=“props”>
+The furanose unit in 16 adopts a 2′-exo conformation with a
+pseudorotation phase angle P of 336° and a maximum torsion
+angle ν
+thus belongs clearly to the N-type
+conformation, typically adopted by RNA nucleosides.28 The
+base is oriented in the central anti range (χ = −176.2°).
+Comparison of 16 with the structure of 6′-ﬂuoro-bicyclo-T21
+reveals two major diﬀerences: First, the distance F−H6 in 16
+(3.194 Å) is too long for a nonclassical F−H hydrogen bond
+while the same distance in 6′-ﬂuoro-bc-T (2.865 Å) is indicative
+for such a weak interaction. Furthermore, there is no linear
+arrangement of F−H6−C6 in 16, whereas this is clearly the
+case in 6′-ﬂuoro-bc-T. Support for the absence of such an
+interaction in 16 comes also from the fact that there are no F−
+H6 or F−C6 couplings observable in the 1H and 13C NMR
+spectra of 16, which contrasts the ﬁndings in the case of 6′-
+ﬂuoro-bc-T. Thus, compared to 6′-ﬂuoro-bc-T,
+the base-
+orienting H−F interaction of the ﬂuorine is lost in 16. The
+second structural change resides within the furanose con-
+formation, which is 1′-exo (S-type) in the case of 6′-
+ﬂuorobicyclo-T and 2′-exo (N-type) in the case of 16. With
+respect
+to the nonﬂuorinated tricyclo-T nucleoside which
+</para>
+3558
+
+DOI: 10.1021/acs.joc.5b00184
+J. Org. Chem. 2015, 80, 3556−3565
+
+The Journal of Organic Chemistry
+Article
+Table 1. Analytical Data of Oligodeoxynucleotides ON1−ON7, Containing 6′-Fluoro-tc-T (t) or 6′-Fluoro-tc-5MeC (c) Units, as
+well as T
+
+m Data of Duplexes with Complementary DNA and RNA
+
+sequence
+
+ESI-MS m/z calcd
+
+ESI-MS m/z found
+
+Tm (°C) vs DNAa,b (ΔTm/mod)
+
+Tm (°C) vs RNAa,c (ΔTm/mod)
+
+ON1
+ON2
+ON3
+ON4
+ON5
+ON6
+ON7
+
+d(AACTGtCACG)
+d(AACtGTCACG)
+d(AACtGtCACG)
+d(GCAtttttACCG)
+d(AACTGTcACG)
+d(AAcTGTCACG)
+d(AAcTGTcACG)
+
+3067.6
+3067.6
+3123.6
+3890.7
+3081.6
+3081.6
+3151.6
+
+3067.5
+3067.5
+3123.5
+3890.6
+3081.5
+3081.5
+3151.6
+
+45.5 (+2.0)
+45.1 (+1.6)
+43.5 (0.0)
+43.1 (−0.6)d
+44.6 (+1.1)
+44.9 (+1.4)
+48.2 (+2.4)
+
+44.4 (0.0)
+45.4 (+1.0)
+44.3 (0.0)
+45.6 (+0.5)e
+46.3 (+1.9)
+48.9(+4.5)
+51.0 (+3.3)
+
+aTotal duplex concn: 2 μM in 10 mM NaH2PO4, 150 mM NaCl, pH 7.0. Estimated error in Tm = ±0.5 °C. bTm of unmodiﬁed duplex: 43.5 °C. cTm
+of unmodiﬁed duplex: 44.4 °C. dTm of unmodiﬁed duplex: 46.3 °C. eTm of unmodiﬁed duplex: 42.9 °C
+Table 2. Structure−Aﬃnity Relationship: ΔT
+Nucleosides in Complex with Complementary RNAa
+
+m/mod Data for Oligodeoxynucleotides Containing Parent or Substituted tc-
+
+d(AACTGXCACG)
+d(AACXGTCACG)
+d(AACXGXCACG)
+
+tc-T
+−0.1
++1.4
++0.4
+aExperimental conditions as in Table 1.
+Table 3. Analytical Data of tc-Oligonucleotides ON8−ON10, Containing 6′-Fluoro-tc-T (t), and T
+Complementary DNA and RNA
+
+d(AACTGTXACG)
+d(AAXTGTCACG)
+d(AAXTGTXACG)
+
+tc-C
++2.0
++3.0
++2.5
+
+6′-F-tc-T
+
+0.0
++1.0
+0.0
+
+tc-5MeC
++2.2
++4.2
++3.6
+
+6′-F-tc-5MeC
+
++1.9
++4.5
++3.3
+
+m Data of Duplexes with
+
+sequencea
+
+ESI-MS m/z calcd
+
+ESI-MS m/z found
+
+Tm (°C) vs DNAb,c (ΔTm/mod)
+
+Tm (°C) vs RNAb,d (ΔTm/mod)
+
+ON8
+ON9
+ON10
+
+d(pAACTGtCACG)
+d(pAACtGTCACG)
+d(pAACtGtCACG)
+
+3490.5
+3490.5
+3508.5
+
+3489.6
+3489.6
+3507.6
+
+55.0 (0.0)
+53.4 (−1.6)
+53.2 (−1.8)
+
+68.0 (+1.6)
+66.7 (+0.3)
+66.3 (−0.1)
+
+aCharacters in italic denote regular tc-DNA residues, and p denotes a 5′-phosphate group. bTotal duplex concn: 2 μM in 10 mM NaH2PO4, 150 mM
+NaCl, pH 7.0. Estimated error in Tm = ±0.5 °C. cTm of unmodiﬁed duplex: 55.0 °C. dTm of unmodiﬁed duplex: 66.4 °C
+<para sub=“props”>
+for
+
+in a 2′-endo (S-type) and a 4′-endo (E-type)
+coexists
+conformation in the crystal,29 it could well be that the ﬂuoro
+atom helps to drive the furanose conformation of the tricyclic
+scaﬀold into a N-type conformation. We cannot exclude,
+however, that the higher propensity of N-conformation in 16 is
+also simply an eﬀect of the base 5-methylcytosine. Unfortu-
+nately,
+there are currently no X-ray structures
+the
+nonﬂuorinated tc-C or tc-5MeC nucleosides available.
+</para>
+<para sub="scope">
+Synthesis of Oligonucleotides and Tm Data. Oligode-
+oxynucleotides ON1−10, containing the 6′-ﬂuoro-tc-nucleo-
+sides (Table 1), were synthesized on a 1.3 μmol scale by
+standard phosphoramidite chemistry, utilizing the building
+blocks 11 and 18 (for details, see Experimental Section). Crude
+oligonucleotides were deprotected and detached from the solid
+support by standard ammonia treatment (33% NH4OH, 55 °C,
+overnight) and puriﬁed by ion exchange HPLC. The
+composition of all oligonucleotides was veriﬁed by ESI-mass
+spectrometry (Tables 1 and 3).
+</para>
+<para sub=“props”>
+Oligodeoxynucleotides containing single 6′-ﬂuoro tc-T
+mutations (ON1−3) lead to duplexes with complementary
+DNA and RNA with neutral to slightly enhanced stability in a
+slightly sequence-dependent context, compared to unmodiﬁed
+duplexes. Interestingly, the stabilization (ΔTm/mod) is a bit
+stronger in duplexes with complementary DNA as compared to
+RNA. Double substitutions in a noncontiguous order (ON3)
+tendentially lead to poorer duplex stabilization with RNA
+compared to multiple substitutions in a consecutive manner
+(ON4). This is in agreement with earlier observations in the
+series of tc-DNA30 and has been ascribed to an incremental
+energetic penalty arising from increasing numbers of structural
+
+heterobackbone junctions. Replacing natural dC with 6′-ﬂuoro-
+tc-5MeC units (ON5−7) leads to a somewhat diﬀerent picture.
+Again,
+in a slightly sequence-dependent context, duplex
+stabilization is signiﬁcantly higher (up to +4.5 °C/mod) as
+compared to dC and more pronounced with RNA as a
+complement. In addition, there seems to be almost no energetic
+penalty as a function of
+the number of noncontiguous
+substitutions (ON5 and ON6 vs ON7). While it is known
+that the base thymine in the tc-DNA context is least stabilizing
+compared to the other three bases,30,31 the origin of this eﬀect
+is yet unknown and awaits further structural investigations.
+</para>
+<para sub=“props”>
+tc-C, and tc-5MeC residues,
+
+To elucidate the role of the ﬂuorine atom and the methyl
+group in 5-methylcytosine on RNA duplex stability, we
+compared ΔTm/mod data with that of oligonucleotides
+respectively
+containing tc-T,
+(Table 2). From this set of data it becomes evident that in
+both the T- and C-series, the 6′-ﬂuorine atom behaves as
+neutral and does not signiﬁcantly add to duplex stability. This is
+in agreement with the absence of any F−H5 pseudo hydrogen
+bond, as found in the X-ray structure of 16, and supports our
+earlier hypothesis that this interaction is responsible for the
+increase in stability in the bc-DNA series.21 At the same time, it
+is in agreement with the properties of other 6′-modiﬁed tc-
+DNA derivatives for which it was shown before that this
+position can be chemically modiﬁed without compromising
+RNA aﬃnity.24 In the C-series, the 5-methyl group of cytosine
+brings about 0.2−1.2 °C/mod of additional thermal stability
+also in the context of the tricyclic nucleoside structure. As for
+the case of 5-methyldeoxycytidine in DNA duplexes, this is
+most likely the consequence of improved stacking interactions
+</para>
+3559
+
+DOI: 10.1021/acs.joc.5b00184
+J. Org. Chem. 2015, 80, 3556−3565
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 3. CD-spectra on left: DNA/RNA duplexes. CD-spectra on right: DNA/DNA duplexes. Black lines: unmodiﬁed duplexes, red lines: duplexes
+with ON4, blue lines: duplexes with ON4 in which 6′-ﬂuoro-tc-T was replaced by tc-T. Experimental conditions as indicated in Table 1
+<para sub=“props”>
+and/or improved hydrogen bonding induced by the molecular
+polarizability of the size-extended base.32
+</para>
+<para sub=“props”>
+In the context of future applications as steric block or splice
+switching oligonucleotides, we also investigated the fully
+modiﬁed tc-oligonucleotides ON8−10 containing 6′-ﬂuoro-tc-
+T units. These oligonucleotides all carry a 5′-phosphate unit in
+order to confer chemical stability to the 5′-terminal nucleoside
+unit during oligonucleotide deprotection.33 As can be seen from
+Table 3, duplexes with complementary DNA (non 5′-
+phosphorylated) are somewhat destabilized in the presence of
+the ﬂuorine atom, while a slight stabilization in a sequence-
+dependent manner occurs with RNA (non 5′-phosphorylated)
+as complement. Thus, 6′-ﬂuorination is fully compatible with
+the tc-DNA backbone and does not lead to loss of RNA aﬃnity.
+</para>
+<para sub=“props”>
+To determine the eﬀect of 6′-F-tc-T units on duplex
+conformation, we measured CD-spectra of duplexes of ON4
+with complementary DNA and RNA and compared them with
+the corresponding unmodiﬁed duplexes and with duplexes
+containing tc-T instead of 6′-F-tc-T units (Figure 3). The
+largest structural deviation occurs in the DNA/DNA duplex
+series where both the 6′-F-tc-T and the tc-T units drive the
+duplex conformation from B to A-like. There are no signiﬁcant
+diﬀerences between duplexes with tc-T or 6′-ﬂuoro-tc-T,
+indicating that both adopt an N-type nucleoside conformation.
+The tendency to adopt a more A-like conformation in duplexes
+with tc-T or 6′-F-tc-T units is also present in the DNA/RNA
+duplex series. Again, there are no large diﬀerences between the
+tc-T- and 6′-F-tc-T-containing duplexes, perhaps with the
+exception that the maximum positive ellipticity around 270 nm
+is blue-shifted by ca. 10 nm in the case of the latter duplex, with
+a yet unknown implication on the helix structure.
+</para>
+■ CONCLUSION
+We have accomplished the synthesis of the two 6′-ﬂuorinated
+tc-nucleoside building blocks 11 and 18 and have incorporated
+them into oligodeoxynucleotides and tc-oligonucleotides. We
+analyzed complementary DNA and RNA aﬃnity by Tm
+measurements and determined structural eﬀects of ﬂuorine
+substitution on duplex conformation by CD-spectroscopy. On
+the basis of the X-ray structure of 16 as well as on 1H and 13C
+NMR coupling data on the nucleosides and derivatives, we
+could not ﬁnd any indications for short ﬂuorine-base F−H6
+contacts. This is in surprising contrast to ﬁndings in the 6′-
+ﬂuoro-bc-DNA series, where such short contacts were
+observed. Compared to the nonﬂuorinated tc-nucleosides, we
+ﬁnd that the ﬂuorine substituent does not signiﬁcantly alter the
+the corresponding duplexes,
+thermal melting properties of
+irrespective of
+the nature of
+the base (thymine vs 5-
+methylcytosine). This is in agreement with the absence of the
+
+glycosidic bond-constraining nature of the F−H6 interaction
+that adds up to +2 °C/mod in Tm in the case of the bicyclo-
+DNA series. The 6′-ﬂuoro modiﬁcation is also compatible with
+the tc-DNA backbone, as no change or even a slight increase in
+Tm with complementary RNA was observed. The ﬂuorine atom
+also does not signiﬁcantly alter
+the duplex conformation
+compared to nonﬂuorinated tc-DNA as can be seen from the
+corresponding CD-spectra. On the basis of these encouraging
+biophysical data, we are now planning to investigate functional
+eﬃcacy, cellular uptake, and in vivo tissue distribution of
+antisense tc-oligonucleotides containing these 6′-F-tc-nucleo-
+sides.
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Methods. All reactions were performed under argon in
+oven-dried glassware. Solvents were dried by ﬁltration over activated
+alumina or by storage over molecular sieves (4 Å). Column
+chromatography (CC) was performed on silica gel 60 (230−400
+mesh, neutralized with 0.1% of w/Ca). All solvents for CC were of
+technical grade and distilled prior to use. Thin-layer chromatography
+(TLC) was performed on silica gel plates. Compounds were visualized
+either under UV light or by staining in dip solution A: CerIV-sulfate
+(10.5 g), phosphormolybdenic acid (21 g), concd H2SO4 (60 mL),
+H2O (900 mL); or B: KMnO4 (6 g), K2CO3 (40 g), 15% NaOH (3
+mL) in H2O (800 mL)), followed by heating with a heat gun. NMR
+spectra were recorded at 300 or 400 MHz (1H), at 75 or 100 MHz
+(13C), at 376 MHz (19F), and at 162 MHz (31P). Chemical shifts (δ)
+are reported relative to the undeuterated residual solvent peak
+(CHCl3: 7.24 ppm (1H) and 77.2 ppm (13C); DMSO-d6: 2.50 ppm
+(1H) and 39.5 ppm (13C)). Signal assignments are based on DEPT or
+APT experiments, and on 1H,1H and 1H,13C correlation experiments
+13C signal multiplicities include 1H- and 19F-
+(COSY, HSQC).
+couplings. 1H NMR diﬀerence-NOESY experiments were recorded at
+400 MHz. Chemical shifts for 31P and 19F NMR (fully proton
+coupled) are reported relative to 85% H3PO4 and CFCl3 as external
+standards, respectively. Electrospray ionization in the positive mode
+(ion trap, ESI+) was used for high resolution mass detection. The
+numbering scheme for tc-nucleosides is outlined in Figure 1. For non-
+nucleoside derivatives, von Baeyer nomenclature has been applied.
+
+(1S,3R,5S)-7-Bromo-8-tert-butyldimethylsilyloxy-3-methoxy-2-
+oxabicyclo[3.3.0]oct-7-en-5-ol (2). To a stirred solution of silyl enol
+ether 1 (10.6 g, 37.0 mmol) in dry CH2Cl2 (100 mL) was added
+dropwise a solution of bromine (2.1 mL, 40.7 mmol) in CH2Cl2 (200
+mL) over a period of 30 min at −78 °C, followed by Et3N (7.7 mL,
+55.48 mmol). The cooling bath was subsequently removed, and the
+temperature was allowed to rise to rt. Stirring was continued for
+another 2 h. Then the reaction mixture was poured into H2O and
+extracted with Et2O. The combined organic layers were washed with
+water, dried over MgSO4, and evaporated. The residual dark oil was
+puriﬁed by CC (hexane/EtOAc 4:1) to give the title compound 2
+(12.1 g, 90%) as a yellow oil.
+
+Data for 2. Rf = 0.33 (hexane/EtOAc 7:3); 1H NMR (CDCl3, 300
+MHz) δ 5.04 (d, J = 4.1 Hz, 1H, H-C(3)), 4.57 (m, 1H, H-C(1)), 3.37
+</para>
+3560
+
+DOI: 10.1021/acs.joc.5b00184
+J. Org. Chem. 2015, 80, 3556−3565
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+(s, 3H, OMe), 3.15 (s, 1H, OH), 2.76 (d, J = 15.3 Hz, 1H, Hb-C(6)),
+2.67 (dd, J = 2.2, 15.3 Hz, 1H, Ha-C(6)), 2.25 (d, J = 13.5 Hz, 1H, Hb-
+C(4)), 2.02 (dd, J = 4.1, 13.5 Hz, 1H, Ha-C(4)), 0.97 (s, 9H, t-Bu),
+0.24, 0.20 (2s, 2 × 3H, 2 × CH3); 13C NMR (CDCl3, 75 MHz) δ
+148.4 (s, C(8)), 105.3 (d, C(3)), 96.7 (s, C(7)), 90.4 (d, C(1)), 83.4
+(s, C(5)), 54.7 (q, OMe), 47.2 (t, C(6)), 44.8 (t, C(4)), 25.8 (q, t-
+Bu), 18.4 (s, t-Bu), −3.9, −4.2 (2 × s, 2 × CH3); ESI+-HRMS m/z
+calcd for C14H25BrNaO4Si [M + Na]+ 387.0603, 389.0583, found
+387.0598, 389.0577.
+
+(1S,3R,5S)-7-Bromo-8-tert-butyldimethylsilyloxy-3-methoxy-5-tri-
+methylsilyloxy-2-oxabicyclo[3.3.0]oct-7-ene (3). To a stirred solution
+of bromo silyl enol ether 2 (12.0 g, 32.74 mmol) in dry pyridine (170
+mL) was added BSA (12 mL, 49.11 mmol) at rt, and the mixture was
+left overnight. The reaction mixture was diluted with sat. aq NaHCO3
+and extracted with Et2O. The combined organic layers were dried over
+MgSO4 and evaporated, and the residual oil was puriﬁed by CC
+(hexane/EtOAc 95:5, with 0.5% of Et3N) to yield the title compound
+3 (13.0 g, 91%) as a yellow oil.
+
+Data for 3. Rf = 0.68 (hexane/EtOAc 9:1); 1H NMR (CDCl3, 300
+MHz) δ 4.99 (dd, J = 1.3, 5.3 Hz, 1H, H-C(3)), 4.64 (t, J = 1.4 Hz,
+1H, H-C(1)), 3.35 (s, 3H, OMe), 2.73 (d, J = 1.5 Hz, 2H, H-C(6)),
+2.33 (dd, J = 1.3, 13.7 Hz, 1H, Hb-C(4)), 2.06 (dd, J = 5.3, 13.7 Hz,
+1H, Ha-C(4)), 0.97 (s, 9H, t-Bu), 0.24, 0.21 (2s, 2 × 3H, 2 × CH3),
+0.15 (s, 9H, TMS); 13C NMR (CDCl3, 75 MHz) δ 148.6 (s, C(8)),
+105.7 (d, C(3)), 96.4 (s, C(7)), 90.3 (d, C(1)), 84.8 (s, C(5)), 55.2
+(q, OMe), 49.5 (t, C(6)), 48.4 (t, C(4)), 25.8 (q, t-Bu), 18.4 (s, t-Bu),
+1.9 (q, TMS), −3.9, −4.2 (2q, 2 × CH3); ESI+-HRMS m/z calcd for
+C17H33BrNaO4Si2 [M + Na]+ 459.0998, 461.0978, found 459.1002,
+461.0981.
+
+(1S,3R,5S)-7-Fluoro-8-tert-butyldimethylsilyloxy-3-methoxy-2-
+oxabicyclo[3.3.0]oct-7-en-5-ol (4). To a stirred solution of bromo
+silyl enol ether 3 (6.14 g, 14.04 mmol) in dry THF (211 mL) and
+ether (42 mL) was added dropwise a solution of t-BuLi (1.7 M in
+pentane, 16.5 mL, 28.08 mmol) at −78 °C. After being stirred for 20
+min, the reaction mixture was further cooled to −120 °C and NFSI
+(8.85 g, 28.08 mmol) was added at once, followed by another portion
+of t-BuLi (24.8 mL, 42.12 mmol). The reaction mixture was stirred for
+2 h and then allowed to warm to −80 °C. After being quenched with
+water (210 mL), the mixture was warmed to rt and extracted with
+EtOAc. The combined organic phases were dried over MgSO4 and
+evaporated. The residue was then dissolved in dry ether (200 mL) and
+treated with amberlyst 15 (6.1 g), and the mixture was stirred for 2 h
+at rt. The amberlyst was then ﬁltered oﬀ, and SiO2 was added to the
+ﬁltrate prior to evaporation. Puriﬁcation by CC (CH2Cl2/hexane 7:3
+→ CH2Cl2, + 1% Et2O) gave the title comound 4 (2.56 g, 60%) in
+form of a yellowish solid.
+
+Data for 4. Rf = 0.53 (hexane/EtOAc 3:1); 1H NMR (CDCl3, 300
+MHz) δ 5.05 (d, J = 4.1 Hz, 1H, H-C(3)), 4.58 (dt, J = 1.8, 8.0 Hz,
+1H, H-C(1)), 3.38 (s, 3H, OMe), 3.11 (d, J = 2.3 Hz, 1H, OH), 2.62
+(m, 2H, H-C(6)), 2.28 (d, J = 13.4 Hz, 1H, Hb-C(4)), 1.97 (dd, J =
+4.1, 13.4 Hz, 1H, Ha-C(4)), 0.95 (s, 9H, t-Bu), 0.19, 0.17 (2s, 2 × 3H,
+2 × CH3); 13C NMR (CDCl3, 75 MHz) δ 138.5 (d, J(C,F) = 272.2
+Hz, C(7)), 128.6 (d, J(C,F) = 4.0 Hz, C(8)), 104.8 (d, C(3)), 89.9
+(dd, J(C,F) = 5.3 Hz, C(1)), 79.7 (d, J(C,F) = 11.6 Hz, C(5)), 54.7
+(q, OMe), 47.5 (t, C(4)), 37.4 (td, J(C,F) = 18.6 Hz, C(6)), 25.7 (q, t-
+Bu), 18.3 (s, t-Bu), −4.3 (qd, J = 1.7 Hz), CH3), −4.56 (qd, J = 2.1
+Hz, CH3); 19F NMR (CDCl3, 376 MHz) δ −138.5 (s, br); ESI+-
+HRMS m/z calcd for C14H25FNaO4Si [M + Na]+ 327.1404, found
+327.1412.
+(1S,2S,4S,6R,8S)-2-tert-Butyldimethylsilyloxy-4-ﬂuoro-8-methoxy-
+9-oxatricyclo[4.3.01.6.02.4]nonan-6-ol (5). To dry CH2Cl2 (97 mL)
+was added a solution of Et2Zn (1 M in hexane, 48.2 mL 48.20 mmol).
+The mixture was cooled to 0 °C, and a solution of TFA (3.69 mL,
+48.21 mmol) in CH2Cl2 (48 mL) was slowly added. After the mixture
+was stirred for 20 min, a solution of CH2I2 (7.76 mL, 96.42 mmol) in
+CH2Cl2 (48 mL) was added. After another 20 min of stirring, a
+solution of ﬂuoro silyl enol ether 4 (2.45 g, 8.04 mmol) in CH2Cl2 (48
+mL) was added, and the ice bath was removed. After 5 h of stirring, the
+reaction mixture was quenched with sat. aq NH4Cl and the layers were
+separated. The aqueous layer was extracted with CH2Cl2. The
+
+combined organic layers were washed with sat. NaHCO3, dried over
+MgSO4, concentrated, and puriﬁed by CC (hexane/EtOAc, 9:1) to
+yield the title compound 5 (1.79 g, 70%) as a colorless oil.
+
+Data for 5. Rf = 0.33 (hexane/EtOAc 3:1); 1H NMR (CDCl3, 300
+MHz) δ 5.10 (dd, J = 1.6, 5.2 Hz, 1H, H-C(8)), 3.89 (d, J = 6.0 Hz,
+1H, H-C(1)), 3.37 (s, 3H, OMe), 2.49 (m, 1H, Hb-C(5)), 2.43 (dd, J
+= 5.3, 14.0 Hz, 1H, Hb-C(7)), 2.29 (dd, J = 1.1 Hz, J = 13.4 Hz, 1H,
+Ha-C(5)), 2.10 (s, br, 1H, OH), 2.06 (dd, J = 1.6, 14.0 Hz, 1H, Ha-
+C(7)), 1.33 (ddd, J = 2.5, 7.5, 21.5 Hz, 1H, Hb-C(3)), 1.19 (dd, J =
+7.5, 8.5 Hz, 1H, Ha-(3)), 0.91 (s, 9H, t-Bu), 0.17 (s, 6H, 2 × CH3);
+13C NMR (CDCl3, 75 MHz) δ 105.7 (d, C(8)), 88.7 (dd, J(C,F) = 3.8
+Hz, C(1)), 83.2 (d, J(C,F) = 268.2 Hz, C(4)), 82.1 (d, J(C,F) = 5.5
+Hz, C(6)), 63.7 (d, J(C,F) = 8.3 Hz, C(2)), 54.9 (q, OMe), 49.9 (t,
+C(7)), 44.4 (td, J(C,F) = 16.5 Hz, C(5)), 25.9 (q, t-Bu), 21.7 (td,
+J(C,F) = 10.3 Hz, C(3)), 18.3 (s, t-Bu), −3.9 (q, CH3), −4.0 (qd,
+J(C,F) = 1.8 Hz, CH3); 19F NMR (CDCl3, 376 MHz) δ −194.9 (m);
+ESI+-HRMS m/z calcd for C15H27FNaO4Si [M + Na]+ 341.1560,
+found 341.1561.
+
+(1S,2S,4S,6R)-2-tert-Butyldimethylsilyloxy-4-ﬂuoro-6-trimethylsi-
+lyloxy-9-oxatricyclo[4.3.01.6.02.4]non-7-ene (6). To a solution of
+compound 5 (1.51 g, 4.38 mmol) and 2,6-lutidine (2.80 mL, 24.20
+mmol) in dry CH2Cl2 (10 mL) was added TMSOTf (2.14 mL, 11.84
+mmol) dropwise at 0 °C. After being stirred for 2.5 h at rt, the reaction
+mixture was diluted with AcOEt and washed with saturated NaHCO3,
+and the aqueous phase was extracted with AcOEt. The combined
+organic phases were dried over MgSO4 and evaporated, and the
+residue was puriﬁed by CC (hexane/Et2O 95:5) to give the title
+compound 6 (1.43 g, 91%) as light brownish oil.
+
+Data for 6. Rf = 0.83 (hexane/EtOAc 4:1); 1H NMR (CDCl3, 300
+MHz) δ 6.33 (d, J = 2.7 Hz, 1H, H-C(8)), 5.15 (d, J = 2.7 Hz, 1H, H-
+C(7)), 4.24 (d, J = 6.0 Hz, 1H, H-C(1)), 2.52 (ddd, J = 2.8, 11.6, 12.9
+Hz, 1H, Hb-C(5)), 2.37 (dd, J = 1.1, 12.9 Hz, 1H, Ha-C(5)), 1.45
+(ddd, J = 2.8, 7.4, 10.1 Hz, 1H, Hb-C(3)), 1.02 (dd, J = 7.4, 8.4 Hz,
+1H, Ha-C(3)), 0.90 (s, 9H, t-Bu), 0.15, 0.11 (2s, 2 × 3H, 2 × CH3),
+0.09 (s, 9H, TMS); 13C NMR (CDCl3, 75 MHz) δ 146.7 (d, C(8)),
+108.4 (d, C(7)), 94.1 (dd, J(C,F) = 4.1 Hz, C(1)), 87.1 (d, J(C,F) =
+14.2 Hz, C(6)), 84.4 (d, J(C,F) = 250.2 Hz, C-(4)), 64.8 (d, J(C,F) =
+8.4 Hz, C(2)), 48.7 (td, J(C,F) = 14.4 Hz, C(5)), 26.0 (q, t-Bu), 22.9
+(td, J(C,F) = 10.6 Hz, C(3)), 18.4 (s, t-Bu), 2.0 (q, TMS), −3.8 (q,
+CH3), −4.3 (qd, J(C,F) = 2.8 Hz, CH3); 19F NMR (CDCl3, 376
+MHz) δ −192.6 (m); ESI+-HRMS m/z calcd for C17H32FO3Si2 [M +
+H]+ 359.1874, found 359.1873.
+(5′-O-(tert-Butyldimethylsilyl)- 3′-O-(trimethylsilyl)-2′-deoxy-
+3′,5′-ethano-6′-ﬂuoro-2′-iodo-5′,6′-methano-β-D-ribofuranosy)-
+thymine (7). To a suspension of thymine (1.49 g, 11.80 mmol) and
+compound 6 (1.41 g, 3.93 mmol) in CH2Cl2 (20 mL) was added BSA
+(2.88 mL, 11.80 mmol), and the mixture was stirred at rt for 2 h to
+become a clear solution. Then N-iodsuccinimide (1.32 g, 5.90 mmol)
+was added and the mixture stirred overnight. The reaction was
+quenched with sat. NaHCO3 (30 mL) and a 10% aq solution of
+Na2S2O3 (10 mL). The aqueous phase was extracted with EtOAc, and
+the combined organic phases were dried over MgSO4 and evaporated.
+CC (hexane/EtOAc 9:1) aﬀorded nucleosides 7 (2.05 g, 85%) as a
+yellowish solid.
+
+Data for 7. Rf = 0.39 (hexane/EtOAc 4:1); 1H NMR (CDCl3, 300
+MHz) δ 9.10 (s, 1H, NH), 7.76 (d, J = 0.9 Hz, 1H, H-C(6)), 6.38 (d, J
+= 2.6 Hz, 1H, H-C(1′)), 4.56 (d, J = 2.6 Hz, 1H, H-C(2′)), 4.19 (d, J
+= 5.7 Hz, 1H, H-C(4′)), 2.45 (d, J = 14.2 Hz, 1H, Hb-C(7′)), 2.34 (m,
+1H, Ha-C(7′)), 1.91 (d, J = 0.9 Hz, 3H, CH3), 1.50 (ddd, J = 2.2, 7.8,
+20.9 Hz, 1H, Hb-C(8′)), 1.19 (t, J = 8.4 Hz, 1H, Ha-C(8′)), 0.94 (s,
+9H, t-Bu), 0.23 (s, 9H, TMS), 0.22, 0.20 (2s, 2 × 3H, 2 × CH3); 13C
+NMR (CDCl3, 75 MHz) δ 164.3 (s, CO), 150.4 (s, CO), 135.4 (d,
+C(6)), 110.9 (s, C(5)), 96.8 (d, C(1′)), 91.2 (dd, J(C,F) = 3.7 Hz,
+C(4′)), 83.9 (d, J(C,F) = 11.4 Hz, C(3′)), 81.4 (d, J(C,F) = 250.9 Hz,
+C(6′)), 62.7 (d, J(C,F) = 8.2 Hz, C(5′)), 41.5 (d, C(2′)), 41.3 (td,
+J(C,F) = 16.3 Hz, C(7′)), 25.7 (q, t-Bu), 21.7 (td, J(C,F) = 10.2 Hz,
+C-(8′)), 18.0 (s, t-Bu), 12.4 (q, CH3), 2.1 (q, TMS), −3.6 (q, CH3),
+−4.0 (q, CH3); 19F NMR (CDCl3, 376 MHz) δ −197.2 (m); ESI+-
+HRMS m/z calcd for C22H37FIN2O5Si2 [M + H]+ 611.1270, found
+611.1265.
+</para>
+3561
+
+DOI: 10.1021/acs.joc.5b00184
+J. Org. Chem. 2015, 80, 3556−3565
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(5′-O-(tert-Butyldimethylsilyl)- 3′-O-(trimethylsilyl)-2′-deoxy-
+3′,5′-ethano-6′-ﬂuoro-5′,6′-methano-β-D-ribofuranosyl)thymine
+(8). To a solution of iodonucleoside 7 (2.05 g, 3.35 mmol) in toluene
+(40 mL) were added Bu3SnH (1.1 mL, 4.02 mmol) and
+azoisobutyronitrile (AIBN, 165 mg, 1.00 mmol) at rt. After heating
+to reﬂux for 1 h, the solvent was evaporated and the residue puriﬁed by
+CC (hexane/EtOAc 8:2) to give nucleoside 8 (1,54 mg, 95%) as a
+colorless solid.
+
+Data for 8. Rf = 0.52 (hexane/EtOAc 1:1); 1H NMR (CDCl3, 300
+MHz) δ 8.52 (s, 1H, NH), 7.82 (d, J = 1.0 Hz, 1H, H-C(6)), 6.03 (dd,
+J = 1.4, 6.4 Hz, 1H, H-C(1′)), 4.07 (d, J = 5.6 Hz, 1H, H-C(4′)), 2.62
+(dd, J = 6.4, 13.7 Hz, 1H, Hb-C(2′)), 2.53 (dd, J = 1.4, 13.7 Hz, 1H,
+Ha-C(2′)), 2.37 (dd, J = 1.8, 13.7 Hz, 1H, Hb-C(7′)), 2.13 (m, 1H, Ha-
+C(7′)), 1.91 (d, J = 1.0 Hz, 3H, CH3), 1.40 (ddd, J = 2.4, 7.7, 21.0 Hz,
+1H, Hb-C(8′)), 1.18 (dd, J = 7.7, 9.1 Hz, 1H, Ha-C(8′)), 0.94 (s, 9H, t-
+Bu), 0.23, 0.19 (2s, 2 × 3H, 2 × CH3), 0.13 (s, 9H, TMS); 13C NMR
+(CDCl3, 75 MHz) δ 164.2 (s, CO), 150.2 (s, CO), 136.0 (d, C(6)),
+110.2 (s, C(5)), 93.0 (dd, J(C,F) = 4.0 Hz, C(4′)), 89.6 (d, C(1′)),
+82.4 (d, J(C,F) = 12.3 Hz, C(3′)), 81.43 (d, J(C,F) = 249.7 Hz,
+C(6′)), 63.2 (d, J(C,F) = 8.1 Hz, C(5′)), 47.3 (t, C(2′)), 44.7 (td,
+J(C,F) = 14.9 Hz, C(7′)), 25.7 (q, t-Bu), 20.4 (td, J(C,F) = 10.0 Hz,
+C(8′)), 18.0 (s, t-Bu), 12.3 (q, CH3), 2.0 (q, TMS), −3.7 (q, CH3),
+−3.8 (q, CH3); 19F NMR (CDCl3, 376 MHz) δ −197.9 (m); ESI+-
+HRMS m/z calcd for C22H38FN2O5Si2 [M + H]+ 485.2303, found
+485.2295.
+(2′-Deoxy-3′,5′-ethano-6′- ﬂuoro-5′,6′-methano-β- D-
+ribofuranosyl)thymine (9). To a solution of compound 8 (1.48 g, 3.05
+mmol) and pyridine (6 mL) in CH2Cl2 (30 mL) was added HF−
+pyridine (1.5 mL, 60.6 mmol) at 0 °C. After the mixture was stirred
+overnight at rt, SiO2 (7 g) was added, and the mixture stirred for
+another 15 min. After evaporation, the adsorbed product was puriﬁed
+by CC (hexane/EtOAc/EtOH 5:5:1) to yield the title compound 9
+(797 mg, 87%) as a white foam.
+
+Data for 9. Rf = 0.22 (EtOAc); 1H NMR (CD3OD, 400 MHz) δ
+7.81 (d, J = 0.9 Hz, 1H, H-C(6)), 6.13 (dd, J = 4.0, 6.9 Hz, 1H, H-
+C(1′)), 3.99 (d, J = 5.7 Hz, 1H, H-C(4′)), 2.56 (dd, J = 6.9, 13.9 Hz,
+1H, Hb-C(2′)), 2.45 (dd, J = 4.0, 13.9 Hz, 1H, Ha-C(2′)), 2.38 (m,
+2H, H-C(7′)), 1.93 (d, J = 0.9 Hz, 3H, CH3), 1.43 (ddd, J = 2.4, 7.4,
+20.9 Hz, 1H, Hb-(8′)), 1.28 (m, 1H, Ha-C(8′)); 13C NMR (CD3OD,
+100 MHz) δ 166.6 (s, CO), 152.1 (s, CO), 137.7 (d, C(6)), 111.0 (s,
+C(5)), 91.5 (dd, J(C,F) = 3.7 Hz, C(4′)), 89.0 (d, C(1′)), 84.4 (d,
+J(C,F) = 248.0 Hz, C(6′)), 80.9 (d, J(C,F) = 12.1 Hz, C(3′)), 63.4 (d,
+J(C,F) = 8.4 Hz, C(5′)), 49.0 (t, C(2′)), 45.1 (td, J(C,F) = 15.6 Hz,
+C(7′)), 21.1 (td, J(C,F) = 10.4 Hz, C(8′)), 12.4 (q, CH3); 19F NMR
+(CD3OD, 376 MHz) δ −200.4 (m); ESI+-HRMS m/z calcd for
+C13H16FN2O5 [M + H]+ 299.1038, found 299.1037.
+(5′-O-((4,4′-Dimethoxytriphenyl)methyl)-2′-deoxy-3′,5′-ethano-
+6′-ﬂuoro-5′,6′-methano-β-D-ribofuranosyl)thymine (10). To a sol-
+ution of nucleoside 9 (428 mg, 1.44 mmol) in pyridine (20 mL) was
+added DMTrCl (1,46 g, 4,31 mmol) at rt, and the mixture was stirred
+for 2 days. Then reaction was diluted with sat. NaHCO3 and extracted
+with EtOAc. The combined organic phases were dried over MgSO4
+and evaporated, and the residue was puriﬁed by CC (hexane/EtOAc
+8:2 → EtOAc, 1% Et3N) to give the title compound 10 (751 mg, 87%)
+as a yellowish foam.
+
+Data for 10. Rf = 0.38 (EtOAc); 1H NMR (CDCl3, 400 MHz) δ
+9.62 (brs, 1H, NH), 8.04 (d, J = 0.8 Hz, 1H, H-C(6)), 7.47 (m, 2H, H-
+arom), 7.37 (dd, J = 8.9, 10.7 Hz, 4H, H-arom), 7.16 (m, 3H, H-
+arom), 6.75 (dd, J = 7.6, 8.9 Hz, 4H, H-arom), 5.76 (dd, J = 1.4, 6.5
+Hz, 1H, H-C(1′)), 3.70 (s, 3H, OMe), 3.69 (s, 3H, OMe), 2.33 (dd, J
+= 6.5, 14.1 Hz, 1H, Hb-(2′)), 2.23 (m, 3H, Ha-C(2′)), H-C(4′), Hb-
+C(7′)), 2.09 (m, 1H, Ha-C(7′)), 1.98 (d, J = 0.8 Hz, 3H, CH3), 1.71
+(m, 1H, Hb-C(8′)), 0.84 (dd, J = 8.6, 9.7 Hz, 1H, Ha-C(8′)); 13C
+NMR (CDCl3, 100 MHz) δ 164.7 (s, CO), 158.95, 158.93 (2s, 2 × C-
+arom), 150.5 (s, CO), 145.8, 136.5, 136.4 (3s, 3 × C-arom), 136.3 (d,
+C-6), 131.2, 131.1, 128.8, 127.8, 127.2, 113.13, 113.08 (7d, 7 × C-
+arom), 110.3 (s, C(5)), 90.6 (dd, J(C,F) = 3.8 Hz, C(4′)), 88.82 (s),
+88.81 (d, C(1′)), 83.3 (d, J(C,F) = 247.8 Hz, C(6′)), 80.5 (d, J(C,F) =
+12.4 Hz, C(3′)), 64.9 (d, J(C,F) = 7.8 Hz, C(5′)), 55.4 (q, 2 × OMe),
+47.9 (t, C(2′)), 44.0 (td, J(C,F) = 16.0 Hz, C(7′)), 20.2 (td, J(C,F) =
+</para>
+Article
+<para sub=“exp”>
+9.5 Hz, C(8′)), 12.5 (q, CH3); 19F NMR (CDCl3, 376 MHz) δ −193.4
+(m); ESI+-HRMS m/z calcd for C34H33FN2O7Na [M + Na]+
+623.2164, found 623.2150.
+(5′-O-(4,4′-Dimethoxytriphenyl)methyl)-3′-O-(2-cyanoethoxy)-
+diisopropylaminophosphanyl-2′-deoxy-3′,5′-ethano-6′-ﬂuoro-
+5′,6′-methano-β-D-ribofuranosyl)thymine (11). To a solution of
+compound 10 (4.24 g, 7.06 mmol) and diisopropylethylamine (4.67
+mL, 28.24 mmol) in CH3CN (142 mL) was added 2-cyanoethoxy-
+diisopropylaminochlorophosphine (3.94 mL, 17.65 mmol) at rt. After
+being stirred for 2 h at rt, the mixture was diluted with EtOAc and
+washed with sat. aq NaHCO3. The aqueous phases were extracted with
+the combined organic phases were dried (MgSO4) and
+EtOAc,
+evaporated, and the resulting crude product was puriﬁed by CC (hex/
+EtOAc 1:1, 1% NEt3). The puriﬁed product was dissolved in CH2Cl2
+(10 mL) and slowly added to ice-cold hexane (220 mL), and the
+precipitate was collected. This procedure was repeated 7× to yield the
+pure title compound 11 (3,96 g, 70%) as a white amorphous solid.
+Data for 11. Rf = 0.55 (EtOAc); 1H NMR (CDCl3, 400 MHz) δ
+8.72 (brs, 1H, NH), 8.01 (dd, J = 1.0, 5.6 Hz, 1H, H-C(6)), 7.48 (d, J
+= 8.1 Hz, H-arom, 2H,), 7.38 (t, J = 9.0 Hz, 4H, H-arom), 7.18 (m,
+3H, H-arom), 6.75 (dd, J = 6.9, 8.7 Hz, 4H, H-arom), 5.83 (dd, J = 1.9,
+5.9 Hz, 1H, H-C(1′)), 3.72 (m, 6H, 2 × OMe), 3.63 (m, 1H, OCH2),
+3.50 (m, 1H, OCH2), 3.37 (m, 2H, 2 × (Me2CH)N), 2.76 (m, 1H,
+Hb-C(7′)), 2.62 (m, 1H, Hb-C2′)), 2.48 (t, J = 6.3 Hz, 2H, CH2CN),
+2.32 (m, 2H, Ha-C(2′), H-(4′)), 2.02 (m, 1H, Ha-C(7′)), 2.02 (s, 3H,
+CH3), 1.72 (m, 1H, Hb-C(8′)), 1.01 (m, 12H, 2 × (CH3)2CHN), 0.84
+(m, 1H, Ha-C(8′)); 13C NMR (CDCl3, 100 MHz) δ 164.29, 164.26 (s,
+CO), 159.0 (m, 2 × C-arom), 150.1 (s, CO), 145.8, 145.7 (s, C-arom),
+136.5 (m, C-arom), 136.0 (d, C(6)), 131.2, 131.0, 128.8, 127.8, 127.3,
+127.2, (6d, 6 × C-arom), 117.6, 117.5 (2s, CN), 113.14, 113.10 (2d, 2
+× C-arom), 110.22, 110.19 (2s, C(5)), 91.3 (d, C(4′)), 89.5, 89.3 (2d,
+C(1′)), 89.0, 88.9 (2s), 83.8, 83.7 (2d, J(C,F) = 11.6 and 12.4 Hz C-
+(3′)), 83.3, 83.20 (2d, J(C,F) = 248.0, Hz C(6′)), 64.5 (m, C(5′)),
+58.0, 57.7 (2td, J(C,P) = 19.5 Hz, OCH2), 55.4, 55.3 (2q, 2 × OMe),
+45.9, 45.4 (2td, J(C,P) = 9.7 and 12.9 Hz, C(2′)), 43.4, 43.3 (2dd,
+J(C,P) = 6.7 Hz, Me2CH), 42.1 (m, C(7′)), 24.50, 24.45, 24.42, 24.37
+(4q, Me2CH), 20.5, 20.4 (2td, CH2CN J(C,P) = 3.6 Hz, 4.1 Hz), 20.0
+(m, C(8′)), 12.5 (q, CH3); 19F NMR (CDCl3, 376 MHz) δ −193.8
+(m), −193.6 (m); 31P NMR (CDCl3, 161 MHz): 145.0, 142.9; ESI+-
+HRMS m/z calcd for C43H50FN4O8PNa [M + Na]+ 823.3243, found
+823.3276.
+(5′-O-(tert-Butyldimethylsilyl)- 3′-O-(trimethylsilyl)-2′-deoxy-
+3′,5′-ethano-6′-ﬂuoro-5′,6′-methano-β-D-ribofuranosyl)-4-(1H-
+1,2,4-triazol-1-yl)thymine (12). A suspension of 1,2,4-triazole (19.81
+g, 0.29 mol) in CH3CN was cooled to 0 °C and treated consecutively
+with POCl3 (2.97 mL, 31.87 mmol) and Et3N (40.9 mL, 293.25
+mmol). The resulting mixture was stirred for 50 min before compound
+8 (6.18 g, 12.75 mmol), dissolved in CH3CN (105 mL), was added.
+After completion (TLC control, 3.5 h), the reaction was quenched
+with sat. aq NaHCO3 (200 mL). The ice bath was removed, and the
+mixture was reduced to half of the volume in vacuo. Then EtOAc (200
+mL) was added, and the volume was again reduced to one-third. After
+being poured onto H2O/sat. aq NaCl 1:1, the resulting mixture was
+extracted with EtOAc. The combined organic phases were dried
+(MgSO4) and evaporated. The crude compound 12 was used directly
+in the next step without further puriﬁcation. For analytical data, a
+sample was puriﬁed by CC (hexane/EtOAc 50:50).
+Data for 12. Rf = 0.35 (hexane/EtOAc 1:1); 1H NMR (CDCl3, 400
+MHz) δ 9.28 (s, 1H, H-C(5″)), 8.53 (s, 1H, H-C(6)), 8.11 (s, 1H, H-
+C(3″)), 6.18 (t, J = 3.9 Hz, 1H, H-C(1′)), 4.18 (d, J = 5.6 Hz, 1H, H-
+C(4′)), 2.76 (d, J = 3.9 Hz, 2H, H-C(2′)), 2.45 (s, 3H, CH3), 2.34
+(dd, J = 2.3, 13.9 Hz, 1H, Hb-C(7′)), 1.85 (m, 1H, Ha-C(7′)), 1.44
+(ddd, J = 2.3, 7.7, 21.0 Hz, 1H, Hb-C(8′)), 1.20 (dd, J = 7.7, 9.1 Hz,
+1H, Ha-C(8′)), 0.96 (s, 9H, t-Bu), 0.27, 0.22 (2s, 2 × 3H, 2 × CH3),
+0.13 (s, 9H, TMS); 13C NMR (CDCl3, 100 MHz) δ 158.6 (s, C(4)),
+154.0 (s, CO), 153.6 (d, C(3″)), 147.6 (d, C(6)), 145.2 (d, C(5″)),
+106.0 (s, C(5)), 93.5 (dd, J(C,F) = 3.9 Hz, C(4′)), 91.6 (d, C(1′)),
+82.3 (d, J(C,F) = 12.1 Hz, C(3′)), 81.3 (d, J(C,F) = 249.3 Hz, C(6′)),
+63.3 (d, J(C,F) = 8.1 Hz, C(5′)), 46.4 (t, C(2′)), 45.0 (td, J(C,F) =
+14.7 Hz, C(7′)), 25.7 (q, t-Bu), 20.2 (td, J(C,F) = 10.0 Hz, C(8′)),
+</para>
+3562
+
+DOI: 10.1021/acs.joc.5b00184
+J. Org. Chem. 2015, 80, 3556−3565
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+18.0 (s, t-Bu), 16.9 (q, CH3), 2.0 (q, TMS), −3.7 (q, CH3), −3.8 (q,
+CH3); 19F NMR (CDCl3, 376 MHz) δ −197.7 (m); ESI+-HRMS m/z
+calcd for C24H39FN5O4Si2 [M + H]+ 536.2519, found 536.2503.
+(5′-O-tert-Butyldimethylsilyl)-3′-O-(trimethylsilyl)-2′-deoxy-3′,5′-
+ethano-6′-ﬂuoro-5′,6′-methano-β-D-ribofuranosyl)-5-methylcyto-
+sine (13). To a solution of crude compound 12 from the previous step
+(10 g), dissolved in 1,4-dioxane (110 mL), was added concd NH4OH
+(110 mL), and the mixture was stirred for 2 h at rt. The solvent was
+evaporated and the residue dissolved in EtOAc and extracted with
+H2O and sat. NaCl. The aqueous phases were extracted with EtOAc
+and the combined organic layers dried (MgSO4) and evaporated. The
+residue was puriﬁed by CC (EtOAc → EtOAc/EtOH 9:1) to yield the
+title compound 13 (3.70 g, 60%) as a white foam.
+Data of 13. Rf = 0.48 (EtOAc/EtOH 9:1); 1H NMR (CDCl3, 400
+MHz) δ 7.92 (d, J = 0.7 Hz, 1H, H-C(6)), 6.08 (m, 1H, H-C(1′)),
+4.12 (m, 1H, H-C(4′)), 2.64 (d, J = 3.4 Hz, 2H, H-C(2′)), 2.28 (dd, J
+= 2.0, 13.7 Hz, 1H, Hb-C(7′)), 1.99 (m, 1H, Ha-C(7′)), 1.94 (d, J =
+0.7 Hz, 3H, CH3), 1.37 (ddd, J = 2.4, 7.6, 21.0 Hz, 1H, Hb-C(8′)),
+1.17 (dd, J = 7.6, 9.1 Hz, 1H, Ha-C(8′)), 0.94 (s, 9H, t-Bu), 0.24, 0.19
+(2s, 2 × 3H, 2 × CH3), 0.10 (s, 9H, TMS); 13C NMR (CDCl3, 100
+MHz) δ 166.1 (s, C(4)), 156.3 (s, CO), 139.0 (d, C(6)), 101.6 (s,
+C(5)), 92.9 (dd, J(C,F) = 3.9 Hz, C(4′)), 90.3 (d, C(1′)), 82.3 (d,
+J(C,F) = 12.3 Hz, C(3′)), 81.5 (d, J(C,F) = 249.0 Hz, C(6′)), 63.3 (d,
+J(C,F) = 8.0 Hz, C(5′)), 46.9 (t, C(2′)), 44.7 (td, J(C,F) = 14.7 Hz,
+C(7′)), 25.7 (q, t-Bu), 20.2 (td, J(C,F) = 9.9 Hz, C(8′)), 18.0 (s, t-
+Bu), 13.0 (q, CH3), 2.0 (q, TMS), −3.7, −3.8 (2q, 2 × CH3); 19F
+NMR (CDCl3, 376 MHz) δ −198.0 (m); ESI+-HRMS m/z calcd for
+C22H39FN3O4Si2 [M + H]+ 484.2458, found 484.2450.
+N4-Benzoyl-1-(5′-O-(tert-butyldimethylsilyl)-3′-O-(trimethylsilyl)-
+2′-deoxy-3′,5′-ethano-6′-ﬂuoro-5′,6′-methano-β-D-ribofuranosyl)-
+5-methylcytosine (14) and N4-Benzoyl-1-(5′-O-(tert-butyldimethyl-
+silyl)-2′-deoxy-3′,5′-ethano-6′-ﬂuoro-5′,6′-methano-β-D-ribofura-
+nosyl)-5-methylcytosine (15). To a solution of nucleoside 13 (492
+mg, 1.01 mmol) and DMAP (25 mg, 0.20 mmol) in CH3CN (20 mL)
+was added Bz2O (253 mg, 1.12 mmol), and the mixture was stirred for
+1.5 h at rt. Then Et3N (0.28 mL, 2.03 mmol) was added and the
+mixture stirred overnight. After evaporation of the solvents, the residue
+was dissolved in EtOAc and washed with H2O. The aqueous phase was
+extracted with EtOAc, and the combined organic phases were dried
+(MgSO4) and evaporated. The crude product was puriﬁed by CC
+(hexane/EtOAc 95:5 → Hex:EtOAc 50:50) to give compound 14
+(39%) as a white foam and compound 15 (54%) as a white solid.
+
+Data for 14. Rf = 0.62 (hexane/EtOAc 1:1); 1H NMR (CDCl3, 400
+MHz) δ 13.46 (s, 1H, NH), 8.32 (d, J = 7.3 Hz, 2H, H-arom), 8.03
+(m, 1H, H-C(6)), 7.52 (m, 1H, H-arom), 7.44 (m, 2H, H-arom), 6.09
+(dd, J = 1.1, 6.5 Hz, 1H, H-C(1′)), 4.11 (d, J = 5.6 Hz, 1H, H-C(4′)),
+2.67 (dd, J = 6.5, 13.7 Hz, 1H, Hb-C(2′)), 2.60 (dd, J = 1.1, 13.7 Hz,
+1H, Ha-C(2′)), 2.38 (dd, J = 1.9, 13.7 Hz, 1H, Hb-C(7′)), 2.12 (d, J =
+0.9 Hz, 3H, CH3), 2.11 (m, 1H, Ha-C(7′)), 1.43 (ddd, J = 2.4, 7.7,
+21.0 Hz, 1H, Hb-C(8′)), 1.20 (dd, J = 7.7, 9.0 Hz, 1H, Ha-C(8′)), 0.97
+(s, 9H, t-Bu), 0.26, 0.22 (2s, 2 × 3H, 2 × CH3), 0.14 (s, 9H, TMS);
+13C NMR (CDCl3, 100 MHz) δ 179.8 (s, C(4)), 160.4 (s, CO), 147.9
+(s, CO), 137.49 (s, C-arom), 137.45 (d, C(6)), 132.4, 130.0, 128.2
+(3d, 3 × C-arom), 111.4 (s, C(5)), 93.2 (dd, J(C,F) = 4.0 Hz, C(4′)),
+90.1 (d, C(1′)), 82.3 (d, J(C,F) = 12.3 Hz, C(3′)), 81.4 (d, J(C,F) =
+249.5 Hz, C(6′)), 63.2 (d, J(C,F) = 8.1 Hz, C(5′)), 47.1 (t, C(2′)),
+44.8 (td, J(C,F) = 14.9 Hz, C(7′)), 25.7 (q, t-Bu), 20.3 (td, J(C,F) =
+10.1 Hz, C(8″)), 18.0 (s, t-Bu), 13.4 (q, CH3), 2.0 (q, TMS), −3.7 (q,
+CH3), −3.8 (q, CH3); 19F NMR (CDCl3, 376 MHz) δ −197.9 (m);
+ESI+-HRMS m/z calcd for C29H43FN3O5Si2 [M + H]+ 588.2720,
+found 588.2714.
+
+Data for 15. Rf = 0.30 (hexane/EtOAc 1:1); 1H NMR (CDCl3, 400
+MHz) δ 8.29 (m, 2H, H-arom), 8.07 (d, J = 0.8 Hz, 1H, H-C(6)), 7.48
+(m, 4H, H-arom, NH), 6.09 (dd, J = 2.3, 5.6 Hz, 1H, H-C(1′)), 4.13
+(d, J = 5.5 Hz, 1H, H-C(4′)), 2.64 (m, 2H, H-C(2′)), 2.35 (dd, J = 1.6,
+13.9 Hz, 1H, Hb-C(7′)), 2.20 (m, 1H, Ha-C(7′)), 2.12 (d, J = 0.8 Hz,
+3H, CH3), 1.46 (ddd, J = 2.4, 7.8, 21.0 Hz, 1H, Hb-C(8′)), 1.28 (m,
+1H, Ha-C(8′)), 0.97 (s, 9H, t-Bu), 0.25, 0.21 (2s, 2 × 3H, 2 × CH3);
+13C NMR (CDCl3, 100 MHz) δ 179.4 (s, C(4)), 160.5 (s, CO), 148.2
+(s, CO), 137.9 (d, C(6)), 137.2 (s, C-arom), 132.6, 123.0, 128.3 (3d, 3
+</para>
+Article
+<para sub=“exp”>
+× C-arom), 111.5 (s, C(5)), 91.8 (dd, J(C,F) = 3.8 Hz, C(4′)), 90.0
+(d, C(1′)), 81.5 (d, J(C,F) = 249.1 Hz, C(6′)), 80.7 (d, J(C,F) = 12.0
+Hz, C(3′)), 63.5 (d, J(C,F) = 8.2 Hz, C(5′)), 47.9 (t, C(2′)), 44.8 (td,
+J(C,F) = 15.8 Hz, C(7′)), 25.7 (q, t-Bu), 20.5 (td, J(C,F) = 10.1 Hz,
+C(8′)), 18.0 (s, t-Bu), 13.4 (q, CH3), −3.7 (q, CH3), −3.8 (q, CH3);
+19F NMR (CDCl3, 376 MHz) δ −197.6 (m); ESI+-HRMS m/z calcd
+for C26H35FN3O5Si [M + H]+ 516.2325, found 516.2328.
+N4-Benzoyl-1-(2′-deoxy-3′,5′-ethano-6′-ﬂuoro-5′,6′-methano-β-
+D-ribofuranosyl)-5-methylcytosine (16). To separate solutions of
+nucleosides 14 and 15 (1.85 g, 3.15 mmol and 1.24 g, 2.41 mmol,
+respectively) and pyridine (9.6 and 6.0 mL, respectively) in CH2Cl2
+(40 and 30 mL, respectively) was added HF−pyridine (3.3 and 2.1
+mL, respectively) at 0 °C. After the mixture was stirred for 24 h at rt,
+silica gel (1 g per 300 mg starting material) was added, and the mixture
+was stirred for another 15 min. After evaporation, the adsorbed
+products were puriﬁed by CC (EtOAc) to give the title compound 16
+(1.13 g from 14, 867 mg from 15, 90% together) as white foams.
+
+Data for 16. Rf = 0.48 (EtOAc); 1H NMR (CD3OD, 400 MHz) δ
+8.23 (m, 2H, H-arom), 8.11 (m, 1H, H-C(6)), 7.58 (m, 1H, H-arom),
+7.47 (m, 2H, H-arom), 6.15 (dd, J = 3.1, 7.0 Hz, 1H, H-C(1′)), 4.08
+(d, J = 5.6 Hz, 1H, H-C(4′)), 2.65 (dd, J = 7.0, 14.0 Hz, 1H, Hb-(2′)),
+2.53 (dd, J = 3.1, 14.0 Hz, 1H, Ha-C(2′)), 2.32 (m, 2H, H-C(7′)), 2.14
+(d, 3H, J = 0.9 Hz, CH3), 1.45 (dd, J = 7.5, 20.9 Hz, 1H, Hb-C(8′)),
+1.31 (t, J = 7.5 Hz, 1H, Ha-C(8′)); 13C NMR (CD3OD, 75 MHz) δ
+162.1 (s, C(4)), 148.0 (s, CO), 143.4 (s, CO), 137.7 (d, C(6)), 137.6
+(s, C-arom), 133.6, 130.5, 129.3 (3d, 3 × C-arom), 112.0 (s, C(5)),
+91.9 (dd, J(C,F) = 3.7 Hz, C(4′)), 90.2 (d, C(1′)), 84.3 (d, J(C,F) =
+248.1 Hz, C(6′)), 80.8 (d, J(C,F) = 12.0 Hz, C(3′)), 63.4 (d, J(C,F) =
+8.5 Hz, C(5′)), 48.2 (t, C(2′)), 45.2 (td, J(C,F) = 15.5 Hz, C(7′)),
+21.1 (td, J(C,F) = 10.3 Hz, C(8′)), 13.8 (q, CH3); 19F NMR
+(CD3OD, 376 MHz) δ −200.4 (m); ESI+-HRMS m/z calcd for
+C20H21FN3O5 [M + H]+ 402.1460, found 402.1461.
+N4-Benzoyl-1-(5′-O-((4,4′dimethoxytriphenyl)methyl)-2′-deoxy-
+3′,5′-ethano-6′-ﬂuoro-5′,6′-methano-β-D-ribofuranosyl)-5-methyl-
+cytosine (17). To a stirred solution of compound 16 (606 mg, 1.51
+mmol) in pyridine (20 mL) was added DMTrCl (1.54 g, 4.53 mmol)
+at rt. After 2 days, the mixture was poured onto sat. aq NaHCO3 and
+extracted with EtOAc. The combined organic layers were dried
+(MgSO4) and evaporated, and the crude material was puriﬁed by CC
+(hexane/EtOAc 8:2 → 6:4, +0,2% Et3N) to give the title compound
+17 (843 mg, 79%) as a yellowish foam.
+
+Data for 17. Rf = 0.44 (hexane/EtOAc 1:3); 1H NMR (CDCl3, 400
+MHz) δ 13.37 (brs, 1H, NH), 8.26 (m, 2H, H-arom, H-C(6)), 7.42
+(m, 9H, H-arom), 7.20 (m, 4H, H-arom), 6.77 (dd, J = 7.6, 9.0 Hz,
+4H, H-arom), 5.85 (dd, J = 1.5, 6.4 Hz, 1H, H-C(1′)), 3.73 (s, 3H,
+OMe), 3.72 (s, 3H, OMe), 2.39 (dd, J = 1.5, 14.1 Hz, 1H, Hb-C(2′)),
+2.33 (dd, J = 6.4, 14.1 Hz, 1H, Ha-C(2′)), 2.22 (d, J = 0.7 Hz, 3H,
+CH3), 2.21 (m, 2H, H-C(4′), Hb-C(7′)), 2.11 (m, 1H, Ha-C(7′)), 1.77
+(ddd, J = 2.1, 8.3, 20.4 Hz, 1H, Hb-C(8′)), 1.56 (brs, 1H, OH), 0.85
+(dd, J = 8.3, 9.6 Hz, 1H, Ha-C(8″)); 13C NMR (CDCl3, 100 MHz) δ
+181.3 (s, C(4)), 160.4 (s, CO), 159.08, 159.06 (2s, 2 × C-arom),
+147.9 (s, CO), 145.9 (s, C-arom), 137.5 (d, C(6)), 137.4, 136.44,
+136.37 (3s, 3 × C-arom), 132.6, 131.2, 131.1, 130.0, 128.9, 128.3,
+127.9, 127.4, 113.19, 113.15 (10d, 10 × C-arom), 111.1 (s, C(5)), 90.9
+(dd, J(C,F) = 4.1 Hz, C(4′)), 89.4 (d, C(1′)), 89.0 (s), 83.2 (d, J(C,F)
+= 248.1 Hz, C(6′)), 80.8 (d, J(C,F) = 12.2 Hz, C(3′)), 64.9 (d, J(C,F)
+= 7.9 Hz, C(5′)), 55.4 (q, 2 × OMe), 47.9 (t, C(2′)), 44.2 (td, J(C,F)
+= 16.2 Hz, C(7′)), 20.2 (td, J(C,F) = 9.7 Hz, C(8′)), 13.6 (q, CH3);
+19F NMR (CDCl3, 376 MHz) δ −193.5 (m); ESI+-HRMS m/z calcd
+for C41H39FN3O7 [M + H]+ 704.2767, found 704.2771.
+N4-Benzoyl-1-(5′-O-((4,4′-dimethoxytriphenyl)methyl)- 3′O-(2-
+cyanoethoxy)diisopropylaminophosphanyl-2′-deoxy-3′,5′-ethano-
+6′-ﬂuoro-5′,6′-methano-β-D-ribofuranosyl)-5-methylcytosine (18).
+To a solution of compound 17 (2.37 g, 3.37 mmol) and
+diisopropylethylamine (2.23 mL, 13.47 mmol) in CH3CN (50 mL)
+was added (2-cyanoethoxy)diisopropylaminochlorophosphine (1.88
+mL, 8.42 mmol). After being stirred for 2 h at rt, the mixture was
+diluted with EtOAc and washed with sat. aq NaHCO3. The aqueous
+phases were extracted with EtOAc, the combined organic phases were
+dried (MgSO4) and evaporated, and the crude product was puriﬁed by
+</para>
+3563
+
+DOI: 10.1021/acs.joc.5b00184
+J. Org. Chem. 2015, 80, 3556−3565
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+CC (hexane/EtOAc 1:1, +1% NEt3) to give the title compound 18
+(2.78 g, 90%) as a yellowish foam.
+
+Data for 18. Rf = 0.71 (hexane/EtOAc 1:3); 1H NMR (CDCl3, 400
+MHz) δ 13.39 (brs, 1H, NH), 8.25 (m, 3H, H-arom, H-C(6)), 7.43
+(m, 9H, H-arom), 7.18 (m, 3H, H-arom), 6.76 (m, 4H, H-arom), 5.88
+(d, J = 6.8 Hz, 1H, H-C(1′)), 3.72 (m, 6H, 2 × OMe), 3.62 (m, 1H,
+OCH2), 3.49 (m, 1H, OCH2), 3.36 (m, 2H, 2 × (Me2CH)N), 2.76
+(m, 1H, Hb-C(7′)), 2.62 (m, 2H, H-C(2′)), 2.47 (m, 2H, CH2CN),
+2.36 (m, 1H, H-C(4′)), 2.21 (s, 3H, CH3), 2.01 (m, 1H, Ha-C(7′)),
+1.74 (m, 1H, Hb-C(8′)), 1.01 (m, 12H, 2 × (CH3)2CHN), 0.85 (m,
+1H, Ha-C(8′)); 13C NMR (CDCl3, 100 MHz) δ 179.7 (s, C(4)), 160.4
+(s, CO), 159.1, 159.04, 159.02, 159.01 (4s, 4 × C-arom), 147.8 (s,
+CO), 145.70, 145.65 (2s, C-arom), 137.4 (d, C(6)), 136.43, 136.39
+136.32 (3s, 3 × C-arom), 132.4, 131.2, 131.0, 130.0, 128.8, 128.2,
+127.9, 127.3, 127.2, (9d, 9 × C-arom), 117.5, 117.4 (2s, CN), 113.2,
+113.1 (2d, 2 × C-arom), 111.31, 111.27 (2s, C(5)), 91.5 (md, C(4′)),
+90.0, 89.9 (2d, C(1′)), 89.03, 88.98 (2s), 83.7 (m, C(3′)), 83.3, 83.2
+(2d, J(C,F) = 248.6 Hz, C(6′)), 64.63, 64.55 (2d, J(C,F) = 3.6 Hz,
+C(5′)), 58.0, 57.7 (2td, J(C,P) = 19.4 Hz, OCH2), 55.34, 55.30 (2q, 2
+× OMe), 45.7, 45.2 (2td, J(C,P) = 9.7, 12.9 Hz, C(2′)), 43.4, 43.3
+(2dd, J(C,P) = 12.6 Hz, 2 × Me2CH), 42.2, 42.1 (2td, J (C,F) J (C,P)
+= 10.5, 12.3 Hz, C(7′)), 24.53, 24.47, 24.40, 24.35 (4q, 2 × Me2CH),
+20.4, 20.3 (2td J(C,P) = 2.0, 2.7 Hz, CH2CN), 20.0, 19.9 (2td, J(C,F)
+= 10.2 Hz, C(8′)), 13.5 (q, CH3); 19F NMR (CDCl3, 376 MHz) δ
+−193.7 (m), −193.5 (m); 31P NMR (CDCl3, 161 MHz) d 145.1,
+143.0; ESI+-HRMS m/z calcd for C50H56FN5O8P [M + H]+ 904.3845,
+found 904.3846.
+Oligonucleotide Synthesis and Puriﬁcation. Oligonucleotides
+ON1−10 were synthesized by standard solid-phase phosphoramidite
+methodology on a 1.3 μmol scale on a Pharmacia LKB Gene
+Assembler Special DNA Synthesizer using a slightly modiﬁed DNA
+synthesis program. Natural phosphoramidites (dT, dC4Bz, dA6Bz,
+dG2dmf) were coupled as a 0.1 M solution in CH3CN, and
+tricyclophosphoramidites as 0.15 M solutions in CH3CN, with the
+exception of 6′-F-tc-T, 6′-F-tc-5MeC4Bz, and tc-A that were used as
+0.15 M solutions in DCE. The coupling step was 90 s for natural
+phosphoramidites and 12 min for
+tricyclo-phosphoramidites. As
+coupling reagent, 5-(ethylthio)-1H-tetrazole (0.25 M in CH3CN)
+was used. Capping, oxidation, and detritylation were carried out using
+standard solutions as described in the manufacturer’s protocol.
+Deprotection of the oligonucleotides after assembly and detachment
+from solid support was eﬀected by standard ammonia treatment (33%
+aq NH3, 16 h, 55 °C). The crude oligomers were puriﬁed by ion-
+exchange HPLC using a DNAPAC PA200, 4 × 250 mm analytical
+column (Dionex). Mobile phases A: 25 mM TRIZMA in H2O, pH 8.0.
+B: 25 mM TRIZMA, 1.25 M NaCl in H2O, pH 8.0. or A: 10 mM
+NaOH in H2O, pH 12.0. B: 10 mM NaOH, 1.5 M NaCl in H2O, pH
+12.0, ﬂow 1 mL/min detection at 260 nm. Puriﬁed oligonucleotides
+were desalted over Sep-Pak cartridges, quantiﬁed at 260 nm using
+extiction coeﬃcients as determined previously for tricyclo-nucleo-
+sides,31 and analyzed by ESI−-mass spectrometry. Oligonucleotides
+were then stored at −18 °C.
+UV Melting Curves. Absorbances were monitored at 260 nm, and
+the heating rate was set to 0.5 °C/min. A cooling−heating−cooling
+cycle in the temperature range 20−80 °C was applied. Tm values were
+obtained from the derivative curves using Varian WinUV software. To
+avoid evaporation of the solution, the sample solutions were covered
+with a layer of dimethylpolysiloxane. All measurements were carried
+out in 150 mM NaCl, 10 mM Na-phosphate, pH 7.0, with duplex
+concentration of 2 μM.
+
+CD-Spectroscopy. CD-spectra were recorded using the same
+buﬀer conditions and oligonucleotide concentrations as for UV
+melting curves. All CD-spectra were collected at 20 °C between 210 to
+320 nm at a 50 nm/min rate and were baseline-corrected against
+buﬀer. The reported spectra correspond to the average of at least three
+scans.
+</para>
+Article
+
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Copies of 1H, 13C, 19F, and 31P NMR spectra of compounds 2−
+18 and X-ray structural data (CIF) of compound 16. This
+material is available free of charge via the Internet at http://
+pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: christian.leumann@dcb.unibe.ch.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+Financial support by the Swiss National Science Foundation
+(grant no.: 200020-130373) and by the Association Mon-
+égasques contre les Myopathies (AMM) is gratefully acknowl-
+edged. We thank the group of Chemical Crystallography of the
+University of Bern (PD Dr. P. Macchi) for the X-ray structure
+solution and the Swiss National Science Foundation (R’equip
+project 206021_128724) for cofunding the single crystal X-ray
+diﬀractometer at
+the Department of Chemistry and Bio-
+chemistry of the University of Bern.
+
+■ REFERENCES
+
+J. K.; Martin-Pintado, N.; Gomez-Pinto,
+
+(1) Biffinger, J. C.; Kim, H. W.; DiMagno, S. G. ChemBioChem 2004,
+5, 622.
+(2) Dalvit, C.; Vulpetti, A. ChemMedChem 2011, 6, 104.
+(3) Hagmann, W. K. J. Med. Chem. 2008, 51, 4359.
+(4) Patra, A.; Paolillo, M.; Charisse, K.; Manoharan, M.; Rozners, E.;
+Egli, M. Angew. Chem., Int. Ed. 2012, 51, 11863.
+(5) Pallan, P. S.; Greene, E. M.; Jicman, P. A.; Pandey, R. K.;
+Manoharan, M.; Rozners, E.; Egli, M. Nucleic Acids Res. 2011, 39, 3482.
+(6) Anzahaee, M. Y.; Watts, J. K.; Alla, N. R.; Nicholson, A. W.;
+Damha, M. J. J. Am. Chem. Soc. 2011, 133, 728.
+(7) Watts,
+I.;
+Schwartzentruber, J.; Portella, G.; Orozco, M.; Gonzalez, C.; Damha,
+M. J. Nucleic Acids Res. 2010, 38, 2498.
+(8) Allerson, C. R.; Sioufi, N.; Jarres, R.; Prakash, T. P.; Naik, N.;
+Berdeja, A.; Wanders, L.; Griffey, R. H.; Swayze, E. E.; Bhat, B. J. Med.
+Chem. 2005, 48, 901.
+(9) Dowler, T.; Bergeron, D.; Tedeschi, A.-L.; Paquet, L.; Ferrari, N.;
+Damha, M. J. Nucleic Acids Res. 2006, 34, 1669.
+(10) Kalota, A.; Karabon, L.; Swider, C. R.; Viazovkina, E.; Elzagheid,
+M.; Damha, M. J.; Gewirtz, A. M. Nucleic Acids Res. 2006, 34, 451.
+(11) Egli, M.; Pallan, P. S.; Allerson, C. R.; Prakash, T. P.; Berdeja, A.;
+Yu, J.; Lee, S.; Watt, A.; Gaus, H.; Bhat, B.; Swayze, E. E.; Seth, P. P. J.
+Am. Chem. Soc. 2011, 133, 16642.
+(12) Pallan, P. S.; Yu, J.; Allerson, C. R.; Swayze, E. E.; Seth, P.; Egli,
+M. Biochemistry 2011, 51, 7.
+(13) Seth, P. P.; Yu, J.; Jazayeri, A.; Pallan, P. S.; Allerson, C. R.;
+Østergaard, M. E.; Liu, F.; Herdewijn, P.; Egli, M.; Swayze, E. E. J. Org.
+Chem. 2012, 77, 5074.
+(14) Seth, P. P.; Pallan, P. S.; Swayze, E. E.; Egli, M. ChemBioChem
+2013, 14, 58.
+(15) Jung, M. E.; Dwight, T. A.; Vigant, F.; Østergaard, M. E.;
+Swayze, E. E.; Seth, P. P. Angew. Chem., Int. Ed. 2014, 53, 9893.
+(16) Altmann, K. H.; Kesselring, R.; Francotte, E.; Rihs, G.
+Tetrahedron Lett. 1994, 35, 2331.
+(17) Marquez, V. E.; Siddiqui, M. A.; Ezzitouni, A.; Russ, P.; Wang,
+J.; Wagner, R. W.; Matteucci, M. D. J. Med. Chem. 1996, 39, 3739.
+(18) Østergaard, M. E.; Dwight, T.; Berdeja, A.; Swayze, E. E.; Jung,
+M. E.; Seth, P. P. J. Org. Chem. 2014, 79, 8877.
+(19) Østergaard, M. E.; Southwell, A. L.; Kordasiewicz, H.; Watt, A.
+T.; Skotte, N. H.; Doty, C. N.; Vaid, K.; Villanueva, E. B.; Swayze, E.
+
+3564
+
+DOI: 10.1021/acs.joc.5b00184
+J. Org. Chem. 2015, 80, 3556−3565
+
+Article
+
+The Journal of Organic Chemistry
+
+E.; Frank Bennett, C.; Hayden, M. R.; Seth, P. P. Nucleic Acids Res.
+2013, 41, 9634.
+(20) Rigo, F.; Hua, Y.; Chun, S. J.; Prakash, T. P.; Krainer, A. R.;
+Bennett, C. F. Nat. Chem. Biol. 2012, 8, 555.
+(21) Dugovic, B.; Leumann, C. J. J. Org. Chem. 2014, 79, 1271.
+(22) Steffens, R.; Leumann, C. Helv. Chim. Acta 1997, 80, 2426.
+(23) Lorenz, J. C.; Long, J.; Yang, Z.; Xue, S.; Xie, Y.; Shi, Y. J. Org.
+Chem. 2003, 69, 327.
+(24) Lietard, J.; Leumann, C. J. J. Org. Chem. 2012, 77, 4566.
+(25) Luisier, S.; Silhar, P.; Leumann, C. J. Nucleic Acids Symp. Ser.
+2008, 581.
+(26) Divakar, K. J.; Reese, C. B. J. Chem. Soc., Perkin Trans. 1 1982,
+1171.
+(27) MacMillan, A. M.; Verdine, G. L. J. Org. Chem. 1990, 55, 5931.
+(28) Saenger, W. Principles of Nucleic Acid Structure; Springer-Verlag:
+New York, 1984.
+(29) Dugovic, B.; Wagner, M.; Leumann, C. J. Beilstein J. Org. Chem.
+2014, 10, 1840.
+(30) Ittig, D.; Gerber, A. B.; Leumann, C. J. Nucleic Acids Res. 2011,
+39, 373.
+(31) Renneberg, D.; Leumann, C. J. J. Am. Chem. Soc. 2002, 124,
+5993.
+(32) Sowers, L. C.; Shaw, B. R.; Sedwick, W. D. Biochem. Biophys. Res.
+Commun. 1987, 148, 790.
+(33) Steffens, R.; Leumann, C. J. J. Am. Chem. Soc. 1999, 121, 3249.
+
+3565
+
+DOI: 10.1021/acs.joc.5b00184
+J. Org. Chem. 2015, 80, 3556−3565
+
+

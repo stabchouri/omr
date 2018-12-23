@@ -1,0 +1,792 @@
+Article
+
+pubs.acs.org/joc
+
+77Se NMR Spectroscopy As a Sensitive Probe for Hammett σ
+Constants
+Anne Sørensen, Brian Rasmussen, and Michael Pittelkow*
+
+Department of Chemistry, University of Copenhagen, Universitetsparken 5, DK-2100 Copenhagen, Denmark
+
+*S Supporting Information
+
+ABSTRACT: Herein we showcase the use of a combination of 1H, 13C, and
+77Se NMR spectroscopy as a sensitive tool for correlation analysis. A series of
+substituted O-aryl selenocarbamates [ArOC(Se)N(CH3)2] and Se-aryl
+selenocarbamates [ArSeC(O)N(CH3)2] have been investigated by means
+of 1H, 13C, and 77Se NMR spectroscopy. We have determined the 1H, 13C,
+and 77Se chemical shift values as well as both one- and two-bond
+heteronuclear 13C−77Se coupling constants, and the changes in both the
+chemical shift values and the coupling constants were found to obey linear
+− constants. For the eight
+free energy relationships with Hammett’s σ
+studied O-aryl selenocarbamates, we observe linear free energy correlations
+with two of the 13C and 77Se chemical shift values and as well as one
+13C−77Se coupling constant. With the ﬁve examples of Se-aryl selenocarba-
+mates, linear correlations are observed with three diﬀerent 13C−77Se coupling
+constants. The strong internal consistency validates the use of 77Se NMR spectroscopy for correlation analysis.
+
+p and σ
+
+p
+
+■ INTRODUCTION
+
+Correlations between thermodynamic and kinetic parameters
+are important for elucidating reaction mechanisms, and the
+relationship between parameters known as
+substituent
+constants, which appear in linear free energy expressions,
+and various directly measurable quantities has
+received
+signiﬁcant attention.1 Such correlations are often discussed
+using the various Hammett substituent constants, such as σ,
+σ+, and σ−.2,3
+
+Over
+
+the years, numerous
+
+studies have shown how
+Hammett substituent constants can correlate linearly with
+not only reaction rates and equilibrium constants but also
+infrared frequencies, ultraviolet absorption spectra, and NMR
+spectral parameters of various conjugated compounds. This
+free energy correlation is not
+surprising since Hammett
+substituent constants are a measure of the relative eﬀect of the
+substituents on the electron density at the studied site and
+should therefore be able to correlate with other properties
+that reﬂect
+the electron distribution within the molecule.
+Through this connection, it is possible to gain knowledge of
+reaction mechanisms and structure−property relationships,
+two concepts that are fundamental in chemistry.4−6
+
+1H and 13C chemical shift values are frequently used for the
+study of the transmission of electronic eﬀects of substituents
+in conjugated organic molecules.7−9 Since the electron density
+around the nucleus of
+is mostly aﬀected by the
+electron-donating or -withdrawing ability of the substituent, a
+free energy
+correlation, based on the theory of
+relationships, between the observed chemical shifts (δ
+X) and
+Hammett substituent constants (σ) can be found (eq 1),
+
+interest
+
+linear
+
+δ
+
+X
+
+=
+
+ρσ
+
++
+
+δ
+
+0
+
+(1)
+
+where ρ is a constant reﬂecting the sensitivity of the chemical
+shift values to the substituents while δ
+0 is the chemical shift
+the unsubstituted compound.10 Obtaining good
+value of
+correlations with eq 1 would indicate that the substituent
+eﬀects on the chemical shift values of the studied compounds
+are electronic in origin.
+
+it is not unusual
+
+Coupling constants are another major parameter obtained
+by NMR spectroscopy that has shown to be able to obey
+linear free energy relationships with Hammett’s σ constants of
+the substituents.11,12 In general, the magnitude of a coupling
+constant depends on the number of bonds
+intervening
+between the two interacting atoms or groups of atoms. In
+addition, the electronegativity of potential attached atoms or
+inﬂuence also plays a
+groups together with stereochemical
+for the coupling
+signiﬁcant role. Further,
+constants
+the atoms
+involved.13,14 Since the coupling constant
+is a physical
+parameter that is expressed as a function of the electronic
+distribution within the molecule it will also reﬂect diﬀerences
+in the electronic structure brought about by the presence of
+diﬀerent substituents. This correlation can be expressed as a
+linear free energy relationship in the same manner as in eq 1.
+It is important that the change of the physical parameter
+that
+is monitored is convincingly large when constructing
+Hammett plots. Data obtained using 1H and 13C NMR
+spectroscopy is often used as the input to Hammett plots, and
+
+to depend on the hybridization of
+
+Received:
+Published: April 2, 2015
+
+January 15, 2015
+
+© 2015 American Chemical Society
+
+3852
+
+DOI: 10.1021/acs.joc.5b00108
+J. Org. Chem. 2015, 80, 3852−3857
+
+The Journal of Organic Chemistry
+
+Article
+
+range. This
+
+a particular weakness of this strategy is the often small change
+in chemical shift values or coupling constants that is observed.
+An attractive approach would therefore be to make the
+measurements on nuclei with a wider
+is a
+possibility when working with organoselenium compounds.
+Selenium has six naturally occurring isotopes where only one
+of them, 77Se (7.58%), is NMR active having a nuclear spin
+quantum number of I = 1/2. 77Se resonances are known to
+show a remarkable sensitivity toward small changes in the
+electronic structure of
+the selenium atom and its directly
+bonded atom which is why they appear in a wide range of
+about 3000 ppm. In addition, the 13C−77Se coupling constants
+vary from 45 to 250 Hz and the 1H−77Se coupling constants
+are shown in a range of 60 Hz. All this makes 77Se NMR
+spectroscopy a very sensitive tool
+the analysis of
+organoselenium compounds.13
+
+for
+
+The development of organoselenium chemistry has been
+relatively slow as compared to other classes of organic
+selenium containing compounds are
+chemistry. However,
+attractive synthetic targets because of
+their ability to
+participate in chemo-, regio-, and stereoselective chemical
+reactions, and in addition, they are found to be useful in a
+range of biological activities where they are often present in
+the form of selenocysteine, the seleno analogue of cysteine.15
+thermally
+induced OAr
+led to the
+rearrangement of a range of substituted O-aryl selenocarba-
+mates 1 [ArOC(Se)N(CH3)2] into the corresponding Se-aryl
+selenocarbamates 2 [ArSeC(O)N(CH3)2] (Scheme 1).16 The
+
+In our previous work we presented the ﬁrst
+
+→ SeAr migration reaction that
+
+Scheme 1. Synthesis of an Arylselenol (Isolated As the
+Diselenide) From the Corresponding Phenol via the Seleno
+Newman−Kwart Rearrangement
+
+rearrangement protocol enabled the preparation of arylsele-
+nols containing a wide variety of functional groups from the
+corresponding phenols in three convenient steps. Our focus
+was back then on studying the reaction mechanism of the
+seleno Newman−Kwart
+rearrangement, and we therefore
+simply analyzed the compounds by 1H and 13C NMR
+spectroscopy. However,
+the seleno
+Newman−Kwart rearrangement gave convenient access to a
+series of O-aryl selenocarbamates and Se-aryl selenocarbamates
+with electron-donating and -withdrawing substituents situated
+on the aromatic ring. These substituents are ideally situated to
+study a variety of phenomena with respect to the linear free
+energy relationship using diﬀerent Hammett
+substituent
+constants.
+
+the development of
+
+In this paper, we demonstrate convincing linear free energy
+− constants of the
+relationships between Hammett’s σ
+substituents and the 13C and 77Se chemical shift values as well
+as various 13C−77Se coupling constants of the O-aryl and Se-
+aryl
+selenocarbamates. These correlations are found by
+
+p and σ
+
+p
+
+utilizing the sensitivity of 77Se NMR spectroscopy which is
+used in an interplay with 13C NMR spectroscopy.
+■ RESULTS AND DISCUSSION
+
+The studied O-aryl selenocarbamates 1 and Se-aryl seleno-
+carbamates 2 are given in Table 1 together with the
+
+Table 1. Overview of the Studied O-Aryl Selenocarbamates
+1 and Se-Aryl Selenocarbamates 2 Together with the
+Corresponding Hammett’s σ
+Substituents5
+
+− Constants of the
+
+p and σ
+
+p
+
+for
+
+corresponding Hammett’s σ
+the
+aromatic substituents.5 All compounds were analyzed by 13C
+and 77Se NMR spectroscopy and a detailed description hereof
+is presented in the Experimental Section.
+
+p and σ
+p
+
+− constants
+<para sub=“props”>
+The sensitivity of
+
+77Se NMR spectroscopy was easily
+witnessed in our systems where we observed a more than 200
+ppm downﬁeld shift of the selenium resonances going from
+compound 1 to 2 (Figure 1a). This large change shows the
+altered environment for the selenium atom going from a C
+Se double bond in 1 to two single C−Se bonds in 2.
+Additionally, changes in chemical shift values were found
+depending on the substituent on the aromatic ring.
+In
+compound 1 the selenium chemical shifts ranged from δ
+Se 272
+ppm (X = OCH3) to δ
+Se 311 ppm (X = NO2) while in 2 the
+signals were observed in the range δ
+Se 516 ppm (X = H) to
+δ
+Se 524 ppm (X = NO2). These values were found to
+− constants, although the
+correlate with Hammett’s σ
+correlation coeﬃcient for 2 was not excellent (R2 = 0.999 and
+0.702; Figure 2a and 2b). Both plots have positive ρ values
+showing how the selenium resonances vary with the character
+of the substituents. Electron-donating groups cause upﬁeld
+shifts due to increased shielding of the selenium nucleus while
+electron-withdrawing groups cause downﬁeld shifts showing
+how the electronic eﬀects of the substituents attached to the
+aromatic ring play a predominant role in the change of the
+the 77Se
+selenium chemical
+resonances makes it very suitable for
+the elucidation of
+in the structure of organoselenium
+some ﬁne detail
+compounds.
+
+shifts. Such sensitivity of
+
+p and σ
+</para>
+<para sub=“props”>
+Analyzing the 13C NMR spectra of compound 1 and 2 it
+was clear that also the chemical shift values of the 13C nuclei
+changes signiﬁcantly depending on the substituent attached to
+the aromatic ring (Figure 1b). Plotting the resonance of the
+
+p
+</para>
+3853
+
+DOI: 10.1021/acs.joc.5b00108
+J. Org. Chem. 2015, 80, 3852−3857
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 1. 77Se NMR spectra (57 MHz, CDCl3 with a saturated
+solution of (PhSe)2 in CDCl3 in a sealed tube as external standard)
+(a) and 13C NMR spectra (125 MHz, CDCl3) (b) of O-(4-
+cyanophenyl) N,N-dimethylselenocarbamate (1, X = CN) and Se-(4-
+cyanophenyl) N,N-dimethylselenocarbamate (2, X = CN).
+
+p or σ
+p
+
+that
+<para sub=“props”>
+selenocarbamate (1) or carbamate (2) carbon atom against
+− constants gave linear correlations for
+Hammett’s σ
+both compounds with similar ρ values (R2 = 0.979 and 0.961;
+Figure 2c and 2d). However, it should be noted that ρ for
+these plots are negative. A negative sign for ρ is indicative of a
+reverse substituent chemical shift eﬀect;
+is, electron-
+donating substituents move the carbon resonance downﬁeld
+and the stronger
+the
+substituent the lower the ﬁeld at which the carbon resonance
+is observed.
+
+the electron-donating power of
+</para>
+<para sub=“props”>
+The O-aryl selenocarbamates 1 appear with 13C resonances
+C 189.5−191.5 ppm while the 13C
+for the selenocarbamate at δ
+resonance for the carbamate in 2 is moved ∼25 ppm upﬁeld
+C 162.7−164.7 ppm. This change in chemical shift values
+to δ
+can be explained by considering the altered energy barrier for
+the internal rotation about the C−N carbamate bond going
+from 1 to 2. The rotational barrier is known to be larger for
+selenoamides compared to amides, as there is a decreasing
+selenium to participate in π-double bonds
+tendency for
+compared to oxygen.17 The 13C carbamate chemical shifts of
+1 are therefore less shielded due to a larger contribution from
+resonance form B (Scheme 2). This variation in the internal
+rotational barrier between compound 1 and 2 is also observed
+in both the 1H and 13C NMR spectra of these compounds.
+While in compound 1 the energy barrier is suﬃciently high to
+allow observation of two diﬀerent sets of signals for the N,N-
+</para>
+Figure 2. Hammett correlations found between the 77Se and 13C
+chemical shift values (δ
+p or
+−) of O-aryl selenocarbamate 1 and Se-aryl selenocarbamate 2 (a−
+σ
+p
+d) together with a graph correlating the 13C chemical shifts of the
+selenocarbamate in 1 with the 77Se chemical shifts (e).
+
+X) and Hammett substituent constants (σ
+
+Scheme 2. Two Contributing Resonance Structures of the
+Carbamate Functionality
+
+3854
+
+DOI: 10.1021/acs.joc.5b00108
+J. Org. Chem. 2015, 80, 3852−3857
+
+The Journal of Organic Chemistry
+<para sub=“props”>
+dimethylamino group at 25 °C, the rotation barrier in 2 is
+lower, which is why the two peaks approach each other and
+thereby form a broad singlet (Figures S3 and S4). A similar
+upﬁeld shift of
+the one in the
+selenocarbamate 1 is observed when comparing with the
+C 186.4−188.5 ppm) and
+corresponding thiocarbamates (δ
+C 153.4−155.3 ppm)18 that are shown in Figure
+carbamates (δ
+3. Accordingly, the 13C resonances for the carbamates appear
+
+the 13C resonances as
+</para>
+Figure 3. Hammett correlations found between the 13C chemical
+C) of the carbamate carbon atom and Hammett’s
+shift values (δ
+the various O-aryl
+constants of
+the substituents
+thiocarbamates (a) and O-aryl carbamates (b).18
+<para sub=“props”>
+p) of
+
+(σ
+
+at a higher ﬁeld compared to both the thiocarbamates (∼33
+ppm) and selenocarbamates (∼36 ppm). This corresponds
+well with the reported observation that the rotational barrier
+is reported to increase from amides through thioamides to
+selenoamides due to the decreased tendency for the atoms to
+participate in π-double bonds through the series O > S >
+Se.17 Plots of the 13C resonances for the thiocarbamates and
+carbamates as a function of Hammett’s σ
+p constants linear
+correlations were generated for these also (R2 = 0.987 and
+0.999; Figure 3a
+and together with the
+selenocarbamates 1 all three relationships were found to be
+practically parallel (ρ = −1.93 ± 0.05).
+
+and 3b),
+</para>
+<para sub=“props”>
+The sensitivity to changes in electronic structure is reported
+to be about six times greater for the selenium resonances than
+for the carbon resonances on a similarly located carbon.19 The
+studied compounds do not
+let us make this direct
+comparison; however, there was still a clear trend that the
+electronic distribution at selenium is much more sensitive to
+changes in substituents than that at
+the adjoining carbon
+atom. This may be caused by the greater polarizability of
+selenium compared to carbon.20 This trend also transpired in
+the linear free energy relationship that was found between the
+77Se chemical shifts and the 13C chemical
+the
+selenocarbamate in compound 1 (R2 = 0.966; Figure 2e).
+Here it was again shown how the 77Se resonances follow the
+shift eﬀect while the 13C
+expected substituent chemical
+resonances obey the reverse eﬀect since an increase in the
+shielding of
+the selenium resonance is accompanied by a
+
+shifts of
+</para>
+Article
+<para sub=“props”>
+deshielding of the carbon resonance. This behavior is similar
+to the relationship reported for selenoketones and selenoa-
+mides.21
+</para>
+<para sub=“props”>
+is
+
+From the studied O-aryl selenocarbamates 1 and Se-aryl
+selenocarbamates 2 we were able to observe both one- and
+two-bond heteronuclear couplings between the 13C−77Se
+nuclei. The nJC−Se is also observed in the 13C NMR spectrum
+in the form of
+symmetrically placed satellite signals
+surrounding the main peak, each having ∼3.8% of
+the
+intensity of this peak (Figure 1b). The magnitude of the one-
+bond 13C−77Se coupling constants (1JC−Se) between the
+carbamate carbon and the selenium atom in 1 was in the
+range of 236.5 Hz (X = OCH3) to 241.6 Hz (X = NO2). It
+has been reported that the Fermi contact interaction is the
+dominant mechanism inﬂuencing the 1JC−Se coupling.21,22
+Consequently, the magnitude of the 1JC−Se coupling strongly
+depends on the hybridization of the carbon atom. While sp3
+hybridizations are leading to relatively small values of 1JC−Se,
+an increase in s-character gives an increase in the magnitude.
+Ranges reported in the literature are 45−100 Hz for selenium
+attached to sp3 carbon atoms, 90−174 Hz for sp2 carbons in
+CC−Se systems containing partial double bond character
+while the coupling increases to 203−249 Hz for systems
+containing a true CSe bond.13,21 The high 1JC−Se values
+obtained from 1 therefore correspond well with the previous
+ones observed in the literature. By plotting the 1JC−Se values as
+a function of Hammett’s σ
+p constants, a linear regression was
+found (R2 = 0.986; Figure 4a). The fact that we observe a
+linear free energy relationship between 1JC−Se and the σ
+p
+constants is good evidence that the change in 1JC−Se results
+from electronic eﬀect of the substituents. The magnitude of
+1JC−Se
+found to increase with the greater electron-
+withdrawing power of the substituents. This can be explained
+by looking at the lone pair electrons on the oxygen atom that
+will
+interact strongly with the aromatic ring when electron-
+withdrawing substituents are present. This interaction will
+weaken the delocalization toward the carbonyl carbon atom
+and thus give rise to an increase in the C−Se bond order and
+thereby a higher coupling constant.
+</para>
+<para sub=“props”>
+Compound 2 retains two 1JC−Se couplings: one between the
+selenium atom and the ipso carbon and one to the carbamate
+carbon. Since the involved carbon atoms are both sp2
+hybridized, a lower coupling constant was therefore to be
+expected. The 1JC−Se couplings were measured in the 13C
+NMR spectra to be between 92.6−123.6 Hz
+thereby
+conﬁrming how the 1JC−Se coupling constant indeed depends
+the two 1JC−Se couplings,
+on the hybridization. Besides
+compound 2 also gives rise to a 2JC−Se coupling between
+the ortho carbon and the selenium atom. The two-bond
+13C−77Se coupling constant has a magnitude of 10.4−11.3 Hz
+showing how the coupling decreases as the distance between
+the two interacting nuclei increases. These values correspond
+nicely with previous reported 2JC−Se couplings that are shown
+to be in the range 5−30 Hz for various systems.22,23 Plotting
+both the 1JC−Se and 2JC−Se couplings in 2 as a function of
+− constants gave rise to linear correlations (R2 =
+Hammett’s σ
+p
+0.958, 0.975, and 0.934; Figure 4b, 4c, and 4d) indicating that
+the size of 1,2JC−Se correlates well with the electronic eﬀects
+transmitted through the aromatic ring. The ρ value is negative
+in Figure 4b while it is positive in Figure 4c and 4d. The two
+latter show us therefore how electron-withdrawing substitu-
+ents here increase the magnitude of 1,2JC−Se by increasing both
+the strength of the interaction of selenium with the aromatic
+</para>
+3855
+
+DOI: 10.1021/acs.joc.5b00108
+J. Org. Chem. 2015, 80, 3852−3857
+
+The Journal of Organic Chemistry
+
+≈ 3 Hz.22,25
+
+Article
+<para sub=“props”>
+structure of 2 was measured to be ca. 3°.16 However, no
+3JH−Se
+couplings were ever detected in the studied
+compounds, so it appears that any 1H satellite signals were
+hidden under the main signal or too low intensity to be
+observed. Previous studies of 3JH−Se couplings in aromatic
+compounds estimate 3JH−Se
+</para>
+■ CONCLUSION
+In this paper we have presented the ﬁrst systematic 1H, 13C,
+and 77Se NMR spectroscopic study of a family of substituted
+O-aryl selenocarbamates 1 and Se-aryl selenocarbamates 2,
+and we have showcased how the combination of 77Se and 13C
+NMR spectroscopy gives an internally consistent linear free
+energy relationship using Hammett substituent constants.
+For compound 1 excellent linear free energy relationships
+(R̅2 = 0.983) were obtained when the NMR spectral
+X and nJC−Se) were plotted against Hammett’s
+parameters (δ
+σ
+p values while the correlation coeﬃcients from the plots
+lower (R̅2 =
+obtained with compound 2 were somewhat
+0.888). The substituents used in 1 represent both electron-
+withdrawing and -donating groups whereas in 2 they are only
+electron-withdrawing. While σ
+p values are based on a
+combination of both resonance and polar
+interactions,
+− constants are optimized for compounds in
+Hammett’s σ
+which there is a direct resonance interaction between an
+electron acceptor and the studied site.
+therefore
+possible to obtain better plots when instead using Hammett’s
+− constants for the plots with 2 (one example with R2 =
+σ
+p
+0.702; the rest R̅2 = 0.957).
+
+It was
+
+p
+
+In conclusion, the 13C and 77Se NMR spectra of O-aryl
+selenocarbamates 1 and Se-aryl selenocarbamates 2 have been
+analyzed and we were able to ﬁnd linear correlations between
+selected 13C and 77Se chemical shift values and Hammett’s σ
+p
+− constants. Furthermore, we have determined both
+and σ
+one- and two-bond heteronuclear couplings between the
+77Se−13C nuclei
+in 1 and 2 and shown how also these
+correlate with σ
+■ EXPERIMENTAL SECTION
+
+p and σ
+
+−.
+
+p
+
+p
+
+found between the 13C−77Se
+Figure 4. Hammett correlations
+coupling constants (nJC−Se) and Hammett substituent constants (σ
+−) of O-aryl selenocarbamates 1 (a) and Se-aryl selenocarba-
+or σ
+mates 2 (b−d).
+<para sub=“props”>
+p
+
+p
+
+In general,
+
+the correlations
+for
+
+−Se bond order whereas donating
+ring and the CAr
+substituents decrease it.
+for
+1JC−Se show a greater numerical slope than that
+the
+2JC−Se coupling (ρ = 4.1−6.4 vs 0.6). This indicates that the
+substituent eﬀects are transmitted most eﬀectively through
+resonance rather than inductive eﬀects.
+</para>
+<para sub=“props”>
+No couplings were observed between the 1H−77Se nuclei.
+In compound 1 the closest connection is a 4JH−Se coupling to
+the N,N-dimethylamino protons, but this is too weak to be
+observed. Compound 2 possesses a 3JH−Se coupling to the
+aromatic ortho protons. In general, 3J coupling constants are
+shown to exhibit a Karplus-type dependence where the size of
+the coupling constant depends directly on the torsional angle
+(α) between the atoms involved. The magnitude of
+the
+splitting is greatest when α = 0° or 180° and is smallest when
+α = 90°.24 The torsional angle, 1H−CC−77Se, in a crystal
+</para>
+The synthesis of compounds 1 and 2 was reported in a previous
+study.16 The O-aryl
+thiocarbamates were synthesized following a
+literature procedure,26 while the 13C NMR spectroscopic data on the
+O-aryl carbamates were obtained from the literature.18
+<para sub=“exp”>
+The samples for the NMR experiments were prepared using
+CDCl3 as the solvent that was purchased from Euriso-Top and used
+as received. The concentration of the samples was in the range
+0.10−0.20 M (in general 20 mg of compound in 500 μL of CDCl3).
+All NMR experiments were performed at 25 °C. 13C NMR spectra
+were recorded at 125 MHz on a 500 spectrometer equipped with a
+CryoProbe using residual nondeuterated CHCl3 as the internal
+C 77.16 ppm). 13C−77Se coupling constants (nJC−Se) were
+standard (δ
+obtained from the 77Se satellites of the proton-decoupled 13C NMR
+spectra. Due to the rather large longitudinal relaxation time of 77Se
+the spectra were recorded with a longer relaxation delay (T1 = 4.0 s)
+together with an extended number of scans (n = 2048) to minimize
+the signal-to-noise ratio and obtain the low intensity nJC−Se. 77Se
+NMR spectra were recorded at 57 MHz on a 300 spectrometer
+equipped with a 5 mm BBO probe using a saturated solution of
+diphenyl diselenide in CDCl3 at 25 °C in a sealed tube as an external
+standard (δ
+Se 463 ppm). The experiments were performed with a
+relaxation delay of T1 = 2.0 s and a prolonged number of scans (n =
+1024). The spectra were recorded with a spectral width of 500 ppm,
+and to avoid any misinterpretation of potential aliased or folded
+peaks, each compound was recorded in at least two diﬀerent spectral
+windows. All chemical shifts (δ) are quoted in ppm, and coupling
+</para>
+3856
+
+DOI: 10.1021/acs.joc.5b00108
+J. Org. Chem. 2015, 80, 3852−3857
+
+Article
+
+(20) Miller, T. M. In CRC Handbook of Chemistry and Physics, 95th
+ed.; Haynes, W. M., Ed.; Taylor & Francis: 2014; pp 10,187−10,196.
+(21) Cullen, E. R.; Guziec, F. S., Jr.; Murphy, C. J.; Wong, T. C.;
+Andersen, K. K. J. Am. Chem. Soc. 1981, 103, 7055−7057.
+(22) Kalabin, G. A.; Kushnarev, D. F.; Bzesovsky, V. M.;
+Tschmutova, G. A. Org. Magn. Resonance 1979, 12, 598−604.
+(23) Reich, H. J.; Trend, J. E. J. Chem. Soc., Chem. Commun. 1976,
+310−311.
+(24) Karplus, M. J. Chem. Phys. 1959, 30, 11−15.
+(25) McFarlane, W.; Wood, R. J. J. Chem. Soc., Dalton Trans. 1972,
+1397−1402.
+(26) Moseley, J. D.; Sankey, R. F.; Tang, O. N.; Gilday, J. P.
+Tetrahedron 2006, 62, 4685−4689.
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+constants (J) are given as absolute values and expressed in hertz
+(Hz). The NMR experiments were processed using MestReNova v.
+8.1.2.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+77Se NMR spectra for compounds 1 and 2 together with
+tables containing the parameters used for the Hammett plots.
+This material
+is available free of charge via the Internet at
+http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: pittel@kiku.dk.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was supported by the Lundbeck Foundation. We
+thank Christian G. Tortzen for his assistance with setting up
+the 77Se NMR measurements and Dr. Sophie R. Beeren for
+careful proof reading of the manuscript.
+■ REFERENCES
+
+Joseph, S.
+
+In Correlation Analysis
+
+(1) Correlation Analysis in Chemistry: Recent Advances; Chapman, N.
+B., Shorter, J., Eds.; Plenum Press: 1978.
+(2) Hammett, L. P. Chem. Rev. 1935, 17, 125−136.
+(3) Hansch, C.; Leo, A.; Taft, R. W. Chem. Rev. 1991, 91, 165−195.
+(4) Smith, M. B.; March, J. March’s Advanced Organic Chemistry:
+Reactions, Mechanisms, and Structure, 6th ed.; Wiley: 2007; pp 401−
+412.
+(5) Carey, F. A.; Sundberg, R. J. Advanced Organic Chemistry, Part
+A: Structure and Mechanisms, 5th ed.; Springer: 2007; pp 335−344.
+(6) Carroll, F. A. Perspectives on Structure and Mechanism in Organic
+Chemistry; Brooks/Cole: 1998; pp 366−386.
+(7) Markgraf, J. H.; Hong, L.; Richardson, D. P.; Schofield, M. H.
+Magn. Reson. Chem. 2007, 45, 985−988.
+(8) Lee, H. S.; Yu, J. S.; Lee, C. K. Bull. Korean Chem. Soc. 2009,
+30, 2351−2354.
+(9) Kalyanasundaram, N.; Sakthinathan, S. P.; Suresh, R.;
+Kamalakkannan, D.;
+J.; Vanangamudi, G.;
+Thirunarayanan, G. Int. Lett. Chem. Phys. Astron. 2014, 9, 23−47.
+(10) Ewing, D. F.
+in Chemistry: Recent
+Advances; Chapman, N. B., Shorter, J., Eds.; Plenum Press: 1978; pp
+357−396.
+(11) Kolehmainen, E.; Puchala, A.; Suontamo, R.; Rasala, D.; Lysek,
+R. J. Chem. Soc., Perkin Trans. 2 1996, 2383−2387.
+(12) Gierczyk, B.; Ostrowski, W.; Kaźmierczak, M. Magn. Reson.
+Chem. 2012, 50, 271−277.
+(13) Duddeck, H. In Chemical Shifts and Coupling Constants for
+Selenium-77; Gupta, R. R., Lechner, M. D., Eds.; Springer, 2004; pp
+1−15.
+(14) Carbajo, R. J.; Neira, J. L. NMR for Chemists and Biologists;
+Springer: 2013; pp 31−52.
+(15) Organoselenium Chemistry: Synthesis and Reactions; Wirth, T.,
+Ed.; Wiley: 2012.
+(16) Sørensen, A.; Rasmussen, B.; Agarwal, S.; Schau-Magnussen,
+M.; Sølling, T. I.; Pittelkow, M. Angew. Chem., Int. Ed. 2013, 52,
+12346−12349.
+(17) Svanholm, U. Ann. N.Y. Acad. Sci. 1972, 192, 124−131.
+(18) Yamagami, C.; Takao, N.; Nishioka, T.; Fujita, T.; Takeuchi,
+Y. Org. Magn. Resonance 1984, 22, 439−445.
+(19) McFarlane, H. C. E.; McFarlane, W.
+In NMR of Newly
+Accessible Nuclei, Vol. 2: Chemically and Biochemically Important
+Elements; Laszlo, P., Ed.; Academic Press: 1983; pp 275−299.
+
+3857
+
+DOI: 10.1021/acs.joc.5b00108
+J. Org. Chem. 2015, 80, 3852−3857
+
+

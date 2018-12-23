@@ -1,0 +1,748 @@
+Note
+
+pubs.acs.org/joc
+
+Chiral Gold Phosphate Catalyzed Tandem Hydroamination/
+Asymmetric Transfer Hydrogenation Enables Access to Chiral
+Tetrahydroquinolines
+Yu-Liu Du, Yue Hu, Yi-Fan Zhu, Xi-Feng Tu, Zhi-Yong Han,* and Liu-Zhu Gong
+Hefei National Laboratory for Physical Sciences at the Microscale and Department of Chemistry, University of Science and
+Technology of China, Hefei 230026, China
+*S Supporting Information
+
+ABSTRACT: A highly eﬃcient chiral gold phosphate-
+catalyzed tandem hydroamination/asymmetric transfer hydro-
+genation reaction is described. A series of chiral
+tetrahy-
+droquinolines were obtained in excellent yields and
+enantioselectivities. In this reaction, the gold catalyst enables
+both the hydroamination step as a π-Lewis acid and the
+asymmetric hydrogen-transfer process as an eﬀective chiral
+Lewis acid.
+
+prevalent
+
+C hiral 1,2,3,4-tetrahydroquinoline not only represents a
+
+skeleton in numerous naturally occurring
+alkaloids and artiﬁcial biorelated molecules but also emerges
+as a privileged building block in drug discovery, which has
+stimulated a great demand and consequent development of
+it.1 Generally, catalytic
+asymmetric synthetic methods for
+asymmetric hydrogenation of prepared quinolines provides the
+most widely used access to chiral tetrahydroquinolines (Scheme
+1, eq 1).2 Various group VIII transition metals, such as iridium,3
+ruthenium,4 rhodium,5 and palladium,6 incorporated with chiral
+ligands, deliver high eﬃciency for
+the enantioselective
+reduction of quinolines. Rueping and co-workers developed
+the ﬁrst organocatalytic asymmetric transfer hydrogenation of
+quinolines.7 Recently, we found that chiral gold phosphate is
+able to catalyze the asymmetric transfer hydrogenation of
+quinolines very eﬃciently.
+
+Despite these achievements, asymmetric hydrogenation of
+quinolines inevitably suﬀers from harsh conditions and low
+overall step eﬃciency brought by preceding quinoline synthesis.
+To overcome this, we and other groups7 have been involved in
+step-economical
+tetrahydroquinoline syntheses with readily
+available materials. From o-aminobenzaldehyde and β-keto
+esters, we developed a tandem Friedländer condensation/
+asymmetric transfer hydrogenation reaction via Mg(OTf)2/
+chiral phosphoric acid relay catalysis.8 Through the combina-
+tion of gold catalysis and chiral Brønsted acid catalysis, alkynyl
+amines were directly transformed into chiral tetrahydroquino-
+lines (eq 2).9 However, this Au/organo relay catalytic process
+demands 5 mol % gold catalyst and 15 mol % chiral phosphoric
+acid,10
+this
+metholodgy. Previously, we have found that chiral gold
+phosphate could serve as a highly eﬃcient catalyst for the
+asymmetric transfer hydrogenation of quinolines,11 with the
+
+lowering the practical applicability of
+
+thus
+
+Scheme 1. Strategy for Enantioselective Synthesis of Chiral
+1,2,3,4-Tetrahydroquinolines
+
+stereoselectivity controlled by the chiral counteranion.12,13 We
+envisioned that, with an eﬃcient gold catalyst, the tandem
+process might be realized through solely gold catalysis.14
+Herein, we disclose a high yielding and enantioselective cascade
+hydroamination/asymmetric transfer hydrogenation reaction,
+
+Received: February 6, 2015
+Published: April 7, 2015
+
+© 2015 American Chemical Society
+
+4754
+
+DOI: 10.1021/acs.joc.5b00153
+J. Org. Chem. 2015, 80, 4754−4759
+
+The Journal of Organic Chemistry
+Table 1. Evaluation of Catalysts and Optimization of Reaction Conditionsa
+
+Note
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+B*−H
+4a
+4b
+4c
+4d
+4e
+4e
+4e
+4e
+4e
+4e
+4e
+4e
+4e
+4e
+4e
+4e
+
+[Au] mol %
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0.5
+0.2
+0.1
+
+5
+5a
+5a
+5a
+5a
+5a
+5b
+5c
+5a
+5a
+5a
+5a
+5a
+5a
+5a
+5a
+5a
+
+solvent
+Tol
+Tol
+Tol
+Tol
+Tol
+Tol
+Tol
+Tol
+Tol
+Tol
+CH2Cl2
+THFg
+p-xylene
+Tol
+Tol
+Tol
+
+f
+
+yield (%)
+
+47
+57
+68
+54
+80
+55
+5
+74
+68
+60
+<5
+trace
+59
+80
+81
+59
+
+eeb
+9
+34
+96
+15
+98
+10
+98
+93c
+90d
+97e
+97
+
+80
+98
+98
+98
+
+aUnless indicated otherwise, the reaction of 1a (0.1 mmol), 2a (R = Et, 0.24 mmol) was carried out in toluene (1.5 mL) at 90 °C for 16 h under Ar
+in the presence of a gold catalyst precursor (1 mol %) and Brønsted acid (1 mol %). bThe ee was determined by HPLC. cR = Me. dR = Bn. eR =
+Allyl. fReaction was carried out at rt for 32 h. gReaction was carried out at 60 °C.
+<para sub="scope">
+Under
+
+from electron-deﬁcient
+
+the optimized reaction conditions,
+
+the general
+applicability of the reaction toward substituted 2-(2-propynyl)-
+aniline derivatives were investigated in the presence of 0.2 mol
+% of chiral gold phosphate generated from (IMes)AuMe and
+4e (Table 2). The gold catalytic tandem reaction tolerated a
+wide range of substrates. For 2-(2-propynyl)anilines bearing
+various aromatic substituents,
+to
+electron-rich, on the propynyl moiety (entries 3a−3f), the
+tandem reaction proceeded cleanly to give tetrahedroquinolines
+with good yields (from 81% to 86%) and excellent
+enantioselectivities (from 96% to 98% ee). An aliphatic
+substituent exhibited a passive eﬀect of the enantioselectivity:
+n-propyl and n-butyl substituted 2-(2-propynyl)anilines (entries
+3g−3h) provided the desired product with good yields yet
+lower enantiometric excess values. Long aliphatic chain
+substituted aromatic substituents (entry 3i) maintained the
+excellent stereoselectivity and even enhanced the yield to 91%.
+Moreover, substituents on the aniline moiety (entries 3j−3k)
+were also tolerable. Both electron-withdrawing and -donating
+substituents were suitable for the reaction, resulting in good
+conversion and excellent enantioselectivity.
+</para>
+catalyzed by as low as 0.2 mol % single chiral gold phosphates
+(eq 3).11,15
+<para sub=“opt”>
+Our initial investigation included the reaction of 2-(3-phenyl-
+2-propyl)aniline (1a) with Hantzsch ester (2a) at 90 °C using
+chiral gold phosphates generated in situ from 1 mol % of
+IMesAuMe and 1 mol % BINOL-based phosphoric acid (4).
+Among the chiral phosphoric acids we investigated (Table 1,
+entries 1−5), 4e was identiﬁed to be ideal for this process,
+which improved the stereochemical outcome to 98% ee with
+80% yield. Then, several gold ligands were examined (entries
+5−7). Carbene-type ligand IMes provided the best result in
+yield and enantioselectivity (entry 5) while PPh3 gave the
+product with excellent stereoselectivity but only 5% yield (entry
+7), and IPr
+ligand led to a moderate yield and poor
+enantioselectivity (entry 6). With the results above, an
+examination of diﬀerent Hantzsch esters (entries 8−10)
+revealed that 2a was the best hydride source. Moreover, a
+brief screening of solvents (entries 11−13) resulted in toluene
+being optimal
+for this reaction regarding both yield and
+enantioselectivity. With the optimized conditions in hand, we
+tried to lower the catalyst loading (entries 14−16). To our
+delight, 0.2 mol % of catalyst still furnished the reaction without
+any drop of yield and enantioselectivity. A further decrease in
+gold loading to 0.1 mol % led to the retention of
+stereoselectivity and, however, a notable reduction of target
+product yield.
+</para>
+Vinyl substituted substrates 1l and 1m were investigated in
+the presence of 2 mol % of gold catalyst and 3.0 equiv of the
+Hantzsch ester (Scheme 2). Unexpectedly, aliphatic substituted
+products 3l and 3m were obtained with moderate yields and
+enantioselectivities. Obviously, the substituted vinyl group was
+
+4755
+
+DOI: 10.1021/acs.joc.5b00153
+J. Org. Chem. 2015, 80, 4754−4759
+
+The Journal of Organic Chemistry
+Table 2. Scope of 2-(2-Propynyl)aniline Derivatives of the Gold-Catalyzed Tandem Reactiona,b
+
+Note
+
+aUnless indicated otherwise, the reaction of 1a (0.1 mmol), 2a (0.24 mmol) was carried out in toluene (1.5 mL) at 90 °C for 16 h under Ar in the
+presence of a gold catalyst (0.2 mol %), Brønsted acid (0.2 mol %). bThe ee was determined by HPLC.
+
+Scheme 2. Vinyl Substituted 2-(2-Propynyl)aniline Derivatives of the Gold-Catalyzed Tandem Reaction
+
+Scheme 3. Proposed Mechanism for This Tandem Reaction
+
+reduced as well by a Hantzsch ester under the reaction
+conditions.
+
+Interestingly, during the process of this tandem reaction, we
+observed the formation of quinoline III, which disappeared at
+
+4756
+
+DOI: 10.1021/acs.joc.5b00153
+J. Org. Chem. 2015, 80, 4754−4759
+
+The Journal of Organic Chemistry
+<para sub="scope">
+the end of the reaction. Based on this, we proposed the reaction
+might proceed via the mechanism as shown in Scheme 3. Chiral
+gold phosphate formed in situ functions as both a π-Lewis acid
+catalyst and a Lewis acid catalyst. In the asymmetric transfer-
+hydrogenation step, both Hantzsch ester 2 and 2H-quinoline
+intermediate I could participate as the hydrogen source. In the
+latter case, quinoline III would be formed and underwent
+subsequent asymmetric reduction leading to the desired
+product as well.
+</para>
+In summary, we have developed an eﬀective method for
+directly transforming 2-(2-propynyl)aniline derivatives into
+optically active tetrahydroquinolines in one operation with
+moderate to good yields and excellent enantioselectivities
+through the catalysis of only 0.2 mol % of chiral gold phosphate
+generated in situ from IMesAuMe and a chiral phosphoric acid.
+Notably in this reaction, the gold catalyst enables both the
+intramolecular hydroamination as a π-Lewis acid and the
+asymmetric reduction as a highly eﬀective chiral Lewis acid.
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Method. NMR spectra were recorded on a 400 MHz
+spectrometer. HRMS spectra were recorded on a TOF-Q mass
+spectrometer. The enantiomeric excess of
+the compounds was
+determined by chiral HPLC using racemic compounds as references.
+All starting materials, reagents, and solvents were purchased from
+commercial suppliers and used as supplied unless otherwise stated.
+Toluene and THF were dried over Na and distilled prior to use.
+MeCN and CH2Cl2 were dried over CaH2 and distilled prior to use.
+Chloroform was washed by water and dried over Na2SO4. 2-(2-
+Propynyl)aniline derivatives 1 were synthesized according to the
+reported procedure.9 The absolute conﬁguration of 1,2,3,4-tetrahy-
+droquinoline derivatives were determined by comparison of HPLC
+retention time with that reported in the literature.7a,9,11
+
+General Procedures for the Synthesis of 1,2,3,4-Tetrahydro-
+quinoline Derivatives. A mixture of IMesAuMe (0.2 mol %) and
+phosphoric acid 4e (0.2 mol %), Hantzsch dihydropyridine 2a (0.24
+mmol, 2.4 equiv), and 2-(2-propynyl)aniline derivatives 1 (0.1 mmol)
+were ﬂushed with argon and suspended in toluene (1.5 mL) in a
+screw-capped vial. The resulting mixture was allowed to stir at 90 °C
+for 16 h. The solvent was removed under reduced pressure and then
+puriﬁed through column chromatography on silica gel (ethyl acetate/
+petroleum ether = 20:1) to aﬀord the product.
+
+2-(3-Phenylprop-2-ynyl)aniline (1a). 1H NMR (CDCl3, 400 MHz)
+δ (ppm) 3.66 (s, 2H), 3.76 (brs, 2H), 6.70 (d, J = 7.6 Hz, 1H), 6.78 (t,
+J = 7.2 Hz, 1H), 7.11 (t, J = 7.6 Hz, 1H), 7.22−7.29 (m, 4H),7.40−
+7.43 (m, 2H); 13C NMR (CDCl3, 100 MHz) δ (ppm) 22.5, 82.8, 86.2,
+116.0, 118.9, 121.4, 123.4, 127.9, 128.0, 128.2, 129.4, 131.6, 144.5.
+
+2-(3-p-Tolylprop-2-ynyl)aniline (1b). 1H NMR (CDCl3, 400 MHz)
+δ (ppm) 2.33 (s, 3H), 3.66 (s, 2H), 3.91 (brs, 2H), 6.71 (d, J = 7.88
+Hz, 1H), 6.77(t, J = 7.2 Hz, 1H), 7.08−7.13(m, 3H), 7.23−7.25 (m,
+1H), 7.30 (d, J = 8.0 Hz, 2H); 13C NMR (CDCl3, 100 MHz) δ (ppm)
+21.4, 22.7, 82.9, 85.4, 116.0, 118.9, 120.3, 121.6, 128.0, 129.0, 129.5,
+131.5, 138.0, 144.6.
+
+2-(3-m-Tolylprop-2-ynyl)aniline (1c).
+
+1H NMR (CDCl3, 400
+MHz) δ (ppm) 2.31 (s, 3H), 3.66 (s, 2H), 3.86 (brs, 2H), 6.71 (d,
+J = 7.6 Hz, 1H), 6.78 (t, J = 7.6 Hz, 1H), 7.11 (td, J = 8.0, 1.6 Hz, 2H),
+7.17 (t, J = 7.6 Hz, 1H), 7.22−7.25 (m, 3H); 13C NMR (CDCl3, 100
+MHz) δ (ppm) 21.2, 22.7, 83.0, 85.8, 116.1, 118.9, 121.5, 123.2, 128.1,
+128.7, 128.8, 128.9, 129.5, 132.3, 137.9, 144.6.
+
+2-(3-(4-Chlorophenyl)prop-2-yn-1-yl)aniline (1d).
+
+1H NMR
+(CDCl3, 400 MHz) δ (ppm) 3.66 (s, 2H), 3.84 (brs, 2H), 6.72 (d,
+J = 7.9 Hz, 1H), 6.78 (t, J = 7.5 Hz, 1H), 7.11 (td, J = 7.7, 1.4 Hz, 2H),
+7.22−7.27 (m, 3H), 7.32−7.35 (m, 2H); 13C NMR (CDCl3, 100
+MHz) δ (ppm) 22.6, 81.8, 87.3, 116.0, 119.0, 121.1, 121.9, 128.2,
+128.6, 128.8, 128.9, 129.4, 132.9, 134.0, 144.5; HR-ESI calculated for
+C15H12ClN [M + H]: 242.0737, found: 242.0760. Mp 72−75 °C.
+2-(3-(4-Bromophenyl)prop-2-ynyl)aniline (1e). 1H NMR (CDCl3,
+400 MHz) δ (ppm) 3.64 (s, 2H), 3.86 (brs, 2H), 6.72 (dd, J = 7.6, 0.8
+
+Note
+
+Hz, 1H), 6.78 (td, J = 7.2, 1.2 Hz, 1H), 7.11 (td, J = 7.6, 1.2 Hz, 1H),
+7.22−7.28 (m, 3H), 7.40−7.42 (m, 2H); 13C NMR (CDCl3, 100
+MHz) δ (ppm) 22.6, 81.8, 87.5, 116.0, 118.9, 121.0, 122.1, 122.4,
+128.1, 129.5, 131.5, 133.1, 144.5. Mp 72−77 °C.
+
+2-(3-(4-Fluorophenyl)prop-2-ynyl)aniline (1f). 1H NMR (CDCl3,
+400 MHz) δ (ppm) 3.64 (s, 2H), 3.80 (brs, 2H), 6.71 (d, J = 8.0 Hz,
+1H), 6.78 (td, J = 7.4, 1.0 Hz, 1H), 6.97 (tt, J = 8.7, 1.8 Hz, 2H), 7.11
+(td, J = 7.7, 1.3 Hz, 1H), 7.23−7.25 (m, 1H), 7.36−7.41 (m, 2H); 13C
+NMR (CDCl3, 100 MHz) δ (ppm) 22.5, 81.7, 85.8, 115.3, 115.5,
+115.9, 118.9, 121.2, 128.0, 129.4, 133.4, 133.5, 144.5, 161.0, 163.5.
+2-(Hept-2-yn-1-yl)aniline (1g). 1H NMR (CDCl3, 400 MHz) δ
+(ppm) 0.90 (t, J = 7.2 Hz, 3H), 1.35−1.52 (m, 4H), 2.10 (tt, J = 6.8,
+2.4 Hz, 2H), 3.41 (t, J = 2.4 Hz, 2H), 3.88 (brs, 2H), 6.69 (dd, J = 8.0,
+1.2 Hz, 1H), 6.74 (td, J = 7.6, 1.2 Hz, 1H), 7.08 (td, J = 7.6, 1.2 Hz,
+1H), 7.16 (d, J = 7.6 Hz, 1H); 13C NMR (CDCl3, 100 MHz) δ (ppm)
+13.6, 18.5, 22.0, 22.1, 31.0, 76.2, 82.9, 115.8, 118.8, 122.3, 127.8, 129.3,
+144.6.
+
+2-(Hex-2-yn-1-yl)aniline (1h). 1H NMR (CDCl3, 400 MHz) δ
+(ppm) 0.97 (t, J = 7.36 Hz, 3H), 1.52 (dd, J = 14.5, 7.2 Hz, 2H), 2.16
+(tt, J = 7.1, 2.4 Hz, 2H), 3.41 (t, J = 2.4 Hz, 2H), 3.88 (brs, 2H), 6.69
+(dd, J = 7.9, 1.1 Hz, 1H), 6.74 (td, J = 7.4, 1.2 Hz, 1H), 7.08 (td, J =
+7.8, 1.5 Hz, 1H), 7.17 (t, J = 7.5 Hz, 1H); 13C NMR (CDCl3, 100
+MHz) δ (ppm) 13.6, 20.8, 22.1, 22.4, 76.4, 82.8, 115.9, 118.8, 122.3,
+127.8, 129.3, 144.6; HR-ESI calculated for C12H15N [M + H]:
+174.1283, found: 174.1293.
+
+2-(3-(4-Pentylphenyl)prop-2-yn-1-yl)aniline (1i).
+
+1H NMR
+(CDCl3, 400 MHz) δ (ppm) 0.88 (t, J = 6.93 Hz, 3H), 1.31 (m,
+4H), 1.59 (m, 2H), 2.59 (dd, J = 14.4, 6.8 Hz, 2H), 3.61 (s, 1H), 3.89
+(brs, 2H), 6.59 (d, J = 8.4 Hz, 2H), 7.10 (m, 3H), 7.19 (dd, J = 8.4, 2.3
+Hz, 1H), 7.31(dd, J = 9.8, 8.1 Hz, 2H), 7.36 (d, J = 2.3 Hz, 1H); 13C
+NMR (CDCl3, 100 MHz) δ (ppm) 22.3, 82.7, 86.4, 98.5, 100.7, 109.4,
+113.7, 123.4, 128.0, 128.2, 131.6, 138.9, 140.6, 147.1; HR-ESI
+calculated for C20H23N [M + H]: 278.1909, found: 278.1913.
+
+5-Chloro-2-(3-phenylprop-2-yn-1-yl)aniline (1j).
+
+1H NMR
+(CDCl3, 400 MHz) δ (ppm) 3.60 (s, 2H), 3.93 (brs, 2H), 6.69 (d,
+J = 2.0 Hz, 1H) 6.73 (dd, J = 8.0, 2.0 Hz, 1H), 7.15 (d, J = 8.0 Hz,
+1H), 7.27−7.30 (m, 3H), 7.38−7.43 (m, 2H); 13C NMR (CDCl3, 100
+MHz) δ (ppm) 22.1, 88.2, 85.5, 115.5, 118.6, 119.7, 123.2, 128.1,
+128.3, 130.4, 131.6, 133.4, 145.7.
+
+6-(3-Phenylprop-2-yn-1-yl)benzo[d][1,3]dioxol-5-amine (1k). 1H
+NMR (CDCl3, 400 MHz) δ (ppm) 3.58 (s, 2H), 3.67 (brs, 2H), 5.86
+(s, 2H), 6.32 (s, 1H), 6.80 (s, 1H), 7.27−7.33 (m, 3H), 7.38−7.45 (m,
+2H); 13C NMR (CDCl3, 100 MHz) δ (ppm) 22.3, 82.7, 86.4, 98.5,
+100.7, 109.4, 113.7, 123.4, 128.0, 128.2, 131.6, 138.9, 140.6, 147.1.
+2-(Pent-4-en-2-yn-1-yl)aniline (1l). 1H NMR (400 MHz, CDCl3) δ
+7.17 (d, J = 7.4 Hz, 1H), 7.12−7.05 (m, 1H), 6.76 (t, J = 7.4 Hz, 1H),
+6.69 (d, J = 7.9 Hz, 1H), 5.85−5.74 (m, 1H), 5.59 (dd, J = 17.5, 1.8
+Hz, 1H), 5.42 (dd, J = 11.0, 2.0 Hz, 1H), 3.82 (brs, 2H), 3.55 (s, 2H).
+13C NMR (101 MHz, CDCl3) δ 144.5, 129.4, 128.1, 126.5, 121.3,
+118.9, 117.2, 116.0, 86.9, 81.5, 22.5. HR-ESI calculated for C11H11N
+[M + H]: 158.0970, found: 158.0963.
+(E)-2-(5-Phenylpent-4-en-2-yn-1-yl)aniline (1m). 1H NMR (400
+MHz, CDCl3) δ 7.36−7.23 (m, 1H), 7.21−7.16 (m, 1H), 7.13−7.05
+(m, 1H), 6.90 (d, J = 16.3 Hz, 1H), 6.81−6.72 (m, 1H), 6.69 (d, J =
+7.9 Hz, 1H), 6.15 (ddd, J = 16.2, 4.8, 2.6 Hz, 1H), 3.84 (brs, 2H), 3.60
+(s, 2H). 13C NMR (101 MHz, CDCl3) δ 144.6, 141.0, 136.4, 129.5,
+128.7, 128.5, 128.1, 126.2, 121.5, 119.0, 116.1, 108.3, 88.6, 82.0, 22.9.
+HR-ESI calculated for C17H15N [M + H]: 234.1283, found: 234.1274;
+mp 61−64 °C.
+(S)-2-Phenyl-1,2,3,4-tetrahydroquinoline (3a). Yield: 81%, 16.9
+mg; 1H NMR (CDCl3, 400 MHz): δ (ppm) 1.96−2.02 (m, 1H),
+2.08−2.10 (m, 1H), 2.74 (dt, J = 16.4, 4.8 Hz, 1H), 2.88−2.90 (m,
+1H), 4.00 (s, 1H), 4.41 (dd, J = 9.2, 3.2 Hz, 1H), 6.51 (d, J = 7.6 Hz,
+1H), 6.64 (td, J = 7.6, 0.8 Hz, 1H), 6.97−6.99 (m, 2H), 7.26−7.39 (m,
+5H); 13C NMR (CDCl3, 100 MHz): δ(ppm) 26.3, 30.9, 56.1, 113.9,
+117.0, 120.7, 126.4, 126.8, 127.3, 128.5, 129.2, 144.6, 144.7;
+Enantiomeric excess: 98%, determined by HPLC (Chiracel-OD-H,
+hexane/isopropanol = 95/5, ﬂow rate 1.0 mL/min, T = 30 °C, 254
+nm): tR = 10.44 min (major), tR = 13.90 min (minor).
+</para>
+4757
+
+DOI: 10.1021/acs.joc.5b00153
+J. Org. Chem. 2015, 80, 4754−4759
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+(S)-2-(p-Tolyl)-1,2,3,4-tetrahydroquinoline (3b). Yield: 86%, 19.1
+mg; 1H NMR (CDCl3, 400 MHz): δ (ppm) 1.85−1.95 (m, 1H),
+1.99−2.06 (m, 1H), 2.28 (s, 3H), 2.66 (dt, J = 16.3, 4.7 Hz, 1H), 2.84
+(ddd, J = 16.3, 10.8, 5.5 Hz, 1H), 3.95 (brs, 1H), 4.32 (dd, J = 9.4, 3.2
+Hz, 1H), 6.45 (dd, J = 8.4, 1.0 Hz, 1H), 6.56 (td, J = 7.4, 1.0 Hz, 1H),
+6.93 (t, J = 7.02 Hz, 2H), 7.08 (d, J = 7.9 Hz, 1H), 7.18−7.21 (m,
+3H); 13C NMR (CDCl3, 100 MHz): δ (ppm) 20.1, 25.5, 30.0, 55.0,
+112.9, 116.1, 119.9, 125.4, 125.8, 128.2, 128.3, 136.1, 140.8, 143.8;
+Enantiomeric excess: 96%, determined by HPLC (Chiracel-OD-H,
+hexane/isopropanol = 95/5, ﬂow rate 1.0 mL/min, T = 30 °C, 254
+nm): tR = 8.37 min (major), tR = 15.11 min (minor).
+(S)-2-(m-Tolyl)-1,2,3,4-tetrahydroquinoline (3c). Yield: 83%, 18.5
+mg; 1H NMR (CDCl3, 400 MHz): δ (ppm) 1.93−2.03 (m, 1H), 2.10
+(ddt, J = 7.6, 5.5, 4.2 Hz, 1H), 2.35 (s, 3H), 2.74 (dt, J = 16.3, 4.6 Hz,
+1H), 2.92 (ddd, J = 16.4, 10.9, 5.5 Hz, 1H), 4.01 (brs, 1H), 4.39 (dd, J
+= 9.5, 3.3 Hz, 1H), 6.53 (dd, J = 8.4, 1.0 Hz, 1H), 6.64 (td, J = 7.4, 1.1
+Hz, 1H), 7.00 (t, J = 7.1 Hz, 2H), 7.09 (d, J = 7.4 Hz, 1H), 7.17−7.25
+(m, 3H); 13C NMR (CDCl3, 100 MHz): δ (ppm) 21.5, 26.6, 31.1,
+56.3, 114.0, 117.1, 120.9, 123.6, 126.9, 127.3, 128.2, 128.5, 129.3,
+138.3, 144.8; Enantiomeric excess: 96%, determined by HPLC
+(Chiracel-OD-H, hexane/isopropanol = 95/5, ﬂow rate 1.0 mL/min,
+T = 30 °C, 254 nm): tR = 8.43 min (major), tR = 10.90 min (minor).
+(S)-2-(4-Chlorophenyl)-1,2,3,4-tetrahydroquinoline (3d). Yield:
+82%, 20.0 mg; 1H NMR (CDCl3, 400 MHz): δ (ppm) 1.90−1.99
+(m, 1H), 2.06−2.12 (m, 1H), 2.71 (dt, J = 16.4, 4.9 Hz, 1H), 2.90
+(ddd, J = 16.1, 10.4, 5.4 Hz, 1H), 4.01 (brs, 1H), 4.42 (dd, J = 9.1, 3.3
+Hz, 1H), 6.54 (d, J = 7.9 Hz, 1H), 6.67 (dd, J = 7.4, 1.0 Hz, 1H),
+6.98−7.03 (m, 2H), 7.29−7.33 (m, 4H), 13C NMR (CDCl3, 100
+MHz): δ (ppm) 26.1, 31.0, 55.6, 114.1, 117.4, 120.8, 127.0, 127.9,
+20 = −40.9 (c 0.17, CHCl3); HR-
+128.7, 129.3, 133.0, 143.4, 144.4; [α]D
+ESI calculated for C15H14ClN [M + H]: 244.0893, found: 244.0899;
+Enantiomeric excess: 96%, determined by HPLC (Chiracel-OD-H,
+hexane/isopropanol = 95/5, ﬂow rate 1.0 mL/min, T = 30 °C, 254
+nm): tR = 13.17 min (major), tR = 24.42 min (minor).
+
+(S)-2-(4-Bromophenyl)-1,2,3,4-tetrahydroquinoline (3e). Yield:
+85%, 24.5 mg; 1H NMR (CDCl3, 400 MHz): δ (ppm) 0.93 (t, J =
+6.8 Hz, 3H), 1.33−1.64 (m, 7H), 1.93−1.99 (m, 1H), 2.69−2.85 (m,
+2H), 3.20−3.26 (m, 1H), 3.81 (brs, 1H), 6.47 (dd, J = 8.4, 1.0 Hz,
+1H), 6.59 (td, J = 7.4, 1.0 Hz, 1H), 6.93−6.97 (m, 2H); 13C NMR
+(CDCl3, 100 MHz): δ (ppm) 14.1, 22.8, 26.4, 27.9, 28.1, 36.4, 51.6,
+114.0, 116.9, 121.4, 126.7, 129.3, 144.8. Enantiomeric excess: 98%,
+determined by HPLC (Chiracel-OD-H, hexane/isopropanol = 95/5,
+ﬂow rate 1.0 mL/min, T = 30 °C, 254 nm): tR = 15.28 min (major), tR
+= 28.83 min (minor).
+(S)-2-(4-Fluorophenyl)-1,2,3,4-tetrahydroquinoline (3f). Yield:
+87%, 19.7 mg; 1H NMR (CDCl3, 400 MHz): δ (ppm) 1.91−2.00
+(m, 1H), 2.04−2.12 (m, 1H), 2.72 (dt, J = 16.4, 4.8 Hz, 1H), 2.92
+(ddd, J = 16.2, 10.6, 5.5 Hz, 1H), 4.02 (brs, 1H), 4.42 (dd, J = 9.3, 3.2
+Hz, 1H), 6.54 (d, J = 7.7 Hz, 1H), 6.65 (td, J = 7.4, 1.1 Hz, 1H), 6.99−
+7.05 (m, 4H), 7.32−7.37(m, 2H); 13C NMR (CDCl3, 100 MHz): δ
+(ppm) 26.3, 31.1, 55.6, 114.1, 115.2, 115.5, 117.4, 120.8, 127.0, 128.0,
+128.1, 129.3, 140.5, 144.6, 160.9, 163.4. Enantiomeric excess: 99%,
+determined by HPLC (Chiracel-OD-H, hexane/isopropanol = 95/5,
+ﬂow rate 1.0 mL/min, T = 30 °C, 254 nm): tR = 10.95 min (major), tR
+= 17.53 min (minor).
+(R)-2-Butyl-1,2,3,4-tetrahydroquinoline (3g). Yield: 82%, 15.5 mg;
+1H NMR (CDCl3, 400 MHz): δ (ppm) 0.93 (t, J = 7.1 Hz, 3H), 1.33−
+1.40 (m, 4H), 1.46−1.52 (m, 2H), 1.55−1.64 (m, 2H), 1.93−1.99 (m,
+1H), 2.17 (s, 1H), 2.69−2.85 (m, 2H), 3.20−3.26 (m, 1H), 3.81 (brs,
+1H), 6.47 (dd, J = 8.4, 1.0 Hz, 1H), 6.59 (td, J = 7.4, 1.1 Hz, 1H),
+6.93−6.97 (m, 2H) ; 13C NMR (CDCl3, 100 MHz): δ (ppm) 14.1,
+22.8, 26.4, 27.9, 28.1, 36.4, 51.6, 114.0, 116.9, 121.4, 126.7, 129.3,
+144.8. Enantiomeric excess: 43%, determined by HPLC (Chiracel-IC-
+H, hexane/isopropanol = 99.7/0.3, ﬂow rate 0.8 mL/min, T = 30 °C,
+254 nm): tR = 12.57 min (major), tR = 13.67 min (minor).
+
+(R)-2-Propyl-1,2,3,4-tetrahydroquinoline (3h). Yield: 87%, 15.3
+mg; 1H NMR (CDCl3, 400 MHz): δ (ppm) 0.96 (t, J = 7.1 Hz, 3H),
+1.37−1.51 (m, 4H), 1.51−1.64 (m, 1H), 1.92−1.98 (m,1H), 2.69−
+2.85 (m, 2H), 3.25 (dtd, J = 9.4, 6.1, 3.0 Hz, 1H), 3.72 (brs, 1H), 6.46
+(dd, J = 8.4, 1.0 Hz, 1H), 6.59 (td, J =7.4, 1.0 Hz, 1H), 6.93−6.96 (m,
+
+2H); 13C NMR (CDCl3, 100 MHz): δ (ppm) 14.2, 18.9, 26.5,28.1,
+38.9, 51.3, 114.0, 116.9, 121.4, 126.7, 129.3, 144.8; [α]D
+20 = 17.6 (c
+0.036, CHCl3); HR-ESI calculated for C12H17N [M + H]: 176.1439,
+found: 176.1452; Enantiomeric excess: 61%, determined by HPLC
+(Chiracel-IC-H, hexane/isopropanol = 99.7/0.3, ﬂow rate 0.8 mL/
+min, T = 30 °C, 254 nm): tR = 16.88 min (major), tR = 18.86 min
+(minor).
+
+(S)-2-(4-Pentylphenyl)-1,2,3,4-tetrahydroquinoline (3i). Yield:
+91%, 25.4 mg; 1H NMR (CDCl3, 400 MHz): δ (ppm) 0.89(t, J =
+6.9 Hz, 3H), 1.28−1.36 (m, 4H), 1.61 (dt, J = 9.3, 7.5 Hz, 2H), 1.89−
+1.98 (m, 1H), 2.05−2.12 (m, 1H), 2.57−2.61 (m, 2H), 2.69 (dt, J =
+14.8, 3.8 Hz, 1H), 2.86 (ddd, J = 16.2, 10.6, 5.4 Hz, 1H), 4.05 (brs,
+1H), 4.4 (dd, J = 9.2, 3.3 Hz, 1H), 6.39 (d, J = 8.4 Hz, 1H), 7.05−7.80
+(m, 2H), 7.14−7.17 (m, 2H), 7.24−7.26 (m, 3H); 13C NMR (CDCl3,
+100 MHz): δ (ppm) 14.0, 22.6, 26.2, 30.4, 31.2, 31.6, 36.0, 55.9, 108.4,
+115.3, 122.9, 126.4, 127.4, 128.6, 129.1, 129.5, 131.7, 141.5, 142.4,
+20 = −22.78 (c 0.06, CHCl3); HR-ESI calculated for
+143.8; [α]D
+C20H25N [M + H]: 280.2065, found: 280.2069; Enantiomeric excess:
+96%, determined by HPLC (Chiracel-OD-H, hexane/isopropanol =
+95/5, ﬂow rate 1.0 mL/min, T = 30 °C, 254 nm): tR = 6.09 min
+(major), tR = 11.08 min (minor).
+(S)-7-Chloro-2-phenyl-1,2,3,4-tetrahydroquinoline (3j). Yield:
+83%, 20.2 mg; 1H NMR (CDCl3, 400 MHz): δ (ppm) 1.89−2.00
+(m, 1H), 2.07−2.13 (m, 1H), 2.66 (dt, J = 16.4, 4.8 Hz, 1H), 2.78−
+2.86 (m, 1H), 4.10 (brs, 1H), 4.42 (dd, J = 9.2, 3.6 Hz, 1H), 6.50 (d, J
+= 2.0 Hz, 1H), 6.58 (dd, J = 8.0, 2.0 Hz, 1H), 6.87 (d, J = 8.0 Hz, 1H),
+7.26−7.35 (m, 5H); 13C NMR (CDCl3, 100 MHz): δ (ppm) 25.7,
+30.5, 55.9, 113.3, 116.8, 119.2, 126.4, 127.5, 128.6, 130.1, 132.1, 144.3,
+145.6; HR-ESI calculated for C20H25N [M + H]: 280.2065, found:
+280.2069. Enantiomeric excess: 97%, determined by HPLC (Chiracel-
+OD-H, hexane/isopropanol = 95/5, ﬂow rate 1.0 mL/min, T = 30 °C,
+254 nm): tR = 12.77 min (major), tR = 22.77 min (minor).
+(S)-6-Phenyl-5,6,7,8-tetrahydro-[1,3]dioxolo[4,5-g]quinoline (3k).
+Yield: 70%, 17.8 mg; 1H NMR (CDCl3, 400 MHz): δ (ppm) 1.91−
+2.01 (m, 1H), 2.05−2.12 (m, 1H), 2.63 (dt, J = 16.0, 4.8 Hz, 1H),
+2.81−2.89 (m, 1H), 3.81 (brs, 1H), 4.34 (dd, J = 9.6, 3.2 Hz, 1H), 5.81
+(d, J = 2.4 Hz, 1H), 5.81 (d, J = 2.4 Hz, 1H), 6.14 (s, 1H), 6.50 (s,
+1H), 7.24−7.29 (m, 1H), 7.29−7.39 (m, 4H); 13C NMR (CDCl3, 100
+MHz): δ (ppm) 26.4, 31.1, 56.4, 96.4, 100.3, 109.0, 112.7, 126.5,
+127.4, 128.5, 139.3, 139.6, 144.7, 146.3; Enantiomeric excess: 96%,
+determined by HPLC (Chiracel-OD-H, hexane/isopropanol = 95/5,
+ﬂow rate 1.0 mL/min, T = 30 °C, 254 nm): tR = 15.66 min (major), tR
+= 17.91 min (minor).
+
+(R)-2-Ethyl-1,2,3,4-tetrahydroquinoline (3l). Yield: 41%; 6.6 mg.
+1H NMR (400 MHz, CDCl3) δ 6.96 (t, J = 7.1 Hz, 2H), 6.59 (t, J =
+7.3 Hz, 1H), 6.48 (d, J = 8.0 Hz, 1H), 3.78 (brs, 1H), 3.23−3.10 (m,
+1H), 2.88−2.67 (m, 2H), 2.01−1.93 (m, 1H), 1.66−1.46 (m, 3H),
+0.99 (t, J = 7.5 Hz, 3H). 13C NMR (101 MHz, CDCl3) δ 144.8, 129.3,
+126.7, 121.4, 116.9, 114.0, 53.0, 29.4, 27.6, 26.4, 10.1; [α]D
+20 = 81.7 (c
+0.04, CHCl3) HR-ESI calculated for C11H15N [M + H]: 162.1283,
+found: 162.1277. Enantiomeric excess: 69%, determined by HPLC
+(Chiracel-IC-H, hexane/isopropanol = 99.7/0.3, ﬂow rate 0.8 mL/
+min, T = 30 °C, 254 nm): tR = 7.93 min (major), tR = 8.56 min
+(minor).
+(R)-2-Phenethyl-1,2,3,4-tetrahydroquinoline (3m). Yield: 57%;
+13.5 mg. 1H NMR (400 MHz, CDCl3) δ 7.33−7.26 (m, 2H), 7.24−
+7.17 (m, 3H), 6.96 (t, J = 7.2 Hz, 2H), 6.60 (t, J = 7.3 Hz, 1H), 6.45
+(d, J = 8.0 Hz, 1H), 3.77 (brs, 1H), 3.36−3.24 (m, 1H), 2.87−2.67 (m,
+4H), 2.00 (ddd, J = 12.8, 7.9, 4.9 Hz, 1H), 1.84 (dt, J = 13.1, 6.7 Hz,
+2H), 1.67 (dtd, J = 12.8, 10.3, 5.6 Hz, 1H). 13C NMR (101 MHz,
+CDCl3) δ 144.5, 141.9, 129.3, 128.5, 128.4, 126.8, 126.0, 121.3, 117.1,
+114.2, 51.1, 38.3, 32.2, 28.0, 26.2; [α]D
+20 = 40.4 (c 0.094, CHCl3); HR-
+ESI calculated for C17H19N [M + H]: 238.1596, found: 238.1588.
+Enantiomeric excess: 42%, determined by HPLC (Chiracel-IC-H,
+hexane/isopropanol = 99.7/0.3, ﬂow rate 0.8 mL/min, T = 30 °C, 254
+nm): tR = 12.76 min (major), tR = 14.49 min (minor).
+</para>
+4758
+
+DOI: 10.1021/acs.joc.5b00153
+J. Org. Chem. 2015, 80, 4754−4759
+
+The Journal of Organic Chemistry
+
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Characterization data. This material is available free of charge
+via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: hanzy2014@ustc.edu.cn.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We are grateful for ﬁnancial support from NSFC (21172207)
+and the Fundamental Research Funds
+the Central
+Universities (WK2060190041).
+
+for
+
+■ REFERENCES
+
+(1) (a) Keay, J. G. In Comprehensive Organic Synthesis; Fleming, B. M.
+T., Ed.; Pergamon: Oxford, 1991; p 579. (b) Katritzky, A. R.; Rachwal,
+S.; Rachwal, B. Tetrahedron 1996, 52, 15031. (c) Sridharan, V.;
+Suryavanshi, P. A.; Menéndez, J. C. Chem. Rev. 2011, 111, 7157.
+(d) Barton, D. H.; Nakanishi, K.; Cohn, O. M. Comprehensive Natural
+Products Chemistry, Vols. 1−9; Elsevier: Oxford, 1999.
+(2) (a) Glorius, F. Org. Biomol. Chem. 2005, 3, 4171. (b) Zhou, Y.-G.
+Acc. Chem. Res. 2007, 40, 1357. (c) Wang, D.-S.; Chen, Q.-A.; Lu, S.-
+M.; Zhou, Y.-G. Chem. Rev. 2011, 112, 2557.
+(3) (a) Wang, W.-B.; Lu, S.-M.; Yang, P.-Y.; Han, X.-W.; Zhou, Y.-G.
+J. Am. Chem. Soc. 2003, 125, 10536. (b) Zhao, Y. J.; Wang, Y. Q.;
+Zhou, Y. G. Chin. J. Catal. 2005, 26, 737. (c) Li, Z.-W.; Wang, T.-L.;
+He, Y.-M.; Wang, Z.-J.; Fan, Q.-H.; Pan, J.; Xu, L.-J. Org. Lett. 2008,
+10, 5265.
+(4) (a) Yang, Z.; Chen, F.; He, Y.-M.; Yang, N.; Fan, Q.-H. Catal. Sci.
+Technol. 2014, 4, 2887. (b) Wang, T.; Zhuo, L.-G.; Li, Z.; Chen, F.;
+Ding, Z.; He, Y.; Fan, Q.-H.; Xiang, J.; Yu, Z.-X.; Chan, A. S. C. J. Am.
+Chem. Soc. 2011, 133, 9878.
+(5) (a) Li, H. Y.; Horn, J.; Campbell, A.; House, D.; Nelson, A.;
+Marsden, S. P. Chem. Commun. 2014, 50, 10222. (b) Wang, C.; Li, C.;
+Wu, X.; Pettman, A.; Xiao, J. Angew. Chem., Int. Ed. 2009, 48, 6524.
+(6) Cai, X.-F.; Huang, W.-X.; Chen, Z.-P.; Zhou, Y.-G. Chem.
+Commun. 2014, 50, 9588.
+(7) (a) Rueping, M.; Antonchick, A. R.; Theissmann, T. Angew.
+Chem., Int. Ed. 2006, 45, 3683. (b) Rueping, M.; Dufour, J.; Schoepke,
+F. R. Green Chem. 2011, 13, 1084. (c) Guo, Q.-S.; Du, D.-M.; Xu, J.
+Angew. Chem., Int. Ed. 2008, 759.
+(8) Ren, L.; Lei, T.; Ye, J. X.; Gong, L. Z. Angew. Chem., Int. Ed. 2012,
+51, 771.
+(9) Han, Z.-Y.; Xiao, H.; Chen, X.-H.; Gong, L.-Z. J. Am. Chem. Soc.
+2009, 131, 9182.
+(10) (a) Parmar, D.; Sugiono, E.; Raja, S.; Rueping, M. Chem. Rev.
+2014, 114, 9047. (b) Akiyama, T.; Itoh, J.; Yokota, K.; Fuchibe, K.
+Angew. Chem., Int. Ed. 2004, 43, 1566. (c) Terada, M.; Uraguchi, D. J.
+Am. Chem. Soc. 2004, 126, 5356.
+(11) Tu, X. F.; Gong, L. Z. Angew. Chem., Int. Ed. 2012, 51, 11346.
+(12) (a) Raynal, M.; Ballester, P.; Vidal-Ferran, A.; van Leeuwen, P.
+W. N. M. Chem. Soc. Rev. 2014, 43, 1660. (b) Mahlau, M.; List, B.
+Angew. Chem., Int. Ed. 2013, 52, 518. (c) Brak, K.; Jacobsen, E. N.
+Angew. Chem., Int. Ed. 2013, 52, 534. (d) Phipps, R. J.; Hamilton, G.
+L.; Toste, F. D. Nat. Chem. 2012, 4, 603. (e) Avila, E. P.; Amarante, G.
+W. ChemCatChem 2012, 4, 1713.
+(13) (a) Zi, W. W.; Wang, Y. M.; Toste, F. D. J. Am. Chem. Soc. 2014,
+136, 12864. (b) Wang, P.-S.; Lin, H.-C.; Zhai, Y.-J.; Han, Z.-Y.; Gong,
+L.-Z. Angew. Chem., Int. Ed. 2014, 53, 12218. (c) Terada, M.; Li, F.;
+Toda, Y. Angew. Chem., Int. Ed. 2014, 53, 235. (d) Nelson, H. M.;
+Reisberg, S. H.; Shunatona, H. P.; Patel, J. S.; Toste, F. D. Angew.
+Chem., Int. Ed. 2014, 53, 5600. (e) Terada, M.; Yamanaka, T.; Toda, Y.
+Chem.Eur. J. 2013, 19, 13658. (f) Chen, W. Y.; Hartwig, J. F. J. Am.
+Chem. Soc. 2013, 135, 2068. (g) Auge, M.; Barbazanges, M.; Tran, A.
+
+Note
+
+T.; Simonneau, A.; Elley, P.; Amouri, H.; Aubert, C.; Fensterbank, L.;
+Gandon, V.; Malacria, M.; Moussa, J.; Ollivier, C. Chem. Commun.
+2013, 49, 7833. (h) Mourad, A. K.; Leutzow, J.; Czekelius, C. Angew.
+Chem., Int. Ed. 2012, 51, 11149. (i) McInturff, E. L.; Yamaguchi, E.;
+Krische, M. J. J. Am. Chem. Soc. 2012, 134, 20628. (j) Arthuis, M.;
+Beaud, R.; Gandon, V.; Roulland, E. Angew. Chem., Int. Ed. 2012, 51,
+10510. (k) Wang, C.; Han, Z. Y.; Luo, H. W.; Gong, L. Z. Org. Lett.
+2010, 12, 2266. (l) Hamilton, G. L.; Kang, E. J.; Mba, M.; Toste, F. D.
+Science 2007, 317, 496.
+(14) (a) Müller, T. E.; Beller, M. Chem. Rev. 1998, 98, 675. (b) Li, Z.;
+Brouwer, C.; He, C. Chem. Rev. 2008, 108, 3239. (c) Müller, T. E.;
+Hultzsch, K. C.; Yus, M.; Foubelo, F.; Tada, M. Chem. Rev. 2008, 108,
+3795. (d) Gorin, D. J.; Sherry, B. D.; Toste, F. D. Chem. Rev. 2008,
+108, 3351. (e) Hashmi, A. S. K.; Rudolph, M. Chem. Soc. Rev. 2008, 37,
+1766. (f) Marion, N.; Nolan, S. P. Chem. Soc. Rev. 2008, 37, 1776.
+(g) Widenhoefer, R. A. Chem.Eur. J. 2008, 14, 5382. (h) Sengupta,
+S.; Shi, X. ChemCatChem 2010, 2, 609. (i) Corma, A.; Leyva-Perez, A.;
+Sabater, M. J. Chem. Rev. 2011, 111, 1657.
+(15) (a) Wang, D.-S.; Zhou, J.; Wang, D.-W.; Guo, Y.-L.; Zhou, Y.-G.
+Tetrahedron Lett. 2010, 51, 525. (b) Wang, Z.-J.; Deng, G.-J.; Li, Y.;
+He, Y.-M.; Tang, W.-J.; Fan, Q.-H. Org. Lett. 2007, 9, 1243.
+
+4759
+
+DOI: 10.1021/acs.joc.5b00153
+J. Org. Chem. 2015, 80, 4754−4759
+
+

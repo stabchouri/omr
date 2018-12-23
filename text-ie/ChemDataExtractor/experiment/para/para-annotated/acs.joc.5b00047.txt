@@ -1,0 +1,1118 @@
+Article
+
+pubs.acs.org/joc
+
+Ultrafast Time Resolved Spectroscopic Studies on the Generation of
+the Ketyl-Sugar Biradical by Intramolecular Hydrogen Abstraction
+among Ketoprofen and Purine Nucleoside Dyads
+†
+Ming-De Li,
+†
+Department of Chemistry, The University of Hong Kong, Pokfulam Road, Hong Kong S.A.R., P.R. China
+‡
+Department of Chemistry, South University of Science and Technology of China, Shenzhen, Guangdong 518055, China
+§Department of Chemistry, Zhejiang Sci-Tech University, Hangzhou 310018, China
+
+and David Lee Phillips*,†
+
+Li Dang,*,‡
+
+Xuming Zheng,
+
+Mingyue Liu,
+
+Lili Du,
+
+†
+
+†
+
+§
+
+*S Supporting Information
+
+ABSTRACT: Intramolecular hydrogen abstraction reactions
+among ketoprofen (KP) and purine nucleoside dyads have
+been proposed to form ketyl-sugar biradical intermediates in
+acetonitrile. Femtosecond transient absorption studies on KP
+and purine nucleoside dyads reveal that the triplet state of the
+KP moiety of the dyads with cisoid structure decay faster (due
+to an intramolecular hydrogen abstraction reaction to produce
+a ketyl-sugar biradical intermediate) than the triplet state of
+the KP moiety of the dyads with transoid structure detected in
+acetonitrile solvent. For the cisoid 5-KP-dG dyad, the triplet
+state of the KP moiety decays too fast to be observed by ns-
+TR3; only the ketyl-sugar biradical intermediates are detected
+by ns-TR3 in acetonitrile. For the cisoid 5-KP-dA dyad, the
+triplet states of the KP moiety could be observed at early
+nanosecond delay times, and then it quickly undergoes
+intramolecular hydrogen abstraction to produce a ketyl-sugar
+biradical intermediate. For the cisoid 5-KPGly-dA and transoid
+3-KP-dA dyads, the triplet state of the KP moiety had a longer lifetime due to the long distance chain between the KP moiety and
+the purine nucleoside (5-KPGly-dA) and the transoid structure (3-KP-dA). The experimental and computational results suggest
+that the ketyl-sugar biradical intermediate is generated with a higher eﬃciency for the cisoid dyad. However, the transoid dyad
+exhibits similar photochemistry behavior as the KP molecule, and no ketyl-sugar biradical intermediate was observed in the ns-
+TR3 experiments for the transoid 3-KP-dA dyad.
+
+■ INTRODUCTION
+
+The sequence of heterocyclic bases in double-helical deoxy-
+ribonucleic acid (DNA) provides the genetic code that serves as
+for all cellular operations.1,2 Chemical mod-
+the blueprint
+iﬁcation of cellular DNA may greatly inﬂuence biological
+cellular metabolism,
+induction of DNA repair proteins,
+inhibition of cell growth, or cell death via either necrotic or
+apoptotic mechanisms.3−6 Thus, the study of the agents that
+damage DNA is of both practical and fundamental importance
+to diverse ﬁelds like medicinal chemistry, carcinogenesis,
+toxicology, and biotechnology.7 Oxidative damage to DNA
+may be induced by a number of agents, such as free radicals,
+reactive oxygen species (ROS), UV light, or
+ionizing
+radiation.8−11 Researchers have found that the nucleobases
+and the sugar moiety are the main units to be attacked.
+Abstraction of hydrogen atoms from the sugar−phosphate
+backbone typically leads to scission of the DNA chain by
+complex reaction cascades.12−16 In addition, there are rather a
+small number of functional groups or structural motifs that have
+
+it
+
+is an important
+
+the ability to lead to eﬃcient modiﬁcation of cellular
+DNA.17−21 Employing photosensitizers to induce and trap
+the modiﬁcation of the cellular DNA helps make the detection
+more convenient and is therefore an attractive area for research.
+Ketoprofen (KP) has seen more chemical and biological
+typical Type I
+research recently as
+photosensitizer.22−32 A number of studies have been carried
+out to study the phototoxic and photoallergic reactions induced
+by KP as well as the interaction between KP and DNA, amino
+acid, protein to help gauge the safety of KP.33−39 These studies
+successfully established the molecular basis for the investigation
+of phototoxic and photoallergic properties caused by KP.
+Normally,
+the formation of DNA single strand breaks is
+relatively low. However, DNA damage can also result from the
+absorption of photons by other molecules and photosensitizers.
+For example, KP at a very low concentration may induce DNA
+
+Received:
+January 8, 2015
+Published: March 3, 2015
+
+© 2015 American Chemical Society
+
+3462
+
+DOI: 10.1021/acs.joc.5b00047
+J. Org. Chem. 2015, 80, 3462−3470
+
+The Journal of Organic Chemistry
+
+Scheme 1. Structure of Target Molecules
+
+Article
+
+damage in vitro upon irradiation and then photosensitize the
+formation of pyrimidine dimers and single strand breaks with
+high quantum yields.34 The possible mechanism(s) may be
+related to a substituted benzophenone, which is able to induce
+both electron and energy transfer to DNA. Similar behaviors
+have also been observed for DNA damage caused by other
+NSAIDs.40 Chouini-Lalanne and co-workers have pointed out
+that KP undergoes a decarboxylation process, generating radical
+derivatives and the corresponding photoproducts which
+damage DNA and stimulate lytic activity on cells when KP is
+irradiated in aqueous buﬀer solution.22
+
+In order to more fully understand the interaction between
+DNA and KP, scientists have utilized a single nucleoside as a
+model to investigate the reaction mechanism(s) between KP
+and nucleosides.41 Photosensitization of DNA induced by KP
+involves two major types of mechanisms: (1) triplet−triplet
+energy transfer leading to thymine dimerization and (2) an
+the guanine nucleobase.30,34
+electron-transfer oxidation of
+Nanosecond laser ﬂash photolysis has been used by Miranda
+and co-workers to study the possible enantiodiﬀerentiation
+during DNA nucleosides photosensitization by KP.42 A
+signiﬁcant enantiodiﬀerentiation was observed in the quenching
+of triplet KP by thymine and deoxyguaosine which can be
+related to the Pateno−Buchi photoreaction and ketyl radical
+formation. However, KP photosensitized purine nucleosides
+have not been widely studied.43 A better understanding of the
+photochemical reactivity of a KP photosensitizer toward the
+DNA nucleobases is essential to anticipate the photobiological
+risk associated with their use by patients.
+
+At present,
+
+the explicit
+
+identiﬁcation of
+
+the reaction
+intermediates and elucidation of the reaction mechanisms of
+KP and purine nucleoside dyads are still not clear since only a
+few studies have been done to examine the chemical reactivity
+relationships and environmental eﬀects on the photosensitiza-
+tion processes. A deeper and more precise knowledge of the
+active sites and reaction mechanisms can make an important
+contribution to improve the understanding of
+the photo-
+sensitizing potential of new drug candidates. The rate of the
+photochemical reaction induced by drugs is always very fast,
+most of the intermediates generated from the reactions of
+interest may only last for a very short while and likely on the
+picosecond or nanosecond time scale.
+the
+complexity of the photochemical reaction process of KP and
+related drug molecules also makes this type of study diﬃcult.
+We are pleased to report here a femtosecond transient
+
+In addition,
+
+absorption (fs-TA) and nanosecond time-resolved resonance
+Raman (ns-TR3) study of
+the intramolecular hydrogen
+abstraction of diﬀerent KP-purine nucleoside dyads after
+photolysis. To our knowledge, this is the ﬁrst ultrafast time-
+resolved spectroscopic (fs-TA) and time-resolved vibrational
+spectroscopic (ns-TR3) investigation of
+the intramolecular
+hydrogen abstraction of diﬀerent KP-purine nucleoside dyads
+following photoexcitation by ultraviolet
+light. Results from
+these new studies provide new experimental data on the
+ultrafast processes, kinetics and vibrational ﬁngerprint data of
+reactive intermediates that enable us to gain further insight into
+the nature of
+the key reactive intermediates and reaction
+mechanisms associated with KP photosensitization processes.
+
+■ RESULTS AND DISCUSSION
+
+KP-purine nucleoside dyads were synthesized according to
+methods previously reported in the literature.43 Scheme 1
+shows the side chain of KP connected with the deoxyguanosine
+(dG), deoxyadenosine (dA) and glycine derivative (KPGly)
+with deoxyadenosine (dA). 5-KP-dA and 3-KP-dA are a couple
+of compounds with cisoid vs transoid spatial arrangement, 5-
+KP-dG and 5-KPGly-dA have cisoid conﬁguration like 5-KP-
+dA.
+<para sub=“props”>
+Intramolecular Hydrogen Abstraction (IHA) among
+KP and KP Nucleoside Dyads in the MeCN. Figure 1
+presents ns-TR3 spectra of 1 mM 5-KP-dA and 3-KP-dA
+obtained in acetonitrile (MeCN). Although 5-KP-dA and 3-KP-
+dA are isomers, the feature of the ns-TR3 spectra of 5-KP-dA
+exhibit a noticeable diﬀerence from that of 3-KP-dA. For 5-KP-
+dA, at an early nanosecond delay time (0 ns), the main
+resonance Raman spectra have bands at 966, 1173, 1222, and
+1540 cm−1 accompanied by a small band at 1583 cm−1. At later
+delay times, the ﬁrst species quickly decays and the band at
+1583 cm−1 dramatically increases in intensity. However, for 3-
+KP-dA, the main Raman bands appear at 966, 1173, 1222, and
+1540 cm−1 and remain visible within 250 ns, only a very weak
+band at 1583 cm−1 is observed. In an attempt to identify the
+intermediates observed here, the contribution of the second
+intermediate was removed to obtain a subtracted resonance
+Raman spectrum at early time (0 ns), which was then
+compared with an authentic spectrum of the triplet state of
+KP (3KP) observed in MeCN (this comparison is shown in
+Figure 2).25 The excellent correlation between these two
+spectra demonstrates that the ﬁrst transient species for 5-KP-dA
+is the triplet state character species, which is associated with the
+</para>
+3463
+
+DOI: 10.1021/acs.joc.5b00047
+J. Org. Chem. 2015, 80, 3462−3470
+
+The Journal of Organic Chemistry
+
+Article
+
+observed. This demonstrates that the intermolecular interaction
+of KP and dA cannot eﬃciently achieve the electron transfer
+and hydrogen abstraction due to the low collision probability
+between the free 3KP and dA species, while the intramolecular
+interaction of 5-KP-dA with a cisoid structure may achieve a
+high eﬃciency for the intramolecular hydrogen abstraction.
+Photolysis of KP-tethered purine nucleosides dyads evolves 2-
+deoxyribonolactone through the generation of a ketyl-C1
+biradical intermediate.43 Ns-TR3 spectra of 5-KP-dA demon-
+strate that a ketyl-sugar biradical
+intermediate is probably
+produced even in the relatively inert solvent (MeCN), which
+implies water may not be needed for producing the ketyl-sugar
+intermediate.43 This reveals that hydrogen bonding
+biradical
+may not be necessary for
+the intramolecular hydrogen
+abstraction between the KP and purine nucleoside base in
+the electronic excited state reaction.44
+
+Figure 1. ns-TR3 spectra of 5-KP-dA (A) and 3-KP-dA (B) recorded
+in MeCN with various delay times indicated next to the spectra. The
+asterisks (*) mark subtraction artifacts or laser lines.
+
+Figure 2. Comparison of the subtracted ns-TR3 spectrum of 5-KP-dA
+obtained in MeCN at 0 ns (top) (see text for more details) and the
+authentic ns-TR3 spectrum of KP obtained in the MeCN at 0 ns
+(bottom). The asterisk (*) marks a subtraction artifact or laser line.
+<para sub=“props”>
+chromophore of KP of the 5-KP-dA dyad (represented as
+5-3[KP]-dA here). This intermediate promptly produces the
+second species even in the MeCN solvent. In contrast, the
+triplet state of 3-KP-dA (3-3[KP]-dA) has a relatively long
+lifetime, just like the 3KP species formed after photoexcitation
+of KP in MeCN.
+</para>
+In the following sections, two questions are addressed: (1)
+Why do these two isomers exhibit very diﬀerent photochemical
+behavior? (2) What intermediate is generated at later times for
+5-KP-dA? When KP is irradiated by the 266 nm pump laser in
+MeCN, a weak band is observed that correlates with the decay
+of 3KP. This weak intermediate could be generated by an
+intramolecular hydrogen abstraction.25 As for 3-KP-dA, the
+analogous feature is also observed. But for 5-KP-dA, the Raman
+signal of the new species is so large that it overwhelms the
+Raman intensity of 5-3[KP]-dA. Miranda and co-workers
+reported that the intramolecular interaction between KP and
+the purine base resulted in a remarkable quenching of the
+excited KP-like triplet state.43 This could in principle be
+associated with an electron transfer process. To explore the
+reaction eﬃciency between the intramolecular interaction and
+the intermolecular interaction, we also carried out ns-TR3
+experiments of 1 mM KP and 1 mM deoxyguanosine (dA) in
+an MeCN solvent (see Figure S1, Supporting Information).
+Inspection of Figure S1 indicates that only the Raman signal of
+3KP could be detected, the band at 1583 cm−1 is scarcely
+
+However, one may expect that hydrogen bonding and the
+pH of an aqueous may be able to strongly aﬀect
+the
+intramolecular hydrogen abstraction between KP and purine
+nucleoside base in the electronic excited state reaction. For
+example, the triplet state of KP can undergo a decarboxylation
+reaction in aqueous solutions which is consistent with results
+from density functional theory (DFT) calculations that show as
+more water molecules become involved in the reaction system
+the activation energy barriers for the decarboxylation reaction
+will decrease.28 These results indicate that water molecules are
+able to assist excited state intramolecular proton transfer
+(ESIPT) from the carboxylate group to the carbonyl group,
+followed by C−C bond cleavage,
+loss of CO2 and intra-
+molecular charge transfer so that
+the triplet protonated
+biradical carbanion (3BCH) intermediate appears to be directly
+produced from the neutral form of the triplet KP intermediate
+by a quick ESIPT and decarboxylation in aqueous solutions.28
+Similarly, varying the pH of an aqueous solution can also
+signiﬁcantly inﬂuence the decarboxylation reactions of KP so
+that an acid assisted decarboxylation takes place in strongly
+acidic aqueous
+the 2-
+acetoxymethyl-2-(3-benzoyl-phenyl)-propionic acid (KP-OAc)
+phototrigger compound found that
+in neutral high water
+concentration or acidic aqueous solution this compound will
+exhibit a water and/or acid assisted photodecarboxylation
+reaction to directly produce a biradical intermediate that does
+not cause release of the OAc− group so that the lifetime of the
+intermediate of KP-OAc is similar to that of the
+biradical
+biradical
+intermediate produced from KP in the analogous
+solutions.28,32 In contrast
+the photo-
+types of
+decarboxylation of KP-OAc in a phosphate buﬀer solution
+(PBS) directly forms the benzylic carbanion intermediate that
+can cause the phototrigger reaction to release the OAc− group
+so that the lifetime of the biradical intermediate of KP-OAc is
+much shorter than the lifetime of the biradical intermediate of
+KP in PBS.28,32 The preceding results for KP and KP-OAc in
+aqueous solution28,32 of varying pH suggests that hydrogen
+bonding between a solvent like water and the KP-purine dyads
+may also play a role on the electron transfer and intramolecular
+hydrogen abstraction reactions and this should be an interesting
+area of investigation in the future for KP-purine dyads and
+related systems.
+
+solutions.28 A recent
+
+study of
+
+to this,
+<para sub=“props”>
+Previous studies found that the triplet states of benzophe-
+none (BP) and KP were eﬃciently photoreduced by hydrogen
+intermediates.25,45−47
+atom donors to produce ketyl radical
+Given the generation of biradical intermediates in the MeCN,
+an intramolecular hydrogen abstraction process between KP
+</para>
+3464
+
+DOI: 10.1021/acs.joc.5b00047
+J. Org. Chem. 2015, 80, 3462−3470
+
+The Journal of Organic Chemistry
+<para sub=“props”>
+intramolecular hydrogen abstraction,
+
+and purine nucleosides is likely involved. In order to study this
+apparent
+the same
+experiments were also carried out for the 5-KP-dG and 5-
+KPGly-dA systems. The ns-TR3 spectra of these two dyads are
+displayed in Figure 3. For the 5-KP-dG dyad, the ns-TR3
+</para>
+Figure 3. ns-TR3 spectra of 5-KP-dG (A) and 5-KPGly-dA (B)
+recorded in MeCN obtained with various delay times indicated next to
+the spectra. The asterisks (*) mark subtraction artifacts or laser lines.
+<para sub=“props”>
+the lifetime of
+
+spectra of the triplet state of 5-KP-dG (5-3[KP]-dG) were not
+observed using the about 5 ns resolution of the ns-TR3
+instrument. This implies that the more basic guanine may
+promote the intramolecular hydrogen abstraction so that only
+intermediate can be observed in the ns-TR3
+the biradical
+spectra. In contrast, the increase in the length of the distance
+between the KP and deoxyadenosine, moieties in 5-KPGly-dA
+causes
+state of 5-KPGly-dA
+(5-3[KPGly]-dA) become a bit longer. These results demon-
+strate that the more basic site (guanine) appears to accelerate
+the intramolecular hydrogen abstraction, which is consistent
+with literature results that guanine is a fragile section with a
+propensity to be broken in DNA chains when DNA damage
+was photoinduced by fenoﬁbrate and KP in vitro.4,40,41 While
+the elongation of the length between KP and nucleoside dyads
+will
+lower
+the intramolecular hydrogen
+abstraction.
+
+the chances
+</para>
+<para sub=“props”>
+Femtosecond Transient Absorption Study of the
+Dynamics of the Dyads in Acetonitrile. In order to study
+intramolecular hydrogen
+the kinetics of
+abstraction process for
+interest,
+
+the KP-purine dyads of
+
+the apparent
+
+the triplet
+
+for
+</para>
+Article
+<para sub=“props”>
+femtosecond transient absorption (fs-TA) spectroscopy was
+employed to investigate the early time intermediates generated
+after irradiation by 267 nm pump laser light. The fs-TA spectra
+of the 5-KP-dA, 3-KP-dA, 5-KPGly-dA dyads are shown in the
+Supporting Information and spectra for the 5-KP-dG dyad are
+shown in Figure 4. For the four dyads, as the maximum
+absorption band around 335 nm rapidly decreases in intensity
+and shifts down to a 325 nm band and a weak broad band
+around 580 nm also drops in intensity, a strong transient
+absorption band promptly arises at 524 nm on the early
+picosecond time scale. The bands around 335 and 580 nm are
+→ Sn transient absorption and the bands
+associated with the S1
+→ Tn transient
+around 325 and 524 nm are due to the T1
+absorption.31,48 The decay dynamics of the 335 nm band is
+almost equal to the growth kinetics of the 524 nm band (see
+Figure 5 (right)) and this implies that a highly eﬃcient
+intersystem crossing (ISC) transforms the singlet state to the
+triplet state for the KP moiety of the dyads. Interestingly, for
+the 5-KP-dG dyad as the decay of the band at 524 nm occurs, a
+small shoulder feature around 545 nm begins to emerge and the
+band at 325 nm increases in intensity and shifts up to 329 nm.
+The band at 545 nm was assigned to the formation of a ketyl-
+sugar biradical intermediate in the aqueous solution,43 and the
+fs-TA spectra here indicates that the decay of the 5-3[KP]-dG
+dyad leads
+to the generation of a ketyl-sugar biradical
+intermediate by an intramolecular electron-transfer and/or
+intramolecular hydrogen abstraction mechanism.49−51
+</para>
+<para sub=“props”>
+Figure 5 shows the dynamics of the triplet state for the four
+dyads examined in our study. These results show that the
+dynamics of the 3-3[KP]-dA and 5-3[KPGly]-dA dyads are
+almost same as that of 3KP that do not decay signiﬁcantly
+within 3 ns and this is also consistent with the triplet state of
+these two dyads being readily detected in the ns-TR3
+experiments detailed in the previous section. The decay rate
+of the 5-3[KP]-dA dyad with the cisoid structure is observed to
+be somewhat faster than that of the 3-3[KP]-dA dyad with the
+transoid structure. The 5-3[KP]-dG dyad species exhibits the
+fastest decay in intensity compared with the other three dyads.
+Figure 5 (right) shows plots of the four exponential best-ﬁts to
+the experimental data points at 330 and 524 nm. The time
+constants determined from these ﬁts are τ
+2 = 7.4
+ps, τ
+3 =
+111 ps and τ
+1 =
+0.26 ps is associated with internal conversion (IC) from Sn to
+2 = 7.2−7.4 ps is associated with intersystem crossing
+S1. τ
+(ISC) transformation from S1 to T1(n, π*) and this time
+constant is faster than that of benzophenone (10 ps) obtained
+
+2 = 7.2 ps, τ
+4 = 1.7 ns for 330 and 524 nm, respectively. τ
+
+3 = 110 ps and τ
+
+4 = 1.5 ns and τ
+
+1 = 0.26 ps, τ
+
+1 = 0.26 ps, τ
+</para>
+Figure 4. Femtosecond transient absorption spectra of 5-KP-dG at various delay times after photoexcitation at 267 nm in MeCN.
+
+3465
+
+DOI: 10.1021/acs.joc.5b00047
+J. Org. Chem. 2015, 80, 3462−3470
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 5. Temporal dependence of the normalized transient absorption intensity of the four dyads recorded at 524 nm in MeCN solvent are shown.
+(right) Temporal dependence of the normalized transient absorption intensity for 5-KP-dG recorded at 524 and 330 nm in MeCN are shown. Solid
+lines indicate kinetics ﬁtting using a four exponential function to ﬁt the experimental data points.
+<para sub=“props”>
+in MeCN. τ
+3 = 110 ps is the lifetime of the electron transfer
+4 = 1.5−1.7 ns is the time
+from deoxyguanosine to KP and τ
+constant of the intramolecular hydrogen abstraction reaction.
+This means that the lifetime of 5-3[KP]-dG is about 1.6 ns
+which cannot be easily observed in the about 5 to 10 ns
+resolution of ns-TR3 experiments. Therefore, the 5-3[KP]-dG
+species was not explicitly observed by ns-TR3 spectra for this
+dyad as the hydrogen abstraction process was faster than the
+resolution of the ns-TR3 experiments. The results of fs-TA
+experiments correlate with the results observed by ns-TR3
+experiments in MeCN.
+
+the formation of
+</para>
+<para sub=“comp">
+DFT Study on Intramolecular Hydrogen Abstraction
+among Dyads. In an attempt to shed more light on the
+mechanism of
+the ketyl-sugar biradical
+theory (DFT) calculations
+intermediate, density functional
+were performed to calculate the structures and properties of the
+intermediates
+involved in the intramolecular hydrogen
+abstraction reaction of interest. These results reveal that the
+ring of the sugar moiety of 5-3[KP]-dA is parallel with the
+carbonyl group of the KP chromophore, while the ring of the
+sugar moiety of 3-3[KP]-dA lies a lower position than does the
+carbonyl group of the KP chromophore (see a depiction of
+these structures in Figure 6). Rotation of the dihedral angle
+</para>
+Figure 6. Simple depictions of the optimized structures of 5-3[KP]-dA
+and 3-3[KP]-dA intermediates obtained from B3LYP/6-31G* DFT
+calculations. See text and Supporting Information for more details.
+<para sub=“comp”>
+−C6
+
+−C7
+
+−C8, the p orbital of O9 will become very
+among C5
+close to the hydrogen atoms of C2 and C3 in the sugar ring of
+the 5-3[KP]-dA dyad species, thus making the hydrogen atom
+transfer
+the KP
+chromophore conveniently. However, for 3-3[KP]-dA, the p
+orbital of O9 could not reach the hydrogen atom of the sugar
+moiety because of its transoid structure and steric eﬀects.
+
+to carbonyl group of
+
+from C2 or C3
+</para>
+<para sub=“comp”>
+Previous studies showed that the n, π* 3KP species has a
+strong ability to abstract a hydrogen atom from a hydrogen
+donor.25 Practically, the n, π* 3KP species could also undergo a
+process with a weak hydrogen donor (H2O) to produce a ketyl
+radical species.24,25 By the same way, the 3KP moiety of the
+dyad may probably abstract a hydrogen atom from C2 and C3
+positions of the sugar in 5-3[KP]-dA dyad species to generate
+ketyl-C2 and/or ketyl-C3 biradical
+intermediates. Figure S5
+describes the optimized process of intramolecular hydrogen
+−
+−C6
+abstraction. After the rotation of the dihedral angle of C5
+−C8, the hydrogen atom at the C2 and C3 positions are able
+C7
+to access the CO group between the two benzene rings. The
+CO bond length is 1.328 for both 5-3[KP]-dA and 5-3[KP]-
+dG, which demonstrates that the 3KP in the dyads are in a
+typical n, π* triplet state. The active center of the triplet state
+dyads is located on the CO groups. Thus, CO may
+abstract a hydrogen atom from C2 and C3 positions of the sugar
+ring in 5-3[KP]-dA and 5-3[KP]-dG.
+</para>
+<para sub=“comp”>
+Figure 7 shows the energy proﬁles of the intramolecular
+hydrogen abstraction from the C2 and C3 positions of the
+</para>
+Figure 7. Energy proﬁles in the MeCN solvent for the intramolecular
+hydrogen abstraction reactions at the C2 and C3 position in the 5-KP-
+dA and 5-KP-dG dyads. The relative free energies are given in kcal/
+mol. See text and Supporting Information for details.
+<para sub=“comp”>
+sugars in 5-KP-dA and 5-KP-dG dyads. The energy barriers for
+the abstraction hydrogen from C2 of sugar in the 5-3[KP]-dA
+and 5-3[KP]-dG dyads are 23.4 and 23.5 kcal/mol respectively,
+which are higher than that of abstraction hydrogen from C3 of
+sugar in the 5-3[KP]-dA and 5-3[KP]-dG dyads by 11.5 and
+12.5 kcal/mol. However, on one hand, the free energy of
+diradical products with C2 radical
+for 5-KP-dG dyad and
+diradical products with C3 radical for 5-KP-dA dyad are a little
+stable than that of the reactants (RC) by 1.9 and 2.2 kcal/mol
+in 5-3[KP]-dA and 5-3[KP]-dG dyads, suggesting that there is
+</para>
+3466
+
+DOI: 10.1021/acs.joc.5b00047
+J. Org. Chem. 2015, 80, 3462−3470
+
+The Journal of Organic Chemistry
+<para sub=“comp”>
+an equilibrium between the reactants and the diradical
+products. On the other hand, the diradical products with C2
+radical
+for 5-KP-dA dyad and diradical products with C3
+radicals for 5-KP-dG dyad are more stable than that of the
+in 5-3[KP]-dA and
+reactants (RC) by 7.3 and 8.4 kcal/mol
+5-3[KP]-dG dyads respectively, suggesting that the formation of
+these diradical products is irreversible. However, the relative
+energy barrier (11.0 kcal/mol) of the intramolecular hydrogen
+abstraction reactions at the C3 of sugar in the 5-3[KP]-dG dyad
+the intramolecular
+is lower than that (23.4 kcal/mol) of
+hydrogen abstraction reactions at
+the C2 of sugar in the
+5-3[KP]-dA dyad. This suggests that the triplet state of KP
+moiety of 5-3[KP]-dG dyad is easier and faster to be consumed
+than that of 5-3[KP]-dA dyad. These calculated results could
+reasonably explain the experimental observation that
+the
+5-3[KP]-dG intermediate decays faster than the 5-3[KP]-dA
+intermediate does and also the 5-3[KP]-dG transient could not
+be detected in the ns-TR3 experiments whereas the 5-3[KP]-dA
+transient could be detected at early nanosecond times in the ns-
+TR3 experiments under the same conditions. On the basis of
+these calculated results, the hydrogen atoms of C2 and C3 are all
+possible to be captured by the oxygen of the CO group of
+the triplet state cisoid dyads.
+</para>
+<para sub=“comp”>
+The reaction barriers for the hydrogen abstraction typically
+correlate with the C−H bond strength. The C−H bond
+enthalpies calculated for abstraction of hydrogen from the C1,
+C2, C3 and C4 positions of the deoxyribose sugar moiety reveal
+similar C−H bond strengths for the C1, C3 and C4. In these
+cases, the resulting carbon-centered radicals are stabilized by
+the adjacent oxygen.52 Table 1 shows the relative energies to
+</para>
+Table 1. Relative Free Energies in the MeCN Solvent
+Required to Generate a Biradical at the C1, C2, C3 and C4
+Positions for Sugar in the 5-KP-dA and 5-KP-dG Dyads
+Compared to RC
+
+relative free energies, kcal/mol
+
+5-KP-dA
+5-KP-dG
+
+carbon positions
+
+RC
+0.0
+0.0
+
+C1
+−15.6
+−9.6
+
+C2
+−7.3
+−2.2
+
+C3
+−1.9
+−8.4
+
+C4
+−16.2
+−12.2
+<para sub=“comp”>
+form a radical at the sugar C1, C2, C3 and C4 positions for the 5-
+KP-dA and 5-KP-dG dyads. Although the hydrogen atom at the
+C2 and C3 positions are easy to be abstracted by the carbonyl
+group (O9), the radicals at the C2 and C3 positions possess
+higher free energies compared with the ones at the other two
+positions. Especially the free energy of the radical at the C1
+position is dramatically lower than that of the radical at the C2
+position. Our calculation results are reasonably consistent with
+the relative stability of the diﬀerent sugar radicals that have
+been calculated by several other groups,53−58 and the order is
+generally found to be C1 > C4 > C5 > C3 > C2. The lower
+energy levels of the sugar radicals at C1 and C4 positions drive
+the radicals at the C2 and C3 positions to further isomerize to
+the C1 and C4 positions respectively through a hydrogen shift.
+As a consequence, the radicals at the C1 and C4 positions are
+very stable and should be predominant after
+reaching
+equilibrium. Kumar and co-workers also reported that for the
+neutral sugar radicals of 2′-deoxyguanosine, C1 has the lowest
+vertical ionization potential, ca. 6.33 eV in the gas phase. C2 has
+the highest vertical ionization potential, ca. 8.02 eV in the gas
+phase, and the resultant C2 cation is predicted to undergo a
+</para>
+Article
+
+barrierless hydride transfer from the C2 site to produce the C1
+cation.59
+
+Among the four dyads, after irradiation the strongest ns-TR3
+spectra were recorded for the 5-KP-dG intermediates compared
+to other dyads. Therefore, the 5-KP-dG system is used as
+model to ascertain the assignment of the transient species and
+the vibrational frequencies. Figure 8 shows the comparison of
+
+Figure 8. The comparison of the ns-TR3 spectrum of 5-KP-dG
+obtained in MeCN at 10 ns (black) and the calculated predicted
+normal Raman spectra of the biradical intermediates with the radical at
+the C1 (blue) and C4 (red) positions in the sugar ring for 5-KP-dG
+(bottom).
+<para sub=“comp”>
+the ns-TR3 spectrum of 5-KP-dG obtained in MeCN at 10 ns
+and the calculated predicted normal Raman spectrum of the
+intermediates with one radical at the C1 and C4
+biradical
+ring for 5-KP-dG. The excellent
+positions
+in the sugar
+agreement between these spectra indicates that
+the inter-
+mediates observed in MeCN for the 5-KP-dG and 5-KP-dA can
+be assigned to the ketyl-C1 biradical and ketyl-C4 biradical
+species. In several other studies, the C1 sugar radical formation
+was also observed predominantly.60−65 Shukla and co-workers
+also proposed that one-electron oxidized guanine will form the
+C1 sugar radical and another sugar radical at the C3 or C4
+positions from visible and UV photolysis.66 The observation of
+the ﬁnal 2-deoxyribonolactone (dL) also demonstrated that a
+ketyl-C1 biradical intermediate was generated after irradiation
+of 5-KP-dG in the presence of oxygen.43 This may support the
+abstraction of the hydrogen at C2 position as an initial step by
+an intramolecular hydrogen abstraction in the relatively inert
+MeCN solvent and subsequently the radical
+is inclined to
+transfer to the C1 position at a lower energy level. Eventually,
+the ketyl-C1 biradical intermediate could react with the oxygen
+dissolved in the solvent and generate 5-KP-dL product.43 TD-
+DFT calculations were also performed to further characterize
+the 5-KP-dL species. These calculation results show that 5-KP-
+dL has strong oscillator strengths at 185 and 261 nm. The
+higher oscillator strength at 185 nm is mainly contributed from
+the sugar chromophore while another low one at 261 nm is
+associated with the KP chromophore. Figure S6 shows the
+calculated predicted UV−vis absorption of 5-KP-dL. Therefore,
+when 319.9 nm was used as the probe wavelength in the ns-
+TR3 experiments,
+it is very hard to acquire the resonance
+Raman spectra of the ﬁnal product due to the deep ultraviolet
+absorption of the sugar moiety.
+</para>
+■ CONCLUSIONS
+
+In conclusion, a combined experimental/computational study
+has provided more insight into the photochemical mechanism
+for the generation of ketyl-sugar biradical intermediates among
+
+3467
+
+DOI: 10.1021/acs.joc.5b00047
+J. Org. Chem. 2015, 80, 3462−3470
+
+The Journal of Organic Chemistry
+
+KP-Purine dyads (Scheme 2), where intramolecular hydrogen
+abstraction initiated by the triplet state of the KP moiety leads
+
+Scheme 2. Proposed Photochemical Mechanisms of the KP-
+Purine Dyads in MeCN Based on Results from Our Present
+Study
+
+to the ketyl-C2 and ketyl-C3 biradical species due to the
+accessibility of the carbonyl group to the hydrogen atoms that
+are initially abstracted. Both experimental and computational
+results show that intramolecular hydrogen abstraction for the
+cisoid dyads (5-KP-dA and 5-KP-dG) is favorable in MeCN.
+However, the intramolecular hydrogen abstraction is hindered
+by the long distance chain for the 5-KPGly-dA system and
+steric eﬀect for the transoid structure 3-KP-dA. Therefore, 5-
+KPGly-dA and 3-KP-dA show similar photochemistry behavior
+as KP in the MeCN solvent. Ketyl-sugar biradical species was
+not obviously observed in the ns-TR3 experiments for 5-KPGly-
+dA and 3-KP-dA. The kinetics data obtained from fs-TA
+experiments in MeCN also provide direct evidence for a slight
+decay for the 5-3[KPGly]-dA and 3-3[KP]-dA intermediates
+relative to the fast decay for the 5-3[KP]-dA and 5-3[KP]-dG
+triplet state cisoid dyads. DFT calculations studies support that
+the ketyl-C2 and ketyl-C3 biradicals are ﬁrst formed and then
+produce the lower energy level ketyl-C1 and ketyl-C4 biradical
+via the radical transferring from the C2 position to the C1
+position and from the C3 position to the C4 position through
+hydrogen shift processes. Eventually the ketyl-C1 and ketyl-C4
+biradical are generated for KP-purine dyads in MeCN solvent.
+Given the recent interest in DNA damage and repair reactions,
+we believe the current analysis of the intramolecular hydrogen
+abstraction between the photosensitive KP moiety and purine
+nucleoside moiety in the dyads examined will help encourage
+further work into cases where more complicated mechanisms
+may be encountered. Furthermore, clear characterization of the
+reaction intermediates and an increased understanding of the
+reaction mechanisms may also help other researchers in how to
+best utilize these types of benzophenone derivative drugs and
+to design improved benzophenone derivative drugs
+for
+particular applications with lower photoxicity.
+
+■ EXPERIMENTAL AND COMPUTATIONAL
+
+METHODS
+
+The four KP-purine nucleoside dyads (5-KP-dA, 3-KP-dA, 5-KP-dG
+and 5-KPGly-dA) used in this study were synthesized according to
+methods previously reported in the literature.43 The 1H NMR spectra
+of
+these four dyad samples are provided in the Supporting
+Information. The purity of the four KP-purine dyads were estimated
+to be ≥98%. The spectroscopic properties of the samples are in full
+accord with the literature reported spectra.43
+
+fs-TA Experiments. The fs-TA experiments were done employing
+an experimental setup and methods detailed previously31 and only a
+brief description is provided here. The fs-TA measurements were done
+
+Article
+
+using a femtosecond regenerative ampliﬁed Ti:sapphire laser system in
+which the ampliﬁer was seeded with the 120 fs laser pulses from an
+oscillator laser system. The laser probe pulse was produced by utilizing
+∼5% of the ampliﬁed 800 nm laser pulses to generate a white-light
+continuum (350−800 nm) in a CaF2 crystal and then this probe beam
+was split into two parts before traversing the sample. One probe laser
+beam went through the sample while the other probe laser beam went
+to the reference spectrometer in order to monitor the ﬂuctuations in
+the probe beam intensity. For the present experiments, the sample
+solution was excited by a 267 nm pump beam (the third harmonic of
+the fundamental 800 nm from the regenerative ampliﬁer). The 40 mL
+sample solutions were studied in a ﬂowing 2 mm path-length cuvette
+with an absorbance of 1 at 267 nm throughout the data acquisition.
+ns-TR3 Experiments. The ns-TR3 experiments were done using an
+experimental apparatus and methods discussed in detail previously,28
+so only a short description will be given here. The 266 nm pump laser
+pulse generated from the fourth harmonic of a Nd:YAG nanosecond
+pulsed laser and a 319.9 nm probe laser pulse generated from the third
+anti-Stokes hydrogen Raman shift laser line from the second harmonic
+were used in the ns-TR3 experiments. The energy for the pump and
+probe pulses were in the range of 2.5−3.5 mJ with a 10 Hz repetition
+rate. The two Nd:YAG lasers were synchronized electronically by a
+pulse delay generator to control the delay time of the pump and probe
+lasers with the delay time between the laser pulses monitored by a fast
+photodiode and 500 MHz oscilloscope and the time resolution for the
+ns-TR3 experiments was approximately 10 ns. The pump and probe
+laser beams were lightly focused onto the ﬂowing sampling system and
+the Raman light was collected using reﬂective optics
+into a
+spectrometer whose grating dispersed the light onto a liquid nitrogen
+cooled CCD detector. The Raman signal was accumulated for 30 s by
+the CCD before being read out to an interfaced PC computer and 10−
+20 scans of the signal were added together to get a resonance Raman
+spectrum. The ns-TR3 spectra presented here were obtained by the
+subtraction of a resonance Raman spectrum with negative delay time
+of −100 ns (probe-before-pump spectrum) from the resonance Raman
+spectrum with a positive delay time (pump−probe spectrum) and the
+Raman shifts were calibrated by the known MeCN solvent Raman
+bands with an estimated accuracy of 5 cm−1.
+
+DFT Calculations. Density functional theory (DFT) computations
+were used to investigate the structure and properties of the likely
+intermediates generated after
+irradiation of KP-Purine dyads in
+acetonitrile solvent. The optimized geometries, vibrational modes
+and the vibrational frequencies for the diﬀerent species were obtained
+from (U)B3LYP DFT calculations employing a 6-31G* basis set in
+PCM solvent model. No imaginary frequency modes were observed at
+the stationary states of the optimized structures shown here. All of the
+reactions have been explored by optimizing the structures of the
+reactant (RC), transition states (TS) and product complexes (PC).
+Transition states were located using the Berny algorithm. Frequency
+calculations at the same level of theory have also been performed to
+identify all of the stationary points as minima for transition states (one
+imaginary frequency). Intrinsic reaction coordinates (IRC)67 were
+calculated for the transition states to conﬁrm that
+the relevant
+structures connect the two relevant minima. The Raman spectra were
+obtained using the default G03 method that used determination of
+Raman intensities
+from transition polarizabilities calculated by
+numerical diﬀerentiation, with assumed zero excitation frequency
+(e.g., using the Placzek approximation). The calculated Raman
+frequencies from the UB3LYP/6-311G** computations were scaled
+by a factor of 0.975 to compare with the experimental Raman results in
+order to make vibrational assignments. All of the calculations were
+done using the Gaussian 03 program suite.68
+
+■ ASSOCIATED CONTENT
+*S Supporting Information
+The fs-TA spectra of the four dyads obtained in acetonitrile, the
+optimized geometries of RC, TS and PC of 5-3[KP]-dA and
+5-3[KP]-dG dyads, DT-DFT calculation predicted the UV−vis
+absorption of 5-KP-dL, 1H NMR spectra of four dyads and
+
+3468
+
+DOI: 10.1021/acs.joc.5b00047
+J. Org. Chem. 2015, 80, 3462−3470
+
+The Journal of Organic Chemistry
+
+Cartesian coordinates, total energies, and vibrational zero-point
+energies for the optimized geometry from the (U)B3LYP/6-
+311G** calculations for the compounds and intermediates
+considered in this paper are given. This material is available free
+of charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Authors
+*Phone: 852-2859-2160. Fax: 852-2857-1586. E-mail: dang.l@
+sustc.edu.cn
+*Phone: 852-2859-2160. Fax: 852-2857-1586. E-mail:
+phillips@hku.hk.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We thank Professor Xin-quan Hu at Zhejiang University of
+Technology for the synthesis of the four ketoprofen-purine
+dyad compounds (5-KP-dA, 3-KP-dA, 5-KP-dG and 5-KPGly-
+dA) used in this study. This work was supported by a grant
+from the Research Grants Council of Hong Kong (HKU 7035/
+13P) and the University Grants Committee Special Equipment
+Grant (SEG-HKU-07) to DLP. Partial support from the Grants
+Committee Areas of Excellence Scheme (AoE/P-03/08) is also
+gratefully acknowledged.
+
+■ REFERENCES
+(1) Watson, J. D.; Crick, F. H. C. Nature 1953, 171, 737−738.
+(2) Alberts, B.; Johnson, A.; Lewis, J.; Raﬀ, M.; Roberts, K.; Walter, P.
+Molecular Biology of the Cell, 4th ed.; Garland Science: New York,
+2002.
+(3) Zhou, B. B. S.; Elledge, S. J. Nature 2000, 408, 433−439.
+(4) Rouse, J.; Jackson, S. P. Science 2002, 297, 547−551.
+(5) Green, D. R. Cell 2005, 121, 671−674.
+(6) Norbury, C. J.; Hickson, I. D. Annu. Rev. Pharmacol. Toxicol.
+2001, 41, 367−401.
+(7) Gates, K. S. The Chemical Reactions of DNA Damage and
+Degradation; Wiley-Interscience: Hoboken, NJ, 2007.
+(8) Chatgilialoglu, C.; O′Neill, P. Exp. Gerontol. 2001, 36, 1459−
+1471.
+(9) Cadet, J.; Berger, M.; Douki, T.; Morin, B.; Raoul, S.; Ravanat, J.
+L.; Spinelli, S. Biol. Chem. 1997, 387, 1275−1286.
+(10) Burrows, C.; Muller, J. G. Chem. Rev. 1998, 98, 1109−1151.
+(11) Armitage, B. Chem. Rev. 1998, 98, 1171−1200.
+(12) Breen, A. P.; Murphy, J. A. Free Radical Biol. Med. 1995, 18,
+1033−1077.
+(13) Greenberg, M. M. Chem. Res. Toxicol. 1998, 11, 1235−1248.
+(14) Pogozelski, W. K.; Tullius, T. D. Chem. Rev. 1998, 98, 1089−
+1108.
+(15) Pratviel, G.; Bernadou, J.; Meunier, B. Angew. Chem., Int. Ed.
+1995, 34, 746−769.
+(16) Sonntag, C. V.; Hagen, U.; Schon-Bopp, A.; Schulte-Frohlinde,
+D. Adv. Radiat. Biol. 1981, 9, 109−142.
+(17) Gates, K. S. Covalent modiﬁcation of DNA by natural products.
+In Comprehensive Natural Products Chemistry; Kool, E. T., Ed.;
+Pergamon: New York, 1999; Vol. 7, p 491.
+(18) Hurley, L. H. Nat. Rev. Cancer 2002, 2, 188−200.
+(19) Wolkenberg, S. E.; Boger, D. L. Chem. Rev. 2002, 102, 2477−
+2496.
+(20) Remers, W. A. Antineoplastic Agents. In Textbook of Organic,
+Medicinal and Pharmaceutical Chemistry; Lippincott: Philadelphia, PA,
+1991.
+(21) Lawley, P. D.; Phillips, D. H. Mutat. Res. 1996, 355, 13−40.
+(22) Bagheri, H.; Lhiaubet, V.; Montastruc, J. L.; Louis-Lalanne, N.
+Drug Saf. 2000, 22, 339−349.
+
+Article
+
+I.; Manoli, F.; Sortino, S. Photochem.
+
+(23) Martinez, L. J.; Scaiano, J. C. J. Am. Chem. Soc. 1997, 119,
+11066−11070.
+(24) Li, M. D.; Du, Y.; Chuang, Y. P.; Xue, J.; Phillips, D. L. Phys.
+Chem. Chem. Phys. 2010, 12, 4800−4808.
+(25) Chuang, Y. P.; Xue, J.; Du, Y.; Li, M. D.; An, H. Y.; Phillips, D.
+L. J. Phys. Chem. B 2009, 113, 10530−10539.
+(26) Cosa, G.; Martinez, L. J.; Scaiano, J. C. Phys. Chem. Chem. Phys.
+1999, 1, 3533−3537.
+(27) Monti, S.; Sortino, S.; Guidi, G. D.; Marconi, G. J. Chem. Soc.,
+Faraday Trans. 1997, 93, 2269−2274.
+(28) Li, M. D.; Yeung, C. S.; Guan, X.; Ma, J.; Li, W.; Ma, C.; Phillips,
+D. L. Chem.Eur. J. 2011, 17, 10935−10950.
+(29) Cosa, G.; Lukeman, M.; Scaiano, J. C. Acc. Chem. Res. 2009, 42,
+599−607.
+(30) Lhiaubet, V.; Paillous, N.; Chouini-Lalanne, N. Photochem.
+Photobiol. 2001, 74, 670−678.
+(31) Li, M. D.; Ma, J.; Su, T.; Liu, M.; Yu, L.; Phillips, D. L. J. Phys.
+Chem. B 2012, 116, 5882−5887.
+(32) Li, M. D.; Su, T.; Ma, J.; Liu, M.; Liu, H.; Li, X.; Phillips, D. L.
+Chem.Eur. J. 2013, 19, 11241−11250.
+(33) Galian, R. E.; Pastor-Prez, L.; Miranda, M. A.; Prez-Prieto, J.
+Chem.Eur. J. 2005, 11, 3443−3448.
+(34) Chouini-Lalanne, N.; Defais, M.; Paillous, N. Biochem.
+Pharmacol. 1998, 55, 441−446.
+(35) Monti, S.; Manet, I.; Manoli, F.; Morrone, R.; Nicolosi, G.;
+Sortino, S. Photochem. Photobiol. 2006, 82, 13−19.
+(36) Monti, S.; Manet,
+Photobiol. Sci. 2007, 6, 462−470.
+(37) Vaya, I.; Lhiaubet-Vallet, V.; Jimenez, M. C.; Miranda, M. A.
+Chem. Soc. Rev. 2014, 43, 4102−4122.
+(38) Suzuki, T.; Shinoda, M.; Osanai, Y.; Isozaki, T. J. Phys. Chem. B
+2013, 117, 9662−9668.
+(39) Shinoda, M.; Isozaki, T.; Suzuki, T. Photochem. Photobiol. 2014,
+90, 92−98.
+(40) Marguery, M. C.; Chouini-Lalanne, N.; Ader, J. C.; Paillous, N.
+Photochem. Photobiol. 1998, 68, 679−684.
+(41) Lhiaubet-Vallet, V.; Belmadoui, N.; Climent, M. J.; Miranda, M.
+A. J. Phys. Chem. B 2007, 111, 8277−8282.
+(42) Lhiaubet-Vallet, V.; Encinas, S.; Miranda, M. A. J. Am. Chem.
+Soc. 2005, 127, 12774−12775.
+(43) Paris, C.; Encinas, S.; Belmadoui, N.; Climent, M. J.; Miranda,
+M. A. Org. Lett. 2008, 10, 4409−4412.
+(44) Zhao, G. J.; Han, K. L. Acc. Chem. Res. 2012, 45, 404−413.
+(45) Tahara, T.; Hamaguchi, H.; Tasumi, M. Chem. Phys. Lett. 1988,
+152, 135−139.
+(46) Yabumoto, S.; Sato, S.; Hamaguchi, H. Chem. Phys. Lett. 2005,
+416, 100−103.
+(47) Du, Y.; Ma, C.; Kwok, W. M.; Xue, J.; Phillips, D. L. J. Org.
+Chem. 2007, 72, 7148−7156.
+(48) Aloise, S.; Ruckebusch, C.; Blanchet, L.; Rehault, J.; Buntinx, G.;
+Huvenne, J. P. J. Phys. Chem. A 2008, 112, 224−231.
+(49) Chatgilialoglu, C.; Ferreri, C.; Bazzanini, R.; Guerra, M.; Choi,
+S. Y.; Emanuel, C. J.; Horner, J. H.; Newcomb, M. J. Am. Chem. Soc.
+2000, 122, 9525−9533.
+(50) Kumar, A.; Sevilla, M. D. J. Phys. Chem. B 2009, 113, 13374−
+13380.
+(51) Abad, S.; Bosca, F.; Domingo, L. R.; Gil, S.; Pischel, U.;
+Miranda, M. A. J. Am. Chem. Soc. 2007, 129, 7407−7420.
+(52) Miaskiewicz, K.; Osman, R. J. Am. Chem. Soc. 1994, 116, 232−
+238.
+(53) Sarma, R. L.; Medhi, C. J. Mol. Struct. 2006, 763, 51−57.
+(54) Colson, A. O.; Sevilla, M. D. J. Phys. Chem. 1995, 99, 3867−
+3874.
+(55) Miaskiewicz, K.; Osman, R. J. Am. Chem. Soc. 1994, 116, 232−
+238.
+(56) Li, M. J.; Liu, L.; Wei, K.; Fu, Y.; Guo, Q. X. J. Phys. Chem. B
+2006, 110, 13582−13589.
+(57) Li, M. J.; Liu, L.; Fu, Y.; Guo, Q. X. J. Phys. Chem. B 2005, 109,
+13818−13826.
+
+3469
+
+DOI: 10.1021/acs.joc.5b00047
+J. Org. Chem. 2015, 80, 3462−3470
+
+Article
+
+The Journal of Organic Chemistry
+
+(58) Abolfath, R. M.; van Duin, A. C. T.; Brabec, T. J. Phys. Chem. A
+2011, 115, 11045−11049.
+(59) Kumar, A.; Pottiboyina, V.; Sevilla, M. D. J. Phys. Chem. B 2012,
+116, 9409−9416.
+(60) Roginskaya, M.; Bernhard, W. A.; Marion, R. T.; Razskazovskiy,
+Y. Radiat. Res. 2005, 163, 85−89.
+(61) Roginskaya, M.; Razskazovskiy, Y.; Bernhard, W. A. Angew.
+Chem., Int. Ed. 2005, 44, 6210−6213.
+(62) Xue, L.; Greenberg, M. M. Angew. Chem., Int. Ed. 2007, 46,
+561−564.
+(63) Sato, K.; Greenberg, M. E. J. Am. Chem. Soc. 2005, 127, 2806−
+2807.
+(64) Dedon, P. C. Chem. Res. Toxicol. 2008, 21, 206−219.
+(65) Chen, B.; Zhou, X.; Taghizadeh, K.; Chen, J.; Stubbe, J.; Dedon,
+P. C. Chem. Res. Toxicol. 2007, 20, 1701−1708.
+(66) Shukla, L. I.; Pazdro, R.; Huang, J.; DeVreugd, C.; Becker, D.;
+Sevilla, M. D. Radiat. Res. 2004, 161, 582−590.
+(67) Cances, E.; Mennucci, B.; Tomasi, J. J. Chem. Phys. 1997, 107,
+3032−3041.
+(68) Frisch, M. J.; Trucks, G. W.; Schlegel, H. B.; Scuseria, G. E.;
+Robb, M. A.; Cheeseman, J. R.; Montgomery,J. A.; Kudin, T. V., Jr. K,
+N.; Burant, J. C.; Millam, J. M.; Iyengar, S. S.; Tomasi, J.; Barone, V.;
+Mennucci, B.; Cossi, M.; Scalmani, G.; Rega, N.; Petersson, G. A.;
+Nakatsuji, H.; Hada, M.; Ehara, M.; Toyota, K.; Fukuda, R.; Hasegawa,
+J.; Ishida, M.; Nakajima, T.; Honda, Y.; Kitao, O.; Nakai, H.; Klene,
+M.; Li, X.; Knox, J. E.; Hratchian, H. P.; Cross, J. B.; Bakken, V.;
+Adamo, C.; Jaramillo, J.; Gomperts, R.; Stratmann, R. E.; Yazyev, O.;
+Austin, A. J.; Cammi, R.; Pomelli, C.; Ochterski, J. W.; Ayala, P. Y.;
+Morokuma, K.; Voth, G. A.; Salvador, P.; Dannenberg,
+J.;
+Zakrzewski, V. G.; Dapprich, S.; Daniels, A. D.; Strain, M. C.;
+Farkas, O.; Malick, D. K.; Rabuck, A. D.; Raghavachari, K.; Foresman,
+J. B.; Ortiz, J. V.; Cui, Q.; Baboul, A. G.; Cliﬀord, S.; Cioslowski, J.;
+Stefanov, B. B.; Liu, G.; Liashenko, A.; Piskorz, P.; Komaromi, I.;
+Martin, R. L.; Fox, D. L.; Keith, T.; Al-Laham, M. A.; Peng, C. Y.;
+Nanayakkara, A.; Challacombe, M.; Gill, P. M. W.; Johnson, B.; Chen,
+W.; Wong, M. W.; Gonzalez, C.; Pople, J. A. Gaussian 03, Revision
+C.02; Gaussian, Inc.: Pittsburgh, PA, 2004.
+
+J.
+
+3470
+
+DOI: 10.1021/acs.joc.5b00047
+J. Org. Chem. 2015, 80, 3462−3470
+
+

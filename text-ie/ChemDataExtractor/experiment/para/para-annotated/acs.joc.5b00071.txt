@@ -1,0 +1,1214 @@
+Article
+
+pubs.acs.org/joc
+
+Palladium-Catalyzed Intramolecular Cyclization of Ynamides:
+Synthesis of 4‑Halo-oxazolones
+Hai Huang, Guangke He, Guohao Zhu, Xiaolin Zhu, Shineng Qiu, and Hongjun Zhu*
+Department of Applied Chemistry, College of Sciences, Nanjing Tech University, Nanjing 211816, People’s Republic of China
+
+*S Supporting Information
+
+ABSTRACT: A mild and eﬃcient methodology involving Pd(PPh3)4-catalyzed intramolecular cyclization of N-alkynyl
+alkyloxycarbamates with CuCl2 or CuBr2 for the synthesis of 4-halo-oxazolones was developed. This reaction exhibiting good
+functional tolerance provided a new, eﬃcient, and rapid synthetic process to 4-halo-oxazolones. The resulting 4-halo-oxazolones
+can serve as great potential precursors for the 3,4,5-trisubstituted oxazolones via a Pd-catalyzed cross-coupling reaction.
+
+■ INTRODUCTION
+
+Oxazolones are not only valuable building blocks in organic
+synthesis but also a recurring functional group in a large
+number of natural products and bioactive compounds.1
+Therefore, great eﬀorts have been directed toward developing
+synthetic approaches for the construction of this privileged
+structure,2 among which the metal-catalyzed (e.g., Au, Pd, and
+Cu) cyclization of the N-alkynyl
+tert-butyloxycarbamates is
+considered to be one of the most eﬀective strategies (Scheme 1,
+a).3 For instance, Gagosz3a reported the Au-catalyzed cyclo-
+isomerization, which provided the eﬃcient and rapid process
+for the synthesis of 3,5-disubstituted oxazolones. Despite these
+
+Scheme 1. Pd-catalyzed Cyclization of the N-alkynyl
+alkyloxycarbamates
+
+advances,
+the eﬀective synthesis of 3,4,5-multisubstituted
+oxazolones and modiﬁcation of the 4-position of oxazolones
+still remain highly challenging areas.4
+
+Meanwhile, the halopalladation of alkynes has been proven
+to be an extremely eﬃcient and convenient method for the
+construction of important carbo- and heterocycles in organic
+synthesis.5 First, the halopalladation of alkynes generates a
+versatile reactive σ-vinylpalladium intermediate. Such a σ-
+vinylpalladium intermediate could be next trapped by some
+nucleophilic groups leading to corresponding compounds
+(Scheme 1, b). In addition, after learning of the widespread
+application of the carbonyl oxygen as nucleophile in transition-
+metal-catalyzed reactions,6 we conceived that during the
+process of halopalladation a carbamate group could be used
+as oxygen source to capture the σ-vinylpalladium intermediate.
+After pursuing our recent interest in the functionalization of
+ynamides,7 we herein report a novel Pd-catalyzed cyclization of
+N-alkynyl alkyloxycarbamates to aﬀord the corresponding 4-
+halo-oxazolones
+in good yields under mild conditions.
+Furthermore, this method aﬀords oxazolones with a halogen
+(Cl or Br) at the 4-position, which provides an attractive and
+useful route to introduce new groups for the synthesis of new
+bioactive products (Scheme 1, c).8
+■ RESULTS AND DISCUSSION
+<para sub=“opt”>
+In the initial experiments,
+tert-butyl N-phenyl-N-
+(phenylethynyl)carbamate (1a) was used as a model substrate
+to screen the optimal reaction conditions. Compound 1a and
+3.0 equiv of CuBr2 were treated with 10 mol % of Pd(OAc)2
+and 2.0 equiv of t-BuOK in DMA at 60 °C. To our delight, the
+</para>
+Received:
+January 11, 2015
+Published: March 10, 2015
+
+© 2015 American Chemical Society
+
+3480
+
+DOI: 10.1021/acs.joc.5b00071
+J. Org. Chem. 2015, 80, 3480−3487
+
+The Journal of Organic Chemistry
+Table 1. Optimization of Reaction Conditionsa
+
+Article
+
+entry
+1
+2
+3
+4
+5
+6
+7c
+8d
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19e
+
+[Pd]
+Pd(OAc)2
+Pd(OAc)2
+Pd2(dba)3
+PdCl2
+PdCl2(PPh3)4
+Pd(PPh3)4
+Pd(PPh3)4
+
+Pd(PPh3)4
+Pd(PPh3)4
+Pd(PPh3)4
+Pd(PPh3)4
+Pd(PPh3)4
+Pd(PPh3)4
+Pd(PPh3)4
+Pd(PPh3)4
+Pd(PPh3)4
+Pd(PPh3)4
+Pd(PPh3)4
+
+base
+
+t-BuOK
+Na2CO3
+Na2CO3
+Na2CO3
+Na2CO3
+Na2CO3
+Na2CO3
+Na2CO3
+K2CO3
+KHCO3
+K3PO4
+K2CO3
+K2CO3
+K2CO3
+K2CO3
+K2CO3
+K2CO3
+K2CO3
+K2CO3
+
+CuBr2 (equiv)
+
+3.0
+3.0
+3.0
+3.0
+3.0
+3.0
+
+3.0
+3.0
+3.0
+3.0
+3.0
+3.0
+3.0
+3.0
+3.0
+2.0
+4.0
+4.0
+
+solvent
+DMA
+DMA
+DMA
+DMA
+DMA
+DMA
+DMA
+DMA
+DMA
+DMA
+DMA
+THF
+toluene
+DMSO
+DCM
+DMF
+DMF
+DMF
+DMF
+
+temp (°C)
+
+2a/2a′ yieldb (%)
+
+60
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+
+41/12
+43/22
+42/17
+32/16
+38/18
+73/0
+NR
+NR
+80/0
+77/0
+70/0
+65/0
+39/0
+14/0
+38/0
+83/0
+52/0
+91/0
+90/0
+
+aThe reaction was carried out with 1a (0.30 mmol), Pd catalyst (10 mol %), base (0.6 mmol), and CuBr2 in solvent (2.0 mL) under N2 atmosphere
+for 20 min. NR = no reaction. bYield was determined by 1H NMR on the crude reaction mixture using 1,3,5-trimethylbenzene as an internal
+standard. cCompound 1a (91%) was recovered. dCompound 1a (83%) was recovered. e5.0 mol % catalyst loading.
+<para sub=“opt”>
+desired 4-bromo-3,5-diphenyl-3H-oxazol-2-one 2a was ob-
+tained in 41% yield along with nonhalo product 3,5-diphenyl-
+3H-oxazol-2-one 2a′ in 12% yield (Table 1, entry 1). Diﬀerent
+Pd catalysts were applied. Interestingly, the single product 2a
+was obtained in 73% yield when Pd(PPh3)4 was used as catalyst
+(Table 1, entries 2−6). A blank experiment indicated that no
+reaction occurred in the absence of the palladium catalyst
+(Table 1, entry 7). The reaction also failed without the addition
+of the copper salt (Table 1, entry 8). To further optimize the
+reaction, diﬀerent bases were examined in which K2CO3 gave
+the best performance (Table 1, entries 9−11). Among the
+solvents screened, DMF was superior to DMA, THF, toluene,
+DMSO, and DCM (Table 1, entries 12−16). The employment
+of 4.0 equiv of CuBr2 gave the highest yield (91%) of 2a (Table
+1, entry 18). A similar result was observed when 5.0 mol % of
+Pd(PPh3)4 was utilized in the reaction (Table 1, entry 19) (for
+more details, see the Supporting Information).
+</para>
+<para sub="scope">
+Under the optimized reaction conditions, we examined the
+scope and generality of various ynamides in this transformation
+(Table 2). Groups such as methyl and methoxy that are
+substituted in the aryl ring were tolerated and readily produced
+high yields of the corresponding 4-bromo-oxazolones (Table 2,
+entries 1−3). tert-Butyl N-phenyl-N-(naphthalen-2-ylethynyl)-
+carbamate 1d also worked well,
+leading to 4-bromo-5-
+(naphthalen-2-yl)-3-phenyl-3H-oxazol-2-one 2d in 68% yield
+(Table 2, entry 4). Ynamides with electron-withdrawing groups
+on the meta-positions of the N-aryl ring, such as F, Cl, Br, and
+CF3, generated the corresponding 4-bromo-oxazolones in 73−
+90% yields (Table 2, entries 5−8). On the other hand,
+ynamides with electron-donating groups, such as Me and MeO
+on the meta-positions of their N-aryl rings, gave the desired
+products in 91−94% yields (Table 2, entries 9 and 10).
+
+Meanwhile, the ortho-eﬀect was not obvious for methyl and
+bromo groups on the ortho-positions of the N-aryl ring in the
+reactions (Table 2, entries 11 and 12). Ynamide with methyl on
+the para-positions the N-aryl ring was also tolerated, leading to
+the desired product in 83% yield (Table 2, entry 13). However,
+ynamide with bromo on the para-positions of the N-aryl ring
+gave a lower yield compared with either the meta- or ortho-
+substituted product (Table 2, entry 14). Under
+the
+recommended reaction conditions, substrates possessing a 2-
+naphthyl group on the nitrogen atom (Table 2, entry 15)
+furnished the desired product in good yield. Furthermore,
+ynamides with a N-benzyl or N-butyl group also successfully
+produced the desired 4-bromo-oxazolones in moderate yields
+(Table 2, entries 16 and 17). Alkyl-substituted ynamides could
+also have moderate yield successfully under
+the reaction
+conditions, and the yield probably was not aﬀected by the
+length of the alkyl chain (Table 2, entries 18 and 19). Finally,
+the reaction of vinyl alkynyl-substituted substrate (E)-tert-butyl
+(2-bromophenyl)(4-phenylbut-3-en-1-yn-1-yl)carbamate (1t)
+with CuBr2 gave a good yield (Table 2, entry 20). The
+structures of 2a and 2m were further conﬁrmed via single-
+crystal X-ray diﬀraction (for more details, see the Supporting
+Information).
+</para>
+<para sub="scope">
+We also tested the Pd-catalyzed cyclizations of N-alkynyl tert-
+butyloxycarbamates 1 in the presence of CuCl2 (Table 2,
+entries 21−26). These reactions proceeded well
+to aﬀord
+chloro-containing oxazolones 3 in moderate to good yields. For
+example, a 74% yield of product 3a was obtained when 1a was
+employed in a reaction with CuCl2. Moreover, under the
+optimized reaction conditions, various
+substrates bearing
+groups on the ortho-, meta-, and para-positions of the N-aryl
+ring were converted (moderate to high yields) into the
+</para>
+3481
+
+DOI: 10.1021/acs.joc.5b00071
+J. Org. Chem. 2015, 80, 3480−3487
+
+The Journal of Organic Chemistry
+Table 2. Pd-Catalyzed Formation of 4-Bromo-oxazolonesa
+
+Table 3. Cyclizations of Ynamides Containing Various
+Leaving Groupsa
+
+Article
+
+R
+Ph (1a)
+p-MePh (1b)
+p-MeOPh (1c)
+2-naphthyl
+
+(1d)
+
+Ph
+
+entry
+1
+2
+3
+4b
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15b
+
+R1
+
+Ph
+
+m-FPh (1e)
+m-ClPh (1f)
+m-BrPh (1g)
+m-CF3Ph (1h)
+m-MePh (1i)
+m-MeOPh (1j)
+o-MePh (1k)
+o-BrPh (1l)
+p-MePh (1m)
+p-BrPh (1n)
+2-naphthyl
+
+(1o)
+
+X
+Br
+
+Br
+
+product
+
+2a
+2b
+2c
+2d
+
+2e
+2f
+2g
+2h
+2i
+2j
+2k
+2l
+2m
+2n
+2o
+
+isolated yield
+
+(%)
+84
+93
+85
+68
+
+73
+87
+90
+83
+94
+91
+94
+98
+83
+64
+74
+
+entry
+
+R2
+
+1
+2
+3
+4
+
+Et (1u)
+i-Pr (1v)
+t-Bu (1a)
+Bn (1w)
+
+time
+20 h
+20 h
+20 min
+20 min
+
+yield of 2ab (%)
+
+recovery of 1b (%)
+
+30
+34
+90
+65
+
+33
+39
+0
+0
+
+aReaction conditions: 1 (0.3 mmol), Pd(PPh3)4 (5.0 mol %), CuBr2
+(4.0 equiv), and K2CO3 (0.6 mmol) in DMF (2.0 mL) at 40 °C. bIt
+was determined by 1H NMR on the crude reaction mixture using
+1,3,5-trimethylbenzene as an internal standard.
+Scheme 2. Scale-up Experiment and Suzuki−Miyaura
+Coupling
+
+Br
+
+Br
+Cl
+
+Bn (1p)
+n-C4H9 (1q)
+Ph
+
+n-C4H9 (1r)
+n-C8H17 (1s)
+(E)-styryl (1t)
+Ph
+
+16
+17
+18
+19
+20
+21c
+22c
+23c
+24c
+25c
+26c
+aReaction conditions: 1 (0.3 mmol), Pd(PPh3)4 (5.0 mol %), CuX2
+(4.0 equiv), and K2CO3 (0.6 mmol) in DMF (2.0 mL) at 40 °C for 20
+min. bReaction time was 30 min. cReaction time was 40 min.
+
+o-BrPh
+Ph (1a)
+m-BrPh (1g)
+m-MeOPh (1j)
+o-BrPh (1l)
+p-BrPh (1n)
+Bn (1p)
+
+2p
+2q
+2r
+2s
+2t
+3a
+3g
+3j
+3l
+3n
+3p
+
+51
+53
+54
+49
+71
+74
+84
+88
+87
+65
+81
+<para sub="scope">
+corresponding 4-chloro-oxazolones. Ynamides in general give a
+relatively poor or similar yield in the presence of CuCl2
+compared with the CuBr2 conditions (Table 2, entries 21−
+25);
+tert-butyl N-benzyl-N-(phenylethynyl)-
+carbamate (1p) took part in the reaction readily and was
+transformed to the corresponding product in 81% yield.
+
+interestingly,
+
+i-Pr,
+</para>
+<para sub="scope">
+In Table 3, we then studied the eﬀect of varying leaving
+groups (e.g., Et,
+t-Bu, Bn) on the ester moiety. For
+ynamides containing leaving groups, such as Et and i-Pr,
+cyclization took place in poor yields. As reported,9 N-
+carbobenzyloxy (N-Cbz)-protected amines were great potential
+structures for the synthesis of cyclic carbamates, and N-Cbz-
+protected ynamide (1w) exhibited good reactivity to aﬀord 2a
+in satisfying yield.
+</para>
+<para sub="scope">
+To demonstrate the synthetic potential of this strategy, 1a
+(1.41 g, 5 mmol) was allowed to react under the optimized
+conditions. This reaction could be scaled up to 5 mmol in a
+high yield, and the Pd catalyst loading could be reduced to 3%
+mol with comparable eﬃciency (Scheme 2). We then
+attempted to introduce more groups into the oxazolone
+scaﬀold via Pd-catalyzed cross-coupling reactions. Thus, the
+Suzuki−Miyaura coupling reaction was investigated (Scheme 2,
+(i)). Product 2 easily underwent a Suzuki-coupling reaction by
+</para>
+<para sub="scope">
+To understand the mechanism of
+</para>
+<para sub="scope">
+treatment with arylboronic acids under toluene/EtOH/H2O
+conditions using Pd(PPh3)4 as the Pd catalyst (Scheme 2, (ii)).
+</para>
+<para sub="scope">
+the reaction, control
+experiments were conducted (Scheme 3). Compound 1a could
+not produce 4-chloro-3,5-diphenyl-3H-oxazol-2-one 3a in the
+absence of CuCl2 using 1.0 equiv of PdCl2(PPh3)2 as chlorine
+source, which revealed that C−X formation does not originate
+from the cleavage of the C−Pd bond.10 In contrast, the desired
+product was obtained in 41% yield in the presence of CuCl2. It
+is noteworthy that 1a also failed to produce the corresponding
+oxazolone 3a using the Pd(PPh3)4/CuCl system instead of the
+Pd(PPh3)4/CuCl2 system. These results revealed the important
+role of CuX2 in this cyclization system. Furthermore, the non-
+halo product 3,5-diphenyl-3H-oxazol-2-one 2a′ could not
+produce 3a under
+the recommended reaction conditions,
+which suggested that the formation of C−X bond might be
+followed by the intramolecular cyclization.
+</para>
+<para sub="scope">
+According to the experimental results and the reported
+literature, a proposed mechanism for this Pd(PPh3)4-catalyzed
+intramolecular cyclization of N-alkynyl alkyloxycarbamates is
+shown in Scheme 4. Pd(0) was ﬁrst converted to Pd(II) species
+in this reaction system.11 The activation of the triple bond in N-
+alkynyl alkyloxycarbamates 1 with Pd(II) produces
+the
+intermediate A.12 Nucleophilic attack of the bromo or chloro
+anion generates σ-vinylpalladium intermediate B,5e,11a,13 which
+transforms into the oxopalladium complex C coordinating with
+base.14 The resulting oxopalladium intermediate C has been
+suggested to undergo the reductive elimination to form the
+corresponding 4-halo-oxazolones and the Pd(0) species.15
+</para>
+3482
+
+DOI: 10.1021/acs.joc.5b00071
+J. Org. Chem. 2015, 80, 3480−3487
+
+The Journal of Organic Chemistry
+
+Scheme 3. Experiment for Mechanistic Study
+
+Article
+
+Scheme 4. Proposed Mechanism for this Cyclization
+
+■ CONCLUSIONS
+
+In summary, we have developed a novel and eﬃcient protocol
+for the synthesis of 4-halo-oxazolones by the halopalladation
+and carbon−oxygen-forming process.
+In the presence of
+Pd(PPh3)4 and CuX2 (X = Cl or Br), a variety of N-alkynyl
+alkyloxycarbamates underwent the reaction to aﬀord 4-halo-
+oxazolones in moderate to excellent yields. Moreover, a halogen
+at the 4-position of these products provides an attractive and
+useful route to introduce new groups for the synthesis of new
+bioactive products. Further
+studies on transition-metal-
+catalyzed C−C, C−N, and C−O bond formation of ynamides
+are being conducted in our laboratory and will be reported in
+due course.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Methods. All reactions were performed in reaction tubes
+under nitrogen atmosphere. 1H NMR and 13C NMR were recorded at,
+respectively, 400 and 100 MHz using CDCl3 as solvent. The following
+abbreviations are used to describe peak patterns where appropriate: b
+=broad, s = singlet, d = doublet, t = triplet, q = quartet, m = multiplet.
+Coupling constants are reported in hertz (Hz). Chemical shifts are
+reported in ppm relative to the internal standard tetramethylsilane (δ
+= 0 ppm) for 1H NMR and deuteriochloroform (δ = 77.00 ppm) for
+13C NMR. High-resolution mass spectra (HRMS) were recorded on
+an ESI-TOF (time-of-ﬂight) mass spectrometer. Melting points were
+measured with a micro melting point apparatus.
+
+Ynamide Synthesis: Typical Procedure I. Compounds were
+synthesized according to a literature procedure.3a To a mixture of
+·5H2O (0.8 mmol),
+carbamates (8.0 mmol), K3PO4 (16 mmol), CuSO4
+and 1,10-phenanthroline (1.6 mmol) in a reaction vial was added a
+solution of bromoalkyne16 (8.8 mmol) in toluene (15 mL). The
+reaction mixture was capped and heated in an oil bath at 85 °C for 18
+h while being monitored by TLC. Upon completion, the reaction
+mixture was cooled to room temperature, diluted with EtOAc, and
+ﬁltered through Celite, and the ﬁltrate was concentrated in vacuum.
+The crude products were puriﬁed by silica gel ﬂash chromatography
+on a silica gel column with petroleum ether (PE) and ethyl acetate
+(EA) as eluent to aﬀord directing products.
+tert-Butyl N-(phenylethynyl)-N-(p-tolyl)carbamate (1b): yield 68%
+(1.66 g); white solid; mp 71−72 °C (n-hexane/ethyl acetate); Rf 0.20
+(vPE/vEA = 50:1); 1H NMR δ 7.55−7.50 (m, 2 H), 7.42−7.35 (m, 2
+H), 7.30 (d, J = 8.4 Hz, 2 H), 7.27−7.22 (m, 1 H), 7.10 (d, J = 8.0 Hz,
+2 H), 2.33 (s, 3 H), 1.56 (s, 9H); 13C NMR δ 153.0, 139.8, 137.4,
+130.9, 129.0, 128.7, 126.5, 124.6, 120.2, 83.4, 82.9, 70.0, 28.0, 21.4; IR
+ν (KBr, cm−1) 2991, 1732, 1643, 1617, 1491, 1397, 1364, 1287, 1254,
+1150, 1004, 820, 769; MS (ESI) m/z 330.0(100) [M + Na]+. Anal.
+Calcd for C20H21NO2: C, 78.15; H, 6.89; N, 4.56. Found: C, 78.06; H,
+7.34; N, 4.61.
+
+tert-Butyl N-((4-methoxyphenyl)ethynyl)-N-(phenyl)carbamate
+(1c): yield 67% (1.73 g); yellow oil; Rf 0.20 (vPE/vEA = 50:1); 1H
+NMR δ 7.44 (dd, J1 = 1.2 Hz, J2 = 8.8 Hz, 2 H), 7.32−7.24 (m, 4 H),
+7.15 (t, J = 7.6 Hz, 1 H), 6.74 (d, J = 8.8 Hz, 2 H), 3.69 (s, 3 H), 1.47
+(s, 9H); 13C NMR δ 158.0, 152.0, 138.8, 131.6, 127.7, 125.4, 123.6,
+114.2, 112.8, 82.3, 81.1, 68.6, 54.2, 26.9; IR ν (KBr, cm−1) 2977, 1731,
+1602, 1511, 1364, 1288, 1249, 1155, 1031, 831, 762; MS (ESI) m/z
+346.1(100) [M + Na]+; HRMS (ESI-TOF) m/z calcd for C20H21NO3
+[M + Na]+ 346.1403, found 346.1409.
+
+tert-Butyl N-(naphthalen-2-ylethynyl)-N-(phenyl)carbamate (1d):
+yield 45% (1.21 g); yellow oil; Rf 0.20 (vPE/vEA = 40:1); 1H NMR δ
+7.82 (s, 1 H), 7.72−7.65 (m, 3 H), 7.51−7.46 (m, 2 H), 7.41−7.31
+(m, 5 H), 7.23−7.17 (m, 1 H), 1.51 (s, 9H); 13C NMR δ 151.9, 138.6,
+132.1, 131.3, 129.1, 127.8, 127.1, 126.8, 126.7, 126.5, 125.7, 125.4,
+125.2, 123.7, 119.7, 82.6, 69.5, 27.0; IR ν (KBr, cm−1) 1770, 1623,
+1497, 1378, 1228, 1173, 1056, 1008, 977, 750, 694; MS (ESI) m/z
+366.2 (100) [M + Na]+; HRMS (ESI-TOF) m/z calcd for C23H21NO2
+[M + Na]+ 366.1470, found 366.1482.
+tert-Butyl N-(3-methoxyphenyl)-N-(phenylethynyl)carbamate
+(1j): yield 74% (1.88 g); white solid; mp 57−58 °C (n-hexane/ethyl
+acetate); Rf 0.20 (vPE/vEA = 50:1); 1H NMR δ 7.42−7.37 (m, 2 H),
+7.32−7.29 (m, 4 H), 7.16−7.09 (m, 2 H), 6.81 (dd, J1 = 2.0 Hz, J2 =
+8.0 Hz, 1 H), 3.82 (s, 3 H), 1.57 (s, 9H); 13C NMR δ 159.9, 152.8,
+140.7, 130.8, 129.4, 128.2, 127.4, 123.4, 117.0, 112.3, 110.6, 83.5, 70.3,
+55.4, 28.0; IR ν (KBr, cm−1) 2977, 2934, 1731, 1602, 1511, 1364,
+1288. 1249, 1155, 1031, 831, 762; MS (ESI) m/z 346.1 (100) [M +
+</para>
+3483
+
+DOI: 10.1021/acs.joc.5b00071
+J. Org. Chem. 2015, 80, 3480−3487
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+Na]+. Anal. Calcd for C20H21NO3: C, 74.28; H, 6.55; N, 4.33. Found:
+C, 74.36; H, 6.80; N, 4.17.
+Ethyl N-phenyl-N-(phenyl-ethynyl)carbamate (1u):17 yield 76%
+(1.62 g); yellow oil; Rf 0.20 (vPE/vEA = 20:1); 1H NMR δ 7.57−7.52
+(m, 2 H), 7.45−7.38 (m, 4 H), 7.33−7.25 (m, 4 H), 4.35 (q, J = 7.2
+Hz, 2 H), 1.38 (t, J = 7.2 Hz, 3 H); 13C NMR δ 154.3, 139.5, 131.2,
+128.9, 128.2, 127.7, 126.9, 124.6, 123.0, 83.0, 70.1, 63.7, 14.3.
+Isopropyl N-phenyl-N-(phenylethynyl)carbamate (1v): yield 59%
+(1.30 g); yellow oil; Rf 0.20 (vPE/vEA = 20:1); 1H NMR δ 7.57−7.52
+(m, 2 H), 7.43−7.37 (m, 4 H), 7.33−7.26 (m, 4 H), 5.08 (m, 1 H),
+1.37 (d, J = 6.4 Hz, 3 H); 13C NMR δ 153.8, 139.6, 131.1, 128.9,
+128.2, 127.5, 126.7, 124.6, 123.2, 83.2, 71.9, 70.1, 21.9; HRMS (ESI-
+TOF) m/z calcd for C18H17NO2 [M + Na]+ 302.1157,
+found
+302.1163.
+Benzyl N-phenyl-N-(phenylethynyl)carbamate (1w): yield 29%
+(0.76 g); yellow oil; Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.57−7.53
+(m, 2 H), 7.46−7.33 (m, 9 H), 7.32−7.26 (m, 4 H), 5.33 (s, 2 H); 13C
+NMR δ 154.1, 139.4, 135.4, 131.2, 129.0, 128.6, 128.3, 128.2, 127.9,
+127.7, 127.0, 124.6, 122.9, 82.8, 70.4, 68.9; HRMS (ESI-TOF) m/z
+calcd for C22H17NO2 [M + Na]+ 350.1157, found 350.1169.
+
+General Procedure for Pd-Catalyzed Synthesis of 4-Halo-
+oxazolones in the Presence of CuX2: Typical Procedure II.
+Ynamides 1 (0.3 mmol), Pd(PPh3)4 (0.015 mmol), CuX2 (1.2 mmol),
+K2CO3 (0.6 mmol), and DMF (2.0 mL) were placed into a 10 mL
+Schlenk tube, and then the temperature was increased to 40 °C. The
+solution was stirred under an N2 atmosphere for 20 min and
+monitored by TLC. After being cooled to room temperature, the
+reaction mixture was quenched with ethyl acetate (15 mL) and washed
+with water (30 mL). The aqueous phase was extracted twice with
+EtOAc (3 × 10 mL), and the combined organic layer was dried over
+anhydrous Na2SO4. After evaporation of the solvents under vacuum,
+the crude products were puriﬁed by ﬂash chromatography on a silica
+gel column with petroleum ether (PE) and ethyl acetate (EA) as the
+eluent to aﬀord the desired product.
+4-Bromo-3,5-diphenyl-3H-oxazol-2-one (2a): yield 84% (80.3
+mg); white solid; mp 160−161 °C (n-hexane/ethyl acetate); Rf 0.20
+(vPE/vEA = 15:1); 1H NMR δ 7.88−7.83 (m, 2 H), 7.56−7.35 (m, 8
+H); 13C NMR δ 152.1, 136.7, 132.8, 129.4, 129.2, 128.8, 128.7, 127.7,
+126.5, 124.9, 97.7; IR ν (KBr, cm−1) 3062, 1745, 1498, 1379, 1223,
+1058, 966, 756, 690; MS (ESI) m/z 338.0 (100) [M + Na]+. Anal.
+Calcd for C15H10BrNO2: C, 56.99; H, 3.19; N, 4.43. Found: C, 57.00;
+H, 3.32; N, 4.15.
+3,5-Diphenyl-3H-oxazol-2-one (2a′):1 1H NMR δ 7.62 (d, J = 7.6
+Hz, 2 H), 7.56 (d, J = 7.2 Hz, 2 H), 7.47 (t, J = 7.6 Hz, 2 H), 7.42 (t, J
+= 7.2 Hz, 2 H), 7.36−7.28 (m, 2 H), 7.17 (s, 1 H); 13C NMR δ 152.6,
+139.9, 135.5, 129.5, 128.9, 128.6, 127.0, 126.6, 123.2, 121.0, 108.4;
+4-Bromo-3-phenyl-5-(p-tolyl)-3H-oxazol-2-one (2b): yield 93%
+(91.8 mg); white solid; mp 170−171 °C (n-hexane/ethyl acetate);
+Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.74 (d, J = 8.4 Hz, 2 H), 7.56−
+7.38 (m, 5 H), 7.26 (d, J = 8.4 Hz, 2 H), 2.39 (s, 3 H); 13C NMR δ
+152.2, 139.0, 137.0, 132.9, 129.39, 129.37, 129.1, 127.7, 124.9, 123.7,
+96.9, 21.4; IR ν (KBr, cm−1) 3056, 1763, 1621, 1496, 1376, 1229,
+1060, 1008, 966, 813, 696; MS (ESI) m/z 352.0 (100) [M + Na]+.
+Anal. Calcd for C16H12BrNO2: C, 58.20; H, 3.66; N, 4.24. Found: C,
+58.16; H, 3.76; N, 4.03.
+4-Bromo-5-(4-methoxyphenyl)-3-phenyl-3H-oxazol-2-one (2c):
+yield 85% (88.6 mg); white solid; mp 159−160 °C (n-hexane/ethyl
+acetate); Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.79 (d, J = 9.2 Hz, 2
+H), 7.55−7.44 (m, 3 H), 7.43−7.38 (m, 2 H), 6.98 (d, J = 9.2 Hz, 2
+H), 3.86 (s, 3 H); 13C NMR δ 160.0, 152.2, 136.9, 133.0, 129.4, 129.1,
+127.7, 126.6, 119.1, 114.2, 95.9, 55.4; IR ν (KBr, cm−1) 3066, 1774,
+1598, 1504, 1369, 1254, 1220, 1177, 1063, 1018, 964, 862, 701; MS
+(ESI) m/z 368.0 (100) [M + Na]+. Anal. Calcd for C16H12BrNO3: C,
+55.51; H, 3.49; N, 4.05. Found: C, 55.67; H, 3.60; N, 3.80.
+4-Bromo-5-(naphthalen-2-yl)-3-phenyl-3H-oxazol-2-one (2d):
+yield 68% (74.0 mg); white solid; mp 178−180 °C (n-hexane/ethyl
+acetate); Rf 0.20 (vPE/vEA = 10:1); 1H NMR δ 8.32 (s, 1 H), 7.99 (dd,
+J1= 1.6 Hz, J2 = 8.4 Hz, 1 H), 7.92−7.82 (m, 3 H), 7.57−7.42 (m, 7
+H); 13C NMR δ 152.2, 136.9, 133.0, 132.9, 132.8, 129.4, 129.3, 128.5,
+128.4, 127.8, 127.7, 126.9, 126.8, 124.6, 123.8, 122.0, 98.1; IR ν (KBr,
+</para>
+Article
+<para sub=“exp”>
+cm−1) 1737, 1690, 1617, 1530, 1496, 1395, 1302, 1251, 1152, 818,
+747; MS (ESI) m/z 388.1 (100) [M + Na]+. Anal. Calcd for
+C19H12BrNO2: C, 62.32; H, 3.30; N, 3.82. Found: C, 62.41; H, 3.47;
+N, 3.57.
+4-Bromo-3-(3-ﬂuorophenyl)-5-phenyl-3H-oxazol-2-one (2e):
+yield 73% (73.6 mg); white solid; mp 169−170 °C (n-hexane/ethyl
+acetate); Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.87−7.83 (m, 2 H),
+7.55−7.35 (m, 4 H), 7.26−7.16 (m, 3 H); 13C NMR δ 162.6 (d),
+151.8, 137.1, 134.0 (d), 130.6 (d), 129.0, 128.8, 126.3, 125.0, 123.5
+(d), 116.4 (d), 115.3 (d), 97.1; IR ν (KBr, cm−1) 1749, 1638, 1615,
+1389, 1237, 1063, 1021, 983, 760, 682; MS (ESI) m/z 356.0 (100) [M
++ Na]+. Anal. Calcd for C15H9BrFNO2: C, 53.92; H, 2.71; N, 4.19.
+Found: C, 53.92; H, 2.67; N, 4.08.
+4-Bromo-3-(3-chlorophenyl)-5-phenyl-3H-oxazol-2-one (2f):
+yield 87% (91.8 mg); white solid; mp 156−157 °C (n-hexane/ethyl
+acetate); Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.85 (d, J = 7.6 Hz, 2
+H), 7.50−7.43 (m, 5 H), 7.42−7.30 (m, 2 H); 13C NMR δ 151.8,
+137.1, 135.0, 133.8, 130.3, 129.5, 129.0, 128.8, 128.0, 126.3, 125.9,
+125.0, 97.1; IR ν (KBr, cm−1) 3077, 1747, 1640, 1591, 1483, 1380,
+1226, 1060, 976, 757,691; MS (ESI) m/z 372.0 (100) [M + Na]+.
+Anal. Calcd for C15H9BrClNO2: C, 51.39; H, 2.59; N, 4.00. Found: C,
+51.43; H, 2.53; N, 3.67.
+4-Bromo-3-(3-bromophenyl)-5-phenyl-3H-oxazol-2-one (2g):
+yield 90% (109.7 mg); white solid; mp 142−143 °C (n-hexane/
+ethyl acetate); Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.85 (d, J = 7.2 Hz,
+2 H), 7.63−7.59 (m, 2 H), 7.50−7.35 (m, 5 H); 13C NMR δ 151.8,
+137.1, 133.9, 132.4, 130.8, 130.6, 129.0, 128.8, 126.4, 126.2, 125.0,
+122.7, 97.1; IR ν (KBr, cm−1) 3059, 1750, 1658, 1595, 1501, 1397,
+1214, 1133, 1052, 1023, 980, 733, 689; MS (ESI) m/z 416.0 (48) [M
++ Na]+. Anal. Calcd for C15H9Br2NO2: C, 45.61; H, 2.30; N, 3.55.
+Found: C, 45.75; H, 2.33; N, 3.38.
+4-Bromo-5-phenyl-3-(3-(triﬂuoromethyl)phenyl)-3H-oxazol-2-
+one (2h): yield 83% (95.7 mg); white solid; mp 136−137 °C (n-
+hexane/ethyl acetate); Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.88−7.83
+(m, 2 H), 7.76−7.62 (m, 4 H), 7.50−7.38 (m, 3 H); 13C NMR δ
+151.8, 137.4, 133.4, 132.1 (q), 131.0, 130.1, 129.2, 128.8, 126.2, 125.9
+(q), 125.1, 124.8 (q), 122.0, 96.8; IR ν (KBr, cm−1) 3065, 1756, 1641,
+1453, 1392, 1324, 1179,1121,749, 687; MS (ESI) m/z 406.0 (100) [M
++ Na]+. Anal. Calcd for C16H9BrF3NO2: C, 50.03; H, 2.36; N, 3.65.
+Found: C, 50.22; H, 2.52; N, 3.25.
+4-Bromo-5-phenyl-3-(m-tolyl)-3H-oxazol-2-one (2i): yield 94%
+(93.8 mg); white solid; mp 123−124 °C (n-hexane/ethyl acetate);
+Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.86 (d, J = 7.6 Hz, 2 H), 7.48−
+7.34 (m, 4 H), 7.28 (d, J = 7.6 Hz, 1 H), 7.24−7.17 (m, 2 H), 2.43 (s,
+3 H); 13C NMR δ 152.2, 139.6, 136.6, 132.7, 130.1, 129.2, 128.8,
+128.7, 128.3, 126.6, 124.9, 124.8, 97.9, 21.3; IR ν (KBr, cm−1) 3057,
+1747, 1637, 1611, 1490, 1446, 1379, 1228, 1059, 1026, 976, 738, 692;
+MS (ESI) m/z 352.1 (100) [M + Na]+. Anal. Calcd for C16H12BrNO2:
+C, 58.20; H, 3.66; N, 4.24. Found: C, 58.34; H, 3.35; N, 4.05.
+4-Bromo-3-(3-methoxyphenyl)-5-phenyl-3H-oxazol-2-one (2j):
+yield 91% (93.2 mg); white solid; mp 131−132 °C (n-hexane/ethyl
+acetate); Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.86 (d, J = 7.2 Hz, 2
+H), 7.47−7.35 (m, 4 H), 7.04−6.97 (m, 2 H), 6.94 (t, J = 2.0 Hz, 1
+H), 3.85 (s, 3 H); 13C NMR δ 160.3, 152.1, 136.7, 133.8, 130.1, 128.8,
+128.7, 126.5, 124.9, 119.9, 115.2, 113.5, 97.7, 55.5; IR ν (KBr, cm−1)
+3074, 1746, 1598, 1493, 1380, 1255, 1226, 1036, 982, 783, 681; MS
+(ESI) m/z 368.0 (100) [M + Na]+. Anal. Calcd for C16H12BrNO3: C,
+55.51; H, 3.49; N, 4.05. Found: C, 55.55; H, 3.52; N, 3.88.
+4-Bromo-5-phenyl-3-(o-tolyl)-3H-oxazol-2-one (2k): yield 94%
+(95.0 mg); white solid; mp 97−98 °C (n-hexane/ethyl acetate); Rf
+0.20 (vPE/vEA = 15:1); 1H NMR δ 7.87 (d, J = 7.6 Hz, 2 H), 7.48−7.31
+(m, 6 H), 7.26 (d, J = 6.4 Hz, 1 H), 2.29 (s, 3 H); 13C NMR δ 151.7,
+137.3, 136.6, 131.7, 131.3, 130.2, 129.2, 128.7, 127.1, 126.6, 124.7,
+98.4, 17.6; IR ν (KBr, cm−1) 3071, 1771, 1624, 1491, 1367, 1233,
+1057, 1000, 960, 764, 679; MS (ESI) m/z 368.0 (100) [M + Na]+.
+Anal. Calcd for C16H12BrNO2: C, 58.20; H, 3.66; N, 4.24. Found: C,
+58.01; H, 3.54; N, 4.19.
+4-Bromo-3-(2-bromophenyl)-5-phenyl-3H-oxazol-2-one (2l):
+yield 98% (116.8 mg); white solid; mp 129−130 °C (n-hexane/
+ethyl acetate); Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.89−7.86 (m, 2
+</para>
+3484
+
+DOI: 10.1021/acs.joc.5b00071
+J. Org. Chem. 2015, 80, 3480−3487
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+H), 7.78 (dd, J1 = 1.2 Hz, J2 = 8.0 Hz, 1 H), 7.53−7.36 (m, 6 H); 13C
+NMR δ 151.4, 136.8, 133.8, 132.2, 131.7, 131.3, 128.8, 128.7, 128.6,
+126.5, 124.8, 124.3, 98.0; IR ν (KBr, cm−1) 3088, 1750, 1711, 1623,
+1478, 1379, 1230, 1189, 1051, 966, 762,677; MS (ESI) m/z 416.0 (48)
+[M + Na]+. Anal. Calcd for C15H9Br2NO2: C, 45.61; H, 2.30; N, 3.55.
+Found: C, 45.76; H, 2.22; N, 3.28.
+4-Bromo-5-phenyl-3-(p-tolyl)-3H-oxazol-2-one (2m): yield 83%
+(82.1 mg); white solid; mp 145−146 °C (n-hexane/ethyl acetate); Rf
+0.20 (vPE/vEA = 15:1); 1H NMR δ 7.85 (d, J = 7.2 Hz, 2 H), 7.44 (t, J =
+7.2 Hz, 2 H), 7.40−7.25 (m, 5 H), 2.42 (s, 3 H); 13C NMR δ 152.3,
+139.5, 136.5, 130.2, 130.1, 128.7, 128.6, 127.6, 126.6, 124.9, 98.1, 21.2;
+IR ν (KBr, cm−1) 3039, 1768, 1619, 1512, 1447, 1371, 1228, 1167,
+1058, 1000, 963, 748, 683; MS (ESI) m/z 352.1 (100) [M + Na]+.
+Anal. Calcd for C16H12BrNO2: C, 58.20; H, 3.66; N, 4.24. Found: C,
+58.32; H, 3.32; N, 3.91.
+4-Bromo-3-(4-bromophenyl)-5-phenyl-3H-oxazol-2-one (2n):
+yield 64% (80.3 mg); white solid; mp 200−201 °C (n-hexane/ethyl
+acetate); Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.85 (d, J = 7.2 Hz, 2
+H), 7.66 (d, J = 8.8 Hz, 2 H), 7.46 (t, J = 6.4 Hz, 2H), 7.42−7.36 (m, 1
+H), 7.31 (d, J = 6.4 Hz, 2 H); 13C NMR δ 151.8, 137.1, 132.7, 131.8,
+129.2, 129.0, 128.8, 126.3, 125.0, 123.3, 97.2; IR ν (KBr, cm−1) 3089,
+1768, 1485, 1374, 1221, 1061, 1003, 963, 764, 681; MS (ESI) m/z
+416.0 (52) [M + Na]+. Anal. Calcd for C15H9Br2NO2: C, 45.61; H,
+2.30; N, 3.55. Found: C, 45.97; H, 2.33; N, 3.39.
+4-Bromo-3-(naphthalen-2-yl)-5-phenyl-3H-oxazol-2-one (2o):
+yield 74% (79.6 mg); white solid; mp 170−171 °C (n-hexane/ethyl
+acetate); Rf 0.20 (vPE/vEA = 10:1); 1H NMR δ 8.03 (d, J = 8.0 Hz, 1
+H), 7.99−7.95 (m, 1 H), 7.94−7.90 (m, 2 H), 7.75−7.70 (m, 1 H),
+7.64−7.54 (m, 4 H), 7.48 (t, J = 7.2 Hz, 2 H), 7.43−7.37 (m, 1 H);
+13C NMR δ 152.3, 136.8, 134.4, 130.7, 130.5, 129.1, 128.8, 128.7,
+128.6, 127.8, 127.7, 127.0, 126.6, 125.3, 124.8, 122.1, 99.2; IR ν (KBr,
+cm−1) 3062, 1769, 1625, 1404, 1236, 1052, 988, 772, 677; MS (ESI)
+m/z 388.1 (100) [M + Na]+. Anal. Calcd for C19H12BrNO2: C, 62.32;
+H, 3.30; N, 3.82. Found: C, 62.71; H, 3.35; N, 3.99.
+3-Benzyl-4-bromo-5-phenyl-3H-oxazol-2-one (2p): yield 51%
+(51.5 mg); white solid; mp 122−123 °C (n-hexane/ethyl acetate);
+Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.77 (d, J = 7.2 Hz, 2 H), 7.45−
+7.29 (m, 8 H), 4.91 (s, 2 H); 13C NMR δ 153.3, 136.0, 135.3, 128.9,
+128.64, 128.59, 128.2, 127.8, 126.6, 124.7, 97.3, 46.7; IR ν (KBr, cm−1)
+3058, 1758, 1618, 1362, 1184, 1055, 997, 767, 711; MS (ESI) m/z
+352.9 (100) [M + Na]+. Anal. Calcd for C16H12BrNO2: C, 58.20; H,
+3.66; N, 4.24. Found: C, 58.32; H, 3.48; N, 4.17.
+
+4-Bromo-3-butyl-5-phenyl-3H-oxazol-2-one (2q): yield 53% (46.7
+mg); colorless oil; Rf 0.20 (vPE/vEA = 40:1); 1H NMR δ 7.78 (d, J = 7.6
+Hz, 2 H), 7.42 (t, J = 7.2 Hz, 2 H), 7.33 (t, J = 7.6 Hz, 1 H), 3.71 (t, J
+= 7.3 Hz, 2 H), 1.79−1.68 (m, 2 H), 1.49−1.38 (m, 2 H), 0.98 (t, J =
+7.2 Hz, 3 H); 13C NMR δ 153.0, 135.7, 128.6, 128.4, 126.7, 124.6,
+97.4, 43.1, 30.8, 19.7, 13.6; IR ν (KBr, cm−1) 2958, 1767, 1628, 1446,
+1358, 1196, 1101, 1051,1027, 984, 749, 695; MS (ESI) m/z 318.1
+(100) [M + Na]+; HRMS (ESI-TOF) m/z calcd for C13H14BrNO2 [M
++ Na]+ 318.0106, found 318.0113.
+4-Bromo-5-butyl-3-phenyl-3H-oxazol-2-one (2r): yield 54% (47.2
+mg); white solid; mp 83−85 °C (n-hexane/ethyl acetate); Rf 0.20
+(vPE/vEA = 30:1); 1H NMR δ 7.51−7.45 (m, 2 H), 7.44−7.39 (m, 1
+H), 7.38−7.33 (m, 2 H), 2.51 (t, J = 7.2 Hz, 2 H), 1.69−1.60 (m, 2
+H), 1.46−1.35 (m, 2 H), 0.96 (t, J = 7.2 Hz, 3 H); 13C NMR δ 153.0,
+139.6, 133.2, 129.2, 128.7, 127.2, 97.7, 28.8, 24.7, 21.9, 13.6; IR ν
+(KBr, cm−1) 2958, 1747, 1665, 1616, 1378, 1222, 1156, 984, 761, 696;
+MS (ESI) m/z 318.1 (100) [M + Na]+. Anal. Calcd for C13H14BrNO2:
+C, 52.72; H, 4.76; N, 4.73. Found: C, 52.37; H, 4.89; N, 4.57.
+4-Bromo-5-octyl-3-phenyl-3H-oxazol-2-one (2s): yield 49% (52.5
+mg); white solid; mp 59−60 °C (n-hexane/ethyl acetate); Rf 0.20
+(vPE/vEA = 40:1); 1H NMR δ 7.51−7.45 (m, 2 H), 7.44−7.39 (m, 1
+H), 7.38−7.33 (m, 2 H), 2.51 (t, J = 7.2 Hz, 2 H), 1.70−1.61 (m, 2
+H), 1.41−1.26 (m, 10 H), 0.89 (t, J = 6.8 Hz, 3 H); 13C NMR δ 153.0,
+139.7, 133.2, 129.2, 128.7, 127.2, 97.6, 31.8, 29.7, 29.1, 28.8, 26.8, 25.0,
+22.6, 14.1; IR ν (KBr, cm−1) 2958, 1747, 1665, 1616, 1378, 1222,
+1156, 984, 761, 696; MS (ESI) m/z 374.0 (100) [M + Na]+. Anal.
+Calcd for C17H22BrNO2: C, 57.96; H, 6.29; N, 3.98. Found: C, 57.88;
+H, 6.43; N, 3.67.
+</para>
+Article
+<para sub=“exp”>
+(E)-4-Bromo-3-(2-bromophenyl)-5-styryl-3H-oxazol-2-one (2t):
+yield 71% (89.8 mg); white solid; mp 149−150 °C (n-hexane/ethyl
+acetate); Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.76 (d, J = 8.0 Hz, 1
+H), 7.52−7.46 (m, 3 H), 7.43−7.35 (m, 4 H), 7.30 (t, J = 7.2 Hz, 1
+H), 7.07 (d, J = 16.0 Hz, 1 H), 6.68 (d, J = 16.4 Hz, 1 H); 13C NMR δ
+151.2, 137.7, 135.9, 133.8, 132.1, 131.7, 131.0, 130.2, 128.8, 128.6,
+128.5, 126.7, 124.0, 110.4, 100.2; IR ν (KBr, cm−1) 2924, 1761, 1481,
+1446, 1379, 1162, 1234, 1055, 991, 955, 751; MS (ESI) m/z 441.9
+(56) [M + Na]+. Anal. Calcd for C17H11Br2NO2: C, 48.49; H, 2.63; N,
+3.33. Found: C, 48.71; H, 2.48; N, 3.57.
+4-Chloro-3,5-diphenyl-3H-oxazol-2-one (3a): yield 74% (59.4
+mg); white solid; mp 139−140 °C (n-hexane/ethyl acetate); Rf 0.20
+(vPE/vEA = 15:1); 1H NMR δ 7.80 (d, J = 7.2 Hz, 2 H), 7.53 (t, J = 7.2
+Hz, 2 H), 7.50−7.41 (m, 5 H), 7.37 (t, J = 7.6 Hz, 1 H); 13C NMR δ
+151.5, 134.4, 131.9, 129.5, 129.1, 128.8, 128.7, 127.3, 126.2, 124.6,
+111.2; IR ν (KBr, cm−1) 3081, 1774, 1637, 1383, 1242, 1063, 1018,
+975, 761, 695; MS (ESI) m/z 294.0 (100) [M + Na]+. Anal. Calcd for
+C15H10ClNO2: C, 66.31; H, 3.71; N, 5.16. Found: C, 66.01; H, 3.86;
+N, 4.95.
+3-(3-Bromophenyl)-4-chloro-5-phenyl-3H-oxazol-2-one (3g):
+yield 84% (87.8 mg); white solid; mp 132−133 °C (n-hexane/ethyl
+acetate); Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.79 (d, J = 7.6 Hz, 2
+H), 7.63−7.58 (m, 2 H), 7.46 (t, J = 7.2 Hz, 2 H), 7.43−7.35 (m, 3
+H); 13C NMR δ 151.1, 134.8, 133.1, 132.3, 130.6, 130.3, 128.9, 128.8,
+125.95, 125.90, 124.7, 122.7, 110.7; IR ν (KBr, cm−1) 3063, 1764,
+1637, 1577, 1477, 1375, 1228, 1182, 1066, 1023, 995, 733, 676; MS
+(ESI) m/z 372.0 (75) [M + Na]+. Anal. Calcd for C15H9BrClNO2: C,
+51.39; H, 2.59; N, 4.00. Found: C, 51.40; H, 2.50; N, 3.87.
+4-Chloro-3-(3-methoxyphenyl)-5-phenyl-3H-oxazol-2-one (3j):
+yield 88% (78.1 mg); white solid; mp 94−95 °C (n-hexane/ethyl
+acetate); Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.80 (d, J = 7.6 Hz, 2
+H), 7.48−7.40 (m, 3 H), 7.37 (t, J = 7.6 Hz, 1 H), 7.01 (dd, J1 = 2.0
+Hz, J2 = 8.0 Hz, 2 H), 6.96 (t, J = 2.0 Hz, 1 H), 3.85 (s, 3 H); 13C
+NMR δ 160.3, 151.4, 134.4, 132.8, 130.1, 128.8, 128.6, 126.2, 124.6,
+119.5, 115.0, 113.0, 111.2, 55.5; IR ν (KBr, cm−1) 2956, 1763, 1634,
+1498, 1473, 1380, 1251, 1218, 1041, 987, 778, 695; MS (ESI) m/z
+324.1 (100) [M + Na]+. Anal. Calcd for C16H12ClNO3: C, 63.69; H,
+4.01; N, 4.64. Found: C, 63.50; H, 4.25; N, 4.61.
+3-(2-Bromophenyl)-4-chloro-5-phenyl-3H-oxazol-2-one (3l): yield
+87% (94.2 mg); white solid; mp 108−109 °C (n-hexane/ethyl
+acetate); Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.81 (d, J = 7.2 Hz, 2
+H), 7.77 (dd, J1 = 1.2 Hz, J2 = 8.0 Hz, 1 H), 7.59−7.34 (m, 6 H); 13C
+NMR δ 150.7, 134.6, 133.9, 131.7, 131.2, 131.1, 128.8, 128.7, 126.2,
+124.5, 124.1, 111.6; IR ν (KBr, cm−1) 3062, 1772, 1645, 1478, 1445,
+1373, 1244, 1183, 1054, 1015, 974, 775, 733; MS (ESI) m/z 372.0
+(78) [M + Na]+. Anal. Calcd for C15H9BrClNO2: C, 51.39; H, 2.59; N,
+4.00. Found: C, 51.51; H, 2.55; N, 3.88.
+3-(4-Bromophenyl)-4-chloro-5-phenyl-3H-oxazol-2-one (3n):
+yield 65% (68.3 mg); white solid; mp 183−184 °C (n-hexane/ethyl
+acetate); Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.78 (d, J = 7.2 Hz, 2
+H), 7.66 (d, J = 6.8 Hz, 2 H), 7.46 (t, J = 7.2 Hz, 2 H), 7.41−7.35 (m,
+1 H), 7.32 (d, J = 6.8 Hz, 2 H); 13C NMR δ 151.2, 134.8, 132.7, 130.9,
+128.85, 128.83, 128.7, 126.0, 124.6, 123.1, 110.7; IR ν (KBr, cm−1)
+3067, 1705, 1515, 1314,1224, 1062, 1008, 948, 745, 687; MS (ESI) m/
+z 372.0 (76) [M + Na]+. Anal. Calcd for C15H9BrClNO2: C, 51.39; H,
+2.59; N, 4.00. Found: C, 51.09; H, 2.50; N, 3.93.
+3-Benzyl-4-chloro-5-phenyl-3H-oxazol-2-one (3p): yield 81%
+(70.6 mg); white solid; mp 126−127 °C (n-hexane/ethyl acetate);
+Rf 0.20 (vPE/vEA = 15:1); 1H NMR δ 7.70 (d, J = 7.2 Hz, 2 H), 7.48−
+7.29 (m, 8 H), 4.89 (s, 2 H); 13C NMR δ 152.6, 135.1, 133.8, 128.9,
+128.7, 128.4, 128.3, 127.8, 126.3, 124.3, 110.9, 45.7; IR ν (KBr, cm−1)
+3062, 1757, 1642, 1491, 1439, 1382, 1341, 1184, 1056, 1018, 931, 704,
+685; MS (ESI) m/z 308.1 (100) [M + Na]+. Anal. Calcd for
+C16H12ClNO2: C, 67.26; H, 4.23; N, 4.90. Found: C, 67.41; H, 4.16;
+N, 4.72.
+
+Large-Scale Reaction of Ynamide 1a. The reaction of 1a (1.41g,
+5.0 mmol), Pd(PPh3)4 (0.15 mmol), CuBr2 (20 mmol), K2CO3 (10
+mmol), and DMF (30 mL) was carried out at 40 °C under N2
+atmosphere for 1 h, and the progress of the reaction was monitored by
+TLC analysis. After cooling to room temperature, the reaction mixture
+</para>
+3485
+
+DOI: 10.1021/acs.joc.5b00071
+J. Org. Chem. 2015, 80, 3480−3487
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+was quenched with ethyl acetate (30 mL) and washed with water (30
+mL). The aqueous phase was extracted twice with EtOAc (3 × 20
+mL), and the combined organic layer was dried over anhydrous
+Na2SO4. Filtration and concentration gave the crude product, which
+was puriﬁed by chromatography on silica gel (PE/EtOAc, 12:1) to
+aﬀord 2a (1.31 g, 86% yield) as a white solid.
+General Procedure for Suzuki−Miyaura Coupling of 4-
+Bromo-oxazolones with Arylboronic Acids: Typical Procedure
+III. Pd(PPh3)4 (5.0 mol %), 4-bromo-oxazolones 2 (0.3 mmol),
+boronic acids (0.33 mmol), toluene (1.0 mL), ethanol (0.5 mL), and
+Na2CO3 (0.6 mmol) in H2O (0.5 mL) were loaded into a 10 mL
+Schlenk tube. The reaction solution was heated to 75 °C for 10 h
+under nitrogen while being stirred. After completion of the reaction,
+the reaction solution was neutralized by 5% aqueous HCl, and then
+the aqueous phase was separated and further extracted with EtOAc (3
+× 10 mL). The combined organic layers were washed with brine and
+dried over Na2SO4, and then the solution was concentrated to give a
+crude product, which was puriﬁed by silica gel ﬂash chromatography
+on a silica gel column with petroleum ether (PE) and ethyl acetate
+(EA) as eluent to aﬀord 3,4,5-multisubstituted oxazolones 4.
+3,4,5-Triphenyl-3H-oxazol-2-one (4aa): yield 85% (80.1 mg);
+white solid; mp 223−224 °C (n-hexane/ethyl acetate); Rf 0.20 (vPE/
+vEA = 10:1); 1H NMR δ 7.41−7.20 (m, 13 H), 7.16−7.14 (m, 2 H);
+13C NMR δ 153.6, 135.1, 133.6, 130.3, 129.5, 129.01, 129.00, 128.5,
+128.1, 127.9, 127.6, 127.1, 126.9, 125.0, 123.5; IR ν (KBr, cm-1) 1751,
+1675, 1641, 1617, 1498, 1396, 768, 619; MS (ESI) m/z 336.1 (100)
+[M + Na]+. Anal. Calcd for C21H15NO2: C, 80.49; H, 4.82; N, 4.47.
+Found: C, 80.37; H, 5.13; N, 4.55.
+3,5-Diphenyl-4-(4-(triﬂuoromethyl)phenyl)-3H-oxazol-2-one
+(4ab). yield 78% (88.1 mg); white solid; mp 156−157 °C (n-hexane/
+ethyl acetate); Rf 0.20 (vPE/vEA = 12:1); 1H NMR δ 7.47 (d, J = 8.0 Hz,
+2 H), 7.39−7.27 (m, 10 H), 7.15−7.10 (m, 2 H); 13C NMR δ 153.4,
+136.1, 133.3, 131.3 (d), 130.8, 130.5, 129.3, 128.7, 128.3, 127.1, 126.9,
+125.9 (q), 125.4, 124.9 122.2, 122.0; IR ν (KBr, cm-1) 3059, 1774,
+1617,1596, 1497, 1376, 1330, 1165, 1125, 1068, 1023, 998, 769, 699;
+MS (ESI) m/z 404.2 (100) [M + Na]+. Anal. Calcd for C22H14F3NO2:
+C, 69.29; H, 3.70; N, 3.67. Found: C, 69.26; H, 4.07; N, 3.62.
+4-(3,5-Dimethylphenyl)-3,5-diphenyl-3H-oxazol-2-one (4ac):
+yield 98% (104.0 mg); white solid; mp 175−176 °C (n-hexane/
+ethyl acetate); Rf 0.20 (vPE/vEA = 10:1); 1H NMR δ 7.39 (dd, J1 = 1.6
+Hz, J2 = 8.4 Hz, 2 H), 7.33−7.22 (m, 6 H), 7.17−7.13 (m, 2 H), 6.98
+(s, 1 H), 6.83 (s, 2 H), 2.21 (s, 6 H); 13C NMR δ 153.7, 138.6, 134.9,
+133.7, 131.2, 128.9, 128.4, 127.9, 127.8, 126.9, 126.8, 124.9, 123.9,
+21.1; IR ν (KBr, cm-1); MS (ESI) m/z 364.2 (100) [M + Na]+. Anal.
+Calcd for C23H19NO2: C, 80.92; H, 5.61; N, 4.10. Found: C, 80.67; H,
+5.91; N, 3.96.
+4,5-Diphenyl-3-(3-(triﬂuoromethyl)phenyl)-3H-oxazol-2-one
+(4na): yield 65% (74.1 mg); white solid; mp 140−141 °C (n-hexane/
+ethyl acetate); Rf 0.20 (vPE/vEA = 10:1); 1H NMR δ 7.50 (d, J = 7.6 Hz,
+1 H), 7.46−7.33 (m, 8 H), 7.30−7.25 (m, 3 H), 7.25−7.21 (m, 2 H);
+13C NMR δ 153.2, 135.6, 134.2, 131.5 (q), 130.2, 130.0, 129.8, 129.6,
+129.3, 128.6, 128.4, 127.3, 126.6, 125.1, 124.6, 124.4 (q), 123.6 (q),
+122.9, 121.9; IR ν (KBr, cm−1) 3074, 1761, 1609, 1493, 1448, 1380,
+1326, 1264, 1159, 1125, 1064, 1022, 913, 769, 694; MS (ESI) m/z
+404.1 (100) [M + Na]+. Anal. Calcd for C22H14F3NO2: C, 69.29; H,
+3.70; N, 3.67. Found: C, 69.51; H, 3.44; N, 3.90.
+
+Reaction Mechanism Studies. Conditions 1. To an oven-dried
+Schlenk tube purged with nitrogen and containing a magnetic stir bar
+were added 1a (0.1 mmol), PdCl2(PPh3)2 (0.1 mmol), K2CO3 (0.2
+mmol), and dry DMF (1.0 mL). The resulting solution was stirred at
+40 °C for 20 min. After being cooled to room temperature, the
+reaction mixture was quenched with ethyl acetate (15 mL) and washed
+with water (30 mL). The aqueous phase was extracted twice with
+EtOAc (3 × 10 mL), and the combined organic layer was dried over
+anhydrous Na2SO4. Filtration, evaporation, and chromatography on
+silica gel (PE/EtOAc, 15:1) aﬀorded 2a′ (58%) as a white solid.
+
+Conditions 2. To an oven-dried Schlenk tube purged with nitrogen
+and a magnetic stirrer bar were added 1a (0.3 mmol), PdCl2(PPh3)2
+(0.015 mmol), CuCl2 (1.2 mmol), K2CO3 (0.6 mmol), and dry DMF
+(2.0 mL), and the resulting solution was stirred at 40 °C for 20 min,
+
+After being cooled to room temperature, the reaction mixture was
+quenched with ethyl acetate (15 mL) and washed with water (30 mL).
+The aqueous phase was extracted twice with EtOAc (3 × 10 mL), and
+the combined organic layer was dried over anhydrous Na2SO4.
+Filtration, evaporation, and chromatography on silica gel (PE/EtOAc,
+20:1) aﬀorded 3a (41%) and 2a′ (18%).
+
+Conditions 3. To an oven-dried Schlenk tube purged with nitrogen
+and a magnetic stirrer bar were added 1a (0.3 mmol), Pd(PPh3)4
+(0.015 mmol), CuCl (1.2 mmol), K2CO3 (0.2 mmol), and dry DMF
+(2.0 mL), and the resulting solution was stirred at 40 °C for 20 min
+and monitored by TLC.
+Reaction of 2a′. To an oven-dried Schlenk tube purged with
+nitrogen and a magnetic stirrer bar were added 2a′ (0.3 mmol),
+Pd(PPh3)4 (0.015 mmol), CuCl2 (1.2 mmol), K2CO3 (0.2 mmol), and
+dry DMF (2.0 mL), and the resulting solution was stirred at 40 °C for
+20 min and monitored by TLC.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+1H NMR and 13C NMR spectra for all new
+Copies of
+compounds and X-ray crystallographic data (CIF) for
+compounds 2a and 2m. This material
+is available free of
+charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: zhuhj@njtech.edu.cn.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We greatly acknowledge ﬁnancial support by the Provincal
+Natural Science Foundation of
+Jiangsu, China (NO.
+BK20140937), and the Postgraduate Innovation Fund of
+Jiangsu Province, China (2013, CXZZ13_0459; 2014,
+KYLX_0774).
+
+■ REFERENCES
+(1) (a) Salerno, L.; Pittalà, V.; Modica, M. N.; Siracusa, M. A.;
+Intagliata, S.; Cagnotto, A.; Salmona, M.; Kurczab, R.; Bojarski, A. J.;
+Romeo, G. Eur. J. Med. Chem. 2014, 85, 716. (b) Nam, N. H.; Kim, Y.;
+You, Y. J.; Hong, D. H.; Kim, H. M.; Ahn, B. Z. Bioorg. Med. Chem.
+Lett. 2001, 11, 3073. (c) Kudo, N.; Taniguchi, M.; Furuta, S.; Sato, K.;
+Endo, T.; Honma, T. J. Agric. Food Chem. 1998, 46, 5305. (d) Puig, C.;
+Crespo, M. I.; Godessart, N.; Feixas, J.; Ibarzo, J.; Jimenez, J. M.; Soca,
+L.; Cardelus, I.; Heredia, A.; Miraplex, M.; Puig, J. J. Med. Chem. 2000,
+43, 214. (e) Pereira, E. R.; Sancelme, M.; Voldoire, A.; Prudhomme,
+M. Bioorg. Med. Chem. Lett. 1997, 7, 2503. (f) Fearnley, S. P.;
+Thongsornkleeb, C. J. Org. Chem. 2010, 75, 933. (g) Nomura, I.;
+Mukai, C. Org. Lett. 2002, 4, 4301. (h) Hashimoto, N.; Ishizuka, T.;
+Kunieda, T. Tetrahedron Lett. 1994, 35, 721.
+(2) For selected examples, see: (a) Yamashita, M.; Lee, S. H.; Koch,
+G.; Zimmermann, J.; Clapham, B.; Janda, K. D. Tetrahedron Lett. 2005,
+46, 5495. (b) Jiang, H. F.; Zhao, J. W.; Wang, A. Z. Synthesis 2008, 5,
+763. (c) Hamad, M. O.; Kiptoo, P. K.; Stinchcomb, A. L.; Crooks, P.
+A. Biorg. Med. Chem. 2006, 14, 7051. (d) Marques, C. A.; Selva, M.;
+Tundo, P.; Montanari, F. J. Org. Chem. 1993, 58, 5765. (e) Aichaoui,
+H.; Poupaert, J. H.; Lesieur, D.; Henichart, J. P. Tetrahedron 1991, 47,
+6649. (f) Ram, R. N.; Soni, V. K. J. Org. Chem. 2013, 78, 11935.
+(3) (a) Istrate, F. M.; Buzas, A. K.; Jurberg, I. D.; Odabachian, Y.;
+Gagosz, F. Org. Lett. 2008, 10, 925. (b) Hashmi, A. S. K.; Salathé, R.;
+Frey, W. Synlett 2007, 11, 1763. (c) Lu, Z.; Yang, Z.; Cui, W.; Zhu, G.
+Chem. Lett. 2012, 41, 636. (d) Lu, Z.; Cui, W.; Xia, S.; Bai, Y.; Luo, F.;
+Zhu, G. J. Org. Chem. 2012, 77, 9871. (e) Lu, Z.; Xu, X.; Yang, Z.;
+Kong, L.; Zhu, G. Tetrahedron Lett. 2012, 53, 3433.
+
+3486
+
+DOI: 10.1021/acs.joc.5b00071
+J. Org. Chem. 2015, 80, 3480−3487
+
+Article
+
+The Journal of Organic Chemistry
+
+(4) (a) Lu, Z.; Luo, F.; Wang, L.; Zhu, G. J. Org. Chem. 2013, 78,
+10894. (b) Hu, J.; Ma, J.; Zhang, Z.; Zhu, Q.; Zhou, H.; Lu, W.; Han,
+B. Green Chem. 2015, 17, 1219.
+(5) (a) Zhang, H. P.; Yu, S. C.; Liang, Y.; Peng, P.; Tang, B. X.; Li, J.
+H. Synlett 2011, 982. (b) Beccalli, E. M.; Broggini, G.; Gazzola, S.;
+Mazza, A. Org. Biomol. Chem. 2014, 12, 6767. (c) Huang, L.; Wang,
+Q.; Liu, X.; Jiang, H. Angew. Chem., Int. Ed. 2012, 51, 5696. (d) Li, Y.;
+Jardine, K. J.; Tan, R.; Song, D.; Dong, V. M. Angew. Chem., Int. Ed.
+2009, 48, 9690. (e) Ye, S.; Gao, K.; Zhou, H.; Yang, X.; Wu, J. Chem.
+Commun. 2009, 5406.
+(6) (a) Borsini, E.; Broggini, G.; Fasana, A.; Galli, S.; Khansaa, M.;
+Piarulli, U.; Rigamonti, M. Adv. Synth. Catal. 2011, 353, 985. (b) Xiao,
+Y.; Zhang, J. Chem. Commun. 2009, 3594. (c) Muniz, K.; Iglesias, A.;
+Fang, Y. Chem. Commun. 2009, 5591.
+(7) (a) He, G.; Zhang, Q.; Huang, H.; Chen, S.; Wang, Q.; Zhang,
+D.; Zhang, R.; Zhu, H. Eur. J. Org. Chem. 2013, 6979. (b) He, G.;
+Chen, S.; Wang, Q.; Huang, H.; Zhang, Q.; Zhang, D.; Zhang, R.; Zhu,
+H. Org. Biomol. Chem. 2014, 12, 5945. (c) Huang, H.; He, G.; Zhu, X.;
+Jin, X.; Qiu, S.; Zhu, H. Eur. J. Org. Chem. 2014, 7174.
+(8) (a) Ma, D.; Cai, Q. Acc. Chem. Res. 2008, 41, 1450. (b) Rossi, R.;
+Bellina, F.; Lessi, M. Tetrahedron 2011, 67, 6969. (c) Chinchilla, R.;
+Najera, C. Chem. Soc. Rev. 2011, 40, 5084.
+(9) (a) Chang, W.; Lo, Y. H.; Lee, C. Y.; Wu, M. J. Adv. Synth. Catal.
+2008, 350, 1248. (b) Liang, Y.; Tang, S.; Zhang, X.; Mao, L.; Xie, Y.;
+Li, J. Org. Lett. 2006, 8, 3017.
+(10) (a) Monleón, A.; Blay, G.; Domingo, L. R.; Muñoz, M. C.;
+Pedro, J. R. Chem.Eur. J. 2013, 19, 14852. (b) Monleón, A.; Blay, G.;
+Domingo, L. R.; Muñoz, M. C.; Pedro, J. R. Eur. J. Org. Chem. 2015,
+1020. (c) Michael, F. E.; Sibbald, P. A.; Cochran, B. M. Org. Lett. 2008,
+10, 793.
+(11) (a) Ji, J.; Zhang, C.; Lu, X. J. Org. Chem. 1995, 60, 1160.
+(b) Huang, X.; Wang, F.; Liang, Y.; Li, J. Org. Lett. 2009, 11, 1139.
+(c) Tang, S.; Yu, Q.; Peng, P.; Li, J.; Zhong, P.; Tang, R. Org. Lett.
+2007, 9, 3413. (d) Ma, S.; Wu, B.; Zhao, S. Org. Lett. 2003, 5, 4429.
+(12) (a) DeKorver, K. A.; Li, H.; Lohse, A. G.; Hayashi, R.; Lu, Z.;
+Zhang, Y.; Hsung, R. P. Chem. Rev. 2010, 110, 5064. (b) Evano, G.;
+Coste, A.; Jouvin, K. Angew. Chem., Int. Ed. 2010, 49, 2840. (c) Wang,
+X. N.; Yeom, H. S.; Fang, L. C.; He, S.; Ma, Z. X.; Kedrowski, B. L.;
+Hsung, R. P. Acc. Chem. Res. 2014, 47, 560.
+(13) Liang, Y.; Tang, S.; Zhang, X.; Mao, Li.; Xie, Ye.; Li, J. Org. Lett.
+2006, 8, 3017.
+(14) Chai, D. I.; Hoffmeister, L.; Lautens, M. Org. Lett. 2011, 13, 106.
+(15) (a) Yoshida, M.; Higuchi, M.; Shishido, K. Tetrahedron 2010,
+66, 2675. (b) Hövelmann, C. H.; Streuff, J.; Brelot, L.; Muñiz, K.
+Chem. Commun. 2008, 2334.
+(16) Hofmeister, H.; Annen, K.; Laurent, H.; Wiechert, R. Angew.
+Chem., Int. Ed. Engl. 1984, 23, 727; Angew. Chem. 1984, 96, 720.
+(17) Xue, J.; Luo, M.; Wen, Y.; Ye, M.; Liu, L.; Chen, Z. Synthesis
+2014, 46, 3191.
+
+3487
+
+DOI: 10.1021/acs.joc.5b00071
+J. Org. Chem. 2015, 80, 3480−3487
+
+

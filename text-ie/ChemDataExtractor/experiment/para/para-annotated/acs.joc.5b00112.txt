@@ -1,0 +1,796 @@
+Note
+
+pubs.acs.org/joc
+
+Synthesis of 2‑(3′-Indolyl)tetrahydrofurans by Oxidative
+Cycloetheriﬁcation
+Rachel M. Gillard and Jonathan Sperry*
+
+School of Chemical Sciences, University of Auckland, 23 Symonds St., Auckland, 1010, New Zealand
+
+*S Supporting Information
+
+ABSTRACT: A series of 2-(3′-indolyl)tetrahydrofurans have been
+prepared by a DDQ-mediated oxidative cycloetheriﬁcation process.
+Performing the reaction under biphasic conditions prevents reductive
+cleavage of the products by the spent oxidant (DDQH2).
+
+T he Yonemitsu oxidation is the DDQ-mediated function-
+
+alization of alkyl groups at the C3 position of the indole
+nucleus (Scheme 1).1 Subjecting a 3-alkylindole 1 to DDQ
+
+Scheme 1. Yonemitsu Oxidation
+
+generates α,β-unsaturated iminium ion 2, which, under aqueous
+conditions, undergoes attack at the β-position by water to give
+an intermediate alcohol that, upon oxidation by a second
+equivalent of DDQ, aﬀords ketone 3.2 A variant1c of this
+process involves exposing acylated tryptamines (4; R = H) and
+tryptophans (4; R = CO2P) to DDQ under anhydrous
+conditions, with the resulting iminium ion undergoing
+intramolecular cyclization, followed by aromatization to give
+5-(3′-indolyl)oxazoles 5,3 a structural motif present in several
+natural products.4
+<para sub=“ques”>
+In the course of our quest to discover small molecules that
+selectively inhibit the pyruvate kinase (PK) of MRSA,5 we
+sought a synthetic route to cyclic ether analogues of the natural
+products 8−10, selective inhibitors of this enzyme.6 It was
+planned that a series of indole-3-butanols 6 would undergo a
+DDQ-mediated oxidative cycloetheriﬁcation7,8 to form 2-(3′-
+indolyl)tetrahydrofurans 7,9 a study that would provide the
+desired analogues but also represent a novel application of the
+Yonemitsu oxidation (Scheme 2).
+</para>
+<para sub=“opt”>
+Initially,
+
+the synthesis of 2-(3′-indolyl)tetrahydrofuran
+(±)-7a by the oxidative cycloetheriﬁcation of indole-3-butanol
+(6a)10 was attempted. Encouraging early results showed that
+DDQ promoted the conversion of 6a to (±)-7a under a variety
+of conditions, albeit in low yield. Although a detailed overview
+is not provided herein, an extensive optimization study never
+uncovered conditions that gave (±)-7a in yields above 20%
+(Scheme 3). However, a recurring result throughout these
+studies was the consistently good recovery of the starting
+material 6a.
+</para>
+<para sub=“ques”>
+A possible explanation for the results outlined in Scheme 3
+was that the C2−O bond in (±)-7a was being reductively
+cleaved by the spent oxidant (DDQH2; Scheme 4A). Subjecting
+pure (±)-7a to DDQH2 in THF gave 6a in good yield at 60 °C
+(Scheme 4B), proving that the desired product does indeed
+undergo reductive cleavage. We are not aware of any reports
+detailing the use of hydroquinones to eﬀect reductive cleavage
+−O bonds, a process that is more commonly performed
+of Csp3
+using hydrogenolytic11 or dissolving metal12 conditions, with
+lithium tri-tert-butoxyaluminum hydride-Et3B13 and trialkylsi-
+lanes14 also eﬀective.
+</para>
+<para sub=“opt”>
+With this knowledge at hand, an obvious strategy would be
+to remove the DDQH2 as it is formed during the reaction. By
+conducting the reaction under biphasic conditions using a basic
+aqueous component, the DDQH2 would enter the aqueous
+phase as it is formed, and thus, the reductive cleavage of the
+product would be prevented. Table 1 outlines our eﬀorts in this
+regard. Subjecting 6a to DDQ in a biphasic solvent mixture of
+dichloromethane and saturated aqueous sodium bicarbonate in
+the presence of the phase transfer catalyst tetrabutylammonium
+iodide (TBAI) gave a 28% yield of the product (±)-7a (entry
+1), which could be increased by raising the temperature to
+reﬂux (entry 2). A noticeable improvement in yield occurred
+upon changing the organic solvent to 1,2-dichloroethane (1,2-
+</para>
+Received:
+January 15, 2015
+Published: February 13, 2015
+
+© 2015 American Chemical Society
+
+2900
+
+DOI: 10.1021/acs.joc.5b00112
+J. Org. Chem. 2015, 80, 2900−2906
+
+The Journal of Organic Chemistry
+Scheme 2. Proposed Route to 2-(3′-Indolyl)tetrahydrofurans 7 as Cyclic Ether Analogues of Alkaloids 8−10
+
+Note
+
+Scheme 3. Unsatisfactory Conversion of 6a to (±)-7a
+
+Table 1. Oxidative Cycloetheriﬁcation of 6a under Biphasic
+Conditionsa
+
+Scheme 4. (a) Interconversion of 6a and (±)-7a in the
+Presence of DDQ and DDQH2; (b) Reductive Cleavage of
+(±)-7a with DDQH2
+<para sub=“opt”>
+DCE) and heating at 60 °C (entry 3), which increased to 73%
+yield when heated to reﬂux (entry 4). Changing the solvent to
+toluene had a detrimental eﬀect on the yield (entry 5), which
+was only marginally improved upon heating to reﬂux (entry 6).
+</para>
+<para sub="scope">
+Next, the scope of the optimized oxidative etheriﬁcation
+reaction was examined. The cyclization precursors 6b−f were
+readily prepared in racemic form by the addition of various
+Grignard reagents to the Weinreb amide 11,15 followed by
+</para>
+entry
+
+organic solvent
+
+1
+2
+3
+4
+5
+6
+
+CH2Cl2
+CH2Cl2
+1,2-DCE
+1,2-DCE
+toluene
+toluene
+
+temp
+rt
+reﬂux
+60 °C
+reﬂux
+80 °C
+reﬂux
+
+a1 equiv of DDQ gave poor yields.
+
+time (h)
+
+yield (%)
+
+24
+24
+24
+3
+24
+2.5
+
+28
+41
+63
+73
+20
+34
+<para sub="scope">
+reduction of the resulting ketones 12b−f (Table 2). This
+methodology can be used to access 2-(3′-indolyl)tetrahydro-
+furans with a variety of substituents at the 5-position of the
+THF ring,
+including alkyl (entry 2), aryl (entry 3), alkenyl
+(entry 4), alkynyl (entry 5), and heteroaryl (entry 6). The
+products (±)-7b−f were all formed as an inseparable mixture of
+cis- and trans-diastereomers.16 In all of the examples shown in
+Table 2, substrate 6 was completely consumed and competing
+alcohol oxidation was not observed. The nonstereoselective
+nature of
+likely contributing to the
+diastereomeric ratios observed in the THF products, which
+may also equilibrate under the reaction conditions.
+</para>
+To conclude, a DDQ-mediated oxidative cycloetheriﬁcation
+of indole-3-butanols to 2-(3′-indolyl)tetrahydrofurans has been
+developed. Reductive cleavage of the products by DDQH2 can
+be avoided by performing the reaction under biphasic
+conditions. These results constitute a novel application of the
+Yonemitsu oxidation, and the biphasic oxidation conditions
+reported herein should ﬁnd utility in any DDQ-mediated
+synthetic transformation that is hindered by the spent oxidant.
+
+the cyclization is
+
+2901
+
+DOI: 10.1021/acs.joc.5b00112
+J. Org. Chem. 2015, 80, 2900−2906
+
+The Journal of Organic Chemistry
+Table 2. Synthesis of 2-(3′-Indolyl)tetrahydrofurans
+(±)-7a−f
+
+Note
+<para sub=“exp”>
+13C NMR values were referenced to the residual acetone (δ 29.9 ppm),
+chloroform (δ 77.1 ppm), DMSO (δ 39.5 ppm), or methanol (δ 49.0
+ppm) peaks. 13C NMR values are reported as chemical shift δ and
+assignment. 1H NMR shift values are reported as chemical shift δ,
+relative integral, multiplicity (s, singlet; d, doublet; t, triplet; q, quartet;
+m, multiplet), coupling constant (J
+in Hz), and assignment.
+Assignments are made with the aid of DEPT 90, DEPT 135, COSY,
+NOESY, and HSQC experiments. High-resolution mass spectra were
+obtained by electrospray ionization in positive ion mode at a nominal
+accelerating voltage of 70 eV on a microTOF mass spectrometer.
+Synthesis of 2-(3′-Indolyl)tetrahydrofurans 7a−f: General
+
+Procedures.
+
+General Procedure A − Grignard Addition. To a solution of Weinreb
+amide 8 in THF at 0 °C was added the appropriate Grignard reagent,
+and the resulting solution was stirred at the quoted temperature for the
+time stated. The reaction mixture was quenched with water (20 mL)
+and extracted with ethyl acetate (3 × 25 mL), and the combined
+organic extracts were dried (Na2SO4), ﬁltered, and concentrated in
+vacuo. The crude residue was puriﬁed via column chromatography
+eluting with the solvent(s) stated to give the ketone product.
+
+General Procedure B − LiAlH4 Reduction. To a solution of ketone
+in THF at 0 °C was added LiAlH4 (1 M in THF), and the reaction was
+stirred at this temperature for the time stated. Ethyl acetate (1 mL)
+was slowly added, followed by water (1 mL), and the reaction mixture
+was poured onto a saturated aqueous solution of Rochelle’s salt (10
+mL). The whole was extracted with ethyl acetate (3 × 10 mL), and the
+combined organic layers were dried (Na2SO4), ﬁltered, and
+concentrated in vacuo. The crude residue was puriﬁed via column
+chromatography eluting with the solvent(s) stated to give the reduced
+product.
+
+General Procedure C − Oxidative Cycloetheriﬁcation. A mixture
+of cyclization precursor, dichloro-5,6-dicyano-1,4-benzoquinone
+(DDQ) and tetrabutylammonium iodide (TBAI) in a 2:1 mixture of
+1,2-dichloroethane (1,2-DCE) and saturated aqueous sodium hydro-
+gen carbonate solution was heated to 80 °C and stirred vigorously at
+this temperature for the time stated. The reaction mixture was poured
+onto a solution of saturated aqueous sodium hydrogen carbonate (20
+mL), and ethyl acetate (30 mL) was added. The mixture was then
+washed with saturated aqueous sodium hydrogen carbonate (6 × 40
+mL), and the organic layer was dried (Na2SO4), ﬁltered, and
+concentrated in vacuo. The crude mixture was puriﬁed via column
+chromatography eluting with the solvent(s) stated to give the desired
+2-(3′-indolyl)tetrahydrofuran as an inseparable mixture of cis- and
+trans-diastereomers in the case of 7b−f.
+</para>
+2902
+
+DOI: 10.1021/acs.joc.5b00112
+J. Org. Chem. 2015, 80, 2900−2906
+
+aDiastereomeric ratio calculated by 1H NMR.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General. All reactions were carried out in oven-dried glassware
+under a nitrogen atmosphere unless otherwise stated. Analytical thin
+layer chromatography was performed using 0.2 mm silica plates, and
+compounds were visualized under 365 nm ultraviolet
+irradiation,
+followed by staining with either alkaline permanganate or ethanolic
+vanillin solution. Infrared spectra were obtained as thin ﬁlms between
+sodium chloride plates. Absorption maxima are expressed in
+wavenumbers (cm−1). Melting points were recorded on a melting
+point apparatus and are uncorrected. NMR spectra were recorded as
+indicated on an NMR spectrometer operating at 500, 400, and 300
+MHz for 1H nuclei and 125, 100, and 75 MHz for 13C nuclei.
+Chemical shifts are reported in parts per million (ppm) relative to the
+tetramethylsilane peak recorded as δ 0.00 ppm in CDCl3/TMS
+solvent, or the residual acetone (δ 2.05 ppm), chloroform (δ 7.24
+ppm), DMSO (δ 2.50 ppm), or methanol (δ 3.31 ppm) peaks. The
+</para>
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+5-(Indol-3-yl)pentan-2-one (12b).
+
+6-(Indol-3-yl)hex-1-yn-3-one (12e).
+
+General procedure A was performed using Weinreb amide 11 (50 mg,
+0.20 mmol) in THF (6 mL) and methylmagnesium bromide (3 M in
+ether, 0.34 mL) at 0 °C for 1 h. Workup and column chromatography
+eluting with hexanes−ethyl acetate (2:1) gave the title compound (41
+mg, 0.203 mmol, 100%) as a colorless solid; mp 89−91 °C; ν
+(neat)/cm−1 3323, 2972, 2869, 1703, 1620, 1457, 1433, 1404, 1353,
+1255, 1243, 1221, 1164, 1104, 950, 777, 720; HRMS [ESI, (M +
+Na)+] found 224.1046, [C13H15NO + Na]+ requires 224.1046; δ
+H
+(400 MHz, CDCl3) 7.96 (1 H, br s, NH), 7.61 (1 H, d, J 8.0, ArH),
+7.36 (1 H, d, J 8.0, ArH), 7.19 (1 H, m, ArH), 7.12 (1 H, m, ArH),
+6.98 (1 H, s, ArH), 2.79 (2 H, t, J 7.4, CH2), 2.50 (2 H, t, J 7.4, CH2),
+2.11 (3 H, s, Me), 2.01 (2 H, m, CH2); δ
+C (100 MHz, CDCl3) 209.2
+(C), 136.4 (C), 127.5 (C), 122.0 (CH), 121.4 (CH), 119.3 (CH),
+118.9 (CH), 115.9 (C), 111.1 (CH), 43.3 (CH2), 30.0 (Me), 24.4
+(CH2), 24.2 (CH2).
+
+max
+
+4-(Indol-3-yl)-1-phenylbutan-1-one (12c).
+
+General procedure A was performed using Weinreb amide 11 (181
+mg, 0.74 mmol) in THF (2.6 mL) and phenylmagnesium bromide
+solution [prepared from bromobenzene (1.01 mL, 1.51 mmol),
+magnesium powder (73 mg, 3.3 mmol), and iodine (25 mg, 0.2 mmol)
+in ether (6 mL)] at rt for 2 h. Workup and column chromatography
+eluting with hexanes−ethyl acetate (2:1) gave the title compound (89
+mg, 0.034 mmol, 46%) as a colorless solid, mp 88−90 °C; ν
+max (neat)/
+cm−1 3324, 3060, 2874, 2839, 2159, 2030, 1676, 1619, 1596, 1578,
+1455, 1447, 1323, 1261, 1198, 1099, 1060, 768, 746, 690, 654; HRMS
+[ESI, (M + H)+] found 264.1390, [C18H17NO + H]+ requires
+264.1383; δ
+H (400 MHz, CDCl3) 7.96 (1 H, br s, NH), 7.92 (2 H, dd,
+J 8.4, 1.4, ArH), 7.63 (1 H, d, J 8.0, ArH), 7.54 (1 H, m, ArH), 7.43 (2
+H, m, ArH), 7.36 (1 H, d, J 8.0, ArH), 7.20 (1 H, td, J 7.6, 1.2, ArH),
+7.12 (1 H, m, ArH), 7.01 (1 H, s, ArH), 3.05 (2 H, t, J 7.4, CH2), 2.89
+(2 H, t, J 7.4, CH2), 2.19 (2 H, m, CH2); δ
+C (100 MHz, CDCl3) 200.5
+(CO), 137.1 (C), 136.4 (C), 132.9 (CH), 128.6 (2 × CH), 128.1 (2
+× CH), 127.5 (C), 122.0 (CH), 121.5 (CH), 191.3 (CH), 119.0
+(CH), 116.0 (C), 111.1 (CH), 38.1 (CH2), 24.6 (2 × CH2).
+
+6-(Indol-3-yl)hex-1-en-3-one (12d).
+
+General procedure A was performed using Weinreb amide 11 (60 mg,
+0.24 mmol) in THF (2 mL) and ethynylmagnesium bromide (0.5 M
+in ether, 2.5 mL) at 40 °C for 1 h. Workup and column
+chromatography eluting with hexanes−ethyl acetate (2:1) gave the
+title compound (50 mg, 0.24 mmol, 97%) as a yellow oil; δ
+H (400 MHz,
+CDCl3) 7.95 (1 H, br s, NH), 7.61 (1 H, d, J 6.9, ArH), 7.36 (1 H, d, J
+7.3, ArH), 7.20 (1 H, td, J 7.6, 1.1, ArH), 7.12 (1 H, td, J 7.6, 1.1,
+ArH), 7.00 (1 H, s, ArH), 3.17 (1 H, s, CH), 2.82 (2 H, t, J 7.5, CH2),
+2.67 (2 H, t, J 7.5, CH2), 2.11 (2 H, p, J 7.4, CH2). Spectroscopic data
+are consistent with the literature.15
+
+4-(Indol-3-yl)-1-(pyridin-2-yl)butan-1-one (12f).
+
+General procedure A was performed using Weinreb amide 11 (123
+mg, 0.5 mmol) in THF (1 mL) and 2-pyridylmagnesium bromide
+solution [prepared from 2-bromopyridine (237 mg, 1.5 mmol),
+magnesium powder (73 mg, 3.30 mmol), and iodine (25 mg, 0.2
+for 2 h. Workup and column
+mmol) in THF (6 mL)] at rt
+chromatography eluting with hexanes−ethyl acetate (2:1) gave the title
+max (neat)/cm−1
+compound (47 mg, 0.18 mmol, 36%) as a yellow oil; ν
+3335, 1687, 1580, 1567, 1447, 1367, 1326, 1275, 1203, 110, 1090, 992,
+912, 778, 738, 726, 674; HRMS [ESI, (M + Na)+] found 287.1165,
+[C17H16N2O + Na]+ requires 287.1155; δ
+H (400 MHz, CDCl3) 8.66
+(1 H, m, ArH), 8.04 (1 H, m, ArH), 8.01 (1 H, br s, NH), 7.81 (1 H,
+td, J 1.8, 7.7, ArH), 7.64 (1 H, d, J 7.9, ArH), 7.44 (1 H, m, ArH), 7.34
+(1 H, dt, J 8.0, 0.9, ArH), 7.18 (1 H, td, J 6.8, 1.1, ArH), 7.11 (1 H, td,
+J 7.5, 1.2, ArH), 7.02 (1 H, s, ArH), 3.33 (2 H, t, J 7.6, CH2), 2.89 (2
+H, t, J 7.6, CH2), 2.19 (2 H, pen, J 7.6, CH2); δ
+C (100 MHz, CDCl3)
+202.1 (C), 153.6 (C), 148.9 (CH), 136.9 (CH), 136.4 (C), 127.6 (C),
+127.0 (CH), 121.9 (CH), 121.8 (CH), 121.4 (CH), 119.14 (CH),
+119.05 (CH), 116.2 (C), 111.0 (CH), 37.6 (CH2), 24.8 (CH2), 24.4
+(CH2).
+
+(±)-5-(Indol-3-yl)pentan-2-ol (6b).
+
+General procedure A was performed using Weinreb amide 11 (100
+mg, 0.41 mmol) in THF (10 mL) and vinylmagnesium bromide (1 M
+in ether, 2.0 mL) at 0 °C for 1 h. Workup and column
+chromatography eluting with hexanes−ethyl acetate (4:1) gave the
+title compound (65 mg, 0.31 mmol, 75%) as a yellow oil; δ
+H (400 MHz,
+CDCl3) 7.96 (1 H, br s, NH), 7.61 (1 H, d, J 7.4, ArH), 7.36 (1 H, d, J
+8.2, ArH) 7.19 (1 H, td, J 7.6, 1.5, ArH), 7.12 (1 H, td, J 7.5, 1.2, ArH),
+6.99 (1 H, s, ArH), 6.34 (1 H, m, CHCH2), 6.18 (1 H, dd, J 14.1,
+1.0, CHCHCH), 5.79 (1 H, dd, J 14.1, 1.0, CHCHCH), 2.82 (2
+H, t, J 7.2, CH2), 2.66 (2 H, t, J 7.2, CH2), 2.07 (2 H, m, CH2);
+Spectroscopic data are consistent with the literature.15
+
+General Procedure B was performed using 12b (45 mg, 0.22 mmol)
+and LiAlH4 (1 M in THF, 0.45 mL) in THF (1.2 mL) at 0 °C for 1 h.
+Workup and column chromatography eluting with ethyl acetate/
+hexanes (1:2) gave the title compound (44 mg, 0.22 mmol, 97%) as a
+max (neat)/cm−1 3525, 3211, 2966, 2924, 2871, 2838,
+colorless oil; ν
+1456, 1441, 1367, 1335, 1241, 1216, 1128, 1099, 1078, 1006, 980, 931,
+832, 792, 772; HRMS [ESI, (M + Na)+] found 226.1196, [C13H17NO
++ Na]+ requires 226.1202; δ
+H (400 MHz, CDCl3) 7.92 (1 H, br s,
+NH), 7.61 (1 H, d, J 8.0, ArH), 7.36 (1 H, d, J 8.4, ArH), 7.19 (1 H, m,
+ArH), 7.11 (1 H, m, ArH), 6.98 (1 H, s, ArH), 3.82 (1 H, m, CH),
+2.77 (2 H, t, J 7.6, CH2), 1.89−1.73 (2 H, m, CH2), 1.60−1.53 (2 H,
+m, CH2), 1.20 (3 H, d, J 6.1, Me); OH not observed; δ
+C (100 MHz,
+CDCl3) 136.4 (CO), 127.6 (C), 121.9 (CH), 121.1 (CH), 119.2
+(CH), 119.0 (CH), 116.7 (C), 111.1 (CH), 68.2 (CH), 39.2 (CH2),
+26.3 (CH2), 25.1 (CH), 23.6 (Me).
+</para>
+2903
+
+DOI: 10.1021/acs.joc.5b00112
+J. Org. Chem. 2015, 80, 2900−2906
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(±)-4-(Indol-3-yl)-1-phenylbutan-1-ol (6c).
+
+85.0 (C), 72.9 (CH), 62.3 (CH), 37.5 (CH2), 25.5 (CH2), 24.7
+(CH2).
+
+(±)-4-(Indol-3-yl)-1-(pyridin-2-yl)butan-1-ol (6f).
+</para>
+Note
+<para sub=“exp”>
+General Procedure B was performed using 12c (80 mg, 0.30 mmol)
+and LiAlH4 (1 M in THF, 0.61 mL) in THF (1.2 mL) at 0 °C for 1 h.
+Workup and column chromatography eluting with ethyl acetate/
+hexanes (1:4) gave the title compound (70 mg, 0.26 mmol, 87%) as a
+max (neat)/cm−1 3546, 3281, 3039, 2928, 2855, 1495,
+yellow oil; ν
+1455, 1386, 1336, 1202, 1099, 1074, 1054, 1010, 933, 786, 763, 746;
+HRMS [ESI, (M + Na)+] found 288.1360, [C18H19NO + Na]+
+requires 288.1359; δ
+H (400 MHz, CDCl3) 7.90 (1 H, br s, NH),
+7.58 (1 H, d, J 7.3, ArH), 7.35−7.32 (5 H, m, ArH), 7.23 (1 H, t, J 4.3,
+ArH), 7.18 (1 H, td, J 7.4, 1.1, ArH), 7.10 (1 H, td, J 7.4, 1.1, ArH),
+6.94 (1 H, s, ArH), 4.71 (1 H, t, J 6.3, CH), 2.79 (2 H, t, J 6.9, CH2),
+1.94−1.81 (3 H, m, CH2), 1.76−1.69 (1 H, m, CH2); OH not
+C (100 MHz, CDCl3) 144.9 (C), 136.4 (C), 128.5 (2 ×
+observed; δ
+CH), 127.6 (CH), 126.0 (2 × CH), 121.9 (CH), 121.2 (CH), 119.1
+(CH), 119.0 (CH), 116.5 (C), 111.0 (CH), 74.6 (CH), 38.9 (CH2),
+26.3 (CH2), 25.0 (CH2), 1(C) not observed.
+
+(±)-6-(Indol-3-yl)hex-1-en-3-ol (6d).
+
+General Procedure B was performed using 12f (45 mg, 0.17 mmol)
+and LiAlH4 (1 M in THF, 0.34 mL) in THF (1.5 mL) at 0 °C for 20
+min. Workup and column chromatography eluting with ethyl acetate/
+hexanes (1:2) gave the title compound (41 mg, 0.15 mmol, 91%) as a
+max (neat)/cm−1 3055, 2925, 2856, 1595, 1571, 1475,
+yellow oil; ν
+1456, 1435, 1340, 1214, 1149, 1079, 1008, 908, 737; HRMS [ESI, (M
++ Na)+] found 289.1314, [C17H18N2O + Na]+ requires 289.1311; δ
+H
+(400 MHz, CDCl3) 8.53 (1 H, d, J 4.8, ArH), 7.97 (1 H, br s, NH),
+7.64 (1 H, td, J 7.7, 1.7, ArH), 7.57 (1 H, d, J 8.0, ArH), 7.32 (1 H, dd,
+J 8.0, 0.8, ArH), 7.22−7.15, (3 H, m, ArH), 7.09 (1 H, td, J 7.5, 1.2,
+ArH), 6.96 (1 H, s, ArH), 4.79 (1 H, q, J 3.8, CH), 2.80 (2 H, td, J 7.5,
+1.7, CH2), 1.96−1.79 (4 H, m, 2 × CH2); OH not observed; δ
+C (100
+MHz, CDCl3) 162.2 (C), 148.2 (CH), 136.7 (CH), 136.4 (C), 127.6
+(C), 122.3 (CH), 121.8 (CH) 121.2 (CH), 120.4 (CH), 119.1 (CH),
+119.0 (CH), 116.6 (C), 111.0 (CH), 72.7 (CH), 38.4 (CH2), 25.7
+(CH2), 25.0 (CH2).
+
+(±)-2-(3′-Indolyl)tetrahydrofuran (7a).
+
+General Procedure B was performed using 12d (50 mg, 0.23 mmol)
+and LiAlH4 (1 M in THF, 0.47 mL) in THF (1.5 mL) at 0 °C for 1 h.
+Workup and column chromatography eluting with ethyl acetate/
+hexanes (1:3) gave the title compound (46 mg, 0.21 mmol, 91%) as a
+max (neat)/cm−1 3411, 3058, 2932, 2857, 1696, 1618,
+brown oil; ν
+1456, 1338, 1229, 1090, 989, 922, 667; HRMS [ESI, (M + Na)+]
+found 238.1202, [C14H17NO + Na]+ requires 238.1200; δ
+H (400 MHz,
+CDCl3) 7.92 (1 H, br s, NH), 7.61 (1 H, d, J 8.6, ArH), 7.35 (1 H, d, J
+8.2, ArH), 7.19 (1 H, td, J 7.6, 1.1, ArH), 7.11 (1 H, td, J 7.6, 1.1,
+ArH), 6.98 (1 H, s, ArH), 5.87 (1 H, m, CHCH2), 5.22 (1 H, dt, J
+13.8, 1.2, CHCHCH), 5.10 (1 H, dt, J 13.8, 1.2, CHCHCH),
+4.14 (1 H, m, CH), 2.80 (2 H, td, J 7.5, 0.9, CH2), 1.86−1.74 (2 H, m,
+CH2), 1.68−1.62 (2 H, m, CH2); OH not observed; δ
+C (100 MHz,
+CDCl3) 141.3 (CH), 136.4 (C), 127.6 (C), 121.9 (CH), 121.2 (CH),
+119.1 (CH), 119.0 (CH), 116.6 (C), 114.7 (CH2), 111.1 (CH), 73.2
+(CH), 36.9 (CH2), 25.9 (CH2), 25.0 (CH2).
+
+(±)-6-(Indol-3-yl)hex-1-yn-3-ol (6e).
+
+General procedure C was performed using indole-3-butanol10 (65 mg,
+0.34 mmol), TBAI (381 mg, 1.03 mmol), and DDQ (140 mg, 0.62
+mmol) in 1,2-DCE (4 mL) and saturated aqueous sodium hydrogen
+carbonate (2 mL) for 3 h. Workup and column chromatography
+eluting with hexanes/ethyl acetate (2:1) gave the title compound (47
+max (neat)/cm−1 3340, 2966,
+mg, 0.25 mmol, 73%) as a colorless oil; ν
+2861, 1663, 1619, 1553, 1461, 1424, 1376, 1351, 1338, 1249, 1221,
+1085, 1033, 944, 921, 831; HRMS [ESI, (M + Na)+] found 210.0894,
+[C12H13NO + Na]+ requires 210.0889; δ
+H (400 MHz, CDCl3) 8.07 (1
+H, br s, NH), 7.69 (1 H, d, J 8.0, ArH), 7.34 (1 H, d, J 8.0, ArH), 7.20
+(1 H, td, J 7.6, 0.9, ArH), 7.13 (2 H, m, ArH), 5.21 (1 H, m, CH),
+4.14−4.08 (1 H, m, CH2), 3.97−3.92 (1 H, m, CH2), 2.37−2.31 (1 H,
+m, CH2), 2.04−2.14 (3 H, m, CH2); δ
+C (100 MHz, CDCl3) 136.9 (C),
+126.1 (C), 122.2 (CH), 121.6 (CH), 119.64 (CH), 119.61 (CH),
+117.6 (C), 111.4 (CH), 75.4 (CH), 68.1 (CH2), 32.3 (CH2), 26.3
+(CH2).
+
+(±)-2-Methyl-5-(3′-indolyl)tetrahydrofuran (7b).
+
+General Procedure B was performed using 12e (50 mg, 0.24 mmol)
+and LiAlH4 (1 M in THF, 0.47 mL) in THF (1.5 mL) at 0 °C for 1 h.
+Workup and column chromatography eluting with ethyl acetate/
+hexanes (1:4) gave the title compound (41 mg, 0.19 mmol, 81%) as a
+max (neat)/cm−1 3409, 3284, 3056, 2921, 2853, 2116,
+brown oil; ν
+2000, 1618, 1456, 1420, 1336, 1230, 1082, 1010, 892, 808; HRMS
+[ESI, (M + Na)+] found 236.1040, [C14H15NO + Na]+ requires
+236.1046; δ
+H (400 MHz, CDCl3) 7.98 (1 H, br s, NH), 7.60 (1 H, d, J
+7.9, ArH), 7.35 (1 H, d, J 8.0, ArH), 7.18 (1 H, t, J 7.4, ArH), 7.12 (1
+H, t, J 7.4, ArH), 6.99 (1 H, s, ArH), 4.41 (1 H, s, CH), 2.82 (2 H, t, J
+7.3, CH2), 2.45 (1 H, d, J 2.2, CH), 1.93−1.80 (4 H, m, 2 × CH2), OH
+not observed; δ
+C (100 MHz, CDCl3) 136.4 (C), 127.5 (C), 121.9
+(CH), 121.2 (CH), 119.2 (CH), 118.9 (CH), 116.3 (C), 111.1 (CH),
+
+General procedure C was performed using 6b (50 mg, 0.25 mmol),
+TBAI (273 mg, 0.74 mmol), and DDQ (140 mg, 0.62 mmol) in 1,2-
+DCE (4 mL) and saturated aqueous sodium hydrogen carbonate (2
+mL) for 6 h. Workup and column chromatography eluting with
+hexanes/ethyl acetate (2:1) gave the title compound (27 mg, 0.14
+mmol, 55%, cis:trans = 1:0.4) as a pink solid, mp 130−133 °C; ν
+max
+(neat)/cm−1 3252, 2968, 2924, 2869, 1666, 1618, 1552, 1490, 1458,
+1458, 1431, 1373, 1333, 1249, 1226, 1143, 1099, 1064, 1009, 1000,
+978, 920, 880, 868, 818, 776; HRMS [ESI, (M + Na)+] found
+224.1052, [C13H15NO + Na]+ requires 224.1046; δ
+H (400 MHz,
+CDCl3) 8.07 (2 H, br s, 2 × NH), 7.70 (2 H, t, J 7.2, 2 × ArH), 7.33
+(2 H, d, J 7.2, 2 × ArH), 7.19 (2 H, td, J 7.6, 1.2, 2 × ArH), 7.14−7.10
+(4 H, m, 4 × ArH), 5.36 (1 H, t, J 7.2, CH, cis), 5.17 (1 H, t, J 7.2, CH-
+</para>
+2904
+
+DOI: 10.1021/acs.joc.5b00112
+J. Org. Chem. 2015, 80, 2900−2906
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+trans), 4.33 (1 H, m, CH-cis), 4.14 (1 H, m, CH-trans), 2.41−2.15 (6
+H, m, 3 × CH2), 1.73−1.66 (2 H, m, CH2), 1.38 (3 H, d, J 6.0, Me-
+trans), 1.34 (3 H, d, J 6.0, Me-trans); δ
+C (100 MHz, CDCl3) 136.8 (2
+× C), 125.9 (2 × C), 122.1 (2 × CH), 121.6 (CH), 121.3 (CH), 119.7
+(CH), 119.6 (CH) 119.5 (2 × CH), 118.5 (2 × C), 111.2 (2 × CH),
+75.51 (CH-trans), 75.49 (CH-trans), 75.0 (CH-cis), 74.7 (CH-cis),
+34.4 (CH2-cis), 33.4 (CH2-trans), 33.3 (CH2-cis), 32.6 (CH2-trans),
+21.6 (Me-cis), 21.5 (CH-trans).
+
+(±)-2-Phenyl-5-(3′-indolyl)tetrahydrofuran (7c).
+
+General procedure C was performed using 6c (50 mg, 0.19 mmol),
+TBAI (209 mg, 0.57 mmol), and DDQ (77 mg, 0.34 mmol) in 1,2-
+DCE (4 mL) and saturated aqueous sodium hydrogen carbonate (2
+mL) for 2 h. Workup and column chromatography eluting with
+toluene gave the title compound (42 mg, 0.16 mmol, 85%, cis:trans =
+0.8:1) as a colorless solid, mp 92−96 °C; ν
+max (neat)/cm−1 3260,
+3057, 2928, 2872, 1488, 1455, 1325, 1255, 1232, 1214, 1103, 1019,
+933, 869, 835, 761, 698; HRMS [ESI, (M + Na)+] found 286.1213,
+[C18H17NO + Na]+ requires 286.1202; δ
+H (400 MHz, CDCl3) 8.09 (2
+H, br s, 2 × NH), 7.75 (2 H, t, J 8.1, 2 × ArH), 7.46 (4 H, t, J 8.4, 4 ×
+ArH), 7.37−7.33 (6 H, m, 6 × ArH), 7.30−7.27 (2 H, m, 2 × ArH),
+7.23−7.17 (4 H, m, 4 × ArH), 7.16−7.12 (2 H, m, 2 × ArH), 5.60 (1
+H, t, J 7.2, CH-trans), 5.39 (1 H, t, J 7.2, CH-cis), 5.29 (1 H, t, J 7.2,
+CH-trans), 5.08 (1 H, t, J 7.2, CH-cis), 2.61−2.43 (4H, m, 2 × CH2),
+2.37−2.24 (2 H, m, CH2), 2.12−2.02 (2 H, m, CH2); δ
+C (100 MHz,
+CDCl3) 144.0 (C), 143.2 (C), 136.83 (C), 136.76 (C), 128.4 (2 ×
+CH), 128.3 (2 × CH), 127.2 (CH), 127.1 (CH), 126.0 (2 × CH),
+125.7 (2 × CH), 122.21 (CH), 122.19 (CH), 121.7 (CH), 121.3
+(CH), 119.72 (CH), 119.70 (CH), 119.6 (2 × CH), 118.1 (C), 117.8
+(C), 111.3 (2 × CH), 81.0 (CH), 80.5 (CH), 76.0 (2 × CH), 35.7
+(CH2), 34.7 (CH2), 33.3 (CH2), 32.4 (CH2), 2(C) not observed.
+
+(±)-2-Vinyl-5-(3′-indolyl)tetrahydrofuran (7d).
+
+General procedure C was performed using 6d (38 mg, 0.18 mmol),
+TBAI (196 mg, 0.53 mmol), and DDQ (72 mg, 0.32 mmol) in 1,2-
+DCE (4 mL) and saturated aqueous sodium hydrogen carbonate (2
+mL) for 3 h. Workup and column chromatography eluting with
+toluene gave the title compound (21 mg, 0.099 mmol, 56%, cis:trans =
+1:1) as a brown solid, mp 73−75 °C; ν
+max (neat)/cm−1 3261, 2934,
+2875, 1547, 1457, 1428, 1336, 1233, 1108, 1020, 993, 931, 894, 866,
+837, 662; HRMS [ESI, (M + Na)+] found 236.1050, [C14H15NO +
+H (400 MHz, CDCl3) 8.02 (2 H, br s, 2 ×
+Na]+ requires 236.1046; δ
+NH), 7.71−7.68 (2 H, m, 2 × ArH), 7.36 (2 H, d, J 8.2, 2 × ArH),
+7.22−7.16 (4 H, m, 4 × ArH), 7.14−7.10 (2 H, m, 2 × ArH), 6.06−
+5.93 (2 H, m, 2 × CHCH2), 5.40 (1 H, t, J 6.9, CH-trans), 5.35−
+5.30 (2 H, m, CHCH2), 5.27 (1 H, t, J 6.9, CH-cis), 5.15−5.12 (2
+H, m, CHCH2), 4.68 (1 H, q, J 6.8, CH-trans), 4.49 (1 H, q, J 6.8,
+CH-cis), 2.44−2.13 (6 H, m, 3 × CH2), 1.92−1.84 (2 H, m, CH2); δ
+C
+(100 MHz, CDCl3) 139.6 (CH), 139.4 (CH), 125.92 (C), 125.89 (C),
+122.18 (CH), 122.16 (CH), 121.5 (CH), 121.2 (CH), 119.7 (CH),
+119.64 (CH), 119.60 (CH), 199.56 (CH), 118.3 (C), 118.2 (C),
+
+115.4 (CHCH2), 114.9 (CHCH2), 111.2 (2 × CH), 80.3 (CH),
+79.8 (CH), 75.7 (CH), 75.2 (CH), 32.9 (CH2), 32.8 (CH2), 32.3
+(CH2), 32.1 (CH2). 2(C) not observed.
+
+(±)-2-Ethynyl-5-(3′-indolyl)tetrahydrofuran (7e).
+</para>
+Note
+<para sub=“exp”>
+General procedure C was performed using 6e (38 mg, 0.18 mmol),
+TBAI (197 mg, 0.53 mmol), and DDQ (73 mg, 0.32 mmol) in 1,2-
+DCE (4 mL) and saturated aqueous sodium hydrogen carbonate (2
+mL) for 2 h. Workup and column chromatography eluting with
+hexanes−ethyl acetate (4:1) gave the title compound (16 mg, 0.076
+max (neat)/cm−1 3412,
+mmol, 43%, cis:trans = 0.75:1) as a brown oil; ν
+3289, 3059, 2928, 2871, 1619, 1555, 1457, 1425, 1336, 1234, 1022,
+945, 907, 824; HRMS [ESI, (M + H)+] found 212.1065, [C14H13NO +
+H (400 MHz, CDCl3) 8.09 (2 H, br s, 2 ×
+H]+ requires 212.1070; δ
+NH), 7.75 (1 H, d, J 6.9, ArH), 7.68 (1 H, d, J 6.9, ArH), 7.34 (2 H, m,
+2 × ArH), 7.23−7.18 (2 H, m, 2 × ArH), 7.18−7.10 (4 H, m, 4 ×
+ArH), 5.48 (1 H, t, J 7.0, (CH-trans), 5.28 (1 H, t, J 7.0, CH-cis), 4.91
+(1 H, m, CH-trans), 4.77 (1 H, m, CH-cis), 2.52 (1 H, d, J 2.0, CH),
+2.50 (1 H, d, J 2.0, CH), 2.49−2.33 (6 H, m, 3 × CH2), 2.56−2.14 (2
+H, m, 2 × CH2); δ
+C (100 MHz, CDCl3) 136.8 (C), 136.7 (C), 125.8
+(C), 125.7 (C), 122.3 (CH), 122.2 (CH), 122.1 (CH), 121.6 (CH),
+119.7 (CH), 119.7 (CH), 119.6 (CH), 119.4 (CH), 117.1 (C), 116.8
+(C), 111.29 (CH), 111.26 (CH), 84.4 (2 × C), 76.5 (CH), 75.2
+(CH), 72.8 (CH), 72.6 (CH), 68.0 (CH), 67.8 (CH), 33.8 (CH2),
+32.5 (CH2), 31.9 (CH2), 29.7 (CH2).
+
+(±)-3′-(5-(Pyridin-2-yl)tetrahydrofuran-2-yl)indole (7f).
+
+General procedure C was performed using 6f (40 mg, 0.15 mmol),
+TBAI (166 mg, 0.45 mmol), and DDQ (61 mg, 0.27 mmol) in 1,2-
+DCE (4 mL) and saturated aqueous sodium hydrogen carbonate (2
+mL) for 2 h. Workup and column chromatography eluting with
+hexanes/ethyl acetate (4:1) gave the title compound (26 mg, 0.098
+max (neat)/cm−1 3060,
+mmol, 65%, cis:trans = 1:0.6) as a yellow oil; ν
+2932, 1733, 1592, 1570, 1457, 1435, 1337, 1233, 1097, 1040, 1010,
+949, 710 HRMS [ESI, (M + H)+] found 265.1344, [C17H16N2O + H]+
+H (400 MHz, CDCl3) 8.78 (2 H, m, 2 × ArH),
+requires 265.1335; δ
+8.22 (2 H, br s, 2 × ArH), 7.75 (2 H, d, J 7.1, 2 × ArH), 7.71 (1 H, td,
+J 6.1, 1.4, ArH), 7.63 (2 H, m, 2 × ArH), 7.57 (1 H, d, J 6.3, ArH),
+7.37 (2 H, m, 2 × ArH), 7.24−7.12 (8 H, m, 8 × ArH), 5.58 (1 H, t J
+5.7, CH-cis), 5.43 (1 H, t, J 5.7, CH-trans), 5.38 (1 H, t, J 5.7, CH-cis),
+5.21 (1 H, t J 5.7, CH-trans), 2.71−2.62 (2 H, m, CH2), 2.47−2.40 (2
+H, m, CH2), 2.33−2.20 (4 H, m, 2 × CH2); δ
+C (100 MHz, CDCl3)
+163.4 (C), 163.0 (C), 149.1 (CH), 148.8 (CH), 136.8 (C), 136.79
+(C), 126.1 (C), 125.9 (C), 122.2 (2 × CH), 122.1 (2 × CH), 121.8
+(CH), 121.5 (CH), 120.3 (CH), 120.0 (CH), 119.8 (CH), 119.7
+(CH), 119.6 (CH), 117.7 (C), 117.68 (C), 111.3 (2 × CH), 81.5
+(CH), 81.2 (CH), 76.5 (CH), 76.3 (CH), 33.8 (CH2), 33.3 (CH2),
+33.0 (CH2), 31.8 (CH2), one CH not observed.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+1H and 13C NMR spectra for all novel compounds and NOESY
+spectra for 7b−f. This material is available free of charge via the
+Internet at http://pubs.acs.org.
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: j.sperry@auckland.ac.nz (J.S.).
+
+2905
+
+DOI: 10.1021/acs.joc.5b00112
+J. Org. Chem. 2015, 80, 2900−2906
+
+The Journal of Organic Chemistry
+
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+The Auckland Medical Research Foundation (AMRF) is
+thanked for generous support. J.S is grateful to the Royal
+Society of New Zealand for support through the Rutherford
+Discovery Fellowship Scheme.
+
+■ REFERENCES
+(1) (a) Oikawa, Y.; Yonemitsu, O. J. Org. Chem. 1977, 42, 1213−
+1216. (b) Oikawa, Y.; Yoshioka, T.; Mohri, K.; Yonemitsu, O.
+Heterocycles 1979, 12, 1457−1462. (c) Yoshioka, T.; Mohri, K.;
+Oikawa, Y.; Yonemitsu, O. J. Chem. Res., Synop. 1981, 194−195; J.
+Chem. Res., Miniprint 1981, 2252−2281.
+(2) Yonemitsu oxidation of 3-alklylindoles under aqueous conditions:
+(a) Hagen, T. J.; Narayanan, K.; Names, J.; Cook, J. M. J. Org. Chem.
+1989, 54, 2170−2178. (b) Ekebergh, A.; Börje, A.; Märtensson, J. Org.
+Lett. 2012, 14, 6274−6277.
+(3) Yonemitsu oxidation of acylated tryptamine/tryptophan deriva-
+tives under anhydrous conditions: (a) Burgett, A. W. G.; Li, Q.; Wei,
+Q.; Harran, P. G. Angew. Chem., Int. Ed. 2003, 42, 4961−4966.
+(b) Sperry, J.; Moody, C. J. Tetrahedron 2010, 66, 6483−6495.
+(4) (a) Joshi, B. S.; Taylor, W. I.; Bhate, D. S.; Karmarkar, S. S.
+Tetrahedron 1963, 19, 1437−1439. (b) Umehara, K.; Yoshida, K.;
+Okamoto, M.; Iwami, M.; Tanaka, H.; Kohsaka, M.; Imanaka, H. J.
+Antibiot. 1984, 37, 1153−1160. (c) Guella, G.; Mancini, I.; N’Diaye, I.;
+Pietra, F. Helv. Chim. Acta 1994, 77, 1999−2006. (d) N’Diaye, I.;
+Guella, G.; Mancini, I.; Pietra, F. Tetrahedron Lett. 1996, 37, 3049−
+3050. (e) Miyake, F.; Hashimoto, M.; Tonsiengsom, S.; Yakushijin, K.;
+Horne, D. A. Tetrahedron 2010, 66, 4888−4893. (f) Takahashi, S.;
+Matsunaga, T.; Hasegawa, C.; Saito, H.; Fujita, D.; Kiuchi, F.; Tsuda,
+Y. Chem. Pharm. Bull. 1998, 46, 1527−1529. (g) Pettit, G. R.; Knight,
+J. C.; Herald, D. L.; Davenport, R.; Pettit, R. K.; Tucker, B. E.;
+Schmidt, J. M. J. Nat. Prod. 2002, 65, 1793−1797. (h) Lachia, M.;
+Moody, C. J. Nat. Prod. Rep. 2008, 25, 227−253. (i) Hanssen, K. Ø.;
+Schuler, B.; Williams, A. J.; Demissie, T. B.; Hansen, E.; Andersen, J.
+H.; Svenson, J.; Blinov, K.; Repisky, M.; Mohn, F.; Meyer, G.;
+Svendsen, J.-S.; Ruud, K.; Elyashberg, M.; Gross, L.; Jaspars, M.;
+Isaksson, J. Angew. Chem., Int. Ed. 2012, 51, 12238−12241.
+(5) Zoraghi, R.; Campbell, S.; Kim, C.; Dullaghan, E. M.; Blair, L. M.;
+Gillard, R. M.; Reiner, N. E.; Sperry, J. Bioorg. Med. Chem. Lett. 2014,
+24, 5059−5062.
+(6) Zoraghi, R.; Worrall, L.; See, R. H.; Strangman, W.; Popplewell,
+W. L.; Gong, H.; Samaai, T.; Swayze, R. D.; Kaur, S.; Vuckovic, M.;
+Finlay, B. B.; Brunham, R. C.; McMaster, W. R.; Davies-Coleman, M.
+T.; Strynadka, N. C.; Andersen, R. J.; Reiner, N. E. J. Biol. Chem. 2011,
+286, 44716−44725.
+(7) For examples of DDQ-mediated oxidative cycloetheriﬁcations,
+see: (a) Harwood, L. M.; Robertson, J. Tetrahedron Lett. 1987, 28,
+5175−5176. (b) Oikawa, Y.; Horita, K.; Yonemitsu, O. Heterocycles
+1985, 23, 553−556. (c) Pelter, A.; Ward, R. S.; Venkateswarlu, R.;
+Kamakshi, C. Tetrahedron 1991, 47, 1275−1284. (d) Jevric, M.;
+Taylor, D. K.; Greatrez, B. W.; Tiekink, E. R. T. Tetrahedron 2005, 61,
+1885−1891. (e) Ramdayal, F. D.; Kiemkle, D. J.; LaLonde, R. T. J.
+Org. Chem. 1999, 64, 4607−4609. (f) LaLonde, R. T.; Ramdayal, F.;
+Sarko, A.; Yanai, K.; Zhang, M. J. Med. Chem. 2003, 46, 1180−1190.
+(g) Fang, B.; Xie, X.; Jing, P.; Zhao, C.; Li, H.; Ma, H.; She, X.
+Tetrahedron 2013, 69, 11025−11030. (h) Pearson, A. J.; Kole, S. L.;
+Yoon, J. Organometallics 1986, 5, 2075−2081.
+(8) DDQ-mediated cycloetheriﬁcation during the synthesis of several
+sarpagine alkaloids: (a) Yu, J.; Wearing, X. Z.; Cook, J. M. Tetrahedron
+Lett. 2004, 45, 3937−3940. (b) Zhou, H.; Han, D.; Liao, X.; Cook, J.
+M. Tetrahedron Lett. 2005, 46, 4219−4224. (c) Yin, W.; Ma, J.; Rivas,
+F. M.; Cook, J. M. Org. Lett. 2007, 9, 295−298. (d) Yu, J.; Liao, X.;
+Cook, J. M. Org. Lett. 2002, 4, 4681−4684. (e) Zhou, H.; Liao, X.; Yin,
+W.; Ma, J.; Cook, J. M. J. Org. Chem. 2006, 71, 251−259. (f) Yu, J.;
+Wearing, X. Z.; Cook, J. M. J. Org. Chem. 2005, 70, 3963−3979.
+
+Note
+
+(g) Yu, J.; Wang, T.; Wearing, X. Z.; Ma, J.; Cook, J. M. J. Org. Chem.
+2003, 68, 5852−5859.
+(9) The acid-catalyzed cyclization of 3-(alditoyl)indoles aﬀords 3-
+(furanosyl)indoles: Cornia, M.; Casiraghi, G.; Zetta, L. J. Org. Chem.
+1991, 56, 5466−5468.
+(10) Blair, L. M.; Sperry, J. Synlett 2013, 24, 1931−1936.
+(11) (a) Baker, R. H.; Cornell, K. H.; Cron, M. J. J. Am. Chem. Soc.
+1948, 70, 1490−1492. (b) Nishikawa, T.; Koide, Y.; Kajii, S.; Wada,
+K.; Ishikawa, M.; Isobe, M. Org. Biomol. Chem. 2005, 3, 687−700.
+(c) Roy, S. C.; Rana, K. K.; Guin, C. J. Org. Chem. 2002, 67, 3242−
+3248.
+(12) (a) Gillingham, D. G.; Kataoka, O.; Garber, S. B.; Hoveyda, A.
+H. J. Am. Chem. Soc. 2004, 126, 12288−12290. (b) Abell, A. D.;
+Massy-Westropp, R. A. Tetrahedron 1985, 41, 2451−2464. (c) Ven-
+kateswariu, R.; Kamakshi, C.; Moinuddin, S. G. A.; Subhash, P. V.;
+Ward, R. S.; Pelter, A.; Hursthouse, M. B.; Light, M. E. Tetrahedron
+1999, 55, 13087−13108.
+(13) Brown, H. C.; Krishnamurthy, S.; Coleman, R. A. J. Am. Chem.
+Soc. 1972, 94, 1750−1751.
+(14) (a) Gevorgyan, V.; Liu, J. X.; Rubin, M.; Benson, S.; Yamamoto,
+Y. Tetrahedron Lett. 1999, 40, 8919−8922. (b) DeNinno, M. P.;
+Etienne, J. B.; Duplantier, K. C. Tetrahedron Lett. 1995, 36, 669−672.
+(c) Watanabe, S.; Sueyoshi, T.; Ichihara, M.; Uehara, C.; Iwamura, M.
+Org. Lett. 2001, 3, 255−257. (d) Qin, H.-L.; Lowe, J. T.; Panek, J. S. J.
+Am. Chem. Soc. 2007, 129, 38−39.
+(15) Kim, C. M.; Cole, P. A. J. Med. Chem. 2001, 44, 2479−2485.
+(16) The cis- or trans-diastereomer could be identiﬁed by relevant
+NOE correlations. See the Supporting Information for full details.
+
+2906
+
+DOI: 10.1021/acs.joc.5b00112
+J. Org. Chem. 2015, 80, 2900−2906
+
+

@@ -1,0 +1,989 @@
+Note
+
+pubs.acs.org/joc
+
+Lipeng Zhang,
+
+Xiaoyu Lu,
+
+†
+
+Synthesis of 2‑Aryl and 3‑Aryl Benzo[b]furan Thioethers Using Aryl
+Sulfonyl Hydrazides as Sulfenylation Reagents
+and Kui Lu*,‡
+Xia Zhao,*,†
+†
+College of Chemistry, Tianjin Key Laboratory of Structure and Performance for Functional Molecules, Tianjin Normal University,
+Tianjin 300387, China
+‡
+College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China
+*S Supporting Information
+
+†
+Tianjiao Li,
+
+†
+
+ABSTRACT: An eﬃcient, metal-free protocol used to
+synthesize aryl benzo[b]furan thioethers based on the I2-
+catalyzed cross-coupling of benzo[b]furans as well as the
+electrophilic cyclization of 2-alkynylphenol derivatives with
+aryl sulfonyl hydrazides was developed. Various 2-aryl and 3-
+aryl benzo[b]furan thioethers were obtained in moderate to
+good yields.
+
+B enzofurans constitute basic units that frequently occur in
+
+natural products and represent the most important type of
+heterocycles in drug discovery,1 as they have been reported to
+exhibit anticancer,2 antiviral,3 antifungal,4 anti-inﬂammatory5
+and immunosuppressive activities.6 Therefore, signiﬁcant eﬀorts
+have been put
+forth toward the eﬃcient construction of
+benzofuran scaﬀolds. To the best of our knowledge, only a few
+methods have been reported to prepare 2-sulfenyl or 3-sulfenyl
+benzo[b]furans including (i) electrophilic cyclization of 2-
+(phenylethynyl)anisole with 4-nitrophenyl hypochlorothioite
+(Scheme 1, eq 1),7 (ii) electrophilic cyclization of 2-sulfenyl-
+alkynylanisoles with electrophile sources such as I2, ICl, Br2 and
+PhSeBr (Scheme 1, eq 2),8 (iii) PdCl2-catalyzed annulation of
+2-alkynylphenol derivatives with disulﬁdes in the presence of 2
+equiv of I2 (Scheme 1, eq 3),9 (iv) FeCl3-promoted annulation
+of 2-alkynylanisoles with disulﬁdes (Scheme 1, eq 4),10 and (v)
+I2-mediated cyclization of 2-alkynylanisoles with diaryl
+disulﬁdes (Scheme 1, eq 5).11 However, these methods require
+either expensive and air-sensitive metal catalysts or
+foul-
+smelling, toxic and unstable sulfur sources such as sulfenyl
+halides and disulﬁdes. Hence, a direct and concise method to
+synthesize 2-sulfenyl or 3-sulfenyl benzo[b]furans using stable
+and environmentally friendly reagents remains a signiﬁcant
+challenge for organic chemists.
+
+In the past two years, sulfonyl hydrazides, which are readily
+accessible, nonodorous, and stable solids, have emerged as
+novel sulfenylation reagents. Speciﬁcally, they have been used
+in the sulfenylation of iodoles,12 alkanes,13 ethers,13 naphthols
+and naphthylamines,14 as well as in the oxysulfenylation of
+alkenes,15 hydrothiolation of alkynes,16 and in the synthesis of
+unsymmetrical sulﬁdes.17 Recently, we reported the I2-catalyzed
+
+Scheme 1. Synthesis 2- or 3-Sulfenyl Benzo[b]furans via
+Diﬀerent Methods
+
+sulfenylation of pyrazolones with aryl sulfonyl hydrazides
+promoted by p-toluenesulfonic acid (PTSA).18 Inspired by the
+aforementioned background and our interest in the chemistry
+of sulfonyl hydrazides, we envisaged that sulfenyl benzo[b]-
+furans could be produced via the direct sulfenylation of
+benzofuran by sulfonyl hydrazides and electrophilic cyclization
+
+Received:
+January 20, 2015
+Published: February 12, 2015
+
+© 2015 American Chemical Society
+
+2918
+
+DOI: 10.1021/acs.joc.5b00146
+J. Org. Chem. 2015, 80, 2918−2924
+
+The Journal of Organic Chemistry
+
+of 2-alkynylphenol derivatives with sulfonyl hydrazides. Herein,
+we disclose concise and convenient methods to synthesize 2-
+aryl and 3-aryl benzo[b]furan thioethers using aryl sulfonyl
+hydrazides as sulfenylation reagents via catalysis with iodine.
+<para sub=“opt”>
+To begin our investigation, benzofuran was reacted with 3-
+chlorobenzenesulfonohydrazide 2a using Tian’s protocol (I2 10
+mol %, ethanol, 70 °C). Unfortunately,
+the sulfenylation
+reaction did not occur at all, and benzofuran decomposed at
+higher temperatures (120 °C). To circumvent this issue, a more
+stable benzofuran derivative, 2-phenylbenzofuran 1a, was
+reacted with 2a at 120 °C in ethanol (EtOH). To our delight,
+the desired sulfenylation product 3aa was obtained in 75% yield
+in the presence of 0.1 equiv of I2 as the catalyst at 120 °C
+(Table 1, entry 1). To identify the optimal reaction conditions,
+</para>
+Table 1. Optimization of I2-Catalyzed Reaction of 1a with
+2aa
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+I2 (equiv)
+
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.05
+0.01
+0.1
+0.1
+0.1
+
+t (h)
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+48
+48
+24
+24
+24
+
+T (°C)
+120
+120
+120
+120
+120
+120
+130
+100
+80
+120
+120
+120
+120
+120
+120
+
+solvent
+
+yield (%)
+
+EtOH
+H2O
+DCE
+toluene
+DMF
+1,4-dioxane
+1,4-dioxane
+1,4-dioxane
+1,4-dioxane
+1,4-dioxane
+1,4-dioxane
+1,4-dioxane
+1,4-dioxane
+1,4-dioxane
+1,4-dioxane
+
+75
+35
+79
+61
+0
+83
+81
+71
+58
+72b
+69
+trace
+84c
+75d
+25e
+
+aReaction conditions: 1a (1.0 mmol), 2a (2.0 mmol), solvent (0.5
+mL). b1a (1.0 mmol), 2a (2.0 mmol), solvent (1.0 mL). c1a (1.0
+mmol), 2a (1.8 mmol), solvent (0.5 mL). d1a (1.0 mmol), 2a (1.5
+mmol), solvent (0.5 mL). e1a (1.0 mmol), 2a (1.8 mmol), PTSA (1.0
+mol), solvent (0.5 mL).
+<para sub=“opt”>
+various solvents such as EtOH, 1,4-dioxane,
+toluene, 1,2-
+dichloroethane (DCE), N,N-dimethylformamide (DMF), and
+water were tested (Table 1, entry 2−6). 1,4-Dioxane gave the
+best result, in that 83% yield was obtained. Next, a few reaction
+temperatures and concentration were screened. Increasing the
+reaction temperature to 130 °C led to a slightly diminished
+yield (Table 1, entry 7). However, when the reaction was
+carried out at 100 and 80 °C, the yield decreased to 71 and
+58%, respectively (Table 1, entries 8 and 9). It was noteworthy
+that decreasing the concentration led to a decrease of the yield
+(Table 1, entry 10). Finally, the eﬀects of catalyst loading and
+equivalents of 2a were investigated (Table 1, entry 11−14).
+The results suggested that 0.1 equiv of the I2 catalyst was
+required to obtain a suitable product yield. When the catalyst
+loading was decreased to 1%, only a trace amount of the desired
+product was obtained (Table 1, entry 12). For sulfonyl
+hydrazide, 1.8 equiv of 2a were suﬃcient to produce a suitable
+yield (Table 1, entry 13). Further decrease in the amount of 2a
+</para>
+Note
+<para sub=“opt”>
+led to a decrease in the yield (Table 1, entry 14). Notably,
+unlike in the sulfenylation of naphthols, naphthylamines, and
+pyrazolones, the addition of an acid did not facilitate the
+transformation.14,18 In contrast, the presence of PTSA could
+accelerate the decomposition of 2-phenylbenzofuran (1a)
+which led to a diminished yield (Table 1, entry 15). Therefore,
+the optimized reaction conditions were determined to be as
+follows: 1a (1.0 mmol), 2a (1.8 mmol), I2 (0.1 mmol), and 1,4-
+dioxane (0.5 mL), at 120 °C.
+</para>
+<para sub="scope">
+in hand,
+
+With the optimized reaction conditions
+
+the
+generality and substrate scope of 2-substituted benzofurans
+and sulfonyl hydrazides were examined in the sulfenylation
+reaction. The results are illustrated in Table 2. A variety of
+</para>
+Table 2. I2-Catalyzed Cross Coupling with a Series of 2-
+Substituted Benzofurans and Aryl Sulfonyl Hydrazidesa
+
+aReaction conditions 1a−i (1.0 mmol), 2a−d (1.8 mmol), I2 (10 mol
+%), 1,4-dioxane (0.5 mL), 120 C, 24 h. bI2 (20 mol %) was used
+<para sub="scope">
+substituted aryl sulfonyl hydrazides could be coupled with
+various 2-substituted benzofurans to aﬀord the corresponding
+benzofuran thioethers in moderate to excellent yields. However,
+when aliphatic sulfonyl hydrazides such as methanesulfonohy-
+drazide and butane-1-sulfonohydrazide were employed as
+substrates, the desired coupling products were not detected
+under the optimized reaction conditions.
+</para>
+2919
+
+DOI: 10.1021/acs.joc.5b00146
+J. Org. Chem. 2015, 80, 2918−2924
+
+The Journal of Organic Chemistry
+<para sub="scope">
+For aromatic sulfonyl hydrazides, both electron-withdrawing
+and electron-donating groups, as well as meta-, ortho-, and para-
+substitutions (2a−2f) were tolerated under the optimized
+conditions. Notably, the identity of the substituent on the
+benzofuran had a signiﬁcant eﬀect on the sulfenylation reaction.
+In regard to substituents in the 2-position, alkyl-substituted
+benzofuran (1d) resulted in lower yields compared with the
+corresponding phenyl substrate (1a) when using 4-methyl-
+benzenesulfonohydrazide (2b) or 4-methoxybenzenesulfonohy-
+drazide (2d) as the sulfenylation reagent. Moreover, electron-
+withdrawing groups in the 2-position of the aryl substituent
+(1c) and 5-position of benzofuran (1f and 1i) resulted in lower
+yields as compared to that with substrates containing electron-
+donating groups.
+</para>
+<para sub="scope">
+Interestingly, when benzofuran-2-yltrimethylsilane (1j) was
+utilized as a substrate, the disulfenylation product (3jb) was
+obtained in 40% yield (Scheme 2).
+</para>
+Scheme 2. Sulfenylation of Benzofuran-2-yltrimethylsilane
+<para sub="scope">
+Notably, when 2-phenylbenzo[b]thiophene (1k) was
+coupled with 4-methylbenzenesulfonohydrazide (2b) under
+the optimized condition, the desired product 2-phenyl-3-(p-
+tolylthio)benzo[b]thiophene (3kb) was obtained in 24% yield.
+</para>
+<para sub="scope">
+In order to extend the scope of this transformation, 3-
+substituted benzofurans were tested under
+the optimized
+conditions. The results are summarized in Table 3. Both 3-
+</para>
+Note
+<para sub="scope">
+As mentioned previously, 2-sulfenyl or 3-sulfenyl benzo[b]-
+furans can be synthesized by the annulation of 2-alkynylphenol
+derivatives.7−11 Hence, 2-(phenylethynyl)phenol 6 was eval-
+uated in the reaction with 4-methylbenzenesulfonohydrazide
+(2b). As expected, the desired product 3ab was formed in 30%
+yield (Table 4, entry 1) under the standard conditions (I2 10
+</para>
+Table 4. I2-Catalyzed Electrophilic Cyclization of 2-
+Alkynylphenols with Aryl Sulfonyl Hydrazidesa
+
+entry
+
+6, Ar1
+
+1
+2
+3
+4
+5
+6
+
+6a, Ph
+6a, Ph
+6a, Ph
+6a, Ph
+6a, Ph
+6b, p-MeOC6H4
+
+2, Ar2
+
+2b, p-MeC6H4
+2b, p-MeC6H4
+2c, o-MeC6H4
+2d, p-MeOC6H4
+2g, p-BrC6H4
+2b, p-MeC6H4
+
+yield (%)
+3ab, 30b
+3ab, 80
+3ac, 66
+3ad, 35
+3ag, 39
+3bb, 78
+
+aReaction conditions: 6 (1.0 mmol), 2 (2.0 mmol), I2 (0.1 mmol),
+PTSA (0.5 mmol), 1,4-dioxane (0.5 mL), 120 °C, 24 h. bPTSA was
+not added.
+<para sub="scope">
+mol %, 1,4-dioxane, 120 °C). To improve the yield, various
+conditions were screened; addition of 0.5 equiv of PTSA greatly
+increased the yield (Table 4, entry 2). Other 2-alkynylphenol
+derivatives and aryl sulfonyl hydrazides were subjected to this
+tandem reaction, and fortunately provided the desired products
+in poor to good yields (Table 4, entry 3−6).
+</para>
+<para sub=“ques”>
+On the basis of the experimental and previously reported
+results,12,15 a plausible mechanism for these transformations is
+proposed in Scheme 3. Initially, aryl sulfonyl hydrazide 2 is
+</para>
+Table 3. I2-Catalyzed Cross Coupling with a Series of 3-
+Substituted Benzofurans and Aryl Sulfonyl Hydrazidesa
+
+Scheme 3. Possible Reaction Pathways
+
+aReaction conditions: 1a−i (1.0 mmol), 2a−d (1.8 mmol), I2 (10 mol
+%), 1,4-dioxane (0.5 mL), 120 C, 24 h.
+<para sub="scope">
+phenyl and 3-methyl substituted benzofurans reacted with
+various aryl sulfonyl hydrazides (2b, 2d, and 2e) smoothly and
+were converted to the sulfenylation products in moderate to
+good yields. Notably, when 5-methoxy-3-phenylbenzofuran
+(4b) was treated with 4-methylbenzenesulfonohydrazide (2b)
+under the catalysis of I2, disulfenylation product (5bb) was
+obtained in 54% yield.
+</para>
+<para sub=“ques”>
+converted to thiodiazonium iodide 7, which is attacked by
+benzofuran 1 and 4 to give sulfenylation products 3 and 5,
+respectively. For the tandem reaction, electrophilic addition of
+thiodiazonium iodide 7 to alkyne 6 gives thiirenium ion 8.
+Subsequently,
+intramolecular ring-opening of the thiirenium
+ion with the phenol moiety aﬀords compound 3.
+</para>
+In conclusion, we developed concise and eﬃcient methods
+for the synthesis of 2-aryl and 3-aryl benzofuran thioethers by
+the I2-catalyzed cross-coupling reaction of 3- and 2-substituted
+benzo[b]furans with aryl sulfonyl hydrazides via direct C−H
+functionalization, as well as the electrophilic cyclization of 2-
+alkynylphenol derivatives with aryl sulfonyl hydrazides. This
+study not only broadened the substrate scope of sulfonyl
+
+2920
+
+DOI: 10.1021/acs.joc.5b00146
+J. Org. Chem. 2015, 80, 2918−2924
+
+The Journal of Organic Chemistry
+
+hydrazides as novel and environmentally friendly reagents with
+sulfenylate electron-rich heterocycles, but also facilitated the
+synthesis of benzofuran thioethers via the oxysulfenylation of
+alkynes.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Experimental Methods. All solvents were distilled prior
+to use. Aryl benzo[b]furans were prepared according to the literature
+procedure.19 2-Alkynylphenol derivatives were prepared according to
+the literature procedure.20 Unless otherwise noted, chemicals were
+used as received without further puriﬁcation. For chromatography,
+200−300 mesh silica gel was employed. 1H and 13C{1H} NMR spectra
+were recorded at 400 and 100 MHz, respectively. Chemical shifts are
+reported in ppm using tetramethylsilane as internal standard. IR
+spectra were recorded in wave numbers (cm−1) with a FT-IR
+spectrometer. HRMS was performed on an FTMS mass instrument.
+Melting points are reported as uncorrected.
+I2-Catalyzed Reactions between Aryl
+Benzo[b]furans 1a−i, 4a−c and Aryl Sulfonyl Hydrazides 2a−f
+(Table 2 and Table 3). Aryl benzo[b]furan (1.0 mmol), aryl sulfonyl
+hydrazide (1.8 mmol), I2 (25.4 mg, 0.1 mmol) and 1,4-dioxane (0.5
+mL) were mixed in a sealed tube. The mixture was stirred at 120 °C
+until the aryl benzo[b]furan disappeared detected by TLC. Then, the
+solvent was evaporated under reduced pressure and the residue was
+puriﬁed by silica gel column chromatography to aﬀord the pure
+product.
+
+General Procedure I.
+
+General Procedure II.
+
+I2-Catalyzed Reactions between 2-
+Alkynylphenol Derivatives 6a, 6b and Aryl Sulfonyl Hydrazides
+2b, 2c, 2d, 2g (Table 4). 2-Alkynylphenol derivative (1.0 mmol), aryl
+I2 (25.4 mg, 0.1 mmol), 4-
+sulfonyl hydrazide (2.0 mmol),
+methylbenzenesulfonic acid (86 mg, 0.5 mmol) and 1,4-dioxane (0.5
+mL) were mixed in a sealed tube. The mixture was stirred at 120 °C
+for 24 h. Then, the solvent was evaporated under reduced pressure and
+the residue was puriﬁed by silica gel column chromatography to aﬀord
+the pure product.
+
+3-(3-Chlorophenylthio)-2-phenylbenzofuran (3aa). The crude
+compound was prepared through the general procedure I. After
+puriﬁcation by silica gel column chromatography (PE, PE = petroleum
+ether), compound 3aa was isolated as a white solid (281 mg, 84%):
+mp (melting point) = 60−61 °C; Rf (PE) = 0.3; IR (ﬁlm) 1576, 1460,
+1442, 1086, 1069, 772, 744, 688 cm−1; 1H NMR (400 MHz, CDCl3) δ
+8.20 (d, J = 8.8 Hz, 2H), 7.58 (d, J = 8.0 Hz, 1H), 7.34−7.49 (m, 5H),
+7.24−7.27 (m, 1H), 7.17 (d, J = 1.6 Hz, 1H), 7.02−7.12 (m, 3H);
+13C{1H} NMR (100 MHz, CDCl3) δ 157.8, 153.9, 138.4, 134.9, 130.4,
+130.0, 129.5, 129.4, 128.6, 127.3, 125.9, 125.6, 125.4, 124.3, 123.6,
+120.1, 111.4, 103.5; HRMS (ESI, m/z) calcd for C20H14ClOS [M +
+H]+ 337.0448, found 337.0453.
+
+2-Phenyl-3-(p-tolylthio)benzofuran (3ab).9 The crude compound
+was prepared through the general procedure I or procedure II. After
+puriﬁcation by silica gel column chromatography (PE), compound 3ab
+was isolated as a pale yellow solid (281 mg, 89% for procedure I) (253
+mg, 80% for procedure II): Rf (PE) = 0.5; 1H NMR (400 MHz,
+CDCl3) δ 8.24 (d, J = 8.0 Hz, 2H), 7.55 (d, J = 8.4 Hz, 1H), 7.44−7.49
+(m, 3H), 7.38−7.41 (m, 1H), 7.31−7.35 (m, 1H), 7.20−7.24 (m, 1H),
+7.11 (d, J = 8.0 Hz, 2H), 7.01 (d, J = 8.0 Hz, 2H), 2.26 (s, 3H);
+13C{1H} NMR (100 MHz, CDCl3) δ 157.1, 153.8, 135.3, 132.4, 130.8,
+129.8, 129.2, 128.5, 127.3, 126.8, 125.1, 123.3, 120.4, 111.2, 105.2,
+20.8.
+
+2-Phenyl-3-(o-tolylthio)benzofuran (3ac). The crude compound
+was prepared through the general procedure I or procedure II. After
+puriﬁcation by silica gel column chromatography (PE), compound 3ac
+was isolated as a white solid (225 mg, 71% for procedure I), (209 mg,
+66% for procedure II): mp (melting point) = 67−68 °C; Rf (PE) =
+0.5; IR (ﬁlm) 2932, 1590, 1453, 1442, 1067, 742, 689 cm−1; 1H NMR
+(400 MHz, CDCl3) δ 8.19 (d, J = 7.2 Hz, 2H), 7.56 (d, J = 8.4 Hz,
+1H), 7.38−7.45 (m, 4H), 7.32 (t, J = 7.2 Hz, 1H), 7.22 (d, J = 8.0 Hz,
+1H), 7.18 (d, J = 8.0 Hz, 1H), 7.01 (t, J = 7.2 Hz, 1H), 6.92 (t, J = 7.2
+Hz, 1H), 6.86 (d, J = 8.0 Hz, 1H), 2.50 (s, 3H); 13C{1H} NMR (100
+MHz, CDCl3) δ 157.5, 154.0, 135.2, 135.1, 130.8, 130.2, 129.8, 129.3,
+</para>
+Note
+<para sub=“exp”>
+128.5, 127.3, 126.6, 125.8, 125.3, 125.2, 123.4, 120.4, 111.3, 104.4,
+20.0; HRMS (ESI, m/z) calcd for C21H17OS [M + H]+ 317.0995,
+found 317.0999.
+
+3-(4-Methoxyphenylthio)-2-phenylbenzofuran (3ad).9 The crude
+compound was prepared through the general procedure I or procedure
+II. After puriﬁcation by silica gel column chromatography (PE:EA =
+30:1, PE = petroleum ether, EA = ethyl acetate), compound 3ad was
+isolated as a pale yellow oil (226 mg, 68% for procedure I), (116 mg,
+35% for procedure II): Rf (PE:EA = 30:1) = 0.3; 1H NMR (400 MHz,
+CDCl3) δ 8.26 (d, J = 8.8 Hz, 2H), 7.53 (d, J = 8.0 Hz, 1H), 7.45−7.48
+(m, 3H), 7.38−7.41 (m, 1H), 7.31 (t, J = 8.0 Hz, 1H), 7.18−7.24 (m,
+3H), 6.76 (d, J = 8.8 Hz, 2H), 3.73 (s, 3H); 13C{1H} NMR (100 MHz,
+CDCl3) δ 158.3, 156.6, 153.8, 130.8, 129.9, 129.24, 129.19, 128.5,
+127.3, 126.4, 125.1, 123.3, 120.4, 114.7, 111.2, 106.4, 55.2.
+
+3-(3-Methoxyphenylthio)-2-phenylbenzofuran (3ae). The crude
+compound was prepared through the general procedure I. After
+puriﬁcation by silica gel column chromatography (PE:EA = 30:1),
+compound 3ae was isolated as a pale yellow solid (183 mg, 55%): mp
+(melting point) = 83−84 °C; Rf (PE:EA = 30:1) = 0.5; IR (ﬁlm) 2927,
+1590, 1477, 1248, 1043, 768, 745, 687 cm−1; 1H NMR (400 MHz,
+CDCl3) δ 8.22 (d, J = 8.4 Hz, 2H), 7.56 (d, J = 8.4 Hz, 1H), 7.50 (d, J
+= 8.0 Hz, 1H), 7.38−7.48 (m, 3H), 7.34 (dt, J = 8.0 Hz, 1.2 Hz, 1H),
+7.24 (t, J = 7.2 Hz, 1H), 7.12 (t, J = 8.0 Hz, 1H) 6.77 (d, J = 8.0 Hz,
+1H), 6.75 (t, J = 2.0 Hz, 1H), 6.66 (dd, J = 8.0 Hz, 2.0 Hz, 1H) 3.68
+(s, 3H); 13C{1H} NMR (100 MHz, CDCl3) δ 160.0, 157.6, 153.9,
+137.6, 130.8, 129.9, 129.7, 129.4, 128.5, 127.4, 125.3, 123.5, 120.4,
+118.7, 112.1, 111.3, 111.0, 104.4, 55.1; HRMS (ESI, m/z) calcd for
+C21H17O2S [M + H]+ 333.0944, found 333.0949.
+
+2-Phenyl-3-(4-(triﬂuoromethyl)phenylthio)benzofuran (3af). The
+crude compound was prepared through the general procedure I. After
+puriﬁcation by silica gel column chromatography (PE), compound 3af
+was isolated as a white solid (265 mg, 72%): mp (melting point) =
+77−79 °C; Rf (PE) = 0.6; IR (ﬁlm) 1606, 1325, 1166, 1123, 1107,
+1087, 1063, 1012, 827, 746, 689 cm−1; 1H NMR (400 MHz, CDCl3) δ
+8.19 (d, J = 8.4 Hz, 2H), 7.59 (d, J = 8.4 Hz, 1H), 7.41−7.47 (m, 6H),
+7.35−7.39 (m, 1H), 7.23−7.26 (m, 3H); 13C{1H} NMR (100 MHz,
+CDCl3) δ 158.2, 154.0, 141.5, 130.3, 129.7, 129.4, 128.7, 127.5 (q, J =
+32 Hz, 1C), 127.4, 125.90 (q, J = 3.8 Hz, 1C), 125.85, 125.6, 124.1 (q,
+J = 270 Hz, 1C), 123.8, 120.1, 111.5, 102.9; HRMS (ESI, m/z) calcd
+for C21H13F3OS [M]+ 370.0634, found 370.0632.
+
+3-(4-Bromophenylthio)-2-phenylbenzofuran (3ag).11b The crude
+compound was prepared through the general procedure II. After
+puriﬁcation by silica gel column chromatography (PE:EA = 50:1),
+compound 3ag was isolated as a pale yellow oil (147 mg, 39%): Rf
+(PE:EA = 20:1) = 0.5; 1H NMR (400 MHz, CDCl3) δ 8.20 (d, J = 8.0
+Hz, 2H), 7.58 (d, J = 8.0 Hz, 1H), 7.41−7.49 (m, 4H), 7.29−7.38 (m,
+3H), 7.25 (t, J = 7.2 Hz, 1H), 7.05 (d, J = 8.8 Hz,2H); 13C{1H} NMR
+(100 MHz, CDCl3) δ 157.7, 153.9, 135.4, 132.0, 130.4, 129.6, 129.5,
+128.6, 127.9, 127.3, 125.4, 123.6, 120.2, 119.2, 111.4, 103.9.
+
+3-(3-Chlorophenylthio)-2-(4-methoxyphenyl)benzofuran (3ba).
+The crude compound was prepared through the general procedure
+I. After puriﬁcation by silica gel column chromatography (PE:EA =
+40:1), compound 3ba was isolated as a pale yellow solid (283 mg,
+77%): mp (melting point) = 84−85 °C; Rf (PE:EA = 30:1) = 0.6; IR
+(ﬁlm) 1609, 1576, 1499, 1460, 1452, 1256, 1177, 1081, 1033, 833,
+774, 746 cm−1; 1H NMR (400 MHz, CDCl3) δ 8.13−8.17 (m, 2H),
+7.55 (d, J = 8.4 Hz, 1H), 7.46 (d, J = 7.6 Hz, 1H), 7.33 (dt, J = 8.0 Hz,
+1.2 Hz, 1H), 7.24 (t, J = 8.0 Hz, 1H), 7.16 (t, J = 1.6 Hz, 1H), 7.05−
+7.12 (m, 2H), 7.02 (dt, J = 7.6 Hz, 1.6 Hz, 1H), 6.95−6.99 (m, 2H),
+3.84 (s, 3H); 13C{1H} NMR (100 MHz, CDCl3) δ 160.7, 158.2, 153.7,
+138.7, 134.9, 130.7, 130.1, 130.0, 125.8, 125.6, 125.0, 124.2, 123.6,
+122.2, 119.8, 114.1, 111.3, 101.5, 55.3; HRMS (ESI, m/z) calcd for
+C21H16ClO2S [M + H]+ 367.0554, found 367.0563.
+
+2-(4-Methoxyphenyl)-3-(p-tolylthio)benzofuran (3bb). The crude
+compound was prepared through the general procedure I or procedure
+II. After puriﬁcation by silica gel column chromatography (PE),
+compound 3bb was isolated as a pale yellow solid (288 mg, 83% for
+procedure I), (269 mg, 78% for procedure II): mp (melting point) =
+72−74 °C; Rf (PE) = 0.3; IR (ﬁlm) 1609, 1499, 1451, 1255, 1177,
+1079, 1034, 833, 804, 745 cm−1; 1H NMR (400 MHz, CDCl3) δ 8.19
+</para>
+2921
+
+DOI: 10.1021/acs.joc.5b00146
+J. Org. Chem. 2015, 80, 2918−2924
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(dd, J = 8.8 Hz, 2H), 7.52 (d, J = 8.4 Hz, 1H), 7.45−7.47 (m, 1H),
+7.28−7.32 (m, 1H), 7.19−7.22 (m, 1H), 7.01 (d, J = 8.4 Hz, 2H),
+6.96−7.02 (m, 4H), 3.85 (s, 3H), 2.26 (s, 3H); 13C{1H} NMR (100
+MHz, CDCl3) δ 160.4, 157.5, 153.7, 135.3, 132.7, 131.1, 129.8, 128.9,
+126.7, 124.7, 123.3, 122.5, 120.1, 114.0, 103.2, 55.3, 20.9; HRMS (ESI,
+m/z) calcd for C22H19O2S [M + H]+ 347.1100, found 347.1107.
+
+3-(3-(p-Tolylthio)benzofuran-2-yl)benzonitrile (3cb). The crude
+compound was prepared through the general procedure I. After
+puriﬁcation by silica gel column chromatography (PE:EA = 30:1),
+compound 3cb was isolated as a pale yellow solid (153 mg, 45%): mp
+(melting point) = 116−118 °C; Rf (PE:EA = 30:1) = 0.3; IR (ﬁlm)
+2231, 1491, 1450, 1255, 1172, 1078, 1016, 865, 802, 747 cm−1; 1H
+NMR (400 MHz, CDCl3) δ 8.56 (s, 1H), 8.52 (d, J = 8.0 Hz, 1H),
+7.65 (d, J = 8.0 Hz, 1H), 7.53−7.57 (m, 2H), 7.49 (d, J = 8.0 Hz, 1H),
+7.38 (t, J = 8.0 Hz, 1H), 7.25 (t, J = 8.0 Hz, 1H), 7.11 (d, J = 8.0 Hz,
+2H), 7.03 (d, J = 8.0 Hz, 2H), 2.27 (s, 3H); 13C{1H} NMR (100 MHz,
+CDCl3) δ 154.0, 153.9, 136.1, 132.1, 131.4, 131.2, 131.1, 130.6, 130.5,
+130.0, 129.4, 127.3, 126.1, 123.8, 120.8, 118.5, 113.0, 111.5, 108.0,
+20.9; HRMS (ESI, m/z) calcd for C22H16NOS [M + H]+ 342.0947,
+found 342.0952.
+
+5-Chloro-2-phenyl-3-(o-tolylthio)benzofuran (3ec). The crude
+compound was prepared through the general procedure I. After
+puriﬁcation by silica gel column chromatography (PE), compound 3ec
+was isolated as a pale yellow solid (213 mg, 61%): mp (melting point)
+= 119−120 °C; Rf (PE) = 0.4; IR (ﬁlm) 1466, 1450, 1440, 1256, 1198,
+1067, 804, 768, 744, 687 cm−1; 1H NMR (400 MHz, CDCl3) δ 8.18
+(dd, J = 8.0 Hz, 1.2 Hz, 2H), 7.39−7.49 (m, 5H), 7.29 (dd, J = 8.8 Hz,
+2.0 Hz, 1H), 7.19 (d, J = 7.2 Hz, 1H), 7.03 (dt, J = 7.2 Hz, 1.2 Hz,
+1H), 6.96 (t, 7.2 Hz, 1H), 6.82 (d, 7.6 Hz, 1H), 2.50 (s, 3H); 13C{1H}
+NMR (100 MHz, CDCl3) δ 159.0, 152.3, 135.3, 134.6, 132.4, 130.4,
+129.7, 129.3, 129.2, 128.6, 127.4, 126.7, 125.6, 125.5, 119.9, 112.3,
+104.0, 20.4; HRMS (ESI, m/z) calcd for C21H15ClOS [M]+ 350.0527,
+found 350.0535.
+
+2-Butyl-3-(p-tolylthio)benzofuran (3db). The crude compound
+was prepared through the general procedure I. After puriﬁcation by
+silica gel column chromatography (PE), compound 3db was isolated
+as a pale yellow oil (186 mg, 63%): Rf (PE) = 0.3; IR (ﬁlm) 2963,
+2954, 1489, 1452, 1033, 1016, 803, 747 cm−1; 1H NMR (400 MHz,
+CDCl3) δ 7.45 (d, J = 8.0 Hz, 1H), 7.39 (d, J = 8.0 Hz, 1H), 7.22−7.26
+(m, 1H), 7.15−7.19 (m, 1H), 7.03 (d, J = 8.0 Hz, 2H), 6.99 (d, J = 8.0
+Hz, 2H), 2.94 (t, J = 7.6 Hz, 2H), 2.25 (s, 3H), 1,72 (dt, J = 7.6 Hz,
+7.6 Hz, 2H), 1,37 (dt, J = 7.6 Hz, 7.4 Hz, 2H), 0.91 (t, J = 7.4 Hz, 3H);
+13C{1H} NMR (100 MHz, CDCl3) δ 163.7, 154.3, 135.2, 132.2, 129.6,
+128.5, 126.7, 124.0, 123.0, 119.7, 111.0, 104.9, 30.2, 26.3, 22.3, 20.9,
+13.7; HRMS (ESI, m/z) calcd for C19H21OS [M + H]+ 297.1308,
+found 297.1312.
+
+2-Butyl-3-(4-methoxyphenylthio)benzofuran (3dd). The crude
+compound was prepared through the general procedure I. After
+puriﬁcation by silica gel column chromatography (PE:EA = 30:1),
+compound 3dd was isolated as a pale yellow oil (128 mg, 41%): Rf
+(PE:EA = 30:1) = 0.3; IR (ﬁlm) 2955, 2924, 1591, 1493, 1452, 1244,
+1173, 1032, 822, 747 cm−1; 1H NMR (400 MHz, CDCl3) δ 7.44 (d, J
+= 8.0 Hz, 1H), 7.40 (dd, J = 8.0 Hz, 0.8 Hz, 1H), 7.22−7.26 (m, 1H),
+7.18 (dd, J = 8.0 Hz, 0.8 Hz, 1H), 7.14 (d, J = 8.8 Hz, 2H), 6.77 (d, J =
+8.8 Hz, 2H), 3.74 (s, 3H), 2.96 (t, J = 7.6 Hz, 2H), 1,72 (dt, J = 7.6
+Hz, 7.6 Hz, 2H), 1,38 (dt, J = 7.6 Hz, 7.6 Hz, 2H), 0.93 (t, J = 7.6 Hz,
+3H); 13C{1H} NMR (100 MHz, CDCl3) δ 163.2, 158.1, 154.2, 129.6,
+129.2, 127.2, 124.0, 123.0, 119.7, 114.6, 111.0, 106.0, 55.3, 30.2, 26.3,
+22.3, 13.7; HRMS (ESI, m/z) calcd for C19H21O2S [M + H]+
+313.1257, found 313.1263.
+
+5-Chloro-2-phenyl-3-(p-tolylthio)benzofuran (3eb).11a The crude
+compound was prepared through the general procedure I. After
+puriﬁcation by silica gel column chromatography (PE), compound 3eb
+was isolated as a pale yellow solid (249 mg, 71%): Rf (PE) = 0.4; 1H
+NMR (400 MHz, CDCl3) δ 8.23 (dd, J = 8.0 Hz, 1.2 Hz, 2H), 7.41−
+7.47 (m, 5H), 7.22 (dd, J = 8.8 Hz, 2.0 Hz, 1H), 7.09 (d, J = 8.0 Hz,
+2H), 7.03 (d, J = 8.0 Hz, 2H), 2.27 (s, 3H); 13C{1H} NMR (100 MHz,
+CDCl3) δ 158.7, 152.2, 135.8, 132.5, 131.9, 130.0, 129.7, 129.4, 129.2,
+128.6, 127.4, 126.9, 125.5, 120.0, 112.3, 105.0, 20.9.
+</para>
+Note
+<para sub=“exp”>
+5-Chloro-3-(4-methoxyphenylthio)-2-phenylbenzofuran (3ed).
+The crude compound was prepared through the general procedure
+I. After puriﬁcation by silica gel column chromatography (PE:EA =
+30:1), compound 3ed was isolated as a pale yellow solid (255 mg,
+70%): mp (melting point) = 99−101 °C; Rf (PE:EA = 30:1) = 0.5;IR
+(ﬁlm)1596, 1493, 1450, 1440, 1246, 1067, 1032, 825, 804, 768, 717,
+688 cm−1; 1H NMR (400 MHz, CDCl3) δ 8.26 (d, J = 8.8 Hz, 2H),
+7.43−7.50 (m, 5H), 7.27 (dd, J = 8.8 Hz, 2.0 Hz, 1H), 7.19 (dd, J = 6.8
+Hz, 2.0 Hz, 2H), 6.79 (dd, J = 6.8 Hz, 2.0 Hz, 2H), 3.75 (s, 3H);
+13C{1H} NMR (100 MHz, CDCl3) δ 158.4, 158.1, 152.2, 132.4, 129.7,
+129.4, 129.3, 129.1, 128.6, 127.4, 125.8, 125.4, 120.0, 114.9, 112.3,
+106.0, 55.3; HRMS (ESI, m/z) calcd for C21H15ClO2S [M]+ 366.0476,
+found 366.0481.
+
+5-Fluoro-2-phenyl-3-(p-tolylthio)benzofuran (3fb). The crude
+compound was prepared through the general procedure I. After
+puriﬁcation by silica gel column chromatography (PE), compound 3fb
+was isolated as a pale yellow solid (228 mg, 68%): mp (melting point)
+= 81−82 °C; Rf (PE:EA = 50:1) = 0.5; IR (ﬁlm) 1491, 1468, 1443,
+1158, 1085, 1069, 947, 855, 802, 767, 689 cm−1; 1H NMR (400 MHz,
+CDCl3) δ 8.21−8.24 (m, 2H), 7.40−7.47 (m, 4H), 7.09−7.13 (m,
+3H), 7.00−7.04 (m, 3H); 13C{1H} NMR (100 MHz, CDCl3) δ 159.6
+(d, J = 238 Hz, 1C), 158.9, 150.0, 135.8, 132.1 (d, J = 11 Hz, 1C),
+131.9, 129.9, 129.6, 129.5, 128.6, 127.3, 127.0, 112.9 (d, J = 26 Hz,
+1C), 112.0 (d, J = 9.4 Hz, 1C), 106.0 (d, J = 25 Hz, 1C), 105.6 (d, J =
+3.9 Hz, 1C), 20.9; HRMS (ESI, m/z) calcd for C21H16FOS [M + H]+
+335.0900, found 335.0908.
+
+5-Methyl-2-phenyl-3-(p-tolylthio)benzofuran (3gb). The crude
+compound was prepared through the general procedure I. After
+puriﬁcation by silica gel column chromatography (PE), compound 3gb
+was isolated as a pale yellow solid (282 mg, 85%): mp (melting point)
+= 96−98 °C; Rf (PE:EA = 50:1) = 0.4; IR (ﬁlm) 2921, 1491, 1473,
+1444, 1202, 1085, 1068, 1016, 827, 801, 766, 689 cm−1; 1H NMR (400
+MHz, CDCl3) δ 8.21−8.23 (m, 2H), 7.35−7.46 (m, 4H), 7.29 (s, 1H),
+7.13 (dd, J = 7.6 Hz, 1.2 Hz, 1H), 7.09 (d, J = 8.0 Hz, 2H), 7.01 (d, J =
+8.0 Hz, 2H), 2.39 (s, 3H), 2.26 (s, 3H); 13C{1H} NMR (100 MHz,
+CDCl3) δ 157.5, 152.3, 135.3, 133.0, 132.7, 131.0, 129.9, 129.8, 129.2,
+128.5, 127.3, 126.5, 120.1, 110.8, 104.6, 21.4, 20.9; HRMS (ESI, m/z)
+calcd for C22H19OS [M + H]+ 331.1151, found 331.1156.
+
+4,6-Dichloro-2-phenyl-3-(p-tolylthio)benzofuran (3hb). The
+crude compound was prepared through the general procedure I.
+After puriﬁcation by silica gel column chromatography (PE),
+compound 3hb was isolated as a white solid (116 mg, 30%): mp
+(melting point) = 147−148 °C; Rf (PE:EA = 50:1) = 0.4; IR (ﬁlm)
+2921, 2846, 1723, 1575, 1491, 1455, 1398, 1325, 1176, 1081, 1068,
+965, 839, 799, 682 cm−1; 1H NMR (400 MHz, CDCl3) δ 8.16−8.19
+(m, 2H), 7.50 (d, J = 1.6 Hz, 1H), 7.44−7.47 (m, 3H), 7.23 (d, J = 1.6
+Hz, 1H), 7.03−7.07 (m, 4H), 2.28 (s, 3H); 13C{1H} NMR (100 MHz,
+CDCl3) δ 159.9, 154.6, 135.4, 134.0, 130.8, 130.1, 129.9, 128.8, 128.6,
+127.9, 127.5, 126.2, 126.0, 125.5, 110.8, 104.8, 20.9; HRMS (ESI, m/z)
+calcd for C21H15Cl2OS [M + H]+ 385.0215, found 385.0219.
+
+Methyl 2-phenyl-3-(p-tolylthio)benzofuran-5-carboxylate (3ib).
+The crude compound was prepared through the general procedure I.
+After puriﬁcation by silica gel column chromatography (PE),
+compound 3ib was isolated as a pale yellow solid (85 mg, 23%):
+mp (melting point) = 116−117 °C; Rf (PE:EA = 30:1) = 0.4; IR (ﬁlm)
+2918, 2847, 1721, 1491, 1441, 1232, 1095, 767, 746, 690 cm−1; 1H
+NMR (400 MHz, CDCl3) δ 8.23−8.26 (m, 3H); 8.07 (dd, J = 8.4 Hz,
+1.6 Hz, 1H), 7.58 (d, J = 8.4 Hz, 1H), 7.40−7.49 (m, 3H), 7.10 (d, J =
+8.0 Hz, 2H), 7.03 (d, J = 8.0 Hz, 2H), 3.90 (s, 3H), 2.27 (s, 3H);
+13C{1H} NMR (100 MHz, CDCl3) δ 167.0, 158.7, 156.4, 135.8, 132.1,
+131.2, 129.9, 129.7, 129.3, 128.6, 127.4, 127.0, 126.9, 125.9, 122.7,
+111.2, 105.9, 52.1, 20.9; HRMS (ESI, m/z) calcd for C23H19O3S [M +
+H]+ 375.1049, found 375.1057, calcd for C23H18NaO3S [M + Na]+
+397.0869, found 397.0875.
+
+2,3-Bis(p-tolylthio)benzofuran (3jb). Benzofuran-2-yltrimethylsi-
+lane (190 mg, 1 mmol), 4-methylbenzenesulfonohydrazide (335 mg,
+1.8 mmol), I2 (23.0 mg, 0.09 mmol) and 1,4-dioxane (0.5 mL) were
+mixed in a sealed tube. The mixture was stirred at 120 °C for 24 h.
+Then, the solvent was evaporated under reduced pressure and the
+residue was puriﬁed by silica gel column chromatography (PE),
+</para>
+2922
+
+DOI: 10.1021/acs.joc.5b00146
+J. Org. Chem. 2015, 80, 2918−2924
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+compound 3jb was isolated as a pale yellow solid (130 mg, 40%): mp
+(melting point) = 60−61 °C; Rf (PE:EA = 50:1) = 0.4; IR (ﬁlm) 2920,
+1597, 1491, 1443, 1083, 1029, 1016, 803, 746 cm−1; 1H NMR (400
+MHz, CDCl3) δ 7.41−7.43 (m, 1H), 7.35−7.38 (m, 1H), 7.26−7.32
+(m, 3H), 7.15−7.19 (m, 1H), 7.13 (dd, J = 6.4 Hz, 1.6 Hz, 2H), 7.09
+(d, J = 8.0 Hz, 2H), 7.01 (d, J = 8.0 Hz, 2H), 2.31 (s, 3H), 2.27 (s,
+3H); 13C{1H} NMR (100 MHz, CDCl3) δ 155.9, 153.1, 137.9, 136.1,
+131.6, 131.1, 130.0, 129.7, 129.2, 129.0, 128.4, 125.5, 123.4, 120.4,
+116.4, 111.5, 21.1, 20.9; HRMS (ESI, m/z) calcd for C22H19OS2 [M +
+H]+ 363.0872, found 363.0881.
+
+2-Phenyl-3-(p-tolylthio)benzo[b]thiophene (3kb). 2-Phenylbenzo-
+[b]thiophene (210 mg, 1 mmol), 4-methylbenzenesulfonohydrazide
+(335 mg, 1.8 mmol), I2 (23.0 mg, 0.09 mmol) and 1,4-dioxane (0.5
+mL) were mixed in a sealed tube. The mixture was stirred at 120 °C
+for 24 h. Then, the solvent was evaporated under reduced pressure and
+the residue was puriﬁed by silica gel column chromatography (PE),
+compound 3kb was isolated as a pale yellow solid (80 mg, 24%): mp
+(melting point) = 72−73 °C; Rf (PE) = 0.4; IR (ﬁlm) 2949, 2918,
+2846, 1738, 1491, 1430, 1082, 1015, 804, 752, 731, 694 cm−1; 1H
+NMR (400 MHz, CDCl3) δ 7.80−7.87 (m, 2H), 7.87 (dd, J = 8.0 Hz,
+1.6 Hz, 2H), 7.33−7.44 (m, 5H), 6.94−6.99 (m, 4H), 2.25 (s, 3H);
+13C{1H} NMR (100 MHz, CDCl3) δ 149.2, 141.0, 138.3, 135.0, 133.9,
+133.4, 129.8, 129.7, 128.8, 128.4, 126.3, 125.1, 125.0, 123.9, 122.1,
+111.8, 20.9; HRMS (ESI, m/z) calcd for C21H17S2 [M + H]+ 333.0766,
+found 333.0771.
+
+2-(3-Chlorophenylthio)-3-phenylbenzofuran (5aa). The crude
+compound was prepared through the general procedure I. After
+puriﬁcation by silica gel column chromatography (PE), compound 5aa
+was isolated as a pale yellow oil (282 mg, 84%): Rf (PE) = 0.4; IR
+(ﬁlm) 2990, 2900, 1576, 1460, 1445, 1264, 1092, 1079, 965, 773, 739,
+698 cm−1; 1H NMR (400 MHz, CDCl3) δ 7.69 (d, J = 7.6 Hz, 1H),
+7.60 (d, J = 7.6 Hz, 2H), 7.45−7.52 (m, 3H), 7.36−7.41(m, 2H), 7.29
+(t, J = 7.6 Hz, 1H), 7.21 (s, 1H), 7.13−7.15 (m, 2H), 7.06−7.09 (m,
+1H); 13C{1H} NMR (100 MHz, CDCl3) δ 156.1, 142.1, 137.0, 135.0,
+131.1, 130.2, 129.2, 129.0, 128.7, 128.2, 127.8, 127.6, 126.8, 126.1,
+126.0, 123.3, 120.7, 111.6; HRMS (ESI, m/z) calcd for C20H14ClOS
+[M + H]+ 337.0448, found 337.0452.
+
+3-Phenyl-2-(p-tolylthio)benzofuran (5ab). The crude compound
+was prepared through the general procedure I. After puriﬁcation by
+silica gel column chromatography (PE), compound 5ab was isolated as
+a pale yellow solid (221 mg, 70%): mp (melting point) = 54−56 °C;
+Rf (PE) = 0.3; IR (ﬁlm) 1491, 1444, 1119, 1078, 964, 804, 770, 749,
+698 cm−1; 1H NMR (400 MHz, CDCl3) δ 7.67 (d, J = 8.0 Hz, 1H),
+7.62−7.64 (m, 2H), 7.45−7.49 (m, 3H), 7.32−7.40 (m, 2H), 7.27 (dt,
+J = 8.0 Hz, 0.8 Hz, 1H), 7.18 (d, J = 8.0 Hz, 2H), 7.06 (d, J = 8.0 Hz,
+2H), 2.28 (s, 3H); 13C{1H} NMR (100 MHz, CDCl3) δ 156.0, 144.1,
+136.9, 131.5, 130.1, 130.0, 129.3, 128.9, 128.6, 128.1, 127.9, 127.5,
+125.6, 123.1, 120.5, 111.5, 21.0; HRMS (ESI, m/z) calcd for
+C21H17OS [M + H]+ 317.0995, found 317.1002.
+
+2-(4-Methoxyphenylthio)-3-phenylbenzofuran (5ad). The crude
+compound was prepared through the general procedure I. After
+puriﬁcation by silica gel column chromatography (PE:EA = 30:1),
+compound 5ad was isolated as a pale yellow solid (274 mg, 82%): mp
+(melting point) = 55−57 °C; Rf (PE:EA = 30:1) = 0.4; IR (ﬁlm) 1592,
+1493, 1444, 1290, 1246, 1173, 1031, 964, 825, 770, 749, 698 cm−1; 1H
+NMR (400 MHz, CDCl3) δ 7.63−7.66 (m, 3H), 7.46−7.51 (m, 3H),
+7.41 (t, J = 7.2 Hz, 1H), 7.34 (dt, J = 8.0 Hz, 1.2 Hz, 1H), 7.27−7.31
+(m, 2H), 7.24−7.26 (m, 1H), 6.81 (dd, J = 6.8 Hz, 2.0 Hz, 2H), 3.76
+(s, 3H); 13C{1H} NMR (100 MHz, CDCl3) δ 159.3, 155.8, 145.1,
+131.9, 131.6, 129.4, 128.6, 128.1, 127.8, 126.3, 125.4, 124.4, 123.0,
+120.4, 114.8, 111.4, 55.3; HRMS (ESI, m/z) calcd for C21H17O2S [M
++ H]+ 333.0944, found 333.0952.
+
+2-(3-Methoxyphenylthio)-3-phenylbenzofuran (5ae). The crude
+compound was prepared through the general procedure I. After
+puriﬁcation by silica gel column chromatography (PE:EA = 30:1),
+compound 5ae was isolated as a pale yellow solid (198 mg, 60%): mp
+(melting point) = 77−79 °C; Rf (PE:EA = 30:1) = 0.5; IR (ﬁlm) 1590,
+1477, 1444, 1248, 1232, 1041, 964, 770, 749, 698 cm−1; 1H NMR (400
+MHz, CDCl3) δ 7.68 (d, J = 7.6 Hz, 1H), 7.63 (d, J = 7.6 Hz, 2H),
+7.45−7.52 (m, 3H), 7.40 (d, J = 8.0 Hz, 1H), 7.36 (d, J = 8.0 Hz, 1H),
+
+7.28 (t, J = 7.6 Hz, 1H), 7.15 (t, J = 8.0 Hz, 1H), 6.79−6.82 (m, 2H),
+6.71 (dd, J = 8.8 Hz, 1.2 Hz, 1H), 3.70 (s, 3H); 13C{1H} NMR (100
+MHz, CDCl3) δ 160.1, 156.1, 143.1, 136.2, 131.4, 130.0, 129.3, 128.6,
+128.5, 128.0, 127.9, 125.8, 123.2, 120.6, 120.3, 113.6, 112.3, 111.6,
+55.2; HRMS (ESI, m/z) calcd for C21H17O2S [M + H]+ 333.0944,
+found 333.0948.
+
+5-Methoxy-3-phenyl-2,6-bis(p-tolylthio)benzofuran (5bb). 5-Me-
+thoxy-3-phenylbenzofuran (224 mg, 1 mmol), 4-methylbenzenesulfo-
+nohydrazide (558 mg, 3 mmol), I2 (25.4 mg, 0.1 mmol) and 1,4-
+dioxane (0.5 mL) were mixed in a sealed tube. The mixture was stirred
+at 120 °C for 24 h. Then, the solvent was evaporated under reduced
+pressure and the residue was puriﬁed by silica gel column
+chromatography (PE:EA = 30:1), compound 5bb was isolated as a
+pale yellow solid (252 mg, 54%): mp (melting point) = 120−122 °C;
+Rf (PE:EA = 30:1) = 0.3; IR (ﬁlm) 1491, 1457, 1438, 1269, 1198,
+1149, 955, 807, 765, 737, 699 cm−1; 1H NMR (400 MHz, CDCl3) δ
+7.59 (d, J = 8.4 Hz, 2H), 7.50 (t, J = 7.6 Hz, 2H), 7.40−7.43 (m, 3H),
+7.21 (d, J = 7.6 Hz, 2H), 7.11 (d, J = 8.4 Hz, 2H), 7.03−7.05 (m, 3H),
+6.88 (s, 1H), 3.92 (s, 3H), 2.39 (s, 3H), 2.28 (s, 3H); 13C{1H} NMR
+(100 MHz, CDCl3) δ 152.7, 151.1, 143.7, 138.8, 136.7, 134.3, 131.5,
+131.0, 130.4, 129.9, 129.1, 128.63, 128.60, 128.3, 127.9, 127.7, 127.4,
+125.9, 110.8, 100.5, 56.4, 21.2, 20.9; HRMS (ESI, m/z) calcd for
+C29H25O2S2 [M]+ 469.1290, found 469.1279.
+
+5-Methoxy-3-phenyl-2-(p-tolylthio)benzofuran (5cb). The crude
+compound was prepared through the general procedure I. After
+puriﬁcation by silica gel column chromatography (PE), compound 5cb
+was isolated as a pale yellow oil (137 mg, 54%): Rf (PE) = 0.3; IR
+(ﬁlm) 1492, 1448, 1233, 1073, 803, 745 cm−1; 1H NMR (400 MHz,
+CDCl3) δ 7.50 (d, J = 7.6 Hz, 1H), 7.41 (d, J = 8.0 Hz, 1H), 7.30 (dt, J
+= 8.0 Hz, 1.2 Hz, 1H), 7.21- (t, J = 7.6 Hz, 1H), 7.14 (d, J = 8.0 Hz,
+2H), 7.04 (d, J = 8.0 Hz, 2H), 2.35 (s, 3H), 2.26 (s, 3H); 13C{1H}
+NMR (100 MHz, CDCl3) δ 155.7, 143.8, 136.6, 131.4, 129.9, 129.3,
+128.4, 125.3, 123.4, 122.5, 119.7, 111.3, 20.9, 9.3; HRMS (ESI, m/z)
+calcd for C16H15OS [M + H]+ 255.0838, found 255.0842.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Spectroscopic for compounds 3aa−3kb and 5aa−5cb. This
+material is available free of charge via the Internet at http://
+pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Authors
+*E-mail: hxxyzhx@mail.tjnu.edu.cn.
+*E-mail: lukui@tust.edu.cn.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+The authors sincerely thank the ﬁnancial support from National
+Science Foundation of China (Grants 21202119, 21202118).
+
+■ REFERENCES
+
+(1) (a) Comprehensive Heterocyclic Chemistry II; Katritzky, A. R.,
+Rees, C. W., Scriven, E. F. V., Eds.; Pergamon Press: Oxford, 1996;
+Vol. 2, p 59. (b) Carlsson, B.; Singh, B. N.; Temciuc, M.; Nilsson, S.;
+Li, Y. L.; Mellin, C.; Malm, J. J. Med. Chem. 2002, 45, 623. (c) Flynn,
+B. L.; Hamel, E.; Jung, M. K. J. Med. Chem. 2002, 45, 2670. (d) Ando,
+K.; Kawamura, Y.; Akai, Y.; Kunitomo, J. I.; Yokomizo, T.; Yamashita,
+M.; Ohta, S.; Ohishi, T.; Ohishi, Y. Org. Biomol. Chem. 2008, 6, 296.
+(e) Hou, X. L.; Yang, Z.; Yeung, K. S.; Wong, H. N. C. Prog. Heterocycl.
+Chem. 2008, 19, 176. (f) Yeung, K. S.; Peng, X. S.; Wu, J.; Fan, R.;
+Hou, X. L. Prog. Heterocycl. Chem. 2013, 23, 183.
+(2) (a) Takasaki, M. T.; Komatsu, K.; Tokuda, H.; Nishino, H.
+Cancer Lett. 2000, 158, 53. (b) Lambert, J. D.; Meyers, R. O.;
+Timmermann, B. N.; Dorr, R. T. Cancer Lett. 2001, 171, 47. (c) Li, X.
+Y.; He, B. F.; Luo, H. J.; Huang, N. Y.; Deng, W. Bioorg. Med. Chem.
+
+2923
+
+DOI: 10.1021/acs.joc.5b00146
+J. Org. Chem. 2015, 80, 2918−2924
+
+The Journal of Organic Chemistry
+
+Lett. 2013, 23, 4617. (d) Hranjec, M.; Sovic, I.; Ratkaj, I.; Pavlovic, G.;
+Ilic, N.; Valjalo, L.; Pavelic, K.; Pavelic, S. K.; Zamola, G. K. Eur. J. Med.
+Chem. 2013, 59, 111. (e) Bazin, M. A.; Bodero, L.; Tomasoni, C.;
+Rousseau, B.; Roussakis, C.; Marchand, P. Eur. J. Med. Chem. 2013, 69,
+823. (f) Xie, F.; Zhu, H.; Zhang, H.; Lang, Q.; Tang, L.; Huang, Q.;
+Yu, L. Eur. J. Med. Chem. 2015, 89, 310.
+(3) (a) Craigo, J.; Callahan, M.; Huang, R. C. C.; DeLucia, A. L.
+Antiviral Res. 2000, 47, 19. (b) Galal, S. A.; El-All, A. S. A.; Abdallah,
+M. M.; El-Diwani, H. I. Bioorg. Med. Chem. Lett. 2009, 19, 2420.
+(c) Galal, S. A.; El-All; Hegab, K. H.; Magd-El-Din, A. A.; Youssef, N.
+S.; El-Diwani, H. Eur. J. Med. Chem. 2010, 45, 3035. (d) Takaya, D.;
+Yamashita, A.; Kamijo, K.; Gomi, J.; Ito, M.; Maekawa, S.; Enomoto,
+N.; Sakamoto, N.; Watanabe, Y.; Arai, R.; Umeyama, H.; Honma, T.;
+Matsumoto, T.; Yokoyama, S. Bioorg. Med. Chem. 2011, 19, 6892.
+(e) Malpania, Y.; Acharya, R.; Kim, S. Y.; Jeong, H. C.; Kim, P.; Han,
+S. B.; Kim, M.; Lee, C. K.; Kim, J. N.; Jung, Y. S. Eur. J. Med. Chem.
+2013, 62, 534.
+(4) (a) Masubuchi, M.; Ebiike, H.; Kawasaki, K. I.; Sogabe, S.;
+Morikami, K.; Shiratori, Y.; Tsujii, S.; Fujii, T.; Sakata, K.; Hayase, M.;
+Shindoh, H.; Aoki, Y.; Ohstuka, T.; Shimma, N. Bioorg. Med. Chem.
+2003, 11, 4463. (b) Aslam, S. N.; Stevenson, P. C.; Phythian, S. J.;
+Veitch, N. C.; Hall, D. R. Tetrahedron 2006, 62, 4214. (c) Gundogdu-
+Karaburun, N.; Benkli, K.; Tunali, Y.; Ucucu, U.; Demirayak, S. Eur. J.
+Med. Chem. 2006, 41, 651. (d) Ryu, C. K.; Song, A. L.; Lee, J. Y.;
+Hong, J. A.; Yoon, J. H. A. Med. Chem. Lett. 2010, 20, 6777.
+(e) Bandgar, B. P.; Patil, S. A.; Korbad, B. L.; Biradar, S. C.; Nile, S. N.;
+Khobragade, C. N. Eur. J. Med. Chem. 2010, 45, 3223.
+(5) (a) Dawood, K. M.; Abdel-Gawad, H.; Rageb, E. A.; Ellithey, M.;
+Mohamed, H. A. Bioorg. Med. Chem. 2006, 14, 3672. (b) Wu, S. F.;
+Chang, F. R.; Wang, S. Y.; Hwang, T. L.; Lee, C. L.; Chen, S. L.; Wu,
+C. C.; Wu, Y. C. J. Nat. Prod. 2011, 74, 989. (c) Hu, Z. F.; Chen, L. L.;
+Qi, J.; Wang, Y. H.; Zhang, H.; Yu, B. Y. Fitoterapia 2011, 82, 190.
+(d) Yadav, P.; Singh, P.; Tewari, A. K. Bioorg. Med. Chem. Lett. 2014,
+24, 2251. (e) Xiea, Y. S.; Kumar, D.; Bodduri, V. D. V.; Tarani, P. S.;
+Zhao, B. X.; Miao, J. Y.; Jang, K.; Shin, D. S. Tetrahedron Lett. 2014,
+55, 2796. (f) Hassan, G. S.; Abou-Seri, S. M.; Kamel, G.; Ali, M. M.
+Eur. J. Med. Chem. 2014, 76, 482.
+(6) (a) Carter, G. A.; Chamberlain, K.; Wain, R. L. Ann. Appl. Biol.
+1978, 88, 57. (b) Zacchino, S.; Rodriguez, G.; Pezzenati, G.; Orellana,
+G.; Enriz, R.; Gonzalez, S. M. J. Nat. Prod. 1997, 60, 659.
+(7) Yue, D.; Yao, T.; Larock, R. C. J. Org. Chem. 2005, 70, 10292.
+(8) Manarin, F.; Roehrs, J. A.; Gay, R. M.; Brandao, R. H.; Nogueira,
+C. W.; Zeni, G. J. Org. Chem. 2009, 74, 2153.
+(9) Du, H. A.; Zhang, X. G.; Tang, R. Y.; Li, J. H. J. Org. Chem. 2009,
+74, 7844.
+(10) Gay, R. M.; Manarin, F.; Schneider, C. C.; Barancelli, D. A.;
+Costa, M. D.; Zeni, G. J. Org. Chem. 2010, 75, 5701.
+(11) (a) Xu, M.; Zhang, X. H.; Zhong, P. Tetrahedron Lett. 2011, 52,
+6800. (b) Han, J. S.; Shao, Y. L.; Zhang, X. H.; Zhong, P. Phosphorus
+Sulphur 2013, 188, 1599.
+(12) Yang, F.-L.; Tian, S.-K. Angew. Chem., Int. Ed. 2013, 52, 4929.
+(13) Guo, S.; He, W.; Xiang, J.; Yuan, Y. Chem. Commun. 2014, 50,
+8578.
+(14) Kang, X.; Yan, R.; Yu, G.; Pang, X.; Liu, X.; Li, X.; Xiang, L.;
+Huang, G. J. Org. Chem. 2014, 79, 10605.
+(15) Yang, F.-L.; Wang, F.-X.; Wang, T.-T.; Wang, Y.-J.; Tian, S.-K.
+Chem. Commun. 2014, 50, 2111.
+(16) Singh, R.; Raghuvanshi, D. S.; Singh, K. N. Org. Lett. 2013, 15,
+4202.
+(17) Singh, N.; Singh, R.; Raghuvanshi, D. S.; Singh, K. N. Org. Lett.
+2013, 15, 5874.
+(18) Zhao, X.; Zhang, L.; Li, T.; Liu, G.; Wang, H.; Lu, K. Chem.
+Commun. 2014, 50, 13121.
+(19) (a) Dai, W.; Lai, K. W. Tetrahedron Lett. 2002, 43, 9377.
+(b) Sun, S.; Wang, J.; Xu, Z.; Cao, L.; Shi, Z.; Zhang, H. Tetrahedron
+2014, 70, 3798. (c) Khan, M. W.; Alam, M. J.; Rashid, M. A.;
+Chowdhury, R. Bioorg. Med. Chem. 2005, 13, 4796. (d) Chang, C. W.;
+Chein, R. J. J. Org. Chem. 2011, 76, 4154. (e) Brady, W. T.; Gu, Y. Q. J.
+
+Note
+
+Heterocycl. Chem. 1988, 25, 969. (f) Habermann, J.; Ley, S. V.; Smits,
+R. J. Chem. Soc., Perkin Trans 1. 1999, 17, 2421.
+(20) (a) Sen, S.; Kulkarni, P.; Borate, K.; Pai, N. R. Tetrahedron Lett.
+2009, 50, 4128. (b) Fischer, J.; Savage, G. P.; Coster, M. J. Org. Lett.
+2011, 13, 3376.
+
+2924
+
+DOI: 10.1021/acs.joc.5b00146
+J. Org. Chem. 2015, 80, 2918−2924
+
+

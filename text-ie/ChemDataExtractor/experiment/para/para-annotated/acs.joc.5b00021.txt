@@ -1,0 +1,899 @@
+Note
+
+pubs.acs.org/joc
+
+Preparation, Structure, and Redox Behavior of
+Bis(diarylmethylene)dihydrothiophene and Its π‑Extended
+Analogues
+Takashi Takeda* and Tomoyuki Akutagawa
+Institute of Multidisciplinary Research for Advanced Materials, Tohoku University, Sendai, Miyagi 980-8577, Japan
+
+*S Supporting Information
+
+ABSTRACT: The preparation, X-ray structure, and optoelectronic proper-
+ties of bis(diarylmethylene)dihydrothiophene 1 and its π-extended analogues
+2 are described. The development of a simple, short-step synthetic route
+allowed us to prepare derivatives with diﬀerent aryl units. X-ray crystallo-
+graphic analysis of 1b and 2b revealed their quinoidal structures, which exhibit
+strong electronic absorption in the visible region. Cyclic voltammetry
+measurements revealed their strong electron-donating properties. 1b showed
+two-step electrochromic behavior between the corresponding radical cation
+and dication.
+
+Q uinoidal compounds have attracted considerable
+
+attention with respect to their reactivity and diradical
+the simplest
+character. For example, o-quinodimethane,
+shows high reactivity.1 Recently, π-
+quinoidal molecule,
+conjugated quinoidal molecules with diradical character have
+been reported to show low-energy light absorption that reached
+to the near-infrared (NIR) region.2
+
+Polythiophene,3 thienothiophene, and their derivatives, such
+as P3HT4 and BTBT,5 have been extensively studied from the
+viewpoint of conducting organic materials in hole-transporting
+materials for use in organic ﬁeld-eﬀect transistors6 and bulk
+heterojunction solar cells.7 Polythiophene derivatives are
+characterized by strong electron-donating properties and a
+narrower HOMO−LUMO gap due to the long π-conjugation
+of electron-donating thiophene units. The relationships
+between the number of thiophene rings and photophysical
+and/or electronic properties have been extensively studied with
+oligothiophene derivatives.8
+
+On the basis of the unique properties of quinoidal molecules
+and oligothiophene and/or thienothiophene, quinoidal oligo-
+thiophene should be an interesting structural motif with regard
+to its electronic, photonic, and diradical characteristics. In fact,
+quinoidal oligothiophene and thienothiophene with dicyano-
+methylene groups have been extensively studied as organic
+conductors,9 optical materials,10 and organic ﬁeld-eﬀect
+transistors.11 For example, Otsubo et al.
+studied an
+oligothiophene with a dicyanomethylene group up to a
+hexamer and reported amphoteric redox behavior and the
+emergence of a diradical character with extension of
+the
+framework.12 Dihydrothienothiophenes with
+thienoquinoidal
+dicyanomethylene units have also been prepared for examina-
+tion of their photophysical and conductive properties.13 While
+quinoidal oligothiophenes and thienothiophene with electron-
+withdrawing dicyanomethylene units have been extensively
+
+examined, little is known about those with electron-donating
+substituents. Although bis(diphenylmethylene)dihydrothio-
+phene 1a and its π-extended analogue have been reported
+sporadically,14 their molecular structures and their optical and
+electronic properties have not been well examined.
+
+In this work, we prepared bis(diarylmethylene)dihydrothio-
+phene 1 and its π-extended analogues 2 by a simple and
+versatile synthetic route. Because quinoidal bithiophene with
+diphenylmethylene groups has been reported to isomerize in
+solution,15 we chose thienothiophene instead to expand the
+thiophene core. X-ray structural analysis of 1 and 2 revealed
+their quinoidal molecular structure. Extension of a π-electron
+unit and the manipulation of electron-donating and -accepting
+groups on an aryl group strongly aﬀect their absorption spectra.
+With regard to the electrochemistry of
+these derivatives,
+diﬀerent redox behaviors were observed depending on the
+electron-donating and -accepting properties on the terminal
+aryl group. Compound 1b with a simple molecular structure
+showed tricolor electrochromic behavior.
+
+We ﬁrst sought to identify an eﬃcient synthetic route for 1
+and 2. It has been reported that ﬂuorene-fused dihydrothieno-
+thiophene with a quinoidal molecular structure could be
+synthesized from the corresponding diol by dehydration in the
+solid state or in a photochemical reaction and from the
+corresponding dihydro derivative by deprotonation followed by
+oxidation.14c However, some of these reactions require extreme
+reaction conditions. Nakayama et al. reported the preparation
+of 1a−c from the corresponding dication species.14b However,
+during the course of our studies, we found that these cations
+
+Received:
+Published:
+
+January 7, 2015
+January 29, 2015
+
+© 2015 American Chemical Society
+
+2455
+
+DOI: 10.1021/acs.joc.5b00021
+J. Org. Chem. 2015, 80, 2455−2461
+
+The Journal of Organic Chemistry
+
+Note
+
+−CB (1 and 2), CC
+
+−CC
+
+−CD (2) bonds are shorter than the CB
+<para sub=“props”>
+Single-crystal X-ray crystallographic analyses and DFT
+calculations were performed for neutral donors 1 and 2 and
+their respective dicationic states 12+ and 22+ to examine their
+molecular structures. Figure 1 shows ORTEP drawings of 1b
+and 2b and optimized structures for 1b2+ and 2b2+. Crystal data,
+data collection, and reduction parameters for crystals 1a, 1b, 2a,
+and 2b and selected bond lengths and torsion angles of 1a, 1b,
+and 2b are summarized in Table 2 and Table S1 of the
+Supporting Information. The bond length was successfully
+determined with a high degree of accuracy in the crystal
+structures of 1a, 1b, and 2b, which allowed us to examine the
+bonding characteristics of these compounds. Because disorder
+in the thienothiophene ring of 2a made it diﬃcult to determine
+the precise bond lengths, structural data for 2a were excluded
+′ (1), and
+from the discussion. The CA
+−CC bond, indicating
+CC
+the formation of a quinoidal structure, which is consistent with
+the optimized molecular
+structure obtained using DFT
+calculations (see Tables S2 and S3 of
+the Supporting
+Information). The terminal aryl moieties and central thiophene
+ring are twisted because of steric repulsion between hydrogens
+on the aryl group and hydrogen or sulfur on the thiophene ring.
+Dicationic species 12+ and 22+ are relatively unstable toward
+moisture, which made it diﬃcult to grow a single crystal that
+was suitable for X-ray analysis. Thus, we performed DFT
+calculations at the B3LYP/6-31G(d) level of theory. In contrast
+−CB bonds in
+to those of neutral donors 1 and 2, the CA
+−CC bonds (Table
+dications 12+ and 22+ are longer than the CB
+S4 of the Supporting Information), which reﬂects a benzenoid
+molecular structure. This switching of the quinoid−benzenoid
+structure based on electron transfer should be interesting with
+regard to the change in photophysical properties.
+</para>
+<para sub=“props”>
+Next, we examined photophysical properties. Figure 2 shows
+UV−vis and ﬂuorescence spectra of 1 and 2 in dichloro-
+methane. Thienoquinoid 1a showed strong absorption in the
+visible region at 422 nm, which can be assigned to the
+HOMO−LUMO transition of the thienoquinoid substructure,
+which was supported by DFT calculations [B3LYP/6-31G(d)
+(see Figure 3)]. Extension of the central π-electron unit from a
+thienoquinoid unit to a thienothienoquinoid unit caused a huge
+red shift of 44 nm for 2a in contrast to that of 1a due to
+narrowing of the HOMO−LUMO gap through the extension
+of π-conjugation. The absorption spectra of 1 and 2 were also
+strongly aﬀected by the substituents on the terminal aryl
+moieties. The introduction of both electron-donating methoxy
+units and electron-accepting chloro atoms on phenyl moieties
+caused a red shift. Table 1 summarizes the energy levels of
+</para>
+
+showed moderate instability toward moisture, which hampered
+their puriﬁcation.
+<para sub="scope">
+Thus, we developed a simple, versatile synthetic route for 1,
+as summarized in Scheme 1. The addition of diarylketone to
+dilithiothiophene generated from dibromothiophene gave the
+corresponding diol 3. Diols 3b and 3c were puriﬁed by silica gel
+column chromatography, whereas phenyl derivative 3a′ was
+isolated as an ethoxy derivative after recrystallization of the
+crude product from ethanol. In the previous paper,14b the
+dication was generated from the corresponding diol by the
+reaction with Brønsted acidic medium consisting of aq HClO4
+in acetic anhydride, which cannot be easily removed because of
+the low volatility of the reagents. Thus, we chose a Lewis acid,
+TMSClO4, with 1,1,1,3,3,3-hexaﬂuoro-2-propanol (HFIP) as a
+solvent
+to generate the corresponding dicationic species,
+because all of the reagent and solvent could be removed by
+evaporation,16 which allowed us to reduce the dicationic species
+in situ. Treatment of the diol with TMSClO4 in HFIP followed
+by reduction of the generated dicationic species with Zn in
+MeCN successfully gave the corresponding thienoquinoid 1.
+The dication could also be obtained from ethoxy derivative 3a′,
+which was reduced to give 1a. The versatility of this route was
+demonstrated by the preparation of 1b, 1c, and 2a−c, which
+have diﬀerent aryl moieties and/or thiophene units. Electron-
+donating aryl moieties and an electron-deﬁcient aryl group can
+be introduced by this method. Notably, the yield of 1c was
+drastically improved from 6% with HClO4 and Ac2O14b to 99%
+with TMSClO4 and HFIP. While extension of the thiophene
+unit to thienothiophene was also successfully demonstrated, the
+introduction of a stronger electron-donating aryl unit such as
+Me2NC6H4 and further extension of the thiophene spacer such
+as dithieno[3,2-b:2′,3′-d]thiophene failed. Because of the strong
+electron-donating properties of 1b and 2a (vide infra), these
+quinoid compounds should be oxidized and decompose during
+workup and puriﬁcation.
+</para>
+Scheme 1. Preparation of 1 and 2 with Diﬀerent Aryl Groups
+
+2456
+
+DOI: 10.1021/acs.joc.5b00021
+J. Org. Chem. 2015, 80, 2455−2461
+
+The Journal of Organic Chemistry
+
+Note
+
+Figure 1. (a) ORTEP drawings of 1b (left) and 2b (right) and (b) optimized structures of 1b2+ (left) and 2b2+ (right).
+
+Figure 2. UV−vis (left) and ﬂuorescence (right) spectra of 1 and 2 in CH2Cl2.
+
+Figure 3. (a) HOMO and (b) LUMO of molecules 1a (left) and 2a (right).
+
+Table 1. HOMO and LUMO Energy Levels of 1 and 2
+Calculated at the B3LYP/6-31G* Level of Theory
+
+HOMO (eV−1)
+LUMO (eV−1)
+
+1a
+−4.70
+−1.84
+
+1b
+−4.37
+−1.60
+
+1c
+−5.14
+−2.34
+
+2a
+−4.58
+−2.09
+
+2b
+−4.28
+−1.87
+
+2c
+−4.98
+−2.55
+<para sub=“props”>
+HOMO and LUMO for 1 and 2. While the introduction of an
+electron-donating methoxy group increased the HOMO energy
+more than the LUMO energy, an electron-accepting chloro
+atom decreased the LUMO energy more than the HOMO
+energy. As a result, the HOMO−LUMO gap narrowed in both
+cases to cause a signiﬁcant red shift in 1 and 2. Compounds 1
+and 2 exhibited weak ﬂuorescence in solution. The tendency of
+the wavelength of emission maxima was in accord with that of
+absorption maxima. Thienoquinoid 1 showed ﬂuorescence also
+in the solid state (Figure S4 of the Supporting Information).
+</para>
+<para sub=“props”>
+Electrochemical properties were examined by cyclic
+voltammetry (CV). Figure S1 of the Supporting Information
+shows a CV chart for 1b and 2b. Both compounds showed
+reversible one-wave two-electron oxidation waves, which
+correspond to the generation of the dication species. The
+oxidation potentials of 1b and 2b were 0.64 and 0.56 V versus
+Ag/AgCl, respectively, which correspond to HOMO energies
+of −4.83 and −4.73 eV, respectively, which demonstrates
+strong electron-donating properties. The oxidation potential
+could be tuned by not only the length of the thienoquinoid π-
+system but also the substituents on the aryl group. The less
+electron-rich phenyl derivative and 4-chlorophenyl derivative
+showed irreversible one-wave oxidation waves at 0.98 (1a), 0.83
+(2a), 1.13 (1c), and 0.94 V (2c),
+indicating the facile
+decomposition of cation radical species in an electron-poor
+cation radical
+intermediate. In addition to electron-donating
+properties, the conjugation eﬀect of the methoxy group in 1b
+</para>
+
+Figure 4. Change in the UV−vis spectrum of 1b in MeCN containing 0.1 M Bu4NBF4 electrolyte upon constant-current electrolysis (20 μA; every 4
+min). The durations of oxidation for the spectra on the left and right were from 0 to 16 min and from 16 to 28 min, respectively.
+
+2457
+
+DOI: 10.1021/acs.joc.5b00021
+J. Org. Chem. 2015, 80, 2455−2461
+
+The Journal of Organic Chemistry
+Table 2. Crystal Data, Data Collection, and Reduction Parameters for Crystals 1a, 2a·CH2Cl2, 1b, and 2b
+
+Note
+
+chemical formula
+formula weight
+space group
+a (Å)
+b (Å)
+c (Å)
+α (deg)
+β (deg)
+γ (deg)
+V (Å3)
+Z
+Dcalc (g cm−1)
+μ (cm−1)
+no. of reﬂections measured
+no. of independent reﬂections
+no. of reﬂections used
+Ra
+Rw(F2)b
+goodness of ﬁt
+| − |Fc
+
+||/∑|Fo
+
+1b
+
+C34H30O4S
+534.67
+P1̅ (No. 2)
+10.0009(3)
+11.5470(3)
+13.2679(4)
+89.9142(16)
+70.0107(13)
+72.5011(13)
+1364.45(7)
+2
+1.301
+1.358
+14785
+4867
+4867
+0.0638
+0.1673
+0.920
+
+2b
+
+C36H30O4S2
+590.75
+P21/c (No. 14)
+15.5917(2)
+6.83809(10)
+14.0291(2)
+
+97.0284
+
+1484.51(4)
+2
+1.321
+1.942
+15175
+2720
+2720
+0.0489
+0.1415
+1.064
+
+1a
+C30H22S
+414.56
+P21/n (No. 14)
+12.0374(5)
+12.5139(4)
+14.3361(5)
+
+2a·CH2Cl2
+C32H20Cl2S2
+551.51
+P21/n (No. 14)
+9.01922(16)
+15.0820(3)
+9.93380(18)
+
+99.098(3)
+
+103.3317(9)
+
+2132.35(13)
+4
+1.291
+1.441
+23612
+3852
+3852
+0.0433
+0.1104
+1.077
+| − |Fc
+
+|)2/∑ωFo
+
+2]1/2.
+
+1314.86(5)
+2
+1.393
+3.863
+14443
+2393
+2393
+0.0683
+0.1967
+1.113
+
+aR = ∑||Fo
+
+|. bRw = [∑ω(|Fo
+<para sub=“props”>
+and 2b might contribute to the improvement of the electron-
+donating properties of the molecules and the stabilization of the
+dicationic state.
+</para>
+<para sub=“props”>
+We examined the electrochromic17,18 behavior of 1b. Figure
+4 shows changes in the UV−vis spectra of 1b upon constant-
+current oxidation, where two-stage electrochromic behaviors
+were observed. In the early stage of oxidation, the absorption
+intensity corresponding to neutral species 1b decreased,
+whereas the new long-wave absorption intensity at ∼645 nm
+increased. The absorption intensity of a new low-energy
+absorption band remained constant even as electrolysis
+proceeded. In the later stage, this absorption was suppressed
+with a continuous decrease in the absorption intensity of the
+intermediate, whereas the intensity of a new strong absorption
+peak at ∼500 nm increased. Because 1b2+ was expected to show
+absorption at ∼500 nm based on TDDFT calculations at the
+B3LYP/6-31G(d) level of theory, this change in the UV−vis
+spectrum should correspond to stepwise oxidation to dication
+1b2+ via cation radical intermediate 1b+•
+. It is interesting to
+compare the electrochromic behavior to that of bis[di(4-
+methoxyphenyl)ethenyl]thiophene, which has an additional
+conjugated carbon and shows bicolor electrochromism between
+the neutral state and dication state.19 The diﬀerence in
+electrochromic behavior could probably be ascribed to the
+diﬀerence in the degree of interaction between the terminal
+redox active diarylmethylene unit, which was directly connected
+to a thiophene π-spacer in 1b and resulted in weak electronic
+coupling to show two-step electrochromism. On the other
+hand, diarylmethylene units were separated by two additional
+carbon units in bis[di(4-methoxyphenyl)ethenyl]thiophene,
+and the electronic coupling between terminal units was
+negligible for the achievement of bicolor electrochromism. A
+tricolor change could be triggered by two diﬀerent mechanisms,
+i.e., a change in the electronic nature of the thienoquinoid π-
+unit and a change in the chromophore from thienoquinoid to
+triarylmethylium.
+</para>
+
+■ CONCLUSION
+
+In summary, we have developed a versatile synthetic route for
+bis(diarylmethylene)dihydrothiophene 1. The versatility of this
+method was demonstrated by the derivatization of aryl moieties
+and π-extension of a thiophene unit. X-ray crystallographic
+analysis of 1 and 2 revealed their quinoidal molecular
+structures. The electronic absorption spectra of compounds 1
+and 2 were strongly aﬀected by the π-conjugation length and
+the presence of electron-donating and/or electron-accepting
+substituents on the aryl groups. While electron-poor molecules
+1a, 2a, 1c, and 2c were unstable toward electrochemical
+oxidation, molecules 1b and 2b with an electron-donating 4-
+methoxyphenyl group showed reversible redox behavior
+between dication species via the corresponding cation radical.
+This oxidation process can be monitored by UV−vis spectra to
+show tricolor electrochromic behavior. Redox active quinoidal
+molecules with switching ability20 should be an interesting
+molecular system, which may be useful
+in optoelectronic
+materials.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Methods. All chemical reactions were performed under a
+nitrogen atmosphere. Commercially available reagents and solvents
+were used without further puriﬁcation. TMSClO4 in toluene was
+prepared according to a literature method.16 Chemical shifts (δ) in
+parts per million were referenced to an internal
+standard of
+tetramethylsilane or residual nondeuterated solvent (1H at 5.32 ppm
+for CD2Cl2 and 13C at 77.0 ppm for CDCl3). Mass spectra were
+obtained in EI mode with a magnetic sector mass spectrometer.
+Infrared (IR, 400−4000 cm−1) spectra were measured on a KBr pellet
+with a resolution of 4 cm−1.
+
+X-ray Structural Analysis. Temperature-dependent crystallo-
+graphic data (Table 2) were collected using a diﬀractometer equipped
+with a rotating anode ﬁt with multilayer confocal optics using Cu Kα
+(λ = 1.54187 Å) radiation. Structural reﬁnements were conducted
+using the full-matrix least-squares method on F2. Calculations were
+performed using the Crystal Structure and SHELEX software
+packages.21 Parameters were reﬁned using anisotropic temperature
+factors except for the hydrogen atom.
+
+Computational Methods. DFT calculations were performed with
+the Gaussian 09 program package.22 The geometries of the molecules
+</para>
+2458
+
+DOI: 10.1021/acs.joc.5b00021
+J. Org. Chem. 2015, 80, 2455−2461
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+were optimized using the B3LYP/6-31G* basis set. Stationary points
+were assessed by a vibration frequency analysis.
+Preparation of 3a′. To a solution of 2,5-dibromothiophene (1.0
+mL, 8.85 mmol) in dry THF (100 mL) was added n-butyllithium (1.60
+M in hexane, 12.0 mL, 19.2 mmol) at −78 °C. The mixture was stirred
+at this temperature for 60 min. Benzophenone (3.55 g, 19.5 mmol)
+was then added in one portion. The mixture was allowed to gradually
+warm to room temperature and stirred for 19 h. The reaction was
+quenched by the addition of a saturated aqueous solution of NH4Cl.
+The mixture was extracted with CH2Cl2. The combined organic layer
+was washed with brine and dried over MgSO4. The crude product was
+recrystallized from ethanol to give 3a′ (2.05 g, 46%) as a white solid.
+Mp: 100−102 °C. 1H NMR (400 MHz, CDCl3): δ 7.52−7.47 (m,
+8H), 7.31−7.19 (m, 12H), 6.76 (s, 2H), 3.23 (q, J = 6.9 Hz, 4H), 1.21
+(t, J = 6.9 Hz, 6H). 13C NMR (100 MHz, CDCl3): δ 148.9, 144.6,
+127.9, 127.7, 127.1, 84.6, 59.8, 15.3. IR: 3085, 3056, 3023, 2970, 2921,
+2884, 1597, 1490, 1444, 1389, 1315, 1226, 1212, 1176, 1155, 1138,
+1114, 1067, 1031, 1003, 943, 920, 868, 803, 770, 754, 742, 701, 678,
+646, 491 cm−1. HRMS (EI): calcd for C34H32O2S m/z 504.2123 (M+),
+found m/z 504.2123.
+Preparation of 3b. To a mixture of 2,5-dibromothiophene (1.0 mL,
+8.85 mmol) in dry THF (100 mL) was added n-BuLi (1.60 M in
+hexane, 12.0 mmol, 19.2 mmol) at −78 °C. After the mixture was
+stirred for 50 min at this temperature, 4,4′-dimethoxybenzophene
+(4.71 g, 19.4 mmol) was added. The mixture was allowed to gradually
+warm to room temperature and stirred for 17 h. After the addition of a
+saturated aqueous solution of NH4Cl, the mixture was extracted with
+CH2Cl2. The combined organic layer was washed with brine and dried
+over Na2SO4. The crude product was subjected to silica gel column
+chromatography (CHCl3/AcOEt = 100/3) to give 3b (2.70 g, 54%) as
+a pale red solid. Mp: 78−79 °C. 1H NMR (400 MHz, CDCl3): δ 7.26
+(d, J = 8.9 Hz, 8H), 6.82 (d, J = 8.9 Hz, 8H), 6.52 (s, 2H), 3.79 (s,
+12H), 2.76 (s, 2H). 13C NMR (125 MHz, CDCl3): δ 158.9, 152.6,
+138.9, 128.5, 125.9, 113.2, 79.6, 55.3. IR: 3471, 3000, 2953, 2933,
+2905, 2835, 1608, 1583, 1509, 1463, 1442, 1414, 1302, 1251, 1175,
+1112, 1033, 909, 826, 792, 605, 575 cm−1. HRMS (EI): calcd for
+C34H32O6S m/z 568.1920 (M+), found m/z 568.1920.
+
+Preparation of 3c. To a solution of 2,5-dibromothiophene (1.0 mL,
+8.85 mmol) in dry THF (100 mL) was added n-BuLi (1.63 M in
+hexane, 11.8 mL, 19.2 mmol) at −78 °C. After the mixture was stirred
+for 45 min at this temperature, 4,4′-dichlorobenzophenone (4.87 g,
+19.4 mmol) was added. The mixture was allowed to gradually warm to
+room temperature and stirred for 18.5 h. After the addition of a
+saturated aqueous solution of NH4Cl, the mixture was extracted with
+CH2Cl2. The combined organic layer was washed with brine and dried
+over Na2SO4. The crude product was subjected to silica gel column
+chromatography (hexane/CH2Cl2 = 3/1 → 0/1) to give 3c (3.14 g,
+61%) as a pale orange solid. Mp: 79−80 °C. 1H NMR (400 MHz,
+CDCl3): δ 7.29 (s, 16H), 6.56 (s, 2H), 2.83 (s, 2H). 13C NMR (100
+MHz, CDCl3): δ 151.7, 144.2, 133.9, 128.5, 128.3, 126.5, 79.3. IR:
+3561, 3452, 3069, 1592, 1575, 1489, 1400, 1316, 1227, 1180, 1137,
+1093, 1013, 909, 811, 530, 507 cm−1. HRMS (EI): calcd for
+C30H20Cl4O2S m/z 583.9938 (M+), found m/z 583.9937.
+Preparation of 1a. To a mixture of 3a′ (496 mg, 983 μmol) in
+1,1,1,3,3,3-hexaﬂuoro-2-propanol (10 mL) was added TMSClO4 in
+toluene (0.74 M, 7.0 mL, 5.18 mmol). After the mixture was stirred for
+2.5 h at room temperature, the volatile solvent and reagent were
+removed by evaporation. The obtained dicationic species was dissolved
+in dry MeCN (15 mL), and Zn powder (2.38 g, 36.4 mmol) was
+added. The mixture was stirred for 24 h, diluted with CH2Cl2, and
+ﬁltered on a Celite pad. The ﬁltrate was washed with brine and dried
+over Na2SO4. The crude product was subjected to silica gel column
+chromatography (hexane/CH2Cl2 = 1/3) to give 1a (373 mg, 92%) as
+a yellow solid. Mp: 199−200 °C. 1H NMR (400 MHz, CDCl3): δ
+7.40−7.20 (m, 20H), 6.83 (s, 2H). 13C NMR (100 MHz, CDCl3): δ
+142.4, 142.2, 141.7, 133.7, 131.8, 130.5, 129.6, 128.3, 128.2, 127.4,
+127.2. IR: 3049, 3027, 1594, 1572, 1537, 1489, 1440, 1170, 1155,
+1139, 1072, 1029, 999, 967, 924, 903, 856, 836, 824, 800, 789, 768,
+757, 694, 662, 645, 624, 612, 573, 518, 420 cm−1. HRMS (EI): calcd
+for C30H22S m/z 414.1442 (M+), found m/z 414.1442.
+</para>
+Note
+<para sub=“exp”>
+Preparation of 1b. To a mixture of 3b (1.00 g, 2.82 mmol) in
+1,1,1,3,3,3-hexaﬂuoro-2-propanol (10 mL) was added TMSClO4 in
+toluene (0.74 M, 8.6 mL, 6.36 mmol). After the mixture was stirred for
+13 h at room temperature, the volatile solvent and reagent were
+removed by evaporation. The obtained dicationic species was dissolved
+in dry MeCN (20 mL), and Zn powder (1.43 g, 20.5 mmol) was
+added. The mixture was stirred for 9 h, diluted with CH2Cl2, and
+ﬁltered. The ﬁltrate was washed with brine and dried over Na2SO4.
+The crude product was subjected to silica gel column chromatography
+(hexane/CH2Cl2 = 1/4) to give 1b (800 mg, 89%) as a yellow solid.
+Mp: 204−205 °C. 1H NMR (400 MHz, CDCl3): δ 7.30 (d, J = 8.0 Hz,
+4H), 7.14 (d, J = 8.0 Hz, 4H), 6.86 (d, J = 8.6 Hz, 4H), 6.82 (d, J = 8.6
+Hz, 4H), 6.77 (s, 2H), 3.81 (s, 6H), 3.79 (s, 6H). 13C NMR (100
+MHz, CDCl3): δ 158.7, 140.8 (br), 135.1 (br), 134.6 (br), 133.0,
+131.6, 131.0, 113.6, 113.5, 55.22, 55.17. IR: 3024, 2995, 2950, 2931,
+2904, 2833, 1604, 1570, 1544, 1504, 1462, 1441, 1412, 1317, 1304,
+1290, 1273, 1248, 1176, 1137, 1108, 1032, 969, 960, 939, 912, 837,
+817, 810, 798, 789, 772, 732, 689, 657, 623, 613, 605, 586, 572, 555,
+539, 522, 438 cm−1. HRMS (EI): calcd for C34H30O4S m/z 534.1865
+(M+), found m/z 534.1867.
+Preparation of 1c. To a mixture of 3c (503 mg, 858 μmol) in
+1,1,1,3,3,3-hexaﬂuoro-2-propanol (10 mL) was added TMSClO4 in
+toluene (0.74 M, 4.0 mL, 2.96 mmol). After the mixture was stirred for
+6 h at room temperature, the volatile solvent and reagent were
+removed by evaporation. The obtained dicationic species was dissolved
+in dry MeCN (20 mL), and Zn powder (3.35 g, 51.2 mmol) was
+added. The mixture was stirred for 22 h, diluted with CH2Cl2, and
+ﬁltered on a Celite pad. The solvent of the ﬁltrate was evaporated and
+then suspended with a small amount of CH2Cl2. The insoluble solid
+was collected by ﬁltration followed by washing with CH2Cl2 to give 1c
+(240 mg) as a yellow solid. The ﬁltrate was subjected to silica gel
+column chromatography to give additional 1c (228 mg). The total
+yield was 99%. Mp: 173−174 °C dec. 1H NMR (400 MHz, CDCl3): δ
+7.32 (d, J = 8.6 Hz, 4H), 7.28 (br d, 8H), 7.14 (d, J = 8.6 Hz, 4H),
+6.81 (s, 2H). 13C NMR (100 MHz, CDCl3): δ 142.9, 140.0, 139.5,
+133.9, 133.58, 13.55, 131.64, 130.9, 129.9, 129.7, 128.6. IR: 1587,
+1487, 1398, 1173, 1140, 1091, 1015, 912, 850, 832, 817, 797, 726, 711,
+650, 612, 567, 525, 491, 438 cm−1. HRMS (EI): calcd for C30H18Cl4S
+m/z 549.9883 (M+), found m/z 549.9880.
+Preparation of 4a. To a solution of 2,5-dibromothieno[3,2-
+b]thiophene (2.50 g, 8.39 mmol) in dry THF (80 mL) was added
+n-BuLi (1.55 M, 11.4 mL, 17.6 mmol) at −78 °C. After the mixture
+was stirred at this temperature for 40 min, benzophenone (3.38 g, 18.5
+mmol) was added. The mixture was allowed to gradually warm to
+room temperature and stirred overnight. After the addition of a
+saturated aqueous solution of NH4Cl, the mixture was extracted with
+CH2Cl2. The combined organic layer was washed with brine and dried
+over Na2SO4. The crude product was suspended with a small amount
+of CHCl3, and the insoluble solid was collected by ﬁltration to give 4a
+(2.34 g, 55%) as a white solid. Mp: 218−220 °C dec. 1H NMR (400
+MHz, CDCl3): δ 7.42−7.37 (m, 8H), 7.36−7.29 (m, 12H), 3.00 (s,
+2H). 13C NMR (100 MHz, CDCl3): δ 154.0, 146.0, 138.3, 128.1,
+127.3, 119.6, 80.6. IR: 3583, 3561, 3082, 3057, 3024, 1598, 1582,
+1490, 1446, 1394, 1331, 1317, 1283, 1205, 1188, 1174, 1158, 1123,
+1081, 1032, 1009, 925, 896, 838, 816, 769, 750, 701, 681, 657, 645,
+586, 552, 511, 470, 406 cm−1. HRMS (EI): calcd for C32H24O2S2 m/z
+504.1218 (M+), found m/z 504.1221.
+Preparation of 4b. To a solution of 2,5-dibromothieno[3,2-
+b]thiophene (1.99 g, 6.68 mmol) in dry THF (60 mL) was added
+n-BuLi (1.60 M, 8.8 mL, 14.1 mmol) at −78 °C. After the mixture was
+stirred at this temperature for 60 min, 4,4′-dimethoxybenzophenone
+(3.56 g, 14.7 mmol) was added. The mixture was allowed to gradually
+warm to room temperature and stirred for 17 h. After the addition of a
+saturated aqueous solution of NH4Cl, the mixture was extracted with
+CH2Cl2. The combined organic layer was washed with brine and dried
+over Na2SO4. The crude product was suspended with a small amount
+of CH2Cl2, and the insoluble solid was collected by ﬁltration to give 4b
+(1.90 g) as a pale red solid. The ﬁltrate was subjected to silica gel
+column chromatography (CH2Cl2/AcOEt = 95/5) to give additional
+4b (414 mg). The total yield was 55%. Mp: 225−227 °C dec. 1H
+</para>
+2459
+
+DOI: 10.1021/acs.joc.5b00021
+J. Org. Chem. 2015, 80, 2455−2461
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+NMR (400 MHz, CDCl3): δ 7.29 (d, J = 8.9 Hz, 8H), 6.85 (d, J = 8.9,
+8H), 6.78 (s, 2H), 3.80 (s, 12H), 2.88 (s, 2H). 13C NMR (100 MHz,
+CDCl3): δ 159.0, 154.7, 138.5, 138.2, 128.6, 119.3, 113.3, 80.0, 55.3.
+IR: 3491, 3002, 2956, 2934, 2906, 2836, 1608, 1584, 1509, 1461, 1441,
+1414, 1331, 1298, 1253, 1177, 1111, 1032, 909, 832, 811, 781, 608,
+579 cm−1. HRMS (EI): calcd for C36H32O6S2 m/z 624.1640 (M+),
+found m/z 624.1641.
+Preparation of 4c. To a solution of 2,5-dibromothieno[3,2-
+b]thiophene (2.50 g, 8.39 mmol) in dry THF (100 mL) was added
+n-BuLi (1.63 M, 10.8 mL, 17.6 mmol) at −78 °C. After the mixture
+was stirred at this temperature for 40 min, 4,4′-dichlorobenzophenone
+(4.75 g, 18.7 mmol) was added. The mixture was allowed to gradually
+warm to room temperature and stirred for 18.5 h. After the addition of
+a saturated aqueous solution of NH4Cl, the mixture was extracted with
+CH2Cl2. The combined organic layer was washed with brine and dried
+over Na2SO4. The crude product was subjected to silica gel column
+chromatography (CH2Cl2) to give 4c (2.42 g, 43%) as a pale gray
+solid. Mp: 135−137 °C. 1H NMR (400 MHz, CDCl3): δ 7.32 (br d,
+16H), 6.81 (s, 2H), 3.00 (s, 2H). 13C NMR (100 MHz, CDCl3): δ
+153.5, 144.0, 138.5, 134.1, 128.7, 128.4, 119.7, 79.8. IR: 3560, 3441,
+3083, 1592, 1575, 1489, 1400, 1336, 1318, 1179, 1123, 1094, 1014,
+908, 827, 796, 738, 563, 528, 503, 465 cm−1. HRMS (EI): calcd for
+C32H20Cl4O2S2 m/z 639.9659 (M+), found m/z 639.9659.
+
+Preparation of 2a. To a mixture of 4a (547 mg, 1.08 mmol) in
+1,1,1,3,3,3-hexaﬂuoro-2-propanol (10 mL) was added TMSClO4 in
+toluene (0.74 M, 7.0 mL, 5.18 mmol). After the mixture was stirred for
+2.5 h at room temperature, the volatile solvent and reagent were
+removed by evaporation. The obtained dicationic species was dissolved
+in dry MeCN (15 mL), and Zn powder (2.56 g, 39.1 mmol) was
+added. The mixture was stirred for 24.5 h. After dilution with CH2Cl2,
+the suspension was ﬁltered. The ﬁltrate was washed with brine and
+dried over Na2SO4. The solvent was evaporated and then suspended
+with a small amount of CH2Cl2. The insoluble solid was collected by
+ﬁltration followed by washing with CH2Cl2 to give 2a (266 mg) as a
+red solid. The ﬁltrate was
+subjected to silica gel column
+chromatography (hexane/CH2Cl2 = 1/3) to give additional 2a (98
+mg). The total yield was 71%. Mp: 257−259 °C dec. 1H NMR (400
+MHz, CDCl3): δ 7.41−7.25 (m, 20H), 6.53 (s, 2H). 13C NMR could
+not be measured because of the low solubility of 2a. IR: 3052, 3026,
+1594, 1526, 1489, 1440, 1175, 1154, 1137, 1076, 1029, 1001, 931, 899,
+811, 767, 748, 701, 666, 650, 634, 617, 586, 502, 447 cm−1. HRMS
+(EI): calcd for C32H22S2 m/z 470.1163 (M+), found m/z 470.1165.
+Preparation of 2b. To a mixture of 4b (592 mg, 947 μmol) in
+1,1,1,3,3,3-hexaﬂuoro-2-propanol (10 mL) was added TMSClO4 in
+toluene (0.74 M, 4.0 mL, 2.96 mmol). After the mixture was stirred for
+13.5 h at room temperature, the volatile solvent and reagent were
+removed by evaporation. The obtained dicationic species was dissolved
+in dry MeCN (20 mL), and Zn powder (1.39 g, 21.3 mmol) was
+added. The mixture was stirred for 10.5 h. After dilution with CH2Cl2,
+the suspension was ﬁltered. The ﬁltrate was washed with brine and
+dried over Na2SO4. The crude product was subjected to silica gel
+column chromatography (hexane/CH2Cl2 = 1/4) to give 2b (461 mg,
+85%) as a red solid. Mp: 282−283 °C dec. 1H NMR (500 MHz,
+CD2Cl2): δ 7.30 (d, J = 8.8 Hz, 4H), 7.17 (d, J = 8.8 Hz, 4H), 6.88 (d,
+J = 8.8 Hz, 4H), 6.87 (d, J = 8.8 Hz, 4H), 6.50 (s, 2H), 3.81 (s, 12H).
+13C NMR (125 MHz, CD2Cl2): δ 159.8, 150.3, 145.0, 135.5, 135.0,
+132.2, 131.8, 130.8, 117.0, 114.3, 55.9. IR: 1603, 1569, 1526, 1503,
+1457, 1440, 1412, 1318, 1304, 1293, 1277, 1241, 1175, 1137, 1110,
+1035, 1023, 964, 942, 923, 904, 834, 820, 809, 781, 765, 731, 715, 662,
+630, 619, 595, 555, 533, 496, 471, 423 cm−1. HRMS (EI): calcd for
+C36H30O4S2 m/z 590.1585 (M+), found m/z 590.1588.
+
+Preparation of 2c. To a mixture of 4c (509 mg, 792 μmol) in
+1,1,1,3,3,3-hexaﬂuoro-2-propanol (10 mL) was added TMSClO4 in
+toluene (0.74 M, 4.0 mL, 2.96 mmol). After the mixture was stirred for
+6.5 h at room temperature, the volatile solvent and reagent were
+removed by evaporation. The obtained dicationic species was dissolved
+in dry MeCN (20 mL), and Zn powder (5.21 g, 79.7 mmol) was
+added. The mixture was stirred for 10.5 h. After dilution with CH2Cl2,
+the suspension was ﬁltered. The ﬁltrate was washed with brine and
+then dried over Na2SO4. The solvent of the ﬁltrate was evaporated and
+
+then suspended with a small amount of CH2Cl2. The insoluble solid
+was collected by ﬁltration followed by washing with CH2Cl2 to give 2c
+(436 mg, 100%) as a red solid. Mp: 176−178 °C dec. 1H NMR (400
+MHz, CD2Cl2): δ 7.37−7.30 (m, 12H), 7.19 (d, J = 8.2 Hz, 4H), 6.53
+(s, 2H). 13C NMR could not be measured because of the low solubility
+of 2c. IR: 1518, 1486, 1396, 1182, 1139, 1109, 1092, 1011, 961, 942,
+924, 903, 826, 790, 708, 691, 648, 636, 627, 621, 524, 519, 473, 457,
+414, 401 cm−1. HRMS (EI): calcd for C32H18Cl4S2 m/z 605.9604
+(M+), found m/z 605.9603.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Selected bond lengths and torsion angles in the optimized
+structures of 1, 12+, 2 and 22+ determined by X-ray analyses and
+DFT calculations, ORTEP drawings of 1a, 1b, 2a, and 2b,
+photo of the ﬂuorescence of 1a−c in the solid state, 1H and 13C
+NMR spectra of compounds 1−4, Cartesian coordinates for
+optimized structures, and CIF ﬁles of 1a, 1b, 2a, and 2b. This
+material is available free of charge via the Internet at http://
+pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: takeda@tagen.tohoku.ac.jp.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was supported by JSPS KAKENHI Grant Number
+26410034.
+
+■ REFERENCES
+(1) (a) Charlton, J. L.; Alauddin, M. M. Tetrahedron 1987, 43, 2873−
+2889. (b) Segura, J. L.; Martin, N. Chem. Rev. 1999, 99, 3199−3246.
+(c) Yoshida, H.; Ohshita, J.; Kunai, A. Bull. Chem. Soc. Jpn. 2010, 83,
+199−219.
+(2) (a) Shimizu, A.; Kishi, R.; Nakano, M.; Shiomi, D.; Sato, K.;
+Takui, T.; Hisaki, I.; Miyata, M.; Tobe, Y. Angew. Chem., Int. Ed. 2013,
+52, 6076−6079. See also: (b) Shimizu, A.; Tobe, Y. Angew. Chem., Int.
+Ed. 2011, 50, 6906−6910. (c) Chase, D. T.; Rose, B. D.; McClintock,
+S. P.; Zakharov, L. N.; Haley, M. M. Angew. Chem., Int. Ed. 2011, 50,
+1127−1130.
+(3) (a) McCullough, R. D. Adv. Mater. (Weinheim, Ger.) 1998, 10,
+93−116. (b) Fichou, D., Ed. Handbook of Oligo- and Polythiophenes;
+Wiley-VCH: Weinheim, Germany, 1998. (c) Osaka, I.; McCullough,
+R. D. Acc. Chem. Res. 2008, 41, 1202−1214. (d) Perepichka, I. F.,
+Perepichka, D. F., Eds. Handbook of Thiophene-Based Materials; John
+Wiley & Sons: Chichester, U.K., 2009.
+(4) Review: Marrocchi, A.; Lanari, D.; Facchetti, A.; Vaccaro, L.
+Energy Environ. Sci. 2012, 5, 8457−8474.
+(5) (a) Košata, B.; Kozmik, V.; Svoboda, J.; Novotaná, V.; Vanák, P.;
+Glogarvá, M. Liq. Cryst. 2003, 30, 603−610. (b) Takimiya, K.; Osaka,
+I.; Mori, T.; Nakano, M. Acc. Chem. Res. 2014, 47, 1493−1502.
+(c) Takimiya, K.; Ebata, H.; Sakamoto, K.; Izawa, T.; Otsubo, T.;
+Kunugi, Y. J. Am. Chem. Soc. 2006, 128, 12604−12605. (d) Ebata, H.;
+Izawa, T.; Miyazaki, E.; Takimiya, K.; Ikeda, M.; Kuwabara, H.; Yui, T.
+J. Am. Chem. Soc. 2007, 129, 15732−15733. (e) Izawa, T.; Miyazaki,
+E.; Takimiya, K. Adv. Mater. (Weinheim, Ger.) 2008, 20, 3388−3392.
+(6) (a) Bao, Z.; Dodabalapur, A.; Lovinger, A. J. Appl. Phys. Lett.
+1996, 69, 4108−4110. Review: (b) Wang, C.; Dong, H.; Hu, W.; Liu,
+Y.; Zhu, D. Chem. Rev. 2012, 112, 2208−2267. (c) Zaumseil, J.;
+Sirringhaus, H. Chem. Rev. 2007, 107, 1296−1323.
+(7) Li, G.; Shrotriya, V.; Huang, J.; Yao, Y.; Moriarty, T.; Emery, K.;
+Yang, Y. Nat. Mater. 2005, 4, 864−868.
+(8) Izumi, T.; Kobashi, S.; Takimiya, K.; Aso, Y.; Otsubo, T. J. Am.
+Chem. Soc. 2003, 125, 5286−5287.
+
+2460
+
+DOI: 10.1021/acs.joc.5b00021
+J. Org. Chem. 2015, 80, 2455−2461
+
+Note
+
+The Journal of Organic Chemistry
+
+(9) (a) Yui, K.; Aso, Y.; Otsubo, T.; Ogura, F. J. Chem. Soc., Chem.
+Commun. 1987, 1816−1817. (b) Yui, K.; Aso, Y.; Otsubo, T.; Ogura,
+F. Bull. Chem. Soc. Jpn. 1989, 62, 1539−1546.
+(10) Higuchi, H.; Nakayama, T.; Koyama, H.; Ojima, J.; Wada, T.;
+Sasabe, H. Bull. Chem. Soc. Jpn. 1995, 68, 2363−2377.
+(11) (a) Pappenfus, T. M.; Chesterfield, R. J.; Frisbie, C. D.; Mann,
+K. R.; Casado, J.; Raff, J. D.; Miller, L. L. J. Am. Chem. Soc. 2002, 124,
+4184−4185. (b) Pappenfus, T. M.; Raff, J. D.; Hukkanen, E. J.;
+Burney, J. R.; Casado, J.; Drew, S. M.; Miller, L. L.; Mann, K. R. J. Org.
+Chem. 2002, 67, 6015−6024. (c) Chesterfield, R. J.; Newman, C. R.;
+Pappenfus, T. M.; Ewbank, P. C.; Haukaas, M. H.; Mann, K. R.; Miller,
+L. L.; Frisbie, C. D. Adv. Mater. (Weinheim, Ger.) 2003, 15, 1278−
+1282.
+(12) Takahashi, T.; Matsuoka, K.; Takimiya, K.; Otsubo, T.; Aso, Y. J.
+Am. Chem. Soc. 2005, 127, 8928−8929.
+(13) (a) Yui, K.; Ishida, H.; Aso, Y.; Otsubo, T.; Ogura, F.;
+Kawamoto, A.; Tanaka, J. Bull. Chem. Soc. Jpn. 1989, 62, 1547−1555.
+(b) Yui, K.; Ishida, H.; Aso, Y.; Otsubo, T.; Ogura, F. Chem. Lett. 1987,
+16, 2339−2342.
+(14) (a) Hieber, G.; Hanack, M.; Wurst, K.; Strähle, J. Chem. Ber.
+1991, 124, 1597−1605. (b) Ishii, A.; Horikawa, Y.; Takaki, I.; Shibata,
+J.; Nakayama, J.; Hoshino, M. Tetrahedron Lett. 1991, 32, 4313−4316.
+(c) Mazaki, Y.; Murata, S.; Kobayashi, K. Tetrahedron Lett. 1991, 32,
+4367−4370.
+(15) Kawase, T.; Ueno, N.; Oda, M. Tetrahedron Lett. 1992, 33,
+5405−5408.
+(16) (a) Saitoh, T.; Yoshida, S.; Ichikawa, J. Org. Lett. 2004, 6, 4563−
+4565. (b) Saitoh, T.; Yoshida, S.; Ichikawa, J. J. Org. Chem. 2006, 71,
+6414−6419.
+(17) Review on electrochromism: (a) Monk, P. M. S.; Mortimer, R.
+J.; Rosseinsky, D. R. Electrochromism: Fundamentals and Applications;
+John Wiley & Sons: Weinheim, Germany, 2008. (b) Monk, P.;
+Mortimer, R.; Rosseinsky, D. Electrochromism and Electrochromic
+Devices; Cambridge University Press: Cambridge, U.K., 2007.
+(c) Suzuki, T.; Ohta, E.; Kawai, H.; Fujiwara, K.; Fukushima, T.
+Synlett 2007, 851−869.
+(18) (a) Hünig, S.; Kemmer, M.; Wenner, H.; Perepichka, I. F.;
+Bäuerle, P.; Emge, A.; Gescheid, G. Chem.Eur. J. 1999, 5, 1969−
+1973. (b) Hünig, S.; Kemmer, M.; Wenner, H.; Barbosa, F.; Gescheidt,
+G.; Perepichka, I. F.; Bäuerle, P.; Emge, A.; Peters, K. Chem.Eur. J.
+2000, 6, 2618−2632. (c) Suzuki, T.; Nishida, J.; Tsuji, T. Angew.
+Chem., Int. Ed. Engl. 1997, 36, 1329−1331. (d) Higuchi, H.; Ohta, E.;
+Kawai, H.; Fujiwara, K.; Suzuki, T. J. Org. Chem. 2003, 68, 6605−6610.
+(e) Ohta, E.; Higuchi, H.; Kawai, H.; Fujiwara, K.; Suzuki, T. Org.
+Biomol. Chem. 2005, 3, 3024−3031. (f) Suzuki, T.; Sakano, Y.; Iwai,
+T.; Iwashita, S.; Miura, Y.; Katoono, R.; Kawai, H.; Fujiwara, K.; Tsuji,
+Y.; Fukushima, T. Chem.Eur. J. 2013, 19, 117−123. (g) Ohta, A.;
+Ueki, C.; Uchiyama, Y.; Fujimori, K. Heterocycles 2006, 69, 365−375.
+(h) Ohtake, T.; Tanaka, H.; Matsumoto, T.; Kimura, M.; Ohta, A. J.
+Org. Chem. 2014, 79, 6590−6602.
+(19) (a) Ishigaki, Y.; Kawai, H.; Katoono, R.; Fujiwara, K.; Suzuki, T.
+Heterocycles 2015, 90, 136−143. (b) Suzuki, T.; Hoshiyama, Y.; Wada,
+K.; Ishigaki, Y.; Miura, Y.; Kawai, H.; Katoono, R.; Fujiwara, K.;
+Fukushima, T. Chem. Lett. 2013, 42, 1004−1006.
+(20) (a) Kamada, K.; Fuku-en, S.; Minamide, S.; Ohta, K.; Kishi, R.;
+Nakano, M.; Matsuzaki, H.; Okamoto, H.; Higashikawa, H.; Inoue, K.;
+et al. J. Am. Chem. Soc. 2013, 135, 232−241. (b) Takeda, T.; Sugihara,
+H.; Suzuki, Y.; Kawamata, J.; Akutagawa, T. J. Org. Chem. 2014, 79,
+9669−9677.
+(21) Sheldrick, G. M. Acta Crystallogr. 2008, 64A, 112−122.
+(22) Frisch, M. J.; Trucks, G. W.; Schlegel, H. B.; Scuseria, G. E.;
+Robb, M. A.; Cheeseman, J. R.; Scalmani, G.; Barone, V.; Mennucci,
+B.; Petersson, G. A.; et al. Gaussian 09, revision C 01; Gaussian, Inc.:
+Wallingford, CT, 2009.
+
+2461
+
+DOI: 10.1021/acs.joc.5b00021
+J. Org. Chem. 2015, 80, 2455−2461
+
+

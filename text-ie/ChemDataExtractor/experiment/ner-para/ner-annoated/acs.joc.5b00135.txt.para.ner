@@ -1,0 +1,105 @@
+<para sub=“opt”>
+Under previously developed conditions, <cem>1-Boc-4-bromo-
+piperidine</cem> had been successfully cross-coupled with <cem>N-Boc-5-
+bromoindole</cem> in the presence of catalytic <newcem>NiI2</newcem> and <cem>MgCl2</cem> as
+an additive. Under this protocol, the reaction of
+<cem>tert-butyl
+4-(tosyloxy)piperidine-1-carboxylate</cem> with <cem>N-Boc-5-bromoindole</cem>
+led to the formation of the desired cross-coupled product in
+addition to nearly equal amounts of <cem>biaryl</cem> homocoupling and
+protodehalogenation of the <cem>indole</cem> substrate (eq 4). Unreacted
+<cem>alkyl tosylate</cem> remained, but no <newcem>Boc</newcem>-cleavage was observed on
+any of the reaction components. Upon application of these
+conditions to several <cem>aryl</cem> and <cem>heteroaryl bromides</cem>, these major
+side products were formed to a signiﬁcant extent in every case.
+</para>
+
+<para sub=“opt”>
+The use of <cem>NiBr2</cem>
+
+reaction conditions,
+
+<cem>·glyme</cem> in place of <newcem>NiI2</newcem> and the elimination
+of <cem>MgCl2</cem> signiﬁcantly reduced the formation of both the
+protodehalogenated and homocoupled side products. Further
+optimization revealed that addition of 1 equiv of <newcem>KI</newcem> signiﬁcantly
+improved conversion to the cross-coupled product, as did an
+increase in reaction temperature from 60 to 80 °C. The amount
+of <cem>Ni</cem> and <newcem>ligand</newcem> could be reduced from 10 to 5 mol % with-
+out a decrease in yield. With these modiﬁcations to the orig-
+inal
+<cem>tert-butyl
+4-(tosyloxy)piperidine-1-carboxylate</cem> with <cem>N-Boc-5-bromoindole</cem>
+proceeded in 73% yield (Table 1, entry 1).
+
+the cross-coupling of
+</para>
+
+<para sub="scope">
+The developed conditions were applied to the reductive
+cross-coupling of a variety of <cem>nonaromatic</cem>, <cem>heterocyclic
+tosylates</cem> with <cem>N-Boc-5-bromoindole</cem> (Table 1). The method
+was extended to other six-membered ring systems, including
+a <cem>benzyl-protected piperidine</cem> system,
+<cem>tetrahydropyran</cem>, and
+</para>
+
+<para sub="scope">
+<cem>tert-butyl 3-(tosyloxy)piperidine-1-carboxylate</cem>. Both <cem>pyrrolidinyl</cem>
+and <cem>tetrahydrofuranyl tosylate</cem> systems participated in the cross-
+coupling. It was observed that the corresponding <cem>mesylates</cem>
+of the <cem>tetrahydrofuranyl</cem> and <cem>piperidinyl</cem> systems reacted under
+the standard conditions, albeit in lower yields (Table 1, entries
+1 and 3). Unfortunately, both <cem>azetidine</cem> and <cem>oxetane</cem> substrates
+were unreactive under the standard protocol, and the use of <cem>aryl
+chlorides</cem> instead of <cem>aryl bromides</cem> led to minimal product
+formation. Interestingly, under the conditions developed for
+<cem>nonaromatic</cem>, <newcem>heterocyclic</newcem> systems, <cem>cyclohexyl
+tosylate</cem> was
+unreactive.
+</para>
+
+<para sub="scope">
+A variety of <cem>heteroaryl bromide</cem> substrates, including <newcem>quin-
+oline</newcem>, <cem>pyridine</cem>, <cem>benzothiophene</cem>, and <cem>benzofuran</cem> substrates,
+provided the desired cross-coupling products in moderate to
+good yields. Additionally, <cem>aryl bromides</cem> reacted under the same
+conditions, and the reaction tolerated <cem>amide</cem> and <cem>ketone</cem> func-
+tional groups in addition to ortho-substitution. The scalable
+nature of the method was demonstrated by the ability to
+carry out a gram-scale reaction without a decrease in the yield
+(Table 2, entry 1).
+</para>
+
+<para sub="scope">
+The concept of in situ <cem>sulfonate</cem>/<cem>halogen</cem> exchange has been
+proposed in the <cem>Ni</cem>-catalyzed reductive methylation of <cem>alkyl
+halides</cem> with <cem>methyl tosylate8</cem> and in <cem>Ni</cem>-catalyzed dimeriza-
+tions of <cem>alkyl</cem> <cem>pseudohalides.9</cem> Although the latter contribution
+employs <cem>NaI</cem> as an additive, the former (eq 2) uses no obvious
+source of nucleophilic <cem>halide</cem> and there is no speculation on
+the proposed pathway for <cem>alkyl halide</cem> formation. It has been
+suggested that in instances where reactive <cem>alkyl halides</cem> undergo
+rapid dimerization in the presence of <cem>Ni</cem> catalysts, their slow
+formation from a less reactive species, i.e., <cem>alkyl mesylate</cem> or
+<cem>tosylate</cem>, may be advantageous.8,10 In our hands, <cem>N-Boc-4-
+iodopiperidine</cem> was never observed in the analytical sampling of
+the crude reaction mixture. Additionally, under the developed
+reductive coupling conditions, <cem>N-Boc-4-iodopiperidine</cem> in place
+of the corresponding <cem>tosylate</cem> was unreactive with or without
+the <newcem>KI</newcem> additive.11 If the <cem>alkyl iodide</cem> is, in fact, only a capable
+coupling partner when formed in low concentration and rapidly
+consumed, these observations can be rationalized. However, the
+use of <cem>alkyl iodides</cem> did not lead to formation of an <cem>alkyl−alkyl
+dimer</cem> or radical disproportionation products, which would be
+predicted if rapid radical
+formation were problematic. Fur-
+thermore, the reaction also proceeds to some extent in the
+absence of <newcem>KI</newcem>.12 These observations bring to question the
+possibility of <cem>alkyl iodide</cem> formation as the sole function of <newcem>KI</newcem>
+within the process and suggest that perhaps the <cem>iodide</cem> additive
+plays a more complex role,1b,13 possibly in stabilization of a
+transient <cem>nickel</cem> complex that facilitates reductive elimination
+in the catalytic cycle or as a bridging ligand that facilitates
+electron transfer.
+</para>

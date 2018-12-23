@@ -1,0 +1,1062 @@
+Article
+
+pubs.acs.org/joc
+
+Access to N‑Thioalkenyl and N‑(o‑Thio)aryl-benzimidazol-2-ones by
+Ring Opening of Thiazolobenzimidazolium and
+Benzimidazobenzothiazolium Salts and C−O Bond Cleavage of an
+Alkoxide
+Federico Andreoli,† Radia Kaid-Slimane,‡ Fabien Coppola,† Daniel Farran,*,† Christian Roussel,*,†
+and Nicolas Vanthuyne†
+†
+Aix Marseille Université, Centrale Marseille, CNRS, iSm2 UMR 7313, 13397 Marseille, France
+‡
+Laboratoire de synthèse organique appliquée, Département de Chimie, Faculté des Sciences, Université d’Oran (Es Sénia), B.P.
+1524, El M’naouer Oran, Algérie
+*S Supporting Information
+
+ABSTRACT: We report herein the synthesis of highly functionalized
+1,3-dihydro-2H-benzimidazol-2-ones via a ring opening of thiazolo[3,2-
+a]benzimidazolium or benzimidazo[2,1-b][1,3]benzothiazol-6-ium salts
+and an unusual C−O bond cleavage of an alkoxide. A large variety of
+benzimidazolones bearing an original N-thioalkenyl or N-(o-thio)aryl
+group was obtained in high yields. The developed chemistry provides
+eﬃcient and rapid access to the privileged benzimidazol-2-one scaﬀold.
+
+■ INTRODUCTION
+
+Benzimidazol-2-one is a common molecular framework which
+belongs to privileged structures,
+i.e., compounds able of
+providing useful ligands for more than one type of receptor
+or enzyme target by judicious structural modiﬁcations.1 Indeed,
+1,3-dihydro-2H-benzimidazol-2-one derivatives exhibit a broad
+scope of pharmacological properties, including opioid receptor-
+like agonists2 and antagonists,3 reverse transcriptase inhibitors,4
+p38 kinase inhibitors,5 respiratory syncytial virus
+fusion
+inhibitors,6 and progesterone receptor antagonists.7 A survey
+of recent literature indicates that investigations in these ﬁelds
+remain an active and crucial area of research.8 Furthermore,
+besides all these biological activities, this class of compounds
+also constitutes attractive building blocks in crystal engineering9
+as well as thermoplastic10 and conducting11 polymers.
+
+Conventional synthesis of benzimidazol-2-ones bearing two
+diﬀerent substituents on each nitrogen atom requires multistep
+manipulations, and three pathways can be envisioned. The ﬁrst
+strategy involves formation of the benzimidazole core followed
+by regioselective alkylation of either nitrogen atom.7b,12 The
+requirement of protecting groups is mandatory in such method.
+Another typical approach consists in the nucleophilic displace-
+ment of 2-ﬂuoronitrobenzenes with primary amines, subse-
+quent reduction, and cyclization using 1,1′-carbonyldiimidazo-
+le5a,13 or triphosgene.14 In this case, the scarce commercial
+availability of diversely substituted starting material represents a
+
+limitation. Finally, alternative procedures have been reported by
+cyclization of o-haloarylureas using palladium15 or copper
+catalysis.16 Although these methodologies oﬀer certain
+advantages, each suﬀers from some drawback (e.g., low yield,
+reaction sequence not straightforward, only few described
+examples, harsh conditions) and generates a single function-
+alized nitrogen atom.
+
+Access to new therapeutic entities depends greatly on the
+discovery of original and pertinent scaﬀolds, connected with the
+development of innovative synthetic reactions. In this paper, we
+report a straightforward synthesis of unsymmetrically N,N′-
+disubstituted 1,3-dihydro-2H-benzimidazol-2-ones 1 and 2 via
+thiazolo[3,2-a]benzimidazolium 3 and
+ring opening of
+benzimidazo[2,1-b][1,3]benzothiazol-6-ium 4 quaternary salts,
+respectively (Figure 1).17 The strategy described here allows
+modulation of four substituents on the benzimidazole scaﬀolds.
+Interestingly,
+the ﬁrst example of
+installation of a N-thioalkenyl or N-(o-thio)aryl substituent
+on these relevant nitrogen-containing heterocycles, and only
+two synthetic pathways to N-alkenyl-benzimidazol-2-ones,
+simpler structures, are described in the literature.18
+
+this work represents
+
+Received:
+January 30, 2015
+Published: February 27, 2015
+
+© 2015 American Chemical Society
+
+3233
+
+DOI: 10.1021/acs.joc.5b00221
+J. Org. Chem. 2015, 80, 3233−3241
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“props”>
+those belonging to the methyl group located on the double
+bond. It clearly indicates that both heteroatoms are on the same
+side of the CC bond, i.e., a Z conﬁguration issuing from the
+thiazole moiety.
+</para>
+<para sub="scope">
+The study was then directed toward access to a focused
+library of benzimidazol-2-ones 1 with the aim to extend the
+scope of our methodology (Table 1). Heterocycles 5 were
+allowed to react with a range of halogenated derivatives R3−X
+(iodomethane, iodoethane, 1-iodoheptane, benzyl chloride, 3,5-
+bis(triﬂuoromethyl)benzyl chloride, or 4-nitrobenzyl chloride)
+to furnish the corresponding N-alkylated salts 3 in 68−100%
+yield after a simple ﬁltration.
+</para>
+<para sub="scope">
+In the presence of MeONa or BnONa, 3 underwent a ring
+opening and we obtained single stereomers of 1,3-dihydro-2H-
+benzimidazol-2-ones 1 (R4 = Me) with good to excellent overall
+yields (Table 1, entries 1−5 and 9−17). This unprecedented
+sequence enabled the preparation of a large series of N-
+thioalkenyl benzimidazolones 1 with control of
+four sub-
+stituents on the heterocyclic ring. Pure products were isolated
+without tedious puriﬁcation since the workup consisted in an
+extraction in dichloromethane sometimes followed by a quick
+ﬁltration on a pad of silica. It is noteworthy that the protocol
+utilizes cheap chemicals and allows high atom eﬃciency.
+</para>
+<para sub="scope">
+In order to conﬁrm the cleavage of the alkoxide species, salt
+3d (R1 = H, R2 = Me, R3 = Bn) was treated at room
+temperature by a freshly prepared solution of sodium benzylate
+(Table 1, entry 6). As expected, addition of BnO− provided the
+anticipated cis benzimidazolone with subsequent transfer of the
+benzyl group to sulfur. This unambiguously demonstrates that
+the R4 moiety and the oxygen of the carbonyl on the ﬁnal
+heterocycle come from the same alkoxide anion. Furthermore,
+salts 3d (R1 = H, R2 = Me, R3 = Bn) and 3a (R1 = H, R2 = Me,
+R3 = Me) were allowed to react with BnOH/NaOH at reﬂux
+(Table 1, entries 7 and 8). Interestingly, the two geometric
+isomers of 1g and 1h have been obtained in a 45/55 (Z/E)
+ratio (determined by 1H NMR on the crude material). We
+assume that the occurrence of both isomers probably resulted
+from isomerization of
+the double bond during heating.
+However, they were easily separated by column chromatog-
+raphy, so that this procedure provided access to the trans
+stereomer of benzimidazolone.
+</para>
+<para sub=“props”>
+Compound 1k was crystallized, and a suitable crystal was
+used for X-ray diﬀraction.21 The chemical structure of the
+isolated benzimidazol-2-ones and the stereochemistry of the
+CC double bond were conﬁrmed. Some insight into the solid
+state can be gleaned from this analysis: the conformation
+adopted is characterized by a dihedral angle of 126° between
+the plane containing the original N-thioalkenyl substituent and
+the plane containing the heterocyclic ring. In addition, the
+crystal packing revealed the presence of
+two frozen
+atropisomers about the N−Cvinylic bond axis. During HPLC
+analysis on chiral stationary phases, neither a plateau nor peak
+separation was observed, meaning that the exchange between
+these atropisomeric forms is fast in solution.
+</para>
+During the development of
+
+this work, novel eﬃcient
+methodologies to generate benzo[d]imidazo[2,1-b]thiazoles 6
+have been published in the literature.22 These structures are
+similar to thiazolobenzimidazoles 5, and this encouraged us to
+perform a parallel treatment in these series, i.e., synthesis of the
+corresponding quaternary salts 4, followed by a ring opening
+promoted by an alkoxide (Table 2). This sequence would lead
+to N-aryl benzimidazol-2-ones 2, which belong to a class of
+molecules possessing pharmacological activities such as heat
+
+3234
+
+DOI: 10.1021/acs.joc.5b00221
+J. Org. Chem. 2015, 80, 3233−3241
+
+Figure 1. Synthesis of N-thioalkenyl and N-(o-thio)aryl benzimidazol-
+2-ones starting from thiazolobenzimidazole and benzo[d]imidazo-[2,1-
+b]benzothiazole, respectively.
+
+■ RESULTS AND DISCUSSION
+<para sub="scope">
+1,3-Dihydro-2H-benzimidazol-2-ones 1 were prepared using
+thiazolo[3,2-a]benzimidazoles 5 as starting materials. Several
+thiazolobenzimidazoles 5 are commercially available or can be
+obtained from 2-mercaptobenzimidazoles.19 In this work,
+heterocycles 5 were eﬃciently synthesized using a one-pot
+procedure starting from N-(2-aminophenyl)-thiazoline-2-thio-
+nes as we previously reported.20 This protocol led to a broad
+structural diversity: R1 represents a hydrogen, a ﬂuorine, or a
+triﬂuoromethyl group, and R2 can be an alkyl or an aryl
+substituent.21
+</para>
+<para sub="scope">
+With compounds 5 in hand, we ﬁrst examined the sequence
+leading to benzimidazol-2-one 1a (Scheme 1). The simplest
+</para>
+Scheme 1. Synthesis of Benzimidazol-2-one 1a via Ring
+Opening of Thiazolobenzimidazolium Salt 2a
+<para sub="scope">
+thiazolobenzimidazole 5a (R1 = H; R2 = Me) was easily
+converted into its corresponding quaternary salt 3a using
+methyl iodide in acetone. After solubilization in methanol, this
+salt was reacted with sodium methoxide at room temperature
+and we were delighted to observe a ring opening generating the
+1,3-dihydro-2H-benzimidazol-2-one 1a as a white powder in
+71% overall isolated yield.
+</para>
+<para sub="scope">
+the simplicity of
+
+the unprecedented access
+
+Compound 1a is remarkable for
+
+the
+synthesis route and for
+to a
+(thio)vinyl substituent in the benzimidazol-2-one series. The
+formation of 1a emphasizes also an uncommon phenomenon:
+the H3C−O bond of the alkoxide is cleaved to provide the
+oxygen of
+the benzimidazolone core and the CH3 group
+bonded to the sulfur atom. It means that, in this process, the
+methoxide anion acts as a source of methyl group and oxygen
+atom.
+</para>
+<para sub=“props”>
+Benzimidazol-2-one 1a was isolated as a single isomer, and a
+NOESY experiment was carried out in order to establish the
+stereochemistry of the CC double bond.21 This 2D NMR
+spectrum revealed that the vinylic hydrogen atom is close to
+</para>
+The Journal of Organic Chemistry
+Table 1. Synthesis of Benzimidazol-2-ones 1 Starting from Thiazolobenzimidazoles 5a
+
+Article
+
+aReagents and conditions: (i) R3−X, acetone (entries 1, 3, 5−8, and 11−17) or no solvent (entries 2 and 9) or acetonitrile (entries 4 and 10), reﬂux
+(entries 1−8 and 10−15) or 100 °C (entry 9) or room temperature (entries 16 and 17); (ii) MeONa, MeOH, room temperature (entries 1−5 and
+9−16) or BnOH/Na, room temperature (entry 6), or BnOH, NaOH, reﬂux (entries 7−8), or MeONa, MeOH, reﬂux (entry 17). bOverall isolated
+yield between brackets.
+
+shock protein 90 inhibitors,23 serotonin 5-HT ligands,24
+farnesyltransferase inhibitors,13a and maxi-K channel openers.25
+<para sub="scope">
+6a (R5 = H) and 6c (R5 = Cl) were directly obtained
+according to a reported protocol from 2-mercaptobenzimida-
+zole, which is commercially available.22c N-(p-Chloro)benzyl 4b
+(R3 = p-Cl-Bn, R5 = H), N-benzyl 4e (R3 = Bn, R5 = Cl), and
+
+N-heptyl 4g (R3 = n-C7H15, R5 = Cl) quaternary salts were then
+prepared using analogous procedures to that described for
+compounds 3. Interestingly, the treatment of 6a and 6c with
+methyl iodide did not proceed quantitatively, even under harsh
+conditions (large excess of reagent; heating). TLC of the crude
+revealed the presence of a signiﬁcant amount of starting
+</para>
+3235
+
+DOI: 10.1021/acs.joc.5b00221
+J. Org. Chem. 2015, 80, 3233−3241
+
+The Journal of Organic Chemistry
+Table 2. Synthesis of Benzimidazol-2-ones 2 Starting from Benzo[d]imidazo-[2,1-b]benzothiazoles 6a
+
+Article
+
+aReagents and conditions: (i) R3−X, pentan-3-one (entries 1−4 and 7) or no solvent (entries 5 and 6), reﬂux (entries 1−4 and 7) or 90 °C (entries
+5 and 6); (ii) MeONa/MeOH (entries 1−3, 5, and 7) or EtOH/Na (entries 4 and 6), 40 °C (entries 1, 2, and 7), or reﬂux (entries 3 and 5), or
+room temperature (entries 4 and 6). bOverall isolated yield between brackets.
+<para sub="scope">
+the nucleophilicity of
+
+material indicating a reversible reaction. We hypothesized that
+this was probably due to the lower basicity of the involved
+nitrogen atom and/or
+the iodine
+counterion which could provide a demethylation reaction.26
+To tackle this issue, methyl p-toluenesulfonate was chosen as
+alkylating agent, and the desired salts 4a (R3 = Me, R5 = H) and
+4c (R3 = Me, R5 = Cl) were isolated in 77% and 87% yield,
+respectively, after puriﬁcation.
+</para>
+<para sub="scope">
+Sodium methoxide was then allowed to react with [3,1]-
+benzimidazo[2,1-b][1,3]benzothiazol-6-ium 4a−c, 4e, and 4g
+(Table 2, entries 1−3, 5, and 7, respectively) leading to the
+corresponding N-aryl benzimidazolones 2 with good to
+excellent yields, except 2g for which we were not able to
+optimize the puriﬁcation step on column chromatography.
+Moreover, sodium ethoxide was tested on derivatives 4c (Table
+2, entry 4) and 4e (Table 2, entry 6). A preliminary attempt on
+4c was carried out at 70 °C and furnished a mixture of 2c (R3 =
+Me, R4 = Me, R5 = Cl) and 2d (R3 = Me, R4 = Et, R5 = Cl). We
+the formation of compound 2c probably
+postulated that
+resulted from a demethylation of the starting quaternary salts.
+Consequently,
+room
+temperature, yielding the sole compound 2d. Similar
+experimental conditions were used for the synthesis of 2f,
+which was isolated in very good yield.
+
+the ring opening was performed at
+</para>
+<para sub=“ques”>
+A plausible mechanism of this unprecedented ring opening is
+depicted in Scheme 2. In a ﬁrst step, the nucleophilic alcoholate
+species attacks the quaternary sp2 carbon bonded to three
+heteroatoms. The R4−O bond of the alcoholate is then cleaved
+</para>
+Scheme 2. Possible Mechanism for the Ring Opening
+<para sub=“ques”>
+to provide the oxygen atom of the benzimidazolone core and
+R4 bonded to the sulfur atom. On the basis of the observed
+results, Scheme 2 provides a postulated mechanism as a
+concerted process. However, depending on the actual bond
+breaking, the formation of thiolate and oxonium as an intimate
+ion pair can be also envisioned. Further studies are underway to
+trace the occurrence of disulﬁde moieties which would indicate
+a stepwise process accompanying the concerted one.
+</para>
+■ CONCLUSION
+
+In summary, we developed and exempliﬁed a powerful
+sequence for accessing unprecedented N-thioalkenyl and N-
+(o-thio)aryl 1,3-dihydro-2H-benzimidazol-2-ones. The process
+involves a ring opening of a quaternary salt (thiazolo[3,2-
+a]benzimidazolium or benzimidazo[2,1-b][1,3]benzothiazol-6-
+ium) and a concomitant C−O bond cleavage of the addition
+product. Taking into account
+the 1,3-dihydro-2H-
+benzimidazol-2-one scaﬀold belongs to the few privileged
+
+that
+
+3236
+
+DOI: 10.1021/acs.joc.5b00221
+J. Org. Chem. 2015, 80, 3233−3241
+
+The Journal of Organic Chemistry
+
+structures, this study opens the way to an unexplored chemical
+space for future biological screenings.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General
+
+Information. Commercially reagent-grade chemicals
+were used as received without additional puriﬁcation. All reactions
+were followed by TLC (Kieselgel 60 F-254). TLC spots were
+visualized with UV light and/or by staining with potassium
+permanganate or phosphomolybdic acid solution followed by heating.
+Column chromatography was performed on silica gel (60−200 mesh).
+Melting points are uncorrected. Chemicals shifts in 1H NMR and 13C
+NMR spectra are reported as part per million downshift
+from
+tetramethylsilane, and coupling constants are reported in hertz. When
+necessary, resonances were assigned using two-dimensional experi-
+ments (COSY, HMBC, HSQC). HRMS (ESI) were recorded on a
+TOF mass spectrometer.
+Synthesis of 3-(2-Aminophenyl)-1,3-thiazole-2(3H)-thione 7.
+General procedure for compounds 7k−o: Triethylamine (20 mmol)
+was added dropwise to a suspension of 1,2-diaminobenzene (10
+mmol) in CS2 (23 mL). After 2 h, the precipitate was ﬁltered, washed
+with Et2O, and dried to yield quantitatively the dithiocarbamate salt.
+This solid was then suspended in ethanol (30 mL), and a solution of
+α-halogenated ketone (10 mmol; 2-bromoacetophenone for 7k; 2-
+bromo-4′-ﬂuoroacetophenone for 7l; 2-bromo-4′-chloroacetophenone
+for 7m; 2-bromo-4′-methoxyacetophenone for 7n; 2-bromo-2′-
+acetonaphthone for 7o) in ethanol (30 mL) was added dropwise at
+0 °C, followed by addition of HCl 37% (3 mL) dropwise at 0 °C. The
+mixture was then heated at reﬂux for 1 h, whereupon water (100 mL)
+was added. The mixture was then extracted with dichloromethane (3 ×
+100 mL), and the organic layer was washed with water (3 × 100 mL),
+dried on MgSO4, and evaporated under reduced pressure. The desired
+compound was then isolated after crystallization in ethanol.
+
+3-(2-Aminophenyl)-4-phenyl-1,3-thiazole-2(3H)-thione, 7k. Yield:
+86% (2.620 g). White solid. Mp = 189 °C. 1H NMR (400 MHz,
+DMSO-d6): δ 5.12 (2H, br s, NH2), 6.42−6.47 (1H, m, arom), 6.70−
+6.76 (2H, m, arom), 6.99−7.05 (1H, m, arom), 7.17 (1H, s, H5),
+7.21−7.31 (5H, m, arom). 13C NMR (100 MHz, DMSO-d6): δ 110.3,
+116.0, 116.2, 122.9, 128.1 (2C), 128.4 (2C), 129.0, 129.2, 129.8, 130.6,
+144.5, 145.0, 188.5. HRMS m/z calcd C15H13N2S2 [M + H]+:
+285.0514; found 285.0514.
+3-(2-Aminophenyl)-4-(4-ﬂuorophenyl)-1,3-thiazole-2(3H)-thione,
+7l. Yield: 77% (2.477 g). White solid. Mp = 139 °C. 1H NMR (400
+MHz, DMSO-d6): δ 5.09 (2H, br s, NH2), 6.44−6.49 (1H, m, arom),
+6.70−6.76 (2H, m, arom), 6.77−6.81 (2H, m, arom), 7.00−7.09 (2H,
+m, arom + H5), 7.15−7.21 (2H, m, arom). 13C NMR (100 MHz,
+DMSO-d6): δ 109.3, 113.5, 113.8, 116.0, 116.2, 122.9, 129.2, 129.8,
+129.9 (2C), 130.5, 144.4, 145.0, 159.6, 188.4. HRMS: ionization of the
+sample under various conditions failed.
+3-(2-Aminophenyl)-4-(4-chlorophenyl)-1,3-thiazole-2(3H)-thione,
+7m. Yield: 61% (2.730 g). White solid. Mp = 231 °C. 1H NMR (400
+MHz, DMSO-d6): δ 5.15 (2H, br s, NH2), 6.44−6.50 (1H, m, arom),
+6.72 (1H, dd, J = 8.2, J = 1.2, arom), 6.77 (1H, dd, J = 7.9, J = 1.5,
+arom), 7.01−7.07 (1H, m, arom), 7.22 (1H, s, H5), 7.24−7.36 (4H,
+m, arom). 13C NMR (100 MHz, DMSO-d6): δ 110.9, 116.0, 116.2,
+122.5, 128.2 (2C), 129.2, 129.4, 130.0, 130.3 (2C), 133.8, 143.2, 145.0,
+188.6. HRMS m/z calcd C15H12N2S2Cl [M + H]+: 319.0124; found
+319.0126.
+3-(2-Aminophenyl)-4-(4-methoxyphenyl)-1,3-thiazole-2(3H)-thi-
+one, 7n. Yield: 75% (6.660 g). White solid. Mp = 164 °C. 1H NMR
+(400 MHz, DMSO-d6): δ 3.69 (3H, s, OCH3), 5.09 (2H, br s, NH2),
+6.43−6.50 (1H, m, arom), 6.70−6.75 (2H, m, arom), 6.77−6.82 (2H,
+m, arom), 7.00−7.06 (1H, m, arom), 7.07 (1H, s, H5), 7.16−7.21
+(2H, m, arom). 13C NMR (100 MHz, DMSO-d6): δ 55.1, 109.3, 113.5
+(2C), 116.0, 116.2, 122.9 (2C), 129.2, 129.8, 129.9 (2C), 144.4, 145.0,
+159.6, 188.4. HRMS m/z calcd C16H15N2OS2 [M + H]+: 315.0620;
+found 315.0622.
+3-(2-Aminophenyl)-4-(naphthalen-2-yl)-1,3-thiazole-2(3H)-thi-
+one, 7o. Yield: 49% (3.900 g). White solid. Mp = 163 °C. 1H NMR
+(400 MHz, DMSO-d6): δ 5.20 (2H, br s, NH2), 6.39−6.45 (1H, m,
+arom), 6.73 (1H, dd, J = 8.2, J = 1.2, arom), 6.79 (1H, dd, J = 7.8, J =
+</para>
+Article
+<para sub=“exp”>
+1.4, arom), 6.97−7.03 (1H, m, arom), 7.31 (1H, dd, J = 8.6, J = 1.7,
+arom), 7.31 (1H, s, H5), 7.48−7.55 (2H, m, arom), 7.76 (1H, d, J =
+12.4, arom), 7.76−7.87 (2H, m, arom), 7.90 (1H, s, arom). 13C NMR
+(100 MHz, DMSO-d6): δ 110.8, 116.1, 116.2, 122.9, 125.5, 126.6,
+127.0, 127.5 (2C), 128.1 (2C), 128.1, 129.2, 129.9, 132.2, 132.6, 144.5,
+145.1, 188.6. HRMS m/z calcd C19H15N2S2 [M + H]+: 335.0671;
+found 335.0669.
+
+Synthesis of [1,3]Thiazolo[3,2-a]benzimidazole 5. General
+procedure: Compound 7 (2 mmol) was solubilized in acetone (10
+mL), and methyl iodide (20 mmol) was added. After 12 h, the solvent
+was removed under reduced pressure to aﬀord quantitatively the
+corresponding thiazolium iodide. The residue was heated at reﬂux for
+12−24 h in methanol (20 mL), whereupon the solvent was removed
+under reduced pressure to aﬀord quantitatively the corresponding
+thiazolo[3,2-a]benzimidazolium iodide. The crude was then treated
+with a saturated solution of NaHCO3 (20 mL). The mixture was
+extracted with dichloromethane (3 × 10 mL), and the organic layer
+was dried on MgSO4 and evaporated to give the desired compound.
+3-Phenyl[1,3]thiazolo[3,2-a]benzimidazole, 5k. Yield: 69% (603
+mg). White solid. Mp = 147 °C. 1H NMR (400 MHz, CDCl3) δ 6.70
+(1H, s, H5), 7.08−7.14 (1H, m, arom), 7.23 (1H, d, J = 8.2, arom),
+7.34−7.40 (1H, m, arom), 7.56−7.69 (5H, m, arom), 7.82 (1H, d, J =
+8.2, arom). 13C NMR (100 MHz, CDCl3) δ 108.3, 112.1, 118.8, 121.2,
+124.2, 129.0, 129.1 (2C), 129.2 (2C), 129.7, 130.5, 134.6, 146.7, 156.8.
+HRMS m/z calcd C15H11N2S [M + H]+: 251.0637; found 251.0638.
+3-(4-Fluorophenyl)[1,3]thiazolo[3,2-a]benzimidazole, 5l. Yield:
+91% (300 mg). White solid. Mp = 152 °C. 1H NMR (400 MHz,
+CDCl3): δ 6.76 (1H, s, H5), 7.12−7.20 (2H, m, arom), 7.27−7.34
+(2H, m, arom), 7.37−7.43 (1H, m, arom), 7.63−7.69 (2H, m, arom),
+7.85 (1H, d, J = 8.3, arom). 13C NMR (100 MHz, CDCl3): δ 109.3,
+111.9, 116.5, 116.7, 118.5, 121.7, 124.7, 124.9, 129.4, 131.2, 131.3,
+133.6, 145.4, 156.3, 164.1 (d, J = 251). HRMS m/z calcd C15H10N2SF
+[M + H]+: 269.0543; found 269.0543.
+
+3-(4-Chlorophenyl)[1,3]thiazolo[3,2-a]benzimidazole, 5m. Yield:
+86% (160 mg). White solid. Mp = 200 °C. 1H NMR (400 MHz,
+CDCl3): δ 6.85 (1H, s, H5), 7.16−7.25 (2H, m, arom), 7.41−7.47
+(1H, m, arom), 7.58−7.65 (4H, m, arom), 7.87 (1H, d, J = 8.3, arom).
+13C NMR (100 MHz, CDCl3): δ 110.3, 112.2, 118.1, 122.2, 125.2,
+126.9, 129.0, 129.8 (2C), 130.5 (2C), 131.5, 133.7, 137.2, 156.1.
+HRMS m/z calcd C15H10N2SCl [M + H]+: 285.0247; found 285.0248.
+3-(4-Methoxyphenyl)[1,3]thiazolo[3,2-a]benzimidazole, 5n.
+Yield: 55% (450 mg). White solid. Mp = 153 °C. 1H NMR (400
+MHz, CDCl3): δ 3.92 (3H, s, OCH3), 6.58 (1H, s, H5), 7.06−7.11
+(3H, m, arom), 7.24 (1H, d, J = 8.2, arom), 7.32−7.37 (1H, m, arom),
+7.55−7.60 (2H, m, arom), 7.80 (1H, d, J = 8.2, arom). 13C NMR (100
+MHz, CDCl3): δ 55.6, 107.1, 111.9, 114.6 (2C), 118.9, 120.9, 121.4,
+123.9, 129.9, 130.5 (2C), 134.4, 147.4, 156.9, 161.2. HRMS m/z calcd
+C16H13N2OS [M + H]+: 281.0743; found 281.0743.
+3-(Naphthalen-2-yl)[1,3]thiazolo[3,2-a]benzimidazole, 5o. Yield:
+33% (300 mg). White solid. Mp = 164 °C. 1H NMR (400 MHz,
+CDCl3): δ 6.78 (1H, s, H5), 7.03−7.09 (1H, m, arom), 7.24 (1H, d, J
+= 8.2, arom), 7.33−7.38 (1H, m, arom), 7.59−7.67 (2H, m, arom),
+7.83 (1H, dd, J = 8.4, J = 1.8, arom), 7.83 (1H, d, J = 8.5, arom), 7.91−
+8.01 (2H, m, arom), 8.05 (1H, d, J = 8.5, arom), 8.16 (1H, s, arom).
+13C NMR (100 MHz, CDCl3): δ 108.5, 112.2, 118.8, 121.2, 124.1,
+125.7, 126.4, 127.4, 127.7, 128.2, 128.5, 128.9, 129.1, 129.9, 133.1,
+134.0, 134.6, 147.0, 156.9. HRMS m/z calcd C19H13N2S [M + H]+:
+301.0794; found 301.0794.
+Synthesis of [1,3]thiazolo[3,2-a]benzimidazol-9-ium 3. For
+experimental procedures and characterization data for compounds 3a−
+f and 3p−q, see ref 17.
+
+9-Benzyl-3-tert-butyl[1,3]thiazolo[3,2-a]benzimidazol-9-ium
+chloride, 3i. A solution of 3-tert-butyl-thiazolo[3,2-a]benzimidazole 5i
+(349 mg, 1.52 mmol) in benzyl chloride (2 mL) was stirred at 100 °C
+for 24 h. The crude was puriﬁed by column chromatography (eluent
+CH2Cl2/MeOH 9:1) providing the desired compound (540 mg).
+Yield: 100%. Pale orange solid. Mp = 177 °C. 1H NMR (400 MHz,
+CD3OD): δ 1.69 (9H, s, CH3), 5.86 (2H, s, NCH2), 7.36 (1H, s, H5),
+7.48 (3H, s, arom), 7.61 (2H, s, arom), 7.75−7.87 (2H, m, arom), 8.18
+(1H, br d, J = 6.1, arom), 8.44 (1H, br d, J = 6.2, arom). 13C NMR
+</para>
+3237
+
+DOI: 10.1021/acs.joc.5b00221
+J. Org. Chem. 2015, 80, 3233−3241
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+(100 MHz, CD3OD): δ 29.0, 34.8, 51.9, 111.7, 114.2, 118.0, 126.3,
+128.5, 129.0, 130.5 (2C), 130.8 (3C), 132.5, 137.9, 147.7, 157.8.
+HRMS m/z calcd C20H21N2S+ [M]+: 321.1420; found 321.1415.
+
+9-[3,5-Bis(triﬂuoromethyl)benzyl]-3-tert-butyl[1,3]thiazolo[3,2-a]-
+benzimidazol-9-ium chloride, 3j. To a solution of 3-tert-butyl-
+thiazolo[3,2-a]benzimidazole 5i (273 mg, 1.19 mmol) in acetonitrile
+(3 mL), 3,5-bis(triﬂuoromethyl)benzyl chloride (935 mg, 3.56 mmol)
+was added, and the mixture was stirred at reﬂux for 24 h. The crude
+was puriﬁed by column chromatography (eluent CH2Cl2/MeOH 9:1)
+providing the desired compound (395 mg). Yield: 68%. White solid.
+Mp = 161 °C. 1H NMR (400 MHz, CD3OD): δ 1.71 (9H, s, CH3),
+6.04 (2H, s, NCH2), 7.34 (1H, s, H5), 7.75−7.84 (2H, m, arom),
+8.03−8.06 (1H, m, arom), 8.11 (1H, s, arom), 8.23 (2H, s, arom),
+8.43−8.47 (1H, m, arom). 13C NMR (150 MHz, CD3OD): δ 29.0
+(3C), 35.0, 50.5, 111.3, 113.9, 118.3, 124.3 (m), 124.5 (2C, q, J =
+272), 126.5, 128.6, 129.4, 130.9 (2C, m), 133.7 (2C, q, J = 34), 136.6,
++ [M]+: 457.1168;
+137.9, 148.5, 158.6. HRMS m/z calcd C22H19N2SF6
+found 457.1165.
+General procedure for compounds 3k−o: To a solution of the
+corresponding compound 5 (1 mmol) in acetone (3 mL), methyl
+iodide (10 mmol) was added, and the mixture was stirred at reﬂux (3 h
+for 3k and 3o; 5 h for 3l−n). The desired compound was then isolated
+by ﬁltration.
+9-Methyl-3-phenyl[1,3]thiazolo[3,2-a]benzimidazol-9-ium Io-
+dide, 3k. Yield: 100% (87 mg). White solid. Mp = 202 °C. 1H
+NMR (400 MHz, CD3OD): δ 4.24 (3H, s, NCH3), 7.35 (1H, d, J =
+8.4, arom), 7.48 (1H, td, J = 8.4, J = 0.9, arom), 7.65 (1H, s, H5),
+7.69−7.87 (6H, m, arom), 8.01 (1H, d, J = 8.5, arom). 13C NMR (100
+MHz, CD3OD): δ 33.7, 113.8, 114.7, 114.8, 125.9, 128.4, 128.7, 130.6
+(2C), 130.8, 130.9 (2C), 132.6, 137.7, 138.5, 156.9. HRMS m/z calcd
+C16H13N2S+ [M]+: 265.0793; found 265.0793.
+3-(4-Fluorophenyl)-9-methyl[1,3]thiazolo[3,2-a]benzimidazol-9-
+ium Iodide, 3l. Yield: 97% (159 mg). White solid. Mp = 264 °C. 1H
+NMR (400 MHz, CD3OD): δ 4.11 (3H, s, NCH3), 7.20 (1H, d, J =
+8.4, arom), 7.31−7.41 (3H, m, arom), 7.53 (1H, s, H5), 7.60−7.65
+(1H, m, arom), 7.73−7.79 (2H, m, arom), 7.88 (1H, d, J = 8.4, arom).
+13C NMR (75 MHz, CD3OD): δ 33.6, 113.8, 113.8, 114.6, 115.2,
+117.6, 117.9, 124.6, 124.6, 126.0, 128.7, 133.4, 136.7, 138.4, 156.9,
+166.0 (d, J = 250.5). HRMS m/z calcd C16H12N2SF+ [M]+: 283.0699;
+found 283.0700.
+3-(4-Chlorophenyl)-9-methyl[1,3]thiazolo[3,2-a]benzimidazol-9-
+ium Iodide, 3m. Yield: 98% (73 mg). White solid. Mp = 276 °C. 1H
+NMR (400 MHz, CD3OD): δ 4.24 (3H, s, NCH3), 7.39 (1H, d, J =
+8.5, arom), 7.53 (1H, t, J = 7.6, arom), 7.69 (1H, s, H5), 7.73−7.87
+(5H, m, arom), 8.02 (1H, d, J = 8.5, arom). 13C NMR (75 MHz,
+CD3OD): δ 33.6, 113.8, 114.7, 115.4, 126.1, 127.0, 128.5, 130.9 (2C),
+131.7, 132.5 (2C), 136.6, 138.4, 138.9, 157.0. HRMS m/z calcd
+C16H12N2SCl+ [M]+: 299.0404; found 299.0404.
+
+3-(4-Methoxyphenyl)-9-methyl[1,3]thiazolo[3,2-a]benzimidazol-
+9-ium Iodide, 3n. Yield: 100% (163 mg). Pale brown solid. Mp = 216
+°C. 1H NMR (400 MHz, CD3OD): δ 3.97 (3H, s, OCH3), 4.22 (3H,
+s, NCH3), 7.22−7.28 (2H, m, arom), 7.38 (1H, d, J = 8.5, arom),
+7.46−7.52 (1H, m, arom), 7.54 (1H, s, H5), 7.71−7.77 (3H, m,
+arom), 8.01 (1H, d, J = 8.4, arom). 13C NMR (75 MHz, CD3OD): δ
+33.6, 56.2, 113.7, 113.9, 114.7, 115.9 (2C), 120.1, 125.9, 128.4, 128.7,
+132.4 (2C), 137.9, 138.4, 156.8, 163.6. HRMS m/z calcd
+C17H15N2OS+ [M]+: 295.0899; found 295.0900.
+9-Methyl-3-(naphthalen-2-yl)[1,3]thiazolo[3,2-a]benzimidazol-9-
+ium Iodide, 3o. Yield: 100% (91 mg). Pale brown solid. Mp = 193 °C.
+1H NMR (400 MHz, CD3OD): δ 4.25 (3H, s, NCH3), 7.30 (1H, d, J =
+8.5, arom), 7.42 (1H, t, J = 8.3, arom), 7.65−7.76 (4H, m, arom +
+H5), 7.85 (1H, dd, J = 8.5, J = 1.7, arom), 8.01 (1H, d, J = 8.4, arom),
+8.07 (2H, t, J = 7.3, arom), 8.20 (1H, d, J = 8.5, arom), 8.38 (1H, s,
+arom). 13C NMR (100 MHz, CD3OD): δ 33.7, 113.8, 114.8, 115.0,
+125.5, 125.9, 126.8, 128.4, 128.7, 128.7, 129.2, 129.3, 129.6, 130.4,
+131.2, 134.4, 135.7, 137.8, 138.4, 157.0. HRMS m/z calcd C20H15N2S+
+[M]+: 315.0950; found 315.0950.
+Synthesis of Benzo[d]imidazo-[2,1-b]benzothiazoles 4. Gen-
+eral procedure for compounds 4a−c and 4g: To a solution of the
+corresponding compound 6 (1 mmol) in pentan-3-one (1−4 mL),
+
+alkylating reagent (for 4a and 4c, 10 mmol of methyl p-
+toluenesulfonate; for 4b, 8 mmol of p-chlorobenzyl chloride; for 4g,
+12 mmol of 1-iodoheptane) was added, and the mixture was stirred at
+reﬂux (for 4a, 20 h; for 4b, 24 h; for 4c, overnight; for 4g, 48 h). The
+desired compound was then isolated by ﬁltration and washed with
+acetone (for 4b, before this ﬁltration, excess of p-chlorobenzyl chloride
+was removed under vacuum).
+
+6-Methyl[3,1]benzimidazo[2,1-b][1,3]benzothiazol-6-ium 4-
+Methylbenzenesulfonate, 4a. Yield: 58% (2.354 g). White solid.
+Mp = 245−247 °C. 1H NMR (400 MHz, CD3OD): δ 2.38 (3H, s,
+CH3 tos), 4.25 (3H, s, NCH3), 7.23 (2H, d, J = 8.0, arom), 7.70 (2H,
+d, J = 8.1, arom), 7.78 (1H, t, J = 7.8, arom), 7.82−7.89 (2H, m,
+arom), 7.94 (1H, t, J = 7.8, arom), 8.05−8.11 (1H, m, arom), 8.31
+(1H, d, J = 8.2, arom), 8.61−8.68 (2H, m, arom). 13C NMR (100
+MHz, CD3OD): δ 21.3, 34.0, 114.0, 114.7, 116.4, 126.7, 126.9 (2C),
+127.3, 128.4, 128.5, 128.9, 129.7, 129.8 (2C), 130.2, 133.9, 137.9,
+141.6, 143.6, 156.6. HRMS m/z calcd C14H11N2S+ [M]+: 239.0637;
+found 239.0639.
+
+6-(4-Chlorobenzyl)[3,1]benzimidazo[2,1-b][1,3]benzothiazol-6-
+ium Chloride, 4b. Yield: 70% (457 mg). Pale brown solid. Mp = 240
+°C (decomposition). 1H NMR (400 MHz, CD3OD): δ 5.87 (2H, s,
+NCH2), 7.54 (2H, d, J = 8.5, arom), 7.63 (2H, d, J = 8.4, arom), 7.71
+(1H, t, J = 7.9, arom), 7.82−7.87 (2H, m, arom), 7.89 (1H, t, J = 7.9,
+arom), 8.10−8.16 (1H, m, arom), 8.18 (1H, d, J = 8.2, arom), 8.61−
+8.67 (2H, m, arom). 13C NMR (100 MHz, CD3OD): δ 51.3, 114.3,
+114.9, 116.5, 126.5, 127.6, 128.6 (2C), 129.2, 130.1, 130.2, 130.8 (2C),
+131.1, 132.7 (2C), 133.6, 137.3, 137.5, 156.0. HRMS m/z calcd
+C20H14N2SCl+ [M]+: 349.0561; found 349.0564.
+
+2-Chloro-6-methyl[3,1]benzimidazo[2,1-b][1,3]benzothiazol-6-
+ium 4-Methylbenzenesulfonate, 4c. Yield: 87% (785 mg). White
+solid. Mp = 247 °C (decomposition). 1H NMR (400 MHz, CD3OD):
+δ 2.32 (3H, s, CH3), 4.21 (3H, s, NCH3), 7.14 (2H, d, J = 8.0, arom),
+7.60 (2H, d, J = 8.2, arom), 7.74 (1H, dd, J = 8.8, J = 1.8, arom), 7.78−
+7.86 (2H, m, arom), 8.01−8.06 (1H, m, arom), 8.24 (1H, d, J = 8.8,
+arom), 8.59−8.64 (1H, m, arom), 8.67 (1H, d, J = 1.8). 13C NMR
+(100 MHz, CD3OD): δ 21.3, 33.9, 114.0, 114.8, 116.7, 126.8 (2C),
+127.5, 127.8, 128.3, 128.6, 128.7, 128.8, 129.7 (2C), 134.7, 136.3,
+137.8, 141.5, 143.6, 157.4. HRMS m/z calcd C14H10N2SCl+ [M]+:
+273.0248; found 273.0251.
+2-Chloro-6-heptyl[3,1]benzimidazo[2,1-b][1,3]benzothiazol-6-
+ium Iodide, 4g. Yield: 65% (583 mg). White solid. Mp = 255 °C. 1H
+NMR (400 MHz, CD3OD): δ 0.87−0.93 (3H, m, CH3), 1.28−1.57
+(8H, m, 4CH2), 2.05−2.16 (2H, m, CH2), 4.69 (2H, t, J = 7.3, NCH2),
+7.77 (1H, dd, J = 8.8, J = 1.8, arom), 7.80−7.87 (2H, m, arom), 8.09−
+8.15 (1H, m, arom), 8.30 (1H, d, J = 8.8, arom), 8.64−8.69 (1H, m,
+arom), 8.72 (1H, d, J = 1.8, arom). 13C NMR (100 MHz, CD3OD): δ
+14.4, 23.6, 27.7, 29.1, 29.9, 32.8, 49.0, 114.2, 115.1, 116.9, 127.6, 127.9,
+128.3, 128.7, 128.8, 129.1, 134.8, 136.4, 137.3, 156.7. HRMS m/z calcd
+C20H22N2SCl+ [M + H]+: 357.1187; found 357.1184.
+
+6-Benzyl-2-chloro[3,1]benzimidazo[2,1-b][1,3]benzothiazol-6-
+ium Bromide, 4e. A solution of 2-chlorobenzo[d]benzo[4,5]imidazo-
+[2,1-b]thiazole 6c (128 mg, 0.49 mmol) in benzyl bromide (2 mL,
+16.92 mmol) was added, and the mixture was stirred at 90 °C for 4 h.
+After cooling at room temperature, diethyl ether (10 mL) was added
+and the desired compound was then isolated by ﬁltration (210
+mg).Yield: 100%. White solid. Mp = 246 °C (decomposition). 1H
+NMR (400 MHz, CD3OD): δ 5.97 (2H, s, NCH2), 7.52−7.73 (6H, m,
+arom), 7.82−7.89 (2H, m, arom), 8.07−8.19 (2H, m, arom), 8.65−
+8.72 (2H, m, arom). 13C NMR (100 MHz, CD3OD): δ 52.2, 103.8,
+114.3, 115.0, 116.7, 127.5, 127.7, 128.8, 129.1, 130.8 (2C), 131.5 (3C),
+131.9, 134.2, 136.3, 137.5, 156.5. HRMS m/z calcd C20H14N2SCl+
+[M]+: 349.0561; found 349.0561.
+Synthesis of Benzimidazol-2-one 1. For experimental proce-
+dures and characterization data for compounds 1a−h and 1p−q, see
+ref 17.
+
+Procedure to access to compound 1g1 as a single isomer (Table 1,
+entry 6): To a solution of 9-benzyl-3-methyl[1,3]thiazolo[3,2-
+a]benzimidazol-9-ium chloride 3d (65 mg, 0.21 mmol) in benzyl
+alcohol (3 mL), 1.5 mL of a freshly prepared solution of sodium
+benzylate (prepared by addition of sodium [22 mg, 0.96 mmol] in 5
+</para>
+3238
+
+DOI: 10.1021/acs.joc.5b00221
+J. Org. Chem. 2015, 80, 3233−3241
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+mL of benzyl alcohol) was added at room temperature and the mixture
+was stirred for 24 h. The solvent was then evaporated, water was added
+(25 mL), and the mixture was extracted with dichloromethane (3 × 25
+mL). The organic layer was dried on MgSO4 and evaporated under
+reduced pressure, providing the desired compound (45 mg, 56%).
+Characterization data are consistent with ref 17.
+General procedure for compounds 1i−o: To a solution of the
+corresponding compound 3 (1 mmol) in methanol (60 mL),
+purchased sodium methoxide (4 mmol) was added and the mixture
+was stirred at room temperature for 48 h. The solvent was then
+evaporated, water was added (25 mL), and the mixture was extracted
+with dichloromethane (3 × 25 mL). The organic layer was dried on
+MgSO4 and evaporated under reduced pressure, providing the desired
+compound.
+
+1-Benzyl-3-[(1Z)-3,3-dimethyl-1-(methylsulfanyl)but-1-en-2-yl]-
+1,3-dihydro-2H-benzimidazol-2-one, 1i. Yield: 100% (239 mg). Pale
+yellow oil. 1H NMR (400 MHz, CDCl3): δ 1.22 (9H, s, CH3), 2.21
+(3H, s, SCH3), 5.02 (1H, d, JAB = 15.8, CH2), 5.15 (1H, d, JAB = 15.9,
+CH2), 6.40 (1H, s, H5), 6.78−6.86 (2H, m, arom), 6.91−7.01 (2H, m,
+arom), 7.17−7.32 (5H, m, arom). 13C NMR (100 MHz, CDCl3): δ
+16.6, 29.5, 38.8, 44.9, 108.5, 109.4 (2C), 121.3, 121.5, 127.4 (2C),
+127.6, 128.8 (2C), 129.2, 129.6, 136.5, 137.9, 153.5. HRMS m/z calcd
+C21H24N2OS+ [M + H]+: 353.1682; found 353.1684.
+
+1-[3,5-Bis(triﬂuoromethyl)benzyl]-3-[(1Z)-3,3-dimethyl-1-
+(methylsulfanyl)but-1-en-2-yl]-1,3-dihydro-2H-benzimidazol-2-one,
+1j. Yield: 100% (313 mg). White solid. Mp = 143 °C. 1H NMR (400
+MHz, CDCl3): δ 1.27 (9H, s, CH3), 2.25 (3H, s, SCH3), 5.05 (1H, d,
+JAB = 16.3, CH2), 5.41 (1H, d, JAB = 16.2, CH2), 6.45 (1H, s, H5),
+6.81−6.84 (1H, m, arom), 6.91−6.94 (1H, m, arom), 7.01−7.10 (2H,
+m, arom), 7.77 (1H, s, arom), 7.80 (2H, s, arom). 13C NMR (150
+MHz, CDCl3): δ 16.4, 29.4 (3C), 38.7, 43.9, 107.8, 109.9, 121.8, 121.9,
+122.1, 123.3 (2C, q, J = 273), 127.6 (2C), 128.9, 129.6, 130.0, 132.2,
++
+(2C, q, J = 33), 138.0, 139.4, 153.4. HRMS m/z calcd C23H22N2OSF6
+[M + H]+: 489.1430; found 489.1432.
+
+1-Methyl-3-[(Z)-2-(methylsulfanyl)-1-phenylethenyl]-1,3-dihydro-
+2H-benzimidazol-2-one, 1k. Yield: 100% (43 mg). White crystals. Mp
+= 168 °C. 1H NMR (300 MHz, CDCl3): δ 2.41 (3H, s, SCH3), 3.51
+(3H, s, NCH3), 6.73 (1H, d, J = 7.8, arom), 6.97−7.32 (9H, m, arom
++H5). 13C NMR (75 MHz, CDCl3): δ 17.3, 27.6, 107.8, 109.5, 121.6,
+122.0, 124.7 (2C), 128.0, 128.1, 128.4, 128.9 (2C), 130.6, 130.7, 135.5,
+152.7. HRMS m/z calcd C17H17N2OS+ [M + H]+: 297.1056; found
+297.1056.
+
+1-[(Z)-1-(4-Fluorophenyl)-2-(methylsulfanyl)ethenyl]-3-methyl-
+1,3-dihydro-2H-benzimidazol-2-one, 1l. Yield: 100% (51 mg).
+Colorless oil. 1H NMR (300 MHz, CDCl3): δ 2.40 (3H, s, SCH3),
+3.50 (3H, s, NCH3), 6.72 (1H, d, J = 7.7, arom), 6.91−7.28 (8H, m,
+arom+H5). 13C NMR (75 MHz, CDCl3): δ 17.3, 27.6, 107.9, 109.4,
+115.8, 116.1, 121.6, 122.1, 126.5, 126.6, 127.3, 128.2, 130.3, 130.6,
+131.9, 152.6, 162.7 (d, J = 250.6). HRMS m/z calcd C17H16N2OSF+
+[M + H]+: 315.0961; found 315.0962.
+
+1-[(Z)-1-(4-Chlorophenyl)-2-(methylsulfanyl)ethenyl]-3-methyl-
+1,3-dihydro-2H-benzimidazol-2-one, 1m. Yield: 100% (49 mg).
+Yellow oil. 1H NMR (300 MHz, CDCl3): δ 2.41 (3H, s, SCH3), 3.51
+(3H, s, NCH3), 6.71 (1H, d, J = 7.7, arom), 6.98−7.29 (8H, m, arom
++H5). 13C NMR (75 MHz, CDCl3): δ 17.3, 27.6, 107.9, 109.4, 121.7,
+122.1, 126.0 (2C), 127.0, 128.1, 129.1 (2C), 130.6, 131.5, 133.8, 134.1,
+152.5. HRMS m/z calcd C17H16N2OSCl+ [M + H]+: 331.0666; found
+331.0666.
+
+1-[(Z)-1-(4-Methoxyphenyl)-2-(methylsulfanyl)ethenyl]-3-methyl-
+1,3-dihydro-2H-benzimidazol-2-one, 1n. Yield: 100% (61 mg). Pale
+brown oil. 1H NMR (300 MHz, CDCl3): δ 2.38 (3H, s, SCH3), 3.50
+(3H, s, NCH3), 3.77 (3H, s, OCH3), 6.72 (1H, d, J = 7.6, arom),
+6.76−7.21 (8H, m, arom + H5). 13C NMR (75 MHz, CDCl3): δ 17.3,
+27.5, 55.4, 107.7, 109.5, 114.3 (2C), 121.5, 121.9, 126.1 (2C), 128.0,
+128.2, 128.3, 128.5, 130.6, 152.7, 159.6. HRMS m/z calcd
+C18H19N2O2S+ [M + H]+: 327.1161; found 327.1161.
+
+1-Methyl-3-[(Z)-2-(methylsulfanyl)-1-(naphthalen-2-yl)ethenyl]-
+1,3-dihydro-2H-benzimidazol-2-one, 1o. Yield: 95% (21 mg). Pale
+brown oil. 1H NMR (300 MHz, CDCl3): δ 2.45 (3H, s, SCH3), 3.55
+(3H, s, NCH3), 6.74 (1H, d, J = 7.7, arom), 6.95−7.82 (11H, m, arom
++ H5). 13C NMR (75 MHz, CDCl3): δ 17.4, 27.6, 107.8, 109.5, 121.6,
+
+122.0, 122.7, 123.6, 126.3, 126.6, 127.7, 128.2, 128.4, 128.5, 128.7,
+130.7, 131.3, 132.8, 133.1, 133.6, 152.7. HRMS m/z calcd
+C21H19N2OS+ [M + H]+: 347.1212; found 347.1212.
+
+Synthesis of Benzimidazol-2-one 2. General procedure for
+compounds 2a and 2e: To a solution of the corresponding compound
+4 (1 mmol) in methanol (for 2a, 50 mL; for 2e, 70 mL), purchased
+sodium methoxide (for 2a, 1.1 mmol; for 2e, 5 mmol) was added and
+the mixture was stirred (for 2a, 40 °C for 5 h; for 2e, reﬂux for 3 h).
+The solvent was then evaporated, water was added (25 mL), and the
+mixture was extracted with dichloromethane (3 × 25 mL). The
+organic layer was dried on MgSO4 and evaporated under reduced
+pressure, providing the desired compound.
+1-Methyl-3-[2-(methylsulfanyl)phenyl]-1,3-dihydro-2H-benzimi-
+dazol-2-one, 2a. Yield: 77% (50 mg). Pale brown solid; Mp = 127−
+129 °C. 1H NMR (400 MHz, CD3OD): δ 2.39 (3H, s, SCH3), 3.50
+(3H, s, NCH3), 6.64 (1H, d, J = 7.9, arom), 7.06 (1H, t, J = 7.7, arom),
+7.15−7.25 (2H, m, arom), 7.31−7.39 (2H, m, arom), 7.51−7.58 (2H,
+m, arom). 13C NMR (100 MHz, CDCl3): δ 15.5, 27.5, 107.7, 108.9,
+121.5, 122.0, 126.0, 126.8, 129.6, 129.8, 129.9, 130.4, 132.0, 139.2,
+153.5. HRMS m/z calcd C15H15N2OS + [M + H]+: 271.0900; found
+271.0900.
+
+1-Benzyl-3-[5-chloro-2-(methylsulfanyl)phenyl]-1,3-dihydro-2H-
+benzimidazol-2-one, 2e. Yield: 100% (163 mg). White solid. Mp =
+159 °C. 1H NMR (400 MHz, CDCl3): δ 2.40 (3H, s, SCH3), 5.11
+(1H, d, JAB = 15.8, CH2), 5.21 (1H, d, JAB = 15.8, CH2), 6.69−6.72
+(1H, m, arom), 6.91−6.94 (1H, m, arom), 6.99−7.07 (2H, m, arom),
+7.27−7.42 (7H, m, arom), 7.46 (1H, dd, J = 8.5, J = 2.3, arom). 13C
+NMR (100 MHz, CDCl3): δ 15.7, 45.2, 108.8, 108.9, 121.7, 122.3,
+127.6 (2C), 127.9, 128.0, 128.9 (2C), 129.5, 129.6, 129.9, 130.1, 131.4,
+132.9, 136.2, 138.1, 153.2. HRMS m/z calcd C21H18N2OSCl+ [M +
+H]+: 381.0823; found 381.0823.
+General procedure for compounds 2b−c and 2g: To a solution of
+the corresponding compound 4 (1 mmol) in methanol (for 2b and 2c,
+40 mL; for 2g, 146 mL), purchased sodium methoxide (for 2b, 2.4
+mmol; for 2c, 5 mmol; for 2g, 2 mmol) was added, and the mixture
+was stirred (for 2b, 40 °C, overnight; for 2c, reﬂux for 4 h; for 2g, 40
+°C for 1 h). The solvent was then evaporated, and the crude was
+puriﬁed by column chromatography (eluent CH2Cl2/AcOEt 10:0 →
+9:1), providing the desired compound.
+
+1-(4-Chlorobenzyl)-3-[2-(methylsulfanyl)phenyl]-1,3-dihydro-2H-
+benzimidazol-2-one, 2b. Yield: 98% (95 mg). White solid. Mp = 154
+°C. 1H NMR (400 MHz, CDCl3): δ 2.41 (3H, s, SCH3), 5.07 (1H, d,
+JAB = 15.8, NCH2), 5.99 (1H, d, JAB = 15.9, NCH2), 6.68−6.71 (1H,
+m, arom), 6.87−6.91 (1H, m, arom), 6.99−7.07 (2H, m, arom), 7.29−
+7.43 (7H, m, arom), 7.46−7.51 (1H, m, arom). 13C NMR (100 MHz,
+CDCl3): δ 15.5, 44.4, 108.4, 109.0, 121.7, 122.0, 126.0, 126.9, 129.0
+(2C), 129.1 (2C), 129.2, 129.6, 129.9, 130.0, 131.7, 133.6, 134.9,
+139.2, 153.3. HRMS m/z calcd C21H18N2OSCl+ [M + H]+: 381.0823;
+found 381.0825.
+
+1-[5-Chloro-2-(methylsulfanyl)phenyl]-3-methyl-1,3-dihydro-2H-
+benzimidazol-2-one, 2c. Yield: 72% (110 mg). Pale yellow oil. Mp =
+184 °C. 1H NMR (400 MHz, CDCl3): δ 2.38 (3H, s, SCH3), 3.51
+(3H, s, NCH3), 6.70 (1H, br d, J = 8.3, arom), 7.03−7.07 (2H, m,
+arom), 7.14−7.18 (1H, m, arom), 7.31−7.34 (1H, m, arom), 7.35 (1H,
+d, J = 2.0, arom), 7.44 (1H, dd, J = 8.6, J = 2.2, arom). 13C NMR (100
+MHz, CDCl3): δ 15.7, 27.6, 107.9, 108.9, 121.7, 122.3, 127.9, 129.4,
+129.8, 130.1, 130.4, 131.3, 132.9, 138.0, 153.2. HRMS m/z calcd
+C15H14N2OSCl+ [M + H]+: 305.0510; found 305.0506.
+
+1-[5-Chloro-2-(methylsulfanyl)phenyl]-3-heptyl-1,3-dihydro-2H-
+benzimidazol-2-one, 2g. Yield: 50% (80 mg). White solid. Mp = 75
+°C. 1H NMR (400 MHz, CDCl3): δ 0.87 (3H, br t, J = 6.9, CH3),
+1.24−1.46 (8H, m, 4CH2), 1.77−1.86 (2H, m, CH2), 3.89−4.01 (2H,
+m, NCH2), 6.70 (1H, d, J = 7.7, arom), 7.04 (1H, t, J = 7.6, arom),
+7.07 (1H, d, J = 8.2, arom), 7.14 (1H, t, J = 7.6, arom), 7.32 (1H, d, J =
+8.6, arom), 7.36 (1H, d, J = 2.1, arom), 7.44 (1H, dd, J = 8.5, J = 2.2,
+arom). 13C NMR (100 MHz, CDCl3): δ 14.2, 15.7, 22.7, 26.9, 28.4,
+29.1, 31.9, 41.5, 108.1, 108.9, 121.4, 122.1, 128.0, 129.5, 129.8, 129.9,
+130.0, 131.3, 133.0, 138.1, 153.0. HRMS m/z calcd C21H26N2OSCl+
+[M + H]+: 389.1449; found 389.1452.
+</para>
+3239
+
+DOI: 10.1021/acs.joc.5b00221
+J. Org. Chem. 2015, 80, 3233−3241
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+1-[5-Chloro-2-(ethylsulfanyl)phenyl]-3-methyl-1,3-dihydro-2H-
+benzimidazol-2-one, 2d. To a solution of 2-chloro-6-methyl[3,1]-
+benzimidazo[2,1-b][1,3]benzothiazol-6-ium 4-methylbenzenesulfonate
+4c (238 mg, 0.54 mmol) in ethanol (5 mL), 5 mL of a freshly prepared
+solution of sodium ethoxide (prepared by addition of sodium [25.6
+mg, 1.11 mmol] in 10 mL of ethanol) was added at 0 °C. The mixture
+was allowed to warm to room temperature overnight. The solvent was
+then evaporated, water was added (25 mL), and the mixture was
+extracted with dichloromethane (3 × 25 mL). The organic layer was
+dried on MgSO4 and evaporated under reduced pressure, providing
+the desired compound (145 mg).Yield: 81%. White solid. Mp = 101
+°C. 1H NMR (400 MHz, CDCl3): δ 1.21 (3H, t, J = 7.4, CH3), 2.78−
+2.91 (2H, m, SCH2), 3.51 (3H, s, NCH3), 6.67−6.71 (1H, m, arom),
+7.02−7.08 (2H, m, arom), 7.13−7.18 (1H, m, arom), 7.34−7.37 (1H,
+m, arom), 7.40−7.43 (2H, m, arom). 13C NMR (100 MHz, CDCl3): δ
+14.0, 27.4, 27.5, 107.8, 108.8, 121.6, 122.2, 129.9 (2C), 130.2, 130.3,
+132.0, 134.1, 136.5, 153.3. HRMS m/z calcd C16H16N2OSCl+ [M +
+H]+: 319.0666; found 319.0665.
+
+1-Benzyl-3-[5-chloro-2-(ethylsulfanyl)phenyl]-1,3-dihydro-2H-
+benzimidazol-2-one, 2f. To a solution of 6-benzyl-2-chloro[3,1]-
+benzimidazo[2,1-b][1,3]benzothiazol-6-ium bromide 4e (100 mg, 0.23
+mmol) in ethanol (40 mL), 7 mL of a freshly prepared solution of
+sodium ethoxide (prepared by addition of sodium [73 mg, 1.11 mmol]
+in 40 mL of ethanol) was added at 40 °C. The mixture was allowed to
+cool to room temperature overnight. The solvent was then evaporated,
+water was added (25 mL), and the mixture was extracted with
+dichloromethane (3 × 25 mL). The organic layer was dried on MgSO4
+and evaporated under
+reduced pressure, providing the desired
+compound (81 mg). Yield: 89%. Yellow oil. 1H NMR (400 MHz,
+CDCl3): δ 1.22 (3H, t, J = 7.3, CH3), 2.79−2.92 (2H, m, CH2), 5.11
+(1H, d, JAB = 15.6, NCH2), 5.22 (1H, d, JAB = 15.6, NCH2), 6.70 (1H,
+d, J = 7.1, arom), 6.92 (1H, d, J = 7.1, arom), 6.98−7.07 (2H, m,
+arom), 7.27−7.47 (8H, m, arom). 13C NMR (100 MHz, CDCl3): δ
+14.0, 27.6, 45.2, 108.8, 108.9, 121.7, 122.2, 127.7 (2C), 127.9, 128.9
+(2C), 129.5, 129.8, 129.9, 130.0, 130.6, 132.1, 134.3, 136.3, 136.6,
+153.3. HRMS m/z calcd C22H20N2OSCl+ [M + H]+: 395.0979; found
+395.0975.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+1H NMR and 13C NMR spectra for all new compounds and
+compounds described in ref 17; X-ray analysis of 1k. This
+material is available free of charge via the Internet at http://
+pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Authors
+*E-mail: daniel.farran@univ-amu.fr.
+*E-mail: christian.roussel@univ-amu.fr.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We gratefully acknowledge OSEO (A0607008UAT), Aix-
+Marseille University, and the CNRS (iSm2-UMR 7313) for
+funding this research. We thank W. Bergachi and S. Aboudou
+for
+starting materials and Dr. M. Giorgi
+(Spectropole) for X-ray structures.
+
+synthesis of
+
+■ REFERENCES
+
+(1) Duarte, C. D.; Barreiro, E. J.; Frage, C. A. M. Mini-Rev. Med.
+Chem. 2007, 7, 1108.
+(2) (a) Palin, R.; Clark, J. K.; Evans, L.; Houghton, A. K.; Jones, P. S.;
+Prosser, A.; Wishart, G.; Yoshiizumi, K. Bioorg. Med. Chem. 2008, 16,
+2829. (b) Clark, J. K.; Jones, P. S.; Palin, R.; Rosair, G.; Weston, M.
+Tetrahedron 2008, 64, 3119. (c) Palin, R.; Bom, A.; Clark, J. K.; Evans,
+
+L.; Feilden, H.; Houghton, A. K.; Jones, P. S.; Montgomery, B.;
+Weston, M. A.; Wishart, G. Bioorg. Med. Chem. 2007, 15, 1828.
+(3) (a) Smith, E. D.; Vinson, N. A.; Zhong, D.; Berrang, B. D.;
+Catanzaro, J. L.; Thomas, J. B.; Navarro, H. A.; Gilmour, B. P.;
+J.; Carroll, F.I. Bioorg. Med. Chem. 2008, 16, 822.
+Deschamps,
+(b) Sulima, A.; Folk, J.; Jacobson, A. E.; Rice, K. C. Synthesis 2007,
+1547. (c) De Risi, C.; Piero Pollini, G.; Trapella, C.; Peretto, I.;
+Ronzoni, S.; Giardina, G. A. M. Bioorg. Med. Chem. 2001, 9, 1871.
+(d) Kawamoto, H.; Ozaki, S.; Itoh, Y.; Miyaji, M.; Arai, S.; Nakashima,
+H.; Kato, T.; Ohta, H.; Iwasa, Y. J. Med. Chem. 1999, 42, 5061.
+(4) (a) Monforte, A.-M.; Logoteta, P.; De Luca, L.; Iraci, N.; Ferro,
+S.; Maga, G.; De Clerq, E.; Pannecouque, C.; Chimirri, A. Bioorg. Med.
+Chem. 2010, 18, 1702. (b) Monforte, A.-M.; Logoteta, P.; Ferro, S.; De
+Luca, L.; Iraci, N.; Maga, G.; De Clercq, E.; Pannecouque, C.;
+Chimirri, A. Bioorg. Med. Chem. 2009, 17, 5962. (c) Monforte, A.-M.;
+Rao, A.; Logoteta, P.; Ferro, S.; De Luca, L.; Letizia Barreca, M.; Iraci,
+N.; Maga, G.; De Clercq, E.; Pannecouque, C.; Chimirri, A. Bioorg.
+Med. Chem. 2008, 16, 7429. (d) Letizia Barreca, M.; Rao, A.; De Luca,
+L.; Iraci, N.; Monforte, A.-M.; Maga, G.; De Clercq, E.; Pannecouque,
+C.; Balzarini, J.; Chimirri, A. Bioorg. Med. Chem. Lett. 2007, 17, 1956.
+(5) (a) Hammach, A.; Barbosa, A.; Corbo Gaenzler, F.; Fadra, T.;
+Goldberg, D.; Hao, M.-H.; Kroe, R. R.; Liu, P.; Qian, K. C.; Ralph, M.;
+Sarko, C.; Soleymanzadeh, F.; Moss, N. Bioorg. Med. Chem. Lett. 2006,
+16, 6316. (b) Dombroski, M. A.; Letavic, M. A.; McClure, K. F.;
+Barberia, J. T.; Carty, T. J.; Cortina, S. R.; Csiki, C.; Dipesa, A. J.;
+Elliott, N. C.; Gabel, C. A.; Jordan, C. K.; Labasi, J. M.; Martin, W. H.;
+Peese, K. M.; Stock, I. A.; Svensson, L.; Sweeney, F. J.; Yu, C. H.
+Bioorg. Med. Chem. Lett. 2004, 14, 919.
+(6) (a) Combrink, K. D.; Gulzere, H. B.; Thuring, J. W.; Yu, K.-L.;
+Civiello, R. L.; Zhang, Y.; Pearce, B. C.; Yin, Z.; Langley, D. R.; Kadow,
+K. F.; Cianci, C. W.; Li, Z.; Clarke, J.; Genovesi, E. V.; Medina, I.;
+Lamb, L.; Yang, Z.; Zadjura, L.; Krystal, M.; Meanwell, N. A. Bioorg.
+Med. Chem. Lett. 2007, 17, 4784. (b) Alan Wang, X.; Cianci, C. W.; Yu,
+K.-L.; Combrink, K. D.; Thuring, J. W.; Zhang, Y.; Civiello, R. L.;
+Kadow, K. F.; Roach, J.; Li, Z.; Langley, D. R.; Krystal, M.; Meanwell,
+N. A. Bioorg. Med. Chem. Lett. 2007, 17, 4592. (c) Yu, K.-L.; Alan
+Wang, X.; Civiello, R. L.; Trehan, A. K.; Pearce, B. C.; Yin, Z.;
+Combrink, K. D.; Gulzere, H. B.; Zhang, Y.; Kadow, K. F.; Cianci, C.
+W.; Clarke, J.; Genovesi, E. V.; Medina, I.; Lamb, L.; Wyde, P. R.;
+Krystal, M.; Meanwell, N. A. Bioorg. Med. Chem. Lett. 2006, 16, 1115.
+(7) (a) Terefenko, E. A.; Kern, J.; Fensome, A.; Wrobel, J.; Zhu, Y.;
+Cohen, J.; Winneker, R.; Zhang, Z.; Zhang, P. Bioorg. Med. Chem. Lett.
+2005, 15, 3600. (b) Zhang, P.; Terefenko, E. A.; Wrobel, J.; Zhang, Z.;
+Zhu, Y.; Cohen, J.; Marschke, K. B.; Mais, D. Bioorg. Med. Chem. Lett.
+2001, 11, 2747.
+(8) (a) Demont, E. H.; Bamborough, P.; Chung, C.; Craggs, P. D.;
+Fallon, D.; Gordon, L. J.; Grandi, P.; Hobbs, C. I.; Hussain, J.; Jones,
+E. J.; Le Gall, A.; Michon, A.-M.; Mitchell, D. J.; Prinjha, R. K.;
+Roberts, A. D.; Sheppard, R. J.; Watson, R. J. ACS Med. Chem. Lett.
+2014, 5, 1190. (b) Miah, A. H.; Abas, H.; Begg, M.; Marsh, B. J.;
+O’Flynn, D. E.; Ford, A. J.; Percy, J. M.; Procopiou, P. A.; Richards, S.
+A.; Rumley, S.-A. Bioorg. Med. Chem. 2014, 22, 4298. (c) O’Reilly, M.
+C.; Scott, S. A.; Brown, H. A.; Lindsley, C. W. Bioorg. Med. Chem. Lett.
+2014, 24, 5553. (d) Shim, H. J.; Yang, H. R.; Kim, H. I.; Kang, S.-A.;
+No, K. T.; Jung, Y. H.; Lee, S.-T. Bioorg. Med. Chem. Lett. 2014, 24,
+4659. (e) Wang, W.; Cao, H.; Wolf, S.; Camacho-Horvitz, M. S.;
+Holak, T. A.; Dömling, A. Bioorg. Med. Chem. 2013, 21, 3982.
+(f) Fukaya, T.; Kodo, T.; Ishiyama, T.; Nishikawa, T.; Baba, S.;
+Masumoto, S. Bioorg. Med. Chem. 2013, 21, 1257. (g) Sun, Y.; Pandit,
+B.; Chettiar, S. M.; Etter, J. P.; Lewis, A.; Johnsamuel, J.; Li, P.-K.
+Bioorg. Med. Chem. Lett. 2013, 23, 4465. (h) Laube, M.; Kimple, S.;
+Dietl, P.; Thome, U.; Wittekindt, O. Br. J. Pharmacol. 2013, 168, 1329.
+(i) Taylor, S. J.; Padyana, A. K.; Abeywardane, A.; Liang, S.; Hao, M.-
+H.; De Lombaert, S.; Proudfoot, J.; Farmer, B. S., III; Li, X.; Collins,
+B.; Martin, L.; Albaugh, D. R.; Hill-Drzewi, M.; Pullen, S. S.;
+Takahashi, H. J. Med. Chem. 2013, 56, 4465. (j) Berry, J. F.; Ferraris,
+D. V.; Duvall, B.; Hin, N.; Rais, R.; Alt, J.; Thomas, A. G.; Rojas, C.;
+Hashimoto, K.; Slusher, B. S.; Tsukamoto, T. ACS Med. Chem. Lett.
+2012, 3, 839. (k) Yin, L. H.; Nemoto, P. A.; Mi Kim, J.; Hao, M.-H.;
+
+3240
+
+DOI: 10.1021/acs.joc.5b00221
+J. Org. Chem. 2015, 80, 3233−3241
+
+Article
+
+The Journal of Organic Chemistry
+
+Qian, K. C.; Farrow, N. A.; Albaugh, D. R.; Fowler, D. M.;
+Scheiderman, R. D.; August, E. M.; Martin, L.; Hill-Drzewi, M.;
+Pullen, S. S.; Takahashi, H.; De Lombaert, S. Bioorg. Med. Chem. Lett.
+2011, 21, 4533. (l) Liu, W.; Lau, F.; Liu, K.; Wood, H. R.; Zhou, G.;
+Chen, Y.; Li, Y.; Akiyama, T. E.; Castriota, G.; Einstein, M.; Wang, C.;
+McCann, M. E.; Doebber, T. W.; Wu, M.; Chang, C. H.; McNamara,
+L.; McKeever, B.; Mosley, R. T.; Berger, J. P.; Meinke, P. T. J. Med.
+Chem. 2011, 54, 8541. (m) Budzik, B.; Garzya, V.; Shi, D.; Walker, G.;
+Woolley-Roberts, M.; Pardoe, J.; Lucas, A.; Tehan, B.; Rivero, R. A.;
+Langmead, C. J.; Wu, Z.; Forbes, I. T.; Jin, J. ACS Med. Chem. Lett.
+2010, 1, 244. (n) Sivendran, S.; Jones, V.; Sun, D.; Wang, Y.;
+Grzegorzewicz, A. E.; Scherman, M. S.; Napper, A. D.; McCammon, J.
+A.; Lee, R. E.; Diamond, S. L.; McNeil, M. Bioorg. Med. Chem. 2010,
+18, 896.
+(9) (a) Mastalerz, M.; Oppel, I. Angew. Chem., Int. Ed. 2012, 51,
+5252. (b) Schwiebert, K. E.; Chin, D. N.; MacDonald,
+J. C.;
+Whitesides, G. M. J. Am. Chem. Soc. 1996, 118, 4018.
+(10) Mir, A. A.; Matsumura, S.; Hlil, A. R.; Hay, A. S. ACS Macro
+Lett. 2012, 1, 194.
+(11) Ward, R. E.; Meyer, T. Y. Macromolecules 2003, 36, 4368.
+(12) Meanwell, N. A.; Sit, S. Y.; Gao, J.; Wong, H. S.; Gao, Q.;
+Laurent, D. R.; Balasubramanian, N. J. Org. Chem. 1995, 60, 1565.
+(13) (a) Li, Q.; Li, T.; Woods, K. W.; Gu, W.-Z.; Cohen, J.; Stoll, V.
+S.; Galicia, T.; Hutchins, C.; Frost, D.; Rosenberg, S. H.; Sham, H. L.
+Bioorg. Med. Chem. Lett. 2005, 15, 2918. (b) Kawamoto, H.;
+Nakashima, H.; Kato, T.; Arai, S.; Kamta, K.; Iwasawa, Y. Tetrahedron
+2001, 57, 981.
+(14) (a) Gustin, D. J.; Sehon, C. A.; Wei, J.; Cai, H.; Meduna, S. P.;
+Khatuya, H.; Sun, S.; Gu, Y.; Jiang, W.; Thurmond, R. L.; Karlsson, L.;
+Edwards, J. P. Bioorg. Med. Chem. Lett. 2005, 15, 1687. (b) Poulain, R.;
+Horvath, D.; Bonnet, B.; Eckhoff, C.; Chapelain, B.; Bodinier, M.-C.;
+Déprez, B. J. Med. Chem. 2001, 44, 3378.
+(15) (a) Xu, X.-J.; Zong, Y.-X. Tetrahedron Lett. 2007, 48, 129.
+(b) McLaughlin, M.; Palucki, M.; Davies, I. W. Org. Lett. 2006, 8,
+3311. (c) Benedi, C.; Bravo, F.; Uriz, P.; Fernandez, E.; Claver, C.;
+Castillon, S. Tetrahedron Lett. 2003, 44, 6073.
+(16) (a) Li, Z.; Sun, H.; Jiang, H.; Liu, H. Org. Lett. 2008, 10, 3263.
+(b) Barbero, N.; Carril, M.; SanMartin, R.; Dominguez, E. Tetrahedron
+2008, 64, 7283. (c) Zou, B.; Yuan, Q.; Ma, D. Org. Lett. 2007, 9, 4291.
+(17) Roussel, C.; Andreoli, F.; Vanthuyne, N. International Patent
+WO 2010/052670 A1, May 14, 2010.
+(18) Kuethe, J. T.; Varon, J.; Childers, K. G. Tetrahedron 2007, 63,
+11489 and references cited therein..
+(19) (a) Al-Rashood, K. A.; Abdel-Aziz, H. A. Molecules 2010, 15,
+3775. (b) Xu, H.; Zhang, Y.; Huang, J.; Chen, W. Org. Lett. 2010, 12,
+3704. (c) Chimirri, A.; Grasso, S.; Romeo, G.; Zappala, M. Heterocycles
+1988, 27, 1975.
+(20) Roussel, C.; Andreoli, F.; Roman, M.; Hristova, M.; Vanthuyne,
+N. Molecules 2005, 10, 327.
+(21) Details are given in the Supporting Information.
+(22) (a) Gao, J.; Zhu, J.; Chen, L.; Shao, Y.; Zhu, J.; Huang, Y.;
+Wang, X.; Lv, X. Tetrahedron Lett. 2014, 55, 3367. (b) Kumar, R. K.;
+Manna, S.; Mahesh, D.; Sar, D.; Punniyamurthy, T. Asian J. Org. Chem.
+2013, 2, 843. (c) Zhang, X.; Jia, J.; Ma, C. Org. Biomol. Chem. 2012, 10,
+7944.
+(23) Bruncko, M.; Tahir, S. K.; Song, X.; Chen, J.; Ding, H.; Huth, J.
+R.; Jin, S.; Judge, R. A.; Madar, D. J.; Park, C. H.; Park, C.-M.; Petros,
+A. M.; Tse, C.; Rosenberg, S. H.; Elmore, S. W. Bioorg. Med. Chem.
+Lett. 2010, 20, 7503.
+(24) Badarau, E.; Suzenet, F.; Bojarski, A. J.; Guillaumet, G. Bioorg.
+Med. Chem. Lett. 2009, 19, 1600.
+(25) McKay, M. C.; Dworetzky, S. I.; Meanwell, N. A.; Olesen, S.-P.;
+Reinhart, P. H.; Levitan, I. B.; Adelman, J. P.; Gribkoff, V. K. J.
+Neurophysiol. 1994, 71, 1873.
+(26) (a) Deady, L. W. Aust. J. Chem. 1981, 34, 163. (b) Kister, J.;
+Berg, U.; Gallo, R.; Metzger, J. Bull. Soc. Chim. Fr. 1979, 484. (c) Berg,
+U.; Gallo, R.; Metzger, J. J. Org. Chem. 1976, 41, 2621.
+
+3241
+
+DOI: 10.1021/acs.joc.5b00221
+J. Org. Chem. 2015, 80, 3233−3241
+
+

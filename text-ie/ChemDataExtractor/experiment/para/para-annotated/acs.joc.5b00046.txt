@@ -1,0 +1,857 @@
+Note
+
+pubs.acs.org/joc
+
+†
+
+Jeong In Yun,
+
+Kalapati Seshadri,
+
+†,‡
+and Jongkook Lee*,†,§
+
+Stereoselective Construction of 2,6-cis-Disubstituted
+Tetrahydropyrans via Intramolecular Amide Enolate Alkylation: Total
+Synthesis of (−)-Centrolobine
+Muhammad Latif,
+∥
+Hyoungsu Kim,
+†
+Bio-Organic Science Division, Korea Research Institute of Chemical Technology, PO Box 107, Yuseong, Daejeon 305-600, Republic
+of Korea
+‡
+Korea University of Science and Technology, Daejeon 305-600, Republic of Korea
+§College of Pharmacy, Kangwon National University, 1 Kangwondaehak-gil, Chuncheon, Gangwon-do 200-701, Republic of Korea
+∥
+College of Pharmacy, Ajou University, Suwon, Gyeonggi-do 443-749, Republic of Korea
+*S Supporting Information
+
+Hyoung Rae Kim,
+
+Chi Hoon Park,
+
+Haeil Park,
+
+§
+
+†
+
+†
+
+§
+
+ABSTRACT: A highly stereoselective construction of 2,6-cis-disubstituted tetrahy-
+dropyrans was achieved by using an intramolecular amide enolate alkylation with
+KHMDS. The eﬃciency and practicality of this methodology was successfully
+demonstrated in the total synthesis of (−)-centrolobine (1).
+
+2,6-cis-Disubstituted tetrahydropyran (THP) ring systems
+constitute key structural features in a wide range of biologically
+active natural products such as SCH 351448,1 chamuvarinin,2
+and centrolobine (1).3 Although several strategies have been
+the construction of 2,6-cis-disubstituted
+developed for
+THPs,4−6 there is
+still a need for an eﬃcient, highly
+stereoselective and high yielding approach to this core unit.
+
+Intramolecular enolate alkylation has frequently been utilized
+the synthesis of natural products that contain small
+for
+tetrahydrofurans, and medium-ring oxacycles,7
+carbocycles,
+but no reports have yet appeared wherein this methodology
+was employed to construct THP moieties in natural products.
+Only a few substituted THP systems have been synthesized by
+utilizing intramolecular enolate alkylation.8−11 When α-
+alkoxyesters were treated with LDA, substituted THPs were
+generated in moderate to good yield, except
+for a 2,6-
+disubstituted case. Contrary to 2,2,6-trisubstituted THP
+systems, the eﬃcient generation of 2,6-disubstituted THPs
+was elusive, even in the presence of HMPA.8 We considered
+that the poor conversion could be attributed to instability of the
+ester enolate, and that this problem might be overcome by
+replacing the ester group with an amide, since amide enolates
+have been more stable than ester enolates in our experience.
+We report herein the feasibility of using intramolecular amide
+enolate alkylation (IAEA) for the construction of 2,6-cis-
+disubstituted THP systems, with particular emphasis on the
+stereochemical outcome. This report also describes a total
+synthesis of (−)-centrolobine (1), which demonstrates the
+practicality of IAEA.
+<para sub="scope">
+Our study commenced with the preparation of
+
+IAEA
+substrates bearing an α-alkoxy amide group, as shown in
+Scheme 1. Readily available diol 2a was regioselectively
+protected with TBSCl to give 3a in 97% yield.12 Williamson
+</para>
+Scheme 1. Synthesis of IAEA Substrates
+<para sub="scope">
+synthesis of alcohol 3a with α-chloroacetamide 4
+ether
+provided α-alkoxyamide 5a in 85% yield. Desilylation of 5a
+with TBAF gave alcohol 6a, which was converted to tosylate 7a
+in 97% overall yield. In contrast to the reported ester enolate
+cyclization,8 tosylate 7a with an α-alkoxyamide group under-
+went a smooth cyclization upon treatment with LDA for 18 h at
+−30 °C to aﬀord 2,6-cis-disubstituted THP cis-8a as the major
+component along with diastereomeric trans-8a in a 6:1 ratio in
+total 55% yield (Table 1, entry 1). To improve the reaction
+</para>
+Received:
+Published: February 27, 2015
+
+January 8, 2015
+
+© 2015 American Chemical Society
+
+3315
+
+DOI: 10.1021/acs.joc.5b00046
+J. Org. Chem. 2015, 80, 3315−3320
+
+The Journal of Organic Chemistry
+
+Note
+
+Table 1. Intramolecular Amide Enolate Alkylation for 2,6-cis-Disubstituted Tetrahydropyrans
+
+reaction time (h)a
+
+yield (%)
+
+ratiob cis/trans
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+R
+7a Ph
+7a Ph
+7a Ph
+7a Ph
+7a Ph
+7a Ph
+7a Ph
+7a Ph
+7a Ph
+7a Ph
+7b n-Bu
+7c i-Pr
+
+base
+
+LDA (1.1 equiv)
+LiHMDS (1.1 equiv)
+NaHMDS (1.1 equiv)
+KHMDS (1.1 equiv)
+LiHMDS (1.1 equiv)
+KHMDS (1.1 equiv)
+KHMDS (3.0 equiv)
+KHMDS (1.1 equiv)
+KHMDS (1.1 equiv)
+KHMDS (1.1 equiv)
+KHMDS (1.1 equiv)
+KHMDS (1.1 equiv)
+
+solvent
+THF
+THF
+THF
+THF
+THFc
+THFc
+THF
+ether
+DME
+toluene
+THF
+THF
+
+18
+26
+22
+11
+11
+11
+9
+11
+13
+18
+11
+8
+
+8a, 55
+8a, 96
+8a, 81
+8a, 86
+8a, 85
+8a, 63
+8a, 73
+8a, 70
+8a, 67
+8a, 66
+8b, 98
+8c, 88
+
+6:1
+3:1
+3:1
+20:1
+10:1
+8:1
+11:1
+8:1
+13:1
+10:1
+>99:1
+>99:1
+
+aIntramolecular amide enolate alkylation substrates 7a−c were treated with bases at −78 °C for 5 min, and the reaction mixtures were stirred at −30
+°C until the 7a−c were not detected by TLC. bDetermined by the analysis of 1H 500 MHz NMR spectra. cThe reaction was carried out in the
+presence of HMPA (5.0 equiv).
+<para sub="scope">
+yield and stereoselectivity, we investigated several other bases
+and solvents.
+</para>
+is essential
+<para sub=“opt”>
+When LiHMDS or NaHMDS was used instead of LDA, the
+reaction yield improved to a great extent but
+the stereo-
+selectivity decreased (Table 1, entries 2 and 3). However, THP
+cis-8a was produced with excellent stereoselectivity (cis/trans,
+20:1) in high yield when tosylate 7a in THF was treated with
+potassium bis(trimethylsilyl)amide (KHMDS) (Table 1, entry
+4). The cyclization was also attempted in the presence of
+HMPA to improve the reaction, but in vain (Table 1, entries 5
+and 6). The results suggest that adequate coordination of metal
+ions with enolates
+for high stereoselectivity.
+Treatment of tosylate 7a with an excess of KHMDS decreased
+both the reaction yield and the stereoselectivity (Table 1, entry
+7). IAEA of tosylate 7a with KHMDS was also performed in
+other solvents, but neither the yield nor the stereoselectivity for
+this cyclization improved (Table 1, entries 8−10). The relative
+stereochemistry of the cyclized products trans-8a and cis-8a
+was elucidated through analysis of
+the NOESY spectra.
+Tosylates 7b,c were also prepared from the corresponding
+diols 2b,c13 following the same procedure as for 7a. When
+these substrates 7b,c were subjected to IAEA with KHMDS as a
+base, cis-8b,c were also obtained with excellent stereoselectivity
+in high yield, respectively (Table 1, entries 11 and 12). The
+observed stereoselectivity can be best
+rationalized by
+considering that the reaction proceeds via the folding and
+allylic strain-controlled14 chairlike transition state geometry TS-
+A in which the nucleophilic amide enolate moiety assumes an
+“H-eclipsed” conformation with the bulky R group in an
+equatorial position,
+to aﬀord a 2,6-cis-disubstituted THP
+product (Figure 1). The high cis stereoselectivity of the IAEA
+is also quite surprising compared to the precedent of
+intramolecular ester enolate alkylation for the construction of
+2,6-substituted THPs, although other appendages on these
+</para>
+Figure 1. Proposed transition states of IAEA for 8a−c (the mirror
+image of TS-B is shown for comparison of the transition states).
+<para sub=“opt”>
+THP systems might aﬀect the stereoselectivity to some extent.
+Treatment of an α-alkoxyester of 1,2,5,6-di-O-isopropylidene-α-
+D-allofuranose with LDA produced a 2,6-substituted tetrahy-
+dropyran as a mixture of isomers with poor stereoselectivity
+(cis/trans, ca. 54:30) in moderate yield.9 The 2,6-trans-
+substituted tetrahydropyran moiety of 2-deoxy-β-KDO was
+speciﬁcally generated via internal ester enolate SN2 alkylation.10
+</para>
+<para sub="scope">
+We then turned our attention to the asymmetric total
+synthesis of a natural product, (−)-centrolobine (1),6 to prove
+the synthetic utility of this methodology. In spite of its relatively
+simple chemical structure, (−)-centrolobine (1) and related
+compounds have attracted considerable attention due to their
+diverse bioactivity,
+including anti-inﬂammatory, antibacterial,
+and antileishmanial properties.3,15 We envisioned that the THP
+cis-10, a precursor of the well-known key intermediate 96a,c for
+the synthesis of 1, could be constructed from tosylate 11 using
+IAEA. The requisite IAEA substrate 11 was prepared from
+readily available chiral alcohol 12,6e,r as outlined in Scheme 2.
+</para>
+<para sub="scope">
+Williamson etheriﬁcation of alcohol 12 led to the formation
+of α-alkoxyamide 13 in 93% yield (Scheme 3). The silyl group
+in α-alkoxyamide 13 was removed, and the resulting alcohol 14
+transformed into tosylate 11 in 98% overall yield.
+was
+Treatment of tosylate 11 with KHMDS smoothly produced
+the 2,6-cis-disubstituted THP cis-10 and its diastereomer trans-
+</para>
+3316
+
+DOI: 10.1021/acs.joc.5b00046
+J. Org. Chem. 2015, 80, 3315−3320
+
+The Journal of Organic Chemistry
+Scheme 2. Retrosynthetic Analysis for (−)-Centrolobine (1)
+
+Note
+Scheme 4. Completion of (−)-Centrolobine (1) Synthesis
+
+Scheme 3. Synthesis of Tetrahydropyran Moiety of
+(−)-Centrolobine (1)
+
+overall yield. The present strategy can serve as a practical
+alternative to the existing approaches to 2,6-cis-disubstituted
+THP units in natural products.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+6-((t-Butyldimethylsilyl)oxy)-2-methylhexan-3-ol (3c). To a
+solution of diol 2c (100 mg, 0.76 mmol) and imidazole (130 mg, 1.9
+mmol) in anhydrous CH2Cl2 (3.0 mL) was added a solution of TBSCl
+(140 mg, 0.91 mmol) in anhydrous CH2Cl2 (1.0 mL) at 0 °C. The
+reaction mixture was quenched with saturated aqueous NH4Cl and
+concentrated at reduced pressure. The resulting residue was diluted
+with water and extracted with EtOAc thrice. The combined organic
+layers were washed with brine, dried over anhydrous MgSO4, and
+concentrated in vacuo. The resulting residue was puriﬁed by ﬂash
+column chromatography on silica gel (hexanes/EtOAc, 5:1) to give
+alcohol 3c (180 mg, colorless oil) in 96% yield: 1H NMR (CDCl3, 500
+MHz) δ 3.70−3.55 (m, 2H), 3.40−3.30 (m, 1H), 2.38 (d, J = 4.5 Hz,
+1H), 1.70−1.55 (m, 4H), 1.47−1.39 (m, 1H), 1.01−0.86 (m, 15H),
+0.09 (s, 6H); 13C NMR (CDCl3, 75 MHz) δ 76.5, 63.7, 33.7, 31.3,
+29.5, 26.1, 18.9, 18.5, 17.7, −5.2; HRMS (EI, magnetic sector) m/z
+calcd for C13H30O2Si (M+) 246.2015, found 246.2010.
+General Procedure for Williamson Ether Synthesis of 3a−c
+(GP1). To a solution of alcohol 3a (100 mg, 0.36 mmol) in anhydrous
+THF (1.0 mL) was added KHMDS (1.0 mL, 0.50 mmol, 0.5 M
+solution in THF) at 0 °C. The solution was stirred for 5 min at room
+temperature. To the solution was added 2-chloro-N,N-dimethylaceta-
+mide (4) (56 μL, 0.54 mmol) at 0 °C. The mixture was stirred for 5 h
+at room temperature. The mixture was quenched with saturated
+aqueous NH4Cl and concentrated at reduced pressure. The residue
+was diluted with water and extracted with EtOAc thrice. The
+combined organic layers were washed with brine, dried over anhydrous
+MgSO4, and concentrated in vacuo. The resulting residue was puriﬁed
+by ﬂash column chromatography on silica gel (hexanes/EtOAc, 5:1) to
+give amide 5a (111 mg, yellow oil) in 85% yield.
+2-(4-((t-Butyldimethylsilyl)oxy)-1-phenylbutoxy))-N,N-
+dimethylacetamide (5a). 1H NMR (CDCl3, 500 MHz) δ 7.38−7.30
+(m, 5H), 4.38 (t, J = 6.8 Hz, 1H), 4.06 (d, J = 13.3 Hz, 1H), 3.91 (d, J
+= 13.3 Hz, 1H), 3.65−3.57 (m, 2H), 2.95 (s, 3H), 2.93 (s, 3H), 1.99−
+1.92 (m, 1H), 1.82−1.75 (m, 1H), 1.70−1.64 (m, 1H), 1.54−1.46 (m,
+1H), 0.88 (s, 9H), 0.04 (s, 6H); 13C NMR (CDCl3, 75 MHz) δ 169.3,
+141.5, 128.4, 127.8, 127.0, 82.7, 67.8, 62.9, 36.5, 35.4, 34.2, 29.0, 26.0,
+18.3, −5.3; HRMS (EI, magnetic sector) m/z calcd for C20H35NO3Si
+(M+) 365.2386, found 365.2379.
+2-((1-((t-Butyldimethylsilyl)oxy)octan-4-yl)oxy))-N,N-
+dimethylacetamide (5b). According to GP1, 5b (108 mg, pale
+</para>
+3317
+
+DOI: 10.1021/acs.joc.5b00046
+J. Org. Chem. 2015, 80, 3315−3320
+<para sub="scope">
+10 in a 20:1 ratio in 86% yield. The stereochemistry of cis-10
+and trans-10 was also established by NOE experiments.
+</para>
+<para sub="scope">
+With the amide cis-10 in hand, we next sought to complete
+the synthesis of (−)-centrolobine (1), and reduction to
+aldehyde 9 by hydrozirconation with Schwartz’s
+reagent
+proceeded in 94% yield (Scheme 4).16 Aldehyde 9 was
+transformed into (−)-centrolobine (1) following a reported
+procedure,6a,c wherein Wittig reaction of aldehyde 9 with the
+ylide generated from phosphonium salt 15 aﬀorded oleﬁn 16 in
+96% yield. Simultaneous hydrogenation of the alkene moiety
+and hydrogenolysis of benzyl ether 16 produced (−)-cen-
+trolobine (1) in 97% yield. The spectral data for (−)-cen-
+trolobine (1) thus obtained were in good agreement with the
+reported values.6c
+</para>
+In summary, we have demonstrated that IAEA is a viable
+method for
+the construction of 2,6-cis-disubstituted THP
+systems with excellent stereoselectivity in excellent yield. The
+eﬃciency and practicality of this strategy was also proven by
+accomplishing an asymmetric total synthesis of (−)-centrolo-
+bine (1) from readily available alcohol 12 in 7 steps in 65%
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+yellow oil) was prepared from 3b in 82% yield: 1H NMR (CDCl3, 500
+MHz) δ 4.12 (s, 2H), 3.63 (s, 2H), 3.42 (t, J = 5.0 Hz, 1H), 3.05 (s,
+3H), 2.94 (s, 3H), 1.68−1.42 (m, 6H), 1.38−1.20 (m, 4H), 0.91 (s,
+12H), 0.07 (s, 6H); 13C NMR (CDCl3, 75 MHz) δ 169.8, 80.2, 68.8,
+63.3, 37.0, 35.6, 33.2, 31.1, 29.6, 28.5. 27.5, 26.1, 23.0, 18.5, 14.2, −5.1;
+HRMS (EI, magnetic sector) m/z calcd for C18H39NO3Si (M+)
+345.2699, found 345.2697.
+
+2-((6-((t-Butyldimethylsilyl)oxy)-2-methylhexan-3-yl)oxy)-
+N,N-dimethylacetamide (5c). According to GP1, 5c (117 mg, pale
+yellow oil) was prepared from 3c in 86% yield: 1H NMR (CDCl3, 500
+MHz) δ 4.13 (s, 2H), 3.67−3.50 (m, 2H), 3.16 (dd, J = 6.5, 11.0 Hz,
+1H), 3.07 (s, 3H), 2.94 (s, 3H), 1.89 (dd, J = 6.5, 12.5 Hz, 1H), 1.70−
+1.40 (m, 4H), 0.98−0.80 (m, 15H), 0.09 (s, 6H); 13C NMR (CDCl3,
+75 MHz) δ 169.8, 85.5, 69.7, 63.4, 37.1, 35.5, 30.3, 28.9, 26.1, 18.5,
+18.4, 17.9, −5.1; HRMS (EI, magnetic sector) m/z calcd for
+C17H37NO3Si (M+) 331.2543, found 331.2547.
+General Procedure for Deprotection of Silyl Ether 5a−c
+(GP2). To a solution of silyl ether 5a (3.81 g, 10.4 mmol) in
+anhydrous THF (52 mL) was added TBAF (11.9 mL, 11.9 mmol, 1.0
+M solution in THF) at 0 °C. The mixture was stirred for 6 h at room
+temperature and concentrated at reduced pressure. The resulting
+residue was dissolved in EtOAc. The solution was washed with brine,
+dried over anhydrous MgSO4, and concentrated in vacuo. The
+resulting residue was puriﬁed by ﬂash column chromatography on
+silica gel (hexanes/EtOAc, 1:1) to give alcohol 6a (2.51 g, colorless
+oil) in 98% yield.
+2-(4-Hydroxy-1-phenylbutoxy)-N,N-dimethylacetamide (6a).
+1H NMR (CDCl3, 500 MHz) δ 7.38−7.31 (m, 5H), 4.49 (dd, J = 8.3,
+4.3 Hz, 1H), 4.12 (d, J = 13.9, 1H), 3.90 (d, J = 14.1, 1H), 3.73−3.68
+(m, 2H), 2.94 (s, 3H), 2.88 (s, 3H), 2.42 (brs, 1H), 2.01−1.96 (m,
+1H), 1.85−1.71 (m, 3H); 13C NMR (CDCl3, 75 MHz) δ 169.3, 141.6,
+128.6, 127.8, 126.8, 82.6, 67.1, 62.8, 36.2, 35.4, 35.2, 29.1; HRMS (EI,
+magnetic sector) m/z calcd for C14H21NO3 (M+) 251.1521, found
+251.1528.
+
+2-((1-Hydroxyoctan-4-yl)oxy)-N,N-dimethylacetamide (6b).
+According to GP2, 6b (81 mg, colorless oil) was prepared from 5b
+in 82% yield: 1H NMR (CDCl3, 500 MHz) δ 4.20 (d, J = 13.3 Hz,
+1H), 4.09 (d, J = 13.3 Hz, 1H), 3.70−3.57 (m, 2H), 3.46−3.41 (m,
+1H), 3.03 (s, 3H), 2.94 (s, 3H), 2.21 (brs, 1H), 1.72−1.54 (m, 6H),
+1.34−1.25 (m, 4H), 0.89 (t, J = 6.9 Hz, 3H); 13C NMR (CDCl3, 75
+MHz) δ 169.8, 80.4, 68.2, 63.0, 36.7, 35.6, 33.1, 30.0, 28.4, 27.6, 23.0,
+14.2; HRMS (EI, magnetic sector) m/z calcd for C12H25NO3 (M+)
+231.1834, found 231.1830.
+
+2-((6-Hydroxy-2-methylhexan-3-yl)oxy)-N,N-dimethyl-
+acetamide (6c). According to GP2, 6c (58 mg, colorless oil) was
+prepared from 5c in 89% yield: 1H NMR (CDCl3, 500 MHz) δ 4.22
+(d, J = 13.5 Hz, 1H), 4.09 (d, J = 13.0 Hz, 1H), 3.73−3.60 (m, 2H),
+3.23−3.18 (m, 1H), 3.03 (s, 3H), 2.95 (s, 3H), 2.23 (t, J = 6.0 Hz,
+1H), 1.93 (ddd, J = 6.5, 13.0, 19.0 Hz, 1H), 1.71−1.52 (m, 4H), 0.90
+(dd, J = 7.0, 17.5 Hz, 6H); 13C NMR (CDCl3, 75 MHz) δ 169.9, 85.9,
+69.1, 63.0, 36.8, 35.6, 30.2, 28.9, 26.2, 18.8, 17.6; HRMS (EI, magnetic
+sector) m/z calcd for C11H23NO3 (M+) 217.1678, found 217.1676.
+General Procedure for Tosylation of Alcohol 6a−c (GP3). To
+a solution of alcohol 6a (480 mg, 1.90 mmol) in CH2Cl2 (10.0 mL)
+were added pyridine (3.0 mL) and a solution of p-tosyl chloride (656
+mg in 4.0 mL anhydrous CH2Cl2, 3.43 mmol) at room temperature.
+The mixture was stirred for 5 h. The reaction mixture was quenched
+with saturated aqueous NaHCO3, diluted with water, and extracted
+with EtOAc thrice. The combined organic layers were washed with
+brine, dried over MgSO4, and concentrated in vacuo. The resulting
+residue was puriﬁed by ﬂash column chromatography on silica gel
+(hexanes/EtOAc, 4:1) to give tosylate 7a (745 mg, thick colorless oil)
+in 99% yield.
+
+4-(2-(Dimethylamino)-2-oxoethoxy)-4-phenylbutyl 4-
+Methylbenzenesulfonate (7a). 1H NMR (CDCl3, 500 MHz) δ
+7.78 (d, J = 8.2 Hz, 2H), 7.37−7.26 (m, 7H), 4.38−4.36 (m, 1H),
+4.13−4.09 (m, 1H), 4.07−4.03 (m, 2H), 3.87 (d, J = 13.2 Hz, 1H),
+2.92 (s, 3H), 2.89 (s, 3H), 2.46 (s, 3H), 1.90−1.84 (m, 2H), 1.77−
+1.71 (m, 2H); 13C NMR (CDCl3, 75 MHz) δ 169.1, 144.6, 141.0,
+133.2, 129.8, 128.5, 128.0, 127.9, 126.8, 81.7, 70.6, 67.1, 36.3, 35.3,
+
+34.0, 25.4, 21.6; HRMS (EI, magnetic sector) m/z calcd for
+C21H27NO5S (M+) 405.1609, found 405.1603.
+
+4-(2-(Dimethylamino)-2-oxoethoxy)octyl 4-Methylbenzene-
+sulfonate (7b). According to GP3, 7b (820 mg, thick colorless oil)
+was prepared from 6b in 98% yield: 1H NMR (CDCl3, 500 MHz) δ
+7.80 (d, J = 8.3 Hz, 2H), 7.36 (d, J = 8.2 Hz, 2H), 4.14−4.04 (m, 4H),
+3.37 (quintet, J = 5.6 Hz, 1H), 3.03 (s, 3H), 2.95 (s, 3H), 2.47 (s, 3H),
+1.83−1.70 (m, 3H), 1.60−1.50 (m, 2H), 1.44−1.40 (m, 1H), 1.33−
+1.24 (m, 4H), 0.91 (t, J = 7.4 Hz, 3H); 13C NMR (CDCl3, 75 MHz) δ
+169.4, 144.7, 133.2, 129.8, 127.9, 79.4, 70.9, 68.2, 36.6, 35.4, 32.9, 29.3,
+27.2, 24.7, 22.8, 21.6, 14.0; HRMS (EI, magnetic sector) m/z calcd for
+C19H31NO5S (M+) 385.1922, found 385.1918.
+
+4-(2-(Dimethylamino)-2-oxoethoxy)-5-methylhexyl 4-
+Methylbenzenesulfonate (7c). According to GP3, 7c (619 mg,
+thick colorless oil) was prepared from 6c in 88% yield: 1H NMR
+(CDCl3, 500 MHz) δ 7.80 (d, J = 8.1 Hz, 2H), 7.36 (d, J = 7.8 Hz,
+2H), 4.16−4.02 (m, 4H), 3.15−3.12 (m, 1H), 3.03 (s, 3H), 2.94 (s,
+3H), 2.46 (s, 3H), 1.90−1.76 (m, 2H), 1.75−1.64 (m, 2H), 1.54−1.43
+(m, 1H), 0.88 (d, J = 6.9, Hz, 3H), 0.85 (d, J = 6.9, Hz, 3H); 13C NMR
+(CDCl3, 75 MHz) δ 169.4, 144.7, 133.1, 129.8, 127.9, 84.6, 71.0, 69.0,
+36.7, 35.3, 29.9, 25.6, 25.1, 21.6, 18.4, 17.2; HRMS (EI, magnetic
+sector) m/z calcd for C18H29NO5S (M+) 371.1766, found 371.1762.
+General Procedure for Cyclization of Tosylate 7a−c (GP4).
+To a solution of tosylate 7a (50.0 mg, 0.13 mmol) in anhydrous THF
+(13.0 mL) was added dropwise KHMDS (0.3 mL, 0.15 mmol, 0.5 M
+in THF) at −78 °C under a N2 atmosphere. The mixture was stirred at
+the same temperature for 5 min. The mixture was warmed to −30 °C
+immediately and stirred at this temperature for 11 h. The reaction
+mixture was quenched with saturated aqueous NH4Cl, and
+concentrated in vacuo. The residue was diluted with water and
+extracted with EtOAc thrice. The combined organic layers were
+washed with brine, dried over MgSO4, and concentrated in vacuo. The
+resulting residue was puriﬁed by ﬂash column chromatography on
+silica gel (hexanes/EtOAc, 10:1) to give cis-8a (24.0 mg, colorless oil,
+82%) along with trans-8a (1.2 mg, colorless oil, 4%).
+THP 8a. Data for cis-8a: 1H NMR (CDCl3, 500 MHz) δ 7.38−7.34
+(m, 4H), 7.30−7.28 (m, 1H), 4.45 (dd, J = 11.3, 1.6 Hz, 1H), 4.30
+(dd, J = 11.1, 2.4 Hz, 1H), 3.13 (s, 3H), 2.97 (s, 3H), 2.10−2.07 (m,
+1H), 1.96−1.69 (m, 5H); 13C NMR (CDCl3, 75 MHz) δ 169.9, 142.6,
+128.3, 127.4, 125.8, 80.6, 77.3, 37.1, 35.9, 33.3, 26.9, 23.5; HRMS (EI,
+magnetic sector) m/z calcd for C14H19NO2 (M+) 233.1415, found
+233.1414. Data for trans-8a: 1H NMR (CDCl3, 500 MHz) δ 7.37−
+7.35 (m, 4H), 7.30−7.29 (m, 1H), 4.77−4.73 (m, 1H), 4.54 (dd, J =
+10.8, 2.2 Hz, 1H), 3.11 (s, 3H), 3.00 (s, 3H), 2.10−2.07 (m, 1H),
+1.96−1.69 (m, 5H); 13C NMR (CDCl3, 75 MHz) δ 171.2, 142.9,
+128.3, 127.3, 125.9, 75.2, 72.0, 37.6, 35.9, 32.7, 25.6, 20.0; HRMS (EI,
+magnetic sector) m/z calcd for C14H19NO2 (M+) 233.1415, found
+233.1416.
+
+THP cis-8b. According to GP4, cis-8b (47 mg, colorless oil) was
+prepared from 7b in 95% yield: 1H NMR (CDCl3, 500 MHz) δ 4.06
+(dd, J = 10.6, 2.9 Hz, 1H), 3.38−3.32 (m, 1H), 3.11 (s, 3H), 2.97 (s,
+3H), 1.98−1.92 (m, 1H), 1.82−1.70 (m, 2H), 1.63−1.49 (m, 4H),
+1.47−1.41 (m, 2H), 1.37−1.25 (m, 4H), 0.91 (t, J = 7.4 Hz, 1H); 13C
+NMR (CDCl3, 75 MHz) δ 170.2, 79.9, 76.4, 37.0, 36.1, 35.7, 31.3,
+27.9, 27.2, 23.1, 22.7, 14.0; HRMS (EI, magnetic sector) m/z calcd for
+C12H23NO2 (M+) 213.1728, found 213.1724. The expected minor
+product trans-8b could not be isolated.
+
+THP cis-8c. According to GP4, cis-8c (45 mg, colorless oil) was
+prepared from 7c in 88% yield: 1H NMR (CDCl3, 500 MHz) δ 4.04
+(dd, J = 11.2, 2.4 Hz, 1H), 3.11 (s, 3H), 3.07−3.03 (m, 1H), 2.96 (s,
+3H), 1.99−1.95 (m, 1H), 1.80−1.63 (m, 5H), 1.32−1.24 (m, 1H),
+0.96 (d, J = 6.7 Hz, 3H), 0.92 (d, J = 7.0 Hz, 3H); 13C NMR (CDCl3,
+75 MHz) δ 170.3, 84.1, 76.6, 37.0, 35.7, 33.3, 28.1, 27.2, 23.1, 18.8,
+18.7; HRMS (EI, magnetic sector) m/z calcd for C11H21NO2 (M+)
+found 199.1569. The expected minor product trans-8c
+199.1572,
+could not be isolated.
+
+(S)-2-(4-((t-Butyldimethylsilyl)oxy)-1-(4-methoxyphenyl)-
+butoxy)-N,N-dimethylacetamide (13). To a solution of alcohol 12
+(523 mg, 1.68 mmol) in THF (6.0 mL) at room temperature was
+added NaHMDS (1.0 M solution in THF, 2.5 mL, 2.52 mmol). The
+</para>
+3318
+
+DOI: 10.1021/acs.joc.5b00046
+J. Org. Chem. 2015, 80, 3315−3320
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+mixture was stirred for 10 min. To the mixture was added 2-chloro-
+N,N-dimethylacetamide (4) (259 μL, 2.52 mmol). The mixture was
+stirred for 14 h at 40 °C, quenched with saturated aqueous NH4Cl and
+concentrated at reduced pressure. The residue was diluted with water
+and extracted with EtOAc thrice. The combined organic layers were
+washed with brine, dried over anhydrous MgSO4, and concentrated in
+vacuo. The resulting residue was puriﬁed by ﬂash column
+chromatography on silica gel (hexanes/EtOAc, 7:2) to give amide
+20 = −49.5 (c 1.0,
+13 (589 mg, thick colorless oil) in 93% yield: [α]D
+CHCl3); 1H NMR (CDCl3, 500 MHz) δ 7.28 (s, 1H), 7.24 (d, J = 8.4
+Hz, 2H), 6.89 (d, J = 8.7 Hz, 2H), 4.32 (t, J = 6.7 Hz, 1H), 4.02 (d, J =
+13.5 Hz, 1H), 3.88 (d, J = 13.1 Hz, 1H), 3.82 (s, 3H), 3.56−3.64 (m,
+2H), 2.94 (s, 3H), 2.92 (s, 3H), 1.98−1.91 (m, 1H), 1.79−1.72 (m,
+1H), 1.69−1.61 (m, 1H), 1.49−1.43 (m, 1H), 0.88 (s, 9H), 0.03 (s,
+6H); 13C NMR (CDCl3, 75 MHz) δ 169.4, 159.2, 133.4, 128.3, 113.8,
+82.2, 67.6, 63.0, 55.3, 36.6, 35.4, 34.1, 29.1, 26.0, 18.3, −5.3; HRMS
+(EI, magnetic sector) m/z calcd for C21H37NO4Si (M+) 395.2491,
+found 395.2499.
+
+(S)-2-(4-Hydroxy-1-(4-methoxyphenyl)butoxy)-N,N-dimeth-
+ylacetamide (14). To a solution of silyl ether 13 (3.10 g, 7.84 mmol)
+in anhydrous THF (26.0 mL) was added TBAF (9.4 mL, 9.4 mmol,
+1.0 M solution in THF) at room temperature. The mixture was stirred
+for 24 h and ﬁltered through a pad of Celite. The ﬁltrate was
+concentrated at reduced pressure, and the resulting residue was
+puriﬁed by ﬂash column chromatography on silica gel (hexanes/
+EtOAc, 1:1) to give alcohol 14 (2.20 g, thick pale yellow oil) in 99%
+20 = −94.1 (c 1.0, CHCl3); 1H NMR (CDCl3, 500 MHz) δ
+yield: [α]D
+7.28 (s, 1H), 7.25 (d, J = 8.8 Hz, 2H), 6.90 (d, J = 8.8 Hz, 2H), 4.45−
+4.42 (m, 1H), 4.08 (d, J = 13.9 Hz, 1H), 3.88 (d, J = 13.9 Hz, 1H),
+3.83 (s, 3H), 3.72−3.66 (m, 2H), 2.93 (s, 3H), 2.88 (s, 3H), 2.39 (brs,
+1H), 2.02−1.95 (m, 1H), 1.81−1.69 (m, 2H): 13C NMR (CDCl3, 75
+MHz) δ 169.4, 159.2, 133.5, 128.1, 113.9, 82.1, 66.8, 62.9, 55.3, 36.2,
+35.4, 35.1, 29.2; HRMS (EI, magnetic sector) m/z calcd for
+C15H23NO4 (M+) 281.1627, found 281.1625.
+
+(S)-4-(2-(Dimethylamino)-2-oxoethoxy)-4-(4-methoxy-
+phenyl)butyl 4-Methylbenzenesulfonate (11). To a stirred
+solution of alcohol 14 (850 mg, 3.02 mmol) in CH2Cl2 (15 mL) at
+room temperature were added pyridine (4.6 mL, 57.39 mmol) and a
+solution of p-tosyl chloride (922 mg in 4.0 mL of CH2Cl2, 4.83 mmol).
+The reaction mixture was stirred for 12 h at room temperature, and
+quenched with saturated aqueous NaHCO3. The mixture was diluted
+with water, and the organic layer was separated. The aqueous phase
+was extracted with CH2Cl2 thrice. The combined organic layers were
+washed with brine, dried over anhydrous Na2SO4, and concentrated in
+vacuo. The resulting residue was puriﬁed by ﬂash column
+chromatography on silica gel (hexanes/EtOAc, 8:2) to give tosylate
+20 = −61.6 (c 1.0,
+11 (1301 mg, thick colorless oil) in 99% yield: [α]D
+CHCl3); 1H NMR (CDCl3, 500 MHz) δ 7.78 (d, J = 7.4 Hz, 2H), 7.34
+(d, J = 7.8 Hz, 2H), 7.19 (d, J = 8.9 Hz, 2H), 6.88 (d, J = 8.4 Hz, 2H),
+4.33−4.29 (m, 1H), 4.12−4.00 (m, 3H), 3.84 (d, J = 13.1 Hz, 1H),
+3.83 (s, 3H), 2.92 (s, 3H), 2.89 (s, 3H), 2.46 (s, 3H), 1.90−1.83 (m,
+2H), 1.75−1.68 (m, 2H); 13C NMR (CDCl3, 75 MHz) δ 169.2, 159.4,
+144.6, 133.1, 132.9, 129.8, 128.1, 127.9, 114.0, 81.2, 70.6, 66.9, 55.3,
+36.3, 35.3, 33.9, 25.5, 21.6; HRMS (EI, magnetic sector) m/z calcd for
+C22H29NO6S (M+) 435.1715, found 435.1711.
+
+Cyclization of Tosylate 11. KHMDS (0.2 mL, 0.19 mmol, 1.0 M
+in THF) was added to a solution of 11 (75.0 mg, 0.17 mmol) in
+anhydrous THF (17.0 mL) under a N2 atmosphere at −78 °C. The
+mixture was stirred for 30 min at the same temperature and for 11 h at
+−30 °C. The reaction mixture was quenched with saturated aqueous
+NH4Cl, and concentrated in vacuo. The residue was diluted with water
+and extracted with EtOAc thrice. The combined organic layers were
+washed with brine, dried over anhydrous MgSO4, and concentrated in
+vacuo. The resulting residue was puriﬁed by ﬂash column
+chromatography on silica gel (hexane/EtOAc, 10:1) to aﬀord a
+mixture of cis-10 (40 mg, colorless thick oil, 82%) and trans-10 (2.0
+20 = −31.0 (c 1.0,
+mg, colorless thick oil, 4%). Data for cis-10a: [α]D
+CHCl3); 1H NMR (CDCl3, 500 MHz) δ 7.30 (d, J = 8.4 Hz, 2H), 6.89
+(d, J = 8.2 Hz, 2H), 4.39 (dd, J = 10.9, 1.9 Hz, 1H), 4.28 (dd, J = 11.9,
+2.3 Hz, 1H), 3.80 (s, 3H), 3.13 (s, 3H), 2.96 (s, 3H), 2.08−2.10 (m,
+</para>
+Note
+<para sub=“exp”>
+1H), 1.94−1.62 (m, 5H); 13C NMR (CDCl3, 75 MHz) δ 169.9, 159.0,
+134.8, 127.2, 113.7, 80.4, 77.3, 55.3, 37.1, 35.9, 33.1, 26.9, 23.5; HRMS
+(EI, magnetic sector) m/z calcd for C15H21NO3 (M+) 263.1521, found
+20 = −60.0 (c 1.0, CHCl3); 1H NMR
+263.1526. Data for trans-10a: [α]D
+(CDCl3, 500 MHz) δ 7.28 (d, J = 8.3 H, 2H), 6.89 (d, J = 8.3 Hz, 2H),
+4.73−4.70 (m, 1H), 4.48 (d, J = 10.8 Hz, 1H), 3.82 (s, 3H), 3.10 (s,
+3H), 3.01 (s, 3H), 2.22−2.12 (m, 2H), 1.86−1.66 (m, 4H); 13C NMR
+(CDCl3, 75 MHz) δ 171.3, 158.9, 135.0, 127.3, 113.7, 74.9, 72.0, 55.3,
+37.7, 35.9, 32.4, 25.6, 20.0; HRMS (EI, magnetic sector) m/z calcd for
+C15H21NO3 (M+) 263.1521, found 263.1520.
+
+(2S,6R)-2-(p-Methoxyphenyl)-6-formyltetrahydropyran (9).
+To a homogeneous solution of Cp2Zr(H)Cl (235 mg, 0.91 mmol)
+in THF (5.0 mL) was added cis-10 (200 mg, 0.76 mmol) in THF (4.0
+mL) at room temperature, and the mixture was stirred for 8 min. The
+reaction mixture was quenched with silica gel and ﬁltered through a
+short pad of silica gel. The ﬁltrate was concentrated in vacuo to aﬀord
+20 = −9.1 (c 3.4,
+aldehyde 9 (157 mg, colorless oil) in 94% yield: [α]D
+CHCl3); 1H NMR (CDCl3, 500 MHz) δ 9.73 (s, 1H), 7.35 (d, J = 8.2
+Hz, 2H), 6.92 (d, J = 8.5 Hz, 2H), 4.45 (dd, J = 11.1, 1.7 Hz, 1H), 4.48
+(dd, J = 10.8 Hz, 2.3 Hz, 1H), 3.83 (s, 3H), 2.10−2.06 (m, 1H), 1.95−
+1.86 (m, 2H), 1.80−1.71 (m, 1H), 1.67−1.58 (m, 1H), 1.52−1.43 (m,
+1H); 13C NMR (CDCl3, 75 MHz) δ 202.3, 159.2, 134.4, 127.2, 113.8,
+82.2, 79.7, 55.3, 33.1, 26.0, 23.3; HRMS (EI, magnetic sector) m/z
+calcd for C13H16O3 (M+) 220.1099, found 220.1104.
+
+(2S,6R)-6-[(p-Benzyloxyphenyl)vinyl]-2-(p-methoxyphenyl)-
+tetrahydropyran (16). To a solution of phosphonium salt 15 (804
+mg, 1.49 mmol) in THF (17.0 mL) at 0 °C was added n-BuLi (1.5 mL,
+0.93 mmol, 1.6 M solution in hexanes). The mixture was stirred for 15
+min at 0 °C. A solution of aldehyde 9 (164 mg, 0.75 mmol) in THF
+(8.0 mL) was added to the mixture. The mixture was stirred at 0 °C
+for 30 min, and silica gel was added. The mixture was stirred for 15
+min at room temperature and ﬁltered. The ﬁltrate was concentrated in
+vacuo, and the resulting residue was puriﬁed by ﬂash column
+chromatography on silica gel (hexanes/EtOAc, 5:1) to aﬀord oleﬁn
+16 (287 mg, white solid) in 96% yield as an E/Z (1:3.6, 1H 500 MHz
+NMR analysis) mixture: 1H NMR (CDCl3, 500 MHz) δ 7.48−7.30
+(m, 9H), 6.99−6.89 (m, 4H), 6.59 (d, J = 15.6 Hz, 1H), 6.52 (d, J =
+11.6 Hz, 1H), 6.19 (dd, J = 15.9, 5.9 Hz, 1H), 5.69 (dd, J = 11.5, 8.6
+Hz, 1H), 5.10 (s, 2H), 5.08 (s, 2H) 4.47−4.41 (m, 1H), 4.21−4.21
+(m, 1H), 3.82 (s, 3H), 2.10−1.90 (m, 1H), 1.86−1.55 (m, 5H); 13C
+NMR (CDCl3, 75 MHz) δ 158.9, 158.3, 158.0, 137.0, 135.6, 135.5,
+131.6, 130.8, 130.2, 129.9, 129.3, 129.0, 128.7, 128.6, 128.0, 127.9,
+127.6, 127.5, 127.4, 127.3, 114.8, 114.6, 113.7, 79.6, 79.0, 78.8, 77.3,
+74.9, 70.0, 55.3, 33.4, 32.8, 31.7, 31.5, 24.1, 23.9; HRMS (EI, magnetic
+sector) m/z calcd for C27H28O3 (M+) 400.2038, found 400.2032.
+(−)-Centrolobine (1). A mixture of oleﬁn 16 (40 mg, 0.09 mmol)
+and Pd/Al2O3 (60 mg) in THF (4.0 mL) was stirred for 5 h under a
+hydrogen atmosphere at room temperature. The resulting mixture was
+ﬁltered through a pad of Celite. The ﬁltrate was concentrated, and the
+resulting residue was puriﬁed by ﬂash column chromatography on
+silica gel (hexanes/EtOAc, 1:1) to aﬀord (−)-centrolobine (1) (30
+20 = −94.5 (c 1.00, CHCl3). 1H
+mg, white solid) in 97% yield: [α]D
+NMR (CDCl3, 500 MHz) δ 7.34 (d, J = 8.5 Hz, 2H), 7.07 (d, J = 8.2
+Hz, 2H), 6.91 (d, J = 8.4 Hz, 2H), 6.75 (d, J = 8.2 Hz, 2H), 4.70 (s,
+1H), 4.32 (dd, J = 11.1, 1.3 Hz, 1H), 3.83 (s, 3H), 4.49−3.44 (m, 1H),
+2.78−2.65 (m, 2H), 1.98−1.84 (m, 3H), 1.78−1.69 (m, 1H), 1.68−
+1.61 (m, 2H), 1.57−1.49 (m, 1H), 1.40−1.31 (m, 1H); 13C NMR
+(CDCl3, 75 MHz) δ 158.7, 153.4, 135.9, 134.7, 129.6, 127.1, 115.1,
+113.6, 79.1, 77.2, 55.3, 38.3, 33.3, 31.3, 30.8, 24.1; HRMS (EI,
+magnetic sector) m/z calcd for C20H24O3 (M+) 312.1725,
+found
+312.1721.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Copies of the 1H and 13C NMR spectra for all new compounds
+and 9, 16, and 1. This material is available free of charge via the
+Internet at http://pubs.acs.org.
+
+3319
+
+DOI: 10.1021/acs.joc.5b00046
+J. Org. Chem. 2015, 80, 3315−3320
+
+The Journal of Organic Chemistry
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: jkl@kangwon.ac.kr (J.L.).
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This research was supported by a 2012 Research Grant from
+Kangwon National University, and the Basic Science Research
+Program and the Bio & Medical Technology Development
+Program through the National Research Foundation of Korea
+(NRF) grant funded by the Ministry of Science, ICT & Future
+P l a n n i n g
+( N R F - 2 0 1 2 R 1 A 1 A 1 0 3 8 6 8 6 a n d N R F -
+2012M3A9A9054971). We thank Professor Deukjoon Kim
+(Seoul National University) for his helpful advice on IAEA and
+the Central Laboratory of Kangwon National University for
+providing us with technical assistance on the spectroscopic
+experiments.
+
+■ DEDICATION
+
+This work was dedicated to Professor Deukjoon Kim on the
+occasion of his 66th birthday.
+
+■ REFERENCES
+
+(1) Hegde, V. R.; Puar, M. S.; Dai, P.; Patel, M.; Gullo, V. P.; Das, P.
+R.; Bond, R. W.; McPhail, A. T. Tetrahedron Lett. 2000, 41, 1351.
+(2) (a) Fall, D.; Duval, R. A.; Gleye, C.; Laurens, A.; Hocquemiller,
+R. J. Nat. Prod. 2004, 67, 1041. (b) Florence, G. J.; Morris, J. C.;
+Murray, R. G.; Osler, J. D.; Reddy, V. R.; Smith, T. K. Org. Lett. 2011,
+13, 514. (c) Florence, G. J.; Morris, J. C.; Murray, R. G.; Vanga, R. R.;
+Osler, J. D.; Smith, T. K. Chem.Eur. J. 2013, 19, 8309.
+(3) (a) De Albuquerque, I. L.; Galeffi, C.; Casinovi, C. G.; Marini-
+Bettolo, G. B. Gazz. Chim. Ital. 1964, 287. (b) Galeffi, C.; Casinovi, C.
+G.; Marini-Bettolo, G. B. Gazz. Chim. Ital. 1965, 95. (c) Arango
+Craveiro, A.; da Costa Prado, A.; Gottlieb, O. R.; Welerson de
+Albuquerque, P. C. Phytochemistry 1970, 9, 1869. (d) Jurd, L.; Wong,
+R. Y. Aust. J. Chem. 1984, 37, 1127. (e) de C. Alcantara, A. F.; Souza,
+M. R.; Piló-Veloso, D. Fitoterapia 2000, 71, 613.
+(4) For some recent examples, see: (a) Gharpure, S. J.; Prasad, J. V.
+K.; Bera, K. Eur. J. Org. Chem. 2014, 3570. (b) Dai, Q.; Rana, N. K.;
+Zhao, J. C.-G. Org. Lett. 2013, 15, 2922. (c) Kim, Y. S.; Lee, J. K.; Pae,
+A. N.; Cho, Y. S.; Min, S.-J. Synlett 2013, 24, 2292. (d) Fuwa, H.;
+Noguchi, T.; Noto, K.; Sasaki, M. Org. Biomol. Chem. 2012, 10, 8108.
+(e) Fuwa, H.; Ichinokawa, N.; Noto, K.; Sasaki, M. J. Org. Chem. 2012,
+77, 2588. (f) Guérinot, A.; Serra-Muns, A.; Bensoussan, C.; Reymond,
+S.; Cossy, J. Tetrahedron 2011, 67, 5024. (g) Nagasawa, T.; Nukada,
+T.; Kuwahara, S. Tetrahedron 2011, 67, 2882.
+(5) For reviews on this subject, see: (a) Kang, E. J.; Lee, E. Chem.
+Rev. 2005, 105, 4348. (b) Clarke, P. A.; Santos, S. Eur. J. Org. Chem.
+2006, 2045. (c) Larrosa, I.; Romea, P.; Urpí, F. Tetrahedron 2008, 64,
+2683. (d) Smith, A. B., III; Fox, R. J.; Razler, T. M. Acc. Chem. Res.
+2008, 41, 675. (e) Nasir, N. M.; Ermanis, K.; Clarke, P. A. Org. Biomol.
+Chem. 2014, 12, 3323.
+(6) For reported syntheses of centrolobine, see: (a) Colobert, F.;
+Mazery, R. D.; Solladié, G.; Carreño, M. C. Org. Lett. 2002, 4, 1723.
+(b) Marumoto, S.; Jaber, J. J.; Vitale, J. P.; Rychnovsky, S. D. Org. Lett.
+2002, 4, 3919. (c) Carreño, M. C.; Mazery, R. D.; Urbano, A.;
+Colobert, F.; Solladie, G. J. Org. Chem. 2003, 68, 7779. (d) Evans, P.
+A.; Cui, J.; Gharpure, S. J. Org. Lett. 2003, 5, 3883. (e) Lee, E.; Kim, H.
+J.; Jang, W. S. Bull. Korean Chem. Soc. 2004, 25, 1609. (f) Boulard, L.;
+BouzBouz, S.; Cossy, J.; Franck, X.; Figadère, B. Tetrahedron Lett.
+2004, 45, 6603. (g) Clarke, P. A.; Martin, W. H. C. Tetrahedron Lett.
+2004, 45, 9061. (h) Chan, K.-P.; Loh, T.-P. Org. Lett. 2005, 7, 4491.
+(i) Clarke, P. A.; Martin, W. H. C. Tetrahedron 2005, 61, 5433.
+(j) Jennings, M. P.; Clemens, R. T. Tetrahedron Lett. 2005, 46, 2021.
+(k) Chandrasekhar, S.; Prakash, S. J.; Shyamsunder, T. Tetrahedron
+
+Note
+
+Lett. 2005, 46, 6651. (l) Sabitha, G.; Reddy, K. B.; Reddy, G. S. K. K.;
+Fatima, N.; Yadav, J. S. Synlett 2005, 2347. (m) Böhrsch, V.; Blechert,
+S. Chem. Commun. 2006, 1968. (n) Lee, C.-H. A.; Loh, T.-P.
+Tetrahedron Lett. 2006, 47, 1641. (o) Prasad, K. R.; Anbarasan, P.
+Tetrahedron 2007, 63, 1089. (p) Washio, T.; Yamaguchi, R.; Abe, T.;
+Nambu, H.; Anada, M.; Hashimoto, S. Tetrahedron 2007, 63, 12037.
+(q) Dziedzic, M.; Furman, B. Tetrahedron Lett. 2008, 49, 678.
+(r) Takeuchi, T.; Matsuhashi, M.; Nakata, T. Tetrahedron Lett. 2008,
+49, 6462. (s) Zhou, H.; Loh, T.-P. Tetrahedron Lett. 2009, 50, 4368.
+(t) He, A.; Sutivisedsak, N.; Spilling, C. D. Org. Lett. 2009, 11, 3124.
+(u) Schmidt, B.; Hölter, F. Chem.Eur.
+J. 2009, 15, 11948.
+(v) Mohapatra, D. K.; Pal, R.; Rahaman, H.; Gurjar, M. K. Heterocycles
+2010, 80, 219. (w) Chaładaj, W.; Kowalczyk, R.; Jurczak, J. J. Org.
+Chem. 2010, 75, 1740. (x) Rogano, F.; Rüedi, P. Helv. Chim. Acta
+2010, 93, 1281. (y) Fuwa, H.; Noto, K.; Sasaki, M. Heterocycles 2010,
+82, 641. (z) Reddy, C. R.; Madhavi, P. P.; Chandrasekhar, S.
+Tetrahedron: Asymmetry 2010, 21, 103. (aa) Jeong, Y.; Kim, D.-Y.;
+Choi, Y.; Ryu, J.-S. Org. Biomol. Chem. 2011, 9, 374. (ab) Fujioka, H.;
+Yahata, K.; Kubo, O.; Sawama, Y.; Hamada, T.; Maegawa, T. Angew.
+Chem., Int. Ed. 2011, 50, 12232. (ac) Reddy, C. R.; Madhavi, P. P.;
+Chandrasekhar, S. Synthesis 2011, 123. (ad) Iqbal, M.; Mistry, N.;
+Clarke, P. A. Tetrahedron 2011, 67, 4960. (ae) Xie, J.-H.; Guo, L.-C.;
+Yang, X.-H.; Wang, L.-X.; Zhou, Q.-L. Org. Lett. 2012, 14, 4758.
+(af) Kumaraswamy, G.; Rambabu, D. Tetrahedron: Asymmetry 2013,
+24, 196. (ag) Sudarshan, K.; Aidhen, I. S. Eur. J. Org. Chem. 2013,
+2298. (ah) Zeng, J.; Tan, Y. J.; Ma, J.; Leow, M. L.; Tirtorahardjo, D.;
+Liu, X.-W. Chem.Eur. J. 2014, 20, 405. (ai) Yang, Z.; Kim, H.-D.
+Tetrahedron: Asymmetry 2014, 25, 305.
+(7) For reviews on this subject, see: (a) Kim, D. Synlett 2014, 25, 33.
+(b) Devambatla, R. K. V.; Velagaleti, R.; Yarravarapu, N.; Fleming, F.
+F. Tetrahedron 2012, 68, 2925.
+(8) (a) Fujisawa, T.; Okumura, Y.; Morita, K.; Ukaji, Y. Bull. Chem.
+Soc. Jpn. 1992, 65, 3487. (b) The cis/trans stereoselectivity of this
+cyclization reaction was not indicated in this report.
+(9) Knapp, S.; Thakur, V. V.; Madduru, M. R.; Malolanarasimhan, K.;
+Morriello, G. J.; Doss, G. A. Org. Lett. 2006, 8, 1335.
+(10) Ohrui, H.; Morita, M.; Meguro, H. Carbohydr. Res. 1992, 224,
+319.
+(11) Kim, H.; Choi, W. J.; Jung, J.; Kim, S.; Kim, D. J. Am. Chem. Soc.
+2003, 125, 10238.
+(12) (a) Mullah, K. B.; Bentrude, W. G. J. Org. Chem. 1991, 56, 7218.
+(b) Kim, H.; Lee, C. Org. Lett. 2011, 13, 2050.
+(13) (a) Ramu, R.; Chang, C.-W.; Chou, H.-H.; Wu, L.-L.; Chiang,
+C.-H.; Yu, S. S.-F. Tetrahedron Lett. 2011, 52, 2950. (b) McDonald, C.
+E.; Beebe, T. R.; Beard, M.; McMillen, D.; Selski, D. Tetrahedron Lett.
+1989, 30, 4791. (c) Montaudon, E.; Thépénier, J.; Lalande, R. J.
+Heterocycl. Chem. 1979, 16, 113.
+(14) (a) Tokoroyama, T.; Okada, K.; Iio, H. J. Chem. Soc., Chem.
+Commun. 1989, 1572. (b) Tokoroyama, T.; Kusaka, H. Can. J. Chem.
+1996, 74, 2487. For a review, see: (c) Tokoroyama, T. Chem.Eur. J.
+1998, 4, 2397.
+(15) Araujo, C. A. C.; Alegrio, L. V.; Leon, L. L. Phytochemistry 1998,
+49, 751.
+(16) Spletstoser, J. T.; White, J. M.; Tunoori, A. R.; Georg, G. I. J.
+Am. Chem. Soc. 2007, 129, 3408.
+
+3320
+
+DOI: 10.1021/acs.joc.5b00046
+J. Org. Chem. 2015, 80, 3315−3320
+
+

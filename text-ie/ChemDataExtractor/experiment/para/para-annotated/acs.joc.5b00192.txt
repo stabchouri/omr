@@ -1,0 +1,822 @@
+Article
+
+pubs.acs.org/joc
+
+Synthesis of Substituted Resorcinol Monomethyl Ethers from
+2‑Bromo-3-methoxycyclohex-2-en-1-ones
+Wenjie Shao and Derrick L. J. Clive*
+
+Chemistry Department, University of Alberta, Edmonton, Alberta T6G 2G2, Canada
+
+*S Supporting Information
+
+ABSTRACT: 2-Bromo-3-methoxycyclohex-2-en-1-ones are readily
+alkylated at C-6 with reactive halides, and then treatment with
+DBU (2 equiv) in PhMe at room temperature results in smooth
+loss of bromide and aromatization to resorcinol monomethyl ethers
+of deﬁned substitution pattern.
+
+■ INTRODUCTION
+<para sub="scope">
+During synthetic work related to coleophomone B1 we
+alkylated the bromide 1 with prenyl bromide (1 → 2, Scheme
+1) under standard conditions (LDA, THF, −78 °C) and then
+tried to carry out a second alkylation at C-6 with a diﬀerent
+allylic halide (2 → 3), again using LDA at a low temperature.
+However, we found that very little alkylation occurred unless
+the temperature was raised to 0 °C, at which point we did
+obtain a somewhat larger proportion of the desired product (3)
+as a mixture of diastereoisomers, together with a small amount
+of the monomethyl ether 4.
+</para>
+Scheme 1. Dialkylation Studies on 2-Bromo-3-methoxy-5-
+methylcyclohex-2-en-1-one
+<para sub="scope">
+that
+
+signiﬁcant extent using the bases we tried [LDA, (Me3Si)2NK,
+(Me3Si)2NLi, NaH], and we suspect
+the preferred
+the α-hydrogen at C-6 is not
+conformation is such that
+collinear with the p-orbital of the adjacent carbonyl group, so
+that deprotonation is diﬃcult. Attempts to epimerize cis-2 by
+heating in PhMe at 70 °C with 1 equiv of DBU2 led cleanly to
+4.
+</para>
+e<para sub="scope">
+The transformation 2 → 4 represents a regiocontrolled
+method for making alkylated monomethyl ethers of resorcinol
+and we have reﬁned it to a general procedure.
+</para>
+<para sub="scope">
+There are several corresponding methods described in the
+literature. The use of DDQ in reﬂuxing dioxane for
+dehydrogenation of 3-alkoxycyclohex-2-en-1-ones appears to
+give poor yields (29−38%)3 and sometimes fails altogether.4
+Likewise, dehydrogenation with Pd-black in reﬂuxing cymene is
+also not reliable,4 but use of Hg(OAc)2 in reﬂuxing acetic acid
+did work well (e.g., 84% yield) in a case where experiments
+with DDQ and Pd-black were unsuccessful.4,5 Treatment of the
+silyl ether 5 with I2 in reﬂuxing MeOH gave the silyl ether 6 in
+84% yield (Scheme 2).6 In principle, one would expect
+desilylation of 6 to be easy, so this method should also provide
+a route to resorcinol monomethyl ethers.
+</para>
+Scheme 2. An Iodine-Mediated Aromatization
+<para sub=“opt”>
+In attempting to improve the second alkylation step (2 → 3),
+we tried to generate the required enolate with (Me3Si)2NK in
+THF at −78 °C, and after an arbitrary period of 30 min, we
+quenched the mixture with very dilute hydrochloric acid,
+hoping to establishthrough recovery of 2that the desired
+enolate was stable at a low temperature. However, very little of
+2 was recovered and 4 was the major isolable product.
+</para>
+<para sub="scope">
+Further experiments showed that the trans isomer of 2
+(trans-2), whose structure was veriﬁed by single crystal X-ray
+analysis, could be alkylated (trans-2 → 3) in 28% yield (71%
+corrected for recovered 2, which was now a 10:1 cis−trans
+mixture). In contrast, cis-2 could not be alkylated to any
+</para>
+<para sub="scope">
+In certain highly speciﬁc cases, in the presence of Rh3+, a
+pendant double bond has been isomerized into a six-membered
+ring to eﬀect aromatization to a mixture (ca. 1:1, 81% yield) of
+mono- and dimethyl ethers (7 → 8 + 9), with the ratio being
+sensitive to the experimental conditions (Scheme 3).7
+</para>
+<para sub="scope">
+Finally, bromination8,9 (e.g., 10 → 11) or corresponding
+selenation10,11 (e.g., 12 → 13) have also been used (Scheme 4).
+</para>
+Received:
+January 27, 2015
+Published: February 19, 2015
+
+© 2015 American Chemical Society
+
+3211
+
+DOI: 10.1021/acs.joc.5b00192
+J. Org. Chem. 2015, 80, 3211−3216
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 3. A Rhodium-Mediated Aromatization
+
+Table 1. Yields for Alkylation and Aromatizationa
+
+Scheme 4. Bromination and Selenenylation Methods for
+Aromatization
+
+■ RESULTS AND DISCUSSION
+<para sub="scope">
+The present method is experimentally straightforward: One
+alkylates a 2-bromo-3-methoxycyclohex-2-en-1-one (e.g., 1 →
+2) and adds 2 equiv of DBU to a room temperature solution of
+the alkylation product in PhMe. Using as a test case compound
+18 (see Table 1),
+the only one whose aromatization we
+monitored, we found that the reaction is over within 5 h at 50
+°C, but it is more convenient to carry out the aromatizations at
+room temperature for an overnight period. The reactions are all
+very clean, and Table 1 lists our results.
+</para>
+<para sub="scope">
+The starting 2-bromo-3-methoxycyclohex-2-en-1-one (1) is
+easily prepared by bromination12 (NBS, 91% yield) of 3-
+methoxy-5-methylcyclohex-2-en-1-one,
+itself available by the
+classical procedure of Michael addition of ethyl acetoacetate to
+methyl crotonate in the presence of EtONa (54%), followed by
+heating with acid at pH 113 and O-methylation with
+(MeO)3CH (91%).14 This synthetic route is general,15 and
+compound 27 was made analogously from methyl (E)-pent-2-
+enoate.16
+</para>
+<para sub="scope">
+The alkylation step to attach the C-6 chain (LDA, alkyl
+halide, THF, −78 °C) gave the yields indicated in Table 1. All
+the alkylations were done with an alkyl bromide, except for the
+preparation of 18, where methyl iodide was used.
+</para>
+<para sub="scope">
+The last entry in the Table (27 → 28) shows that, as
+expected, the method is not limited to methyl substitution at C-
+5.
+</para>
+<para sub="scope">
+Allylic, propargylic, and benzylic bromides are suitable
+alkylating agents, and we have also used an α-bromo ester
+(to prepare 25). Attempts to use butyl bromide or iodide for
+the alkylation step were unsuccessful, but all the activated
+bromides we used and methyl
+iodide worked satisfactorily,
+giving yields of at
+least 70% without any attempt at
+optimization.
+</para>
+<para sub="scope">
+The alkyl bromides used are all known compounds, except
+for that needed to make 14; it was prepared by the method
+summarized in Scheme 5.
+</para>
+<para sub="scope">
+With the exception of 18 and 21, the alkylation products (see
+Table 1) were inconsequential mixtures of chromatographically
+inseparable diastereoisomers, with one predominating, and it
+was sometimes diﬃcult to decide if some of the minor signals in
+the NMR spectra represented the minor isomer or an impurity.
+If the latter, the amount must have been very small, because the
+</para>
+aYields in the ﬁrst column are for alkylation of the parent 2-bromo-5-
+methyl-(or ethyl)-3-methoxycyclohex-2-en-1-one. All aromatizations-
+were done overnight at room temperature. bStereochemistry not
+determined. cYield for bromination of 3-methoxy-5-methylcyclohex-2-
+en-1-one.
+<para sub="scope">
+pure aromatization products were isolated in high yield
+(average yield 87% for nine examples).
+</para>
+<para sub="scope">
+We assume that the mechanism involves migration of the
+initial double bond, as summarized in Scheme 6. Besides DBU,
+we examined the use of pyridine and triethylamine with
+compound 2, but these two bases were ineﬀective, at least at
+room temperature, and the bromide starting material remained
+unchanged.
+</para>
+<para sub="scope">
+For comparison purposes, compound 39 was subjected to
+the action of I2 in reﬂuxing MeOH,6 but we obtained a complex
+mixture and very little, if any (by 1H NMR), of the desired
+</para>
+3212
+
+DOI: 10.1021/acs.joc.5b00192
+J. Org. Chem. 2015, 80, 3211−3216
+
+The Journal of Organic Chemistry
+
+Scheme 5. Preparation of Bromide 34
+
+Article
+
+studied. Our control experiments with the model substrates 39
+and 40 show that
+the present method has a number of
+advantages over existing procedures.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Procedures. Solvents used for chromatography were
+distilled before use. Commercial thin-layer chromatography plates
+(silica gel, Merck 60F-254) were used. Silica gel
+for ﬂash
+chromatography was Merck type 60 (230−400 mesh). Dry solvents
+were prepared under an inert atmosphere and transferred by syringe or
+cannula. The symbols s, d, t, and q used for 13C NMR spectra indicate
+zero, one,
+the
+assignments being made from APT spectra. Solutions were evaporated
+under water pump vacuum, and the residue was then kept under oil
+pump vacuum. High-resolution electrospray mass spectrometric
+analyses were done with an orthogonal time-of-ﬂight analyzer, and
+electron ionization mass spectra were measured with a double-focusing
+sector mass spectrometer.
+
+three attached hydrogens,
+
+respectively,
+
+two, or
+
+2-Bromo-3-methoxy-5-methylcyclohex-2-en-1-one (1). NBS
+(4.35 g, 24.4 mmol) was added in one portion to a stirred and cooled
+(0 °C) solution of 3-methoxy-5-methycyclohex-2-en-1-one13,14 (2.85
+g, 20.3 mmol) in CH2Cl2 (14 mL). Stirring at 0 °C was continued for
+2 h with protection from light. The reaction mixture was diluted with
+saturated aqueous NaHCO3 and extracted with CH2Cl2. The
+combined organic extracts were washed with brine, dried (MgSO4),
+and evaporated. Crystallization of the residue from MeOH gave 1
+(4.05 g, 91%) as a white solid: 97−100 °C; FTIR (CDCl3, cast) 1653,
+1615 cm−1; 1H NMR (CDCl3, 500 MHz) δ 1.17 (d, J = 6.5 Hz, 3 H),
+2.21−2.33 (m, 3 H), 2.65−2.69 (m, 1 H), 2.78−2.85 (m, 1 H), 3.97
+(s, 3 H); 13C NMR (CDCl3, 125 MHz) δ 20.8 (q), 28.1 (d), 34.7 (t),
+44.8 (t), 56.3 (q), 102.7 (s), 172.1 (s), 190.9 (s); exact mass (electron
+ionization) m/z calcd for C8H11
+found
+217.9941.
+
+79BrO2 (M)+ 217.9942,
+
+2-Bromo-3-methoxy-5-methyl-6-(3-methylbut-2-en-1-yl)-
+cyclohex-2-en-1-one (2). n-BuLi (2.50 M in hexanes, 2.60 mL, 6.50
+mmol) was added dropwise to a stirred and cooled (−78 °C) solution
+of i-Pr2NH (0.93 mL, 6.64 mmol) in THF (10 mL). Stirring at −78
+°C was continued for 30 min and then a solution of 1 (1.10 g, 5.02
+mmol) in THF (5 mL) was added dropwise. The cold bath was not
+recharged, so the temperature rose to 0 °C over 2 h. The mixture was
+then recooled to −78 °C and a solution of prenyl bromide (2.24 mL,
+19.4 mmol) in THF (5 mL) was added dropwise. The cold bath was
+left in place, but not recharged, and stirring was continued for 6 h. The
+reaction mixture was diluted with saturated aqueous NH4Cl and
+extracted with EtOAc. The combined organic extracts were washed
+with brine, dried (MgSO4), and evaporated. Flash chromatography of
+the residue over silica gel (3 × 15 cm), using 1:4 EtOAc−hexanes,
+gave 2 (1.14 g, 79%) as a pale yellow solid: FTIR (CDCl3, cast) 1659,
+1592 cm−1; 1H NMR (CDCl3, 500 MHz) δ (major isomer) 1.13 (d, J
+= 6.5 Hz, 3 H), 1.65 (s, 3 H), 1.69 (s, 3 H), 2.17−2.27 (m, 2 H),
+2.32−2.41 (m, 2 H), 2.48−2.59 (m, 1 H), 2.83 (dd, J = 17.5, 5.0 Hz, 1
+H), 3.95 (s, 3 H) 5.02−5.06 (m, 1 H); 13C NMR (CDCl3, 125 MHz)
+δ (major isomer) 17.8 (q), 17.9 (q), 25.8 (q), 27.0 (t), 30.1 (d), 33.0
+(t), 52.6 (d), 56.1 (q), 102.2 (s), 120.7 (d), 133.5 (s), 170.3 (s), 192.6
+79BrNaO2 (M +
+(s); exact mass (electrospray) m/z calcd for C13H19
+Na)+ 309.0461, found 309.0457.
+
+5-Methoxy-3-methyl-2-(3-methylbut-2-en-1-yl)phenol (4).1b
+DBU (304 mg, 2.00 mmol) was added to a stirred solution of 2 (287
+mg, 1.00 mmol) in PhMe (2 mL). Stirring was continued overnight
+and the mixture was diluted with hydrochloric acid (5%) and extracted
+thoroughly with EtOAc. The combined organic extracts were washed
+with brine, dried (MgSO4), and evaporated. Flash chromatography of
+the residue over silica gel (1.8 × 10 cm), using 1:3 EtOAc−hexanes,
+gave 4 (175 mg, 85%) as a thick oil: FTIR (CDCl3, cast) 3419, 1614,
+1590 cm−1; 1H NMR (CDCl3, 500 MHz) δ 1.74 (s, 3 H), 1.81 (s, 3
+H), 2.27 (s, 3 H), 3.30 (d, J = 8.5 Hz, 2 H), 3.75 (s, 3 H), 5.12 (s, 1
+H), 5.13−5.17 (m, 1 H), 6.28 (d, J = 3.0 Hz, 1 H), 6.35 (d, J = 3.0 Hz,
+1 H); 13C NMR (CDCl3, 125 MHz) δ 17.8 (q), 20.3 (q), 25.2 (t),
+25.7 (q), 55.2 (q), 99.5 (d), 108.5 (d), 117.8 (s), 122.1 (d), 133.8 (s),
+</para>
+3213
+
+DOI: 10.1021/acs.joc.5b00192
+J. Org. Chem. 2015, 80, 3211−3216
+
+Scheme 6. Suggested Mechanism
+<para sub="scope">
+4,5 was
+dimethoxy product 40. Similarly, the use of Hg(OAc)2
+shown to be incompatible with the presence of a triple bond, as
+compound 41 gave none (by 1H NMR) of the desired 42,
+either at reﬂux temperature4,5 or at room temperature. While
+the ﬁrst of these experiments (I2/MeOH) was expected to
+produce a bis-ether, instead of a mono ether, as in our method,
+both experiments serve the purpose of showing that certain
+side-chain functionality is incompatible with the I2/MeOH or
+Hg(OAc)2/AcOH reagent systems, both of which appear from
+the literature to be the best of the prior methods.
+</para>
+■ CONCLUSION
+
+the ﬁnal products
+
+Our procedure for making diﬀerentially protected resorcinol
+derivatives is very simple. It accommodates functionality in the
+side chain that is added in the ﬁrst step; this functionality
+renders
+readily amenable to further
+manipulation. The alkylation yields are ≥70%, provided that
+the alkylating agent is activated (the halide should be allylic,
+in the form of an α-halo ester, or
+propargylic, or benzylic,
+methyl
+room
+temperature in yields of 82−92% for the examples we have
+
+iodide), and the aromatization occurs at
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+138.1 (s), 155.2 (s), 158.4 (s); exact mass (electron ionization) m/z
+calcd for C13H18O2 (M)+ 206.1306, found 206.1304.
+
+2-Bromo-3-methoxy-6-[(2E)-4-[4(methoxyphenyl)methoxy]-
+2-methylbut-2-en-1-yl]-5-methylcyclohex-2-en-1-one (14). The
+procedure for compound 2 was followed, using n-BuLi (2.50 M in
+hexanes, 0.28 mL, 0.70 mmol), i-Pr2NH (0.12 mL, 0.85 mmol) in
+THF (2 mL), a solution of 1 (138 mg, 0.63 mmol) in THF (2 mL),
+and a solution of 34 (468 mg, 1.64 mmol) in THF (2 mL). The
+mixture was left overnight after the addition of 34 and then worked up.
+Flash chromatography of the residue over silica gel (1.8 × 10 cm),
+using 1:4 EtOAc−hexanes, gave 14 (205 mg, 77%) as a colorless oil:
+FTIR (CDCl3, cast) 1659, 1611, 1589 cm−1; 1H NMR (CDCl3, 500
+MHz) δ (major isomer) 1.11 (d, J = 7.0 Hz, 3 H), 1.63 (s, 3 H), 2.14−
+2.26 (m, 1 H), 2.29−2.47 (m, 4 H), 2.84 (dd, J = 18, 5.5 Hz, 1 H),
+3.80 (s, 3 H), 3.93 (s, 3 H), 4.01 (s, 2 H) 4.42 (s, 2 H), 5.40−5.43 (m,
+1 H), 6.87 (d, J = 9.0 Hz, 2 H), 7.26 (d, J = 8.5 Hz, 2 H); 13C NMR
+(CDCl3, 125 MHz) δ (major isomer) 16.1 (q), 20.0 (q), 29.1 (d), 31.2
+(t), 40.1 (t), 50.5 (d), 55.2 (q), 56.2 (q), 66.2 (t), 71.9 (t), 101.2 (s),
+113.7 (d), 124.2 (d), 129.4 (d), 130.4 (s), 137.0 (s), 159.2 (s), 169.7
+79BrO4
+(s), 192.9 (s); exact mass (electrospray) m/z calcd for C21H28
+(M + H)+ 423.1165, found 423.1166.
+
+5-Methoxy-2-[(2E)-4-[(4-methoxyphenyl)methoxy]-2-meth-
+ylbut-2-en-1-yl]-3-methylphenol (15). The procedure for 4 was
+followed, using DBU (151 mg, 0.993 mmol) and a solution of 14 (200
+mg, 0.473 mmol) in PhMe (1.5 mL). Workup and ﬂash
+chromatography of the residue over silica gel (1.8 × 10 cm), using
+1:3 EtOAc−hexanes, gave 15 (133 mg, 82%) as a thick oil: FTIR
+(CDCl3, cast) 3353, 1613, 1589 cm−1; 1H NMR (CDCl3, 500 MHz) δ
+1.67 (s, 3 H), 2.23 (s, 3 H), 3.32 (s, 2 H), 3.74 (s, 3 H), 3.80 (s, 3 H),
+4.01 (d, J = 3.0 Hz, 2 H), 4.40 (s, 2 H), 5.13 (s, 1 H), 5.32−5.36 (m, 1
+H), 6.26 (d, J = 3.0 Hz, 1 H), 6.35 (d, J = 3.0 Hz, 1 H), 6.86 (d, J = 6.0
+Hz, 2 H), 7.24 (d, J = 6.0 Hz, 2 H); 13C NMR (CDCl3, 125 MHz) δ
+16.7 (q), 20.2 (q), 35.5 (t), 55.1 (q), 55.2 (q), 66.1 (t), 71.7 (t), 99.5
+(d), 108.5 (d), 113.7 (d), 115.6 (s), 121.7 (d), 129.4 (d), 130.4 (s),
+138.6 (s), 139.1 (s), 155.5 (s), 158.7 (s), 159.1 (s); exact mass
+(electrospray) m/z calcd for C21H25O4 (M − H)− 341.1758, found
+341.1761.
+
+2-Bromo-3-methoxy-5-methyl-6-(prop-2-en-1-yl)cyclohex-
+2-en-1-one (16). The procedure for compound 2 was followed, using
+n-BuLi (2.50 M in hexanes, 0.60 mL, 1.50 mmol), i-Pr2NH (0.25 mL,
+1.78 mmol) in THF (6 mL), a solution of 1 (293 mg, 1.35 mmol) in
+THF (3 mL), and a solution of allyl bromide (0.40 mL, 4.63 mmol) in
+THF (3 mL). The mixture was left overnight after the addition of the
+allyl bromide and then worked up. Flash chromatography of the
+residue over silica gel (1.8 × 13 cm), using 1:5 EtOAc−hexanes, gave
+16 (249 mg, 72%) as a thick oil: FTIR (CDCl3, cast) 3076, 1649, 1587
+cm−1; 1H NMR (CDCl3, 500 MHz) δ (major isomer) 1.13 (d, J = 6.5
+Hz, 3 H), 2.17−2.27 (m, 2 H), 2.33−2.39 (m, 2 H), 2.66−2.70 (m, 1
+H), 2.82 (dd, J = 17.5, 5.0 Hz, 1 H), 3.93 (s, 3 H), 5.02−5.10 (m, 2
+H), 5.67−5.75 (m, 1 H); 13C NMR (CDCl3, 125 MHz) δ (major
+isomer) 19.4 (q), 30.0 (d), 32.4 (t), 33.3 (t), 51.7 (d), 56.1 (q), 102.3
+(s), 117.2 (t), 135.0 (d), 170.5 (s), 192.0 (s); exact mass (electron
+ionization) m/z calcd for C11H15
+found
+258.0257.
+
+79BrO2 (M)+ 258.0255,
+
+5-Methoxy-3-methyl-2-(prop-2-en-1-yl)phenol
+
+(17).17 The
+procedure for 4 was followed, using DBU (100 mg, 0.658 mmol)
+and a solution of 14 (81.5 mg, 0.318 mmol) in PhMe (1 mL). Workup
+and ﬂash chromatography of the residue over silica gel (1 × 10 cm),
+using 1:3 EtOAc−hexanes, gave 17 (46.8 mg, 84%) as a thick oil: 1H
+NMR (CDCl3, 500 MHz) δ 2.26 (s, 3 H), 3.36 (d, J = 7.5 Hz, 2 H),
+3.75 (s, 3 H), 5.00−5.08 (m, 2 H), 5.90−6.00 (m, 1 H), 6.28 (d, J =
+3.5 Hz, 1 H), 6.37 (d, J = 3.5 Hz, 1 H); 13C NMR (CDCl3, 125 MHz)
+δ 19.9 (q), 30.1 (t), 55.2 (q), 99.5 (d), 108.5 (d), 115.2 (t), 116.0 (s),
+135.9 (d), 138.8 (s), 154.9 (s), 158.6 (s).
+
+2-Bromo-3-methoxy-5,6-dimethylcyclohex-2-en-1-one (18).
+The procedure for compound 2 was followed, using n-BuLi (2.50 M in
+hexanes, 0.63 mL, 1.57 mmol), i-Pr2NH (0.26 mL, 1.85 mmol) in
+THF (6 mL), a solution of 1 (313 mg, 1.43 mmol) in THF (3 mL),
+and a solution of MeI (0.20 mL, 3.21 mmol) in THF (2 mL). The
+mixture was left overnight after the addition of MeI and then worked
+
+up. Flash chromatography of the residue over silica gel (1.8 × 13 cm),
+using 1:5 EtOAc−hexanes, gave 18 (243 mg, 73%) as a white solid:
+FTIR (CDCl3, cast) 1654, 1590 cm−1; 1H NMR (CDCl3, 500 MHz) δ
+(major isomer) 1.17 (d, J = 6.5 Hz, 3 H), 1.24 (d, J = 7.0 Hz, 3 H),
+1.92−1.98 (m, 1 H), 2.12−2.18 (m, 1 H), 2.36 (dd, J = 17.5, 10.0 Hz,
+1 H), 2.83 (dd, J = 17.5, 9.5 Hz, 1 H), 3.95 (s, 3 H); 13C NMR
+(CDCl3, 125 MHz) δ (major isomer) 13.4 (q), 19.7 (q), 34.0 (d), 34.4
+(t), 47.4 (d), 56.1 (q), 102.3 (s), 170.7 (s), 193.1 (s); exact mass
+79BrO2 (M)+ 232.0098,
+(electron ionization) m/z calcd for C9H13
+found 232.0097.
+
+5-Methoxy-2,3-dimethylphenol (19).18 The procedure for 4
+was followed, using DBU (330 mg, 2.17 mmol) and a solution of 18
+(241 mg, 1.03 mmol) in PhMe (2 mL). Workup and ﬂash
+chromatography of the residue over silica gel (1.8 × 10 cm), using
+1:5 EtOAc−hexanes, gave 19 (141 mg, 90%) as a white solid: mp 94−
+95 °C (lit.18 mp 93−93.5 °C); 1H NMR (CDCl3, 500 MHz) δ 2.08 (s,
+3 H), 2.24 (s, 3 H), 3.74 (s, 3 H), 4.64 (s, 1 H), 6.25 (d, J = 2.5 Hz, 1
+H), 6.35 (d, J = 2.5 Hz, 1 H); 13C NMR (CDCl3, 125 MHz) δ 10.8
+(q), 20.4 (q), 55.2 (q), 98.9 (d), 108.0 (d), 114.3 (s), 138.8 (s), 154.2
+(s), 157.9 (s).
+
+3-Methoxy-5-methylphenol (20).19 The procedure for 4 was
+followed, using DBU (114 mg, 0.75 mmol) and a solution of 1 (77.2
+mg, 0.357 mmol) in PhMe (1 mL). Workup and ﬂash chromatography
+of the residue over silica gel (1 × 8 cm), using 1:3 EtOAc−hexanes,
+gave 20 (43.4 mg, 90%) as a thick oil: 1H NMR (CDCl3, 500 MHz) δ
+2.28 (s, 3 H), 3.77 (s, 3 H), 5.16 (br s, 1 H), 6.25 (dd, J = 2.5 Hz, 1
+H), 6.28 (s, 1 H), 6.34 (s, 1 H); 13C NMR (CDCl3, 125 MHz) δ 21.5
+(q), 55.2 (q), 98.6 (d), 107.3 (d), 108.6 (d), 140.6 (s), 156.5 (s),
+160.8 (s).
+
+2-Bromo-3-methoxy-5-methyl-6-[3-(trimethylsilyl)prop-2-
+yn-1-yl]cyclohex-2-en-1-one (21). The procedure for compound 2
+was followed, using n-BuLi (2.50 M in hexanes, 0.51 mL, 1.27 mmol),
+i-Pr2NH (0.20 mL, 1.43 mmol) in THF (3 mL), a solution of 1 (257
+mg, 1.17 mmol) in THF (3 mL), and a solution of propargylic
+bromide (750 mg, 3.93 mmol) in THF (3 mL). The mixture was left
+overnight after the addition of propargylic bromide and then worked
+up. Flash chromatography of the residue over silica gel (1.8 × 13 cm),
+using 1:4 EtOAc−hexanes, gave 21 (270 mg, 70%) as a white solid:
+FTIR (CDCl3, cast) 2169, 1649, 1582 cm−1; 1H NMR (CDCl3, 500
+MHz) δ (major isomer) 0.13 (s, 9 H), 1.23 (d, J = 6.5 Hz, 3 H), 2.22−
+2.90 (m, 1 H), 2.39−2.42 (m, 2 H), 2.65 (dd, J = 17.0, 4.5 Hz, 1 H),
+2.86−2.91 (m, 2 H), 3.97 (s, 3 H); 13C NMR (CDCl3, 125 MHz) δ
+(major isomer) 0.1 (q), 18.8 (t), 19.5 (q), 30.9 (d), 33.8 (t), 50.9 (d),
+56.2 (q), 86.5 (s), 102.2 (s), 103.5 (s), 170.9 (s), 190.3 (s); exact mass
+79BrO2Si (M)+ 328.0494,
+(electron ionization) m/z calcd for C14H21
+found 328.0487.
+
+5-Methoxy-3-methyl-2-[3-(trimethylsilyl)prop-2-yn-1-yl]-
+phenol (22). The procedure for 4 was followed, using DBU (119 mg,
+0.735 mmol) and a solution of 21 (121 mg, 0.368 mmol) in PhMe (1
+mL). Workup and ﬂash chromatography of the residue over silica gel
+(1 × 10 cm), using 1:5 EtOAc−hexanes, gave 22 (79.3 mg, 87%) as a
+thick oil: FTIR (CDCl3, cast) 3444, 2170, 1615, 1592 cm−1; 1H NMR
+(CDCl3, 500 MHz) δ 0.15 (s, 9 H), 2.28 (s, 3 H), 3.53 (s, 2 H), 3.75
+(s, 3 H), 5.88 (s, 1 H), 6.34 (d, J = 2.5 Hz, 1 H), 6.37 (d, J = 2.5 Hz, 1
+H); 13C NMR (CDCl3, 125 MHz) δ −0.05 (q), 17.2 (t), 20.3 (q),
+55.2 (q), 87.2 (s), 100.1 (d), 103.4 (s), 108.8 (d), 113.1 (s), 138.0 (s),
+155.4 (s), 159.0 (s); exact mass (electrospray) m/z calcd for
+C14H19O2Si (M − H)− 247.1160, found 247.1161.
+2-Bromo-6-[(3-bromophenyl)methyl]-3-methoxy-5-methyl-
+cyclohex-2-en-1-one (23). The procedure for compound 2 was
+followed, using n-BuLi (2.50 M in hexanes, 0.32 mL, 0.80 mmol), i-
+Pr2NH (0.13 mL, 0.93 mmol) in THF (2 mL), a solution of 1 (161
+mg, 0.735 mmol) in THF (2 mL), and a solution of 3-bromobenzyl
+bromide (550 mg, 2.20 mmol) in THF (2 mL). The mixture was left
+overnight after the addition of 3-bromobenzyl bromide and then
+worked up. Flash chromatography of the residue over silica gel (1.8 ×
+13 cm), using 1:4 EtOAc−hexanes, gave 23 (199 mg, 70%) as a white
+solid: FTIR (CDCl3, cast) 1659, 1590 cm−1; 1H NMR (CDCl3, 500
+MHz) δ (major isomer) 1.12 (d, J = 7.0 Hz, 3 H), 2.03−2.07 (m, 1
+H), 2.36−2.56 (m, 2 H), 2.74−3.00 (m, 3 H), 3.93 (s, 3 H), 7.15−7.16
+</para>
+3214
+
+DOI: 10.1021/acs.joc.5b00192
+J. Org. Chem. 2015, 80, 3211−3216
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(m, 2 H), 7.33−7.37 (m, 2 H); 13C NMR (CDCl3, 125 MHz) δ
+(major isomer) 20.0 (q), 29.6 (d), 32.6 (t), 34.4 (t), 53.8 (d), 56.3
+(q), 101.9 (s), 122.4 (s), 127.9 (d), 129.4 (d), 130.0 (d), 132.1 (d),
+141.6 (s), 170.4 (s), 192.0 (s); exact mass (electron ionization) m/z
+calcd for C15H16
+
+79Br2O2 (M)+ 385.9516, found 385.9522.
+
+2-[(3-Bromophenyl)methyl]-5-methoxy-3-methylphenol
+(24). The procedure for 4 was followed, using DBU (150 mg, 0.987
+mmol) and a solution of 23 (191 mg, 0.492 mmol) in PhMe (2 mL).
+Workup and ﬂash chromatography of the residue over silica gel (1.8 ×
+10 cm), using 1:5 EtOAc−hexanes, gave 24 (139 mg, 92%) as a white
+solid: mp 115−117 °C; FTIR (CDCl3, cast) 3402, 3057, 1615, 1592
+cm−1; 1H NMR (CDCl3, 500 MHz) δ 2.21 (s, 3 H), 3.77 (s, 3 H), 3.95
+(s, 2 H), 4.60 (s, 1 H), 6.26 (d, J = 2.5, 1 H), 6.38 (d, J = 2.5, 1 H),
+7.06−7.12 (m, 2 H), 7.28−7.30 (m, 2 H); 13C NMR (CDCl3, 125
+MHz) δ 20.2 (q), 31.0 (t), 55.2 (q), 99.5 (d), 108.5 (d), 116.8 (s),
+122.6 (s), 126.7 (d), 129.0 (d), 129.9 (d), 131.0 (d), 139.4 (s), 142.9
+(s), 154.5 (s), 158.8 (s); exact mass (electron ionization) m/z calcd for
+C15H15
+
+79BrO2 (M)+ 306.0255, found 306.0250.
+
+tert-Butyl 2-(3-Bromo-4-methoxy-6-methyl-2-oxocyclohex-
+3-en-1-yl)acetate (25). The procedure for compound 2 was
+followed, using n-BuLi (2.50 M in hexanes, 0.30 mL, 0.75 mmol), i-
+Pr2NH (0.12 mL, 0.856 mmol) in THF (2 mL), a solution of 1 (146
+mg, 0.667 mmol) in THF (2 mL), and a solution of
+tert-butyl
+bromoacetate (0.31 mL, 2.10 mmol) in THF (2 mL). The mixture was
+left overnight after the addition of the tert-butyl bromoacetate and
+then worked up. Flash chromatography of the residue over silica gel
+(1.8 × 13 cm), using 1:3 EtOAc−hexanes, gave 25 (178 mg, 70%) as a
+thick oil: FTIR (CDCl3, cast) 1726, 1664, 1593 cm−1; 1H NMR
+(CDCl3, 500 MHz) δ major isomer) 1.14 (d, J = 6.5 Hz, 3 H), 1.46 (s,
+9 H), 2.15−2.20 (m, 1 H), 2.37 (dd, J = 17.5, 10.5 Hz, 1 H), 2.46 (dd,
+J = 11.0, 5.5, 1 H), 2.56−2.61 (m, 1 H), 2.76−2.82 (m, 1 H), 3.94 (s, 3
+H); 13C NMR (CDCl3, 125 MHz) δ (major isomer) 19.4 (q), 28.0
+(q), 32.3 (d), 33.9 (t), 34.8 (t), 49.3 (d), 56.2 (q), 80.6 (s), 102.1 (s),
+170.9 (s), 171.6 (s), 191.1 (s); exact mass (electrospray) m/z calcd for
+C14H22
+
+79BrO4 (M + H)+ 333.0696, found 333.0690.
+
+tert-Butyl 2-(2-Hydroxy-4-methoxy-6-methylphenyl)acetate
+(26). The procedure for 4 was followed, using DBU (155 mg, 1.02
+mmol) and a solution of 25 (167 mg, 0.50 mmol) in PhMe (2 mL).
+Workup and ﬂash chromatography of the residue over silica gel (1.8 ×
+10 cm), using 1:4 EtOAc−hexanes, gave 26 (111 mg, 88%) as an oﬀ-
+white solid: mp 72−74 °C; FTIR (CDCl3, cast) 3411, 1732, 1702,
+1616, 1594 cm−1; 1H NMR (CDCl3, 500 MHz) δ 1.45 (s, 9 H), 2.29
+(s, 3 H), 3.53 (s, 2 H), 3.75 (s, 3 H), 6.35 (d, J = 2.5, 1 H), 6.40 (d, J =
+2.0, 1 H), 7.44 (s, 1 H); 13C NMR (CDCl3, 125 MHz) δ 20.3 (q), 27.9
+(q), 34.2 (t), 55.1 (q), 82.4 (s), 100.7 (d), 108.9 (d), 112.5 (s), 138.3
+(s), 156.5 (s), 159.3 (s), 173.4 (s); exact mass (electrospray) m/z
+calcd for C14H19O4 (M − H)− 251.1289, found 251.1285.
+2-Bromo-5-ethyl-3-methoxy-6-(prop-2-en-1-yl)cyclohex-2-
+en-1-one (27). a. Preparation of 5-Ethyl-3-methoxycyclohex-2-en-
+1-one. EtONa was prepared by dissolving Na (150 mg, 6.52 mmol) in
+ice-cold EtOH (7 mL). Then ethyl acetoacetate (0.84 mL, 860 mg,
+6.61 mmol) and methyl 2-pentenoate (846 mg, 6.61 mmol) were
+added by syringe to the resulting stirred solution. The mixture was
+reﬂuxed for 6 h (N2 atmosphere) and then evaporated. The residue
+was dissolved in water (4 mL), and KOH (730 mg, 13.0 mmol) was
+added. The solution was
+reﬂuxed for 1 h and then cooled.
+Concentrated H2SO4 was added carefully to adjust the pH to 1.
+The solution was reﬂuxed for 2 h, cooled to room temperature, and
+extracted thoroughly with EtOAc. The combined organic extracts were
+washed with brine, dried (MgSO4), and evaporated. The residue was
+dissolved in MeOH (5 mL) and (MeO)3CH (0.72 mL, 700 mg, 6.61
+mmol) was added. The solution was stirred for 24 h at room
+temperature and then evaporated. Flash chromatography of
+the
+residue over silica gel (1.8 × 12 cm), using 2:3 EtOAc−hexanes, gave
+5-ethyl-3-methoxycyclohex-2-en-1-one (350 mg, 41% over two steps)
+as a colorless, thick oil: FTIR (CDCl3, cast) 1734, 1655, 1609 cm−1;
+1H NMR (CDCl3, 400 MHz) δ 0.95 (t, J = 9.5 Hz, 3 H), 1.40−1.47
+(m, 2 H), 2.01−2.20 (m, 3 H), 2.42−2.50 (m, 2 H), 3.70 (s, 3 H), 5.37
+(d, J = 1.6 Hz, 1 H); 13C NMR (CDCl3, 125 MHz) δ 11.1 (q), 28.0
+(t), 34.9 (t), 35.4 (d), 43.0 (t), 55.7 (q), 102.1 (s), 178.2 (s), 199.7
+</para>
+Article
+<para sub=“exp”>
+(s); exact mass (electron ionization) m/z calcd for C9H14O2 (M)+
+154.0993, found 154.0995.
+
+b. Preparation of 2-Bromo-5-ethyl-3-methoxycyclohex-2-en-1-
+one. NBS (166 mg, 0.932 mmol) was added in one portion to a stirred
+and cooled (0 °C) solution of 5-ethyl-3-methoxycyclohex-2-en-1-one
+(120 mg, 0.779 mmol) in CH2Cl2 (4 mL). Stirring at 0 °C was
+continued for 3.5 h with protection from light and the mixture was
+then diluted with saturated aqueous NaHCO3 and extracted with
+CH2Cl2. The combined organic extracts were washed with brine, dried
+(MgSO4), and evaporated. Flash chromatography of the residue over
+silica gel (1.8 × 12 cm), using 2:3 EtOAc−hexanes, gave 2-bromo-5-
+ethyl-3-methoxycyclohex-2-en-1-one (165 mg, 91%) as a white solid:
+mp 100−103 °C; FTIR (CDCl3, cast) 1733, 1662, 1585 cm−1; 1H
+NMR (CDCl3, 500 MHz) δ 0.98 (t, J = 7.5 Hz, 3 H), 1.48−1.52 (m, 2
+H), 2.04−2.12 (m, 1 H), 2.21 (dd, J = 16.0, 12.5 Hz, 1 H), 2.32 (dd, J
+= 17.0, 10.0 Hz, 1 H), 2.69−2.85 (m, 2 H), 3.97 (s, 3 H); 13C NMR
+(CDCl3, 125 MHz) δ 11.1 (q), 28.0 (t), 32.7 (t), 34.5 (d), 42.6 (t),
+56.3 (q), 102.6 (s), 172.4 (s), 191.0 (s); exact mass (electron
+ionization) m/z calcd for C15H15
+found
+306.0250.
+
+79BrO2 (M)+ 306.0255,
+
+c. 2-Bromo-5-ethyl-3-methoxy-6-(prop-2-en-1-yl)cyclohex-2-en-
+1-one (27). The procedure for compound 2 was followed, using n-
+BuLi (2.50 M in hexanes, 0.20 mL, 0.50 mmol), i-Pr2NH (0.08 mL,
+0.57 mmol) in THF (2 mL), 2-bromo-5-ethyl-3-methoxycyclohex-2-
+en-1-one (103 mg, 0.442 mmol) in THF (2 mL), and allyl bromide
+(267 mg, 2.20 mmol) in THF (1 mL). The mixture was left overnight
+after the addition of allyl bromide and then worked up. Flash
+chromatography of the residue over silica gel (1 × 12 cm), using 1:3
+EtOAc−hexanes, gave 27 (85.6 mg, 71%) as a white solid, which was a
+mixture of diastereoisomers: FTIR (CDCl3, cast) 3075, 1646, 1613,
+1587 cm−1; 1H NMR (CDCl3, 500 MHz) δ (major isomer) 0.95 (t, J =
+7.5 Hz, 3 H), 1.59−1.64 (m, 2 H), 2.01−2.04 (m, 1 H), 2.37−2.49 (m,
+3 H), 2.52−2.58 (m, 1 H), 2.83 (dd, J = 17.5, 5.5, 1 H), 3.96 (s, 3 H),
+5.05−5.11 (m, 2 H), 5.71−5.76 (m, 1 H); 13C NMR (CDCl3, 125
+MHz) δ (major isomer) 10.9 (q), 25.3 (t), 29.2 (t), 33.2 (t), 35.7 (d),
+49.8 (d), 56.1 (q), 101.7 (s), 117.2 (t), 135.2 (d), 170.4 (s), 192.5 (s);
+79BrO2 (M)+
+exact mass (electron ionization) m/z calcd for C12H17
+272.0412, found 272.0408.
+
+3-Ethyl-5-methoxy-2-(prop-2-en-1-yl)phenol (28). The proce-
+dure for 4 was followed, using DBU (91.3 mg, 0.60 mmol) and 27
+(82.0 mg, 0.30 mmol) in PhMe (1 mL). Workup and ﬂash
+chromatography of the residue over silica gel (1 × 10 cm), using
+1:6 EtOAc−hexanes, gave 28 (49.0 mg, 85%) as a thick oil: FTIR
+(CDCl3, cast) 3431, 3077, 3001, 1636, 1616, 1589 cm−1; 1H NMR
+(CDCl3, 500 MHz) δ 1.18 (t, J = 9.0 Hz, 3 H), 2.59 (q, J = 7.5 Hz, 2
+H), 3.37 (dt, J = 6.0, 1.5 Hz, 2 H), 3.76 (s, 3 H), 4.88 (s, 1 H), 5.03−
+5.10 (m, 2 H), 5.98 (ddt, J = 17.0, 10.0, 6.0 Hz, 1 H), 6.29 (d, J = 2.5
+Hz, 1 H), 6.39 (d, J = 2.5 Hz, 1 H); 13C NMR (CDCl3, 125 MHz) δ
+15.3 (q), 26.5 (t), 29.7 (t), 55.2 (q), 99.4 (d), 107.1 (d), 115.1 (s),
+115.6 (s), 136.5 (d), 144.8 (s), 155.2 (s), 159.0 (s); exact mass
+(electrospray) m/z calcd for C12H15O2 (M)+ 191.1078,
+found
+191.1079.
+
+(2E)-4-[(tert)-Butyldiphenylsilyl)oxy]-3-methylbut-2-en-1-yl
+Acetate (30). DMAP (1.52 g, 12.4 mmol), Et3N (17.4 mL, 125
+mmol), and t-BuPh2SiCl (10.7 mL, 41.7 mmol) were added to a
+stirred solution of 2920 (6.00 g, 41.7 mmol) in CH2Cl2 (48 mL) at
+room temperature. Stirring was continued for 8 h and the mixture was
+diluted with saturated aqueous NaHCO3 and extracted with CH2Cl2.
+The combined organic extracts were washed with brine, dried
+(MgSO4), and evaporated. Flash chromatography of the residue over
+silica gel (6 × 15 cm), using 1:6 EtOAc−hexanes, gave 30 (14.0 g,
+88%) as a pale yellow oil: FTIR (CDCl3, cast) 3071, 3049, 1741 cm−1;
+1H NMR (CDCl3, 500 MHz) δ 1.10 (s, 9 H), 1.67 (s, 3 H), 2.09 (s, 3
+H), 4.10 (s, 2 H), 4.68 (d, J = 2.5, 2 H), 5.73−5.76 (m, 1 H), 7.39−
+7.45 (m, 6 H), 7.68−7.70 (m, 4 H); 13C NMR (CDCl3, 125 MHz) δ
+13.6 (q), 19.3 (s), 21.0 (q), 26.8 (q), 60.9 (t), 67.9 (t), 117.4 (d),
+127.6 (d), 129.6 (d), 133.5 (s), 135.5 (d), 140.3 (s), 171.0 (s); exact
+mass (electrospray) m/z calcd for C23H30NaO3Si (M + Na)+
+405.1856, found 405.1850.
+</para>
+3215
+
+DOI: 10.1021/acs.joc.5b00192
+J. Org. Chem. 2015, 80, 3211−3216
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(2E)-4-[(tert-Butyldiphenylsilyl)oxy]-3-methylbut-2-en-1-ol
+(31).21 K2CO3 (15.2 g, 110 mmol) was added to a stirred solution of
+30 (14.0 g, 36.6 mmol) in MeOH (36 mL) at room temperature and
+stirring was continued for 2 h. The mixture was diluted with water and
+extracted with Et2O. The combined organic extracts were washed with
+brine, dried (MgSO4), and evaporated. Flash chromatography of the
+residue over silica gel (6 × 15 cm), using 1:5 EtOAc−hexanes, gave 31
+(11.9 g, 96%) as a colorless oil: 1H NMR (CDCl3, 500 MHz) δ 1.08
+(s, 9 H), 1.63 (s, 3 H), 4.08 (s, 2 H), 4.21 (d, J = 2.0 Hz, 2 H), 5.73−
+5.76 (m, 1 H), 7.38−7.42 (m, 6 H), 7.67−7.69 (m, 4 H); 13C NMR
+(CDCl3, 125 MHz) δ 13.5 (q), 19.3 (s), 26.8 (q), 59.1 (t), 68.0 (t),
+122.4 (d), 127.7 (d), 129.7 (d), 133.6 (s), 135.5 (d), 137.9 (s).
+
+tert-Butyl({[(2E)-4-[(Methoxyphenyl)methoxy]-2-methylbut-
+2-en-1-yl]oxy})diphenylsilane (32). 4-Methoxybenzyl 2,2,2-tri-
+chloroacetimidate (729 mg, 2.59 mmol) in CH2Cl2 (3 mL) and p-
+TsOH·H2O (41.6 mg, 0.22 mmol) were added to a stirred and cooled
+(0 °C) solution of 31 (735 mg, 2.16 mmol) in CH2Cl2 (6 mL).
+Stirring was continued for 4.5 h, and the mixture was diluted with
+water and extracted with CH2Cl2. The combined organic extracts were
+washed with brine, dried (MgSO4), and evaporated. Flash chromatog-
+raphy of the residue over silica gel (3 × 15 cm), using 1:5 EtOAc−
+hexanes, gave 32 (863 mg, ca. 87%) as a colorless oil, which contained
+a minor impurity. The material was used directly for next step.
+
+(2E)-4-[(4-Methoxyphenyl)methoxy]-2-methylbut-2-en-1-ol
+(33).22 Bu4NF (1.0 M in THF, 2.20 mL, 2.20 mmol) was added to a
+stirred and cooled (0 °C) solution of 32 (863 mg, 1.88 mmol) in THF
+(10 mL). Stirring was continued for 12 h, and the mixture was diluted
+with saturated aqueous NH4Cl and extracted with EtOAc. The
+combined organic extracts were washed with brine, dried (MgSO4),
+and evaporated. Flash chromatography of the residue over silica gel (3
+× 15 cm), using 1:1 EtOAc−hexanes, gave 33 (363 mg, 76% over two
+steps) as a colorless oil: FTIR (CDCl3, cast) 3395, 1612 cm−1; 1H
+NMR (CDCl3, 500 MHz) δ 1.44 (br s, 1 H), 1.67 (s, 3 H), 3.80 (s, 3
+H), 4.02−4.06 (m, 4 H), 4.45 (s, 2 H), 5.64−5.67 (m, 1 H), 6.88 (d, J
+= 9.0 Hz, 2 H), 7.27 (d, J = 9.0 Hz, 2 H); 13C NMR (CDCl3, 125
+MHz) δ 13.9 (q), 55.3 (q), 65.9 (t), 68.1 (t), 72.0 (t), 113.8 (d), 121.6
+(d), 129.4 (d), 130.4 (s), 139.1 (s), 159.2 (s); exact mass
+(electrospray) m/z calcd for C13H18NaO3 (M + Na)+ 245.1148,
+found 245.1154.
+
+1-({[(2E)-4-Bromo-3-methylbut-2-en-1-yl]oxy}methyl)-4-me-
+thoxybenzene (34).23 Ph3P (227 mg, 0.866 mmol) and CBr4 (240
+mg, 0.723 mmol) were added to a stirred and cooled (0 °C) solution
+of 33 (160 mg, 0.723 mmol) in CH2Cl2 (7 mL). Stirring was
+continued for 3.5 h and the solvent was then evaporated. Flash
+chromatography of the residue over silica gel (1.8 × 15 cm), using
+1:12 EtOAc−hexanes, gave 34 (187 mg, 91%) as a colorless oil: FTIR
+(CDCl3, cast) 1612 cm−1; 1H NMR (CDCl3, 500 MHz) δ 1.78 (s, 3
+H), 3.80 (s, 3 H), 3.96 (s, 2 H), 4.02 (d, J = 6.5 Hz, 2 H), 4.44 (s, 2
+H), 5.78−5.80 (m, 1 H), 6.88 (d, J = 7.5 Hz, 2 H), 7.26 (d, J = 7.5 Hz,
+2 H); 13C NMR (CDCl3, 125 MHz) δ 15.1 (q), 40.2 (t), 55.3 (q),
+66.1 (t), 72.1 (t), 113.8 (d), 127.3 (d), 129.4 (d), 130.1 (s), 135.5 (s),
+159.3 (s); exact mass (electron ionization) m/z calcd for
+C13H17
+
+81BrO2 (M)+ 286.0391, found 286.0400.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Copies of NMR spectra of 1, 2, 4, 14−26, 28, 30, 31, 33, and
+34 and an ORTEP diagram and X-ray data (CIF) for
+compound trans-2. This material is available free of charge via
+the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+
+Corresponding Author
+*E-mail: derrick.clive@ualberta.ca.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+Article
+
+We thank the Natural Sciences and Engineering Research
+Council of Canada for ﬁnancial support; Dr. M. J. Ferguson and
+Dr. R. McDonald for the X-ray measurements; and Drs H.
+Achariya, Z. Li, and H. Yang for assistance with the preparation
+of 2 and 16.
+
+■ REFERENCES
+
+(1) (a) Isolation and structure: Wilson, K. E.; Tsou, N. N.; Gun, Z.;
+Ruby, C. L.; Pelaez, F.; Gorrochategui, J.; Vicente, F.; Onishi, H. R.
+Tetrahedron Lett. 2000, 41, 8705−8709. (b) Synthesis: Nicolaou, K.
+C.; Montagnon, T.; Vassilicogiannakis, G.; Mathison, C. J. N. J. Am.
+Chem. Soc. 2005, 127, 8872−8888.
+(2) Cf. Magauer, T.; Mulzer, J.; Tiefenbacher, K. Org. Lett. 2009, 11,
+5306−5309.
+(3) Zimmerman, H. E.; Pasteris, R. J. J. Org. Chem. 1980, 45, 4876−
+4891.
+(4) Itoh, Y.; Brossi, A.; Hamel, E.; Lin, C. M. Helv. Chim. Acta 1988,
+71, 1199−1209.
+(5) For another example of the use of Hg(OAc)2 in reﬂuxing acetic
+acid, see the following: Lebeuf, R.; Robert, F.; Landais, Y. Org. Lett.
+2005, 7, 4557−4560.
+(6) Kotnis, A. S. Tetrahedron Lett. 1991, 32, 3441−3444.
+(7) Blagbrough, I. S.; Pattenden, G. Tetrahedron Lett. 1982, 23,
+4843−4846.
+(8) Carvalho, C. F.; Sargent, M. V. J. Chem. Soc., Perkin Trans. 1 1984,
+1621−1626.
+(9) Elix, J. A.; Jones, A. J.; Lajide, L.; Coppins, B. J.; James, P. W.
+Aust. J. Chem. 1984, 37, 2349−2364.
+(10) Gerlach, H.; Thalmann, A. Helv. Chim. Acta 1977, 60, 2866−
+2871.
+(11) Bänteli, R.; Ernst, B. Tetrahedron Lett. 1997, 38, 4059−4062.
+(12) Cf. Hara, R.; Furukawa, T.; Kashima, H.; Kusama, H.;
+Horiguchi, Y.; Kuwajima, I. J. Am. Chem. Soc. 1999, 121, 3072−3082.
+(13) Tada, M.; Takakuwa, T.; Nagai, M.; Yoshii, T. Agric. Biol. Chem.
+1990, 54, 3061−3063.
+(14) Cf. Takahashi, K.; Suzuki, T.; Hirama, M. Tetrahedron Lett.
+1992, 33, 4603−4604.
+(15) For example, see the following: (a) Olson, G. L.; Cheung, H.-
+C.; Chiang, E.; Madison, V. S.; Sepinwall, J.; Vincent, G. P.; Winokur,
+A.; Gary, K. A. J. Med. Chem. 1995, 38, 2866−2879. (b) Focella, A.;
+Teitel, S.; Brossi, A. J. Org. Chem. 1977, 42, 3456−3457.
+(16) N’Goka, V.; Schlewer, G.; Linget,
+Wermuth, V.-G. J. Med. Chem. 1991, 34, 2547−2557.
+(17) This publication reports that Claisen rearrangement (200 °C) of
+1-methoxy-3-methyl-5-(prop-2-en-1-yloxy)benzene does not stop at
+the ﬁrst stage and that appreciable amounts of 3-methoxy-5-methyl-4-
+(prop-2-en-1-yl)phenol are formed: Biswas, B.; Sarkar, D.;
+Venkateswaran, R. V. Tetrahedron 2008, 64, 3212−3216.
+(18) Witty, T. R.; Remers, W. A. J. Med. Chem. 1973, 16, 1280−1284.
+(19) Mirrington, R. N.; Feutrill, G. I. Organic Syntheses; Wiley: New
+York, 1988; Collect. Vol. 6, pp 859−861.
+(20) Mechelke, M. F.; Wiemer, D. F. J. Org. Chem. 1999, 64, 4821−
+4829.
+(21) Shi, L.; Lei, X.; Zhang, J.; Lin, G. Helv. Chim. Acta 2010, 93,
+555−564.
+(22) Nanda, S.; Scott, A. I. Tetrahedron: Asymmetry 2004, 15, 963−
+970.
+(23) This compound has previously been generated in situ. See ref
+22.
+
+J.-M.; Chambon,
+
+J.-P.;
+
+3216
+
+DOI: 10.1021/acs.joc.5b00192
+J. Org. Chem. 2015, 80, 3211−3216
+
+

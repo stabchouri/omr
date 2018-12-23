@@ -1,0 +1,1692 @@
+Featured Article
+
+pubs.acs.org/joc
+
+Total Synthesis of (+)-Isatisine A: Application of a Silicon-Directed
+Mukaiyama-Type [3 + 2]-Annulation
+Jihoon Lee and James S. Panek*
+
+Department of Chemistry and Center for Chemical Methodology and Library Development, Metcalf Center for Science and
+Engineering, Boston University, 590 Commonwealth Avenue, Boston, Massachusetts 02215, United States
+*S Supporting Information
+
+ABSTRACT: Complete details of an asymmetric synthesis of
+(+)-isatisine A (1) are described. The synthesis highlights the
+use of a highly diastereoselective Mukaiyama-type [3 + 2]-
+annulation of allylsilane 5 with the unsaturated aldehyde 9a to
+assemble the functionalized tetrahydrofuran core of isatisine A.
+A convergent route to the framework of the natural product
+was established that employed a substrate-controlled indole
+coupling that was followed by a late-stage intramolecular
+copper(I)-mediated amidation to complete the assembly of the
+tetracyclic framework of (+)-isatisine A. In addition, the scope
+of the [3 + 2]-annulation was evaluated and enhanced utilizing diastereomeric allylsilanes anti-5 and syn-5 to establish an eﬃcient
+route to stereochemically well-deﬁned tetrahydrofurans.
+
+■ INTRODUCTION
+
+Isatis indigotica Fort. (Cruciferae), which is a plant species
+widely cultivated in China and East Asia, has been used as a
+traditional medicine for treatment of viral diseases such as
+inﬂuenza, viral pneumonia, mumps, and hepatitis. Further
+investigations conducted by Chen and co-workers on I.
+Indigotica to identify potent antiviral compounds resulted in
+the isolation of isatisne A (1, Figure 1) along with 11 other
+
+Figure 1. Structures of isatisine A (1) and its acetonide derivative 2.
+
+nonalkaoid species.1 Initially,
+isatisine was isolated as an
+acetonide derivative, which was most certainly generated during
+the chromatographic puriﬁcation using acetone as an eluent.
+However, its unusual dioxolane group that is rarely found in
+natural products led to further investigation to unambiguously
+assign the correct structure of the natural product. Biological
+evaluation of acetonide derivative of isatisine revealed its potent
+cytotoxicity against C8166 with CC50 = 302 μM and anti-HIV
+activity of EC50 = 37.8 μM.
+
+Isatisine A (1) is a unique fused-polycyclic alkaloid bearing
+an indole ring system at
+the C2 position, of which the
+intriguing and challenging structure led to signiﬁcant attention
+from the synthetic community. In 2010, Kerr and co-worker
+reported the ﬁrst total synthesis of (+)-isatisine A and revision
+of its absolute conﬁguration.2a,b This report was followed by
+two total syntheses from the Panek2c and Liang2d groups,
+respectively. Recently, Xie2e has disclosed a biomimetic total
+synthesis of isatisine A, and shortly after, Ramana and co-
+workers2f,g reported their eﬀorts culminating in the synthesis of
+the natural product and its derivatives.
+
+The present work diﬀers considerably from the previous
+syntheses. For instance, Kerr and co-worker also reported a [3
++ 2] cycloaddition using a vinyl cyclopropane and an aldehyde
+to generate the tetrahydrofuran core. However, the indole
+addition to the intermediate aminal
+to be
+problematic, which led to a revised route to introduce the
+indole branch through a cascade reaction sequence including
+incorporation of
+indole and lactamization to form the
+tetracyclic framework of
+isatisine at the late stage of their
+synthesis. Additionally, the independent approaches, reported
+by Xie and Ramana, respectively, demonstrated the use of the
+“chiral pool” where protected forms of D-glucal and D-ribose
+were used as the starting materials, respectively.
+
+turned out
+
+Herein, we disclose the full details of our eﬀorts toward the
+total synthesis of (+)-isatisine A (1), including the development
+of Mukaiyama-type [3 + 2]-annulation that led to the assembly
+of the tetrahydrofuran core and the synthesis of 9-H-13-silyl-
+substituted advanced intermediate 15.
+
+Received:
+January 9, 2015
+Published: March 4, 2015
+
+© 2015 American Chemical Society
+
+2959
+
+DOI: 10.1021/acs.joc.5b00051
+J. Org. Chem. 2015, 80, 2959−2971
+
+The Journal of Organic Chemistry
+
+■ RESULTS/DISCUSSION
+Strategy and Methodology Development. Our interest
+in isatisine originated from its unique tetracyclic ring system,
+which bears a highly oxygenated tetrahydrofuran. As illustrated
+in Scheme 1, our synthetic analysis of this alkaloid revealed
+
+Scheme 1. Synthetic Strategy and Methodology
+Development for Synthesis of (+)-Isatisine A (1)
+
+Featured Article
+
+described.4 However,
+the challenging heterocyclic core of
+isatisine prompted us to develop a stereocontrolled method to
+access
+the functionalized tetrahydrofuran, which can be
+subsequently converted to the isatisine core by straightforward
+transformations.
+
+During the course of a search of methods for tetrahydrofuran
+synthesis, a Mukaiyama-type [3 + 2]-cycloaddition of a
+carbamoyl enol ether with an aldehyde reported by Hoppe4j−m
+particularly attracted our interest in these possibilities: (1)
+cyclization is initiated by formation of an oxocarbenium
+between the homoallylic hydroxyl group and an aldehyde
+under acidic conditions; (2) the stereochemical course was
+dictated by the conﬁguration of the allylic stereocenter. Taking
+advantage of these points, we envisioned that alkoxy-substituted
+allylsilane 5 bearing allylic C-centered chirality could direct the
+stereochemical course of a Mukaiyama-type annulation to
+provide a properly functionalized tetrahydrofruan 6 with useful
+diastereoselectivity (Scheme 1).5
+<para sub="scope">
+The development of the [3 + 2]-annulation was initiated
+with the preparation of the allylsilane nucleophiles anti-5 and
+syn-5, starting from the known epoxysilanes6 cis-7 and trans-7,
+respectively (Scheme 2). The annulation substrate anti-5 was
+synthesized through epoxide opening reaction of cis-7 with
+ethoxy ethynyllithium anion to aﬀord a propargyl silane anti-8
+and subsequent Lindlar reduction of the alkyne to the (Z)-
+oleﬁn.7 Although an epimerization of the secondary hydroxyl
+group in anti-8, which arises from the stabilizing eﬀect of a
+cation by the β-silicon eﬀect, is mechanistically possible, any
+sign of the epimerization was not observed under the given
+reaction conditions. Additionally, a prefect level of regiose-
+lectivity in the epoxide opening reaction can be explained by
+bond length diﬀerence between C−Si and C−C bond. Si−C
+bond is ∼1.2 times longer than a normal C−C bond, which
+may support the highly regioselective attack of a nucleophile at
+the α-carbon from the silicon group.
+</para>
+<para sub="scope">
+In a similar manner,
+
+syn-5 was also prepared through
+trans-7 and subsequent
+nucleophilic epoxide opening of
+reduction of the resulting intermediate propargylic silane syn-
+8. However, epoxide trans-7 was unreactive under the same
+conditions used for the epoxide opening reaction of cis-7. This
+−BF3
+·
+problem was circumvented by the utilization of an AlMe3
+OEt2 mixture to generate the more nucleophilic ethynyl
+aluminum “ate complex” toward an epoxide opening.8
+</para>
+
+three crucial transformations required to construct the indole
+branch and tetracyclic scaﬀold, including formation of an aryl
+C−N bond and densely functionalized tetrahydrofuran. There-
+fore, our strategy set out the preparation of the tetrahydrofuran
+core as a starting point.
+
+Due to the abundance of natural products and bioactive
+molecules1,3 bearing a tetrahydrofuran core, methods for the
+preparation of
+functionalized tetrahydrofurans have been
+
+Scheme 2. Preparation of Allylsilanes anti-5 and syn-5
+<para sub=“opt”>
+With the availability of reagents anti- and syn-5, the proposed
+[3 + 2]-annulation of anti-5 with 2-bromocinnamyl aldehyde
+9a9 was carried to furnish tetrahydrofuran 6a, which accounts
+</para>
+2960
+
+DOI: 10.1021/acs.joc.5b00051
+J. Org. Chem. 2015, 80, 2959−2971
+
+The Journal of Organic Chemistry
+<para sub=“opt”>
+for all of the required carbons of the tetracyclic framework of
+isatisine. Guided by Hoppe’s previous results,4e the annulation
+·OEt2 in CH2Cl2 at −50 °C (Table 1,
+was promoted with BF3
+</para>
+
+Table 1. Reaction Optimization of the Mukaiyama-Type [3 +
+2]-Annulation of anti-5 and 9a
+
+Table 2. Mukaiyama-Type [3 + 2]-Annulation of anti-5 with
+Aldehydes 9b−ia,b
+
+Featured Article
+
+entrya
+
+1
+2
+3
+4
+5
+6
+7
+
+acids (equiv)
+·OEt2 (2.0)
+BF3
+Sc(OTf)3 (0.5)
+ln(OTf)3 (0.5)
+TCA (1.0)
+TFA (1.0)
+CSA (1.0)
+PTSA (1.0)
+
+temp (°C)
+−50
+
+0 to rt
+0
+0
+0
+0
+0
+
+drb
+>20:1
+>20:1
+>20:1
+>20:1
+>20:1
+>20:1
+>20:1
+
+yieldc (%)
+
+67
+58
+30
+53
+57
+57
+87
+
+aThe reactions were conducted in a 0.3 M solution of ethoxyl allyl
+silane anti-5 in CH2Cl2. bDiastereoselectivities (dr) were determined
+by 1H NMR. cPuriﬁcation yield after SiO2 column chromatography.
+<para sub=“opt”>
+entry 1), which provided the desired trans,trans,cis-tetrahy-
+drofuran 6a in moderate yield albeit with excellent diaster-
+eoselectivity (>20:1).2b Similarly, a series of evaluations
+utilizing other Lewis acids, such as In(OTf)3 and Sc(OTf)3,
+aﬀorded 6a in moderate yields (entries 2 and 3). The series of
+reactions using Brønsted acids, such as trichloroacetic acid
+(TCA), triﬂuoroacetic acid (TFA), and camphorsulfonic acid
+(CSA), also provided the tetrahydrofuran 6a in moderate yield.
+The optimal conditions were found utilizing 1.0 equiv of PTSA
+at 0 °C, which aﬀorded the desired product in 87% with a high
+level of diastereoselectivity and within a short reaction time (ca.
+10 min). As expected, the observed relative stereochemistry of
+6a suggested that
+the annulation proceeded through an
+envelope-like transition state (Scheme 1, TS1), where a bulky
+silane group is positioned at the pseudoequatorial orientation
+and the enol ether is oriented in such a way as to minimize any
+developing A1,3-allylic strain between the trialkysilane and
+ethoxy group.
+</para>
+<para sub="scope">
+Having established optimal reaction conditions, a range of
+aldehydes was evaluated to explore the scope of the [3 + 2]-
+annulation with anti-5. In that regard, we have learned that
+aliphatic aldehydes 9b−e were excellent reaction partners in the
+annulations to aﬀord the trans,trans,cis-tetrahydrofurans 6b−e
+in high yields and diastereoselectivities (Table 2). Additionally,
+various aromatic aldehydes 9f−i, bearing an electron-donating
+or -withdrawing substituent, were compatible under the deﬁned
+reaction conditions aﬀording tetrahydrofurans 6f−i
+in high
+yields and diastereoselectivities. The series of annulations
+shown in Table 2 suggested that ethoxy-terminated allylsilane
+anti-5 can be an useful reagent for the preparation of a range of
+2,4,5-cis,cis-tetrahydrofurans.
+</para>
+<para sub="scope">
+In studies designed to expand the scope of the tetrahy-
+drofuran annulation, allylsilane syn-5 was employed with the
+same set of aldehydes 9b−i to gain access to the diastereomeric
+tetrahydrofurans. In these experiments, the use of MeSO3H as a
+</para>
+aReactions were carried at a 0.3 M concentration, and 2.0 equiv of
+aldehyde and 1.0 equiv of acid were employed. bDiastereoselectivities
+(dr) were determined by 1H NMR.
+<para sub="scope">
+promoter gave superior results in terms of reaction eﬃciency
+(up to 96% yield, 20:1 dr) compared to those using PTSA, and
+the expected cis,trans,cis-tetrahydrofurans 10b−i were produced
+as the major diastereomer (Table 3). The reactions employing
+aliphatic aldehydes 9b−e provided the desired product 10b−e
+with attenuating diastereoselectivities regardless of the presence
+of α-substitutents. However, cyclopropanecarboxylic aldehyde
+9d and aromatic aldehydes 9f−i gave comparable results to the
+examples of anti-5, which imply a presumable π-bond
+interaction between the enol ether and aryl group to form a
+more stable transition state (TS 2). In fact,
+it has been
+the C−C bond of cyclopropane has
+documented that
+signiﬁcantly more π-bond character than a simple sp3 C−C
+bond, since the ring strain in a cyclopropane distorts the
+forming a 104° angle.10 The observed
+bonding orbital
+preservation of diastereoselectivity in the case of cyclo-
+propanecarboxaldehyde 9d also supports a possible TS
+stabilization arising from a π-bond interaction in the transition
+state.
+</para>
+<para sub=“ques”>
+Total Synthesis of (+)-Isatisine A: First-Generation
+Approach toward the Total Synthesis of (+)-Isatisine A.
+Having an established synthesis of tetrahydrofuran 6a, which
+bears the required stereochemical relationships and carbon
+atoms for the fused-cyclic framework (C2−C14) of the natural
+product, our remaining strategy relied on a series of oxidations
+to furnish the correct oxidation states required for (+)-isatisine.
+Therefore, our
+retrosynthetic analysis began with
+disconnection of C7a−N1 to aﬀord an intermediate secondary
+amide 11. Further disconnection at the indole side chain C2−
+C3′ led to an indole and key intermediate lactam 12, which
+would be furnished through a series of oxidations of the
+intermediate tetrahydrofuran 6a (Scheme 3).
+</para>
+initial
+
+2961
+
+DOI: 10.1021/acs.joc.5b00051
+J. Org. Chem. 2015, 80, 2959−2971
+
+The Journal of Organic Chemistry
+
+Table 3. Mukaiyama-Type [3 + 2]-Annulation of syn-5 with
+Aldehydes 9b−ia,b
+
+Scheme 4. Preparation of Hydroxy Lactam 12
+
+Featured Article
+
+aReactions were carried at 0.3 M concentration, and 2.0 equiv of
+aldehyde and 1.0 equiv of acid were used. bDiastereoselectivities (dr)
+were determined by 1H NMR.
+
+Scheme 3. Retrosynthetic Analysis of (+)-Isatisine A (1)
+<para sub="scope">
+To introduce the indole moiety at the C2 position, a direct
+addition to lactam 12 was attempted under Lewis acidic
+conditions (Scheme 5).13 Fortunately,
+the utilization of
+In(OTf)3 (4.0 equiv) successfully achieved stereoselective
+addition to provide α-adduct 11, which was generated by
+delivering indole from the less hindered convex face of the
+bicyclic intermediate 12 (TS3), without
+the
+undesired β-adduct. Construction of the tetracyclic framework
+
+formation of
+</para>
+
+Scheme 5. Construction of 9-H-13-Silylisatisine A (15)
+<para sub="scope">
+As such, our eﬀorts toward the synthesis of (+)-isatisine were
+tetrahydrofuran 6a to an
+initiated with an oxidation of
+intermediate carboxylic acid under Pinnick oxidation conditions
+(Scheme 4). In order to introduce the N1 nitrogen atom in the
+tetracyclic framework, the carboxylic acid was converted to
+amide 13 through the intermediate mixed anhydride.11
+Dihydroxylation of the trans-disubstituted double bond in 13
+aﬀorded the diol 14 as a mixture of diastereomers (dr = 2:1) in
+73% yield, which was subjected to another oxidation in the
+presence of TEMPO to produce the desired cyclic aminal 12 as
+a 6:1 mixture of diastereomers.12
+</para>
+2962
+
+DOI: 10.1021/acs.joc.5b00051
+J. Org. Chem. 2015, 80, 2959−2971
+
+The Journal of Organic Chemistry
+
+Featured Article
+<para sub="scope">
+of
+isatisine was conducted under modiﬁed amidation
+conditions,11 originally developed by Buchwald.14 Upon
+exposure of 11 to the modiﬁed Cu(I)-mediated amidation
+conditions, previously used in our syntheses of macrocyclic
+lactam natural products, the tetracyclic intermediate 15 was
+successfully generated in 80% yield.
+</para>
+<para sub=“opt”>
+At this stage of the synthesis, a series of oxidations at C9 and
+C13 to a diol were necessary to complete the total synthesis.
+Unfortunately, initial attempts to convert the dimethylphenyl-
+silyl group of 15 into a hydroxyl group under Tamao−Fleming
+oxidation conditions15 were unsuccessful and only produced
+unidentiﬁable byproducts. With considerable eﬀort, a series of
+oxidations at C9 to give α-hydroxyl amide 17 was investigated
+under conventional α-hydroxylation conditions16 employing
+hindered, non-nucleophilic bases
+lithium
+diethylamide, and KHMDS, with or without the protection of
+intermediate 15 was
+the indole nitrogen, but surprisingly,
+completely unreactive under those conditions.
+</para>
+<para sub=“opt”>
+While intermediate 15 was eﬃciently accessed from
+tetrahydrofuran 6a with a minimized number of protection−
+deprotection steps, further transformations of 15 to the natural
+product under oxidative conditions turned out to be problem-
+atic and eventually untenable. Considering these diﬃculties in
+the late-stage oxidation at C9 and C13, an alternative approach
+was devised to synthesize (+)-isatisine A.
+
+such as LDA,
+</para>
+<para sub=“ques”>
+Second-Generation Approach toward the Total Syn-
+thesis of (+)-Isatisine A. Our modiﬁed approach shown in
+Scheme 6 relied on an early-stage oxidation of tetrahydrofuran
+</para>
+Scheme 6. Revised Strategy for (+)-Isatisine A
+<para sub=“ques”>
+6a to intermediate hydroxyl lactam 19, which also established
+the required oxidation states present in the natural product. In
+the course of [3 + 2]-annulation, as we anticipated,
+the
+conﬁguration of the dimethylphenyl silane group proved to be a
+crucial stereocontrol element, which successfully transferred its
+C-centered chirality to the product tetrahydrofuran with a high
+level of selectivity (dr ≥20:1). However, our previous attempts
+revealed that direct oxidation of the silicon group to a hydroxyl
+group was ineﬀective under the typically reliable Tamao−
+Fleming conditions.15 Meanwhile, a trialkylsilicon group is also
+known to undergo elimination arising from its σ-donating
+character to aﬀord an oleﬁn when a leaving group is on the
+adjacent carbon.17 Thus, elimination of the silicon group and
+subsequent dihydroxylation of the resulting oleﬁn at the early
+
+stage of the synthesis could serve as an alternative route for the
+oxidation at C9 and C13 positions (Scheme 6).
+</para>
+<para sub="scope">
+Our
+
+revised synthesis began with the oxidation of
+tetrahydrofuran 6a to the dihydrofuran 18 (Scheme 7). On
+</para>
+Scheme 7. Preparation of Intermediate 22
+<para sub="scope">
+that account, selective α-bromination of aldehyde 6a in the
+presence of
+the styrene-like oleﬁn was conducted using
+phenyltrimethylammoniumtribromide (PTAB), which was
+directly treated with TBAF at 0 °C to form an intermediate
+unsaturated aldehyde.18 Due to the instability of the aldehyde,
+it was immediately subjected to the venerable Corey−Ganem
+oxidation using MnO2 in the presence of NaCN to directly
+aﬀord the unsaturated methyl ester 18 in 57% yield from
+tetrahydrofuran 6a.19
+</para>
+<para sub="scope">
+Initially, we planned a stepwise dihydroxylation−protection
+sequence to secure the formation of the key intermediate
+hydroxyl lactam 19. In this approach, the more nucleophilic
+styrene-like oleﬁn in 18 chemoselectively underwent dihydrox-
+ylation using 1.0 equiv of NMO to furnish diol 20 as a 1.5:1
+mixture of diastereomers. Protection of the mixture of diols as a
+cyclic carbonate and subsequent dihydroxylation of
+the
+unsaturated ester in 21 provided an intermediate diol with a
+level of selectivity favoring the α-face, which was
+perfect
+followed by an acetonide formation to produce oxolane 22 in
+67% yield (three steps) from diol 20. At this stage, the relative
+conﬁguration of the diol was assigned by NOE measurements
+of 22 after separation and puriﬁcation of
+the individual
+diastereomers.2b
+</para>
+<para sub="scope">
+Removal of the carbonate protecting group in 22 under basic
+(hydrolysis) conditions also resulted in the cleavage of the
+methyl ester to form the intermediate dihydroxy acid 23, which
+underwent spontaneous lactonization to give the bicyclic
+lactone 24 (Scheme 8). Treatment of this material with a
+solution of anhydrous NH3 in MeOH provided intermediate
+amide 25, which was subjected to oxidation with TEMPO and
+NaOCl at room temperature.12 As anticipated, the oxidation of
+the dihydroxy amide 25 resulted in a spontaneous cyclization to
+aﬀord the key advanced intermediate hydroxyl lactam 19, which
+possessed the required oxidation states to be converted to the
+natural product.
+</para>
+<para sub="scope">
+The intermediate hydroxyl
+
+lactam can also be prepared
+through a four-step reaction sequence from diene 18 with an
+</para>
+2963
+
+DOI: 10.1021/acs.joc.5b00051
+J. Org. Chem. 2015, 80, 2959−2971
+
+The Journal of Organic Chemistry
+
+Scheme 8. Preparation of Hydroxy Lactam 19
+<para sub="scope">
+icity of the oxygen atoms by a complicated hydrogen-bonding
+network between the hydroxyl groups.
+</para>
+Featured Article
+<para sub="scope">
+In order
+
+to validate this hypothesis,
+
+Accordingly, we attempted a cascade-like protection and
+lactonization sequence as an alternative pathway to lactone 24
+(Scheme 9). In this approach, we presumed that isopropylidene
+formation is a completely reversible process and forms the
+thermodynamically more stable lactone 24 rather than bis-
+acetonide 27.
+the
+dihydrofuran 18 was converted to the intermediate carboxylic
+acid 26, which was directly treated with 2,2-dimethoxypropane
+(2,2-DMP) under reﬂux conditions. Fortunately, the reaction
+sequence furnished the desired lactone 24 as a mixture of
+diastereomers at C2 and C3 without detectable formation of
+bis-acetonide 27. For experimental simpliﬁcation, the resulting
+mixture of diastereomeric lactones was directly subjected to
+aminolysis and subsequent TEMPO oxidation without
+puriﬁcation to aﬀord spectroscopically clean 19 in 20% yield
+as a single diastereomer.20
+</para>
+<para sub="scope">
+With access to intermediate hydroxyl lactam 19, we turned
+our attention to the stereoselective incorporation of
+the
+branching indole nucleus.13 Surprisingly, in this case, 19 was
+revealed to be totally unreactive under the previously reported
+reaction conditions [4.0 equiv of In(OTf)3] (Scheme 10). After
+</para>
+<para sub="scope">
+equal level of eﬃciency (Scheme 9). Both the styrene-like oleﬁn
+and unsaturated ester were concomitantly dihydroxylated by
+</para>
+Scheme 9. Alternative Route to Hydroxyl Lactam 19
+
+Scheme 10. Completion of the Total Synthesis of
+(+)-Isatisine A (1)
+<para sub="scope">
+extensive screening of reaction conditions, we learned that
+treatment of 19 with TFAA (1.2 equiv) and pyridine at 0 °C
+readily activated the hydroxyl lactam to an intermediate acyl
+iminium ion, and subsequent addition of a solution of the
+indole (5.0 equiv) in CH2Cl2 produced the desired adduct 28
+in 82% yield as a single diastereomer. The stereochemistry and
+absolute conﬁguration of
+the indole branched quaternary
+carbon center of 28 was conﬁrmed by single-crystal X-ray
+crystallographic analysis.2b
+</para>
+<para sub="scope">
+At the ﬁnal stage of this synthesis, the assembly of the fused
+tetracyclic framework was carried out by employing a
+copper(I)-mediated intramolecular amidation under
+the
+conditions that were used in our ﬁrst-generation synthesis.11
+As anticipated, the advanced tetracyclic intermediate 29 was
+successfully generated through Cu(I)-mediated coupling in
+90% yield. Subsequent cleavage of the methyl ether5b,21 and
+acetonide with an excess amount of 1.0 M solution of BBr3 in
+CH2Cl2 in the presence of 15-crown-5 and NaI (3.0 equiv)
+successfully provided (+)-isatisine A (1) in 80% yield.
+</para>
+2964
+
+DOI: 10.1021/acs.joc.5b00051
+J. Org. Chem. 2015, 80, 2959−2971
+
+catalytic OsO4 using an excess amount of NMO, which was
+subsequently treated with 1.0 N solution of NaOH to produce
+intermediate tetraol 26 as a mixture of diastereomers (dr =
+3:2−6:1) arising from the benzylic 1,2-diol. Interestingly, this
+tetraol was totally inactive under conditions intended to
+produce a lactone, possibly due to the attenuating nucleophil-
+
+The Journal of Organic Chemistry
+
+■ CONCLUSION
+
+We have developed a silicon-directed Mukaiyama-type [3 + 2]-
+annulation to construct highly functionalized tetrahydrofurans.
+This reaction displayed remarkable compatibility with a several
+types of aromatic and aliphatic aldehydes and provided an
+access to a wide range of functionalized tetrahydrofurans with
+considerable structural and stereochemical variation. A total
+synthesis of (+)-isatisine A (1) has been achieved starting from
+the highly functionalized tetrahydrofuran 6a, which was
+generated through this silicon-directed Mukaiyama-type [3 +
+2]-annulation. Additionally, this synthesis represents another
+application of a Buchwald-type amidation culminating the
+assembly of the 3-indolone moiety of the complex natural
+product. Further studies to synthesize naturally occurring
+materials, which bear a complex tetrahydrofuran core, employ-
+ing this annulation methodology are in progress and may be
+reported at a later time.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+supplied. Dichloromethane,
+
+General Experimental Procedures. All reactions were carried
+out
+in oven or ﬂame-dried glassware under argon atmosphere.
+Triethylamine and 2,6-lutidine were distilled and stored over
+potassium hydroxide. n-Butyllithium was purchased and standardized
+by titration with menthol/2,2′-dipyridyl. All other reagents were used
+as
+toluene, diethyl ether, benzene,
+tetrahydrofuran, and acetonitrile were obtained from an anhydrous
+solvent system (alumina) and used without further drying. Unless
+otherwise noted, reactions were magnetically stirred and monitored by
+thin-layer chromatography with 0.20 mm silica gel 60 Å plates. Flash
+chromatography was performed on 32−63 μm 60 Å silica gel. Yields
+refer to chromatographically and spectroscopically pure compounds,
+unless otherwise noted. 1H NMR spectra were taken in CDCl3,
+methanol-d4, and CD3CN at 400 or 500 MHz (as indicated),
+respectively. 13C NMR spectra were also taken in CDCl3, methanol-d4,
+and CD3CN at 100 or 125 MHz (as indicated), respectively. Chemical
+shifts are reported in parts per million relative to CDCl3 (1H, δ 7.24;
+13C, δ 77.0), methanol-d6 (1H, δ 3.31; 13C, δ 49.0), and acetonitrile-d3
+(1H, δ 1.94; 13C, δ 118.7). Data are reported as follows: chemical shift,
+multiplicity (s = singlet, d = doublet, t = triplet, q = quartet, sept =
+septuplet m = multiplet, br = broad, obsc = obscured), coupling
+constant, integration. Diastereomeric ratios were determined by 1H
+NMR (500 MHz) analysis of crude mixtures, operating at signal/noise
+ratio of 200:1. Infrared resonance spectra were recorded as a thin ﬁlm
+on KBr plate. High-resolution mass spectra (HRMS) were obtained by
+electrospray ionization using a Q-TOF mass spectrometer in positive-
+ion mode (M + H or M + Na) as indicated.
+
+(2S,3R,Z)-3-(Dimethyl(phenyl)silyl)-5-ethoxy-1-methoxypent-4-
+en-2-ol (anti-5). A solution of ethoxy acetylene (50 wt % in hexane,
+2.5 mL, 12.8 mmol) in diethyl ether (60 mL) was cooled to −78 °C
+under an atmosphere of Ar. n-BuLi (2.5 M in hexane, 5.1 mL, 12.8
+mmol) was added dropwise for 5 min at −78 °C, and stirring was
+continued for 1 h at the same temperature. A solution of cis-76a (1.91
+·OEt2 (1.7 mL, 13.5
+g, 6.75 mmol) in ethyl ether (20 mL) and BF3
+mmol) were successively added, and the reaction mixture was stirred
+for 30 min at −78 °C before addition of satd NaHCO3 (80 mL). Ethyl
+acetate (80 mL) was added, and the resulting layers were separated.
+The organic layer was dried over magnesium sulfate, ﬁltered, and
+concentrated in vacuo to obtain a yellowish residue. Puriﬁcation over
+silica gel with hexanes/ethyl acetate (10/1) aﬀorded an inseparable
+mixture of anti-8 and unidentiﬁed byproduct (2.25 g): 1H NMR
+(CDCl3, 500 MHz) δ 7.58−7.56 (m, 2H), 7.35−7.31 (m, 3H), 4.00
+(q, J = 7.0 Hz, 2H), 3.73 (m, 1H), 3.38 (dd, J = 9.5, 7.0 Hz, 1H), 3.30
+(dd, J = 9.5, 5.0 Hz, 1H), 3.27 (s, 3H), 2.07 (d, J = 3.0 Hz, 1H), 2.02
+(d, J = 7.0 Hz, 1H), 1.30 (t, J = 7.5 Hz, 3H), 0.42 (s, 3H), 0.41 (s,
+3H).
+
+To a solution of anti-8 (2.25g, 7.69 mmol) and pyridine (1.3 mL,
+15.4 mmol) in ethyl acetate (50 mL) was added Lindlar’s catalyst (157
+</para>
+Featured Article
+<para sub=“exp”>
+mg). The air in the reaction vessel was substituted with H2 gas
+employing vacuum (three times) and stirring was continued for 1 h.
+The mixture was then ﬁltered through a pad of Celite, and the solution
+was concentrated under reduced pressure to give a yellow residue.
+Puriﬁcation over silica gel with hexanes/ethyl acetate (10/1) aﬀorded
+20 = −34.2 (c 1.0,
+anti-5 as a colorless oil (2.0 g, 80%, two steps): [α]D
+CHCl3); 1H NMR (CDCl3, 500 MHz) δ 7.57−7.55 (m, 2H), 7.32−
+7.29 (m, 3H), 5.99 (d, J = 6.5, 1H), 4.42 (dd, J = 11.0, 5.2 Hz, 1H),
+3.85 (m, 1H), 3.66 (qd, J = 7.2, 6.8 Hz, 2H), 3.28−3.20 (m, 2H), 3.25
+(s, 3H), 2.36 (dd, J = 3.5, 1.0 Hz, 1H), 2.30 (dd, J = 10.5, 3.5 Hz, 1H),
+1.15 (t, J = 7.0 Hz, 3H), 0.34 (s, 3H), 0.30 (s, 3H); 13C NMR (CDCl3,
+75 MHz) δ 144.3, 138.4, 134.0, 128.7, 127.4, 101.9, 77.0, 69.9, 67.2,
+58.6, 28.4, 15.1, −3.5, −3.9; IR (ﬁlm) ν
+max 3465, 2976, 2895, 1652,
+1427, 1251 cm−1; HRMS (CI, NH3) m/z [M + Na]+ calcd for
+C16H26NaO3Si 317.1549, found 317.1577.
+
+(2S,3S,Z)-3-(Dimethyl(phenyl)silyl)-5-ethoxy-1-methoxypent-4-
+en-2-ol (syn-5). A solution of ethoxy acetylene (40 wt % in hexane, 3.2
+mL, 13.5 mmol) in diethyl ether (25 mL) was cooled to −78 °C under
+an atmosphere of Ar. n-BuLi (2.5 M in hexane, 5.4 mL, 13.5 mmol)
+was added dropwise, and stirring was continued at −78 °C for 1 h. A
+2.0 M solution of Me3Al in heptane (6.75 mL, 13.5 mmol) and a
+solution of trans-76a (1.5 g, 6.75 mmol) in ethyl ether (9 mL) were
+·OEt2 (1.7 mL, 13.5
+successively added, which was followed by BF3
+mmol). After 30 min at −78 °C, satd NaHCO3 (34 mL) was added,
+and the mixture was diluted with ethyl acetate (50 mL). The resulting
+layers were separated, and the organic layer were dried over
+magnesium sulfate, ﬁltered, and concentrated in vacuo to obtain a
+yellowish residue. Column chromatography over silica gel with
+hexanes/ethyl acetate (10/1) aﬀorded syn-8 as a yellowish oil (1.67
+20 = −45.2 (c 1.0, CHCl3); 1H NMR (CDCl3, 400 MHz)
+g, 85%): [α]D
+δ 7.65−7.63 (m, 2H), 7.37−7.34 (m, 3H), 3.95 (q, J = 6.8 Hz, 2H),
+3.79−3.73 (m, 1H), 3.57 (dd, J = 9.6, 2.8 Hz, 1H), 3.38 (dd, J = 9.6,
+7.6 Hz, 1H), 3.33 (s, 3H), 2.55 (d, J = 4.8 Hz, 1H), 2.11 (d, J = 8.8 Hz,
+1H), 1.29 (t, J = 6.8 Hz, 3H), 0.47 (s, 3H), 0.46 (s, 3H); 13C NMR
+(CDCl3, 100 MHz) δ 137.5, 134.0, 128.9, 127.4, 92.2, 76.4, 58.7, 35.3,
+22.3, 14.2, −3.2, −3.3; IR (ﬁlm) ν
+max 3453, 2896, 2258, 1427, 1247
+cm−1.
+
+A solution of syn-8 (1.57g, 5.37 mmol) and pyridine (0.9 mL, 10.7
+mmol) in ethyl acetate (50 mL) was treated with Lindlar’s catalyst
+(157 mg). The air in the reaction vessel was substituted with H2 gas
+through a vacuum-H2 reload process (three times), and stirring was
+continued for 6 h. The mixture was then ﬁltered through a pad of
+Celite, and the solution was concentrated under reduced pressure to
+give a yellow residue. Puriﬁcation over silica gel with hexanes/ethyl
+acetate (10/1) aﬀorded syn-5 as a colorless oil (1.45 g, 92%): [α]D
+20 =
+−32.6 (c 1.0, CHCl3); 1H NMR (CDCl3, 500 MHz) δ 7.57−7.55 (m,
+2H), 7.31−7.29 (m, 3H), 5.91 (d, J = 6.5 Hz, 1H), 4.10 (dd, J = 11.0,
+6.0 Hz, 1H), 3.75−3.71 (m, 1H), 3.70 (q, J = 7.0 Hz, 1H), 3.64 (q, J =
+6.5 Hz, 1H), 3.15 (t, J = 9.0 Hz, 1H), 2.44 (dd, J = 11.0, 9.0 Hz, 1H),
+2.32 (d, J = 3.5 Hz, 1H), 1.16 (t, J = 7.0 Hz, 3H), 0.35 (s, 3H), 0.32 (s,
+3H); 13C NMR (CDCl3, 75 MHz): 144.4, 135.5, 134.0, 128.5, 127.2,
+103.3, 76.9, 71.9, 67.2, 58.6, 29.3, 15.1, −2.8, −3.3; IR (ﬁlm) ν
+max
+3461, 2977, 2894, 1653, 1245 cm−1; HRMS (CI, NH3) m/z [M +
+Na]+ calcd for C16H26NaO3Si 317.1549, found 317.1579.
+General Procedure for the Silicon-Directed Mukaiyama-
+Type [3 + 2]-Annulation of anti-5. Ethoxy allyl silane (±)-anti-5
+(40 mg, 0.136 mmol) and aldehyde 9 (0.271 mmol) were dissolved
+with methylene chloride (0.45 mL) in a round-bottom ﬂask. The
+mixture was cooled to 0 °C, and PTSA monohydrate (26 mg, 0.136
+mmol) was added in one portion. The solution was allowed to stir for
+10 min at 0 °C before addition of satd NaHCO3 solution (1.0 mL).
+The mixture was diluted with methylene chloride (3.0 mL), and the
+resulting layers were separated. The organic layer was dried over
+magnesium sulfate, ﬁltered, and concentrated in vacuo to obtain a
+crude product. Puriﬁcation over silica gel with hexanes/ethyl acetate
+(20/1 to 10/1) provided product tetrahydrofuran 6:
+
+(±)-(2R,3R,4R,5S)-2-Butyl-4-(dimethyl(phenyl)silyl)-5-
+(methoxymethyl)tetrahydrofuran-3-carbaldehyde (6b). Aldehyde
+9b (29 μL, 0.271 mmol) was used following the general procedure.
+Tetrahydrofuran 6b was obtained as a colorless oil (40 mg, 88% yield):
+</para>
+2965
+
+DOI: 10.1021/acs.joc.5b00051
+J. Org. Chem. 2015, 80, 2959−2971
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+1H NMR (CDCl3, 500 MHz) δ 9.52 (d, J = 5.0 Hz, 1H), 7.47−7.45
+(m, 2H), 7.37−7.32 (m, 3H), 3.96 (ddd, J = 9.0, 6.5, 2.5 Hz, 1H), 3.60
+(ddd, J = 8.0, 6.0, 6.0 Hz, 1H), 3.27−3.19 (m, 2H), 3.25 (s, 3H), 2.68
+(ddd, J = 6.0, 4.5, 4.5 Hz, 1H), 2.68 (ddd, J = 6.0, 4.5, 4.5 Hz, 1H),
+1.67 (dd, J = 9.0, 4.5 Hz, 1H), 1.65−1.60 (m, 1H), 1.54−1.47 (m,
+1H), 1.40−1.33 (m, 1H), 1.25−1.20 (m, 3H), 0.82 (t, J = 7.0 Hz, 3H),
+0.33 (s, 3H), 0.32 (s, 3H); 13C NMR (CDCl3, 125 MHz) δ 201.8,
+135.9, 133.7, 129.6, 128.0, 82.0, 80.3, 74.7, 59.2, 56.3, 30.3, 28.6, 28.0,
+22.4, 13.7, −4.1, −4.7; IR (ﬁlm) ν
+max 3069, 2955, 1718, 1427, 1252,
+1114 cm−1; HRMS (CI, NH3) m/z [M + Na]+ calcd for
+C19H30NaO3Si 357.1862, found 357.1852.
+(±)-(2R,3R,4R,5S)-4-(Dimethyl(phenyl)silyl)-2-isopropyl-5-
+(methoxymethyl)tetrahydrofuran-3-carbaldehyde (6c). Aldehyde 9c
+(25 μL, 0.271 mmol) was used following the general procedure.
+Tetrahydrofuran 6c was obtained as a colorless oil (38 mg, 87% yield):
+1H NMR (CDCl3, 500 MHz) δ 9.53 (d, J = 5.4 Hz, 1H), 7.52−7.42
+(m, 2H), 7.42−7.27 (m, 3H), 3.95 (ddd, J = 8.5, 6.0, 2.4 Hz, 1H), 3.28
+(dd, J = 10.7, 2.4 Hz, 1H), 3.26 (s, 3H), 3.19 (dd, J = 10.7, 6.0 Hz,
+1H), 3.11 (dd, J = 10.3, 5.5 Hz, 1H), 2.69 (td, J = 5.4, 3.5 Hz, 1H),
+1.84 (dp, J = 10.3, 6.5 Hz, 1H), 1.61 (dd, J = 8.6, 3.5 Hz, 1H), 0.97 (d,
+J = 6.4 Hz, 3H), 0.81 (d, J = 6.7 Hz, 3H), 0.34 (d, J = 7.7 Hz, 6H); 13C
+NMR (CDCl3, 125 MHz) δ 206.2, 138.6, 132.8, 93.3, 85.1, 81.8, 79.4,
+64.1, 60.2, 33.8, 33.1, 25.9, 23.3, 0.6, 0.0; IR (ﬁlm) ν
+max 3049, 2875,
+1716, 1470, 1252 cm−1; HRMS (CI, NH3) m/z [M + Na]+ calcd for
+C18H28NaO3Si 343.1705, found 343.1708.
+(±)-(2R,3R,4R,5S)-2-Cyclopropyl-4-(dimethyl(phenyl)silyl)-5-
+(methoxymethyl)tetrahydrofuran-3-carbaldehyde (6d). Aldehyde
+9d (20 μL, 0.271 mmol) was used following the general procedure.
+Tetrahydrofuran 6d was obtained as a colorless oil (37 mg, 85% yield):
+1H NMR (CDCl3, 500 MHz) δ 9.70 (dd, J = 3.9, 0.6 Hz, 1H), 7.50−
+7.39 (m, 2H), 7.41−7.26 (m, 3H), 3.92 (dddd, J = 9.5, 6.1, 2.8, 0.6 Hz,
+1H), 3.27−3.23 (m, 5H), 0.31−0.29 (m, 4H), 3.02 (dd, J = 9.1, 7.1
+Hz, 1H), 1.84 (ddd, J = 9.5, 6.4, 0.6 Hz, 1H), 0.32−0.29 (m, 7H), 2.82
+(dddd, J = 7.0, 6.3, 3.9, 0.6 Hz, 1H), 0.91−0.82 (m, 1H), 0.63−0.54
+(m, 1H), 0.48 (ddd, J = 9.2, 8.4, 5.5 Hz, 1H), 0.39−0.32 (m, 2H),
+0.38−0.32 (m, 2H), 0.32 (s, 3H), 0.30 (s, 3H), 0.17−0.10 (m, 1H);
+13C NMR (CDCl3, 125 MHz) δ 201.5, 136.0, 133.8, 129.6, 128.0, 86.1,
+80.7, 74.8, 59.2, 57.2, 27.7, 11.2, 5.3, 1.8, −4.1, −4.7; IR (ﬁlm) ν
+max
+3048, 2884, 1718, 1456, 1252 cm−1; HRMS (CI, NH3) m/z [M +
+Na]+ calcd for C18H26NaO3Si 341.1549, found 341.1538.
+(±)-(2R,3R,4R,5S)-2-Cyclohexyl-4-(dimethyl(phenyl)silyl)-5-
+(methoxymethyl)tetrahydrofuran-3-carbaldehyde (6e). Aldehyde 9e
+(33 μL, 0.271 mmol) was used following the general procedure.
+Tetrahydrofuran 6e was obtained as a colorless oil (40 mg, 82% yield):
+1H NMR (CDCl3, 500 MHz) δ 9.53 (d, J = 5.4 Hz, 1H), 7.50−7.43
+(m, 2H), 7.40−7.30 (m, 3H), 3.93 (ddd, J = 8.5, 6.0, 2.5 Hz, 1H), 3.28
+(dd, J = 10.7, 2.5 Hz, 1H), 3.26 (s, 1H), 3.18 (ddd, J = 10.1, 9.2, 5.7
+Hz, 3H), 2.69 (td, J = 5.4, 3.4 Hz, 1H), 2.06−1.94 (m, 1H), 1.64−1.52
+(m, 7H), 1.23−1.00 (m, 4H), 0.93−0.74 (m, 2H), 0.34 (d, J = 7.0 Hz,
+6H); 13C NMR (CDCl3, 125 MHz) δ 201.4, 136.0, 133.8, 129.6,
+128.0, 87.0, 80.0, 74.6, 59.3, 55.0, 38.2, 31.3, 28.6, 28.1, 26.1, 25.4,
+25.2, −4.2, −4.8; IR (ﬁlm) ν
+max 2924, 2851, 1716, 1450, 1252 cm−1;
+HRMS (CI, NH3) m/z [M + Na]+ calcd for C21H32NaO3Si 383.2018,
+found 383.2010.
+(±)-(2S,3R,4R,5S)-4-(Dimethyl(phenyl)silyl)-5-(methoxymethyl)-2-
+phenyltetrahydrofuran-3-carbaldehyde (6f). Aldehyde 9f (28 μL,
+0.271 mmol) was used following the general procedure. Tetrahy-
+drofuran 6f was obtained as a colorless oil (43 mg, 89% yield): 1H
+NMR (CDCl3, 500 MHz) δ 8.99 (d, J = 3.5 Hz, 1H), 7.54−7.51 (m,
+2H), 7.40−7.34 (m, 3H), 7.29−7.19 (m, 5H), 4.83 (d, J = 7.5 Hz,
+1H), 4.14 (ddd, J = 9.5, 5.5, 3.5 Hz, 1H), 3.40−3.39 (m, 2H), 3.33 (s,
+3H), 3.07 (ddd, J = 7.0, 5.5, 3.5 Hz, 1H), 1.94 (dd, J = 9.5, 6.0 Hz,
+1H), 0.39 (s, 3H), 0.37 (s, 3H); 13C NMR (CDCl3, 100 MHz) δ
+200.8, 136.6, 135.8, 133.8, 129.7, 128.4, 128.0, 127.8, 125.9, 82.1, 81.0,
+74.6, 59.2, 58.1, 27.9, −3.9, −4.6; IR (ﬁlm) ν
+max 3068, 2878, 1719,
+1427, 1252, 1110 cm−1; HRMS (CI, NH3) m/z [M + H]+ calcd for
+C21H27O3Si 355.1729, found 355.1727.
+(±)-(2S,3R,4R,5S)-4-(Dimethyl(phenyl)silyl)-5-(methoxymethyl)-2-
+(p-tolyl)tetrahydrofuran-3-carbaldehyde (6g). Aldehyde 9g (32 μL,
+0.271 mmol) was used following the general procedure. Tetrahy-
+</para>
+Featured Article
+<para sub=“exp”>
+drofuran 6g was obtained as a colorless oil (42 mg, 84% yield): 1H
+NMR (CDCl3, 500 MHz) δ 9.01 (dd, J = 3.8, 0.7 Hz, 1H), 7.55−7.49
+(m, 2H), 7.42−7.33 (m, 3H), 7.15 (d, J = 8.0 Hz, 2H), 7.08 (d, J = 8.0
+Hz, 2H), 4.82 (d, J = 7.4 Hz, 1H), 4.16−4.09 (m, 1H), 3.42−3.37 (m,
+2H), 3.33 (s, 2H), 3.04 (dtd, J = 7.4, 3.8, 1.9 Hz, 1H), 2.28 (s, 3H),
+1.93 (ddd, J = 9.5, 5.9, 1.0 Hz, 1H), 0.38 (d, J = 10.5 Hz, 6H); 13C
+NMR (CDCl3, 125 MHz) δ 201.0, 137.4, 135.9, 133.9, 133.6, 129.7,
+129.1, 128.1, 125.9, 82.1, 81.0, 74.7, 59.3, 58.1, 28.0, 21.1, −4.0, −4.7;
+max 3047, 1715, 1515, 1455, 1252 cm−1; HRMS (CI, NH3)
+IR (ﬁlm) ν
+m/z [M + Na]+ calcd for C22H28NaO3Si 391.1705, found 391.1700.
+(±)-(2S,3R,4R,5S)-4-(Dimethyl(phenyl)silyl)-5-(methoxymethyl)-2-
+(2 methoxyphenyl)tetrahydrofuran-3-carbaldehyde (6h). Aldehyde
+9h (37 mg, 0.271 mmol) was used following the general procedure.
+Tetrahydrofuran 6h was obtained as a colorless oil (37 mg, 71% yield):
+1H NMR (CDCl3, 500 MHz) δ 9.00 (d, J = 3.5 Hz, 1H), 7.57−7.51
+(m, 2H), 7.49 (ddd, J = 7.7, 1.8, 0.9 Hz, 1H), 7.42−7.35 (m, 3H),
+7.23−7.14 (m, 1H), 6.94−6.85 (m, 1H), 6.79 (dd, J = 8.2, 1.0 Hz,
+1H), 5.03 (dd, J = 7.1, 0.9 Hz, 1H), 4.11 (ddd, J = 9.5, 5.7, 3.1 Hz,
+1H), 3.79 (s, 3H), 3.43−3.34 (m, 2H), 3.32 (s, 3H), 3.30−3.22 (m,
+2H), 1.86 (dd, J = 9.5, 5.9 Hz, 1H), 0.39 (d, J = 16.9 Hz, 6H); 13C
+NMR (CDCl3, 125 MHz) δ 201.1, 155.3, 136.2, 133.9, 129.6, 128.5,
+128.0, 126.4, 125.3, 120.5, 109.7, 80.5, 77.6, 74.9, 59.3, 55.7, 55.2, 27.9,
+−3.9, −4.7; IR (ﬁlm) ν
+max 2979, 2837, 1719, 1602, 1491, 1246 cm−1;
+HRMS (CI, NH3) m/z [M + Na]+ calcd for C22H28NaO4Si 407.1655,
+found 407.1661.
+(±)-(2S,3R,4R,5S)-2-(4-Bromophenyl)-4-(dimethyl(phenyl)silyl)-5-
+(methoxymethyl)tetrahydrofuran-3-carbaldehyde (6i). Aldehyde 9i
+(50 mg, 0.271 mmol) was used following the general procedure.
+Tetrahydrofuran 6i was obtained as a colorless oil (48 mg, 81% yield):
+1H NMR (CDCl3, 500 MHz) δ 8.98 (d, J = 3.9 Hz, 1H), 7.51 (dd, J =
+7.4, 1.9 Hz, 2H), 7.45−7.31 (m, 5H), 7.18−7.11 (m, 2H), 4.78 (d, J =
+7.4 Hz, 1H), 3.46−3.33 (m, 3H), 4.13 (ddd, J = 9.5, 5.9, 2.5 Hz, 1H),
+3.43−3.33 (m, 2H), 3.32 (s, 3H), 1.93 (dd, J = 9.5, 6.0 Hz, 1H), 0.38
+(d, J = 9.9 Hz, 6H); 13C NMR (CDCl3, 125 MHz) δ 200.5, 135.8,
+135.7, 133.8, 131.6, 129.8, 128.1, 127.9, 127.7, 121.7, 103.1, 81.4, 81.2,
+74.5, 59.3, 58.0, 28.1, −4.0, −4.7; IR (ﬁlm) ν
+max 2979, 2884, 1718,
+1488, 1399, 1253 cm−1. HRMS (CI, NH3) m/z [M + Na]+ calcd for
+C21H25BrNaO3Si 455.0654, found 455.0649.
+General Procedure for Silyl-Directed Mukaiyama-Type [3 +
+2]-Annulation of syn-5. Ethoxy allyl silane (±)-syn-5 (40 mg, 0.136
+mmol) and aldehyde 9 (0.271 mmol) were added into a round-bottom
+ﬂask followed by methylene chloride (0.45 mL). The mixture was
+cooled to 0 °C, and methansulfonic acid (9.0 μL, 0.136 mmol) was
+added in one portion. The reaction was allowed to stir for 10 min at 0
+°C before being quenched with satd NaHCO3 solution (1.0 mL).
+Upon warming to room temperature, the layers were separated and
+the aqueous phase was extracted with methylene chloride (3.0 mL).
+The combined organic layers were dried over magnesium sulfate,
+ﬁltered, and concentrated in vacuo to obtain a crude product.
+Puriﬁcation over silica gel with hexanes/ethyl acetate (20/1 to 10/1)
+aﬀorded a furan 10 as an oil:
+
+(±)-(2S, 3S, 4S, 5S)-2-Butyl-4-(dimethyl(phenyl)silyl)-5-
+(methoxymethyl)tetrahydrofuran-3-carbaldehyde (10b). Aldehyde
+9b (29 μL, 0.271 mmol) was used following the general procedure.
+Tetrahydrofuran 10b was obtained as a colorless oil (34 mg, 75%
+yield): 1H NMR (CDCl3, 500 MHz) δ 9.42 (d, J = 4.5, 1H), 7.48−
+7.35 (m, 2H), 7.35−7.30 (m, 3H), 4.43 (ddd, J = 8.0, 6.0, 3.5 Hz, 1H),
+4.21 (ddd, J = 9.0, 9.0, 4.5 Hz, 1H), 3.24 (dd, J = 10.0, 3.5 Hz, 1H),
+3.18−3.13 (m, 1H), 3.16 (s, 3H), 3.05 (ddd, J = 13.5, 9.0, 4.5 Hz, 1H),
+2.21 (dd, J = 9.0, 8.5 Hz, 1H), 1.57−1.49 (m, 1H), 1.45−1.40 (m,
+2H), 1.29−1.24 (m, 3H), 0.84 (t, J = 7.5 Hz, 3H), 0.34 (s, 3H), 0.39
+(s, 3H); 13C NMR (CDCl3, 125 MHz) δ 202.5, 137.3, 133.6, 129.3,
+127.9, 80.6, 80.5, 74.0, 58.6, 56.3, 31.4, 30.8, 28.7, 22.6, 13.8, −2.4,
+−3.1; IR (ﬁlm) ν
+max 3069, 2929, 1719, 1427, 1251, 1111 cm−1; HRMS
+(CI, NH3) m/z [M + Na]+ calcd for C19H30NaO3Si 357.1862, found
+357.1857.
+(±)-(2S,3S,4S,5S)-4-(Dimethyl(phenyl)silyl)-2-isopropyl-5-
+(methoxymethyl)tetrahydrofuran-3-carbaldehyde (10c). Aldehyde
+9c (25 μL, 0.271 mmol) was used following the general procedure.
+Tetrahydrofuran 10c was obtained as a colorless oil (32 mg, 74%
+</para>
+2966
+
+DOI: 10.1021/acs.joc.5b00051
+J. Org. Chem. 2015, 80, 2959−2971
+
+The Journal of Organic Chemistry
+
+Featured Article
+<para sub=“exp”>
+yield): 1H NMR (CDCl3, 500 MHz) δ 9.52 (dd, J = 5.0, 0.6 Hz, 1H),
+7.52−7.42 (m, 2H), 7.38−7.31 (m, 3H), 4.46 (ddd, J = 8.3, 6.3, 3.7
+Hz, 1H), 3.73 (dd, J = 9.1, 7.2 Hz, 1H), 3.26 (dd, J = 10.3, 3.7 Hz,
+1H), 1.89−1.77 (m, 1H), 3.22−3.18 (m, 1H), 3.18 (s, 3H), 2.97 (td, J
+= 7.0, 5.0 Hz, 1H), 2.14 (dd, J = 8.4, 6.9 Hz, 1H), 1.91−1.74 (m, 1H),
+0.97 (d, J = 6.5 Hz, 3H), 0.87 (d, J = 6.6 Hz, 3H), 0.36 (s, 3H), 0.29
+(s, 3H); 13C NMR (CDCl3, 125 MHz) δ 201.7, 137.5, 133.6, 129.4,
+127.9, 86.1, 80.6, 73.9, 58.7, 56.0, 31.0, 29.2, 20.3, 19.3, −2.2, −3.0; IR
+max 2958, 2890, 1718, 1470, 1389, 1252 cm−1; HRMS (CI,
+(ﬁlm) ν
+NH3) m/z [M + Na]+ calcd for C18H28NaO3Si 343.1705,
+found
+343.1704.
+
+(±)-(2S,3S,4S,5S)-2-Cyclopropyl-4-(dimethyl(phenyl)silyl)-5-
+(methoxymethyl)tetrahydrofuran-3-carbaldehyde (10d). Aldehyde
+9d (20 μL, 0.271 mmol) was used following the general procedure.
+Tetrahydrofuran 10d was obtained as a colorless oil (42 mg, 96%
+yield): 1H NMR (CDCl3, 500 MHz) δ 9.57 (d, J = 4.4 Hz, 1H), 7.50−
+7.46 (m, 2H), 7.37−7.31 (m, 3H), 4.43 (ddd, J = 7.8, 5.3, 3.5 Hz, 1H),
+3.59 (t, J = 8.9 Hz, 1H), 3.25−3.18 (m, 2H), 3.12 (s, 3H), 2.36−2.31
+(m, 1H), 0.88 (dddd, J = 12.5, 10.7, 6.1, 2.9 Hz, 1H), 0.66−0.56 (m,
+1H), 0.48−0.36 (m, 2H), 0.34 (s, 3H), 0.30 (s, 3H), 0.22−0.13 (m,
+1H); 13C NMR (CDCl3, 125 MHz) δ 202.1, 137.3, 133.7, 129.4,
+127.9, 85.1, 81.2, 74.5, 58.6, 56.8, 31.1, 12.4, 4.9, 2.1, −2.5, −3.2; IR
+max 2980, 2828, 1772, 1394, 1251 cm−1; HRMS (CI, NH3) m/z
+(ﬁlm) ν
+[M + Na]+ calcd for C18H26NaO3Si 341.1549, found 341.1548.
+(±)-(2S,3S,4S,5S)-2-Cyclohexyl-4-(dimethyl(phenyl)silyl)-5-
+(methoxymethyl)tetrahydrofuran-3-carbaldehyde (10e). Aldehyde
+9e (33 μL, 0.271 mmol) was used following the general procedure.
+Tetrahydrofuran 10e was obtained as a colorless oil (42 mg, 86%
+yield): 1H NMR (CDCl3, 500 MHz) δ 9.52 (dt, J = 5.0, 0.9 Hz, 1H),
+7.52−7.43 (m, 2H), 7.37−7.30 (m, 3H), 4.45 (ddd, J = 8.8, 6.4, 3.7
+Hz, 1H), 3.77 (dd, J = 8.9, 7.1 Hz, 1H), 3.27−3.22 (m, 1H), 3.21−
+3.17 (m, 1H), 3.17 (s, 3H), 2.96 (td, J = 6.9, 5.0 Hz, 1H), 2.11 (ddd, J
+= 7.6, 6.5, 1.0 Hz, 1H), 1.95−1.88 (m, 1H), 1.71−1.57 (m, 5H), 1.22−
+1.07 (m, 4H), 0.35 (s, 3H), 0.29 (s, 3H); 13C NMR (CDCl3, 125
+MHz) δ 201.7, 137.5, 133.6, 129.4, 128.0, 85.1, 80.4, 73.8, 58.7, 55.8,
+38.7, 30.8, 30.5, 29.6, 26.2, 25.7, 25.5, −2.1, −3.0; IR (ﬁlm) ν
+max 2924,
+2852, 1718, 1450, 1251, 1110 cm−1; HRMS (CI, NH3) m/z [M +
+Na]+ calcd for C21H32NaO3Si 383.2018, found: 383.2042.
+(±)-(2R,3S,4S,5S)-4-(Dimethyl(phenyl)silyl)-5-(methoxymethyl)-2-
+phenyltetrahydrofuran-3-carbaldehyde (10f). Aldehyde 9f (28 μL,
+0.271 mmol) was used following the general procedure. Tetrahy-
+drofuran 10f was obtained as a colorless oil (40 mg, 83% yield): 1H
+NMR (CDCl3, 500 MHz) δ 8.65 (d, J = 4.5, 1H), 7.51−7.48 (m, 2H),
+7.36−7.33 (m, 3H), 7.30−7.27 (m, 2H), 7.25−7.19 (m, 3H), 5.40 (d, J
+= 9.0 Hz, 1H), 4.68 (ddd, J = 8.0, 5.0, 3.5 Hz, 1H), 3.40 (ddd, J = 11.0,
+9.0, 4.5 Hz, 1H), 3.35 (dd, J = 10.0, 3.5 Hz, 1H), 3.25 (dd, J = 10.0, 5.0
+Hz, 1H), 3.19 (s, 3H), 2.34 (dd, J = 10.5, 8.0 Hz, 1H), 0.37 (s, 3H),
+0.31 (s, 3H); 13C NMR (CDCl3, 100 MHz) δ 202.0, 138.1, 137.0,
+133.7, 133.6, 129.4, 129.0, 128.4, 127.9, 127.8, 127.7, 126.1, 82.2, 81.5,
+74.4, 58.6, 57.8, 30.7, −2.4, −3.2; IR (ﬁlm) ν
+max 2923, 1719, 1427,
+1251, 1111 cm−1; HRMS (CI, NH3) m/z [M + Na]+ calcd for
+C21H26NaO3Si 377.1549, found 377.1555.
+(±)-(2R,3S,4S,5S)-4-(Dimethyl(phenyl)silyl)-5-(methoxymethyl)-2-
+(p-tolyl)tetrahydrofuran-3-carbaldehyde (10g). Aldehyde 9g (32 μL,
+0.271 mmol) was used following the general procedure. Tetrahy-
+drofuran 10g was obtained as a colorless oil (42 mg, 84% yield): 1H
+NMR (CDCl3, 500 MHz) δ 8.66 (d, J = 4.6 Hz, 1H), 7.54−7.48 (m,
+2H), 7.37−7.32 (m, 3H), 7.13 (d, J = 8.1 Hz, 2H), 7.09 (d, J = 7.7 Hz,
+2H), 5.38 (d, J = 9.0 Hz, 1H), 4.68 (ddd, J = 8.1, 5.4, 3.6 Hz, 1H),
+3.42−3.33 (m, 2H), 3.25 (dd, J = 10.1, 5.3 Hz, 1H), 3.20 (s, 3H), 2.35
+(dd, J = 10.8, 7.9 Hz, 1H), 2.29 (s, 3H), 0.37 (s, 3H), 0.31 (s, 3H); 13C
+NMR (CDCl3, 125 MHz) δ 202.2, 137.4, 137.1, 135.1, 133.7, 129.4,
+129.1, 128.0, 126.0, 82.1, 81.5, 74.5, 58.7, 57.8, 30.7, 21.1, −2.4, −3.2;
+max 2980, 2829, 1718, 1427, 1251, 1111 cm−1; HRMS (CI,
+IR (ﬁlm) ν
+NH3) m/z [M + Na]+ calcd for C22H28NaO3Si 391.1705,
+found
+391.1694.
+
+(±)-(2R,3S,4S,5S)-4-(Dimethyl(phenyl)silyl)-5-(methoxymethyl)-2-
+(2-methoxyphenyl)tetrahydrofuran-3-carbaldehyde (10h). Alde-
+hyde 9h (37 mg, 0.271 mmol) was used following the general
+procedure. Tetrahydrofuran 10h was obtained as a colorless oil (40
+
+mg, 76% yield): 1H NMR (CDCl3, 500 MHz) δ 8.74 (d, J = 4.7 Hz,
+1H), 7.54 (dd, J = 4.8, 2.5 Hz, 2H), 7.50 (dd, J = 7.7, 1.9 Hz, 1H), 7.38
+(s, 3H), 7.24 (td, J = 7.8, 1.9 Hz, 1H), 6.97 (t, J = 7.4 Hz, 1H), 6.80 (d,
+J = 8.2 Hz, 1H), 5.62 (dd, J = 8.6, 2.4 Hz, 1H), 4.74−4.59 (m, 1H),
+3.79 (s, 3H), 3.50−3.42 (m, 1H), 3.36 (dd, J = 10.2, 3.5 Hz, 1H), 3.29
+(ddd, J = 10.2, 6.1, 2.0 Hz, 1H), 3.24 (s, 3H), 2.28−2.19 (m, 1H), 0.41
+(s, 3H), 0.33 (s, 3H); 13C NMR (CDCl3, 125 MHz) δ 201.6, 155.0,
+137.2, 133.7, 129.3, 128.5, 127.9, 126.7, 126.6, 120.5, 109.6, 81.6, 76.4,
+74.1, 58.8, 56.2, 55.0, 30.5, −2.3, −3.1; IR (ﬁlm) ν
+max 2980, 2835,
+1720, 1600, 1589, 1284 cm−1; HRMS (CI, NH3) m/z [M + Na]+ calcd
+for C22H28NaO4Si 407.1655, found 407.1670.
+(±)-(2R,3S,4S,5S)-2-(4-Bromophenyl)-4-(dimethyl(phenyl)silyl)-5-
+(methoxymethyl)tetrahydrofuran-3-carbaldehyde (10i). Aldehyde
+9i (50 mg, 0.271 mmol) was used following the general procedure.
+Tetrahydrofuran 10i was obtained as a colorless oil (42 mg, 70%
+yield): 1H NMR (CDCl3, 500 MHz) δ 8.65 (d, J = 4.7 Hz, 1H), 7.52−
+7.45 (m, 2H), 7.44−7.39 (m, 2H), 7.35 (dd, J = 5.0, 2.1 Hz, 3H),
+7.15−7.10 (m, 2H), 5.35 (d, J = 9.0 Hz, 1H), 4.66 (ddd, J = 8.3, 5.1,
+3.4 Hz, 1H), 3.37−3.33 (m, 1H), 3.40 (ddd, J = 10.8, 9.0, 4.7 Hz, 1H),
+3.35 (dd, J = 10.2, 3.4 Hz, 1H), 3.24 (dd, J = 10.2, 5.2 Hz, 1H), 3.19
+(s, 2H), 2.29 (dd, J = 10.8, 7.9 Hz, 1H), 0.37 (s, 3H), 0.31 (s, 3H); 13C
+NMR (CDCl3, 125 MHz) δ 201.6, 137.3, 136.8, 133.7, 131.6, 129.5,
+128.0, 127.9, 121.6, 82.3, 81.0, 74.5, 65.8, 58.7, 57.8, 30.9, 15.2, −2.5,
+−3.3; IR (ﬁlm) ν
+max 2980, 2831, 1718, 1507, 1395, 1251 cm−1. HRMS
+(CI, NH3) m/z [M + Na]+ calcd for C21H25BrNaO3Si 455.0654, found
+455.0679.
+
+First-Generation Approach toward the Total Synthesis of
+(+)-Isatisine A.
+(2R,3R,4R,5S)-2-(2-Bromostyryl)-4-(dimethyl-
+(phenyl)silyl)-5-(methoxymethyl)tetrahydrofuran-3-carbaldehyde
+(6a). Ethoxy allyl silane anti-5 (1.3 g, 4.41 mmol) and aldehyde 9a
+(1.86 g, 8.82 mmol) were dissolved with methylene chloride (15 mL)
+in a round-bottom ﬂask. The mixture was cooled to 0 °C, and PTSA
+monohydrate (0.83 g, 4.41 mmol) was added in one portion. The
+solution was allowed to stir for 10 min at 0 °C before addition of satd
+NaHCO3 solution (10 mL). The mixture was diluted with methylene
+chloride (10 mL), and the resulting layers were separated. The organic
+layer was dried over magnesium sulfate, ﬁltered, and concentrated in
+vacuo to obtain an oil. Puriﬁcation over silica gel with hexanes/ethyl
+acetate (20/1 to 10/1) provided product tetrahydrofuran 6a as a
+20 = −3.6 (c 1.5, CHCl3); 1H
+colorless oil (1.76 g, 87% yield): [α]D
+NMR (CDCl3, 500 MHz) δ 9.53 (d, J = 3.5 Hz, 1H), 7.50−7.48 (m,
+3H), 7.40−7.35 (m, 4H), 7.29 (dt, J = 7.5, 1.0 Hz, 1H), 7.07 (dt, J =
+8.0, 2.0 Hz, 1H), 6.97 (d, J = 16.0 Hz, 1H), 6.09 (dd, J = 16.0, 7.0 Hz,
+1H) 4.49 (td, J = 7.5, 1.0 Hz, 1H), 4.07 (ddd, J = 8.5, 6.5, 2.5 Hz, 1H),
+3.34 (dd, J = 10.5, 2.5, 1H), 3.299 (s, 3H), 3.297 (dd, J = 11.0, 2.0 Hz,
+1H), 3.01 (ddd, J = 10.5, 7.0, 3.5 Hz, 1H), 1.92 (dd, J = 9.5, 7.0 Hz,
+1H), 0.38 (s, 3H), 0.36 (s, 3H); 13C NMR (CDCl3, 75 MHz) δ 200.7,
+136.0, 135.8, 133.7, 132.8, 131.7, 129.7, 129.1, 128.0, 127.8, 127.4,
+127.2, 123.6, 81.3, 81.2, 74.6, 59.2, 58.2, 28.0, −3.9, −4.6; IR (ﬁlm)
+max 2881, 2729, 1719, 1466, 1428, 1254 cm−1; HRMS (CI, NH3) m/z
+ν
+[M + Na]+ calcd for C23H27BrNaO3Si 481.0811, found 481.0790.
+
+−NaH2PO4
+
+(2R,3R,4R,5S)-2-((E)-2-Bromostyryl)-4-(dimethyl(phenyl)silyl)-5-
+(methoxymethyl)tetrahydrofuran-3-carboxamide (13). The alde-
+hyde 6a (586 mg, 2.07 mmol) was dissolved in tert-butyl alcohol (12.8
+mL). The mixture was cooled to 0 °C, and 2-methylbutane (6.7 mL,
+63.8 mmol) was added quickly into the reaction followed by slow
+−H2O (2g-2g-20 mL)
+addition of freshly prepared NaClO2
+solution (12.8 mL). The yellow reaction mixture was stirred at rt for 3
+h before being concentrated under reduced pressure. The residue was
+diluted with ethyl acetate and water (ca. 10.0 mL each). The aqueous
+layer was acidiﬁed with 1 N HCl until pH = 5.0 and extracted with
+diethyl ether (3 × 10.0 mL). The combined organic layers were dried
+over anhydrous MgSO4 and concentrated under reduced pressure to
+give a crude acid as a colorless oil. The crude acid was used for the
+next amidation step without puriﬁcation: 1H NMR (CDCl3, 500
+MHz) δ 7.53−7.43 (m, 3H), 7.43−7.32 (m, 4H), 7.19−7.13 (m, 1H),
+7.04 (td, J = 7.7, 1.7 Hz, 1H), 6.89 (d, J = 15.7 Hz, 1H), 6.06 (dd, J =
+15.7, 7.4 Hz, 1H), 4.40 (td, J = 7.3, 1.1 Hz, 1H), 4.06 (ddd, J = 9.4, 4.8,
+2.2 Hz, 1H), 3.49−3.42 (m, 1H), 3.33 (d, J = 0.7 Hz, 3H), 3.29−3.21
+</para>
+2967
+
+DOI: 10.1021/acs.joc.5b00051
+J. Org. Chem. 2015, 80, 2959−2971
+
+The Journal of Organic Chemistry
+
+Featured Article
+<para sub=“exp”>
+(m, 1H), 3.16 (t, J = 7.1 Hz, 1H), 1.97 (dd, J = 9.4, 6.9 Hz, 1H), 0.39
+(s, 3H), 0.36 (s, 3H).
+
+an atmosphere of Ar, and In(OTf)3 (0.8 g, 1.58 mmol) was added to
+the solution. After 10 min, indole (232 mg, 0396 mmol) was added to
+the reaction mixture, which was warmed to rt and stirred for 24 h
+before addition of satd NaHCO3 (5 mL). Ethyl acetate (10 mL) was
+added, the resulting layers were then separated, and the organic layer
+was dried over anhydrous magnesium sulfate. After ﬁltration, the
+organic layer was concentrated in vacuo. The resultant residue was
+puriﬁed over silica gel with hexanes/ethyl acetate (2/1) to give 11 as a
+20 = −23.0 (c 1.0, CHCl3); 1H
+ﬁne yellow solid (167 mg, 70%): [α]D
+NMR (CDCl3, 400 MHz) δ 8.26 (s, 1H), 7.68−7.55 (m, 2H), 7.51−
+7.42 (m, 2H), 7.41−7.25 (m, 6H), 7.22−7.14 (m, 2H), 7.11 (t, J = 2.4
+Hz, 1H), 7.04 (ddd, J = 8.3, 7.0, 1.1 Hz, 1H), 6.55 (s, 1H), 4.80 (dd, J
+= 4.7, 1.6 Hz, 1H), 4.21 (td, J = 6.7, 3.5 Hz, 1H), 3.25 (s, 3H), 3.24−
+3.12 (m, 2H), 2.80 (dd, J = 4.9, 2.8 Hz, 1H), 1.88 (dd, J = 7.1, 2.9 Hz,
+1H), 0.31 (d, J = 10.8 Hz, 6H); 13C NMR (CDCl3, 125 MHz) δ 199.8,
+177.7, 140.3, 136.9, 135.9, 133.9, 132.9, 131.0, 129.6, 128.6, 128.0,
+127.0, 124.7, 123.3, 122.4, 120.7, 120.2, 118.8, 113.6, 111.5, 85.9, 82.3,
+75.5, 72.6, 59.0, 49.1, 29.7, −4.3, −4.8; IR (ﬁlm) ν
+max 3287, 2925,
+1699, 1427, 1251 cm−1; HRMS (CI, NH3) m/z [M + Na]+ calcd for
+C31H31BrN2NaO4Si 625.1134, found 625.1124.
+(2S,3R,3aR,10aR,10bS)-3-(Dimethyl(phenyl)silyl)-10a-(1H-indol-
+3-yl)-2-(methoxymethyl)-3,3a-dihydro-2H-furo[2′,3′:3,4]pyrrolo-
+[1,2-a]indole-4,10(10aH,10bH)-dione (15). A solution of 11 (220 mg,
+0.364 mmol) in anhydrous toluene (7.0 mL) was added into a sealed
+tube under an atmosphere of Ar. CuI (35 mg, 0.182 mmol), potassium
+carbonate (150 mg, 1.09 mmol), and N,N-dimethylenediamine (39 μL,
+0.364 mmol) were successively added under Ar atmosphere. Then the
+mixture was warmed to 110 °C and stirred for 12 h. The purple
+reaction mixture was cooled to rt and ﬁltered through a short pad of
+silica gel with ethyl acetate (20 mL). The ﬁltrate was concentrated
+under reduced pressure to give a yellowish solid. Puriﬁcation over silica
+gel with hexanes/ethyl acetate (2/1) aﬀorded 15 as a light yellow solid
+(150 mg, 80%): mp 232−234 °C; [α]D
+20 = +174.2 (c 1.0, CHCl3); 1H
+NMR (CDCl3, 500 MHz): δ 8.15 (s, 1H), 8.00 (ddt, J = 17.8, 8.1, 0.7
+Hz, 2H), 7.68−7.58 (m, 2H), 7.45 (dd, J = 7.9, 1.5 Hz, 2H), 7.35−
+7.25 (m, 4H), 7.22−7.13 (m, 4H), 4.76 (dd, J = 4.0, 0.4 Hz, 1H),
+4.17−4.09 (m, 1H), 3.25 (dd, J = 4.0, 2.3 Hz, 1H), 3.05 (dd, J = 10.8,
+3.3 Hz, 1H), 2.96 (dd, J = 10.9, 5.1 Hz, 1H), 2.85 (s, 3H), 2.06−2.01
+(m, 1H), 0.28 (d, J = 12.6 Hz, 6H); 13C NMR (CDCl3, 125 MHz) δ
+195.6, 176.1, 151.0, 137.0, 136.4, 135.8, 133.8, 129.7, 128.0, 125.4,
+125.3, 125.0, 124.5, 122.8, 122.2, 120.9, 120.5, 116.4, 111.5, 111.3,
+83.6, 82.6, 75.6, 74.9, 59.0, 54.3, 30.0, −4.4, −4.7; IR (ﬁlm) ν
+max 3352,
+2925, 1710, 1601, 1465, 1341, 1250 cm−1; HRMS (CI, NH3) m/z [M
++ H]+ calcd for C31H31N2O4Si 523.2053, found 523.2050.
+
+Second-Generation Approach toward the Total Synthesis of
+(+)-Iatisine A. (2R, 5R)-Methyl 2-(2-bromostyryl)-5-(methoxymeth-
+yl)-2,5-dihydrofuran-3-carboxylate (18). To a solution of tetrahy-
+drofuran 6a (0.86 g, 1.87 mmol) in THF (18 mL) was added
+phenyltrimethyl tribromide (1.0 g, 2.8 mmol) at rt. The solution was
+allowed to stir for 12 h at rt before being cooled to 0 °C. TBAF (1 M
+in THF, 1.87 mL, 1.87 mmol) was added dropwise, and the reaction
+mixture was stirred for 10 min at 0 °C. Ethyl acetate (50 mL) and
+water (10 mL) were added, and the layers were separated. The organic
+layer was washed with H2O (3 × 10 mL), dried over magnesium
+sulfate, ﬁltered, and concentrated in vacuo (temperature of water bath
+must keep below 30 °C) to obtain an unsaturated aldehyde as a
+yellowish oil. Since this intermediate aldehyde was unstable under
+acidic conditions, it was directly used for the next reaction without
+puriﬁcation: 1H NMR (CDCl3, 500 MHz) δ 9.82 (s, 1H), 7.60−7.40
+(m, 2H), 7.29−7.17 (m, 1H), 7.14−7.02 (m, 2H), 6.89 (td, J = 2.0, 0.8
+Hz, 1H), 6.29 (ddd, J = 15.8, 5.7, 0.8 Hz, 1H), 5.65 (dq, J = 3.8, 1.8
+Hz, 1H), 5.16 (ddt, J = 3.9, 2.0, 0.9 Hz, 1H), 3.69 (ddd, J = 10.0, 5.1,
+0.9 Hz, 1H), 3.59 (ddd, J = 9.9, 5.3, 0.8 Hz, 1H), 3.43 (s, 3H).
+
+To a solution of the unsaturated aldehyde (1.87 mmol, based on
+6a) and NaCN (458 mg, 9.35 mmol) in MeOH (37 mL) was added
+MnO2 (dried at 150 °C for 12 h, 4 g, 46.7 mmol) in one portion at 0
+°C. The reaction mixture was warmed to rt over a period of 1 h and
+stirred for an additional 3 h at rt. The mixture was then ﬁltered
+through a pad of Celite, and MeOH was removed under reduced
+pressure to give a yellow residue. Ethyl acetate (50 mL) and water (10
+</para>
+2968
+
+DOI: 10.1021/acs.joc.5b00051
+J. Org. Chem. 2015, 80, 2959−2971
+<para sub=“exp”>
+A mixture of the crude acid and TEA (0.38 mL, 1.92 mmol) in
+methylene chloride (60 mL) was treated with ethyl chloroformate
+(0.18 mL, 1.92 mmol) at −30 °C. After 30 min, anhydrous NH3 gas
+was bubbled through the reaction mixture at the same temperature for
+10 min. Then the reaction was warmed to rt, diluted with ethyl acetate
+(10.0 mL), and washed with H2O (5.0 mL). The organic layer was
+dried over anhydrous magnesium sulfate and concentrated under
+reduced pressure to give a yellowish oil. Puriﬁcation over silica gel with
+CH2Cl2/MeOH (50/1) aﬀorded amide 13 as a viscous oil (586 mg,
+20 = +1.3 (c 1.5, CHCl3); 1H NMR (CDCl3, 500 MHz) δ
+96%): [α]D
+7.53−7.49 (m, 2H), 7.48−7.42 (m, 2H), 7.40−7.33 (m, 3H), 7.18 (tt,
+J = 7.9, 1.8 Hz, 1H), 7.06−7.01 (m, 1H), 6.90 (dt, J = 16.0, 1.6 Hz,
+1H), 6.78 (s, 1H), 6.12 (ddd, J = 15.7, 7.2, 1.9 Hz, 1H), 5.40 (s, 1H),
+4.18 (ddt, J = 8.4, 6.6, 1.6 Hz, 1H), 4.12−4.05 (m, 1H), 4.01 (ddd, J =
+9.1, 3.4, 2.1 Hz, 1H), 3.59 (dd, J = 10.7, 2.2 Hz, 1H), 3.32 (s, 3H),
+3.05 (dd, J = 10.7, 3.1 Hz, 1H), 2.95−2.89 (m, 1H), 2.07−2.00 (m,
+1H), 0.41 (s, 3H), 0.38 (s, 3H); 13C NMR (CDCl3, 125 MHz) δ
+175.7, 136.4, 135.9, 133.9, 132.6, 132.2, 129.7, 129.0, 128.1, 127.8,
+127.7, 127.4, 123.5, 81.8, 80.2, 73.1, 59.2, 30.8, 14.5, −4.1, −5.2; IR
+max 3340, 3188, 2922, 1671, 1467, 1428, 1255 cm−1; HRMS
+(ﬁlm) ν
+(CI, NH3) m/z [M + Na]+ calcd for C23H28BrNNaO3Si 496.0920,
+found 496.0943.
+
+(2S,3R,3aR,6aS)-6-(2-Bromobenzoyl)-3-(dimethyl(phenyl)silyl)-6-
+hydroxy-2-(methoxymethyl)tetrahydro-2H-furo[2,3-c]pyrrol-4(5H)-
+one (12). Amide 13 (560 mg, 1.18 mmol) was dissolved in a 9:1
+mixture (12 mL) of acetone and H2O at rt. NMO (193 mg, 1.65
+mmol) was added to the solution, which was stirred for 5 min at rt.
+OsO4 (4 wt % solution in H2O, 0.3 mL, 0.0340 mmol) was then
+added, and the reaction mixture was stirred for 14 h at rt. Aqueous satd
+Na2S2O3 (12 mL) was added, and the mixture was stirred for
+additional 10 min at rt. Ethyl acetate (20 mL) was added, and the
+resulting layers were separated. The aqueous layer was extracted with
+ethyl acetate (2 × 20 mL). The combined organic layers were dried
+over magnesium sulfate, ﬁltered, and concentrated in vacuo to obtain a
+brown oil. Puriﬁcation over silica gel with hexanes/ethyl acetate (1/1)
+aﬀorded diol 14 (2:1 mixture of diastereomers) as a viscous oil (440
+mg, 73%): 1H NMR (CDCl3, 500 MHz) δ 7.55 (s, 1H) 7.52 (dd, J =
+7.9, 1.7 Hz, 1H), 7.50−7.45 (m, 3H), 7.40−7.34 (m, 3H), 7.30- 7.25
+(m, 1H), 7.11−7.06 (m, 1H), 5.40 (s, 1H), 5.22 (s, 1H), 3.97 (dt, J =
+8.3, 2.1 Hz, 1H), 3.86 (dd, J = 9.3, 5.7 Hz, 1H), 3.80 (dd, J = 9.2, 1.9
+Hz, 1H), 3.53 (dd, J = 10.9, 1.8 Hz, 1H), 3.29 (s, 3H), 3.01 (dd, J =
+5.7, 3.0 Hz, 1H), 2.96 (dd, J = 11.0, 2.4 Hz, 1H), 1.94 (dd, J = 8.3, 3.1
+Hz, 1H), 0.37 (d, J = 5.9 Hz, 6H).
+
+The diol 14 (440 mg, 0.865 mmol) was dissolved in methylene
+chloride (8.0 mL), and NaBr (267 mg, 2.60 mmol) and TEMPO (68
+mg, 0.433 mmol) were added. A premixed solution of NaOCl (5% in
+H2O, 17 mL) and NaHCO3 (272 mg) was added at rt, and the
+resulting brown mixture was stirred until it turned light yellow (∼30
+min). Methylene chloride (20 mL) and water (5 mL) were added, and
+the layers were separated. The organic layer was dried over magnesium
+sulfate, ﬁltered, and concentrated in vacuo to obtain a yellowish solid.
+Puriﬁcation over silica gel with hexanes/ethyl acetate (2/1) aﬀorded
+hydroxyl lactam 12 as a white solid (260 mg, 64%): [α]D
+20 = +29.6 (c
+1.05, CHCl3); 1H NMR (CDCl3, 500 MHz) δ 7.60−7.54 (m, 2H),
+7.52−7.48 (m, 2H), 7.39−7.31 (m, 5H), 7.28 (td, J = 7.8, 1.8 Hz, 1H),
+6.52 (s, 1H), 5.62 (s, 1H), 4.71 (d, J = 7.6 Hz, 1H), 4.21 (ddd, J = 8.3,
+4.2, 2.7 Hz, 1H), 3.40 (dd, J = 10.5, 2.8 Hz, 1H), 3.22 (s, 3H), 3.10 (t,
+J = 7.6 Hz, 1H), 2.90 (dd, J = 10.5, 4.3 Hz, 1H), 1.96 (dd, J = 8.4, 7.6
+Hz, 1H), 0.44 (d, J = 4.4 Hz, 6H); 13C NMR (CDCl3, 125 MHz) δ
+200.0, 175.2, 138.2, 135.7, 133.9, 133.3, 131.6, 129.8, 128.9, 128.1,
+126.9, 119.5, 88.8, 84.5, 80.5, 73.1, 58.9, 49.4, 30.8, −3.6, −5.5; IR
+max 3247, 3069, 2923, 1705, 1427, 1281 cm−1; HRMS (CI,
+(ﬁlm) ν
+NH3) m/z [M + Na]+ calcd for C23H26BrNNaO5Si 526.0661, found
+526.0663.
+
+(2S,3R,3aR,6R,6aS)-6-(2-Bromobenzoyl)-3-(dimethyl(phenyl)-
+silyl)-6-(1H-indol-3-yl)-2-(methoxymethyl)tetrahydro-2H-furo[2,3-
+c]pyrrol-4(5H)-one (11). A solution of hydroxyl lactam 12 (200 mg,
+0.396 mmol) in anhydrous MeCN (4.0 mL) was cooled to 0 °C under
+</para>
+The Journal of Organic Chemistry
+
+Featured Article
+<para sub=“exp”>
+mL) were added, and the layers were separated. The organic layer was
+washed with H2O (3 × 10 mL), dried over magnesium sulfate, ﬁltered,
+and concentrated in vacuo to obtain an oil. Puriﬁcation over silica gel
+with hexanes/ethyl acetate (10/1) aﬀorded unsaturated methyl ester
+18 as an colorless oil (376 mg, 57%, two steps): [α]D
+20 = +700 (c 1.0,
+CHCl3); 1H NMR (CDCl3, 500 MHz) δ 7.50 (td, J = 7.0, 1.5 Hz, 2H),
+7.24−7.21 (m, 1H), 7.08−7.04 (m, 2H), 6.08 (t, J = 2.0 Hz, 1H), 6.25
+(dd, J = 16.0, 6.5 Hz, 1H), 5.60−5.57 (m, 1H), 5.09−5.06 (m, 1H),
+3.74 (s, 3H), 3.60 (dd, J = 10.0, 5.5 Hz, 1H), 3.54 (dd, J = 10.0, 4.5
+Hz, 1H), 3.40 (s, 3H); 13C NMR (CDCl3, 125 MHz) δ 162.5, 138.8,
+136.5, 135.4, 132.7, 131.4, 130.1, 128.7, 127.2, 127.1, 123.7, 84.9, 84.9,
+max 2882, 1720, 1465, 1436, 1260 cm−1;
+74.8, 59.3, 51.7; IR (ﬁlm) ν
+HRMS (CI, NH3) m/z [M + Na]+ calcd for C16H17BrNaO4 375.0208,
+found 375.0193.
+
+To a solution of a crude diol (135 mg, 0.302 mmol) and 2,2-
+dimethoxypropane (0.37 mL, 3.02 mmol) in acetone (3.0 mL) was
+added PTSA monohydrate (29 mg, 0.151 mmol). The reaction
+mixture was stirred for 1 h under reﬂux conditions. After the reaction
+mixture was cooled to rt, ethyl acetate (10 mL) and H2O (5 mL) were
+added and the layers separated. The organic layer was dried over
+anhydrous magnesium sulfate, ﬁltered, and concentrated under
+reduced pressure to obtain an oil. The resultant residue was puriﬁed
+over silica gel with hexanes/ethyl acetate (5/1) to give dioxolane 22 as
+a colorless oil (110 mg, 67%, three steps): 1H NMR (CDCl3, 500
+MHz, major isomer): δ 7.63 (dd, J = 8.0, 1.0 Hz, 1H), 7.41−7.35 (m,
+2H), 7.29−7.26 (m, 1H), 5.92 (d, J = 6.0 Hz, 1H), 4.93 (d, J = 3.0 Hz,
+1H), 4.91 (dd, J = 7.5, 5.5 Hz, 1H), 4.30 (d, J = 7.5 Hz, 1H), 4.23 (td,
+J = 5.0, 3.5 Hz, 1H), 3.82 (s, 3H), 3.41 (dd, J = 5.0, 2.0 Hz, 2H), 3.14
+(s, 3H), 1.61 (s, 3H), 1.37 (s, 3H); 1H NMR (CDCl3, 500 MHz,
+minor isomer): δ 7.62 (dd, J = 8.0, 1.0 Hz, 1H), 7.43−7.38 (m, 2H),
+7.30−7.27 (m, 1H), 5.88 (d, J = 4.0 Hz, 1H), 4.96 (d, J = 3.0 Hz, 1H),
+(dd, J = 3.5, 1.0 Hz, 1H), 4.52 (d, J = 1.5 Hz, 1H), 4.35 (td, J = 6.5, 3.5
+Hz, 1H), 3.83 (s, 3H), 3.65 (dd, J = 6.5, 2.0 Hz, 2H), 3.45 (s, 3H),
+1.60 (s, 3H), 1.35 (s. 3H); 13C NMR (CDCl3, 100 MHz) δ 170.1,
+169.8, 153.7, 153.4, 135.8, 134.8, 133.8, 133.4, 131.1, 130.8, 129.2,
+128.2, 128.1, 126.7, 122.7, 120.6, 116.6, 116.5, 91.1, 89.4, 86.9, 86.8,
+85.2, 84.5, 83.3, 79.7, 79.1, 78.9, 78.3, 71.9, 65.8, 60.3, 59.5, 59.0, 53.2,
+53.1, 27.5, 27.4, 25.6, 26.5; IR (ﬁlm) ν
+max 2934, 1816, 1745, 1440,
+1239 cm−1; HRMS (CI, NH3) m/z [M + H]+ calcd for C20H24BrO9
+487.0604, found 487.0607.
+
+(3aS,4S,6S,6aS)-4-(2-(2-Bromophenyl)-2-oxoacetyl)-6-(methoxy-
+methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxole-3a-carboxa-
+mide (19). To a solution of carbonate 22 (110 mg, 0.226 mmol) in
+MeOH (6 mL) was added potassium carbonate (47 mg, 0.339 mmol)
+at rt, and the reaction mixture was stirred for 12 h before addition of 1
+N HCl (5 mL) and chloroform (20 mL). The layers were separated,
+and the aqueous layer was extracted with chloroform (2 × 50 mL).
+The combined organic layers were dried over anhydrous magnesium
+sulfate, ﬁltered, and stored on a bench as a solution in chloroform for 2
+h at rt to induce lactonization (screened by TLC). Then the organic
+layer was concentrated under reduced pressure to give crude 24 as a
+colorless oil, which was directly used for the next reaction without
+puriﬁcation: 1H NMR (CDCl3, 500 MHz) δ 7.59 (dd, J = 7.8, 1.7 Hz,
+1H), 7.53 (dd, J = 8.0, 1.2 Hz, 1H), 7.33−7.38 (m, 1H), 7.21−7.16
+(m, 1H), 5.31−5.25 (m, 1H), 4.77 (dd, J = 10.0, 5.5 Hz, 1H), 4.63 (t, J
+= 1.7 Hz, 1H), 4.39−4.34 (m, 1H), 3.72 (dd, J = 10.5, 3.0 Hz, 1H),
+3.55 (dd, J = 10.0, 2.5 Hz, 1H), 3.46 (dd, J = 3.6, 3.0 Hz, 2H), 3.29 (s,
+2H), 1.59 (s, 3H), 1.58 (s, 3H).
+
+A crude lactone 24 was added to a round-bottom ﬂask followed by
+anhydrous NH3 solution (7.0 M in MeOH, 2.3 mL) at rt. The reaction
+mixture was stirred for 12 h before removing excess NH3 and MeOH
+under reduced pressure. Then the resulting crude amide 25 was
+redissolved in methylene chloride (2.3 mL), and NaBr (70 mg, 0.678
+mmol) and TEMPO (17 mg, 0.113 mmol) were added. A premixed
+solution of NaOCl (5% in H2O, 4.5 mL) and NaHCO3 (72 mg) was
+added at rt, and the resulting brown mixture was stirred until it turned
+light yellow (∼30 min). Methylene chloride (20 mL) and water (5
+mL) were added, and the layers were separated. The organic layer was
+dried over magnesium sulfate, ﬁltered, and concentrated in vacuo to
+obtain a yellowish solid. Puriﬁcation over silica gel with hexanes/ethyl
+acetate (2/1) aﬀorded aminal 19 as a solid (70 mg, 70%, 3 steps)
+
+Alternative Way to Produce Hydroxyl Lactam 19. Methyl
+ester 18 (45 mg, 0.127 mmol) was dissolved in a 2:1 mixture (1.3 mL)
+of t-BuOH and H2O at rt. NMO (45 mg, 0.382 mmol) was added to
+the solution, which was stirred for 5 min at rt. OsO4 (2.5 wt % solution
+in H2O, 64 μL, 0.005 mmol) was then added, and the reaction mixture
+was stirred for 48 h at rt. Then 1 N NaOH solution was added to the
+reaction mixture, which was stirred for an additional 12 h before
+acidiﬁcation with 1 M HCl and quenching with satd Na2S2O3. Ethyl
+acetate (10 mL) and H2O (5 mL) were added and the layers
+separated. The organic layer was dried over anhydrous magnesium
+sulfate, ﬁltered, and concentrated under reduced pressure to obtain
+crude acid 26 as a mixture of diastereomers.
+</para>
+2969
+
+DOI: 10.1021/acs.joc.5b00051
+J. Org. Chem. 2015, 80, 2959−2971
+<para sub=“exp”>
+(2S,5R)-Methyl 2-(2-(2-Bromophenyl)-1,2-dihydroxyethyl)-5-(me-
+thoxymethyl)-2,5-dihydrofuran-3-carboxylate (20). Methyl ester 18
+(300 mg, 0.849 mmol) was dissolved in an 8:1 mixture (8.0 mL) of
+acetone and H2O at rt. NMO (100 mg, 0.849 mmol) was added to the
+solution, which was stirred for 5 min at rt. OsO4 (4 wt % solution in
+H2O, 207 μL, 0.0340 mmol) was then added, and the reaction mixture
+was stirred for 10 h at rt. Aqueous satd Na2S2O3 (8.0 mL) was added,
+and the mixture was stirred for an additional 10 min at rt. Ethyl acetate
+(20 mL) was added, and the resulting layers were separated. The
+aqueous layer was extracted with ethyl acetate (2 × 20 mL). The
+combined organic layers were dried over magnesium sulfate, ﬁltered,
+and concentrated in vacuo to obtain a crude oil. Puriﬁcation over silica
+gel with hexanes/ethyl acetate (1/1) aﬀorded diol 20 as a viscous oil
+(164 mg, 50%): 1H NMR (CDCl3, 500 MHz, major isomer): δ 7.60
+(dd, J = 11.5, 1.5 Hz, 1H), 7.45 (dd, J = 7.5, 1.0 Hz, 1H), 7.31 (td, J =
+7.5, 1.5 Hz, 1H), 7.09 (td, J = 8.0, 1.5 Hz, 1H), 6.86 (t, J = 2.0 Hz,
+1H), 5.32−5.30 (m, 1H), 5.25 (d, J = 6.0 Hz, 1H), 5.03−5.00 (m,
+1H), 4.14 (d, J = 6.0 Hz, 1H), 4.04 (dd, J = 7.5, 3.5 Hz, 1H), 3.91 (d, J
+= 7.0 Hz, 1H), 3.76 (s, 3H), 3.06 (dt, J = 10.5, 2.5 Hz, 2H); 13C NMR
+(CDCl3, 100 MHz) δ 163.8, 162.5, 141.5, 141.1, 140.3, 139.1, 135.0,
+134.5, 132.9, 132.7, 129.6, 129.4, 129.1, 129.1, 127.8, 127.8, 122.9,
+121.7, 88.7, 88.0, 85.5, 84.9, 74.4, 73.9, 73.5, 73.2, 73.0, 70.2, 59.8,
+59.7, 52.5, 52.3; IR (ﬁlm) ν
+max 3420, 2892, 1723, 1649, 1468, 1267
+cm−1; HRMS (CI, NH3) m/z [M + Na]+ calc’d for C16H19BrNaO6
+409.0263, found 409.0250.
+
+(3aR,4R,6S,6aS)-Methyl 4-(5-(2-Bromophenyl)-2-oxo-1,3-dioxo-
+lan-4-yl)-6-(methoxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d]-
+[1,3]dioxole-3a-carboxylate (22). Diol 20 (130 mg, 0.336 mmol) and
+DMAP (41 mg, 0.336 mmol) were dissolved in anhydrous methylene
+chloride (3.4 mL) under an atmosphere of Ar and cooled to 0 °C.
+Carbonyldiimidazole (272 mg, 1.68 mmol) was introduced into the
+reaction, which was warmed to rt. After 3 h, methylene chloride (10
+mL) and water (5 mL) were added, and layers were separated. The
+organic layer was dried over magnesium sulfate, ﬁltered, and
+concentrated under reduced pressure to obtain crude carbonate 21
+(138 mg) as a colorless oil: 1H NMR (CDCl3, 500 MHz) δ 7.55 (dd, J
+= 8.0, 1.2 Hz, 1H), 7.37−7.32 (m, 1H), 7.29 (dd, J = 7.8, 1.8 Hz, 1H),
+7.22 (ddd, J = 8.0, 7.2, 1.9 Hz, 1H), 7.01 (t, J = 1.6 Hz, 1H), 6.26 (d, J
+= 4.2 Hz, 1H), 5.37 (dt, J = 5.2, 2.2 Hz, 1H), 5.12−5.08 (m, 2H), 3.70
+(d, J = 3.4 Hz, 3H), 3.60 (s, 3H), 3.38 (s, 3H).
+
+A solution of crude 21 (138 mg, 0.334 mmol) was dissolved in a 8:1
+mixture (3.3 mL) of acetone and H2O at rt. NMO (60 mg, 0.501
+mmol) was added to the solution, which was stirred for 5 min at rt.
+OsO4 (4 wt % solution in H2O, 1.0 mL, 0.167 mmol) was then added,
+and the reaction mixture was stirred for 14 h at rt. Aqueous satd
+Na2S2O3 (8.0 mL) was added and the mixture was stirred for
+additional 10 min at rt. Ethyl acetate (20 mL) was added, and the
+resulting layers were separated. The aqueous layer was extracted with
+ethyl acetate (2 × 20 mL). The combined organic layers were dried
+over magnesium sulfate, ﬁltered, and concentrated in vacuo to obtain a
+crude diol as a brown oil (135 mg): 1H NMR (CDCl3, 500 MHz) δ
+7.62 (dd, J = 8.0, 1.2 Hz, 1H), 7.40−7.35 (m, 2H), 7.32 (dd, J = 7.8,
+1.9 Hz, 1H), 7.28−7.25 (m, 1H), 5.88 (d, J = 4.7 Hz, 1H), 4.75 (dd, J
+= 9.1, 4.7 Hz, 1H), 4.37 (d, J = 8.7 Hz, 1H), 4.15 (d, J = 9.1 Hz, 1H),
+3.87−3.84 (m, 1H), 3.83 (s, 3H), 3.51 (dd, J = 10.8, 2.6 Hz, 1H), 3.40
+(dd, J = 10.8, 4.4 Hz, 1H), 3.08 (s, 3H).
+</para>
+The Journal of Organic Chemistry
+
+Featured Article
+<para sub=“exp”>
+To a solution of the crude acid 26 and 2,2-dimethoxypropane (16
+μL, 0.127 mmol) in methylene chloride (1.3 mL) was added PTSA
+monohydrate (2.4 mg, 0.013 mmol). The reaction mixture was stirred
+for 3 h under reﬂux conditions. After the reaction mixture was cooled
+to rt, methylene chloride (10 mL) and H2O (5 mL) were added, and
+the resulting layers were separated. The organic layer was dried over
+anhydrous magnesium sulfate, ﬁltered, and concentrated under
+reduced pressure to obtain a brownish oil. The crude material was
+directly exposed to the previously described ammonolysis and
+oxidation conditions to give hydroxyl lactam 19 (12 mg, 20%, four
+20 = +70 (c 0.50, CHCl3); 1H NMR (CDCl3, 500 MHz) δ
+steps): [α]D
+7.59 (td, J = 7.5, 1.5 Hz, 2H), 7.33 (td, J = 7.5, 1.0 Hz, 1H), 7.28 (td, J
+= 8.0, 2.0 Hz, 1H), 7.01 (s, 1H), 5.77 (s, 1H), 4.81 (d, J = 1.5 Hz, 1H),
+4.80 (s, 1H), 3.56 (td, J = 2.5, 2.0 Hz, 1H) 3.76 (dd, J = 10.5, 3.0 Hz,
+1H), 3.46 (dd, J = 10.5, 3.0 Hz, 1H), 3.37 (s, 3H); 13C NMR (CDCl3,
+125 MHz) δ 198.7, 170.3, 137.4, 133.4, 131.8, 129.1, 126.9, 119.8,
+116.2, 93.9, 87.2, 87.0, 86.6, 85.9, 72.7, 59.2, 27.0, 26.0; IR (ﬁlm) ν
+max
+3280, 2936, 1726, 1430, 1233 cm−1; HRMS (CI, NH3) m/z [M +
+Na]+ calcd for C18H20BrNNaO7 464.0321, found 464.0325.
+
+(3aR,4R,6S,6aS)-4-((S)-2-(2-Bromophenyl)-1-(1H-indol-3-yl)-2-ox-
+oethyl)-6-(methoxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]-
+dioxole-3a-carboxamide (28). A solution of aminal 19 (68 mg, 0.153
+mmol) in anhydrous methylene chloride (1.5 mL) was cooled to 0 °C
+under an atmosphere of Ar. DMAP (1.9 mg, 0.0153 mmol) and
+pyridine (15 μL, 0.184 mmol) were successively added, which was
+followed by triﬂuoroacetic anhydride (26 μL, 0.184 mmol), and the
+formation of triﬂuoroacetic ester was monitored by TLC (approx-
+imately 30 min). A solution of
+indole (90 mg, 0.765 mmol) in
+methylene chloride (0.5 mL) was added to the reaction mixture, which
+was warmed to rt and stirred for 10 h before addition of satd NaHCO3
+(5 mL). Methylene chloride (10 mL) was introduced, and the
+resulting layers were then separated and the organic layer was dried
+over anhydrous magnesium sulfate. After ﬁltration, the organic layer
+was concentrated in vacuo, and the residue was puriﬁed over silica gel
+with hexanes/ethyl acetate (2/1) to give 28 as a ﬁne yellow solid (68
+mg, 82%): [α]D
+20 = +52 (c 0.50, CHCl3); 1H NMR (CD3CN, 500
+MHz) δ; 9.51 (s, 1H), 7.67−7.65(m, 3H), 7.50 (dd, J = 8.0, 1.0 Hz,
+1H), 7.41 (d, J = 8.5 Hz, 1H), 7.34 (td, J = 7.5, 1.0 Hz, 1H), 7.28−7.25
+(m, 2H), 7.15 (t, J = 8.0 Hz, 1H), 7.02 (t, J = 8.0 Hz, 1H), 5.18 (d, J =
+1.5 Hz, 1H), 4.70 (d, J = 4.0 Hz, 1H), 4.26 (q, J = 5.0 Hz, 1H), 3.54
+(qd, J = 11.0, 5.0 Hz, 2H), 3.35 (s, 3H), 1.44 (s, 3H), 1.42 (s, 3H); 13C
+NMR (CD3CN, 125 MHz) δ 198.7, 172.7, 140.2, 138.5, 135.0, 133.0,
+130.3, 128.3, 125.8, 125.7, 123.6, 121.6, 121.1, 119.1, 114.4, 113.2,
+94.5, 86.9, 86.3, 85.9, 73.1, 59.9, 27.7, 26.9; IR (ﬁlm) ν
+max 3246, 2931,
+1713, 1459, 1246 cm−1; HRMS (CI, NH3) m/z [M + H]+ calcd for
+C26H26BrN2O6 541.0974, found 541.0961.
+
+(3aR,4R,6S,6aS)-4-((S)-1-(1H-Indol-3-yl)-2-oxo-2-phenylethyl)-6-
+(methoxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxole-
+3a-carboxamide (29). A solution of 28 (54 mg, 0.10 mmol) in
+anhydrous toluene (5 mL) was added into a sealed tube under Ar
+atmosphere. CuI (10 mg, 0.05 mmol), potassium carbonate (41 mg,
+0.30 mmol), and N,N-dimethylenediamine (11 μL, 0.10 mmol) were
+successively added under an atmosphere of Ar. Then the mixture was
+warmed to 110 °C and stirred for 12 h. The purple reaction mixture
+was cooled to rt and ﬁltered through a short pad of silica gel with ethyl
+acetate. The ﬁltrate was concentrated under reduced pressure to give a
+yellowish solid. Puriﬁcation over silica gel with hexanes/ethyl acetate
+(2/1) aﬀorded 29 as a light yellow solid (41 mg, 90%): mp 160−163
+°C; [α]D
+20 = +70.0 (c 0.60, CHCl3); 1H NMR (CDCl3, 500 MHz) δ
+8.15−8.13 (m, 2H), 8.00 (d, J = 8.0 Hz, 1H), 7.66−7.62 (m, 2H),
+7.33−7.31 (m, 1H), 7.24−7.18 (m, 4H), 4.90 (s, 1H), 4.82 (d, J = 2.0
+Hz, 1H), 4.35 (q, J = 2.5 Hz, 1H), 3.34 (dd, J = 10.0, 2.5 Hz, 1H), 3.26
+(dd, J = 10.0, 2.5 Hz, 1H), 2.61 (s, 3H), 1.51 (s, 3H), 1.38 (s, 3H); 13C
+NMR (CD3OD, 100 MHz) δ 195.8, 171.4, 151.5, 139.2, 137.7, 127.5,
+127.0, 126.2, 125.7, 124.2, 123.4, 121.3, 120.8, 118.4, 117.6, 113.0,
+111.8, 99.7, 88.6, 87.4, 86.0, 76.7, 73.6, 59.2, 27.4, 26.1; IR (ﬁlm) ν
+max
+3384, 2933, 1719, 1602, 1468, 1217 cm−1; HRMS (CI, NH3) m/z [M
++ H]+ calcd for C26H25N2O6 461.1713, found 461.1728.
+
+(+)-Isatisine A (1). To a solution of methyl ether 29 (9.6 mg, 0.0208
+mmol) in anhydrous methylene chloride (1.0 mL) were added NaI
+
+14 = −283.15 (c 0.46, MeOH)1 for (−)-isatisine A; [α]D
+
+(10 mg, 0.0624 mmol) and 15-crown-5 (20 μL, 0.124 mmol) under an
+atmosphere of Ar. The mixture was cooled to −30 °C, and a 1.0 M
+solution of BBr3 in CH2Cl2 (187 μL, 0.187 mmol) was added in three
+portions every 1 h. The reaction mixture was warmed to 0 °C and
+stirred for 12 h. Diethyl ether (5 mL) was added to the reaction
+mixture and stirred for 10 min at rt. Ethyl acetate (10 mL) and satd
+NaHCO3 (5 mL) were added, the resulting layers were then separated,
+and the aqueous layer was extracted with ethyl acetate (2 × 10 mL).
+The combined organic layers were dried over anhydrous magnesium
+sulfate. After ﬁltration, the organic layer was concentrated in vacuo,
+and the residue was puriﬁed over silica gel with methylene chloride/
+MeOH (50/1 to 20/1 gradient elution) to give 1 as a ﬁne yellowish
+solid (6.8 mg, 80%): mp 120−123 °C; [α]D
+20 = +190 (c 0.40, CHCl3)
+[lit. [α]D
+25 =
++274 (c 1.1, MeOH)2a,b for (+)-isatisine A22]: 1H NMR (CD3OD, 500
+MHz) δ 7.98 (dd, J = 7.5, 1.0 Hz, 1H), 7.93 (dt, J = 8.0, 1.0 Hz, 1H),
+7.76 (td, J = 7.5, 1.0 Hz, 1H), 7.63 (dt, J = 8.0, 1.0 Hz, 1H), 7.35−7.31
+(m, 2H), 7.29 (s, 1H), 7.12 (td, J = 7.0, 1.0 Hz, 1H), 7.05 (td, J = 7.0,
+1.5 Hz, 1H), 4.89 (s, 1H), 4.06 (d, J = 4.0 Hz, 1H), 3.85 (qd, J = 4.5,
+1.5 Hz, 1H), 3.39 (dd, J = 11.5, 5.0 Hz, 1H), 3.32 (dd, J = 12.0, 6.0 Hz,
+1H); 13C NMR (CD3OD, 100 MHz) δ 196.8, 174.6, 151.9, 139.1,
+137.9, 127.4, 126.9, 126.2, 126.1, 124.6, 123.1, 121.1, 120.6, 117.8,
+112.9, 110.6, 89.9, 89.0, 84.7, 76.8, 74.3, 63.2; IR (ﬁlm) ν
+max 3389,
+2923, 1708, 1610, 1468, 1220 cm−1; HRMS (CI, NH3) m/z [M +
+Na]+ calcd for C22H18N2NaO6 429.1063, found 429.1082.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Selected spectral data for all new compounds and X-ray
+crystallographic analysis of compound 28. This material
+is
+available free of charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: panek@bu.edu.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We are grateful to Dr. Paul Ralifo, Dr. Norman Lee, and Dr.
+Jeﬀrey Bacon (Chemical Instrumentation Center at Boston
+University) for helpful discussions and assistance with NMR,
+HRMS, and X-ray crystallographic analysis experiments.
+
+■ REFERENCES
+(1) Liu, J.-F.; Jiang, Z.-Y.; Wang, R.-R.; Zheng, Y.-T.; Chen, J.-J.;
+Zhang, X.-M.; Ma, Y.-B. Org. Lett. 2007, 9, 4127−4129.
+(2) (a) Karadeolian, A.; Kerr, M. A. J. Org. Chem. 2010, 75, 6830−
+6841. (b) Karadeolian, A.; Kerr, M. A. Angew. Chem., Int. Ed. 2010, 49,
+1133−1135. (c) Lee, J.; Panek, J. S. Org. Lett. 2011, 13, 502−505.
+(d) Zhang, X.; Mu, T.; Zhan, F.; Ma, L.; Liang, G. Angew. Chem., Int.
+Ed. 2011, 50, 6164−6166. (e) Wu, W.; Xiao, M.; Wang, J.; Li, Yi.; Xie,
+Z. Org. Lett. 2012, 14, 1624−1627. (f) Kumar, C. V. S.; Puranik, V. G.;
+Ramana, C. V. Chem.Eur. J. 2012, 18, 9601−9611. (g) Patel, P.;
+Ramana, C. V. J. Org. Chem. 2012, 77, 10509−10515.
+(3) (a) For isolation of goinolactone F, see: Wang, S.; Zhang, Y.-J.;
+Chen, R.-Y.; Yu, D.-Q. J. Nat. Prod. 2002, 65, 835−841. (b) For
+isolation of harringtonolide, see: Buta, J. G.; Flippen, J. L.; Lusby, W.
+R. J. Org. Chem. 1978, 49, 1002−1003.
+(4) For the haloetheriﬁcations, see: (a) Kang, S. H.; Lee, S. B.; Park,
+C. M. J. Am. Chem. Soc. 2003, 125, 15748−15749. For the Pd-
+mediated etherifications, see: (b) McDonald, R. I.; Liu, G.; Stahl, S. S.
+Chem. Rev. 2011, 111, 2981−3019. (c) Nakhla, J. S.; Kampf, J. W.;
+Wolfe, J. P. J. Am. Chem. Soc. 2006, 128, 2893−2901. (d) Wolfe, J. P.;
+Rossi, M. A. J. Am. Chem. Soc. 2004, 126, 1620−1621. For the
+conjugate addition, see: (e) Asano, K.; Matsubara, S. J. Am. Chem. Soc.
+2011, 133, 16711−16713.
+For the Prins-type cyclizations, see:
+
+2970
+
+DOI: 10.1021/acs.joc.5b00051
+J. Org. Chem. 2015, 80, 2959−2971
+
+The Journal of Organic Chemistry
+
+(f) Chavre, S. N.; Choo, H.; Lee, J. K.; Pae, A. N.; Kim, Y.; Cho, Y. S. J.
+Org. Chem. 2008, 73, 7467−7471. (g) Overman, L. E.; Pennington, L.
+D. J. Org. Chem. 2003, 68, 7143−7157. (h) Loh, T.-P.; Hu, Q.-Y.; Tan,
+K.-T.; Cheng, H.-S. Org. Lett. 2001, 3, 2669−2672. (i) Hanaki, N.;
+Link, J. T.; MacMillan, D. W.; Overman, L. E.; Trankle, W. G.;
+Wurster, J. A. Org. Lett. 2000, 2, 223−226. For the Mukaiyama-type
+annulations, see: (j) Kollmann, S.; Frohlich, R.; Hoppe, D. Synthesis
+2007, 883−892. (k) Brüns, A.; Wibbeling, B.; Fröhlich, R.; Hoppe, D.
+Synthesis 2006, 3111−3121. (l) Paulsen, H.; Graeve, C.; Hoppe, D.
+Synthesis 1996, 145−148. (m) Hoppe, D.; Kramer, T.; Erdbrügger, C.
+F.; Egert, E. Tetrahedron Lett. 1989, 30, 1233−1236. For the silyl-
+directed [3 + 2]-annulations, see: (n) Mertz, E.; Tinsley, J. M.; Roush,
+W. R. J. Org. Chem. 2005, 70, 8035−8046. (o) Tinsley, J. M.; Roush,
+W. R. J. Am. Chem. Soc. 2005, 127, 10818−10819. (p) Peng, Z. H.;
+Woerpel, K. A. Org. Lett. 2002, 4, 2945−2948. (q) Angle, S. R.; El-
+Said, N. A. J. Am. Chem. Soc. 2002, 124, 3608−3613. (r) Micalizio, G.
+C.; Roush, W. R. Org. Lett. 2001, 3, 1949−1952. (s) Micalizio, G. C.;
+Roush, W. R. Org. Lett. 2000, 2, 461−464. (t) Panek, J. S.; Yang, M. J.
+Am. Chem. Soc. 1991, 113, 9868−9870. For the cycloadditions of
+donor−acceptor cyclopropanes, see: (u) Smith, A. G.; Slade, M. C.;
+Johnson, J. S. Org. Lett. 2011, 13, 1996−1999. (v) Pohlhaus, P. D.;
+Sanders, S. D.; Parsons, A. T.; Li, W.; Johnson, J. S. J. Am. Chem. Soc.
+2008, 130, 8642−8650.
+(5) (a) Lowe, J. T.; Panek, J. S. Org. Lett. 2005, 7, 3231−3234.
+(b) Huang, H.; Panek, J. S. J. Am. Chem. Soc. 2000, 122, 9836−9837.
+(6) (a) Lowe, J. T.; Youngsaye, W.; Panek, J. S. J. Org. Chem. 2006,
+71, 3639−3642. (b) Su, Q.; Panek, J. S. J. Am, Chem. Soc. 2004, 126,
+2425−2430.
+(7) Yamaguchi, M.; Hirao, I. Tetrahedron Lett. 1983, 24, 391−394.
+(8) Zhao, H.; Pagenkopf, B. L. Chem. Commun. 2003, 2592−2593.
+(9) Kim, J. H.; Lee, S.; Kwon, M.-G.; Park, Y. S.; Choi, S.-K.; Kwon,
+B.-M. Synth. Commun. 2004, 34, 1223−1228.
+(10) (a) Smith, M. B.; March, J. March’s Advanced Organic Chemistry
+Reactions, Mechanisms, and Structure, 6th ed.; Wiley-Interscience: New
+York, 2007; pp 218−219. (b) de Meijere, A. Angew. Chem., Int. Ed.
+1979, 18, 809−826.
+(11) (a) Qin, H.-L.; Panek, J. S. Org. Lett. 2008, 10, 2477−2479.
+(b) Wrona, I. E.; Gabarda, A. E.; Evano, G.; Panek, J. S. J. Am. Chem.
+Soc. 2005, 127, 15026−15027.
+(12) (a) Tron, G. C.; Pagliai, F.; Grosso, E. D.; Genazzani, A. A.;
+Sorba, G. J. Med. Chem. 2005, 48, 3260−3268. (b) Slee, D. H.;
+Romano, S. J.; Yu, J.; Nguyen, T. N.; John, J. K.; Raheja, N. K.; Axe, F.
+U.; Jones, T. K.; Ripka, W. C. J. Med. Chem. 2001, 44, 2094−2107.
+(13) (a) Higuchi, K.; Sato, Y.; Tsuchimochi, M.; Sugiura, K.; Hatori,
+M.; Kawasaki, T. Org. Lett. 2009, 11, 197−199. (b) Abid, M.; Teixeira,
+L.; Török, B. Org. Lett. 2008, 10, 933−935. (c) Skarpos, H.; Vorob’eva,
+D. V.; Osipov, S. N.; Odinets, I. L.; Breuer, E.; Röschenthaler, G.-V.
+Org. Biomol. Chem. 2006, 4, 3669−3674.
+(14) (a) Klapars, A.; Huang, X.; Buchwald, S. L. J. Am. Chem. Soc.
+2002, 124, 7421−7428. (b) Klapars, A.; Antilla, J. C.; Huang, X.;
+Buchwald, S. L. J. Am. Chem. Soc. 2001, 123, 7727−7729.
+(15) (a) Denmark, S. E.; Hurd, A. R. J. Org. Chem. 2000, 65, 2875−
+2886. (b) Comins, D.; Libby, A. H.; Al-awar, R. S.; Foti, C. J. J. Org.
+Chem. 1999, 64, 2184−2185. (c) Roberson, C. W.; Woerpel, K. A. J.
+Org. Chem. 1999, 64, 1434−1435. (d) Fleming, I.; Henning, R.;
+Parker, D. C.; Plaut, H. E.; Sanderson, P. E. J. J. Chem. Soc., Perkin
+Trans. 1 1995, 317−337. (e) Murakami, M.; Suginome, M.; Fujimoto,
+K.; Nakamura, H.; Andersson, P. G.; Ito, Y. J. Am. Chem. Soc. 1993,
+115, 6487−6498.
+(16) (a) Adams, D. J.; Blake, A. J.; Cooke, P. A.; Gill, C. D.;
+Simpkins, N. S. Tetrahedron Lett. 2002, 58, 4603−4615. (b) Marin, J.;
+Didierjean, C.; Aubry, A.; Briand, J.-P.; Guichard, G. J. Org. Chem.
+2002, 67, 8440−8449. (c) Semple, J. E.; Rydzewski, R. M.; Gardner,
+G. J. Org. Chem. 1996, 61, 7967−7972.
+(17) (a) Saleur, D.; Bouillon, J.-P.; Portella, C. J. Org. Chem. 2001,
+66, 4543−4548. (b) Haley, M. M.; Biggs, B.; Looney, W. A.;
+Gilbertson, R. D. Tetrahedron Lett. 1995, 36, 3457−3460. (c) Billups,
+W. E.; Lee, G.-A.; Arney, B. E., Jr.; Whitmire, K. H. J. . Am. Chem. Soc.
+
+Featured Article
+1991, 113, 7980−7984. (d) Fouque, E.; Rousseau, G.; Seyden-Penne,
+J. J. Org. Chem. 1990, 55, 4807−4817.
+(18) Ager, D. J.; Fleming, I.; Patel, S. K. J. Chem. Soc., Perkin Trans. 1
+1981, 2520−2526.
+(19) Corey, E. J.; Gilman, N. W.; Ganem, B. E. J. Am. Chem. Soc.
+1968, 90, 5616−5617.
+(20) The low yield in this cascade-like process was mainly attributed
+to the low eﬃciency in the dihydroxylation of the styrene-like oleﬁn of
+18. In the stepwise dihydroxylation−protection sequence (Schemes 7
+and 8), aminal 19 was prepared through seven steps in 23.8% yield.
+(21) Niwa, H.; Hida, T.; Yamada, K. Tetrahedron Lett. 1981, 22,
+4239−4240.
+(22) The discrepancy between the experimental optical rotation and
+the literature value is attributed to the moderate level of enantiomeric
+purity of epoxide cis-7 (up to 92% ee).
+
+2971
+
+DOI: 10.1021/acs.joc.5b00051
+J. Org. Chem. 2015, 80, 2959−2971
+
+

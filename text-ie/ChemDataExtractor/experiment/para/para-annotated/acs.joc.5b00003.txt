@@ -1,0 +1,640 @@
+Note
+
+pubs.acs.org/joc
+
+Light-Enabled Synthesis of Anhydrides and Amides
+Terry McCallum and Louis Barriault*
+
+Centre for Catalysis, Research and Innovation, Department of Chemistry, University of Ottawa, Ottawa, Ontario K1N 6N5, Canada
+
+*S Supporting Information
+
+ABSTRACT: Recently, we have demonstrated that the photogeneration of Vilsmeier−Haack reagents is possible using only
+dimethylformamide (DMF) and tetrabromomethane (CBr4) in the bromination of alcohols. Extending these ﬁndings to
+carboxylic acid substrates has produced a mild and facile approach to the in situ formation of symmetric anhydrides, which were
+conveniently converted to amide derivatives in a one-pot process. The eﬃcient protocols discussed herein are marked by use of
+UVA LEDs (365 nm), which have reduced the reaction times and come with a low setup cost.
+
+T he activation of carboxylic acids has been paramount to
+
+the synthesis of peptides in coupling reactions with
+amines.1 A variety of methods make carboxylic acids more
+electrophilic either by transforming the carboxylic acid into the
+corresponding acyl halide or through the addition of coupling
+agents.2 Symmetric anhydrides have also seen great use in
+peptide chemistry because they provide electrophilic activation
+of the carboxylic moiety without forming coupling byproducts,
+as both electrophilic sites are identical. However,
+these
+anhydrides are often formed through the same procedures
+that apply to amide couplings3 (acyl halide formation and then
+addition of carboxylates). New protocols oﬀering the formation
+of anhydrides directly from the corresponding carboxylic acids
+along with the direct formation of amides in a one-pot process
+are of interest for development.4
+
+Photoredox catalysis has emerged as a powerful tool in the
+development of new organic transformations, especially in
+forming C−C, C−N, and C−O bonds.5 Vilsmeier−Haack
+reagents for useful organic transformations can be generated
+with photoredox catalysis;6,7 however, studies among our group
+found that generation of the Vilsmeier−Haack reagent without
+use of a photocatalyst is possible from the irradiation of CBr4
+with UVA light (365 nm LED) in DMF under an air
+atmosphere.8 Notably, visible light, in comparison, was unable
+to achieve this transformation. This was used as a synthetically
+facile route to bromoalkanes
+from alcohols, which was
+applicable to a one-pot deoxygenation protocol.8b,9 Taking
+this into consideration, we sought to apply the photogeneration
+of Vilsmeier−Haack reagents from UVA and CBr4 in a one-pot
+
+protocol
+carboxylic acids and amines.
+
+for the synthesis of amides from readily available
+<para sub=“opt”>
+The formation of symmetric anhydrides was ﬁrst optimized
+in order to minimize the reagents used (Table 1). Treating p-
+anisic acid with 1 equiv of CBr4 and 2 equiv of 2,4,6-
+trimethylpyridine (collidine) in DMF were the conditions that
+gave anhydride product
+reagent-minimizing
+protocol with among the best yields (entries 1−3). The
+reaction was found to occur quickly, within 30 min, as indicated
+
+in the most
+</para>
+Table 1. Optimization of Symmetric Anhydrides
+
+entry
+
+CBr4 (equiv)
+
+collidine (equiv)
+
+1
+2
+3
+4
+5
+6
+7
+
+1.0
+0.5
+1.0
+0.5
+1.0
+1.0
+
+5.0
+5.0
+2.0
+
+2.0
+2.0
+2.0
+
+(%)a
+95
+78
+91
+9
+n.r.b
+n.r.c
+n.r.
+
+a1H NMR yield with mesitylene as internal standard. bWithout
+irradiation; 80 °C overnight. n.r. = no reaction. cUsing visible light.
+
+Received:
+Published: February 17, 2015
+
+January 1, 2015
+
+© 2015 American Chemical Society
+
+2874
+
+DOI: 10.1021/acs.joc.5b00003
+J. Org. Chem. 2015, 80, 2874−2878
+
+The Journal of Organic Chemistry
+<para sub=“opt”>
+by the precipitation of collidine hydrobromide. Removal of
+collidine resulted in little product formation (entry 4). Control
+experiments were performed that demonstrated that no
+reaction occurred upon heating at 80 °C without
+light
+irradiation in the presence of CBr4 (entry 5) or UVA
+irradiation in the absence of CBr4 (entry 7). Notably, the
+transformation does not react under visible light irradiation
+(410 nm LED, entry 6).
+</para>
+<para sub="scope">
+Having these conditions in hand, we established the scope of
+the transformation using a wide array of carboxylic acids (Table
+2). Nonaromatic carboxylic acids
+including long chains,
+primary, secondary, and tertiary α-centers were converted in
+nearly quantitative yields, forming stable anhydrides 2b−d and
+2h (entries 1−3 and 7). The reaction proved to be tolerant to
+alkenes and alkynes; the corresponding anhydrides 2d−f were
+obtained in 75 to 98% yields (entries 4−6)
+</para>
+<para sub="scope">
+Interestingly, N-Boc and N-CBz protected L-alanine showed
+only degradation (entry 8); however, Cbz protected L-proline
+was fully converted to the corresponding anhydride 2j (entry
+9).10 This may be attributed to instability of the anhydride
+formed. Various aromatic carboxylic acids were screened; a
+wide variety of
+functionality is tolerated in good yields,
+including OMe, t-Bu, halides, CF3, naphthyl, and, to some
+extent, ortho and meta substitution (entries 10−20 and 24). 2-
+Carboxylic acid substituted heterocycles thiophene 2v, furan
+2w, and N-methylpyrrole 2x were also compatible with this
+method (entries 21−23). Phthalic acid also converted
+quantitatively to phthalic anhydride 2z (entry 25),
+in an
+intramolecular version of this transformation.
+</para>
+<para sub=“opt”>
+The method showed a robust general applicability; however,
+isolation of many aromatic anhydrides resulted in some
+degradation or loss of product. Often, these compounds are
+used in amide couplings as the coupling partner for an amine. It
+was reasoned that a one-pot procedure for the coupling of these
+anhydrides
+to an amine should be developed to avoid
+degradation of
+the anhydride through work up steps. An
+optimization of the bases added to the reaction (Table 3)
+showed that 3 equiv of carboxylic acid, 5 equiv of collidine, and
+1 equiv of DMAP furnished the best yield of amide formation
+(3) in the coupling of carboxylic acid 1c and piperidine using
+CBr4 with UVA LED light in DMF (entry 9). The analogous
+method using [Ru(bpy)3](PF6)2 (5 mol %) with visible light
+(CFL light) gave little formation of either anhydride or amide
+product, 9% (entry 11). More importantly, the same reaction
+without [Ru(bpy)3](PF6)2 gave a similar yield, 7% (entry 12).
+This may be due to the intensity of these lights being relatively
+weak compared to high-powered LED systems. A high-powered
+410 nm LED was used, giving 12% yield with [Ru(bpy)3]-
+(PF6)2, but it also yielded 8% without the photocatalyst (entries
+13 and 14). One aspect of using more powerful lighting sources
+is that background activation (reaction with light source in the
+absence of photocatalyst, as shown in this study) may occur,
+which circumvents the need for photoredox catalysts. Also, the
+excited state of [Ru(bpy)3](PF6)2 may be quenched by the
+amine in solution, which does not result in product forming
+pathways. For these reasons, a photomediated method for the
+combination of carboxylic acids with amines without a
+photocatalyst gives the best conditions for amide synthesis.
+</para>
+<para sub="scope">
+An extension of the amide protocol also showed promising
+results, (Table 4). Carboxylic acids
+functionalized with
+cyclohexane, phenyl, and 4-CF3-phenyl were chosen to
+represent alkyl, aryl, and electron-withdrawing functionalities.
+These were matched with n-butylamine, piperidine, and aniline
+</para>
+Table 2. Formation of Symmetric Anhydrides from
+Carboxylic Acidsa
+
+Note
+
+aGeneral conditions: carboxylic acid (1 equiv), DMF (0.2 M),
+collidine (2 equiv), and, lastly, CBr4 (1 equiv) were added to screw top
+vial, sealed, and irradiated for 0.5 h with a 365 nm LED. b1H NMR
+yield with mesitylene as standard. c1.0 g scale of benzoic acid in a 150
+mL cylindrical Pyrex vessel.
+<para sub="scope">
+to represent primary,
+secondary, and aromatic amines.
+Couplings of these compounds all proceeded in yields ranging
+from 34 to 98%. Interestingly, the examples using 4-CF3-
+benzoic acid for amide couplings obtained much higher yields
+of the amide products 4f−h (entries 6−8) as compared to
+isolation of the corresponding anhydride 2n (cf. Table 2, entry
+14). Benzoic acid was coupled with L-ala-OMe, which showed
+that amino acid derivatives 4i
+retain their conﬁguration
+throughout
+the reaction with 99:1 e.r. (entry 9), where
+racemization plagues many protocols.11 Using N-Cbz-L-ala as
+carboxylic acid coupled with n-butylamine, conservation of
+</para>
+2875
+
+DOI: 10.1021/acs.joc.5b00003
+J. Org. Chem. 2015, 80, 2874−2878
+
+The Journal of Organic Chemistry
+
+Note
+
+Table 3. Optimization of One-Pot Amide Formation
+
+Scheme 1. Proposed Mechanism
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+base
+collidine
+DMAP
+DABCO
+imidazole
+pyridine
+DBU
+DIPEA
+collidine
+collidine
+collidine
+2,6-lutidine
+2,6-lutidine
+2,6-lutidine
+2,6-lutidine
+
+(%)a
+
+22
+22
+16
+6
+10
+5
+11
+27b
+61b,c, 38d
+11b,e
+9f
+7g
+12h
+8i
+
+a1H NMR yield with mesitylene as standard, based on amine. b1 equiv
+of DMAP added. c3 equiv of 1c, 5 equiv of collidine, 1.5 equiv of CBr4.
+d1.0 g scale of piperidine in a 150 mL cylindrical Pyrex vessel using
+same equivalents as those in entry 9. e3 equiv of piperidine and 5 equiv
+of collidine; yield based on carboxylic acid. f[Ru(bpy)3](PF6)2 5 mol
+%, Ar degas, CFL light 97 h. gNo photocatalyst, Ar degas, CFL light 97
+h. h[Ru(bpy)3](PF6)2 5 mol %, Ar degas, 410 nm LED, 0.5 h. iNo
+photocatalyst, Ar degas, 410 nm LED, 0.5 h.
+
+Table 4. One-Pot Amidation Protocol
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+R
+
+Cy
+Cy
+Ph
+Ph
+Ph
+4-CF3Ph
+4-CF3Ph
+4-CF3Ph
+Ph
+N-Cbz-L-ala
+N-Cbz-L-ala
+
+N(R′)R″
+n-BuNH2
+PhNH2
+piperidine
+n-BuNH2
+PhNH2
+piperidine
+n-BuNH2
+PhNH2
+L-ala-OMe
+n-BuNH2
+L-ala-OMe
+
+product (yield %)a
+
+4a (98)
+4b (63)
+4c (80)
+4d (86)
+4e (75)
+4f (90)
+4g (98)
+4h (94)
+4i (34)b
+4j (92)b
+4k (94)c
+
+aIsolated yield, based on amine. be.r. = 99:1. cd.r. > 20:1, determined
+by 1H NMR analysis.
+<para sub="scope">
+enantiopurity was also observed with e.r. = 99:1, in 92% yield
+(entry 10). Coupling of L-ala-OMe and N-Cbz-L-ala as
+carboxylic acid demonstrated that the chirality of both centers
+is retained, with d.r. > 20:1 and in 94% yield.
+</para>
+<para sub="scope">
+Mechanistic consideration of this transformation is described
+in Scheme 1. Irradiation of CBr4 produces an electrophilic
+•
+radical,
+CBr3, which, upon addition to DMF, generates the
+radical intermediate 5. Under these reaction conditions, 5 is
+readily oxidized to produce the Vilsmeier−Haack reagents 6 or
+7.6−8 In the presence of carboxylic acid, the latter is converted
+to intermediate 8. At
+intermediate 8 can be
+
+this point,
+</para>
+In summary,
+
+converted to corresponding anhydride 2 or amide 4. The
+formation of amide 4 through a transient anhydride
+intermediate 2 could be also considered.
+the photogeneration of Vilsmeier−Haack
+reagents from irradiation of CBr4 with UVA light in DMF
+has been shown to be a useful method for the generation of
+symmetric anhydrides. This process is conveniently applicable
+to a one-pot synthesis of amides from readily available
+carboxylic acids and amines, without need of a photoredox
+catalyst. These studies not only exhibit the importance of
+photochemical transformations in the synthesis of amide bonds
+but also the power of conducting control reactions and light-
+source optimization in developing fast, eﬃcient, and reagent-
+minimizing methods in organic synthesis.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General
+
+Information. All
+
+reactions were performed under
+atmospheric air (unless otherwise noted) in Pyrex glassware equipped
+with a magnetic stir bar, capped with a septum. DMF was ﬁltered using
+a puriﬁcation system. Commercial reagents were used without further
+puriﬁcation. Reactions were monitored by thin-layer chromatography
+(TLC) analysis. TLC plates were viewed under UV light and stained
+with potassium permanganate or p-anisaldehyde staining solution. 1H
+NMR spectra were recorded on 300 or 400 MHz in chloroform-d, and
+chemical
+shifts are reported in ppm referenced to residual
+undeuterated solvent. Data are reported as follows: chemical shift,
+multiplicity, coupling, integration. 13C NMR spectra were recorded on
+75 or 101 MHz. Optical rotations were recorded at 589 nm with 0.1
+dm/2 mL sample cell. Retention of conﬁguration was determined by
+running an analogous reaction with racemic mixtures of either amine
+or acid with respect to the amide couplings, with workup in the usual
+way. Samples were diluted with 5% i-PrOH in hexane and run on a
+chiral HPLC; chromatographs are available in the Supporting
+Information (column: AD-H, 5% i-PrOH/hexanes, 1.0 mL/min,
+over 60 min).
+
+General Procedure 1 (GP1). Preparation of Symmetric
+Anhydrides from Carboxylic Acids. To an 8 mL Pyrex screw-top
+reaction vessel were added substrate (0.3 mmol, 1.0 equiv) and
+dimethylformamide (1.5 mL, 0.2 M) and then 2,4,6-trimethylpyridine
+(0.6 mmol, 2.0 equiv) and carbontetrabromide (0.3 mmol, 1.0 equiv).
+The reaction mixture was capped and irradiated with a UVA (365 nm)
+LED at a distance of 1 cm for 30 min. The resulting mixture was
+poured into a separatory funnel containing 25 mL of a 3:1 mixture of
+diethyl ether and hexanes (ethyl acetate was added for compounds that
+needed further solubility). This was washed with water, where the
+combined aqueous fractions were re-extracted with 25 mL of diethyl
+ether. The combined organic portions were washed with saturated
+sodium bicarbonate and brine and dried over sodium sulfate. The
+solution was concentrated in vacuo, and products were weighed for
+</para>
+2876
+
+DOI: 10.1021/acs.joc.5b00003
+J. Org. Chem. 2015, 80, 2874−2878
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+crude yields and then were added an internal standard (mesitylene),
+where yields were determined with proton NMR by comparison to
+literature precedence.
+
+General Procedure 2 (GP2). Preparation of Amides from
+Carboxylic Acids and Amines. To an 8 mL Pyrex screw-top reaction
+vessel were added carboxylic acid (0.6 mmol, 3.0 equiv), amine (0.2
+mmol, 1.0 equiv), and dimethylformamide (1.0 mL, 0.2 M) and then
+2,4,6-trimethylpyridine (1.0 mmol, 5.0 equiv), DMAP (0.2 mmol, 1.0
+equiv), and carbontetrabromide (0.3 mmol, 1.5 equiv). The reaction
+mixture was capped and irradiated with a UVA (365 nm) LED at a
+distance of 1 cm for 30 min. The resulting mixture was poured into a
+separatory funnel containing 25 mL of ethyl acetate. This was washed
+with 1 M HCl, where the combined aqueous fractions were re-
+extracted with 25 mL of ethyl acetate. The combined organic portions
+were washed with saturated sodium bicarbonate and brine and dried
+over sodium sulfate. Products were further puriﬁed by column
+chromatography (0−100% EtOAc/Hex), and the relevant fractions
+were combined, concentrated in vacuo, and characterized by NMR by
+comparison to literature precedence.
+Compounds 2a−g and 2k−z were synthesized according to GP1
+and characterized by NMR comparison.12 Compounds 3 and 4a−k
+were synthesized according to GP2 and characterized by NMR
+comparison.12
+4-(3,4-Dimethoxyphenyl)Butanoic Anhydride (2h): Synthesized
+According to GP1. IR (neat, cm−1): 2933(m), 2836(w), 1813(s),
+1745(s), 1648(m), 1591(s), 1514(vs), 1450(s), 1416(s). 1H NMR
+(300 MHz, CDCl3): δ 6.82−6.75 (m, 2 H), 6.75−6.65 (m, 4 H), 3.87
+(s, 6 H), 3.85 (s, 6 H), 2.63 (t, J = 7.5 Hz, 4 H), 2.44 (t, J = 7.3 Hz, 4
+H), 1.97 (quint, J = 7.4 Hz, 4 H) ppm. 13C NMR (75 MHz, CDCl3): δ
+169.2 (2 × C), 148.8 (2 × C), 147.3 (2 × C), 133.4 (2 × C), 120.2 (2
+× CH), 111.6 (2 × CH), 111.2 (2 × CH), 55.8 (2 × CH3), 55.7 (2 ×
+CH3), 34.2 (2 × CH2), 34.2 (2 × CH2), 25.8 (2 × CH2) ppm. HRMS
+(EI) m/z calcd for C24H30O7 [M+], 430.1992; found, 430.1993.
+(R)-1-((Benzyloxy)carbonyl)pyrrolidine-2-carboxylic Anhydride
+(2j): Synthesized According to GP1. IR (neat, cm−1): 2995(m),
+2882(w), 1827(s), 1745(s), 1697(vs) (overlapping), 1411(s),
+1352(vs). 1H NMR (400 MHz, CDCl3): δ 7.45−7.23 (m, 10 H),
+5.25−5.03 (m, 4 H), 4.51−4.28 (m, 2 H), 3.72−3.42 (m, 4 H), 2.22−
+1.84 (m, 8 H) ppm. 13C NMR (101 MHz, CDCl3): δ 167.7, 167.6,
+167.5, 167.4 (2 × C, rotamers), 155.9, 154.8, 154.6, 153.9 (2 × C,
+rotamers), 136.8, 136.6, 136.4, 136.2 (2 × C, rotamers), 128.4, 128.4,
+128.2, 128.0, 128.0, 127.9, 127.9, 127.8, 127.7, 127.5, 127.4 (10 × CH,
+rotamers), 67.3, 67.3, 67.2, 67.1 (2 × CH2, rotamers), 59.7, 59.6, 59.3,
+59.2 (2 × CH, rotamers), 46.9, 46.9, 46.4, 46.3 (2 × CH2, rotamers),
+31.0, 30.2, 30.2, 30.1, 29.6, 29.5, 29.0, 28.9 (2 × CH2, rotamers), 24.2,
+24.2, 23.4, 23.3 (2 × CH2, rotamers) ppm. HRMS (EI) m/z calcd for
+C26H28N2O7 [M+], 480.1897; found, product was unstable. [α]D
+20 =
+−32.1° (c 1.0, EtOH).
+
+Methyl Benzoyl-L-alaninate (4i). Synthesized according to GP2
+20 = +30.2° (c
+
+and characterized according to NMR comparison.12 [α]D
+1.0, CHCl3).
+
+Benzyl
+
+(S)-(1-(Butylamino)-1-oxopropan-2-yl)carbamate (4j).
+Synthesized according to GP2 and characterized according to NMR
+comparison.12 [α]D
+
+20 = −6.8° (c 1.0, EtOH).
+
+Z-L-ala-L-ala-OMe (4k). Synthesized according to GP2 and
+20 = −49.0° (c
+
+characterized according to NMR comparison.12 [α]D
+1.0, MeOH).
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Chiral-HPLC data for hydrolysis of 2j yielding Z-L-proline and
+compounds 4i−k along with 1H and 13C NMR for compounds
+2h, 2j, 3, and 4a−k. This material is available free of charge via
+the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: lbarriau@uottawa.ca.
+
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We thank the Natural Sciences and Engineering Research
+Council (for Accelerator, Discovery and CREATE grants to
+L.B.) and the University of Ottawa (for a University Research
+Chair to L.B.) for support of this research. Acknowledgement is
+also made to the donor of the American Chemical Society
+Petroleum Research Fund for support of this research. T.M.
+thanks NSERC (CREATE on medicinal chemistry and
+biopharmaceutical development).
+
+■ REFERENCES
+
+(1) (a) El-Faham, A.; Albericio, F. Chem. Rev. 2011, 111, 6557.
+(b) Pattabiraman, V. R.; Bode, J. W. Nature 2011, 480, 471.
+(2) (a) Schotten, C. Ber. Dtsch. Chem. Ges. 1884, 17, 2544.
+(b) Baumann, E. Ber. Dtsch. Chem. Ges. 1886, 19, 3218. (c) Fischer, E.
+Ber. Dtsch. Chem. Ges. 1903, 36, 2982. (d) Zuffanti, S. J. Chem. Educ.
+1948, 25, 481. (e) Valeur, E.; Bradley, M. Chem. Soc. Rev. 2009, 38,
+606. (f) Joullie, M. M.; Lassen, K. M. Arkivoc 2010, VIII, 189.
+(3) (a) Rambacher, P.; Make, S. Angew. Chem. 1968, 80, 487.
+(b) Plusquellec, D.; Roulleau, F.; Lefeuvre, M.; Brown, E. Tetrahedron
+1988, 44, 2471.
+(4) (a) Ferris, A. F.; Emmons, W. D. J. Am. Chem. Soc. 1953, 75, 232.
+(b) Hata, T.; Tajima, K.; Mukaiyama, T. Bull. Chem. Soc. Jpn. 1968, 41,
+2746. (c) Lee, J. C.; Cho, Y. H.; Lee, H. K.; Cho, S. H. Synth. Commun.
+1995, 25, 2877. (d) Kaminski, Z. J.; Kolesinka, B.; Malgorzata, M.
+Synth. Commun. 2004, 34, 3349. (e) Liu, J.; West, K. R.; Bondy, C. R.;
+Sanders, J. K. M. Org. Biomol. Chem. 2007, 5, 778. (f) Bartoli, G.;
+Bosco, M.; Carlone, A.; Dalpozzo, R.; Marcantoni, E.; Melchiorre, P.;
+Sambri, L. Synthesis 2007, 22, 3489. (g) Strukil, V.; Bartolec, B.;
+Portada, T.; Dilovic, I.; Halasz, I.; Bargetic, D. Chem. Commun. 2012,
+48, 12100. (h) Bai, J.; Zambron, B.; Vogel, P. Org. Lett. 2014, 16, 604
+and references cited therein.
+(5) For recent reviews, see (a) Prier, C. K.; Rankic, D. A.; MacMillan,
+D. W. C. Chem. Rev. 2013, 113, 5322. (b) Schultz, D. M.; Yoon, T. P.
+Science 2014, 343, 985.
+(6) Dai, C.; Narayanam, J. M. R.; Stephenson, C. R. J. Nat. Chem.
+2011, 3, 140.
+(7) (a) Konieczynska, M. D.; Dai, C.; Stephenson, C. R. J. Org.
+Biomol. Chem. 2012, 10, 4509. (b) Srivastava, V. P.; Yadav, A. K.;
+Yadav, L. D. S. Synlett 2014, 25, 665. (c) Yadav, A. K.; Srivastava, V. P.;
+Yadav, L. D. S. RSC Adv. 2014, 4, 4181.
+(8) (a) Nishina, Y.; Ohtani, B.; Kikushima, K. Beilstein J. Org. Chem.
+2013, 9, 1663. (b) McCallum, T.; Slavko, E.; Morin, M.; Barriault, L.
+Eur. J. Org. Chem. 2015, 1, 81.
+Information on photochemical
+equipment and set-up can be obtained in the Supporting Information
+of this publication.
+(9) For reduction of unactivated bromoalkanes, see Revol, G.;
+McCallum, T.; Morin, M.; Gagosz, F.; Barriault, L. Angew. Chem., Int.
+Ed. 2013, 52, 13342.
+(10) Anhydride arising from N-Cbz protected L-proline was
+hydrolyzed, where the resulting acid was analyzed by chiral HPLC,
+showing retention of L conﬁguration in 98.5:1.5 e.r. (L/D) (see the
+Supporting Information).
+(11) Bodansky, M. Principles of Peptide Synthesis; Springer-Verlag:
+New York, 1984.
+(12) Literature for NMR comparison of compounds 2b,k,r, see 4d.
+For 2c, see Tsang, W.; Ahmed, N.; Hemming, K.; Page, M. Org.
+Biomol. Chem. 2007, 5, 3993. For 2d, see 3b. For 2e, see Ellervik, U.;
+Magnusson, G. Acta Chem. Scand. 1993, 47, 826. For 2f, see Trost, B.
+M.; Whitman, P. J. J. Am. Chem. Soc. 1974, 96, 7421.
+For 2g, see
+Moody, C.; Shah, P. J. Chem. Soc., Perkin Trans. 1 1988, 3249. For
+2a,l,m,q,u, see Li, Y.; Xue, D.; Wang, C.; Liu, Z.; Xiao, J. Chem.
+Commun. 2012, 48, 1320. For 2n,p,v,w,y, see Cirriez, V.; Rasson, C.;
+Riant, O. Adv. Synth. Catal. 2013, 355, 3137. For 2o,t, see Shiina, I.
+
+2877
+
+DOI: 10.1021/acs.joc.5b00003
+J. Org. Chem. 2015, 80, 2874−2878
+
+Note
+
+The Journal of Organic Chemistry
+
+Tetrahedron 2004, 60, 1587. For 2s, see Daskiewicz, J.; Depeint, F.;
+Viornery, L.; Bayet, C.; Comte-Sarrazin, G.; Comte, G.; Gee, J. M.;
+Johnson, I. T.; Ndjoko, K.; Hostettmann, K.; Barron, D. J. Med. Chem.
+2005, 48, 2790.
+For 2x, see Robert, J. M. H.; Robert-Piessard, S.;
+Courant, J.; Le Baut, G.; Robert, B.; Lang, F.; Petit, J. Y.; Grimaud, N.;
+Welin, L. Eur. J. Med. Chem. 1995, 30, 915. For 2z, see Hwang, J.;
+Prakash, G.; Olah, G. Tetrahedron 2000, 56, 7199.
+For 3, see
+Wannberg, J.; Larhed, M. J. Org. Chem. 2003, 68, 5750. For 4a,d, see
+Hans, J. J.; Driver, R. W.; Burke, S. D. J. Org. Chem. 2000, 65, 2114.
+For 4b, see Liu, H.; Yan, N.; Dyson, P. J. Chem. Commun. 2014, 50,
+For 4c, see Toledo, H.; Pisarevsky, E.; Abramovich, A.;
+7848.
+Szpilman, A. M. Chem. Commun. 2013, 49, 4367. For 4e, see Murthy,
+S. N.; Madhav, B.; Reddy, V. P.; Nageswar, Y. V. D. Adv. Synth. Catal.
+2010, 352, 3241. For 4f, see Khan, B. A.; Buba, A. E.; Gooßen, L. J.
+Chem.Eur. J. 2012, 18, 1577. For 4g, see Kaiser, N.-F. K.; Hallberg,
+A.; Larhed, M. J. Comb. Chem. 2002, 4, 109. For 4h, see Perry, R. J.;
+Wilson, B. D. J. Org. Chem. 1996, 61, 7482. For 4i, see Reddy, K. R.;
+Maheswari, C. U.; Venkateshwar, M.; Kantam, M. L. Eur. J. Org. Chem.
+2008, 2008, 3619. For 4j, see Kolesinska, B.; Kaminski, Z. J. Org. Lett.
+2009, 11, 765. For 4k, see Brown, D. W.; Campbell, M. M.; Walker,
+C. V. Tetrahedron 1983, 39, 1075.
+
+2878
+
+DOI: 10.1021/acs.joc.5b00003
+J. Org. Chem. 2015, 80, 2874−2878
+
+

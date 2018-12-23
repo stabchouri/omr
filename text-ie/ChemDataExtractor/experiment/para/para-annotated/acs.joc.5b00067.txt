@@ -1,0 +1,1164 @@
+Article
+
+pubs.acs.org/joc
+
+Base-Promoted Transannulation of Heterocyclic Enamines and 2,3-
+Epoxypropan-1-ones: Regio- and Stereoselective Synthesis of Fused
+Pyridines and Pyrroles
+Wen-Juan Hao,*,†
+†
+Zheng Yang,
+and Shu-Jiang Tu*,†
+†
+School of Chemistry and Chemical Engineering, Jiangsu Key Laboratory of Green Synthetic Chemistry for Functional Materials,
+Jiangsu Normal University, Xuzhou 221116, P. R. China
+‡
+Institute of Chemistry & Biomedical Sciences, Nanjing University, Nanjing 210093, P. R. China
+§Department of Chemistry and Biochemistry, Texas Tech University, Lubbock, Texas 79409-1061, United States
+
+Bo Jiang,*,†
+
+Guigen Li,
+
+‡,§
+
+Hai-Wei Xu,
+
+Shu-Liang Wang,
+
+†
+
+†
+
+*S Supporting Information
+
+ABSTRACT: Base-promoted transannulation of heterocyclic enam-
+ines and 2,3-epoxypropan-1-ones has been successfully achieved,
+providing a new access to structurally diverse fused pyridines and
+pyrroles with excellent regio- and stereoselectivity. Treatment with N-
+aryl 4-aminofuran-2(5H)-ones and 2,3-epoxypropan-1-ones under
+microwave heating resulted in functional furo[3,2-b]pyridines in good
+yields. The N-aryl 4-aminopyrrol-2(5H)-ones bearing an electron-
+withdrawing group engaged in the reaction aﬀorded pyrrolo[3,2-
+b]pyridines, whereas their counterparts with an electron-neutral or an
+electron-donating group underwent a diﬀerent reaction pathway to
+form pyrrolo[3,2-b]pyrroles through C−C bond cleavage.
+
+■ INTRODUCTION
+
+Oxa-aza-containing bicyclic skeletons are omnipresent in a wide
+range of naturally and unnaturally occurring products with
+important biological activities.1 Among these products, furo-
+[3,2-b]pyridine scaﬀolds combining a π-electron rich furan ring
+and a π-electron deﬁcient pyridine ring have captured special
+interest owing to their synthetic potential. This potential arises
+from their substituent diversity as well as their interesting
+biological properties. For instance, they can serve as SYK
+inhibitors2 (Figure 1,
+therapeutic sodium channel
+blockers,3 FXa inhibitors,4 nicotinic acetylcholine receptors,5
+and retroviral protease inhibitors.6 Furo[3,2-b]pyridine deriv-
+atives commonly exist in a wide range of natural alkaloids,
+
+type I),
+
+represented by kopsilactone7 (Figure 1,
+type II) and
+isofebrifugine8 (type III).
+In addition to their biological
+beneﬁts,
+such heterocycles have proven to be versatile
+synthons, and have been eﬃciently employed in the total
+synthesis of natural products and the preparation of bioactive
+molecules.9 With these attributes in mind,
+the scientiﬁc
+community devotes a great eﬀort in ﬁnding new synthetic
+methods for the synthesis of furo[3,2-b]pyridines and their
+structural analogues.
+
+A survey of the literature revealed that substantial synthetic
+methods for the formation of functional furo[3,2-b]pyridines
+have been developed, which involved carbanionic ring
+closure,10 photocyclization of 3-furanyl-3-aminoalkene
+imines,11 heteroaromatic C-H insertion of alkylidenecarbenes,12
+metal-catalyzed heteroannulation of alkynes,13 and other
+methods.14 Nevertheless, most of these approaches suﬀered
+from many drawbacks such as a limited substrate scope,
+multistep sequences, metal catalysts, and laborious workup.
+Therefore, the exploration of new and more eﬃcient synthetic
+strategies, especially metal-free pathways, to access function-
+alized furo[3,2-b]pyridines is critical to the pharmaceutical and
+ﬁne chemical industries.
+
+N-substituted 4-aminofuran-2(5H)-ones possessing C,N-
+nucleophilic sites are versatile heterocyclic enamine (aza-ene)
+
+Figure 1. Biologically important furo[3,2-b]pyridine derivatives.
+
+Received:
+Published: February 18, 2015
+
+January 9, 2015
+
+© 2015 American Chemical Society
+
+2781
+
+DOI: 10.1021/acs.joc.5b00067
+J. Org. Chem. 2015, 80, 2781−2789
+
+The Journal of Organic Chemistry
+
+Article
+
+feedstocks in organic, medicinal, and materials chemistry.15 In
+particular, the heterocyclization of N-substituted 4-aminofuran-
+2(5H)-ones with a,b-nucleophilic centers has been investigated
+extensively over
+resulting in well-
+developed procedures16 (Figure 2, eq 1). However, in sharp
+
+few decades,
+
+the past
+
+Figure 2. Proﬁling applications of 4-aminofuran-2(5H)-ones.
+
+contrast, the simultaneous functionalization of a,c-active sites on a
+4-aminofuran-2(5H)-one ring generating aza-heterocyces has not
+been reported so far, although its great potential in C−N bond and
+C−C bond formation (eq 2). Due to the inductive eﬀect of the
+oxygen atom and the carbonyls on the furan ring, we conceived
+that deprotonation at the c-position could provide a suitable
+nucleophile, which would enable the construction of important
+multifunctional aza-heterocycles. Considering this challenging
+project and the great demand for the construction of aza-
+heterocycles, we designed a series of furo[3,2-b]pyridines via a
+regioselective transannulation between N-aryl 4-aminofuran-
+2(5H)-ones and 1,3-diaryl-2,3-epoxypropan-1-ones under
+microwave (MW) heating. Using 4-aminopyrrol-2(5H)-ones
+2 as replacement for 4-aminofuran-2(5H)-ones 1, this formal (3
++ 3) cycloaddition reaction gave two diﬀerent products
+depending on the electronic properties of the substituents on
+the aniline moiety of the 4-aminopyrrol-2(5H)-ones. The N-
+aryl 4-aminopyrrol-2(5H)-ones 2 bearing an electron-with-
+drawing group (EWG) aﬀorded a high yield of the desired
+pyrrolo[3,2-b]pyridines, whereas electron-neutral (ENG) and
+-donating (EDG) substituents preferred a diﬀerent reaction
+pathway,
+forming new polyfunctionalized pyrrolo[3,2-b]-
+pyrroles through C−C bond cleavage (Scheme 1).
+■ RESULTS AND DISCUSSION
+
+To develop metal-free conditions
+the regioselective
+transannulation, we started our study by preparing N-aryl 4-
+aminofuran-2(5H)-ones and 1,3-diaryl-2,3-epoxypropan-1-ones
+
+for
+
+Scheme 1. Synthesis of Substituted Fused Pyridines and
+Pyrroles
+
+in our laboratory according to the literature procedure.17 In
+order to optimize the reaction conditions, N-4-chlorophenyl 4-
+aminofuran-2(5H)-one 1a and 1,3-diphenyl-2,3-epoxypropan-
+1-one 3a were investigated as model substrates using diﬀerent
+bases for the synthesis of functional furo[3,2-b]pyridines (Table
+1).
+
+Table 1. Optimization of Conditions for Forming Product 4a
+under MW
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+base (equiv)
+Et3N (1.0)
+EtONa (1.0)
+NaOH (1.0)
+K2CO3 (1.0)
+Cs2CO3 (1.0)
+Cs2CO3 (1.0)
+Cs2CO3 (1.0)
+Cs2CO3 (1.0)
+Cs2CO3 (1.0)
+Cs2CO3 (1.0)
+Cs2CO3 (1.0)
+
+aIsolated yield.
+
+solvent
+
+temp (°C)
+
+yielda /%
+
+ethylene glycol
+ethylene glycol
+ethylene glycol
+ethylene glycol
+ethylene glycol
+EtOH
+CH3CN
+DMF
+ethylene glycol
+ethylene glycol
+ethylene glycol
+
+100
+100
+100
+100
+100
+100
+100
+100
+80
+120
+130
+
+trace
+trace
+31
+52
+74
+69
+32
+12
+70
+81
+79
+<para sub=“opt”>
+As shown in Table 1, the reaction aﬀorded only trace product
+in the presence of Et3N and EtONa (1.0 equiv) in ethylene
+glycol (EG) at 100 °C for 15 min. The desired product 4a was
+isolated in poor yield (31%) using NaOH as a base promoter.
+The use of K2CO3 gave higher yield (up to 52%). To our
+delight, the desired product 4a was obtained in 74% yield in the
+presence of Cs2CO3 (1.0 equiv) (Table 1, entry 5). Taking
+Cs2CO3 as the optimized base, we varied other parameters.
+Other polar solvents such as EtOH, acetonitrile, and DMF were
+inferior to ethylene glycol in terms of reaction yields. Next, the
+reaction temperature was investigated. Raising the temperature
+slightly to 120 °C proved more eﬃcient, aﬀording the expected
+product 4a in 81% yield. Further lowering or raising of the
+reaction temperature did not signiﬁcantly change the yield
+(entries 9 and 11).
+</para>
+<para sub="scope">
+The scope for N-aryl enamines was investigated ﬁrst under
+the optimized conditions [Cs2CO3 (1.0 equiv), EG, 120 °C,
+MW] (Scheme 2). First, the eﬀects of N-substituents on 4-
+aminofuran-2(5H)-ones were investigated by employing diﬀer-
+ent aryl groups bearing a variety of electron-withdrawing
+(chloro and bromo) or electron-donating groups (such as
+methyl and methoxyl). Among them, N-substituents bearing
+withdrawing groups showed the higher reactivity than their
+electron-donating counterparts. For
+instance, 4-((4-bromo-
+phenyl)amino)furan-2(5H)-one 1b with a bromo group
+reacted with 1,3-diphenyl-2,3-epoxypropan-1-ones 3a, aﬀording
+the corresponding product 4b in 82% yield. The presence of a
+methyl group on the phenyl ring of substrate 1f resulted in the
+desired product 4f in 66% yield. The exact structure of product
+4j was unequivocally determined by single-crystal X-ray
+analysis. These experimental facts indicated that the electronic
+nature of the N-substituents seemed to exert a delicate eﬀect on
+the reactivity. Then, a series of 1,3-diaryl-2,3-epoxypropan-1-
+ones with electronically poor substituents linked to the Ar2 ring
+</para>
+2782
+
+DOI: 10.1021/acs.joc.5b00067
+J. Org. Chem. 2015, 80, 2781−2789
+
+The Journal of Organic Chemistry
+Scheme 2. Synthesis of Functional Furo[3,2-b]pyridinesa,b
+
+Article
+
+bases and solvents for the optimized conditions (Table 2). The
+use of 1.0 equiv of Cs2CO3, NaOH, and Et3N as well as EtONa
+
+Table 2. Optimization of Conditions for Forming Product 5a
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+base (equiv)
+Cs2CO3 (1.0)
+Cs2CO3 (1.0)
+Cs2CO3 (1.0)
+Et3N (1.0)
+NaOH (1.0)
+EtONa (1.0)
+t-BuOK (1.0)
+t-BuOLi (1.0)
+t-BuOLi (1.0)
+t-BuOLi (1.0)
+t-BuOLi (1.0)
+t-BuOLi (1.0)
+
+solvent
+
+temp (°C)
+
+yield (%)
+
+ethylene glycol
+ethylene glycol
+DMF
+DMF
+DMF
+DMF
+DMF
+DMF
+CH3CN
+EtOH
+DMF
+DMF
+
+120
+50
+50
+50
+50
+50
+50
+50
+50
+50
+60
+40
+
+no
+no
+trace
+trace
+trace
+12
+52
+61
+60
+41
+82
+50
+<para sub=“opt”>
+in DMF was met with little success (Table 2, entries 2−6).
+Stronger bases such as t-BuOK and t-BuOLi were then tried,
+and 1.0 equiv of t-BuOK gave the target product 5a in 52%
+yield (entry 7). Exchanging t-BuOK for t-BuOLi (1.0 equiv) led
+to a slightly higher yield (61% yield, entry 8). After careful
+optimizations, we found that t-BuOLi (1.0 equiv) in DMF at 60
+°C was the most suitable condition for the cycloaddition
+reaction, aﬀording the expected product in the best yield of
+82% (entry 11).
+</para>
+<para sub="scope">
+this protocol
+
+With the established optimal conditions, we were eager to
+investigate the substrate scope of 4-aminopyrrol-2(5H)-one 2a
+and 1,3-diaryl-2,3-epoxypropan-1-ones 3. As shown in Scheme
+tolerates a broad range of 1,3-diaryl-2,3-
+3,
+epoxypropan-1-ones,
+leading to a highly diastereoselective
+synthesis of structurally diverse pyrrolo[3,2-b]pyridines in
+generally good yields. In detail, 1,3-diaryl-2,3-epoxypropan-1-
+ones 3 carrying either electronically poor, neutral, or rich
+groups could successfully participate in the [3 + 3] cyclo-
+addition with 4-aminopyrrol-2(5H)-one 2 with electron-
+withdrawing substituents in overall acceptable yields (up to
+82%) and high stereoselectivity (only one isomer except 5c).
+However, the bulk steric hindrance related to 1,3-diaryl-2,3-
+epoxypropan-1-ones decreased this reactive behavior, leading to
+relatively lower yields for products 5e−5g. Furthermore, 4-
+aminopyrrol-2(5H)-ones 2 bearing electron-neutral or electron-
+rich groups were examined by the reactions with 1,3-diaryl-2,3-
+epoxypropan-1-ones 3 under
+the optimal conditions. Un-
+the target pyrrolo[3,2-b]pyridines 5 were not
+expectedly,
+obtained. Instead, the reaction underwent another direction
+to form new polyfunctionalized pyrrolo[3,2-b]pyrroles 6
+through C−C bond cleavage (Scheme 4). Next, we set out to
+vary the substituents of 4-aminopyrrol-2(5H)-ones 2 and
+treated these derivatives to the treatment with 1,3-diphenyl-2,3-
+epoxypropan-1-one 3a. Both methyl and methoxy functional
+groups
+in the 4-aminopyrrol-2(5H)-ones delivered the
+corresponding pyrrolo[3,2-b]pyrroles 6b−c with good yields
+(Scheme 4, eq 1). Finally, single-crystal X-ray diﬀraction
+analysis of 6b was carried out
+structural
+further
+conﬁrmation. This above observation illustrates
+that
+the
+</para>
+for
+
+2783
+
+DOI: 10.1021/acs.joc.5b00067
+J. Org. Chem. 2015, 80, 2781−2789
+
+aReaction conditions: 1 (1.0 mmol), 3 (1.0 mmol), Cs2CO3 (1.0
+mmol), ethylene glycol (1.5 mL), 120 °C, MW. bIsolated yield based
+on substrate 1.
+<para sub="scope">
+were utilized in the transannulation, generating the desired
+furo[3,2-b]pyridines containing two stereogenic centers in
+generally high yields and excellent diastereoselectivity (only one
+isomer except 4n−4p). Among them, bulky 2-subsituted Ar2
+groups lowered the yield of the cycloaddition reaction relative
+to those obtained with 2-unsubsituted analogues, which
+indicated that the steric hindrance exerted some inﬂuence on
+the reactivity of the substrates. These examples showed the
+eﬃciency and applicability of this strategy to the simultaneous
+functionalization of the a,c-active sites on the 4-aminofuran-
+2(5H)-one ring.
+</para>
+<para sub=“opt”>
+After our success with functional furo[3,2-b]pyridines 4, we
+turned our attention to evaluating the feasibility of the synthesis
+of pyrrolo[3,2-b]pyridines 5. The cycloaddition reaction
+between N-4-chlorophenyl 4-aminopyrrol-2(5H)-one 2a and
+1,3-diphenyl-2,3-epoxypropan-1-one 3a was conducted under
+the conditions described above. The expected pyrrolo[3,2-
+b]pyridines 5a could not be obtained.
+Instead, a black
+gelatinous
+likely due to the
+decomposition of 4-aminopyrrol-2(5H)-one 2a as a result of
+the high temperature. Lowering the reaction temperature from
+120 to 50 °C failed to give the product 5a. Next, we adjusted
+liquid was observed, most
+</para>
+The Journal of Organic Chemistry
+Scheme 3. Synthesis of Functional Pyrrolo-Fused Pyridines 5a,b
+
+Article
+
+aReaction conditions: 2 (1.0 mmol), 3 (1.0 mmol), t-BuOLi (1.0 mmol), DMF (1.5 mL), 60 °C, MW. bIsolated yield based on substrate 2.
+
+Scheme 4. Synthesis of Functional Pyrrolo-Fused Pyrroles
+6a,b
+<para sub="scope">
+decorated fused pyrrol-2(5H)-ones, which are ubiquitous
+in a substantial number of bioactive
+structural units
+compounds.
+</para>
+<para sub="scope">
+After the formation of functional products 4−6, we devoted
+the new
+our eﬀorts to further probe the generality of
+Instead of heterocyclic enamines 1 or 2,
+transannulation.
+carbocyclic or acyclic enamines 7a−c were employed to react
+with substrate 3a, respectively (Scheme 5). Unfortunately,
+</para>
+Scheme 5. Exploration of Reaction Scope
+
+aReaction conditions: 2 (1.0 mmol), 3 (1.0 mmol), t-BuOLi (1.0
+mmol), DMF (1.5 mL), 60 °C, MW. bIsolated yield based on
+substrate 2.
+<para sub="scope">
+electronic nature of the substituents on the 4-aminopyrrol-
+2(5H)-ones may control chemoselectivity of the reaction. In
+order to gain insight regarding the C−C bond cleavage, some
+control experiments were performed under the optimal reaction
+conditions using diﬀerent substituents linked to the benzene
+ring of 1,3-diaryl-2,3-epoxypropan-1-one 3. (4-Chlorophenyl)-
+(3-phenyloxiran-2-yl)methanone and (3-(4-bromophenyl)-
+oxiran-2-yl)(4-methoxyphenyl)methanone were reacted with
+4-(p-tolylamino)-1H-pyrrol-2(5H)-one, respectively, transform-
+ing readily into 4-chlorophenyl and 4-methoxyphenyl sub-
+stituted pyrrolo[3,2-b]pyrroles 6d (62%) and 6e (72%)
+(Scheme 4, eqs 2 and 3). This suggested that the C−C bond
+cleavage occurred in the oxirane ring. In general, this new
+transannulation gives new examples for the formation of richly
+</para>
+<para sub="scope">
+almost all of the starting material was recovered and the desired
+product 8 was not detected at all. It is obvious that these
+carbocyclic or acyclic enamines 7a−c showed poor reactivity in
+the cycloaddition reaction.
+</para>
+<para sub="scope">
+On the basis of our experimental observations and literature
+precedents, plausible mechanistic pathways to products 4−6 are
+illustrated in Schemes 6 and 7. Initially, nucleophilic addition of
+heterocyclic enamines 1 or 2 (Ar1 = EWG) to the β-position of
+oxiranes 3 in the presence of base generates intermediate A,
+followed by H-transfer and intramolecular Knoevenagel
+fused pyridines 4 and 5
+condensation,
+(Scheme 6). Heterocyclic enamines 2 carrying electron-
+donating (EDG) and electron-neutral (ENG) aryl rings may
+enhance C5 nucleophilicity of
+the pyrrol-2(5H)-one ring,
+thereby favoring aldol-type reaction of oxiranes 3. In view of
+this consideration, the N-position of heterocyclic enamines 2c−
+e (Ar1 = EDG or ENG) is activated by strong base, which
+undergoes 1,3-H transfer to form intermediate C. Intermediate
+C facilitates aldol-type reaction of oxiranes 3, providing adduct
+intermediate D. Next, the N-position of adduct intermediate D
+
+to aﬀord the ﬁnal
+</para>
+2784
+
+DOI: 10.1021/acs.joc.5b00067
+J. Org. Chem. 2015, 80, 2781−2789
+
+The Journal of Organic Chemistry
+Scheme 6. Plausible Mechanistic Pathways to Products 4−5
+
+Scheme 7. Plausible Mechanistic Pathways to Products 6
+<para sub="scope">
+attacks selectively on the α-position of oxiranes 3 in an
+intramolecular manner, giving rise to intermediate E.
+Intermediate E releases an aryl aldehyde and a hydroxyl
+anion to yield pyrrolo[3,2-b]pyrrole intermediate F, which
+converted into the ﬁnal pyrrolo[3,2-b]pyrroles 6 through
+tautomerization (Scheme 7). In both reactions, the key steps
+of bifurcate transannulations to diﬀerent products involve
+nucleophilic addition of heterocyclic enamines to diﬀerent
+positions of oxiranes 3, despite that the detailed reason for
+these divergent additions is not yet clear to us.
+</para>
+In summary, we have established a new and versatile base-
+promoted transannulation of heterocyclic enamines and 2,3-
+epoxypropan-1-ones, allowing the conversion of simple starting
+materials into substituted fused pyridines and pyrroles with
+excellent regio- and stereoselectivity. The formal [3 + 3]
+cycloaddition simultaneously installs a C−N and a C−C bond
+through a key C−O bond cleavage process, enabling the
+eﬃcient synthesis of diverse furo[3,2-b]pyridines and pyrrolo-
+[3,2-b]pyridines with biological relevance. The latter provides a
+new insight into the [3 + 2] heterocyclization, depending on
+the electronic properties of the substituents on the aniline
+moiety of the 4-aminopyrrol-2(5H)-ones, which represents a
+special example for forming pyrrolo[3,2-b]pyrroles through a
+C−O bond and a C−C bond cleavage process. Further study of
+the mechanism of
+transformations and
+evaluation of their biological activity are in progress.
+
+these divergent
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General. Microwave irradiation was carried out with Initiator 2.5
+Microwave Synthesizers from Biotage, Uppsala, Sweden. The reaction
+temperatures were measured by an infrared detector during microwave
+heating.
+</para>
+Article
+<para sub=“exp”>
+General Procedure for the Synthesis of 4. Example for the
+Synthesis of 4a. 4-((4-Chlorophenyl)amino)furan-2(5H)-one (1a, 1.0
+mmol, 209 mg) was introduced in a 10 mL Initiator reaction vial; 1,3-
+diphenyl-2,3-epoxypropan-1-ones (3a, 1.0 mmol, 224 mg) and
+Cs2CO3 (1.0 mmol, 326 mg) as well as ethylene glycol (1.5 mL)
+were then successively added. Subsequently, the reaction vial was
+capped and then prestirred for 20 s. The mixture was irradiated (time,
+20 min; temperature, 120 °C; absorption level, high; ﬁxed hold time)
+until TLC (petroleum ether/acetone V/V = 3/1) revealed that
+conversion of the starting material 1a was complete. The system was
+diluted with cold water (40 mL). The solid product was collected by
+Büchner ﬁltration and puriﬁed by ﬂash column chromatography (silica
+gel, mixtures of petroleum ether/ethyl acetate) to aﬀord the pure
+product 4a.
+
+4-(4-Chlorophenyl)-6-hydroxy-5,7-diphenyl-5,6-dihydrofuro[3,2-
+b]pyridin-2(4H)-one (4a). Yellow solid (336 mg, 81% yield): mp
+201−203 °C.
+1H NMR (400 MHz, DMSO-d6) δ 7.73 (d, J = 8.0 Hz, 2H), 7.50 (d,
+J = 8.8 Hz, 2H), 7.42 (t, J = 7.6 Hz, 2H), 7.38−7.33 (m, 7H), 7.28 (s,
+1H), 6.39 (d, J = 7.6 Hz, 1H), 5.38 (s, 1H), 5.22 (s, 1H), 4.84 (d, J =
+7.6 Hz, 1H); 13C NMR (100 MHz, DMSO-d6) δ 169.9, 154.8, 142.3,
+142.2, 137.8, 133.8, 130.6, 130.1, 129.5, 129.1, 128.6, 128.4, 126.5,
+124.9, 112.4, 82.3, 71.4, 70.3; IR (KBr, v) 3351, 2341, 1737, 1606,
+1494, 1216, 1011, 847, 695 cm−1; HRMS (APCI-TOF) m/z calcd for
+[M + H]+ C25H19ClNO3 416.1053, found 416.1068.
+
+4-(4-Bromophenyl)-6-hydroxy-5,7-diphenyl-5,6-dihydrofuro[3,2-
+b]pyridin-2(4H)-one (4b). Yellow solid (375 mg, 82% yield): mp
+212−214 °C.
+1H NMR (400 MHz, DMSO-d6) δ 7.72 (d, J = 7.6 Hz, 2H), 7.62 (d,
+J = 8.8 Hz, 2H), 7.42 (t, J = 7.6 Hz, 2H), 7.37−7.33 (m, 5H), 7.27 (d,
+J = 8.8 Hz, 3H), 6.37 (d, J = 7.6 Hz, 1H), 5.39 (s, 1H), 5.22 (s, 1H),
+4.84 (d, J = 7.6 Hz, 1H); 13C NMR (100 MHz, DMSO-d6) δ 169.9,
+154.6, 142.7, 142.2, 137.8, 133.8, 133.0, 129.5, 129.1, 128.6, 128.4,
+126.5, 125.2, 118.8, 112.5, 82.4, 71.4, 70.3; IR (KBr, v) 3381, 2341,
+1741, 1615, 1488, 1251, 1072, 872, 698 cm−1; HRMS (APCI-TOF)
+m/z calcd for [M + H]+ C25H19BrNO3 462.0526, found 462.0520.
+
+4-(3,4-Dichlorophenyl)-6-hydroxy-5,7-diphenyl-5,6-dihydrofuro-
+[3,2-b]pyridin-2(4H)-one (4c). White solid (314 mg, 70% yield): mp
+223−225 °C.
+1H NMR (400 MHz, DMSO-d6) δ 7.71 (m, 3H), 7.53 (d, J = 2.8
+Hz, 1H), 7.44−7.29 (m, 9H), 6.39 (d, J = 7.6 Hz, 1H), 5.50 (s, 1H,),
+5.29 (s, 1H), 4.85 (d, J = 7.6 Hz, 1H); 13C NMR (100 MHz, DMSO-
+d6) δ 169.8, 154.4, 143.4, 142.0, 137.6, 133.8, 132.4, 132.0, 129.6,
+129.2, 129.1, 128.7, 128.6, 128.5, 126.5, 125.0, 123.4, 112.8, 83.4, 71.3,
+70.1; IR(KBr, v) 3358, 2361, 1737, 1603, 1475, 1288, 1037, 895, 695
+cm−1; HRMS (APCI-TOF) m/z calcd for [M + H]+ C25H18Cl2NO3
+450.0658, found 450.0654.
+
+4-(3,5-Dichlorophenyl)-6-hydroxy-5,7-diphenyl-5,6-dihydrofuro-
+[3,2-b]pyridin-2(4H)-one (4d). Pale white solid (265 mg, 59% yield):
+mp 237−239 °C.
+1H NMR (400 MHz, DMSO-d6) δ 7.72 (d, J = 7.2 Hz, 2H), 7.52 (s,
+1H), 7.45−7.39 (m, 3H), 7.37 (d, J = 2.0 Hz, 3H), 7.32 (d, J = 1.6 Hz,
+4H), 6.34 (d, J = 8.0 Hz, 1H,), 5.57 (s, 1H), 5.32 (s, 1H), 4.86 (d, J =
+8.0 Hz, 1H); 13C NMR (100 MHz, DMSO-d6) δ 169.7, 154.2, 145.7,
+142.0, 137.5, 135.3, 133.7, 129.6 129.2, 129.1, 128.7, 128.5, 126.5,
+126.2, 121.9, 112.9, 84.1, 71.3, 70.0; IR (KBr, v) 3391, 2361, 1730,
+1572, 1447, 1212, 1044, 811, 852, 692 cm−1; HRMS (APCI-TOF) m/
+z calcd for [M + H]+ C25H18Cl2NO3 450.0658, found 450.0657.
+one (4e). Pale white solid (271 mg, 71% yield): mp 243−245 °C.
+1H NMR (400 MHz, DMSO-d6) δ 7.73 (d, J = 7.6 Hz, 2H), 7.43 (d,
+J = 7.6 Hz, 4H), 7.37−7.32 (m, 7.0 Hz, 7H), 7.27 (d, J = 7.2 Hz, 2H),
+6.36 (d, J = 7.6 Hz, 1H), 5.28 (s, 1H), 5.23 (s, 1H), 4.83 (d, J = 7.2
+Hz, 1H); 13C NMR (100 MHz, DMSO-d6) δ 170.0, 155.0, 143.4,
+142.3, 138.1, 133.9, 130.1, 129.5, 129.1, 129.0, 128.6, 128.3, 126.7,
+126.6, 123.1, 112.2, 81.5, 71.5, 70.4; IR (KBr, v) 3369, 2342, 1738,
+1614, 1493, 1274, 1048, 869, 695 cm−1; HRMS (APCI-TOF) m/z
+calcd for [M + H]+ C25H20NO3 382.1438, found 382.1439.
+
+6-Hydroxy-4,5,7-triphenyl-5,6-dihydrofuro[3,2-b]pyridin-2(4H)-
+</para>
+2785
+
+DOI: 10.1021/acs.joc.5b00067
+J. Org. Chem. 2015, 80, 2781−2789
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+6-Hydroxy-5,7-diphenyl-4-(p-tolyl)-5,6-dihydrofuro[3,2-b]pyridin-
+2(4H)-one (4f). Pale white solid (261 mg, 66% yield): mp 246−248
+°C.
+1H NMR (400 MHz, DMSO-d6) δ 7.72 (d, J = 7.6 Hz, 2H), 7.41 (t,
+J = 7.6 Hz, 2H), 7.38−7.30 (m, 5H), 7.29−7.20 (m, 5H), 6.35 (d, J =
+7.2 Hz, 1H), 5.18 (s, 2H), 4.80 (d, J = 7.6 Hz, 1H), 2.29 (s, 3H); 13C
+NMR (100 MHz, DMSO-d6) δ 170.0, 155.2, 142.3, 140.9, 138.1,
+136.3, 134.0, 130.6, 129.4, 129.1, 129.0, 128.6, 128.3, 126.6, 123.4,
+112.1, 80.9, 71.4, 70.6, 21.0; IR (KBr, v) 3691, 2361, 1742, 1599,
+1509,1436, 1034, 867, 699 cm−1; HRMS (APCI-TOF) m/z calcd for
+[M + H]+ C26H22NO3 396.1564, found 396.1564.
+
+6-Hydroxy-4-(4-methoxyphenyl)-5,7-diphenyl-5,6-dihydrofuro-
+[3,2-b]pyridin-2(4H)-one (4g). White solid (255 mg, 63% yield): mp
+239−241 °C.
+1H NMR (400 MHz, DMSO-d6) δ 7.72 (d, J = 7.6 Hz, 2H), 7.41 (t,
+J = 7.6 Hz, 2H), 7.36−7.31 (m, 5H), 7.26 (d, J = 9.2 Hz, 3H), 6.99 (d,
+J = 9.2 Hz, 2H), 6.35 (d, J = 7.6 Hz, 1H), 5.12 (s, 1H), 5.04 (s, 1H),
+4.78 (d, J = 7.2 Hz, 1H), 3.74 (s, 3H); 13C NMR (100 MHz, DMSO-
+d6) δ 170.0, 158.0, 155.7, 142.2, 138.0, 136.1, 134.0, 129.4, 129.1,
+129.0, 128.6, 128.3, 126.7, 125.4, 115.3, 112.0, 80.2, 71.5, 71.0, 55.8; IR
+(KBr, v) 3375, 2342, 1740, 1599, 1510, 1247, 1032, 865, 759, 669
+cm−1; HRMS (APCI-TOF) m/z calcd for [M + H]+ C26H22NO4
+412.1543, found 412.1543.
+
+4-(3-Bromo-4-methylphenyl)-6-hydroxy-5,7-diphenyl-5,6-
+dihydrofuro[3,2-b]pyridin-2(4H)-one (4h). White solid (359 mg, 76%
+yield): mp 240−242 °C.
+1H NMR (400 MHz, DMSO-d6) δ 7.72 (d, J = 7.6 Hz, 2H), 7.50 (d,
+J = 2.0 Hz, 1H), 7.44−7.39 (m, 3H), 7.38−7.32 (m, 5H), 7.30−7.25
+(m, 2H), 6.34 (d, J = 7.6 Hz, 1H), 5.29 (s, 1H), 5.22 (s, 1H), 4.82 (d, J
+= 7.6 Hz, 1H), 2.33 (s, 3H); 13C NMR (100 MHz, DMSO-d6) δ 169.8,
+154.9, 142.4, 142.1, 137.7, 136.0, 133.9, 132.3, 129.5, 129.1, 128.6,
+128.4, 126.8, 126.6, 124.8, 122.8, 112.5, 82.0, 71.4, 70.4, 22.4; IR (KBr,
+v) 3374, 2342, 1742, 1590, 1494, 1212, 1039, 775, 693 cm−1; HRMS
+(APCI-TOF) m/z calcd for [M + H]+ C26H21BrNO3 476.0683, found
+476.0687.
+
+4,5-Bis(4-chlorophenyl)-6-hydroxy-7-phenyl-5,6-dihydrofuro[3,2-
+b]pyridin-2(4H)-one (4i). Pale white solid (305 mg, 68% yield): mp
+209−211 °C.
+1H NMR (400 MHz, DMSO-d6) δ 7.73 (d, J = 7.2 Hz, 2H), 7.50 (d,
+J = 8.8 Hz, 2H), 7.42 (t, J = 6.4 Hz, 4H), 7.38−7.31 (m, 5H), 6.41 (s,
+1H), 5.38 (s, 1H), 5.24 (s, 1H), 4.81 (s, 1H); 13C NMR (100 MHz,
+DMSO-d6) δ 169.8, 154.6, 142.1, 136.8, 133.7, 133.1, 130.7, 130.2,
+129.5, 129.1, 128.6, 128.6, 125.0, 112.4, 82.6, 71.1, 69.6; IR (KBr, v)
+3379, 2341, 1736, 1585, 1492, 1255, 1092, 781, 688 cm−1; HRMS
+(APCI-TOF) m/z calcd for [M + H]+ C25H18Cl2NO3 450.0663, found
+450.0660.
+
+4-(4-Bromophenyl)-5-(4-chlorophenyl)-6-hydroxy-7-phenyl-5,6-
+dihydrofuro[3,2-b]pyridin-2(4H)-one (4j). Yellow solid (330 mg, 67%
+yield): mp 200−202 °C.
+1H NMR (400 MHz, DMSO-d6) δ 7.72 (d, J = 8.0 Hz, 2H), 7.50 (d,
+J = 8.8 Hz, 2H), 7.45−7.41 (m, 4H), 7.39−7.32 (m, 3H), 7.26 (d, J =
+8.8 Hz, 2H), 6.39 (d, J = 7.6 Hz, 1H), 5.39 (s, 1H), 5.24 (s, 1H), 4.82
+(d, J = 8.0 Hz, 1H); 13C NMR (100 MHz, DMSO-d6) δ 169.9, 154.5,
+142.7, 142.2, 137. 3, 133.8, 133.2, 132.5, 132.0, 129.2, 129.0, 128.7,
+125.3, 121.8, 119.0, 112.5, 82.8, 71.2, 69.7; IR (KBr, v) 3348, 2330,
+1721, 1618, 1490, 1210, 1011, 854, 702 cm−1; HRMS (APCI-TOF)
+m/z calcd for [M + H]+ C25H18BrClNO3 496.0133, found 496.0132.
+5-(4-Chlorophenyl)-4-(3,4-dichlorophenyl)-6-hydroxy-7-phenyl-
+5,6-dihydrofuro[3,2-b]pyridin-2(4H)-one (4k). Pale yellow solid (280
+mg, 58% yield): mp 219−221 °C.
+1H NMR (400 MHz, DMSO-d6) δ 7.74−7.68 (m, 3H), 7.55 (s,
+1H), 7.44−7.41 (m, 4H), 7.37 (d, J = 8.8 Hz, 3H), 7.29 (d, J = 8.8 Hz,
+1H), 6.37 (d, J = 8.0 Hz, 1H), 5.50 (s, 1H), 5.30 (s, 1H), 4.83 (d, J =
+8.0 Hz, 1H); 13C NMR (100 MHz, DMSO-d6) δ 169.7, 154.2, 143.2,
+142.0, 136.6, 133.7, 133.1, 132.4, 132.0, 129.5, 129.2, 129.1, 128.8, 128.
+7, 128.6, 125.2, 123.5, 112.8, 83.7, 71.1, 69.4; IR (KBr, v) 3387, 2361,
+1733, 1604, 1415, 1287, 1117, 783, 691 cm−1; HRMS (APCI-TOF)
+m/z calcd for [M + H]+ C25H17Cl3NO3 486.0243, found 486.0243.
+
+4,5-Bis(4-bromophenyl)-6-hydroxy-7-phenyl-5,6-dihydrofuro[3,2-
+b]pyridin-2(4H)-one (4l). White yellow solid (372 mg, 65% yield): mp
+222−224 °C.
+
+1H NMR (400 MHz, DMSO-d6) δ 7.73 (d, J = 7.6 Hz, 2H), 7.63 (d,
+J = 8.8 Hz, 2H), 7.56 (d, J = 8.4 Hz, 2H), 7.43 (t, J = 7.6 Hz, 2H),
+7.37−7.24 (m, 5H), 6.41 (d, J = 7.6 Hz, 1H), 5.40 (s, 1H), 5.23 (s,
+1H), 4.82 (d, J = 7.6 Hz, 1H); 13C NMR (100 MHz, DMSO-d6) δ
+169.8, 154.4, 142.5, 142.1, 137.2, 133.7, 133.1, 132.4, 129.1, 128.9,
+128.6, 125.2, 121.7, 118.9, 112.4, 82.7, 71.1, 69.6; IR (KBr, v) 3364,
+1719, 1624, 1433, 1307, 1261, 1011, 837, 720, 691 cm−1; HRMS
+(APCI-TOF) m/z calcd for [M + H]+ C25H18Br2NO3 539.9633, found
+539.9629.
+
+5-(2,3-Dichlorophenyl)-4-(4-ﬂuorophenyl)-6-hydroxy-7-phenyl-
+5,6-dihydrofuro[3,2-b]pyridin-2(4H)-one (4m). Pale white solid (262
+mg, 56% yield): mp 213-215 °C.
+1H NMR (400 MHz, DMSO-d6) δ 7.72−7.62 (m, 3H), 7.43−7.36
+(m, 9H), 6.76 (s, 1H), 5.43 (s, 1H), 5.23 (s, 1H), 4.76 (s, 1H); 13C
+NMR (100 MHz, DMSO-d6) δ 169.7, 160.0 (1JCF = 243.4 Hz), 155.3,
+142.0, 139.3, 137.0, 133.7, 133.3, 131.0, 130.2 (3JCF = 7.1 Hz), 129.5
+129.2, 128.6, 126.5, 126.2, 126.1, 117.3 (2JCF = 22.9 Hz), 112.2, 82.2,
+68.9, 68.9; IR(KBr, v) 3385, 2341, 1732, 1606, 1413, 1218, 1055, 864,
+692 cm−1; HRMS (APCI-TOF) m/z calcd for [M + H]+
+C25H17Cl2FNO3 468.0564, found 468.0556.
+
+4-(4-Bromophenyl)-5-(2,3-dichlorophenyl)-6-hydroxy-7-phenyl-
+5,6-dihydrofuro[3,2-b]pyridin-2(4H)-one (4n). White solid (332 mg,
+63% yield): mp 239−241 °C.
+1H NMR (400 MHz, DMSO-d6) δ 7.71 (d, J = 7.6 Hz, 2H), 7.65 (d,
+J = 8.8 Hz, 3H), 7.61 (s, 1H), 7.46−7.40 (m, 3H), 7.40−7.34 (m, 2H),
+7.26 (d, J = 8.8 Hz, 2H), 6.75 (d, J = 7.6 Hz, 1H), 5.44 (s, 1H), 5.38
+(s, 1H), 4.77 (d, J = 7.6 Hz, 1H); 13C NMR (100 MHz, DMSO-d6) δ
+169.7, 154.6, 142.3, 142.0, 136.9, 133.7, 133.3, 132.7, 131.0, 130.1,
+129.5, 129.2, 128.6, 126.4, 125.5, 123.2, 119.5, 112.3, 83.2, 68.8, 68.6;
+IR (KBr, v) 3376, 2360, 1734, 1602, 1414, 1286, 1052, 896, 692 cm−1;
+HRMS (APCI-TOF) m/z calcd for [M + H]+ C25H17BrCl2NO3
+529.9742, found 529.9736.
+
+4,5-Bis(2,3-dichlorophenyl)-6-hydroxy-7-phenyl-5,6-dihydrofuro-
+[3,2-b]pyridin-2(4H)-one (4o). White solid (315 mg, 61% yield): mp
+236−238 °C.
+1H NMR (400 MHz, DMSO-d6) δ 7.71 (d, J = 8.0 Hz, 3H), 7.65−
+7.61 (m, 2H), 7.42 (d, J = 8.0 Hz, 3H), 7.37−7.32 (m, 2H), 7.25 (d, J
+= 6.4 Hz, 1H), 6.71 (d, J = 7.6 Hz, 1H), 5.49 (s, 1H), 5.46 (s, 1H),
+4.79 (d, J = 7.6 Hz, 1H); 13C NMR (100 MHz, DMSO-d6) δ 169.6,
+154.4, 142.9, 141.8, 136.6, 133.6, 133.3, 132.6, 132.4, 131.1, 130.2,
+129.6, 129.5, 129.3, 129.2, 128.9, 128.6, 125.8, 121.0, 112.5, 84.0, 68.9,
+68.6; IR (KBr, v) 3350, 2338, 1732, 1574, 1475, 1283,1096, 864, 688
+cm−1; HRMS (APCI-TOF) m/z calcd for [M + H]+ C25H16Cl4NO3
+519.9852, found 519.9851.
+
+5-(2,3-Dichlorophenyl)-4-(3,5-dichlorophenyl)-6-hydroxy-7-phe-
+nyl-5,6-dihydrofuro[3,2-b]pyridin-2(4H)-one (4p). Yellow solid (300
+mg, 58% yield): mp 232−234 °C.
+
+1H NMR (400 MHz, DMSO-d6) δ 7.71 (d, J = 7.3 Hz, 2H), 7.63 (d,
+J = 6.4 Hz, 1H), 7.58 (s, 1H), 7.42 (d, J = 8.0 Hz, 3H), 7.36 (d, J = 2.0
+Hz, 4H), 6.69 (d, J = 7.6 Hz, 1H), 5.52 (s, 1H), 5.49 (s, 1H), 4.81 (d, J
+= 7.6 Hz, 1H); 13C NMR (100 MHz, DMSO-d6) δ 169.5, 154.2, 145.2,
+141.7, 136.5, 135.6, 133.5, 133.3, 131.1, 130.1, 129.6, 129.3, 129.2,
+128., 127.1, 126.5, 122.7, 112.7, 84.6, 68.8, 68.5; IR (KBr, v) 3424,
+2361, 1735, 1605, 1409, 1297,1117, 874, 689 cm−1; HRMS (APCI-
+TOF) m/z calcd for [M + H]+ C25H16Cl4NO3 519.9852,
+found
+519.9854.
+
+5-(2,4-Dichlorophenyl)-4-(3,4-dichlorophenyl)-6-hydroxy-7-phe-
+nyl-5,6-dihydrofuro[3,2-b]pyridin-2(4H)-one (4q). White solid (331
+mg, 64% yield): mp 228−230 °C.
+
+1H NMR (400 MHz, DMSO-d6) δ 7.71 (d, J = 9.2 Hz, 4H), 7.61 (s,
+1H), 7.44 (t, J = 7.6 Hz, 3H), 7.36 (t, J = 7.6 Hz, 2H), 7.26 (d, J = 8.8
+Hz, 1H), 6.72 (d, J = 7.6 Hz, 1H), 5.50 (s, 1H), 5.39 (s, 1H), 4.76 (d, J
+= 7.6 Hz, 1H); 13C NMR (100 MHz, DMSO-d6) δ 169.6, 154.4, 142.9,
+141.8, 134.3, 133.6, 133.2, 133.2, 132.6, 132.4, 130.5, 129.6, 129.3,
+129.2, 129.2, 128.8, 128.6, 125.8, 123.8, 112.5, 84.0, 68.9, 67.6; IR
+(KBr, v) 3352, 1776, 1467, 1333, 1048, 836, 700, 654 cm−1; HRMS
+</para>
+2786
+
+DOI: 10.1021/acs.joc.5b00067
+J. Org. Chem. 2015, 80, 2781−2789
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+(APCI-TOF) m/z calcd for [M + H]+ C25H16Cl4NO3 519.9852, found
+519.9861.
+
+5-(2,4-Dichlorophenyl)-4-(3,5-dichlorophenyl)-6-hydroxy-7-phe-
+nyl-5,6-dihydrofuro[3,2-b]pyridin-2(4H)-one (4r). Pale white solid
+(321 mg, 62% yield): mp 224−226 °C.
+1H NMR (400 MHz, DMSO-d6) δ 7.75−7.67 (m, 3H), 7.59 (s,
+1H), 7.44 (t, J = 7.6 Hz, 3H), 7.36 (d, J = 8.4 Hz, 4H), 6.69 (d, J = 7.6
+Hz, 1H), 5.55 (s, 1H), 5.41 (s, 1H), 4.77 (d, J = 7.6 Hz, 1H); 13C
+NMR (100 MHz, DMSO-d6) δ 169.5, 154.2, 145.2, 141.8, 135.6,
+134.4, 133.5, 133.1, 133.0, 130.5, 129.3, 129.2, 128.9, 128.6, 127.1,
+122.6, 112.6, 84.7, 68.9, 67.6; IR (KBr, v) 3371, 2259, 1737, 1679,
+1468, 1297, 1097, 854, 694 cm−1; HRMS (APCI-TOF) m/z calcd for
+[M + H]+ C25H16Cl4NO3 519.9852, found 519.9844.
+
+5-(2,4-Dichlorophenyl)-6-hydroxy-7-phenyl-4-(p-tolyl)-5,6-
+dihydrofuro[3,2-b]pyridin-2(4H)-one (4s). White solid (324 mg, 70%
+yield): mp 220−222 °C.
+1H NMR (400 MHz, DMSO-d6) δ 7.73−7.69 (m, 3H), 7.47−7.42
+(m, 3H), 7.37−7.33 (m, 2H), 7.27 (d, J = 8.4 Hz, 2H), 7.21 (d, J = 8.4
+Hz, 2H), 6.72 (d, J = 7.6 Hz, 1H), 5.38 (s, 1H), 5.18 (s, 1H), 4.71 (d, J
+= 7.6 Hz, 1H), 2.29 (s, 3H); 13C NMR (100 MHz, DMSO-d6) δ 169.8,
+155.2, 142.1, 140.4, 137.0, 134.1, 133.8, 133.7, 133.2, 130.8, 130.4,
+129.2, 128.7, 128.6, 123.7, 112.0, 81.7, 69.0, 67.8, 21.0; IR (KBr, v)
+3308, 2342, 1735, 1654, 1431, 1271, 1039, 883, 682 cm−1; HRMS
+(APCI-TOF) m/z calcd for [M + H]+ C26H20Cl2NO3 464.0815, found
+464.0819.
+
+5-(2,4-Dichlorophenyl)-6-hydroxy-4-(4-methoxyphenyl)-7-phe-
+nyl-5,6-dihydrofuro[3,2-b]pyridin-2(4H)-one (4t). Yellow solid (311
+mg, 65% yield): mp 236−239 °C.
+1H NMR (400 MHz, DMSO-d6) δ 7.72 (d, J = 7.6 Hz, 2H), 7.69 (s,
+1H), 7.48−7.42 (m, 3H), 7.40−7.34 (m, 2H), 7.27 (d, J = 8.8 Hz,
+2H), 7.01 (d, J = 8.8 Hz, 2H), 6.72 (d, J = 7.6 Hz, 1H), 5.35 (s, 1H),
+5.06 (s, 1H), 4.70 (d, J = 7.6 Hz, 1H), 3.75 (s, 3H); 13C NMR (100
+MHz, DMSO-d6) δ 169.8, 158.3, 155.7, 142.0, 135.6, 134.1, 133.8,
+133.6, 133.3, 130.3, 129.2, 129.2, 129.1, 128.7, 128.5, 125.7, 115.5,
+111.9, 81.1, 69.0, 68.1, 55.8; IR (KBr, v) 3396, 2341, 1727, 1595, 1425,
+1219, 1042, 879, 696 cm−1; HRMS (APCI-TOF) m/z calcd for [M +
+H]+ C26H20Cl2NO4 480.0764, found 480.0733.
+
+General Procedure for the Synthesis of 5. Example for the
+Synthesis of 5a. 4-((4-Chlorophenyl)amino)-1H-pyrrol-2(5H)-one
+(2a, 1.0 mmol, 208 mg) was introduced in a 10 mL Initiator reaction
+vial; 1,3-diphenyl-2,3-epoxypropan-1-one (3a, 1.0 mmol, 224 mg) and
+t-BuOLi (1.0 mmol, 80 mg) as well as DMF (1.5 mL) were then
+successively added. Subsequently, the reaction vial was capped and
+then prestirred for 20 s. The mixture was irradiated (time, 30 min;
+temperature, 60 °C; absorption level, high; ﬁxed hold time) until TLC
+(petroleum ether/ethyl acetate V/V = 4/1) revealed that conversion of
+the starting material 2a was complete. After the reaction mixture was
+cooled to room temperature, water (20 mL) was added into the
+reaction system, resulting in a black viscous liquid isolated from the
+solution through liquid separation and extraction by using ethyl
+acetate. The organic phase was concentrated by vacuum distillation
+and was puriﬁed by ﬂash column chromatography (silica gel, mixtures
+of petroleum ether/ethyl acetate) to aﬀord the desired pure product
+5a as a yellow solid.
+
+4-(4-Chlorophenyl)-6-hydroxy-5,7-diphenyl-5,6-dihydro-1H-
+pyrrolo[3,2-b]pyridin-2(4H)-one (5a). Yellow solid (339 mg, 82%
+yield): mp 242−244 °C.
+1H NMR (400 MHz, DMSO-d6) δ 9.38 (s, 1H), 7.46−7.40 (m,
+4H), 7.38−7.29 (m, 7H), 7.28−7.23 (m, 3H), 6.06 (d, J = 7.2 Hz,
+1H), 5.15 (d, J = 1.2 Hz, 1H), 5.04 (s, 1H), 4.52 (dd, J1 = 2.0 Hz, J2 =
+2.0 Hz, 1H); 13C NMR (100 MHz, DMSO-d6) δ 173.5, 150.3, 143.6,
+139.1, 136.9, 132.7, 129.8, 129.3, 129.1, 129.0, 128.1, 128.0, 127.9,
+126.6, 124.4, 112.1, 89.0, 72.7, 70.1; IR (KBr, ν) 3048, 2912, 2869,
+1748, 1672, 838, 750, 612 cm−1; HRMS (APCI-TOF) m/z calcd for
+[M + H]+ C25H20ClN2O2 415.1213, found 415.1217.
+
+4-(4-Bromophenyl)-6-hydroxy-5,7-diphenyl-5,6-dihydro-1H-
+pyrrolo[3,2-b]pyridin-2(4H)-one (5b). Yellow solid (362 mg, 79%
+yield): mp 238−240 °C.
+1H NMR (400 MHz, DMSO-d6) δ 9.38 (s, 1H), 7.60−7.54 (m,
+2H), 7.44−7.38 (m, 2H), 7.36−7.25 (m, 7H), 7.25−7.16 (m, 3H),
+
+6.06 (d, J = 7.2 Hz, 1H), 5.15 (d, J = 1.2 Hz, 1H), 5.04 (s, 1H), 4.52
+(dd, J1 = 2.0 Hz, J2 = 2.0 Hz, 1H); 13C NMR (100 MHz, DMSO-d6) δ
+173.5, 150.2, 144.0, 139.1, 136.9, 132.7, 132.7, 129.3, 129.0, 128.1,
+128.1, 127.9, 126.6, 124.7, 117.2, 112.2, 89.1, 72.7, 70.0; IR (KBr, ν)
+3042, 2918, 2879, 1740, 1677, 826, 750, 613 cm−1; HRMS (APCI-
+TOF) m/z calcd for [M + H]+ C25H20BrN2O2 459.0708,
+found
+459.0707.
+
+7-(3-Chlorophenyl)-4,5-bis(4-chlorophenyl)-6-hydroxy-5,6-dihy-
+dro-1H-pyrrolo[3,2-b]pyridin-2(4H)-one (5c). Yellow solid (280 mg,
+58% yield): mp 221−223 °C.
+1H NMR (400 MHz, DMSO-d6) δ 9.62 (s, 1H), 7.46−7.42 (m,
+4H), 7.37−7.32 (m, 5H), 7.29−7.23 (m, 3H), 6.15 (d, J = 7.6 Hz,
+1H), 5.16 (s, 1H), 5.04 (d, J = 12.8 Hz,1H), 4.48 (d, J = 7.2 Hz, 1H);
+13C NMR (100 MHz, DMSO-d6) δ 173.6, 150.0, 143.3, 138.9, 137.9,
+133.7, 133.7, 132.7, 130.8, 129.9, 129.4, 128.2, 128.1, 127.8, 126.8,
+124.6, 110.4, 89.4, 79.4, 72.3, 69.3; IR (KBr, ν) 3554, 3061, 1638,
+1492, 858, 764, 623 cm−1; HRMS (APCI-TOF) m/z calcd for [M +
+H]+ C25H18Cl3N2O2 483.0434, found 483.0439.
+
+5-(4-Bromophenyl)-4-(4-chlorophenyl)-6-hydroxy-7-(4-methoxy-
+phenyl)-5,6-dihydro-1H-pyrrolo[3,2-b]pyridin-2(4H)-one (5d). Yel-
+low solid (386 mg, 74% yield): mp 247−249 °C.
+
+1H NMR (400 MHz, DMSO-d6) δ 9.34 (s, 1H), 7.55 (d, J = 8.0 Hz,
+2H), 7.44 (d, J = 8.4 Hz, 2H), 7.37 (d, J = 8.4 Hz, 2H), 7.26 (d, J = 8.4
+Hz, 4H), 6.91 (d, J = 8.4 Hz, 2H), 6.04 (d, J = 7.2 Hz, 1H), 5.13 (s,
+1H), 5.01 (s, 1H), 4.47 (d, J = 6.8 Hz, 1H), 3.75 (s, 3H); 13C NMR
+(100 MHz, DMSO-d6) δ 173.4, 159.1, 150.0, 143.5, 138.7, 132.2,
+131.5, 129.9, 129. 6, 129.1, 129.0, 128.9, 124.4, 121.2, 114.5, 112.1,
+89.1, 72.4, 69.4, 55.6; IR (KBr, ν) 3553, 3064, 1656, 1434, 874, 716,
+623 cm−1; HRMS (APCI-TOF) m/z calcd for [M + H]+
+C26H21BrClN2O3 523.0424, found 523.0415.
+
+4-(4-Chlorophenyl)-5-(2,4-dichlorophenyl)-6-hydroxy-7-phenyl-
+5,6-dihydro-1H-pyrrolo[3,2-b]pyridin-2(4H)-one (5e). Yellow solid
+(337 mg, 70% yield): mp 227−229 °C.
+1H NMR (400 MHz, DMSO-d6) δ 9.50 (s, 1H), 7.69 (d, J = 2.0 Hz,
+1H), 7.50−7.46 (m, 3H), 7.41 (d, J = 7.2 Hz, 2H), 7.36 (t, J = 7.6 Hz,
+2H), 7.28−7.15 (m, 4H), 6.41 (d, J = 7.2 Hz, 1H), 5.23 (s, 1H), 5.12
+(s, 1H), 4.43 (dd, J1 = 2.0 Hz, J2 = 2.0 Hz, 1H); 13C NMR (100 MHz,
+DMSO-d6) δ 173.4, 150.2, 143.1, 136.8, 134.8, 133.9, 133.0, 132.6,
+130.3, 130.1, 129.9, 129.2, 129.1, 128.6, 128.1, 124.8, 111.9, 89.5, 70.1,
+67.4; IR (KBr, ν) 3552, 3070, 1638, 1492, 869, 749, 622 cm−1; HRMS
+(APCI-TOF) m/z calcd for [M + H]+ C25H18Cl3N2O2 483.0434,
+found 483.0429.
+
+4-(4-Chlorophenyl)-5-(2,3-dichlorophenyl)-6-hydroxy-7-phenyl-
+5,6-dihydro-1H-pyrrolo[3,2-b]pyridin-2(4H)-one (5f). Yellow solid
+(313 mg, 65% yield): mp 202−204 °C.
+1H NMR (400 MHz, DMSO-d6) δ 9.50 (s, 1H), 7.61 (d, J = 6.8 Hz,
+1H), 7.47 (d, J = 8.8 Hz, 2H), 7.44−7.38 (m, 3H), 7.37−7.33 (m,
+2H), 7.28−7.16 (m, 4H), 6.43 (d, J = 7.2 Hz, 1H), 5.30 (s, 1H), 5.14
+(s, 1H), 4.45 (dd, J1 = 2.0 Hz, J2 = 2.0 Hz, 1H); 13C NMR (100 MHz,
+DMSO-d6) δ 173.4, 150.2, 143.2, 138.4, 136.8, 133.1, 132.6, 130.7,
+130.1, 123.0, 129.9, 129.3, 129.1, 128.1, 126.5, 124.7, 111.9, 89.5, 70.1,
+68.3; IR (KBr, ν) 3554, 3058, 1684, 1492, 874, 778, 624 cm−1; HRMS
+(APCI-TOF) m/z calcd for [M + H]+ C25H18Cl3N2O2 483.0434,
+found 483.0435.
+
+4-(4-Bromophenyl)-5-(2-chloro-5-methylphenyl)-6-hydroxy-7-
+phenyl-5,6-dihydro-1H-pyrrolo[3,2-b]pyridin-2(4H)-one (5g). Yellow
+solid (243 mg, 48% yield): mp 230−232 °C.
+1H NMR (400 MHz, DMSO-d6) δ 9.45 (s, 1H), 7.71 (d, J = 8.8 Hz,
+1H), 7.43−7.34 (m, 5H), 7.29−7.23 (m, 3H), 7.17 (d, J = 2.4 Hz,
+1H), 7.13 (d, J = 8.4 Hz, 2H), 6.42 (d, J = 7.2 Hz, 1H), 5.20 (s, 1H),
+5.01 (s, 1H), 4.42 (d, J = 7.2 Hz, 1H), 2.29 (s, 3H); 13C NMR (100
+MHz, DMSO-d6) δ 173.6, 150.7, 141.6, 139.8, 136.8, 135.9, 135.7,
+133.3, 132.7, 130.7, 130.3, 129.1, 128.1, 127.5, 123.1, 121.0, 111.6,
+88.3, 70.2, 69.8, 20.9; IR (KBr, ν) 3516, 3027, 1639, 1025, 827, 766,
+630 cm−1; HRMS (APCI-TOF) m/z calcd for [M + H]+
+C26H21BrClN2O2 507.0475, found 507.0475.
+
+General Procedure for the Synthesis of 6. Example for the
+Synthesis of 6a. 4-Phenylamino-1H-pyrrol-2(5H)-one (2c, 1.0 mmol,
+174 mg) was introduced in a 10 mL Initiator reaction vial; 1,3-
+diphenyl-2,3-epoxypropan-1-one (3a, 1.0 mmol, 224 mg) and t-BuOLi
+</para>
+2787
+
+DOI: 10.1021/acs.joc.5b00067
+J. Org. Chem. 2015, 80, 2781−2789
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+6-Phenyl-4-(p-tolyl)-3,4-dihydropyrrolo[3,2-b]pyrrol-2(1H)-one
+
+(1.0 mmol, 80 mg) as well as DMF (1.5 mL) were then successively
+added. Subsequently, the reaction vial was capped and then prestirred
+for 20 s. The mixture was irradiated (time, 25 min; temperature, 60
+°C; absorption level, high; ﬁxed hold time) until TLC (petroleum
+ether/ethyl acetate V/V = 2/1) revealed that conversion of the starting
+material 2c was complete. After the reaction mixture was cooled to
+room temperature, water (20 mL) was added into the reaction system,
+resulting in a black viscous liquid isolated from the solution through
+liquid separation and extraction by using ethyl acetate. The organic
+phase was concentrated by vacuum distillation and was puriﬁed by
+ﬂash column chromatography (silica gel, mixtures of petroleum ether/
+ethyl acetate) to aﬀord the desired pure product 6a as a white solid.
+4,6-Diphenyl-3,4-dihydropyrrolo[3,2-b]pyrrol-2(1H)-one (6a).
+White solid (192 mg, 70% yield): mp 206−208 °C.
+1H NMR (400 MHz, DMSO-d6) δ 10.26 (s, 1H), 7.68 (d, J = 7.6
+Hz, 2H), 7.46−7.30 (m, 7H), 7.10 (t, J = 6.8 Hz, 1H), 5.23 (d, J = 28.8
+Hz, 3H); 13C NMR (100 MHz, DMSO-d6) δ 178.2, 157.6, 140.9,
+134.0, 132.0, 130.0, 129.3, 128.0, 127.2, 122.7, 116.5, 112.3, 83.9, 60.5;
+IR (KBr, ν) 3041, 2034, 1698, 1441, 1149, 826, 750 cm−1; HRMS
+(APCI-TOF) m/z calcd for [M + H]+ C18H15N2O 275.1184, found
+275.1187.
+(6b). White solid (219 mg, 76% yield): mp 212−214 °C.
+1H NMR (400 MHz, DMSO-d6) δ 10.21 (s, 1H), 7.66 (d, J = 7.6
+Hz, 2H), 7.43 (t, J = 7.6 Hz, 2H), 7.33−7.24 (m, 5H), 5.17 (d, J = 14.4
+Hz, 3H), 2.31 (s, 3H); 13C NMR (100 MHz, DMSO-d6) δ 178.2,
+157.7, 138.6, 134.0, 132.1, 131.8, 130.4, 129.2, 127.9, 127.2, 116.5,
+112.0, 83.2, 60.6, 20.7; IR (KBr, ν) 3034, 2028, 1695, 1441, 1147, 828,
+766 cm−1; HRMS (APCI-TOF) m/z calcd for [M + H]+ C19H17N2O
+289.1341, found 289.1338.
+6-(4-Methoxyphenyl)-4-phenyl-3,4-dihydropyrrolo[3,2-b]pyrrol-
+2(1H)-one (6c). White solid (207 mg, 68% yield): mp 208−210 °C.
+1H NMR (400 MHz, DMSO-d6) δ 10.19 (s, 1H), 7.65 (d, J = 8.0
+Hz, 2H), 7.43 (t, J = 7.6 Hz, 2H), 7.35−7.30 (m, 3H), 7.02 (d, J = 8.8
+Hz, 2H), 5.14 (d, J = 10.4 Hz, 3H), 3.77 (s, 3H); 13C NMR (100
+MHz, DMSO-d6) δ 178.3, 157.9, 132.2, 129.2, 129.1, 127.1, 125.6,
+121.1, 119.6, 118.0, 115.3, 115.0, 111.9, 60.8, 55.8; IR (KBr, ν) 3158,
+2126, 1659, 1452, 1293, 826, 764 cm−1; HRMS (APCI-TOF) m/z
+calcd for [M + H]+ C19H17N2O2 305.1290, found 305.1289.
+6-(4-Chlorophenyl)-4-(p-tolyl)-3,4-dihydropyrrolo[3,2-b]pyrrol-
+2(1H)-one (6d). White solid (199 mg, 62% yield): mp 201−203 °C.
+1H NMR (400 MHz, DMSO-d6) δ 10.23 (s, 1H), 8.28 (s, 1H), 7.72
+(d, J = 8.8 Hz, 2H), 7.44 (d, J = 8.8 Hz, 2H), 7.30−7.20 (m, 5H), 5.12
+(s, 1H), 2.30 (s, 3H); 13C NMR (100 MHz, DMSO-d6) δ 178.1, 155.5,
+137.0, 134.9, 132.0, 131.8, 130.8, 130.1, 129.4, 128.9, 117.9, 113.1,
+91.3, 83.6, 20.8; IR (KBr, ν) 3059, 2061, 1683, 1437, 1148, 819, 760
+cm−1; HRMS (APCI-TOF) m/z calcd for [M + H]+ C19H16ClN2O
+323.0951, found 323.0948.
+6-(4-Methoxyphenyl)-4-(p-tolyl)-3,4-dihydropyrrolo[3,2-b]pyrrol-
+2(1H)-one (6e). White solid (229 mg, 72% yield): mp 211−213 °C.
+1H NMR (400 MHz, DMSO-d6) δ 10.10 (d, J = 17.6 Hz, 1H), 7.67
+(d, J = 8.8 Hz, 1H), 7.61 (d, J = 8.8 Hz, 1H), 7.29−7.21 (m, 4H), 6.99
+(d, J = 8.8 Hz, 2H), 5.13 (d, J = 18.8 Hz, 3H), 3.81 (d, J = 1.6 Hz,
+3H), 2.30 (s, 3H); 13C NMR (100 MHz, DMSO-d6) δ 178.1, 159.2,
+159.0, 157.7, 138.7, 130.4, 124.7, 117.8, 116.4, 114.8, 114.6, 112.4,
+83.2, 60.6, 55.7, 20.7; IR (KBr, ν) 3049, 2035, 1694, 1430, 1153, 827,
+764 cm−1; HRMS (APCI-TOF) m/z calcd for [M + H]+ C20H19N2O2
+319.1447, found 319.1445.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+1H and 13C NMR spectra for all pure products, and X-ray
+crystal data (CIF) for 4j and 6b. This material is available free
+of charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Authors
+*Fax: 86-516-83500065. E-mail: wjhao@jsnu.edu.cn (W.-J.H.).
+*Fax: 86-516-83500065. E-mail: jiangchem@jsnu.edu.cn (B.J.).
+
+Article
+*Fax: 86-516-83500065. E-mail: laotu@jsnu.edu.cn (S.-J.J.).
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We are grateful for ﬁnancial support from the NSFC (Nos.
+21332005, 21232004, 21272095, and 21472071), PAPD of
+Jiangsu Higher Education Institutions, the Qing Lan Project
+(12QLG006), the Outstanding Youth Fund of JSNU, Robert A.
+Welch Foundation (D-1361, USA), and NIH (R33DA031860,
+USA), and Graduate Education Innovation Project of Jiangsu
+Province (No. CXZZ14_0985).
+
+■ REFERENCES
+
+(1) For selected reviews, see: (a) Liddell, J. R. Nat. Prod. Rep. 2001,
+18, 448. (b) Liddell, J. R. Nat. Prod. Rep. 2002, 19, 773. (c) Michael, J.
+P. Nat. Prod. Rep. 2001, 18, 543. (d) Michael, J. P. Nat. Prod. Rep.
+2002, 19, 719. (e) O’Hagan, D. Nat. Prod. Rep. 2000, 17, 435.
+(f) Humphrey, A. J.; O’Hagan, D. Nat. Prod. Rep. 2001, 18, 494.
+(g) Carreira, E. M.; Fessard, T. C. Chem. Rev. 2014, 114, 8257.
+(h) Eftekhari-Sis, B.; Zirak, M.; Akbari, A. Chem. Rev. 2013, 113, 2958.
+(2) Burgdorf, L.; Schultz, M.; Hofmann, T.; Hodous, B.; Potnick, J.;
+Sutton, A. E.; Huck, B. R. PCT Int. Appl. WO 2012025187 A2
+20120301, 2012.
+(3) (a) Cadieux, J.-J.; Chafeev, M.; Chowdhury, S.; Douglas, A. F.;
+Fu, J.; Langille, J.; Sun, S.; Wood, M. PCT Int. Appl. WO 2010078307
+A1 20100708, 2010.
+(4) (a) Kawaguchi, T.; Akatsuka, H.; Iijima, T.; Watanabe, T.;
+Murakami, J.; Mitsui, T. Jpn. Kokai Tokkyo Koho JP 2006045220 A
+20060216, 2006. (b) Kawaguchi, T.; Akatsuka, H.;
+Iijima, T.;
+Watanabe, T.; Murakami,
+J.; Mitsui, T. PCT Int. Appl. WO
+2004063202 A1 20040729, 2004.
+(5) (a) Phillips, E. PCT Int. Appl. WO 2005042538 A1 20050512,
+2005. (b) Lochead, A.; Jegham, S.; Galli, F.; Gallet, T. PCT Int. Appl.
+WO 9842713 A1 19981001, 1998.
+(6) Gordon, E. M.; Barrish, J. C.; Bisacchi, G. S.; Sun, C.-q.; Tino, J.
+A.; Vite, G. D.; Zahler, R. U.S. Patent US 5,559,256 A 19960924, 1996.
+(7) Kan-Fan, C.; Sevenet, T.; Hadi, H. A.; Bonin, M.; Quirion, J.-C.;
+Husson, H.-P. Nat. Prod. Lett. 1995, 7 (4), 283.
+(8) (a) Chen, W. Y.; Liebeskind, L. S. J. Am. Chem. Soc. 2009, 131
+(35), 12546. (b) McLaughlin, N. P.; Evans, P.; Pines, M. Bioorg. Med.
+Chem. 2014, 22 (7), 1993;(c) Tetrahedron 2001, 57, 1213.
+(9) (a) Wee, G. H.; Fan, G.-J.; Bayirinoba, H. M. J. Org. Chem. 2009,
+74 (21), 8261. (b) Fan, G.-j.; Wang, Z. Y.; Wee, G. H. Chem. Commun.
+2006, 3732. (c) Taber, D. F.; DeMatteo, P. W. J. Org. Chem. 2012, 77
+(9), 4235. (d) Heretsch, P.; Rabe, S.; Giannis, A. Org. Lett. 2009, 11
+(23), 5410.
+(10) Le Strat, F.; Maddaluno. J. Org. Lett. 2002, 4, 2791.
+(11) Campos, P. J.; Anon, E.; Malo, M. C.; Rodriguez, M. A.
+Tetrahedron 1999, 55, 14079.
+(12) Kitamura, T.; Tsuda, K.; Fujiwara, Y. Tetrahedron Lett. 1998, 39,
+5375.
+(13) (a) Mathes, B. M.; Filla, S. A. Tetrahedron Lett. 2003, 44, 725.
+(b) Arcadi, A.; Marinelli, F.; Cacchi, S. Synthesis 1986, 9, 749. (c) Yue,
+D.; Yao, T.; Larock, R. C. J. Org. Chem. 2005, 70, 10292. (d) Arcadi,
+A.; Cacchi, S.; Di Guiseppe, S.; Fabrizi, G.; Marinelli, F. Org. Lett.
+2002, 4, 2409.
+(14) (a) Chartoire, A.; Comoy, C.; Fort, Y. Tetrahedron 2008, 64,
+10867. (b) Jasselin-Hinschberger, A.; Comoy, C.; Chartoire, A.; Fort,
+Y. J. Org. Chem. 2013, 78, 5618. (c) Chartoire, A.; Comoy, C.; Fort, Y.
+Org. Biomol. Chem. 2011, 9, 1839.
+(15) Campos, P. J.; Arranz, J.; Rodriguez, M. A. Tetrahedron Lett.
+1997, 38, 8397. (b) Shi, F.; Ma, N.; Zhou, D.-X.; Zhang, G.; Jiang, B.;
+Tu, S.-J. Chin. J. Chem. 2009, 27, 1605. (c) Amari, M.; Fodili, M.; Kolli,
+B. N.; Hoffmann, A. P.; Perie, J. J. Heterocycl. Chem. 2002, 39, 811.
+(d) Jiang, B.; Wang, X.; Li, M.-Y.; Wu, Q.; Ye, Q.; Xu, H.-W.; Tu, S.-J.
+Org. Biomol. Chem. 2012, 10, 8533. (e) Xue, L. Y.; Jiang, B.; Tu, M.-S.;
+
+2788
+
+DOI: 10.1021/acs.joc.5b00067
+J. Org. Chem. 2015, 80, 2781−2789
+
+The Journal of Organic Chemistry
+
+Tu, S.-J. Tetrahedron Lett. 2012, 53, 6611. (f) Naeimi, H.; Rashid, Z.;
+Zarnanib, A. H.; Ghahremanzadeh, R. New J. Chem. 2014, 38, 348.
+(16) (a) Chernyshevaa, N. B.; Tsyganova, D. V.; Philchenkov, A. A.;
+Zavelevichb, M. P.; Kiselyovc, A. S.; Semenova, R. V.; Semenova, M.
+N.; Semenova, V. V. Bioorg. Med. Chem. Lett. 2012, 22, 2590. (b) Torii,
+S.; Long, H.-X. Tetrahedron Lett. 1990, 31 (49), 7175. (c) Jiang, B.;
+Feng, B.-M.; Wang, S.-L.; Tu, S.-J.; Li, G. Chem.Eur. J. 2012, 18,
+9823. (d) Li, Y.; Yu, Y.; Tu, M.-S.; Jiang, B.; Wang, S.-L.; Tu, S.-J. Org.
+Biomol. Chem. 2012, 10, 5361. (e) Kaoua, R.; Bellara, N. K.; Roisnel,
+T.; Yann, L. G.; Lorcy, D. Tetrahedron 2013, 69, 4636.
+(17) For the preparation of 1,3-diaryl-2,3-epoxypropan-1-one, refer
+to: (a) Shi, D.-Q.; Zhang, S.; Zhuang, Q.-Y.; Wang, X.-S.; Tu, S.-J.; Hu,
+H.-W. Chin. J. Chem. 2003, 21, 680. (b) Tanaka, K.; Shiraishi, R. Green
+Chem. 2001, 3, 135.
+
+Article
+
+2789
+
+DOI: 10.1021/acs.joc.5b00067
+J. Org. Chem. 2015, 80, 2781−2789
+
+

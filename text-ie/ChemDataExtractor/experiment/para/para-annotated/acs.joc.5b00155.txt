@@ -1,0 +1,1237 @@
+Article
+
+pubs.acs.org/joc
+
+Rhodium-Catalyzed Dehydrogenative Coupling of
+Phenylheteroarenes with Alkynes or Alkenes
+Tomonori Iitsuka,† Koji Hirano,† Tetsuya Satoh,*,†,‡ and Masahiro Miura*,†
+†
+Department of Applied Chemistry, Faculty of Engineering, Osaka University, Suita, Osaka 565-0871, Japan
+‡
+JST, ACT-C, 4-1-8 Honcho, Kawaguchi, Saitama 332-0012, Japan
+*S Supporting Information
+
+ABSTRACT: Benzo-fused tri-
+to heptacyclic heteroarenes were
+eﬀectively constructed by the rhodium-catalyzed dehydrogenative
+coupling of phenylheteroarenes with alkynes. Using alkenes as
+coupling partners, dehydrogenative alkenylation took place selec-
+tively on the phenyl moiety of phenylheteroarenes. Several
+experiments with deuterium-labeled substrates indicated that double
+C−H bond cleavages take place even in the reaction with alkenes.
+
+■ INTRODUCTION
+
+Benzo-fused heteroarene frameworks can be seen in various
+ﬁne chemicals including organic materials1 and pharmaceut-
+icals.2 Therefore, the development of simple and straightfor-
+ward synthetic methods for constructing the fused compounds
+has attracted much attention. One of the most promising
+procedures is the transition-metal-catalyzed dehydrogenative
+coupling of aromatic substrates possessing a heteroatom-
+containing directing group with internal alkynes involving
+regioselective C−H bond cleavage at the ortho-position of the
+directing group.3 So far, numerous reports for constructing
+benzo-fused oxygen-, nitrogen-, phosphorus-, and sulfur-
+containing heterocycles have been disclosed (Scheme 1a).
+Besides such σ-coordinating directing groups, π-electron units
+such as alkenyl, alkynyl, aryl, and cyano functions have been
+found to act as directing groups for ortho C−H functionaliza-
+tion.4 We conceived that more highly fused polycyclic
+heteroarenes can be easily prepared if heteroaryl groups can
+be employed as directing groups in the dehydrogenative
+coupling with alkynes.5 Indeed,
+tricyclic naphthothiophene
+structures could be constructed by a single treatment of 3-
+phenylthiophenes with alkynes under rhodium catalysis.6,7 This
+reaction seems to proceed via π-electron-directed C−H bond
+cleavage to form a rhodacycle intermediate, alkyne insertion,
+and reductive elimination (Scheme 1b, Y = S, Z = CH). We
+succeeded in applying this procedure to constructing tri- to
+heptacyclic benzo-fused heteroarene derivatives 3 and 4 from
+readily available phenyl- or diphenylheteroarenes 1 and alkynes
+2. The oxidative coupling of 3-phenylthiophene with alkenes 5
+also proceeded smoothly in the presence of a same catalyst
+system to form the corresponding 2′-alkenylated product 6
+(Scheme 1c). New mechanistic insights were obtained for the
+latter reaction by some deuterium-labeling experiments. The
+
+detailed results obtained for these reactions are described
+herein.
+
+■ RESULTS AND DISCUSSION
+<para sub=“opt”>
+The reaction of 3-phenylthiophene (1a) with diphenylacetylene
+(2a) was explored to screen the reaction conditions, as shown
+in Table S1 (see Supporting Information). The desired
+dehydrogenative coupling product, 4,5-diphenylnaphtho[2,1-
+b]thiophene (3aa), was obtained in 84% yield by treatment of
+1a (0.2 mmol) with 2a (0.1 mmol) in the presence of
+[Cp*RhCl2]2 (0.005 mmol), Cu(OAc)2
+·H2O (0.2 mmol), and
+Cs2CO3 (0.03 mmol), as catalyst, oxidant, and additive,
+respectively, in toluene (1 mL) at 125 °C for 7 h under N2
+(entry 1 in Table 1). Doubling of the reaction scale did not
+aﬀect the reaction eﬃciency (entry 2). Under the optimized
+conditions, bis(4-substituted phenyl)acetylenes possessing
+electron-donating (2b−e) and -withdrawing (2f−h) groups
+also underwent coupling with 1a to give the corresponding
+naphthothiophenes 3ab−ah in 54−86% yields (entries 3−9).
+The reaction of 1a with di(2-naphthyl)acetylene (2i)
+proceeded eﬃciently to produce 4,5-di(2-naphthyl)naphtho-
+[2,1-b]thiophene (3ai) in 75% yield (entry 10). Besides
+diarylacetylenes, dialkylacetylenes such as 4-octyne (2j) and
+8-hexadecyne (2k) also coupled with 1a smoothly to aﬀord
+dialkylnaphthothiophenes 3aj and 3ak (entries 11 and 12). The
+latter reaction could be readily scaled up to a gram scale. Thus,
+from 1a (10 mmol) and 2k (5 mmol), 3ak was obtained in 56%
+yield (1.07 g, entry 13). Contrastingly, more functionalized
+such as 2,5-dimethyl-3-hexyne-2,5-diol (2l) and
+alkynes,
+dimethyl acetylenedicarboxylate (2m), did not react with 1a
+at all (entries 14 and 15). It is possible that these alkynes
+</para>
+Received:
+January 21, 2015
+Published: February 16, 2015
+
+© 2015 American Chemical Society
+
+2804
+
+DOI: 10.1021/acs.joc.5b00155
+J. Org. Chem. 2015, 80, 2804−2814
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 1. Dehydrogenative Coupling of Arenes Possessing a Directing Group
+<para sub=“opt”>
+deactivate the catalyst. The reaction of 1a with an unsym-
+metrical alkyne, 1-phenyl-1-propyne (2n), produced 5-methyl-
+4-phenylnaphthothiophene derivative 3an predominantly,
+along with a minor amount of its 4-methyl-5-phenyl derivative
+3an′ (entry 16).
+</para>
+<para sub="scope">
+Next, we examined the reactions of variously substituted 3-
+phenylthiophenes 1b−i with alkyne 2a or 2j (Scheme 2).
+Methyl, methoxy, chloro, phenyl, ﬂuoro, and methoxycarbonyl
+substituents on either the phenyl ring or the thiophene ring
+were tolerated under standard conditions to furnish 3ba−3da,
+3ej, and 3fa−3ia. It is noted that the reaction of 3-[(1,1′-
+biphenyl)-4-yl]thiophene (1e) was conducted using 2j, because
+the coupling product of 1e with 2a was less soluble in usual
+organic solvents to make its isolation diﬃcult. Tetracyclic
+anthrathiophene 3ja and benzonaphthothiophene 3ka frame-
+works could be readily constructed in the annulations of 3-(2-
+naphthyl)thiophene (1j) and 3-phenylbenzothiophene (1k),
+respectively. In the latter case, a better product yield was
+obtained at 120 °C rather than that at 125 °C. In contrast to
+1k, its regioisomer, 2-phenylbenzothiophene (1l), did not show
+any reactivity toward 2a, resulting in no formation of 3la.
+Treatment of p-di(thiophen-3-yl)benzene (1m) with 2j in a 2:1
+ratio gave 1:1 coupling product 3mj in 57% yield, along with a
+minor amount of 1:2 coupling product 4mj. The use of 1m and
+2j in a 1:2 ratio aﬀorded 4mj exclusively, albeit with a moderate
+yield. The reactions of meta-isomer 1n with 2j gave similar
+results, providing 3nj and 4nj. A mixture of regioisomers 3oa
+and 3oa′ was formed in the reaction of 3,3′-bithiophene with
+2a. 3,4-Diphenylthiophene (1p) reacted with 2a in a 1:1
+manner under standard conditions to produce 3pa quantita-
+tively. Even under conditions using excess 2a, 3pa was formed
+predominantly, along with a minor amount of 1:2 coupling
+product 4pa. The reaction using 1p and 2j in a 2:1 ratio
+similarly gave 3pj almost quantitatively.
+In contrast, 3,6-
+
+diphenylthieno[3,2-b]thiophene (3q) reacted with 2k eﬃ-
+ciently in a 1:2 manner to selectively form hexacyclic 4qk. 3-
+Phenylbenzofuran (1r) coupled with 2a eﬃciently to form 3ra
+in 90% yield, while the reaction of 2-phenyl isomer 1s did not
+give 3sa at all. The reactions of 2- (1t), 3- (1u), and 4- (1v)
+(thiophen-3-yl)pyridines were next examined. Although 1t did
+not react with 2a, 1u, and 1v underwent the annulation. In the
+case with 1u, a mixture of regioisomers 3ua and 3ua′ was
+formed. 6-(Thiophen-3-yl)quinoline (1w) could also be
+employed for the annulation with 2a to selectively form
+tetracyclic product 3wa. 4-Phenylthiazoles 1x and 1y coupled
+with 2a smoothly, in contrast to 5-phenyl isomers 1z and 1aa.
+Similar results were obtained in the reactions of phenyloxazoles
+1bb−ee.
+</para>
+<para sub="scope">
+We also examined the construction of a molecule possessing
+a further expanded π-conjugated system. Thus, benzonaph-
+thothiophene 3ko, prepared by the annulative coupling of 1k
+with bis(3,4-dimethoxyphenyl)acetylene (2o), was treated in
+the presence of an excess amount of FeCl3 in CH2Cl2/CH3NO2
+(2:1) at room temperature for 24 h (Scheme 3).8 As a result,
+dehydrogenative cyclization took place to produce heptacyclic
+7.
+</para>
+<para sub="scope">
+Under similar catalytic conditions, 1a also underwent the
+dehydrogenative coupling with alkenes in place of alkynes. As
+shown in Table 2, treatment of 1a (0.4 mmol) with various
+acrylates 5a−e (0.2 mmol) in the presence of [Cp*RhCl2]2
+·H2O (0.4 mmol), and Cs2CO3 (0.06
+(0.01 mmol), Cu(OAc)2
+mmol) in toluene (2 mL) at 125 °C for 7 h under N2 gave the
+corresponding (E)-3-[2-(thiophen-3-yl)phenyl]acrylates 6aa−
+6ae in 47−64% yields (entries 1−5). While N,N-dimethylacry-
+lamide (5f) did not react at all (entry 6), diethyl vinyl-
+phosphonate (5g) coupled with 1a to give 6ag in a moderate
+yield (entry 7). Not only these electron-deﬁcient alkenes but
+also variously substituted styrenes 5h−n underwent
+the
+</para>
+2805
+
+DOI: 10.1021/acs.joc.5b00155
+J. Org. Chem. 2015, 80, 2804−2814
+
+The Journal of Organic Chemistry
+
+Table 1. Reaction of 3-Phenylthiophene (1a) with Alkynes
+2a
+
+However, we obtained a contradicting result
+
+Article
+<para sub=“ques”>
+the 2′-position, alkene
+directed C−H bond cleavage at
+insertion, and β-hydrogen elimination to form 6 (Scheme 4).
+</para>
+<para sub="scope">
+in our
+subsequent study. Thus, in the treatment of C2-deuterated 1a
+(1a-d1) with 5h under standard conditions for 2 h, the 2′-
+styrylation proceeded accompanied by the loss of C2 deuterium
+to form 6ah-d0 (Scheme 5). In addition, no signiﬁcant D/H
+exchange was observed in the recovered 1a-d1. These results
+indicate that the coupling reaction involves C−H(D) bond
+cleavages not only on the phenyl group but also on the
+thiophene ring.
+</para>
+<para sub="scope">
+Next, we investigated the source of the hydrogen introduced
+at the C2 position of coupling product 6ah in Scheme 5.
+Treatment of 1a-d0 with D2O or CD3CO2D in the presence
+and absence of 5h resulted in no incorporation of deuterium in
+recovered 1a as well as produced 6ah (Schemes 6a−d). Finally,
+the C2-deuterium incorporation in 6ah was observed, when
+deuterated styrene 5h-d8 was employed. Thus, C2-deuterated
+2′-styrylated product 6ah-d8 was obtained upon treatment of 1a
+with 5h-d8 (Scheme 6e). In this case, deuterium was not
+incorporated in the recovered 1a at all.
+</para>
+<para sub="scope">
+Based on these experimental results, a revised mechanism for
+the reaction of 1a with alkene 5 can be proposed (Scheme 7).
+Coordination of the thienyl moiety of 1a to a Cp*RhIII center
+and subsequent double C−H bond cleavages would occur to
+form a ﬁve-membered rhodacycle intermediate A, as in the
+reaction with alkynes (Scheme 1b). Then alkene insertion into
+the resulting Rh−C bond to form B, β-hydrogen elimination,
+and reductive elimination of 6 from C may take place to release
+a Cp*RhI species, which is oxidized by CuII to regenerate the
+Cp*RhIII. As in the reaction with alkyne 2a (see Table S1,
+Supporting Information), the eﬃciency of the reaction of 1a
+with 5h was slightly enhanced by the addition of Cs2CO3.
+Indeed, the yield of 6ah decreased to 40% in the absence of
+Cs2CO3. One of the possible roles of Cs2CO3 seems to be
+trapping HX formed during the coupling reaction.
+</para>
+<para sub="scope">
+In addition, two parallel reactions of 1a-d0 and 1a-d1 with 5h
+were conducted separately under standard conditions (Scheme
+8). The observed KIE value 2.3:1 (kH/kD) in the early stage
+suggests that the rate-determining step involves the C−H(D)
+bond cleavage at the C2-position of 1a.
+</para>
+■ CONCLUSIONS
+
+aReaction conditions: 1a (0.4 mmol), 2 (0.2 mmol), [Cp*RhCl2]2
+·H2O (0.4 mmol), Cs2CO3 (0.06 mmol) in
+(0.01 mmol), Cu(OAc)2
+toluene (2 mL) at 125 °C under N2, unless otherwise noted. bUsing
+1a (0.2 mmol), 2 (0.1 mmol), [Cp*RhCl2]2 (0.005 mmol),
+·H2O (0.2 mmol), Cs2CO3 (0.03 mmol) in toluene (1
+Cu(OAc)2
+mL). cDetermined by GC. dUsing 1a (10 mmol), 2 (5 mmol),
+·H2O (10 mmol), Cs2CO3 (1.5
+[Cp*RhCl2]2 (0.25 mmol), Cu(OAc)2
+mmol) in toluene (30 mL).
+<para sub="scope">
+dehydrogenative coupling to form 2′-styrylated products 6ah−
+6an (entries 8−14). In addition to styrenes, 2-vinylnaphthalene
+(5o) could also be employed for this reaction (entry 15).
+</para>
+<para sub=“ques”>
+The fact that the alkenylation took place selectively at the 2′-
+position on the phenyl ring of 1a rather than on the thienyl
+moiety seems to support a reaction mechanism proposed in our
+involving thiophene π-unit
+preliminary communication,6
+</para>
+We have demonstrated that the dehydrogenative annulation of
+phenylheteroarenes with alkynes can be performed eﬃciently
+under rhodium catalysis. The procedure allows the ready
+construction of various benzo-fused heterocyclic frameworks by
+a single treatment. The rhodium catalyst system is also
+applicable to the dehydrogenative coupling with alkenes on
+the phenyl ring. Work is underway toward further development
+of this procedure utilizing other π-electron systems.
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General. 1H and 13C NMR spectra were recorded at 400 and 100
+MHz for CDCl3 solutions. HRMS data were obtained by EI using a
+double focusing mass spectrometer, unless noted. GC analysis was
+carried out using a silicon OV-17 column (i.d. 2.6 mm × 1.5 m). GC-
+MS analysis was carried out using a CBP-1 capillary column (i.d. 0.25
+mm × 25 m). The structures of all products listed below were
+unambiguously determined by 1H and 13C NMR with the aid of NOE,
+COSY, HMQC, and HMBC experiments.
+Phenylheteroarenes 1b−j,9 1k,l,10 1m,n,11 1p,q,9 1r,12 1s,10 1t−w,9
+1x,y,13 1z,aa,14 1cc,15 and 1ee,16 and alkynes 2b−d,17 2e,18 2f,19
+2g,h,17 2i,20 and 2o17 were prepared according to published
+</para>
+2806
+
+DOI: 10.1021/acs.joc.5b00155
+J. Org. Chem. 2015, 80, 2804−2814
+
+The Journal of Organic Chemistry
+Scheme 2. Reaction of (Hetero)arylheteroarenes 1 with Alkyne 2a, 2j, or 2ka
+
+Article
+
+aReaction conditions: 1 (0.4 mmol), 2 (0.2 mmol), [Cp*RhCl2]2 (0.01 mmol), Cu(OAc)2
+mL) at 125 °C under N2, unless otherwise noted. bAt 120 °C. cUsing Cu(OAc)2
+[Cp*RhCl2]2 (0.02 mmol), Cu(OAc)2
+Cu(OAc)2
+mmol), and Cs2CO3 (0.06 mmol). gUsing 1 (2 mmol), 2 (1 mmol), [Cp*RhCl2]2 (0.05 mmol), Cu(OAc)2
+mmol) in toluene (10 mL). hUsing 1 (0.2 mmol), 2 (0.1 mmol), [Cp*RhCl2]2 (0.005 mmol), Cu(OAc)2
+mmol) in toluene (1 mL).
+
+·H2O (0.4 mmol), Cs2CO3 (0.06 mmol) in toluene (2
+·H2O (0.8 mmol). dUsing 1 (0.2 mmol), 2 (0.4 mmol),
+·H2O (0.8 mmol), and Cs2CO3 (0.12 mmol). eUsing 1 (0.2 mmol), 2 (0.4 mmol), [Cp*RhCl2]2 (0.01 mmol),
+·H2O (0.8
+·H2O (2 mmol), and Cs2CO3 (0.3
+·H2O (0.2 mmol), and Cs2CO3 (0.03
+
+·H2O (0.8 mmol), and Cs2CO3 (0.12 mmol). fUsing 1 (0.2 mmol), 2 (0.4 mmol), [Cp*RhCl2]2 (0.01 mmol), Cu(OAc)2
+<para sub=“exp”>
+procedures. Phenylheteroarene 1a-d1 was prepared as shown below.
+Other starting materials and reagents were commercially available.
+
+Preparation of 1a-d1. 2-Bromo-3-phenylthiophene was prepared
+according to published procedures.21 To a solution of 2-bromo-3-
+phenylthiophene (3.0 mmol, 720 mg) in Et2O (6 mL) was added a
+solution of nBuLi in hexane (1.63 M, 1.9 mL, 3.1 mmol) dropwise at
+−78 °C under N2. The reaction mixture was stirred for 0.5 h and
+
+warmed to 0 °C, to which D2O (5 mL) was added slowly. The mixture
+was warmed to room temperature and stirred overnight. Then the
+reaction mixture was extracted with ethyl acetate (100 mL). The
+organic layer was washed by water (100 mL, three times) and dried
+over Na2SO4. After evaporation of the solvents under vacuum, C2-
+deuterated 3-phenylthiophene (1a-d1) was isolated (338 mg, 70%).
+</para>
+2807
+
+DOI: 10.1021/acs.joc.5b00155
+J. Org. Chem. 2015, 80, 2804−2814
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 3. Reaction of 1k with 2o and Further Cyclization
+
+Table 2. Reaction of 3-Phenylthiophene (1a) with Alkenes
+5a
+<para sub=“exp”>
+General Procedure for the Reaction of Phenylheteroarenes
+1 with Alkynes 2. To a 20 mL two-necked ﬂask with a reﬂux
+condenser, a balloon, and a rubber cup were added phenylheteroarene
+1 (0.4 mmol), alkyne 2 (0.2 mmol), [Cp*RhCl2]2 (0.01 mmol, 6 mg),
+·H2O (0.4 mmol, 80 mg), Cs2CO3 (0.06 mmol, 20 mg), 1-
+Cu(OAc)2
+methylnaphthalene (ca. 30 mg) as internal standard, and toluene (2
+mL). Then the resulting mixture was stirred under nitrogen at 125 °C
+(bath temperature). After cooling, the reaction mixture was extracted
+with ethyl acetate (100 mL) and ethylenediamine (2 mL). The organic
+layer was washed by water (100 mL, three times) and dried over
+Na2SO4. After evaporation of the solvents under vacuum, product 3
+was isolated by column chromatography on silica gel using hexane as
+eluant. Further puriﬁcation by GPC (gel permeation chromatography)
+was performed, if needed.
+
+Reaction of 1a-d1 with 5h-d0 (Scheme 5). To a 20 mL two-
+necked ﬂask with a reﬂux condenser, a balloon, and a rubber cup were
+added 3-phenylthiophene (1a-d1) (0.4 mmol, 64 mg; 83% D), styrene
+(5h-d0) (0.2 mmol, 21 mg), [Cp*RhCl2]2 (0.01 mmol, 6 mg),
+·H2O (0.4 mmol, 80 mg), Cs2CO3 (0.06 mmol, 20 mg), 1-
+Cu(OAc)2
+methylnaphthalene (ca. 30 mg) as internal standard, and toluene (2
+mL). Then the resulting mixture was stirred under nitrogen at 125 °C
+(bath temperature) for 2 h. After cooling, the reaction mixture was
+extracted with ethyl acetate (100 mL) and ethylenediamine (2 mL).
+The organic layer was washed by water (100 mL, three times) and
+dried over Na2SO4. After evaporation of the solvents under vacuum,
+product 6ah-d0 (6 mg, 12%) and 1a-d1 (55 mg, 86%) were isolated by
+column chromatography on silica gel using hexane as eluant.
+
+Treatment of 1a-d0 with D2O (Scheme 6a). To a 20 mL two-
+necked ﬂask with a reﬂux condenser, a balloon, and a rubber cup were
+added 3-phenylthiophene (1a-d0) (0.4 mmol, 64 mg), [Cp*RhCl2]2
+·H2O (0.4 mmol, 80 mg), Cs2CO3
+(0.01 mmol, 6 mg), Cu(OAc)2
+(0.06 mmol, 20 mg), D2O (0.8 mmol, 16 mg) and toluene (2 mL).
+Then the resulting mixture was stirred under nitrogen at 125 °C (bath
+temperature) for 2 h. After cooling, the reaction mixture was extracted
+with ethyl acetate (100 mL) and ethylenediamine (2 mL). The organic
+layer was washed by water (100 mL, three times) and dried over
+Na2SO4. After evaporation of the solvents under vacuum, product 1a-
+d0 (61 mg, 95%) was isolated by column chromatography on silica gel
+using hexane as eluant.
+
+Treatment of 1a-d0 with CD3CO2D (Scheme 6b). To a 20 mL
+two-necked ﬂask with a reﬂux condenser, a balloon, and a rubber cup
+were added 3-phenylthiophene (1a-d0) (0.4 mmol, 64 mg),
+·H2O (0.4 mmol, 80
+[Cp*RhCl2]2 (0.01 mmol, 6 mg), Cu(OAc)2
+mg), Cs2CO3 (0.06 mmol, 20 mg), CD3CO2D (0.8 mmol, 51 mg) and
+toluene (2 mL). Then the resulting mixture was stirred under nitrogen
+at 125 °C (bath temperature) for 2 h. After cooling, the reaction
+mixture was extracted with ethyl acetate (100 mL) and ethylenedi-
+</para>
+aReaction conditions: 1a (0.4 mmol), 5 (0.2 mmol), [Cp*RhCl2]2
+·H2O (0.4 mmol), and Cs2CO3 (0.06 mmol)
+(0.01 mmol), Cu(OAc)2
+in toluene (2 mL) at 125 °C under N2. bCy = cyclohexyl.
+
+Scheme 4. Previously Proposed Mechanism for the Reaction
+of 1a with 5
+<para sub=“exp”>
+amine (2 mL). The organic layer was washed by water (100 mL, three
+times) and dried over Na2SO4. After evaporation of the solvents under
+vacuum, product 1a-d0 (61 mg, 96%) was isolated by column
+chromatography on silica gel using hexane as eluant.
+
+Reaction of 1a-d0 with 5h-d0 in the Presence of D2O
+(Scheme 6c). To a 20 mL two-necked ﬂask with a reﬂux condenser, a
+balloon, and a rubber cup were added 3-phenylthiophene (1a-d0) (0.4
+mmol, 64 mg), styrene (5h-d0) (0.2 mmol, 21 mg), [Cp*RhCl2]2
+</para>
+2808
+
+DOI: 10.1021/acs.joc.5b00155
+J. Org. Chem. 2015, 80, 2804−2814
+
+The Journal of Organic Chemistry
+
+Scheme 5. Reaction of 1a-d
+
+1 with 5h
+
+Scheme 6. Deuterium Incorporation
+
+Article
+
+aIsolated yield based on the amount of 5h used.
+<para sub=“exp”>
+·H2O (0.4 mmol, 80 mg), Cs2CO3
+(0.01 mmol, 6 mg), Cu(OAc)2
+(0.06 mmol, 20 mg), D2O (0.8 mmol, 16 mg), 1-methylnaphthalene
+(ca. 30 mg) as internal standard, and toluene (2 mL). Then the
+resulting mixture was stirred under nitrogen at 125 °C (bath
+temperature) for 2 h. After cooling, the reaction mixture was extracted
+with ethyl acetate (100 mL) and ethylenediamine (2 mL). The organic
+layer was washed by water (100 mL, three times) and dried over
+Na2SO4. After evaporation of the solvents under vacuum, product 6ah-
+d0 (22 mg, 42%) and 1a-d0 (37 mg, 58%) were isolated by column
+chromatography on silica gel using hexane as eluant.
+
+Reaction of 1a-d0 with 5h-d0 in the Presence of CD3CO2D
+(Scheme 6d). To a 20 mL two-necked ﬂask with a reﬂux condenser, a
+balloon, and a rubber cup were added 3-phenylthiophene (1a-d0) (0.4
+mmol, 64 mg), styrene (5h-d0) (0.2 mmol, 21 mg), [Cp*RhCl2]2
+·H2O (0.4 mmol, 80 mg), Cs2CO3
+(0.01 mmol, 6 mg), Cu(OAc)2
+(0.06 mmol, 20 mg), CD3CO2D (0.8 mmol, 51 mg), 1-
+methylnaphthalene (ca. 30 mg) as internal standard, and toluene (2
+mL). Then the resulting mixture was stirred under nitrogen at 125 °C
+(bath temperature) for 6 h. After cooling, the reaction mixture was
+extracted with ethyl acetate (100 mL) and ethylenediamine (2 mL).
+The organic layer was washed by water (100 mL, three times) and
+dried over Na2SO4. After evaporation of the solvents under vacuum,
+product 6ah-d0 (19 mg, 36%) and 1a-d0 (41 mg, 64%) were isolated
+by column chromatography on silica gel using hexane as eluant.
+
+Reaction of 1a-d0 with 5h-d8 (Scheme 6e). To a 20 mL two-
+necked ﬂask with a reﬂux condenser, a balloon, and a rubber cup were
+added 3-phenylthiophene (1a-d0) (0.4 mmol, 64 mg), styrene (5h-d8)
+(0.2 mmol, 22 mg; 98% D), [Cp*RhCl2]2 (0.01 mmol, 6 mg),
+·H2O (0.4 mmol, 80 mg), Cs2CO3 (0.06 mmol, 20 mg), 1-
+Cu(OAc)2
+methylnaphthalene (ca. 30 mg) as internal standard, and toluene (2
+mL). Then the resulting mixture was stirred under nitrogen at 125 °C
+(bath temperature) for 2 h. After cooling, the reaction mixture was
+extracted with ethyl acetate (100 mL) and ethylenediamine (2 mL).
+The organic layer was washed by water (100 mL, three times) and
+dried over Na2SO4. After evaporation of the solvents under vacuum,
+product 6ah-d8 (17 mg, 32%) and 1a-d0 (44 mg, 68%) were isolated
+by column chromatography on silica gel using hexane as eluant.
+Parallel Reactions of 1a-d0 and 1a-d1 (Scheme 8). To a 20 mL
+two-necked ﬂask were added 3-phenylthiophene-d0 or −d1 (1a-d0 or
+1a-d1) (0.4 mmol), styrene (5h) (0.2 mmol, 21 mg), [Cp*RhCl2]2
+·H2O (0.4 mmol, 80 mg), Cs2CO3
+(0.01 mmol, 6 mg), Cu(OAc)2
+(0.06 mmol, 20 mg), 1-methylnaphthalene (ca. 30 mg) as internal
+standard, and toluene (2 mL). The resulting mixture was stirred under
+N2 at 125 °C for 0.75 h. GC and GC-MS analyses of the mixture
+conﬁrmed formation of 6ah-d0 (14% from 1a-d0; 6% from 1a-d1): kH/
+kD = 2.3.
+4,5-Diphenylnaphtho[2,1-b]thiophene (3aa):6 mp 189−190
+°C (pale yellow powder), 28 mg (84%); 1H NMR (400 MHz, CDCl3)
+δ 7.19−7.29 (m, 10H), 7.41−7.46 (m, 1H), 7.58 (d, J = 5.5 Hz, 1H),
+7.59−7.63 (m, 1H), 7.67 (d, J = 8.7 Hz, 1H), 8.09 (d, J = 5.5 Hz, 1H),
+8.43 (d, J = 7.7 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 122.3, 123.6,
+125.4, 126.1, 126.6, 126.7, 127.2, 127.7, 127.8, 128.0, 128.7, 130.0,
+131.3, 131.5, 133.7, 134.8, 135.3, 138.8, 139.8, 139.9; HRMS m/z
+Calcd for C24H16S (M+) 336.0973, found 336.0972.
+</para>
+aIsolated yield based on the amount of 5h used.
+<para sub=“exp”>
+4,5-Bis(4-methylphenyl)naphtho[2,1-b]thiophene (3ab):6
+mp 193−194 °C (brown powder), 63 mg (86%); 1H NMR (400
+MHz, CDCl3) δ 2.31 (s, 3H), 2.33 (s, 3H), 7.05−7.08 (m, 6H), 7.17
+(d, J = 8.0 Hz, 2H), 7.38−7.42 (m, 1H), 7.54 (d, J = 5.4 Hz, 1H),
+7.56−7.60 (m, 1H), 7.67 (d, J = 8.0 Hz, 1H), 8.05 (d, J = 5.5 Hz, 1H),
+8.39 (d, J = 8.2 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 21.25, 21.30,
+122.2, 123.5, 125.3, 126.0, 126.4, 127.9, 128.4 (overlapped), 128.7,
+129.8, 131.3, 131.6, 133.7, 134.8, 135.2, 135.9, 136.1, 136.6, 137.1,
+140.2; HRMS m/z Calcd for C26H20S (M+) 364.1286, found 364.1291.
+</para>
+2809
+
+DOI: 10.1021/acs.joc.5b00155
+J. Org. Chem. 2015, 80, 2804−2814
+
+The Journal of Organic Chemistry
+
+Scheme 7. Plausible Mechanism for the Reaction of 1a with
+5
+
+Scheme 8. Parallel Reactions of 1a-d
+
+0 and 1a-d
+
+1
+
+a
+
+aReaction conditions: 1a (0.4 mmol), 5h (0.2 mmol), [Cp*RhCl2]2
+·H2O (0.4 mmol), and Cs2CO3 (0.06 mmol)
+(0.01 mmol), Cu(OAc)2
+in toluene (2 mL) at 125 °C under N2 for 0.75 h. bGC yield based on
+the amount of 5 h used.
+<para sub=“exp”>
+4,5-Bis[4-(tert-butyl)phenyl]naphtho[2,1-b]thiophene (3ac):6
+mp 233−234 °C (pale yellow powder), 59 mg (65%); 1H NMR (400
+MHz, CDCl3) δ 1.26 (s, 9H), 1.28 (s, 9H), 7.08 (d, J = 8.4 Hz, 2H),
+7.15 (d, J = 8.5 Hz, 2H), 7.20−7.25 (m, 4H), 7.41−7.45 (m, 1H), 7.55
+(d, J = 5.4 Hz, 1H), 7.59−7.61 (m, 1H), 7.80 (d, J = 8.0 Hz, 1H), 8.07
+(d, J = 5.6 Hz, 1H), 8.41 (d, J = 8.2 Hz, 1H); 13C NMR (100 MHz,
+CDCl3) δ 31.25, 31.32, 34.42, 34.44, 122.2, 123.5, 124.3, 124.5, 125.3,
+125.9, 126.3, 128.0, 128.7, 129.6, 131.2, 132.3, 133.9, 135.1, 135.2,
+135.8, 136.9, 139.8, 149.3, 149.7; HRMS m/z Calcd for C32H32S (M+)
+448.2225, found 448.2227.
+4,5-Bis(4-methoxyphenyl)naphtho[2,1-b]thiophene (3ad):6
+mp 218−220 °C (white powder), 60 mg (76%); 1H NMR (400
+MHz, CDCl3) δ 3.78 (s, 3H), 3.80 (s, 3H), 6.77−6.83 (m, 4H), 7.07−
+7.13 (m, 2H), 7.17−7.21 (m, 2H), 7.39−7.43 (m, 1H), 7.55 (d, J = 5.4
+Hz, 1H), 7.56−7.60 (m, 1H), 7.69 (d, J = 7.3 Hz, 1H), 8.06 (d, J = 5.5
+Hz, 1H), 8.39 (d, J = 8.5 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ
+55.09, 55.14, 113.2, 113.4, 122.3, 123.5, 125.3, 126.0, 126.4, 127.8,
+128.7, 131.1, 131.2, 131.7, 132.45, 132.52, 133.6, 134.56, 135.1, 140.3,
+158.2, 158.5; HRMS m/z Calcd for C26H20O2S (M+) 396.1184, found
+396.1181.
+4,4′-(Naphtho[2,1-b]thiophene-4,5-diyl)bis(N,N-dimethyla-
+niline) (3ae). mp 234−236 °C (brown powder), 60 mg (71%); 1H
+NMR (400 MHz, CDCl3) δ 2.93 (s, 6H), 2.94 (s, 6H), 6.63 (d, J = 7.4
+Hz, 2H), 6.67 (d, J = 8.8 Hz, 2H), 7.07 (d, J = 8.8 Hz, 2H), 7.18 (d, J
+= 8.8 Hz, 2H), 7.36−7.41 (m, 1H), 7.51 (d, J = 5.2 Hz, 1H), 7.52−
+7.57 (m, 1H), 7.76 (d, J = 8.4 Hz, 1H), 8.04 (d, J = 5.6 Hz, 1H), 8.37
+(d, J = 8.4 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 40.5, 40.6, 111.9,
+</para>
+Article
+<para sub=“exp”>
+112.0, 122.2, 123.4, 125.0, 125.6, 126.1, 127.4, 128.1, 128.60, 128.64,
+130.8, 132.2, 132.3, 134.0, 134.86, 134.89, 141.0, 149.0, 149.2; HRMS
+m/z Calcd for C28H26N2S (M+) 422.1817, found 422.1819.
+4,5-Bis(4-bromophenyl)naphtho[2,1-b]thiophene (3af). mp
+220−222 °C (white powder), 54 mg (54%); 1H NMR (400 MHz,
+CDCl3) δ 7.05 (d, J = 8.4 Hz, 2H), 7.12 (d, J = 8.4 Hz, 2H), 7.40−7.46
+(m, 5H), 7.58−7.64 (m, 3H), 8.07 (d, J = 5.5 Hz, 1H), 8.41 (d, J = 8.2
+Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 121.2, 121.7, 122.4, 123.7,
+125.7, 126.5, 126.9, 127.5, 128.8, 130.9, 131.1, 131.5, 131.6, 132.5,
+133.0, 133.5, 135,7, 137.5, 138.4, 139.2; HRMS m/z Calcd for
+C24H14Br2S (M+) 491.9183, found 491.9185.
+1,1′-(Naphtho[2,1-b]thiophene-4,5-diylbis(4,1-phenylene))-
+diethanone (3ag). mp 251−252 °C (white powder), 62 mg (62%);
+1H NMR (400 MHz, CDCl3) δ 2.58 (s, 3H), 2.60 (s, 3H), 7.31 (d, J =
+8.4 Hz, 2H), 7.37 (d, J = 8.4 Hz, 2H), 7.44−7.48 (m, 1H), 7.58 (d, J =
+8.2 Hz, 1H), 7.61−7.67 (m, 2H), 7.85−7.89 (m, 4H), 8.10 (d, J = 5.6
+Hz, 1H), 8.44 (d, J = 7.8 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ
+26.6 (overlapped), 122.4, 123.8, 125.9, 126.7, 127.2, 127.4, 127.9,
+128.3, 128.9, 130.3, 130.6, 131.7, 132.6, 133.7, 135.7, 135.9, 136.0,
+138.8, 143.8, 144.4, 197.7, 197.8; HRMS m/z Calcd for C28H20O2S
+(M+) 420.1184, found 420.1186.
+4,5-Bis[4-(triﬂuoromethyl)phenyl]naphtho[2,1-b]thiophene
+(3ah):6 mp 225−226 °C (white powder), 70 mg (74%); 1H NMR
+(400 MHz, CDCl3) δ 7.31 (d, J = 7.9 Hz, 2H), 7.37 (d, J = 7.9 Hz,
+2H), 7.45−7.49 (m, 1H), 7.52−7.56 (m, 5H), 7.62 (d, J = 5.4 Hz,
+1H), 7.64−7.68 (m, 1H), 8.10 (d, J = 5.5 Hz, 1H), 8.44 (d, J = 8.12
+Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 122.4, 123.8, 124.0 (q, J =
+270.5 Hz), 124.1 (q, J = 270.4 Hz), 124.9 (q, J = 3.7 Hz), 125.3 (q, J =
+3.6 Hz), 126.0, 126.8, 127.2, 127.3, 129.0, 129.3 (q, J = 32.2 Hz), 129.7
+(q, J = 33.3 Hz), 130.3, 130.7, 131.8, 132.4, 133.5,136.1, 138.9, 142.3,
+143.0; HRMS m/z Calcd for C26H14F6S (M+) 472.0720,
+found
+472.0717.
+4,5-Di(naphthalen-2-yl)naphtho[2,1-b]thiophene (3ai). mp
+215−217 °C (white powder), 65 mg (75%); 1H NMR (400 MHz,
+CDCl3) δ 7.33−7.41 (m, 7H), 7.56−7.72 (m, 10H), 7.92 (s, 1H), 8.10
+(d, J = 5.6 Hz, 1H), 8.44 (d, J = 8.2 Hz, 1H); 13C NMR (100 MHz,
+CDCl3) δ 122.3, 123.6, 125.5, 125.8, 125.9 (overlapped), 126.0, 126.2,
+126.8, 127.3, 127.61, 127.63, 127.7, 127.90, 127.92, 128.1 (over-
+lapped), 128.9, 129.0, 129.6, 130.5, 131.6, 132.2, 132.4, 132.9, 133.0,
+133.8, 134.8, 135.5, 136.4, 137.5, 140.1; HRMS m/z Calcd for C32H20S
+(M+) 436.1286, found 436.1283.
+4,5-Dipropylnaphtho[2,1-b]thiophene (3aj):6 mp 83−84 °C
+(white powder), 21 mg (79%); 1H NMR (400 MHz, CDCl3) δ 1.09−
+1.14 (m, 6H), 1.68−1.85 (m, 4H), 3.00−3.04 (m, 2H), 3.09−3.13 (m,
+2H), 7.49 (d, J = 5.4 Hz, 1H), 7.51−7.55 (m, 2H), 7.96 (d, J = 5.4 Hz,
+1H), 8.07−8.11 (m, 1H), 8.30−8.34 (m, 1H); 13C NMR (100 MHz,
+CDCl3) δ 14.7 (overlapped), 23.2, 24.4, 30.7, 35.4, 122.6, 124.1, 124.2,
+124.9, 125.1, 125.2, 128.7, 130.7, 132.0, 132.2, 134.4, 139.7; HRMS m/
+z Calcd for C18H20S (M+) 268.1286, found 268.1288.
+4,5-Diheptylnaphtho[2,1-b]thiophene (3ak):6 mp 39−40 °C
+(yellow powder), 65 mg (85%); 1H NMR (400 MHz, CDCl3) δ 0.88−
+0.92 (m, 6H), 1.32−1.43 (m, 12H), 1.48−1.57 (m, 4H), 1.64−1.80
+(m, 4H), 3.00−3.04 (m, 2H), 3.10−3.14 (m, 2H), 7.48 (d, J = 5.4 Hz,
+1H), 7.51−7.54 (m, 2H), 7.95 (d, J = 5.4 Hz, 1H), 8.08−8.11 (m,
+1H), 8.29−8.33 (m, 1H); 13C NMR (100 MHz, CDCl3) δ 14.1
+(overlapped), 22.7 (overlapped), 28.6, 29.1, 29.2, 29.8, 30.2, 30.3, 31.2,
+31.8, 31.9, 33.3, 122.6, 124.1, 124.2, 124.9, 125.0, 125.2, 128.7, 130.7,
+132.16, 132.23, 134.3, 139.7; HRMS m/z Calcd for C26H36S (M+)
+380.2538, found 380.2534.
+5-Methyl-4-phenylnaphtho[2,1-b]thiophene (3an):6 mp 69−
+71 °C (white powder), 27 mg (50%); 1H NMR (400 MHz, CDCl3) δ
+2.55 (s, 3H), 7.43−7.48 (m, 4H), 7.50−7.54 (m, 2H), 7.57−7.65 (m,
+2H), 8.00 (d, J = 5.4 Hz, 1H), 8.14−8.17 (m, 1H), 8.37- 8.40 (m, 1H);
+13C NMR (100 MHz, CDCl3) δ 16.3, 122.2, 124.0, 125.3, 125.5, 125.6,
+125.9, 127.7, 127.8, 128.6, 128.8, 129.6, 131.3, 133.9, 134.1, 140.2,
+140.6; HRMS m/z Calcd for C19H14S (M+) 274.0816, found 274.0815.
+4-Methyl-5-phenylnaphtho[2,1-b]thiophene (3an′):6 mp
+114−116 °C (white powder), 7 mg (12%); 1H NMR (400 MHz,
+CDCl3) δ 2.42 (s, 3H), 7.30−7.33 (m, 2H), 7.35−7.39 (m, 1H),
+7.46−7.48 (m, 2H), 7.50−7.56 (m, 3H), 7.61 (d, J = 5.4 Hz, 1H), 8.07
+</para>
+2810
+
+DOI: 10.1021/acs.joc.5b00155
+J. Org. Chem. 2015, 80, 2804−2814
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(d, J = 5.4 Hz, 1H), 8.36 (d, J = 8.1 Hz, 1H); 13C NMR (100 MHz,
+CDCl3) δ 19.1, 122.7, 123.4, 125.1, 125.29, 125.33, 127.2, 127.3,
+127.7, 128.1, 128.4, 130.6, 131.6, 134.97, 134.98, 139.5, 139.6; HRMS
+m/z Calcd for C19H14S (M+) 274.0816, found 274.0814.
+5,6-Bis(3,4-dimethoxyphenyl)benzo[b]naphtho[1,2-d]-
+thiophene (3ko). mp 231−233 °C (pink powder), 254 mg (50%);
+1H NMR (400 MHz, CDCl3) δ 3.65 (s, 3H), 3.69 (s, 3H), 3.86 (s,
+3H), 3.87 (s, 3H), 6.67−6.98 (m, 6H), 7.43−7.50 (m, 2H), 7.57 (t, J =
+7.6 Hz, 1H), 7.71 (t, J = 8.0 Hz, 1H), 7.89 (s, 1H), 7.90 (s, 1H), 8.88
+(d, J = 8.4 Hz, 1H), 9.09 (d, J = 8.4 Hz, 1H); 13C NMR (125 MHz,
+DMSO-d6, 90 °C) δ 56.61, 56.66, 56.68, 56.7, 112.9, 113.0, 115.9,
+117.1, 123.2, 123.8, 123.9, 124.5, 125.5, 125.9, 126.0, 126.2, 127.8,
+128.6, 128.8, 130.3, 131.9, 132.6, 133.1, 134.5, 137.1, 137.9, 140.3,
+141.6, 149.0, 149.36, 149.4, 149.5; HRMS (APCI) m/z Calcd for
+C32H27O4S ([M + H]+) 507.1625, found 507.1624.
+7-Methyl-4,5-diphenylnaphtho[2,1-b]thiophene (3ba):6 mp
+162−163 °C (white powder), 60 mg (85%); 1H NMR (400 MHz,
+CDCl3) δ 2.42 (s, 3H), 7.18−7.29 (m, 10H), 7.43−7.46 (m, 2H), 7.55
+(d, J = 5.5 Hz, 1H), 8.05 (d, J = 5.4 Hz, 1H), 8.32 (d, J = 8.3 Hz, 1H);
+13C NMR (100 MHz, CDCl3) δ 21.9, 122.2, 123.5, 126.5, 126.6, 126.9,
+127.0, 127.1, 127.6, 127.9, 128.1, 130.0, 131.4, 131.6, 133.8, 134.4,
+135.0, 135.3, 138.95, 139.03, 140.1; HRMS m/z Calcd for C25H18S
+(M+) 350.1129, found 350.1126.
+7-Methoxy-4,5-diphenylnaphtho[2,1-b]thiophene (3ca):6 mp
+196−197 °C (pale yellow powder), 49 mg (66%); 1H NMR (400
+MHz, CDCl3) δ 3.70 (s, 3H), 7.03 (d, J = 2.6 Hz, 1H), 7.18−7.28 (m,
+11H), 7.54 (d, J = 5.4 Hz, 1H), 7.99 (d, J = 5.5 Hz, 1H), 8.31 (d, J =
+9.0 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 55.1, 107.7, 117.2, 122.0,
+123.9, 125.1, 126.69, 126.73, 127.1, 127.7, 127.9, 123.0, 131.4, 132.6,
+134.1, 134.2, 135.4, 137.9, 138.9, 140.0, 157.2; HRMS m/z Calcd for
+C25H18OS (M+) 366.1078, found 366.1080.
+7-Chloro-4,5-diphenylnaphtho[2,1-b]thiophene (3da):6 mp
+194−195 °C (pale yellow powder), 74 mg (98%); 1H NMR (400
+MHz, CDCl3) δ 7.06−7.09 (m, 2H), 7.13−7.21 (m, 8H), 7.44 (q, J =
+2.2, 8.7 Hz, 1H), 7.49 (d, J = 5.5 Hz, 1H), 7.56 (d, J = 2.0 Hz, 1H),
+7.92 (d, J = 5.5 Hz, 1H), 8.23 (d, J = 8.8 Hz, 1H); 13C NMR (100
+MHz, CDCl3) δ 122.1, 125.2, 126.7 (overlapped), 126.99, 127.03,
+127.3, 127.4, 127.9, 128.0, 129.8, 131.3, 131.4, 132.4, 134.0, 134.9,
+135.1, 138.1, 139.5, 140.0; HRMS m/z Calcd for C24H15ClS (M+)
+370.0583, found 370.0586.
+7-Phenyl-4,5-dipropylnaphtho[2,1-b]thiophene (3ej). mp
+116−117 °C (white powder), 52 mg (76%); 1H NMR (400 MHz,
+CDCl3) δ 1.10−1.16 (m, 6H), 1.73−1.86 (m, 4H), 3.02−3.06 (m,
+2H), 3.15−3.19 (m, 2H), 7.39 (t, J = 7.6 Hz, 1H), 7.49−7.53 (m, 3H),
+7.74 (d, J = 7.2 Hz, 2H), 7.78 (dd, J = 1.6, 8.4 Hz, 1H), 7.97 (d, J = 5.6
+Hz, 1H), 8.28 (d, J = 1.2 Hz, 1H), 8.37 (d, J = 8.4 Hz, 1H); 13C NMR
+(100 MHz, CDCl3) δ 14.7, 14.8, 23.2, 24.5, 30.7, 35.4, 122.6, 123.3,
+124.4, 124.65, 124.67, 127.1, 127.5, 127.8, 128.9, 130.9, 132.3, 132.5,
+134.2, 137.9, 139.8, 141.9; HRMS m/z Calcd for C24H24S (M+)
+344.1599, found 344.1601.
+6-Fluoro-4,5-diphenylnaphtho[2,1-b]thiophene (3fa):6 mp
+181−183 °C (white powder), 62 mg (87%); 1H NMR (400 MHz,
+CDCl3) δ 7.09 (ddd, J = 1.1, 7.7, 13.2 Hz, 1H), 7.14−7.25 (m, 10H),
+7.53 (td, J = 4.8, 7.9 Hz, 1H), 7.57 (d, J = 5.4 Hz, 1H), 8.03 (d, J = 5.5
+Hz, 1H), 8.22 (d, J = 8.2 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ
+111.7 (d, J = 23.2 Hz), 119.8 (d, J = 4.2 Hz), 120.8 (d, J = 8.6 Hz),
+122.5, 126.2, 126.6 (d, J = 9.3 Hz), 126.8, 127.2, 127.4, 127.8, 129.9,
+130.2 (d, J = 4.1 Hz), 131.0 (d, J = 3.3 Hz), 131.1 (d, J = 2.3 Hz),
+135.0 (d, J = 2.9 Hz), 135.5, 139.3, 140.77, 140.81, 160.2 (d, J = 254.0
+Hz); HRMS m/z Calcd for C24H15FS (M+) 354.0878, found 354.0876.
+1-Methyl-4,5-diphenylnaphtho[2,1-b]thiophene (3ga). mp
+182−184 °C (pale yellow powder), 69 mg (98%); 1H NMR (400
+MHz, CDCl3) δ 2.96 (d, J = 0.8 Hz, 3H), 7.17−7.27 (m, 11H), 7.42
+(ddd, J = 1.2 Hz, 6.8 Hz, 8.4 Hz, 1H), 7.60 (ddd, J =1.2, 6.8, 8.4 Hz,
+1H), 7.70 (dd, J = 0.8, 8.4 Hz, 1H), 8.78 (d, J = 8.4 Hz, 1H); 13C
+NMR (100 MHz, CDCl3) δ 20.2, 123.3, 123.7, 124.8, 125.7, 126.6,
+127.2, 127.6, 127.9, 128.0, 130.1, 130.2, 131.4, 131.9, 133.1, 134.2,
+134.8, 135.0, 139.0, 139.7, 141.7; HRMS m/z Calcd for C25H18S (M+)
+350.1129, found 350.1127.
+</para>
+Article
+<para sub=“exp”>
+1,2-Dimethyl-4,5-diphenylnaphtho[2,1-b]thiophene (3ha).
+mp 245−247 °C (pale yellow powder), 71 mg (97%); 1H NMR
+(400 MHz, CDCl3) δ 2.51 (s, 3H), 2.81 (s, 3H), 7.17−7.27 (m, 10H),
+7.39 (ddd, J = 1.2, 7.2, 8.4 Hz, 1H), 7.57 (ddd, J = 1.2, 6.8, 8.4 Hz,
+1H), 7.69 (d, J = 8.4 Hz, 1H), 8.81 (d, J = 8.4 Hz, 1H); 13C NMR
+(100 MHz, CDCl3) δ 14.1, 16.7, 123.2, 124.5, 125.4, 126.5, 127.1,
+127.6, 127.8, 128.0, 129.8, 129.9, 130.0, 131.5, 132.0, 133.6, 133.8,
+134.3, 134.7, 137.9, 139.2, 140.0; HRMS m/z Calcd for C26H20S (M+)
+364.1286, found 364.1287.
+Methyl 4,5-diphenylnaphtho[2,1-b]thiophene-2-carboxy-
+late (3ia). mp 221−222 °C (white powder), 64 mg (81%); 1H
+NMR (400 MHz, CDCl3) δ 3.92 (s, 3H), 7.17−7.30 (m, 10H), 7.46
+(ddd, J = 1.2, 7.2, 8.4 Hz, 1H), 7.62−7.68 (m, 2H), 8.42 (d, J = 8.0 Hz,
+1H), 8.78 (s, 1H); 13C NMR (100 MHz, CDCl3) δ 52.4, 123.4, 126.1,
+126.90, 126.97, 127.5, 127.7, 128.10, 128.14, 128.6, 129.3, 129.9,
+131.2, 131.5, 132.8, 133.6, 134.7, 137.8, 138.2, 139.0, 143.6, 163.3;
+HRMS m/z Calcd for C26H18O2S (M+) 394.1028, found 394.1025.
+4,5-Diphenylanthra[2,1-b]thiophene (3ja). mp 200−203 °C
+(white powder), 72 mg (93%); 1H NMR (400 MHz, CDCl3) δ 7.20−
+7.33 (m, 10H), 7.42 (ddd, J = 1.2, 6.4, 8.0 Hz, 1H), 7.50 (ddd, J = 1.1,
+6.4, 7.9 Hz, 1H), 7.57 (d, J = 5.2 Hz, 1H), 7.84 (d, J = 8.4 Hz, 1H),
+8.07 (d, J = 8.0 Hz, 1H), 8.18 (s, 1H), 8.21 (d, J = 5.2 Hz, 1H), 8.89
+(s, 1H); 13C NMR (100 MHz, CDCl3) δ 121.6, 122.9, 125.1, 125.9,
+126.2, 126.8, 127.1, 127.2, 127.5, 127.7, 127.8, 127.9, 128.6, 130.0,
+130.6, 131.2, 131.5, 131.6, 133.4, 134.7, 135.0, 138.9, 139.6, 139.8;
+HRMS m/z Calcd for C28H18S (M+) 386.1129, found 386.1128.
+5,6-Diphenylbenzo[b]naphtho[1,2-d]thiophene (3ka):6 mp
+205−206 °C (white powder), 27 mg (35%); 1H NMR (400 MHz,
+CDCl3) δ 7.21−7.30 (m, 10H), 7.48 (t, J = 8.5 Hz, 2H), 7.61 (t, J =
+7.7 Hz, 1H), 7.71−7.79 (m, 2H), 7.90 (d, J = 7.9 Hz, 1H), 8.91 (d, J =
+8.4 Hz, 1H), 9.12 (d, J = 8.5 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ
+123.0, 123.1, 124.76, 124.82, 124.9, 125.2, 126.75, 126.83, 127.4,
+127.7, 128.0, 128.57, 128.63, 130.1, 130.2, 131.3, 131.9, 134.1, 137.0,
+137.4, 138.8, 139.7, 140.2, 141.1; HRMS m/z Calcd for C28H18S (M+)
+386.1129, found 386.1125.
+4,5-Dipropyl-7-(thiophen-3-yl)naphtho[2,1-b]thiophene
+(3mj). mp 165−166 °C (white powder), 40 mg (57%); 1H NMR (400
+MHz, CDCl3) δ 1.10−1.17 (m, 6H), 1.72−1.86 (m, 4H), 3.01−3.05
+(m, 2H), 3.14−3.18 (m, 2H), 7.44−7.46 (m, 1H), 7.50 (d, J = 5.2 Hz,
+1H), 7.53−7.57 (m, 2H), 7.78 (dd, J = 1.6, 8.4 Hz, 1H), 7.95 (d, J =
+5.6 Hz, 1H), 8.29 (d, J = 1.6 Hz, 1H), 8.33 (d, J = 8.8 Hz, 1H); 13C
+NMR (100 MHz, CDCl3) δ 14.7, 14.8, 23.2, 24.5, 30.7, 35.4, 120.3,
+122.4, 122.6, 124.1, 124.5, 124.7, 126.4, 126.6, 127.8, 131.0, 132.2,
+132.59, 132.61, 134.3, 139.7, 143.0; HRMS m/z Calcd for C22H22S2
+(M+) 350.1163, found 350.1160.
+4,5,10,11-Tetrapropylanthra[2,1-b:6,5-b′]dithiophene (4mj).
+mp 188−189 °C (pale yellow powder), 13 mg (14%); 1H NMR (400
+MHz, CDCl3) δ 1.15 (t, J = 7.6 Hz, 6H), 1.22 (t, J = 7.6 Hz, 6H),
+1.81−1.91 (m, 8H), 3.05−3.09 (m, 4H), 3.28−3.32 (m, 4H), 7.56 (d, J
+= 5.4 Hz, 2H), 8.16 (d, J = 5.4 Hz, 2H), 9.04 (s, 2H); 13C NMR (100
+MHz, CDCl3) δ 14.8, 14.9, 23.3, 24.4, 30.9, 35.4, 119.4, 122.8, 124.0,
+126.9, 128.8, 131.68, 131.71, 134.4, 139.4; HRMS m/z Calcd for
+C30H34S2 (M+) 458.2102, found 458.2098.
+4,5-Dipropyl-8-(thiophen-3-yl)naphtho[2,1-b]thiophene
+(3nj). mp 91−92 °C (brown powder), 20 mg (28%); 1H NMR (400
+MHz, CDCl3) δ 1.10−1.16 (m, 6H), 1.69−1.86 (m, 4H), 3.00−3.06
+(m, 2H), 3.10−3.14 (m, 2H), 7.45 (dd, J = 2.8, 5.2 Hz, 1H), 7.51 (d, J
+= 5.2 Hz, 1H), 7.57 (dd, J = 1.6, 5.2 Hz, 1H), 7.61 (dd, J = 1.2, 2.8 Hz,
+1H), 7.78 (dd, J = 1.6, 8.4 Hz, 1H), 8.01 (d, J = 5.6 Hz, 1H), 8.11 (d, J
+= 8.8 Hz, 1H), 8.50 (d, J = 2.0 Hz, 1H); 13C NMR (100 MHz, CDCl3)
+δ 14.7 (overlapped), 23.2, 24.5, 30.7, 35.3, 120.5, 121.3, 122.5, 124.1,
+124.4, 125.5, 126.3, 126.6, 128.9, 129.8, 132.05, 132.07, 132.4, 134.4,
+140.2, 142.5; HRMS m/z Calcd for C22H22S2 (M+) 350.1163, found
+350.1164.
+4,5,7,8-Tetrapropylanthra[2,1-b:7,8-b′]dithiophene (4nj). mp
+152−153 °C (white powder), 32 mg (35%); 1H NMR (400 MHz,
+CDCl3) δ 1.15 (t, J = 7.2 Hz, 6H), 1.23 (t, J = 7.2 Hz, 6H), 1.81−1.90
+(m, 8H), 3.04−3.08 (m, 4H), 3.25−3.29 (m, 4H), 7.55 (d, J = 5.4 Hz,
+2H), 8.19 (d, J = 5.4 Hz, 2H), 8.83 (s, 1H), 9.21 (s, 1H); 13C NMR
+(100 MHz, CDCl3) δ 14.8, 15.0, 23.3, 24.5, 31.2, 35.5, 118.0, 120.9,
+</para>
+2811
+
+DOI: 10.1021/acs.joc.5b00155
+J. Org. Chem. 2015, 80, 2804−2814
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+123.0, 123.9, 126.6, 128.8, 131.3, 132.0, 134.0, 139.7; HRMS m/z
+Calcd for C30H34S2 (M+) 458.2102, found 458.2103.
+4,5-Diphenylbenzo[1,2-b:4,3-b′]dithiophene (3oa):22 mp
+184−185 °C (white powder), 12 mg (9%); 1H NMR (400 MHz,
+CDCl3) δ 7.23−7.34 (m, 10H), 7.54 (d, J = 5.4 Hz, 2H), 7.78 (d, J =
+5.4 Hz, 2H); 13C NMR (100 MHz, CDCl3) δ 122.1, 127.2, 127.3,
+128.1, 130.3, 131.4, 133.7, 139.36, 139.4; HRMS m/z Calcd for
+C22H14S2 (M+) 342.0537, found 342.0538.
+4,5-Diphenylbenzo[1,2-b:3,4-c′]dithiophene (3oa′). oil, 18 mg
+(13%); 1H NMR (400 MHz, CDCl3) δ 7.19−7.31 (m, 10H), 7.43 (d, J
+= 3.2 Hz, 1H), 7.46 (d, J = 5.3 Hz, 1H), 7.78 (d, J = 5.3 Hz, 1H), 7.91
+(d, J = 3.3 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 114.0, 119.7,
+123.1, 126.1, 126.8, 127.3, 127.9, 128.0, 130.0, 130.2, 130.8, 130.90,
+130.94, 133.7, 138.7, 138.8, 139.1, 139.3; HRMS m/z Calcd for
+C22H14S2 (M+) 342.0537, found 342.0539.
+1,4,5-Triphenylnaphtho[2,1-b]thiophene (3pa). mp 188−190
+°C (brown powder), 62 mg (75%); 1H NMR (400 MHz, CDCl3) δ
+7.19−7.33 (m, 13H), 7.49−7.58 (m, 5H), 7.65 (d, J = 8.4 Hz, 1H),
+7.93 (d, J = 8.4 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 123.9, 125.0,
+125.3, 125.6, 126.7, 127.3, 127.65, 127.72, 127.9, 128.0, 128.6, 129.3,
+130.0, 130.1, 131.4, 132.0, 132.3, 133.9, 135.3, 138.9, 139.2, 139.6,
+140.5, 141.3; HRMS m/z Calcd for C30H20S (M+) 412.1286, found
+412.1283.
+5,6,8,9-Tetraphenyldinaphtho[2,1-b:1′,2′-d]thiophene (4pa).
+mp 313−314 °C (white powder), 16 mg (13%); 1H NMR (400 MHz,
+CDCl3) δ 7.17−7.30 (m, 20H), 7.48 (ddd, J = 1.2, 6.8, 8.0 Hz, 2H),
+7.58 (ddd, J = 1.6, 6.8, 8.4 Hz, 2H), 7.77 (dd, J = 0.8, 8.4 Hz, 2H), 9.00
+(d, J = 8.0 Hz, 2H); 13C NMR (100 MHz, CDCl3) δ 124.4, 125.3,
+126.0, 126.8, 127.2, 127.6, 127.8, 128.0, 129.3, 130.2, 131.1, 131.4,
+132.1, 133.8, 137.0, 138.7, 139.3, 141.2; HRMS m/z Calcd for C44H28S
+(M+) 588.1912, found 588.1908.
+1-Phenyl-4,5-dipropylnaphtho[2,1-b]thiophene (3pj). oil, 336
+mg (98%); 1H NMR (400 MHz, CDCl3) δ 1.13−1.17 (m, 6H), 1.70−
+1.89 (m, 4H), 3.04−3.08 (m, 2H), 3.11−3.15 (m, 2H), 7.16 (ddd, J =
+1.2, 7.2, 8.4 Hz, 1H), 7.25 (s, 1H), 7.41−7.51 (m, 6H), 7.83 (d, J = 8.8
+Hz, 1H), 8.08 (d, J = 8.8 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ
+14.78, 14.80, 23.2, 24.3, 30.9, 35.2, 123.2, 124.2, 124.5, 124.78, 124.83,
+127.5, 128.5, 129.2, 129.5, 131.28, 131.34, 132.1, 132.6, 139.5, 140.8,
+141.0; HRMS m/z Calcd for C24H24S (M+) 344.1599, found 344.1597.
+5,6,12,13-Tetraheptylnaphtho[2,1-b]naphtho[1′,2′:4,5]-
+thieno[2,3-d]thiophene (4qk). mp 215−216 °C (pale yellow
+powder), 124 mg (85%); 1H NMR (400 MHz, CDCl3) δ 0.90−0.95
+(m, 12H), 1.32−1.52 (m, 24H), 1.54−1.65 (m, 8H), 1.70−1.78 (m,
+4H), 1.82−1.90 (m, 4H), 3.10−3.19 (m, 8H), 7.62 (ddd, J = 1.2, 6.8,
+8.4 Hz, 2H), 7.71 (ddd, J = 0.8, 6.8, 8.0 Hz, 2H), 8.18 (d, J = 8.0 Hz,
+2H), 8.59 (dd, J = 1.2, 8.4 Hz, 2H); 13C NMR (100 MHz, CDCl3) δ
+14.1, 14.2, 22.7, 22.8, 28.9, 29.1, 29.2, 30.0, 30.3, 30.4, 31.3, 31.88,
+31.93, 33.0, 124.9, 125.0, 125.3, 125.5, 127.3, 127.5, 131.0, 132.4,
+133.0, 133.2, 142.5; HRMS m/z Calcd for C50H68S2 (M+) 732.4762,
+found 732.4764.
+
+5,6-Diphenylnaphtho[2,1-b]benzofuran (3ra):5a mp 213- 215
+°C (white powder), 33 mg (90%); 1H NMR (400 MHz, CDCl3) δ
+7.23−7.33 (m, 10H), 7.43−7.49 (m, 3H), 7.62−7.65 (m, 1H), 7.72
+(ddd, J = 1.2, 6.8, 8.4 Hz, 1H), 7.78 (d, J = 7.6 Hz, 1H), 8.44−8.49 (m,
+1H), 8.72 (d, J = 8.0 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 112.2,
+116.8, 122.0, 123.2, 123.4, 124.5, 125.0, 125.9, 126.5, 126.87, 126.92,
+127.1, 127.69, 127.73, 128.4, 128.7, 130.2, 131.0, 131.6, 135.5, 138.5,
+138.8, 152.7, 156.0; HRMS m/z Calcd for C28H18O (M+) 370.1358,
+found 370.1357.
+4,5-Diphenylthieno[3,2-f ]quinoline (3ua). mp 200−203 °C
+(yellow powder), 31 mg (47%); 1H NMR (400 MHz, CDCl3) δ 7.20−
+7.31 (m, 10H), 7.51 (dd, J = 4.4, 8.4 Hz, 1H), 7.64 (d, J = 5.6 Hz, 1H),
+8.06 (d, J = 5.6 Hz, 1H), 8.69 (dd, J = 1.6, 8.4 Hz, 1H), 8.94 (dd, J =
+2.0, 4.4 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 120.8, 122.0, 123.8,
+126.6, 127.3, 127.5, 127.7, 128.1, 129.8, 131.5, 131.9, 134.8, 135.8,
+137.1, 138.1, 139.6, 140.1, 146.5, 149.2; HRMS m/z Calcd for
+C23H15NS (M+) 337.0925, found 337.0927.
+5,6-Diphenylthieno[2,3-h]isoquinoline (3ua′). mp 201−202
+°C (white powder), 19 mg (27%); 1H NMR (400 MHz, CDCl3) δ
+7.17−7.19 (m, 2H), 7.26−7.30 (m, 8H), 7.50 (d, J = 5.4 Hz, 1H), 7.72
+</para>
+Article
+<para sub=“exp”>
+(d, J = 5.5 Hz, 1H), 8.21 (d, J = 5.5 Hz, 1H), 8.54 (d, J = 5.8 Hz, 1H),
+9.82 (s, 1H); 13C NMR (100 MHz, CDCl3) δ 120.2, 121.3, 123.6,
+127.2, 127.7, 127.9, 128.1, 128.7, 129.7, 131.4, 133.2, 134.67, 134.69,
+137.2, 137.9, 139.0, 141.0, 143.7, 148.0; HRMS m/z Calcd for
+C23H15NS (M+) 337.0925, found 337.0926.
+4,5-Diphenylthieno[3,2-f ]isoquinoline (3va). mp 222−223 °C
+(light brown powder), 58 mg (86%); 1H NMR (400 MHz, CDCl3) δ
+7.20−7.31 (m, 10H), 7.64 (d, J = 5.2 Hz, 1H), 8.06 (d, J = 5.6 Hz,
+1H), 8.14 (dd, J = 0.8, 5.6 Hz, 1H), 8.68 (d, J = 5.6 Hz, 1H), 9.06 (s,
+1H); 13C NMR (100 MHz, CDCl3) δ 116.4, 122.2, 126.3, 127.2,
+127.60, 127.65, 127.8, 128.1, 129.8, 131.4, 131.8, 133.7, 134.3, 135.0,
+136.8, 138.9, 143.6, 143.8, 152.0; HRMS m/z Calcd for C23H15NS
+(M+) 337.0925, found 337.0923.
+4,5-Diphenylthieno[2′,3′:5,6]benzo[1,2-g]quinoline (3wa).
+mp 272−273 °C (pale yellow powder), 55 mg (70%); 1H NMR
+(400 MHz, CDCl3) δ 7.23−7.33 (m, 10H), 7.39 (dd, J = 4.0, 8.4 Hz,
+1H), 7.62 (d, J = 5.2 Hz, 1H), 8.20 (d, J = 5.2 Hz, 1H), 8.37 (d, J = 8.4
+Hz, 1H), 8.52 (s, 1H), 8.84 (s, 1H), 8.92 (dd, J = 1.6, 4.0 Hz, 1H); 13C
+NMR (100 MHz, CDCl3) δ 120.9, 121.8, 122.9, 126.3, 126.7, 127.0,
+127.4, 127.7, 127.9, 128.0, 128.4, 129.9, 131.5, 133.3, 134.4, 134.7,
+134.9, 135.9, 138.3, 139.5, 140.2, 144.7, 150.9; HRMS m/z Calcd for
+C27H17NS (M+) 387.1082, found 387.1078.
+2,4,5-Triphenylnaphtho[2,1-d]thiazole (3xa). mp 262−264 °C
+(white powder), 62 mg (75%); 1H NMR (400 MHz, CDCl3) δ 7.21−
+7.31 (m, 10H), 7.45−7.51 (m, 4H), 7.66−7.70 (m, 2H), 8.15−8.18
+(m, 2H), 9.02 (dd, J =1.2, 8.4 Hz, 1H); 13C NMR (100 MHz, CDCl3)
+δ 124.1, 126.3, 126.6, 126.9, 127.2, 127.3, 127.4, 127.7, 128.1
+(overlapped), 129.0, 129.7, 130.5, 131.5, 132.2, 132.4, 134.0, 134.5,
+135.8, 138.4, 140.5, 150.0, 167.3; HRMS m/z Calcd for C29H19NS
+(M+) 413.1238, found 413.1239.
+2-Methyl-4,5-diphenylnaphtho[1,2-d]thiazole (3ya). mp
+258−260 °C (white powder), 55 mg (78%); 1H NMR (400 MHz,
+CDCl3) δ 2.90 (s, 3H), 7.18−7.30 (m, 10H), 7.46 (ddd, J = 1.6, 7.2,
+8.4 Hz, 1H), 7.63−7.69 (m, 2H), 8.86 (d, J = 8.3 Hz, 1H); 13C NMR
+(100 MHz, CDCl3) δ 20.1, 123.8, 126.1, 126.5, 126.8, 127.2, 127.3,
+127.6, 127.7, 128.0, 129.6, 131.5, 132.0, 132.3, 134.7, 135.1, 138.5,
+140.6, 148.6, 166.5; HRMS m/z Calcd for C24H17NS (M+) 351.1082,
+found 351.1079.
+2,4,5-Triphenylnaphtho[1,2-d]oxazole (3bba). mp 207−208
+°C (white powder), 61 mg (76%); 1H NMR (400 MHz, CDCl3) δ
+7.23−7.34 (m, 10H), 7.42−7.50 (m, 4H), 7.66 (ddd, J = 1.2, 6.8, 8.0
+Hz, 1H), 7.73 (d, J = 8.8 Hz, 1H), 8.25−8.27 (m, 2H), 8.68 (d, J = 8.0
+Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 122.2, 124.8, 125.6, 125.9,
+126.6, 127.0, 127.2, 127.38, 127.41, 127.78, 127.81, 127.9, 128.8,
+130.7, 131.0, 131.1, 131.7, 135.1, 136.2, 137.1, 138.3, 146.9, 162.5;
+HRMS m/z Calcd for C29H19NO (M+) 397.1467, found 397.1466.
+5,6-Diphenylnaphtho[2,1-b]benzofuran (3cca). mp 233−235
+°C (yellow powder), 30 mg (44%); 1H NMR (400 MHz, CDCl3) δ
+2.72 (s, 3H), 7.20−7.33 (m, 10H), 7.42 (ddd, J =1.2, 6.8, 8.4 Hz, 1H),
+7.64 (ddd, J = 1.2, 6.8, 8.0 Hz, 1H), 7.70 (d, J = 8.4 Hz, 1H), 8.54 (d, J
+= 8.4 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 14.8, 121.9, 124.7,
+125.3, 125.6, 126.6, 127.0, 127.2, 127.74, 127.78, 127.82, 130.6, 130.8,
+131.7, 135.1, 135.6, 136.0, 138.3, 147.0, 163.2; HRMS m/z Calcd for
+C24H17NO (M+) 335.1310, found 335.1313.
+
+(E)-Butyl 3-[2-(thiophen-3-yl)phenyl]acrylate (6aa):6 oil, 34
+mg (60%); 1H NMR (400 MHz, CDCl3) δ 0.95 (t, J = 7.2 Hz, 3H),
+1.36−1.46 (m, 2H), 1.62−1.69 (m, 2H), 4.17 (t, J = 6.6 Hz, 2H), 6.39
+(d, J = 15.9 Hz, 1H), 7.14−7.16 (m, 1H), 7.23−7.24 (m, 1H), 7.33−
+7.44 (m, 4H), 7.66 (d, J = 7.1 Hz, 1H), 7.87 (d, J = 16.0 Hz, 1H); 13C
+NMR (100 MHz, CDCl3) δ 13.7, 19.2, 30.7, 64.3, 119.4, 124.2, 125.7,
+126.9, 127.6, 129.1, 129.8, 130.2, 132.9, 137.4, 140.4, 143.7, 167.0;
+HRMS m/z Calcd for C17H18O2S (M+) 286.1028, found 286.1027.
+
+(E)-Isobutyl 3-(2-(thiophen-3-yl)phenyl)acrylate (6ab). oil, 28
+mg (50%); 1H NMR (400 MHz, CDCl3) δ 0.94 (s, 3H), 0.96 (s, 3H),
+1.97 (m, 1H), 3.96 (d, J = 6.6 Hz, 2H), 6.41 (d, J = 16.0 Hz, 1H), 7.15
+(dd, J = 1.2, 4.8 Hz, 1H), 7.23 (dd, J = 1.2, 2.8 Hz, 1H), 7.33−7.44 (m,
+4H), 7.68 (d, J = 7.4 Hz, 1H), 7.88 (d, J = 16.0 Hz, 1H); 13C NMR
+(100 MHz, CDCl3) δ 19.1, 27.8, 70.5, 119.4, 124.2, 125.7, 126.9,
+127.6, 129.1, 129.8, 130.1, 132.9, 137.3, 140.3, 143.7, 166.9; HRMS m/
+z Calcd for C17H18O2S (M+) 286.1028, found 286.1026.
+</para>
+2812
+
+DOI: 10.1021/acs.joc.5b00155
+J. Org. Chem. 2015, 80, 2804−2814
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+(E)-tert-Butyl 3-(2-(thiophen-3-yl)phenyl)acrylate (6ac). oil,
+30 mg (52%); 1H NMR (400 MHz, CDCl3) δ 1.50 (s, 9H), 6.34 (d, J
+= 16.0 Hz, 1H), 7.15 (dd, J = 1.2, 4.8 Hz, 1H), 7.23 (dd, J = 1.3, 3.0
+Hz, 1H), 7.32−7.43 (m, 4H), 7.67 (d, J = 7.8 Hz, 1H), 7.79 (d, J =
+16.0 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 28.2, 80.4, 121.1, 124.1,
+125.6, 126.7, 127.5, 129.1, 129.6, 130.1, 132.9, 137.3, 140.4, 142.5,
+166.2; HRMS m/z Calcd for C17H18O2S (M+) 286.1028,
+found
+286.1026.
+
+(E)-Ethyl 3-(2-(thiophen-3-yl)phenyl)acrylate (6ad). oil, 24 mg
+(47%); 1H NMR (400 MHz, CDCl3) δ 1.31 (t, J = 7.1 Hz, 3H), 4.23
+(q, J = 7.1 Hz, 2H), 6.39 (d, J = 15.9 Hz, 1H), 7.15 (dd, J = 1.6, 5.2
+Hz, 1H), 7.23 (dd, J = 1.6, 3.2 Hz, 1H), 7.33−7.44 (m, 4H), 7.66 (d, J
+= 8.0 Hz, 1H), 7.87 (d, J = 16.0 Hz, 1H); 13C NMR (100 MHz,
+CDCl3) δ 14.3, 60.4, 119.4, 124.2, 125.7, 126.9, 127.6, 129.1, 129.8,
+130.2, 132.9, 137.4, 140.3, 143.8, 166.9; HRMS m/z Calcd for
+C15H14O2S (M+) 258.0715, found 258.0714.
+(E)-Cyclohexyl 3-(2-(thiophen-3-yl)phenyl)acrylate (6ae). oil,
+40 mg (64%); 1H NMR (400 MHz, CDCl3) δ 1.26−1.57 (m, 6H),
+1.71−1.75 (m, 2H), 1.85−1.89 (m, 2H), 4.84−4.90 (m, 1H), 6.39 (d, J
+= 15.6 Hz, 1H), 7.15 (dd, J = 1.6, 5.2 Hz, 1H), 7.24 (dd, J = 1.2, 2.8
+Hz, 1H), 7.33−7.44 (m, 4H), 7.67 (d, J = 7.8 Hz, 1H), 7.87 (d, J =
+15.6 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 23.6, 25.4, 31.6, 72.5,
+120.0, 124.2, 125.7, 126.9, 127.6, 129.2, 129.7, 130.1, 133.0, 137.4,
+140.4, 143.5, 166.3; HRMS m/z Calcd for C19H20O2S (M+) 312.1184,
+found 312.1182.
+
+(E)-Diethyl 2-(thiophen-3-yl)styrylphosphonate (6ag). oil, 30
+mg (47%); 1H NMR (400 MHz, CDCl3) δ 1.32 (dd, J = 0.4, 6.8 Hz,
+6H), 4.10 (qd, J = 7.2, 14.4 Hz, 4H), 6.23 (dd, J = 17.6, 18.8 Hz, 1H),
+7.13 (dd, J = 1.6, 5.2 Hz, 1H), 7.22 (dd, J = 1.2, 2.8 Hz, 1H), 7.34−
+7.41 (m, 4H), 7.55−7.65 (m, 2H); 13C NMR (100 MHz, CDCl3) δ
+16.4 (d, J = 6.5 Hz), 61.7 (d, J = 5.6 Hz), 115.5 (d, J = 190.0 Hz),
+124.1, 125.7, 126.7 (d, J = 1.24 Hz), 127.6, 129.0, 129.8, 130.2 (d, J =
+1.3 Hz), 133.4 (d, J = 22.7 Hz), 137.0, 140.3, 147.2 (d, J = 7.0 Hz);
+HRMS m/z Calcd for C16H19O3PS (M+) 322.0793, found 322.0795.
+(E)-3-(2-Styrylphenyl)thiophene (6ah):6 oil, 30 mg (58%); 1H
+NMR (400 MHz, CDCl3) δ 7.03 (d, J = 16.4 Hz, 1H), 7.21−7.43 (m,
+12H), 7.71 (d, J = 7.6 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 123.6,
+125.2, 126.1, 126.5, 127.5 (overlapped), 127.6, 127.9, 128.7, 129.4,
+129.7, 129.9, 135.75, 135.77, 137.5, 141.3; HRMS m/z Calcd for
+C18H14S (M+) 262.0816, found 262.0813.
+
+(E)-3-(2-(4-Methylstyryl)phenyl)thiophene (6ai). oil, 30 mg
+(53%); 1H NMR (400 MHz, CDCl3) δ 2.96 (s, 3H), 7.00 (d, J = 16.4
+Hz, 1H), 7.13−7.40 (m, 11H), 7.70 (d, J = 7.6 Hz, 1H); 13C NMR
+(100 MHz, CDCl3) δ 21.2, 123.5, 125.1, 126.0, 126.4, 126.9, 127.3,
+127.5, 129.3, 129.4, 129.7, 129.9, 134.8, 135.6, 135.9, 137.4, 141.4;
+HRMS m/z Calcd for C19H16S (M+) 276.0973, found 276.0975.
+
+(E)-3-(2-(4-(tert-Butyl)styryl)phenyl)thiophene (6aj). oil, 29
+mg (45%); 1H NMR (400 MHz, CDCl3) δ 1.32 (s, 9H), 7.01 (d, J
+= 16.4 Hz, 1H), 7.19−7.23 (m, 2H), 7.27−7.40 (m, 9H), 7.71 (d, J =
+7.6 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 31.3, 34.6, 123.6, 125.1,
+125.6, 126.1, 126.3, 127.2, 127.4, 127.5, 129.4, 129.5, 129.9, 134.8,
+135.6, 136.0, 141.4, 150.7; HRMS m/z Calcd for C22H22S (M+)
+318.1442, found 318.1441.
+
+(E)-3-(2-(4-Methoxystyryl)phenyl)thiophene (6ak). oil, 31 mg
+(53%); 1H NMR (400 MHz, CDCl3) δ 3.81 (s, 3H), 6.87 (d, J = 8.8
+Hz, 2H), 6.98 (d, J = 16.0 Hz, 1H), 7.10 (d, J = 16.4 Hz, 1H), 7.21
+(dd, J = 1.6, 5.2 Hz, 1H), 7.27−7.39 (m, 7H), 7.69 (d, J = 7.7 Hz, 1H);
+13C NMR (100 MHz, CDCl3) δ 55.3, 114.1, 123.5, 125.1, 125.8, 125.9,
+127.2, 127.5, 127.7, 129.2, 129.4, 129.9, 130.4, 135.5, 136.1, 141.5,
+159.2; HRMS m/z Calcd for C19H16OS (M+) 292.0922,
+found
+292.0921.
+(E)-3-(2-(2-([1,1′-Biphenyl]-4-yl)vinyl)phenyl)thiophene (6al).
+oil, 44 mg (65%); 1H NMR (400 MHz, CDCl3) δ 7.07 (d, J = 16.0 Hz,
+1H), 7.22−7.61 (m, 12H), 7.56−7.61 (m, 4H), 7.74 (d, J = 7.4 Hz,
+1H); 13C NMR (100 MHz, CDCl3) δ 123.6, 125.2, 126.1, 126.9,
+127.0, 127.30, 127.34, 127.57, 127.58, 128.0, 128.8, 129.2, 129.4,
+130.0, 135.8 (overlapped), 136.6, 140.3, 140.6, 141.4; HRMS m/z
+Calcd for C24H18S (M+) 338.1124, found 338.1131.
+
+(E)-3-(2-(4-Chlorostyryl)phenyl)thiophene (6am). oil, 38 mg
+(63%); 1H NMR (400 MHz, CDCl3) δ 6.97 (d, J = 16.0 Hz, 1H),
+
+7.18−7.41 (m, 11H), 7.69 (d, J = 7.6 Hz, 1H); 13C NMR (100 MHz,
+CDCl3) δ 123.6, 125.3, 126.1, 127.6, 127.7, 127.8, 128.4, 128.5, 128.8,
+129.4, 130.0, 133.1, 135.4, 135.8, 136.0, 141.3; HRMS m/z Calcd for
+C18H13ClS (M+) 296.0426, found 296.0426.
+
+(E)-3-(2-(4-(triﬂuoromethyl)styryl)phenyl)thiophene (6an).
+oil, 41 mg (63%); 1H NMR (400 MHz, CDCl3) δ 7.04 (d, J = 16.0
+Hz, 1H), 7.19 (dd, J = 1.6, 5.2 Hz, 1H), 7.27 (dd, J = 1.2, 3.2 Hz, 1H),
+7.30−7.43 (m, 5H), 7.49 (d, J = 8.4 Hz, 2H), 7.57 (d, J = 9.2 Hz, 2H),
+7.71−7.73 (m, 1H); 13C NMR (100 MHz, CDCl3) δ 123.7, 124.2 (q, J
+= 270.0 Hz), 125.4, 125.6 (q, J = 3.8 Hz), 126.2, 126.6, 127.7, 128.1
+(overlapped), 129.2 (q, J = 32.6 Hz), 129.3, 130.1, 130.4, 135.1, 136.1,
+140.9, 141.1; HRMS m/z Calcd for C19H13F3S (M+) 330.0690, found
+330.0692.
+
+(E)-3-(2-(2-(Naphthalen-2-yl)vinyl)phenyl)thiophene (6ao).
+oil, 31 mg (50%); 1H NMR (400 MHz, CDCl3) δ 7.20 (d, J = 16.4
+Hz, 1H), 7.24 (dd, J = 1.2, 4.8 Hz, 1H), 7.31−7.48 (m, 8H), 7.60 (dd,
+J = 1.6, 8.4 Hz, 1H), 7.76−7.82 (m, 5H);13C NMR (100 MHz,
+CDCl3) δ 123.5, 123.6, 125.3, 125.9, 126.1, 126.3, 126.6, 127.59,
+127.60, 127.7, 128.0, 128.2, 128.3, 129.4, 129.8, 130.0, 132.9, 133.6,
+135.1, 135.8 (overlapped), 141.4; HRMS m/z Calcd for C22H16S (M+)
+312.0973, found 312.0971.
+2,3,6,7-Tetramethoxybenzo[b]benzo[11,12]chryseno[6,5-d]-
+thiophene (7). mp 235−236 °C (yellow powder), 14 mg (59%); 1H
+NMR (400 MHz, CDCl3) δ 4.01 (s, 3H), 4.17 (s, 3H), 4.19 (s, 3H),
+4.20 (s, 3H), 7.51 (t, J = 7.6 Hz, 1H), 7.59−7.64 (m, 2H), 7.73 (tdd, J
+= 1.2, 7.2, 8.4 Hz, 1H), 7.86 (s, 1H), 7.91 (s, 1H), 8.05 (d, J = 8.0 Hz,
+1H), 8.25 (s, 1H), 8.71 (s, 1H), 8.83 (d, J = 8.0 Hz, 1H), 8.90 (d, J =
+8.4 Hz, 1H), 9.01 (d, J = 8.4 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ
+56.07, 56.13, 56.2, 56.4, 104.1, 104.3, 107.7, 111.1, 122.5, 123.1, 123.3,
+123.9, 124.0, 124.2, 124.5, 124.9, 125.07, 125.12, 125.14, 126.6, 127.2,
+128.4, 129.1, 129.36, 129.4, 134.9, 135.9, 139.5, 148.2, 149.1, 149.2
+(overlapped); HRMS (APCI) m/z Calcd for C32H25O4S ([M + H]+)
+505.1468, found 505.1467.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Results for H/D exchange experiments and copies of 1H and
+13C NMR spectra of products. This material is available free of
+charge via the Internet at http://pubs.acs.org.
+■ AUTHOR INFORMATION
+Corresponding Authors
+*E-mail: satoh@chem.eng.osaka-u.ac.jp.
+*E-mail: miura@chem.eng.osaka-u.ac.jp.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was supported by Grants-in-Aid from MEXT, JSPS,
+and JST, Japan.
+
+■ REFERENCES
+
+(1) For recent reviews, see: (a) Sista, P.; Biewer, M. C.; Stefan, M. C.
+Macromol. Rapid Commun. 2012, 33, 9. (b) Takimiya, K.; Shinamura,
+S.; Osaka, I.; Miyazaki, E. Adv. Mater. 2011, 23, 4347. (c) Wu, W.; Liu,
+Y.; Zhu, D. Chem. Soc. Rev. 2010, 39, 1489. (d) Chen, J.; Cao, A. Y.
+Acc. Chem. Res. 2009, 42, 1709. (e) Allard, S.; Forster, M.; Souharce,
+B.; Thiem, H.; Scherf, U. Angew. Chem., Int. Ed. 2008, 47, 4070.
+(f) Ong, B. S.; Wu, Y.; Li, Y.; Liu, P.; Pan, H. Chem.Eur. J. 2008, 14,
+4766. (g) Murphy, A. R.; Fréchet, J. M. J. Chem. Rev. 2007, 107, 1066.
+(h) Takimiya, K.; Kunugi, Y.; Otsubo, T. Chem. Lett. 2007, 36, 578.
+(i) Anthony, J. E. Chem. Rev. 2006, 106, 5028. (j) Roncali, J.;
+Blanchard, P.; Frere, P. J. Mater. Chem. 2005, 15, 1589. (k) Katz, H. E.;
+Bao, Z.; Gilat, S. L. Acc. Chem. Res. 2001, 34, 359.
+(2) For recent examples, see: (a) Lindert, S.; Zhu, W.; Liu, Y.-L.;
+Pang, R.; Oldfield, E.; McCammon, J. A. Chem. Biol. Drug Des. 2013,
+81, 742. (b) Jahnke, W.; Rondeau, J.-M.; Cotesta, S.; Marzinzik, A.;
+
+2813
+
+DOI: 10.1021/acs.joc.5b00155
+J. Org. Chem. 2015, 80, 2804−2814
+
+The Journal of Organic Chemistry
+Pellé, X.; Geiser, M.; Strauss, A.; Götte, M.; Bitsch, F.; Hemmig, R.;
+Henry, C.; Lehmann, S.; Glickman, J. F.; Roddy, T. P.; Stout, S. J.;
+Green, J. R. Nat. Chem. Biol. 2010, 6, 660. (c) Hranjec, M.; Starcevic,
+K.; Piantanida, I.; Kralj, M.; Marjanovic, M.; Hasani, M.; Westman, G.;
+Zamola, G. K. Eur. J. Med. Chem. 2008, 43, 2877. (d) Ferri, N.;
+Beccalli, E. M.; Contini, A.; Corsini, A.; Antonino, M.; Radice, T.;
+Pratesi, G.; Tinelli, S.; Zunino, F.; Gelmi, M. L. Bioorg. Med. Chem.
+2008, 16, 1691.
+(3) For selected recent reviews of C−H functionalization, see:
+(a) Jin, T.; Zhao, J.; Asao, N.; Yamamoto, Y. Chem.Eur. J. 2014, 20,
+3554. (b) De Sarkar, S.; Liu, W.; Kozhushkov, S. I.; Ackermann, L.
+Adv. Synth. Catal. 2014, 356, 1461. (c) Kuhl, N.; Schröder, N.; Glorius,
+F. Adv. Synth. Catal. 2014, 356, 1443. (d) Shi, G.; Zhang, Y. Adv. Synth.
+Catal. 2014, 356, 1419. (e) Bonin, H.; Sauthier, M.; Felpin, F.-X. Adv.
+Synth. Catal. 2014, 356, 645. (f) Engle, K. M.; Yu, J.-Q. J. Org. Chem.
+2013, 78, 8927. (g) Wencel-Delord, J.; Glorius, F. Nat. Chem. 2013, 5,
+369. (h) Colby, D. A.; Tsai, A. S.; Bergman, R. G.; Ellman, J. A. Acc.
+Chem. Res. 2012, 45, 814. (i) Engle, K. M.; Mei, T.-S.; Wasa, M.; Yu, J.-
+Q. Acc. Chem. Res. 2012, 45, 788. (j) Mitchell, E. A.; Peschiulli, A.;
+Lefevre, N.; Meerpoel, L.; Maes, B. U. W. Chem.Eur. J. 2012, 18,
+10092. (k) Cho, S. H.; Kim, J. Y.; Kwak, J.; Chang, S. Chem. Soc. Rev.
+2011, 40, 5068. (l) Wencel-Delord, J.; Droge, T.; Liu, F.; Glorius, F.
+Chem. Soc. Rev. 2011, 40, 4740. (m) Kuninobu, Y.; Takai, K. Chem.
+Rev. 2011, 111, 1938. (n) Liu, C.; Zhang, H.; Shi, W.; Lei, A. Chem.
+Rev. 2011, 111, 1780. (o) Ackermann, L. Chem. Rev. 2011, 111, 1315.
+(p) Lapointe, D.; Fagnou, K. Chem. Lett. 2010, 39, 1118. (q) Lyons, T.
+W.; Sanford, M. S. Chem. Rev. 2010, 110, 1147. (r) Colby, D. A.;
+Bergman, R. G.; Ellman, J. A. Chem. Rev. 2010, 110, 624. (s) Sun, C.-
+L.; Li, B.-J.; Shi, Z.-J. Chem. Commun. 2010, 46, 677. (t) Satoh, T.;
+Miura, M. Chem.Eur. J. 2010, 16, 11212. (u) Satoh, T.; Miura, M.
+Synthesis 2010, 3395. (v) Chen, X.; Engle, K. M.; Wang, D.-H.; Yu, J.-
+Q. Angew. Chem., Int. Ed. 2009, 48, 5094. (w) Daugulis, O.; Do, H.-Q.;
+Shabashov, D. Acc. Chem. Res. 2009, 42, 1074. (x) McGlacken, G. P.;
+Bateman, L. M. Chem. Soc. Rev. 2009, 38, 2447. (y) Li, C.-J. Acc. Chem.
+Res. 2009, 42, 335. (z) Kakiuchi, F.; Kochi, T. Synthesis 2008, 3013.
+(aa) Ferreira, E. M.; Zhang, H.; Stoltz, B. M. Tetrahedron 2008, 64,
+5987. (bb) Park, Y. J.; Park, J.-W.; Jun, C.-H. Acc. Chem. Res. 2008, 41,
+222. (cc) Beccalli, E. M.; Broggini, G.; Martinelli, M.; Sottocornola, S.
+Chem. Rev. 2007, 107, 5318. (dd) Alberico, D.; Scott, M. E.; Lautens,
+M. Chem. Rev. 2007, 107, 174. (ee) Godula, K.; Sames, D. Science
+2006, 312, 67. (ff) Kakiuchi, F.; Chatani, N. Adv. Synth. Catal. 2003,
+345, 1077. (gg) Dyker, G. Angew. Chem., Int. Ed. 1999, 38, 1698.
+(4) For selected examples, see: (a) Gandeepan, P.; Cheng, C.-H. Org.
+Lett. 2013, 15, 2084. (b) Minami, Y.; Shiraishi, Y.; Yamada, K.;
+Hiyama, T. J. Am. Chem. Soc. 2012, 134, 6124. (c) Gandeepan, P.;
+Cheng, C.-H. J. Am. Chem. Soc. 2012, 134, 5738. (d) Chernyak, N.;
+Gorelsky, S. I.; Gevorgyan, V. Angew. Chem., Int. Ed. 2011, 50, 2342.
+(e) Chernyak, N.; Gevorgyan, V. J. Am. Chem. Soc. 2008, 130, 5636.
+(f) Tobisu, M.; Hyodo, I.; Onoe, M.; Chatani, N. Chem. Commun.
+2008, 6013. (g) Yamada, S.; Obora, Y.; Sakaguchi, S.; Ishii, Y. Bull.
+Chem. Soc. Jpn. 2007, 80, 1194. (h) Kiyooka, S.-i.; Takeshita, Y.
+Tetrahedron Lett. 2005, 46, 4279. (i) Iverson, C. N.; Lachicotte, R. J.;
+Müller, C.; Jones, W. D. Organometallics 2002, 21, 5320. (j) Tanaka,
+K.; Fu, G. C. Org. Lett. 2002, 4, 933. (k) Kakiuchi, F.; Sonoda, M.;
+Tsujimoto, T.; Chatani, N.; Murai, S. Chem. Lett. 1999, 28, 1083. See
+also a recent review: (l) Gandeepan, P.; Cheng, C.-H. Chem. Asian J.
+2015, DOI: 10.1002/asia.201403224.
+(5) (a) Shi, Z.; Ding, S.; Cui, Y.; Jiao, N. Angew. Chem., Int. Ed. 2009,
+48, 7895. (b) Morimoto, K.; Hirano, K.; Satoh, T.; Miura, M. Org. Lett.
+2010, 12, 2068. (c) Umeda, N.; Hirano, K.; Satoh, T.; Shibata, N.;
+Sato, H.; Miura, M. J. Org. Chem. 2011, 76, 13. (d) Huang, J.-R.;
+Zhang, Q.-R.; Qu, C.-H.; Sun, X.-H.; Dong, L.; Chen, Y.-C. Org. Lett.
+2013, 15, 1878. (e) Huang, J.-R.; Dong, L.; Han, B.; Peng, C.; Chen,
+Y.-C. Chem.Eur. J. 2012, 18, 8896.
+(6) For preliminary communication, see: Iitsuka, T.; Hirano, K.;
+Satoh, T.; Miura, M. Chem.Eur. J. 2014, 20, 385.
+(7) For selected examples of RhIII-catalyzed C−H functionalization,
+see: (a) Tauchert, M. E.; Incarvito, C. D.; Reingold, A. L.; Bergman, R.
+G.; Ellman, J. A. J. Am. Chem. Soc. 2012, 134, 1482. (b) Wang, P. H.
+
+Article
+
+R.; Hua, R.; Li, C.-J. Org. Lett. 2012, 14, 902. (c) Jayakumar, J.;
+Parthasarathy, K.; Cheng, C.-H. Angew. Chem., Int. Ed. 2012, 51, 197.
+(d) Li, H.; Li, Y.; Zhang, X.-S.; Chen, K.; Wang, X.; Shi, Z.-J. J. Am.
+Chem. Soc. 2011, 133, 15244. (e) Wei, X.; Zhao, M.; Du, Z.; Li, X. Org.
+Lett. 2011, 13, 4636. (f) Hyster, T. K.; Rovis, T. Chem. Sci. 2011, 2,
+1606. (g) Wang, Y.-F.; Toh, K. K.; Lee, J.-Y.; Chiba, S. Angew. Chem.,
+Int. Ed. 2011, 50, 5927. (h) Park, S. H.; Kim, J. Y.; Chang, S. Org. Lett.
+2011, 13, 2372. (i) Guimond, N.; Gorelsky, S. I.; Fagnou, K. J. Am.
+Chem. Soc. 2011, 133, 6449. (j) Patureau, F. W.; Besset, T.; Kuhl, N.;
+Glorius, F. J. Am. Chem. Soc. 2011, 133, 2154. (k) Stuart, D. R.;
+Alsabeh, P.; Kuhn, M.; Fagnou, K. J. Am. Chem. Soc. 2010, 132, 18326.
+(l) Li, L.; Brennessel, W. W.; Jones, W. D. J. Am. Chem. Soc. 2008, 130,
+12414.
+(8) Yang, S.-M.; Shie, J.-J.; Fang, J.-M.; Nandy, S. K.; Chang, H.-Y.;
+Lu, S.-H.; Wang, G. J. Org. Chem. 2002, 67, 5208.
+(9) Bancerz, M.; Huck, L. A.; Leigh, W. J.; Mladenove, G.; Najaflan,
+K.; Zeng, X.; Lee-Ruff, E. J. Phys. Org. Chem. 2010, 23, 1202.
+(10) Chasset, S.; Chevreuil, F.; Ledoussal, B.; Le Strat, F.; Benarous,
+R. WO2012137181 A1, 2012.
+(11) Toyota, K.; Goto, Y.; Okada, K.; Morita, N. Heterocycles 2007,
+71, 2227.
+(12) Moure, M. J.; SanMartin, R.; Dominguez, E. Angew. Chem. Ind.
+Ed. 2012, 51, 3220.
+(13) Zhu, D.; Chen, J.; Xiao, H.; Liu, M.; Ding, J.; Wu, H. Synth.
+Commun. 2009, 39, 2895.
+(14) Yokooji, A.; Okazawa, T.; Satoh, T.; Miura, M.; Nomura, M.
+Tetrahedron 2003, 59, 5685.
+(15) Saito, A.; Taniguchi, A.; Kambara, Y.; Hanzawa, Y. Org. Lett.
+2013, 15, 2672.
+(16) Varma, R. S.; Kumar, D. J. Heterocycl. Chem. 1998, 35, 1533.
+(17) Novak, Z.; Nemes, P.; Kotschy, A. Org. Lett. 2004, 6, 4917.
+(18) Finke, A. D.; Dumele, O.; Zalibera, M.; Confortin, D.; Cias, P.;
+Jayamurugan, G.; Gisselbrecht, J.-P.; Boudon, C.; Schweizer, W. B.;
+Gescheidt, G.; Diederich, F. J. Am. Chem. Soc. 2012, 134, 18139.
+(19) Mio, M. J.; Kopel, L. C.; Braun, J. B.; Gadzikwa, T. L.; Hull, K.
+L.; Brisbois, R. G.; Markworth, C. J.; Grieco, P. A. Org. Lett. 2002, 4,
+3199.
+(20) Schmidt, B.; Berger, R.; Kelling, A.; Schilde, U. Chem.Eur. J.
+2011, 17, 7032.
+(21) McCarthy, T. D.; Naylor, A. WO2013102242 A1, 2013.
+(22) Shimizu, M.; Nagao, I.; Tomioka, Y.; Hiyama, T. Angew. Chem.,
+Int. Ed. 2008, 47, 8096.
+
+2814
+
+DOI: 10.1021/acs.joc.5b00155
+J. Org. Chem. 2015, 80, 2804−2814
+
+

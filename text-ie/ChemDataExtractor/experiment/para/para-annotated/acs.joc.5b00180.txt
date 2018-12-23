@@ -1,0 +1,824 @@
+Article
+
+pubs.acs.org/joc
+
+Theoretical Insight into the Mechanism of Gold(I)-Catalyzed
+Rearrangement of 2‑Propargyl 2H‑Azirines to Pyridines
+Lu Jin, Yong Wu,* and Xiang Zhao*
+Institute for Chemical Physics and Department of Chemistry, School of Science, Xi’an Jiaotong University, Xi’an 710049, China
+
+*S Supporting Information
+
+ABSTRACT: The title reaction is investigated in detail
+theoretically using density functional theory. After 5-endo-dig
+cyclization by nucleophilic attack, ﬁve possible pathways are
+taken into account in this work: direct ring expansion followed
+or accompanied by proton-transfer (paths A and B,
+respectively), 1,3-cationic migration (path C), proton-transfer
+before ring expansion (path D), and processing via a gold-
+nitrene (path E). Results indicate that the reaction would
+undergo the favored sequential pathway (path A) rather than
+other pathways. Moreover, the concerted mechanism (path B),
+which is designed to account for the selectivity of product in the experiment, would be unlikely in the reaction. The selectivity of
+product could be explained by the hindrance of ligand (t-BuXPhos) and the stability of the carbocation. Moreover, the binding
+energy of product complexes could account for the observed reaction rate.
+
+1. INTRODUCTION
+The smallest nitrogen-containing unsaturated heterocycles with
+a CN double bond in a three-membered ring, 2H-azirines,
+have been extensively studied in natural products and synthetic
+applications.1,2 It is easy to form 2H-azirines using the Neber
+reaction or other strategies.3 Because of the intrinsic strain of the
+three-membered ring, these compounds can undergo facile ring-
+opening. As a source of nitrenes, electrophiles, dienophiles, and
+dipolarophiles, 2H-azirines can be used for N-heterocycle
+syntheses, such as for indoles, pyrroles, isoxazoles, and pyridines.
+In the past decade, transformation of 2H-azirines to other
+chemicals has attracted much attention, and many elegant
+methods have been developed.4
+For the transformation of 2H-azirines, there are still limited
+methods to break the C−N single bond.1,4,5 For example, 2H-
+azirines can be considered as synthetic equivalents of alkenyl
+nitrenes under organometallic catalysis. This type of trans-
+formation is available by using Rh(I), Fe(II), and Cu(II)
+catalysts.5 Both experimental predictions and computational
+results indicate that a metal-nitrene reactive intermediate can
+occur in these reactions.5 On the basis of experimental results
+reported by Narasaka and Zheng, Yan and co-workers system-
+atically studied the ring-expansion mechanism of 2-aryl-2H-
+azirines to 2,3-disubstitued indoles using the density functional
+method (DFT).5b They found that, in FeCl2-catalyzed reactions,
+it is easy to undergo ring-opening to form an iron-nitrene
+intermediate on the quintet potential energy surface, and the
+rate-determining step is associated with ring-closure (C−N bond
+formation), whereas the rate-determining step changes to the
+ring-opening of azirine to aﬀord a ruthenium-nitrene inter-
+mediate in the Ru2(O2CCF3)4-catalyzed reaction on the singlet
+potential energy surface (Scheme 1).
+
+Scheme 1. Rearrangement Mechanism of 2-Aryl-2H-azirines
+to 2,3-Disubstitued Indoles via a Metal-Nitrene Intermediate
+
+Over the past decade, homogeneous gold(I)-catalyzed organic
+transformation has attracted much attention in experimental6
+and theoretical7 studies due to the unique ability of gold to
+coordinate with unsaturated bonds. Recently, Gagosz and co-
+workers reported a novel gold(I)-catalyzed synthesis of function-
+alized pyridines from alkynyl-containing 2H-azirines (Scheme
+2).8 According to their experimental observations, sequential
+(path A) and concerted (path B) mechanistic pathways were
+attempted for the reaction. First, the nucleophilic addition of
+nitrogen to gold(I)-activated alkyne leads to ﬁve-membered ring
+intermediate 2. Then, followed or accompanied by 1,2-migration
+of neighboring group, three-membered ring expansion can ﬁnish
+the reaction. Although they proposed the concerted mechanism
+to account for the selectivity of product when a substitution is
+placed at the propargylic position (C3), they suggested that both
+mechanisms could operate because it is diﬃcult to rule out either
+individual mechanism from the experimental results.
+
+the reaction
+mechanisms, which can explain the experimental results and
+
+to understand the details of
+
+It
+
+is crucial
+
+Received:
+January 26, 2015
+Published: March 11, 2015
+
+© 2015 American Chemical Society
+
+3547
+
+DOI: 10.1021/acs.joc.5b00180
+J. Org. Chem. 2015, 80, 3547−3555
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 2. Possible Reaction Pathways for the rRearrangement of 2-Propargyl 2H-Azirine
+
+facilitate the development of practical methodologies for
+synthetic chemistry. Similar to the title reaction, gold(I)-
+catalyzed cycloisomerization of 1,5-enynes containing a cyclo-
+propene moiety was experimentally studied by Wang et al. and
+computationally veriﬁed by Li et al.9 Both results support the
+occurrence of competitive 1,3-cationic alkylidene migration in
+the rearrangement after 1,5-endo-dig cyclization, rendering two
+possible products depending on the substituent groups. In this
+sense, except for the proposed “sequential” and “concerted”
+mechanisms noted above, the process (path C in Scheme 2) via
+1,3-cationic alkylidene migration should be checked in the title
+reaction. In this pathway, we found that intermediate 6, in which
+two three-membered rings share one edge, could occur in the
+reaction (see the Results for details). We considered one more
+possible pathway in which 1,2-migration occurs prior to ring
+expansion (path D). Additionally, we also checked a possible
+pathway through a gold(I)-nitrene intermediate (12, path E).
+Accordingly, Scheme 2 depicts the ﬁve possible pathways
+promoted by one gold(I) catalyst.
+
+Our motivation in this work is to clarify the detailed reaction
+process using pure computations and to examine which pathway
+would be more favorable to occur in the reaction. The spatial
+eﬀect of a real ligand in the catalyst is also evaluated for the
+reaction. Additionally, it is interesting to understand the reactive
+intermediates, including the competition between the 2H-azirine
+moiety and alkyne for binding to the gold(I) catalyst and whether
+it is possible to form a gold-nitrene intermediate via opening of
+the three-membered ring.
+
+and the self-consistent reaction ﬁeld (SCRF) theory. Recent assessment
+shows that PBE0 can suitably describe gold complexes.11 The standard
+6-311+G(d,p) basis set on nonmetal atoms and the Def2-TZVP basis
+set, including eﬀective core potential (ECP) on Au atoms, were used for
+the model system (denoted as BS-I), whereas 6-31G(d,p) and Def2-SVP
+basis sets (denoted as BS-II) were used for the real system to reduce
+computational cost.12 After geometry optimization, harmonic vibra-
+tional analyses were performed at the same level to conﬁrm that each
+minimum has no imaginary frequency and that each transition state
+(TS) has only one imaginary frequency. The minimum energy path
+(MEP) was also traced using the intrinsic reaction coordinate (IRC)13
+method to ensure that each TS structure correctly links with two
+minima. The implicit IEF-PCM solvent model was adopted to evaluate
+solvent eﬀect on the reaction in CH2Cl2 (ε = 10.125).14 To match with
+the experimental conditions, all energies were corrected at 85 °C and 1
+atm. Generally, compared to geometry, energy is sensitive to the
+computational method. Recently, a double-hybrid functional method
+(such as B2PLYP) including second-order perturbation energy was
+recommended for the energy computations.15 In this sense, single-point
+energy calculations were carried out at the B2PLYP/BS-I level for the
+model system and the ONIOM(B2PLYP/BSI:PBE0/BS-I)//PBE0/
+BS-II level for the real system. Then, thermodynamic quantities were
+obtained by adding zero-point vibrational energies, thermal corrections,
+and entropy contributions to the single-point energies. Unless otherwise
+noted, relative Gibbs free energies (ΔG) at 85 °C are shown in this
+article. Furthermore, some electronic structures were analyzed by the
+natural bond order (NBO) method.16 All computations were fulﬁlled
+with the Gaussian 09 program.17 All three-dimensional structures were
+produced by the CYLview program.18
+
+3. RESULTS AND DISCUSSION
+
+2. COMPUTATIONAL DETAILS
+All of the relevant geometries were fully optimized in the solvent
+(CH2Cl2) using the combination of PBE0 density functional theory10
+
+3.1. Reaction Pathways for the Model System.
+According to published experimental results,8 the following
+reaction (Scheme 3) was selected in our work.
+
+3548
+
+DOI: 10.1021/acs.joc.5b00180
+J. Org. Chem. 2015, 80, 3547−3555
+
+The Journal of Organic Chemistry
+
+Scheme 3. Experimentally Reported Reaction (from Ref 8)
+
+Herein, to reduce computational cost and provide a general
+mechanism, a model system in which the catalyst [(t-BuXPhos)-
+Au]+ and CO2Bu-t group were simpliﬁed to [AuP(Me)3]+ and
+CO2Me was used for computations. Moreover, we only
+considered the model reaction where R1 = CH3, R2 = H, and
+MG = H.
+
+→ σ*
+
+→ π*
+
+C1C2
+
+3.1.1. Formation of Reaction Complexes. Figure 1 shows
+that three possible reaction complexes could be formed in the
+initial stage of the reaction. Because of low catalyst loading and a
+large real ligand (t-BuXPhos), we ruled out the possibility of two
+gold(I) catalysts binding to one substrate. The nitrogen of the
+2H-azirine moiety is more favorable than alkyne to interact with
+the gold(I) catalyst. As shown in the Supporting Information, the
+second-order stabilization energy (E2) for the interaction of the
+lone-pair (LP) of nitrogen with antibonding of Au−P (σ*
+Au−P) is
+87.99 kcal/mol in CM3, and second-order stabilization energies
+are 84.59 and 23.15 kcal/mol for π
+Au−P and back-
+C1C2 in CM1. Note that the starting
+donation of dAu
+reactant complex CM1 is directly associated with the following
+cyclization, and its energy is therefore set to zero in this article.
+As stated in the Introduction, detailed processes for three
+possible pathways (paths A, C, and D) of the title reaction are
+shown in Figure 2. Two other possible pathways (Scheme 2,
+structure 5 in path B and structure 12 in path E) could not be
+optimized on the potential energy surface with this computa-
+tional method. As a π-acid catalyst, the gold(I) catalyst ﬁrst
+activates alkyne in the reaction. After 5-endo-dig cyclization, path
+A is associated with direct ring expansion followed by 1,2-proton-
+transfer, whereas an alternative pathway is to form a tight
+intermediate (a-IM-3) in which two three-membered rings share
+one edge. Then, path C corresponds to the carbocationic shift,
+which could be detected in the rearrangement reaction of
+cyclopropene-containing 1,5-enyne, whereas path D is the
+process of 1,2-proton-transfer followed by ring-expansion.
+
+3.1.2. Cyclization Pathways. As shown in Figure 3, two
+possible reaction types, 4-exo-dig and 5-endo-dig, could exist in
+
+Article
+
+‡
+
+→ π*
+
+the cyclization induced by the nucleophilic attack of the N atom
+on the CC triple bond. The ΔG
+(16.08 vs 35.06 kcal/mol)
+calculated indicates that the 5-endo-dig cyclization transition state
+a-TS-1 should be more favorable than the 4-exo-dig cyclization
+transition state b-TS. Both imaginary frequencies mainly
+correspond to the C−N bond stretch modes. Note that it is
+strongly reversible for the 5-endo-dig cyclization from CM1 to a-
+IM-1 via a-TS-1. Similar to the case of cyclopropene-containing
+1,5-enyne, the diﬀerence in ring strain between a-TS-1 and b-TS
+could be responsible for the selectivity in the cyclization step.
+Therefore, it is less likely to undergo the 4-exo-dig cyclization.
+
+CC2 and LP(N) → π*
+
+For C−N bond formation in a-TS-1,
+
+the second-order
+stabilization energies (E2) are 18.61 and 27.06 kcal/mol for
+C5N
+C1C2, indicating that except
+π
+for the lone-pair of nitrogen the CN π bond of azirine also
+partially contributed to the nucleophilic addition. Therefore,
+from CM1 to a-TS-1, the C1−C2 and C5−N bonds slightly
+elongate by 0.038 and 0.014 Å, respectively. The C1−N bond
+length is 2.028 Å, and its Wiberg bond index is 0.304, indicating
+that a-TS-1 is a reactant-like (early) transition state.
+After the reaction overcomes transition state a-TS-1, it oﬀers
+the intermediate a-IM1. In a-IM-1, distances of C1−C5 and N−
+C1 are 2.550 and 1.474 Å, respectively. The bond angle of C1−
+C2−Au is 124.04°, revealing that the gold(I) catalyst completely
+binds to the C2 atom. IRC results show that the reaction
+simultaneously undergoes C1−N bond formation and a shift of
+the gold(I) catalyst toward the C2 atom in the 5-endo-dig
+process. We found that from CM1 to a-IM-1 the natural charge
+of the gold(I) catalyst decreases by ∼0.23 e, whereas the C5 atom
+increases by ∼0.18 e. It turns out that the formal positive charge
+should partially transfer from the gold(I) catalyst to the C5 atom,
+making the C5 atom the carbocation. Next, two possibilities are
+considered in our study, namely, direct ring expansion through
+sequential (path A) or concerted (path B) processes and ring-
+contraction through C1−C5 bond formation leading to gold
+carbenoid intermediate a-IM-3.
+3.1.3. Direct Ring Expansion via Paths A or B. Obviously, the
+reaction can undergo C4−N ring cleavage due to the three-
+membered ring strain in a-IM-1. Figure 4 shows the sequential
+process (path A) and the corresponding relative free energies. In
+transition state a-TS-2, the C4−N bond is elongated to 1.812 Å,
+and its Wiberg bond index is reduced to 0.6114. ΔG
+is only 1.96
+kcal/mol in this elementary step. Then, the plane intermediate a-
+IM-2, including a six-membered ring, is generated. The following
+
+‡
+
+Figure 1. Relative free energies (ΔG, kcal/mol) for reactant complexes CM1, CM2, and CM3 (bond distances in Å).
+
+3549
+
+DOI: 10.1021/acs.joc.5b00180
+J. Org. Chem. 2015, 80, 3547−3555
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 2. Detailed reaction processes for three possible pathways (paths A, C, and D) promoted by one gold(I) catalyst.
+
+‡
+
+aromatization through 1,2-proton transfer was very easy with
+only a small free energy barrier (ΔG
+= 1.19 kcal/mol). Finally, it
+is dramatically exergonic in the formation of product complex a-
+PM-1.
+
+Additionally, to verify the suggested “concerted” mechanism
+(path B), as shown in the Introduction, we also started from a-
+IM-1 to test this possibility. However, regardless of the initial
+transition state structures we suggested, both the imaginary
+vibration of transition states and IRC tracking reveal that only
+one mode (ring expansion or proton-transfer, see Figure 4) can
+the suggested “concerted” mechanism,
+be detected. Thus,
+including simultaneous ring expansion and proton-transfer,
+starting from a-IM-1 is unlikely.
+3.1.4. Processes after C1−C5 Bond Formation (Paths C and
+D). Alternatively, the other possible process is electrophilic attack
+of the carbocation at the double bond to construct a C1−C5
+bond, leading to gold carbenoid intermediate a-IM-3 (Figure 5).
+The corresponding transition state a-TS-4 was located at 2.133 Å
+of C1−C5 bond distance and 96.42° of C1−N−C5 bond angle,
+indicating that
+the two planes (ﬁve-membered and three-
+membered rings) are almost perpendicular. The imaginary
+vibrational frequency (263.05i cm−1) is mainly associated with
+the C1−C5 bond stretch mode. In a-IM-3, two three-membered
+rings share one edge (N−C5 bond), and bond distances of C1−
+C5 and N−C5 are 1.552 and 1.408 Å, respectively. Note that the
+formation of the stable gold carbenoid a-IM-3 would beneift
+‡
+from the strong back-donation of gold. ΔG
+of a-TS-4 is only
+4.98 kcal/mol higher than that of a-TS-2, indicating that it might
+
+be somewhat competitive to undergo C4−N ring expansion and
+C1−C5 bond formation from a-IM-1. Next, we explored two
+possible pathways (paths C and D) from intermediate a-IM-3 to
+provide more information about the title reaction.
+
+According to the process of cyclopropene-containing 1,5-
+enyne, a 1,3-carbocationic migration pathway would exist in the
+reaction and control product selectivity. Figure 5 also shows the
+corresponding structures and relative free energies. Starting from
+a-IM-3, the carbocation (C5) migrates to connect with the C1
+and C2 atoms via double cleavage of the N−C4 and C4−C5
+bonds. It would need ∼24.11 kcal/mol
+to overcome the
+corresponding transition state a-TS-5. After that, compared
+with a-IM-1, a-IM-4 has a skeleton similar to one carbocation.
+Likewise, ring expansion followed by proton-transfer would also
+‡
+occur in this pathway. It was found that both steps are rapid (ΔG
+< 10 kcal/mol). Accordingly, the high free energy barrier (24.11
+kcal/mol) of a-TS-5 could block the path C reaction.
+Additionally, we could not locate the nonclassic carbocation as
+found in the case of cyclopropene-containing 1,5-enyne (Figure
+6). The reason for the transformation could be attributed to the
+strong interaction between the electron-deﬁcient carbocation
+and the electron-rich nitrogen atom.
+
+Also starting from a-IM-3, except
+
+for the carbocation
+migration (path C) and the reverse process (path A) mentioned
+above, 1,2-proton transfer (from C3 to C2) followed by ring
+expansion (path D) is also tested in this work. As shown in Figure
+7, proton-transfer on two diﬀerent faces has close free energy
+barriers (∼20 kcal/mol). We think the closed barriers would be
+
+3550
+
+DOI: 10.1021/acs.joc.5b00180
+J. Org. Chem. 2015, 80, 3547−3555
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 3. Relative free energy (kcal/mol) proﬁles in 4-exo-dig and 5-endo-dig cyclization processes (bond distances in Å).
+
+Figure 4. Relative free energy (kcal/mol) proﬁle in path A (bond distances in Å).
+
+rational due to little spatial hindrance using a simpliﬁed catalyst
+and a small substituent at the C5 position. Next, we selected one
+more stable intermediate (a-IM-6) to explore ring expansion.
+The ΔG
+of transition state a-TS-10 is too high (28.54 kcal/mol)
+
+‡
+
+to undergo this ring-expansion process. In addition, starting from
+a-IM-3, the “concerted” mechanism,
+including simultaneous
+proton-transfer and ring expansion (path B), was also analyzed.
+Results indicate that this concerted mechanism could also not be
+
+3551
+
+DOI: 10.1021/acs.joc.5b00180
+J. Org. Chem. 2015, 80, 3547−3555
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 5. Relative free energy (kcal/mol) proﬁle in path C (bond distances in Å).
+
+Figure 6. Schematic diagram of for the transformation of a nonclassic
+carbocation.
+
+found on the potential energy surface. Overall, the high free
+energy barriers reveal that it would be unlikely for the reaction to
+proceed via path D.
+
+3.1.5. Possible Reaction Process from Reaction Complex
+CM3 (Path E). As mentioned above, CM3 is more stable than
+
+CM1. Therefore, we attempted to obtain some possible
+processes starting from CM3. Figure 8 shows some possible
+geometries in our test. Unfortunately, ring-opening gold(I)-
+nitrene intermediate A was not found to be a minimum, which
+diﬀers from the cases catalyzed by Rh(I) and Fe(II) compounds.5
+Furthermore, although intermediate C is unsuccessful in locating
+the cyclic transition state via nucleophilic addition of nitrogen to
+alkyne, its relative energy (35.57 kcal/mol at the PBE0/BS-I
+level) is rather high in the absence of alkyne activation (see the
+Supporting Information). Another possible geometry (B) is also
+unstable on the potential energy surface and can relax to C. That
+is to say, provided that the gold(I) catalyst interacts with nitrogen
+of 2H-azirine, it would be impossible to catalyze the rearrange-
+ment process, which is in agreement with the experiment data in
+
+Figure 7. Relative free energy (kcal/mol) proﬁle in path D.
+
+3552
+
+DOI: 10.1021/acs.joc.5b00180
+J. Org. Chem. 2015, 80, 3547−3555
+
+The Journal of Organic Chemistry
+
+Article
+
+relative to syn-CM3 (or anti-CM3) in favored path A are shown
+in the Supporting Information (Table S6). It is found that the
+relative Gibbs free energies of syn-TS1, syn-IM-1, and syn-TS2
+are slightly higher (∼1.5−3 kcal/mol) than those of anti-TS1,
+anti-IM-1, and anti-TS2, which can be explained by steric
+hindrance between the R group and −CO2CH3, because the
+dihedral angle of C6−C4−C3−C7 is close to 0 in the
+carbocation intermediate syn-IM-1. On the other hand, the
+repulsion between the R and carbocation groups in anti-IM-1
+also has little eﬀect on the relative energies. In addition, our
+results indicate that the real,
+large ligand tBuXPhos would
+favorably occupy the syn face to eﬃciently promote the reaction
+(see Figure 10 and details in the next section). In this way, it
+would render large repulsion between the real ligand and the R
+group if the substrate possesses a substituent group at the
+propargylic syn position. Therefore, we assume that
+the
+selectivity of product (anti > syn) would originate from both
+the ligand eﬀect and the stability of the carbocation.
+
+3.3. Favored Process in the Real System. To evaluate the
+spatial eﬀect of ligands, we investigated the real system (R1 =
+ H, MG = H) as shown in Scheme 3. According to the
+CH3, R2
+mechanistic scenario as described above, we only considered
+favored pathway A for the real system. Note that the fast proton-
+transfer step is also neglected in the computations. Figure 10
+shows the corresponding optimized structures. One can see that
+the key structural parameters are very similar to those in the
+simpliﬁed models. That is to say, without consideration of the
+spatial eﬀect, it is rational to assume that the simpliﬁed ligand
+(PMe3) mimics the real ligand. However, the rate-determining
+step changes from 5-endo-dig in the model system to C−N bond
+cleavage of ring expansion in the real system.
+
+Furthermore, two phenyl-substituted real systems are also
+considered to evaluate the electronic eﬀects. The corresponding
+optimized structures are shown in the Supporting Information.
+ H, MG = H), the phenyl group is
+For case 1 (R1= phenyl, R2
+placed at the C5 position in the azirine motif, whereas for case 2
+(R1 = CH3, R2 = phenyl, MG = H), the phenyl group is placed at
+the alkyne terminal (C1 position). As shown in Table 1,
+‡
+compared with the nonsubstituted reaction, both ΔG
+of the ﬁrst
+step (5-endo-dig cyclization) increase by 2−3 kcal/mol in the
+substituted reactions, which can be attributed to electron
+delocalization reducing the nucleophilic/electrophilic activity.
+For case 1, the phenyl group at the C5 atom can stabilize the
+carbocation in intermediate r-IM-1, leading to the decrease in the
+corresponding energy. Therefore, the rate-determining step
+becomes 5-endo-dig cyclization in case 1. For case 2, the repulsion
+between phenyl (at the C1 position of alkyne) and tertiary butyl
+of the ligand would push the free energy barrier slightly higher.
+From r-CM1 to r-IM-1 in case 2, the phenyl group rotates ∼60°,
+making phenyl and tertiary butyl approach each other. Therefore,
+for the transition state of ring-expansion in case 2, the distance
+between the phenyl and tertiary butyl groups would be slightly
+suppressed along with ring-expansion, resulting in more
+repulsion. Accordingly, ΔG
+of ring expansion in case 2 is 6.94
+‡
+kcal/mol from the intermediate, and the overall ΔG
+reaches
+21.79 kcal/mol, which is higher than the other two real reaction
+systems described above.
+
+Unfortunately, our computational ΔG
+
+does not match the
+experimental observations.8 In the experiment, the authors found
+that the rate of the C1-substituted reaction (case 2, 90% yield
+after 1.5 h) is faster than that of both the C5-substituted (case 1,
+79% yield after 48 h) and nonsubstituted reactions (74% yield
+after 24 h). However, our computational results show that the
+
+‡
+
+‡
+
+3553
+
+DOI: 10.1021/acs.joc.5b00180
+J. Org. Chem. 2015, 80, 3547−3555
+
+Figure 8. Possible structures in the process starting from CM3.
+
+which no reaction occurred without the alkynyl chain in a
+substrate.6
+
+Overall, after the formation of intermediate a-IM-1 via 5-endo-
+dig cyclization, our computational results support sequential
+pathway (path A), where ring expansion takes place before
+proton-transfer, and suggested concerted-type pathway B cannot
+be optimized in the reaction even though proton transfer is very
+fast. Starting from intermediate a-IM-3, it would be diﬃcult for
+two other possible pathways (paths C and D) to occur due to
+much higher energy barriers. In this sense, if intermediate a-IM-3
+was formed in the reaction, it would still reverse and enter the
+favored path A. Therefore, no matter how high ΔG
+of transition
+state a-TS-4 gets, the title reaction only goes through a-TS-2 for
+ring expansion. Additionally, if the dead-end reactant complex
+CM3 is formed, it must transform to CM1 to catalyze the title
+reaction.
+
+Inﬂuence of the Substituent Group at the
+Propargylic Position. To provide more information on the
+title reaction, we tested the substituent groups (methyl, ethyl, or
+isopropyl) at the propargylic position (C3) to understand their
+inﬂuence on reactivity. Figure 9 shows two types of conformers
+(syn and anti). Note that, due to the spatial repulsion between the
+catalyst and the R group, structures of anti-CM1 cannot be
+optimized and transformed to anti-CM2 when R is an ethyl or
+isopropyl group. In this sense, the corresponding energies
+
+3.2.
+
+‡
+
+Figure 9. Schematic structures of syn-CM1, anti-CM1, syn-IM-1, and
+anti-IM-1.
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 10. Optimized structures in the rearrangement process of the real system (bond distances in Å).
+
+Table 1. Relative Energies and Free Energies (kcal/mol) for Three Real Reactions
+ H
+
+ C6H5, R2
+
+R1 = CH3, R2
+
+ H
+
+r-CM3
+r-CM1
+r-TS-1
+r-IM-1
+r-TS-2
+r-PM-2
+
+ΔE
+−5.87
+0.00
+13.49
+9.72
+12.46
+−86.08
+
+ΔG
+−5.97
+0.00
+13.76
+12.19
+15.70
+−82.57
+
+R1
+ΔE
+−6.29
+0.00
+12.18
+5.48
+9.39
+−82.12
+
+ΔG
+−5.29
+0.00
+15.06
+8.20
+12.55
+−77.48
+
+R1 = CH3, R2
+
+ΔE
+−5.90
+0.00
+13.54
+11.83
+17.41
+−78.10
+
+ C6H5
+ΔG
+−5.96
+0.00
+16.67
+14.85
+21.79
+−73.22
+
+reaction of case 2 has higher relative free energy from r-CM3
+(27.75 kcal/mol). We therefore turn our attention to the binding
+energy of product complexes. We found that the binding energy
+of the product complex would have an important eﬀect on the
+reaction rate. As shown in the Supporting Information (Table
+S4), CH3 and phenyl at the C5 and C1 positions, respectively, in
+case 2 result in more repulsion between product and ligand in the
+product complex (r-PM-2). Compared to case 1, the binding
+energy of r-PM-2 in case 2 decreases by ∼5.5 kcal/mol.
+Accordingly, it is easy to exchange product for reactant in the
+reaction of case 2, whereas for the other two reactions need more
+time for product exchange due to their binding energies of
+product complexes being higher than those of the reactant
+complexes.
+
+4. CONCLUSION
+We have investigated the whole mechanism for gold(I)-catalyzed
+rearrangement of 2-propargyl 2H-azirines to pyridines using the
+DFT method. Five possible pathways have been explored for the
+reaction. Our results indicate that the arrangement reaction
+could be eﬃciently promoted by the gold(I) catalyst through the
+favored sequential pathway (path A). After 1,5-endo-dig
+cyclization by nucleophilic attack, direct ring expansion (C−N
+bond cleavage) followed by 1,2-proton transfer could furnish
+pyridine in the reaction. Because of the anti or syn conformer of
+the migration group (MG), the selectivity of product could be
+explained by the hindrance of ligand (t-BuXPhos) and stability of
+
+the carbocation. Moreover, the suggested concerted reaction
+mechanism (path B), including simultaneous ring-expansion and
+proton transfer, could not be optimized. We found that the
+binding energy between the product and gold(I) catalyst could
+account for the observed reaction rate.
+
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Selected NBO results, all relevant structures, relative energies,
+and Cartesian coordinates. This material
+is available free of
+charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+
+Corresponding Authors
+*E-mail: xzhao@mail.xjtu.edu.cn. Tel: 86 29 8266 5671. Fax: 86
+29 8266 8559.
+*E-mail: specwy@mail.xjtu.edu.cn.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was supported by the National Natural Science
+Foundation of China (No. 21171138), the National Key Basic
+Research Program of China (No. 2012CB720904), and the
+Fundamental Research Funds for the Central University.
+
+3554
+
+DOI: 10.1021/acs.joc.5b00180
+J. Org. Chem. 2015, 80, 3547−3555
+
+The Journal of Organic Chemistry
+
+■ REFERENCES
+(1) Huang, C. Y.; Doyle, A. G. Chem. Rev. 2014, 114, 8153−8198 and
+citations therein.
+(2) (a) Khlebnikov, A. F.; Novikov, M. S. Tetrahedron 2013, 69, 3363−
+3401. (b) Khlebnikov, A. F.; Novikov, M. S.; Pakalnis, V. V.; Iakovenko,
+R. O.; Yufit, D. S. Beilstein J. Org. Chem. 2014, 10, 784−793.
+(c) Rostovskii, N. V.; Novikov, M. S.; Korneev, S. M.; Iakovenko, R.
+O.; Yufit, D. S. Org. Biomol. Chem. 2013, 11, 5535−5545. (d) Sharma, P.;
+Kumar, A.; Sahu, V. J. Phys. Chem. A 2010, 114, 1032−1038. (e) Candito,
+D. A.; Lautens, M. Org. Lett. 2010, 12, 3312−3315. (f) Li, X.; Du, Y.;
+Liang, Z.; Li, X.; Pan, Y.; Zhao, K. Org. Lett. 2009, 11, 2643−2646.
+(3) (a) Neber, P. W.; Hartung, K.; Ruopp, W. Chem. Ber. 1925, 58,
+1234. (b) Nunes, C. M.; Reva, I.; Pinho e Melo, T. M. V. D.; Fausto, R.;
+Šolomek, T.; Bally, T. J. Am. Chem. Soc. 2011, 133, 18911−18923.
+(c) Cardoso, A. L.; Gimeno, L.; Lemos, A.; Palacios, F.; Pinho e Melo, T.
+M. V. D. J. Org. Chem. 2013, 78, 6983−6991. (d) Nunes, C. M.; Reva, I.;
+Fausto, R. J. Org. Chem. 2013, 78, 10657−10665. (e) Davis, F. A.; Deng,
+J. Org. Lett. 2007, 9, 1707−1710.
+(4) (a) Inui, H.; Murata, S. J. Am. Chem. Soc. 2005, 127, 2628−2636.
+(b) Zhang, X.; Sarkar, S. K.; Weragoda, G. K.; Rajam, S.; Ault, B. S.;
+Gudmundsdottir, A. D. J. Org. Chem. 2014, 79, 653−663. (c) Jiang, Y.;
+Park, C. M.; Loh, T. P. Org. Lett. 2014, 16, 3432−3435. (d) Okamoto,
+K.; Mashida, A.; Watanabe, M.; Ohe, K. Chem. Commun. 2012, 48,
+3554−3556.
+(5) (a) Jana, S.; Clements, M. D.; Sharp, B. K.; Zheng, N. Org. Lett.
+2010, 12, 3736−3739. (b) Wu, C.; Li, J.; Yan, B. Dalton Trans. 2014, 43,
+5364−5374 and citations therein. (c) Chiba, S.; Hattori, G.; Narasaka, K.
+Chem. Lett. 2007, 36, 52. (d) Li, T.; Xin, X.; Wang, C.; Wang, D.; Wu, F.;
+Li, X.; Wan, B. Org. Lett. 2014, 16, 4806−4809.
+(6) For selected recent reviews on gold catalysis, see: (a) Qian, D.;
+Zhang, J. Chem. Soc. Rev. 2015, 44, 677−698. (b) Xie, J.; Pan, C.;
+Abdukader, A.; Zhu, C. Chem. Soc. Rev. 2014, 43, 5245−5256.
+(c) Hashmi, A.; Stephen, K. Acc. Chem. Res. 2014, 47, 864−876.
+(d) Zhang, L. Acc. Chem. Res. 2014, 47, 877−888. (e) Wang, Y. M.;
+Lachner, A. D.; Toste, F. D. Acc. Chem. Res. 2014, 47, 889−901.
+(f) Obradors, C.; Echaavarren, A. M. Acc. Chem. Res. 2014, 47, 902−912.
+(g) Zhang, D. H.; Tang, X. Y.; Shi, M. Acc. Chem. Res. 2014, 47, 913−
+924. (h) Fuerstner, A. Acc. Chem. Res. 2014, 47, 925−938. (i) Alcaide, B.;
+Almendros, P. Acc. Chem. Res. 2014, 47, 939−952. (j) Fensterbank, L.;
+Malacria, M. Acc. Chem. Res. 2014, 47, 953−965. (k) Yeom, H. K.; Shin,
+S. Acc. Chem. Res. 2014, 47, 966−977.
+(7) Selected examples: (a) Shi, F. Q.; Li, X.; Xia, Y. Z.; Zhang, L. M.;
+Yu, Z. X. J. Am. Chem. Soc. 2007, 129, 15503−15512. (b) Gourlaouen,
+C.; Marion, N.; Nolan, S. P. Org. Lett. 2009, 11, 81−84. (c) Dudnik, A.;
+Xia, Y. Z.; Li, Y. H. J. Am. Chem. Soc. 2010, 132, 7645−7655.
+(d) Garayalde, D.; Gomez-Bengoa, E.; Huang, X. J. Am. Chem. Soc. 2010,
+132, 4720−4730. (e) Xia, Y. Z.; Dudnik, A.; Li, Y. H. Org. Lett. 2010, 12,
+5538−5541. (f) Dong, Z.; Liu, C. H.; Wang, Y.; Lin, M.; Yu, Z. X. Angew.
+Chem., Int. Ed. 2013, 52, 14157−14161. (g) Zhou, T.; Xia, Y. Z.
+Organometallics 2014, 33, 4230−4239.
+(8) Prechter, A.; Henrion, G.; dit Bel, P. F.; Gagosz, F. Angew. Chem.,
+Int. Ed. 2014, 53, 4959−4963.
+(9) (a) Li, C.; Zeng, Y.; Zhang, H.; Feng, J.; Zhang, Y.; Wang, J. Angew.
+Chem., Int. Ed. 2010, 49, 6413−6417. (b) Zhou, Q.; Li, Y. J. Am. Chem.
+Soc. 2014, 136, 1505−1513.
+(10) Adamo, C.; Barone, V. J. Chem. Phys. 1999, 110, 6158−6169.
+(11) Kang, R. H.; Chen, H.; Shaik, S.; Yao, J. N. J. Chem. Theory
+Comput. 2011, 7, 4002−4011. (b)
+It is found that, although the
+dispersion energies calculated by the DFT-D3 code are ∼22 kcal/mol in
+all relevant optimized geometries in the model system, the relative
+dispersion energies are too low and have little effect on our results (see
+Table S5 in the Supporting Information). (c) Grimme, S.; Antony, J.;
+Ehrlich, S.; Krieg, H. J. Chem. Phys. 2010, 132, 154104. (d) Grimme, S.;
+Ehrlich, S.; Goerigk, L. J. Comput. Chem. 2011, 32, 1456−1465.
+(12) Def2-TZVP and Def2-SVP basis sets are taken from EMSL
+(https://bse.pnl.gov/bse/portal) and shown in the Supporting
+Information. (a) Weigend, F.; Ahlrichs, R. Phys. Chem. Chem. Phys.
+2005, 7, 3297−3305. (b) Andrae, D.; Haeussermann, U.; Dolg, M.;
+Stoll, H.; Preuss, H. Theor. Chim. Acta 1990, 77, 123−141.
+
+Article
+
+(13) Fukui, K. Acc. Chem. Res. 1981, 14, 363−368.
+(14) (a) Cances, E.; Mennucci, B. J. Math. Chem. 1998, 23, 309−326.
+(b) Mennucci, B.; Cances, E.; Tomasi, J. J. Phys. Chem. B 1997, 101,
+10506−10517. (c) Cances, E.; Mennucci, B.; Tomasi, J. J. Chem. Phys.
+1997, 107, 3032−3041.
+(15) (a) Grimme, S. J. Chem. Phys. 2006, 124, 34108. (b) Ciancaleoni,
+G.; Rampino, S.; Zuccaccia, D.; Tarantelli, F.; Belanzoni, P.; Belpassi, L.
+J. Chem. Theory Comput. 2014, 10, 1021−1034.
+(16) Reed, A. E.; Curtiss, L. A.; Weinhold, F. Chem. Rev. 1988, 88,
+899−926.
+(17) Frisch, M. J.; Trucks, G. W.; Schlegel, H. B.; Scuseria, G. E.; Robb,
+M. A.; Cheeseman, J. R.; Scalmani, G.; Barone, V.; Mennucci, B.;
+Petersson, G. A.; Nakatsuji, H.; Caricato, M.; Li, X.; Hratchian, H. P.;
+Izmaylov, A. F.; Bloino, J.; Zheng, G.; Sonnenberg, J. L.; Hada, M.;
+Ehara, M.; Toyota, K.; Fukuda, R.; Hasegawa, J.; Ishida, M.; Nakajima,
+T.; Honda, Y.; Kitao, O.; Nakai, H.; Vreven, T.; Montgomery, J. A., Jr.;
+Peralta, J. E.; Ogliaro, F.; Bearpark, M.; Heyd, J. J.; Brothers, E.; Kudin,
+K. N.; Staroverov, V. N.; Kobayashi, R.; Normand, J.; Raghavachari, K.;
+Rendell, A.; Burant, J. C.; Iyengar, S. S.; Tomasi, J.; Cossi, M.; Rega, N.;
+Millam, M. J.; Klene, M.; Knox, J. E.; Cross, J. B.; Bakken, V.; Adamo, C.;
+Jaramillo, J.; Gomperts, R.; Stratmann, R. E.; Yazyev, O.; Austin, A. J.;
+Cammi, R.; Pomelli, C.; Ochterski, J. W.; Martin, R. L.; Morokuma, K.;
+Zakrzewski, V. G.; Voth, G. A.; Salvador, P.; Dannenberg, J. J.; Dapprich,
+S.; Daniels, A. D.; Farkas, Ö .; Foresman, J. B.; Ortiz, J. V.; Cioslowski, J.;
+Fox, D. J. Gaussian 09, revision C.02; Gaussian, Inc.: Wallingford, CT,
+2009.
+(18) CYLview, 1.0b; Legault, C. Y. Université de Sherbrooke: Quebec,
+Canada, 2009 (http://www.cylview.org).
+
+3555
+
+DOI: 10.1021/acs.joc.5b00180
+J. Org. Chem. 2015, 80, 3547−3555
+
+

@@ -1,0 +1,1003 @@
+Article
+
+pubs.acs.org/joc
+
+Light and Chemically Driven Molecular Machines Showing a
+Unidirectional Four-State Switching Cycle
+Gebhard Haberhauer,*,† Christoph Burkhart,† Sascha Woitschetzki,† and Christoph Wölper‡
+†
+Institut für Organische Chemie,
+Germany
+*S Supporting Information
+
+‡
+Institut für Anorganische Chemie, Universität Duisburg-Essen, Universitätsstr. 7, D-45117 Essen,
+
+ABSTRACT: The imitation of macroscopic movements at the
+molecular level is a key step in the development of nanomachines.
+The challenge is the synthesis of molecules that are able to
+transform external stimuli into a direction-controlled mechanical
+movement. The more complex such motion sequences are, the
+more diﬃcult is the construction of the corresponding nano-
+machine. Here, we present a system that demonstrates a
+unidirectional,
+similar
+characteristics to the arm movements of a human breaststroke
+swimmer. Like the latter, the molecules have a torso and two arms.
+The arms consist of bipyridine units and can be folded and
+stretched by addition and removal of copper
+ions. The
+unidirectional rotation of the arms is achieved by light-induced
+switching of an azo unit.
+
+four-state switching cycle that bears
+
+■ INTRODUCTION
+
+In recent years, a large variety of synthetic molecular machines
+have been published.1 The design of artiﬁcial molecular
+machines often takes
+inspiration from the macroscopic
+world.2 Here, the aim and challenge are to construct a single
+molecule that shows mechanical motion caused by external
+stimulation resembling the movement of
+its macroscopic
+pendant. These attempts have yielded analogues of rotors,3
+gears,4 clutches,5 shuttles,6 ratchets,7 elevators,8 muscles,9 etc.10
+Furthermore, several entirely synthetic molecular motors have
+been designed to convert energy into a controlled rotary
+motion.11 As
+stimuli, chemical energy,12 light energy,13
+electron-transfer processes,14 or a combination of diﬀerent
+types of energy15 has been used.
+
+A special challenge is the construction of molecular machines
+showing unidirectional, multi-state switching cycles. The
+problem in the design of such systems is that the path of
+leaving the starting state must diﬀer from the path returning
+back to the starting point,16 as otherwise no mechanical work is
+performed during one cycle. Therefore, a system is needed that,
+on one hand, is ﬂexible enough to allow a complex motion
+sequence and, on the other hand,
+the
+movements are controlled in a single direction.
+
+is so rigid that
+
+the design of
+
+Here, we present
+
+two entirely synthetic
+machines that demonstrate unidirectional, four-state switching
+cycles that bear similar characteristics to the arm movements of
+a human breaststroke swimmer. They are single organic
+molecules having a size of about 2 nm and consisting of a
+peptidic scaﬀold (torso) and two ﬂexible arms. The arms can be
+moved by external stimuli, and the direction of the movement
+
+is controlled by the chiral scaﬀold. The sequence of motion
+shows, analogously to the arm movements of a human
+breaststroke swimmer,
+four states that can be observed by
+CD and UV spectroscopy.
+
+■ RESULTS AND DISCUSSION
+
+Structure, Concept, and Principle of the Molecular
+Machine. The targeted unidirectional nanomachine should
+pass through a cycle of four states. Such a cycle (I → II → III
+→ IV → I), together with the structure, concept, and principle
+of the nanomachine,
+is depicted in Figure 1. The system
+consists of a scaﬀold, which must be chiral to control the
+direction of motion, two arms, and two types of hinge (blue
+and red circles in Figure 1). Staying with the comparison of this
+system with the arm movements of a human breaststroke
+swimmer, the scaﬀold corresponds to the human torso and the
+arms represent human arms. The blue hinge corresponds to the
+shoulder joints, and the red hinges represent the elbow joints.
+In state I, both arms are stretched forward. During the
+transition from state I to state II, a rotation of the stretched
+arms around the blue hinge occurs. This motion can also be
+considered to be the power stroke of a breaststroke swimmer. It
+is of
+this motion is directed
+(unidirectional); this means that in our case the right arm in
+Figure 1 must rotate only clockwise, whereas the left arm must
+move counterclockwise. The second stroke is the folding of the
+two arms around the two red hinges (II → III). In the third
+
+importance that
+
+the utmost
+
+Received:
+Published:
+
+January 6, 2015
+January 13, 2015
+
+© 2015 American Chemical Society
+
+1887
+
+DOI: 10.1021/acs.joc.5b00026
+J. Org. Chem. 2015, 80, 1887−1895
+
+The Journal of Organic Chemistry
+
+Article
+
+We intended to build the targeted nanomachine in two steps.
+The ﬁrst step was the development of a unidirectional switch
+consisting of a chiral scaﬀold and a hinge that performs the
+rotation of the arms unidirectionally (blue hinge in Figure 1). If
+the direction of motion was successfully proved,
+then we
+wanted to attach the two arms, with each possessing a further
+hinge (red hinges in Figure 1), in a second step.
+
+Synthesis and Functionality of the Unidirectional
+Switch. For the synthesis of the unidirectional switch, we
+combined a chiral
+imidazole-containing macrocycle with an
+azobenzene unit. Imidazole-containing macrocycles17 based on
+marine peptides18 have already been successfully used for the
+synthesis of molecular machines in which the direction of
+motion plays an important role.19−21 Azobenzenes are very
+popular
+light-driven switching units due to their high
+reversibility and high photostability, which oﬀer a multitude
+of switching cycles.22 Furthermore, they show a high-amplitude
+change between the stretched trans form and the more compact
+cis isomer, and the direction of movement is controllable.23,24
+<para sub="scope">
+For our approach, it is important that the orientation of the
+arms relative to each other can be controlled in both states.
+That means that the arms are ﬁrst stretched forward and that
+after the switching process they should be turned by 90° and
+point to the side. A system that meets these requirements is a
+meta-substituted azobenzene unit attached to a chiral imidazole-
+containing clamp.23b The synthesis of this system is depicted in
+Figure 2a. The oxidative coupling of aniline 1 leads to 4-fold-
+</para>
+Figure 1. Structure, concept, and principle of the nanomachine. The
+nanomachine consists of a torso and two arms. The arms can be
+unidirectionally rotated around the blue hinge. The stretching/folding
+of the two arms takes place around the two red hinges. Sequence of
+motions: I → II (directed motion of the forward-stretched arms from
+the front to the side; power stroke), II → III (folding of the arms), III
+→ IV (rotation of the folded arms), and III → IV (stretching of the
+arms).
+
+stroke, a rotation of the folded arms around the blue hinge
+takes places (III → IV) whereby the direction occurs in exactly
+the inverse fashion as that in the ﬁrst step. The fourth stroke is
+the stretching of the arms, which leads back to starting state I
+and completes the swimming cycle (IV → I).
+
+Figure 2. (a) Synthesis of unidirectional switch 5. Reaction conditions: (i) MeOH, SOCl2, 96%; (ii) MnO2, toluene, 70 °C, 56%; (iii) LiAlH4,
+dichloromethane, 0 °C, 96%; (iv) Ph3P, NBS, THF, 85%; (v) H2, Pd(OH)2/C, DCM/MeOH, 95%; (vi) Cs2CO3, 3, acetonitrile, Δ, 84%. (b)
+Molecular structures of trans-5, cis-(P)-5, and cis-(M)-5 calculated by means of B3LYP/6-31G*.
+
+1888
+
+DOI: 10.1021/acs.joc.5b00026
+J. Org. Chem. 2015, 80, 1887−1895
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 3. (a) CD spectrum of azo switch 5 before (blue) and after (red) irradiation (λ = 365 nm, 10 s; c = 1.0 × 10−4 M in DCM). (b) CD spectra
+of trans-5 (blue), cis-(P)-5 (red) and cis-(M)-5 (green) calculated using TD-B3LYP/6-31G*. (c) UV spectrum of azo switch 5 before (blue) and
+after (red) irradiation (λ = 365 nm, 10 s; c = 1.0 × 10−4 M in DCM). (d) UV spectra of trans-5 (blue), cis-(P)-5 (red), and cis-(M)-5 (green)
+calculated using TD-B3LYP/6-31G*.
+<para sub="scope">
+substituted azobenzene 2. Diester 2 can be transformed via two
+steps into benzylic bromide 3, which was reacted with chiral
+clamp 4b to the desired azo switch, 5. Chiral clamp 4b was
+synthesized from commercially available clamp 4a by hydro-
+genation.19
+</para>
+To investigate the motion during the switching process, the
+structures of the three possible isomers, trans-5, cis-(P)-5, and
+cis-(M)-5, were geometrically optimized by means of B3LYP/6-
+31G* (Figure 2b). Subsequently, their CD and UV spectra
+were simulated on the basis of
+time-dependent density
+functional theory (TD-DFT) with the B3LYP functional and
+by employing the 6-31G* basis set. In Figure 2b, the calculated
+structures are depicted. It turned out that the cis-(P) form is
+more stable by 83 kJ/mol than the cis-(M) isomer. This huge
+energy diﬀerence is responsible for the unidirectionality of the
+switching process: Starting from the trans isomer, only the
+more stable cis-(P) isomer is formed during the switching
+process. Furthermore, the orientation of the bromine atoms in
+for using 5 to construct a molecular
+the isomers is ideal
+machine imitating the mechanical motion sequence of the arms
+of a human breaststroke swimmer. In the trans isomer, the
+bromine arms point forward, whereas in the cis-(P) isomer, they
+are turned by 90° and point to the right and left sides,
+respectively. Furthermore, we managed to grow crystals of
+trans-5, which were investigated by X-ray analysis. A
+comparison shows that the DFT-calculated conformation of
+the switching units matches well with the one found in the solid
+state (Figures S1 and S2).
+<para sub=“props”>
+The unidirectionality of the switching process of 5 was
+investigated using HPLC, NMR, CD, and UV spectroscopy
+
+(Figures 3 and S3−S5). In the UV spectra, the switching
+process can be observed by the decrease of the absorption band
+at ca. 330 nm (Figure 3c). This change in the π → π* band is
+for isomerization of azobenzene derivatives.22a The
+typical
+experimentally measured CD spectrum of trans-5 matches quite
+well with the simulated one (Figure 3). In the simulated CD
+spectrum of cis-(M)-5, a positive Cotton eﬀect of the n → π*
+transition at values above 400 nm is found. For the cis-(P)
+isomer, a negative Cotton eﬀect of the n → π* transition is
+predicted, which is consistent with the measured spectrum.
+Furthermore, the obtained cross-peaks in the 1H−1H NOESY
+NMR spectrum of cis-5 can be explained only if the formed cis
+isomer adopts P conﬁguration (Figure S4). Accordingly, the
+light-induced switching process is indeed unidirectional, as
+trans-5 is undoubtedly transformed only into cis-(P)-5. The
+NMR spectra as well as the HPLC spectra conﬁrm that only
+one cis isomer is formed by irradiation with 365 nm light
+(Figures S3 and S5). It is also apparent, however, that the
+extent of the switching process is lower than usually observed
+for azobenzene units. Only 20% of 5 is switched by irradiation
+with 365 nm light (Figure S5). The reverse isomerization from
+cis-(P)-5 to trans-5 is triggered by irradiation with 405 nm light
+(Figure S3). The switching process is repeatable almost any
+number of times without a noticeable change in the spectra.
+</para>
+Synthesis and Functionality of the Molecular Ma-
+chines Imitating the Motion Sequence of a Breaststroke
+Swimmer. On the basis of unidirectional switch 5, we
+intended to design light and chemically driven nanomachines
+by attaching additional arms whose shape is controlled by the
+addition/removal of metal
+ions (cf. Figure 1). As arms, we
+
+1889
+
+DOI: 10.1021/acs.joc.5b00026
+J. Org. Chem. 2015, 80, 1887−1895
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 1. (a) Synthesis of Unidirectional Nanomachine 9 and (b) Motion Principle of the Bipyridine Arms of Nanoswimmer
+9a
+
+a(a) Reaction conditions: (i) 4-aminophenylboronic acid pinacol ester, Pd(PPh3)4, K2CO3, H2O/dioxane, Δ, 31%; (ii) 4-methoxyphenylboronic
+acid, Pd(PPh3)4, K2CO3, H2O/dioxane, Δ, 66%; (iii) 4-chlorocarbonylbenzeneboronic anhydride, THF, 71%; (iv) trans-5, Pd(PPh3)4, K2CO3, H2O/
+dioxane, 365 nm, Δ, 34%. (b) Complexation of the bipyridine units with Cu2+ causes the folding of the arms (right); the addition of cyclam leads
+back to the opened arms (left).
+
+Scheme 2. Synthesis of Unidirectional Nanomachine 12a
+
+aReaction conditions: (i) 4-methoxyphenylboronic acid, Pd(PPh3)4, K2CO3, H2O/dioxane, Δ, 71%; (ii) n-BuLi, ClSnBu3, tetrahydrofuran, −78 °C;
+(iii) trans-5, Pd(PPh3)4, toluene, 365 nm, Δ, 49%.
+decided to use 6,6′-substituted 2,2′-bipyridines, as they are
+known to be completely and reversibly switchable (Scheme
+1b).25 Because noncomplexed 2,2′-biypridine units have an N−
+C−C−N dihedral angle of about 180°, the substituents in
+positions 6 and 6′ point in diﬀerent directions and the 2,2′-
+biypridine arm is opened. The addition of salts containing
+metal ions, for example, Cu2+, leads to a complexation that is
+accompanied by rotation around the C−C bipyridine bond
+axis.26 In the complex, the N−C−C−N dihedral angle is ca. 0°,
+the substituents in position 6 and 6′ point into the same
+direction (Scheme 1b), and the 2,2′-biypridine arm is folded.
+The reversibility of this movement, the opening of the arms, is
+
+For linking the arms with the chiral scaﬀold, we chose two
+approaches: In the ﬁrst nanomachine (9, Scheme 1),
+the
+bipyridine unit is separated from the azobenzene by a rigid
+spacer. Here, the additional rigid spacer should ensure that the
+two switching systems are spatially separated from each other
+to avoid hindrance during the switching process. In the second
+nanomachine (12, Scheme 2), the bipyridine unit is directly
+bound to the meta position of the azobenzene.
+
+achieved chemically by the addition of cyclam, which
+complexes Cu2+ ions better than bipyridine units.20
+<para sub="scope">
+The synthesis of light and chemically driven nanomachine 9
+is depicted in Scheme 1a and basically corresponds to a Suzuki
+</para>
+1890
+
+DOI: 10.1021/acs.joc.5b00026
+J. Org. Chem. 2015, 80, 1887−1895
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 4. CD (left) and UV spectra (right) of states I−IV of light and chemically driven switch 9 in dichloromethane/acetonitrile (90:10; c = 2.0 ×
+10−5 M) at 20 °C. During a four-stroke swimming cycle, the states are progressed through in the following order: I (blue) → II (red) → III (orange)
+→ IV (green) → I (violet). Transition from state I to state II is caused by irradiation with 365 nm light (10 s). Transition from state II to state III is
+caused by the addition of 3.2 equiv of Cu2+. Transition from state III to state IV is caused by irradiation with 405 nm light (10 s). Transition from
+state IV to state I is caused by the addition of 10 equiv of cyclam.
+
+Figure 5. CD (left) and UV spectra (right) of states I−IV of light and chemically driven switch 12 in dichloromethane/acetonitrile (90:10; c = 2.0 ×
+10−5 M) at 20 °C. During a four-stroke swimming cycle, the states are progressed through in the following order: I (blue) → II (red) → III (orange)
+→ IV (green) → I (violet). Transition from state I to state II is caused by irradiation with 365 nm light (10 s). Transition from state II to state III is
+caused by the addition of 2.4 equiv of Cu2+. Transition from state III to state IV is caused by irradiation with 405 nm light (10 s). Transition from
+state IV to state I is caused by the addition of 44 equiv of cyclam.
+<para sub="scope">
+if
+
+light-induced switching of
+
+coupling27 of
+two bipyridine arms with the unidirectional
+switch, trans-5. The so-obtained nanomachine (trans-9) adopts
+state I; this means that both arms are stretched forward (cf.
+Figure 1). The synthesis of nanomachine 12 takes place
+according to a similar principle (Scheme 2). Here, stannane 11,
+which can be synthesized in two steps from 6,6′-dibromo-2,2′-
+dipyridyl (6),
+is reacted with switch trans-5 using a Stille
+coupling. The so-obtained nanomachine, 12, also adopts state I.
+</para>
+<para sub=“props”>
+After successful nanomachine synthesis, we wanted to ﬁrst
+test
+the systems can still be
+achieved. Therefore, we analyzed the two systems via HPLC,
+NMR, CD, and UV spectroscopy (Figures S6−S11). In all
+spectra, the switching process can be proven. In the UV spectra,
+a decrease of the π → π* band at ca. 330 nm can be observed.
+However, this eﬀect is not very distinct for switch 9 (Figures S6
+and S7). The unidirectionality of the process can be seen in the
+NMR spectra: Only one of the two diastereomeric cis isomers is
+found (Figures S8 and S9). The negative Cotton eﬀects of the
+n → π* transition at values above 400 nm can be ascribed to
+the cis-(P) isomers (Figures S6 and S7). Accordingly,
+irradiation with 365 nm light leads to the transition from
+state I (trans-9/trans-12) to state II (cis-(P)-9/cis-(P)-12).
+</para>
+<para sub=“props”>
+Furthermore, a comparison of systems 9 and 12 shows that
+the extent of light-induced switching is diﬀerent for the two
+machines. In the case of switch 9, only ca. 20% is involved in
+the switching process (Figures S8 and S10). However,
+in
+
+system 12, ca. 30% of the azobenzene units are switched by
+light (Figures S9 and S11). We ascribe this to the fact that in
+the case of 9 a part of the irradiated light is absorbed by the
+rigid spacers so that less light is available for excitation of the
+azobenzene unit.
+</para>
+<para sub=“props”>
+Irradiation with 405 nm light returns state II to initial state I
+(trans-9/trans-12). This switching processes are repeatable
+almost any number of times without a noticeable change in the
+spectra.
+</para>
+In the second step, we wanted to test if the bipyridine units
+of nanomachines 9 and 12 can also be switched. Therefore, the
+nanomachines were titrated with diﬀerent metal ions in DCM/
+MeCN and analyzed by CD and UV spectroscopy. Addition-
+ally,
+the metal complexes were investigated by mass
+spectrometry. Here, complete conversion was achieved only
+with copper ions, and the corresponding metal complexes were
+detected by ESI+. In the UV spectra, the formation of copper−
+bipyridine complexes can be easily observed by means of an
+increase of the absorption band at ca. 370 nm and a decrease of
+the band at 320 nm (Figures S12 and S13). For switch 9,
+complete conversion is reached at 3.15 equiv; for switch 12,
+only 2.15 equiv is necessary.
+<para sub=“props”>
+Even in the CD spectra, the formation of copper complexes
+can be observed. As expected, the bipyridine complex units in
+switch 12, which are closer to the chiral clamp, show more
+distinct changes in the Cotton eﬀects (Figures S12 and S13).
+</para>
+1891
+
+DOI: 10.1021/acs.joc.5b00026
+J. Org. Chem. 2015, 80, 1887−1895
+
+The Journal of Organic Chemistry
+<para sub=“props”>
+titration,
+
+2+, 12*Cu2
+
+the solutions were examined by mass
+After
+In addition to the dinuclear complexes
+spectrometry.
+2+), the mononuclear complexes (9*Cu2+,
+(9*Cu2
+12*Cu2+) can be unambiguously proven. The addition of the
+strong copper ion binder cyclam leads to the original (not
+complexed) compounds (Figures S12 and S13). Thus,
+titrations with Cu2+ ions and cyclam show that the bipyridine
+arms can be folded (trans-9*Cu2
+4+; state IV) and reopened
+(state I, trans-9), as expected (Figures S12 and S13).
+</para>
+The combination of both switches using the diﬀerent stimuli
+subsequently allows several cycles to be performed for light and
+chemically driven switches 9 and 12. The UV and CD spectra
+for the ﬁrst cycle are depicted in Figures 4 and 5. The starting
+point is the trans isomers (state I), which are transformed in the
+ﬁrst stroke into state II (cis-(P) isomers) by irradiation with
+365 nm light. This switching process is observable by the
+decrease of the absorption bands at 330 nm in the UV spectra
+and the more negative Cotton eﬀect at 420 nm. During the
+second stroke, the addition of Cu2+ ions causes the folding of
+the arms (copper complexes of the cis-(P) isomers), which
+corresponds to state III. In the UV spectra, this process can be
+observed by means of the bathochromic shifts of the bipyridine
+bands to 380 nm. Rotation of the folded arms is triggered by
+irradiation with 405 nm light, and state IV (copper complexes
+of the trans isomers) is formed in the third stroke. This
+reisomerization becomes noticeable by an increase of
+the
+absorption band at 330 nm in the UV spectra. The so-recorded
+spectra are consistent with the ones obtained by titration of the
+trans isomers with Cu2+ (Figures S12 and S13). Addition of
+cyclam leads to the stretching of the arms, resulting in the trans
+isomers, which correspond to state I. The fourth stroke
+completes the cycle. The spectra are again identical with those
+of the starting compounds; this makes the case for the existence
+of a reversible cycle. The cycle can be repeated several times.
+The number of cycles is not limited by the system but by the
+measurement technique: With increasing overall concentration
+of all of the components, the absorption of the entire system is
+too high to obtain meaningful CD signals in the desired part of
+the spectra.
+
+■ CONCLUSIONS
+
+We have shown that we were able to design molecular
+machines that demonstrate unidirectional, four-state switching
+cycles that bear similar characteristics to the arm movements of
+a human breaststroke swimmer. They are based on a peptidic,
+macrocyclic scaﬀold that controls the direction of motion. The
+arms performing the swimming movements are rotated around
+one hinge and are stretched and folded by another hinge. The
+ﬁrst hinge is a meta-substituted azobenzene attached to the
+chiral scaﬀold and can be switched by light. The arms are
+bipyridine units that are either directly attached or connected
+via rigid spacers to the azobenzene unit. The bipyridine units
+are stimulated by Cu2+ ions. The movements of these machines
+are triggered by alternating addition of chemicals and
+irradiation with light. The limiting factor for the repeatability
+of the cycles is the dilution eﬀect caused by the addition of
+solutions, which worsens the recording of the spectra. The rate-
+limiting factor is the time to record the spectra for each cycle.
+The current work is a promising small step to an artiﬁcial
+nanoswimmer that is propelled in solution by an external
+stimuli.
+
+■ EXPERIMENTAL SECTION
+
+Article
+<para sub=“exp”>
+Computational Study. All calculations were performed by using
+the program package Gaussian 09.28 The geometrical parameters of
+trans-5, cis-(P)-5, and cis-(M)-5 were optimized without symmetry
+restriction by means of density functional theory (DFT). For the DFT
+method, we used the B3LYP29−31 functional and the 6-31G*32 basis
+set. Frequency calculation revealed that the optimized structures have
+no imaginary frequency.
+
+The CD and UV spectra of trans-5, cis-(P)-5, and cis-(M)-5 were
+simulated with time-dependent density functional
+theory (TD-
+DFT),33 using the B3LYP functional and the 6-31G* basis set. TD-
+DFT calculations were performed at
+the optimized ground-state
+geometry (B3LYP/6-31G*) of the compounds. The energy, oscillator
+strength, and rotatory strength were calculated for each of the 200
+lowest singlet excitations.
+
+General Remarks. All chemicals were reagent grade and were used
+as purchased. Reactions were monitored by TLC analysis with silica
+gel 60 F254 thin-layer plates. Flash chromatography was carried out on
+silica gel 60 (230−400 mesh). 1H, 13C, and 2D NMR spectra were
+recorded on 300, 500, and 600 MHz spectrometers. All chemical shifts
+(δ) are given in ppm. The spectra were referenced to the peak for the
+protium impurity in the deuterated solvents indicated in brackets in
+the analytical data. HRMS spectra were recorded using a time-of-ﬂight
+(TOF) detector. Two high-power light-emitting diodes (LEDs) were
+used for the light-induced switching processes. The ﬁrst light source
+irradiates 365 nm light, and the second one, 405 nm. Chiral clamp 4a
+was purchased from Squarix GmbH.
+
+Synthesis of Methyl 3-Amino-5-bromobenzoate (13). Aniline
+1 (718 mg, 3.30 mmol) was dissolved in methanol and cooled to 0 °C.
+SOCl2 (4.8 mL, 66.7 mmol) was added dropwise to the solution, and
+the mixture was allowed to reach room temperature overnight. The
+volatiles were removed in vacuo, and the remaining solid was dissolved
+in water. A saturated solution of NaHCO3 was added until a pH of 7
+was reached. The aqueous solution was extracted several times with
+ethyl acetate. The combined organic phases were dried over MgSO4
+and concentrated in vacuo to give 13 (730 mg, 3.17 mmol, 96%) as a
+grayish solid. mp 97−98 °C. 1H NMR (500 MHz, CDCl3): δ 7.52 (dd,
+4JH,H = 1.4 Hz, 4JH,H = 1.4 Hz, 1 H, Har), 7.25 (dd, 4JH,H = 1.4 Hz, 4JH,H
+= 2.2 Hz, 1 H, Har), 6.99 (dd, 4JH,H = 2.0 Hz, 4JH,H = 2.0 Hz, 1 H, Har),
+3.89 (s, 3 H, CH3), 3.83 (bs, 2 H, NH2) ppm. 13C NMR (125 MHz,
+CDCl3): δ 166.0, 147.7, 132.6, 122.9, 122.3, 121.6, 114.6, 52.3 ppm.
+HRMS (ESI+) [C8H8
+found,
+251.9624. IR (ATR): 3410, 3329, 3220, 3095, 2953, 1708, 1636,
+1601, 1467, 1444, 1430, 1308, 1273, 1242, 1187, 1089, 1003, 914, 896,
+853, 833, 768, 729, 669 cm−1. UV/vis (DCM): λ
+max (log ε) = 324
+(3.49) nm.
+
+79BrNO2 + Na]+ calcd, 251.9636;
+
+Synthesis of 2. Aniline 13 (1.52 g, 6.60 mmol) was dissolved in
+toluene (25 mL), and MnO2 (13.2 mmol, 1.15 g) was added. The
+reaction mixture was warmed to 70 °C and stirred in the dark for
+several days at that temperature. Afterward, the reaction mixture was
+ﬁltered over Celite, and the solvent was removed in vacuo. Column
+chromatography of the residue on silica gel (dichloromethane) led to
+diester 2 (436 mg, 29%) as an orange solid and to starting material 13
+(841 mg, 1.84 mmol, 56%). mp 175−176 °C. 1H NMR (500 MHz,
+CDCl3) trans isomer: δ 8.53 (dd, 4JH,H = 1.6 Hz, 4JH,H = 1.6 Hz, 2 H,
+Har), 8.31 (dd, 4JH,H = 1.7 Hz, 4JH,H = 1.7 Hz, 2 H, Har), 8.23 (dd, 4JH,H
+= 1.8 Hz, 4JH,H = 1.8 Hz, 2 H, Har), 3.99 (s, 6 H, CH3) ppm; cis isomer:
+δ 8.00 (dd, 4JH,H = 1.7 Hz, 4JH,H = 1.7 Hz, 2 H, Har), 7.39 (dd, 4JH,H =
+1.6 Hz, 4JH,H = 1.6 Hz, 2 H, Har), 7.19 (dd, 4JH,H = 1.8 Hz, 4JH,H = 1.8
+Hz, 2 H), Har, 3.89 (s, 6 H, CH3) ppm. 13C NMR (125 MHz, CDCl3):
+δ 165.0, 152.8, 135.1, 132.9, 128.9, 124.2, 123.2, 52.7 ppm. HRMS
+(ESI+) [C16H12
+found,
+478.9029. IR (ATR): 3444, 3074, 3035, 2964, 2850, 1841, 1793,
+1732, 1563, 1446, 1432, 1280, 1242, 1203, 1183, 1103, 995, 922, 907,
+887, 836, 763, 730, 683 cm−1. UV/vis (DCM): λ
+max (log ε) = 318
+(4.21), 444 (2.73) nm.
+Synthesis of 3,3′-Dibromo-5,5′-di(hydroxymethyl)-
+azobenzene (14). A solution of LiAlH4 in THF (2 M, 0.36 mL,
+0.75 mmol) was added to 2 (56 mg, 0.12 mmol) in anhydrous
+
+79Br81BrN2O4 + Na]+ calcd, 478.9041;
+</para>
+1892
+
+DOI: 10.1021/acs.joc.5b00026
+J. Org. Chem. 2015, 80, 1887−1895
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+dichloromethane at 0 °C under argon, and the mixture was stirred for
+3 h at 0 °C. Then, dichloromethane (20 mL) and water (1.0 mL) were
+added to the reaction mixture. The organic layer was separated, and
+the aqueous solution was extracted several
+times with dichloro-
+methane. The combined organic phases were dried over MgSO4 and
+concentrated in vacuo to yield diol 14 (96%, 46 mg, 0.11 mmol) as an
+orange solid, which was used for the next step without
+further
+puriﬁcation. mp 186−188 °C. 1H NMR (500 MHz, CD3OD) trans
+isomer: δ 7.92 (m, 2 H, Har), 7.90 (m, 2 H, Har), 7.70 (m, 2 H, Har),
+4.71 (s, 4 H, CH2) ppm; cis isomer: δ 7.37 (m, 2 H, Har), 6.90 (m, 2 H,
+Har), 6.84 (m, 2 H, Har), 4.50 (s, 4 H, CH2). 13C NMR (125 MHz,
+CD3OD): δ 154.7, 147.0, 133.4, 124.4, 124.1, 122.2, 63.9 ppm. HRMS
+(ESI+) [C14H12
+found,
+422.9149. IR (ATR): 3305, 3082, 2922, 2855, 1659, 1602, 1575,
+1450, 1434, 1358, 1307, 1253, 1218, 1132, 1097, 1020, 987, 903, 854,
+821, 733, 685 cm−1. UV/vis (DCM): λ
+max (log ε) = 323 (4.19), 442
+(2.79) nm.
+
+79Br81BrN2O2 + Na]+ calcd, 422.9143;
+
+Synthesis of 7. 4-Aminophenylboronic acid pinacol ester (646 mg,
+2.95 mmol) was dissolved in dioxane (10.0 mL) under an argon
+atmosphere. Pd(PPh3)4 (23 mg, 0.020 mmol), an aqueous solution of
+potassium carbonate (saturated; 1.0 mL), and 6,6′-dibromo-2,2′-
+dipyridyl (6) (926 mg, 2.95 mmol) were added to the solution. The
+reaction mixture was warmed to 80 °C and stirred at that temperature
+overnight. After cooling to room temperature, dichloromethane (60
+mL) and water (10 mL) were added. The phases were separated, and
+the aqueous layer was extracted several times with dichloromethane.
+The organic layers were combined and dried over MgSO4, the solvent
+
+79Br2
+
+Synthesis of 3. Triphenylphosphine (231 mg, 0.88 mmol) and N-
+bromosuccinimide (157 mg, 0.88 mmol) were added to a solution of
+diol 14 (92 mg, 0.23 mmol) in tetrahydrofuran at 0 °C under an argon
+atmosphere. The mixture was allowed to reach room temperature
+overnight. The volatiles were removed in vacuo, and the remaining
+solid was subjected to column chromatography (silica gel, n-hexane/
+dichloromethane, 10:2) to aﬀord 3 (103 mg, 0.20 mmol, 85%) as an
+orange solid. mp 185−187 °C. 1H NMR (500 MHz, CDCl3) trans
+isomer: δ 7.99 (m, 2 H, Har), 7.91 (m, 2 H, Har), 7.68 (m, 2 H, Har),
+4.52 (s, 4 H, CH2) ppm; cis isomer: δ 7.35 (m, 2 H, Har), 7.01 (m, 2 H,
+Har), 6.69 (m, 2 H, Har), 4.28 (s, 4 H, CH2) ppm. 13C NMR (125
+MHz, CDCl3): δ 153.1, 140.7, 134.6, 125.1, 123.4, 123.3, 31.2 ppm.
+HRMS (ESI−) [C14H10
+81Br2N2 + 81Br]− calcd, 606.6700; found,
+606.6656. IR (ATR): 3124, 3089, 3055, 3027, 2973, 2923, 2859, 1799,
+1779, 1598, 1557, 1429, 1306, 1268, 1241, 1209, 1140, 1121, 1089,
+996, 979, 908, 880, 823, 689, 660 cm−1. UV/vis (DCM): λ
+max (log ε) =
+324 (4.28), 446 (2.74) nm.
+Synthesis of trans-5. Cesium carbonate (326 mg, 1.00 mmol) was
+added to a solution of clamp 4b (25 mg, 0.045 mmol) and dibromide
+3 (42 mg, 0.080 mmol) in anhydrous acetonitrile (25 mL), and the
+mixture was reﬂuxed at 90 °C for 4 h under an argon atmosphere.
+After cooling to room temperature, dichloromethane (60 mL) and
+water (15 mL) were added. The organic layer was washed with water,
+dried over MgSO4, and concentrated in vacuo. Column chromatog-
+raphy of the residue on silica gel (dichloromethane/ethyl acetate/
+methanol, 75:25:1) provided compound trans-5 (35 mg, 0.038 mmol,
+84%) as an orange solid. mp > 350 °C. 1H NMR (600 MHz, CDCl3):
+δ 7.90 (s, 2 H, Har), 7.52 (s, 2 H, Har), 7.42 (d, 3JH,H = 10.5 Hz, 2 H,
+NH), 7.12 (d, 3JH,H = 5.9 Hz, 2 H, NH), 5.90 (s, 2 H, Har), 5.36 (d,
+2JH,H = 17.4 Hz, 2 H, CH2), 4.98 (d, 2JH,H = 17.5 Hz, 2 H, CH2), 4.97
+(m, 2 H, CH), 4.61 (dd, 3JH,H = 8.0 Hz, 3JH,H = 10.5 Hz, 2 H, CH),
+2.53−2.48 (m, 2 H, CH), 2.31−2.25 (m, 2 H, CH), 2.18 (s, 6 H,
+CH3), 1.16 (d, 3JH,H = 6.7 Hz, 6 H, CH3), 1.15 (d, 3JH,H = 6.7 Hz, 6 H,
+CH3), 0.93 (d, 3JH,H = 6.2 Hz, 6 H, CH3), 0.92 (d, 3JH,H = 6.6 Hz, 6 H,
+CH3) ppm. 13C NMR (151 MHz, CDCl3): δ 171.1, 162.4, 153.0,
+145.9, 138.7, 134.7, 131.2, 130.6, 125.7, 123.5, 117.9, 59.2, 51.3, 46.5,
+33.0, 31.4, 19.6, 19.0, 18.5, 17.5, 10.1 ppm. HRMS (ESI+)
+79Br81BrN10O4 + Na]+ calcd, 943.2417; found, 943.2419. IR
+[C42H52
+(ATR): 3389, 3073, 2963, 2930, 2873, 2358, 1660, 1593, 1504, 1463,
+1428, 1388, 1371, 1333, 1256, 1223, 1140, 1091, 1048, 1029, 991, 952,
+881, 858, 819, 765, 731, 688 cm−1. UV/vis (DCM): λ
+max (log ε) = 324
+max (Δε) = 251 (−34.89), 273
+(4.30), 445 (2.69) nm. CD (DCM): λ
+(−0.85), 297 (−2.87), 343 (+1.79), 452 (−5.81 M−1 cm−1) nm.
+</para>
+Article
+<para sub=“exp”>
+was removed, and the crude product was puriﬁed by column
+chromatography over silica gel (n-hexane/ethyl acetate, 1:1) to give
+7 (301 mg, 0.92 mmol, 31%) as a white solid. mp 120−121 °C. 1H
+NMR (600 MHz, CDCl3): δ 8.58 (dd, 4JH,H = 0.7 Hz, 3JH,H = 7.8 Hz, 1
+H, Har), 8.26 (dd, 4JH,H = 0.8 Hz, 3JH,H = 7.8 Hz, 1 H, Har), 7.97 (d,
+3JH,H = 8.9 Hz, 2 H, Har), 7.81 (t, 3JH,H = 8.0 Hz, 1 H, Har), 7.68 (m, 2
+H, Har), 7.48 (dd, 4JH,H = 0.8 Hz, 3JH,H = 8.1 Hz, 1 H, Har), 6.79 (d,
+3JH,H = 8.9 Hz, 2 H, Har), 3.85 (s, 2 H, NH2) ppm. 13C NMR (151
+MHz, CDCl3): δ 157.8, 156.5, 153.7, 147.6, 141.4, 139.1, 137.5, 129.5,
+128.1, 127.7, 119.8, 119.6, 118.6, 115.0 ppm. HRMS (ESI+)
+79BrN3 + Na]+ calcd, 348.0112; found, 348.0105. IR (ATR):
+[C16H12
+3427, 3411, 3300, 3199, 1641, 1606, 1591, 1572, 1547, 1519, 1459,
+1448, 1426, 1415, 1373, 1344, 1320, 1285, 1273, 1227, 1185, 1168,
+1147, 1124, 1108, 1092, 1070, 1048, 1012, 983, 960, 929, 904, 853,
+836, 816, 808, 784, 720, 680, 657 cm−1. UV/vis (DCM): λ
+max (log ε) =
+299 (4.43) nm.
+Synthesis of 4-(6′-(4-Methoxyphenyl)-[2,2′-bipyridin]-6-yl)-
+aniline (15). 4-Methoxyphenylboronic acid (152 mg, 1.00 mmol) was
+dissolved in dioxane (7.0 mL) under an argon atmosphere. Pd(PPh3)4
+(5.0 mg, 0.004 mmol), an aqueous solution of potassium carbonate
+(saturated; 0.7 mL), and bromide 7 (150 mg, 0.46 mmol) were added
+to the solution. The reaction mixture was warmed to 80 °C and stirred
+at that temperature overnight. After cooling to room temperature,
+dichloromethane (60 mL) and water (10 mL) were added. The phases
+were separated, and the aqueous layer was extracted several times with
+dichloromethane. The organic layers were combined and dried over
+MgSO4, the solvent was removed, and the crude product was puriﬁed
+by column chromatography over silica gel (n-hexane/ethyl acetate,
+1:1) to give 15 (107 mg, 0.30 mmol, 66%) as a white solid. mp 246−
+247 °C. 1H NMR (600 MHz, CDCl3): δ 8.53 (d, 3JH,H = 7.7 Hz, 1 H,
+Har), 8.49 (d, 3JH,H = 7.3 Hz, 1 H, Har), 8.13 (d, 3JH,H = 8.8 Hz, 2 H,
+Har), 8.02 (d, 3JH,H = 8.5 Hz, 2 H, Har), 7.85 (m, 2 H, Har), 7.71 (dd,
+4JH,H = 0.7 Hz, 3JH,H = 7.8 Hz, 1 H, Har), 7.68 (dd, 4JH,H = 0.7 Hz, 3JH,H
+= 7.8 Hz, 1 H, Har), 7.04 (d, 3JH,H = 8.8 Hz, 2 H, Har), 6.81 (d, 3JH,H =
+8.6 Hz, 2 H, Har), 3.89 (s, 3 H, CH3), 3.84 (s, 2 H, NH2) ppm. 13C
+NMR (151 MHz, CDCl3): δ 160.5, 156.3, 156.0, 155.9, 155.7, 147.4,
+137.4, 137.3, 132.2, 129.9, 128.2, 128.1, 119.4, 119.0, 118.8, 118.3,
+115.1, 114.1, 55.4 ppm. HRMS (ESI+) [C23H19N3O + Na]+ calcd,
+376.1426; found, 376.1430. IR (ATR): 3459, 3371, 3215, 3000, 2962,
+2932, 2907, 2837, 1602, 1561, 1512, 1457, 1433, 1373, 1300, 1286,
+1266, 1244, 1178, 1157, 1129, 1115, 1086, 1026, 987, 963, 908, 841,
+819, 792, 742 cm−1. UV/vis (DCM): λ
+max (log ε) = 294 (4.57) nm.
+Synthesis of 8. 4-Chlorocarbonylbenzeneboronic anhydride (90%,
+61 mg, 0.33 mmol) was dissolved in tetrahydrofuran (8 mL) under an
+argon atmosphere. Aniline 15 (67 mg, 0.19 mmol) dissolved in
+tetrahydrofuran (5 mL) was added dropwise at room temperature.
+Pyridine (0.08 mL) was added dropwise at room temperature, and the
+resulting mixture was stirred overnight. The precipitate was separated
+by ﬁltration and air-dried to yield 8 (68 mg, 0.14 mmol, 71%) as a
+white solid. mp > 250 °C. 1H NMR (600 MHz, DMSO-d6): δ 10.43
+(s, 1 H, NH), 8.51 (m, 2 H, Har), 8.29 (d, 3JH,H = 8.2 Hz, 2 H, Har),
+8.23 (d, 3JH,H = 8.8 Hz, 2 H, Har), 8.07−8.03 (m, 3 H, Har), 8.00−7.99
+(m, 3 H, Har), 7.97−7.94 (m, 4 H, Har), 7.11 (d, 3JH,H = 8.9 Hz, 2 H,
+Har), 3.85 (s, 3 H, CH3) ppm. 13C NMR (151 MHz, DMSO-d6): δ
+165.7, 160.2, 155.1, 155.0, 154.9, 154.8, 140.2, 138.3, 138.2, 136.0,
+133.9, 133.5, 130.9, 127.9, 126.9, 126.5, 120.2, 119.8, 119.6, 118.7,
+118.5, 114.1, 55.2 ppm. HRMS (ESI+) [C30H24BN3O4 + Na]+ calcd,
+524.1758; found, 524.1752. IR (ATR): 3280, 1639, 1607, 1589, 1564,
+1528, 1513, 1468, 1436, 1396, 1355, 1328, 1299, 1274, 1173, 1135,
+1114, 1083, 1027, 1012, 914, 843, 813, 788, 754, 742, 699, 670 cm−1.
+UV/vis (MeOH): λ
+
+max (log ε) = 292 (4.73), 319 (4.65) nm.
+
+Synthesis of trans-9. Boronic acid 8 (60 mg, 0.12 mmol) was
+dissolved in dioxane (4.0 mL) under an argon atmosphere. Pd(PPh3)4
+(1.0 mg, 0.001 mmol), an aqueous solution of potassium carbonate
+(saturated; 0.4 mL), and azo compound trans-5 (22 mg, 0.024 mmol)
+were added to the solution. The reaction mixture was stirred under an
+argon atmosphere for 1 day at 80 °C under simultaneous irradiation
+with UV light (λ = 365 nm). After cooling to room temperature,
+dichloromethane (60 mL) and water (10 mL) were added. The phases
+were separated, and the aqueous layer was extracted several times with
+</para>
+1893
+
+DOI: 10.1021/acs.joc.5b00026
+J. Org. Chem. 2015, 80, 1887−1895
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+dichloromethane. The organic layers were combined and dried over
+MgSO4, the solvent was removed, and the crude product was puriﬁed
+by column chromatography over silica gel (dichloromethane/ethyl
+acetate, 75:25) to provide trans-9 (13.7 mg, 0.008 mmol, 34%) as an
+orange solid. mp > 350 °C. 1H NMR (600 MHz, CDCl3): δ 8.58 (dd,
+4JH,H = 0.7 Hz, 3JH,H = 7.8 Hz, 2 H, Har), 8.55 (dd, 4JH,H = 0.7 Hz, 3JH,H
+= 7.8 Hz, 2 H, Har), 8.24 (d, 3JH,H = 8.7 Hz, 4 H, Har), 8.14 (d, 3JH,H =
+8.8 Hz, 4 H, Har), 8.11 (s, 2 H, Har), 8.04 (m, 6 H, Har), 7.92−7.86 (m,
+8 H, Har), 7.81−7.78 (m, 6 H, Har), 7.73 (dd, 4JH,H = 0.7 Hz, 3JH,H =
+7.8 Hz, 2 H, Har), 7.62 (s, 2 H, Har), 7.49 (d, 3JH,H = 10.6 Hz, 2 H,
+NH), 7.21 (d, 3JH,H = 5.9 Hz, 2 H, NH), 7.05 (d, 3JH,H = 8.9 Hz, 4 H,
+Har), 6.03 (s, 2 H, NH), 5.48 (d, 2JH,H = 17.2 Hz, 2 H, CH2), 5.11 (d,
+2JH,H = 17.3 Hz, 2 H, CH2), 5.05 (dd, 3JH,H = 3.9 Hz, 3JH,H = 5.8 Hz, 2
+H, CH), 4.66 (dd, 3JH,H = 7.8 Hz, 3JH,H = 10.5 Hz, 2 H, CH), 3.90 (s, 6
+H, CH3), 2.58−2.52 (m, 2 H, CH), 2.35−2.29 (m, 2 H, CH), 2.25 (s,
+6 H, CH3), 1.19 (d, 3JH,H = 6.7 Hz, 6 H, CH3), 1.18 (d, 3JH,H = 6.7 Hz,
+6 H, CH3), 0.96 (d, 3JH,H = 8.5 Hz, 6 H, CH3), 0.94 (d, 3JH,H = 7.0 Hz,
+6 H, CH3) ppm. 13C NMR (151 MHz, CDCl3): δ 171.2, 165.1, 162.6,
+160.5, 156.06, 156.03, 155.77, 155.51, 153.1, 145.9, 143.1, 141.8,
+138.7, 137.69, 137.60, 137.53, 135.7, 134.9, 134.3, 132.1, 130.5, 128.2,
+127.9, 127.73, 127.68, 126.9, 121.2, 120.2, 119.8, 119.6, 119.4, 118.8,
+118.7, 114.1, 59.3, 55.4, 51.4, 47.1, 33.0, 31.4, 19.7, 19.0, 18.6, 17.5,
+10.2 ppm. HRMS (ESI+) [C102H96N16O8 + Na]+ calcd, 1695.7495;
+found, 1695.7505. IR (ATR): 3384, 2962, 2927, 2872, 1667, 1597,
+1564, 1514, 1463, 1434, 1402, 1390, 1372, 1317, 1302, 1248, 1178,
+1152, 1104, 1085, 1043, 1028, 988, 953, 897, 847, 823, 796, 763, 743,
+697, 667 cm−1. UV/vis (DCM/CH3CN, 9:1): λ
+max (log ε) = 297
+(4.90), 320 (4.90), 426 (2.94) nm. CD (DCM/CH3CN, 9:1): λ
+max
+(Δε) = 252 (−27.34), 332 (+9.78), 444 (−7.60 M−1 cm−1) nm.
+
+Synthesis of 10. 4-Methoxyphenylboronic acid (330 mg, 2.17
+mmol) was dissolved in dioxane (10.0 mL) under an argon
+atmosphere. Pd(PPh3)4 (23 mg, 0.020 mmol), an aqueous solution
+of potassium carbonate (saturated; 1.0 mL), and 6,6′-dibromo-2,2′-
+dipyridyl (6) (1.025 g, 3.26 mmol) were added to the solution. The
+reaction mixture was warmed to 80 °C and stirred at that temperature
+overnight. After cooling to room temperature, dichloromethane (60
+mL) and water (10 mL) were added. The phases were separated, and
+the aqueous layer was extracted several times with dichloromethane.
+The organic layers were combined and dried over MgSO4, the solvent
+was removed, and the crude product was puriﬁed by column
+chromatography over silica gel (n-hexane/ethyl acetate, 10:1) to give
+10 (526 mg, 1.54 mmol, 71%) as a white solid. mp 128−129 °C. 1H
+NMR (600 MHz, CDCl3): δ 8.59 (d, 3JH,H = 7.2 Hz, 1 H, Har), 8.31
+(d, 3JH,H = 7.8 Hz, 1 H, Har), 8.09 (d, 3JH,H = 8.9 Hz, 2 H, Har), 7.84 (t,
+3JH,H = 7.8 Hz, 1 H, Har), 7.72 (d, 3JH,H = 7.8 Hz, 1 H, Har), 7.69 (t,
+3JH,H = 7.8 Hz, 1 H, Har), 7.49 (d, 3JH,H = 7.8 Hz, 1 H, Har), 7.03 (d,
+3JH,H = 8.9 Hz, 2 H, Har), 3.89 (s, 3 H, CH3) ppm. 13C NMR (151
+MHz, CDCl3): δ 160.6, 157.7, 156.2, 153.9, 141.5, 139.1, 137.7, 131.8,
+128.2, 127.9, 120.1, 119.9, 119.0, 114.1, 55.4 ppm. HRMS (ESI+)
+79BrN2O + Na]+ calcd, 363.0109; found, 363.0094. IR (ATR):
+[C17H13
+3087, 3040, 3006, 2971, 2933, 2838, 1608, 1572, 1548, 1516, 1462,
+1422, 1375, 1325, 1301, 1278, 1249, 1180, 1165, 1152, 1128, 1116,
+1068, 1032, 985, 957, 904, 835, 821, 784, 739, 718, 657 cm−1. UV/vis
+(DCM): λ
+
+max (log ε) = 284 (4.37) nm.
+
+Synthesis of 11. To a solution of bromide 10 (177 mg, 0.52
+mmol) in dry tetrahydrofuran (8.0 mL) was added a solution of n-
+butyllithium in hexane (0.30 mL, 2.5 M, 0.75 mmol) dropwise under
+argon at −78 °C. The resulting mixture was stirred for 1 h before
+adding ClSnBu3 (0.27 mL, 1.00 mmol) at −78 °C. The solution was
+stirred at this temperature for 45 min and subsequently quenched with
+a saturated solution of NH4Cl. After phase separation, the aqueous
+phase was extracted with dichloromethane. The combined organic
+layers were dried over MgSO4 and concentrated in vacuo to yield
+stannane 11 (280 mg, 0.51 mmol, 98%) as a yellowish oil, which was
+used for the next step without further puriﬁcation. 1H NMR (300
+MHz, CDCl3): δ 8.44 (m, 2 H, Har), 8.12 (d, 3JH,H = 9.0 Hz, 2 H, Har),
+7.83 (t, 3JH,H = 7.8 Hz, 1 H, Har), 7.66 (m, 2 H, Har), 7.41 (dd, 4JH,H =
+1.3 Hz, 3JH,H = 7.3 Hz, 1 H, Har), 7.03 (d, 3JH,H = 9.0 Hz, 2 H, Har),
+3.89 (s, 3 H, CH3), 1.61 (m, 6 H, CH2), 1.36 (m, 6 H, CH2), 1.16 (m,
+
+6 H, CH2), 0.90 (t, 3JH,H = 7.4 Hz, 9 H, CH3) ppm. HRMS (ESI+)
+[C29H40N2O120Sn + H]+ calcd, 553.2241; found, 553.2246.
+Synthesis of trans-12. Pd(PPh3)4 (3.0 mg, 0.002 mmol) was
+added to a toluene solution (8 mL) of a mixture of azo compound
+trans-5 (25 mg, 0.027 mmol) and stannane 11 (83 mg, 0.150 mmol)
+under an argon atmosphere. The reaction mixture was stirred under
+argon for 4 days at 95 °C by simultaneous irradiation with UV light (λ
+= 365 nm). After cooling to room temperature, the mixture was
+evaporated to dryness under reduced pressure. Column chromatog-
+raphy of the residue on silica gel (dichloromethane/ethyl acetate/
+methanol, 75:25:6) provided trans-12 (17.0 mg, 0.013 mmol, 49%) as
+an orange solid. mp > 350 °C. 1H NMR (600 MHz, CDCl3/CD3OD):
+δ 8.54 (d, 3JH,H = 7.9 Hz, 2 H, Har), 8.46 (d, 3JH,H = 7.7 Hz, 2 H, Har),
+8.43 (s, 2 H, Har), 8.26 (s, 2 H, Har), 8.03 (d, 3JH,H = 8.8 Hz, 4 H, Har),
+7.94 (d, 3JH,H = 10.7 Hz, 2 H, NH), 7.91 (t, 3JH,H = 7.8 Hz, 2 H, Har),
+7.84 (m, 4 H, Har), 7.67 (d, 3JH,H = 7.4 Hz, 2 H, Har), 7.43 (d, 3JH,H =
+7.2 Hz, 2 H, NH), 6.96 (d, 3JH,H = 8.8 Hz, 4 H, Har), 6.04 (s, 2 H, Har),
+5.50 (d, 2JH,H = 17.2 Hz, 2 H, CH2), 5.17 (d, 2JH,H = 17.2 Hz, 2 H,
+CH2), 5.01 (d, 3JH,H = 4.0 Hz, 2 H, CH), 4.44 (d, 3JH,H = 9.4 Hz, 2 H,
+CH), 3.80 (s, 6 H, CH3), 2.35−2.30 (m, 2 H, CH), 2.17−2.10 (m, 2
+H, CH), 2.16 (s, 6 H, CH3), 1.08 (d, 3JH,H = 6.5 Hz, 6 H, CH3), 1.07
+(d, 3JH,H = 6.5 Hz, 6 H, CH3), 0.91 (d, 3JH,H = 7.0 Hz, 6 H, CH3), 0.89
+(d, 3JH,H = 7.0 Hz, 6 H, CH3) ppm. 13C NMR (151 MHz, CDCl3/
+CD3OD): δ 171.6, 163.0, 160.4, 156.2, 156.1, 155.3, 154.5, 152.9,
+145.9, 141.0, 137.84, 137.54, 137.45, 135.1, 131.8, 130.1, 128.1, 126.8,
+120.51, 120.46, 120.3, 119.7, 118.99, 118.85, 113.9, 59.8, 55.2, 50.9,
+47.1, 33.5, 31.4, 19.3, 19.2, 18.0, 17.7, 9.9 ppm. HRMS (ESI+)
+[C76H78N14O6 + Na]+ calcd, 1305.6127; found, 1305.6135. IR (ATR):
+3305, 2955, 2921, 2852, 1737, 1660, 1606, 1564, 1514, 1462, 1430,
+1374, 1337, 1301, 1251, 1174, 1090, 1056, 1027, 843, 799, 743, 720
+cm−1. UV/vis (DCM): λ
+max (log ε) = 278 (4.61), 425 (2.89) nm. CD
+max (Δε) = 253 (−19.35), 279 (+2.61), 314−2.34), 448
+(DCM): λ
+(−5.94 M−1 cm−1) nm.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Molecular structures of cis-(P)-5, cis-(M)-5, and trans-5; CD,
+HPLC, NMR and UV spectra; Cartesian coordinates and
+absolute energies of cis-(P)-5, cis-(M)-5, and trans-5; 1H and
+13C NMR spectra of the new compounds; crystal structure data
+of trans-5; complete ref 28; and CIF ﬁle for trans-5. This
+material is available free of charge via the Internet at http://
+pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: gebhard.haberhauer@uni-due.de.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was generously supported by the Deutsche
+Forschungsgemeinschaft (DFG). A special
+thanks goes to
+Dieter Bläser, Dr. Silvia Ernst, Helma Kallweit, and Petra
+Schneider for helpful support.
+■ REFERENCES
+
+(1) (a) Molecular Switches, 2nd ed.; Feringa, B. L., Browne, W. R.,
+Eds.; Wiley-VCH: Weinheim, Germany, 2011; Vol. 1. (b) Molecular
+Switches, 2nd ed.; Feringa, B. L., Browne, W. R., Eds.; Wiley-VCH:
+Weinheim, Germany, 2011; Vol. 2.
+(2) Balzani, V.; Credi, A.; Raymo, F. M.; Stoddart, J. F. Angew. Chem.,
+Int. Ed. 2000, 39, 3348−3391.
+(3) (a) Kottas, G. S.; Clarke, L. I.; Horinek, D.; Michl, J. Chem. Rev.
+2005, 105, 1281−1376. (b) Kao, C. Y.; Hsu, Y. T.; Lu, H. F.; Chao, I.;
+Huang, S. L.; Lin, Y. C.; Sun, W. T.; Yang, J. S. J. Org. Chem. 2011, 76,
+
+1894
+
+DOI: 10.1021/acs.joc.5b00026
+J. Org. Chem. 2015, 80, 1887−1895
+
+The Journal of Organic Chemistry
+5782−92. (c) Arcos-Ramos, R.; Rodriguez-Molina, B.; Romero, M.;
+Mendez-Stivalet, J. M.; Ochoa, M. E.; Ramirez-Montes, P. I.; Santillan,
+R.; Garcia-Garibay, M. A.; Farfan, N. J. Org. Chem. 2012, 77, 6887−94.
+(4) (a) Manzano, C.; Soe, W.-H.; Wong, H.; Ample, F.; Gourdon, A.;
+Chandrasekhar, N.; Joachim, C. Nat. Mater. 2009, 8, 576−579.
+(b) Frantz, D. K.; Linden, A.; Baldridge, K. K.; Siegel, J. S. J. Am. Chem.
+Soc. 2012, 134, 1528−1535.
+(5) Setaka, W.; Nirengi, T.; Kabuto, C.; Kira, M. J. Am. Chem. Soc.
+2008, 130, 15762−15763.
+(6) (a) Bissell, R. A.; Cordova, E.; Kaifer, A. E.; Stoddart, J. F. Nature
+1994, 369, 133−137. (b) Brouwer, A. M.; Frochot, C.; Gatti, F. G.;
+Leigh, D. A.; Mottier, L.; Paolucci, F.; Roffia, S.; Wurpel, G. W. Science
+2001, 291, 2124−2128.
+(7) (a) Kelly, T. R.; Sestelo, J. P.; Tellitu, I. J. Org. Chem. 1998, 63,
+3655−3665. (b) Mahadevan, L. Science 2000, 288, 95−99.
+(8) Badjic, J. D.; Balzani, V.; Credi, A.; Silvi, S.; Stoddart, J. F. Science
+2004, 303, 1845−1849.
+(9) (a) Collin, J.-P.; Dietrich-Buchecker, C.; Gavina, P.; Jimenez-
+Molero, M. C.; Sauvage, J.-P. Acc. Chem. Res. 2001, 34, 477−487.
+(b) Juluri, B. K.; et al. ACS Nano 2009, 3, 291−300. (c) Bruns, C. J.;
+Stoddart, J. F. Acc. Chem. Res. 2014, 47, 2186−2199.
+(10) (a) Kay, E. R.; Leigh, D. A.; Zerbetto, F. Angew. Chem., Int. Ed.
+2007, 46, 72−191. (b) von Delius, M.; Leigh, D. A. Chem. Soc. Rev.
+2011, 40, 3656−3676. (c) Coskun, A.; Banaszak, M.; Astumian, R. D.;
+Stoddart, J. F.; Grzybowski, B. A. Chem. Soc. Rev. 2012, 41, 19−30.
+(11) (a) Lehn, J. M. Chem.Eur. J. 2006, 12, 5910−5915. (b) Michl,
+J.; Sykes, E. C. ACS Nano 2009, 3, 1042−1048.
+(12) (a) Kelly, T. R.; De Silva, H.; Silva, R. A. Nature 1999, 401,
+150−152. (b) Fletcher, S. P.; Dumur, F.; Pollard, M. M.; Feringa, B. L.
+Science 2005, 310, 80−82.
+(13) (a) Koumura, N.; Zijlstra, R. W.; van Delden, R. A.; Harada, N.;
+Feringa, B. L. Nature 1999, 401, 152−155. (b) Muraoka, T.; Kinbara,
+K.; Aida, T. Nature 2006, 440, 512−515. (c) Ruangsupapichat, N.;
+Pollard, M. M.; Harutyunyan, S. R.; Feringa, B. L. Nat. Chem. 2011, 3,
+53−60.
+(14) (a) Tierney, H. L.; Murphy, C. J.; Jewell, A. D.; Baber, A. E.;
+Iski, E. V.; Khodaverdian, H. Y.; McGuire, A. F.; Klebanov, N.; Sykes,
+E. C. H. Nat. Nanotechnol. 2011, 6, 625−629. (b) Perera, U. G.; et al.
+Nat. Nanotechnol. 2013, 8, 46−51.
+(15) (a) Leigh, D. A.; Wong, J. K.; Dehez, F.; Zerbetto, F. Nature
+2003, 424, 174−179. (b) Haberhauer, G. Angew. Chem., Int. Ed. 2011,
+50, 6415−6418.
+(16) Purcell, E. M. Am. J. Phys. 1977, 45, 3−11.
+(17) Haberhauer, G.; Rominger, F. Eur. J. Org. Chem. 2003, 3209−
+3218.
+(18) Comba, P.; Dovalil, N.; Gahan, L. R.; Hanson, G. R.; Westphal,
+M. Dalton Trans. 2014, 1935−1956.
+(19) Haberhauer, G. Angew. Chem., Int. Ed. 2007, 46, 4397−4399.
+(20) Haberhauer, G. Angew. Chem., Int. Ed. 2008, 47, 3635−3638.
+(21) Haberhauer, G. Angew. Chem., Int. Ed. 2010, 49, 9286−9289.
+(22) (a) Rau, H. Angew. Chem., Int. Ed. Engl. 1973, 12, 224−235.
+(b) Bandara, H. M.; Burdette, S. C. Chem. Soc. Rev. 2012, 41, 1809−
+1825. (c) Merino, E.; Ribagorda, M. Beilstein J. Org. Chem. 2012, 8,
+1071−1090. (d) Natali, M.; Giordani, S. Chem. Soc. Rev. 2012, 41,
+4010−4029.
+(23) (a) Muraoka, T.; Kinbara, K.; Kobayashi, Y.; Aida, T. J. Am.
+Chem. Soc. 2003, 125, 5612−5613. (b) Haberhauer, G.; Kallweit, C.
+Angew. Chem., Int. Ed. 2010, 49, 2418−2421.
+(24) Haberhauer, G.; Kallweit, C.; Wölper, C.; Bläser, D. Angew.
+Chem., Int. Ed. 2013, 52, 7879−7882.
+(25) (a) Rebek, J., Jr.; Trend, J.; Wattley, R.; Chakravorti, S. J. Am.
+Chem. Soc. 1979, 101, 4333−4337. (b) Lehn, J. M. Angew. Chem., Int.
+Ed. Engl. 1988, 27, 89−112.
+(26) Kelly, T. R.; Bowyer, M. C.; Bhaskar, K. V.; Bebbington, D.;
+Garcia, A.; Lang, F. R.; Kim, M. H.; Jette, M. P. J. Am. Chem. Soc. 1994,
+116, 3657−3658.
+(27) Hassan, J.; Sevignon, M.; Gozzi, C.; Schulz, E.; Lemaire, M.
+Chem. Rev. 2002, 102, 1359−1470.
+
+Article
+
+(28) Frisch, M. J., et al. Gaussian 09, Revision A.02; Gaussian, Inc.:
+Wallingford, CT, 2009.
+(29) Becke, A. D. Phys. Rev. A 1988, 38, 3098−3100.
+(30) Lee, C.; Yang, W.; Parr, R. G. Phys. Rev. B 1988, 37, 785−789.
+(31) Miehlich, B.; Savin, A.; Stoll, H.; Preuss, H. Chem. Phys. Lett.
+1989, 157, 200−206.
+(32) (a) Ditchfield, R.; Hehre, W. J.; Pople, J. A. J. Chem. Phys. 1971,
+54, 724−728. (b) Hehre, W. J.; Ditchfield, R.; Pople, J. A. J. Chem.
+Phys. 1972, 56, 2257−2261.
+(33) (a) Bauernschmitt, R.; Ahlrichs, R. Chem. Phys. Lett. 1996, 256,
+454−464. (b) Casida, M. E.; Jamorski, C.; Casida, K. C.; Salahub, D.
+R. J. Chem. Phys. 1998, 108, 4439−4449. (c) Stratmann, R. E.;
+Scuseria, G. E.; Frisch, M. J. J. Chem. Phys. 1998, 109, 8218−8224.
+(d) Van Caillie, C.; Amos, R. D. Chem. Phys. Lett. 2000, 317, 159−164.
+(e) Furche, F.; Ahlrichs, R. J. Chem. Phys. 2002, 117, 7433−7447.
+
+1895
+
+DOI: 10.1021/acs.joc.5b00026
+J. Org. Chem. 2015, 80, 1887−1895
+
+

@@ -1,0 +1,883 @@
+Note
+
+pubs.acs.org/joc
+
+A Tin-Free Route to trans-Diels−Alder Motifs by Visible Light
+Photoredox Catalysis
+Jun Hee Lee*,† and Sun-il Mho
+Division of Energy Systems Research, Ajou University, Suwon 443−749, Korea
+
+*S Supporting Information
+
+ABSTRACT: A tin-free trans-Diels−Alder paradigm for the stereoselective
+synthesis of
+trans-fused polycyclic systems was developed through the
+photocatalytic reductive dehalogenation of α-haloketones promoted by visible
+light. Good to excellent diastereoselectivities were observed in the
+stereoselective construction of trans-fused octalone derivatives under mild
+reaction conditions.
+
+S tereoselective construction of trans-fused bicyclic systems is
+
+an important task in organic synthesis, because they are
+among the most versatile intermediates for the synthesis of
+various polycyclic natural products and relevant compounds.
+Danishefsky and co-workers developed a two-step trans-Diels−
+Alder (DA) protocol, which provides expeditious access to
+trans-fused octalins and hydrindanes from nitroalkene dien-
+ophiles and simple dienes.1 This conceptually novel strategy
+involves equipping cyclohexenes with a nitro group as a
+traceless activating group, thereby enhancing the dienophilicity
+of the otherwise unreactive dienophiles to yield cis-fused DA
+adducts. Subsequent free radical-mediated reduction of this
+angular functionality using AIBN and nBu3SnH furnishes the
+target
+trans-fused bicyclic systems with good to excellent
+selectivity.1 The research groups of Danishefsky and Yamamoto
+have independently reported that the Lewis acid catalyzed DA
+reactions of α-halogentated 2-cycloalkenones with 1,3-buta-
+dienes can provide eﬃcient access to cis-fused bicyclic systems
+with a halogenated quaternary stereogenic center.2 The
+halogenated cis-fused cycloadducts were then successfully
+converted to the trans-fused octalones in a highly stereo-
+selective fashion by tin-mediated free radical reduction and
+reductive alkylation.2b,3,4 In contrast with traditional reductive
+dehalogenation reactions, which are nonstrategic from the
+standpoint of redox economy,5 the dehalogenation step in the
+trans-DA paradigm can be considered strategic, since the
+reduction of carbon−halogen bond would be compensated by
+the concomitant inversion of conﬁguration at the ring junction
+stereogenic center.
+
+the intrinsic toxicity of
+
+Despite these advances,
+
+there still exists a need for
+developing new and green methods for the stereoselective
+synthesis of trans-fused polycyclic systems, because organotin
+hydride-mediated radical reactions have two major disadvan-
+tages:
+tin-based reagents and the
+diﬃculty of removing their residues from the products. These
+practical considerations have proved to be a serious hurdle to
+industrial applications.
+Inspired by the reports from the
+laboratories of Stephenson, Zeitler and Reiser,6 we envisaged
+that visible-light-induced photocatalytic dehalogenation might
+be an ideal platform for the development of a green and
+
+that
+
+environmentally benign trans-DA protocol
+is free of
+organotin reagent. Visible-light-mediated photoredox catalysis
+has recently emerged as a powerful tool for a range of organic
+transformations owing to its inherent features of sustainability
+and green chemistry as well as promising potential for use in
+industry.7 Herein, we report a tin-free methodology using
+visible-light-induced photoredox catalysis for the stereoselective
+synthesis of trans-fused polycycles.8
+
+these conditions,
+<para sub=“opt”>
+We began our investigation by examining the photocatalytic
+reductive dehalogenation of α-bromoketone 1a. By employing
+the reaction conditions recently disclosed by Stephenson and
+co-workers,6a a degassed solution of 1a in DMSO (0.05 M) was
+irradiated by blue LEDs at
+room temperature with Ru-
+·6H2O (3) (2.0 mol %, bpy = 2,2′-bipyridine) as a
+(bpy)3Cl2
+photocatalyst in the presence of formic acid (10 equiv) and
+iPr2NEt (10 equiv). Under
+the desired
+product 2a was obtained in 31% yield with a 3:1 ratio of trans-
+2a to cis-2a, as established by comparison with authentic
+reference compounds (Table 1, entry 1).3 Fortunately a more
+substantial
+improvement in both the yield and diastereose-
+lectivity was realized when we turned to the Hantzsch ester
+(HEH) 4 as a hydrogen-atom donor. Accordingly, by ﬁxing 4 as
+the hydrogen source, we carefully optimized other reaction
+parameters such as bases, solvents, concentration and the
+stoichiometry of the reagents and photocatalysts. As for the
+bases, nBu3N proved to be superior over other organic and
+inorganic bases, providing 2a as a 9:1 trans/cis mixture in 84%
+yield (entry 5 vs entries 2−4). Intriguingly, the ratio of trans-2a
+to cis-2a was further improved to 12:1, albeit with a slightly
+diminished yield of 68%, when the reaction was carried out in
+the absence of a base (entry 6). Although at this point it is
+diﬃcult to know whether the superior result achieved in the
+absence of an additional base is primarily due to a subtle
+electronic eﬀect in the nature of the hydrogen atom transfer
+event, this result apparently demonstrates that 4 can act as both
+in this
+the reductive quencher and the hydrogen donor
+</para>
+Received:
+January 7, 2015
+Published: March 4, 2015
+
+© 2015 American Chemical Society
+
+3309
+
+DOI: 10.1021/acs.joc.5b00041
+J. Org. Chem. 2015, 80, 3309−3314
+
+The Journal of Organic Chemistry
+
+Table 1. Reductive Dehalogenation: Optimization of
+Reaction Conditionsa
+
+Note
+Scheme 1. Diels−Alder Routes to α-Bromoketones and cis-
+Fused Reference Compounds
+
+entry
+1d
+2
+3
+4
+5
+6
+7
+8g
+9g
+10h
+11
+12
+13
+14
+
+catalyst
+
+3
+3
+3
+3
+3
+3
+−f
+3
+3
+3
+Ru(bpy)3(PF6)2
+Ru(bpy)3(PF6)2
+Ru(phen)3Cl2
+Ir(ppy)3
+
+base
+
+iPr2NEt
+iPr2NEt
+Et3N
+CaCO3
+nBu3N
+−e
+nBu3N
+nBu3N
+iPr2NEt
+nBu3N
+nBu3N
+−e
+nBu3N
+nBu3N
+
+trans/cisb
+
+yield (%)c
+
+3:1
+8:1
+7:1
+9:1
+9:1
+12:1
+9:1
+−
+−
+−
+9:1
+11:1
+5:1
+NDi
+
+31
+72
+70
+49
+84
+68
+47
+0
+0
+0
+90
+96
+82
+20
+
+aReaction conditions: 1a (0.150 mmol), catalyst (3.00 μmol), 4 (0.225
+mmol), base (0.225 mmol) in degassed solvent (3 mL) under
+irradiation with blue LEDs at rt for 8−11 h. bDetermined by 1H NMR
+(500 MHz) analysis. cYield of isolated 2a. dInstead of 4, a mixture of
+HCO2H (1.50 mmol) and iPr2NEt (1.50 mmol) was used as the
+hydrogen donor. eIn the absence of a base.
+fIn the absence of a
+catalyst. gIn the absence of visible-light. hIn the absence of 4. iNot
+determined.
+<para sub=“opt”>
+photoreductive process. Control experiments revealed that a
+photocatalyst, 4 and visible light were essential for the eﬃcient
+conversion of 1a into 2a (entries 7−10). Finally, we evaluated
+several frequently employed photocatalysts in the debromina-
+tion of 1a under otherwise identical conditions. While
+Ru(bpy)3(PF6)2 compared favorably with 3 in terms of yield
+(entry 11 vs entry 5), Ru(phen)3Cl2 (phen = 1,10-phenanthro-
+line) and Ir(ppy)3 (ppy = 2-phenylpyridine) proved to be less
+eﬀective than 3 in terms of diastereoselectivity and yield,
+respectively (entries 13 and 14). Notably, the highest yield of
+2a was obtained when the reaction was catalyzed by
+Ru(bpy)3(PF6)2 under base-free conditions (entry 12).
+Considering its commercial availability and high reproducibility,
+we decided to use 3 as the photocatalyst for further studies.
+</para>
+<para sub="scope">
+Having the optimized reaction conditions in hand, we next
+explored the scope and limitations of
+this photocatalytic
+dehalogenation reaction with a range of known α-haloketone-
+s2a,3 and newly synthesized α-bromoketones 1g−1h as well.
+The latter were both prepared by the Lewis-acid catalyzed DA
+reaction of 5 with appropriate dienes (Scheme 1). The results
+of these studies are summarized in Table 2.
+</para>
+<para sub="scope">
+Initially, we sought to probe the eﬀect of the α-halogen
+substituents on the diastereoselectivity, and a series of octalone
+derivatives 1a−1c with three diﬀerent α-halogen substitutions
+were evaluated under the optimized conditions (Table 2). The
+use of α-iodoketone 1b resulted in a signiﬁcant decrease in the
+yield of 2a, while maintaining a similar diastereoselectivity. The
+reaction could also be extended to α-chloroketones, but the use
+of 2.0 equiv of 4 was necessary in order to achieve complete
+conversion for these substrates. For example, subjecting 1c to
+irradiation with blue LEDs in the presence of 4 (2.0 equiv)
+
+cleanly aﬀorded 2a in a good yield of 86%, although a slightly
+elevated temperature (40 °C) was necessary for improving
+eﬃciency. Surprisingly, a remarkable erosion in the diaster-
+eoselectivity (trans/cis = 3:1) was observed for 1c regardless of
+the temperatures. Although a full understanding of decisive
+factors that control the diastereoselectivity must await further
+mechanistic studies, the dehalogenation step for 1c might be an
+exothermic reaction (early transition state), whereas the similar
+step for both 1a and 1b seems to be an endothermic reaction
+(late transition state).9 As anticipated, the cis-fused product 2h
+the α-
+was predominant (trans/cis = 1:4) in the case of
+chlorohydrindanoid 1k. Gratifyingly, we found that
+the
+reductive dehalogenation reaction can be easily carried out at
+gram scale without
+signiﬁcantly eroding either yield or
+diastereoselectivity, as exempliﬁed with 1a.
+</para>
+<para sub="scope">
+Importantly, we found that the steric bulk of a geminal
+dimethyl pattern at the β-position relative to the carbonyl
+group was compatible with a range of
+substrates, and
+profoundly aﬀected diastereoselectivity to favor
+the trans-
+bicyclic systems in all cases (Table 2), presumably because of a
+bigger diﬀerence in free-energy between transoid and cisoid
+conformers (see Scheme 2).10 For both of the unprecedented
+trans-octalones (i.e., 2e and 2f),
+the structures were
+unambiguously determined by preparation of the correspond-
+ing cis-fused products (i.e., 2e′ and 2f′) as reference samples by
+the Lewis acid catalyzed DA reaction of 6 with isoprene (9) and
+1,2-dimethylenecyclohexane (10), respectively (Scheme 1).11
+In accord with Casadevall’s observation,12 the 13C NMR
+chemical shifts of the two ring junction carbons of cis-2e′
+appear at 47.7 and 30.7 ppm as singlets, whereas two singlets
+are observed at 49.5 and 36.1 ppm in the 13C NMR spectrum of
+trans-2e. The debromination of 1j exhibited complete
+diastereoselectivity to aﬀord the trans-bicyclic 2g as a single
+diastereomer.3,13
+</para>
+<para sub="scope">
+Several experiments were carried out in order to gain a better
+understanding of the reaction mechanism. First, we resubmitted
+a stereochemically pure sample of trans-2a to the photocatalytic
+reaction under otherwise identical conditions. Even after an
+extended reaction time of 14 h, the trans-2a was recovered
+unchanged and any traces of the corresponding cis-isomer were
+1H NMR spectroscopy.
+not detected by either TLC or
+Carefully monitoring the course of the debromination of 1a
+indicated that the ratio of trans-2a to cis-2a is not changing and
+remains constant. These experiments lead us to believe that (1)
+the photocatalytic product 2a does not undergo a secondary
+photochemical reaction, such as Norrish type I fragmentation
+reaction under these conditions, and (2) the process involving
+inversion of conﬁguration, namely the hydrogen abstraction
+step, is irreversible and might be the rate-determining step of
+the overall process; slow conversion of 1a and low yielding of
+</para>
+3310
+
+DOI: 10.1021/acs.joc.5b00041
+J. Org. Chem. 2015, 80, 3309−3314
+
+The Journal of Organic Chemistry
+Table 2. Reductive Dehalogenation: Substrate Scopea,b,c
+
+Note
+
+aReaction conditions: 1 (0.150 mmol), 3 (3.00 μmol), 4 (0.225 mmol), nBu3N (0.225 mmol) in degassed DMSO (3 mL) under irradiation with
+blue LEDs at rt for 8−11 h. bYield of isolated 2. cDetermined by 1H NMR (500 MHz) analysis. d4.00 mmol scale (1.03 g) of 1a. eWith 2.00 equiv
+(0.300 mmol) of 4. fThe reaction was carried out at 40 °C for 8 h.
+
+Scheme 2. Proposed Mechanism for Reductive
+Dehalogenation
+<para sub="scope">
+leaving groups. Pleasingly, the chemoselective debromination of
+1i prepared from diene 1115 delivered a 10:1 separable mixture
+of 16 and 2i′ in a combined yield of 79% without touching the
+phenylthio group when the reaction was carried out in the
+absence of nBu3N (Scheme 3). Somewhat diminished
+</para>
+Scheme 3. Access to iso-Diels−Alder Motifs
+
+<para sub="scope">
+2a (18% yield,
+trans/cis = 6:1) by employing 4-methyl
+Hantzsch ester in place of 4 is also consistent with this
+mechanistic proposal.
+</para>
+formation of
+
+<para sub="scope">
+On the basis of these results and previous reports,6,14 we
+propose a plausible mechanism in Scheme 2. Upon irradiation
+with blue LEDs (∼450 nm), 3 will readily absorb a photon to
+generate the excited state *[Ru(bpy)3]2+, which would be
+reductively quenched by 4 to provide the strong reductant
+[Ru(bpy)3]+ with concomitant
+the nitrogen
+radical cation 12. The crucial step of this mechanism is the
+single-electron transfer (SET) from the electron-rich Ru(I)
+species to the electron deﬁcient α-haloketone 1 to induce the
+reductive scission of the C-X bond, rapidly furnishing the alkyl
+radical species 14 via the radical anion 13 while returning the
+[Ru(bpy)3]2+ 3 to the catalytic cycle. Subsequent irreversible
+hydrogen atom transfer from the radical cation 12 to this
+electron deﬁcient intermediate 14 would generate the trans-
+fused bicyclic 2 and the pyridine byproduct 15. The selective
+trans-2 could be explained by a preferential
+formation of
+formation of conformer 14a over conformer 14b (Scheme 2).
+</para>
+<para sub="scope">
+Since visible-light-induced reductive debrominaiton occurs
+under mild reaction conditions, we decided to apply this
+technology to the case wherein chemodiﬀerentiation is required
+in executing the reductive cleavage of the angular and the vinyl
+
+diastereoselectivity (16:2i′ = 6:1) was observed when the
+same reaction was conducted by using nBu3N as the base.
+Finally, we examined removal of the sulfur auxiliary from 16 to
+gain access to an angularly nonfunctionalized trans-IDA(s)
+motif (cf., 18).16 Treatment of diastereomerically pure 16 with
+an excess of Raney Ni in acetone aﬀorded the desired 18 along
+with a tiny amount of 17 in a combined yield of 80% (18:17 =
+22:1). A pure sample of 18 was readily isolated by column
+chromatography. In order to gain access to a diastereomeric
+pair of IDA(s), 2i′ was exposed to Raney Ni to yield a separable
+3:1 mixture of 18 and 17 in a combined yield of 83%. A pure
+sample of 17 was also readily available by column
+chromatography. The relative stereochemistry of 16 and 18
+as well as 2i′ and 17 was ﬁrmly conﬁrmed by their 13C NMR
+spectroscopy.12
+</para>
+
+the stereoselective synthesis of
+
+In summary, we have developed a tin-free trans-DA paradigm
+for
+trans-fused polycycles
+through the photocatalytic reductive dehalogenation of α-
+haloketones promoted by visible light. The good to excellent
+diastereoselectivity observed in this reaction represents a
+considerable advance in the stereoselective construction of
+
+3311
+
+DOI: 10.1021/acs.joc.5b00041
+J. Org. Chem. 2015, 80, 3309−3314
+
+The Journal of Organic Chemistry
+
+trans-fused octalone derivatives under mild reaction conditions.
+This reaction is also highlighted by its chemoselectivtiy in
+executing the reductive cleavage of the α-activated carbon−
+bromine bond without touching the vinyl leaving group. Our
+current eﬀorts are directed toward further improvement of
+photoredox catalysis in the context of
+the stereoselective
+synthesis of trans-fused bicyclic systems, speciﬁcally to replace
+the organometallic complexes with less expensive and less toxic
+organic photocatalysts.17
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Experimental Methods. Unless otherwise noted, all
+reagents were purchased at the highest commercial quality from
+commercial suppliers and used without further puriﬁcation. Dichloro-
+methane and 1,2-dichloroethane were distilled over CaH2 under an
+atmosphere of nitrogen just prior to use. Dimethyl sulfoxide (DMSO)
+was distilled over CaH2 under a reduced pressure and stored over 3 Å
+molecular sieves. N,N-Diisopropylethylamine (Hünig base) and tri-n-
+butylamine were dried over KOH overnight, distilled from zinc dust
+and stored over 3 Å molecular sieves. All reactions were carried out in
+ﬂame-dried glassware under an atmosphere of nitrogen unless
+otherwise noted. Analytical TLC was performed on silica gel 60
+F254 plates and visualized by UV ﬂuorescence quenching and KMnO4
+staining. Flash column chromatography was performed on silica gel 60
+(40−63 mm). Unless otherwise noted, products were isolated as a
+mixture of diastereomers. Diastereomeric ratios were determined by
+1H NMR. 1H NMR and 13C NMR spectra were recorded on a 500
+MHz spectrometer at ambient temperature unless otherwise stated.
+Chemical shifts are reported in parts per million relative to residual
+solvent CDCl3 (7.26 ppm for 1H and 77.0 ppm for 13C). The
+multiplicities of 1H NMR are reported as follows: s = singlet, d =
+doublet, dd = doublet of doublets, ddd = doublet of doublet of
+doublets, dddd = doublet of doublet of doublet of doublets, t = triplet,
+ddt = doublet of doublet of triplets, td = triplet of doublets, dq =
+doublet of quartets, m = multiplet, br = broad. IR spectra were
+recorded on a FT-IR spectrometer and are reported in terms of
+frequency of absorption (cm−1). High-resolution mass spectrometry
+(HRMS) were performed on a TOF system for the electrospray
+ionization (ESI) experiment. Melting points are reported uncorrected.
+General Procedure for the Diels−Alder Reaction of Cyclo-
+alkenones. To a solution of cycloalkenone (1.00 equiv) in anhydrous
+CH2Cl2 or 1,2-dichloroethane (0.20 M) at an appropriate temperature
+was added ethylaluminum dichloride (1.0 M solution in hexanes,
+0.100−1.00 equiv) via syringe. The reaction mixture was stirred at the
+same temperature for 10 min and then diene (4.00 or 10.0 equiv) was
+added in one portion via syringe. The resultant mixture was stirred
+until the reaction was complete as judged by TLC analysis. At this
+point the reaction was quenched by a small amount of triethylamine
+and a saturated solution of potassium sodium tartrate (Rochelle salt)
+was added to the mixture. After being stirred vigorously for 5 min at
+room temperature, the mixture was poured into water and extracted
+with CH2Cl2 three times. The combined extract was washed with
+water and brine, dried over anhydrous Na2SO4, ﬁltered and
+concentrated using a rotary evaporator. The crude mixture thus
+obtained was puriﬁed by ﬂash column chromatography on silica gel to
+aﬀord the desired cycloadduct.
+
+cis-1-Bromo-4,8,8-trimethylbicyclo[4.4.0]dec-3-en-10-one
+(1g). Prepared using 2-bromo-5,5-dimethylcyclohex-2-enone (5, 203
+mg, 1.00 mmol, 1.00 equiv), ethylaluminum dichloride (0.20 mL, 0.20
+mmol, 0.20 equiv) and distilled isoprene (9, 681 mg, 10.0 mmol, 10.0
+equiv) in CH2Cl2 (5.0 mL) at −10 °C for 6 h, 1g was isolated as a
+white solid (223 mg, 82%) after ﬂash column chromatography
+(hexanes/EtOAc = 30:1 → 25:1) on silica gel. Mp 82.7−85.2 °C; 1H
+NMR (500 MHz, CDCl3) δ 5.32 (s, 1H), 2.93 (dd, J = 18.9, 1.6 Hz,
+1H), 2.70−2.54 (m, 3H), 2.50 (d, J = 17.2 Hz, 1H), 2.27 (dd, J = 14.5,
+2.7 Hz, 1H), 1.81−1.71 (m, 2H), 1.73 (s, 3H), 1.33 (dt, J = 14.0, 3.3
+Hz, 1H), 1.05 (s, 3H), 0.96 (s, 3H); 13C NMR (126 MHz, CDCl3) δ
+204.4, 131.5, 114.3, 74.0, 50.4, 42.7, 40.7, 34.3, 34.2, 34.0, 31.6, 26.4,
+</para>
+Note
+<para sub=“exp”>
+23.7; IR (cm−1) v 2959, 2926, 2883, 2829, 1713, 1201; HRMS (ESI,
+TOF) calcd for C13H19BrNaO [M + Na]+ 293.0517, found 293.0511.
+cis-9a-Bromo-3,3-dimethyl-3,4,4a,5,6,7,8,9,9a,10-
+decahydroanthracen-1(2H)-one (1h). Prepared using 2-bromo-
+5,5-dimethylcyclohex-2-enone (5, 203 mg, 1.00 mmol, 1.00 equiv),
+ethylaluminum dichloride (0.10 mL, 0.10 mmol, 0.10 equiv) and 1,2-
+dimethylenecyclohexane18 (10, 433 mg, 4.00 mmol, 4.00 equiv) in
+CH2Cl2 (5.0 mL) at room temperature for 15 h, 1h was isolated as a
+white solid (166 mg, 59%) after ﬂash column chromatography
+(hexanes/EtOAc = 30:1 → 25:1) on silica gel. Mp 78.9−82.3 °C; 1H
+NMR (500 MHz, CDCl3) δ 2.80 (d, J = 18.5 Hz, 1H), 2.66−2.49 (m,
+3H), 2.32−2.21 (m, 2H), 1.96−1.84 (m, 4H), 1.79−1.65 (m, 4H),
+1.63−1.49 (m, 2H), 1.33 (dt, J = 14.0, 3.2 Hz, 1H), 1.05 (s, 3H), 0.96
+(s, 3H); 13C NMR (126 MHz, CDCl3) δ 204.2, 125.2, 121.4, 75.0,
+50.4, 42.7, 40.6, 38.5, 34.4, 34.3, 31.5, 30.0, 29.6, 26.5, 23.0, 22.9; IR
+(cm−1) v 2925, 2908, 2829, 1717, 1457, 1366, 1201; HRMS (ESI,
+TOF) calcd for C16H23BrNaO [M + Na]+ 333.0830, found 333.0822.
+cis-4,8,8-Trimethylbicyclo[4.4.0]dec-3-en-10-one (2e′). Pre-
+pared using 5,5-dimethylcyclohex-2-enone (6, 62.1 mg, 0.500 mmol,
+1.00 equiv), ethylaluminum dichloride (0.15 mL, 0.15 mmol, 0.15
+equiv) and distilled isoprene (9, 341 mg, 5.00 mmol, 10.0 equiv) in
+1,2-dichloroethane (2.5 mL) at 33 °C for 2 days, 2e′ was isolated as a
+colorless oil (55.0 mg, 47%) after ﬂash column chromatography
+(hexanes/EtOAc = 28:1 → 25:1) on silica gel. 1H NMR (500 MHz,
+CDCl3) δ 5.33 (s, 1H), 2.50 (d, J = 5.7 Hz, 1H), 2.54−2.40 (m, 1H),
+2.34−2.16 (m, 3H), 2.06−2.03 (m, 1H), 1.92 (d, J = 14.2 Hz, 1H),
+1.75 (t, J = 13.3 Hz, 1H), 1.69 (s, 1H), 1.66 (s, 3H), 1.20 (d, J = 13.5
+Hz, 1H), 1.05 (s, 3H), 0.93 (s, 3H); 13C NMR (126 MHz, CDCl3) δ
+215.6, 131.9, 116.9, 49.9, 47.7, 40.0, 35.0, 34.2, 32.3, 30.7, 26.6, 24.3,
+23.9; IR (cm−1) v 2955, 2915, 1702, 1459, 1234; HRMS (ESI, TOF)
+calcd for C13H20NaO [M + Na]+ 215.1412, found 215.1400.
+cis-3,3-Dimethyl-3,4,4a,5,6,7,8,9,9a,10-decahydro-
+anthracen-1(2H)-one (2f′). Prepared using 5,5-dimethylcyclohex-2-
+enone (6, 62.1 mg, 0.500 mmol, 1.00 equiv), ethylaluminum dichloride
+(0.15 mL, 0.30 mmol, 0.30 equiv) and 1,2-dimethylenecyclohexane
+(10, 216 mg, 2.00 mmol, 4.00 equiv) in 1,2-dichloroethane (2.5 mL)
+at 50 °C for 2 days, 2f′ was isolated as a white solid (71.3 mg, 61%)
+after ﬂash column chromatography (hexanes/EtOAc = 30:1) on silica
+gel. Mp 53.9−57.5 °C; 1H NMR (500 MHz, CDCl3) δ 2.58−2.47 (m,
+2H), 2.32−2.18 (m, 2H), 1.92 (d, J = 14.2 Hz, 1H), 1.84 (br s, 5H),
+1.75 (t, J = 13.3 Hz, 1H), 1.72−1.64 (m, 2H), 1.64−1.46 (m, 4H),
+1.18 (d, J = 13.5 Hz, 1H), 1.06 (s, 3H), 0.93 (s, 3H); 13C NMR (126
+MHz, CDCl3) δ 215.5, 125.9, 123.8, 49.9, 48.7, 39.9, 35.0, 34.8, 32.3,
+30.7, 30.3, 29.9, 28.9, 26.6, 23.1, 23.0; IR (cm−1) v 2955, 2918, 2828,
+1694, 1436, 1269, 1237; HRMS (ESI, TOF) calcd for C16H24NaO [M
++ Na]+ 255.1725, found 255.1719.
+
+cis-1-Bromo-3-methyl-4-(phenylthio)bicyclo[4.4.0]dec-3-en-
+10-one (1i). Prepared using 2-bromocyclohex-2-enone (7, 175 mg,
+1.00 mmol, 1.00 equiv), ethylaluminum dichloride (1.0 mL, 1.0 mmol,
+1.0 equiv) and 3-methyl-2-(phenylthio)buta-1,3-diene15 (11, 705 mg,
+4.00 mmol, 4.00 equiv) in dichloromethane (10 mL) at 0 °C for 6 h, 1i
+was isolated as a white solid (123 mg, 35%) after ﬂash column
+chromatography (hexanes/Et2O = 99:1 → 98:2) on silica gel. Mp
+56.3−59.9 °C; 1H NMR (500 MHz, CDCl3) δ 7.26 (t, J = 7.8 Hz,
+2H), 7.16−7.13 (m, 3H), 3.34 (d, J = 17.8 Hz, 1H), 3.26 (dt, J = 15.0,
+9.5 Hz, 1H), 2.84 (d, J = 17.8 Hz, 1H), 2.70 (dq, J = 6.7, 3.9 Hz, 1H),
+2.47−2.32 (m, 3H), 2.31−2.21 (m, 1H), 1.99 (s, 3H), 1.92−1.87 (m,
+2H), 1.60−1.55 (m, 1H); 13C NMR (126 MHz, CDCl3) δ 203.7,
+139.5, 135.8, 129.0, 128.0, 125.6, 120.7, 68.8, 44.5, 43.0, 36.0, 34.1,
+26.1, 22.2, 20.9; IR (cm−1) v 2947, 2931, 2911, 2889, 1707, 1471,
+1439, 1222; HRMS (ESI, TOF) calcd for C17H19BrNaOS [M + Na]+
+373.0238, found 373.0229.
+cis-3-Methyl-4-(phenylthio)bicyclo[4.4.0]dec-3-en-10-one
+(2i′). Prepared using cyclohex-2-enone (8, 223 mg, 2.32 mmol, 1.00
+equiv), ethylaluminum dichloride (2.3 mL, 2.3 mmol, 1.0 equiv) and
+3-methyl-2-(phenylthio)buta-1,3-diene15 (11, 1.64 g, 9.28 mmol, 4.00
+equiv) in dichloromethane (12 mL) at room temperature for 23 h, 2i′
+was isolated as a white solid (303 mg, 48%) after ﬂash column
+chromatography (hexanes/EtOAc = 15:1 → 14:1 → 13:1) on silica
+gel. Mp 97.7−100.5 °C; 1H NMR (500 MHz, CDCl3) δ 7.26−7.23
+</para>
+3312
+
+DOI: 10.1021/acs.joc.5b00041
+J. Org. Chem. 2015, 80, 3309−3314
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(m, 2H), 7.17−7.08 (m, 3H), 2.85−2.76 (m, 1H), 2.69 (d, J = 17.5
+Hz, 1H), 2.51−2.43 (m, 1H), 2.43−2.37 (m, 1H), 2.36−2.26 (m, 1H),
+2.22−2.14 (m, 1H), 2.12−2.10 (m, 2H), 1.99 (s, 3H), 1.97−1.81 (m,
+3H), 1.76−1.67 (m, 1H); 13C NMR (126 MHz, CDCl3) δ 211.7,
+139.8, 136.5, 128.9, 127.6, 125.1, 120.7, 48.5, 40.3, 37.5, 33.5, 31.2,
+28.3, 23.7, 21.3; IR (cm−1) v 2965, 2942, 2922, 2904, 1697, 1579,
+1475; HRMS (ESI, TOF) calcd for C17H20NaOS [M + Na]+
+295.1133, found 295.1128.
+
+General Procedure for the Dehalogenation of α-Haloke-
+tones. A ﬂame-dried 15 mL Schlenk-type ﬂask ﬁtted with a magnetic
+stir bar was charged with 1 (0.150 mmol, 1.00 equiv), 4 (57.0 mg,
+0.225 mmol, 1.50 equiv) and 3 (2.2 mg, 3.0 μmol, 2.0 mol %). The
+ﬂask was sealed with a rubber septum, evacuated and backﬁlled with
+N2. To this mixture was added dry DMSO (3 mL, 0.05 M) followed by
+tri-n-butylamine (41.7 mg, 0.225 mmol, 1.50 equiv). The resultant
+mixture was degassed for 20 min by nitrogen purging and irradiated at
+room temperature with blue LEDs (at a distance of approximately 10
+cm so that the reaction mixture did not heat up during the course of
+the reaction). After stirring for 8−11 h at room temperature, the
+reaction mixture was diluted with water and extracted with CH2Cl2 (3
+× 10 mL). The combined extract was washed with water and brine,
+dried over anhydrous Na2SO4, ﬁltered and concentrated using a rotary
+evaporator. The crude mixture thus obtained was puriﬁed by ﬂash
+column chromatography on silica gel to aﬀord the dehalogenated
+product 2.
+
+3,4-Dimethylbicyclo[4.4.0]dec-3-en-10-one (2a). Prepared
+from cis-1-bromo-3,4-dimethylbicyclo[4.4.0]dec-3-en-10-one (1a,
+38.6 mg, 0.150 mmol, 1.00 equiv), 2a (22.3 mg, 84%, trans/cis =
+9:1) was isolated (hexanes/EtOAc = 15:1 → 14:1) as an oﬀ-white
+solid. The spectral data matched those in the literature.3
+
+4-Methylbicyclo[4.4.0]dec-3-en-10-one (2b). Prepared from
+cis-1-bromo-3-methylbicyclo[4.4.0]dec-3-en-10-one (1d, 36.5 mg,
+0.150 mmol, 1.00 equiv), 2b (18.8 mg, 76%, trans/cis = 5:1) was
+isolated (hexanes/EtOAc = 15:1 → 14:1) as a colorless oil. The
+spectral data matched those in the literature.3
+
+3,4,4a,5,6,7,8,9,9a,10-decahydroanthracen-1(2H)-one (2c).
+Prepared from cis-9a-bromo-3,4,4a,5,6,7,8,9,9a,10-decahydro-
+anthracen-1(2H)-one (1e, 42.5 mg, 0.150 mmol, 1.00 equiv), 2c
+(29.5 mg, 96%, trans/cis = 14:1) was isolated (hexanes/EtOAc = 12:1
+→ 10:1) as a white solid. The spectral data matched those in the
+literature.3
+
+3,4,8,8-Tetramethylbicyclo[4.4.0]dec-3-en-10-one (2d). Pre-
+pared from cis-1-bromo-3,4,8,8-tetramethylbicyclo[4.4.0]dec-3-en-10-
+one (1f, 42.8 mg, 0.150 mmol, 1.00 equiv), 2d (22.0 mg, 71%, trans/cis
+= 56:1) was isolated (hexanes/EtOAc = 14:1 → 13:1) as a colorless
+oil. The spectral data matched those in the literature.3
+
+4,8,8-Trimethylbicyclo[4.4.0]dec-3-en-10-one (2e). Prepared
+from cis-1-bromo-4,8,8-trimethylbicyclo[4.4.0]dec-3-en-10-one (1g,
+40.7 mg, 0.150 mmol, 1.00 equiv), 2e (20.3 mg, 70%, trans/cis =
+21:1) was isolated (hexanes/EtOAc = 14:1 → 13:1) as a colorless oil.
+1H NMR (500 MHz, CDCl3) δ 5.40 (s, 1H), 2.29 (d, J = 13.0 Hz,
+1H), 2.22−2.08 (m, 3H), 2.08−1.94 (m, 2H), 1.94−1.80 (m, 2H),
+1.71−1.59 (m, 4H), 1.46−1.40 (m, 1H), 1.06 (s, 3H), 0.87 (s, 3H);
+13C NMR (126 MHz, CDCl3) δ 212.2, 132.6, 120.0, 54.9, 49.5, 46.0,
+38.5, 36.1, 35.8, 32.1, 25.6, 24.6, 23.3; IR (cm−1) v 2957, 2905, 2831,
+1706, 1439, 1368, 1194; HRMS (ESI, TOF) calcd for C13H20NaO [M
++ Na]+ 215.1412, found 215.1402.
+
+3,3-Dimethyl-3,4,4a,5,6,7,8,9,9a,10-decahydroanthracen-
+1(2H)-one (2f). Prepared from cis-9a-bromo-3,3-dimethyl-
+3,4,4a,5,6,7,8,9,9a,10-decahydroanthracen-1(2H)-one (1h, 46.7 mg,
+0.150 mmol, 1.00 equiv), 2f (25.9 mg, 74%, trans/cis = 40:1) was
+isolated (hexanes/EtOAc = 13:1 → 12:1 → 11:1) as a white solid. Mp
+53.4−55.8; 1H NMR (500 MHz, CDCl3) δ 2.28 (d, J = 13.0 Hz, 1H),
+2.18−2.05 (m, 3H), 1.99−1.76 (m, 8H), 1.72−1.59 (m, 2H), 1.63 (d, J
+= 13.4 Hz, 1H), 1.52−1.37 (m, 3H), 1.05 (s, 3H), 0.86 (s, 3H); 13C
+NMR (126 MHz, CDCl3) δ 212.5, 127.0, 126.6, 54.8, 50.2, 45.8, 39.0,
+36.3, 35.9, 32.1, 30.0, 29.9, 29.5, 25.6, 23.0, 23.0; IR (cm−1) v 2955,
+2920, 2869, 2829, 1706, 1437, 1367, 1237; HRMS (ESI, TOF) calcd
+for C16H24NaO [M + Na]+ 255.1725, found 255.1718.
+</para>
+Note
+<para sub=“exp”>
+trans-trans-2-Methylbicyclo[4.4.0]dec-3-en-10-one (2g). Pre-
+pared from cis-cis-1-bromo-2-methylbicyclo[4.4.0]dec-3-en-10-one (1j,
+36.5 mg, 0.150 mmol, 1.00 equiv), 2g (15.0 mg, 61%, trans/cis =
+>99:1) was isolated (hexanes/EtOAc = 13:1 → 12:1) as a colorless oil.
+1H NMR (500 MHz, CDCl3) δ 5.70 (dddd, J = 9.6, 5.2, 2.4, 1.6 Hz,
+1H), 5.57−5.48 (m, 1H), 2.71−2.61 (m, 1H), 2.42 (ddt, J = 15.7, 4.4,
+2.3 Hz, 1H), 2.31−2.14 (m, 3H), 2.04−1.93 (m, 3H), 1.89 (dddd, J =
+17.2, 10.3, 4.5, 2.2 Hz, 1H), 1.72−1.60 (m, 1H), 1.43−1.33 (m, 1H),
+0.96 (d, J = 6.8 Hz, 3H); 13C NMR (126 MHz, CDCl3) δ 211.1, 133.4,
+124.2, 54.3, 41.8, 34.4, 32.9, 32.1, 29.0, 24.0, 16.6; IR (cm−1) v 3020,
+2956, 2925, 2853, 1703, 1650, 1449, 1365; HRMS (ESI, TOF) calcd
+for C11H16NaO [M + Na]+ 187.1099, found 187.1094.
+
+3,4-Dimethylbicyclo[4.3.0]non-3-en-9-one (2h). Prepared
+from cis-1-bromo-3,4-dimethylbicyclo[4.3.0]non-3-en-9-one (1k, 29.8
+mg, 0.150 mmol, 1.00 equiv), 2h (23.7 mg, 96%, trans/cis = 1:4) was
+isolated (hexanes/EtOAc = 13:1 → 12:1) as a pale yellow oil. The
+spectral data matched those in the literature.11
+
+3-Methyl-4-(phenylthio)bicyclo[4.4.0]dec-3-en-10-one (16).
+Prepared from cis-1-bromo-3-methyl-4-(phenylthio)bicyclo[4.4.0]dec-
+3-en-10-one (1i, 56.0 mg, 0.159 mmol, 1.00 equiv), 3 (2.4 mg, 3.2
+mmol, 2.0 mol %) and 4 (60.6 mg, 0.239 mmol, 1.50 equiv) in DMSO
+(3.2 mL, 0.050 M), 16 (34.4 mg, 79%, trans/cis = 10:1) was isolated
+(hexanes/EtOAc = 15:1 → 14:1 → 13:1) as a colorless oil. 1H NMR
+(500 MHz, CDCl3) δ 7.29−7.23 (m, 2H), 7.21−7.11 (m, 3H), 2.54−
+2.40 (m, 2H), 2.40−2.26 (m, 4H), 2.21−2.11 (m, 1H), 2.07 (ddd, J =
+13.0, 5.8, 2.9 Hz, 1H), 1.99 (s, 3H), 1.85 (d, J = 14.6 Hz, 1H), 1.81−
+1.64 (m, 2H), 1.41 (ddd, J = 25.0, 13.3, 3.6 Hz, 1H); 13C NMR (126
+MHz, CDCl3) δ 211.5, 140.7, 136.2, 128.9, 128.2, 125.4, 121.5, 50.4,
+41.8, 41.7, 39.7, 32.0, 31.9, 26.1, 21.5; IR (cm−1) v 2960, 2937, 2921,
+2853, 1698, 1581, 1474, 1370; HRMS (ESI, TOF) calcd for
+C17H20NaOS [M + Na]+ 295.1133, found 295.1128.
+
+Procedure for the Dehalogenation of 1a at Gram Scale. A
+ﬂame-dried 250 mL one-necked, round-bottomed ﬂask ﬁtted with a
+magnetic stir bar was charged with 1a (1.03 g, 4.00 mmol, 1.00 equiv),
+4 (1.52 g, 6.00 mmol, 1.50 equiv) and 3 (60.0 mg, 0.0800 mmol, 2.00
+mol %). The ﬂask was sealed with a rubber septum, evacuated and
+backﬁlled with N2 (three cycles). To this mixture was added dry
+DMSO (80 mL, 0.05 M) followed by tri-n-butylamine (1.11 g, 6.00
+mmol, 1.50 equiv). The resultant mixture was degassed for 30 min by
+nitrogen purging and irradiated at room temperature with blue LEDs
+(at a distance of approximately 10 cm so that the reaction mixture did
+not heat up during the course of the reaction). After stirring for 13 h at
+room temperature, the reaction mixture was diluted with water and
+extracted with CH2Cl2 (3 × 25 mL). The combined extract was
+washed with water and brine, dried over anhydrous Na2SO4, ﬁltered
+and concentrated using a rotary evaporator. The crude mixture thus
+obtained was puriﬁed by ﬂash column chromatography on silica gel to
+aﬀord the desired product 2a (588 mg, 82%, trans/cis = 9:1) as an oﬀ-
+white solid. A diastereomerically pure sample of trans-2a was isolated
+as a white solid by column chromatography (hexanes/EtOAc = 15:1).
+Preparation of a 22:1 Mixture of trans- (18) and cis-3-
+Methylbicyclo[4.4.0]dec-3-en-10-one (17). A solution of trans-3-
+methyl-4-(phenylthio)bicyclo[4.4.0]dec-3-en-10-one (16, 42.0 mg,
+0.154 mmol, 1.00 equiv) in acetone (3.1 mL, 0.050 M) at room
+temperature was treated with an excess of Raney Ni (washed with
+acetone 5 times just prior to use). The resultant mixture was stirred
+vigorously for 4.5 h. At this point the mixture was diluted with CH2Cl2
+and ﬁltered on a pad of Celite. The ﬁltrate was dried over anhydrous
+Na2SO4, ﬁltered and concentrated using a rotary evaporator. The
+crude mixture thus obtained was puriﬁed by ﬂash column
+chromatography (hexanes/EtOAc = 19:1 → 17:1) on silica gel to
+aﬀord a 22:1 diastereomeric mixture of 18 and 17 (20.3 mg, 80%) as a
+colorless oil. A pure sample of 18 was obtained as a colorless oil by
+ﬂash column chromatography (hexanes/EtOAc = 19:1). 1H NMR
+(500 MHz, CDCl3) δ 5.31 (s, 1H), 2.46−2.39 (m, 1H), 2.35 (td, J =
+13.7, 5.9 Hz, 1H), 2.24−2.15 (m, 3H), 2.12−1.97 (m, 2H), 1.96−1.85
+(m, 2H), 1.74−1.56 (m, 2H), 1.66 (s, 3H), 1.43 (ddd, J = 25.1, 13.3,
+3.6 Hz, 1H); 13C NMR (126 MHz, CDCl3) δ 212.4, 133.1, 119.3, 50.7,
+42.0, 40.1, 33.7, 32.5, 29.2, 26.2, 23.5; IR (cm−1) v 2923, 2901, 2846,
+</para>
+3313
+
+DOI: 10.1021/acs.joc.5b00041
+J. Org. Chem. 2015, 80, 3309−3314
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+Preparation of a 3:1 Mixture of
+
+2828, 1698, 1428, 1315, 1236; HRMS (ESI, TOF) calcd for
+C11H16NaO [M + Na]+ 187.1099, found 187.1089.
+trans-
+
+(18) and cis-3-
+Methylbicyclo[4.4.0]dec-3-en-10-one (17). A solution of cis-3-
+methyl-4-(phenylthio)bicyclo[4.4.0]dec-3-en-10-one (2i′, 48.0 mg,
+0.176 mmol, 1.00 equiv) in acetone (3.5 mL, 0.050 M) at room
+temperature was treated with an excess of Raney Ni (washed with
+acetone 5 times just prior to use). The resultant mixture was stirred
+vigorously for 3.5 h. At this point the mixture was diluted with CH2Cl2
+and ﬁltered on a pad of Celite. The ﬁltrate was dried over anhydrous
+Na2SO4, ﬁltered and concentrated using a rotary evaporator. The
+crude mixture thus obtained was puriﬁed by ﬂash column
+chromatography (hexanes/EtOAc = 19:1 → 17:1) on silica gel to
+aﬀord a 3:1 diastereomeric mixture of 18 and 17 (24.1 mg, 83%) as a
+colorless oil. A pure sample of 17 was obtained as a colorless oil by
+ﬂash column chromatography (hexanes/EtOAc = 18:1). 1H NMR
+(500 MHz, CDCl3) δ 5.31 (s, 1H), 2.73 (dd, J = 9.9, 4.8 Hz, 1H),
+2.46−2.16 (m, 4H), 2.02−1.83 (m, 5H), 1.82−1.77 (m, 1H), 1.76−
+1.70 (m, 1H), 1.67 (s, 3H); 13C NMR (126 MHz, CDCl3) δ 212.8,
+131.2, 119.0, 48.9, 39.9, 35.6, 28.5, 28.3, 27.4, 24.1, 23.4; IR (cm−1) v
+2912, 1710, 1445, 1375, 1312, 1202; HRMS (ESI, TOF) calcd for
+C11H16NaO [M + Na]+ 187.1099, found 187.1089.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Copies of NMR spectra of all new products. This material is
+available free of charge at http://pubs.acs.org.This material is
+available free of charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: leejh545@gmail.com.
+Present Address
+†
+J.H.L.: Center for Catalytic Hydrocarbon Functionalizations,
+Institute for Basic Science (IBS), Daejeon 305-701, Korea
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+is dedicated to Prof. Samuel
+
+This paper
+J. Danishefsky
+(Memorial Sloan Kettering Cancer Center and Columbia
+University) for his pioneering work on the trans-Diels−Alder
+paradigm. This research was supported by Basic Science
+Research Program through the National Research Foundation
+of Korea (NRF) funded by the Ministry of Education (NRF-
+2009-0094046). We gratefully acknowledge Prof. Eun Jin Cho
+(Chung-Ang University) for experimental assistance, Professors
+Bong Ser Park,
+In-Hyeong Yeo and Young-Dae Gong
+(Dongguk University) for fruitful discussions and Dr. Peter
+K. Park (MSKCC) for critical reading of the manuscript.
+
+■ REFERENCES
+(1) (a) Kim, W. H.; Lee, J. H.; Danishefsky, S. J. J. Am. Chem. Soc.
+2009, 131, 12576−12578. (b) Kim, W. H.; Lee, J. H.; Aussedat, B.;
+Danishefsky, S. J. Tetrahedron 2010, 66, 6391−6398.
+(2) (a) Lee, J. H.; Kim, W. H.; Danishefsky, S. J. Tetrahedron Lett.
+2010, 51, 4653−4654. (b) Shibatomi, K.; Futatsugi, K.; Kobayashi, F.;
+Iwasa, S.; Yamamoto, H. J. Am. Chem. Soc. 2010, 132, 5625−5627.
+(3) Lee, J. H.; Zhang, Y.; Danishefsky, S. J. J. Am. Chem. Soc. 2010,
+132, 14330−14333.
+(4) For the trans-Diels−Alder paradigm by the reductive alkylation of
+α-cyanoketones, see: Peng, F.; Grote, R. E.; Danishefsky, S.
+J.
+Tetrahedron Lett. 2011, 521, 3957−3959.
+(5) Burns, N. Z.; Baran, P. S.; Hoffmann, R. W. Angew. Chem., Int. Ed.
+2009, 48, 2854−2867.
+
+(6) (a) Narayanam, J. M. R.; Tucker, J. W.; Stephenson, C. R. J. J.
+Am. Chem. Soc. 2009, 131, 8756−8757. (b) Maji, T.; Karmakar, A.;
+Reiser, O. J. Org. Chem. 2011, 76, 736−739. (c) Newmann, M.;
+Füldner, S.; König, B.; Zeiter, K. Angew. Chem., Int. Ed. 2011, 50, 951−
+954.
+(7) For recent reviews, see: (a) Douglas, J. J.; Nguyen, J. D.; Cole, K.
+P.; Stephenson, C. R. J. Aldrichimica Acta 2014, 47, 15−25. (b) Schultz,
+D. M.; Yoon, T. P. Science 2014, 343, 1239176. (c) Xi, Y.; Yi, H.; Lei,
+A. Org. Biomol. Chem. 2013, 11, 2387−2403. (d) Prier, C. K.; Rankic,
+D. A.; MacMillan, D. W. C. Chem. Rev. 2013, 113, 5322−5363.
+(e) Narayanam, J. M. R.; Stephenson, C. R. J. Chem. Soc. Rev. 2011, 40,
+102−113. (f) Teplý, F. Collect. Czech. Chem. Commun. 2011, 76, 859−
+917.
+(8) For selected examples of tin-free radical reactions, see: (a) Choi,
+S.; Kim, Y. J.; Kim, S. M.; Yang, J. W.; Kim, S. W.; Cho, E. J. Nat.
+Commun., doi: 10.1038/ncomms5881. (b) Müller, D. S.; Untiedt, N.
+L.; Dieskau, A. P.; Lackner, G. L.; Overman, L. E. J. Am. Chem. Soc.
+2015, 137, 660−663. (c) Hartmann, M.; Li, Y.; Studer, A. J. Am. Chem.
+Soc. 2012, 134, 16516−16519. (d) Zimmerman, J. R.; Manpadi, M.;
+Spatney, R. Green Chem. 2011, 13, 3103−3106. (e) Gong, H.;
+Andrews, S. A.; Zuccarello, J. L.; Lee, S. J.; Gagné, M. R. Org. Lett.
+2009, 11, 879−882. (f) Kim, S.; Kim, S. Bull. Chem. Soc. Jpn. 2007, 80,
+809−822.
+(9) For further discussion about Hammond’s postulate, see: Jackson,
+R. A. Mechanisms in Organic Reactions; Royal Society of Chemistry:
+2004.
+(10) During the course of this investigation, the Ru-porphyrin-
+catalyzed Diels−Alder reaction of cyclohexenones with 1,3-butadienes
+and subsequent epimerization of the cis-fused cycloadducts to the
+trans-fused isomers were reported: Terada, T.; Kurahashi, T.;
+Matsubara, S. Org. Lett. 2014, 16, 2594−2597.
+(11) For the preparation of related reference cis-fused octalones, see:
+Lee, J. H.; Kim, W. H.; Danishefsky, S. J. Tetrahedron Lett. 2009, 50,
+5482−5484.
+(12) Metzger, P.; Casadevall, E.; Pouet, M. J. Org. Magn. Reson. 1982,
+19, 229−234.
+(13) The relative stereochemistry of 2g was conﬁrmed by the
+comparison of 1H and 13C NMR spectra with those of the cis-fused
+compound; see: Richardson, B. M.; Welker, M. E. J. Org. Chem. 1997,
+62, 1299−1304.
+(14) (a) Tarantino, K. T.; Liu, P.; Knowles, R. R. J. Am. Chem. Soc.
+2013, 135, 10022−10025. (b) Kim, H.; Lee, C. Angew. Chem., Int. Ed.
+2012, 51, 12303−12306. (c) Nguyen,
+J. D.; D’Amato, E. M.;
+Narayanam, J. M. R.; Stephenson, C. R. J. Nat. Chem. 2012, 4,
+854−859. (d) Ju, X.; Liang, Y.; Jia, P.; Li, W.; Yu, W. Org. Biomol.
+Chem. 2012, 10, 498−501. (e) Larraufie, M.-H.; Pellet, R.;
+Fensterbank, L.; Goddard, J.-P.; Lacôte, E.; Malacria, M.; Ollivier, C.
+Angew. Chem., Int. Ed. 2011, 50, 4463−4466. (f) Andrews, R. S.;
+Becker, J. J.; Gagné, M. R. Angew. Chem., Int. Ed. 2010, 49, 7274−
+7276.
+(15) Bäckvall, J.-E.; Ericsson, A. J. Org. Chem. 1994, 59, 5850−5851.
+(16) Peng, F.; Grote, R. E.; Wilson, R. M.; Danishefsky, S. J. Proc.
+Natl. Acad. Sci. U.S.A. 2013, 110, 10904−10909.
+see:
+(17) Recent
+(a) Nicewicz, D. A.; Nguyen, T. M. ACS Catal. 2014, 4, 355−360.
+(b) Hari, D. P.; König, B. Chem. Commun. 2014, 50, 6688−6699.
+(18) Cheung, L. L. W.; Yudin, A. K. Chem.Eur. J. 2010, 16, 4100−
+4109.
+
+reviews on organic photoredox catalysts,
+
+3314
+
+DOI: 10.1021/acs.joc.5b00041
+J. Org. Chem. 2015, 80, 3309−3314
+
+

@@ -1,0 +1,1020 @@
+Article
+
+pubs.acs.org/joc
+
+†
+
+Synthesis of Macrocyclic Receptors with Intrinsic Fluorescence
+Featuring Quinizarin Moieties
+M. Bürger,
+†
+Institute of Organic Chemistry, Technische Universität Bergakademie Freiberg, Leipziger Strasse 29, Freiberg/Sachsen, Germany
+‡
+Institute of Analytical Chemistry, Technische Universität Bergakademie Freiberg, Leipziger Strasse 29, Freiberg/Sachsen, Germany
+*S Supporting Information
+
+and T. Gruber*,†
+
+E. Brendler,
+
+F. Katzsch,
+
+†
+
+‡
+
+ABSTRACT: An unprecedented class of macrocycles with intrinsic ﬂuorescence consisting of phenolic trimers and quinizarin is
+developed. Though they are lacking strong hydrogen bonds as observed in calixarenes, the two examples introduced here each
+adopt a vase-like conformation with all four aromatic units pointing in one direction (syn orientation). This “cone” conformation
+has been conﬁrmed by NMR spectroscopy, molecular modeling, and X-ray crystallography. The laminar, electron-rich
+ﬂuorophore as part of the macrocycle allows additional contacts to enclosed guest molecules.
+
+■ INTRODUCTION
+
+Because of their high sensitivity, selectivity, and response time,
+ﬂuorescence-based analytical techniques are extensively used in
+diﬀerent ﬁelds of science. Respective sensors have been
+employed to detect a wide range of chemical and biochemical
+species as for example cations, anions, neutral molecules,
+biochemical analytes, and gases.1 Thereby, the quality of the
+complexation equilibrium is indicated by a change in the
+intensity of the emitted light.2 In many cases, the sensor-active
+materials used consist of a macrocycle connected to a pendant
+ﬂuorophore. Much less studied are examples where the
+ﬂuorophore is part of
+the recognition unit. The relevant
+literature very often includes condensed aromatic compounds
+such as naphthalene,3 anthracene,4 pyrene,5 ﬂuorene,6 or related
+ﬂuorophores.7
+
+During our research on artiﬁcial hosts for methylammonium
+ions, we focused on cyclophanes as the macrocyclic recognition
+unit. They are a well-known class of supramolecular receptors,
+with the name being derived from their general constitution as
+“cyclic phenyl alkanes”.8 Especially [1n]m-cyclophanes, so-called
+calixarenes, have attracted considerable attention over the last
+decades and are one of
+investigated cyclophane
+subfamilies,9 as they have a rather stable cavity and advantageous
+host/guest properties.10 Moreover, they are easily prepared and
+allow a wide range of derivatization reactions, which make them
+ideal candidates for the preparation of sensor-active compounds.
+In most cases, ﬂuorophores were introduced at the upper or
+
+the best
+
+lower rim or in lateral positions,11 hence bearing the responsive
+unit more or less in the periphery of the molecule. A rather less
+developed approach is the replacement of the phenolic units of a
+calixarene against ﬂuorogenic moieties, which so far had only
+been shown for a complete exchange in the case of
+the
+calixnaphthalenes.12 To the best of our knowledge,
+the
+replacement of only one of the phenolic units of a calixarene
+has not been explored yet,
+though the combination of
+conformational ﬂexibility on the one hand and rigidity on the
+other seems a rather auspicious concept (Scheme 1). By inserting
+a condensed aromatic system, the resulting receptor is envisaged
+to enable better C−H···π and cation···π interactions with a
+methylammonium ion guest and at the same time allow an
+eﬃcient quantiﬁcation of host/guest interactions.
+<para sub=“ques”>
+As a proof of concept to our approach, we advanced the
+two rather simple representatives (1 and 2),
+synthesis of
+featuring a tert-butyl group at the upper and methoxy units at the
+lower rim. As a ﬂuorophore, we chose quinizarin (1,4-
+dihydroxyanthraquinone)13,14 delivering a receptor with a well-
+balanced combination of soft π-electrons and hard H-bond
+acceptors (CO, OR), which is joined with putative function-
+alized phenolic trimers via ether bridges (Scheme 2).
+</para>
+Received:
+Published: April 16, 2015
+
+January 30, 2015
+
+© 2015 American Chemical Society
+
+4882
+
+DOI: 10.1021/acs.joc.5b00223
+J. Org. Chem. 2015, 80, 4882−4892
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 1. Exchange of a Phenolic Unit of a Calix[4]arene against a Fluorophore Leads to a Receptor with Intrinsic Fluorescence
+
+Scheme 2. (a) Synthesis of Monodemethylated Trimer 5. (b) Syntheses of Macrocycles 1 (58%) and 2 (18%)a
+
+aReaction conditions: (i) 1. NaH, THF/DMF, 2. MeI; (ii) (CH2O)n, ZnBr2, HBr/AcOH; (iii) K2CO3, acetone.
+Scheme 3. (a) Selective Ether Scission Induced by C−H···Br Contacts of the Double Bisbromomethylated Intermediate in the
+Synthesis of 5. (b) The Energy-Minimized Structure Delivers C−H···Br Distances of 2.92 and 2.96 Å, Respectivelya
+
+aOnly one of the bromomethylated anisole units is shown in detail.
+
+■ RESULTS AND DISCUSSION
+<para sub="scope">
+Syntheses of Fluorescophanes 1 and 2. The key step
+during the synthesis of the two title compounds is the formation
+of ether bridges between quinizarin and bisbromomethylated
+
+trimers (5 or 6, respectively). As the preparation of 615 has been
+achieved by a Blanc-analogue reaction on 316 as described for a
+related compound,17 we want to focus here on the synthesis of 5.
+For similar partially methylated oligomers,
+two diﬀerent
+</para>
+4883
+
+DOI: 10.1021/acs.joc.5b00223
+J. Org. Chem. 2015, 80, 4882−4892
+
+The Journal of Organic Chemistry
+<para sub="scope">
+procedures have been applied so far: partial methylation of
+phenolic trimers with dimethyl sulfate18 on the one hand and
+isoaromatization of cyclohexanone derivatives19 on the other.
+We perceived another route via selective demethylation of a
+permethylated trimer as starting material. For that purpose,
+phenolic trimer 3 has been fully methylated in the ﬁrst step to
+yield trimethoxy derivative 4, which was subsequently treated
+with paraformaldehyde, zinc bromide, and hydrogen bromide in
+acetic acid (Scheme 2). In the ﬁrst step of the reaction, two
+CH2Br groups are introduced into the molecule, similar to a
+Blanc reaction. For the originating compound, we assume an
+interaction of the CH2Br bromine atoms with the methoxy
+groups located at the same aromatic unit, withdrawing electron
+density from the respective ether oxygen atom. Suggested by
+molecular modeling, C−H···Br contacts are about 2.92 and 2.96
+Å, respectively, which is shorter than the sum of the van der
+Waals radii of hydrogen and bromine (3.05 Å). Hence, the
+electrophilic attack of a proton, viz., the ﬁrst reaction step of an
+ether scission, will preferably occur at the central anisole moiety
+(Scheme 3).
+</para>
+<para sub="scope">
+With all particular trimeric fragments in hand, the synthesis of
+macrocycles 1 and 2 was implemented. Potassium carbonate has
+been applied as a base to deprotonate the two phenolic hydroxyl
+groups of quinizarin and facilitates a nucleophilic substitution
+analogously to a Williamson ether synthesis. As trimer 5 contains
+phenolic protons such as quinizarin, we examined the calculated
+pKa values: 7.5 for quinizarin and 10.3 for a monophenolic
+trimer20 similar to 5. Thus, quinizarin is expected to be
+deprotonated over 100 times faster than trimer 5. To yield the
+smallest possible cycle during reaction, we used a high dilution
+apparatus21 applying the principle of Ziegler and Ruggli.22 With
+this concept, title compounds 1 and 2 were synthesized in
+moderate to good yields (58% and 18%, respectively). The
+somewhat lower yields in the cyclization step of 2 may be
+attributed to the phenolic hydrogen at the middle aromatic unit
+of trimer 5: it is feasible to assume that it is also abstracted to a
+certain extent during the reaction delivering side products.
+</para>
+<para sub=“props”>
+Conformational Studies. The given similarity of the target
+compounds with calixarenes suggests an analogue conforma-
+tional behavior. As described for permethylated calix[4]arenes,23
+we expected rather complicated 1H and 13C NMR spectra for 1
+and 2. Surprisingly, both compounds delivered very clear NMR
+data (Figures S4−S7, Supporting Information, SI). In the 13C
+−Ar were found at 31.5 (1)
+NMR spectra the signals for Ar−CH2
+and 30.3 ppm (2), suggesting a syn orientation for the three
+aromatic units involved.24 Together with the 1H NMR data for
+the aromatic protons, this points to a stable, highly symmetric
+conformation (cone) at room temperature. In both macrocycles,
+two constitutionally diﬀerent methylene bridges can be
+identiﬁed, Ar−CH2O−Ar and Ar−CH2
+−Ar, producing diﬀerent
+chemical shifts. The OCH2 group in 1 gives a broad singlet at
+5.37 ppm; in 2 we found a broad doublet at 5.42 ppm. Whereas 2
+delivers two broad singlets for the Ar−CH2
+−Ar protons at 3.43
+the analogous signals in 1 are extremely
+and 4.30 ppm,
+broadened due to coalescence, underlying the signals of the
+OMe groups. These ﬁndings indicate unstable conformations at
+room temperature that may be explained from conformational
+conversions in 1 and 2. These do not aﬀect the chemical and
+magnetic environments of the aromatic nuclei, however, but do
+signiﬁcantly for the methylene bridges.
+</para>
+<para sub=“props”>
+The broad signals for the bridging methylene groups
+stimulated 1D and 2D NMR studies at lower temperatures,
+with typical spectra displayed in Figure 1. Both title molecules are
+</para>
+Article
+
+Figure 1. Details of the 1H NMR spectra of 1 (a) and 2 (b, c) at diﬀerent
+temperatures in CDCl3.
+<para sub=“props”>
+rather ﬂexible, indicating a lower coalescence temperature than
+observed for the tert-butylcalix[4]arene (52 °C25 in CDCl3). As
+the temperature had been lowered, the broad singlets of Ar−
+CH2O−Ar split into a pair of doublets with 2J coupling constants
+</para>
+4884
+
+DOI: 10.1021/acs.joc.5b00223
+J. Org. Chem. 2015, 80, 4882−4892
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 2. Observed NOEs, indicated by dotted lines, for title compounds 1 (a) and 2 (b) in CDCl3 at 20 °C. No NOE contacts indicating conformations
+other than a cone were observed for either cyclophane.
+<para sub=“props”>
+of 15 Hz for 1 and 2. Lacking of strong hydrogen acceptors, 1
+shows a higher ﬂexibility than 2 as also proven by the behavior of
+−Ar units: even at −40 °C the conformational
+the Ar−CH2
+conversion in compound 1 does not allow the complete
+resolution of
+the couplings between the axial (endo) and
+equatorial (exo) protons (2J = 15 Hz, each). Interestingly, in 2
+the aromatic protons H3 (H19) and H5 (H17) of ring A (C),
+H37 (H38) at quinizarin ring D, and the hydroxyl proton are
+subjected to a considerable downﬁeld shift during cooling. We
+attribute this to a decreasing thermal dynamic mobility of the
+pending hydroxyl and methoxy groups. It is feasible to assume
+that at the same time hydrogen bonding of H37 (H38) and the
+hydroxyl proton with the two oxygen atoms of the methoxy
+groups is strengthened. Hence, the aromatic protons H3 (H19)
+and H5 (H17) of ring A (C) are turning slightly away from the
+shielding cyclophane cavity. For the aromatic region of cycle 1 we
+only found insigniﬁcant shifts during cooling for H5 (H17), H10
+(H12), and H37 (H38), though not for H3 (H19). Noteworthy,
+all aromatic signals exhibit broadening as the temperature was
+lowered, suggesting dynamic conformational exchange (Figure
+S8, SI).
+</para>
+<para sub=“props”>
+As the pending methoxy groups are not directly involved in the
+coalescence, we anticipated sharp 1H NMR signals for OCH3 at
+room temperature, which proved to be true for cycle 2. A
+respective singlet at 3.91 ppm for the OCH3 groups indicates a
+more or less rigid cavity, supposedly ﬁxed by strong O−H···O
+hydrogen bonds between the hydroxyl and the methoxy
+moieties. In 1 only the central methoxy group delivered a
+sharp singlet (3.67 ppm). However, the methyl groups of the two
+outer anisole units in 1 gave a rather broad singlet at 3.72 ppm.
+Obviously, the methoxy group at ring B is much more ﬂexible at
+room temperature than the ones at ring A and C. The OCH3
+signal on the B ring was broadened and upﬁeld-shifted (3.67 ppm
+→3.18 ppm) with the temperature lowering; this is typical for
+methoxy groups pointing into a cyclophane cavity.26 As the
+conformation of the macrocyclic backbone is getting more stable
+while cooling to −40 °C, the free rotation of methoxy group B is
+obstructed and slowed down to the NMR time scale. Owing to
+the obstructed rotation of the methoxy group(s), a rather low
+
+resolution of
+broadened OCH3 singlet(s) even at −45 °C is observed.
+
+the two doublets of Ar−CH2
+
+−Ar and the
+</para>
+<para sub=“props”>
+In principle, the anthraquinone units in the target molecules
+can adopt two positions: opposite the anisole moieties or away
+from them. To solve this issue, we performed 2D NOESY spectra
+of 1 and 2 at room temperature and −40 °C (for 2), elucidating
+the proximity of the diﬀerent aromatic units of the molecule
+(Figure 2 and Figures S9 and S10, SI). For both macrocycles, we
+found NOEs between the aromatic protons H5/H10 and H12/
+H17 (1: 6.81/7.25 ppm; 2: 6.89/7.19 ppm) indicating that all
+three aromatic moieties are in a syn conformation even at room
+temperature. This is also conﬁrmed by interactions between the
+tert-butyl groups of rings A and C with the one of ring B (0.86/
+1.38 ppm for 1 and 0.88/1.34 ppm for 2). The arrangement of
+the anthraquinone unit has been determined from interactions of
+quinizarin ring D (H37) with other regions of the molecule. For
+1, we observed NOEs between H37 and OCH2 (6.78/5.37) as
+well as H37 to the methoxy group of ring B (6.78/3.63), which is
+only possible when all
+four aromatic units are in a syn
+arrangement, i.e., the macrocycle is in a cone conformation.
+The same conformation can be assumed in 2, as its OH group is
+involved in dipolar interactions with H37/38 of ring D (6.62/
+7.13 ppm). At −40 °C we were able to identify additional NOEs
+between H5 (H17)/H10 (H12) and the axial proton of the
+adjacent methylene bridges.
+</para>
+<para sub=“props”>
+Molecular Modeling Studies. For supplementing the
+spectroscopy studies on the conformational properties of both
+macrocycles, we performed molecular modeling studies. With
+exception of a strong hydrogen bond between the phenolic OH
+and a neighboring methoxy moiety in 2, no strong hydrogen
+bonds have been found. However, the quinizarin units in both
+target molecules are engaged into inverse-bifurcated C−H···O
+contacts (Figure 3), stabilizing the cone conformation of both
+cycles (Figure S1, SI).
+</para>
+<para sub=“props”>
+Single X-ray Studies. To verify the results from the
+spectroscopic and the modeling studies, we investigated the
+molecular structure of the title compounds by X-ray crystallog-
+raphy. When crystallized from acetonitrile/chloroform and
+acetonitrile, respectively, compounds 1 and 2 gave the inclusion
+compounds 1a [1·acetonitrile·chloroform (2:2:1)] and 2a [2·
+</para>
+4885
+
+DOI: 10.1021/acs.joc.5b00223
+J. Org. Chem. 2015, 80, 4882−4892
+
+The Journal of Organic Chemistry
+
+Article
+
+Table 1. Selected conformational parameters of compounds
+1a and 2a
+
+interplanar angles (deg)a
+
+mpla A/mpla C
+mpla B/mpla Qb
+mpla Mc/mpla A
+mpla M/mpla B
+mpla M/mpla C
+mpla M/mpla Q
+mpla D/mpla F
+ACN/mpla M
+
+1a (1)
+41.9
+79.2
+73.1
+41.8
+72.8
+37.7
+11.0
+45.0
+
+1a (2)
+35.9
+68.5
+78.1
+36.5
+74.0
+32.1
+11.0
+40.1
+
+2a
+33.4
+76.4
+79.5
+51.4
+72.4
+52.3
+8.6
+46.8
+
+aAromatic rings: ring A: C1···C6; ring B: C8···C13; ring C: C15···
+C20; ring D: C36···C49; ring F: C42···C47. bBest plane through
+atoms of the quinizarin unit: C36···C49. cBest plane through the
+carbon atoms of the methylene bridges C7, C14, C35, C50.
+<para sub=“props”>
+Crystallization of trimethoxy receptor 1 from acetonitrile/
+chloroform (1:1) gives inclusion compound 1a in the monoclinic
+space group C2/c. The asymmetric unit consists of
+two
+crystallographically independent host molecules, two acetonitrile
+(ACN) molecules, and one molecule of chloroform. The
+CH3CN guests are incorporated within the host cavities, the
+chloroform is situated clathrate-like in lattice voids. (In total, the
+</para>
+Figure 3. Common H-bonding motif in 1 and 2 found by molecular
+modeling studies. 1: a = 2.721 Å, 2.692 Å; b = 2.729 Å, 2.752 Å; 2: a =
+2.543 Å, 2.638 Å; b = 2.583 Å, 2.630 Å.
+<para sub=“props”>
+acetonitrile (3:1)] (Table S1, SI). Perspective views of the
+asymmetric units and the crystal packings are displayed in
+Figures 4−7. For the description of the molecular conformations
+of the host compounds, we determined the inclination of the
+aromatic rings with respect to the mean plane of the four
+methylene groups of
+the
+dihedral angles between pairs of opposite arene rings have
+been designated. These parameters together with structural
+details on the quinizarin units are summarized in Table 1;
+speciﬁcs on hydrogen bonds and other contacts are listed in
+Table S2 (SI).
+
+the molecules. Complementarily,
+</para>
+Figure 4. (a) Molecular structure of macrocycle 1 in the 2:2:1 inclusion with acetonitrile and chloroform (1a). Only host molecule 1 is displayed; all
+guest molecules and hydrogen atoms have been omitted for clarity. The disorder of the two tert-butyl groups concerned is not displayed. (b) Asymmetric
+unit of 1a shown with 50% displacement probability. Only hydrogen atoms involved in intra- and intermolecular contacts are presented.
+
+4886
+
+DOI: 10.1021/acs.joc.5b00223
+J. Org. Chem. 2015, 80, 4882−4892
+
+The Journal of Organic Chemistry
+<para sub=“props”>
+structure contains a solvent-accessible void of ca. 40 Å3). In both
+independent hosts of 1a, viz., molecule 1 and molecule 1′, the
+four aromatic units of the macrocycle point in the same direction
+with corresponding interplanary angles A/C and B/quinizarin of
+41.9° (35.9°) and 79.2° (68.5°), respectively (Figure 4a, Table
+1). For the centroid-to-centroid distance between the facing
+arenes, we found 6.83 Å (6.75 Å) and 7.00 Å (7.18 Å), which is
+considerably larger than for pinched cone calixarenes.27 By way
+of interest, the bulky quinizarin moiety points toward the cavity.
+This conformation seems to be stabilized by intramolecular C−
+H···O contacts [d(O···H) = 2.32−2.64 Å] between two aromatic
+protons of the quinizarin (H37, H38; H87, H88) and the oxygen
+atoms of two outer methoxy groups (O1, O3; O8, O10). In
+Figure 4b the trapezoidal form of the cavity becomes obvious,
+being a result of the ring extension by two oxygen atoms
+compared to a calix[4]arene. The anthraquinone moieties are
+both bended by 11°; a phenomenon which is also observed in the
+structures of quinizarin28 (1.5°), dimethoxyquinizarin29 (22.0°),
+and quinizarin diacetate30 (8.1°). As it is typical for tert-butyl
+groups, one in each independent host molecule is disordered
+(SOF = 94.4% and 5.6%).
+</para>
+<para sub=“props”>
+The acetonitrile molecules within the cavities of molecules 1
+and 1′ are tilted by 40.0° and 45.1°, respectively, against the mean
+plane of the methylene bridges; they are more or less collinear
+with the aromatic rings B and B′. The ACN methyl groups point
+into the cavity; each of these endo CH3CN guests is ﬁxed by one
+C−H···π contact to the aromatic unit A (A′) [d(centroid···H) =
+2.88 and 2.29 Å, respectively] and one C−H···O contact to the
+methoxy oxygen of ring B (B′) [d(O···H) = 2.56 and 2.57 Å,
+respectively]. In contrast, the slightly acidic H atom of the exo
+guest chloroform is engaged in a three-centered hydrogen
+bond.31 Additionally, we found a Cl···π contact32 to the ring B′ in
+molecule 1′ [d(centroid···Cl) = 3.505(2) Å].
+The two independent molecules 1 and 1′ are connected via
+their anthraquinone units developing a handshake-like motif.
+The distance of rings F and F′ is 3.411 Å, which suggests aromatic
+face-to-face contacts. By way of interest, also the quinone moiety
+is engaged into these interactions. In the overall packing, we
+found slightly displaced stacks of quinizarin residues units in the
+direction of the crystallographic c axis featuring π···π stacking
+[d(D···D) = 3.454(2) Å] (Figure 5). Thereby, two dependent
+molecules are additionally connected via C−H···O contacts
+involving methylene and methoxy groups and quinizarin oxygen
+atoms [d(centroid···H) = 2.53−2.46 Å].
+</para>
+<para sub=“props”>
+When crystallized from acetonitrile, title compound 2 was
+found to form a 1:3 inclusion compound (2a) in the monoclinic
+space group P21/n (Figure 6). One of the guest molecules is
+accommodated inside the cavity (endo) and the two others
+outside the cavity (exo) of the host molecule. Similar to 1a, the
+macrocyclic framework adopts a pinched cone conformation
+with interplanary angles of 33.4° (A/C) and 76.4° (B/
+quinizarin), respectively (Table 2). The cup-shape of
+the
+molecule is stabilized by a strong O−H···O hydrogen bond,
+which links the phenolic hydroxyl group to one of
+the
+neighboring methoxy atoms. Like in 1a, the sterically demanding
+anthraquinone moiety is turned toward the cavity (mpla M/mpla
+Q = 52.3°), and again we found stabilizing C−H···O contacts
+involving the two methoxy oxygens and quinizarine ring D
+[d(O···H) = 2.49 and 2.75 Å, respectively] The enlarged cavity is
+able to incorporate one acetonitrile molecule which is ﬁxed by
+three C−H···π-interactions33 to the aromatic rings A, B, and C.
+Noteworthy, it is tilted by an angle of 48.7° against the mean
+plane of the four carbon atoms of the methylene bridges and
+</para>
+Article
+
+Figure 5. Packing details in the inclusion compound 1a. The
+characteristic stacking of the anthraquinone moieties is highlighted in
+gray. Disordered tert-butyl groups, guest molecules, and hydrogen atoms
+are omitted for clarity.
+<para sub=“props”>
+thereby parallel to the quinizarin unit. Very likely, the reasons for
+this is a kind of π···π stacking, involving quinizarin ring D and the
+CN triple bond in the acetonitrile [d = 3.384(2) Å]. Additionally,
+the latter is engaged in an intramolecular C−H···π contact with a
+tert-butyl H atom H30 (d = 2.83 Å).
+</para>
+<para sub=“props”>
+In the packing of 2a, two hosts are paired via their quinizarin
+units developing C−H···π contacts [d(H35A···centroid F) =
+2.93 Å]. Interestingly, we also observed a close proximity
+between bridge oxygen O4 and a neighboring quinone unit in
+ring E [d = 3.215(2) Å] (Figure 7). These contacts resemble
+charge-transfer-like complexes which are already known from
+quinones and sulfur.34 Unlike molecule 1, we observe no
+continuous aromatic stacking. In the overall packing, all three of
+the included solvent molecules take part with the exo-oriented
+acetonitrile molecules mediating the connection of the host
+molecules.
+</para>
+<para sub=“props”>
+Fluorescence Studies. To extensively characterize the new
+receptors 1 and 2, we studied their luminescent behavior in
+DMSO solution in comparison to that of quinizarin (1,4-
+dihydroxyanthraquinone) and 1,4-dimethoxyanthraquinone.35
+The absorption and ﬂuorescence spectra are presented in Figure
+8. Absolute excitation maxima, λ(ex)max, absolute emission
+maxima, λ(em)max, and the associated Stokes shifts are
+summarized in Table 2. The Lambert−Beer law is valid in the
+entire concentration interval. The ﬂuorescence spectra have been
+collected at the respective absorption maxima.
+</para>
+4887
+
+DOI: 10.1021/acs.joc.5b00223
+J. Org. Chem. 2015, 80, 4882−4892
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 6. Molecular structure of 2a, showing 50% probability displacement representation.
+
+Table 2. Fluorescence Data for 1, 2, Quinizarin, and 1,4-
+Dimethoxyanthraquinone in DMSO (20 °C)
+<para sub=“props”>
+develop a rather pronounced plateau; this may result from a
+higher aggregation of the molecules.
+</para>
+quinizarin
+
+1,4-
+
+dimethoxyanthraquinone
+
+■ CONCLUSION
+
+Two unprecedented cyclophanes (1 and 2) with intrinsic
+ﬂuorescence have been synthesized from putative linear trimers
+and quinizarin applying the principle of Ziegler and Ruggli.22 The
+constitution of the molecules is related to that of methylated
+calixarenes, though we observed a diﬀerent conformational
+behavior. In general, trimethoxy cycle 1 shows a ﬂexibility higher
+than that of the monophenolic cycle 2, which is stabilized by a
+strong hydrogen bond. For each of
+the title compounds,
+temperature-dependent 1H NMR spectroscopy revealed a typical
+sharpening of the methylene resonances and a conformational
+stabilization with decreasing temperatures. These ﬁndings justify
+the assumption of “cone” conformations with all four aromatic
+units pointing in one direction for both cycles. This hypothesis is
+supported by respective shifts of the methylene carbons in the
+13C NMR spectra and pertinent NOEs. The cup-shape of both
+title molecules has also been conﬁrmed by molecular modeling
+and X-ray crystallography. It seems opportune to assume that C−
+H···O contacts between the methoxy oxygen atoms and the
+
+compound
+λ(ex)max (nm)
+λ(em)max (nm)
+Stokes shift (nm)
+
+1
+423
+539
+116
+
+2
+438
+548
+110
+
+481
+560
+79
+
+426
+540
+114
+<para sub=“props”>
+Quinizarin shows a broad absorption maximum at 481 nm,
+which corresponds to the red color of its solution. Macrocycles 1
+and 2 as well as 1,4-dimethoxyanthraquinone experience a
+hypsochromic shift to 423, 438, and 426 nm, respectively, being
+in coherence with their yellow solutions. The color change is
+obviously a result of the altered electronic situation connected
+with the etheriﬁcation of the hydroxyl groups of the quinizarin.
+The ﬂuorescence maxima for 1 and 2 have been determined with
+539 and 548 nm, which is slightly lower than for quinizarin (560
+nm) and similar to 1,4-dimethoxyanthraquinone (540 nm). The
+resulting Stokes shifts are considerable higher for the macro-
+cycles and 1,4-dimethoxyanthraquinone than for quinizarin. By
+way of interest, the excitation and emission spectra of quinizarin
+</para>
+Figure 7. (a) Dimer formation in the packing of 2 in its 1:3 acetonitrile inclusion compound (2a). Guest molecules and hydrogen atoms are left out for
+clarity. (b) The two paired anthraquinone units in 2a resemble a charge-transfer complex.
+
+4888
+
+DOI: 10.1021/acs.joc.5b00223
+J. Org. Chem. 2015, 80, 4882−4892
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 8. Excitation and ﬂuorescence emission spectra of macrocycles 1 (a), 2 (b), quinizarin (c), and 1,4-dimethoxyanthraquinone (d) at diﬀerent
+concentrations in DMSO.
+quinizarin fulﬁll here the function of the strong O−H···O bonds
+found in calixarenes to stabilize the cone conformation. Morever,
+fast exchange processes in the NMR spectra of 1 and 2 suggest
+two rather similar cone forms for each cycle similar to pinched
+cone calixarenes.
+
+As demonstrated by excitation and ﬂuorescence emission
+spectra, the incorporation of an anthraquinone unit into a
+cyclophane does not change its luminescent behavior. The
+additional plane, electron-rich ﬂuorophore in 1 and 2 allows
+additional
+interactions toward potential guest molecules as
+shown for acetonitrile complexes. We found a better ﬁt between
+host and guest with more stabilizing C−H···O and C−H···π
+contacts in comparison to the somewhat smaller calix[4]arenes.
+This is especially true for cycle 2, where all three hydrogen atoms
+of the acetonitrile molecule are involved in the complexation. By
+regarding acetonitrile as a simple model of methylamines, these
+ﬁndings are encouraging the further development of
+this
+promising new class of macrocycles. Our next step in this
+respect will be the introduction of hydrophilic groups to the
+molecules resulting in water-soluble receptors.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+Materials and Methods. Melting points have been determined on a
+microscope heating stage and are uncorrected. IR spectra were
+measured as KBr pellets and with the ATR method. The UV/vis and
+
+ﬂuorescence measurements have been carried out using quartz cuvettes
+(10 × 10 mm) and diluting the respective stock solutions in DMSO (1: c
+= 1.3 mmol/L; 2: c = 1.2 mmol/L; quinizarin: c = 1.2 mmol/L; 1,4-
+dimethoxyanthraquinone: c = 1.2 mmol/L) to the concentrations
+speciﬁed. NMR spectra were recorded at 500.1 (1H NMR) and 125.7
+MHz (13C NMR), respectively, with sample temperatures regulated at
+293 K, unless otherwise stated. Spectra have been assigned using COSY,
+DEPT-135, HSQC, and HMBC. Chemical shifts δ are reported in parts
+per million relative to the internal reference TMS. Multiplicity is
+abbreviated as follows: s (singlet), d (doublet), t (triplet), and m
+(multiplet). Analytical TLC was performed on precoated silica gel plates
+(60 F254). The reagents and solvents were used as purchased from the
+chemical suppliers, with the exception of those for cyclization reaction
+(dried dynamically over molecular sieves, 3 Å). The trimers 316 and 615
+as well as quinizarin36 were prepared according to literature procedures.
+1,4-Dimethoxyanthraquinone is commercially available. For the energy
+minimizations, we used the program MacroModel V.9.8 (OPLS_2001
+force ﬁeld, MCMM, 1000 steps).
+
+5-tert-Butyl-1,3-bis(5-tert-butyl-2-methoxybenzyl)-2-me-
+thoxybenzene (4).37 The phenolic trimer 3 (5.50 g, 11.6 mmol) was
+dissolved in THF (130 mL) and DMF (10 mL). Subsequently, NaH
+(60% in paraﬃn, 3.00 g, 127.6 mmol) and MeI (8.7 mL, 139.50 mmol)
+were added carefully. Heating under reﬂux for 4 h produced a white
+precipitate. Subsequently, the solvent was evaporated and the residue
+taken up in chloroform and water. The organic phase was separated and
+the solvent removed almost completely. The white precipitate of 4
+formed after addition of MeOH was ﬁltered, washed ﬁrst with MeOH
+and then with ether, and dried afterward. Yield: 5.85 g (97%). Mp 138−
+</para>
+4889
+
+DOI: 10.1021/acs.joc.5b00223
+J. Org. Chem. 2015, 80, 4882−4892
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+139 °C (lit.:38 140−141 °C). 1H NMR (CDCl3): 1.17 (s, 9H, C(CH3));
+1.22 (s, 18H, C(CH3)); 3.61 (s, 3H, ArOCH3); 3.81 (s, 6H, ArOCH3);
+4.03 (s, 4H, ArCH2Ar); 6.80 (d, 2H, ArCH, 3JHH = 8.5 Hz); 6.98 (s, 2H,
+ArCH); 7.06 (d, 2H, ArCH, 4JHH = 2.5 Hz); 7.18 (dd, 2H, ArCH, 3JHH =
+8.5 Hz, 4JHH = 2.5 Hz); 13C NMR (CDCl3): 30.0 (CH2), 31.4, 31.5
+(C(CH3)); 34.0, 34.2 (C(CH3)); 55.4, 61.0 (ArOCH3); 109.7, 123.3,
+126.1, 127.7, 129.1, 132.5, 142.8, 145.9, 154.9, 155.4 (ArC). m/z (SI):
+Calcd: 516.36, found: 555.26 (M + K+) IR (cm−1): 2951, 2901, 2865,
+2836, 1609, 1505, 1461, 1245, 1135, 1011, 816. Elemental analysis
+calculated for C35H48O3: C, 81.35%; H, 9.36%. Found: C, 81.72%; H,
+9.82%.
+
+1,3-Bis{[3-(bromomethyl)-5-(tert-butyl)-2-methoxyphenyl]-
+methyl}]-5-(tert-butyl)-2-hydroxybenzene (5). Methyl ether 4
+(3.00 g, 5.8 mmol), paraformaldehyde (0.42 g, 14.0 mmol), and glacial
+acetic acid (40 mL) were stirred for 1 h at 70 °C in a bomb tube. To the
+white suspension were added zinc bromide (1.30 g, 5.8 mmol) and
+hydrogen bromide (33% in glacial acetic acid, 5.8 mL), and stirring was
+continued for 5 h at 70 °C. After cooling, the clear brown solution was
+poured into water, whereupon a white cloudy suspension appeared.
+After extraction with CH2Cl2, the organic phase was dried over MgSO4
+and the solvent was evaporated under reduced pressure. The resulting
+brown oil was column chromatographed on SiO2 (eluent: n-hexane/
+ethyl acetate, 14:1) to yield 0.38 g (9%) of a beige solid. Mp 158−160
+°C. TLC: Rf = 0.19 (SiO2; n-hexane/chloroform, 1:1). 1H NMR
+(CDCl3): 1.20 (s, 27H, C(CH3)); 3.93 (s, 4H, ArCH2Ar); 3.95 (s, 6H,
+ArOCH3); 4.58 (s, 4H, ArCH2OAr); 6.98 (s, 2H, ArCH); 7.15 (d, 2H,
+ArCH, 4JHH = 2.5 Hz); 7.24 (d, 2H, ArCH, 4JHH = 2.5 Hz); 7.34 (s, 1H,
+ArOH); 13C NMR (CDCl3): 28.8, 31.0 (CH2); 31.3, 31.5 (C(CH3));
+34.0, 34.3 (C(CH3)); 62.2 (ArOCH3); 125.6, 126.5, 126.7, 128.9, 130.3,
+133.3, 142.7, 147.8, 149.9, 153.2 (ArC). m/z (APCI): Calcd: 688.19,
+found: 687.50 [M−]. IR (cm−1): 3374, 2956, 2901, 2866, 1600, 1481,
+1434, 1218, 1203, 988, 880, 751. Elemental analysis calculated for
+·2H2O: C, 59.67%; H, 7.23%. Found: C, 59.17%; H, 7.06%.
+C36H48Br2O3
+Additionally to 5, we isolated 0.15 g (4% yield) of the fully methylated
+trimer 6.
+
+1,3-Bis{[3-(bromomethyl)-5-(tert-butyl)-2-methoxyphenyl]-
+methyl}]-5-(tert-butyl)-2-methoxybenzene (6). Under an argon
+atmosphere, methyl ether 4 (4.75 g, 9.2 mmol), dissolved in TFA (20
+mL), was treated with bromomethyl methyl ether (1.0 mL, 1.53 g, 12.3
+mmol). After 24 h, the brownish solution was quenched with water,
+followed by extraction with CHCl3. The organic phase was dried over
+MgSO4, and the solvent was evaporated under reduced pressure. The
+resulting green oil was column chromatographed on SiO2 (eluent: n-
+hexane/chloroform, 1:1→ 1:2) to yield 0.70 g (11%) of a colorless oil,
+which crystallized later. Mp 120−122 °C. TLC: Rf = 0.25 (SiO2; n-
+hexane/chloroform, 1:1). 1H NMR (CDCl3): 1.16 (s, 9H, C(CH3));
+1.21 (s, 18H, C(CH3)); 3.59 (s, 3H, ArOCH3); 3.84 (s, 6H, ArOCH3);
+4.08 (s, 4H, ArCH2Ar); 4.61 (s, 4H, ArCH2Br); 6.94 (s, 2H, ArCH);
+7.02 (d, 2H, ArCH, 4JHH = 2.5 Hz); 7.25 (d, 2H, ArCH, 4JHH = 2.6 Hz);
+13C NMR (CDCl3): 29.1, 29.9 (CH2); 31.3, 31.4 (C(CH3)); 34.2, 34.3
+(C(CH3)); 60.8, 61.3 (ArOCH3); 126.2, 126.2, 128.9, 130.3, 132.5,
+133.9, 146.5, 147.0, 154.5, 154.7 (ArC). m/z (SI): Calcd: 702.21, found:
+725.30 [M + Na+], 741.3 [M + K+]. IR (cm−1): 3672, 2955, 2826, 1583,
+1480, 1220, 1203, 1006, 882. Elemental analysis calculated for
+·H2O: C, 62.45%; H, 7.22%. Found: C, 62.13%; H, 7.41%.
+C36H48Br2O3
+General Synthetic Procedures for Macrocycles 1 and 2. Under
+an argon atmosphere, the respective trimer 5 or 6 and quinizarin, each
+dissolved in dry acetone (250 mL per 0.55 mmol of the trimer), are
+slowly dropped into a reﬂuxing suspension of K2CO3 (4 equiv) in dry
+acetone (100 mL per 0.55 mmol
+trimer) using a high-dilution
+apparatus.21 The color of the reaction mixture changes from dark blue
+to dark green. After 48 h of reﬂuxing, solid components are removed by
+ﬁltration. The solvent was evaporated, and the resulting reddish brown
+oil was column chromatographed on SiO2 (eluent for 1: chloroform/
+ethyl acetate, 24:1; eluent for 2: n-hexane/ethyl acetate, 2:1) to yield
+macrocycles 1 and 2 as orange solids.
+
+2,10-Dioxa-44,64,84-tri-tert-butyl-41,61,81-trimethoxy-1(1,4)-
+anthraquinona-4,6,8(2,6)-tribenzenacyclodecaphane (1). Yield
+435 mg (58%). Mp 280−282 °C. TLC: Rf = 0.44 (SiO2; chloroform/
+ethyl acetate, 24:1).1H NMR (CDCl3): 0.86 (s, 18H, C(CH3)); 1.38 (s,
+</para>
+Article
+<para sub=“exp”>
+9H, C(CH3)); 3.50 (s, 2H, ArCH2Ar);39 3.63 (s, 3H, ArOCH3); 3.72 (s,
+6H, ArOCH3); 4.31 (s, 2H, ArCH2Ar);39 5.37 (s, 4H, ArCH2OAr); 6.78
+(s, 2H, 37-, 38-ArCH); 6.81 (s, 2H, 5-, 17-ArCH); 7.11 (d, 2H, 3-, 19-
+ArCH, 4JHH = 1.5 Hz); 7.25 (s, 2H, 10-, 12-ArCH); 7.69 (m, 2H, 44-, 45-
+ArCH); 8.18 (m, 2H, 43-, 46-ArCH); 13C NMR (CDCl3): 31.0
+(C(CH3)); 31.5 (CH2); 31.6 (C(CH3)); 33.9, 34.2 (C(CH3)); 60.3,
+62.3 (ArOCH3); 64.4 (OCH2); 122.7 (40-, 49- ArC); 123.0 (37-, 38-
+ArC); 124.0 (3-, 19-ArC); 126.3 (43-, 46-ArC); 126.8 (10-, 12-ArC);
+127.0 (5-, 17-ArC); 128.3 (2-, 20-ArC); 132.9 (9-, 13-ArC); 133.0 (44-,
+45-ArC); 134.3 (42-, 47-ArC); 134.5 (6-, 16-ArC); 145.8 (11-ArC);
+146.7 (4-, 18-ArC); 151.9 (36-, 39-ArC); 153.8 (1-, 15-ArC); 155.0 (8-
+ArC); 183.4 (CO). m/z (SI): Calcd: 780.40, found: 803.37 (M +
+Na+). IR (cm−1): 3442, 2960, 2905, 2870, 2826, 1668, 1595, 1567, 1483,
+1465, 1255, 1238, 1216, 1014, 727. Elemental analysis calculated for
+·1/2CH3COOCH2CH3: C, 77.16%; H, 7.33%. Found: C,
+C51H56O7
+77.01%; H, 7.36%.
+41,81-Dimethoxy-2,10-dioxa-61-hydroxy-44,64,84-tri-tert-
+butyl-1(1,4)-anthraquinona-4,6,8(2,6)-tribenzenacyclodeca-
+phane (2). Yield: 75 mg (18%). Mp 234−236 °C. TLC: Rf = 0.22 (SiO2;
+n-hexane/ethyl acetate, 2:1). 1H NMR (CDCl3): 0.88 (s, 18H,
+C(CH3)); 1.34 (s, 9H, C(CH3)); 3.44 (br s, 2H, ArCH2Ar); 3.91 (s,
+6H, ArOCH3); 4.30 (br s, 2H, ArCH2Ar); 5.38 (br s, 2H, ArCH2OAr);
+5.45 (br s, 2H, ArCH2OAr); 6.62 (s, 1H, ArOH); 6.89 (d, 2H, 5-, 17-
+ArCH, 4JHH = 2.5 Hz); 7.13 (s, 2H, 37-, 38-ArCH); 7.19 (s, 2H, 10-, 12-
+ArCH); 7.23 (d, 2H, 3-, 19-ArCH, 4JHH = 2.5 Hz); 7.68 (m, 2H, 44-, 45-
+ArCH); 8.15 (m, 2H, 43-, 46-ArCH); 13C NMR (CDCl3): 30.3 (CH2);
+30.9, 31.7 (C(CH3)); 33.9, 34.0 (C(CH3)); 63.3 (OCH2); 63.8
+(ArOCH3); 121.7 (37-, 38-ArC); 122.7 (40-, 49-ArC); 125.0 (3-, 19-
+ArC); 126.2 (44-, 45-ArC); 126.4 (10-, 12-ArC); 126.5 (9-, 13-ArC);
+127.1 (5-, 17-ArC); 128.2 (2-, 20-ArC); 132.0 (6-, 16-ArC); 132.9 (43-,
+46-ArC); 134.5 (42-, 47-ArC); 142.1 (11-ArC); 147.8 (21-, 29-ArC);
+150.0 (8-ArC); 151.5 (36-, 39-ArC); 152.5 (1-, 15-ArC); 183.3 (CO).
+m/z (SI): Calcd: 766.39, found: 789.40 (M + Na+). IR (cm−1): 2953,
+1667, 1635, 1591, 1568, 1483, 1237, 1210, 981, 795, 726. Elemental
+·1/2 CH3COOCH2CH3: C, 77.01%; H,
+analysis calculated for C50H54O7
+7.21%. Found: C, 76.91%; H, 7.60%.
+
+X-ray Structure Determination. Crystals of compounds 1a, 2a,
+and 4 suitable for X-ray diﬀraction have been obtained by slow
+evaporation of the respective solution (1 in acetonitrile/chloroform
+(1:1), 2 in acetonitrile and 4 in ethyl acetate). The intensity data were
+collected at 100 K on a Bruker Kappa diﬀractometer equipped with an
+APEX II CCD area detector and graphite-monochromatized Mo Kα
+radiation (λ = 0.71073 Å) employing φ and ω scan modes. The data
+were corrected for Lorentz and polarization eﬀects. Semiempirical
+absorption correction was applied using the SADABS program.40 The
+SAINT program40 was used for the integration of the diﬀraction proﬁles.
+The crystal structures were solved by direct methods using SHELXS-
+9741 and reﬁned by full-matrix least-squares reﬁnement against F2 using
+SHELXL-97.41 All non-hydrogen atoms were reﬁned anisotropically.
+Hydrogen atoms were positioned geometrically and allowed to ride on
+their parent atoms. Geometrical calculations were performed using
+PLATON, and molecular graphics were generated using SHELXTL.41
+The crystallographic data for the structures in this paper have been
+deposited with the Cambridge Crystallographic Data Centre; CCDC
+numbers: 1042786 (1), 1042787 (2), and 1042788 (4).
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Energy-minimized structures of 1 and 2. 1H and 13C NMR
+spectra of compounds 1, 2, 4, 5, and 6; NOESY spectra of 1 and
+2. Selected details of the data collection; table of distances and
+angles of inter- and intramolecular contacts in the structures of
+1a, 2a, and 4; description of the X-ray structure of 4. X-ray
+crystallographic data ﬁles (CIF) for 1, 2, and 4. The Supporting
+Information is available free of charge on the ACS Publications
+website at DOI: 10.1021/acs.joc.5b00223.
+
+4890
+
+DOI: 10.1021/acs.joc.5b00223
+J. Org. Chem. 2015, 80, 4882−4892
+
+The Journal of Organic Chemistry
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*Tel: +49 3731 392390. E-mail: Tobias.Gruber@chemie.tu-
+freiberg.de.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+Financial support from ‘Fonds der Chemischen Industrie’ and
+the Institute of Organic Chemistry, University of Freiberg, is
+gratefully acknowledged. Furthermore, we thank M. Stapf for his
+helpful advice.
+
+■ REFERENCES
+
+(1) Valeur, B. Molecular Fluorescence. Principles and Applications, 2nd
+ed.; Wiley-VCH: Weinheim, 2013.
+(2) Parkesh, R.; Veale, E. B.; Gunnlaugsson, T. Chemosensors; Wang,
+B.; Anslyn, E. V., Eds.; Wiley: New York, 2011; pp 229−252.
+(3) (a) Azadbakht, R.; Khanabadi, J. Spectrochim. Acta 2014, A124,
+249−255. (b) Nativi, C.; Francesconi, O.; Gabrielli, G.; De Simone, I.;
+Turchetti, B.; Mello, T.; Di Cesare Manelli, L.; Ghelardini, C.; Buzzini,
+P.; Roelens, S. Chem.Eur. J. 2012, 18, 5064−5072. (c) Alfonso, I.;
+Burguete, M. I.; Galindo, F.; Luis, S. V.; Vigara, L. J. Org. Chem. 2009, 74,
+6130−6142.
+(4) (a) Li, Z.; Sei, Y.; Akita, M.; Yoshizawa, M. Chem.Asian J. 2014, 9,
+1016−1019. (b) Ahmed, N.; Shirinfar, B.; Youn, I. S.; Yousuf, M.; Kim,
+K. S. Org. Biomol. Chem. 2013, 6407−6413. (c) Ghosh, K.; Sarkar, A. R.
+Tetrahedron Lett. 2009, 50, 85−88.
+(5) (a) Halling, M. D.; Unikela, K. S.; Bodwell, G. J.; Grant, D. M.;
+Pugmire, R. J. J. Phys. Chem. A 2012, 116, 5193−5198. (b) Nandaluru, P.
+R.; Dongare, P.; Kraml, C. M.; Pascal, R. A., Jr.; Dawe, L. N.; Thompson,
+D. W.; Bodwell, G. J. Chem. Commun. 2012, 48, 7747−7749. (c) Franz,
+D.; Robbins, S. J.; Boeré, R. T.; Dibble, P. W. J. Org. Chem. 2009, 74,
+7544−7547. (d) Tsuge, A.; Otsuka, M.; Moriguch, T.; Sakata, K. Org.
+Biomol. Chem. 2005, 3, 3590−3593. (e) Abe, H.; Mawatari, Y.; Teraoka,
+H.; Fujimoto, K.; Inouye, M. J. Org. Chem. 2004, 69, 495−504.
+(6) (a) Rajakumar, P.; Anandhan, R. Synth. Commun. 2013, 43, 882−
+892. (b) Rajakumar, P.; Kanagalatha, R. Tetrahedron Lett. 2007, 48,
+2761−2764. (c) Lukyanenko, N. G.; Lyapunov, A. Y.; Kirichenko, T. I.;
+Botoshansky, M. M.; Simonov, Y. A.; Fonari, M. S. Tetrahedron Lett.
+2005, 46, 2109−2112. (d) Matsumoto, K.; Minami, H.; Kawase, T.;
+Oda, M. Org. Biomol. Chem. 2004, 2, 2323−2326.
+(7) (a) Chu, M.; Scioneaux, A. N.; Hartley, C. S. J. Org. Chem. 2014, 79,
+9009−9017. (b) Balakrishnan, K.; Datar, A.; Zhang, W.; Yang, X.;
+Naddo, T.; Huang, J.; Zuo, J.; Yen, M.; Moore, J. S.; Zang, L. J. Am.
+Chem. Soc. 2006, 128, 6576−6577. (c) Yasuhide, I.; Takahiro, M.;
+Noboru, O.; Hidemitsu, U.; Atsuhiro, O. Angew. Chem., Int. Ed. 2005, 44,
+1856−1860.
+(8) Gleiter, R.; Hopf, H., Eds. Modern Cyclophane Chemistry; Wiley:
+Weinheim, 2004.
+(9) (a) Gutsche, C. D. Calixarenes; The Royal Society of Chemistry:
+Cambridge, UK, 2008. (b) Vicens, J.; Harrowﬁeld, J. Calixarenes in the
+Nanoworld; Springer-Verlag: Dordrecht, 2007. (c) Asfari, M. Z.;
+Böhmer, V.; Harrowﬁeld, J.; Vicens, J. Calixarenes 2001; Kluwer
+Academic: Dordrecht, 2001. (d) Mandolini, L.; Ungaro, R. Calixarenes
+in Action; Imperial College Press: London, 2000.
+(10) Steed, J. W.; Atwood, J. L. Supramolecular Chemistry, 2nd ed.; John
+Wiley & Sons: Chichester, 2009.
+(11) (a) Song, M.; Sun, Z.; Han, C.; Tian, D.; Li, H.; Kim, J. S. Chem.
+Asian J. 2014, 9, 2344−2357. (b) Ocak, U.; Ocak, M.; Bartsch, R. A.
+Inorg. Chim. Acta 2012, 381, 44−57. (c) Sharma, K.; Cragg, P. J. Chem.
+Sensors 2011, 1, 9/1−9/18. (d) Fischer, C.; Gruber, T.; Seichter, W.;
+Weber, E. Org. Biomol. Chem. 2011, 9, 4347−4352. (e) Talanova, G. G.;
+Talanov, V. S. Supramol. Chem. 2010, 22, 838−852. (f) Chawla, H. M.;
+Pant, N.; Kumar, S.; Kumar, N.; Black, D. StC. Calixarene-based
+materials for Chemical Sensors.In Chemical Sensors: Fundamentals of
+
+Article
+
+Sensing Materials; Korotcenkov, G., Ed.; Momentum Press: New York,
+2010; Vol. 3. (g) Lo, P. K.; Wong, M. S. Sensors 2008, 8, 5313−5335.
+(12) Georghiou, P. E.; Li, Z.; Ashram, M.; Chowdhury, S.; Mizyed, S.;
+Tran, A. H.; Al-Saraierh, H.; Miller, D. O. Synlett 2005, 6, 879−891.
+(13) (a) Moreno-Corral, R.; Lara, K. O. Supramol. Chem. 2008, 20,
+427−435. (b) Gu, S.-J.; Qin, D.-B.; Jin, L.-H. Chin. J. Struct. Chem. 2008,
+27, 1035−1038. (c) Kitamura, C.; Fujimoto, J.; Kawatsuki, N.; Yoneda,
+A. Heterocycles 2006, 68, 2171−2175. (d) Haeg, M. E.; Whitlock, B. J.;
+Whitlock, H. W., Jr. J. Am. Chem. Soc. 1989, 111, 692−696. (e) Buhleier,
+E.; Vögtle, F. Chem. Ber. 1978, 111, 2729−2731.
+(14) Bhattacharya, D.; Sathiyendiran, M.; Wu, J.-Y.; Chang, C.-H.;
+Huang, S.-C.; Zeng, Y.-L.; Lin, C.-Y.; Thanasekaran, P.; Lin, B.-C.; Hsu,
+C.-P.; Lee, G. H.; Peng, S. M.; Lu, K. L. Inorg. Chem. 2010, 49, 10264−
+10272.
+(15) (a) Lin, C.-X.; Kong, X.-F.; Li, Q.-S.; Zhang, Z.-Z.; Yuan, Y.-F.;
+Xu, F.-B. CrystEngComm 2013, 15, 6948−6962. (b) Qin, D.-B.; Xu, F.-
+B.; Li, Q.-S.; Song, H.-B.; Zhang, Z.-Z. Synlett 2005, 19, 2987−2989.
+(16) Dhawan, B.; Gutsche, C. D. J. Org. Chem. 1983, 48, 1536−1539.
+(17) Li, H.; Homan, E. A.; Lampkins, A. J.; Ghiviriga, I.; Castellano, R.
+K. Org. Lett. 2005, 7, 443−446.
+(18) (a) Kämmerer, H.; Schweikert, H.; Haub, H.-G. Makromol. Chem.
+1963, 67, 173−181. (b) Kämmerer, H.; Gros, G.; Schweikert, H.
+Makromol. Chem. 1971, 143, 135−152.
+(19) (a) Hornung, E. J. Org. Chem. 1945, 10, 263−266. (b) Pickholtz,
+Y.; Sasson, Y.; Blum, J. Tetrahedron Lett. 1974, 14, 1263−1266.
+(c) Aizenshtat, Z.; Hausmann, M.; Pickholtz, Y.; Tal, D.; Blum, J. J. Org.
+Chem. 1977, 42, 2386−2394.
+(20) We used 4-tert-butyl-2,6-bis[(5-tert-butyl-2-methoxyphenyl)
+methyl]phenol as the monophenolic trimer. The pKa have been
+calculated using Advanced Chemistry Development (ACD/Laborato-
+ries) Software V11.02 (1994−2014 ACD/Laboratories) as employed in
+SciFinder.
+(21) Vögtle, F. Chem.-Ztg. 1972, 96, 396−403.
+(22) (a) Ziegler, K.; Eberle, H.; Ohlinger, H. Justus Liebigs Ann. Chem.
+1933, 504, 94−130. (b) Ziegler, K.; Aurnhammer, R. Justus Liebigs Ann.
+Chem. 1934, 513, 43−64. (c) Knops, P.; Sendhoff, N.; Mekelburger, H.-
+B.; Vögtle, F. Top. Curr. Chem. 1991, 161, 1−36.
+(23) (a) Kuno, L.; Biali, S. E. J. Org. Chem. 2011, 76, 3664−3675.
+(b) Gruner, M.; Fischer, C.; Gruber, T.; Weber, E. Supramol. Chem.
+2010, 22, 256−266. (c) Choe, J.-I; Lee, S. H.; Oh, D.-S. Bull. Korean
+Chem. Soc. 2004, 25, 55−58.
+(24) Jaime, C.; de Mendoza, J.; Prados, P.; Nieto, P. M.; Sánchez, C. J.
+Org. Chem. 1991, 56, 3372−3376.
+(25) Gutsche, C. D.; Bauer, L. J. Tetrahedron Lett. 1981, 22, 4763−
+4766.
+(26) Gruber, T.; Gruner, M.; Fischer, C.; Seichter, W.; Bombicz, P.;
+Weber, E. New J. Chem. 2010, 34, 250−259.
+(27) Gruber, T.; Bombicz, P.; Seichter, W.; Weber, E. J. Struct. Chem.
+2009, 50, 522−531.
+(28) (a) Nigam, G. D.; Deppisch, B. Z. Kristallogr. 1980, 151, 185−191.
+(b) Swaminathan, S.; Nigam, G. D. Curr. Sci. 1967, 36, 541. (c) Murty,
+B. V. R. Z. Kristallogr. 1959, 111, 238−239.
+(29) Cao, L.-P.; Wang, Y.-Z.; Gao, M.; Zhou, B.-H. Acta Crystallogr.
+2007, E63, o1876−o1877.
+(30) Zhang, J.-J.; Yina, C.-X.; Huob, F.-J. Acta Crystallogr. 2013, E69,
+o788.
+(31) Jeﬀrey, G. A. An introduction to hydrogen bonding; Oxford
+University Press: Oxford, UK, 1997.
+(32) (a) Saraogi, I.; Vijay, V. G.; Das, S.; Sekar, K.; Guru Row, T. N.
+Cryst. Eng. 2003, 6, 69−77. (b) Yumi, N. I.; Inoue, Y.; Nakanishi, I.;
+Kitaura, K. Protein Sci. 2008, 17, 1129−1137.
+(33) Nishio, M.; Umezawa, Y.; Honda, K.; Tsuboyama, S.; Suezawa, H.
+CrystEngComm 2009, 11, 1757−1788.
+(34) Aly, A. A.; Elkanzi, N. A. A.; Brown, A. B. Phosphorus Sulfur Silicon
+Relat. Elem. 2014, 189, 440−452.
+(35) For the respective spectra in methylcyclohexane, see: Shcheglova,
+N. A.; Shigorin, D. N.; Sergeev, A. M. Zh. Fiz. Khim. 1979, 53, 1749−
+1752.
+
+4891
+
+DOI: 10.1021/acs.joc.5b00223
+J. Org. Chem. 2015, 80, 4882−4892
+
+The Journal of Organic Chemistry
+
+(36) Gattermann, L.; Wieland, H.; Wieland, T. Die Praxis des
+Organischen Chemikers, 43rd ed.; de Gruyter: Berlin, 1982.
+(37) Similar to: Yamagishi, T.; Enoki, M.; Inui, M.; Furukawa, H.;
+Nakamoto, Y.; Ishida, S. J. Polym. Sci., Part A: Polym. Chem. 1993, 31,
+675−682.
+(38) Zinke, A.; Ott, R.; Garrana, F. H. Monatsh. Chem. 1958, 89, 135−
+142.
+(39) The respective signal is not visible at room temperature. We
+display here the chemical shift at −35 °C.
+(40) Bruker, SAINT, SADABS, AXS Inc., Madison, WI, 2007.
+(41) Sheldrick, G. M. Acta Crystallogr. 2008, A64, 112−122.
+
+Article
+
+4892
+
+DOI: 10.1021/acs.joc.5b00223
+J. Org. Chem. 2015, 80, 4882−4892
+
+

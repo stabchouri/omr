@@ -1,0 +1,1551 @@
+Article
+
+pubs.acs.org/joc
+
+†,‡
+
+Christian Friebe,
+
+Daniel H. Scharf,
+
+§
+
+Michael Jäger,
+
+Anion Receptors Based on Halogen Bonding with Halo-1,2,3-
+triazoliums
+†,‡
+Benjamin Schulze,
+Ronny Tepper,
+and Ulrich S. Schubert*,†,‡
+∥
+Helmar Görls,
+†
+Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstr. 10, 07743 Jena,
+Germany
+‡
+Jena Center for Soft Matters (JCSM), Friedrich Schiller University Jena, Philosophenweg 7, 07743 Jena, Germany
+§Leibniz Institute for Natural Product Research and Infection Biology − Hans Knöll Institute, Beutenbergstr. 11a, 07745 Jena,
+Germany
+∥
+Laboratory of Inorganic and Analytical Chemistry, Friedrich Schiller University Jena, Lessingstr. 8, 07743 Jena, Germany
+*S Supporting Information
+
+†,‡
+
+†,‡
+
+is
+
+ABSTRACT: A systematic series of anion receptors based on
+bidentate halogen bonding by halo-triazoles and -triazoliums is
+presented. The inﬂuence of the halogen bond donor atom, the
+electron-withdrawing group, and the linker group that bridges
+the two donor moieties
+investigated. Additionally, a
+comparison with hydrogen bond-based analogues is provided.
+A new, eﬃcient synthetic approach to introduce diﬀerent
+halogens into the heterocycles is established using silver(I)-
+triazolylidenes, which are converted to the corresponding halo-
+1,2,3-triazoliums with diﬀerent halogens. Comprehensive
+nuclear magnetic resonance binding studies supported by
+isothermal titration calorimetry studies were performed with
+diﬀerent halides and oxo-anions to evaluate the inﬂuence of key parameters of the halogen bond donor, namely, polarization of
+the halogen and the bond angle to the anion. The results show a larger anion aﬃnity in the case of more charge-dense halides as
+well as a general preference of the receptors to bind oxo-anions, in particular sulfate, over halides.
+
+■ INTRODUCTION
+
+Owing to the importance of anions in biological and chemical
+processes, considerable research eﬀorts have been devoted to
+the design of selective anion binding sites.1 Although anion
+detection based on hydrogen bonds, ion−ion, Lewis acid−base,
+and anion−π interactions has been intensively studied,2−4 the
+potential of (charge-assisted) halogen bonds5 for selective
+anion recognition was realized only recently.6,7 Subsequently,
+comprehensive studies have shown great potential of
+the
+halogen bond for the application in anion sensing,8,9 organo-
+catalysis,10−20 and anion-templated construction of interlocked
+structures.8,21−26
+
+Halogen bonds are supramolecular interactions between a
+Lewis base (Y) and a Lewis-acidic region (σ hole27) of a
+covalently bound halogen (X).5,27−30 This region of positive
+electrostatic potential
+is the result of an electron-density
+displacement upon bond formation between X and an electron-
+withdrawing group (E) and is thus located on the opposite end
+of the E−X bond. The size of the σ hole and, consequently, the
+strength of
+the halogen bond depends on the eﬀective
+electronegativity of E as well as on the polarizability of X
+with the latter increasing in the order Cl < Br < I.27,28,30 The
+halogen bond features a strong preference for a bond angle
+
+(E−X···Y) close to 180° in order to minimize electronic
+repulsion with the electron-rich belt surrounding the hole.31,32
+This orientational preference is much more pronounced than
+that for the analogous hydrogen bond, which gives rise to the
+construction of highly directional and selective anion binding
+sites. Another advantage of halogen bond-based systems is their
+ability to bind also soft anions, such as iodide, very eﬀectively,
+which is tentatively assigned to a larger covalent contribution
+toward the halogen bond interactions.26,29,33
+To date, neutral systems based on perﬂuoroiodo are-
+nes 3 1 , 3 3 , 3 7− 4 2
+and cationic halo-imidazolium sys-
+tems8,9,13,33,34,36,43,44 have been established as halogen bond
+donors. Recently, it was demonstrated that the nitrogen-rich
+1,2,3-triazole and -triazolium systems feature strongly polarized
+C−H/C−X bonds, which enable strong (charge-assisted)
+hydrogen/halogen bonds.29 Although halide abstraction with
+1,3-bis(iodo-1,2,3-triazolium)benzene receptors14 and the
+anion aﬃnity of several
+iodo-1,2,3-triazolium-based recep-
+tors21,22,24,25,32,35,45,46 have been reported, a systematic anion
+binding study on rigid cleft-type receptors featuring halo-1,2,3-
+
+Received:
+Published: February 11, 2015
+
+January 9, 2015
+
+© 2015 American Chemical Society
+
+3139
+
+DOI: 10.1021/acs.joc.5b00028
+J. Org. Chem. 2015, 80, 3139−3150
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 1. Schematic Representation of Charged Bidentate Halogen Bond Receptors For Which Anion Aﬃnities Were
+Quantiﬁed in Former Studies9,25,26,34−36
+
+triazoliums has been absent to date. Even on structurally related
+bidentate receptors, only a few detailed binding studies have
+been reported (Scheme 1).9,32−34 Therefore, we study herein
+the eﬀect of each tunable property of cleft-type halogen bond
+donors, namely, the polarization of X, the bond angle to the
+anion, and the inﬂuence of the anion itself (Scheme 2). We
+
+Scheme 2. Schematic Representation of the Systematic
+Variation of the Receptors in the Presented Survey
+
+were interested in further developing anion receptors based on
+halo-1,2,3-triazoles and -triazoliums owing to their facile and
+modular synthesis via copper(I)-catalyzed azide−alkyne cyclo-
+addition (CuAAC).29,47−50 For comparison, hydrogen-bond
+analogues and 1,2,4-triazole analogous receptors were also
+synthesized and investigated.
+
+■ RESULTS AND DISCUSSION
+Synthesis. The 1,2,3-triazole moiety can be obtained
+through the facile and modular CuAAC reaction (Scheme
+3).29,47,48,51 With this method, cleft-type hydrogen bond donors
+like 1,3-bis(1,2,3-triazol-4-yl)benzene 1 (Scheme 4a) can be
+readily prepared.52,53 To synthesize the corresponding halogen
+bond donors, the relatively high C−H acidity in the 5-position
+of the 1,2,3-triazole (pKa = 28)29 can be exploited. Accordingly,
+regioselective metalation by n-BuLi and the subsequent
+treatment with iodine aﬀorded 5-iodo-1,2,3-triazole-based
+
+receptor 1a (Scheme 4a);54 however,
+the yield was only
+modest (32%) and the analogous reaction with bromine to
+obtain 1b failed. Thus, 5-halo-1,2,3-triazoles were prepared via
+an alternative route by a copper(I)-catalyzed cycloaddition
+between halo-alkynes and azides.14,55−58 For instance, 1a was
+obtained using 1,3-bis(iodoethynyl)benzene in moderate yields
+(54%) following a previously reported procedure.14 More
+importantly, 1,3-bis(bromoethynyl)benzene59 gave 1b in only
+one step (Scheme 4b)56 with comparable yields (53%);
+however, very long reaction times were required.
+To enhance the C−H/C−X bond polarization and to
+increase anion aﬃnity via additional Coulomb interactions with
+the anions, the 1,2,3-triazoles can be alkylated (e.g., using
+trimethyloxonium tetraﬂuoroborate),21,53,60 which is exempli-
+ﬁed for 2a (Scheme 4a).29 However, as halogen installation at
+the 1,2,3-triazole precursor is less eﬃcient (vide supra), we
+were also interested in developing a more general approach
+toward halo-1,2,3-triazoliums. Accordingly, we anticipated that
+silver(I)-1,2,3-triazolylidenes, which can be prepared conven-
+iently by metalation of 1,2,3-triazoliums using Ag2O,29,61−63
+might be converted to the corresponding halo-1,2,3-triazoliums
+with diﬀerent halogens. Indeed, driven by precipitation of the
+corresponding silver(I)-halides, 5-iodo- (3a) and 5-bromo-
+1,2,3-triazoliums (2b and 3b) were obtained in very good yields
+(86−93%) after treatment of the silver(I)-carbene complex
+with iodine or bromine (Scheme 5).
+
+To ensure the uniformity of the counterion for subsequent
+binding studies, the product was repeatedly washed with an
+aqueous ammonium tetraﬂuoroborate solution, and the identity
+and purity of the product was conﬁrmed by NMR, MS, and
+elemental analysis. Importantly, this improved route enables the
+facile synthesis of 1,2,3-triazoliums via CuAAC and subsequent
+methylation as well as the eﬃcient introduction of iodine and
+even bromine at the ﬁnal stage.
+
+For comparison, receptors based on the 1,2,4-triazolium
+fragment as polarizing group E were also synthesized. The
+hydrogen-bond reference system 4 was obtained following a
+literature procedure64,65 and subsequent counterion exchange.
+The corresponding silver(I)-1,2,4-triazolylidene complex 4Ag
+
+3140
+
+DOI: 10.1021/acs.joc.5b00028
+J. Org. Chem. 2015, 80, 3139−3150
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 3. Schematic Representation of the Investigated Receptors
+
+Scheme 4. Schematic Representation of the Synthesis of Receptors 1, 1a, 1b, and 2aa
+
+a(i) CuSO4, NaAsc., EtOH/H2O/CH2Cl2 (2:1:1), 50 °C; (ii) n-BuLi, THF, −78 °C, I2; (iii) Me3OBF4, CH2Cl2, room temperature (rt), 3 d; (iv)
+CuI/TBTA, THF, rt, 6 d; and (v) CuBr/CuAcO, THF, 50 °C, 14 d.
+
+Scheme 5. Schematic Representation of the Synthesis of Receptors 2, 2b, 3, 3a, and 3ba
+
+a(i) Me3OBF4, CH2Cl2, rt, 1−3 d; (ii) Ag2O, molecular sieves, MeCN, reﬂux, 12 h; (iii) X2 at 0 °C for 30 min, then rt for 1 h; and (iv) 1 M
+NH4BF4(aq) for anion exchange.
+
+was synthesized64 in good yield (88%), and regioselective
+deprotonation in the 5-position was proven by 1H NMR
+spectroscopy. However, after treatment of the silver(I)-complex
+with iodine as described above, the 5-iodo-1,2,4-triazolium
+system could not be isolated. As revealed by NMR spectros-
+
+copy and single-crystal X-ray diﬀraction, only the hydrogen-
+bond system 4 and a mesoionic 1,2,4-triazolium-5-oxide66
+(Figure S57a, Supporting Information (SI)) were obtained. On
+the other hand, when using bromine, a partially decomposed
+product could be isolated and characterized crystallographically
+
+3141
+
+DOI: 10.1021/acs.joc.5b00028
+J. Org. Chem. 2015, 80, 3139−3150
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 1. Molecular structures of (a) 2b, (b) 1a, and (c) 3b (thermal ellipsoids at 50% probability level, hydrogen atoms, counterions, solvent
+molecules, and errors for the discussed values are omitted for clarity; see Figure S61, SI). Errors have no inﬂuence on the reliability of the discussed
+trends; gray, carbon; blue, nitrogen; purple, iodine; yellow, sulfur; green, ﬂuorine; pink, boron; and brown, bromide.
+
+(Figure S57b, SI). Although the quality of the single crystals
+was too low to discuss structural parameters, a C−Br···Br−
+halogen bond involving one of the 1,2,4-triazolium moieties
+was unambiguously conﬁrmed. Seemingly, the C−X polar-
+ization in the case of the 1,2,4-triazolium fragment is too high,
+resulting in C−I cleavage upon halogen bond formation
+(similar to N-iodosuccinimide).6,67 In contrast, the C−Br bond
+is less polarized and thus less reactive.
+
+Note that the 1,2,4-triazolium receptor was benzyl-function-
+alized for synthetic ease64 and, to ensure comparability between
+the 1,2,3- and 1,2,4-triazolium-based systems, a benzyl-
+functionalized 1,2,3-triazolium reference system 5 was synthe-
+sized as well.68,69
+
+Crystal Structures. Single crystals of several receptors
+could be grown by slow vapor diﬀusion of diﬀerent nonsolvents
+into a concentrated solution (Figure 1). In all cases,
+the
+intended binding site is readily accessible for anions as the
+mesityl groups (R′) are arranged orthogonally to the 1,2,3-
+triazoles. Additionally, this twisted structure inhibits intermo-
+lecular π-stacking thereby increasing the solubility of
+the
+receptors.
+
+Initial attempts to crystallize 2b (Figure 1a) prior to anion
+exchange (vide supra) revealed a 2:1 complex with bromide,
+which is ascribed to an excess of the receptor with respect to
+the anion. Two receptors form four nearly linear halogen bonds
+(167−172°) with a single bromide, which is coordinated in a
+distorted tetrahedral fashion. To enable this highly directed
+interaction in a bis-bidentate fashion, the triazolium rings twist
+out of the plane of the central phenyl ring by 59°. The
+measured halogen bond lengths range from 3.14 to 3.27 Å,
+which is signiﬁcantly shorter than the sum of the van der Waals
+radii (3.70 Å)70 and comparable to related complexes.9,71,72
+In the case of 1a (Figure 1b), a dimer formed by two nearly
+linear halogen bonds (173°−174°) between the iodines and
+two diﬀerent nitrogen atoms of a single triazole ring could be
+observed. This clearly demonstrates already that the uncharged
+iodo-1,2,3-triazole exhibits C−I bond polarization suitable for
+halogen bond formation.55 In contrast,
+the corresponding
+bromo-substituted receptor 1b does not show any halogen
+
+bond interactions in the solid state (see Figure S58, SI), which
+is ascribed to the lower polarizability of the halogen bond-
+donor atom. Furthermore, the triazoles and the central phenyl
+ring adopt a smaller dihedral angle (30°), which is attributed to
+the absence of sterically demanding 1,2,3-triazolium methyl
+groups and binding toward two contiguous nitrogen atoms.
+
+Figure 1c shows two individual monodentate halogen bonds
+with the two counterions in the case of 3b, which is presumably
+the result of electronic and steric repulsion between the sulfur
+and the halogen atoms. Additionally, anion−π interactions
+involving the 1,2,3-triazoliums are observed in the solid state.
+Furthermore, single crystals of a sulfate complex were grown
+by carefully layering concentrated acetonitrile solutions of 2a
+and (NBu4)2SO4 (Figure 2). X-ray diﬀraction reveals bidentate
+
+Figure 2. Molecular structure of 2a interacting with sulfate (thermal
+ellipsoids at 50% probability level, hydrogen atoms, solvent molecules,
+boronic acid, and errors for the discussed values are omitted for clarity,
+see Figure S62, SI). Errors have no inﬂuence on the reliability of the
+discussed trends; gray, carbon; blue, nitrogen; purple, iodine; yellow,
+sulfur; and red, oxygen).
+
+complexation of a single sulfate anion via two diﬀerent oxygen
+atoms in the solid state. Notably, a boronic acid molecule also
+binds to the sulfate, which is presumably formed by hydrolysis
+of the original tetraﬂuoroborate counterions of 2a (see Figure
+S60, SI). As a result, diﬀerent C−I···O bond lengths of 2.80 and
+2.60 Å were observed.72 Both halogen bonds are close to
+linearity and are signiﬁcantly shorter than the sum of the van
+der Waals radii (3.50 Å).70 Aside from a very recently published
+catenane−sulfate complex,26 this is the only crystallographic
+
+3142
+
+DOI: 10.1021/acs.joc.5b00028
+J. Org. Chem. 2015, 80, 3139−3150
+
+The Journal of Organic Chemistry
+
+report of a halogen bond-based sulfate complex reported to
+date. Although the boronic acid adduct as well as packing
+eﬀects may in principle lead to a preference for this binding
+mode, bidentate halogen bonding with two diﬀerent oxygen
+atoms of the sulfate is also the preferential complexation mode
+according to DFT modeling (see Figure S64, SI).
+
+Binding Studies. NMR studies (Table 1) as well as
+isothermal titration calorimetry (ITC) measurements (Table 2)
+
+Table 1. Overview of NMR Titration Data for Various
+Receptors with Diﬀerent Anions
+
+E−X
+2a
+
+triazolium
+reference
+system
+
+triazole
+bond donor
+
+H-analogues
+
+linker R
+
+1a
+2b
+
+2
+
+5
+4
+3a
+
+3b
+
+Y
+
+I−
+Br−
+Cl−
+AcO−
+−
+H2PO4
+2−
+SO4
+Cl−
+I−
+Br−
+Cl−
+Cl−
+
+Cl−
+Cl−
+I−
+Br−
+Cl−
+Cl−
+
+solvent
+DMSO
+DMSO
+DMSO
+DMSO
+DMSO
+DMSO
+DMSO
+DMSO
+DMSO
+DMSO
+DMSO
+DMSO
+DMSO
+DMSO
+DMSO
+DMSO
+DMSO
+DMSO
+
+K1 [M−1]a
+670 (±30)
+860 (±30)
+1200 (±30)
+1740 (±40)
+2310 (±40)
+3400 (±200)
+
+51 (±1)
+75 (±3)
+202 (±3)
+670 (±20)
+104 (±3)
+99 (±2)b
+89 (±3)b
+136 (±5)b
+90 (±2)
+170 (±30)
+298 (±8)
+85 (±1)
+
+K2 [M−1]a
+
+<15
+<15
+<15
+<15
+<15
+<15
+<15
+<15
+<15
+<15
+<15
+<15b
+<15b
+<15b
+<15
+<15
+<15
+<15
+
+aAssociation constants and errors calculated using WinEQNMR2 and
+H-3,5mes chemical shifts. bAssociation constants and errors calculated
+using WinEQNMR2 and H-5trz chemical shifts.
+
+were performed to quantify the inﬂuence of
+the various
+receptor components (E, R, and X). Because the formed
+complexes precipitated during the NMR titration in MeCN, the
+NMR studies had to be performed with a more competitive
+solvent (DMSO). In contrast, due to the lower concentrations
+required for ITC studies, no solubility issues were encountered
+in MeCN, whereas no heat eﬀect was observed in DMSO.34
+Evaluation of the NMR titration data was accomplished with
+the help of WinEQNMR2 software.73 Because the mesityl
+moiety is present in most of the receptors and the proton
+resonances of the central phenyl spacer overlap in some cases
+(see Figure S39, SI), the H-3,5mes shift migration was used for
+determining the binding constants.
+
+NMR Studies. The phenyl-based iodo-1,2,3-triazolium
+system 2a was selected as a reference. In Figure 3 (top), a
+
+Article
+
+Figure 3. (Top) Partial 1H NMR spectra of receptor 2a upon the
+addition of Bu4N+Cl− (300 MHz, DMSO-d6). (Bottom) Obtained ﬁt
+curve (red line) and residuals for this titration assuming a 1:2 complex
+(calculated using H-3,5mes chemical shifts), and (inset) speciation
+curves for all of the involved species (H = host, G = guest).
+
+typical chemical-shift migration obtained by the titration of 2a
+with a tetra-n-butylammonium (Bu4N+) halide is depicted.
+Upon titration, a downﬁeld shift of the H-2ph signal and a less
+pronounced highﬁeld shift for the H-3,5mes signal is observed
+with the latter being ascribed to anion−π interactions.74 In line
+with the maximum at 0.5 in the corresponding Job plot (see
+Figure S33, SI), evaluation of the binding isotherm75 suggests
+the predominant formation of a 1:1 complex accompanied by
+the formation of a weak 1:2 host−guest complex (Table 1).
+This behavior and the substantially larger K1 value relative to
+similar monodentate halogen bond donors (∼102 M−1)43
+
+Table 2. Overview of ITC Titration Results for Various Receptors with Diﬀerent Bu4N+ Anions
+
+bond acceptor
+
+bond donor
+
+linker R
+
+E−X
+2a
+
+2b
+2
+3a
+
+Y
+I−
+Br−
+
+Cl−
+
+Cl−
+Cl−
+Cl−
+
+solvent
+MeCN
+MeCN
+
+MeCN
+
+MeCN
+MeCN
+MeCN
+
+model (step n)
+OneSites
+TwoSites (1)
+TwoSites (2)
+TwoSites (1)
+TwoSites (2)
+OneSites
+a
+OneSites
+
+aNo heat eﬀect was observed in the ITC measurements.
+
+Kn [M−1]
+8.35 × 104
+3.22 × 105
+1.21 × 103
+4.75 × 105
+1.78 × 103
+9.76 × 102
+
+7.26 × 103
+
+3143
+
+ΔG [kJ mol−1]
+
+ΔH [kJ mol−1]
+
+TΔS [kJ mol−1]
+
+−25.1
+−31.9
+−18.0
+−32.9
+−18.9
+−17.4
+
+−22.4
+
+−17.7
+−16.4
+−3.5
+−14.4
+−7.2
+−9.6
+
+−11.9
+
+7.4
+15.5
+14.5
+18.5
+11.7
+7.8
+
+10.5
+
+Nn
+0.89
+0.90
+0.83
+0.93
+0.83
+0.80
+
+1.42
+
+DOI: 10.1021/acs.joc.5b00028
+J. Org. Chem. 2015, 80, 3139−3150
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 4. ITC evaluation of 2a·I− (left), 2a·Br− (middle), and 2a·Cl− (right) using two diﬀerent ﬁtting models (OneSites = red, TwoSites = blue, for
+detailed experimental information see Table S1, SI).
+
+strongly suggest a preferential bidentate binding mode. The
+assumption of a 1:2 complex is required to explain the minor
+chemical-shift perturbations upon the addition of 10−100
+equiv, which implies that the second complexation step only
+becomes relevant if an excess of guest is provided (see the
+speciation curve in Figure 3, bottom). The trend for the K1
+values (Table 1) shows a general preference for more charge-
+dense/basic halides as the bond acceptor (Cl− > Br− > I−),
+which allows for a stronger electrostatic as well as charge-
+transfer interaction. Nevertheless,
+the soft halides are also
+strongly bound, which is tentatively assigned to a larger
+covalent contribution toward the halogen bond interactions
+compared to that of the analogous hydrogen bond systems.29,33
+In comparison to the halides, the complexation of acetate,
+dihydrogen phosphate, and sulfate is much stronger, which was
+also found previously in analogous studies43 and is rationalized
+by the higher basicity of the selected oxo-anions. The observed
+slight preference for dihydrogen phosphate over acetate is
+contrary to the higher charge density and basicity of acetate and
+is thus ascribed to a better ﬁt between the receptor’s cavity and
+the tetrahedral anion. The observation of the highest anion
+aﬃnity in the case of sulfate is rationalized by its doubly
+negative charge, which provides a signiﬁcantly enhanced charge
+assistance.29,53,76
+
+In comparison with the iodo-1,2,3-triazolium receptor 2a, the
+bromo analogue 2b revealed a signiﬁcantly lower halide aﬃnity
+(Table 1) in line with the lower polarizability of the bromine
+atom. Like 2a, the NMR data shows a preference of 2b for
+more charge-dense halides (Cl− > Br− > I−).
+
+Dependence of the interaction strength on the electron-
+withdrawing group is also apparent from Table 1. Although the
+individual contributions of charge assistance and increased
+polarization cannot be distinguished, comparison of triazole-
+
+and a triazolium-containing receptors (1a vs 2a) clearly
+demonstrates the superior chloride aﬃnity of
+the iodo-
+triazolium system. As the chloride aﬃnity of 1a is already at
+the lower limit of detectable interactions, NMR titrations with
+bromide and iodide as well as binding studies for receptor 1b
+were omitted.
+
+As halogen introduction for 1,2,4-triazoliums failed (vide
+supra),
+the electron-withdrawing character was studied by
+comparing the benzyl-equipped 1,2,4- and 1,2,3-triazolium-
+based hydrogen bond donors 4 and 5. According to the
+signiﬁcantly higher chloride aﬃnity of 4 (Table 1), the electron-
+withdrawing character of the 1,2,4-triazolium moiety is superior
+to that of 1,2,3-triazolium (vide infra).29 Additionally, a
+comparison between the 1,2,3-triazolium receptors 2 and 5
+showed a marginally lower anion aﬃnity in the case of the latter
+(Table 1), which is
+in line with the weaker electron-
+withdrawing character of the benzyl substituent relative to
+that of an aryl group.29
+
+Finally, the bidentate halo-1,2,3-triazolium receptors featur-
+ing phenyl and thienyl spacers were compared. Relative to 2a,
+the halide aﬃnity of 3a is signiﬁcantly lower, although the same
+halide preference (Cl− > Br− > I−) was observed. The
+combination of bromo-1,2,3-triazolium and a thienyl spacer
+(3b) leads to even weaker chloride binding than that of both 3a
+and 2b (Table 1), and thus titrations with bromide and iodide
+were omitted. The lower halide aﬃnity of the thiophene-based
+receptors is ascribed to a weakened bidentate complexation
+caused by a more acute bite angle (vide infra).
+
+Isothermal Titration Calorimetry Studies. To gain
+insights from an independent experimental technique and to
+understand the enthalpic and entropic contributions to the
+binding event, ITC measurements were performed for selected
+anion−receptor combinations.
+
+3144
+
+DOI: 10.1021/acs.joc.5b00028
+J. Org. Chem. 2015, 80, 3139−3150
+
+The Journal of Organic Chemistry
+
+Article
+
+As seen in the NMR titration experiments, a binding
+preference of 2a for more charge-dense halides (Cl− > Br− >
+I−) was observed (Table 2). While the enthalpic contribution
+decreases from iodide to bromide to chloride, the entropic
+term, and as a net result the binding aﬃnity, increases. Thus,
+the complexation appears to be driven by the liberation of
+solvent molecules for the smaller halides.77,78 Notably, in the
+case of bromide and particularly for chloride, a signiﬁcant
+amount of heat is still released after the addition of one equiv of
+halide, which requires the use of a TwoSites model
+for
+evaluation of the titration data (i.e., two complexation sites have
+to be taken into account) (Figure 4).79 The stronger process
+≈ 105 M−1) is ascribed to the formation of a bidentate
+(K1
+halogen bond with the anion, whereas the weaker process (K2
+≈ 103 M−1) is tentatively assigned to monodentate halogen
+≈ 1)
+bonding. For both steps, a 1:1 stoichiometry (N1
+is observed. In the case of iodide, the analysis was conducted
+with both models to ensure comparability; however,
+the
+OneSites model enables determination of
+the association
+constants with smaller errors (see Figures S52 and S53, SI).
+The bidentate complexation mode appears to be predominant
+for the larger iodide.
+
+≈ 1, N2
+
+For bromo-substituted receptor 2b, the OneSites model (see
+Figure S55, SI) is applicable and reveals a signiﬁcantly weaker
+complexation. In line with the lower polarizability of the C−Br
+bond, this process is assigned to the formation of a bidentate
+halogen bond, whereas monodentate complexation is presum-
+ably too weak to be detected in this case. For hydrogen bond-
+based reference system 2, no heat eﬀect can be observed in the
+ITC measurement even at very high concentrations of host and
+guest.
+
+The titration curve of thienyl-based system 3a was ﬁtted
+using the OneSites model (see Figure S56, SI). Considering the
+association constants found for 2a and chloride, the complex-
+ation is interpreted as the formation of a monodentate halogen
+bond, which is plausible given that the two E−X bonds of 3a
+are nearly parallel in the solid state (see Figures 1 and 5). The
+stoichiometry factor between one and two (N = 1.42) indicates
+that both a 1:1 and a 1:2 complex are formed.34
+Comparison of the chloride aﬃnity of 2a and 2b with that of
+the corresponding imidazolium-based analogues (K1 = 5.20 ×
+105 M−1)34 reveals a slightly lower halogen bond donor
+
+strength for
+the 1,2,3-triazolium-based receptor, which is
+expected because fewer nitrogen atoms are positioned adjacent
+to the C−X bond (vide infra).29
+
+DFT Calculations. The binding mode of
+
+the chloride
+complexes of 2a and 3a were investigated by quantum chemical
+calculations using density functional theory (DFT). As shown
+in Figure 5, the thienyl-based system exhibits a more acute bite
+angle (α), which precludes the formation of two short, linear
+halogen bonds with a single anion. As a consequence, a
+monodentate halogen bond with chloride is more stable, which
+enables the establishment of a second halogen bond (see the
+experimentally determined N value of 1.42, Table 2).
+Consistently, the association constants observed in the NMR
+and ITC studies for the thienyl-based hosts are lower than
+those in the phenyl-based systems. Prospectively, eﬀective
+bidentate binding of
+larger, polyatomic anions might be
+achieved with 3a.
+To better understand the electronic inﬂuence of the electron-
+withdrawing group E on the C−X bond, DFT calculations were
+performed for related N-heterocyclic model systems (Figure 6).
+First, the positive charge induces a shift to a more positive
+electrostatic potential for the whole receptor, including the σ
+hole. Second, when comparing the iodo- and bromo-substituted
+receptors, a larger σ hole area is clearly visible in the receptor
+with the iodine atom, which is the result of enhanced E−X
+polarization. Consistently,
+lower anion aﬃnities have been
+found experimentally for the bromo-substituted receptors (2b
+and 3b). Furthermore, the DFT calculations show that the σ
+hole of halo-1,2,3-triazolium and halo-imidazolium are
+comparable, whereas the σ hole of the halo-1,2,4-triazolium is
+signiﬁcantly larger (Figure 6). On the basis of the CH-acidities
+of 1,2,3-triazolium,
+imidazolium, and 1,2,4-triazolium (pKa =
+24, 20−23, and 17−19, respectively),29 it is obvious that C−X
+polarization increases with increasing nitrogen number and is
+particularly strong if the nitrogen atoms are placed adjacent to
+the C−X bond. Consequently,
+the halogen bond donor
+strength is expected to adopt the order halo-1,2,3-triazolium
+< halo-imidazolium < halo-1,2,4-triazolium. In agreement with
+this ordering, the imidazolium-based receptors exhibit anion
+aﬃnities that are slightly enhanced compared to those of their
+1,2,3-triazolium counterparts. The observed instability of the
+halo-1,2,4-triazolium salts (vide supra) can be rationalized by
+the excessive polarization of the C−X bond,
+leading to a
+substantial population of the σ*(E−X) orbital upon halogen
+bond formation and, thereby, to destabilization of the E−X
+bond.80−82
+■ CONCLUSION
+
+A series of bidentate anion receptors based on halo-1,2,3-
+triazoliums featuring a 1,3-phenylene spacer was studied
+comprehensively by making use of
+two experimental
+techniques, namely, NMR spectroscopy and ITC titration
+experiments. The new receptors were readily synthesized via
+copper(I)-catalyzed azide−alkyne click chemistry, methylation,
+and formation of a silver(I) precursor. The latter was eﬃciently
+converted to the ﬁnal halo-1,2,3-triazoliums by treatment with
+the corresponding halogens. The inﬂuence of diﬀerent
+parameters on the anion aﬃnities was
+investigated by
+comparison with selected reference systems. For a better
+understanding of the anion binding modes, several anion−
+receptor complexes were characterized by X-ray diﬀraction and
+modeled by means of DFT calculations. The following
+conclusions can be drawn from the collected data: (1) For
+
+3145
+
+DOI: 10.1021/acs.joc.5b00028
+J. Org. Chem. 2015, 80, 3139−3150
+
+Figure 5. (Top) Calculated molecular electrostatic potential surface
+mapped on total density (isovalue 0.01) for 3a (left) and 2a (right)
+demonstrating the diﬀerent bite angles (α) to the anion and the
+diﬀerent distances between the halogen bond-donor atoms. (Bottom)
+3a (left) and 2a (right) interacting with chloride.
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 6. (a) Calculated molecular electrostatic potential surfaces mapped on total density (isovalue 0.01). Note that all electrostatic potential
+surfaces are plotted with the same parameters to warrant comparability. (b) Schematic representation of the corresponding chemical structures.
+
+− < SO4
+
+the iodo-1,2,3-triazolium-based receptor, which revealed the
+highest binding strength, the anion aﬃnity increases in the
+order I− < Br− < Cl− < AcO− < H2PO4
+2−. (2) When
+comparing analogous hydrogen bond- and halogen bond-based
+receptors, the latter shows a signiﬁcantly higher association
+constant, which in turn is higher for iodine than for bromine as
+the bond donor atom. (3) The charge assistance and higher C−
+X polarization in the case of halo-1,2,3-triazolium-based
+receptors lead to a signiﬁcantly higher anion aﬃnity than for
+their halo-1,2,3-triazole counterparts. (4) The position of the
+nitrogen atoms within the triazolium ring substantially
+inﬂuences hydrogen/halogen bond donation. Relative to
+1,2,3-triazoliums,
+the hydrogen bond strength for 1,2,4-
+triazolium-based receptors is higher. Unfortunately, the halo-
+1,2,4-triazolium analogues could not be isolated due to
+excessive C−X polarization. (5) Because of the strict linearity
+of the halogen bond angle, the utilized spacer unit exerts a
+pivotal inﬂuence on the binding mode, leading to a preference
+for monodentate halogen bonding for a thienyl spacer, which is
+in contrast to the favored bidentate conﬁguration in the case of
+the phenyl bridge.
+
+We believe that
+
+these conclusions provide essential
+information for the design of anion receptors based on N-
+heterocyclic halogen bond donors and will aid in the
+exploitation of
+their potential
+in anion sensing, anion
+templation, and organo-catalysis.
+
+■ EXPERIMENTAL SECTION
+
+General Experimental Methods. All starting materials were
+purchased from commercially available sources and used as obtained
+unless otherwise speciﬁed. Mesityl azide,83 2,5-diethynylthiophene,84
+benzyl azide,85 1,3-bis(bromoethynyl)benzene,59 1,3-bis(1,2,4-triazol-
+1-yl)benzene,64 1,1′-(1,3-phenylene)bis(4-benzyl-1,2,4-triazol-4-ium)
+bromide,65 1,3-bis(1-benzyl-1H-1,2,3-triazol-4-yl)benzene,68 4,4′-(1,3-
+phenylene)bis(1-benzyl-3-methyl-1H-1,2,3-triazol-3-ium) tetraﬂuoro-
+borate,69 and silver(I)-oxide86 were prepared according to literature
+
+procedures. Silver(I)-oxide was stored in a desiccator in the dark.
+Tetrahydrofuran (THF) was dried and degassed with the help of a
+solvent puriﬁcation system and kept under nitrogen using standard
+Schlenk techniques. CH2Cl2 was dried by reﬂuxing over calcium
+hydride and subsequent distillation under nitrogen. Ammonium
+tetraﬂuoroborate for the anion exchange was purchased in 99.999%
+purity. Most of the tetra-n-butylammonium anion salts for NMR and
+ITC analyses were ordered in high purity (>99%, (Bu4N)AcO > 97%),
+whereas (Bu4N)2SO4 was prepared from tetra-n-butylammonium
+hydroxide and sulfuric acid and stored in a desiccator in vacuo.
+MeCN and DMSO for ITC measurements were purchased in >99%
+purity (spectroscopic grade). NMR spectra were measured on
+spectrometer at 250, 300, 400, or 600 MHz in deuterated solvents
+at 25 °C. Chemical shifts were reported in ppm by using the solvent as
+an internal standard. Matrix-assisted laser desorption ionization time-
+of-ﬂight (MALDI-TOF) mass spectra (MS) were obtained using a
+TOF/TOF mass spectrometer with dithranol as the matrix. All spectra
+were measured in the positive-reﬂector mode using a Nd:YAG laser
+and a collision cell. Electrospray ionization (ESI)-MS spectra were
+measured on an ESI-(Q)-TOF-MS mass spectrometer equipped with
+an automatic syringe pump for
+sample injection. The mass
+spectrometer was operating in the positive-ion mode and the standard
+ESI source was used to generate the ions. Binding constants were
+obtained using WinEQNMR273 software in the case of NMR analysis
+and a MicroCal Origin 7.0-based software package in the case of ITC
+studies.
+
+Computational Details. All calculations were performed with the
+Gaussian 09 (G09) program package87 employing the DFT method
+using the M06-2X functional.88 The iodine atom was treated by the
+46-electron relativistic eﬀective core potential MWB89 for the inner
+shells, whereas the outer shells (i.e., 4s, 4p, 4d, and 5s electrons) were
+treated separately. The remaining atoms (i.e., C, H, N, and S) were
+treated with a basis set of quadruple-ζ valence quality.90 The bulk
+solvent eﬀects (MeCN) were included using the integral equation
+formalism of the polarizable continuum model by Tomasi and co-
+workers.91 Geometry optimizations were performed without any
+constraints, and the true nature was conﬁrmed by normal-mode
+analysis. Visualization of the electrostatic potential was performed
+using the GaussView 5.0 package.92
+
+3146
+
+DOI: 10.1021/acs.joc.5b00028
+J. Org. Chem. 2015, 80, 3139−3150
+
+The Journal of Organic Chemistry
+
+Article
+
+Crystal Structure Determination. The intensity data for the
+compounds were collected on a Nonius Kappa CCD diﬀractometer,
+using graphite-monochromated Mo Kα radiation. Data were corrected
+for Lorentz and polarization eﬀects; absorption was taken into account
+on a semiempirical basis using multiple scans.93−95 The structures
+were solved by direct methods (SHELXS96) and reﬁned by full-matrix
+least-squares techniques against Fo2 (SHELXL-9796). The hydrogen
+atoms bound to the compounds 1b, 2a·SO4, and 1,2,4-triazolium-5-
+oxide were located by diﬀerence Fourier synthesis and reﬁned
+isotropically. All other hydrogen atoms were included at calculated
+positions with ﬁxed thermal parameters. All non-hydrogen atoms were
+reﬁned anisotropically.96 The crystal of 1a contains large voids that
+were ﬁlled with disordered solvent molecules. The size of the voids are
+249 Å3/unit cell. Their contribution to the structure factors was
+secured by back-Fourier transformation using the SQUEEZE routine
+of the program PLATON97 resulting in 32 electrons/unit cell. The
+crystals of 5-bromo-1,2,4-triazolium were extremely thin and of low
+quality, resulting in a substandard data set; however, the structure is
+suﬃcient to show connectivity and geometry despite the high ﬁnal R
+value. We will only publish the conformation of the molecule and the
+crystallographic data but will not deposit the data in the Cambridge
+Crystallographic Data Centre. Crystallographic data as well as
+structure solution and reﬁnement details are summarized in Tables
+S2 and S3 in the SI. MERCURY-3.3 was used for structure
+representations.
+
+Synthetic Procedures. General Procedure (A) for the CuAAC
+Reaction (Adopted from ref 98). A 250 mL round-bottom ﬂask was
+charged with an ethanol/water/CH2Cl2 (2:1:1) mixture (100 mL) and
+purged with nitrogen. Successively, mesityl azide (2.4 equiv) or benzyl
+azide (3.0 equiv), copper(II) sulfate (0.2 equiv) dissolved in water (1
+mL), sodium ascorbate (2 equiv) dissolved in water (6 mL), and 1,3-
+diethynylbenzene (1 equiv) or 2,5-diethynylthiophene (1 equiv) were
+added. Under the exclusion of light, the reaction mixture was stirred at
+50 °C under a nitrogen atmosphere overnight, whereupon a
+precipitate was formed. After complete conversion was conﬁrmed by
+TLC, 40 drops of N-(2-hydroxyethyl)ethylenediaminetriacetic acid
+(HEEDTA) were added, and the reaction mixture was stirred for 30
+min at 50 °C. After cooling to room temperature, water (150 mL) was
+added, and the reaction mixture was extracted three times with
+CH2Cl2. The combined organic phases were washed with water, dried
+over sodium sulfate, ﬁltered, and concentrated in vacuo. After
+precipitation by dropping the concentrated CH2Cl2 solution into n-
+pentane, washing with n-pentane, and drying in vacuo, the product was
+obtained as a white or yellow solid.
+
+General Procedure (B) for Methylation with Meerwein’s Salt
+(Adopted from refs 21 and 99). A Schlenk ﬂask was loaded with a bis-
+triazole derivative educt (1 equiv) dissolved in dry CH2Cl2 (20 mL)
+and Meerwein’s salt (trimethyloxonium tetraﬂuoroborate, 2.2 equiv),
+and the resulting mixture was stirred at room temperature under a
+nitrogen atmosphere until TLC-monitoring indicated full conversion
+of the educt (silica, CH2Cl2/MeOH (95:5)). After adding MeOH (2
+mL) to quench excessive oxonium salt, the turbid reaction mixture
+became clear and was evaporated to dryness. The residue was
+dissolved in acetone or MeCN and precipitated by dropping the
+concentrated solution into diethyl ether. The precipitate was washed
+with diethyl ether and dried to yield the desired product.
+
+General Procedure (C) for Synthesis of the Silver(I) Precursors
+(Adopted from ref 99). A Schlenk ﬂask was charged with a bis-
+triazolium derivative educt (1 equiv), desiccator-dried Ag2O (3 equiv),
+and activated 3 Å molecular sieves.100 Dry and degassed MeCN (20
+mL) was added in the counterﬂow of nitrogen, and the reaction
+mixture was heated under reﬂux while being excluded from light for 12
+h under nitrogen. After cooling to room temperature, the mixture was
+ﬁltered over Celite with the help of MeCN as eluent. After being
+concentrated in vacuo, the crude product was puriﬁed by precipitation
+of the MeCN solution into diethyl ether. The resulting precipitate was
+ﬁltered, washed with diethyl ether, and dried to yield the product as a
+white solid. The product was stored under nitrogen in a Schlenk ﬂask
+in the fridge.
+
+General Procedure (D) for the Reaction of the Silver(I) Precursors
+with Halogens. A Schlenk ﬂask was loaded with the silver(I) precursor
+(1 equiv) dissolved in dry CH2Cl2 (10 mL) for the phenyl-based
+receptors or in a dry CH2Cl2/MeCN (1:1) mixture for the thienyl-
+based receptors. Under the exclusion of light, the halogen (2.2 equiv)
+was added dropwise at 0 °C. Therefore, the amount of iodine was
+directly dissolved in dry and previously degassed MeCN (2 mL). In
+the case of bromine, a 0.66 M stock solution in dry CH2Cl2 was
+prepared. After addition of the halogen, the reaction mixture was kept
+stirring at 0 °C for 30 min and then for 1 h at room temperature. The
+resulting suspension was dropped into diethyl ether to remove the
+excessive halogen, and the residue was ﬁltered and washed with diethyl
+ether. After rinsing with MeCN and concentration of the ﬁltrate in
+vacuo, the mixture was ﬁltered over Celite with the help of MeCN as
+eluent to remove the remaining silver salt. The clear solution was
+evaporated to dryness;
+the resulting residue was dissolved in a
+CH2Cl2/MeOH (9:1) mixture and extracted ﬁve times with a 1 M
+aqueous ammonium tetraﬂuoroborate solution and two times with
+water (for a related anion exchange, see ref 101). After complete
+removal of the solvent in vacuo, the desired product was isolated and
+further puriﬁed by crystallization through vapor diﬀusion of diethyl
+ether into a concentrated solution of the product.
+
+1,3-Bis(1-mesityl-1H-1,2,3-triazol-4-yl)benzene (1). Following gen-
+eral procedure A, mesityl azide (2.80 g, 17.4 mmol), copper(II) sulfate
+(230 mg, 1.44 mmol), sodium ascorbate (2.85 g, 14.4 mmol) and
+commercially available 1,3-diethynylbenzene (907 mg, 955 μL, 7.2
+mmol) were allowed to react for 5 h at 50 °C and for 40 h at room
+temperature to yield desired product 1 as a white solid (3.08 g, 96%).
+1H NMR (250 MHz, CD2Cl2): δ 8.47 (s, 1H), 8.00 (s, 2H), 7.94 (dd,
+4J = 1.3 Hz, 3J = 7.7 Hz, 2H), 7.57 (t, 3J = 7.8 Hz, 1H), 7.05 (s, 4H),
+2.38 (s, 6H), 2.02 (s, 12H). 13C NMR (101 MHz, CD2Cl2): δ 147.6,
+140.8, 135.6, 134.1, 132.0, 130.1, 129.6, 125.9, 123.4, 122.7, 21.4, 17.6.
+MS (MALDI-TOF, dithranol) m/z: 449.325 ([M + H]+). Anal. Calcd
+for C28H28N6: C, 74.97; H, 6.29; N, 18.74. Found: C, 74.68; H, 6.67;
+N, 18.52. Mp: 136−138 °C.
+
+1,3-Bis(5-iodo-1-mesityl-1H-1,2,3-triazol-4-yl)benzene (1a)
+(Adopted from refs 54 and 102). The reaction was carried out in
+a two-neck Schlenk ﬂask. The ﬂask was equipped with an internal
+thermometer, and 1 (896 mg, 2.0 mmol) was added and dissolved in
+dry THF (18 mL). n-BuLi (2.5 M in hexane, 1.92 mL, 4.8 mmol, 2.4
+equiv) was added dropwise over 30 min at approximately −78 °C; the
+solution changed color from yellow to dark red. After additional 10
+min at −78 °C, iodine (1.32 g, 5.2 mmol, 2.6 equiv) dissolved in dry
+THF (5 mL) was added dropwise. The temperature was raised to
+room temperature within 1 h, and the mixture was stirred overnight.
+The mixture was washed with an aqueous sodium thiosulfate solution
+to quench the excess of
+iodine. The solution was extracted with
+CH2Cl2 and the combined organic layers were washed with water. The
+organic phase was dried over sodium sulfate and ﬁltered, and the
+solvent was removed. The crude product was puriﬁed by column
+chromatography (silica, 99:1 CH2Cl2/MeOH) to obtain the desired
+product 1a in moderate yield (440 mg, 32%). Single crystals were
+obtained by slow vapor diﬀusion of n-pentane into a concentrated
+solution of 1a in CH2Cl2. 1H NMR (300 MHz, CD2Cl2): δ 8.83 (s,
+1H), 8.18 (dd, 4J = 1.6 Hz, 3J = 7.8 Hz, 2H), 7.67 (t, 3J = 7.8 Hz, 1H),
+7.09 (s, 4H), 2.41 (s, 6H), 1.96 (s, 12H). 13C NMR (63 MHz,
+CD2Cl2): δ 149.1, 140.9, 135.9, 133.0, 130.8, 129.1, 128.9, 127.2,
+125.7, 79.8, 21.0, 17.2. MS (MALDI-TOF, dithranol) m/z: 701.049
+([M + H]+). Anal. Calcd for C28H26I2N6: C, 48.02; H, 3.74; I, 36.24;
+N, 12.00. Found: C, 48.32; H, 3.71; N, 11.85. Mp: 229−232 °C dec.
+An alternative route is a copper(I)-catalyzed cycloaddition between
+1,3-bis(iodoethynyl)benzene14 and mesityl azide. A Schlenk ﬂask was
+loaded with copper(I) iodide (115 mg, 0.60 mmol) and tris-
+(benzyltriazolylmethyl)amine (TBTA, 319 mg, 0.60 mmol) dissolved
+in dry THF (20 mL). This mixture was stirred for 3 h at room
+temperature and was then added to 1,3-bis(iodoethynyl)benzene (350
+mg, 0.93 mmol) dissolved in 1 mL of dry THF. Subsequently, the
+mesityl azide (328 mg, 2.04 mmol) dissolved in 1 mL of dry THF was
+added slowly. The reaction mixture was stirred for 6 days at room
+temperature in the dark. 3 mL of 10% NH4OH solution were added to
+
+3147
+
+DOI: 10.1021/acs.joc.5b00028
+J. Org. Chem. 2015, 80, 3139−3150
+
+The Journal of Organic Chemistry
+
+the reaction mixture and, after removal of the solvent in vacuo, the
+remaining solid was dissolved in ethyl acetate, washed with water and
+brine, and concentrated in vacuo. The crude product was puriﬁed by
+column chromatography (silica, CH2Cl2
+to 95:5 CH2Cl2/diethyl
+ether) to obtain desired product 1a in moderate yield (348 mg, 54%).
+1,3-Bis(5-bromo-1-mesityl-1H-1,2,3-triazol-4-yl)benzene (1b)
+(Adopted from ref 56)
+. A Schlenk ﬂask was loaded with 1,3-
+bis(bromoethynyl)benzene (212 mg, 0.75 mmol) dissolved in dry
+THF (1.5 mL). Successively, mesityl azide (289 mg, 1.8 mmol, 2.4
+equiv), copper(I) bromide (44 mg, 0.30 mmol, 20 mol % with respect
+to each bromoethynyl group), and copper(II) acetate (54 mg, 0.30
+mmol, 20 mol % with respect to each bromoethynyl group) were
+added. The reaction mixture was stirred at 50 °C under nitrogen and
+TLC monitoring for a total of 2 weeks with additional dry THF added
+intermittently. Then, water was added and the solution was extracted
+three times with CH2Cl2. The combined organic layers were washed
+with an aqueous sodium hydrogen carbonate solution, brine, and twice
+with water. After removal of the solvent, the crude product was
+puriﬁed by column chromatography (silica, CH2Cl2) to obtain desired
+product 1b in moderate yield (239 mg, 53%). Single crystals were
+obtained by slow vapor diﬀusion of n-pentane into a concentrated
+solution of 1b in toluene. 1H NMR (400 MHz, CD2Cl2): δ 8.87 (s,
+1H), 8.20 (dd, 4J = 1.6 Hz, 3J = 7.8 Hz, 2H), 7.67 (t, 3J = 7.8 Hz, 1H),
+7.09 (s, 4H), 2.40 (s, 6H), 1.99 (s, 12H). 13C NMR (101 MHz,
+CD2Cl2): δ 144.3, 141.6, 136.5, 132.2, 130.9, 129.7, 127.2, 125.0,
+110.9, 21.5, 17.6. MS (MALDI-TOF, dithranol) m/z: 605.167 ([M +
+H]+). Anal. Calcd for C28H26Br2N6: C, 55.46; H, 4.32; Br, 26.36; N,
+13.86. Found: C, 55.59; H, 4.33; N, 13.91. Mp: 187−189 °C.
+4,4′-(1,3-Phenylene)bis(5-iodo-1-mesityl-3-methyl-1H-1,2,3-tria-
+zolium) Tetraﬂuoroborate (2a). Following general procedure B, 1a
+(300 mg, 0.43 mmol) and Meerwein’s salt (139 mg, 0.94 mmol) were
+allowed to react for 64 h at room temperature. After puriﬁcation, the
+desired product was precipitated by dropping the concentrated MeCN
+solution into diethyl ether (345 mg, 89%). Single crystals were
+obtained by dissolving 2a in a MeCN/MeOH/diethyl ether mixture
+and storing it in the fridge for several weeks. 1H NMR (250 MHz,
+acetone-d6): δ 8.48 (s, 1H), 8.29 (d, 3J = 7.5 Hz, 2H), 8.13 (t, 3J = 7.8
+Hz, 1H), 7.29 (s, 4H), 4.59 (s, 6H), 2.44 (s, 6H), 2.13 (s, 12H). 13C
+NMR (63 MHz, acetone-d6): δ 147.9, 144.1, 136.4, 135.1, 134.0,
+132.4, 131.7, 130.7, 125.4, 93.9, 40.9, 21.2, 17.4. MS (MALDI-TOF,
+dithranol) m/z: 817.113 ([M − BF4
+−]+). Anal. Calcd for
+C30H32B2F8I2N6: C, 39.86; H, 3.57; B, 2.39; F, 16.81; I, 28.08; N,
+9.30. Found: C, 39.86; H, 3.55; N, 9.27. Mp: >280 °C dec.
+4,4′-(1,3-Phenylene)bis(1-mesityl-3-methyl-1H-1,2,3-triazolium)
+Tetraﬂuoroborate (2). Following general procedure B, 1 (896 mg, 2.0
+mmol) and Meerwein’s salt (651 mg, 4.4 mmol) were allowed to react
+for 64 h at room temperature. TLC monitoring indicated traces of the
+monomethylated side product; thus, additional Meerwein’s salt (100
+mg, 0.7 mmol) was added, and the mixture was stirred over another
+night. Desired product 2 was precipitated by dropping a concentrated
+acetone solution into diethyl ether (1.11 g, 86%). 1H NMR (300 MHz,
+acetone-d6): δ 9.24 (s, 2H), 8.55 (s, 1H), 8.29 (d, 3J = 7.8 Hz, 2H),
+8.02 (t, 3J = 7.8 Hz, 1H), 7.22 (s, 4H), 4.63 (s, 6H), 2.40 (s, 6H), 2.19
+(s, 12H). 13C NMR (63 MHz, acetone-d6): δ 143.9, 143.5, 135.9,
+133.8, 132.7, 132.6, 132.4, 131.5, 130.7, 125.1, 40.2, 21.2, 17.3. HRMS
+(ESI-TOF) m/z: [M − BF4
+−]+ calcd for C30H34BF4N6, 565.2874;
+·0.5H2O: C, 54.49; H,
+found, 565.2867. Anal. Calcd for C30H34B2F8N6
+5.34; B, 3.27; F, 22.98; N, 12.71; O, 1.21. Found: C, 54.34; H, 5.20; N,
+12.75. Mp: 142−144 °C.
+4,4′-(1,3-Phenylene)bis(1-mesityl-3-methyl-1H-1,2,3-triazolium)
+silver Tetraﬂuoroborate (2Ag). Following general procedure C, 2
+(652 mg, 1.0 mmol) and Ag2O (696 mg, 3.0 mmol) were allowed to
+react under reﬂux overnight to obtain 2Ag in good yield (525 mg,
+78%). 1H NMR (250 MHz, CD3CN): δ 7.73−7.66 (m, 4H), 7.00 (s,
+4H), 4.08 (s, 6H), 2.43 (s, 6H), 1.74 (s, 12H). 13C NMR (75 MHz,
+CD3CN): δ 149.0, 141.5, 137.1, 135.1, 132.4, 131.8, 130.9, 130.7,
+130.1, 129.3, 38.4, 21.4, 17.3.
+4,4′-(1,3-Phenylene)bis(5-bromo-1-mesityl-3-methyl-1H-1,2,3-tri-
+azolium) Tetraﬂuoroborate (2b). Following general procedure D,
+2Ag (201 mg, 0.3 mmol) dissolved in dry CH2Cl2 (10 mL) was
+
+Article
+
+reacted with 1 mL of a 0.66 M stock solution of bromine (104 mg,
+0.66 mmol) in dry CH2Cl2. After removal of the silver salt and anion
+exchange, desired product 2b was isolated in good yield as a white
+solid (208 mg, 86%). Single crystals with a bound bromide were
+obtained by slow vapor diﬀusion of diethyl ether into a concentrated
+solution of 2b before anion exchange in a 9:1 MeCN/MeOH mixture.
+1H NMR (300 MHz, CD3CN): δ 8.23−8.01 (m, 4H), 7.26 (s, 4H),
+4.39 (s, 6H), 2.43 (s, 6H), 2.14 (s, 12H). 13C NMR (63 MHz,
+CD3CN): δ 144.8, 142.8, 136.4, 135.0, 133.1, 132.1, 131.0, 130.4,
+123.9, 121.0, 41.5, 21.3, 17.4. MS (MALDI-TOF, dithranol) m/z:
+721.201 ([M − BF4
+−]+). Anal. Calcd for C30H32B2Br2F8N6: C, 44.48;
+H, 3.98; B, 2.67; Br, 19.73; F, 18.76; N, 10.38. Found: C, 44.49; H,
+4.38; N, 10.61. Mp: 241−243 °C.
+
+2,5-Bis(1-mesityl-1H-1,2,3-triazol-4-yl)thiophene (6). Following
+general procedure A, mesityl azide (2.90 g, 18.0 mmol), copper(II)
+sulfate (240 mg, 1.5 mmol), sodium ascorbate (2.97 g, 15 mmol), and
+2,5-diethynylthiophene (991 mg, 7.5 mmol) were allowed to react for
+17 h at 50 °C to yield 6 as a yellow solid (2.86 g, 84%). 1H NMR (250
+MHz, CDCl3): δ 7.79 (s, 2H), 7.49 (s, 2H), 7.02 (s, 4H), 2.37 (s, 6H),
+2.04 (s, 12H). 13C NMR (63 MHz, CDCl3): δ 142.4, 140.2, 135.1,
+133.2, 132.4, 129.1, 124.8, 121.0, 21.1, 17.4. MS (MALDI-TOF,
+dithranol) m/z: 455.359 ([M + H]+). Anal. Calcd for C26H26N6S: C,
+68.69; H, 5.76; N, 18.49; S, 7.05. Found: C, 68.57; H, 5.61; N, 18.31;
+S, 7.04. Mp: >280 °C dec.
+4,4′-(2,5-Thiophene)bis(1-mesityl-3-methyl-1H-1,2,3-triazolium)
+Tetraﬂuoroborate (3). Following general procedure B, 6 (910 mg, 2.0
+mmol) and Meerwein’s salt (651 mg, 4.4 mmol) were allowed to react
+for 23 h at room temperature. During puriﬁcation, a concentrated
+acetone solution was dropped into diethyl ether, and the resulting
+precipitate was ﬁltered, washed, and dried to yield 3 as a yellow solid
+(1.24 g, 94%). 1H NMR (250 MHz, acetone-d6): δ 9.43 (s, 2H), 8.15
+(s, 2H), 7.23 (s, 4H), 4.73 (s, 6H), 2.41 (s, 6H), 2.19 (s, 12H). 13C
+NMR (63 MHz, acetone-d6): δ 143.5, 138.4, 135.8, 134.6, 132.4,
+132.3, 130.6, 128.1, 40.6, 21.1, 17.2. MS (ESI-TOF) m/z: 571.241 ([M
+− BF4
+−]+). Anal. Calcd for C28H32B2F8N6S: C, 51.09; H, 4.90; B, 3.28;
+F, 23.09; N, 12.77; S, 4.87. Found: C, 50.83; H, 5.04; N, 12.50; S, 4.61.
+Mp: >280 °C dec.
+4,4′-(2,5-Thiophene)bis(1-mesityl-3-methyl-1H-1,2,3-triazolium)
+silver Tetraﬂuoroborate (3Ag). Following general procedure C, 3
+(658 mg, 1.0 mmol) and Ag2O (696 mg, 3.0 mmol) were heated to
+reﬂux overnight. After this time, 1H NMR analysis showed ∼20%
+conversion. Consequently, the mixture was stirred another day under
+heating to reﬂux to reach full conversion after 44 h. After the general
+puriﬁcation, 3Ag was isolated in good yield (524 mg, 78%). 1H NMR
+(400 MHz, CD3CN): δ 7.63 (s, 2H), 7.08 (s, 4H), 4.34 (s, 6H), 2.38
+(s, 6H), 1.70 (s, 12H). 13C NMR (63 MHz, CD3CN): δ 169.2 (d, 1J =
+172.5 Hz, 107/109Ag−13C), 142.8, 142.2, 137.0, 135.2, 131.3, 130.9,
+130.3, 39.6, 21.2, 17.2.
+4,4′-(2,5-Thiophene)bis(5-iodo-1-mesityl-3-methyl-1H-1,2,3-tria-
+zolium) Tetraﬂuoroborate (3a). Following general procedure D, 3Ag
+(203 mg, 0.3 mmol) dissolved in a 1:1 CH2Cl2/MeCN mixture (10
+mL) was reacted with iodine (168 mg, 0.66 mmol) dissolved in MeCN
+(2 mL). After puriﬁcation, 3a was isolated in good yield as a green
+solid (243 mg, 89%). Single crystals were obtained by slow vapor
+diﬀusion of diethyl ether into a solution of 3a in DMF. 1H NMR (250
+MHz, DMF-d7): δ 8.27 (s, 2H), 7.34 (s, 4H), 4.72 (s, 6H), 2.45 (s,
+6H), 2.13 (s, 12H). 13C NMR (75 MHz, DMF-d7): δ 144.1, 143.2,
+136.5, 135.8, 132.6, 130.9, 129.0, 98.5, 41.3, 21.5, 17.6. HRMS (ESI-
+TOF) m/z: [M]2+ calcd for C28H30I2N6S, 368.0166; found, 368.0187.
+Mp: 196−200 °C dec.
+4,4′-(2,5-Thiophene)bis(5-bromo-1-mesityl-3-methyl-1H-1,2,3-tri-
+azolium) Tetraﬂuoroborate (3b). Following general procedure D,
+3Ag (203 mg, 0.3 mmol) dissolved in a 1:1 CH2Cl2/MeCN mixture
+(10 mL) was reacted with 1 mL of a 0.66 M stock solution of bromine
+(104 mg, 0.66 mmol) in dry CH2Cl2. After removal of the silver salt
+and anion exchange, 3b was isolated in good yield as a yellow solid
+(228 mg, 93%). Single crystals were obtained by slow vapor diﬀusion
+of diethyl ether into a concentrated solution of 3b in MeCN. 1H NMR
+(250 MHz, CD3CN): δ 8.01 (s, 2H), 7.26 (s, 4H), 4.47 (s, 6H), 2.43
+(s, 6H), 2.12 (s, 12H). 13C NMR (75 MHz, CD3CN): δ 144.9, 138.2,
+
+3148
+
+DOI: 10.1021/acs.joc.5b00028
+J. Org. Chem. 2015, 80, 3139−3150
+
+The Journal of Organic Chemistry
+
+136.5, 135.9, 131.0, 130.4, 127.3, 121.5, 41.9, 21.3, 17.5. MS (ESI-
+TOF) m/z: 727.060 ([M − BF4
+−] +). Anal. Calcd for
+C28H30B2Br2F8N6S: C, 41.21; H, 3.71; B, 2.65; Br, 19.58; F, 18.62;
+N, 10.30; S, 3.93. Found: C, 40.92; H, 3.67; N, 10.46; S, 3.67. Mp:
+184−187 °C dec.
+1,1′-(1,3-Phenylene)bis(4-benzyl-1,2,4-triazol-4-ium) Tetraﬂuoro-
+borate (4). 1,1′-(1,3-Phenylene)bis(4-benzyl-1,2,4-triazol-4-ium) bro-
+mide (400 mg, 0.73 mmol) was dissolved in a 1:1 DMSO/MeOH
+mixture (10 mL) and slowly dropped into a 0.3 M aqueous
+ammonium tetraﬂuoroborate solution (150 mL). The precipitated
+white solid was ﬁltered, washed with water, and dried to obtain 4 (390
+mg, 94%). 1H NMR (300 MHz, CD3CN): δ 9.95 (s, 2H), 8.89 (s,
+2H), 8.28 (s, 1H), 8.04 (d, 3J = 7.4 Hz, 2H), 7.92 (t, 3J = 7.5 Hz, 1H),
+7.65−7.44 (m, 10H), 5.55 (s, 4H). 13C NMR (63 MHz, CD3CN): δ
+145.9, 142.2, 137.2, 133.4, 132.8, 130.9, 130.6, 130.5, 124.3, 115.5,
+53.3. MS (ESI-TOF) m/z: 481.214 ([M − BF4
+−]+). Anal. Calcd for
+C24H22B2F8N6: C, 50.74; H, 3.90; B, 3.81; F, 26.75; N, 14.79. Found:
+C, 50.42; H, 4.16; N, 14.75. Mp: 262−264 °C.
+1,1′-(1,3-Phenylene)bis(4-benzyl-1,2,4-triazol-4-ium)silver Tetra-
+ﬂuoroborate (4Ag). In this case, general procedure C had to be
+varied because of the second acidic hydrogen atom of the 1,2,4-
+triazolium. Consequently, 4 (89 mg, 0.16 mmol) and only 1 equiv of
+Ag2O (36 mg, 0.16 mmol) in dry and degassed MeCN (5 mL) were
+allowed to react for 2.5 h under reﬂux to obtain the desired product
+4Ag in good yield after the general puriﬁcation steps (81 mg, 88%). 1H
+NMR (300 MHz, CD3CN): δ 8.64 (s, 2H), 8.09−7.89 (m, 3H), 7.75
+(t, 3J = 8.4 Hz, 1H), 7.03−6.62 (m, 10H), 5.07 (s, 4H). 13C NMR
+(101 MHz, CD3CN): δ 180.1 (d, 1J = 199.0 Hz, 107/109Ag−13C), 146.0,
+140.5, 136.1, 132.7, 129.7, 129.6, 129.4, 123.6, 113.0, 53.4.
+■ ASSOCIATED CONTENT
+*S Supporting Information
+NMR spectra, binding studies, X-ray data, and DFT calculation
+data. This material is available free of charge via the Internet at
+http://pubs.acs.org. Crystallographic data (excluding structure
+factors) have been deposited with the Cambridge Crystallo-
+graphic Data Centre as supplementary publication CCDC-
+1022784 (1a), CCDC-1022785 (1b), CCDC-1022786 (2a),
+CCDC-1022787 (2a·SO4), CCDC-1022788 (2b), CCDC-
+1022789 (3a), and CCDC-1022790 (1,2,4-
+triazolium-5-
+oxide). Copies of the data can be obtained free of charge
+upon application to the CCDC at 12 Union Road, Cambridge
+CB2 1EZ, U.K. E-mail: deposit@ccdc.cam.ac.uk.
+
+■ AUTHOR INFORMATION
+
+Corresponding Author
+*E-mail: ulrich.schubert@uni-jena.de.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+R.T. is grateful for a scholarship from the Federal Ministry of
+Education and Research (“Deutschlandstipendium”). We also
+thank W. Günther and G. Sentis (NMR spectroscopy) as well
+as E. Altuntas, N. Fritz, and S. Crotty (MALDI and ESI-MS)
+for discussions and performing experiments.
+
+■ REFERENCES
+(1) Albelda, M. T.; Frı́as, J. C.; Garcı́a-España, E.; Schneider, H.-J.
+Chem. Soc. Rev. 2012, 41, 3859.
+(2) Beer, P. D.; Gale, P. A. Angew. Chem., Int. Ed. 2001, 40, 486.
+(3) Lehn, J.-M. Science 1993, 260, 1762.
+(4) Kubik, S.; Reyheller, C.; Stüwe, S. J. Inclusion Phenom. Macrocyclic
+Chem. 2005, 52, 137.
+
+Article
+
+(5) Desiraju, G. R.; Ho, P. S.; Kloo, L.; Legon, A. C.; Marquardt, R.;
+Metrangolo, P.; Politzer, P.; Resnati, G.; Rissanen, K. Pure Appl. Chem.
+2013, 85, 1711.
+(6) Metrangolo, P.; Meyer, F.; Pilati, T.; Resnati, G.; Terraneo, G.
+Angew. Chem., Int. Ed. 2008, 47, 6114.
+(7) Metrangolo, P.; Resnati, G. Science 2008, 321, 918.
+(8) Caballero, A.; Zapata, F.; White, N. G.; Costa, P. J.; Félix, V.;
+Beer, P. D. Angew. Chem., Int. Ed. 2012, 51, 1876.
+(9) Zapata, F.; Caballero, A.; White, N. G.; Claridge, T. D. W.; Costa,
+P. J.; Félix, V.; Beer, P. D. J. Am. Chem. Soc. 2012, 134, 11533.
+(10) Asmus, S.; Beckendorf, S.; Zurro, M.; Mück-Lichtenfeld, C.;
+Fröhlich, R.; García Mancheño, O. Chem.Asian J. 2014, 9, 2178.
+(11) Beckendorf, S.; Asmus, S.; Mück-Lichtenfeld, C.; García
+Mancheño, O. Chem.Eur. J. 2012, 19, 1581.
+(12) Jungbauer, S. H.; Schindler, S.; Kniep, F.; Walter, S. M.; Rout,
+L.; Huber, S. M. Synlett 2013, 24, 2624.
+(13) Walter, S. M.; Kniep, F.; Herdtweck, E.; Huber, S. M. Angew.
+Chem., Int. Ed. 2011, 50, 7187.
+(14) Kniep, F.; Rout, L.; Walter, S. M.; Bensch, H. K. V.; Jungbauer,
+S. H.; Herdtweck, E.; Huber, S. M. Chem. Commun. (Cambridge, U.K.)
+2012, 48, 9299.
+(15) Kniep, F.; Walter, S. M.; Herdtweck, E.; Huber, S. M. Chem.
+Eur. J. 2012, 18, 1306.
+(16) Bruckmann, A.; Pena, M. A.; Bolm, C. Synlett 2008, 900.
+(17) Castelli, R.; Schindler, S.; Walter, S. M.; Kniep, F.; Overkleeft,
+H. S.; Van der Marel, G. A.; Huber, S. M.; Codée, J. D. C. Chem.
+Asian J. 2014, 9, 2095.
+(18) He, W.; Ge, Y.-C.; Tan, C.-H. Org. Lett. 2014, 16, 3244.
+(19) Zurro, M.; Asmus, S.; Beckendorf, S.; Mück-Lichtenfeld, C.;
+García Mancheño, O. J. Am. Chem. Soc. 2014, 136, 13999.
+(20) Ohmatsu, K.; Kiyokawa, M.; Ooi, T. J. Am. Chem. Soc. 2011,
+133, 1307.
+(21) Kilah, N. L.; Wise, M. D.; Serpell, C. J.; Thompson, A. L.;
+White, N. G.; Christensen, K. E.; Beer, P. D. J. Am. Chem. Soc. 2010,
+132, 11893.
+(22) Gilday, L. C.; Lang, T.; Caballero, A.; Costa, P. J.; Félix, V.;
+Beer, P. D. Angew. Chem., Int. Ed. 2013, 52, 4356.
+(23) Mullaney, B. R.; Thompson, A. L.; Beer, P. D. Angew. Chem., Int.
+Ed. 2014, 53, 11458.
+(24) Caballero, A.; Swan, L.; Zapata, F.; Beer, P. D. Angew. Chem., Int.
+Ed. 2014, 53, 11854.
+(25) Mullaney, B. R.; Partridge, B. E.; Beer, P. D. Chem.Eur. J.
+2015, 21, 1660.
+(26) Robinson, S. W.; Mustoe, C. L.; White, N. G.; Brown, A.;
+Thompson, A. L.; Kennepohl, P.; Beer, P. D. J. Am. Chem. Soc. 2015,
+137, 499.
+(27) Clark, T.; Hennemann, M.; Murray, J. S.; Politzer, P. J. Mol.
+Model. 2007, 13, 291.
+(28) Erdelyi, M. Chem. Soc. Rev. 2012, 41, 3547.
+(29) Schulze, B.; Schubert, U. S. Chem. Soc. Rev. 2014, 43, 2522.
+(30) Politzer, P.; Lane, P.; Concha, M. C.; Ma, Y.; Murray, J. S. J. Mol.
+Model. 2007, 13, 305.
+(31) Chudzinski, M. G.; McClary, C. A.; Taylor, M. S. J. Am. Chem.
+Soc. 2011, 133, 10559.
+(32) Kilah, N. L.; Wise, M. D.; Beer, P. D. Cryst. Growth Des. 2011,
+11, 4565.
+(33) Beale, T. M.; Chudzinski, M. G.; Sarwar, M. G.; Taylor, M. S.
+Chem. Soc. Rev. 2013, 42, 1667.
+(34) Walter, S. M.; Kniep, F.; Rout, L.; Schmidtchen, F. P.;
+Herdtweck, E.; Huber, S. M. J. Am. Chem. Soc. 2012, 134, 8507.
+(35) Zapata, F.; Caballero, A.; Molina, P.; Alkorta, I.; Elguero, J. J.
+Org. Chem. 2014, 79, 6959.
+(36) Caballero, A.; White, N. G.; Beer, P. D. Angew. Chem., Int. Ed.
+2011, 50, 1845.
+(37) Sarwar, M. G.; Dragisić, B.; Dimitrijević, E.; Taylor, M. S.
+Chem.Eur. J. 2013, 19, 2050.
+(38) Kniep, F.; Jungbauer, S. H.; Zhang, Q.; Walter, S. M.; Schindler,
+S.; Schnapperelle, I.; Herdtweck, E.; Huber, S. M. Angew. Chem., Int.
+Ed. 2013, 52, 7028.
+
+3149
+
+DOI: 10.1021/acs.joc.5b00028
+J. Org. Chem. 2015, 80, 3139−3150
+
+The Journal of Organic Chemistry
+
+(39) Sarwar, M. G.; Dragisic, B.; Salsberg, L. J.; Gouliaras, C.; Taylor,
+M. S. J. Am. Chem. Soc. 2010, 132, 1646.
+(40) Mele, A.; Metrangolo, P.; Neukirch, H.; Pilati, T.; Resnati, G. J.
+Am. Chem. Soc. 2005, 127, 14972.
+(41) Sarwar, M. G.; Dragisic, B.; Sagoo, S.; Taylor, M. S. Angew.
+Chem., Int. Ed. 2010, 49, 1674.
+(42) Dimitrijević, E.; Kvak, O.; Taylor, M. S. Chem. Commun.
+(Cambridge, U.K.) 2010, 46, 9025.
+(43) Cametti, M.; Raatikainen, K.; Metrangolo, P.; Pilati, T.;
+Terraneo, G.; Resnati, G. Org. Biomol. Chem. 2012, 10, 1329.
+(44) Serpell, C. J.; Kilah, N. L.; Costa, P. J.; Félix, V.; Beer, P. D.
+Angew. Chem., Int. Ed. 2010, 49, 5322.
+(45) Gilday, L. C.; White, N. G.; Beer, P. D. Dalton Trans. 2013, 42,
+15766.
+(46) Mercurio, J. M.; Knighton, R. C.; Cookson, J.; Beer, P. D.
+Chem.Eur. J. 2014, 20, 11740.
+(47) Meldal, M.; Tornøe, C. W. Chem. Rev. 2008, 108, 2952.
+(48) Hein, J. E.; Fokin, V. V. Chem. Soc. Rev. 2010, 39, 1302.
+(49) Tornøe, C. W.; Christensen, C.; Meldal, M. J. Org. Chem. 2002,
+67, 3057.
+(50) Rostovtsev, V. V.; Green, L. G.; Fokin, V. V.; Sharpless, K. B.
+Angew. Chem., Int. Ed. 2002, 41, 2596.
+(51) Jurı́ček, M.; Kouwer, P. H. J.; Rowan, A. E. Chem. Commun.
+(Cambridge, U.K.) 2011, 47, 8740.
+(52) Lee, S.; Hua, Y.; Park, H.; Flood, A. H. Org. Lett. 2010, 12, 2100.
+(53) Schulze, B.; Friebe, C.; Hager, M. D.; Günther, W.; Köhn, U.;
+Jahn, B. O.; Görls, H.; Schubert, U. S. Org. Lett. 2010, 12, 2710.
+(54) Uhlmann, P.; Felding, J.; Vedsø, P.; Begtrup, M. J. Org. Chem.
+1997, 62, 9177.
+(55) Brotherton, W. S.; Clark, R. J.; Zhu, L. J. Org. Chem. 2012, 77,
+6443.
+(56) Kuijpers, B. H. M.; Dijkmans, G. C. T.; Groothuys, S.;
+Quaedflieg, P. J. L. M.; Blaauw, R. H.; van Delft, F. L.; Rutjes, F. P. J.
+T. Synlett 2005, 3059.
+(57) Hein, J. E.; Tripp, J. C.; Krasnova, L. B.; Sharpless, K. B.; Fokin,
+V. V. Angew. Chem., Int. Ed. 2009, 48, 8018.
+(58) Juríček, M.; Stout, K.; Kouwer, P. H. J.; Rowan, A. E. Org. Lett.
+2011, 13, 3494.
+(59) Shu, L.; Müri, M.; Krupke, R.; Mayor, M. Org. Biomol. Chem.
+2009, 7, 1081.
+(60) Mullen, K. M.; Mercurio, J.; Serpell, C. J.; Beer, P. D. Angew.
+Chem., Int. Ed. 2009, 48, 4781.
+(61) Donnelly, K. F.; Petronilho, A.; Albrecht, M. Chem. Commun.
+(Cambridge, U.K.) 2013, 49, 1145.
+(62) Mathew, P.; Neels, A.; Albrecht, M. J. Am. Chem. Soc. 2008, 130,
+13534.
+(63) Saravanakumar, R.; Ramkumar, V.; Sankararaman, S. Organo-
+metallics 2011, 30, 1689.
+(64) Clark, W. D.; Tyson, G. E.; Hollis, T. K.; Valle, H. U.; Valente,
+E. J.; Oliver, A. G.; Dukes, M. P. Dalton Trans. 2013, 42, 7338.
+(65) Hollis, T.; Zhang, X. Air-stable, blue light emitting chemical
+compounds. WO 2011050003 A2, 2011.
+(66) Petronilho, A.; Müller-Bunz, H.; Albrecht, M. Chem. Commun.
+(Cambridge, U.K.) 2012, 48, 6499.
+(67) Caballero, A.; Bennett, S.; Serpell, C.
+CrystEngComm 2013, 15, 3076.
+(68) Gower, M. L.; Crowley, J. D. Dalton Trans. 2010, 39, 2371.
+(69) Kilpin, K. J.; Paul, U. S. D.; Lee, A.-L.; Crowley, J. D. Chem.
+Commun. (Cambridge, U.K.) 2011, 47, 328.
+(70) Bondi, A. J. Phys. Chem. 1964, 68, 441.
+(71) Rosokha, S. V.; Stern, C. L.; Ritzert, J. T. Chem.Eur. J. 2013,
+19, 8774.
+(72) White, N. G.; Caballero, A.; Beer, P. D. CrystEngComm 2014,
+16, 3722.
+(73) Hynes, M. J. J. Chem. Soc., Dalton Trans. 1993, 311.
+(74) Caballero, A.; Zapata, F.; González, L.; Molina, P.; Alkorta, I.;
+Elguero, J. Chem. Commun. (Cambridge, U.K.) 2014, 50, 4680.
+(75) The chemical-shift migration of the 3,5-protons of the mesityl
+rings (H-3,5mes) was used for the determination of
+the binding
+
+J.; Beer, P. D.
+
+Article
+
+constants because these signals are present in both phenyl- and
+thienyl-containing receptors and because the proton resonances for
+the central phenyl ring overlapped in the oxo-anion binding studies.
+Note that the analysis based on the chemical shifts of the triazolium
+protons (H-5trz, see Table 1) and the protons of the triazolium’s
+methyl group (CH3-3trz) gave very similar results.
+(76) White, N. G.; Carvalho, S.; Félix, V.; Beer, P. D. Org. Biomol.
+Chem. 2012, 10, 6951.
+(77) Ursu, A.; Schmidtchen, F. P. Angew. Chem., Int. Ed. 2012, 51,
+242.
+(78) Schmidtchen, F. P. Chem. Soc. Rev. 2010, 39, 3916.
+(79) Note that
+the SequentialBinding model, which implies a
+successive 1:1 and 1:2 complex formation, is not applicable here (see
+Figure S54, SI).
+(80) Hill, J. G.; Hu, X. Chem.Eur. J. 2013, 19, 3620.
+(81) Legon, A. C. Angew. Chem., Int. Ed. 1999, 38, 2686.
+(82) Metrangolo, P.; Neukirch, H.; Pilati, T.; Resnati, G. Acc. Chem.
+Res. 2005, 38, 386.
+(83) Hu, H.; Zhang, A.; Ding, L.; Lei, X.; Zhang, L. Molecules 2008,
+13, 556.
+(84) Neenan, T. X.; Whitesides, G. M. J. Org. Chem. 1988, 53, 2489.
+(85) Ju, Y.; Kumar, D.; Varma, R. S. J. Org. Chem. 2006, 71, 6697.
+(86) Huang, W.; Zhang, R.; Zou, G.; Tang, J.; Sun, J. J. Organomet.
+Chem. 2007, 692, 3804.
+(87) Frisch, M. J.; Trucks, G. W.; Schlegel, H. B.; Scuseria, G. E.;
+Robb, M. A.; Cheeseman, J. R.; Scalmani, G.; Barone, V.; Mennucci,
+B.; Petersson, G. A.; Nakatsuji, H.; Caricato, M.; Li, X.; Hratchian, H.
+P.; Izmaylov, A. F.; Bloino, J.; Zheng, G.; Sonnenberg, J. L.; Hada, M.;
+Ehara, M.; Toyota, K.; Fukuda, R.; Hasegawa, J.; Ishida, M.; Nakajima,
+T.; Honda, Y.; Kitao, O.; Nakai, H.; Vreven, T.; Montgomery, J. A., Jr.;
+Peralta, J. E.; Ogliaro, F.; Bearpark, M.; Heyd, J. J.; Brothers, E.; Kudin,
+K. N.; Staroverov, V. N.; Kobayashi, R.; Normand, J.; Raghavachari, K.;
+Rendell, A.; Burant, J. C.; Iyengar, S. S.; Tomasi, J.; Cossi, M.; Rega,
+N.; Millam, J. M.; Klene, M.; Knox, J. E.; Cross, J. B.; Bakken, V.;
+Adamo, C.; Jaramillo, J.; Gomperts, R.; Stratmann, R. E.; Yazyev, O.;
+Austin, A. J.; Cammi, R.; Pomelli, C.; Ochterski, J. W.; Martin, R. L.;
+Morokuma, K.; Zakrzewski, V. G.; Voth, G. A.; Salvador, P.;
+Dannenberg,
+J.; Dapprich, S.; Daniels, A. D.; Farkas, O.;
+Foresman, J. B.; Ortiz, J. V.; Cioslowski, J.; Fox, D. J. Gaussian 09,
+revision A.02; Gaussian, Inc.: Wallingford, CT, 2009.
+(88) Zhao, Y.; Truhlar, D. Theor. Chem. Acc. 2008, 120, 215.
+(89) Andrae, D.; Häußermann, U.; Dolg, M.; Stoll, H.; Preuß, H.
+Theor. Chim. Acta 1990, 77, 123.
+(90) Weigend, F.; Ahlrichs, R. Phys. Chem. Chem. Phys. 2005, 7, 3297.
+(91) Tomasi, J.; Mennucci, B.; Cammi, R. Chem. Rev. 2005, 105,
+2999.
+(92) Dennington, R.; Keith, T.; Millan, J. GaussView 5.0, version
+5.0.8; Semicchem, Inc.: Shawnee Mission, KS, 2009.
+(93) Nonius, B. V.; COLLECT; Netherlands, 1998.
+(94) Otwinowski, Z.; Minor, W. In Methods in Enzymology; Carter, C.
+W., Jr., Ed.; Academic Press: New York, 1997; Vol. 276, p 307.
+(95) Sheldrick, G. M.; SADABS, version 2.10, Bruker-AXS, Inc.:
+Madison, WI, 2002.
+(96) Sheldrick, G. Acta Crystallogr. A 2008, A64, 112.
+(97) Spek, A. L. Acta Crystallogr. D 2009, D65, 148.
+(98) Schulze, B.; Escudero, D.; Friebe, C.; Siebert, R.; Görls, H.;
+Sinn, S.; Thomas, M.; Mai, S.; Popp, J.; Dietzek, B.; González, L.;
+Schubert, U. S. Chem.Eur. J. 2012, 18, 4010.
+(99) Schulze, B.; Escudero, D.; Friebe, C.; Siebert, R.; Görls, H.;
+Köhn, U.; Altuntas, E.; Baumgaertel, A.; Hager, M. D.; Winter, A.;
+Dietzek, B.; Popp, J.; González, L.; Schubert, U. S. Chem.Eur. J.
+2011, 17, 5494.
+(100) O, W. W. N.; Lough, A. J.; Morris, R. H. Organometallics 2009,
+28, 853.
+(101) Hancock, L. M.; Gilday, L. C.; Kilah, N. L.; Serpell, C. J.; Beer,
+P. D. Chem. Commun. (Cambridge, U.K.) 2011, 47, 1725.
+(102) Satake, A.; Shoji, O.; Kobuke, Y. J. Organomet. Chem. 2007,
+692, 635.
+
+J.
+
+3150
+
+DOI: 10.1021/acs.joc.5b00028
+J. Org. Chem. 2015, 80, 3139−3150
+
+

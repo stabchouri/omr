@@ -1,0 +1,481 @@
+Note
+
+pubs.acs.org/joc
+
+Syntheses of Arnottin I and Arnottin II
+Matthew J. Moschitto, David R. Anthony, and Chad A. Lewis*
+
+Department of Chemistry and Chemical Biology, Baker Laboratory, Cornell University, Ithaca, New York 14853, United States
+
+*S Supporting Information
+
+ABSTRACT: Short total syntheses of arnottin I and II were accomplished in 5 and 6 steps, respectively. A sesamol-benzyne
+cycloaddition with a 3-furyl-benzoate followed by regiospeciﬁc lactonization provided rapid, large-scale access to the core of
+arnottin I. Saponiﬁcation of arnottin I and hypervalent iodide mediated spirocyclization provided an eﬃcient and direct
+preparation of racemic arnottin II.
+
+T he arnottins (I and II) are coumarin-type natural products
+
+isolated from the bark of the Xanthoxylum arnottianum
+Maxim (rutaceae) and are surmised to possess antibiotic
+properties.1 Syntheses of these interesting metabolites have
+been reported after
+isolation and structural
+determination.2 The absolute stereochemical conﬁguration of
+spirocyclic arnottin II was
+synthetically determined via
+asymmetric dihydroxylation of a reduced isomer of arnottin I
+by Yamaguchi and co-workers.2c
+
+the initial
+
+Scheme 1. Preparation of Arnottin I
+
+Tandem oxidative dearomatization and spirocyclization3 is
+capable of converting simple benzocoumarins
+to chiral
+spirocyclic lactones that are found in several natural product
+families. The direct conversion of arnottin I to arnottin II using
+this method has not yet been reported. Hypervalent iodide
+mediated oxidative dearomatization has been employed in the
+synthesis of various natural products including galanthamine
+and other amaryllidaceae alkaloids.4,5 Recent advances have
+allowed for asymmetric hypervalent iodide oxidative dearoma-
+tization;6,7 however, few examples exist within total synthesis.
+To study and expand upon current methods for hypervalent
+iodide mediated spirocyclization, a short and concise synthesis
+of the arnottins was pursued. The preparation of arnottin I
+utilized a benzyne cycloaddition, hydrolysis, and oxidative
+spirocyclization to arnottin II to provide large quantities of the
+metabolites for testing.
+<para sub="scope">
+A convergent synthetic path to arnottin I was planned using a
+benzyne cycloaddition with a 3-furyl benzoate, followed by
+lactone formation (Scheme 1). Bis-lithiation of 6-bromosesa-
+mol,8 followed by trimethylsilyl chloride quench and triﬂation
+using under Mori’s procedure9 aﬀorded benzyne precursor 4 in
+74% overall yield on 5 g scale. The furyl coupling partner was
+
+prepared from readily available dimethoxybenzoic acid and
+converted to either the methyl (5a) or tert-butyl bromoester
+(5b) in 2 steps.2c The bromoester (5) was cross-coupled under
+Suzuki’s condition with commercially available 3-furylboronic
+acid in 82 and 96% yield for the methyl and tert-butyl ester,
+respectively. The benzyne-mediated cycloaddition proved
+capricious and required the sesamol silyltriﬂate to be used in
+excess (1.4 equiv) with slow generation of the benzyne using
+weakly soluble CsF in acetonitrile. The in situ cycloaddition
+produced the arnottin I progenitors (rac-7a, rac-7b) in 66 and
+64% yield, respectively.
+</para>
+Received:
+Published: March 9, 2015
+
+January 15, 2015
+
+© 2015 American Chemical Society
+
+3339
+
+DOI: 10.1021/acs.joc.5b00107
+J. Org. Chem. 2015, 80, 3339−3342
+
+The Journal of Organic Chemistry
+<para sub="scope">
+Unsaturated bicyclic ethers, such as 7, can be converted to
+naphthols under a variety of conditions including Bronsted
+acids,10 ruthenium,11 rhodium,12 and aluminum complexes.13
+The naphthol regioisomer produced is less predictable and was
+unknown for structure 7 at the onset of these studies. For the
+transformation of esters rac-7a and rac-7b to 1, several
+conditions were attempted: Lewis acids such as BF3-etherate
+or Sc(OTf)3 gave complex mixtures and nucleophiles such as
+NaI and NaBr resulted in degradation. Bronsted acids were
+most eﬀectual with HCl and TsOH both providing arnottin I
+for rac-7a and rac-7b in diﬀering yield. Exposure of methyl ester
+rac-7a to TsOH in methanol led to nonregiospeciﬁc naphthol
+formation resulting in both arnottin I (15%) and the 4-
+naphthol derivative 8.14 Identical reaction conditions were
+attempted with tert-butyl ester rac-7b and surprisingly led to
+clean conversion of arnottin I in 92% yield with no 4-naphthol
+derivative observed. The synthetically prepared arnottin I
+displayed spectroscopic and physical properties identical to the
+natural product.1 The disparity in reaction yield between rac-7a
+and rac-7b to arnottin I and the absent 4-naphthol derivative in
+the rac-7b reaction suggests the mechanism follows diﬀerent
+paths for each ester employed. The methyl ester (rac-7a)
+produced both arnottin I and the 4-naphthol derivative
+suggesting naphthol formation occurred with little regiospeci-
+ﬁcity. The resultant 1-naphthol produced arnottin I whereas the
+4-naphthol was incapable of cyclization. The tert-butyl ester
+(rac-7b) cleanly aﬀorded arnottin I, suggesting the ester is
+deprotected prior
+formation. One plausible
+mechanism is the weakening of a tert-butyl ester proton due
+to carbonyl lone-pair donation into the C−O σ* of the bicycle,
+resulting in loss of
+isobutylene and carboxylate promoted
+rupture of the allylic ether as shown by intermediate 9 (Figure
+1). The resultant benzylic alcohol (10) is quickly dehydrated to
+
+to naphthol
+</para>
+Figure 1. Proposed carboxylate-assisted lactonization cascade.
+<para sub="scope">
+formation during the course of
+
+in situ 1H NMR, showed no tert-
+arnottin I. Furthermore,
+butanol
+the reaction
+discouraging the phenol formation and lactonization scenario.
+Isobutylene was not observed; however, volatility would make
+detection diﬃcult. The fortuitous sequence aﬀorded large
+quantities of arnottin I and allowed the study of conversion to
+arnottin II.
+</para>
+<para sub="scope">
+Saponiﬁcation of arnottin I required immediate exposure to
+spirocyclization conditions due to competitive recyclization and
+recovery of arnottin I in acid. Careful hydrolysis of arnottin I
+was followed by protonation of the carboxylate to a pH of 2−3,
+</para>
+Note
+<para sub="scope">
+which reduced the conversion to arnottin I and retained
+solubility for the spirocyclization studies.
+</para>
+<para sub=“opt”>
+The saponiﬁed phenol acid was immediately exposed to
+diﬀerent hypervalent iodide conditions to eﬀect the spirocyc-
+lization. The highly reactive bis(triﬂuoroacetoxy)iodobenzene
+(PIFA) was necessary to form racemic arnottin II in DCM with
+cesium carbonate as an additive in 23% yield (Table 1, entry 1).
+</para>
+Table 1. Screen of hypervalent iodide conditions
+
+entry
+1
+2
+3
+4
+5
+6b
+7b
+
+solvent
+
+additive
+
+time (h)
+
+CsCO3
+
+DCM
+TFE
+HFIP
+DCM/HFIP
+HFIP
+HFIP/MeCN MgCIO4
+HFIP
+
+Et3N, DMAP
+
+4
+4
+12
+12
+12
+12
+12
+
+temp
+(°C)
+−40
+−20
+0
+0
+0
+0
+0
+
+yield
+(%)a
+23
+25
+40
+28
+35
+25
+56
+
+aYield refers to isolated yields following silica gel chromatography.
+bSyringe pump addition of PIFA over 1 h.
+<para sub=“opt”>
+Kita noted substantial
+increases in yield using ﬂuorinated
+solvents10 that were also investigated. Triﬂuoroethanol (TFE,
+entry 2, 25%) was inferior as compared to hexaﬂuoroisopro-
+panol (HFIP, entry 3, 40%) as solvent. Blends of DCM and
+HFIP (entry 4, 28%) did not oﬀer enhanced yields. An
+intensely colored intermediate was formed over the ﬁrst 20 min
+of the reaction and persisted throughout the duration of the
+reaction. Two possible intermediates could exist; a ligand
+exchanged trapped γ3-iodane 11, or a dissociated cationic
+complex 12.4b We reasoned the breakdown of
+the mixed
+hypervalent intermediate could occur through liberation of the
+weaker carboxylate donor using a nucleophilic donor. DMAP
+(entry 5) was added to the reaction, but did not increase the
+yield substantially as compared to its absence (entry 3).
+Perchlorate salts, known to increase yields
+involving
+nucleophilic addition to phenoxenium radical cations,15 also
+did not improve the reaction and had noted degradation (entry
+6). Slow addition of PIFA over 1 h provided a boost in yield
+and generated arnottin II in 56% overall yield over the two
+steps (entry 7). Attempts at asymmetric spirocyclization using
+chiral hypervalent iodide sources are planned.
+</para>
+In conclusion, we developed an eﬃcient route from readily
+available materials to the arnottins using a benzyne cyclo-
+addition and regiospeciﬁc ether fragmentation−lactonization
+cascade. Several other coumarin based natural products can
+now be accessed more eﬃciently using this tactic.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+tert-Butyl 6-(Furan-3-yl)-2,3-dimethoxybenzoate (6b). A total
+of 1.43 g (4.50 mmol, 1.0 equiv) of
+tert-butyl 6-bromo-2,3-
+dimethoxybenzoate (5b),2c 750.0 mg (6.76 mmol, 1.5 equiv) of
+furan-3-boronic acid, and 1.865 g (13.50 mmol, 3.0 equiv) of K2CO3
+</para>
+3340
+
+DOI: 10.1021/acs.joc.5b00107
+J. Org. Chem. 2015, 80, 3339−3342
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+were dissolved in DMF (30.0 mL). The resulting solution was
+degassed under argon for 10 min. Then, 253.0 mg of Pd(PPh3)2Cl2
+(1.06 mmol, 8 mol %) and H2O (10.0 mL) were added to the reaction
+ﬂask, and this solution was stirred at 90 °C for 4 h. The reaction
+mixture was run through a Celite plug, diluted with toluene (10.0 mL),
+and concentrated en vacuo. This product was puriﬁed by column
+chromatography (3:1 hexanes/EtOAc, v/v) and dried under vacuum
+to yield 1.32 g of tert-butyl 6-(furan-3-yl)-2,3-dimethoxybenzoate (6b,
+96% yield) as a white solid. Mp 46−48 °C; 1H NMR (400 MHz,
+CDCl3) δ 7.55 (dd, J = 1.6, 0.9 Hz, 1H), 7.42 (t, J = 1.7 Hz, 1H), 7.07
+(d, J = 8.5 Hz, 1H), 6.92 (d, J = 8.5 Hz, 1H), 6.56 (dd, J = 1.8, 0.9 Hz,
+1H), 3.89 (s, 3H), 3.88 (s, 3H), 1.51 (s, 9H); 13C NMR (100 MHz,
+CDCl3) δ 167.0, 151.8, 145.8, 142.8*, 142.7*, 139.7*, 139.6*, 130.4,
+124.8, 123.7, 122.5, 113.1, 111.2*, 111.1*, 82.3, 61.5, 56.0, 28.1
+(*denotes rotamers); IR (neat, cm−1) 2973, 2935, 1715, 1482, 1291,
+1265, 1059, 1029, 795; TLC Rf = 0.60 (3:1 hexanes/EtOAc, v/v);
+HRMS (DART) m/z calcd for C17H21O5 (M + H)+: 305.1389, found
+305.1375.
+
+Methyl 6-(Furan-3-yl)-2,3-dimethoxybenzoate (6a). A total of
+2.00 g (18.0 mmol) of methyl 6-bromo-2,3-dimethoxybenzoate (5a)
+yielded 3.53 g (12.5 mmol, 82% yield) of methyl 6-(furan-3-yl)-2,3-
+dimethoxybenzoate (6a) according to the above procedure. Mp 43−
+45 °C; 1H NMR (400 MHz, CDCl3) δ 7.49 (dd, J = 1.6, 0.9 Hz, 1H),
+7.42 (t, J = 1.7 Hz, 1H), 7.10 (d, J = 8.5 Hz, 1H), 6.96 (d, J = 8.5 Hz,
+1H), 6.50 (dd, J = 1.8, 0.9 Hz, 1H), 3.89 (s, 3H), 3.89 (s, 3H), 3.83 (s,
+3H); 13C NMR (126 MHz, CDCl3) δ 168.3, 151.6, 145.9, 143.0,
+139.1, 128.3, 124.5, 123.8, 122.6, 113.6, 110.3, 61.5, 55.8, 52.3; IR
+(neat, cm−1) 2950, 1723, 1500, 1258, 905, 804; TLC Rf = 0.40 (2:1
+hexanes/EtOAc, v/v); HRMS (DART) m/z calcd for C14H14O5 (M +
+H)+: 262.0841, found 262.0838
+
+tert-Butyl 6-(5,8-Dihydro-5,8-epoxynaphtho[2,3-d][1,3]-
+dioxol-6-yl)-2,3-dimethoxybenzoate (7b). A total of 335.0 mg
+(1.036 mmol, 1.4 equiv) of 6-(trimethylsilyl)benzo[d][1,3]dioxol-5-yl-
+triﬂuoromethanesulfonate (4)9 and 225.0 mg (0.74 mmol, 1.0 equiv)
+of tert-butyl 6-(furan-3-yl)-2,3-dimethoxybenzoate (6b) were dissolved
+with acetonitrile (10.0 mL) in a ﬂame-dried ﬂask. The solution was
+charged with argon; then 337.0 mg (2.22 mmol, 3.0 equiv) of CsF was
+added, and the reaction mixture was let to stir at 23 °C for 24 h. The
+solution was diluted with water (30.0 mL) and extracted with ethyl
+acetate (3 × 15.0 mL). The combined organic layers were washed with
+water (30.0 mL) and brine (30.0 mL), dried over MgSO4, and
+concentrated under reduced pressure. The product was puriﬁed by
+column chromatography (3:1 hexanes/EtOAc, v/v) to yield 201.6 mg
+of tert-butyl 6-(5,8-dihydro-5,8-epoxynaphtho[2,3-d][1,3]dioxol-6-yl)-
+2,3-dimethoxybenzoate (7b, 64% yield) as an oﬀ-white solid. Mp 150
+°C (decomp.); 1H NMR (400 MHz, CDCl3) δ 6.98 (d, J = 8.5 Hz,
+1H), 6.94 (m, 2H), 6.89 (d, J = 8.6 Hz, 1H), 6.83 (t, J = 0.5 Hz, 1H),
+5.94 (d, J = 1.4 Hz, 1H), 5.86 (d, J = 1.4 Hz, 1H), 5.79 (t, J = 0.8 Hz,
+1H), 5.73 (dt, J = 1.8, 0.8 Hz, 1H), 3.87 (s, 3H), 3.84 (s, 3H), 1.49 (s,
+9H); 13C NMR (126 MHz, CDCl3) δ 166.7, 153.3, 152.6, 146.2,
+144.8, 144.4, 143.4, 143.0, 136.7, 129.7, 122.9, 122.1, 112.6, 104.0,
+103.7, 101.3, 85.0, 84.0, 82.4, 61.5, 56.1, 28.1; IR (neat, cm−1) 2973,
+2935, 1715, 1482, 1292, 1265, 1142, 1059, 1029, 795; TLC Rf = 0.31
+(3:1 hexanes/EtOAc, v/v); HRMS (DART) m/z calcd for C20H17O7
+(M − C4H8)+: 369.0974, found 369.0960.
+Methyl 6-(5,8-Dihydro-5,8-epoxynaphtho[2,3-d][1,3]dioxol-
+6-yl)-2,3-dimethoxybenzoate (7a). A total of 780.0 mg (2.23
+mmol) of methyl 6-(furan-3-yl)-2,3-dimethoxybenzoate (6a) yielded
+375.0 mg (0.98 mmol, 66% yield) of methyl 6-(5,8-dihydro-5,8-
+epoxynaphtho[2,3-d][1,3]dioxol-6-yl)-2,3-dimethoxybenzoate (7a) as
+per the above procedure. Mp 56−58 °C (decomp); 1H NMR (500
+MHz, CDCl3) δ 6.98 (d, J = 8.6 Hz, 1H), 6.93 (m, 2H), 6.81 (m, 2H),
+5.93 (d, J = 1.4 Hz, 1H), 5.87 (d, J = 1.4 Hz, 1H), 5.75 (t, J = 0.8 Hz,
+1H), 5.71 (dt, J = 1.8, 0.8 Hz, 1H), 3.87 (s, 3H), 3.83 (s, 3H), 3.77 (s,
+3H); 13C NMR (126 MHz, CDCl3) δ 167.9, 153.5, 152.4, 146.3,
+144.7, 144.3, 143.1, 142.6, 136.5, 127.6, 123.4, 122.0, 113.1, 103.9,
+103.5, 101.2, 84.9, 83.9, 61.6, 56.0, 52.5; IR (neat, cm−1) 2941, 1724,
+1460, 1254, 1035; TLC Rf = 0.5 (2:1 hexanes/EtOAc v/v); HRMS
+(DART) m/z calcd for C21H19O7 (M + H)+: 383.1131,
+found
+383.1129.
+
+Arnottin I (1). A total of 150.0 mg (0.354 mmol, 1.0 equiv) of tert-
+butyl 6-(5,8-dihydro-5,8-epoxynaphtho[2,3-d][1,3]dioxol-6-yl)-2,3-di-
+methoxybenzoate (7b) was added to a ﬂame-dried round-bottomed
+ﬂask and dissolved in anhydrous MeOH (5 mL). Next 15.2 mg
+(0.0884 mmol, 0.25 equiv) of p-toluenesulfonic acid was added to this
+solution and the mixture stirred at 50 °C under nitrogen atmosphere
+for 24 h. The reaction mixture was then cooled to 0 °C and ﬁltered,
+and the oﬀ-white solid was washed with cold MeOH. This product was
+dried under vacuum to yield 113.4 mg of arnottin I (1, 92% yield). Mp
+>250 °C; 1H NMR (400 MHz, CDCl3) δ 7.89 (d, J = 8.9 Hz, 1H),
+7.85 (s, 1H), 7.84 (d, J = 8.8 Hz, 1H), 7.54 (d, J = 8.8 Hz, 1H), 7.45
+(d, J = 8.8 Hz, 1H), 7.14 (s, 1H), 6.10 (s, 2H), 4.03 (s, 3H), 3.99 (s,
+3H); 1H NMR (600 MHz, DMSO-d6) δ 8.08 (d, J = 8.7 Hz, 1H), 8.03
+(d, J = 8.7 Hz, 1H), 7.66 (app t, J = 9.4 Hz, 2H), 7.59 (s, 1H), 7.34 (s,
+1H), 6.17 (s, 2H), 3.97 (s, 3H), 3.92 (s, 3H); 13C NMR (151 MHz,
+DMSO-d6) δ 155.7, 152.5, 150.8, 148.0, 147.9, 144.8, 130.5, 128.7,
+122.5, 120.8, 118.8, 117.7, 117.7, 114.1, 111.5, 103.5, 101.0, 96.9, 60.2,
+56.3; IR (neat, cm−1) 3010, 2943, 1734, 1489, 1463, 1276, 1122, 1039,
+821; TLC Rf = 0.50 (1:1 hexanes/EtOAc, v/v); HRMS (DART) m/z
+calcd for C20H15O6 (M + H)+: 351.0869, found 351.0855.
+
+Arnottin II
+
+(2). Arnottin I (1, 12.0 mg, 0.035 mmol) was
+suspended in 0.5 mL of THF:MeOH:H2O (3:1:1, v/v/v) and 7.0 mg
+(0.17 mmol, 5.0 equiv) of LiOH·H2O was added. The reaction was
+heated at 50 °C for 2 h over which time the solution became red. The
+ﬂask was cooled to 0 °C and 1 M HCl was added dropwise until the
+solution turned yellow-orange indicating a pH of 2−3. The solution
+was extracted with Et2O (2 × 1.0 mL), dried over Na2SO4 and
+concentrated at 23 °C yielding an unstable yellow-orange solid. The
+ﬂask was cooled to 0 °C and HFIP (0.50 mL) was added. PIFA (17.0
+mg, 0.041 mmol, 1.1 equiv) in 0.50 mL of HFIP was added over 1 h at
+0 °C via syringe pump and then the reaction was stirred at 23 °C. After
+12 h the reaction was quenched with 1 M HCl (1.0 mL), extracted
+with CH2Cl2 (2 × 1.0 mL), dried over Na2SO4 and concentrated.
+Flash chromatography (2:1 hexanes/EtOAc, v/v) yielded arnottin II
+(2, 7.0 mg, 0.02 mmol, 56% yield) as an oﬀ yellow solid. Mp 206−208
+°C; 1H NMR (400 MHz, CDCl3) δ 7.37 (s, 1H), 7.05 (d, J = 8.3 Hz,
+1H), 6.78 (m, 2H), 6.68 (d, J = 9.9 Hz, 1H), 6.09 (m, 4H), 4.17 (d, J =
+0.8 Hz, 3H), 3.86 (s, 4H); 13C NMR (126 MHz, CDCl3) δ 191.1,
+167.6, 154.1, 153.6, 149.1, 148.6, 139.2, 134.6, 130.3, 128.4, 123.2,
+119.2, 117.4, 115.6, 108.1, 107.7, 102.6, 84.5, 62.8, 57.0; IR (neat,
+cm−1) 1682, 1770, 2853, 2921; TLC Rf = 0.45 (1:1 hexanes/EtOAc v/
+v); HRMS (DART) m/z calcd for C20H15O7 (M + H)+: 367.0818,
+found 367.0811.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+1H and 13C NMR spectra for all new compounds is provided.
+This material
+is available free of charge via the Internet at
+http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: chad.lewis@cornell.edu
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+The project described was supported by Award Number
+T32GM008500 from the National Institute of General Medical
+Sciences.
+
+■ REFERENCES
+
+(1) (a) Ishii, H.; I, T.; Haginiwa, J. Yakugaku Zasshi 1977, 97, 890.
+(b) Ishikawa, T.; Murota, M.; Watanabe, T.; Harayama, T.; Ishii, H.
+Tetrahedron Lett. 1995, 36, 4269.
+(2) For the synthesis of arnottin I see: (a) Ishii, H.; Ishikawa, T.;
+Murota, M.; Aoki, Y.; Harayama, T. J. Chem. Soc., Perkin Trans. 1 1993,
+
+3341
+
+DOI: 10.1021/acs.joc.5b00107
+J. Org. Chem. 2015, 80, 3339−3342
+
+Note
+
+The Journal of Organic Chemistry
+
+the use of hypervalent
+
+1019. (b) Harayama, T.; Yasuda, H.; Akiyama, T.; Takeuchi, Y.; Abe,
+H. Chem. Pharm. Bull. (Tokyo) 2000, 48, 861. (c) Madan, S.; Cheng,
+C. H. J. Org. Chem. 2006, 71, 8312. (d) James, C. A.; Snieckus, V. J.
+Org. Chem. 2009, 74, 4080. (e) Mal, D.; Jana, A. K.; Mitra, P.; Ghosh,
+K. J. Org. Chem. 2011, 76, 3392. (f) Suárez-Meneses, J. V.; Bonilla-
+Reyes, E.; Blé-González, E. A.; Ortega-Alfaro, M. C.; Toscano, R.; A.
+Cordero-Vargas, A.; López-Cortés, J. G. Tetrahedron 2014, 70, 1422.
+(g) Jangir, R.; Argade, N. P. RSC Adv. 2014, 4, 5531. For the synthesis
+of arnottin II see: (h) Konno, F.; Ishikawa, T.; Kawahata, M.;
+Yamaguchi, K. J. Org. Chem. 2006, 71, 9818 A formal synthesis of
+Arnottin II has also been achieved, see reference 2g.
+(3) For in-depth reviews of
+iodide in
+dearomatization−spirocyclization reactions, see: (a) Zhdankin, V. V.;
+Stang, P. J. Chem. Rev. 2008, 108, 5299. (b) Quideau, S.; Pouységu, L.;
+Deffieux, D. Synlett 2008, 467. For general dearomatization studies,
+see: (c) Roche, S. P.; Porco, J. A., Jr. Angew. Chem., Int. Ed. 2011, 50,
+4068.
+(4) Pouységu, L.; Deffieux, D.; Quideau, S. Tetrahedron 2010, 66,
+2235.
+(5) (a) Kita, Y.; Takada, T.; Gyoten, M.; Tohma, H.; Zenk, M. H.;
+Eichhorn, J. J. Org. Chem. 1996, 61, 5857. (b) Kita, Y.; Arisawa, M.;
+Gyoten, M.; Nakajima, M.; Hamada, R.; Tohma, H.; Takada, T. J. Org.
+Chem. 1998, 63, 6625.
+(6) (a) Zhuo, C. X.; Zhang, W.; You, S. L. Angew. Chem., Int. Ed.
+2012, 51, 12662. (b) Richardson, R. D.; Wirth, T. Angew. Chem., Int.
+Ed. 2006, 45, 4402.
+(7) For asymmetric hypervalent iodide catalysis see: (a) Uyanik, M.;
+Yasui, T.; Ishihara, K. Angew. Chem., Int. Ed. 2010, 49, 2175. (b) Dohi,
+T.; Takenaga, N.; Nakae, T.; Toyoda, Y.; Yamasaki, M.; Shiro, M.;
+Fujioka, H.; Maruyama, A.; Kita, Y. J. Am. Chem. Soc. 2013, 135, 4558.
+(c) Bosset, C.; Coffinier, R.; Peixoto, P. A.; El Assal, M.; Miqueu, K.;
+Sotiropoulos, J.-M.; Pouységu, L.; Quideau, S. Angew. Chem., Int. Ed.
+2014, 53, 9869. (d) Murray, S. J.; Ibrahim, H. Chem. Commun. 2015,
+51, 2376.
+(8) Bower, J. F.; Szeto, P.; Gallagher, T. Org. Lett. 2007, 9, 3283.
+(9) Sato, Y.; Tamura, T.; Mori, M. Angew. Chem., Int. Ed. 2004, 43,
+2436.
+(10) (a) Gilman, H.; Gorsich, R. D. J. Am. Chem. Soc. 1957, 79, 2625.
+(b) Cooke, M. D.; Dransfield, T. A.; Vernon, J. M. J. Chem. Soc., Perkin
+Trans. 2. 1984, 8, 1377.
+(11) (a) Villeneuve, K.; Tam, W. J. Am. Chem. Soc. 2006, 128, 3514.
+(b) Ballantine, M.; Menard, M. L.; Tam, W. J. Org. Chem. 2009, 74,
+7570. (c) Tenaglia, A.; Marc, S.; Giordano, L.; De Riggi, I. Angew.
+Chem., Int. Ed. 2011, 50, 9062. (d) Kelsey, J.; Fatila, E.; Hillis, C.; Tam,
+W. Synth. Commun. 2013, 43, 1181.
+(12) Allen, A.; Le Marquand, P.; Burton, R.; Villeneuve, K.; Tam, W.
+J. Org. Chem. 2007, 72, 7849. (b) Kudavalli, J. S.; Coyne, D.; O’Ferrall,
+R. A. M. J. Org. Chem. 2012, 77, 563.
+(13) Tang, X.; Rawson, D.; Woodward, S. Synlett 2010, 4, 636.
+(14) The 4-naphthol derivative was identiﬁed by 1H NMR.
+(15) Kita, Y.; Tohma, H.; Hatanaka, K.; Takada, T.; Fujita, S.; Mitoh,
+S.; Sakurai, H.; Oka, S. J. Am. Chem. Soc. 1994, 116, 3684.
+
+3342
+
+DOI: 10.1021/acs.joc.5b00107
+J. Org. Chem. 2015, 80, 3339−3342
+
+

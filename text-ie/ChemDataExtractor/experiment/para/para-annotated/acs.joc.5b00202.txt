@@ -1,0 +1,1580 @@
+Article
+
+pubs.acs.org/joc
+
+Synthesis and Enzymatic Studies of Bisubstrate Analogues for
+Farnesyl Diphosphate Synthase
+Gurusankar Ramamoorthy,
+Matthew P. Jacobson,
+†
+Department of Chemistry, University of Utah, Salt Lake City, Utah 84112, United States
+‡
+Department of Pharmaceutical Chemistry, School of Pharmacy, University of California, San Francisco, California 94158, United
+States
+§California Institute for Quantitative Biomedical Research, University of California, San Francisco, California 94158, United States
+
+†
+and C. Dale Poulter*,†
+
+Lawrence B. Perez,
+
+Richard M. Phan,
+
+†,∥
+
+†,#
+
+†,⊥
+
+Mark L. Pugh,
+
+Bo-Xue Tian,
+
+‡,§
+
+‡,§
+
+*S Supporting Information
+
+ABSTRACT: Farnesyl diphosphate synthase catalyzes the
+sequential chain elongation reactions between isopentenyl
+diphosphate (IPP) and dimethylallyl diphosphate (DMAPP)
+to form geranyl diphosphate (GPP) and between IPP and GPP
+to give farnesyl diphosphate (FPP). Bisubstrate analogues
+containing the allylic and homoallylic substrates were
+synthesized by joining fragments for IPP and the allylic
+diphosphates with a C−C bond between the methyl group at
+C3 in IPP and the Z-methyl group at C3 in DMAPP (3-OPP)
+and GPP (4-OPP), respectively. These constructs placed
+substantial limits on the conformational space available to the
+analogues relative to the two substrates. The key features of the synthesis of bisubstrate analogues 3-OPP and 4-OPP are a
+regioselective C-alkylation of the dianion of 3-methyl-3-buten-1-ol (5), a Z-selective cuprate addition of alkyl groups to an α,β-
+alkynyl ester intermediate, and diﬀerential activation of allylic and homoallylic alcohols in the analogues, followed by a
+simultaneous displacement of
+the leaving groups with tris(tetra-n-butylammonium) hydrogen diphosphate to give the
+corresponding bisdiphosphate analogues. The bisubstrate analogues were substrates for FPP synthase, giving novel seven-
+membered ring analogues of GPP and FPP. The catalytic eﬃciencies for cyclization of 3-OPP and 4-OPP were similar to those
+for chain elongation with IPP and DMAPP.
+
+■ INTRODUCTION
+Isoprenoid compounds are synthesized by nature’s most diverse
+biosynthetic pathway, which is responsible for the production
+of a wide variety of compounds with diﬀerent carbon skeletons
+and substitution patterns. Over 63 000 isoprenoid natural
+products have been identiﬁed to date.1 These molecules have
+numerous and diverse biological
+functions and perform
+essential functions in all living systems.2
+reactions, which attach the hydrocarbon
+chains of electrophilic allylic diphosphates to the carbon−
+carbon double bond in isopentenyl diphosphate (IPP), form
+the core of the isoprenoid biosynthetic pathway.3 Beginning
+with dimethylallyl diphosphate (DMAPP, C5), a series of linear
+allylic diphosphates are synthesized, which,
+in turn, are
+substrates for biosynthesis of monoterpenes (C10), sesquiter-
+penes (C15), diterpenes (C20), sterols and hopanoids (C30),
+carotenoids (C40), and larger molecules.4
+
+Prenyltransfer
+
+Farnesyl diphosphate synthase (FPPase) catalyzes
+
+the
+sequential chain elongation reactions between IPP and
+DMAPP to form geranyl diphosphate (GPP) and between
+IPP and GPP to give farnesyl diphosphate (FPP).5,6 The
+enzyme belongs to the E-double bond chain elongation
+
+enzymes in Pfam PF003487 within the larger isoprene synthase
+clan8 that includes chain elongation enzymes,9 squalene10 and
+phytoene synthases,11 and terpene cyclases.12 FPPase is widely
+distributed in all three kingdoms of life and is most likely
+essential.6 Thus
+far, only one isoform of FPPase, a
+homodimeric Mg2+-dependent enzyme composed of α-helices
+with two signature aspartate-rich regions that bind the allylic
+substrate, is known.5,13 A large body of evidence suggests the
+reaction, which couples IPP with an allylic substrate,
+is a
+dissociative electrophilic alkylation (Scheme 1).14 Although
+FPPase is highly selective for synthesis of GPP and FPP, small
+changes in the structure of the enzyme through site-directed
+mutagenesis or the structure of the substrate increase the
+promiscuity of
+typical of
+carbocationic reactions.9 This phenomenon is also observed
+for terpene cyclases15 and squalene synthase.16 Thus,
+the
+precise topology of the enzyme−substrate complex appears to
+be crucial for maintaining strict regiocontrol during catalysis by
+isoprenoid synthases.
+
+the enzyme, giving products
+
+Received:
+Published: March 3, 2015
+
+January 29, 2015
+
+© 2015 American Chemical Society
+
+3902
+
+DOI: 10.1021/acs.joc.5b00202
+J. Org. Chem. 2015, 80, 3902−3913
+
+The Journal of Organic Chemistry
+
+Scheme 1. Mechanism for Chain Elongation by FPP Synthase
+
+Article
+<para sub=“ques”>
+A substantial body of work with simple alkyl analogues of
+IPP and DMAPP indicates that FPPase accepts a large variety
+of alternate substrates to give products consistent with chain
+elongation.17 However, the chemoselectivity of the enzyme was
+compromised by bisubstrate analogues 1-OPP and 2-OPP,
+where the IPP and DMAPP fragments were joined by a
+methylene bridge between the Z-methyl group at C3 in
+DMAPP and the E- or Z-locus at C4 in IPP to limit the number
+of conformations accessible to IPP and DMAPP in the active
+site (Figure 1).18 Both analogues were alternate substrates with
+</para>
+Figure 1. Structures of the bisubstrate analogues.
+
+Scheme 2. Retrosynthetic Analysis of the Bisubstrate Analogues
+<para sub=“ques”>
+catalytic eﬃciencies (kcat/KM) that were ∼10-fold lower than
+those for IPP and DMAPP. However, the analogues were
+promiscuous, giving a mixture of double bond and rearranged
+isomers, which resulted from binding and catalysis of multiple
+conformers of the analogues, indicating that they did not adopt
+a single low energy conformation when bound in the active
+site.18
+</para>
+<para sub=“ques”>
+Inspection of models indicated that a bisubstrate analogue
+where the IPP and DMAPP fragments were joined by a bond
+between the Z-methyl group in DMAPP and the methyl group
+in IPP could fold to a position in which C4 in the IPP fragment
+is in a plane above C1 in the DMAPP fragment, resulting in an
+orientation compatible with electrophilic alkylation of the “C3−
+C4” double bond in the IPP fragment (Figure 1). We
+synthesized analogues 3-OPP and 4-OPP as bisubstrate mimics
+of IPP/DMAPP and IPP/GPP and now report kinetic and
+product studies that conﬁrm their compatibility with the active
+site of avian FPPase.
+</para>
+■ RESULTS
+<para sub=“opt”>
+Retrosynthesis of the Bisubstrate Analogues. The
+overall strategy for synthesis of the bisubstrate analogues relied
+on a simultaneous introduction of the sensitive allylic and
+homoallylic diphosphates using tris(tetra-n-butylammonium)
+hydrogen diphosphate. The retrosynthesis of 3-OPP and 4-
+OPP is outlined in Scheme 2. The diphosphate residues were
+introduced by displacing the homoallylic tosylates and allylic
+</para>
+3903
+
+DOI: 10.1021/acs.joc.5b00202
+J. Org. Chem. 2015, 80, 3902−3913
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 3. Synthesis of the α,β-Unsaturated Esters 11-OTHP and 12-OTHP
+
+Scheme 4. Synthesis of Bisdiphosphates 3-OPP and 4-OPP
+<para sub=“opt”>
+halides in 3-OTs/Cl and 4-OTs/Cl by inorganic pyrophos-
+phate at the same time. The carbon skeletons of the two
+analogues were constructed by a regioselective C-alkylation of
+propargylic bromide 6 by the dianion of isopentenyl alcohol 5,
+followed by a Z-selective conjugate addition methyl or
+homodimethylallyl cuprate to α,β-acetylenic ester 10-OTHP.
+Synthesis of the Bisubstrate Analogues 3-OPP and 4-
+OPP. As outlined in Scheme 3, the dianion of 3-methyl-3-
+butene-1-ol (5), generated in tetrahydrofuran with n-butyl
+lithium and TMEDA, was trapped with 3-bromo-(1-trimethyl-
+silyl)-1-propyne (6) to give 7 in 50% yield.19 The resulting
+alcohol 7 was protected as a THP ether and treated with
+tetrabutylammonium ﬂuoride in tetrahydrofuran to aﬀord the
+terminal alkyne 9. Lithiation of 9 with n-BuLi, followed by the
+trapping of the lithium acetylide with ethyl chloroformate, gave
+</para>
+<para sub="scope">
+α,β-acetylenic ester 10-OTHP in 92% yield. The carbon
+skeletons for the IPP/DMAPP and IPP/GPP analogues were
+constructed by a Z-selective conjugate addition of
+the
+appropriate Gilman reagents, prepared from freshly crystallized
+copper(I) iodide and the corresponding alkyl lithium reagents.
+Alkylation of alkynyl ester 10-OTHP using the methyl Gilman
+reagent in tetrahydrofuran provided Z-methyl oleﬁn 11-OTHP
+in excellent yield (80%).20 To synthesize the compound 12-
+OTHP, 5-iodo-2-methyl-2-pentene was treated with t-BuLi in
+diethyl ether21 and transferred to a slurry of copper(I) iodide in
+tetrahydrofuran via a cannula, followed by addition of alkynyl
+ester 10-OTHP in tetrahydrofuran, which resulted in Z-oleﬁn
+12-OTHP in 79%.20
+</para>
+<para sub="scope">
+The conversions of α,β-unsaturated esters 11-OTHP and 12-
+OTHP were carried out using procedures similar to those
+</para>
+3904
+
+DOI: 10.1021/acs.joc.5b00202
+J. Org. Chem. 2015, 80, 3902−3913
+
+The Journal of Organic Chemistry
+<para sub="scope">
+described for synthesis of 1-OPP and 2-OPP (Scheme 4).18
+The THP groups in 11-OTHP and 12-OTHP were removed
+by treatment with PPTS to give the corresponding homoallylic
+alcohols 13-OH and 14-OH. The alcohols were converted to
+the corresponding tosylates with p-toluenesulfonyl chloride and
+N,N′-dimethylaminopyridine to provide 15-OTs and 16-
+OTs.22 The α,β-unsaturated esters were reduced to allylic
+alcohols 3-OH/OTs and 4-OH/OTs, respectively, with DIBAL
+and then treated with N-chlorosuccinimide and dimethylsulﬁde
+to give 3-Cl/OTs and 4-Cl/OTs.23 The allylic chlorides
+decomposed during chromatography and, without puriﬁcation,
+were treated with tris(tetra-n-butylammonium) pyrophosphate.
+Chromatography, ﬁrst on DOWEX AG 50W-X8 (ammonium
+form) and then on cellulose, gave 3-OPP and 4-OPP.18,24
+</para>
+<para sub=“props”>
+The installation of both diphosphate moieties in 3-OPP and
+4-OPP was conﬁrmed by their NMR and mass spectra. The
+1H-decoupled 31P NMR spectrum of 3-OPP showed a doublet
+at −6.56 ppm (JP‑P = 21.2 Hz) for P2 and an overlapping pair of
+doublets at −9.80 ppm (JP‑P = 20.1 Hz) and −9.86 (JP‑P = 20.7
+Hz) for P1 in the diphosphate moieties (Figure 2). The 1H
+</para>
+Figure 2. 31P and 1H NMR spectra of 3-OPP and 4-OPP. (a) 1H
+NMR spectrum of the −CH2O− resonances for 3-OPP in D2O. (b)
+31P NMR spectrum of P1 and P2 for 3-OPP in D2O. (c) 1H NMR
+spectrum of the −CH2O− resonances for 4-OPP in D2O. (d) 31P
+NMR spectrum of P1 and P2 for 4-OPP in D2O.
+<para sub=“props”>
+NMR spectrum of 3-OPP had a doublet of doublets at 4.42
+ppm (JH‑H = 6.6 Hz, JH‑P = 6.6 Hz) for the allylic methylene
+attached to the diphosphate moiety and a doublet of triplets at
+</para>
+Article
+<para sub=“props”>
+4.01 ppm (JH‑H = 6.6 Hz, JH‑P = 6.6 Hz) for the homoallylic
+methylene. The 31P spectrum of 4-OPP, with resonances at
+−6.49 ppm (JP‑P = 20.1 Hz) for P2 and −9.58 ppm (JP‑P = 17.1
+Hz) and −9.76 ppm (JP‑P = 17.1 Hz) for P1, was similar to the
+pattern seen for 3-OPP. The 1H NMR spectrum of 4-OPP was
+similar to that of 3-OPP, with a doublet of doublets at 4.45
+ppm (JH‑H = 6.6 Hz, JH‑P = 6.6 Hz) for the allylic methylene
+attached to the diphosphate moiety and a doublet of triplets at
+4.02 ppm (JH‑H = 6.9 Hz, JH‑P = 6.9 Hz) for the homoallylic
+methylene (Figure 2). High-resolution mass spectra for 3-OPP
+and 4-OPP had molecular ions at 488.98759 and 559.0676,
+respectively, corresponding to the molecular
+formulas
+C10H21O14P4 (M − H)− and C15H31O14P4 (M + H)+.
+[</para>
+<para sub="scope">
+[1-3H]3-OPP and [1-3H]4-OPP were synthesized from 3-
+OH/OTs and 3-OH/OTs using procedures similar to those for
+introducing tritium into 1-OPP and 2-OPP.18 Alcohols 3-OH/
+OTs and 4-OH/OTs were oxidized with activated MnO2, and
+the corresponding aldehydes, without puriﬁcation, were
+reduced with NaB3H4 in methanol and THF. The reactions
+were monitored by TLC, and upon completion, the radio-
+labeled alcohols were puriﬁed by silica gel chromatography.
+The allylic hydroxyl groups were converted to the correspond-
+ing allylic chlorides as described for the unlabeled compounds
+and phosphorylated with tris(tetra-n-butylammonium) hydro-
+gen pyrophosphate. The diphosphates were puriﬁed as
+previously described to give [1-3H]3-OPP and [1-3H]4-OPP.
+</para>
+<para sub="scope">
+Enzymatic Studies. Product Studies. In separate experi-
+ments, 3-OPP and 4-OPP were incubated with Gallus gallus
+FPPase, and the reactions were monitored by 31P NMR
+spectroscopy. Figure 3 shows 31P NMR spectra for 4-OPP
+(similar results were seen for 3-OPP). Upon completion (12
+h), a broad singlet (∼ −7 ppm) and doublet (∼ −10 ppm) in a
+3:1 ratio were observed. The broad singlet resulted from
+overlap of the singlet from inorganic pyrophosphate with one
+of phosphorus
+from the product (part a). The
+diphosphate moiety and inorganic pyrophosphate were hydro-
+lyzed to inorganic phosphate by treatment with alkaline
+phosphatase (part b). These experiments are consistent with
+formation of cyclic diphosphates upon incubation of bisubstrate
+analogues 3-OPPand 4-OPP with FPPase (Scheme 5).
+
+signals
+</para>
+<para sub=“props”>
+The hydrolysis mixtures were extracted with ethyl acetate,
+and TLC analysis gave a single spot for each analogue. The
+products were puriﬁed by silica gel chromatography to give
+pure samples of alcohols 17-OH and 18-OH. The 1H NMR
+spectrum of 17-OH has a two-proton doublet at 4.15 ppm with
+a cross-peak to the carbon at 58.8 ppm in the HMBC spectrum
+and was assigned to the methylene protons at C1 (Table 1,
+Figure 4). The methyl protons at C10 gave a three-proton
+singlet at 1.71 ppm. The C2 vinyl proton at 5.41 ppm appeared
+as a triplet (J = 6.6 Hz) and gave a strong COSY cross-peak
+with the C1 methylene protons at 4.15 ppm. The chemical
+</para>
+Figure 3. 31P NMR spectra: (a) FPPase-catalyzed reaction of 4-OPP after overnight incubation; (b) incubation with alkaline phosphatase for 12 h.
+
+3905
+
+DOI: 10.1021/acs.joc.5b00202
+J. Org. Chem. 2015, 80, 3902−3913
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 5. FPP Synthase-Catalyzed Reactions of 3-OPP and 4-OPP
+
+Table 1. 1H, 13C, HMBC, and HSQC NMR Data of 17-OH
+
+position
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+δ
+
+H (600 MHz)
+4.15
+5.41
+
+2.36−2.34
+2.13−2.11
+
+5.49
+2.13−2.11
+2.29−2.27
+1.72
+
+multiplicity (J Hz)
+
+2H, d (6.6)
+1H, t (6.6)
+
+2H, m
+2H, m
+
+1H, t (6.0)
+2H, m
+2H, m
+3H, s
+
+δ
+C (125 MHz)
+
+59.03
+122.66
+146.72
+28.95
+32.99
+138.91
+124.82
+28.43
+37.50
+26.65
+
+HMBC (C-H)
+H2
+H1, 4, 9
+H1, 4, 5, 9
+H2, 5, 9
+H4, 7, 10
+H4, 5, 10
+H5, 9, 10
+H7, 9
+H2, 4, 7, 8, 10
+H5, 7
+
+Figure 4. Important COSY, HMBC, and NOESY correlations for 17-
+OH.
+<para sub=“props”>
+shifts for the methylene protons at C4 and C9 were assigned
+from the NOESY spectrum of 17-OH. A strong cross-peak was
+observed between the methylene protons at 4.15 ppm (C1)
+and 2.35 ppm, while another strong cross-peak was seen
+between the vinyl proton at 5.41 ppm (C2) and the methylene
+protons at 2.28 ppm. Thus, the protons at 2.35 ppm were
+attached to C4, while those at 2.28 ppm were attached to C9
+(Table 2, Figure 4). The C5 and C8 methylene protons gave
+overlapping patterns between 2.11 and 2.13 ppm but could be
+distinguished from HSQC cross-peaks to 13C resonances at
+32.99 and 28.43 ppm. HMBC correlations established
+connectivity patterns for C4−C5−C6−C10 and C7−C8−C9
+bonding networks, establishing assignments for the cyclo-
+heptenyl carbon and hydrogen resonances and a Z-stereo-
+</para>
+Table 2. COSY and NOESY NMR Data of 17-OH
+
+position
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+δ
+H (600 MHz)
+4.15
+5.41
+
+2.36−2.34
+2.13−2.11
+
+5.49
+2.13−2.11
+2.29−2.27
+1.72
+
+COSY (H-H)
+
+NOESY (H-H)
+
+2, 4, 9
+1, 4, 9
+
+1, 2, 5
+4, 10
+
+5, 10
+7, 9
+1, 2
+5, 7
+
+4
+9
+
+1
+
+2
+7
+<para sub=“props”>
+chemistry of the C2−C3 double bond. Finally, chemical shifts
+for the C3 and C6 quaternary carbons in 17-OH were assigned
+from HMBC correlations. C6 (138.7 ppm) gave cross-peaks to
+the proton signals at 1.72 ppm (C10 methyl) and 2.12 ppm
+(C5 methylene), while the resonance at 146.5 ppm (C3) gave
+cross-peaks to the proton signals at 2.36 ppm (C4 methylene)
+and 2.28 ppm (C9 methylene).
+</para>
+<para sub=“props”>
+The one- and two-dimensional 1H and 13C spectra for 18-
+OH had similar chemical shifts, coupling patterns, and cross-
+peak correlations for nuclei at positions C1−C9 (Tables 3 and
+4, Figure 5), establishing the substructure and stereochemistry
+of C1−C9. The proton signals for the C10 methylene group
+appeared as a multiplet at 1.98−2.00 ppm with an HSQC cross-
+peak to a carbon signal at 40.67 ppm. C10 was part of an
+HMBC network that connected into the cycloheptene ring and
+into the C11−C15 isoprenoid side chain.
+</para>
+<para sub=“props”>
+The initial departure of
+
+the pyrophosphate from the
+substrates 3-OPP and 4-OPP produced the allylic carbocation,
+and a subsequent attack of the carbocation by the electron-rich
+double bond produced the stable tertiary carbocation. Upon β-
+elimination, an exocyclic double bond with Z-stereochemistry
+was generated as a single product in each case (17-OPP and
+18-OPP).
+</para>
+<para sub=“props”>
+Kinetic Studies. The acid lability assay25 was used to measure
+rates for the enzymatic reactions with FPPase. In this case, the
+allylic diphosphate products were solvolyzed in acid to give a
+mixture of hydrocarbon-soluble materials. While the allylic unit
+in the substrate analogues also solvolyzed, the homoallylic
+diphosphate was
+resistant, giving hydrocarbon-insoluble
+materials. The rate of formation of products was measured by
+determining the radioactivity of
+ligroin extracts following
+treatment of the incubation mixtures with acid.
+</para>
+<para sub=“props”>
+Steady-state kinetic constants are given in Table 5. FPPase is
+∼ 107 s−1 M−1 for its
+a highly eﬃcient enzyme, with kcat/KM
+normal substrates. The catalytic eﬃciency only drops slightly
+for bisubstrate analogues of IPP and DMAPP joined by a
+methylene bridge between C4 of IPP and the Z-methyl
+in
+DMAPP (1-OPP and 2-OPP) or directly by a carbon−carbon
+bond between the methyl group in IPP and the Z-methyl in
+</para>
+3906
+
+DOI: 10.1021/acs.joc.5b00202
+J. Org. Chem. 2015, 80, 3902−3913
+
+The Journal of Organic Chemistry
+
+Table 3. 1H, 13C, HMBC, and HSQC NMR Data for 18-OH
+
+position
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+δ
+
+H (600 MHz)
+4.16
+5.41
+
+multiplicity (J Hz)
+
+2H, d (7.2)
+1H, t (6.6)
+
+2.33−2.32
+2.16−2.12
+
+5.51
+2.16−2.12
+2.27−2.25
+2.00−1.98
+2.07−2.04
+5.10
+
+1.60
+1.68
+
+2H, m
+2H, m
+
+1H, t (6.0)
+
+2H, m
+2H, m
+2H, m
+2H, m
+
+1H, t (6.6)
+
+3H, s
+3H, s
+
+δ
+
+C (125 MHz)
+
+59.01
+122.62
+147.00
+29.48
+31.38
+142.94
+124.92
+28.75
+37.55
+40.67
+27.10
+124.42
+131.66
+17.93
+25.91
+
+Article
+
+HMBC (C-H)
+H2
+H1, 4, 9
+H1, 4, 5, 8, 9
+H2, 5, 8, 9
+H4, 7, 10
+H4, 5, 8, 10, 11
+H5, 8, 9
+H7, 9
+H2, 4, 7, 8
+H5, 7, 11, 15
+H10
+H10, 11, 14, 15
+H11, 14, 15
+H12, 15
+H12, 14
+
+Table 4. COSY and NOESY NMR Data for 18-OH
+
+position
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+δ
+H (600 MHz)
+4.16
+5.41
+
+2.33−2.32
+2.16−2.12
+
+5.51
+2.16−2.12
+2.27−2.25
+2.00−1.98
+2.07−2.04
+5.10
+
+1.60
+1.68
+
+COSY (H-H)
+
+NOESY (H-H)
+
+2, 9
+1
+
+1, 2, 5
+4
+
+8, 10
+7, 9
+1, 2
+7, 11
+12, 14, 15
+11, 14, 15
+
+11, 12
+11, 12
+
+4, 5
+9
+
+1
+1, 14, 15
+
+10, 11
+2
+2, 7
+7, 14
+7, 14
+15
+
+12
+<para sub=“props”>
+DMAPP (3-OPP and 4-OPP). The kinetic constants for the
+bisubstrate analogues are within a factor of 5 of those for IPP
+and DMAPP.
+</para>
+<para sub=“props”>
+Homology Modeling and Docking Studies. The active site
+of FPPase is optimized to catalyze the electrophilic alkylation
+and elimination reactions required for chain elongation while
+excluding other common reactions of carbocationic intermedi-
+ates. Alterations in the active site by mutagenesis or in the
+structures of substrates can result in promiscuous behavior.26,18
+This was the case for the IPP/DMAPP bisubstrate analogues 1-
+OPP and 2-OPP, which were eﬃciently processed by avian
+FPPase but whose products suggested that the substrates were
+bound in more than one conformation. In contrast, 3-OPP and
+4-OPP each gave a single product whose structure is the result
+of an intramolecular
+reaction. The
+
+“chain elongation”
+</para>
+Table 5. Steady-State Kinetic Constants for IPP/DMAPP
+and Bisubstrate Analogues with Avian FPP Synthase
+Catalysis
+
+KM (μM)
+
+substrate
+IPP
+DMAPP
+GPP
+1-OPPa
+2-OPPa
+3-OPP
+4-OPP
+
+kcat (s−1)
+1.60
+1.60
+1.60
+0.160
+0.145
+1.10
+1.56
+aReported kinetic constants from ref 14.
+
+0.13
+0.50
+0.50
+0.082
+0.046
+0.20
+0.64
+
+kcat/KM (M−1 s−1)
+
+1.2 × 107
+3.2 × 106
+3.2 × 106
+2.0 × 106
+3.2 × 106
+5.5 × 106
+2.4 × 106
+<para sub=“props”>
+conformation of the analogues in the active site of the enzyme
+was predicted by docking studies. ApoFPPase exists in an open
+state that undergoes a large conformational change to a closed
+form upon binding IPP and DMAPP.5,13b Since the crystal
+structures reported for avian FPPase show the enzyme in the
+open inactive conformation (PDB codes: 1UBY, 1FPS),9 we
+constructed a homology model of the closed form based on the
+structure of closely related human enzyme in the catalytically
+active closed form (PDB code: 4KQS).27 3-OPP and 4-OPP
+along with three essential Mg2+ cations were docked in the
+active site of the modeled structure. The analogues bound in a
+single pose with the allylic diphosphate moiety coordinated to
+magnesium in the region of the active site containing the highly
+conserved aspartate-rich motifs required for binding the allylic
+substrate and catalysis. The hydrocarbon moieties of
+the
+analogues adopted similar conformations with the allylic methyl
+in 3-OPP and the homodimethylallyl chain in 4-OPP located in
+the hydrophobic pocket deﬁned by Phe124, Leu125, Thr192,
+Gln196, Lys225, and Tyr229, which accommodates
+the
+</para>
+Figure 5. Important COSY, HMBC, and NOESY correlations for 18-OH.
+
+3907
+
+DOI: 10.1021/acs.joc.5b00202
+J. Org. Chem. 2015, 80, 3902−3913
+
+The Journal of Organic Chemistry
+<para sub=“props”>
+growing isoprenoid chain during chain elongation (Figure S43,
+Supporting Information).
+</para>
+■ DISCUSSION
+<para sub=“props”>
+3-OPP and 4-OPP are excellent substitutes for IPP and the
+allylic substrates DMAPP or GPP in incubations with avian
+FPP synthase. The exclusive products of each reaction are
+cycloheptene derivatives 17-OPP and 18-OPP, whose
+structures are the logical consequence of an intramolecular
+condensation between the IPP and DMAPP/GPP units of the
+bisubstrate analogues (Figure 6). The stereochemistry of the
+</para>
+Figure 6. Mechanism for formation of 17-OPP and 18-OPP.
+<para sub=“props”>
+exocyclic double bonds in 17-OPP and 18-OPP is consistent
+with the E-selective chain elongation reaction normally
+catalyzed by the enzyme. The catalytic eﬃciencies
+for
+processing the bisubstrate analogues are only slightly lower
+than those for the natural substrates.
+</para>
+Article
+<para sub=“props”>
+Inspection of models for bisubstrate analogues 3-OPP and 4-
+OPP suggests that they can fold into conformations where the
+allylic moiety is in a plane parallel to the plane of the IPP
+double bond in orientations that permit an intramolecular
+alkylation of the “IPP” double bond to produce 17-OPP and
+18-OPP, respectively. However, the conformations of hydro-
+carbon chains in IPP and thioDMAPP, an unreactive substrate
+analogue of DMAPP,28 for the E. coli FPPase complex are
+substantially diﬀerent.13b As a result, the carbon atoms that join
+the IPP and allylic fragments in the bisubstrate analogues are
+located ∼5.9 Å apart in the E. coli structure. Thus, although 3-
+OPP and 4-OPP are excellent substrates for FPPase and give a
+single product, they cannot bind in conformations where their
+hydrocarbon chains can be superimposed on those of the
+hydrocarbon moieties in IPP and DMAPP.
+</para>
+<para sub=“props”>
+To resolve this discrepancy, we conducted docking studies
+for 3-OPP and 4-OPP with a homology model of avian FPPase
+constructed from a crystal structure of the closed (reactive)
+form of the human enzyme.27 These structures were compared
+to the crystal structure of E. coli complexed with Mg2+, IPP, and
+thioDMAPP28 (an unreactive substrate analogue of
+DMAPP)13b in the closed conformation in order to explore
+the diﬀerences in substrate binding between the 3-OPP and 4-
+OPP and IPP/DMAPP. The active sites of FPPases have a
+constellation of eight aspartate residues whose spatial
+orientations are highly conserved, even among enzymes with
+modest homologies. These aspartates (D1−D8) are shown in
+Figure 7 for the E. coli (blue) and avian (yellow) FPPases along
+with the bound ligands. Six of the aspartates (D1−D3 and D4−
+D6) belong to highly conserved DDxx(xx)D motifs that anchor
+the diphosphate moiety of the allylic substrate by three Mg+
+atoms. Despite only 25% (BLAST E-value 1e−09) sequence
+identity between the amino acid sequences of the E. coli and
+the aspartate-rich:Mg2+
+avian enzymes,
+regions of their active sites are virtually superimposable in the
+crystal and homology modeled/docked structures (Figure 7,
+part a). In E. coli FPPase, the ﬁrst apartate-rich motif (D1−D3)
+binds two Mg2+’s, one of which forms a bridge between the P1
+
+the topologies of
+</para>
+Figure 7. Conserved aspartate residues in the X-ray structure of E. coli FPPase·IPP·thioDMAPP (a) and homology modeled/docked structures for
+avian FPPase·3-OPP (b) and avian FPPase·4-OPP (c). In part (a), the aspartates in avian FPPase (yellow) are superimposed on those in the E. coli
+enzyme (blue). D1−D8 correspond to the following amino acids in E. coli FPPase, D1:D105, D2:D106, D3:D111, D4:D244, D5:D245, D6:D248,
+D7:D263, D8:D182, and in avian FPPase, D1:D117, D2:D118, D3:D121, D4:D257, D5:D258, D6:D261, D7:D275, D8:D188. Mg2+ is shown as a
+small sphere.
+
+3908
+
+DOI: 10.1021/acs.joc.5b00202
+J. Org. Chem. 2015, 80, 3902−3913
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“props”>
+and P2 phosphates of the allylic diphosphate, while the second
+Mg2+ is coordinated to P1. The second motif (D4−D6) binds
+the third Mg2+ in a P1-P2 bridge on the opposite face of the
+diphosphate moiety. In contrast to the strong ionic interactions
+between the enzyme and the allylic diphosphate through
+bridging Mg2+ atoms, the IPP binding site with water molecules
+surrounding the diphosphate moiety, appears to be more
+ﬂexible IPP.13b
+</para>
+<para sub=“props”>
+Our docking studies suggest that the bisubstrate analogues
+bind with the allylic diphosphate anchored by three magnesium
+atoms in similar bridged structures. Also, the E-alkyl groups in
+the DMAPP/GPP fragments are located in a hydrophobic
+pocket that accommodates the growing hydrocarbon chain
+during chain elongation.5 However, the locations of P1 and P2
+for 3-OPP and 4-OPP (Figure 7b,c) are reversed relative to
+IPP in the E. coli structure (Figure 7a), resulting in a large
+change in the conformations of the atoms between P1 of the
+allylic phosphate and P1 of the homoallylic phosphate in 3-
+OPP and 4-OPP relative to the locations of the corresponding
+atoms in IPP and thioDMAPP in the E. coli structure. The ﬂip-
+ﬂop of the allylic diphosphate is necessary for the analogues to
+bind in a conformation that allows
+the intramolecular
+electrophilic alkylation between the IPP and allylic fragments
+to proceed.
+</para>
+<para sub=“props”>
+The Mg2+-aspartate-rich motifs in FPPase are essential for
+catalysis and are thought to trigger the electrophilic alkylation
+by activating the diphosphate moiety as a leaving group in the
+stepwise mechanism for
+the alkylation via an allylic
+carbocation−PPi ion pair. Preservation of the Mg2+-aspartate
+structure in the FPPase·bisubstrate analogue complex should
+facilitate heterolytic rupture of the allylic C−O bond similar to
+catalysis of chain elongation with IPP and DMAPP/GPP.
+Although the distance between the reacting centers in the E. coli
+FPPase·IPP·thioDMAPP complex (3.3 Å) is
+substantially
+shorter than that for 3-OPP (4.1 Å) or 4-OPP (4.2 Å) in
+the avian homology model, the bisubstrate allylic carbocations
+should be able to move toward the double bond in the IPP unit
+within the ion pair following rupture of the C(1)−O bonds.
+</para>
+In conclusion, bisubstrate analogues 3-OPP and 4-OPP are
+excellent substrates for avian FPPase to produce cycloheptenyl
+products whose structures are those expected for an intra-
+molecular “chain elongation” reaction. However, analysis of the
+structures of E. coli FPPase·IPP·thioDMAPP and the avian
+FPPase·bisubstrate complexes
+the highly
+conserved Mg2+-aspartate-rich motifs bind the allylic diphos-
+phate moieties of the analogues in a reversed orientation from
+that of DMAPP. In spite of this diﬀerence, the enzyme retains
+its ability to catalyze the electrophilic alkylation reaction for the
+analogues.
+
+indicates
+
+that
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Methods and Materials. The reactions that required
+anhydrous conditions were performed using anhydrous solvents under
+a nitrogen atmosphere in oven-dried glassware (100 °C) unless
+otherwise mentioned. Anhydrous Et2O, THF, CH3CN, and CH2Cl2
+were obtained by passing through a column of activated alumina.29
+Puriﬁcation of the organic compounds was carried out using the silica
+gel ﬂash column chromatography with silica gel (230−400 mesh, 60
+Å). Merck Silica Gel 60 Å F254 glass-backed TLC plates were for the
+thin-layer chromatographic analysis, and the spots were visualized
+using phosphomolybdic acid stain. Cellulose (ﬁbers, medium) for ﬂash
+column chromatographic puriﬁcation of bisdiphosphates was pur-
+chased from Sigma-Aldrich and used according to the procedure
+described earlier.24 Dowex AG 50W-X8 cation-exchange resin
+
+(hydrogen form, 100−20 mesh) was exchanged to the ammonium
+form by washing with 3 M ammonium hydroxide solution before use.
+Glass-backed cellulose TLC plates were used for
+the thin-layer
+chromatographic analysis of bisdiphosphates, and the spots were
+visualized by 5-sulfosalisylic acid-ferric chloride. All the 1H, 13C, and
+31P NMR spectra were recorded at 25 °C, and chemical shifts were
+reported in δ ppm (parts per million) values. 1H NMR spectra were
+recorded at 300 and 600 MHz and were referenced using the residual
+CHCl3 singlet at 7.26 ppm or the HDO singlet at 4.80 ppm from the
+deuterated NMR solvents. 13C NMR spectra were recorded at 75 and
+125 MHz and were referenced using the residual CHCl3 triplet at
+77.23 ppm from the deuterated NMR solvents. 13C NMR spectra
+recorded in D2O were unreferenced. 31P NMR spectra were recorded
+at 121 MHz, and the 31P NMR chemical shifts were referenced to 85%
+H3PO4 as an external reference. HRMS-ESI data were recorded on
+LC-TOF and LTQ-FTMS mass spectrometers.
+
+Synthesis of Bisubstrate Analogues. 3-Methylene-7-
+(trimethylsilyl)hept-6-yn-1-ol (7). In a ﬂame-dried ﬂask, containing a
+stirred solution of 4.05 g (5.2 mL, 34.88 mmol) of TMEDA in
+anhydrous Et2O (40 mL) under a N2 atmosphere was added slowly at
+0 °C 11.6 mL (29.07 mmol, 2.5 M in hexanes) of n-BuLi. The
+resulting solution was allowed to stir at rt for an additional hour. The
+reaction was then cooled to 0 °C, and 1.0 g (1.2 mL, 11.63 mmol) of
+3-methyl-3-butene-1-ol (5) was added slowly. The resulting mixture
+was stirred at 0 °C for 1 h, allowed to warm to rt, and then stirred for 6
+h. The heterogeneous reaction mixture was cooled to −78 °C, and a
+solution of 2.2 g (1.9 mL, 11.39 mmol) of 3-(trimethylsilyl)propargyl
+bromide (6) in Et2O (20 mL) was added. The mixture was vigorously
+stirred at −78 °C for 2 h, slowly allowed to warm to rt, and stirred for
+an additional 16 h. The reaction mixture was cooled to 0 °C and
+quenched with saturated aqueous NH4Cl (20 mL), followed by the
+addition of water to separate the layers. The aqueous layer was
+extracted with Et2O, and the combined organic layers were washed
+with water and brine and dried over anhydrous Na2SO4. Solvent was
+removed under reduced pressure, and the residue was puriﬁed by ﬂash
+column chromatography on silica gel (0−20% Et2O−hexanes) to give
+1.15 g (50%) of a light brown liquid; TLC (Rf 0.3, 20% ethyl acetate−
+hexanes); 1H NMR (300 MHz, CDCl3) δ ppm 4.90 (s, 2H), 3.71 (t,
+2H, J = 6 Hz), 2.40−2.23 (m, 6H), 1.61 (s, 1H), 0.13 (s, 9H); 13C
+NMR (75 MHz, CDCl3) δ ppm 144.4, 113.0, 106.8, 85.3, 60.5, 39.3,
+34.8, 19.0, 0.28; HRMS (ESI+) calculated for C11H20OSiNa (M +
+Na)+ m/z = 219.1181, found: 219.1187.
+
+Trimethyl(5-methylene-7-((tetrahydro-2H-pyran-2-yl)oxy)hept-1-
+yn-1-yl)silane (8). To a solution of 21.0 g of 7 (10.7 mmol) and 270
+mg (1.08 mmol) PPTS in CH2Cl2 (50 mL) was added 1.8 g (1.95 mL,
+21.43 mmol) of 3,4-dihydro-2H-pyran, and the resulting solution was
+allowed to stir at rt for 16 h. The reaction was diluted with CH2Cl2 (10
+mL), washed with saturated aqueous NaHCO3, water, and brine, and
+dried over anhydrous Na2SO4. Solvent was removed under reduced
+pressure, and the residue was puriﬁed by ﬂash column chromatography
+on silica gel (0−10% Et2O−hexanes) to give 2.95 g (98%) of a
+colorless oil; TLC (Rf 0.7, 20% ethyl acetate−hexanes); 1H NMR (300
+MHz, CDCl3) δ ppm 4.81 (s, 2H), 4.58 (dd, 1H, J = 2.4, 4.2 Hz),
+3.88−3.79 (m, 2H), 3.52−3.44 (m, 2H), 2.37−2.23 (m, 6H), 1.84−
+1.46 (m, 6H), 0.12 (s, 9H); 13C NMR (75 MHz, CDCl3) δ ppm 145.2,
+111.6, 107.1, 99.0, 84.9, 66.4, 62.5, 36.1, 35.7, 30.9, 25.6, 19.7, 19.0,
+0.30; HRMS (ESI+) calculated for C16H28O2SiNa (M + Na)+ m/z =
+303.1756, found: 303.1762.
+
+2-((3-Methylenehept-6-yn-1-yl)oxy)tetrahydro-2H-pyran (9). A
+solution of tetrabutylammonium ﬂuoride (TBAF) in THF (21 mL,
+21.2 mmol, 1 M in THF) was added slowly to a cooled (0 °C)
+solution of 8 (2.7 g, 9.64 mmol) in THF (30 mL), and the
+homogeneous brown solution was allowed to stir at rt for 16 h. The
+reaction was diluted with Et2O (75 mL) and washed successively with
+saturated aqueous NH4Cl, water, and brine, and dried over anhydrous
+Na2SO4. Solvent was removed under reduced pressure, and the residue
+was puriﬁed by ﬂash column chromatography on silica gel (0−10%
+Et2O−hexanes) to provide 2.05 g (95%) of a clear oil; TLC (Rf 0.4,
+10% diethyl ether−hexanes); 1H NMR (300 MHz, CDCl3) δ ppm
+4.85 (s, 2H), 4.59 (dd, 1H, J = 2.4, 4.2 Hz), 3.88−3.80 (m, 2H), 3.53−
+</para>
+3909
+
+DOI: 10.1021/acs.joc.5b00202
+J. Org. Chem. 2015, 80, 3902−3913
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+3.46 (m, 2H), 2.37−2.25 (m, 6H), 1.95 (t, 1H, J = 2.7 Hz), 1.84−1.46
+(m, 6H); 13C NMR (75 MHz, CDCl3) δ ppm 145.1, 111.6, 99.0, 84.2,
+68.7, 66.4, 62.5, 36.1, 35.4, 30.9, 25.6, 19.8, 17.4; HRMS (ESI+)
+calculated for C13H20O2Na (M + Na)+ m/z = 231.1361,
+found:
+231.1359.
+
+Ethyl 6-Methylene-8-[(tetrahydro-2H-pyran-2-yl)oxy]oct-2-
+ynoate (10-OTHP). To a ﬂame-dried ﬂask containing a stirred
+solution of 2.0 g (9.90 mmol) of alkyne 9 in THF (30 mL) under a N2
+atmosphere was slowly added 5.2 mL (12.9 mmol, 2.5 M in hexanes)
+of n-BuLi at −78 °C. The mixture was stirred for 1 h at −78 °C before
+a solution 1.61 g (1.4 mL, 14.86 mmol) of ethyl chloroformate in THF
+(10 mL) was added dropwise at −78 °C. The mixture was allowed to
+warm to rt and allowed to stir for another 5 h. The reaction was
+quenched with saturated aqueous NH4Cl (20 mL), diluted with Et2O
+(75 mL), washed with water and brine, and dried over anhydrous
+Na2SO4. Solvent was removed under reduced pressure, and the residue
+was then puriﬁed by ﬂash column chromatography on silica gel (0−
+10% Et2O−hexanes) to aﬀord 2.2 g (92%) of a clear oil; TLC (Rf 0.4,
+20% ethyl acetate−hexanes); 1H NMR (300 MHz, CDCl3) δ ppm
+4.86 (s, 1H), 4.84 (s, 1H), 4.57 (dd, 1H, J = 2.4, 4.2 Hz), 4.19 (q, 2H, J
+= 7.2 Hz), 3.87−3.79 (m, 2H), 3.52−3.44 (m, 2H), 2.50−2.45 (m,
+2H), 2.35−2.29 (m, 2H), 1.86−1.46 (m, 6H), 1.28 (t, 3H, J = 7.2 Hz);
+13C NMR (75 MHz, CDCl3) δ ppm 154.0, 144.7, 112.1, 99.0, 88.8,
+73.6, 66.4, 62.5, 62.0, 36.1, 34.4, 30.9, 25.6, 19.76, 17.6, 14.2; HRMS
+(ESI+) calculated for C16H24O4Na (M + Na)+ m/z = 303.1572, found:
+303.1573.
+
+Ethyl
+
+(Z)-3-Methyl-6-methylene-8-((tetrahydro-2H-pyran-2-yl)-
+oxy)oct-2-enoate (11-OTHP).
+In a ﬂame-dried ﬂask under N2,
+recrystallized CuI (329 mg, 1.72 mmol) was suspended in anhydrous
+THF (5 mL) and cooled to −40 °C. CH3Li (2.1 mL, 3.30 mmol, 1.6
+M in Et2O) was slowly added, and resulting heterogeneous mixture
+was allowed to warm to −20 °C over 45 min, during which the
+suspension cleared. The solution was cooled to −78 °C, and 400 mg
+(1.43 mmol) of a solution of 10-OTHP in THF (2 mL) was added
+slowly. The mixture was allowed to stir at −78 °C for 2 h, 3 mL of
+EtOH was added dropwise, and the mixture was allowed to warm to rt
+while stirred vigorously. Saturated aqueous NH4Cl (10 mL) was
+added, followed by Et2O (20 mL). The mixture was stirred vigorously
+the layers were separated (∼1 h). The aqueous layer was
+until
+extracted with Et2O, and the combined organic layers were washed
+with saturated aqueous NH4Cl, water, and brine, and dried over
+anhydrous Na2SO4. Solvent was removed under reduced pressure, and
+the residue was puriﬁed by ﬂash column chromatography on silica gel
+(0−10% Et2O−hexanes) to aﬀord 340 mg (80%) of a clear oil; TLC
+(Rf 0.5, 20% ethyl acetate−hexanes); 1H NMR (300 MHz, CDCl3) δ
+ppm 5.65 (s, 1H), 4.82 (s, 1H), 4.79 (s, 1H), 4.59 (dd, 1H, J = 2.7, 4.2
+Hz), 4.12 (q, 2H, J = 7.2 Hz), 3.89−3.81 (m, 2H), 3.55−3.45 (m, 2H),
+2.77−2.72 (m, 2H), 2.36 (t, 2H, J = 7.2 Hz), 2.19 (t, 2H, J = 7.4 Hz),
+1.87 (d, 3H, J = 1.2 Hz), 1.83−1.46 (m, 6H), 1.25 (t, 3H, J = 7.2 Hz);
+13C NMR (75 MHz, CDCl3) δ ppm 166.4, 160.0, 146.4, 116.6, 110.9,
+99.0, 66.5, 62.5, 59.6, 36.1, 35.0, 32.1, 30.9, 25.7, 25.4, 19.8, 14.5;
+HRMS (FTMS/ESI+) calculated for C17H29O4 (M + H)+ m/z =
+297.20604, found: 297.20623; calculated for C17H28O4Na (M + Na)+
+m/z = 319.18798, found: 319.18815.
+
+Ethyl (Z)-8-Hydroxy-3-methyl-6-methyleneoct-2-enoate (13-OH).
+To a stirred solution of 11-OTHP (250 mg, 0.85 mmol) in EtOH (5
+mL) was added 21 mg (0.085 mmol) of PPTS, and the resulting
+solution was allowed to stir at 50 °C for 16 h. EtOH was removed at
+reduced pressure, and the residue was dissolved in EtOAc (10 mL),
+washed with saturated aqueous NaHCO3, water, and brine, and dried
+over anhydrous Na2SO4. Solvent was removed under
+reduced
+pressure, and the residue was puriﬁed by ﬂash column chromatography
+on silica gel (20−50% Et2O−hexanes) to give 154 mg (86%) of a clear
+oil; TLC (Rf 0.3, 30% ethyl acetate−hexanes); 1H NMR (300 MHz,
+CDCl3) δ ppm 5.68 (s, 1H), 4.91 (s, 1H), 4.85 (s, 1H), 4.13 (q, 2H, J
+= 7.2 Hz), 3.74 (t, 2H, J = 6.3 Hz), 2.79−2.73 (m, 2H), 2.36 (t, 2H, J
+= 6.3 Hz), 2.20 (t, 2H, J = 7.4 Hz), 1.90 (d, 3H, J = 1.2 Hz), 1.26 (t,
+3H, J = 7.2 Hz); 13C NMR (75 MHz, CDCl3) δ ppm 166.6, 160.0,
+145.8, 116.0, 112.3, 60.7, 59.8, 36.2, 34.3, 32.2, 25.4, 14.5; HRMS
+</para>
+Article
+<para sub=“exp”>
+Ethyl
+
+(FTMS/ESI+) calculated for C12H21O3 (M + H)+ m/z = 213.14852,
+found: 213.14864.
+
+(Z)-3-Methyl-6-methylene-8-(tosyloxy)oct-2-enoate (15-
+OTs). To a stirred solution of 190 mg (0.71 mmol) of 13-OH and
+164 mg (1.34 mmol) of DMAP in CH2Cl2 (5 mL) was added 222 mg
+(1.17 mmol) of p-toluenesulfonyl chloride at rt. The mixture was
+allowed to stir for 16 h rt, was diluted with Et2O (10 mL), and was
+washed with 5% citric acid solution, saturated aqueous NaHCO3,
+water, and brine, and dried over anhydrous Na2SO4. Solvent was
+removed under reduced pressure, and the residue was puriﬁed by ﬂash
+column chromatography on silica gel (5−20% Et2O−hexanes) to give
+300 mg (90%) of a clear oil; TLC (Rf 0.5, 20% ethyl acetate−hexanes);
+1H NMR (300 MHz, CDCl3) δ ppm 7.78 (d, 2H, 8.4 Hz), 7.33 (d,
+2H, 8.1 Hz), 5.64 (s, 1H), 4.84 (s, 1H), 4.72 (s, 1H), 4.12 (q, 2H, J =
+7.2 Hz), 2.70−2.64 (m, 2H), 2.45 (s, 3H), 2.41 (t, 2H, J = 6.9 Hz),
+2.07 (t, 2H, 7.5 Hz), 1.84 (d, 3H, J = 1.2 Hz), 1.25 (t, 3H, J = 7.2 Hz);
+13C NMR (75 MHz, CDCl3) δ ppm 166.3, 159.6, 144.9, 143.7,
+133.3,130.0, 128.1, 116.7, 112.6, 68.89, 59.7, 35.0, 34.4, 31.8, 25.3,
+21.8, 14.5; HRMS (FTMS/ESI+) calculated for C19H27O5S (M + H)+
+m/z = 367.15737, found: 367.15768; calculated for C19H26O5SNa (M
++ Na)+ m/z = 389.13932, found: 389.13971.
+
+(Z)-8-Hydroxy-6-methyl-3-methyleneoct-6-en-1-yl 4-Methyl-
+benzenesulfonate (3-OH/OTs). A solution of 300 mg (0.82 mmol)
+of 15-OTs in toluene (10 mL) was cooled to −78 °C, and 1.4 mL
+(2.05 mmol, 1.5 M in toluene) of DIBAL was added slowly under a N2
+atmosphere. The reaction was allowed to stir for 2 h at −78 °C before
+a saturated solution of sodium potassium tartrate (5 mL) was added at
+−78 °C. EtOAc (15 mL) was added to the slurry, and the mixture was
+allowed to stir until the layers separated (45−60 min). The aqueous
+layer was extracted with EtOAc, the combined organic layers were
+washed with water and brine, and dried over anhydrous Na2SO4.
+Solvent was removed at reduced pressure, and the residue was puriﬁed
+by ﬂash column chromatography on silica gel (30−60% Et2O−
+hexanes) to give 250 mg (94%) of a clear oil; TLC (Rf 0.2, 30% ethyl
+acetate−hexanes); 1H NMR (300 MHz, CDCl3) δ ppm 7.78 (d, 2H,
+8.7 Hz), 7.34 (d, 2H, 8.7 Hz), 5.42 (t, 1H, J = 6.9 Hz), 4.81 (s, 1H),
+4.73 (s, 1H), 4.14−4.05 (m, 4H), 2.44 (s, 3H), 2.37 (t, 2H, J = 6.9
+Hz), 2.17−2.10 (m, 2H), 2.05−1.98 (m, 2H), 1.70 (d, 3H, J = 1.2
+Hz); 13C NMR (75 MHz, CDCl3) δ ppm 145.0, 144.0, 139.4, 133.2,
+130.0, 128.1, 124.9, 112.5, 68.9, 59.1, 35.3, 34.7, 30.5, 23.5, 21.8;
+HRMS (FTMS/ESI+) calculated for C17H25O4S (M + H)+ m/z =
+325.14681, found: 325.14693; calculated for C17H24O4SNa (M + Na)+
+m/z = 347.12875, found: 347.12894.
+
+(Z)-3-Methyl-6-methyleneoct-2-ene-1,8-diyl Bisdiphosphate (3-
+OPP). To a stirred solution of 147 mg (1.10 mmol) of N-
+chlorosuccinimide in CH2Cl2 (7 mL) was added 84 mg (100 μL,
+1.36 mmol) of dimethyl sulﬁde dropwise at 0 °C, and the cloudy
+mixture was stirred for an additional 10 min. The reaction was then
+cooled to −30 °C, and a solution of 275 mg (0.85 mmol) of 3-OH/
+OTs in CH2Cl2 (3 mL) was added slowly. The mixture was allowed to
+stir at −30 °C for 1 h and then at room temperature for 5 h, diluted
+with CH2Cl2 (5 mL), washed with water and brine, and dried over
+anhydrous Na2SO4. Solvent was removed under reduced pressure, and
+the residue (TLC (Rf 0.6 20% ethyl acetate−hexanes)) was used in the
+next step without puriﬁcation.
+
+To a solution of 3.05 mg (3.39 mmol) of
+
+tris(tetra-n-butyl-
+ammonium)hydrogen pyrophosphate trihydrate in CH3CN (3 mL) at
+0 °C was added slowly over 5 min a solution of 290 mg (0.85 mmol)
+of 3-OTs/Cl in 0.5 mL of CH3CN. The resulting mixture was allowed
+to stir for 1 h at 0 °C and for 5 h at room temperature. CH3CN was
+removed at reduced pressure. The residue was dissolved in 5 mL of 25
+mM NH4HCO3 containing 2% (v/v) isopropanol and chromato-
+graphed on a 2 × 14 cm column of DOWEX AG 50W-X8 cation-
++ form). The mixture was eluted with 2 column
+exchange resin (NH4
+volumes of 25 mM NH4HCO3 containing 2% (v/v) isopropanol and
+lyophilized to yield a white crusty solid. The solid was dissolved in a
+minimum volume of 3.5:3.5:3 (v/v/v) THF/1-propanol/10 mM
+NH4HCO3 puriﬁed by medium-pressure chromatography on cellulose
+(3 × 30 cm) at a ﬂow rate of 2.0 mL/min with the same solvent.
+Fractions containing the product were identiﬁed by TLC (Rf 0.5,
+</para>
+3910
+
+DOI: 10.1021/acs.joc.5b00202
+J. Org. Chem. 2015, 80, 3902−3913
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+Ethyl
+
+2.5:2.5:5 (v/v/v) THF/1-propanol/0.1 M NH4HCO3) and were
+combined. Organic solvents were removed at reduced pressure, and
+the aqueous residue was lyophilized to give 210 mg (42%) of a foamy
+hygroscopic white solid; TLC (cellulose, Rf 0.5, 2.5:2.5:5 (v/v/v)
+THF/1-propanol/0.1 M NH4HCO3); 1H NMR (300 MHz, D2O) δ
+ppm 5.43 (t, 1H, J = 6.9 Hz), 4.87 (s, 2H), 4.42 (t, 2H, J = 7.2 Hz),
+4.01 (q, 2H, J = 6.6 Hz), 2.38 (t, 2H, J = 6.9 Hz), 2.29−2.23 (m, 2H),
+2.18−2.11 (m, 2H), 1.73 (s, 3H); 13C NMR (75 MHz, D2O) δ ppm
+146.9, 142.7, 120.8 (d, JC‑P = 8.0 Hz), 110.9, 64.3 (d, JC‑P = 5.5 Hz),
+62.3 (d, JC‑P = 5.0 Hz), 36.2 (d, JC‑P = 7.5 Hz), 34.0, 29.9, 22.6; 31P
+NMR (121 MHz, D2O) δ ppm −6.56 (d, 2P, JP‑P = 20.7 Hz), −9.88 (t,
+2P, JP‑P = 20.1 Hz); HRMS (FTMS/ESI−) calculated for C10H21O14P4
+(M − H)− m/z = 488.98872, found: 488.98759.
+(Z)-7-Methyl-3-(3-methylene-5-((tetrahydro-2H-pyran-2-
+yl)oxy)pentyl)octa-2,6-dienoate (12-OTHP). In a ﬂame-dried ﬂask
+under nitrogen, to a stirred solution of 450 mg (2.14 mmol) of 5-iodo-
+2-methylpent-2-ene in Et2O (5 mL) was slowly added 2.8 mL (4.71
+mmol, 1.7 M in pentane) of t-BuLi at −78 °C. The mixture was
+allowed to stir for 15 min at −78 °C, allowed to warm to rt, and
+allowed to stir for an additional 1 h. The resulting solution was
+transferred under nitrogen by a syringe to a ﬂame-dried ﬂask
+containing a suspension of 266 mg (1.39 mmol) of CuI in THF (5
+mL) at −50 °C under nitrogen. The resulting dark gray suspension
+was allowed to stir at −50 °C for 45 min and cooled to −78 °C before
+a solution of 300 mg (1.07 mmol) of 10-OTHP in THF (5 mL) was
+added dropwise at −78 °C. The dark gray mixture was stirred for 2 h
+at −78 °C. EtOH (5 mL) was added to the reaction mixture, and the
+mixture was allowed to warm to rt. Vigorous stirring was continued for
+15 min before the mixture was poured into a solution of saturated
+aqueous NH4Cl (20 mL), diluted with Et2O (20 mL), and allowed to
+stir until the blue aqueous and clear organic layers separated. The
+aqueous layer was extracted with Et2O, and the combined organic
+layers were washed with saturated aqueous NH4Cl, water, and brine
+and dried over anhydrous Na2SO4. Solvents were removed, and the
+residue was puriﬁed by ﬂash column chromatography on silica gel (0−
+10% Et2O−hexanes) to give 310 mg (79%) of a clear oil; TLC (Rf 0.6,
+20% ethyl acetate−hexanes); 1H NMR (300 MHz, CDCl3) δ ppm
+5.64 (s, 1H), 5.12−5.06 (m, 1H), 4.84 (s, 1H), 4.80 (s, 1H), 4.60 (dd,
+1H, J = 2.7, 4.2 Hz), 4.14 (q, 2H, J = 7.2 Hz), 3.90−3.82 (m, 2H),
+3.56−3.46 (m, 2H), 2.76−2.71 (m, 2H), 2.37 (t, 2H, J = 7.2 Hz),
+2.21−2.16 (m, 6H), 1.86−1.46 (m, 6H), 1.68 (s, 3H), 1.60 (s, 3H),
+1.27 (t, 3H, J = 7.2 Hz); 13C NMR (75 MHz, CDCl3) δ ppm 166.6,
+163.6, 146.5, 132.7, 123.2, 115.9, 110.9, 99.0, 66.5, 62.5, 59.7, 38.6,
+36.2, 35.5, 31.1, 30.9, 26.4, 25.9, 25.7, 19.8, 17.9, 14.5; HRMS (FTMS/
+ESI+) calculated for C22H37O4 (M + H)+ m/z = 365.26864, found:
+365.26934.
+
+Ethyl
+
+(Z)-7-Methyl-3-(3-methylene-5-(tosyloxy)pentyl)octa-2,6-
+dienoate (16-OTs). To a solution of 200 mg (0.71 mmol) of 14-
+OH and 131 mg (1.07 mmol) of DMAP in CH2Cl2 (5 mL), was added
+177 mg (0.93 mmol) of p-toluenesulfonyl chloride at rt, and the
+resulting mixture was allowed to stir for 16 h at rt. The mixture was
+diluted with Et2O (15 mL) and washed with 5% citric acid solution,
+
+Ethyl
+
+(Z)-3-(5-Hydroxy-3-methylenepentyl)-7-methylocta-2,6-di-
+enoate (14-OH). To a stirred solution of 300 mg (0.82 mmol) of
+12-OTHP in EtOH (5 mL) was added 21 mg (0.082 mmol) of PPTS,
+and the resulting solution was allowed to stir at 50 °C for 16 h. EtOH
+was removed at reduced pressure, the residue was dissolved in EtOAc
+(10 mL) and washed with saturated aqueous NaHCO3, water, and
+brine, and was dried over anhydrous Na2SO4. Solvent was removed at
+reduced pressure, and the residue was puriﬁed by ﬂash column
+chromatography on silica gel (20−50% Et2O−hexanes) to 200 mg
+(87%) of a clear oil; TLC (Rf 0.3, 30% ethyl acetate−hexanes); 1H
+NMR (300 MHz, CDCl3) δ ppm 5.65 (s, 1H), 5.12−5.04 (m, 1H),
+4.90 (s, 1H), 4.84 (s, 1H), 4.13 (q, 2H, J = 7.2 Hz), 3.73 (t, 2H, J = 6.3
+Hz), 2.75−2.70 (m, 2H), 2.35 (t, 2H, J = 6.3 Hz), 2.20−2.15 (m, 6H),
+1.68 (s, 3H), 1.60 (s, 3H), 1.26 (t, 3H, J = 7.2 Hz); 13C NMR (75
+MHz, CDCl3) δ ppm 166.7, 163.6, 146.1, 132.8, 123.2, 115.9, 112.1,
+60.7, 59.8, 39.3, 38.6, 34.8, 31.13, 26.4, 25.9, 17.9, 14.5; HRMS
+(FTMS/ESI+) calculated for C17H29O3 (M + H)+ m/z = 281.21112,
+found: 281.21152.
+
+saturated aqueous NaHCO3, water, and brine. The organic layer was
+dried over anhydrous Na2SO4, solvent was removed at reduced
+pressure, and the residue was puriﬁed by ﬂash column chromatography
+on silica gel (5−20% Et2O−hexanes) to yield 250 mg (81%) of a clear
+oil; TLC (Rf 0.6, 20% ethyl acetate−hexanes); 1H NMR (300 MHz,
+CDCl3) δ ppm 7.79 (d, 2H, J = 8.4 Hz), 7.32 (d, 2H, J = 8.1 Hz), 5.63
+(s, 1H), 5.10−5.04 (m, 1H), 4.84 (s, 1H), 4.72 (s, 1H), 4.17−4.08 (m,
+4H), 2.67−2.62 (m, 2H), 2.43 (s, 3H), 2.42 (t, 2H, J = 6.6 Hz), 2.13−
+2.04 (m, 6H), 1.68 (s, 3H), 1.60 (s, 3H), 1.26 (t, 3H, J = 7.2 Hz); 13C
+NMR (75 MHz, CDCl3) δ ppm 166.5, 163.2, 144.9, 143.8, 133.3,
+132.9, 130.0, 128.1, 123.1, 116.0, 112.5, 68.9, 59.7, 38.6, 35.0, 35.0,
+30.9, 26.3, 25.9, 21.8, 17.9, 14.5; HRMS (FTMS/ESI+) calculated for
+C24H35O5S (M + H)+ m/z = 435.21997, found: 435.22064.
+(Z)-6-(2-Hydroxyethylidene)-10-methyl-3-methyleneundec-9-en-
+1-yl-4-methylbenzenesulfonate (4-OH/OTs). A solution of 200 mg
+(0.46 mmol) of 16-OTs in toluene was cooled to −78 °C, and 0.8 mL
+(1.15 mmol, 1.5 M in toluene) of DIBAL was added slowly under a N2
+atmosphere. The reaction was allowed to stir for 2 h at −78 °C, and
+quenched by a dropwise addition of saturated solution sodium
+potassium tartrate (10 mL) at −78 °C, followed by 10 mL of EtOAc.
+The resulting slurry was allowed to stir until the layers separated (45−
+60 min). The aqueous layer was extracted with EtOAc, and the
+combined organic layers were washed with water and brine and were
+dried over anhydrous Na2SO4. Solvent was removed at reduced
+pressure and puriﬁed by ﬂash column chromatography on silica gel
+(30−60% Et2O−hexanes) to give 148 mg (82%) of a colorless liquid;
+TLC (Rf 0.2, 30% ethyl acetate−hexanes); 1H NMR (300 MHz,
+CDCl3) δ ppm 7.78 (d, 2H, J = 8.4 Hz), 7.34 (d, 2H, J = 8.1 Hz), 5.41
+(t, 1H, J = 7.2 Hz), 5.10−5.06 (m, 1H), 4.81 (s, 1H), 4.72 (s, 1H),
+4.13−4.07 (m, 4H), 2.44 (s, 3H), 2.37 (t, 2H, J = 6.6 Hz), 2.16−1.97
+(m, 8H), 1.68 (s, 3H), 1.59 (s, 3H); 13C NMR (75 MHz, CDCl3) δ
+ppm 145.0, 144.1, 143., 133.2, 132.1, 130.0, 128.1, 124.3, 124.0, 112.4,
+68.9, 59.2, 36.8, 35.3, 35.3, 29.5, 29.1, 26.7, 25.9, 21.8, 17.9; HRMS
+(FTMS/ESI+) calculated for C22H33O4S (M + H)+ m/z = 393.20941,
+found: 393.21074; calculated for C22H31O3S (M − OH + H)+ m/z =
+375.19884, found: 375.19982.
+(Z)-1,1′-((6-Methylene-3-(4-methylpent-3-en-1-yl)oct-2-ene-1,8-
+diyl)) Bisdiphosphate (4-OPP). To a stirred solution of 74 mg (0.55
+mmol) of N-chlorosuccinimide in CH2Cl2 (3 mL) was added 43 mg
+(51 μL, 0.69 mmol) of dimethyl sulﬁde dropwise at 0 °C, and the
+cloudy mixture was allowed to stir for 10 min. The mixture was cooled
+to −30 °C, and a solution of 180 mg (0.46 mmol) of 4-OH/OTs in
+CH2Cl2 (3 mL) was added slowly. The mixture was allowed to stir at
+−30 °C for 1 h and at room temperature for 5 h. CH2Cl2 (5 mL) was
+added, and the mixture was washed with water and brine and dried
+over anhydrous Na2SO4. Solvent was removed at reduced pressure,
+and the residue (TLC (Rf 0.6, 20% ethyl acetate−hexanes)) was used
+without puriﬁcation.
+
+A solution of the residue (4-OTs/Cl) in 1 mL of CH3CN was
+slowly added to a stirred solution of 2.0 g (2.20 mmol) of tris(tetra-n-
+butylammonium)hydrogen pyrophosphate trihydrate in 2 mL of
+CH3CN at 0 °C over 5 min. Stirring was continued for 1 h at 0 °C and
+for 5 h at room temperature. CH3CN was removed at reduced
+pressure, and the residue was puriﬁed as described for 3-OPP to give
+120 mg (40%) of a hygroscopic white solid; TLC (cellulose, Rf 0.5,
+2.5:2.5:5 (v/v/v) THF/1-propanol/0.1 M NH4HCO3); 1H NMR
+(300 MHz, D2O) δ ppm 5.44 (t, 1H, J = 6.9 Hz), 5.22−5.16 (m, 1H),
+4.89 (s, 1H), 4.87 (s, 1H), 4.45 (t, 2H, J = 6.6 Hz), 4.02 (q, 2H, J = 6.9
+Hz), 2.38 (t, 2H, J = 6.9 Hz), 2.30−2.21 (m, 2H), 2.18−2.02 (m, 2H),
+1.65 (s, 3H), 1.59 (s, 3H); 13C NMR (75 MHz, D2O) δ ppm 147.0,
+145.6, 133.8, 124.3, 120.9 (d, JC‑P = 8.5 Hz), 110.8, 64.3 (d, JC‑P = 5.6
+Hz), 62.4 (d, JC‑P = 5.6 Hz), 36.2 (d, JC‑P = 7.5 Hz), 36.1, 34.7, 28.4,
+25.9, 24.9, 17.1; 31P NMR (121 MHz, D2O) δ ppm −6.29 (d, 2P, JP‑P
+= 21.3 Hz), −9.65 (t, 2P, JP‑P = 19.5 Hz); HRMS (ESI+) calculated for
+C15H31O14P4 (M + H)+ m/z = 559.0664, found: 559.0676.
+(Z)-2-(4-Methylcyclohept-4-en-1-ylidene)-
+ethan-1-ol (17-OH). In a 10 mL pear-shaped ﬂask, 200 μL of 400
+mM bicyclo[2.2.1]hept-5-ene-2,3-dicarboxylic acid (BHDA) buﬀer
+(pH 7.0), 200 μL of 20 mM MgCl2, 200 μL of 50 mM β-
+mercaptoethanol, 200 μL of BSA (20 mg/mL), and 100 μL of 100
+
+Product Studies.
+</para>
+3911
+
+DOI: 10.1021/acs.joc.5b00202
+J. Org. Chem. 2015, 80, 3902−3913
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+mM (14 mg, 0.024 mmol) 3-OPP were mixed with 1020 μL of
+deionized water. The mixture was preincubated at 37 °C for 10 min,
+followed by the addition of 80 μL (10.5 mg/mL) of avian FPP
+synthase. The mixture was incubated at 37 °C for 7 h, after which, 2
+mL of 200 mM Lysine buﬀer (pH 10.5) and 20 μL of aqueous bovine
+alkaline phosphatase (2 mg, 2790 U/mg) were added and incubated at
+37 °C for an additional 12 h. The assay mixture was transferred to a 15
+mL centrifuge tube, and 8 mL of ethyl acetate was added. The
+heterogeneous mixture was vortexed vigorously and centrifuged. The
+ethyl acetate layer was removed, and the extraction procedure was
+repeated three times. The combined organic layers were dried over
+anhydrous MgSO4, and solvent was removed at reduced pressure. The
+residue was puriﬁed by ﬂash chromatography on silica gel (10−30%
+ethyl acetate−hexanes) to give 1.6 mg (44%) of 17-OH as a colorless
+oil; TLC (Rf 0.4, 30% ethyl acetate−hexanes); 1H NMR (600 MHz,
+CDCl3) δ ppm 5.49 (t, 1H, J = 6.0 Hz), 5.41 (t, 1H, J = 6.6 Hz), 4.15
+(d, 2H, J = 6.6 Hz), 2.36−2.34 (m, 2H), 2.29−2.27 (m, 2H), 2.13−
+2.11 (m, 4H), 1.72 (s, 3H); 13C NMR (125 MHz, CDCl3) δ ppm
+146.7, 138.9, 124.8, 122.7, 59.0, 37.5, 33.0, 29.0, 28.4, 26.7; HRMS
+(ESI+) calculated for C10H16ONa (M + Na)+ m/z = 175.1099, found:
+175.1109.
+
+(Z)-2-(4-(4-Methylpent-3-en-1-yl)cyclohept-4-en-1-ylidene)-
+ethan-1-ol (18-OH). Using the procedure described above, 100 μL of
+100 mM (13.2 mg, 0.018 mmol) of 4-OPP was incubated with 80 μL
+(10.5 mg/mL) of avian FPPase in BHDA buﬀer (pH 7.0) at 37 °C for
+7 h, followed by addition of 2 mL of 200 mM lysine buﬀer (pH 10.5)
+and 20 μL of aqueous bovine alkaline phosphatase solution (2 mg,
+2790 U/mg) and incubation at 37 °C for an additional 12 h. Flash
+chromatography on silica gel (10−30% EtOAc−hexanes) gave 0.8 mg
+(34%) of 18-OH as a colorless oil; TLC (Rf 0.4, 30% ethyl acetate−
+hexanes); 1H NMR (600 MHz, CDCl3) δ ppm 5.51 (t, 1H, J = 6.0
+Hz), 5.41 (t, 1H, J = 6.6 Hz), 5.10 (t, 1H, J = 6.6 Hz), 4.16 (d, 2H, J =
+7.2 Hz), 2.33−2.32 (m, 2H), 2.27−2.25 (m, 2H), 2.16−2.12 (m, 4H),
+2.07−2.04 (m, 2H), 2.00−1.98 (m, 2H), 1.68 (s, 3H), 1.60 (s, 3H);
+13C NMR (125 MHz, CDCl3) δ ppm 147.0, 142.9, 131.7, 124.9, 124.4,
+122.6, 59.0, 40.7, 37.6, 31.4, 29.5, 28.8, 27.1, 25.9, 17.9; HRMS (ESI+)
+calculated for C15H24ONa (M + Na)+ m/z = 243.1725,
+found:
+243.1728.
+
+Steady-State Kinetic Studies. Assays were carried out in 100 μL
+of 40 mM BHDA buﬀer, pH 7, containing 10 mM DTT, 2 mM MgCl2,
+2 mg/mL BSA, and 0.095−9.45 μM [1-3H]3-OPP or [1-3H]4-OPP.
+Samples were preincubated at 37 °C for 10 min, and the reaction was
+initiated by the addition of 38 ng avian FPPase in assay buﬀer. After
+incubation at 37 °C for 10 min, the reaction was quenched with 200
+μL of 4:1 methanol:HCl and incubated at 37 °C for 10 min to
+solvolyze the allylic diphosphates. The assay mixture was extracted
+with 1 mL of ligroin, a 0.5 mL portion of the extract was mixed with 4
+mL of scintillation cocktail, and radioactivity in the sample was
+quantiﬁed by scintillation spectrometry. All assays were run as
+triplicate along with a blank without avian FPPase. Initial rates
+measured in the linear phase of the progress curve vs substrate
+concentration were ﬁt to the hyperbolic form of the Michaelis−
+Menten equation Vmax[S]/(KM +[S]), where S is the concentration of
+the radiolabeled 1-OPP or 2-OPP. Values for kcat and kcat/KM were
+computed and are shown in Table 1.
+Homology Modeling and Docking. Homology models of avian
+FPPase were created by Schrödinger Prime using the human FPPase
+crystal structure (PDB code: 4KQS) as the template. The BLAST E-
+value for the two sequences was 1e−177. The sequences were further
+aligned using PROMALS3D (Figure S44, Supporting Information).
+The models were processed by constrained minimizations (RMSD
+tolerance 0.35 Å, in the presence of the co-crystallized ligands 3-OPP
+and 4-OPP) with Schrödinger Protein Preparation Wizard. The
+quality of the homology models was assessed using the discrete
+optimized protein energy score (a statistical potential score for
+evaluating protein models) in MODELLER, and a Z-score of −1.73
+was obtained, implying that the quality of the models was good. The
+two substrates were built manually and processed by the Schrödinger
+Ligprep. The OPLS 2005 force ﬁeld was used throughout this study.
+</para>
+Article
+
+The substrates were docked using Schrödinger Glide, and the Glide SP
+scoring function was used.
+■ ASSOCIATED CONTENT
+*S Supporting Information
+1H, 13C, 31P, and 2D NMR spectra. This material is available
+free of charge via the Internet at http://pubs.acs.org.
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: poulter@chemistry.utah.edu. Tel: (801) 581-6685.
+Fax: (801) 581-4391 (C.D.P.).
+Present Addresses
+∥
+Department of Chemistry, Brigham Young University - Idaho,
+Rexburg, ID 83460, United States.
+⊥
+Novartis Institutes for BioMedical Research, 250 Massachu-
+setts Avenue, Cambridge, MA 02139, United States.
+#U.S. Army Dugway Proving Ground, Building 4153, Dugway,
+UT 84022, United States.
+Notes
+M.P.J. is a consultant to Schrodinger LLC, which distributes
+software used in this study. The authors declare no competing
+ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We thank Drs. Jack Skalicky and Jeng Yeong Chow for their
+assistance with the 2D NMR experiments. This research was
+supported by the NIH grants GM-25521 (C.D.P.) and GM-
+093342 (C.D.P. and M.P.J.).
+
+■ REFERENCES
+
+(1) Dictionary of Natural Products. http://dnp.chemnetbase.com.
+(2) (a) Kores, J.; Ostwald, R.; Keith, A. Biochim. Biophys. Acta 1972,
+274, 71−74. (b) Rottem, S.; Yashoav, J.; Neeman, Z.; Razin, S.
+Biochim. Biophys. Acta 1973, 323, 495−508. (c) Bard, M.; Lees, N. D.;
+Burrows, L. S.; Kleinhans, F. W. J. Bacteriol. 1978, 135, 1146−1148.
+(d) Cobon, G. S.; Haslam, J. M. Biochem. Biophys. Res. Commun. 1973,
+52, 320−326. (e) Lees, N. D.; Lofton, S. L.; Woods, R. A.; Bard, M. J.
+Gen. Microbiol. 1980, 118, 209−214. (f) Nes, W. R.; McKean, M. L.
+Biochemistry of Steroids and Other Isopentenoids; University Park Press:
+Baltimore, MD, 1977.
+(3) Poulter, C. D. Phytochem. Rev. 2006, 277, 1788−1789.
+(4) Cane, D. E. Acc. Chem. Res. 1985, 5, 17−26.
+(5) Tarshis, L. C.; Yan, M.; Poulter, C. D.; Sacchettini, J. C.
+Biochemistry 1994, 33, 10871−10877.
+(6) Thulasiram, H. V.; Poulter, C. D. J. Am. Chem. Soc. 2006, 128,
+15819−15823.
+(7) http://pfam.xfam.org/family/PF00348.
+(8) Wallrapp, F. H.; Pan, J.-J.; Ramamoorthy, G.; Almonacid, D. E.;
+Hillerich, B. S.; Seidel, R.; Patskovsky, Y.; Babbitt, P. C.; Almo, S. C.;
+Jacobson, M. P.; Poulter, C. D. Proc. Natl. Acad. Sci. U.S.A. 2013, 110,
+E1196−E1202.
+(9) Tarshis, L. C.; Proteau, P. J.; Kellogg, B. A.; Sacchettini, J. C.;
+Poulter, C. D. Proc. Natl. Acad. Sci. U.S.A. 1996, 93, 15018−15023.
+(10) (a) Pandit, J.; Danley, D. E.; Schulte, G. K.; Mazzalupo, S.;
+Pauly, T. A.; Hayward, C. M.; Hamanaka, E. S.; Thompson, J. F.;
+Harwood, H. J. J. Biol. Chem. 2000, 275, 30610−30617. (b) Blagg, B.
+S. J.; Jarstfer, M. B.; Rogers, D. H.; Poulter, C. D. J. Am. Chem. Soc.
+2002, 124, 8846−8853.
+(11) Iwata-Reuyl, D.; Math, S. K.; Desai, S. B.; Poulter, C. D.
+Biochemistry 2003, 42, 3359−3365.
+(12) (a) Christianson, D. W. Chem. Rev. 2006, 106, 3412−3442.
+(b) Lin, F.-Y.; Oldfield, E. Angew. Chem., Int. Ed. 2014, 51, 1124−
+1137.
+
+3912
+
+DOI: 10.1021/acs.joc.5b00202
+J. Org. Chem. 2015, 80, 3902−3913
+
+Article
+
+The Journal of Organic Chemistry
+
+(13) (a) Leung, C. Y.; Park, J.; De Schutter, J. W.; Sebag, M.;
+Berghuis, A. M.; Tsantrizos, Y. S. J. Med. Chem. 2013, 56, 7939−7950.
+(b) Hosfield, D. J.; Zhang, Y.; Dougan, D. R.; Broun, A.; Tari, L. W.;
+Swanson, R. V.; Finn, J. J. Biol. Chem. 2004, 279, 8526−8529.
+(14) Poulter, C. D.; Rilling, H. C. Acc. Chem. Res. 1978, 11, 307−313.
+(15) (a) Li, R.; Chou, W. K. W.; Himmelberger, J. A.; Litwin, K. M.;
+Harris, G. G.; Cane, D. E.; Christianson, D. W. Biochemistry 2014, 53,
+1155−1168. (b) Deligeorgopoulou, A.; Allemann, R. K. Biochemistry
+2003, 42, 7741−7747.
+(16) (a) Liu, C.-I.; Jeng, W.-Y.; Chang, W.-J.; Shih, M.-F.; Ko, T.-P.;
+Wang, A. H-J. Acta Crystallogr. 2014, D70, 231−241. (b) Gu, P.; Ishii,
+Y.; Spencer, T. A.; Shechter, I. J. Biol. Chem. 1998, 273, 12515−12525.
+(17) (a) Ogura, K.; Saito, A.; Seto, S. J. Am. Chem. Soc. 1974, 96,
+4037−4038. (b) Ogura, K.; Nishino, T.; Koyama, T.; Seto, S. J. Am.
+Chem. Soc. 1970, 92, 6036−6041.
+(18) (a) Davisson, V. J.; Neal, T. R.; Poulter, C. D. J. Am. Chem. Soc.
+1993, 115, 1235−1245. (b) Davisson, V. J.; Poulter, C. D. J. Am. Chem.
+Soc. 1993, 115, 1245−1260.
+(19) Yong, K. H.; Lotoski, J. A.; Chong, M. J. Org. Chem. 2001, 66,
+8248−8251.
+(20) (a) Katzenellenbogen, J. A.; Corey, E. J. J. Am. Chem. Soc. 1969,
+91, 1851−1852. (b) Schneider, J. A.; Yoshihara, K. J. Org. Chem. 1986,
+51, 1077−1079.
+(21) Bailey, W. F.; Punzalan, E. R. J. Org. Chem. 1990, 55, 5404−
+5406.
+(22) Davisson, V. J.; Woodside, A. B.; Neal, T. R.; Stremler, K. E.;
+Poulter, C. D. J. Org. Chem. 1986, 51, 4768−4778.
+(23) Corey, E. J.; Kim, C. V.; Takeeda, M. Tetrahedron Lett. 1972, 13,
+4339−4341.
+(24) Davisson, V. J.; Woodside, A. B.; Poulter, C. D. Methods
+Enzymol. 1984, 110, 130−144.
+(25) Laskovics, F. M.; Krafcik, J. M.; Poulter, C. D. J. Biol. Chem.
+1979, 254, 9458−9463.
+(26) Thulasiram, H. V.; Erickson, H. K.; Poulter, C. D. Science 2007,
+316, 73−76.
+(27) http://www.rcsb.org/pdb/explore/explore.do?structureId=
+4KQS.
+(28) Phan, R. M.; Poulter, C. D. Org. Lett. 2000, 2, 2287−2289.
+(29) Pangborn, A. B.; Giardello, M. A.; Grubbs, R. H.; Rosen, R. K.;
+Timmers, F. J. Organometallics 1996, 15, 1518−1520.
+
+3913
+
+DOI: 10.1021/acs.joc.5b00202
+J. Org. Chem. 2015, 80, 3902−3913
+
+

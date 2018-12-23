@@ -1,0 +1,1081 @@
+Article
+
+pubs.acs.org/joc
+
+Indium(III)-Catalyzed Knoevenagel Condensation of Aldehydes and
+Activated Methylenes Using Acetic Anhydride as a Promoter
+Yohei Ogiwara, Keita Takahashi, Takefumi Kitazawa, and Norio Sakai*
+Department of Pure and Applied Chemistry, Faculty of Science and Technology, Tokyo University of Science (RIKADAI),
+Noda, Chiba 278-8510, Japan
+*S Supporting Information
+
+ABSTRACT: The combination of a catalytic amount of InCl3
+and acetic anhydride remarkably promotes the Knoevenagel
+condensation of a variety of aldehydes and activated methylene
+compounds. This catalytic system accommodates aromatic
+aldehydes containing a variety of electron-donating and -with-
+drawing groups, heteroaromatic aldehydes, conjugate alde-
+hydes, and aliphatic aldehydes. Central to successfully driving
+the condensation series is the formation of a geminal diacetate intermediate, which was generated in situ from an aldehyde and an
+acid anhydride with the assistance of an indium catalyst.
+
+■ INTRODUCTION
+
+The Knoevenagel reaction is a condensation between activated
+methylene and carbonyl compounds in the presence of a weak
+base, such as an amine; it is a powerful and practical tool for the
+formation of a carbon−carbon double bond.1 Because the
+multisubstituted alkenes that are produced can further be used
+for a variety of molecular transformations, such as Michael
+additions and Diels−Alder reactions, a number of organic
+chemists have continuously improved this useful conversion.1d
+In a typical Knoevenagel condensation, a catalytic amount of
+primary or secondary amines along with their ammonium salts
+acts as an eﬀective promoter, in which the formation of the
+iminium intermediate derived from the amine and a carbonyl
+compound plays a central role in promoting condensation.2
+During the past two decades, several Lewis acid catalysts have
+been used to promote Knoevenagel condensations.3 In general,
+however, aldehydes with coordinating functional groups, such
+as methoxy, nitro, or cyano groups, and heterocyclic aldehydes
+are unsuitable for use as a substrate in a Lewis-acid-catalyzed
+Knoevenagel condensation with activated methylene that has
+a relatively low degree of acidity, such as dimethyl malonate
+(pKa = 15.9 in DMSO).4 This is probably due to deactivation of
+the acidic catalyst by coordination rather than by activation of
+the carbonyl compound that is used.
+
+Indium compounds are known to display a high tolerance for
+functional groups.5 We have joined several other researchers in
+reporting on indium-catalyzed conversions of various carbonyl
+compounds with a variety of functional groups.6 On the basis of
+these reports, we anticipated that the indium compound that
+shows unique activation of typical carbonyl compounds will
+eﬀectively promote a Knoevenagel condensation with a weak
+carbonyl compound that includes a coordinating functional
+group.7 Herein, we report a novel catalytic system composed of
+indium chloride and acetic anhydride that eﬀectively promotes the
+Knoevenagel condensation of aromatic/aliphatic/heteroaro-
+
+matic aldehydes with a variety of activated methylene com-
+pounds, leading to the preparation of substituted alkene deriv-
+atives. We also describe how the condensation series proceeds
+via the indium-promoted formation of a geminal diacetate
+intermediate that is derived from an aldehyde with acetic acid
+anhydride.
+
+■ RESULTS AND DISCUSSION
+<para sub=“opt”>
+On the basis of conventional Knoevenagel reactions, we initially
+investigated reaction conditions using benzaldehyde (1a) and
+dimethyl malonate (2a) as a model substrate (Table 1). When
+a reaction was performed with 10 mol % of InBr3 in toluene
+at 60 °C for 8 h, only 3% of Knoevenagel product 3aa was
+detected (entry 1). Thus, to promote the initial abstraction of
+the activated proton, the addition of 1 equiv of several bases
+to the reaction mixture was examined. Consequently, when
+the primary amine 2-aminoethanol was added, the yield was
+remarkably increased to 61% (entry 2). The addition of a
+secondary or tertiary amine, however, was ineﬀective for the
+present condensation (entries 3 and 4). Upon further screening
+several additives for the condensation reaction,8 1 equiv of
+acetic anhydride showed the best additive eﬀect to aﬀord cor-
+responding product 3aa in 89% yield (entry 5). Then, a
+counteranion eﬀect of the indium catalyst was investigated
+in the presence of Ac2O. InCl3 produced the best yield of
+Knoevenagel product 3aa in 94% NMR yield (86% isolated
+yield) along with the formation of a small amount (4%) of
+geminal diacetate 4a. Stronger Lewis acids, InI3 and In(OTf)3,
+showed a similar catalytic eﬀect and provided alkene 3aa
+in 79% (with 8% of diacetate 4a) and 82% yields, respec-
+tively (entries 7 and 8); however, In(OH)3 and In(OAc)3
+produced neither the corresponding alkene 3aa nor diacetate
+</para>
+Received:
+Published: February 17, 2015
+
+January 4, 2015
+
+© 2015 American Chemical Society
+
+3101
+
+DOI: 10.1021/acs.joc.5b00011
+J. Org. Chem. 2015, 80, 3101−3110
+
+The Journal of Organic Chemistry
+
+Table 1. Knoevenagel Condensation of Aromatic Aldehyde
+1a with Dimethyl Malonate 2aa
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+InX3
+
+InBr3
+InBr3
+InBr3
+InBr3
+InBr3
+InCl3
+InI3
+In(OTf)3
+In(OH)3
+In(OAc)3
+
+additive
+
+HOCH2CH2NH2
+piperidine
+Et3N
+Ac2O
+Ac2O
+Ac2O
+Ac2O
+Ac2O
+Ac2O
+Ac2O
+
+NMR yield (%)
+
+3aa
+
+3
+61
+48
+6
+89
+94 (86)c
+79
+82
+ndb
+ndb
+ndb
+
+4a
+
+ndb
+4
+8
+ndb
+ndb
+ndb
+ndb
+
+aReaction conditions: 1a (0.60 mmol), 2a (0.66 mmol), InX3
+(0.060 mmol), additive (0.60 mmol), toluene (0.60 mL), 60 °C, 8 h.
+bNot detected. cIsolated yield.
+<para sub=“opt”>
+4a (entries 9 and 10). Without an indium salt, Ac2O did not
+undergo the expected condensation to yield a Knoevenagel
+product (entry 11). When the reaction was conducted with
+other solvents, such as CHCl3, CH3CN, CH3OH, and THF,
+remarkable improvement in the yield of 3aa was not observed.9
+</para>
+<para sub="scope">
+The general application of aromatic aldehydes 1 for a
+Knoevenagel condensation with dimethyl malonate (2a) was
+next investigated in toluene at 60 °C for 8 h (Table 2).
+Aldehydes containing a strong electron-donating group, such as
+either Me2N or MeO groups, on the benzene ring aﬀorded the
+corresponding products 3ba−3ea in good yields (entries 1−4).
+During the condensation series, neither the amino nor the
+methoxy groups, which generally deactivate a typical Lewis acid
+via coordination, had an eﬀect on the activation by InCl3.
+Similarly, 4-methyl- and 4-phenyl-substituted aromatic alde-
+hydes also undertook the condensation to produce alkenes
+3fa and 3ga in 80 and 84% yields, respectively, within 5−7 h
+(entries 5 and 6). The catalytic condensation of halogen-
+substituted benzaldehydes 1h−1l with malonate 2a proceeded
+successfully to isolate adducts 3ha−3la in excellent yields
+(entries 7−11). Benzaldehyde derivatives bearing an electron-
+withdrawing group, such as a methoxycarbonyl, triﬂuoromethyl,
+cyano, or nitro group, generally showed slightly higher
+reactivity than benzaldehydes with an electron-donating
+group to give the Knoevenagel products 3ma−3ra in 80−
+98% yields (entries 12−17). When salicylaldehyde (1s) was
+used as a substrate, the expected Knoevenagel alkene product
+was not detected. Instead, further O-acetylated product 5 and
+an intramolecular cyclization product, coumarin derivative 6,
+were obtained in 40 and 7% yields, respectively (entry 18). For
+the substrates shown in Table 2, a small amount of the cor-
+responding diacetate 4 was detected by 1H NMR analysis.
+</para>
+<para sub="scope">
+To expand on the scope of an activated methylene derivative,
+we conducted an InCl3-catalyzed Knoevenagel condensation of
+benzaldehyde (1a) with several methylene compounds 2 in the
+presence of Ac2O (Table 3). For example, the reaction of
+benzaldehyde with β-ketoester methyl acetoacetate (2b) and
+ethyl benzoylacetate (2c) eﬃciently gave the Knoevenagel
+
+
+the methylene with geminal diacetate.
+
+products 3ab (E:Z = 42:58) and 3ac (E:Z = 10:90).10
+β-Ketoamide 2d aﬀorded desired product 3ad in a rather low
+yield11 at an extended reaction time of 30 h, possibly because a
+decrease in the nucleophilicity of the methylene moiety by an
+the amino group hindered the
+electron-donating eﬀect of
+reaction of
+It was
+remarkable, however, that when the condensation was carried
+out with malonic acid (2e), 2-benzylidene-malonic acid (3ae)
+was obtained in 79% yield without a Doebner-type decarbox-
+ylation.12 Also, when the reaction of malononitrile (2f) was
+carried out in toluene, only 15% (NMR yield) of the product
+was obtained. It was interesting that the use of N,N-dimethyl-
+formamide (DMF) as a solvent instead of toluene successfully
+improved the chemical yield of alkene 3af to 86%. When the
+condensation of 1a with the cyclic 1,3-diketone dimedone (2g)
+was conducted under the optimal conditions, 1:2 adduct 7
+(a xanthenedione derivative) was isolated as the sole product,
+which otherwise would have been produced via a further
+Michael addition of 2g to the ﬁrst Knoevenagel adduct and a
+subsequent intramolecular cyclodehydration.7g
+</para>
+<para sub="scope">
+Further application of the indium-catalyzed condensation to
+a variety of aldehydes 8, except for benzaldehyde with dimethyl
+malonate (2a), was then investigated in the presence of Ac2O
+(Table 4). When 4-formylpyridine (8a) was used as a substrate,
+the corresponding alkene product 9aa was obtained in 65%
+yield (entry 1). In this case, InCl3 was unnecessary for the con-
+densation based on the fact that alkene 9aa (68% NMR yield)
+was obtained in the absence of InCl3. When the reactions of
+either a pyridyl aldehyde, which have a more sterically hindered
+portion around the nitrogen atom, 2-bromo-6-formylpyridine
+(8b), or 2-thiophenyl aldehyde (8c) with malonate ester 2a
+were treated with our optimal conditions,
+the extended
+π-conjugate heteroaromatic compounds 9ba and 9ca were
+obtained in good yields (entries 2 and 3). Also, the present
+Knoevenagel condensation could be applied to either a
+conjugated or an aliphatic aldehyde in addition to an aromatic
+aldehyde. For example, a conjugated aldehyde, (E)-cinnamal-
+dehyde (8d), reacted with the malonate ester to aﬀord α, β, γ,
+δ-unsaturated carbonyl compound 9da in 79% yield, which
+retained the double-bond geometry (entry 4). The reactions of
+linear aliphatic aldehydes 8e and 8f were completed within 24 h
+to give the corresponding products 9ea and 9fa in good yields
+(entries 5 and 6). Moreover, when α-branched aldehydes
+8g−8j were reacted with malonate 2a, the expected alkenes
+9ga−9ja,
+respectively, were produced in 68−72% yields
+(entries 7−10).
+</para>
+<para sub="scope">
+As control experiments, the reaction of benzaldehyde (1a)
+with 1 equiv of Ac2O was conducted both with and without
+InCl3 (eq 1 in Scheme 1). In the former reaction, the cor-
+responding geminal diacetate 4a was quickly obtained in 91%
+yield at room temperature, but
+in the latter reaction, no
+formation of diacetate 4a nor any other byproducts were ob-
+served. Moreover, to ﬁnd out whether geminal diacetate 4a
+would be an intermediate in the Knoevenagel reaction series,13
+the reaction of 4a with dimethyl malonate 2a was next ex-
+amined both with and without
+InCl3. Consequently,
+Knoevenagel adduct 3aa was obtained in 79% yield in the
+presence of a catalytic amount of InCl3, but the reaction with-
+out the indium catalyst did not produce the corresponding
+product along with the recovery of starting diacetate 4a (eq 2 in
+Scheme 1). These results indicate that geminal diacetate 4a is
+one of the intermediates in the Knoevenagel condensation and
+proves that the indium catalyst is necessary for both stages
+</para>
+3102
+
+DOI: 10.1021/acs.joc.5b00011
+J. Org. Chem. 2015, 80, 3101−3110
+
+The Journal of Organic Chemistry
+Table 2. Indium-Catalyzed Knoevenagel Condensation of Aromatic Aldehydes 1a
+
+Article
+
+3103
+
+DOI: 10.1021/acs.joc.5b00011
+J. Org. Chem. 2015, 80, 3101−3110
+
+The Journal of Organic Chemistry
+
+Table 2. continued
+
+Article
+
+aReaction conditions: 1 (0.6 mmol), 2a (0.66 mmol), InCl3 (0.06 mmol), Ac2O (0.6 mmol), toluene (0.6 mL), 60 °C, 8 h. bIsolated yield. cNMR
+yield. dNot detected. eReacted for 7 h. fReacted for 5 h. gYield of coumarin derivative 6.
+
+Table 3. Indium-Catalyzed Knoevenagel Condensation
+of Several Activated Methylenes 2a,b
+
+aReaction conditions: 1a (0.6 mmol), 2 (0.66 mmol), InCl3 (0.06 mmol),
+Ac2O (0.6 mmol), toluene (0.6 mL), 60 °C, 8 h. bIsolated yield (E:Z
+ratio was determined by 1H NMR). cReacted for 30 h. dDMF was
+used instead of toluene.
+
+<para sub="scope">
+involving the generation of 4a from aldehyde and Ac2O as well
+as a subsequent reaction of 4a with malonate 2a.
+</para>
+<para sub=“ques”>
+On the basis of the results obtained by the control experi-
+ments, a plausible reaction mechanism for the present con-
+densation is shown in Scheme 2. When aldehyde 1 is activated
+by an indium catalyst,
+it initially reacts with Ac2O to form
+geminal diacetate 4,14 the formation of which facilitates a sub-
+sequent nucleophilic attack of an enolizable activated
+methylene compound in the presence of the indium catalyst15
+to produce intermediate A. Finally, intramolecular elimination
+of acetic acid occurs to aﬀord substituted alkene 3 along with
+regeneration of the indium catalyst.
+</para>
+■ CONCLUSIONS
+
+In conclusion, we have demonstrated an indium-catalyzed
+Knoevenagel condensation between aldehydes with activated
+methylene compounds in the presence of acetic acid anhydride,
+leading to the preparation of polysubstituted alkenes. Also, we
+have clariﬁed that to drive the Knoevenagel condensation series
+forward, in situ formation of a geminal diacetate intermediate
+derived from an aldehyde and acetic anhydride is essential. To
+date, several examples involving the conversion of aldehydes to
+geminal diacetates or the synthesis of Knoevenagel products
+from geminal diacetates have been reported. This novel pro-
+cedure presents one-pot access to Knoevenagel products from
+various aldehydes via geminal diacetate as a key intermediate.
+Also, in conventional Lewis acid-catalyzed Knoevenagel con-
+densations, substrates were limited to mainly either aldehydes
+bearing a noncoordinating functional group or activated
+methylenes with relatively high acidic hydrogen. With the
+present catalytic system in hand, therefore, the carbonyl com-
+pounds used in the Knoevenagel condensation could be
+extensively expanded to heteroaromatic, conjugate, and
+aliphatic aldehydes,
+including a variety of benzaldehydes.
+Moreover, we disclosed that the present method could be
+applied to various activated methylenes other than a malonate
+ester. The use of an indium compound with a unique and high
+tolerance to various functional groups allowed for extension of
+the substrate and a new entry for the preparation of valuable
+substituted alkenes. Further attempts to elucidate the reaction
+mechanism and extend the substrate scope are now in progress.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Information. All reactions were carried out under a N2
+atmosphere. Toluene and N,N-dimethylformamide (DMF) were
+freshly distilled from CaH2, and the aldehydes were puriﬁed via the
+distillation of commercially available products. Indium salts, methylene
+compounds, and acid anhydrides were purchased and used without
+</para>
+3104
+
+DOI: 10.1021/acs.joc.5b00011
+J. Org. Chem. 2015, 80, 3101−3110
+
+The Journal of Organic Chemistry
+Table 4. Indium-Catalyzed Knoevenagel Condensation of Various Aldehydes 8a
+
+Article
+
+aReaction conditions: 8 (0.6 mmol), 2a (0.66 mmol), InCl3 (0.06 mmol), Ac2O (0.6 mmol), toluene (0.6 mL), 60 °C, 8 h. bIsolated yield. cNMR
+yield. dWithout InCl3. eNot detected. fReacted for 15 h. gReacted for 13 h. hOnly the (E)-isomer was obtained. iReacted for 24 h. jTwo equiv
+(1.2 mmol) of 2a was used. kTwo equiv (1.2 mmol) of 2a and 20 mol % (0.12 mmol) of InCl3 were used in toluene (0.3 mL) at 80 °C.
+<para sub=“exp”>
+further puriﬁcation. 1H and 13C NMR spectra were recorded on
+500 and 300 MHz spectrometers, respectively. Chemical shifts in the
+1H and 13C NMR spectra were reported in ppm relative to the internal
+reference for tetramethylsilane (δ 0.00 for 1H), to the residual sol-
+vent peaks (δ 77.0 for 13C) in CDCl3, and to the residual solvent peaks
+
+(δ 2.50 for 1H and δ 39.52 for 13C) in DMSO-d6. High-resolution mass
+spectra were measured using 3-nitrobenzylalcohol (NBA) as a matrix.
+General Procedure for the InCl3-Catalyzed Knoevenagel
+Condensation. To a screw-capped vial were added InCl3 (0.0600
+mmol, 13.3 mg), toluene (0.6 mL), aldehyde (1 or 8; 0.60 mmol),
+</para>
+3105
+
+DOI: 10.1021/acs.joc.5b00011
+J. Org. Chem. 2015, 80, 3101−3110
+
+The Journal of Organic Chemistry
+
+Scheme 1. Control Experiments for Clariﬁcation of the
+Condensation Path
+
+Scheme 2. Possible Mechanism of an Indium-Catalyzed
+Knoevenagel Condensation
+<para sub=“exp”>
+methylene (2; 0.66 mmol), and acetic anhydride (0.600 mmol,
+61.3 mg) in succession. After the vial was sealed with a cap that
+contained a PTFE septum, the mixture was heated at 60 °C. The
+progress of the reaction was monitored by thin-layer chromatography
+(TLC) analysis, which was performed on silica gel 60 F254. A saturated
+aqueous solution of NaHCO3 was added to the resultant mixture,
+which was then extracted with EtOAc. The combined organic phase
+was dried over anhydrous Na2SO4, ﬁltered, and then evaporated
+under reduced pressure. The crude material was puriﬁed by column
+chromatography (silica gel 60 F254, 95:5 hexane/EtOAc) to give the
+corresponding Knoevenagel product 3 or 9 (followed by recrystalliza-
+tion, if necessary).
+
+Dimethyl 2-Benzylidenemalonate (3aa). The general procedure
+was followed with benzaldehyde (1a; 63.7 mg, 0.600 mmol) and
+dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for 8 h, with the
+exception of performing recrystallization from hexane following
+column chromatography, to yield a colorless solid (3aa; 113.6 mg,
+86%): mp 40−41 °C; 1H NMR (300.5 MHz, CDCl3) δ 3.84 (s, 6 H,
+OCH3), 7.38−7.43 (m, 5 H, ArH), 7.78 (s, 1 H, CCH); 13C NMR
+(75.6 MHz, CDCl3) δ 52.6, 125.4, 128.8, 129.3, 130.6, 132.7, 142.8,
+164.4, 167.0; LRMS (FAB) m/z (% relative intensity) 221 ([M + H]+,
+77), 189 (100). The spectroscopic data of 3aa were in good agreement
+with that reported in the literature.16
+
+Dimethyl 2-[4-(Dimethylamino)benzylidene]malonate (3ba).
+The general procedure was
+followed with 4-(dimethylamino)-
+benzaldehyde (1b; 89.5 mg, 0.600 mmol) and dimethyl malonate
+(2a; 79.3 mg, 0.660 mmol) for 8 h to yield a yellow-green solid (3ba;
+109.0 mg, 69%): mp 86−87 °C; 1H NMR (300.5 MHz, CDCl3) δ 3.00
+(s, 6 H, N(CH3)2), 3.80 (s, 3 H, OCH3), 3.88 (s, 3 H, OCH3), 6.62 (d,
+J = 8.7 Hz, 2 H, ArH), 7.32 (d, J = 8.7 Hz, 2 H, ArH), 7.66 (s, 1 H,
+CCH); 13C NMR (75.6 MHz, CDCl3) δ 39.8, 52.1, 52.4, 111.4,
+118.8, 119.7, 131.7, 143.4, 151.8, 165.3, 168.3; HRMS (FAB-Magnetic
+Sector) calcd for [M]+ (C14H17NO4) m/z 263.1158, found 263.1166.
+The spectroscopic data of 3ba were in good agreement with that
+reported in the literature.17
+
+Dimethyl 2-(4-Methoxybenzylidene)malonate (3ca). The general
+procedure was followed with 4-methoxybenzaldehyde (1c; 81.7 mg,
+0.600 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for
+8 h to yield a colorless oil (3ca; 99.1 mg, 66%): 1H NMR (297.6 MHz,
+CDCl3) δ 3.83 (s, 6 H, OCH3), 3.87 (s, 3 H, OCH3), 6.89 (d, J = 8.6
+Hz, 2 H, ArH), 7.39 (d, J = 8.6 Hz, 2 H, ArH), 7.71 (s, 1 H, CCH);
+</para>
+Article
+<para sub=“exp”>
+13C NMR (74.8 MHz, CDCl3) δ 52.5, 52.6, 55.3, 114.3, 122.7, 125.2,
+131.5, 142.6, 161.7, 164.8, 167.6; HRMS (EI-Quadrupole) calcd for
+[M]+ (C13H14O5) m/z 250.0841, found 250.0855. The spectroscopic
+data of 3ca were in good agreement with that reported in the literature.17
+Dimethyl 2-(3-Methoxybenzylidene)malonate (3da). The general
+procedure was followed with 3-methoxybenzaldehyde (1d; 81.7 mg,
+0.600 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for 8
+h to yield a pale yellow solid (3da; 88.6 mg, 59%): mp 81−82 °C; 1H
+NMR (500.2 MHz, CDCl3) δ 3.80 (s, 3 H, OCH3), 3.85 (s, 6 H,
+OCH3), 6.94−7.00 (m, 2 H, ArH), 7.01 (d, J = 5.0 Hz, 1 H, ArH), 7.29
+(t, J = 5.0 Hz, 1 H, ArH), 7.74 (s, 1 H, CCH); 13C NMR (125.8
+MHz, CDCl3) δ 52.6, 52.7, 55.2, 114.2, 116.7, 121.9, 125.7, 129.9,
+134.0, 142.7, 159.7, 164.4, 167.0; HRMS (EI-Quadrupole) calcd for
+[M]+ (C13H14O5) m/z 250.0841, found 250.0849. The spectroscopic
+data of 3da were in good agreement with that reported in the literature.17
+Dimethyl 2-(2-Methoxybenzylidene)malonate (3ea). The general
+procedure was followed with 2-methoxybenzaldehyde (1e; 81.7 mg,
+0.600 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for
+8 h, with the exception that recrystallization from hexane was per-
+formed after column chromatography, to yield a colorless solid (3ea;
+106.6 mg, 71%): mp 53−54 °C; 1H NMR (297.6 MHz, CDCl3) δ 3.78
+(s, 3 H, OCH3), 3.84 (s, 3 H, OCH3), 3.85 (s, 3 H, OCH3), 6.92 (t, J =
+5.0 Hz, 2 H, ArH), 7.32−7.39 (m, 2 H, ArH), 8.12 (s, 1 H, CCH);
+13C NMR (74.8 MHz, CDCl3) δ 52.4, 55.4, 110.8, 120.5, 122.1, 125.2,
+129.0, 132.1, 139.0, 158.0, 164.7, 167.1; HRMS (EI-Quadrupole) calcd
+for [M]+ (C13H14O5) m/z 250.0841,
+found 250.0842. The spec-
+troscopic data of 3ea were in good agreement with that reported in the
+literature.17
+
+Dimethyl 2-(4-Methylbenzylidene)malonate (3fa). The general
+procedure was followed with 4-methylbenzaldehyde (1f; 72.1 mg,
+0.600 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for
+7 h to yield a colorless oil (3fa; 112.4 mg, 80%): 1H NMR (500.2
+MHz, CDCl3) δ 2.37 (s, 3 H, CH3), 3.84 (s, 3 H, OCH3), 3.85 (s, 3 H,
+OCH3), 7.18 (d, J = 8.0 Hz, 2 H, ArH), 7.32 (d, J = 8.0 Hz, 2 H, ArH),
+7.74 (s, 1 H, CCH); 13C NMR (125.8 MHz, CDCl3) δ 21.4, 52.5,
+52.6, 124.3, 129.5, 129.6, 129.9, 141.3, 142.9, 164.6, 167.3; HRMS
+(EI-Quadrupole) calcd for [M]+ (C13H14O4) m/z 234.0892, found
+234.0889. The spectroscopic data of 3fa were in good agreement with
+that reported in the literature.18
+
+Dimethyl 2-(4-Phenylbenzylidene)malonate (3ga). The general
+procedure was followed with 4-phenylbenzaldehyde (1g; 109.3 mg,
+0.6000 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for
+5 h to yield a colorless solid (3ga; 149.3 mg, 84%): mp 75−76 °C; 1H
+NMR (297.6 MHz, CDCl3) δ 3.86 (s, 3 H, OCH3), 3.88 (s, 3 H,
+OCH3), 7.37 (t, J = 8.9 Hz, 1 H, ArH), 7.45 (t, J = 8.9 Hz, 2 H, ArH),
+7.50 (d, J = 8.9 Hz, 2 H, ArH), 7.59 (d, J = 8.9 Hz, 2 H, ArH), 7.62 (d,
+J = 8.9 Hz, 2 H, ArH), 7.81 (s, 1 H, CCH); 13C NMR (74.8 MHz,
+CDCl3) δ 52.6, 52.7, 125.1, 127.0, 127.5, 128.0, 128.9, 130.0, 131.5,
+139.8, 142.4, 143.4, 164.5, 167.2; IR (neat) 1731 s, 1632 w, 1434 w,
+1270 m, 1223 m, 1196 m, 1070 w, 765 w cm−1; HRMS (EI-Quadrupole)
+calcd for [M]+ (C18H16O4) m/z 296.1049, found 296.1039.
+
+Dimethyl 2-(4-Fluorobenzylidene)malonate (3ha). The general
+procedure was followed with 4-ﬂuorobenzaldehyde (1h; 74.5 mg,
+0.600 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for
+8 h, with the exception that
+recrystallization from hexane was
+performed after column chromatography, to yield a colorless solid
+(3ha; 124.3 mg, 87%): mp 38−39 °C; 1H NMR (297.6 MHz, CDCl3)
+δ 3.85 (s, 6 H, OCH3), 7.08 (t, J = 8.3 Hz, 2 H, ArH), 7.42 (d, J = 8.3
+Hz, 1 H, ArH), 7.45 (d, J = 8.3 Hz, 1 H, ArH), 7.73 (s, 1 H, CCH);
+13C NMR (74.8 MHz, CDCl3) δ 52.6, 52.7, 116.0 (d, J = 22.4 Hz),
+125.2, 128.9 (d, J = 3.7 Hz), 131.5 (d, J = 9.0 Hz), 141.5, 163.9 (d, J =
+252.8 Hz), 164.3, 166.9; HRMS (EI-Quadrupole) calcd for [M]+
+(C12H11FO4) m/z 238.0641, found 238.0638. The spectroscopic data
+of 3ha were in good agreement with that reported in the literature.17
+Dimethyl 2-(4-Chlorobenzylidene)malonate (3ia). The general
+procedure was followed with 4-chlorobenzaldehyde (1i; 84.3 mg,
+0.600 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for
+8 h, with the exception that recrystallization from hexane was performed
+after column chromatography, to yield a colorless solid (3ia; 143.6 mg,
+94%): mp 36−37 °C; 1H NMR (500.2 MHz, CDCl3) δ 3.85 (s, 6 H,
+</para>
+3106
+
+DOI: 10.1021/acs.joc.5b00011
+J. Org. Chem. 2015, 80, 3101−3110
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+OCH3), 7.36 (s, 4 H, ArH), 7.72 (s, 1 H, CCH); 13C NMR (125.8
+MHz, CDCl3) δ 52.7, 125.9, 129.1, 130.5, 131.2, 136.7, 141.4, 164.2,
+166.8; HRMS (EI-Quadrupole) calcd for [M]+ (C12H11ClO4) m/z
+254.0346, found 254.0344. The spectroscopic data of 3ia were in good
+agreement with that reported in the literature.17
+
+Dimethyl 2-(3-Chlorobenzylidene)malonate (3ja). The general
+procedure was followed with 4-chlorobenzaldehyde (1j; 84.3 mg,
+0.600 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for
+8 h to yield a colorless solid (3ja; 132.9 mg, 87%): mp 65−66 °C; 1H
+NMR (500.2 MHz, CDCl3) δ 3.86 (s, 6 H, OCH3), 7.29−7.34 (m,
+2 H, ArH), 7.37−7.40 (m, 2 H, ArH), 7.70 (s, 1 H, CCH); 13C
+NMR (125.8 MHz, CDCl3) δ 52.7, 52.8, 126.9, 127.3, 129.1, 130.1,
+130.5, 134.5, 134.8, 141.1, 164.0, 166.5; IR (neat) 1724 s, 1624 w,
+1433 m, 1373 w, 1258 m, 1200 s, 1068 w, 783 w cm−1; HRMS (EI-
+Quadrupole) calcd for [M]+ (C12H11ClO4) m/z 254.0346,
+found
+254.0328.
+
+Dimethyl 2-(2-Chlorobenzylidene)malonate (3ka). The general
+procedure was followed with 4-chlorobenzaldehyde (1k; 84.3 mg,
+0.600 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for
+8 h to yield a colorless oil (3ka; 145.2 mg, 95%): 1H NMR (500.2
+MHz, CDCl3) δ 3.75 (s, 3 H, OCH3), 3.87 (s, 3 H, OCH3), 7.25 (t, J =
+10.0 Hz, 1 H, ArH), 7.33 (t, J = 10.0 Hz, 1 H, ArH), 7.40 (d, J = 10.0
+Hz, 1 H, ArH), 7.44 (d, J = 10.0 Hz, 1 H, ArH), 8.07 (s, 1 H, C
+CH); 13C NMR (125.8 MHz, CDCl3) δ 52.5, 52.7, 126.9, 127.9, 129.0,
+129.9, 131.3, 131.8, 134.7, 139.9, 164.0, 166.2; HRMS (EI-Quadrupole)
+calcd for [M]+ (C12H11ClO4) m/z 254.0346, found 254.0330. The
+spectroscopic data of 3ka were in good agreement with that reported
+in the literature.17
+
+Dimethyl 2-(4-Bromobenzylidene)malonate (3la). The general
+procedure was followed with 4-bromobenzaldehyde (1l; 111 mg,
+0.600 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for
+5 h to yield a colorless oil (3la; 154.3 mg, 86%): 1H NMR (297.6
+MHz, CDCl3) δ 3.84 (s, 3 H, OCH3), 3.85 (s, 3 H, OCH3), 7.28 (d,
+J = 8.3 Hz, 2 H, ArH), 7.51 (d, J = 8.3 Hz, 2 H, ArH), 7.70 (s, 1 H,
+CCH); 13C NMR (74.8 MHz, CDCl3) δ 52.7, 125.2, 126.1, 130.7,
+131.6, 132.1, 141.5, 164.2, 166.8; IR (neat) 1729 s, 1630 w, 1489 w,
+1437 m, 1261 s, 1221 s, 1069 m cm−1; HRMS (EI-Quadrupole) calcd
+for [M]+ (C12H11BrO4) m/z 297.9841, found 297.9862.
+
+Dimethyl 2-[4-(Methoxycarbonyl)benzylidene]malonate (3ma).
+The general procedure was followed with 4-(methoxycarbonyl)-
+benzaldehyde (1m; 98.5 mg, 0.600 mmol) and dimethyl malonate
+(2a; 79.3 mg, 0.660 mmol) for 8 h, with the exception that recrys-
+tallization from hexane was performed after column chromatography,
+to yield a colorless solid (3ma; 163.6 mg, 98%): mp 114−115 °C; 1H
+NMR (500.2 MHz, CDCl3) δ 3.84 (s, 3 H, OCH3), 3.87 (s, 3 H,
+OCH3), 3.93 (s, 3 H, OCH3), 7.48 (d, J = 8.0 Hz, 2 H, ArH), 7.80 (s,
+1 H, CCH), 8.04 (d, J = 8.0 Hz, 2 H, ArH); 13C NMR (125.8 MHz,
+CDCl3) δ 52.3, 52.7, 52.8, 127.5, 129.0, 129.9, 131.5, 137.0, 141.4,
+164.0, 166.1, 166.5; HRMS (EI-Quadrupole) calcd for [M]+
+(C14H14O6) m/z 278.0790, found 278.0798. The spectroscopic data
+of 3ma were in good agreement with that reported in the literature.17
+Dimethyl 2-[4-(Triﬂuoromethyl)benzylidene]malonate (3na). The
+general procedure was followed with 4-(triﬂuoromethyl)benzaldehyde
+(1n; 104.5 mg, 0.6000 mmol) and dimethyl malonate (2a; 79.3 mg,
+0.660 mmol) for 8 h to yield a colorless solid (3na; 152.2 mg, 88%):
+mp 43−44 °C; 1H NMR (500.2 MHz, CDCl3) δ 3.85 (s, 3 H, OCH3),
+3.87 (s, 3 H, OCH3), 7.53 (d, J = 8.0 Hz, 2 H, ArH), 7.65 (d, J =
+8.0 Hz, 2 H, ArH), 7.79 (s, 1 H, CCH); 13C NMR (125.8 MHz,
+CDCl3) δ 52.8, 52.9, 123.6 (q, J = 272.5 Hz), 125.8 (q, J = 3.9 Hz),
+127.9, 129.4, 132.0 (q, J = 32.6 Hz), 136.2, 141.0, 164.0, 166.4; IR
+(neat) 1732 s, 1724 s, 1721 s, 1635 w, 1439 w, 1326 s, 1265 s, 1226 m,
+1166 m, 1117 s, 1067 s, 849 w cm−1; HRMS (EI-Quadrupole) calcd
+for [M]+ (C13H11F3O4) m/z 288.0609, found 288.0604.
+
+Dimethyl 2-[3-(Triﬂuoromethyl)benzylidene]malonate (3oa). The
+general procedure was followed with 3-(triﬂuoromethyl)benzaldehyde
+(1o; 104.5 mg, 0.6000 mmol) and dimethyl malonate (2a; 79.3 mg,
+0.660 mmol) for 8 h to yield a colorless solid (3oa; 138.3 mg, 80%):
+mp 52−53 °C; 1H NMR (500.2 MHz, CDCl3) δ 3.85 (s, 3 H, OCH3),
+3.87 (s, 6 H, OCH3), 7.53 (t, J = 10.0 Hz, 1 H, ArH), 7.60 (d, J =
+10.0 Hz, 1 H, ArH), 7.66 (d, J = 10.0 Hz, 1 H, ArH), 7.68 (s, 1 H, ArH),
+</para>
+Article
+<para sub=“exp”>
+7.79 (s, 1 H, CCH); 13C NMR (125.8 MHz, CDCl3) δ 52.7, 52.8,
+
+123.6 (q, J = 272.5 Hz), 125.7 (q, J = 3.9 Hz), 126.9 (q, J = 3.9 Hz),
+127.4, 129.4, 131.3 (q, J = 32.6 Hz), 132.3, 133.5, 140.9, 164.0, 166.4; IR
+(neat) 1728 s, 1635 w, 1439 w, 1366 w, 1336 m, 1253 m, 1227 m, 1196 m,
+1159 w, 1117 s, 1071 m, 809 w, 698 w cm−1; HRMS (EI-Quadrupole)
+calcd for [M]+ (C13H11F3O4) m/z 288.0609, found 288.0597.
+
+Dimethyl 2-[2-(Triﬂuoromethyl)benzylidene]malonate (3pa). The
+general procedure was followed with 2-(triﬂuoromethyl)benzaldehyde
+(1p; 104.5 mg, 0.6000 mmol) and dimethyl malonate (2a; 79.3 mg,
+0.660 mmol) for 8 h to yield a colorless oil (3pa; 159.1 mg, 92%): 1H
+NMR (500.2 MHz, CDCl3) δ 3.67 (s, 3 H, OCH3), 3.88 (s, 3 H,
+OCH3), 7.44 (d, J = 7.5 Hz, 1 H, ArH), 7.50 (t, J = 7.5 Hz, 1 H, ArH),
+7.54 (t, J = 7.5 Hz, 1 H, ArH), 7.72 (d, J = 7.5 Hz, 1 H, ArH), 8.10
+(s, 1 H, CCH); 13C NMR (125.8 MHz, CDCl3) δ 52.5, 52.8, 123.7
+
+(q, J = 273.4 Hz), 126.1 (q, J = 5.8 Hz), 128.7 (q, J = 30.7 Hz), 129.1,
+129.5, 129.6, 131.8, 132.1 (q, J = 1.9 Hz), 140.2, 163.7, 165.8; IR
+(neat) 1733 s, 1438 m, 1316 s, 1306 m, 1296 m, 1263 s, 1225 m, 1168
+s, 1123 s, 1067 s, 1036 m, 771 m cm−1; HRMS (EI-Quadrupole) calcd
+for [M]+ (C13H11F3O4) m/z 288.0609, found 288.0617.
+
+Dimethyl 2-(4-Cyanobenzylidene)malonate (3qa). The general
+procedure was followed with 4-cyanobenzaldehyde (1q; 78.7 mg,
+0.600 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for
+8 h to yield a colorless solid (3qa; 135.4 mg, 92%): mp 97−98 °C; 1H
+NMR (300.5 MHz, CDCl3) δ 3.85 (s, 3 H, OCH3), 3.88 (s, 3 H,
+OCH3), 7.53 (d, J = 8.1 Hz, 2 H, ArH), 7.69 (d, J = 8.1 Hz, 2 H, ArH),
+7.76 (s, 1 H, CCH); 13C NMR (75.6 MHz, CDCl3) δ 52.8, 113.6,
+117.9, 128.5, 129.4, 132.4, 137.0, 140.2, 163.6, 166.0; HRMS (EI-
+Quadrupole) calcd for [M]+ (C13H11NO4) m/z 245.0688,
+found
+245.0716. The spectroscopic data of 3qa were in good agreement with
+that reported in the literature.18
+
+Dimethyl 2-(4-Nitrobenzylidene)malonate (3ra). The general
+procedure was followed with 4-nitrobenzaldehyde (1r; 90.7 mg,
+0.600 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for
+8 h to yield a pale yellow solid (3ra; 146.4 mg, 92%): mp 135−136 °C;
+1H NMR (500.2 MHz, CDCl3) δ 3.86 (s, 3 H, OCH3), 3.89 (s, 3 H,
+OCH3), 7.59 (d, J = 9.0 Hz, 2 H, ArH), 7.81 (s, 1 H, CCH), 8.24
+(d, J = 9.0 Hz, 2 H, ArH); 13C NMR (125.8 MHz, CDCl3) δ
+52.9, 123.9, 129.1, 129.8, 139.0, 139.8, 148.4, 163.6, 165.9; HRMS
+(EI-Quadrupole) calcd for [M]+ (C12H11NO6) m/z 265.0586, found
+265.0572. The spectroscopic data of 3ra were in good agreement with
+that reported in the literature.18
+
+Dimethyl 2-(2-Acetoxybenzylidene)malonate (5). The general
+procedure was followed with 4-hydroxybenzaldehyde (1s; 73.3 mg,
+0.600 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for
+8 h to yield a colorless oil (5; 66.8 mg, 40%): 1H NMR (300.5 MHz,
+CDCl3) δ 2.33 (s, 3 H, CH3), 3.76 (s, 3 H, OCH3), 3.85 (s, 3 H,
+OCH3), 7.15 (d, J = 7.8 Hz, 1 H, ArH), 7.23 (t, J = 7.8 Hz, 1 H, ArH),
+7.42 (t, J = 7.8 Hz, 2 H, ArH), 7.83(s, 1 H, CCH); 13C NMR (75.6
+MHz, CDCl3) δ 20.8, 52.5, 52.7, 122.8, 126.06, 126.09, 127.6, 128.8,
+131.4, 137.7, 149.0, 164.1, 166.3, 168.8; IR (neat) 1768 m, 1730 s,
+1632 w, 1437 m, 1370 m, 1261 s, 1176 s, 1103 m, 1067 m, 910 w,
+763 w cm−1; HRMS (FAB-Magnetic Sector) calcd for [M + H]+
+(C14H15O6) m/z 279.0869, found 279.0872.
+
+3-(Methoxycarbonyl)coumarin (6). The general procedure was
+followed with 4-hydroxybenzaldehyde (1s; 73.3 mg, 0.600 mmol) and
+dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for 8 h to yield a
+colorless solid (6; 8.6 mg, 7%): mp 115−116 °C; 1H NMR (500.2
+MHz, CDCl3) δ 3.96 (s, 3 H, OCH3), 7.35 (t, J = 7.5 Hz, 1 H, ArH),
+7.37 (d, J = 7.5 Hz, 1 H, ArH), 7.63 (d, J = 7.5 Hz, 1 H, ArH), 7.67 (t,
+J = 7.5 Hz, 1 H, ArH), 8.58 (s, 1 H, CCH); 13C NMR (125.8 MHz,
+CDCl3) δ 52.9, 116.7, 117.8, 117.9, 124.9, 129.5, 134.4, 149.1, 155.2,
+156.7, 163.7; HRMS (EI-Quadrupole) calcd for [M]+ (C11H8O4) m/z
+204.0423, found 204.0404. The spectroscopic data of 6 were in good
+agreement with that reported in the literature.19
+
+Methyl 2-Benzylidene-3-oxobutanoate (3ab). The general pro-
+cedure was followed with benzaldehyde (1a; 63.7 mg, 0.600 mmol)
+and methyl acetoacetate (2b; 76.6 mg, 0.660 mmol) for 8 h to yield a
+pale yellow oil ((Z)-3ab; 56.4 mg, 46%): 1H NMR (500.2 MHz,
+CDCl3) δ 2.42 (s, 3 H, CH3), 3.84 (s, 3 H, OCH3), 7.39−7.44 (m,
+5 H, ArH), 7.58 (s, 1 H, CCH); 13C NMR (125.8 MHz, CDCl3)
+</para>
+3107
+
+DOI: 10.1021/acs.joc.5b00011
+J. Org. Chem. 2015, 80, 3101−3110
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+δ 26.4, 52.5, 128.9, 129.4, 130.8, 132.8, 134.2, 141.6, 168.2, 194.6;
+LRMS (FAB) m/z (% relative intensity) 205 ([M + H]+, 49%), 173
+(100), 131 (52), 73 (54). The spectroscopic data of (Z)-3ab were in
+good agreement with that reported in the literature.20
+Also generated was a pale yellow-green oil ((E)-3ab; 40.4 mg,
+33%): 1H NMR (500.2 MHz, CDCl3) δ 2.35 (s, 3 H, CH3), 3.84
+(s, 3 H, OCH3), 7.39 (s, 5 H, ArH), 7.70 (s, 1 H, CCH); 13C NMR
+(125.8 MHz, CDCl3) δ 31.2, 52.5, 128.9, 129.6, 130.5, 132.8, 133.6,
+140.8, 164.9, 203.4; LRMS (FAB) m/z (% relative intensity) 205
+([M + H]+, 100), 173 (35), 147 (25), 73 (38). The spectroscopic data
+of (E)-3ab were in good agreement with that reported in the literature.20
+Ethyl 2-Benzoyl-3-phenyl Acrylate (3ac). The general procedure
+was followed with benzaldehyde (1a; 63.7 mg, 0.600 mmol) and ethyl
+benzoylacetate (2c; 126.9 mg, 0.6600 mmol) for 8 h to yield a
+colorless solid (3ac; 141.3 mg, 84%, E:Z = 10:90): mp 94−95 °C; 1H
+NMR (297.6 MHz, CDCl3, Z isomer) δ 1.17 (t, 3 H, CH3), 4.21 (q, 2
+H, OCH2), 7.20−7.27 (m, 3 H, ArH), 7.35 (d, J = 7.4 Hz, 2 H, ArH),
+7.42 (t, J = 7.4 Hz, 2 H, ArH), 7.55 (t, J = 7.4 Hz, 1 H, ArH), 7.94−
+7.97 (m, 3 H, CCH, ArH); 13C NMR (74.8 MHz, CDCl3 Z isomer)
+δ 13.9, 61.5, 128.7, 128.8, 129.0, 130.1, 130.3, 131.2, 132.7, 133.8,
+136.0, 142.5, 164.9, 195.6; LRMS (EI) m/z (% relative intensity) 280
+(M+, 100), 251 (18), 235 (20), 178 (42), 105 (100). The spec-
+troscopic data of 3ac were in good agreement with that reported in the
+literature.21
+
+2-Benzylidene-N,N-dimethyl-3-oxobutanamide (3ad). The gen-
+eral procedure was followed with benzaldehyde (1a; 63.7 mg, 0.600
+mmol) and N,N-dimethylacetoacetamide (2d; 85.2 mg, 0.660 mmol)
+for 30 h to yield a pale yellow-green oil (3ad; 22.2 mg, 17%): 1H NMR
+(500.2 MHz, CDCl3) δ 2.44 (s, 3 H, CH3), 2.77 (s, 3 H, NCH3), 3.09
+(s, 3 H, NCH3), 7.39−7.40 (m, 3 H, ArH), 7.48−7.50 (m, 2 H, ArH),
+7.51 (s, 1 H, CCH); 13C NMR (125.8 MHz, CDCl3) δ 26.5, 34.5,
+37.4, 129.0, 129.6, 130.6, 133.1, 136.1, 139.3, 168.4, 195.7; IR (neat)
+1662 m, 1620 s, 1497 w, 1407 w, 1242 w, 1210 w, 1155 w, 763 w cm−1;
+LRMS (FAB) m/z (% relative intensity) 218 ([M + H]+, 100), 173 (59),
+131 (36), 73 (22).
+
+2-Benzylidenemalonic Acid (3ae). The general procedure was
+followed with benzaldehyde (1a; 63.7 mg, 0.600 mmol) and malonic
+acid (2e; 68.7 mg, 0.660 mmol) for 8 h, with the exception of using
+H2O instead of aq. NaHCO3 for the reaction workup, which was
+followed by isolation via recrystallization from CHCl3 to yield a
+colorless solid (3ae; 89.9 mg, 78%): mp 193−194 °C; 1H NMR
+(297.6 MHz, DMSO-d6) δ 7.43 (t, J = 8.0 Hz, 3 H, ArH), 7.54 (s, 1 H,
+CCH), 7.56 (d, J = 3.3 Hz, 1 H, ArH), 7.58 (d, J = 3.3 Hz, 1 H,
+ArH), 13.2 (s, 2 H, COOH); 13C NMR (74.8 MHz, DMSO-d6) δ
+128.5, 129.0, 129.3, 130.5, 132.9, 138.7, 165.3, 168.1; HRMS (FAB-
+Magnetic Sector) calcd for [M + H]+ (C10H9O4) m/z 193.0501, found
+193.0504. The spectroscopic data of 3ae were in good agreement with
+that reported in the literature.17
+
+2-Benzylidenemalononitrile (3af). The general procedure was
+followed with benzaldehyde (1a; 63.7 mg, 0.600 mmol) and
+malononitrile (2f; 39.6 mg, 0.660 mmol) for 8 h, with the exception
+of using DMF instead of toluene, to yield a colorless solid (3af;
+79.6 mg, 86%): mp 83−84 °C; 1H NMR (500.2 MHz, CDCl3) δ 7.55
+(t, J = 7.5 Hz, 2 H, ArH), 7.64 (t, J = 7.5 Hz, 1 H, ArH), 7.79 (s, 1 H,
+CCH), 7.91 (d, J = 7.5 Hz, 2 H, ArH); 13C NMR (125.8 MHz,
+CDCl3) δ 82.6, 112.5, 113.6, 129.5, 130.6, 130.8, 134.5, 159.9; HRMS
+(FAB-Magnetic Sector) calcd for [M + H]+ (C10H9O4) m/z 193.0501,
+found 193.0504. The spectroscopic data of 3af were in good agree-
+ment with that reported in the literature.3e
+
+3,3,6,6-Tetramethyl-9-phenyl-3,4,5,6,7,9-hexahydro-1H-xanthene-
+1,8(2H)-dione (7). The general procedure was
+followed with
+benzaldehyde (1a; 63.7 mg, 0.600 mmol) and 5,5-dimethyl-1,3-
+cyclohexanedione (2g; 92.5 mg, 0.660 mmol) for 8 h to yield a
+colorless solid (7; 113.5 mg, 54%): mp 203−205 °C; 1H NMR
+(297.6 MHz, CDCl3) δ 0.98 (s, 6 H, CH3), 1.09 (s, 6 H, CH3), 2.15
+(d, J = 16.1 Hz, 2 H, CH2), 2.23 (d, J = 16.1 Hz, 2 H, CH2), 2.47 (s,
+4 H, CH2), 4.75 (s, 1 H, CH), 7.08 (t, J = 7.7 Hz, 1 H, ArH), 7.20 (t,
+J = 7.7 Hz, 2 H, ArH), 7.29 (d, J = 7.7 Hz, 2 H, ArH); 13C NMR (74.8
+MHz, CDCl3) δ 27.2, 29.1, 31.7, 32.1, 40.7, 50.6, 115.5, 126.2, 127.9,
+128.2, 144.0, 162.2, 196.3; LRMS (FAB) m/z (% relative intensity)
+
+351 ([M + H]+, 95), 350 (M+, 40), 273 (100). The spectroscopic data
+of 7 were in good agreement with that reported in the literature.22
+
+Dimethyl 4-Pyridylmethylenemalonate (9aa). The general pro-
+cedure was followed with 4-formylpyridine (8a; 64.3 mg, 0.600 mmol)
+and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for 15 h to yield a
+pale brown solid (9aa; 86.3 mg, 65%): mp 72−73 °C; 1H NMR
+(500.2 MHz, DMSO-d6) δ 3.79 (s, 3 H, OCH3), 3.80 (s, 3 H, OCH3),
+7.38 (d, J = 6.0 Hz, 2 H, ArH), 7.78 (s, 1 H, CCH) 8.66 (d, J = 6.0
+Hz, 2 H, ArH); 13C NMR (125.8 MHz, DMSO-d6) δ 52.96, 53.03,
+122.7, 129.0, 139.6, 139.8, 150.5, 163.3, 165.5; IR (neat) 1722 s, 1597 w,
+1441 w, 1266 m, 1221 m, 1068 w, 811 w cm−1; HRMS (FAB-Magnetic
+Sector) calcd for [M + H]+ (C11H12NO4) m/z 222.0766, found 222.0796.
+Dimethyl 2-(6-Bromo)pyridylmethylenemalonate (9ba). The
+general procedure was followed with 2-bromo-6-formylpyridine (8b;
+111.6 mg, 0.6000 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660
+mmol) for 13 h to yield a pale brown solid (9ba; 149.5 mg, 83%): mp
+105−106 °C; 1H NMR (500.2 MHz, CDCl3) δ 3.87 (s, 3 H, OCH3),
+4.00 (s, 3 H, OCH3), 7.34 (d, J = 5.0 Hz, 1 H, ArH), 7.45 (d, J = 5.0 Hz,
+1 H, ArH), 7.55 (s, 1 H, CCH), 7.58 (t, J = 5.0 Hz, 1 H, ArH); 13C
+NMR (125.8 MHz, CDCl3) δ 52.7, 52.9, 125.0, 129.1, 129.6, 137.5, 139.0,
+141.9, 151.7, 164.0, 166.3; IR (neat) 1726 s, 1637 w, 1438 w, 1411 w,
+1376 w, 1274 m, 1248 m, 1218 m, 1207 m, 1163 w, 1063 w, 788 w cm−1;
+HRMS (EI-Quadrupole) calcd for [M]+ (C11H10BrNO4) m/z 298.9793,
+found 298.9789.
+
+Dimethyl 2-(Thien-2-ylmethylene)malonate (9ca). The general
+procedure was followed with 2-formylthiophene (8c; 67.3 mg,
+0.600 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for
+8 h, with the exception of performing recrystallization from hexane
+following column chromatography, to yield a colorless solid (9ca;
+86.9 mg, 64%): mp 43−44 °C; 1H NMR (297.6 MHz, CDCl3) δ 3.84
+(s, 3 H, OCH3), 3.94 (s, 3 H, OCH3), 7.09 (dd, J = 4.5, 4.8 Hz, 1 H,
+ArH), 7.37 (d, J = 4.5 Hz, 1 H, ArH), 7.54 (d, J = 4.8 Hz, 1 H, ArH),
+7.90 (s, 1 H, CCH); 13C NMR (74.8 MHz, CDCl3) δ 52.6,
+52.8, 121.5, 127.8, 131.9, 134.7, 135.5, 135.9, 164.7, 166.6; HRMS
+(EI-Quadrupole) calcd for [M]+ (C10H10O4S) m/z 226.0300, found
+226.0300. The spectroscopic data of 9ca were in good agreement with
+that reported in the literature.23
+
+(E)-Dimethyl 2-(3-Phenylallylidene)malonate (9da). The general
+procedure was followed with (E)-cinnamaldehyde (8d; 79.3 mg,
+0.600 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for
+8 h to yield a yellow solid (9da; 116.7 mg, 79%): mp 64−65 °C; 1H
+NMR (500.2 MHz, CDCl3) δ 3.81 (s, 3 H, OCH3), 3.90 (s, 3 H,
+OCH3), 7.04 (d, J = 16.0 Hz, 1 H, PhCH), 7.27 (dd, J = 15.0, 15.5 Hz,
+1 H, PhCHCH), 7.32−7.38 (m, 3 H, ArH), 7.50 (d, J = 6.0 Hz, 2 H,
+ArH), 7.56 (d, J = 11.5 Hz, 1 H, PhCHCH−CHC); 13C NMR
+(125.8 MHz, CDCl3) δ 52.2, 52.3, 123.1, 123.9, 127.8, 128.8, 129.8,
+135.4, 145.1, 146.1, 165.0, 165.6; HRMS (EI-Quadrupole) calcd for
+[M]+ (C14H14O4) m/z 246.0892, found 246.0881. The spectroscopic
+data of 9da were in good agreement with that reported in the literature.24
+Dimethyl 2-(3-Phenylpropylidene)malonate (9ea). The general
+procedure was followed with 3-phenylpropanal (8e; 80.5 mg, 0.600
+mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for 24 h to
+yield a colorless oil (9ea; 89.4 mg, 60%): 1H NMR (300.5 MHz,
+CDCl3) δ 2.63 (q, J = 7.9 Hz, 2 H, CH2CH2CH), 2.80 (t, J = 7.2 Hz,
+2 H, PhCH2), 3.78 (s, 3 H, OCH3), 3.80 (s, 3 H, OCH3), 7.07 (t, J =
+7.5 Hz, 1 H, CCH), 7.17−7.19 (m, 3 H, ArH), 7.26−7.30 (m, 2 H,
+ArH); 13C NMR (74.8 MHz, CDCl3) δ 31.5, 34.3, 52.2, 52.3, 126.3,
+128.29, 128.32, 128.5, 140.2, 149.2, 164.3, 165.7. The spectroscopic
+data of 9ea were in good agreement with that reported in the literature.25
+Dimethyl 2-Hexylidenemalonate (9fa). The general procedure
+was followed with hexanal (8f; 60.1 mg, 0.600 mmol) and dimethyl
+malonate (2a; 79.3 mg, 0.660 mmol) for 24 h to yield a colorless oil
+(9fa; 90.0 mg, 70%): 1H NMR (500.2 MHz, CDCl3) δ 0.89 (t, J =
+6.6 Hz, 3 H, CH3), 1.28−1.33 (m, 4 H, CH3CH2CH2CH2CH2), 1.44−
+1.54 (m, 2 H, CH3CH2), 2.30 (q, J = 7.4 Hz, 2 H, CHCH2), 3.78 (s, 3
+H, OCH3), 3.82 (s, 3 H, OCH3), 7.04 (t, J = 7.7 Hz, 1 H, CCH);
+13C NMR (74.8 MHz, CDCl3) δ 13.9, 22.3, 27.9, 29.8, 31.3, 52.2,
+52.3, 127.8, 150.6, 164.4, 166.0; IR (neat) 2956 m, 2862 w, 1729 s,
+1646 w, 1437 m, 1370 w, 1259 m, 1225 m, 1144 w, 1062 m cm−1; HRMS
+</para>
+3108
+
+DOI: 10.1021/acs.joc.5b00011
+J. Org. Chem. 2015, 80, 3101−3110
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+(EI-Quadrupole) calcd for [M]+ (C11H18O4) m/z 214.1205, found
+214.1208.
+
+Dimethyl 2-(2-Phenylpropylidene)malonate (9ga). The general
+procedure was followed with 2-phenylpropionaldehyde (8g; 80.5 mg,
+0.600 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for
+24 h to yield a colorless oil (9ga; 116 mg, 71%): 1H NMR (500.2
+MHz, CDCl3) δ 1.45 (d, J = 6.9 Hz, 3 H, CH3), 3.76 (s, 3 H, OCH3),
+3.86 (s, 3 H, OCH3), 3.88−3.92 (m, 1 H, ArCH), 7.04 (d, J = 10.8 Hz,
+1 H, CCH), 7.24 (d, J = 8.0 Hz, 3 H, ArH), 7.32 (t, J = 7.7 Hz, 2 H,
+ArH); 13C NMR (125.8 MHz, CDCl3) δ 20.2, 39.6, 52.3, 52.4, 126.0,
+127.0, 127.1, 128.8, 142.2, 152.8, 164.4, 165.8. The spectroscopic data
+of 9ga were in good agreement with that reported in the literature.26
+Dimethyl 2-(2-Methylpropylidene)malonate (9ha). The general
+procedure was followed with isobutyraldehyde (8h; 43.3 mg, 0.600
+mmol) and dimethyl malonate (2a; 158.5 mg, 1.200 mmol) for 24 h to
+yield a colorless oil (9ha; 79 mg, 71%): 1H NMR (297.6 MHz,
+CDCl3) δ 1.06 (d, J = 6.5 Hz, 6 H, CH3), 2.62−2.75 (m, 1 H,
+CH3CHCH3), 3.78 (s, 3 H, OCH3), 3.83 (s, 3 H, OCH3), 6.81 (d, J =
+10.7 Hz, 1 H, CCH); 13C NMR (125.8 MHz, CDCl3) δ 21.8, 29.5,
+52.2, 52.3, 125.7, 155.9, 164.5, 166.0. The spectroscopic data of 9ha
+were in good agreement with that reported in the literature.27
+
+Dimethyl 2-(Cyclohexylmethylene)malonate (9ia). The general
+procedure was followed with cyclohexanecarboxaldehyde (8i; 67.3 mg,
+0.600 mmol) and dimethyl malonate (2a; 79.3 mg, 0.660 mmol) for
+24 h to yield a colorless oil (9ia; 97.7 mg, 72%): 1H NMR (297.6
+MHz, CDCl3) δ 1.11−1.35 (m, 5H, CyH), 1.70−1.73 (m, 5H, CyH),
+2.33−2.45 (m, 1 H, CH2CHCH2), 3.78 (s, 3 H, OCH3), 3.84 (s, 3 H,
+OCH3), 6.84 (d, J = 10.4 Hz, 1 H, CCH); 13C NMR (74.8 MHz,
+CDCl3) δ 25.1, 25.6, 31.6, 39.1, 52.2, 52.3, 126.0, 154.6, 164.6, 166.1.
+The spectroscopic data of 9ia were in good agreement with that reported
+in the literature.25
+
+Dimethyl 2-(2,2-Dimethylpropylidene)malonate (9ja). The gen-
+eral procedure was followed with pivalaldehyde (8j; 51.7 mg, 0.600
+mmol) and dimethyl malonate (2a; 158.5 mg, 1.200 mmol) for 24 h to
+yield a colorless oil (9ja; 81.7 mg, 68%): 1H NMR (297.6 MHz,
+CDCl3) δ 1.14 (s, 9 H, CH3), 3.77 (s, 3 H, OCH3), 3.82 (s, 3 H,
+OCH3), 6.92 (s, 1 H, CCH); 13C NMR (74.8 MHz, CDCl3) δ 28.7,
+34.2, 52.2, 52.4, 124.5, 155.8, 164.8, 167.3; IR (neat) 2959 m, 1734 s,
+1642 w, 1436 m, 1368 w, 1251 s, 1232 s, 1197 m, 1070 m, 1002 w cm−1;
+HRMS (EI-Quadrupole) calcd for [M−CH3]+ (C9H13O4) m/z
+185.0814, found 185.0814.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Copies of the 1H and 13C NMR spectra of the products
+produced in this study. This material is available free of charge
+via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: sakachem@rs.noda.tus.ac.jp.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was partially supported by a grant from the Japan
+Private School Promotion Foundation supported by MEXT.
+
+■ REFERENCES
+(1) (a) Knoevenagel, E. Chem. Ber. 1894, 27, 2345−2346.
+(b) Knoevenagel, E. Ber. Dtsch. Chem. Ges. 1898, 31, 2596−2619.
+(c) Li, J. J. Name Reactions, 4th ed; Springer-Verlag: Berlin-Heidelberg,
+Germany, 2009; pp 315−316. (d) Larock, R. C. In Comprehensive
+Organic Transformations, 2nd ed.; John Wiley & Sons: Toronto,
+Canada, 1999.
+(2) List, B. Angew. Chem. 2010, 122, 1774−1779; Angew. Chem., Int.
+Ed. 2010, 49, 1730−1734 and references therein.
+
+(3) Selected examples of Lewis acid-catalyzed Knoevenagel
+condensations: (a) Moison, H.; Texier-Boullet, F.; Foucaud, A.
+Tetrahedron 1987, 43, 537−542. (b) Rao, P. S.; Venkataratnam, R.
+V. Tetrahedron Lett. 1991, 32, 5821−5822. (c) Prajapati, D.; Sandhu, J.
+S. Chem. Lett. 1992, 1945−1946. (d) Prajapati, D.; Sandhu, J. S. J.
+Chem. Soc., Perkin Trans. 1 1993, 739−740. (e) Yamashita, K.; Tanaka,
+T.; Hayashi, M. Tetrahedron 2005, 61, 7981−7985. (f) Bartoli, G.;
+Bosco, M.; Carlone, A.; Dalpozzo, R.; Galzerano, P.; Melchiorre, P.;
+Sambri, L. Tetrahedron Lett. 2008, 49, 2555−2557. (g) Yadav, J. S.;
+Bhunia, D. C.; Singh, V. K.; Srihari, S. P. Tetrahedron Lett. 2009, 50,
+2470−2473. (h) Li, Z.-X.; Liu, X.-P.; Qiu, Z.; Xu, D.; Yu, X.-J. J. Chem.
+Res. 2011, 35, 35−36. (i) Srinivas, V.; Koketsu, M. J. Org. Chem. 2013,
+78, 11612−11617.
+(4) Arnett, E. M.; Maroldo, S. G.; Schilling, S. L.; Harrelson, J. A. J.
+Am. Chem. Soc. 1984, 106, 6759−6767.
+(5) Selected reviews and examples of indium-catalyzed molecular
+transformations: (a) Shen, Z.-L.; Wang, S.-Y.; Chok, Y.-K.; Xu, Y.-H.;
+Loh, T.-P. Chem. Rev. 2013, 113, 271−401. (b) Yadav, J. S.; Antony,
+A.; George, J.; Subba Reddy, B. V. Eur. J. Org. Chem. 2010, 591−605.
+(c) Bernhardt, S.; Shen, Z.-L.; Knochel, P. Chem.Eur. J. 2013, 19,
+828−833. (d) Lee, J.; Ryu, T.; Park, S.; Lee, P. H. J. Org. Chem. 2012,
+77, 4821−4825. (e) Nishimoto, Y.; Okita, A.; Yasuda, M.; Baba, A.
+Angew. Chem., Int. Ed. 2011, 50, 8623−8625. (f) Shen, Z.-L.; Goh, K.
+K. K.; Yang, Y.-S.; Lai, Y.-C.; Wong, C. H. A.; Cheong, H.-L.; Loh, T.-
+P. Angew. Chem., Int. Ed. 2011, 50, 511−514. (g) Siddiqui, I. R.; Rahila;
+Shamim, S.; Rai, P.; Shireen; Waseem, M. A.; Abumhdi, A. A. H.
+Tetrahedron Lett. 2013, 54, 6991−6994. (h) Gualandi, A.; Mengozzi,
+L.; Wilson, C. M.; Cozzi, P. G. Synthesis 2014, 46, 1321−1328.
+(6) Selected results: (a) Sakai, N.; Takahashi, N.; Ogiwara, Y. Eur. J.
+Org. Chem. 2014, 5078−5082. (b) Moriya, T.; Shoji, K.; Yoneda, S.;
+Ikeda, R.; Konakahara, T.; Sakai, N. Synthesis 2013, 45, 3233−3238.
+(c) Sakai, N.; Usui, Y.; Ikeda, R.; Konakahara, T. Adv. Synth. Catal.
+2011, 353, 3397−3401. (d) Sakai, N.; Nagasawa, K.; Ikeda, R.;
+Nakaike, Y.; Konakahara, T. Tetrahedron Lett. 2011, 52, 3133−3136.
+(e) Sakai, N.; Kawana, K.; Ikeda, R.; Nakaike, Y.; Konakahara, T. Eur.
+J. Org. Chem. 2011, 3178−3183. (f) Sakai, N.; Moriya, T.; Fujii, K.;
+Konakahara, T. Synthesis 2008, 3533−3536. (g) Sakai, N.; Fujii, K.;
+Konakahara, T. Tetrahedron Lett. 2008, 49, 6873−6875. (h) Sakai, N.;
+Moriya, T.; Konakahara, T. J. Org. Chem. 2007, 72, 5920−5922.
+(i) Sakai, N.; Hirasawa, M.; Konakahara, T. Tetrahedron Lett. 2005, 46,
+6407−6409.
+(7) (a) Paquette, L. A.; Kern, B. E.; Méndez-Andino, J. Tetrahedron
+Lett. 1999, 40, 4129−4132. (b) Lee, Y. R.; Kim, D. H.; Shim, J.-J.; Kim,
+S. K.; Park, J. H.; Cha, J. S.; Lee, C.-S. Bull. Korean Chem. Soc. 2002,
+23, 998−1002. (c) Zhang, J.; Das Sarma, K.; Curran, T. T.; Belmont,
+J. Org. Chem. 2005, 70, 5890−5895.
+D. T.; Davidson,
+(d) Prajapati, D.; Gohain, M. Beilstein J. Org. Chem. 2006, 2, 11-1−
+11-5. (e) Jung, D. H.; Lee, Y. R.; Kim, S. H.; Lyoo, W. S. Bull. Korean
+Chem. Soc. 2009, 30, 1989−1995. (f) Lakshmi, N. V.; Thirumurugan,
+P.; Noorulla, K. M.; Perumal, P. T. Bioorg. Med. Chem. Lett. 2010, 20,
+5054−5061. (g) To, Q. H.; Lee, Y. R.; Kim, S. H. Bull. Korean Chem.
+Soc. 2012, 33, 1170−1176. (h) Naidu, P. S.; Borah, P.; Bhuyan, P. J.
+Tetrahedron Lett. 2012, 53, 4015−4017.
+(8) When the reaction of 1a with 2a in the presence of a catalytic
+amount of InBr3 in toluene was conducted at 60 °C for 8 h using
+various additives, such as TMSCl, Tf2O, and (CF3CO)2O,
+the
+corresponding Knoevenagel adduct 3aa was obtained in 30, 0, and
+27% yield, respectively.
+(9) The yields of 3aa and 4a under the conditions in entry 6 of Table
+1 are listed as follows: 95 and 0% in CH3Cl, 68 and 6% in CH3CN3, 4
+and 32% in THF, respectively, and 0% each in MeOH. Although
+CH3Cl was a slightly better solvent than toluene (94 and 4%), we
+chose toluene as the best solvent due to its good mass balance.
+(10) The E:Z geometries of the products 3ab and 3ac were assigned
+on the basis of NOESY analyses.
+(11) A sole geometric isomer of 3ad was obtained; unfortunately, the
+geometry (E or Z) was not able to be determined.
+(12) Doebner, O. Chem. Ber. 1900, 33, 2140−2142.
+
+J. G.
+
+3109
+
+DOI: 10.1021/acs.joc.5b00011
+J. Org. Chem. 2015, 80, 3101−3110
+
+Article
+
+The Journal of Organic Chemistry
+
+(13) Synthesis of Knoevenagel products from a geminal diacetate:
+(a) Trost, B. M.; Vercauteren, J. Tetrahedron Lett. 1985, 26, 131−134.
+(b) Vieth, S.; Jähnisch, K. J. Prakt. Chem. 1990, 332, 1108−1110.
+(c) Li, Z.; Duan, Z.; Wang, H.; Tian, R.; Zhu, Q.; Wu, Y. Synlett 2008,
+2535−2539.
+(14) Indium-catalyzed synthesis of germinal diacetate from aldehydes
+with Ac2O has been reported: (a) Yadav, J. S.; Reddy, B. V. S.; Srinivas,
+C. Synth. Commun. 2002, 32, 1175−1180. (b) Yadav, J. S.; Reddy, B.
+V. S.; Srinivas, C. Synth. Commun. 2002, 32, 2169−2174. (c) Yin, L.;
+Zhang, Z.-H.; Wang, Y.-M.; Pang, M.-L. Synlett 2004, 1727−1730.
+(d) Salavati-Niasari, M.; Hydarzadeh, S. J. Mol. Catal. A: Chem. 2005,
+237, 254−258.
+(15) When methyl malonate was treated with 10 mol % of InCl3 and
+D2O (1.5 equiv) in toluene at 60 °C at 8 h, the formation of methyl
+malonate incorporating deuterium (42:58 H/D) was observed by
+NMR measurement.
+(16) Mase, N.; Horibe, T. Org. Lett. 2013, 15, 1854−1857.
+(17) Zhang, S.; Cheng, K.; Wang, X.; Yin, H. Bioorg. Med. Chem.
+2012, 20, 6073−6079.
+(18) Rappoport, Z.; Gazit, A. J. Org. Chem. 1986, 51, 4107−4111.
+(19) Mori, K.; Kawasaki, T.; Sueoka, S.; Akiyama, T. Org. Lett. 2010,
+12, 1732−1735.
+(20) Tanikaga, R.; Konya, N.; Hamamura, K.; Kaji, A. Bull. Chem. Soc.
+Jpn. 1988, 61, 3211−3216.
+(21) Barluenga, J.; Riesgo, L.; Vicente, R.; López, L. A.; Tomás, M. J.
+Am. Chem. Soc. 2007, 129, 7772−7723.
+(22) Li, J.; Lu, L.; Su, W. Tetrahedron Lett. 2010, 51, 2434−2437.
+(23) Zhou, Z.-L.; Huang, Y.-Z.; Shi, L.-L. Tetrahedron 1993, 49,
+6821−6830.
+(24) Hu, B.; Jiang, L.; Ren, J.; Wang, Z. Eur. J. Org. Chem. 2010,
+1358−1363.
+(25) Nanteuil, F.; Waser, J. Angew. Chem., Int. Ed. 2013, 52, 9009−
+9013.
+(26) Lee, A.; Michrowska, A.; Sulzer-Mosse, S.; List, B. Angew. Chem.,
+Int. Ed. 2011, 50, 1707−1710.
+(27) Marrone, A.; Renzetti, A.; Maria, D. P.; Gérard, S.; Sapi, J.;
+Fontana, A.; Re, N. Chem.Eur. J. 2009, 15, 11537−11550.
+
+3110
+
+DOI: 10.1021/acs.joc.5b00011
+J. Org. Chem. 2015, 80, 3101−3110
+
+

@@ -1,0 +1,769 @@
+Note
+
+pubs.acs.org/joc
+
+†
+
+†
+
+†
+
+Synthesis and Characterization of Bis‑N‑2-Aryl Triazole as a
+Fluorophore
+Yanwei Zhang,
+†
+C. Eugene Bennett Department of Chemistry, West Virginia University, Morgantown, West Virginia 26506, United States
+‡
+Department of Medicinal Chemistry, Key Laboratory of Chemical Biology (MOE), School of Pharmacy, Shandong University, Jinan,
+Shandong 250012, China
+*S Supporting Information
+
+and Xiaodong Shi*,†
+
+Minyong Li,*,‡
+
+Xiaohan Ye,
+
+Jeﬀery. L. Petersen,
+
+ABSTRACT: Naphthalene-bridged bis-triazole (NBT) com-
+plexes were prepared and characterized for investigation of
+their photophysical properties. Unlike our previously reported
+N-2-aryl triazoles, which gave strong emissions through the
+planar intramolecular charge transfer mechanism (coplanar
+conformation), this newly developed NBT adopted a non-
+coplanar conformation between triazole and naphthalene,
+achieving ﬂuorescence through twisted intramolecular charge
+transfer.
+
+S mall organic molecules that can provide strong ﬂuores-
+
+cence emissions are of great importance to the scientiﬁc
+community.1 These molecular ﬂuorophores have been applied
+to a wide range of research areas, including chemistry, biology,
+and material science.2 In 2011, our group reported N-2-aryl-
+1,2,3-triazoles (NAT) as novel ﬂuorophores with strong
+emission in the high-energy UV/blue region.3 The exper-
+imental results (X-ray structures) and computational studies
+conﬁrmed the coplanar conformation (observed in N-2
+isomers, Scheme 1A) as the key factor
+for ﬂuorescence
+
+Scheme 1. N-2-Aryl Triazole Fluorophores
+
+(Scheme 1B), suggesting twisted intramolecular charge transfer
+(TICT) is a plausible mechanism for the observed strong
+ﬂuorescence emission.4
+
+We have previously reported that N-2-aryl triazole 1a gave
+very strong ﬂuorescence emission, whereas its N-1 isomer 1b
+gave no emission at all. Two key factors appeared to control the
+ﬂuorescence emission in these NAT dyes: N-2 substitution and
+coplanar conformation between the two rings. However, the
+second assumption was greatly challenged by our recent studies
+of N-naphthalene triazoles. As shown in Figure 1, we recently
+prepared N-naphthalene triazole 1c (N-2 isomer) and 1d (N-1
+
+emission. On the basis of these studies, planar intramolecular
+charge transfer (PICT) was proposed as a plausible mechanism
+for the observed excellent optical properties of this novel NAT
+system. Herein, we report
+the design and synthesis of
+naphthalene-bridged bis-triazole (NBT) compounds, which
+give excellent ﬂuorescence emissions, even with a twisted
+conformation between triazole and the N-2 aryl groups
+
+Figure 1. Fluorescence emission of NAT with diﬀerent aryl groups.
+
+Received:
+January 2, 2015
+Published: March 12, 2015
+
+© 2015 American Chemical Society
+
+3664
+
+DOI: 10.1021/acs.joc.5b00006
+J. Org. Chem. 2015, 80, 3664−3669
+
+The Journal of Organic Chemistry
+
+Note
+<para sub="scope">
+important question for
+
+diﬀerence. Perhaps the most
+the
+synthesis of NBT was how to identify the relative position of
+the two triazole rings with restricted rotation. Considering the
+rotation of C−N bonds, theoretically two conformers (cis and
+trans) could be formed. Interestingly, during our synthesis, only
+one conformer was observed in almost all cases, which was later
+conﬁrmed as the cis-conformer via X-ray crystallography
+(Figure 3).
+</para>
+Figure 3. X-ray crystallography conﬁrmed the formation of the cis-
+conformer.
+<para sub=“props”>
+As
+
+structure,
+
+shown in the X-ray crystal
+
+the twisted
+conformation was conﬁrmed between the triazole and
+naphthalene rings with a dihedral angle of 61.5°. The crystal
+structure of mono-triazole-substituted 4a (Ar1 = Ph, with I on
+naphthalene ring) was also obtained (see the Supporting
+Information (SI)). Similarly, according to this crystal structure,
+the dihedral angle between these two rings is 62.9°. With all of
+the NBTs clearly characterized, their ﬂuorescent properties
+were measured and shown in Figure 4.
+</para>
+isomer). Similar to phenyl triazoles, N-1 isomer 1d gave no
+ﬂuorescence emission, and the N-2 isomer 1c gave strong
+emission. However, a closer look at 1c suggests that coplanar
+conformation between naphthalene and the triazole ring is
+highly unlikely due to steric repulsion. In fact, the crystal
+structure of a similar analogue indicated a 49.5° dihedral angle
+between the two rings in the N-2 isomer.5 These results piqued
+our interest in further exploring this new class of dyes by
+questioning whether the coplanar conformation is necessary.6
+Besides coplanar intramolecular charge transfer (PICT),
+another feasible photochemical process associated with this
+type of extended aromatic ring, twisted intramolecular charge
+transfer (TICT), was ﬁrst introduced by Grabowski and co-
+workers.7 One important feature of the TICT type of emission
+is the feasibility of the donor unit in initiating the charge
+transfer. A number of nitrogen-containing heterocycles have
+been studied as donors in TICT-emitting molecules.8 However,
+to the best of our knowledge, 1,2,3-triazoles have never been
+used as a potential donor in TICT ﬂuorophores, and their
+photochemical properties are unknown.
+
+formation of
+
+To explore triazole derivatives as potential TICT-emitting
+dyes, we prepared anthracene-substituted triazole 1e (N-2) and
+1f (N-1). Clearly, the anthracene should provide a large enough
+the coplanar
+steric repulsion to prevent
+conformation even in the N-2 isomer 1e. Thus,
+the
+ﬂuorescence emission should be mainly from the twisted
+state. Interestingly, both N-1 and N-2 isomers gave good
+emissions. However,
+three diﬀerent emission bands were
+observed in N-1 isomer 1f, which was similar to the typical
+emission of aromatic-substituted anthracene.9 This result
+suggested that triazole-anthracene compounds were not good
+model molecules to access the triazole’s inﬂuence on TICT
+emission due to the notable background emission from
+anthracene. To better evaluate the triazole inﬂuence in the
+twisted systems, we designed naphthalene-bridged bis-triazole
+(NBT).
+<para sub="scope">
+As shown in Figure 2, bis-triazole can be readily prepared
+from copper-catalyzed coupling between naphthalene di-iodide
+</para>
+Figure 2. Synthesis of naphthalene-bridged bis-triazole (NBT).
+<para sub="scope">
+2b and NH-triazole. Two diﬀerent conditions were developed
+to reach NBT, either in a one-pot fashion (condition A) or a
+stepwise process (condition B).5 Using these methods, both
+symmetrical NBT 3 and unsymmetrical NBT 5 could be easily
+prepared. Notably, both N-1 and N-2 isomers were observed in
+all cases. The regioselectivity (ratio between N-2 and N-1
+isomers) depends on the substituted groups (Ar) similar to
+what has been observed previously in triazole functionaliza-
+tion.10 The N-1 and N-2 isomers could be easily separated
+using column chromatography due to the signiﬁcant polarity
+</para>
+Figure 4. Fluorescence emission of NBT 3 and 4a.
+<para sub=“props”>
+As shown by the crystal structures, both bis-triazole NBT 3
+and mono-triazole 4 adopted a twisted conformation. However,
+whereas N-2 isomers generally gave good ﬂuorescence
+emission, the N-1 isomers gave almost no emission in all
+cases. The emission intensity of NBT 3 followed a clear trend
+in that N2−N2 > N2−N1 > N1−N1 (almost no emission).
+Because of the rotation strain, it is impossible for NBT 3 to
+adopt planar conformation even in solution. Thus, the observed
+good ﬂuorescence emission of the N-2 isomers likely represents
+the photochemical process associated with TICT states. The
+optical properties (emission, excitation, and quantum yields) of
+compounds 3 and 4 were determined and summarized in Table
+1.
+</para>
+<para sub=“props”>
+These N-2 isomers of NBTs were identiﬁed as a new class of
+ﬂuorophores, and one interesting feature oﬀered by the
+</para>
+3665
+
+DOI: 10.1021/acs.joc.5b00006
+J. Org. Chem. 2015, 80, 3664−3669
+
+The Journal of Organic Chemistry
+Table 1. Comparison of Optical Properties of Diﬀerent NBTsa
+
+Note
+
+R1/R2
+
+excitation (λ
+
+max)
+
+emission (λ
+
+max)
+
+N2-TA-I
+
+298
+300
+
+347
+378
+
+Φ
+
+0.34
+0.20
+
+Stokes shift (nm)
+
+49
+78
+
+NAT
+1a
+4a
+NBT
+3a
+3b
+3c
+5a
+5b
+5c
+5d
+5e
+
+R1 = R2 = H (N1−N1)
+R1 = R2 = H (N1−N2)
+R1 = R2 = H (N2−N2)
+R1 = R2 = Cl
+R1 = R2 = OMe
+R1 = R2 = COOMe
+R1 = R2 = CN
+R1 = OMe, R2 = CN
+
+307
+315
+305
+315
+300
+302
+300
+
+384
+393
+393
+403
+396
+403
+408
+
+<0.01
+0.13
+0.24
+0.26
+0.29
+0.41
+0.47
+0.39
+
+77
+78
+88
+88
+96
+101
+108
+
+aSample information: 1.0 × 10−6 mol/L in dichloromethane. Quantum yields (Φ) were determined based on 1.0 × 10−6 mol/L 9,10-
+diphenylanthracene in cyclohexane (Φ = 0.9). Photo emission integration calculated from the original spectra. All ﬂuorescence was measured under
+identical conditions (see the SI).
+
+in the SI). Thus,
+<para sub=“props”>
+naphthalene-bridge was the potential π-π stacking between the
+two triazoles.11 As revealed by the X-ray structures, the two
+triazoles in NBT are almost parallel with a distance that is just
+slightly longer than van der Waals radii (see the space ﬁlling
+model
+it is reasonable to expect that the
+substituted groups on the triazole phenyl ring may provide
+various electronic eﬀects that will inﬂuence the overall optical
+properties.3,12 To explore the substituted group inﬂuence, we
+prepared a series of symmetrical and unsymmetrical NBTs 5a−
+e with various substituents on the triazole phenyl rings. Their
+photochemical properties were evaluated (Table 1), and the
+spectra of some representative NBTs are shown in Figure 5.
+</para>
+<para sub=“props”>
+(up to 47%) through the introduction of extended
+conjugations.13 Overall, compared with NAT, this new NBT
+system gave signiﬁcantly higher ﬂuorescence eﬃciency, which
+implies great potential for future applications.
+</para>
+In conclusion, we report a new type of
+
+triazole-based
+ﬂuorescence-active compound: naphthalene-bridged bis-triazole
+(NBT). Practical syntheses have been developed, and regio-
+isomers of compounds have been characterized by X-ray
+crystallography. The ﬂuorescence studies reveal that in this
+twisted system, N-2 substitution is crucial
+for ﬂuorescence
+emission. Compared to the previously reported NAT system,
+this new NBT gives higher ﬂuorescence eﬃciency and larger
+Stokes shifts, which warrants the new molecule as a potential
+ﬂuorophore for chemical and biological applications.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+Representative Procedure for
+
+General Information. All of the reactions dealing with air and/or
+moisture-sensitive reactions were carried out under an atmosphere of
+nitrogen using oven-dried glassware and standard syringe/septa
+techniques. Unless otherwise noted, all commercial reagents and
+solvents were obtained from commercial providers and used without
+further puriﬁcation. Chemical shifts were reported relative to internal
+tetramethylsilane (δ 0.00 ppm) or CDCl3 (δ 7.26 ppm) for 1H NMR
+and CDCl3 (δ 77.0 ppm) or d6-DMSO (δ 39.5 ppm) for 13C NMR.
+the Preparation of 2-
+(Anthracen-9-yl)-4-phenyl-2H-1,2,3-triazole (1e)
+(Condition
+A). To a solution of 9-bromoanthracene (514 mg, 2.0 mmol, 1.0
+equiv) in dry DMSO (4 mL, 0.5 M) were successively added 4-phenyl-
+1,2,3-NH-triazole (725 mg, 5.0 mmol, 2.5 equiv), CuI (76 mg, 20%),
+L-proline (92 mg, 40%), and K2CO3 (1.1 g, 8.0 mmol, 4.0 equiv) under
+a N2 atmosphere. The mixture was stirred at 120 °C and monitored by
+TLC. After the reaction was completed, it was quenched with brine
+and extracted with ethyl acetate three times. The organic phases were
+combined, and the solvent was removed under vacuum. The residue
+was puriﬁed by ﬂash silica gel chromatography (hexane/EtOAc v/v
+20:1), giving the desired product as a yellow solid (yield: 340 mg,
+53%). 1H NMR (400 MHz, CDCl3): δ 8.66 (s, 1H), 8.37 (s, 1H), 8.32
+(dd, J = 5.8, 3.3 Hz, 1H), 8.09 (dd, J = 7.1, 1.9 Hz, 2H), 8.00−7.98 (m,
+2H), 7.79 (dd, J = 5.8, 3.3 Hz, 1H), 7.51−7.44 (m, 7H). 13C NMR
+(100 MHz, CDCl3): δ 148.94, 134.1, 132.5, 131.3, 129.5, 129.00,
+128.85, 128.70, 128.2, 127.6, 127.2, 126.2, 125.7, 122.6. HRMS: [M +
+H]+ calcd for C22H15N3, 322.1338; found, 322.1342.
+the Preparation of 1-
+(Anthracen-9-yl)-4-phenyl-1H-1,2,3-triazole (1f) (Condition A).
+To a solution of 9-bromoanthracene (514 mg, 2.0 mmol, 1.0 equiv) in
+dry DMSO (4 mL, 0.5 M) were successively added 4-phenyl-1,2,3-
+NH-triazole (725 mg, 5.0 mmol, 2.5 equiv), CuI (76 mg, 20%), L-
+
+Representative Procedure for
+</para>
+3666
+
+DOI: 10.1021/acs.joc.5b00006
+J. Org. Chem. 2015, 80, 3664−3669
+
+Figure 5. Fluorescence emission of NBT 5 and 4a.
+<para sub=“exp”>
+Among all the tested NBTs, N-2 substitution is crucial for
+eﬀective emission. Compared with previous planar NAT 1a, the
+new twisted NBT ﬂuorophores give more red shifted emissions
+around 400 nm (blue light). Interestingly, although the two
+triazole rings are almost parallel, changing the substituent
+groups on the phenyl rings did not
+inﬂuence the overall
+emission of the NBT. For example, with either EDG (5b)- or
+EWG (5c and 5d)-substituted NBT, there were little changes in
+the emission and excitation wavelengths. Furthermore,
+substrate 5e, with EDG and EWG incorporated on diﬀerent
+rings, also gave similar emission, which strongly suggested that
+little π-π interactions occurred between the two rings. Notably,
+the substituent group did help to improve the quantum yields
+</para>
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+proline (92 mg, 40%), and K2CO3 (1.1 g, 8.0 mmol, 4.0 equiv) under a
+N2 atmosphere. The mixture was stirred at 120 °C and monitored by
+TLC. After the reaction was completed, it was quenched with brine
+and extracted with ethyl acetate three times. The organic phases were
+combined, and the solvent was removed under vacuum. The residue
+was puriﬁed by ﬂash silica gel chromatography (hexane/EtOAc v/v
+15:1), giving the desired product as a light yellow solid (yield: 237 mg,
+37%). 1H NMR (400 MHz, CDCl3): δ 8.69 (s, 1H), 8.20 (s, 1H), 8.11
+(d, J = 7.6 Hz, 2H), 8.03 (d, J = 8.4 Hz, 2H), 7.55−7.51 (m, 5H),
+7.43−7.40 (m, 2H). 13C NMR (100 MHz, CDCl3): δ 147.8, 131.2,
+130.3, 129.8, 129.0, 128.46, 128.35, 128.0, 127.4, 126.7, 125.97,
+125.89, 124.0, 122.1. HRMS: [M + H]+ calcd for C22H15N3, 322.1338;
+found, 322.1342.
+
+Representative Procedure for the Preparation of 1,8-Bis(4-
+phenyl-2H-1,2,3-triazol-2-yl)naphthalene (3c)
+(Condition A).
+To a solution of 1,8-diiodonaphthalene (760 mg, 2.0 mmol, 1.0 equiv)
+in dry DMSO (4 mL, 0.5 M) were successively added 4-phenyl-1,2,3-
+NH-triazole (725 mg, 5.0 mmol, 2.5 equiv), CuI (76 mg, 20%), L-
+proline (92 mg, 40%), and K2CO3 (1.1 g, 8.0 mmol, 4.0 equiv) under a
+N2 atmosphere. The mixture was stirred at 120 °C and monitored by
+TLC. After the reaction was completed, it was quenched with brine
+and extracted with ethyl acetate three times. The organic phases were
+combined, and the solvent was removed under vacuum. The residue
+was puriﬁed by ﬂash silica gel chromatography (hexane/EtOAc v/v
+5:1), giving the desired product as a light yellow solid (yield: 472 mg,
+57%). 1H NMR (400 MHz, CDCl3): δ 8.12 (dd, J = 8.4, 1.2 Hz, 2H),
+7.96 (dd, J = 7.4, 1.2 Hz, 2H), 7.71 (dd, J = 8.2, 7.4 Hz, 2H), 7.48−
+7.51 (m, 4H), 7.28−7.22 (m, 6H). 13C NMR (100 MHz, CDCl3): δ
+148.3, 136.1, 135.6, 131.7, 130.2, 129.4, 128.5, 128.3, 127.0, 125.9,
+121.1. HRMS: [M + H]+ calcd for C26H18N6, 415.1666;
+found,
+415,1672.
+
+Representative Procedure for the Preparation of 2-(8-
+Iodonaphthalen-1-yl)-4-phenyl-2H-1,2,3-triazole (4a)
+(Condi-
+tion B). To a solution of 1,8-diiodonaphthalene (760 mg, 2.0 mmol,
+1.0 equiv) in dry DMSO (4 mL, 0.5 M) were successively added 4-
+phenyl-1,2,3-NH-triazole (290 mg, 2.0 mmol, 1.0 equiv), CuI (38 mg,
+10%), L-proline (46 mg, 20%), and K2CO3 (552 mg, 4.0 mmol, 2.0
+equiv) under a N2 atmosphere. The mixture was stirred at 80 °C and
+monitored by TLC. After the reaction was completed, it was quenched
+with brine and extracted with ethyl acetate three times. The organic
+phases were combined, and the solvent was removed under vacuum.
+The residue was puriﬁed by ﬂash silica gel chromatography (hexane/
+EtOAc v/v 10:1), giving the desired product as a light yellow solid
+(yield: 401 mg, 51%). 1H NMR (400 MHz, CDCl3): δ 8.29 (dd, J =
+7.4, 1.2 Hz, 1H), 8.21 (s, 1H), 8.04 (dd, J = 8.3, 1.3 Hz, 1H), 7.97 (dd,
+J = 8.3, 1.1 Hz, 1H), 7.94−7.91 (m, 2H), 7.68 (dd, J = 7.2, 1.6 Hz,
+1H), 7.59 (dd, J = 8.1, 7.3 Hz, 1H), 7.49−7.45 (m, 2H), 7.42−7.38
+(m, 1H), 7.19 (dd, J = 8.1, 7.4 Hz, 1H). 13C NMR (100 MHz,
+CDCl3): δ 149.1, 143.0, 137.2, 135.8, 132.6, 132.0, 130.1, 129.5, 129.1,
+128.92, 128.75, 128.73, 127.4, 126.2, 125.2, 86.5. HRMS: [M + H]+
+calcd for C18H22N3I, 398.0149; found, 398.0155.
+Representative Procedure for the Preparation of 1,8-Bis(4-
+phenyl-1H-1,2,3-triazol-1-yl)naphthalene (3a). To a solution of
+1,8-diazidonaphthalene (420 mg, 2.0 mmol, 1.0 equiv) in 1:1 t-BuOH/
+H2O (5 mL, 0.4 M) were successively added phenylacetylene (1.02 g,
+10.0 mmol, 5.0 equiv), CuSO4 (128 mg, 40%), and L-ascorbic acid
+sodium salt (237.6 mg, 60%) under a N2 atmosphere. The mixture was
+stirred at 80 °C and monitored by TLC. After the reaction was
+completed, it was quenched with brine and extracted with ethyl acetate
+three times. The organic phases were combined, and the solvent was
+removed under vacuum. The residue was puriﬁed by ﬂash silica gel
+chromatography (hexane/EtOAc v/v 5:1), giving the desired product
+as a light yellow solid (yield: 712 mg, 86%). 1H NMR (400 MHz,
+CDCl3): δ 8.25 (dd, J = 8.3, 1.2 Hz, 1H), 7.75 (t, J = 7.8 Hz, 1H), 7.66
+(dd, J = 7.6, 1.2 Hz, 1H), 7.56 (s, 1H), 7.47−7.43 (m, 2H), 7.25−7.21
+(m, 3H). 13C NMR (100 MHz, d6-DMSO): δ 146.4, 135.7, 132.1,
+131.7, 130.5, 129.4, 128.7, 128.0, 127.0, 125.8, 124.4. HRMS: [M +
+H]+ calcd for C26H18N6, 415.1665; found, 415.1677.
+Representative Procedure for the Preparation of 2,3′-
+(Naphthalene-1,8-diyl)bis(5-phenyl-2H-1,2,3-triazole)
+(3b). 2-
+
+(8-azidonaphthalen-1-yl)-4-phenyl-2H-1,2,3-triazole was prepared
+from 1-azido-8-iodonaphthalene under condition B. Then,
+to a
+solution of 2-(8-azidonaphthalen-1-yl)-4-phenyl-2H-1,2,3-triazole
+(624 mg, 2.0 mmol, 1.0 equiv) in 1:1 t-BuOH/H2O (5 mL, 0.4 M)
+were successively added phenylacetylene (510 mg, 5.0 mmol, 2.5
+equiv), CuSO4 (64 mg, 20%), and L-ascorbic acid sodium salt (118.8
+mg, 30%) under a N2 atmosphere. The mixture was stirred at 120 °C
+and monitored by TLC. After the reaction was completed,
+it was
+quenched with brine and extracted with ethyl acetate three times. The
+organic phases were combined, and the solvent was removed under
+vacuum. The residue was puriﬁed by ﬂash silica gel chromatography
+(hexane/EtOAc v/v 3:1), giving the desired product as a light yellow
+solid (yield: 605 mg, 73%). 1H NMR (400 MHz, CDCl3): δ 8.17 (dd,
+J = 7.5, 5.2 Hz, 2H), 7.84 (d, J = 7.2 Hz, 1H), 7.79 (d, J = 7.1 Hz, 1H),
+7.72 (t, J = 7.8 Hz, 2H), 7.63 (s, 1H), 7.52 (s, 1H), 7.45 (ddd, J = 12.2,
+6.4, 2.7 Hz, 4H), 7.26−7.24 (t, J = 3.0 Hz 3H), 7.18 (t, J = 2.8 Hz,
+3H). 13C NMR (100 MHz, CDCl3): δ 149.0, 146.9, 135.8, 135.0,
+132.4, 132.0, 131.1, 130.8, 129.7, 129.1, 128.52, 128.48, 128.38,
+128.25, 128.08, 127.7, 126.16, 126.12, 126.04, 125.5, 122.3, 121.6,
+116.0. HRMS: [M + H]+ calcd for C26H18N6, 415.1665;
+found,
+415.1672.
+
+Representative Procedure for the Preparation of 1,8-Bis(4-
+(4-chlorophenyl)-2H-1,2,3-triazol-2-yl)naphthalene (5a) (Con-
+dition A). To a solution of 1,8-diiodonaphthalene (760 mg, 2.0 mmol,
+1.0 equiv) in dry DMSO (4 mL, 0.5 M) were successively added 4-(4-
+chlorophenyl)-1,2,3-NH-triazole (898 mg, 5.0 mmol, 2.5 equiv), CuI
+(76 mg, 20%), L-proline (92 mg, 40%), and K2CO3 (1.1 g, 8.0 mmol,
+4.0 equiv) under a N2 atmosphere. The mixture was stirred at 120 °C
+and monitored by TLC. After the reaction was completed,
+it was
+quenched with brine and extracted with ethyl acetate three times. The
+organic phases were combined, and the solvent was removed under
+vacuum. The residue was puriﬁed by ﬂash silica gel chromatography
+(hexane/EtOAc v/v 5:1), giving the desired product as a light yellow
+solid (yield: 580 mg, 60%). 1H NMR (400 MHz, CDCl3): δ 8.14 (dd,
+J = 8.4, 1.1 Hz, 2H), 7.95 (dd, J = 7.4, 1.2 Hz, 2H), 7.72 (dd, J = 8.1,
+7.6 Hz, 2H), 7.56 (s, 2H), 7.42−7.39 (m, 4H), 7.24−7.22 (m, 4H).
+13C NMR (100 MHz, CDCl3): δ 147.1, 136.0, 135.3, 134.3, 131.44,
+131.41, 130.4, 128.7, 127.8, 127.07, 127.00, 126.0, 121.0. HRMS: [M +
+H]+ calcd for C26H16N6Cl2, 483.0887; found, 483.0897.
+Representative Procedure for the Preparation of 1,8-Bis(4-
+(4-methoxyphenyl)-2H-1,2,3-triazol-2-yl)naphthalene (5b)
+(Condition A). To a solution of 1,8-diiodonaphthalene (760 mg,
+2.0 mmol, 1.0 equiv) in dry DMSO (4 mL, 0.5 M) were successively
+added 4-(4-methoxyphenyl)-1,2,3-NH-triazole (875 mg, 5.0 mmol, 2.5
+equiv), CuI (76 mg, 20%), L-proline (92 mg, 40%), and K2CO3 (1.1 g,
+8.0 mmol, 4.0 equiv) under a N2 atmosphere. The mixture was stirred
+at 120 °C and monitored by TLC. After the reaction was completed, it
+was quenched with brine and extracted with ethyl acetate three times.
+The organic phases were combined, and the solvent was removed
+under vacuum. The residue was puriﬁed by ﬂash silica gel
+chromatography (hexane/EtOAc v/v 5:1), giving the desired product
+as a light yellow solid (yield: 607 mg, 64%). 1H NMR (400 MHz,
+CDCl3): δ 8.10 (dd, J = 8.4, 1.2 Hz, 2H), 7.94 (dd, J = 7.4, 1.2 Hz,
+2H), 7.69 (dd, J = 8.2, 7.4 Hz, 2H), 7.50 (s, 2H), 7.44−7.40 (m, 4H),
+6.80−6.76 (m, 4H), 3.80 (s, 6H). 13C NMR (100 MHz, CDCl3): δ
+159.6, 148.0, 136.0, 135.6, 131.1, 130.0, 127.2, 126.9, 125.9, 122.2,
+121.2, 113.8, 55.1. HRMS: [M + H]+ calcd for C28H22N6O2, 475.1877;
+found, 475.1883.
+Representative Procedure for the Preparation of Dimethyl
+4,4′-(2,2′-(Naphthalene-1,8-diyl)bis(2H-1,2,3-triazole-4,2-
+diyl))dibenzoate (5c)
+(Condition A). To a solution of 1,8-
+diiodonaphthalene (760 mg, 2.0 mmol, 1.0 equiv) in dry DMSO (4
+mL, 0.5 M) were successively added 4-(1H-1,2,3-triazole-4-yl)-benzoic
+acid methyl ester (1.015 g, 5.0 mmol, 2.5 equiv), CuI (76 mg, 20%), L-
+proline (92 mg, 40%), and K2CO3 (1.1 g, 8.0 mmol, 4.0 equiv) under a
+N2 atmosphere. The mixture was stirred at 120 °C and monitored by
+TLC. After the reaction was completed, it was quenched with brine
+and extracted with ethyl acetate three times. The organic phases were
+combined, and the solvent was removed under vacuum. The residue
+was puriﬁed by ﬂash silica gel chromatography (hexane/EtOAc v/v
+</para>
+3667
+
+DOI: 10.1021/acs.joc.5b00006
+J. Org. Chem. 2015, 80, 3664−3669
+
+The Journal of Organic Chemistry
+
+Note
+
+Representative Procedure for
+<para sub=“exp”>
+5:1), giving the desired product as a light yellow solid (yield: 456 mg,
+43%). 1H NMR (400 MHz, CDCl3): δ 8.15 (d, J = 8.2 Hz, 2H), 7.96
+(d, J = 7.4 Hz, 2H), 7.86 (d, J = 8.2 Hz, 4H), 7.73 (t, J = 7.8 Hz, 2H),
+7.62 (s, 2H), 7.51 (d, J = 8.3 Hz, 4H), 3.91 (s, 6H). 13C NMR (100
+MHz, CDCl3): δ 166.5, 147.2, 136.0, 135.2, 133.5, 132.01, 131.96,
+130.5, 129.82, 129.69, 127.2, 126.0, 125.5, 121.0, 52.1. HRMS: [M +
+Na]+ calcd for C30H22N6O4, 553.1595; found, 553.1600.
+Representative Procedure for the Preparation of 4,4′-(2,2′-
+(Naphthalene-1,8-diyl)bis(2H-1,2,3-triazole-4,2-diyl))-
+dibenzonitrile (5d)
+(Condition A). To a solution of 1,8-
+diiodonaphthalene (760 mg, 2.0 mmol, 1.0 equiv) in dry DMSO (4
+mL, 0.5 M) were successively added 4-(2H-1,2,3-triazol-4-yl)-
+benzonitrile (850 mg, 5.0 mmol, 2.5 equiv), CuI (76 mg, 20%), L-
+proline (92 mg, 40%), and K2CO3 (1.1 g, 8.0 mmol, 4.0 equiv) under a
+N2 atmosphere. The mixture was stirred at 120 °C and monitored by
+TLC. After the reaction was completed, it was quenched with brine
+and extracted with ethyl acetate three times. The organic phases were
+combined, and the solvent was removed under vacuum. The residue
+was puriﬁed by ﬂash silica gel chromatography (hexane/EtOAc v/v
+5:1), giving the desired product as a light yellow solid (yield: 389 mg,
+42%). 1H NMR (400 MHz, CDCl3): δ 8.18 (d, J = 8.2 Hz, 2H), 7.97
+(d, J = 7.4 Hz, 2H), 7.76 (dd, J = 9.7, 6.0 Hz, 2H), 7.63 (s, 2H), 7.63−
+7.53 (m, 8H). 13C NMR (100 MHz, CDCl3): δ 146.3, 136.0, 135.0,
+133.5, 132.4, 131.9, 130.7, 128.4, 127.1, 126.1, 120.7, 118.3, 112.0.
+HRMS: [M + Na]+ calcd for C28H16N8, 487.1390; found, 487.1396.
+the Preparation of 5e
+(Conditions A and B). To a solution of 1,8-diiodonaphthalene
+(760 mg, 2.0 mmol, 1.0 equiv) in dry DMSO (4 mL, 0.5 M) were
+successively added 4-(4-methoxyphenyl)-1,2,3-NH-triazole (350 mg,
+2.0 mmol, 1.0 equiv), CuI (38 mg, 10%), L-proline (46 mg, 20%),
+K2CO3 (552 mg, 4.0 mmol, 2.0 equiv) under a N2 atmosphere. The
+mixture was stirred at 80 °C and monitored by TLC. After the reaction
+was completed, it was quenched with brine and extracted with ethyl
+acetate three times. The organic phases were combined, and the
+solvent was removed under vacuum. The residue was puriﬁed by ﬂash
+silica gel chromatography (hexane/EtOAc v/v 10:1), giving the
+desired intermediate 2-(8-iodonaphthalen-1-yl)-4-(4-methoxyphenyl)-
+2H-1,2,3-triazole as a light yellow solid (yield: 563 mg, 66%). To the
+solution of 2-(8-iodonaphthalen-1-yl)-4-(4-methoxyphenyl)-2H-1,2,3-
+triazole (854 mg, 2.0 mmol, 1.0 equiv) in dry DMSO (4 mL, 0.5 M)
+were successively added 4-(2H-1,2,3-triazol-4-yl)-benzonitrile (850
+mg, 5.0 mmol, 2.5 equiv), CuI (76 mg, 20%), L-proline (92 mg, 40%),
+and K2CO3 (1.1 g, 8.0 mmol, 4.0 equiv) under a N2 atmosphere. The
+mixture was stirred at 120 °C and monitored by TLC. After the
+reaction was completed, it was quenched with brine and extracted with
+ethyl acetate three times. The organic phases were combined, and the
+solvent was removed under vacuum. The residue was puriﬁed by ﬂash
+silica gel chromatography (hexane/EtOAc v/v 5:1), giving the desired
+product as a light yellow solid (yield: 498 mg, 53%). 1H NMR (400
+MHz, CDCl3): δ 8.16−8.12 (m, 2H), 7.96−7.94 (m, 2H), 7.73 (ddd, J
+= 8.3, 7.4, 1.0 Hz, 2H), 7.65 (s, 1H), 7.59−7.57 (m, 2H), 7.52−7.49
+(m, 3H), 7.39−7.37 (m, 2H), 6.77−6.75 (m, 2H), 3.82 (s, 3H). 13C
+NMR (100 MHz, CDCl3): δ 159.8, 148.1, 146.3, 136.0, 135.39,
+135.24, 133.9, 132.3, 132.05, 132.01, 131.05, 131.01, 130.6, 130.2,
+127.13, 127.05, 126.27, 126.11, 125.9, 121.8, 121.0, 118.6, 113.9,
+111.5, 55.28. HRMS: [M + Na]+ calcd for C28H19N7O, 492.1543;
+found, 492.1550.
+UV Absorption Spectra. The UV−Vis spectra were measured in
+10.00 mm quartz cells. All samples were measured as 10−6 mol/L
+solutions of bis-N-2-aryl triazole in CH2Cl2. The wavelength range is
+between 200 and 600 nm.
+
+Fluorescence Excitation and Emission Spectra. Fluorescence
+emission and excitation spectra were measured in 10.00 mm quartz
+cells. All samples were measured as 10−6 mol/L solutions of bis-N-2-
+aryl triazole in CH2Cl2. The emission spectra were obtained with an
+excitation wavelength around 300 to 310 nm, and the excitation
+spectra were obtained with emission λ
+max according to diﬀerent
+compounds.
+Quantum Yields. Quantum yields were calculated using the
+standard 9,10-diphenylanthracene, which excited at 340 nm (Φ = 0.9)
+
+in cyclohexane. Quantum yields were calculated using the following
+equation, where Φ is the quantum yield, Int is the area of the emission
+peak, A represents absorbance at the excitation wavelength, and n is
+the reﬂective index of the solvent. The subscript reference is the
+respective values of
+the standard 9,10-diphenylanthracene. The
+absorptions of bis-N-2-aryl
+triazole and 9,10-diphenylanthracene
+were <0.05 (concentrations = 10−6 mol/L).
+
+ϕ
+
+ϕ=
+
+reference
+
+×
+
+Int
+Int
+
+×
+A
+× ×
+A
+
+×
+reference n
+
+2
+
+2
+n
+reference
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Characterizations, NMR ﬂuorescence spectra, X-ray data, and
+other supporting ﬁgures. This material is available free of charge
+via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Authors
+*E-mail: mli@sdu.edu.cn.
+*E-mail: Xiaodong.Shi@mail.wvu.edu.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We thank the National Science Foundation (CHE-1362057
+and CHE-1228336) and NSFC (21228204) for ﬁnancial
+support. We also acknowledge (CHE-1336071) which
+provided funds for X-ray diﬀraction.
+
+■ REFERENCES
+
+(1) For selected examples, see: (a) Saha, S.; Stoddart, J. F. Chem. Soc.
+Rev. 2007, 36, 77. (b) Sakai, N.; Sisson, A. L.; Burgi, T.; Matile, S. J.
+Am. Chem. Soc. 2007, 129, 15758. (c) Díaz, D. D.; Cid, J. J.; Vazquez,
+P.; Torres, T. Chem.Eur. J. 2008, 14, 9261. (d) Armstrong, N. R.;
+Veneman, P. A.; Ratcliff, E.; Placencia, D.; Brumbach, M. Acc. Chem.
+Res. 2009, 42, 1748. (e) Singhal, K.; Kalkan, A. K. J. Am. Chem. Soc.
+2010, 132, 429.
+(2) For selected examples, see: (a) Zhang, J.; Campbell, R. E.; Ting,
+A. Y.; Tsien, R. Y. Nat. Rev. Mol. Cell Biol. 2002, 3, 906. (b) Calzaferri,
+G.; Pauchard, M.; Maas, H.; Huber, S.; Khatyr, A.; Schaafsma, T. J.
+Mater. Chem. 2002, 12, 1. (c) Giepmans, B. N. G.; Adams, S. R.;
+Ellisman, M. H.; Tsien, R. Y. Science 2006, 312, 217. (d) Cheon, J.;
+Lee, J. H. Acc. Chem. Res. 2008, 41, 1630. (e) Domaille, D. W.; Que, E.
+L.; Chang, C. J. Nat. Chem. Biol. 2008, 4, 168.
+(3) Yan, W.; Wang, Q.; Lin, Q.; Li, M.; Petersen, J. L.; Shi, X.
+Chem.Eur. J. 2011, 17, 5011.
+(4) (a) Rettig, W. Angew. Chem. Int. Ed. 1986, 25, 971. (b) Rettig, W.
+Appl. Phys. B: Lasers Opt. 1988, 45, 145.
+(5) Liu, Y.; Yan, W.; Chen, Y.; Petersen, J. L.; Shi, X. Org. Lett. 2008,
+10, 5389.
+(6) (a) Tonzola, C. J.; Kulkarni, A. P.; Gifford, A. P.; Kaminsky, W.;
+Jenekhe, S. A. Adv. Funct. Mater. 2007, 17, 863. (b) Tong, Q. X.; Lai, S.
+L.; Chan, M. Y.; Zhou, Y. C.; Kwong, H. L.; Lee, C. S.; Lee, S. T.
+Chem. Mater. 2008, 20, 6310. (c) Park, Y.; Lee, J. H.; Jung, D. H.; Liu,
+S. H.; Lin, Y. H.; Chen, L. Y.; Wu, C. C.; Park, J. J. Mater. Chem. 2010,
+20, 5930. (d) Gómez, R.; Veldman, D.; Langeveld, B. M. W.; Segura, J.
+L.; Janssen, R. A. J. J. Mater. Chem. 2007, 17, 427.
+(7) (a) Grabowski, Z. R.; Rotkiewicz, K.; Rubaszewska, W.; Kirkor-
+kaminska, E. Acta Phys. Pol. A 1979, 54, 767. (b) Grabowski, Z. R.;
+J. Lumin. 1979, 18−9, 420.
+Rotkiewicz, K.; Siemiarczuk, A.
+(c) Grabowski, Z. R.; Rotkiewicz, K.; Siemiarczuk, A.; Cowley, D. J.;
+Baumann, W. Nouv. J. Chim. 1979, 3, 443. (d) Grabowski, Z. R.;
+Dobkowski, J. Pure Appl. Chem. 1983, 55, 245.
+(8) For selected examples, see: (a) Dash, N.; Chipem, F. A. S.;
+Swaminathan, R.; Krishnamoorthy, G. Chem. Phys. Lett. 2008, 460,
+
+3668
+
+DOI: 10.1021/acs.joc.5b00006
+J. Org. Chem. 2015, 80, 3664−3669
+
+Note
+
+The Journal of Organic Chemistry
+
+119. (b) Mishra, A.; Sahu, S.; Dash, N.; Behera, S. K.; Krishnamoorthy,
+G. J. Phys. Chem. B 2013, 117, 9469. (c) Xia, J.; Zhou, M.; Sun, S.;
+Wang, G.; Song, P.; Ge, M. Dyes Pigm. 2014, 103, 71.
+(9) (a) Ishikawa, J.; Sakamoto, H.; Nakao, S.; Wada, H. J. Org. Chem.
+1999, 64, 1913. (b) Thapaliya, E. R.; Captain, B.; Raymo, F. M. J. Org.
+Chem. 2014, 79, 3973.
+(10) (a) Sengupta, S.; Duan, H.; Lu, W.; Petersen, J. L.; Shi, X. Org.
+Lett. 2008, 10, 1493. (b) Chen, Y.; Liu, Y.; Petersen, J. L.; Shi, X.
+Chem. Commun. 2008, 3254. (c) Duan, H.; Yan, W.; Sengupta, S.; Shi,
+X. Bioorg. Med. Chem. Lett. 2009, 19, 3899. (d) Yan, W.; Wang, Q.;
+Chen, Y.; Petersen, J. L.; Shi, X. Org. Lett. 2010, 12, 3308.
+(11) (a) Fun, H. K.; Quah, C. K.; Vijesh, A. M.; Malladi, S.; Isloor, A.
+M. Acta Crystallogr. 2009, 66, 29. (b) Karimov, Z.; Abdugafurov, I.;
+Talipov, S.; Tashkhodjaev, B. Acta Crystallogr. 2010, 66, O1674.
+(c) Shan, G. G.; Li, H. B.; Zhu, D. X.; Su, Z. M.; Liao, Y. J. Mater.
+Chem. 2012, 22, 12736.
+(12) (a) Goodpaster, J. V.; Harrison, J. F.; McGuffin, V. L. J. Phys.
+Chem. A 2002, 106, 10645. (b) Focsaneanu, K. S.; Scaiano, J. C.
+Photochem. Photobiol. Sci. 2005, 4, 817.
+(13) Brouwer, A. M. Pure Appl. Chem. 2011, 83, 2213.
+
+3669
+
+DOI: 10.1021/acs.joc.5b00006
+J. Org. Chem. 2015, 80, 3664−3669
+
+

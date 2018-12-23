@@ -1,0 +1,683 @@
+Note
+
+pubs.acs.org/joc
+
+Synthesis of Hexahydro‑1H‑isoindole Derivatives from Arylacyl
+Bromides via Homoallenic Bromohydrins
+Mei-Huey Lin,* Yi-Syuan Li, Chung-Kai Kuo, Chung-Hao Chen, Yen-Chih Huang, Kung-Yu Liang,
+Yu-Chun Chen, Chang-Hsien Tsai, and Tsung-Hsun Chuang
+
+Department of Chemistry, National Changhua University of Education, Changhua, Taiwan 50007
+
+*S Supporting Information
+
+ABSTRACT: A procedure has been developed for the concise synthesis of hexahydro-1H-isoindole derivatives starting from
+phenacyl bromides. The approach employs a sequence involving an initial indium-mediated allenylation reaction of an arylacyl
+bromide with propargyl bromide. This process is followed by FeBr3-mediated SN2′-type substitution reaction of the formed
+homoallenic bromohydrin to produce a 2,5-dibromo-4-aryl-1,3-pentadiene, which then is subjected to a sequential, one-pot N-
+alkylation reaction with N-allyl-N-(p-tosyl)amine and a highly diastereoselective intramolecular Diels−Alder reaction of the
+formed ene-diene to generate the target hexahydro-1H-isoindole.
+
+S ubstances possessing the 3a-phenyl-isoindoline ring system
+
+display potent analgesic activities.1 As a result, methods for
+the preparation of this unique structural scaﬀold are in high
+demand. One obvious approach to construct
+fused
+heterocyclic framework, by using an intramolecular [4 + 2]
+starting with α-
+cycloaddition and N-alkylation protocol
+bromomethylstyrene and pentadienyl amine, failed, owing to
+the inherent instability of the amine (a, Scheme 1).1 In another
+
+this
+
+Scheme 1. Synthesis of Polyhydro-1H-isoindoles
+
+initial
+approach to the polyhydro-1H-isoindole scaﬀold,
+secondary amine induced ring opening of
+thiophene-1,1-
+dioxide to form the azatriene was found to take place in only
+a 31% yield, and the ensuing intramolecular Diels−Alder
+reaction was low yielding (11%, b, Scheme 1).2 Other examples
+of strategies devised for synthesis of polyhydro-1H-isoindoles
+rely on key rhodium(I)-catalyzed,3
+thermo,4 and BCl3-
+
+promoted intramolecular Diels−Alder
+reactions.5 Recently,
+the novel cis-octahydro-1H-isoindole 1 was shown to be a
+potent triple serotonin, norepinephrine, and dopamine trans-
+porter inhibitor for use as a potential drug to treat depression.6
+The construction of the skeleton of 1 was accomplished by
+employing either a palladium-catalyzed arylation reaction of a
+fused γ-lactone or a Diels−Alder reaction of an aryl-maleic
+anhydride (c and d, Scheme 1).
+<para sub=“ques”>
+In the study described below, we explored a new method for
+the synthesis of cis-bicyclic-polyhydro-1H-isoindoles containing
+a stereogenic, quaternary, aryl-substituted bridgehead carbon.
+For this purpose, we designed an approach that relies on an
+intramolecular [4 + 2] cycloaddition reaction of an amine
+tethered ene-aryldiene. Recently, we described a method for the
+eﬃcient synthesis of homoallenic halohydrins 2 (Scheme 2)
+that
+involves an indium-mediated allenylation reaction of
+arylacyl halides with propargyl bromide in aqueous media.7 In
+a manner that is similar to the reported generation of 2-halo-
+1,3-dienes by using halide-ion-promoted SN2′-type substitution
+reactions of allenols,8 we observed that 2-aryl-1,4-dibromo-
+penta-2,4-dienes 3 can be prepared by reactions of homoallenic
+bromohydrins 2 with FeBr3. We envisioned that bromo-dienes
+3 would serve as eﬀective substrates
+in reactions with
+allylamines that take place by a one-pot, sequential nucleophilic
+substitution and intramolecular [4 + 2] cycloaddition of the
+intermediate amine tethered ene-dienes. If valid, the proposed
+pathway would serve as a simple method for the synthesis of
+7a-aryl-6-bromo-hexahydro-1H-isoindoles 4 (Scheme 2).
+</para>
+<para sub=“opt”>
+In order to evaluate the feasibility of the new strategy for
+aryl-hexahydro-1H-isoindole synthesis, homoallenic bromohy-
+</para>
+Received:
+January 11, 2015
+Published: February 1, 2015
+
+© 2015 American Chemical Society
+
+2462
+
+DOI: 10.1021/acs.joc.5b00072
+J. Org. Chem. 2015, 80, 2462−2466
+
+The Journal of Organic Chemistry
+
+Scheme 2
+
+Note
+<para sub=“opt”>
+drin 2a was subjected to SN2′-type substitution reaction
+conditions using various amounts of
+ferric bromide (Table
+1). The results show that bromo-diene 3a is produced as the
+</para>
+Table 1. FeBr3-Mediated SN2′-Type Substitution Reactionsa
+
+Table 2. Preparation of 2-Aryl-1,4-dibromopenta-2,4-dienes
+3a,b
+
+entry
+
+FeBr3 (mol %)
+
+3a′, yield (%)
+
+3a, yield (%)
+
+1
+2
+3
+4
+
+30
+35
+40
+60
+
+4
+5
+5
+5
+
+60
+63
+86
+86
+
+aConditions: 2a (0.5 mmol) and FeBr3 as indicated in CH2Cl2 (4.0
+mL) at 25−28 °C for 2 h.
+<para sub=“opt”>
+major product in these reactions along with small amounts of
+enone 3a′, which can be easily removed by using chromatog-
+raphy. Because the yield of 3a is not improved signiﬁcantly by
+using larger amounts of ferric bromide (Table 1, entry 3 vs 4),
+ideal conditions for this process involve the use of 40 mol % of
+ferric bromide. An examination of the 3a showed that it is
+stable when stored below 0 °C but that it slowly decomposes at
+room temperature.
+</para>
+<para sub="scope">
+The preparation and FeBr3-promoted reactions of a variety of
+aryl-substituted homoallenic bromohydrins 2 were explored
+next (Table 2). The results show that
+indium-mediated
+allenylation reactions of arylacyl bromides with propargyl
+bromide in aqueous media take place to form the desired
+homoallenic bromohydrins in high yields along with small
+amounts of both the propargyl analogues and corresponding
+methylketones, generated by direct reduction of the arylacyl
+bromides. Pure homoallenic bromohydrins 2a, 2e, and 2g,
+obtained by using the previously described chromatographic
+procedure,7 were observed to undergo FeBr3-mediated SN2′-
+type substitution reactions to give the respective bromo-dienes
+3a, 3e, and 3g in high yields (Table 2, entries 1, 5, and 7).
+Alternatively, the crude mixtures generated in the indium-
+mediated allenylation reactions were subjected to the FeBr3-
+mediated SN2′-type substitution reaction conditions. The
+results of these two-step reactions, listed in Table 2 (entries
+2−4, 6, and 8), show that bromo-dienes 3 are generated in
+modest yields even when puriﬁcations of the intermediate
+homoallenic bromohydrins 2 are not performed. It is worth
+noting that the FeBr3-mediated SN2′-type substitution reactions
+of homoallenic bromohydrins 2 not only occur with high levels
+of regioselectivity but also form the Z-stereoisomers selectively,
+as was demonstrated by using X-ray crystallographic analysis of
+3e.9
+</para>
+<para sub=“opt”>
+The key step in the proposed route for synthesis of 7a-aryl-6-
+bromo-hexahydro-1H-isoindoles 4, involving one-pot formation
+of ene-diene, followed by intramolecular Diels−Alder cyclo-
+addition, was examined next. For this purpose, reactions of 3c
+</para>
+aConditions: 2 (0.5 mmol) and FeBr3 (0.2 mmol) in CH2Cl2 (4.0
+mL) at 25−28 °C for 2 h. bTwo-step overall yield.
+<para sub=“opt”>
+with N-allyl-N-(p-tosyl)amine in the presence of various bases
+and solvents were explored (Table 3). The results show that
+the nature of the base plays a crucial role in this process,
+exempliﬁed by the observation that the Diels−Alder product 4c
+</para>
+Table 3. Reactions of Bromo-Diene 3c through One-Pot,
+Sequential Formation of Ene-Diene, Followed by
+Intramolecular Diels−Alder Reactiona
+
+entry
+
+substrate
+
+base
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+3c
+3c
+3c
+3c
+3c
+3c
+3c
+3c
+3c
+
+Et3N
+DBU
+guanidine carbonate
+Cs2CO3
+K2CO3
+K2CO3
+K2CO3
+K2CO3
+K2CO3
+
+solvent
+CH3CN
+CH3CN
+CH3CN
+CH3CN
+CH3CN
+DCE
+EtOH
+dioxane
+toluene
+
+4c, yield (%)
+
+0
+0
+0
+58
+70
+0
+41
+31
+0
+
+aConditions: 3c (0.6 mmol), N-allyl-N-(p-tosyl)amine (0.5 mmol),
+and indicated base (1.0 mmol) in solvent (3.0 mL) at reﬂux for 12 h.
+
+2463
+
+DOI: 10.1021/acs.joc.5b00072
+J. Org. Chem. 2015, 80, 2462−2466
+
+The Journal of Organic Chemistry
+<para sub=“opt”>
+is not
+formed when triethylamine, DBU, and guanidine
+carbonate are employed (Table 3, entries 1−3). In contrast,
+inorganic bases such as cesium carbonate and potassium
+carbonate promoted formation of the target 4c in respective
+58% and 70% yields (Table 3, entries 4 and 5). A screen of
+solvents showed that acetonitrile is an ideal solvent for the two-
+step process. Importantly, neither the precursor ene-diene nor
+the cyclization product 4c is formed in reactions in dichloro-
+ethane or toluene (Table 3, entries 6 and 9) and that 4c is
+generated in low yields when ethanol and dioxane are
+employed as solvents (Table 3, entries 7 and 8). A single
+diastereoisomer is produced in the reaction of 3c with N-allyl-
+N-(p-tosyl)amine. The stereochemistry of the fused-bicyclic
+ring system in 4c was shown to be cis by using X-ray
+crystallographic analysis.10
+</para>
+<para sub="scope">
+An exploration of the scope of the one-pot reaction of
+bromo-dienes 3 with N-allyl-N-(p-tosyl)amine showed that it
+serves as a general method for the synthesis of a variety of 7a-
+aryl-6-bromo-hexahydro-1H-isoindoles 4 (Scheme 3).11 Finally,
+</para>
+Scheme 3. Scope of One-Pot Formation of Ene-Diene,
+Followed by an Intramolecular Diels−Alder Reactiona
+
+aConditions: 3 (0.6 mmol), N-allyl-N-(p-tosyl)amine (0.5 mmol), and
+K2CO3 (1.0 mmol) in CH3CN (3.0 mL) at reﬂux for 12 h.
+<para sub="scope">
+in contrast to these processes, reaction of bromo-diene 3c with
+allylamine leads to formation of the N-allyl-pyrrole 5c (Scheme
+4). The formation of 5c likely occurs by intramolecular N-
+vinylation of
+formed by initial
+substitution reaction of bromo-diene 3c with allylamine.
+
+the secondary amine 4c′
+</para>
+
+Scheme 4. Formation of N-Allyl-Pyrrole 5c
+
+Note
+
+In conclusion, the studies described above have led to the
+development of a simple method for the preparation of (Z)-2-
+aryl-1,4-dibromopenta-2,4-dienes 3 from phenacyl bromides
+and an application of
+these dienes to the synthesis of
+hexahydro-1H-isoindole derivatives.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Information and Materials. All commercially available
+chemicals were used without further puriﬁcation. TLC analyses were
+run on a TLC glass plate (Silica gel 60 F254) and were visualized using
+UV and a solution of phosphomolybdic acid in ethanol (5 wt %) or p-
+anisaldehyde stain. Flash chromatography was performed using silica
+gel (70−230 mesh). 1H spectra were recorded on a 300 MHz
+spectrometer. 13C NMR spectra were recorded on a 75 MHz with
+complete proton decoupling spectrometer. Chemical shifts are
+reported relative to CHCl3 [δ
+C (central line) 77.0]. Mass
+spectra were recorded under electron impact
+ionization (EI)
+conditions, and high-resolution mass spectra were recorded by
+electron impact ionization with magnetic sector.
+
+H 7.24, δ
+
+General Procedure for the Synthesis of Bromo-Dienes 3
+from Homoallenic Bromohydrins 2. A mixture of homoallenic
+bromohydrin 2 (0.5 mmol)7 and FeBr3 (59 mg, 0.2 mmol) in CH2Cl2
+(4 mL) was stirred at ambient temperature (25−28 °C), After 2 h,
+CH2Cl2 (2 mL) and 2 N HCl aqueous solution (2 mL) were added to
+the reaction, and the mixture was transferred to a separatory funnel.
+The aqueous layer was back extracted with CH2Cl2 (2 mL × 2). The
+combined organic layers were dried over MgSO4 and concentrated in a
+rotary evaporator. The residue was puriﬁed by silica gel chromatog-
+raphy using hexanes as eluent to give the product 3.
+
+(Z)-(1,4-Dibromopenta-2,4-dien-2-yl)benzene (3a). Following the
+general procedure, the title compound was obtained (130 mg, 86%). A
+yellow oil; TLC (Et2O/hexanes (1:5)) Rf = 0.70; 1H NMR (300 MHz,
+CDCl3) δ 4.52 (s, 2 H), 5.89 (d, J = 1.8 Hz, 1 H), 6.17 (t, J = 1.8 Hz, 1
+H), 6.43 (d, J = 1.8 Hz, 1 H), 7.34−7.40 (m, 3 H), 7.48 (d, J = 8.7 Hz,
+2 H); 13C NMR (75 MHz, CDCl3) δ 28.8 (CH2), 121.0 (CH2), 125.1
+(C), 126.4 (CH × 2), 128.6 (CH × 2), 128.7 (CH), 130.7 (CH),
+137.9 (C), 139.1 (C); IR (neat) 3068, 1688, 1595 cm−1; EI-MS m/z
+(rel intensity) 300 ([M]+, 0.1), 223 (11), 141 (100), 115 (20); HRMS
+[M]+ calcd for C11H10Br2: 299.9149, found 299.9142.
+
+(Z)-1-(1,4-Dibromopenta-2,4-dien-2-yl)-4-methoxybenzene (3e).
+Following the general procedure, the title compound was obtained
+(116 mg, 70%). A yellow solid, mp 58−59 °C; TLC (Et2O/hexanes
+(1:4)) Rf = 0.60; 1H NMR (300 MHz, CDCl3) δ 3.81 (s, 3 H), 4.50 (s,
+2 H), 5.85 (d, J = 1.8 Hz, 1 H), 6.13 (t, J = 1.8 Hz, 1 H), 6.37 (d, J =
+1.8 Hz, 1 H), 6.90 (d, J = 7.8 Hz, 2 H), 7.43 (d, J = 7.8 Hz, 2 H); 13C
+NMR (75 MHz, CDCl3) δ 28.9 (CH2), 52.2 (CH3), 113.9 (CH × 2),
+120.6 (CH2), 125.4 (C), 127.5 (CH × 2), 129.0 (CH), 129.8 (C),
+138.4 (C), 159.9 (C); IR (KBr) 3030, 1607, 1506 cm−1; EI-MS m/z
+(rel intensity) 332 ([M + 2]+, 7), 330 ([M]+, 4), 251 (100), 172 (88);
+HRMS [M]+ calcd for C12H12Br2O: 329.9255, found 329.9265.
+
+(Z)-1-(1,4-Dibromopenta-2,4-dien-2-yl)-2-methoxybenzene (3g).
+Following the general procedure, the title compound was obtained
+</para>
+2464
+
+DOI: 10.1021/acs.joc.5b00072
+J. Org. Chem. 2015, 80, 2462−2466
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(125 mg, 75%). An oﬀ-white solid, mp 47−49 °C; TLC (Et2O/
+hexanes (1:5)) Rf = 0.70; 1H NMR (300 MHz, CDCl3) δ 3.83 (s, 3
+H), 4.67 (s, 2 H), 5.89 (d, J = 1.8 Hz, 1 H), 6.17 (t, J = 1.8 Hz, 2 H),
+6.90 (d, J = 7.8 Hz, 1 H), 6.99 (t, J = 7.8 Hz, 1 H), 7.22 (d, J = 7.8 Hz,
+1 H), 7.35 (d, J = 7.8 Hz, 1 H); 13C NMR (75 MHz, CDCl3) δ 30.2
+(CH2), 55.2 (CH3), 110.5 (CH), 120.5 (CH), 120.8 (CH2), 124.7
+(C), 127.8 (C), 129.7 (CH), 131.0 (CH), 132.4 (CH), 139.7 (C),
+156.3 (C); IR (KBr) 3003, 1590, 1488 cm−1; EI-MS m/z (rel
+intensity) 330 ([M]+, 0.2), 298 (39), 251 (100), 172 (55); HRMS
+[M]+ calcd for C12H12Br2O: 329.9255, found 329.9245.
+
+General Procedure for the 2-Step Sequence To Form
+Bromo-dienes 3 from Arylacyl Bromides. A mixture of propargyl
+bromide (1.0 mL, 14.4 mmol), indium powder (325 mesh, 1.4 g, 12.0
+mmol), and arylacyl bromide (8.0 mmol) in THF/H2O (12.0 mL/4.0
+mL) was stirred at ambient temperature (25−28 °C). Reaction was
+monitored by TLC until no starting material was observed, and
+normally the reaction was stirred at rt overnight. Et2O (20 mL) and
+water (20 mL) was then added to the reaction, and the mixture was
+transferred to a separatory funnel. The aqueous layer was back
+extracted with Et2O (20 mL × 2). The combined organic layers were
+washed with brine (20 mL), dried over MgSO4, and concentrated in a
+rotary evaporator. The residue was puriﬁed by a short silica gel plug
+with using hexanes (100 mL) and then Et2O/hexanes (1:20, 100 mL)
+as eluent to give the crude product 2. The crude mixture was dissolved
+in CH2Cl2 (42 mL), and then FeBr3 (612 mg, 2.1 mmol)) was added.
+The resulting mixture was stirred at ambient temperature (25−28 °C)
+for 2 h. Then, CH2Cl2 (20 mL) and 2 N HCl aqueous solution (20
+mL) were added to the reaction, and the mixture was transferred to a
+separatory funnel. The aqueous layer was back extracted with CH2Cl2
+(20 mL × 2). The combined organic layers were dried over MgSO4
+and concentrated in a rotary evaporator. The residue was puriﬁed by
+silica gel chromatography using hexanes as eluent to give the product
+3.
+
+(Z)-1-Bromo-4-(1,4-dibromopenta-2,4-dien-2-yl)benzene (3b).
+Following the general procedure, the title compound was obtained
+(1.8 g, 58%). A yellow oil; TLC (Et2O/hexanes (1:5)) Rf = 0.75; 1H
+NMR (300 MHz, CDCl3) δ 4.46 (s, 2 H), 5.89 (d, J = 1.8 Hz, 1 H),
+6.15 (t, J = 1.8 Hz, 1 H), 6.40 (d, J = 1.8 Hz, 1 H), 7.34 (d, J = 8.7 Hz,
+2 H), 7.48 (d, J = 8.7 Hz, 2 H); 13C NMR (75 MHz, CDCl3) δ 28.4
+(CH2), 121.3 (CH2), 122.9 (C), 124.7 (C), 128.0 (CH × 2), 131.0
+(CH), 131.8 (CH × 2), 136.8 (C), 138.0 (C); IR (neat) 3030, 1587,
+1496 cm−1; EI-MS m/z (rel intensity) 378 ([M]+, 0.3), 303 (22), 221
+(33), 141 (100); HRMS [M]+ calcd for C11H9Br3: 377.8254, found
+377.8253.
+
+(Z)-1-Chloro-4-(1,4-dibromopenta-2,4-dien-2-yl)benzene (3c).
+Following the general procedure, the title compound was obtained
+(1.3 g, 49%). A yellow solid, mp 42−44 °C; TLC (Et2O/hexanes
+(1:5)) Rf = 0.75; 1H NMR (300 MHz, CDCl3) δ 4.47 (s, 2 H), 5.89
+(d, J = 1.8 Hz, 1 H), 6.15 (t, J = 1.8 Hz, 1 H), 6.40 (d, J = 1.8 Hz, 1
+H), 7.35 (d, J = 8.7 Hz, 2 H), 7.41 (d, J = 8.7 Hz, 2 H); 13C NMR (75
+MHz, CDCl3) δ 28.5 (CH2), 121.3 (CH2), 124.7 (C), 127.7 (CH ×
+2), 128.8 (CH × 2), 131.0 (CH), 134.7 (C), 136.3 (C), 138.0 (C); IR
+(KBr) 3030, 1597, 1440 cm−1; EI-MS m/z (rel intensity) 334 ([M]+,
+4), 257 (68), 176 (99), 141 (100); HRMS [M]+ calcd for C11H9Br2
+Cl: 333.8760, found 333.8761.
+
+(Z)-1-(1,4-Dibromopenta-2,4-dien-2-yl)-4-methylbenzene (3d).
+Following the general procedure, the title compound was obtained
+(1.3 g, 50%). A yellow oil; TLC (Et2O/hexanes (1:5)) Rf = 0.75; 1H
+NMR (300 MHz, CDCl3) δ 2.40 (s, 3 H), 4.54 (s, 2 H), 5.91 (d, J =
+1.8 Hz, 1 H), 6.19 (t, J = 1.8 Hz, 1 H), 6.46 (d, J = 1.8 Hz, 1 H), 7.22
+(d, J = 7.8 Hz, 2 H), 7.42 (d, J = 7.8 Hz, 2 H); 13C NMR (75 MHz,
+CDCl3) δ 21.1 (CH3), 28.8 (CH2), 120.7 (CH2), 125.2 (C), 126.1
+(CH × 2), 129.3 (CH × 2), 129.8 (CH), 134.7 (C), 138.6 (C), 138.8
+(C); IR (neat) 3038, 1605, 1441 cm−1; EI-MS m/z (rel intensity) 314
+([M]+, 5), 251 (36), 237 (82), 156 (100); HRMS [M]+ calcd for
+C12H12Br2: 313.9306, found 313.9303.
+
+(Z)-1-(1,4-Dibromopenta-2,4-dien-2-yl)-3-methoxybenzene (3f).
+Following the general procedure, the title compound was obtained
+(1.2 g, 45%). A yellow oil; TLC (Et2O/hexanes (1:5)) Rf = 0.63; 1H
+NMR (300 MHz, CDCl3) δ 3.82 (s, 3 H), 4.49 (s, 2 H), 5.87 (d, J =
+
+Note
+1.8 Hz, 1 H), 6.16 (t, J = 1.8 Hz, 1 H), 6.42 (d, J = 1.8 Hz, 1 H), 6.87−
+6.90 (m, 1 H), 7.00−7.07 (m, 2 H), 7.29 (d, J = 8.1 Hz, 1 H); 13C
+NMR (75 MHz, CDCl3) δ 28.8 (CH2), 55.1 (CH3), 112.2 (CH),
+113.8 (CH), 118.6 (CH), 121.0 (CH2), 124.9 (C), 129.5 (CH), 130.7
+(CH), 138.9 (C), 139.2 (C), 159.5 (C); IR (KBr) 2938, 1616, 1487
+cm−1; EI-MS m/z (rel intensity) 332 ([M + 2]+, 4), 330 ([M]+, 2),
+251 (100), 172 (73); HRMS [M]+ calcd for C12H12Br2O: 329.9255,
+found 329.9260.
+
+(Z)-2-(1,4-Dibromopenta-2,4-dien-2-yl)naphthalene (3h). Follow-
+ing the general procedure, the title compound was obtained (1.3 g,
+46%). A yellow solid, mp 57−58 °C; TLC (Et2O/hexanes (1:5)) Rf =
+0.70; 1H NMR (300 MHz, CDCl3) δ 4.63 (s, 2 H), 5.91 (d, J = 1.8 Hz,
+1 H), 6.21 (t, J = 1.8 Hz, 1 H), 6.57 (d, J = 1.8 Hz, 1 H), 7.47−7.60
+(m, 3 H), 7.80−7.87 (m, 3 H), 7.95 (s, 1H); 13C NMR (75 MHz,
+CDCl3) δ 28.8 (CH2), 121.1 (CH2), 123.7 (CH), 125.1 (C), 125.9
+(CH), 126.4 (CH), 126.5 (CH), 127.5 (CH), 128.3 (CH × 2), 131.0
+(CH), 133.1 (C), 133.2(C), 134.9 (C), 138.9 (C); IR (KBr) 3067,
+1601, 1217 cm−1; EI-MS m/z (rel intensity) 352 ([M + 2]+, 3), 350
+([M]+, 1), 271 (33), 192 (100); HRMS [M]+ calcd for C15H12Br2:
+349.9306, found 349.9315.
+
+General Procedure for the Synthesis Hexahydro-1H-iso-
+indoles 4. A mixture of bromo-diene 3 (0.6 mmol), N-allyl-N-(p-
+tosyl)amine (110 mg, 0.5 mmol), and K2CO3 (138 mg, 1.0 mmol) in
+CH3CN (3.0 mL) was stirred at 87 °C overnight. The mixture was
+cooled to ambient temperature (25−28 °C) and ﬁltered through a
+ﬁlter paper. The ﬁltrate was transferred to a separatory funnel,
+followed by addition of CH2Cl2 (10 mL) and water (10 mL). The
+aqueous layer was back extracted with CH2Cl2 (5 mL × 2). The
+combined organic layers were washed with brine (10 mL), dried over
+MgSO4, and concentrated in a rotary evaporator. The crude product
+was triturated with Et2O (5 mL), followed by ﬁltration to give the
+product 4.
+
+6-Bromo-7a-phenyl-2-tosyl-2,3,3a,4,5,7a-hexahydro-1H-isoin-
+dole (4a). Following the general procedure, the title compound was
+obtained (176 mg, 68%). A yellow solid, mp 86−87 °C; TLC (Et2O/
+hexanes (1:2)) Rf = 0.50; 1H NMR (300 MHz, CDCl3) δ 1.36−1.60
+(m, 2 H), 2.32−2.43 (m, 3 H), 2.45 (s, 3 H), 3.14 (dd, J = 9.9, 7.5 Hz,
+1 H), 3.42 (d, J = 10.5 Hz, 1 H), 3.50 (dd, J = 9.9, 7.5 Hz, 1 H), 3.72
+(d, J = 10.5 Hz, 1 H), 5.76 (s, 1 H), 7.15−7.35 (m, 7 H), 7.71 (d J =
+8.1 Hz, 2 H); 13C NMR (75 MHz, CDCl3) δ 21.5 (CH3), 22.2 (CH2),
+31.0 (CH2), 42.5 (CH), 49.8 (CH2), 52.4 (C), 58.3 (CH2), 123.5 (C),
+126.3 (CH × 2), 127.0 (CH × 2), 127.2 (CH), 128.5 (CH × 2), 129.7
+(CH × 2), 131.3 (CH), 133.4 (C), 142.2 (C), 143.6 (C); IR (neat)
+2931, 1596, 1339 cm−1; EI-MS m/z (rel intensity) 431 ([M]+, 3), 352
+(34), 239 (33), 198 (100); HRMS [M]+ calcd for C21H22BrNO2S:
+431.0555, found 431.0559.
+
+6-Bromo-7a-(4-bromophenyl)-2-tosyl-2,3,3a,4,5,7a-hexahydro-
+1H-isoindole (4b). Following the general procedure,
+the title
+compound was obtained (233 mg, 76%). A yellow solid, mp 188−
+190 °C; TLC (Et2O/hexanes (1:5)) Rf = 0.75; 1H NMR (300 MHz,
+CDCl3) δ 1.41−1.61 (m, 2 H), 2.32−2.38 (m, 3 H), 2.43 (s, 3 H),
+3.12 (dd, J = 9.9, 7.2 Hz, 1 H), 3.38 (d, J = 10.8 Hz, 1 H), 3.49 (dd, J =
+9.9, 7.5 Hz, 1 H), 3.69 (d, J = 10.8 Hz, 1 H), 5.72 (s, 1 H), 7.04 (d, J =
+8.4 Hz, 2 H), 7.32−7.39 (m, 4 H), 7.69 (d J = 8.4 Hz, 2 H); 13C NMR
+(75 MHz, CDCl3) δ 21.6 (CH3), 22.5 (CH2), 31.2 (CH2), 42.8 (CH),
+50.0 (CH2), 52.2 (C), 58.1 (CH2), 121.1 (C), 124.0 (C), 127.2 (CH ×
+2), 128.2 (CH × 2), 129.8 (CH), 130.7 (CH × 2), 131.6 (CH × 2),
+133.4 (C), 141.5 (C), 143.8 (C); IR (neat) 2931, 1474, 1340 cm−1;
+EI-MS m/z (rel intensity) 509 ([M]+, 2), 411 (25), 343 (38), 198
+(100); HRMS [M]+ calcd for C21H21Br2NO2S: 508.9660,
+found
+508.9654.
+
+6-Bromo-7a-(4-chlorophenyl)-2-tosyl-2,3,3a,4,5,7a-hexahydro-
+1H-isoindole (4c). Following the general procedure,
+the title
+compound was obtained (196 mg, 70%). A white solid, mp 169−
+171 °C; TLC (Et2O/hexanes (1:2)) Rf = 0.38; 1H NMR (300 MHz,
+CDCl3) δ 1.38−1.59 (m, 2 H), 2.31−2.39 (m, 3 H), 2.42 (s, 3 H),
+3.11 (dd, J = 9.9, 7.2 Hz, 1 H), 3.38 (d, J = 10.5 Hz, 1 H), 3.47 (dd, J =
+9.9, 7.2 Hz, 1 H), 3.68 (d, J = 10.5 Hz, 1 H), 5.72 (s, 1 H), 7.09 (d, J =
+8.1 Hz, 2 H), 7.21 (d, J = 8.1 Hz, 2 H), 7.32 (d, J = 8.1 Hz, 2 H), 7.68
+(d, J = 8.1 Hz, 2 H); 13C NMR (75 MHz, CDCl3) δ 21.5 (CH3), 22.4
+</para>
+2465
+
+DOI: 10.1021/acs.joc.5b00072
+J. Org. Chem. 2015, 80, 2462−2466
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(CH2), 31.1 (CH2), 42.7 (CH), 49.9 (CH2), 52.1 (C), 58.2 (CH2),
+124.0 (C), 127.2 (CH × 2), 127.8 (CH × 2), 128.6 (CH × 2), 129.7
+(CH × 2), 130.7 (CH), 132.9 (C), 133.4 (C), 140.9 (C), 143.7 (C);
+IR (KBr) 2967, 1569, 1474 cm−1; EI-MS m/z (rel
+intensity) 465
+([M]+, 1), 386 (11), 284 (15), 198 (100); HRMS [M]+ calcd for
+C21H21BrClNO2S: 465.0165, found 465.0154.
+
+6-Bromo-7a-(p-tolyl)-2-tosyl-2,3,3a,4,5,7a-hexahydro-1H-isoin-
+dole (4d). Following the general procedure, the title compound was
+obtained (174 mg, 65%). A white solid, mp 164−165 °C; TLC (Et2O/
+hexanes (1:2)) Rf = 0.38; 1H NMR (300 MHz, CDCl3) δ 1.43−1.62
+(m, 2 H), 2.31 (s, 3 H), 2.32−2.43 (m, 3 H), 2.46 (s, 3 H), 3.13 (dd, J
+= 9.9, 7.2 Hz, 1 H), 3.39 (d, J = 10.5 Hz, 1 H), 3.50 (dd, J = 9.9, 7.2
+Hz, 1 H), 3.70 (d, J = 10.5 Hz, 1 H), 5.75 (s, 1 H), 7.06 (m, 4 H), 7.34
+(d, J = 8.1 Hz, 2 H), 7.71 (d, J = 8.1 Hz, 2 H); 13C NMR (75 MHz,
+CDCl3) δ 20.7 (CH3), 21.4 (CH3), 22.1 (CH2), 31.9 (CH2), 42.4
+(CH), 49.8 (CH2), 52.1 (C), 58.4 (CH2), 123.3 (C), 126.1 (CH × 2),
+127.1 (CH × 2), 129.1 (CH × 2), 129.7 (CH × 2), 131.4 (CH), 133.4
+(C), 136.6 (C), 139.0 (C), 143.5 (C); IR (KBr) 2933, 1329, 1172
+cm−1; EI-MS m/z (rel intensity) 445 ([M]+, 2), 366 (31), 290 (42),
+198 (100); HRMS [M]+ calcd for C22H24BrNO2S: 445.0711, found
+445.0701.
+
+6-Bromo-7a-(4-methoxyphenyl)-2-tosyl-2,3,3a,4,5,7a-hexa-
+hydro-1H-isoindole (4e). Following the general procedure, the title
+compound was obtained (225 mg, 81%). A yellow solid, mp 164−166
+°C; TLC (Et2O/hexanes (1:2)) Rf = 0.38; 1H NMR (300 MHz,
+CDCl3) δ 1.38−1.59 (m, 2 H), 2.33−2.38 (m, 3 H), 2.41 (s, 3 H),
+3.11 (dd, J = 9.9, 7.2 Hz, 1 H), 3.38 (d, J = 10.5 Hz, 1 H), 3.46 (dd, J =
+9.9, 7.2 Hz, 1 H), 3.66 (d, J = 10.5 Hz, 1 H), 3.73 (s, 3 H), 5.72 (s, 1
+H), 6.77 (d, J = 8.7 Hz, 2 H), 7.07 (d, J = 8.7 Hz, 2 H), 7.32 (d, J = 8.4
+Hz, 2 H), 7.69 (d, J = 8.4 Hz, 2 H); 13C NMR (75 MHz, CDCl3) δ
+21.4 (CH3), 22.1 (CH2), 30.9 (CH2), 42.6 (CH), 49.8 (C), 51.8
+(CH2), 55.1 (CH3), 58.4 (CH2), 113.7 (CH × 2), 123.3 (C), 127.1
+(CH × 2), 127.4 (CH × 2), 129.7 (CH × 2), 131.4 (CH), 133.4 (C),
+133.9 (C), 143.5 (C), 158.3 (C); IR (KBr) 2925, 1329, 1172 cm−1; EI-
+MS m/z (rel intensity) 461 ([M]+, 8), 306 (58), 242 (33), 198 (100);
+HRMS [M]+ calcd for C22H24BrNO3S: 461.0660, found 461.0657.
+
+6-Bromo-7a-(3-methoxyphenyl)-2-tosyl-2,3,3a,4,5,7a-hexa-
+hydro-1H-isoindole (4f). Following the general procedure, the title
+compound was obtained (191 mg, 69%). A yellow solid, mp 164−166
+°C; TLC (Et2O/hexanes (1:2)) Rf = 0.38; 1H NMR (300 MHz,
+CDCl3) δ 1.41−1.62 (m, 2 H), 2.31−2.49 (m, 6 H), 3.14 (dd, J = 9.6,
+7.8 Hz, 1 H), 3.41 (d, J = 10.8 Hz, 1 H), 3.50 (dd, J = 9.6, 7.8 Hz, 1
+H), 3.68 (d, J = 10.8 Hz, 1 H), 3.75 (s, 3 H), 5.74 (s, 1 H), 6.72−6.76
+(m, 3 H), 7.15−7.21 (m, 1 H), 7.33 (d, J = 8.1 Hz, 2 H), 7.70 (d, J =
+8.1 Hz, 2 H); 13C NMR (75 MHz, CDCl3) δ 21.6 (CH3), 22.2 (CH2),
+31.0 (CH2), 42.4 (CH), 49.9 (CH2), 52.5 (C), 55.2 (CH3), 58.7
+(CH2), 111.7 (CH), 113.2 (CH), 118.7 (CH), 123.7 (C), 127.3 (CH
+× 2), 129.7 (CH), 129.9 (CH × 2), 131.3 (CH), 133.5 (C), 143.8
+(C), 143.9 (C), 159.7 (C); IR (KBr) 2946, 1143, 1573 cm−1; EI-MS
+m/z (rel intensity) 461 ([M]+, 7), 382 (34), 306 (56), 198 (100);
+HRMS [M]+ calcd for C22H24BrNO3S: 461.0660, found 461.0657.
+
+6-Bromo-7a-(naphthalen-2-yl)-2-tosyl-2,3,3a,4,5,7a-hexahydro-
+1H-isoindole (4h). Following the general procedure,
+the title
+compound was obtained (200 mg, 69%). A yellow solid, mp 71−72
+°C; TLC (Et2O/hexanes (1:2)) Rf = 0.33; 1H NMR (300 MHz,
+CDCl3) δ 1.45−1.63 (m, 2 H), 2.36−2.40 (m, 2 H), 2.41 (s, 3 H),
+2.50−2.59 (m, 1 H), 3.20 (dd, J = 9.9, 7.5 Hz, 1 H), 3.49 (d, J = 10.8
+Hz, 1 H), 3.55 (dd, J = 9.9, 7.5 Hz, 1 H), 3.86 (d, J = 10.8 Hz, 1 H),
+5.87 (s, 1 H), 7.27−7.49 (m, 5 H), 7.56 (s, 1 H), 7.70−7.79 (m, 5 H);
+13C NMR (75 MHz, CDCl3) δ 21.2 (CH3), 21.9 (CH2), 30.8 (CH2),
+41.8 (CH), 49.6 (CH2), 52.3 (C), 58.0 (CH2), 123.4 (C), 123.8 (CH),
+125.1 (CH), 125.8 (CH), 125.9 (CH), 126.8 (CH × 2), 127.0 (CH),
+127.5 (CH), 128.1 (CH), 129.4 (CH × 2), 130.9 (CH), 131.7 (C),
+132.5 (C), 133.1 (C), 139.1 (C), 143.2 (C); IR (KBr) 2933, 1643,
+1341 cm−1; EI-MS m/z (rel intensity) 481 ([M]+, 9), 402 (21), 326
+(56), 198 (100); HRMS [M]+ calcd for C25H24BrNO2S: 481.0711,
+found 481.0706.
+</para>
+Note
+
+■ ASSOCIATED CONTENT
+*S Supporting Information
+X-ray crystallographic data (3e, 4c) and complete character-
+ization data (1H and 13C{1H} NMR data) for all compounds.
+This material
+is available free of charge via the Internet at
+http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: mhlin@cc.ncue.edu.tw (M.-H.L.).
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+Financial support from the Ministry of Science and Technology
+of the Republic of China, Taiwan, is gratefully acknowledged.
+We are also thankful for the assistance from Chang-Chih Hsieh
+and Hung-Chang Hsiao for the X-ray structure determination.
+
+■ REFERENCES
+
+(1) Gschwend, H. W.; Hillman, M. J.; Kisis, B. J. Org. Chem. 1976, 41,
+104.
+(2) Tsirk, A.; Gronowitz, S.; Hörnfeldt, A. B. Tetrahedron 1995, 51,
+7035.
+(3) O’Mahony, D. J. R.; Belanger, D. B.; Livinghouse, T. Org. Biomol.
+Chem. 2003, 1, 2038.
+(4) (a) Tsirk, A.; Gronowitz, S.; Hörnfeldt, A. B. Tetrahedron 1998,
+54, 9529. (b) Clary, K. N.; Parvez, M.; Back, T. G. Org. Biomol. Chem.
+2009, 7, 1226. (c) Thomas, E. J. Acc. Chem. Res. 1991, 24, 229.
+(d) Flores, B.; Molinski, T. Org. Lett. 2011, 13, 3932.
+(5) Hyodo, K.; Nakamura, S.; Shibata, N. Angew. Chem., Int. Ed.
+2012, 51, 10337.
+(6) Shao, L.; Hewitt, M. C.; Malcolm, S. C.; Wang, F.; Ma, J.;
+Campbell, U. C.; Spicer, N. A.; Engel, S. R.; Hardy, L. W.; Jiang, Z. D.;
+Schreiber, R.; Spear, K. L.; Varney, M. A. J. Med. Chem. 2011, 54, 5283.
+(7) Lin, M.-H.; Huang, Y.-C.; Kuo, C.-K.; Tsai, C.-H.; Li, Y.-S.; Hu,
+T.-C.; Chuang, T.-H. J. Org. Chem. 2014, 79, 2751.
+(8) (a) Ma, S.; Wang, G. Tetrahedron Lett. 2002, 43, 5723. (b) Cho,
+Y. S.; Jun, B. K.; Pae, A. N.; Cha, J. H.; Koh, H. Y.; Chang, M. H.; Han,
+S. Y. Synthesis 2004, 16, 2620. (c) Deng, Y.; Jin, X.; Ma, S. J. Org.
+Chem. 2007, 72, 5901. (d) A, J. M.; Lee, P. H. Bull. Korean Chem. Soc.
+2009, 30, 471. (e) Eom, D.; Kim, H.; Lee, P. H. Bull. Korean Chem.
+Soc. 2010, 31, 645. (f) Alcaide, B.; Almendros, P.; Luna, A.; Prieto, N.
+J. Org. Chem. 2012, 77, 11388.
+(9) The structure has been deposited with the Cambridge
+Crystallographic Data Centre (3e: CCDC 1042388). These data can
+be obtained free of charge from The Cambridge Crystallographic Data
+Centre via www.ccdc.cam.ac.uk/data_request/cif.
+(10) The structure has been deposited with the Cambridge
+Crystallographic Data Centre (4c: CCDC 1042387). These data can
+be obtained free of charge from The Cambridge Crystallographic Data
+Centre via www.ccdc.cam.ac.uk/data_request/cif.
+(11) Reaction of bromo-dienes 3 with N-propargyl-N-(p-tosyl)amine
+under the same condition gave the cyclization precursor yne-dienes,
+but no cyclization product was observed.
+
+2466
+
+DOI: 10.1021/acs.joc.5b00072
+J. Org. Chem. 2015, 80, 2462−2466
+
+

@@ -1,0 +1,937 @@
+Article
+
+pubs.acs.org/joc
+
+Copper-Mediated Formally Dehydrative Biaryl Coupling of Azine
+N‑Oxides and Oxazoles
+Riko Odani, Koji Hirano,* Tetsuya Satoh, and Masahiro Miura*
+
+Department of Applied Chemistry, Faculty of Engineering, Osaka University, Suita, Osaka 565-0871, Japan
+
+*S Supporting Information
+
+ABSTRACT: A copper-mediated formally dehydrative biaryl
+coupling of azine N-oxides and oxazoles has been developed.
+The C−C bond-forming process proceeds, accompanied by
+the removal of the oxygen atom from the azine core, to directly
+aﬀord the azine−oxazole biaryl linkage. Moreover, this system
+requires no noble transition metals such as palladium and
+rhodium, which are common promotors in the related
+dehydrogenative couplings with the azine N-oxide. Thus, the present protocol can provide a unique and less expensive
+approach to the azine-containing biheteroaryls of substantial interest in pharmaceutical and medicinal chemistry.
+
+■ INTRODUCTION
+
+Pyridines are representative six-membered N-heteroaromatics
+and constitute an important class of compounds in organic
+chemistry. Particularly, pyridine-containing heterobiaryls are
+prevalent structural motifs in biologically active compounds and
+natural products.1 The most reliable approach to the above
+heteroaromatic cores is the transition-metal-catalyzed cross-
+coupling reaction with (hetero)aryl halides and (hetero)-
+arylmetals.2 However, recent advances in metal-promoted C−
+H activation3 can obviate prefunctionalization steps, such as
+halogenation or stoichiometric metalation, of starting (hetero)-
+arenes and provide a useful complement to the conventional
+cross-coupling technology. However, probably because of their
+electron deﬁciency, the direct C−H arylation of pyridine and
+related azine compounds still remains a challenge, except for
+several cases.4 To overcome such a lower reactivity of the azines
+toward direct arylation, an appropriate activating substituent,
+namely, an oxygen atom5 or an acylated imino group,6 is
+introduced to the nitrogen atom on the azine ring. In particular,
+the oxygen-based activation strategy has made great progress
+and now allows the otherwise reluctant azine core to be
+adopted in the metal-catalyzed C−H arylation with aryl halides
+or organometallic reagents (Scheme 1a)5c−g and even more
+challenging C−H/C−H coupling with simple arenes or
+heteroarenes (Scheme 1b).7 Although the latter process is
+especially appealing because both starting materials are
+nonhalogenated and nonmetalated and azine-heteroarene
+conjugations of biological importance are readily accessible,7b−i
+an additional deoxygenation step is inevitable for obtaining the
+desired azine-containing heterobiaryls.
+
+Meanwhile, our group8 and others9 recently focused on the
+unique reactivity of less expensive and abundant copper salts in
+C−H functionalization and developed some noble-metal-free,
+copper-mediated C−H/C−H biaryl couplings. During our
+continuous interest in this research ﬁeld, we next tested the
+azine N-oxide as a coupling partner10 for oxazoles in copper-
+
+from the above precedents,
+
+promoted dehydrogenative biaryl coupling. The C−C bond
+forming reaction proceeded, however, with concomitant
+unexpected removal of the oxygen from the azine aromatic
+core to directly furnish the azine−oxazole π-conjugation
+(Scheme 1c). Diﬀerent
+the
+copper-based system required no individual reduction step for
+the removal of the oxygen from the coupling products. Similar
+deoxygenative C2-arylations of azine N-oxides are reported, but
+they employ prefunctionalized, reactive aryl nucleophiles such
+as Grignard reagents5f or arylboronates5g (Scheme 1a). In this
+work, we report
+the copper-mediated formally
+dehydrative biaryl coupling of azine N-oxides and oxazoles.
+The present dehydrative coupling11 occurs even under noble-
+metal-free conditions and thus provides a unique and
+potentially eﬀective access to pyridine- and relevant azine-
+containing biheteroaryls of substantial interest in pharmaceut-
+ical and medicinal chemistry (Scheme 2). A related dehydrative
+coupling of azine N-oxides with alkenes under Pd catalysis was
+already reported by Cui and Wu,11a but
+the dehydrative
+coupling with (hetero)arenes is not trivial, to the best of our
+knowledge.
+
+in detail
+
+■ RESULTS AND DISCUSSION
+<para sub=“opt”>
+On the basis of our previous work on copper-mediated
+dehydrogenative biaryl coupling with 1,3-azoles,8 we ﬁrst tested
+the coupling reaction of quinoline N-oxide monohydrate (1a)
+with 5-phenyloxazole (2a) in heating o-xylene under
+representative Cu(OAc)2/PivOH-promoted conditions (Table
+1). To our delight, the C−C bond-forming reaction proceeded,
+but surprisingly, the observed product was not the originally
+expected 3aa-O but the formally dehydrative coupling product
+3aa (entry 1). Careful monitoring by GC and GCMS also
+indicated no formation of 3aa-O during the course of the
+</para>
+Received:
+Published:
+
+January 6, 2015
+January 22, 2015
+
+© 2015 American Chemical Society
+
+2384
+
+DOI: 10.1021/acs.joc.5b00037
+J. Org. Chem. 2015, 80, 2384−2391
+
+The Journal of Organic Chemistry
+Scheme 1. Approaches to 2-Arylpyridines via C−H Arylation of Pyridine N-Oxides
+
+Article
+
+Scheme 2. Copper-Mediated Formally Dehydrative Biaryl
+Coupling of Azine N-Oxides and Oxazoles
+<para sub=“opt”>
+reaction. The preliminary but intriguing result prompted us to
+optimize conditions for unique dehydrative coupling. The brief
+screening of carboxylic acids proved PivOH to be the optimal
+(entries 2 and 3). Subsequent investigations of bases showed
+positive eﬀects of pyridine (entry 4), while other organic and
+inorganic bases decreased the reaction eﬃciency (entries 5−
+10). Even with basic pyridine, the addition of PivOH was still
+necessary (entry 11). With 1a as the limiting reagent, the yield
+signiﬁcantly decreased (entry 12). Although we subjected other
+Cu(I) and Cu(II) salts instead of Cu(OAc)2, 3aa was formed in
+</para>
+Table 1. Optimization Studies for Copper-Mediated Formally Dehydrative Coupling of Quinoline N-Oxide monohydrate (1a)
+with 5-Phenyloxazole (2a)a
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12c
+13
+14
+15
+16
+17
+18d
+
+Cu (0.50 mmol)
+
+additives (0.25 mmol)
+
+yield of 3aa (%)b
+
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+Cu(OAc)2
+CuOAc
+CuO
+Cu2O
+CuI
+CuBr
+Cu(OAc)2
+
+PivOH
+none
+AcOH
+PivOH, pyridine
+PivOH, 2,6-lutidine
+PivOH, acridine
+PivOH, i-Pr2NEt
+PivOH, DBU
+PivOH, K2CO3
+PivOH, K3PO4
+pyridine
+PivOH, pyridine
+PivOH, pyridine
+PivOH, pyridine
+PivOH, pyridine
+PivOH, pyridine
+PivOH, pyridine
+PivOH, pyridine
+
+52 (48)
+41
+36
+59 (54)
+27
+50
+8
+13
+20
+3
+48 (41)
+34
+1
+0
+0
+0
+0
+0
+
+aReaction conditions: 1a (0.50 mmol), 2a (0.25 mmol), Cu (0.50 mmol), additives (0.25 mmol), solvent (1.5 mL), and N2. bGC yield. The yield is
+given in parentheses. cWith 1a (0.25 mmol) and 2a (0.50 mmol). dWith quinoline instead of quinoline N-oxide (1a).
+
+2385
+
+DOI: 10.1021/acs.joc.5b00037
+J. Org. Chem. 2015, 80, 2384−2391
+
+The Journal of Organic Chemistry
+Article
+Scheme 3. Copper-Mediated Formally Dehydrative Biaryl Coupling of Various Azine N-Oxides 1 with 5-Phenyloxazole (2a)a
+
+aThe formed C−C bonds are illustrated with a bold line. Reaction conditions: 1 (0.50 mmol), 2a (0.25 mmol), Cu(OAc)2 (0.50 mmol), PivOH
+(0.25 mmol), pyridine (0.25 mmol), o-xylene (1.5 mL), N2. Except for quinoline N-oxide monohydrate (1a), azine N-oxides were used as the
+nonhydrate. bOn a 1.0 mmol scale for 24 h. cGC yield. dWithout pyridine. eQuinoxaline 1,4-dioxide (0.25 mmol), 5-phenyloxazole (2a, 0.50 mmol),
+Cu(OAc)2 (1.0 mmol), PivOH (0.50 mmol), pyridine (0.50 mmol), and o-xylene (2.0 mL).
+<para sub=“opt”>
+less than 2% yield (entries 13−17). The control experiment
+with the parent quinoline under otherwise identical conditions
+resulted in no formation of 3aa (entry 18). In all entries of
+Table 1, the major byproducts was the homocoupling product,
+bisoxazole, derived from 2a,12 but the oxygen-retaining product
+3aa-O was not detected at all.13
+</para>
+<para sub="scope">
+The yield of 3aa is relatively moderate, but if the C−C
+formation and deoxygenation were performed separately as in
+Scheme 1a and b, the average yield of each step would be ca.
+75%, which can be a useful level from the synthetic point of
+view. Thus, while still preliminary, under conditions of entry 4
+in Table 1 we implemented the dehydrative coupling of various
+azine N-oxides 1 with 5-aryloxazole (2a). Representative
+products are shown in Scheme 3. The quinoline N-oxides
+bearing an electron-donating methoxy and an electron-
+withdrawing chloro group at the C4 position underwent the
+reaction, while the former showed better reactivity (3ba and
+
+3ca). The conceivable C8-heteroarylation of quinoline N-
+oxides was not observed at all.14 The methyl substituent at the
+C8 position did not interfere with the coupling (3da), despite
+its conceivable steric hindrance. The isoquinoline system could
+also be employed, and C−C bond formation occurred
+exclusively at the C2 position (3ea). Moreover, higher fused
+azines N-oxides were also accommodated. Tricyclic benzo[h]-
+quinoline and phenanthridine N-oxides coupled with 2a under
+the standard conditions to furnish 3fa and 3ga in 37% and 54%,
+respectively. In the case of 3fa, the C10-arylated product 3fa′
+was also detected by GC and GCMS analyses, which could be
+formed via Cu(II)-mediated dehydrogenative coupling of 2a
+with the deoxygenated benzo[h]quinoline generated in situ.8a
+However, an amount of 3fa′ was small (3% by GC), thus
+indicating that
+the dehydrative coupling proceeded more
+smoothly. Additionally, 3fa and 3fa′ could be separated from
+each other
+readily by column chromatography. Simpler
+</para>
+2386
+
+DOI: 10.1021/acs.joc.5b00037
+J. Org. Chem. 2015, 80, 2384−2391
+
+The Journal of Organic Chemistry
+Scheme 4. Copper-Mediated Formally Dehydrative Biaryl Coupling of Azine N-Oxides 1 with Various 5-Aryloxazoles 2a
+
+Article
+
+aThe formed C−C bonds are illustrated with a bold line. Reaction conditions: 1 (0.50 mmol), 2 (0.25 mmol), Cu(OAc)2 (0.50 mmol), PivOH (0.25
+mmol), pyridine (0.25 mmol), o-xylene (1.5 mL), N2. Except for quinoline N-oxide monohydrate (1a), azine N-oxides were used as the nonhydrate.
+<para sub="scope">
+experiments (Scheme 5). At an early stage (30 min), the 2-
+deuterio-5-phenyloxazole (2a-d
+1) underwent the rapid H/D
+</para>
+Scheme 5. H/D Scrambling Experiments with 1a-d
+d
+1
+
+1 and 2a-
+<para sub="scope">
+monocyclic pyridine N-oxides were also promising substrates:
+pyridyl, 4-methoxypyridyl, and 2-phenylpyridyl aromatic rings
+were introduced to the oxazole core directly (3ha, 3ia, and 3ja).
+Similar to the case of 3fa, 3ja was obtained, contaminated with
+3% of ortho-arylated 3ja′. Just one exception is 2-methylpyr-
+idine N-oxide, and the corresponding product 3ka was detected
+in only 4% yield. This is probably because the substrate might
+poison the Cu salt probably through the formation of tightly
+chelated metalacycles.7a,f Particularly notable is the doubly
+dehydrative coupling of quinoxaline 1,4-dioxide: two C−C
+bonds were formed simultaneously to aﬀord the 2,3-bisarylated
+quinoxaline 3la in one attempt. Moreover, the reaction of 1a
+with 2a could be successfully performed on a 1.0 mmol scale,
+and 3aa was obtained in 43% yield.
+</para>
+<para sub="scope">
+We next investigated the scope of 1,3-azoles (Scheme 4).
+The copper-based conditions were compatible with electroni-
+cally diverse substituents on the oxazole,
+including methyl,
+methoxy, triﬂuoromethyl, methoxycarbonyl, and nitro functions
+(3ab, 3ac, 3ad, 3ae, 3af, and 3bg). The naphthalene and styryl
+moieties were also tolerated under reaction conditions (3ah
+and 3ai). Among other 1,3-azoles, only N-methylbenzimidazole
+gave the corresponding biaryl 3bj, albeit with 28% yield. As far
+as we tested, thiazole, benzothiazole, and oxadiazoles produced
+the desired products in less than 5% yields (data not shown).
+This is the current limitation, but the observed unique reactivity
+of oxazoles is complementary to the precedented Pd-catalyzed
+dehydrogenative coupling of azine N-oxides and azoles.7f In
+most cases, we found the competitive homocoupling of azoles
+(ca. 20%), which was the major reason for the relatively low
+reaction eﬃciency. The starting oxazoles were also recovered
+intact in ca. 10%. The fates of others could not be identiﬁed,
+but the ring opening decomposition may competitively occur.15
+</para>
+<para sub="scope">
+To obtain mechanistic insight, we prepared deuterated
+1 and performed the following
+
+starting materials 1a-d
+
+1 and 2a-d
+
+exchange even in the presence or absence of the coupling
+partner quinoline N-oxide (1a), which was common in our
+previous Cu(II)-mediated dehydrogenative couplings.8 In sharp
+contrast, we observed negligible H/D scrambling of 2-
+deuterioquinoline N-oxide (1a-d
+1) regardless of the addition
+of 5-phenyloxazole (2a). These phenomena suggest that the
+C−H cupration of the oxazole occurs rapidly and reversibly,
+while the azine N-oxide C−H cannot be metalated under the
+present conditions.
+</para>
+<para sub=“ques”>
+Given the above considerations and literature information,
+we propose the reaction course of 1a and 2a as shown in
+Scheme 6. An initial acetate-ligand-assisted16 C−H cupration of
+2a generates the key oxazolylcopper intermediate 4. Subse-
+quent nucleophilic addition is followed by deoxygenative
+elimination with concomitant rearomatization of the quinoline
+</para>
+2387
+
+DOI: 10.1021/acs.joc.5b00037
+J. Org. Chem. 2015, 80, 2384−2391
+
+The Journal of Organic Chemistry
+Scheme 6. Plausible Mechanisma
+
+Article
+
+aL = pyridine or solvent. R = Ac or Piv.
+
+that
+
+ring to furnish the formally dehydrative coupling product 3aa
+and a hydroxylcopper species 5. The latter can be ﬁnally
+converted to inactive and insoluble copper oxides. Thus, a
+stoichiometric amount of Cu(OAc)2 is essential, despite the
+this process is overall redox-neutral.17 A similar
+fact
+addition/elimination-type mechanism is proposed in the Cu(I)-
+catalyzed dehydrative coupling of nitrones with terminal
+alkynes.18 However,
+if the second 2a reacted with 4, the
+homocoupling byproduct would be formed via a bis(oxazolyl)
+copper 4′. Although the origin of the unique reactivity of
+Cu(OAc)2 observed in Table 1 is still unclear,
+its inherent
+acetate ligand and relatively high Lewis acidic nature might play
+important roles in the C−H cleavage of 2a and addition step of
+4 to 1a, respectively.
+
+<para sub="scope">
+the on in Scheme 1b:
+
+Nevertheless, we cannot completely exclude the possibility of
+the stepwise dehydrogenative C-H/C-H coupling/deoxygena-
+tion mechanism19 such as
+the
+dehydrogenative coupling product 3aa-O, which was inde-
+pendently prepared from 3aa and mCPBA,20 readily underwent
+deoxygenation in the presence of 2.0 equiv Cu(OAc)2 to
+furnish 3aa in quantitative yield (Scheme 7).21 The detailed
+mechanism remains to be elucidated and is currently under
+investigation in our laboratory.
+</para>
+
+Scheme 7. Deoxygenation of Independently Prepared 3aa-O
+
+■ CONCLUSIONS
+
+We have developed a copper-mediated formally dehydrative
+coupling of azine N-oxides and oxazoles. The Cu(II)-based
+system directly provides, without an additional reduction step,
+azine-containing biheteroaryls of prevalent aromatic cores in
+pharmaceutical
+targets and biologically active compounds.
+Thus, the current work can complement the known C−H
+
+arylation protocols of azine N-oxides,5,7 while the substrate
+scope is still relatively limited. Consequently, further studies on
+the detailed mechanism and development of related copper-
+promoted dehydrative and dehydrogenative C−C forming
+reactions are ongoing.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+Instrumentation and Chemicals. 1H, 13C, and 19F NMR spectra
+were recorded at 400, 100, and 376 MHz, respectively, for CDCl3
+solutions. HRMS data were obtained by EI or APCI using a double-
+focusing mass spectrometer or TOF, respectively. GC analysis was
+carried out using a silicon OV-17 column (i.d. 2.6 mm × 1.5 m) or a
+CBP-1 capillary column (i.d. 0.5 mm × 25 m). Silica gel was used for
+column chromatography. Gel permeation chromatography (GPC) was
+performed with a CHCl3 eluent (3.5 mL/min, UV detector). Unless
+otherwise noted, materials obtained from commercial suppliers were
+used without further puriﬁcation. o-Xylene was freshly distillated from
+CaH2. Azine N-oxides 1a, 1d, 1e, 1h, 1i, and 1k are commercially
+available, and other 1b,22a 1c,22a 1f,22a 1g,10d 1j,22b 1l,10d and 1a-d
+10c
+1
+compounds were prepared according to the literature. 5-Substituted
+oxazoles 2 were synthesized by the van Leusen reaction with TosMIC
+and the corresponding aldehydes.23 Unless otherwise noted, all
+reactions were carried out under N2 conditions.
+Procedure for the Preparation of 2-Deuterio-5-phenyl-
+oxazole (2a-d1). 5-Phenyloxazole (2a, 1.5 g, 10 mmol) was placed
+in a 100 mL two-necked reaction ﬂask, which was ﬁlled with nitrogen
+by using the standard Schlenk technique. The ﬂask was cooled to −78
+°C with a dry ice-acetone bath, and THF (15 mL) and butyllithium
+(1.64 M hexane solution, 6.7 mL, 11 mmol) were then added to the
+ﬂask. After the mixture was stirred for 1 h at the same temperature,
+deuterium oxide (1.8 mL, 100 mmol) was added dropwise, and the
+resulting mixture was allowed to warm to room temperature and
+stirred for an additional 20 h. The mixture was quenched with water
+and extracted with ethyl acetate. The combined organic layer was dried
+over sodium sulfate. After concentration in vacuo, silica gel column
+puriﬁcation with hexane/ethyl acetate (3/1, v/v) aﬀorded 2-deuterio-
+5-phenyloxazole (2a-d1, 876 mg, 6.0 mmol, 98% D) in 60% yield.
+
+2-Deuterio-5-phenyloxazole (2a-d1). Puriﬁed by column
+chromatography on silica gel with hexane/ethyl acetate (3:1, v/v) as
+an eluent; 876 mg (98%D, 60%), mp 35−37 °C; 1H NMR (400 MHz,
+CDCl3) δ 7.33−7.37 (m, 2H), 7.41−7.46 (m, 2H), 7.65−7.68 (m,
+2H), 7.92 (s, 0.02H); 13C{1H} NMR (400 MHz, CDCl3) δ 121.4,
+124.4, 127.7, 128.6, 128.9, 150.2 (t, J = 35 Hz), 151.5; HRMS (APCI)
+m/z ([M + H]+) calcd for C9H7DNO 147.0665, found 147.0684.
+</para>
+2388
+
+DOI: 10.1021/acs.joc.5b00037
+J. Org. Chem. 2015, 80, 2384−2391
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+Typical Procedure for Cu-Mediated Formally Dehydrative
+Coupling of Azine N-Oxides and Oxazoles. The synthesis of 3aa
+is representative (Table 1, entry 4). Cu(OAc)2 (91 mg, 0.50 mmol),
+quinoline N-oxide monohydrate (1a, 82 mg, 0.50 mmol), and 5-
+phenyloxazole (2a, 36 mg, 0.25 mmol) were placed in a 20 mL two-
+necked reaction ﬂask, which was ﬁlled with nitrogen by using the
+standard Schlenk technique. A solution of PivOH (26 mg, 0.25 mmol)
+in o-xylene (1.5 mL) and pyridine (20 μL, 0.25 mmol) were
+sequentially injected via a syringe. The suspension was stirred for 4 h
+at 150 °C. The resulting mixture was allowed to cool to room
+temperature and then quenched with water. A small amount of
+ethylenediamine was then added to dissolve the residual copper salts
+into the aqueous phase. Extraction with ethyl acetate, concentration
+under reduced pressure, and silica gel column puriﬁcation with
+hexane/ethyl acetate (3/1, v/v) followed by GPC aﬀorded 5-phenyl-2-
+(quinolin-2-yl)oxazole (3aa, 37 mg, 0.14 mmol) in 54% yield.
+
+5-Phenyl-2-(quinolin-2-yl)oxazole (3aa). Puriﬁed by column
+chromatography on silica gel with hexane/ethyl acetate (3:1, v/v) as
+an eluent, followed by GPC; 37 mg (54%), mp 139−140 °C; 1H NMR
+(400 MHz, CDCl3) δ 7.36−7.40 (m, 1H), 7.45−7.50 (m, 2H), 7.59 (s,
+1H), 7.60 (ddd, J = 1.2, 6.8, 8.0 Hz, 1H), 7.78 (ddd, J = 2.0, 6.8, 8.4
+Hz, 1H), 7.84−7.87 (m, 3H), 8.26−8.30 (m, 3H); 13C{1H} NMR
+(400 MHz, CDCl3) δ 119.3, 124.1, 124.8, 127.5, 127.6, 128.2, 128.9
+(two signals were overlapped), 130.1, 130.2, 137.1, 145.8, 148.0, 153.0,
+160.2 (one signal was overlapped by others); HRMS (EI) m/z (M+)
+calcd for C18H12N2O 272.0950, found 272.0949.
+
+2-(4-Methoxyquinolin-2-yl)-5-phenyloxazole (3ba). Puriﬁed
+by column chromatography on silica gel with hexane/ethyl acetate
+(3:1, v/v) as an eluent; 41 mg (55%), mp 171−173 °C; 1H NMR (400
+MHz, CDCl3) δ 4.17 (s, 3H), 7.36−7.40 (m, 1H), 7.48 (t, J = 7.6 Hz,
+2H), 7.53−7.57 (m, 2H), 7.65 (s, 1H), 7.73−7.77 (m, 1H), 7.87 (d, J
+= 7.6 Hz, 2H), 8.22 (dd, J = 3.6, 8.4 Hz, 2H); 13C{1H} NMR (400
+MHz, CDCl3) δ 56.1, 98.2, 121.5, 121.8, 123.8, 124.9, 126.6, 127.6,
+128.90, 128.92, 129.6, 130.4, 146.9, 149.0, 153.1, 160.4, 162.9; HRMS
+(EI) m/z (M+) calcd for C19H14N2O2 302.1055, found 302.1056.
+
+2-(4-Chloroquinolin-2-yl)-5-phenyloxazole (3ca). Puriﬁed by
+column chromatography on silica gel with hexane/ethyl acetate (3:1,
+v/v) as an eluent; 26 mg (34%), mp 155−157 °C; 1H NMR (400
+MHz, CDCl3) δ 7.36−7.41 (m, 1H), 7.46−7.50 (m, 2H), 7.59 (s, 1H),
+7.68 (ddd, J = 1.2, 6.8, 8.0 Hz, 1H), 7.80−7.85 (m, 3H), 8.24 (dd, J =
+1.2, 8.4 Hz, 1H), 8.30 (d, J = 8.4 Hz, 1H), 8.37 (s, 1H); 13C{1H}
+NMR (400 MHz, CDCl3) δ 119.4, 124.1, 124.2, 124.8, 126.4, 127.4,
+128.5, 128.9, 129.1, 130.5, 131.0, 143.4, 145.5, 148.8, 153.3, 159.2;
+HRMS (EI) m/z (M+) calcd for C18H11ClN2O 306.0560,
+found
+306.0561.
+
+2-(8-Methylquinolin-2-yl)-5-phenyloxazole (3da). Puriﬁed by
+column chromatography on silica gel with hexane/ethyl acetate (3:1,
+v/v) as an eluent; 37 mg (51%), mp 145−147 °C; 1H NMR (400
+MHz, CDCl3) δ 2.96 (s, 3H), 7.36−7.40 (m, 1H), 7.46−7.50 (m, 3H),
+7.58 (s, 1H), 7.62 (dt, J = 1.2, 6.8 Hz, 1H), 7.68 (dd, J = 0.4, 8.0 Hz,
+1H), 7.82−7.85 (m, 2H), 8.22−8.27 (m, 2H); 13C{1H} NMR (400
+MHz, CDCl3) δ 17.8, 119.0, 124.0, 124.6, 125.5, 127.3, 127.8, 128.2,
+128.8, 128.9, 130.2, 137.1, 138.2, 144.6, 147.1, 152.6, 160.6; HRMS
+(EI) m/z (M+) calcd for C19H14N2O 286.1106, found 286.1104.
+
+2-(Isoquinolin-1-yl)-5-phenyloxazole (3ea). Puriﬁed by column
+chromatography on silica gel with hexane/ethyl acetate (3:1, v/v) as
+an eluent followed by GPC; 37 mg (54%), mp 128−130 °C; 1H NMR
+(400 MHz, CDCl3) δ 7.36−7.40 (m, 1H), 7.45−7.49 (m, 2H), 7.65 (s,
+1H), 7.73−7.78 (m, 3H), 7.85−7.91 (m, 3H), 8.72 (d, J = 5.6 Hz,
+1H), 9.50−9.52 (m, 1H); 13C{1H} NMR (400 MHz, CDCl3) δ 122.5,
+123.7, 124.9, 126.5, 127.1, 127.3, 127.6, 128.7, 128.90, 128.94, 130.4,
+137.0, 142.2, 145.0, 152.4, 159.6; HRMS (EI) m/z (M+) calcd for
+C18H12N2O 272.0950, found 272.0948.
+
+2-(Benzo[h]quinolin-2-yl)-5-phenyloxazole (3fa). Puriﬁed by
+column chromatography on silica gel with hexane/ethyl acetate (3:1,
+v/v) as an eluent followed by GPC; 29 mg (37%), mp 153−154 °C;
+1H NMR (400 MHz, CDCl3) δ 7.39 (t, J = 7.6 Hz, 1H), 7.50 (t, J =
+7.6 Hz, 2H), 7.60 (s, 1H), 7.67−7.75 (m, 2H), 7.78−7.92 (m, 5H),
+8.24−8.26 (m, 1H), 8.35−8.37 (m, 1H), 9.51 (d, J = 8.0 Hz, 1H);
+13C{1H} NMR (400 MHz, CDCl3) δ 120.0, 124.0, 124.6, 124.9, 125.0,
+
+126.6, 127.3, 127.80, 127.83, 128.6, 128.81, 128.84, 129.0, 131.4,
+133.8, 136.5, 144.3, 146.4, 152.6, 160.6; HRMS (EI) m/z (M+) calcd
+for C22H14N2O 322.1106, found 322.1108.
+
+2-(Phenanthridin-6-yl)-5-phenyloxazole (3ga). Puriﬁed by
+column chromatography on silica gel with hexane/ethyl acetate (3:1,
+v/v) as an eluent followed by GPC; 44 mg (54%), mp 137−139 °C;
+1H NMR (400 MHz, CDCl3) δ 7.36−7.41 (m, 1H), 7.47−7.50 (m,
+2H), 7.68 (s, 1H), 7.71−7.75 (m, 1H), 7.78−7.82 (m, 2H), 7.88−7.92
+(m, 3H), 8.36 (dd, J = 1.2, 8.0 Hz, 1H), 8.61 (dd, J = 1.2, 8.0 Hz, 1H),
+8.70 (d, J = 8.4 Hz, 1H), 9.53 (dd, J = 0.8, 8.4 Hz, 1H); 13C{1H} NMR
+(400 MHz, CDCl3) δ 122.0, 122.1, 123.6, 124.2, 124.5, 125.0, 127.7,
+128.0, 128.2, 128.5, 128.9, 129.0 (two signals were overlapped),
+130.87, 130.90, 133.5, 143.4, 145.6, 152.6, 159.4; HRMS (APCI) m/z
+([M + H]+) calcd for C22H15N2O 323.1179, found 323.1185.
+
+5-Phenyl-2-(pyridin-2-yl)oxazole (3ha). Puriﬁed by column
+chromatography on silica gel with hexane/ethyl acetate (3:1, v/v) as
+an eluent followed by GPC; 30 mg (53%), mp 100−101 °C; 1H NMR
+(400 MHz, CDCl3) δ 7.34−7.38 (m, 2H), 7.44 (t, J = 7.6 Hz, 2H),
+7.52 (s, 1H), 7.78−7.85 (m, 3H), 8.17 (d, J = 8.0 Hz, 1H), 8.77 (dt, J
+= 0.8, 4.0 Hz, 1H); 13C{1H} NMR (400 MHz, CDCl3) δ 122.0, 123.7,
+124.4, 124.6, 127.6, 128.7, 128.8, 136.8, 146.1, 150.0, 152.5, 159.9;
+HRMS (EI) m/z (M+) calcd for C14H10N2O 222.0793,
+found
+222.0792.
+
+2-(4-Methoxypyridin-2-yl)-5-phenyloxazole (3ia). Puriﬁed by
+column chromatography on silica gel with hexane/ethyl acetate (2:1,
+v/v) as an eluent followed by GPC; 26 mg (41%), mp 98−100 °C; 1H
+NMR (400 MHz, CDCl3) δ 3.95 (s, 3H), 6.90 (dd, J = 2.4, 6.4 Hz,
+1H), 7.36−7.38 (m, 1H), 7.43−7.47 (m, 2H), 7.51 (s, 1H), 7.71 (d, J
+= 2.4 Hz, 1H), 7.79−7.81 (m, 2H), 8.57 (d, J = 6.4 Hz, 1H); 13C{1H}
+NMR (400 MHz, CDCl3) δ 55.5, 107.5, 111.4, 123.6, 124.7, 127.6,
+128.80, 128.84, 147.7, 151.2, 152.6, 160.0, 166.3; HRMS (EI) m/z
+(M+) calcd for C15H12N2O2 252.0899, found 252.0901.
+
+5-Phenyl-2-(6-phenylpyridin-2-yl)oxazole (3ja). Puriﬁed by
+column chromatography on silica gel with hexane/ethyl acetate (3:1,
+v/v) as an eluent followed by GPC; 34 mg (45%), mp 166−168 °C;
+1H NMR (400 MHz, CDCl3) δ 7.35−7.39 (m, 1H), 7.44−7.54 (m,
+5H), 7.55 (s, 1H), 7.80−7.83 (m, 3H), 7.89 (t, J = 7.6 Hz, 1H), 8.10
+(dd, J = 1.2, 7.6 Hz, 1H), 8.15−8.18 (m, 2H); 13C{1H} NMR (400
+MHz, CDCl3) δ 120.4, 121.1, 123.8, 124.6, 127.1, 127.8, 128.7, 128.8,
+128.9, 129.4, 137.6, 138.6, 146.0, 152.4, 157.6, 160.2; HRMS (EI) m/z
+(M+) calcd for C20H14N2O 298.1106, found 298.1108.
+
+2,3-Bis(5-phenyloxazol-2-yl)quinoxaline (3la). Puriﬁed by
+column chromatography on silica gel with hexane/ethyl acetate (3:1,
+v/v) as an eluent followed by GPC; 42 mg (41%), mp 173−175 °C;
+1H NMR (400 MHz, CDCl3) δ 7.30−7.39 (m, 6H), 7.59 (s, 2H),
+7.62−7.65 (m, 4H), 7.93 (dd, J = 3.6, 6.4 Hz, 2H), 8.33 (dd, J = 3.6,
+6.4 Hz, 2H); 13C{1H} NMR (400 MHz, CDCl3) δ 124.0, 124.7, 127.3,
+128.9, 129.0, 129.8, 132.1, 140.4, 141.5, 153.0, 157.7; HRMS (EI) m/z
+(M+) calcd for C26H16N4O2 416.1273, found 416.1277.
+
+5-(4-Methylphenyl)-2-(quinolin-2-yl)oxazole (3ab). Puriﬁed
+by column chromatography on silica gel with hexane/ethyl acetate
+(3:1, v/v) as an eluent followed by GPC; 28 mg (41%), mp 133−134
+°C; 1H NMR (400 MHz, CDCl3) δ 2.41 (s, 3H), 7.27−7.29 (m, 2H),
+7.54 (s, 1H), 7.59 (ddd, J = 1.2, 6.8, 8.0 Hz, 1H), 7.73−7.79 (m, 3H),
+7.85 (ddd, J = 0.4, 1.2, 8.0 Hz, 1H), 8.27−8.30 (m, 3H); 13C{1H}
+NMR (400 MHz, CDCl3) δ 21.4, 119.3, 123.5, 124.7, 124.9, 127.4,
+127.6, 128.2, 129.6, 130.11, 130.13, 137.0, 139.0, 145.9, 148.1, 153.2,
+159.9; HRMS (EI) m/z (M+) calcd for C19H14N2O 286.1106, found
+286.1104.
+
+5-(4-Methoxyphenyl)-2-(quinolin-2-yl)oxazole (3ac). Puriﬁed
+by column chromatography on silica gel with hexane/ethyl acetate
+(3:1, v/v) as an eluent; 37 mg (48%), mp 108−110 °C; 1H NMR (400
+MHz, CDCl3) δ 3.86 (s, 3H), 6.99 (d, J = 8.8 Hz, 2H), 7.46 (s, 1H),
+7.58 (t, J = 7.6 Hz, 1H), 7.75−7.79 (m, 3H), 7.84 (d, J = 8.0 Hz, 1H),
+8.26−8.29 (m, 3H); 13C{1H} NMR (400 MHz, CDCl3) δ 55.3, 114.4,
+119.3, 120.4, 122.7, 126.4, 127.4, 127.6, 128.1, 130.0, 130.1, 137.0,
+145.9, 148.0, 153.1, 159.6, 160.2; HRMS (EI) m/z (M+) calcd for
+C19H14N2O2 302.1055, found 302.1056.
+
+2-(Quinolin-2-yl)-5-{4-(triﬂuoromethyl)phenyl}oxazole
+(3ad). Puriﬁed by column chromatography on silica gel with hexane/
+</para>
+2389
+
+DOI: 10.1021/acs.joc.5b00037
+J. Org. Chem. 2015, 80, 2384−2391
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+ethyl acetate (3:1, v/v) as an eluent followed by GPC; 35 mg (41%),
+mp 161−163 °C; 1H NMR (400 MHz, CDCl3) δ 7.61 (ddd, J = 1.2,
+2.8, 8.0 Hz, 1H), 7.68 (s, 1H), 7.72 (d, J = 8.0 Hz, 2H), 7.79 (ddd, J =
+1.6, 6.8, 8.4 Hz, 1H), 7.87 (dd, J = 0.8, 8.0 Hz, 1H), 7.95 (d, J = 8.0
+Hz, 2H), 8.26−8.31 (m, 3H); 13C{1H} NMR (400 MHz, CDCl3)
+δ119.4, 123.9 (q, J = 271 Hz), 124.8, 125.7, 125.9 (q, J = 4 Hz), 127.7,
+127.8, 128.3, 130.1, 130.3, 130.5 (q, J = 33 Hz), 130.8, 137.2, 145.5,
+148.0, 151.4, 161.0; 19F NMR (376 MHz, CDCl3) δ-62.69 (s); HRMS
+(EI) m/z (M+) calcd for C19H11F3N2O 340.0823, found 340.0825.
+
+Methyl 4-{2-(quinolin-2-yl)oxazol-5-yl}benzoate (3ae). Puri-
+ﬁed by column chromatography on silica gel with hexane/ethyl acetate
+(3:1, v/v) as an eluent followed by GPC; 32 mg (39%), mp 169−170
+°C; 1H NMR (400 MHz, CDCl3) δ 3.95 (s, 3H), 7.61 (ddd, J = 1.2,
+6.8, 8.0 Hz, 1H), 7.70 (s, 1H), 7.79 (ddd, J = 1.6, 6.8, 8.4 Hz, 1H),
+7.87 (dd, J = 0.8, 8.0 Hz, 1H), 7.92 (dt, J = 1.6, 8.4 Hz, 2H), 8.14 (dt, J
+= 1.6, 8.4 Hz, 2H), 8.27−8.31 (m, 3H); 13C{1H} NMR (400 MHz,
+CDCl3) δ 52.3, 119.4, 124.5, 125.9, 127.6, 127.7, 128.3, 130.10,
+130.14, 130.2, 130.3, 131.5, 137.1, 145.5, 148.2, 151.9, 160.9, 166.5;
+HRMS (EI) m/z (M+) calcd for C20H14N2O3 330.1004,
+found
+330.1005.
+
+5-(3,4-Dimethoxyphenyl)-2-(quinolin-2-yl)oxazole (3af). Pu-
+riﬁed by column chromatography on silica gel with hexane/ethyl
+acetate (3:1, v/v) as an eluent; 29 mg (35%), mp 173−174 °C; 1H
+NMR (400 MHz, CDCl3) δ 3.94 (s, 3H), 4.01 (s, 3H), 6.95 (d, J = 8.4
+Hz, 1H), 7.33 (d, J = 2.0 Hz, 1H), 7.43 (dd, J = 2.0, 8.0 Hz, 1H), 7.49
+(s, 1H), 7.59 (ddd, J = 1.2, 6.8, 8.0 Hz, 1H), 7.76 (ddd, J = 1.2, 6.8, 8.4
+Hz, 1H), 7.85 (dd, J = 0.8, 8.0 Hz, 1H), 8.27−8.30 (m, 3H); 13C{1H}
+NMR (400 MHz, CDCl3) δ 56.0, 56.1, 107.9, 111.3, 118.0, 119.3,
+120.6, 123.0, 127.4, 127.6, 128.1, 130.0, 130.2, 137.0, 145.8, 148.0,
+149.3, 149.8, 153.1, 159.7; HRMS (EI) m/z (M+) calcd for
+C20H16N2O3 332.1161, found 332.1160.
+
+5-(Naphthalen-1-yl)-2-(quinolin-2-yl)oxazole (3ah). Puriﬁed
+by column chromatography on silica gel with hexane/ethyl acetate
+(3:1, v/v) as an eluent followed by GPC; 33 mg (44%), mp 124−126
+°C; 1H NMR (400 MHz, CDCl3) δ 7.55−7.64 (m, 4H), 7.69 (s, 1H),
+7.78 (ddd, J = 1.2, 6.8, 8.4 Hz, 1H), 7.87 (dd, J = 1.2, 8.0 Hz, 1H),
+7.93−7.97 (m, 3H), 8.29−8.34 (m, 3H), 8.40 (d, J = 8.4 Hz, 1H);
+13C{1H} NMR (400 MHz, CDCl3) δ 119.3, 124.9, 125.0, 125.3, 126.3,
+127.1, 127.2, 127.5, 127.60, 127.61, 128.3, 128.8, 129.9, 130.20,
+130.21, 130.24, 133.8, 137.1, 145.8, 148.1, 152.1, 160.6; HRMS (EI)
+m/z (M+) calcd for C22H14N2O 322.1106, found 322.1108.
+
+(E)-2-(Quinolin-2-yl)-5-styryloxazole (3ai). Puriﬁed by column
+chromatography on silica gel with hexane/ethyl acetate (3:1, v/v) as
+an eluent followed by GPC; 25 mg (34%), mp 150−152 °C; 1H NMR
+(400 MHz, CDCl3) δ 7.03 (d, J = 16.4 Hz, 1H), 7.31−7.34 (m, 2H),
+7.37−7.41 (m, 3H), 7.54−7.56 (m, 2H), 7.60 (ddd, J = 1.2, 6.8, 8.0
+Hz, 1H), 7.79 (ddd, J = 1.6, 6.8, 8.4 Hz, 1H), 7.86 (dt, J = 0.8, 8.0 Hz,
+1H), 8.29−8.31 (m, 3H); 13C{1H} NMR (400 MHz, CDCl3) δ 112.7,
+119.5, 126.70, 126.74, 127.60, 127.64, 128.3, 128.5, 128.8, 130.1,
+130.2, 131.4, 136.2, 137.1, 145.7, 148.0, 152.2, 160.0; HRMS (EI) m/z
+(M+) calcd for C20H14N2O 298.1106, found 298.1105.
+
+2-(4-Methoxyquinolin-2-yl)-5-(4-nitrophenyl)oxazole (3bg).
+Puriﬁed by column chromatography on silica gel with hexane/ethyl
+acetate (2:1, v/v) as an eluent followed by GPC; 27 mg (31%), mp
+225−227 °C; 1H NMR (400 MHz, CDCl3) δ 4.18 (s, 3H), 7.59 (td, J
+= 0.8, 7.2 Hz, 1H), 7.67 (s, 1H), 7.75 (s, 1H), 7.78 (td, J = 1.2, 6.8 Hz,
+1H), 8.02 (d, J = 8.8 Hz, 2H), 8.21 (d, J = 8.4 Hz, 1H), 8.24 (d, J = 8.4
+Hz, 1H), 8.33 (d, J = 8.8 Hz, 2H); 13C{1H} NMR (400 MHz, CDCl3)
+δ 56.2, 98.5, 121.6, 121.9, 124.4, 125.2, 126.9, 127.0, 129.6, 130.6,
+133.3, 146.4, 147.5, 149.0, 150.7, 161.9, 163.1; HRMS (APCI) m/z
+([M + H]+) calcd for C19H14N3O4 348.0979, found 348.0983.
+
+4-Methoxy-2-(1-methyl-1H-benzo[d]imidazol-2-yl)quinoline
+(3bj). Puriﬁed by column chromatography on silica gel with hexane/
+ethyl acetate (3:1, v/v) as an eluent; 20 mg (28%), mp 139−141 °C;
+1H NMR (400 MHz, CDCl3) δ 4.19 (s, 3H), 4.46 (s, 3H), 7.34 (td, J =
+1.2, 7.2 Hz, 1H), 7.38 (td, J = 1.2, 7.2 Hz, 1H), 7.48 (dd, J = 1.6, 7.2
+Hz, 1H), 7.55 (ddd, J = 1.2, 6.4, 8.4 Hz, 1H), 7.74 (ddd, J = 1.2, 6.4,
+8.4 Hz, 1H), 7.87−7.90 (m, 1H), 7.92 (s, 1H), 8.09 (dd, J = 0.4, 8.4
+Hz, 1H), 8.24 (dd, J = 0.8, 8.4 Hz, 1H); 13C{1H} NMR (400 MHz,
+CDCl3) δ 33.2, 56.2, 100.5, 110.0, 120.1, 121.1, 121.9, 122.6, 123.5,
+
+126.3, 129.1, 130.0, 137.6, 142.5, 148.3, 150.5, 151.7, 162.6; HRMS
+(APCI) m/z ([M + H]+) calcd for C18H16N3O 290.1288,
+found
+290.1290.
+
+Procedure for the Preparation of 3aa-O. m-Chloroperoxyben-
+zoic acid (mCPBA, 400 mg, 1.8 mmol) was added to a solution of 5-
+phenyl-2-(quinolin-2-yl)oxazole (3aa, 405 mg, 1.48 mmol) in
+dichloromethane (10 mL). The reaction mixture was stirred at room
+temperature for 20 h. The resulting mixture was quenched with aq.
+NaHCO3. Extraction with chloroform, concentration under reduced
+pressure, and silica gel column puriﬁcation with dichloromethane/
+methanol (20/1, v/v) aﬀorded 2-(5-phenyloxazol-2-yl)quinoline 1-
+oxide (3aa-O, 340 mg, 1.2 mmol) in 79% yield. X-ray quality crystals
+were grown from dichloromethane.
+
+2-(5-Phenyloxazol-2-yl)quinoline 1-Oxide (3aa-O). Puriﬁed by
+column chromatography on silica gel with dichloromethane/methanol
+(20:1, v/v) as an eluent; 340 mg (79%), mp 140−142 °C; 1H NMR
+(400 MHz, CDCl3) δ 7.37−7.41 (m, 1H), 7.46−7.50 (m, 2H), 7.67 (s,
+1H), 7.67−7.71 (m, 1H), 7.75 (d, J = 9.2 Hz, 1H), 7.79−7.83 (m,
+1H), 7.85−7.90 (m, 3H), 8.20 (d, J = 8.8 Hz, 1H), 8.90 (d, J = 8.8 Hz,
+1H); 13C{1H} NMR (400 MHz, CDCl3) δ 120.2, 121.8, 124.0, 124.3,
+124.7, 127.2, 128.0, 128.9, 129.1, 129.3, 129.9, 130.6, 133.4, 142.9,
+152.3, 155.1; HRMS (APCI) m/z ([M + H]+) calcd for C18H13N2O2
+289.0972, found 289.0970.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+1H and 13C{1H} NMR spectra for products and an ORTEP
+drawing of 3aa-O. This material is available free of charge via
+the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Authors
+*(K.H.) E-mail: k_hirano@chem.eng.osaka-u.ac.jp.
+*(M.M.) E-mail: miura@chem.eng.osaka-u.ac.jp.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was supported by Grants-in-Aid for Scientiﬁc
+Research from the MEXT and JSPS, Japan.
+
+■ REFERENCES
+
+(1) (a) Roth, H. J.; Kleemann, A. Drug Synthesis. In Pharmaceutical
+Chemistry; John Wiley and Sons: New York, 1988; Vol. 1. (b) Daly, J.
+W.; Garraﬀo, H. M.; Spande, T. F. In Alkaloids: Chemical and Biological
+Perspectives; Pelletier, W. W., Ed.; Elsevier: New York, 1999; Vol. 13,
+pp 92−95. (c) Abass, M. Heterocycles 2005, 65, 901. (d) Joule, J. A.;
+Mills, K. In Heterocyclic Chemistry; John Wiley and Sons: New York,
+2010.
+(2) (a) Metal-Catalyzed Cross-Coupling Reactions, 2nd ed.; de
+Meijere, A., Diederich, F., Eds.; Wiley-VCH: Weinheim, Germany,
+2004. (b) Tsuji, J. Palladium Reagents and Catalysts, 2nd ed.; Wiley:
+Chichester, UK, 2004. (c) Miyaura, N., Ed. Cross-Coupling Reactions.
+In Topics in Current Chemistry; Springer: Berlin, Germany, 2002; No.
+219. (d) Hassan, J.; Sévignon, M.; Gozzi, C.; Schulz, E.; Lemaire, M.
+Chem. Rev. 2002, 102, 1359. (e) Corbet, J.-P.; Mignani, G. Chem. Rev.
+2006, 106, 2651.
+(3) For selected reviews and accounts, see: (a) Alberico, D.; Scott, M.
+E.; Lautens, M. Chem. Rev. 2007, 107, 174. (b) Satoh, T.; Miura, M.
+Chem. Lett. 2007, 36, 200. (c) Campeau, L. C.; Stuart, D. R.; Fagnou,
+K. Aldrichchim. Acta 2007, 40, 35. (d) Seregin, I. V.; Gevorgyan, V.
+Chem. Soc. Rev. 2007, 36, 1173. (e) Park, Y. J.; Park, J.-W.; Jun, C.-H.
+Acc. Chem. Res. 2008, 41, 222. (f) Lewis, L. C.; Bergman, R. G.;
+Ellman, J. A. Acc. Chem. Res. 2008, 41, 1013. (g) Kakiuchi, F.; Kochi,
+T. Synthesis 2008, 3013. (h) Daugulis, O.; Do, H.-Q.; Shabashov, D.
+Acc. Chem. Res. 2009, 42, 1074. (i) Kulkarni, A. A.; Daugulis, O.
+Synthesis 2009, 4087. (j) Chen, X.; Engle, K. M.; Wang, D.-H.; Yu, J.-
+
+2390
+
+DOI: 10.1021/acs.joc.5b00037
+J. Org. Chem. 2015, 80, 2384−2391
+
+The Journal of Organic Chemistry
+
+Q. Angew. Chem., Int. Ed. 2009, 48, 5094. (k) Ackermann, L.; Vicente,
+R.; Kapdi, A. R. Angew. Chem., Int. Ed. 2009, 48, 9792. (l) Sun, C.-L.;
+Li, B.-J.; Shi, Z.-J. Chem. Commun. 2010, 46, 677. (m) Lyons, T. W.;
+Sanford, M. S. Chem. Rev. 2010, 110, 1147. (n) Dudnik, A. S.;
+Gevorgyan, V. Angew. Chem., Int. Ed. 2010, 49, 2096. (o) Satoh, T.;
+Miura, M. Chem.−Eur. J. 2010, 16, 11212. (p) Ackermann, L. Chem.
+Commun. 2010, 46, 4866. (q) Liu, C.; Zhang, H.; Sui, W.; Lei, A.
+Chem. Rev. 2011, 111, 1780. (r) Yamaguchi, J.; Yamaguchi, A. D.;
+Itami, K. Angew. Chem., Int. Ed. 2012, 51, 8960. (s) Hirano, K.; Miura,
+M. Top. Catal. 2014, 57, 878.
+(4) (a) Berman, A. M.; Lewis, J. C.; Bergman, R. G.; Ellman, J. A. J.
+Am. Chem. Soc. 2008, 130, 14926. (b) Tobisu, M.; Hyodo, I.; Chatani,
+N. J. Am. Chem. Soc. 2009, 131, 12070. (c) Ye, M.; Gao, G.-L.;
+Edmunds, A. J. F.; Worthington, P. A.; Morris, J. A.; Yu, J.-Q. J. Am.
+Chem. Soc. 2011, 133, 19090. (d) Kawashima, T.; Takao, T.; Suzuki,
+H. J. Am. Chem. Soc. 2007, 129, 11006. For relevant alkylation and
+alkenylation, see: (e) Nakao, Y.; Kanyiva, K. S.; Hiyama, T. J. Am.
+Chem. Soc. 2008, 130, 2448. (f) Nakao, Y.; Yamada, Y.; Kashihara, N.;
+Hiyama, T. J. Am. Chem. Soc. 2010, 132, 13666. (g) Ye, M.; Gao, G.-L.;
+Yu, J.-Q. J. Am. Chem. Soc. 2011, 133, 6964.
+(5) Reviews: (a) Yan, G.; Borah, A. J.; Yang, M. Adv. Synth. Catal.
+2014, 356, 2375. (b) Wang, Y.; Zhang, L. Synthesis 2015, 47, 289−305.
+Selected publications: (c) Campeau, L.-C.; Rousseaux, S.; Fagnou, K. J.
+Am. Chem. Soc. 2005, 127, 18020. (d) Leclerc, J.-P.; Fagnou, K. Angew.
+Chem., Int. Ed. 2006, 45, 7781. (e) Do, H.-Q.; Khan, R. M. K.;
+Daugulis, O. J. Am. Chem. Soc. 2008, 130, 15185. (f) Larionov, O. V.;
+Stephens, D.; Mfuh, A.; Chavez, G. Org. Lett. 2014, 16, 864. (g) Shen,
+Y.; Chen, J.; Liu, M.; Ding, J.; Gao, W.; Huang, X.; Wu, H. Chem.
+Commun. 2014, 50, 4292.
+(6) Larivée, A.; Mousseau, J. J.; Charette, A. B. J. Am. Chem. Soc.
+2008, 130, 52.
+(7) (a) Cho, S. H.; Hwang, S. J.; Chang, S. J. Am. Chem. Soc. 2008,
+130, 9254. (b) Xi, P.; Yang, F.; Qin, S.; Zhao, D.; Lan, J.; Gao, G.; Hu,
+C.; You, J. J. Am. Chem. Soc. 2010, 132, 1822. (c) Yamaguchi, A. D.;
+Mandal, D.; Yamaguchi, J.; Itami, K. Chem. Lett. 2011, 40, 555.
+(d) Gong, X.; Song, G.; Zhang, H.; Li, X. Org. Lett. 2011, 13, 1766.
+(e) Wang, Z.; Li, K.; Zhao, D.; Lan, J.; You, J. Angew. Chem., Int. Ed.
+2011, 50, 5365. (f) Fu, X.-P.; Xuan, Q.-Q.; Liu, L.; Wang, D.; Chen,
+Y.-J.; Li, C.-J. Tetrahedron 2013, 69, 4436. (g) Liu, W.; Yu, X.; Li, Y.;
+Kuang, C. Chem. Commun. 2014, 50, 9291. (h) Willis, N. J.; Smith, J.
+M. RSC Adv. 2014, 4, 11059. (i) Kianmehr, E.; Rezaeefard, M.;
+Khalkhali, M. R.; Khan, K. M. RSC Adv. 2014, 4, 13764.
+(8) (a) Kitahara, M.; Umeda, N.; Hirano, K.; Satoh, T.; Miura, M. J.
+Am. Chem. Soc. 2011, 133, 2160. (b) Nishino, M.; Hirano, K.; Satoh,
+T.; Miura, M. Angew. Chem., Int. Ed. 2012, 51, 6993. (c) Hirano, K.;
+Miura, M. Chem. Commun. 2012, 48, 10704. (d) Nishino, M.; Hirano,
+K.; Satoh, T.; Miura, M. Angew. Chem., Int. Ed. 2013, 52, 4457.
+(e) Odani, R.; Hirano, K.; Satoh, T.; Miura, M. J. Org. Chem. 2013, 78,
+11045. (f) Odani, R.; Nishino, M.; Hirano, K.; Satoh, T.; Miura, M.
+Heterocycles 2014, 88, 595. (g) Odani, R.; Hirano, K.; Satoh, T.; Miura,
+M. Angew. Chem., Int. Ed. 2014, 53, 10784. Also see: (h) Takamatsu,
+K.; Hirano, K.; Satoh, T.; Miura, M. Org. Lett. 2014, 16, 2892.
+(9) (a) Mao, Z.; Wang, Z.; Xu, Z.; Huang, F.; Yu, Z.; Wang, R. Org.
+Lett. 2012, 14, 3854. (b) Fan, S.; Chen, Z.; Zhang, X. Org. Lett. 2012,
+14, 4950. (c) Qin, X.; Feng, B.; Dong, J.; Li, X.; Xue, Y.; Lan, J.; You, J.
+J. Org. Chem. 2012, 77, 7677. (d) Zou, L.-H.; Mottweiler,
+J.;
+Priebbenow, D. L.; Wang, J.; Stubenrauch, J. A.; Bolm, C. Chem.Eur.
+J. 2013, 19, 3302.
+(10) For related copper-mediated C−H functionalizations of azine
+N-oxides, see sulfonylation: (a) Wu, Z.; Song, H.; Cui, X.; Pi, C.; Du,
+W.; Wu, Y. Org. Lett. 2013, 15, 1270. Acetoxylation: (b) Chen, X.;
+Zhu, C.; Cui, X.; Wu, Y. Chem. Commun. 2013, 49, 6900. Amination:
+(c) Li, G.; Jia, C.; Sun, K. Org. Lett. 2013, 15, 5198. (d) Zhu, C.; Yi,
+M.; Wei, D.; Chen, X.; Wu, Y.; Cui, X. Org. Lett. 2014, 16, 1840.
+(11) For related dehydrative C−H functionalization of (hetero)
+arenes, see: (a) Wu, J.; Cui, X.; Chen, L.; Jiang, G.; Wu, Y. J. Am.
+Chem. Soc. 2009, 131, 13888. (b) Yang, F.; Ackermann, L. J. Org.
+Chem. 2014, 79, 12070. An organocatalytic approach: (c) Inamoto,
+
+Article
+
+K.; Araki, Y.; Kikkawa, S.; Yonemoto, M.; Tanaka, Y.; Kondo, Y. Org.
+Biomol. Chem. 2013, 11, 4438.
+(12) (a) Do, H.-Q.; Daugulis, O. J. Am. Chem. Soc. 2009, 131, 17052.
+(b) Monguchi, D.; Yamamura, A.; Fujikawa, T.; Somete, T.; Mori, A.
+Tetrahedron Lett. 2010, 51, 850. (c) Zhu, M.; Fujita, K.-i.; Yamaguchi,
+R. Chem. Commun. 2011, 47, 12876.
+(13) Attempts to apply catalytic conditions with 20 mol % Cu(OAc)2
+remained unsuccessful; neither 3aa nor 3aa-O was formed, and nearly
+quantitative 2a was recovered. The use of AcOH as solvent was also
+ineﬀective.
+(14) (a) Shibata, T.; Matsuo, Y. Adv. Synth. Catal. 2014, 356, 1516.
+(b) Hwang, H.; Kim, J.; Jeong, J.; Chang, S. J. Am. Chem. Soc. 2014,
+136, 10770.
+(15) Yoshizumi, T.; Tsurugi, H.; Satoh, T.; Miura, M. Tetrahedron
+Lett. 2008, 49, 1598.
+the carboxylate-ligand-assisted concerted metalation−
+(16) For
+deprotonation, see: (a) Sokolov, V. I.; Troitskaya, L. L.; Reutov, O.
+J. Organomet. Chem. 1979, 182, 537. (b) Ryabov, A. D.;
+A.
+Sakodinskaya, I. K.; Yatsimirsky, A. K. J. Chem. Soc., Dalton Trans.
+1985, 2629. (c) GóMez, M.; Granell, J.; Martinez, M. Organometallics
+1997, 16, 2539. (d) Mota, A. J.; Dedieu, A.; Bour, C.; Suffer, J. J. Am.
+Chem. Soc. 2005, 127, 7171. (e) Garcia-Cuadrado, D.; Braga, A. A. C.;
+Maseras, F.; Echavarren, A. M. J. Am. Chem. Soc. 2006, 128, 1066.
+(f) Lafrance, M.; Rowley, C. N.; Woo, T. K.; Fagnou, K. J. Am. Chem.
+Soc. 2006, 128, 8754. (g) Lapointe, D.; Fagnou, K. Chem. Lett. 2010,
+39, 1118. (h) Maleckis, A.; Kampf, J. W.; Sanford, M. S. J. Am. Chem.
+Soc. 2013, 135, 6618 and references therein..
+(17) The product can be a good N,N chelating ligand for the copper
+and led to the inhibition of the remaining copper salts. However, we
+did not observe such eﬀects: even in the presence of 1.0 equiv (to
+Cu(OAc)2) of 3aa, the reaction of 4-methoxyquinoline N-oxide with
+2a formed 3ba in a comparable yield.
+(18) Miura, M.; Enna, M.; Okuro, K.; Nomura, M. J. Org. Chem.
+1995, 60, 4999.
+(19) A related stepwise mechanism is proposed in ref 5g.
+(20) The structure of 3aa-O was unambiguously determined by X-ray
+analysis. Crystallographic data for the structure has been deposited
+with the Cambridge Crystallographic Data Center (CCDC 1042249).
+See the Supporting Information for details.
+(21) The observed rapid deoxygenation reaction was unique to 3aa-
+O. Treatment of quinoline N-oxide (1a) with 2.0 equiv of Cu(OAc)2
+in heating o-xylene for 4 h provided the parent quinoline in only 17%
+yield, and 83% of 1a was recovered intact.
+(22) (a) Campeau, L.-C.; Stuart, D. R.; Leclerc, J.-P.; Bertrand-
+Laperle, M.; Villemure, E.; Sun, H.-Y.; Lasserre, S.; Guimond, N.;
+Lecavallier, M.; Fagnou, K. J. Am. Chem. Soc. 2009, 131, 3291.
+(b) Kokatla, H. P.; Thomson, P. F.; Bae, S.; Doddi, V. R.; Lakshman,
+M. K. J. Org. Chem. 2011, 76, 7842.
+(23) van Leusen, A. M.; Hoogenboom, B. E.; Sinderius, H.
+Tetrahedron Lett. 1972, 13, 2369.
+
+2391
+
+DOI: 10.1021/acs.joc.5b00037
+J. Org. Chem. 2015, 80, 2384−2391
+
+

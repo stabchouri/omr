@@ -1,0 +1,1350 @@
+Note
+
+pubs.acs.org/joc
+
+Enantioselective Synthesis of Dihydropyran-Fused Indoles through
+[4+2] Cycloaddition between Allenoates and 3‑Oleﬁnic Oxindoles
+Feng Wang, Zhen Li, Jie Wang, Xin Li,* and Jin-Pei Cheng
+State Key Laboratory of Elemento-Organic Chemistry, Collaborative Innovation Center of Chemical Science and Engineering,
+Department of Chemistry, Nankai University, Tianjin 300071, P. R. China
+*S Supporting Information
+
+ABSTRACT: A highly enantioselective [4+2] annulation with
+respect to allenoates and 3-oleﬁnic oxindoles catalyzed by
+Lewis base was reported, which proved to be an eﬃcient way to
+synthesize chiral dihydropyran-fused indoles. The cycloaddition
+products were generally obtained in high yields (up to 98%)
+with very good enantioselectivities (up to 94% enantiomeric
+excess).
+
+motifs
+
+D ihydropyran-fused indoles, which are important structural
+
+in natural products and biologically active
+molecules, have attracted wide synthetic interest.1 Great eﬀorts
+have been devoted to the construction of this valuable scaﬀold.2
+However, the study of direct asymmetric catalysis processes for
+these compounds, to the best of our knowledge, has been very
+limited. In 2010, Ye reported the ﬁrst example of a chiral N-
+heterocyclic carbene (NHC)-catalyzed [4+2] cycloaddition
+reaction of ketenes and 3-alkylenyloxindoles to give the
+corresponding 3,4-dihydropyrano[2,3-b]indol-2-ones in excel-
+lent yields with good diastereo- and enantioselectivities.3 In
+2012, Zhong developed a chiral NHC-catalyzed Diels−Alder
+reaction of 2-oxindolin-3-ylidenes and α-chloroaldehydes,
+which synthesized the fused pyrano[2,3-b]indoles in good to
+excellent yields with very good stereoselectivities.4 In 2013, Zhu
+and Cheng presented the example of accessing optically active
+dihydropyran-fused indoles through chiral calcium phosphate-
+catalyzed enantioselective hetero-Diels−Alder
+reactions be-
+tween 2-oxoindlin-3-ylidenes and alkyl vinyl ethers (Figure 1).5
+Despite these elegant contributions, the catalytic asymmetric
+synthesis of chiral dihydropyran-fused indole derivatives is still
+in its infancy, and novel catalytic processes are highly desirable.
+Allenoates as an attractive substrate class, which can be
+catalyzed by Lewis base, have become an integral part of the
+synthesis of cyclic compounds in recent years.6 After the
+pioneering phosphine-catalyzed [3+2] cycloaddition of alle-
+noates with alkenes by Lu in 1995,7 a large number of
+annulations between allenoates and electron-deﬁcient oleﬁns or
+imines were developed, providing a variety of carbocycles and
+heterocycles with multifunctional groups.8 However, examples
+of the construction of six-membered oxygenated heterocycles,
+such as dihydropyrans and dihydropyranones, which are
+privileged structural motifs
+in biological and medicinal
+molecules,9 are very limited.10 To the best of our knowledge,
+there is only one report of the synthesis of chiral dihydropyran
+skeletons catalyzed by chiral phosphine.11 On the other hand,
+amine-catalyzed cycloadditions
+to allenoates have been
+disclosed by at least four groups over the past few years.12 In
+
+Figure 1. Application of 3-alkenyloxindoles in asymmetric synthesis of
+dihydropyran-fused indoles.
+
+2011, Tong and Borhan reported an asymmetric [4+2]
+cycloaddition of allenoates with α,β-unsaturated ketone,
+which aﬀorded dihydropyran derivatives in high yields and
+enantioselectivities.12a,b More recently, Shi and Wei developed
+an asymmetric [4+2] cycloaddition of β,γ-unsaturated α-
+ketoesters and α-ketophosphonates with allenic esters by the
+amine type organocatalysts.12c,d Furthermore, Shi and Wei also
+realized a highly enantioselective [2+2] annulation of allenoates
+with triﬂuoromethyl ketones using an analogous cinchona
+alkaloid-derived catalyst.12f In addition, Sasai reported a chiral
+amine-catalyzed [2+2] cycloaddition of ketimines with
+allenoates.12g
+
+According to the consideration mentioned above, the Lewis
+base-catalyzed [4+2] cycloadditions of 3-oleﬁnic oxindoles with
+
+Received:
+Published: April 20, 2015
+
+January 29, 2015
+
+© 2015 American Chemical Society
+
+5279
+
+DOI: 10.1021/acs.joc.5b00212
+J. Org. Chem. 2015, 80, 5279−5286
+
+The Journal of Organic Chemistry
+Table 1. Optimization of the Reaction Conditionsa
+
+Note
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+catalyst
+
+4a
+4b
+4c
+4d
+4e
+4f
+4c
+4c
+4c
+4c
+4c
+4c
+4c
+4c
+4c
+4c
+
+T (°C)
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+−30
+−30
+
+solvent
+
+CHCl3
+CHCl3
+CHCl3
+CHCl3
+CHCl3
+CHCl3
+CH2Cl2
+CH3CN
+THF
+ether
+toluene
+chlorobenzene
+benzotriﬂuoride
+xylene
+toluene
+CHCl3
+
+time (h)
+
+yieldb (%)
+
+96
+96
+48
+96
+96
+96
+24
+1
+3
+3
+4
+12
+6
+3
+96
+144
+
+18
+48
+90
+21
+65
+71
+92
+91
+86
+89
+94
+90
+93
+86
+92
+80
+
+3a:3a′c
+>20:1
+18:1
+>20:1
+>20:1
+>20:1
+15:1
+>20:1
+9:1
+>20:1
+>20:1
+>20:1
+>20:1
+>20:1
+>20:1
+>20:1
+>20:1
+
+eed (%)
+−38
+4
+64
+55
+35
+10
+65
+42
+67
+71
+74
+70
+74
+74
+70
+87
+
+aThe reactions were conducted with 0.1 mmol of 1a, 0.15 mmol of 2a, and 20 mol % catalyst in 0.5 mL of solvent. bIsolated yields. No Z-isomer of
+the cycloadduct was detected. cDetermined by 1H NMR of the crude product. dDetermined by chiral HPLC analysis.
+
+allenoates have been studied, but their asymmetric syntheses
+are being explored.13 We report herein a transformation of 3-
+oleﬁnic oxindole by tertiary amine type Lewis base catalyst
+(Figure 1).
+In practice, an asymmetric [4+2] annulation
+between allenoates and 3-oleﬁnic oxindoles was achieved,
+thus generating enantiomerically enriched dihydropyran-fused
+indole derivatives.14
+<para sub=“opt”>
+We initiated the study with six widely used tertiary amine
+catalysts 4a−f (20 mol %) in CHCl3 at room temperature and
+investigated the reaction between (E)-tert-butyl 3-benzylidene-
+2-oxindoline-1-carboxylate 1a and ethyl 2,3-butadienoate 2a as
+a model (Table 1, entries 1−6). To our delight, all the catalysts
+promoted the reaction with diﬀerent yields, very good
+regioselectivities, and moderate to good enantioselectivities.
+</para>
+<para sub=“opt”>
+Among the six catalysts examined, β-isocupreidine (4c) was
+identiﬁed as the optimal one because of its stereoselectivity and
+eﬃciency (Table 1, entry 3).
+</para>
+<para sub=“opt”>
+A solvent screening was then conducted (Table 1, entries 3
+and 7−14). It was found that benzene type solvents gave
+relatively good results. Among the screened benzene type
+solvents, toluene gave the best result,
+in which cyclization
+product 3a was obtained in 94% yield, with >20:1
+regioselectivity and 74% enantiomeric excess (ee) (Table 1,
+
+entry 11). Unfortunately, lowering the reaction temperature in
+toluene decreases the enantioselectivity (Table 1, entry 15). Via
+further exploration of the reaction conditions, the employment
+of CHCl3 at −30 °C was found to aﬀord optimal results with an
+80% yield, a >20:1 regioselectivity, and an 87% ee (Table 1,
+entry 16).
+</para>
+<para sub="scope">
+Having established the optimal
+
+reaction conditions, we
+subsequently turned our attention to examining the substrate
+scope with respect to a variety of arylidenoxindoles. As shown
+in Table 2, the corresponding cyclization products 3 were
+generally obtained in high yields (71−98%) with good
+enantioselectivities (76−90% ee) (Table 2, entries 1−13).
+Substrates containing strong electron-withdrawing groups at
+the para positions of the benzene rings of 1 exhibited higher
+reactivities (1e and 1f). A larger aromatic ring could also be
+accommodated in the reaction, giving good yield and excellent
+enantioselectivity (Table 2, entry 14). When the substrates
+were heterocyclic rings (1n and 1o), the [4+2] cycloaddition
+could also work; however,
+lower yields and moderate
+enantioselectivities were obtained (Table 2, entrise 15 and
+16). To our disappointment, when R1 is an ester or aliphatic
+group (1p and 1q), corresponding cyclization products 3p and
+3q were obtained with low yields and bad enantioselectivities
+</para>
+5280
+
+DOI: 10.1021/acs.joc.5b00212
+J. Org. Chem. 2015, 80, 5279−5286
+
+The Journal of Organic Chemistry
+Table 2. Substrates scopea
+
+Note
+
+R4
+
+t (days)
+
+yieldb (%)
+
+80
+82
+94
+82
+98
+98
+84
+85
+90
+96
+84
+71
+93
+11
+19
+47
+19
+92
+88
+87
+61
+19
+36
+27
+83
+
+eec (%)
+3a, 87
+3b, 87
+3c, 90
+3d, 89
+3e, 87
+3f, 87
+3g, 89
+3h, 90
+3i, 88
+3j, 87
+3k, 76
+3l, 84
+3m, 88
+3n, 65
+3o, 61
+3p, 15
+3q, 38
+3r, 86
+3s, 85
+3t, 82
+3u, 83
+3v, 7
+3w, 87
+3x, 83
+3y, 84
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+10
+11
+12
+13
+14
+15
+16
+17
+18d
+19
+20
+21e
+22
+23f
+24
+25
+26
+
+R1
+1a, C6H5
+1b, 4-CH3C6H4
+1c, 4-ClC6H4
+1d, 4-BrC6H4
+1e, 4-CNC6H4
+1f, 4-NO2C6H4
+1g, 3-FC6H4
+1h, 3-ClC6H4
+1i, 3-BrC6H4
+1j, 3,4-diClC6H3
+1k, 2-FC6H4
+1l, 2-NO2C6H4
+1m, 2-naphthyl
+1n, 2-thienyl
+1o, 2-furyl
+1p, CO2Et
+1q, tBu
+1r, C6H5
+1s, C6H5
+1t, C6H5
+1u, C6H5
+1v, C6H5
+1a, C6H5
+1a, C6H5
+1a, C6H5
+
+R2
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+5-Cl
+6-Cl
+H
+H
+H
+H
+H
+H
+
+R3
+Boc
+Boc
+Boc
+Boc
+Boc
+Boc
+Boc
+Boc
+Boc
+Boc
+Boc
+Boc
+Boc
+Boc
+Boc
+Boc
+Boc
+Boc
+Boc
+CO2Et
+Ac
+Bn
+Boc
+Boc
+Boc
+
+Et
+Et
+Et
+Et
+Et
+Et
+Et
+Et
+Et
+Et
+Et
+Et
+Et
+Et
+Et
+Et
+Et
+Et
+Et
+Et
+Et
+Et
+2b, Me
+2c, iPr
+2d, Bn
+
+6
+10
+8
+5
+2
+2
+5
+5
+4
+5
+8
+6
+7
+10
+8
+7
+1
+2
+4
+4
+7
+1
+6
+6
+6
+
+aThe reactions were conducted with 0.1 mmol of 1, 0.15 mmol of 2, and 20 mol % β-ICD in 0.5 mL of CHCl3 at −30 °C. bIsolated yields
+(regioselectivities of >20:1, determined by 1H NMR analysis of the crude product). cDetermined by chiral HPLC analysis. dThe reactions were
+conducted with 0.1 mmol of 1, 0.15 mmol of 2, and 20 mol % β-ICD in 0.5 mL of toluene at 80 °C. eThe racemic product has been previously
+reported in ref 13a. fThe reactions were conducted with 0.1 mmol of 1, 0.15 mmol of 2, and 20 mol % β-ICD in 0.5 mL of CHCl3 at 80 °C.
+<para sub=“exp”>
+(Table 2, entries 17 and 18). Higher yields and ee values could
+also be achieved when 5- or 6-chloro-substituted (E)-tert-butyl
+3-benzylidene-2-oxindoline-1-carboxylate (1r or 1s,
+respec-
+tively) was introduced to the substrates (Table 2, entry 19 or
+20, respectively). Further examination of
+the N-protecting
+group of oxindole shows that 1t and 1u can also work in this
+cyclization reactions smoothly with good ee values (Table 2,
+entries 21 and 22, respectively). When R3 is a benzyl group,
+[4+2] cycloaddition product 3v was isolated in an almost
+racemic fashion in very low yield.15
+</para>
+<para sub="scope">
+To explore the substrate scope of the [4+2] cycloaddition,
+diﬀerent substituted allenoates (2b−d) were further examined.
+As shown in Table 2, the result for 3y is good (Table 2, entry
+26). The enantioselectivities of 3w and 3x were very good;
+however, bad yields were obtained (Table 2, entries 24 and
+25).16
+</para>
+<para sub=“props”>
+The absolute conﬁguration of products 3j and 3t was
+determined by X-ray analysis (Figures S1 and S2 of
+the
+Supporting Information).17 The conﬁgurations of other
+products were tentatively assigned by referring to that of 3j
+and 3t.
+</para>
+<para sub=“ques”>
+On the basis of the crystal structure of 3j and 3t and previous
+reports,12 we proposed a transition structure shown in Figure 2
+for the [4+2] cycloaddition reactions. We hypothesize that both
+</para>
+Figure 2. Proposed transition-state assembly.
+<para sub=“ques”>
+of the carbonyl oxygen atoms of substrate 1 can bond with the
+phenolic hydroxyl group of β-ICD through hydrogen bonding,
+which could be stabilized as a six-membered ring. The
+zwitterion homoenolate then may preferentially attack from
+the re face to minimize the steric repulsion. The inferior
+enantioselectivities catalyzed by 4g (Figure 3), in which the OH
+group of β-ICD was protected by methyl, further prove the
+important role of the phenolic hydroxyl in enantiocontrol.
+</para>
+<para sub="scope">
+Furthermore, the methodology can also work with (E)-1-
+acetyl-2-benzylideneindolin-3-ones (Figure 4), which give
+products 5−8 through the α-carbon of the allenoate as the
+nucleophilic carbon in passable yields with excellent ee values.
+We assumed that the steric interactions between the ester
+</para>
+5281
+
+DOI: 10.1021/acs.joc.5b00212
+J. Org. Chem. 2015, 80, 5279−5286
+
+The Journal of Organic Chemistry
+
+Note
+
+Figure 3. Formal [4+2] cycloaddition of 1a and 1q with 2a catalyzed
+by 4g.
+
+Figure 4. Results for (E)-1-acetyl-2-benzylideneindolin-3-ones.
+<para sub="scope">
+group of allenoate and the aromatic ring may attribute to the
+observed regioselectivity.
+</para>
+In summary, we have developed an asymmetric [4+2]
+cycloaddition reaction of allenoates with 3-oleﬁnic oxindoles
+catalyzed by tertiary amine type Lewis base. Remarkably, in the
+presence of a commercially available catalyst, β-ICD, a wide
+range of 3-arylidenoxindoles and substituted allenoates under-
+went
+the reaction smoothly, providing a number of
+dihydropyran-fused indole derivatives in good yields (up to
+98%), excellent regioselectivities (>20:1), and good enantiose-
+lectivities (up to 94% ee).
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Information. Commercial reagents were used as received,
+unless otherwise stated. 1H and 13C NMR spectra were recorded on a
+400 MHz spectrometer. Chemical shifts are reported in parts per
+million from tetramethylsilane with the solvent resonance as the
+internal standard. The following abbreviations were used to designate
+chemical shift mutiplicities: s, singlet; d, doublet; t, triplet; q, quartet;
+m, multiplet. All ﬁrst-order splitting patterns were assigned on the
+basis of the appearance of the multiplet. Splitting patterns that could
+not be easily interpreted were designated as multiplet (m). Mass
+spectra were obtained using electrospray ionization (ESI-TOF),
+electron impact
+ionization (EI-TOF), or matrix-assisted laser
+desorption ionization (MALDI-TOF) mass spectrometry. 3-Oleﬁnic
+oxindoles were synthesized according to the literature procedure.18
+
+General Experimental [4+2] Cycloaddition Reaction Proce-
+dure. To a stirred solution of (E)-tert-butyl 3-benzylidene-2-
+oxindoline-1-carboxylate 1a (0.1 mmol) and β-ICD (0.02 mmol) in
+dry CHCl3 (0.5 mL) at −30 °C was added ethyl 2,3-butadienoate 2a
+(0.15 mmol, 1.5 equiv). The reactions were monitored by TLC. After
+1a was consumed, the reaction solution was concentrated in vacuo and
+the crude was puriﬁed by ﬂash chromatography to aﬀord product 3a.
+The regioselectivity was determined by 1H NMR spectroscopy of the
+crude product. The ee value was determined by chiral HPLC analysis.
+
+(R,E)-tert-Butyl 2-(2-Ethoxy-2-oxoethylidene)-4-phenyl-3,4-
+dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3a). White solid:
+34.6 mg, 80% yield; mp 107−108 °C; 1H NMR (400 MHz, CDCl3)
+δ 8.09 (d, J = 8.3 Hz, 1H), 7.31−7.20 (m, 5H), 7.20−7.12 (m, 1H),
+7.09−7.00 (m, 1H), 6.83 (d, J = 7.5 Hz, 1H), 5.81 (s, 1H), 4.24 (t, J =
+6.4 Hz, 1H), 4.20−4.05 (m, 2H), 3.71−3.59 (m, 2H), 1.70 (s, 9H),
+1.24 (t, J = 7.1 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 166.6, 165.4,
+148.9, 144.6, 141.9, 131.6, 128.8, 127.8, 127.2, 126.4, 123.2, 122.8,
+118.2, 115.1, 102.7, 96.4, 84.3, 60.2, 34.9, 31.9, 28.4, 14.4; HRMS (EI-
+TOF) calcd for C26H27NO5 (M)+ m/z 433.1889, found m/z 433.1896.
+The enantiomeric excess was determined by HPLC with an IA-H
+column at 210 nm (1:19 2-propanol:hexane) at a rate of 1.0 mL/min.
+−54.3° (c 1.0,
+tR = 4.4 min (minor) and 4.7 min (major). [α]25
+D
+CHCl3).
+
+(R,E)-tert-Butyl 2-(2-Ethoxy-2-oxoethylidene)-4-(p-tolyl)-3,4-
+dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3b). Pale yellow
+solid: 36.7 mg, 82% yield; mp 97−99 °C; 1H NMR (400 MHz,
+CDCl3) δ 8.11 (d, J = 8.3 Hz, 1H), 7.21−7.03 (m, 6H), 6.87 (d, J = 7.7
+Hz, 1H), 5.82 (s, 1H), 4.22 (t, J = 6.4 Hz, 1H), 4.19−4.08 (m, 2H),
+3.71−3.58 (m, 2H), 2.33 (s, 3H), 1.71 (s, 9H), 1.26 (t, J = 7.1 Hz,
+3H); 13C NMR (100 MHz, CDCl3) δ 166.7, 165.5, 148.8, 144.5,
+138.8, 136.7, 131.5, 129.4, 127.6, 126.4, 123.2, 122.7, 118.2, 115.1,
+102.6, 96.6, 84.3, 60.1, 34.5, 32.0, 28.3, 21.2, 14.4; HRMS (ESI-TOF)
+calcd for C27H29NO5Na (M + Na)+ m/z 470.1943,
+found m/z
+470.1940. The enantiomeric excess was determined by HPLC with an
+IA-H column at 210 nm (3:97 2-propanol:hexane) at a rate of 1.0 mL/
+−83.0° (c 1.0,
+min. tR = 4.6 min (minor) and 4.9 min (major). [α]25
+D
+CHCl3).
+
+(R,E)-tert-Butyl 4-(4-Chlorophenyl)-2-(2-ethoxy-2-oxoethylidene)-
+3,4-dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3c). White solid:
+43.9 mg, 94% yield; mp 95−96 °C; 1H NMR (400 MHz, CDCl3) δ
+8.16 (d, J = 8.3 Hz, 1H), 7.34−7.28 (m, 2H), 7.26−7.19 (m, 3H), 7.13
+(t, J = 7.5 Hz, 1H), 6.91 (d, J = 7.7 Hz, 1H), 5.88 (s, 1H), 4.29 (t, J =
+6.1 Hz, 1H), 4.26−4.12 (m, 2H), 3.74 (dd, J = 15.2, 6.0 Hz, 1H), 3.64
+(dd, J = 15.2, 6.3 Hz, 1H), 1.76 (s, 9H), 1.31 (t, J = 7.1 Hz, 3H); 13C
+NMR (100 MHz, CDCl3) δ 166.6, 164.8, 148.8, 144.7, 140.4, 132.9,
+131.6, 129.1, 128.9, 126.2, 123.4, 123.0, 118.0, 115.2, 103.0, 95.8, 84.5,
+60.3, 34.3, 31.7, 28.3, 14.3; HRMS (ESI-TOF) calcd for
+C26H26ClNO5Na (M + Na)+ m/z 490.1397, found m/z 490.1395.
+The enantiomeric excess was determined by HPLC with an OD-H
+column at 210 nm (3:97 2-propanol:hexane) at a rate of 1.0 mL/min.
+−65.6° (c 1.0,
+tR = 5.5 min (minor) and 8.6 min (major). [α]25
+D
+CHCl3).
+
+(R,E)-tert-Butyl 4-(4-Bromophenyl)-2-(2-ethoxy-2-oxoethylidene)-
+3,4-dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3d). White
+solid: 41.9 mg, 82% yield; mp 89−90 °C; 1H NMR (400 MHz,
+CDCl3) δ 8.11 (d, J = 8.3 Hz, 1H), 7.41 (d, J = 8.4 Hz, 2H), 7.19 (t, J
+= 7.8 Hz, 1H), 7.10 (dd, J = 16.4, 8.0 Hz, 3H), 6.86 (d, J = 7.7 Hz,
+1H), 5.83 (s, 1H), 4.23 (t, J = 6.1 Hz, 1H), 4.20−4.06 (m, 2H), 3.69
+(dd, J = 15.2, 6.0 Hz, 1H), 3.58 (dd, J = 15.3, 6.3 Hz, 1H), 1.71 (s,
+9H), 1.26 (t, J = 7.1 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 166.6,
+164.8, 148.8, 144.7, 140.9, 131.9, 131.6, 129.5, 126.1, 123.4, 123.0,
+121.0, 118.0, 115.2, 103.0, 95.7, 84.5, 60.3, 34.3, 31.6, 28.3, 14.3;
+HRMS (ESI-TOF) calcd for C26H26BrNO5Na (M + Na)+ m/z
+534.0892,
+found m/z 534.0888. The enantiomeric excess was
+determined by HPLC with an OD-H column at 210 nm (3:97 2-
+propanol:hexane) at a rate of 1.0 mL/min. tR = 5.8 min (minor) and
+8.9 min (major). [α]25
+
+−65.4° (c 1.0, CHCl3).
+
+(R,E)-tert-Butyl 4-(4-Cyanophenyl)-2-(2-ethoxy-2-oxoethylidene)-
+3,4-dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3e). Pale yellow
+solid: 44.9 mg, 98% yield; mp 97−99 °C; 1H NMR (400 MHz,
+CDCl3) δ 8.11 (d, J = 8.3 Hz, 1H), 7.58 (d, J = 8.2 Hz, 2H), 7.35 (d, J
+= 8.3 Hz, 2H), 7.24−7.17 (m, 1H), 7.09 (t, J = 7.4 Hz, 1H), 6.85 (d, J
+= 7.7 Hz, 1H), 5.84 (s, 1H), 4.33 (t, J = 5.9 Hz, 1H), 4.18−4.05 (m,
+2H), 3.81 (dd, J = 15.2, 5.5 Hz, 1H), 3.54 (dd, J = 15.3, 6.3 Hz, 1H),
+1.70 (s, 9H), 1.25 (t, J = 7.1 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ
+166.4, 164.1, 148.6, 147.4, 144.9, 132.6, 131.5, 128.5, 125.8, 123.5,
+123.2, 118.9, 117.6, 115.3, 111.1, 103.4, 94.8, 84.6, 60.3, 34.8, 31.1,
+28.3, 14.3; HRMS (ESI-TOF) calcd for C27H26N2O5Na (M + Na)+ m/
+z 481.1739,
+found m/z 481.1738. The enantiomeric excess was
+
+D
+</para>
+5282
+
+DOI: 10.1021/acs.joc.5b00212
+J. Org. Chem. 2015, 80, 5279−5286
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+D
+
+D
+
+determined by HPLC with an OD-H column at 210 nm (1:4 2-
+propanol:hexane) at a rate of 1.0 mL/min. tR = 5.8 min (minor) and
+10.5 min (major). [α]25
+
+−82.4° (c 1.0, CHCl3).
+
+(R,E)-tert-Butyl 2-(2-Ethoxy-2-oxoethylidene)-4-(4-nitrophenyl)-
+3,4-dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3f). Pale yellow
+solid: 46.8 mg, 98% yield; mp 119−121 °C; 1H NMR (400 MHz,
+CDCl3) δ 8.15 (d, J = 8.8 Hz, 2H), 8.12 (d, J = 8.5 Hz, 1H), 7.41 (d, J
+= 8.7 Hz, 2H), 7.24−7.16 (m, 1H), 7.13−7.05 (m, 1H), 6.85 (d, J =
+7.7 Hz, 1H), 5.85 (s, 1H), 4.39 (t, J = 5.9 Hz, 1H), 4.19−4.05 (m,
+2H), 3.85 (dd, J = 15.2, 5.4 Hz, 1H), 3.62−3.51 (m, 1H), 1.71 (s, 9H),
+1.24 (t, J = 7.1 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 166.4, 164.0,
+149.5, 148.6, 147.2, 145.0, 131.5, 128.6, 125.8, 124.1, 123.5, 123.2,
+117.6, 115.4, 103.5, 94.8, 84.7, 60.4, 34.6, 31.1, 28.3, 14.3; HRMS
+(ESI-TOF) calcd for C26H25N2O7 (M − H)− m/z 477.1662, found m/
+z 477.1662. The enantiomeric excess was determined by HPLC with
+an OD-H column at 210 nm (1:4 2-propanol:hexane) at a rate of 1.0
+−78.6° (c
+mL/min. tR = 6.0 min (minor) and 11.4 min (major). [α]25
+1.0, CHCl3).
+
+(R,E)-tert-Butyl 2-(2-Ethoxy-2-oxoethylidene)-4-(3-ﬂuorophenyl)-
+3,4-dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3g). White
+solid: 37.9 mg, 84% yield; mp 87−88 °C; 1H NMR (400 MHz,
+CDCl3) δ 8.14 (d, J = 8.3 Hz, 1H), 7.32−7.25 (m, 1H), 7.25−7.18 (m,
+1H), 7.15−7.06 (m, 2H), 6.98−6.91 (m, 3H), 5.87 (s, 1H), 4.29 (t, J =
+6.1 Hz, 1H), 4.23−4.09 (m, 2H), 3.77 (dd, J = 15.3, 5.9 Hz, 1H), 3.61
+(ddd, J = 15.4, 6.3, 0.6 Hz, 1H), 1.74 (s, 9H), 1.28 (t, J = 7.1 Hz, 3H);
+13C NMR (100 MHz, CDCl3) δ 166.5, 164.8, 163.1 (d, 1JCF = 245.0
+Hz), 148.8, 144.7, 144.6 (d, 3JCF = 6.7 Hz), 131.6, 130.2 (d, 3JCF = 8.2
+Hz), 126.1, 123.4 (d, 4JCF = 2.7 Hz), 123.0, 117.9, 115.2, 114.6 (d, 2JCF
+= 21.6 Hz), 114.1 (d, 2JCF = 21.0 Hz), 103.0, 95.7, 84.4, 60.2, 34.7,
+34.6, 31.5, 28.3, 14.3; HRMS (ESI-TOF) calcd for C26H26FNO5Na
+(M + Na)+ m/z 474.1693, found m/z 474.1690. The enantiomeric
+excess was determined by HPLC with an OD-H column at 210 nm
+(3:97 2-propanol:hexane) at a rate of 1.0 mL/min. tR = 5.6 min
+(minor) and 9.0 min (major). [α]25
+D
+
+−61.2° (c 1.0, CHCl3).
+
+(R,E)-tert-Butyl 4-(3-Chlorophenyl)-2-(2-ethoxy-2-oxoethylidene)-
+3,4-dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3h). White
+solid: 39.7 mg, 85% yield; mp 113−114 °C; 1H NMR (400 MHz,
+CDCl3) δ 8.12 (d, J = 8.3 Hz, 1H), 7.25−7.16 (m, 4H), 7.16−7.12 (m,
+1H), 7.09 (td, J = 7.7, 0.8 Hz, 1H), 6.88 (d, J = 7.6 Hz, 1H), 5.84 (s,
+1H), 4.24 (t, J = 6.2 Hz, 1H), 4.21−4.07 (m, 2H), 3.71 (dd, J = 15.3,
+6.0 Hz, 1H), 3.60 (ddd, J = 15.4, 6.3, 0.7 Hz, 1H), 1.71 (s, 9H), 1.26
+(t, J = 7.1 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 166.5, 164.7,
+148.8, 144.8, 144.0, 134.5, 131.6, 130.1, 127.8, 127.4, 126.1, 126.0,
+123.4, 123.0, 117.9, 115.2, 103.1, 95.5, 84.5, 60.3, 34.6, 31.6, 28.3, 14.3;
+HRMS (ESI-TOF) calcd for C26H26ClNO5Na (M + Na)+ m/z
+490.1397,
+found m/z 490.1399. The enantiomeric excess was
+determined by HPLC with an IA-H column at 210 nm (2:98 2-
+propanol:hexane) at a rate of 1.0 mL/min. tR = 5.5 min (minor) and
+6.0 min (major). [α]25
+D
+
+−64.0° (c 1.0, CHCl3).
+
+(R,E)-tert-Butyl 4-(3-Bromophenyl)-2-(2-ethoxy-2-oxoethylidene)-
+3,4-dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3i). White solid:
+46.0 mg, 90% yield; mp 125−127 °C; 1H NMR (400 MHz, CDCl3) δ
+8.12 (d, J = 8.3 Hz, 1H), 7.41−7.34 (m, 2H), 7.23−7.12 (m, 3H),
+7.12−7.06 (m, 1H), 6.88 (d, J = 7.5 Hz, 1H), 5.84 (s, 1H), 4.23 (t, J =
+6.2 Hz, 1H), 4.19−4.09 (m, 2H), 3.69 (dd, J = 15.3, 6.0 Hz, 1H),
+3.65−3.56 (m, 1H), 1.71 (s, 9H), 1.26 (t, J = 7.1 Hz, 3H); 13C NMR
+(100 MHz, CDCl3) δ 166.5, 164.7, 148.7, 144.8, 144.3, 131.6, 130.7,
+130.4, 130.3, 126.4, 126.1, 123.4, 123.0, 122.8, 118.0, 115.2, 103.1,
+95.5, 84.5, 60.3, 34.6, 31.6, 28.3, 14.3; HRMS (ESI-TOF) calcd for
+C26H26BrNO5Na (M + Na)+ m/z 534.0892, found m/z 534.0890. The
+enantiomeric excess was determined by HPLC with an AD-H column
+at 210 nm (2:98 2-propanol:hexane) at a rate of 1.0 mL/min. tR = 6.0
+min (minor) and 6.5 min (major). [α]25
+D
+
+−57.8° (c 1.0, CHCl3).
+
+(R,E)-tert-Butyl 4-(3,4-Dichlorophenyl)-2-(2-ethoxy-2-oxoethyli-
+dene)-3,4-dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3j).
+White solid: 48.1 mg, 96% yield; mp 104−105 °C; 1H NMR (400
+MHz, CDCl3) δ 8.11 (d, J = 8.3 Hz, 1H), 7.36 (d, J = 8.3 Hz, 1H),
+7.32 (d, J = 2.1 Hz, 1H), 7.23−7.17 (m, 1H), 7.14−7.06 (m, 2H), 6.89
+(d, J = 7.5 Hz, 1H), 5.84 (s, 1H), 4.23 (t, J = 6.0 Hz, 1H), 4.19−4.09
+(m, 2H), 3.75 (dd, J = 15.2, 5.6 Hz, 1H), 3.53 (ddd, J = 15.2, 6.3, 0.6
+
+D
+
+Hz, 1H), 1.71 (s, 9H), 1.26 (t, J = 7.1 Hz, 3H); 13C NMR (100 MHz,
+CDCl3) δ 166.5, 164.3, 148.7, 144.9, 142.3, 132.8, 131. 6, 131.2, 130.7,
+129.7, 127.1, 125.9, 123.5, 123.1, 117.8, 115.3, 103.4, 95.1, 84.6, 60.3,
+34.0, 31.4, 28.3, 14.3; HRMS (ESI-TOF) calcd for C26H25Cl2NO5Na
+(M + Na)+ m/z 524.1007, found m/z 524.1005. The enantiomeric
+excess was determined by HPLC with an OD-H column at 210 nm
+(1:99 2-propanol:hexane) at a rate of 1.0 mL/min. tR = 10.8 min
+(minor) and 25.7 min (major). [α]25
+
+−89.3° (c 1.0, CHCl3).
+
+(S,E)-tert-Butyl 2-(2-Ethoxy-2-oxoethylidene)-4-(2-ﬂuorophenyl)-
+3,4-dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3k). White
+solid: 37.9 mg, 84% yield; mp 104−105 °C; 1H NMR (400 MHz,
+CDCl3) δ 8.11 (d, J = 8.3 Hz, 1H), 7.23−7.16 (m, 2H), 7.11−7.06 (m,
+2H), 7.0−6.92 (m, 3H), 5.82 (s, 1H), 4.63 (t, J = 5.9 Hz, 1H), 4.19−
+4.02 (m, 2H), 3.85 (dd, J = 15.3, 5.2 Hz, 1H), 3.49 (dd, J = 15.3, 6.5
+Hz, 1H), 1.70 (s, 9H), 1.23 (t, J = 7.1 Hz, 3H); 13C NMR (100 MHz,
+CDCl3) δ 166.4, 164.8, 160.8 (d, 1JCF = 244.8 Hz), 148.8, 145.1, 131.6,
+129.3 (d, 3JCF = 3.7 Hz), 128.8 (d, 3JCF = 8.2 Hz), 128.6 (d, 2JCF = 13.7
+Hz), 126.1, 124.3 (d, 4JCF = 3.3 Hz), 123.3, 122.9, 117.8, 115.6 (d, 2JCF
+= 21.7 Hz), 115.2, 103.2, 94.9, 84.4, 60.2, 30.3, 28.3, 27.7 (d, 3JCF = 3.3
+Hz), 14.3; HRMS (ESI-TOF) calcd for C26H26FNO5Na (M + Na)+
+m/z 474.1693, found m/z 474.1692. The enantiomeric excess was
+determined by HPLC with an OD-H column at 210 nm (1:99 2-
+propanol:hexane) at a rate of 1.0 mL/min. tR = 7.5 min (minor) and
+8.8 min (major). [α]25
+
+−46.2° (c 1.0, CHCl3).
+
+(R,E)-tert-Butyl 2-(2-Ethoxy-2-oxoethylidene)-4-(2-nitrophenyl)-
+3,4-dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3l). Brown oil:
+34.0 mg, 71% yield; 1H NMR (400 MHz, CDCl3) δ 8.10 (d, J = 8.3
+Hz, 1H), 7.98 (dd, J = 7.7, 1.7 Hz, 1H), 7.40 (pd, J = 7.3, 1.6 Hz, 2H),
+7.22−7.12 (m, 2H), 7.08 (dd, J = 11.1, 4.0 Hz, 1H), 6.83 (d, J = 7.6
+Hz, 1H), 5.85 (s, 1H), 4.93 (dd, J = 6.7, 4.7 Hz, 1H), 4.17−4.01 (m,
+2H), 3.88 (dd, J = 15.4, 4.7 Hz, 1H), 3.60 (ddd, J = 15.4, 6.8, 0.9 Hz,
+1H), 1.71 (s, 9H), 1.20 (t, J = 7.1 Hz, 3H); 13C NMR (100 MHz,
+CDCl3) δ 166.1, 163.8, 149.3, 148.7, 145.7, 136.5, 133.2, 131.6, 130.2,
+128.2, 125.7, 125.0, 123.5, 123.3, 117.7, 115.3, 104.1, 94.7, 84.7, 60.4,
+31.1, 30.1, 28.4, 14.3; HRMS (ESI-TOF) calcd for C26H25N2O7 (M −
+H)− m/z 477.1662, found m/z 477.1665. The enantiomeric excess was
+determined by HPLC with an OD-H column at 210 nm (2:98 2-
+propanol:hexane) at a rate of 1.0 mL/min. tR = 12.0 min (minor) and
+13.9 min (major). [α]25
+D
+
+−80.2° (c 1.0, CHCl3).
+
+(R,E)-tert-Butyl 2-(2-Ethoxy-2-oxoethylidene)-4-(naphthalen-2-
+yl)-3,4-dihydropyrano[2,3-b]-indole-9(2H)-carboxylate (3m). White
+solid: 44.9 mg, 93% yield; mp 150−151 °C; 1H NMR (400 MHz,
+CDCl3) δ 8.20 (d, J = 8.3 Hz, 1H), 7.86−7.73 (m, 3H), 7.73 (s, 1H),
+7.51−7.43 (m, 3H), 7.25−7.18 (m, 1H), 7.07−7.04 (m, 1H), 6.89 (d, J
+= 7.5 Hz, 1H), 5.91 (s, 1H), 4.47 (t, J = 6.3 Hz, 1H), 4.23−4.07 (m,
+2H), 3.87−3.74 (m, 2H), 1.77 (s, 9H), 1.26 (t, J = 7.1 Hz, 3H); 13C
+NMR (100 MHz, CDCl3) δ 166.5, 165.2, 148.8, 144.7, 139.3, 133.5,
+132.7, 131.6, 128.6, 127.9, 127.7, 126.4, 126.3, 126.1, 125.8, 125.7,
+123.3, 122.8, 118.2, 115.1, 102.7, 96.1, 84.3, 60.1, 35.0, 31.8, 28.3, 14.3;
+HRMS (ESI-TOF) calcd for C30H29NO5Na (M + Na)+ m/z 506.1943,
+found m/z 506.1942. The enantiomeric excess was determined by
+HPLC with an AD-H column at 210 nm (3:97 2-propanol:hexane) at
+a rate of 1.0 mL/min. tR = 5.9 min (minor) and 6.5 min (major).
+[α]25
+
+−112.3° (c 1.0, CHCl3).
+
+(S,E)-tert-Butyl 2-(2-Ethoxy-2-oxoethylidene)-4-(thiophen-2-yl)-
+3,4-dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3n). Pale yellow
+solid: 4.8 mg, 11% yield; mp 111−113 °C; 1H NMR (400 MHz,
+CDCl3) δ 8.10 (d, J = 8.1 Hz, 1H), 7.24−7.11 (m, 4H), 6.93−6.86 (m,
+2H), 5.85 (s, 1H), 4.58 (t, J = 5.4 Hz, 1H), 4.23−4.07 (m, 3H), 3.40
+(dd, J = 15.3, 6.2 Hz, 1H), 1.69 (s, 9H), 1.28 (t, J = 7.1 Hz, 3H); 13C
+NMR (100 MHz, CDCl3) δ 166.6, 164.7, 148.8, 145.9, 144.1, 131.5,
+126.9, 126.2, 124.8, 124.4, 123.4, 123.0, 117.8, 115.2, 103.4, 96.7, 84.4,
+60.3, 31.6, 30.0, 28.3, 14.4; HRMS (ESI-TOF) calcd for
+C24H25NO5SNa (M + Na)+ m/z 462.1351,
+found m/z 462.1348.
+The enantiomeric excess was determined by HPLC with an IA-H
+column at 210 nm (2:98 2-propanol:hexane) at a rate of 1.0 mL/min.
+−6.18° (c 0.5,
+tR = 6.3 min (minor) and 6.8 min (major). [α]25
+D
+CHCl3).
+
+(S,E)-tert-Butyl 2-(2-Ethoxy-2-oxoethylidene)-4-(furan-2-yl)-3,4-
+dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3o). Yellow solid:
+
+D
+
+D
+</para>
+5283
+
+DOI: 10.1021/acs.joc.5b00212
+J. Org. Chem. 2015, 80, 5279−5286
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+8.1 mg, 19% yield; mp 69−70 °C; 1H NMR (400 MHz, CDCl3) δ 8.11
+(d, J = 7.7 Hz, 1H), 7.33 (s, 1H), 7.25−7.14 (m, 3H), 6.27 (s, 1H),
+6.10 (d, J = 2.9 Hz, 1H), 5.85 (s, 1H), 4.37 (t, J = 5.4 Hz, 1H), 4.27−
+4.12 (m, 3H), 3.31 (dd, J = 15.3, 6.3 Hz, 1H), 1.69 (s, 9H), 1.30 (t, J =
+7.1 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 166.7, 164.9, 154.6,
+148.8, 144.2, 142.0, 131.5, 126.4, 123.4, 122.9, 117.7, 115.2, 110.3,
+106.2, 103.1, 94.7, 84.3, 60.3, 28.4, 28.3, 28.0, 14.4; HRMS (ESI-TOF)
+calcd for C24H26NO6 (M + H)+ m/z 424.1760, found m/z 424.1756.
+The enantiomeric excess was determined by HPLC with an OD-H
+column at 210 nm (3:97 2-propanol:hexane) at a rate of 1.0 mL/min.
+−25.7° (c 0.405,
+tR = 6.1 min (minor) and 7.9 min (major). [α]20
+CHCl3).
+
+(E)-9-tert-Butyl 4-Ethyl 2-(2-Ethoxy-2-oxoethylidene)-3,4-
+dihydropyrano[2,3-b]indole-4,9(2H)-dicarboxylate (3p). Colorless
+oil: 20.2 mg, 47% yield; 1H NMR (400 MHz, CDCl3) δ 8.09 (dd, J
+= 5.7, 3.2 Hz, 1H), 7.46−7.44 (m, 1H), 7.23−7.20 (m, 2H), 5.86 (s,
+1H), 4.40 (dd, J = 15.6, 2.8 Hz, 1H), 4.21 (q, J = 7.1 Hz, 2H), 4.13 (q,
+J = 7.1 Hz, 2H), 3.94 (dd, J = 6.5, 2.9 Hz, 1H), 2.90 (dd, J = 15.5, 5.8
+Hz, 1H), 1.67 (s, 9H), 1.31 (t, J = 7.1 Hz, 4H), 1.21 (t, J = 7.1 Hz,
+3H); 13C NMR (100 MHz, CDCl3) δ 171.8, 166.7, 164.3, 148.7,
+144.6, 131.4, 126.1, 123.5, 123.1, 117.8, 115.2, 103.1, 91.4, 84.5, 61.5,
+60.3, 34.3, 28.3, 24.8, 14.4, 14.2; HRMS (ESI-TOF) calcd for
+C23H28NO7 (M + H)+ m/z 430.1866,
+found m/z 430.1866. The
+enantiomeric excess was determined by HPLC with an AD-H column
+at 210 nm (1:19 2-propanol:hexane) at a rate of 1.0 mL/min. tR = 5.8
+min (major) and 6.5 min (minor). [α]20
+
+D +4.2° (c 1.0, CHCl3).
+
+(E)-tert-Butyl 4-(tert-Butyl)-2-(2-ethoxy-2-oxoethylidene)-3,4-
+dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3q). Colorless oil:
+7.8 mg, 19% yield; 1H NMR (400 MHz, CDCl3) δ 8.13 (dd, J = 8.5,
+4.6 Hz, 1H), 7.44−7.37 (m, 1H), 7.23−7.14 (m, 2H), 5.15 (d, J = 5.2
+Hz, 1H), 4.19 (q, J = 7.1 Hz, 2H), 3.41−3.24 (m, 3H), 1.65 (s, 9H),
+1.27 (t, J = 7.1 Hz, 4H), 0.99 (s, 9H); 13C NMR (100 MHz, CDCl3) δ
+169.5, 149.1, 146.4, 146.1, 132.2, 128.0, 122.7, 122.4, 119.1, 114.7,
+104.7, 95.0, 83.7, 61.2, 42.4, 39.3, 38.1, 28.3, 27.7, 14.3; HRMS (ESI-
+TOF) calcd for C24H32NO5 (M + H)+ m/z 414.2280, found m/z
+414.2279. The enantiomeric excess was determined by HPLC with an
+IC-H column at 210 nm (1:19 2-propanol:hexane) at a rate of 1.0 mL/
+D +6.7° (c 0.39,
+min. tR = 5.3 min (major) and 6.7 min (minor). [α]20
+CHCl3).
+
+(R,E)-tert-Butyl 6-Chloro-2-(2-ethoxy-2-oxoethylidene)-4-phenyl-
+3,4-dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3r). White solid:
+43.0 mg, 92% yield; mp 133−134 °C; 1H NMR (400 MHz, CDCl3) δ
+8.02 (d, J = 8.8 Hz, 1H), 7.33−7.23 (m, 3H), 7.23−7.18 (m, 2H), 7.11
+(dd, J = 8.8, 2.1 Hz, 1H), 6.79 (d, J = 2.0 Hz, 1H), 5.81 (s, 1H), 4.21
+(t, J = 6.3 Hz, 1H), 4.18−4.05 (m, 2H), 3.64 (qd, J = 15.3, 6.0 Hz,
+2H), 1.69 (s, 9H), 1.24 (t, J = 7.1 Hz, 3H); 13C NMR (100 MHz,
+CDCl3) δ 166.5, 164.9, 148.6, 145.4, 141.4, 129.9, 128.9, 127.7, 127.6,
+127.4, 122.8, 117.8, 116.2, 103.1, 95.9, 84.8, 60.3, 34.8, 31.8, 28.3, 14.3;
+HRMS (ESI-TOF) calcd for C26H26ClNO5Na (M + Na)+ m/z
+490.1397,
+found m/z 490.1394. The enantiomeric excess was
+determined by HPLC with an AD-H column at 210 nm (3:97 2-
+propanol:hexane) at a rate of 1.0 mL/min. tR = 5.0 min (minor) and
+6.2 min (major). [α]25
+D
+
+−21.6° (c 1.0, CHCl3).
+
+(R,E)-tert-Butyl 7-Chloro-2-(2-ethoxy-2-oxoethylidene)-4-phenyl-
+3,4-dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3s). White solid:
+41.1 mg, 88% yield; mp 138−139 °C; 1H NMR (400 MHz, CDCl3) δ
+8.15 (d, J = 1.8 Hz, 1H), 7.32−7.23 (m, 3H), 7.23−7.18 (m, 2H), 7.00
+(dd, J = 8.3, 1.9 Hz, 1H), 6.67 (d, J = 8.3 Hz, 1H), 5.80 (s, 1H), 4.20
+(t, J = 6.6 Hz, 1H), 4.17−4.09 (m, 2H), 3.73 (dd, J = 15.4, 6.1 Hz,
+1H), 3.54 (dd, J = 15.4, 7.0 Hz, 1H), 1.70 (s, 9H), 1.24 (t, J = 7.1 Hz,
+3H); 13C NMR (100 MHz, CDCl3) δ 166.5, 165.0, 148.5, 144.8,
+141.5, 131.9, 128.8, 128.5, 127.7, 127.3, 124.8, 123.6, 118.9, 115.6,
+102.9, 96.2, 84.8, 60.2, 34.9, 31.9, 28.3, 14.3; HRMS (ESI-TOF) calcd
+for C26H26ClNO5Na (M + Na)+ m/z 490.1397, found m/z 490.1397.
+The enantiomeric excess was determined by HPLC with an AD-H
+column at 210 nm (3:97 2-propanol:hexane) at a rate of 1.0 mL/min.
+−42.8° (c 1.0,
+tR = 4.5 min (minor) and 4.9 min (major). [α]25
+CHCl3).
+
+(R,E)-Ethyl 2-(2-Ethoxy-2-oxoethylidene)-4-phenyl-3,4-
+dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3t). White solid:
+
+D
+
+D
+
+D
+</para>
+Note
+<para sub=“exp”>
+35.2 mg, 87% yield; mp 121−123 °C; 1H NMR (400 MHz, CDCl3)
+δ 8.10 (d, J = 8.3 Hz, 1H), 7.32−7.21 (m, 5H), 7.20−7.15 (m, 1H),
+7.06 (td, J = 7.7, 0.9 Hz, 1H), 6.83 (d, J = 7.7 Hz, 1H), 5.84 (s, 1H),
+4.52 (q, J = 7.1 Hz, 2H), 4.25 (t, J = 6.4 Hz, 1H), 4.19−4.06 (m, 2H),
+3.73−3.58 (m, 2H), 1.50 (t, J = 7.1 Hz, 3H), 1.24 (t, J = 7.1 Hz, 3H);
+13C NMR (100 MHz, CDCl3) δ 166.6, 165.1, 150.4, 144.5, 141.7,
+131.5, 128.8, 127.7, 127.2, 126.6, 123.5, 123.0, 118.3, 115.2, 102.9,
+96.8, 63.5, 60.2, 35.0, 31.9, 14.5, 14.3; HRMS (MALDI-TOF) calcd for
+C24H23NO5Na (M + Na)+ m/z 428.1474, found m/z 428.1469. The
+enantiomeric excess was determined by HPLC with an AD-H column
+at 210 nm (3:97 2-propanol:hexane) at a rate of 1.0 mL/min. tR = 6.2
+min (minor) and 6.8 min (major). [α]25
+
+−1.50° (c 0.8, CHCl3).
+
+(R,E)-Ethyl 2-[9-Acetyl-4-phenyl-3,4-dihydropyrano[2,3-b]indol-
+2(9H)-ylidene]acetate (3u). White solid: 22.9 mg, 61% yield; mp
+115−117 °C; 1H NMR (400 MHz, CDCl3) δ 8.41 (dd, J = 8.3, 0.5 Hz,
+1H), 7.32−7.23 (m, 5H), 7.22−7.16 (m, 1H), 7.08 (td, J = 7.6, 0.8 Hz,
+1H), 6.82 (d, J = 7.7 Hz, 1H), 5.83 (s, 1H), 4.26 (t, J = 6.4 Hz, 1H),
+4.20−4.07 (m, 2H), 3.73−3.60 (m, 2H), 2.71 (s, 3H), 1.25 (td, J = 7.1,
+0.9 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 168.6, 166.2, 164.7,
+143.6, 141.4, 131.8, 128.8, 127.7, 127.3, 126.5, 124.1, 123.7, 118.1,
+116.6, 103.2, 96.9, 60.4, 34.9, 31.8, 26.6, 14.3; HRMS (MALDI-TOF)
+calcd for C23H21NO4Na (M + Na)+ m/z 398.1368,
+found m/z
+398.1366. The enantiomeric excess was determined by HPLC with an
+IA-H column at 210 nm (1:19 2-propanol:hexane) at a rate of 1.0 mL/
+−37.0° (c 1.0,
+min. tR = 7.3 min (minor) and 8.1 min (major). [α]20
+D
+CHCl3).
+
+(R,E)-Ethyl 2-[9-Benzyl-4-phenyl-3,4-dihydropyrano[2,3-b]indol-
+2(9H)-ylidene]acetate (3v). Yellow solid: 7.9 mg, 19% yield; mp
+65−66 °C; 1H NMR (400 MHz, CDCl3) δ 7.34−7.14 (m, 11H), 7.02
+(t, J = 7.3 Hz, 1H), 6.97−6.86 (m, 2H), 5.76 (s, 1H), 5.27 (s, 2H),
+4.33 (t, J = 6.5 Hz, 1H), 4.19−4.05 (m, 2H), 3.78 (dd, J = 15.2, 5.9 Hz,
+1H), 3.53 (dd, J = 15.2, 7.1 Hz, 1H), 1.23 (t, J = 7.1 Hz, 3H); 13C
+NMR (100 MHz, CDCl3) δ 166.6, 166.0, 145.5, 142.9, 137.2, 132.0,
+128.9, 128.6, 127.8, 127.7, 127.0, 126.9, 125.2, 120.3, 120.2, 118.4,
+109.4, 102.3, 90.8, 60.1, 45.5, 35.7, 33.0, 14.4; HRMS (ESI-TOF) calcd
+for C28H26NO3 (M + H)+ m/z 424.1913, found m/z 424.1915. The
+enantiomeric excess was determined by HPLC with an OD-H column
+at 210 nm (3:97 2-propanol:hexane) at a rate of 1.0 mL/min. tR = 12.2
+D +2.02° (c 0.395, CHCl3).
+min (major) and 16.2 min (minor). [α]20
+(R,E)-tert-Butyl 2-(2-Methoxy-2-oxoethylidene)-4-phenyl-3,4-
+dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3w). White solid:
+15.1 mg, 36% yield; mp 112−113 °C; 1H NMR (400 MHz, CDCl3) δ
+8.13 (d, J = 8.3 Hz, 1H), 7.35−7.26 (m, 5H), 7.23−7.16 (m, 1H),
+7.12−7.05 (m, 1H), 6.87 (d, J = 7.6 Hz, 1H), 5.86 (s, 1H), 4.28 (t, J =
+6.4 Hz, 1H), 3.76−3.63 (m, 5H), 1.74 (s, 9H); 13C NMR (100 MHz,
+CDCl3) δ 167.1, 165.7, 148.8, 144.5, 141.8, 131.6, 128.8, 127.7, 127.2,
+126.4, 123.3, 122.8, 118.2, 115.1, 102.2, 96.5, 84.4, 51.4, 34.9, 31.9,
+28.3; HRMS (ESI-TOF) calcd for C25H25NO5Na (M + Na)+ m/z
+442.1630,
+found m/z 442.1630. The enantiomeric excess was
+determined by HPLC with an AD-H column at 210 nm (2:98 2-
+propanol:hexane) at a rate of 1.0 mL/min. tR = 6.4 min (minor) and
+7.0 min (major). [α]25
+
+−94.1° (c 0.75, CHCl3).
+
+(R,E)-tert-Butyl 2-(2-Isopropoxy-2-oxoethylidene)-4-phenyl-3,4-
+dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3x). White solid:
+12.1 mg, 27% yield; mp 101−103 °C; 1H NMR (400 MHz, CDCl3)
+δ 8.10 (d, J = 8.3 Hz, 1H), 7.31−7.20 (m, 5H), 7.19−7.12 (m, 1H),
+7.08−7.01 (m, 1H), 6.83 (d, J = 7.6 Hz, 1H), 5.78 (s, 1H), 4.99 (dt, J
+= 12.5, 6.3 Hz, 1H), 4.24 (t, J = 6.3 Hz, 1H), 3.64 (d, J = 6.4 Hz, 2H),
+1.70 (s, 9H), 1.23−1.19 (m, 6H); 13C NMR (100 MHz, CDCl3) δ
+166.1, 165.0, 148.9, 144.7, 141.9, 131.6, 128.7, 127.7, 127.1, 126.4,
+123.2, 122.8, 118.2, 115.1, 103.3, 96.3, 84.3, 67.5, 34.9, 31.9, 28.3, 22.0;
+HRMS (ESI-TOF) calcd for C27H29NO5Na (M + Na)+ m/z 470.1943,
+found m/z 470.1942. The enantiomeric excess was determined by
+HPLC with an IA-H column at 210 nm (3:97 2-propanol:hexane) at a
+rate of 1.0 mL/min. tR = 5.1 min (minor) and 6.7 min (major). [α]25
+D
+−4.67° (c 0.6, CHCl3).
+(R,E)-tert-Butyl 2-[2-(Benzyloxy)-2-oxoethylidene]-4-phenyl-3,4-
+dihydropyrano[2,3-b]indole-9(2H)-carboxylate (3y). Pale yellow
+solid: 41.1 mg, 83% yield; mp 72−73 °C; 1H NMR (400 MHz,
+CDCl3) δ 8.10 (d, J = 8.3 Hz, 1H), 7.39−7.19 (m, 10H), 7.17 (t, J =
+
+D
+</para>
+5284
+
+DOI: 10.1021/acs.joc.5b00212
+J. Org. Chem. 2015, 80, 5279−5286
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+−47.6° (c 1.0, CHCl3).
+
+7.8 Hz, 1H), 7.05 (t, J = 7.5 Hz, 1H), 6.83 (d, J = 7.7 Hz, 1H), 5.87 (s,
+1H), 5.17−5.06 (m, 2H), 4.24 (t, J = 6.3 Hz, 1H), 3.67 (d, J = 6.4 Hz,
+2H), 1.69 (s, 9H); 13C NMR (100 MHz, CDCl3) δ 166.5, 166.0,
+148.8, 144.5, 141.8, 136.2, 131.6, 128.8, 128.7, 128.3, 128.2, 127.7,
+127.2, 126.3, 123.3, 122.9, 118.2, 115.1, 102.3, 96.4, 84.4, 66.0, 34.8,
+32.0, 28.3; HRMS (MALDI-TOF) calcd for C31H29NO5Na (M + Na)+
+m/z 518.1943, found m/z 518.1940. The enantiomeric excess was
+determined by HPLC with an IA-H column at 210 nm (2:98 2-
+propanol:hexane) at a rate of 1.0 mL/min. tR = 7.6 min (minor) and
+9.1 min (major). [α]25
+D
+Ethyl 5-Acetyl-2-methyl-4-phenyl-4,5-dihydropyrano[3,2-b]-
+indole-3-carboxylate (5). Yellow solid: 9.0 mg, 24% yield; mp 83−
+85 °C; 1H NMR (400 MHz, CDCl3) δ 7.91−7.82 (m, 1H), 7.71−7.62
+(m, 1H), 7.37−7.29 (m, 2H), 7.26−7.17 (m, 4H), 7.17−7.10 (m, 1H),
+5.75 (s, 1H), 4.22−4.09 (m, 2H), 2.57 (s, 3H), 2.49 (s, 3H), 1.28 (t, J
+= 7.1 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 169.2, 167.2, 158.8,
+143.9, 136.6, 134.0, 128.9, 128.2, 126.9, 125.5, 123.5, 120.9, 120.5,
+117.4, 115.4, 108.1, 60.6, 40.4, 27.1, 19.8, 14.3; HRMS (MALDI-TOF)
+calcd for C23H21NO4Na (M + Na)+ m/z 398.1368,
+found m/z
+398.1366. The enantiomeric excess was determined by HPLC with an
+IA-H column at 210 nm (2:98 2-propanol:hexane) at a rate of 1.0 mL/
+−38.5° (c
+min. tR = 17.6 min (minor) and 18.8 min (major). [α]25
+0.4, CHCl3).
+
+D
+
+D
+
+Ethyl 5-Acetyl-4-(4-chlorophenyl)-2-methyl-4,5-dihydropyrano-
+[3,2-b]indole-3-carboxylate (6). Brown solid: 13.1 mg, 32% yield;
+mp 70−71 °C; 1H NMR (400 MHz, CDCl3) δ 7.80−7.72 (m, 1H),
+7.71−7.64 (m, 1H), 7.39−7.29 (m, 2H), 7.23−7.13 (m, 4H), 5.76 (s,
+1H), 4.19−4.10 (m, 2H), 2.60 (s, 3H), 2.49 (s, 3H), 1.27 (t, J = 7.1
+Hz, 4H); 13C NMR (100 MHz, CDCl3) δ 169.0, 167.0, 159.2, 142.7,
+136.4, 133.8, 132.5, 130.5, 128.3, 125.6, 123.6, 121.0, 120.6, 117.6,
+115.0, 107.8, 60.7, 39.9, 27.3, 19.8, 14.3; HRMS (MALDI-TOF) calcd
+for C23H20ClNO4Na (M + Na)+ m/z 432.0979, found m/z 432.0981.
+The enantiomeric excess was determined by HPLC with an IA-H
+column at 210 nm (2:98 2-propanol:hexane) at a rate of 1.0 mL/min.
+−16.0° (c 0.65,
+tR = 17.1 min (major) and 19.5 min (minor). [α]20
+CHCl3).
+
+Ethyl 5-Acetyl-4-(4-bromophenyl)-2-methyl-4,5-dihydropyrano-
+[3,2-b]indole-3-carboxylate (7). Brown solid: 6.3 mg, 14% yield;
+mp 90−91 °C; 1H NMR (400 MHz, CDCl3) δ 7.76 (d, J = 8.0 Hz,
+1H), 7.68 (d, J = 6.8 Hz, 1H), 7.39−7.29 (m, 4H), 7.13 (d, J = 8.1 Hz,
+2H), 5.75 (s, 1H), 4.19−4.09 (m, 2H), 2.60 (s, 3H), 2.49 (s, 3H), 1.27
+(t, J = 7.1 Hz, 4H); 13C NMR (100 MHz, CDCl3) δ 169.0, 167.0,
+159.2, 143.3, 136.4, 133.8, 131.2, 130.9, 125.6, 123.6, 121.0, 120.8,
+120.5, 117.7, 115.0, 107.7, 60.7, 40.0, 27.3, 19.8, 14.3; HRMS (ESI-
+TOF) calcd for C23H22BrNO4 (M + H)+ m/z 454.0654, found m/z
+454.0641. The enantiomeric excess was determined by HPLC with an
+AD-H column at 210 nm (2:98 2-propanol:hexane) at a rate of 1.0
+−17.3°
+mL/min. tR = 19.3 min (minor) and 20.6 min (major). [α]20
+D
+(c 0.3, CHCl3).
+
+Ethyl 5-Acetyl-4-(3-chlorophenyl)-2-methyl-4,5-dihydropyrano-
+[3,2-b]indole-3-carboxylate (8). Colorless oil: 4.9 mg, 12% yield;
+1H NMR (400 MHz, CDCl3) δ 7.76 (d, J = 7.5 Hz, 1H), 7.68 (d, J =
+7.6 Hz, 1H), 7.39−7.29 (m, 2H), 7.22 (s, 1H), 7.19−7.08 (m, 3H),
+5.76 (s, 1H), 4.25−4.06 (m, 2H), 2.60 (s, 3H), 2.51 (s, 3H), 1.28 (t, J
+= 7.1 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 169.0, 166.9, 159.4,
+146.2, 136.5, 133.9, 133.8, 129.3, 129.2, 127.4, 127.1, 125.6, 123.5,
+120.9, 120.3, 117.7, 115.0, 107.6, 60.7, 40.2, 27.2, 19.8, 14.3; HRMS
+(ESI-TOF) calcd for C23H22ClNO4 (M + H)+ m/z 410.1159, found
+m/z 410.1156. The enantiomeric excess was determined by HPLC
+with an OD-H column at 210 nm (2:98 2-propanol:hexane) at a rate
+of 1.0 mL/min. tR = 11.2 min (major) and 12.0 min (minor). [α]20
+D
+−20.4° (c 0.245, CHCl3).
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+NMR spectra, HPLC data, and X-ray crystal data of compounds
+3j and 3t (cif). This material is available free of charge via the
+Internet at http://pubs.acs.org.
+
+Note
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: xin_li@nankai.edu.cn.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was
+supported by the 973 Program
+(2012CB821600), the National Science Foundation of China
+(21390400, 21421062, 21172112, and 21172118), and the
+“111” project (B06005) of the Ministry of Education of China.
+X.L. also thanks the Program for New Century Excellent
+Talents in University for support (NCET-12-0279).
+
+■ REFERENCES
+
+(1) (a) Wright, C. W.; Allen, D.; Cai, Y.; Phillipson, J. D. Phytother.
+Res. 1992, 6, 121. (b) Kam, T. S.; Tan, S. J.; Ng, S. W.; Kmiyama, K.
+Org. Lett. 2008, 10, 3749. (c) Beniddir, M. A.; Martin, M.-T.; Huu Dau
+Tran, M.-E.; Grellier, P.; Rasoanaivo, P.; Guéritte, F.; Litaudon, M.
+Org. Lett. 2012, 14, 4162.
+(2) (a) Sakakibara, T.; Karasumaru, S.; Kawano, I. J. Am. Chem. Soc.
+1985, 107, 6417. (b) Feldman, K. S.; Karatjas, A. G. Org. Lett. 2004, 6,
+J. Tetrahedron 2005, 61, 3115.
+2849. (c) Reh, S.; Bergman,
+(d) Feldman, K. S.; Vidulova, D. B.; Karatjas, A. D. J. Org. Chem.
+2005, 70, 6429. (e) Miyamoto, H.; Okawa, Y.; Nakazaki, A.;
+Kobayashi, S. Angew. Chem., Int. Ed. 2006, 45, 2274. (f) Boal, B. W.;
+Schammel, A. W.; Garg, N. K. Org. Lett. 2009, 11, 3458. (g) Schammel,
+A. W.; Boal, B. W.; Zu, L.; Mesganaw, T.; Garg, N. K. Tetrahedron
+2010, 66, 4687. (h) Zhang, X.; Yang, Z.-P.; Liu, C.; You, S.-L. Chem.
+Sci. 2013, 4, 3239.
+(3) Lv, H.; Chen, X.-Y.; Sun, L.-h.; Ye, S. J. Org. Chem. 2010, 75,
+6973.
+(4) Yang, L.; Wang, F.; Chua, P. J.; Lv, Y.; Zhong, L.-J.; Zhong, G.
+Org. Lett. 2012, 14, 2894.
+(5) Mao, Z.; Li, W.; Shi, Y.; Mao, H.; Lin, A.; Zhu, C.; Cheng, Y.
+Chem.−Eur. J. 2013, 19, 9754.
+(6) (a) Lang, R. W.; Hansen, H.-J. Org. Synth. 1984, 62, 202. (b) Lu,
+H.; Leow, D.; Huang, K.-W.; Tan, C.-H. J. Am. Chem. Soc. 2009, 131,
+7212 and references cited therein.
+(7) Zhang, C.; Lu, X. J. Org. Chem. 1995, 60, 2906.
+(8) For reviews, see: (a) Lu, X.; Zhang, C.; Xu, Z. Acc. Chem. Res.
+2001, 34, 535. (b) Methot, J. L.; Roush, W. R. Adv. Synth. Catal. 2004,
+346, 1035. (c) Ye, L.-W.; Zhou, J.; Tang, Y. Chem. Soc. Rev. 2008, 37,
+1140. (d) Cowen, B. J.; Miller, S. J. Chem. Soc. Rev. 2009, 38, 3102.
+(e) Marinetti, A.; Voituriez, A. Synlett 2010, 174. (f) Wei, Y.; Shi, M.
+Acc. Chem. Res. 2010, 43, 1005. (g) López, F.; Mascareñas, J. L.
+Chem.−Eur. J. 2011, 17, 418. (h) Zhao, Q.-Y.; Lian, Z.; Wei, Y.; Shi, M.
+Chem. Commun. 2012, 48, 1724. (i) Fan, Y. C.; Kwon, O. Chem.
+Commun. 2013, 49, 11588. (j) Wang, Z.; Xu, X.; Kwon, O. Chem. Soc.
+Rev. 2014, 43, 2927.
+(9) (a) Atta-ur-Rahman; Nasreen, A.; Akhtar, F.; Shekhani, M. S.;
+Clardy, J.; Parvez, M.; Choudhary, M. I. J. Nat. Prod. 1997, 60, 472.
+(b) Yang, W.; Shang, D.; Liu, Y.; Du, Y.; Feng, X. J. Org. Chem. 2005,
+70, 8533. (c) Smith, A. B.; Sperry, J. B.; Han, Q. J. Org. Chem. 2007,
+72, 6891. (d) Ryan, S. J.; Candish, L.; Lupton, D. W. J. Am. Chem. Soc.
+2009, 131, 14176. (e) Canham, S. M.; France, D. J.; Overman, L. E. J.
+Am. Chem. Soc. 2010, 132, 7876. (f) Crimmins, M. T.; Haley, M. W.;
+Bryan, E. A. O. Org. Lett. 2011, 13, 4712. (g) Kobayashi, H.;
+Kanematsu, M.; Yoshida, M.; Shishido, K. Chem. Commun. 2011, 47,
+7440. (h) Ramachandran, P. V.; Tafelska-Kaczmarek, A.; Sakavuyi, K.;
+Chatterjee, A. Org. Lett. 2011, 13, 1302. (i) Trost, B. M.; Frontier, A.
+J.; Thiel, O. R.; Yang, H.; Dong, G. Chem.−Eur. J. 2011, 17, 9762.
+(j) Trost, B. M.; Seganish, W. M.; Chung, C. K.; Amans, D. Chem.−
+Eur. J. 2012, 18, 2948. (k) Conyers, R. C.; Gung, B. W. Chem.−Eur. J.
+2013, 19, 654.
+(10) For the synthesis of pyrones from aldehydes, see: (a) Zhu, X.;
+Schaffner, A.; Li, R. C.; Kwon, O. Org. Lett. 2005, 7, 2977. (b) Creech,
+
+5285
+
+DOI: 10.1021/acs.joc.5b00212
+J. Org. Chem. 2015, 80, 5279−5286
+
+Note
+
+The Journal of Organic Chemistry
+
+G. S.; Kwon, O. Org. Lett. 2008, 10, 429. For [4+2] cycloaddition of
+trifluoromethyl ketones, see: (c) Wang, T.; Ye, S. Org. Lett. 2010, 12,
+4168.
+(11) Yao, W.; Dou, X.; Lu, Y. J. Am. Chem. Soc. 2015, 137, 54.
+(12) (a) Wang, X.; Fang, T.; Tong, X. Angew. Chem., Int. Ed. 2011,
+50, 5361. (b) Ashtekar, K. D.; Staples, R. J.; Borhan, B. Org. Lett. 2011,
+13, 5732. (c) Pei, C.-K.; Shi, M. Tetrahedron: Asymmetry 2011, 22,
+1239. (d) Pei, C.-K.; Jiang, Y.; Shi, M. Org. Biomol. Chem. 2012, 10,
+4355. (e) Pei, C.-K.; Jiang, Y.; Wei, Y.; Shi, M. Angew. Chem., Int. Ed.
+2012, 51, 11328. (f) Zhao, Q.-Y.; Huang, L.; Wei, Y.; Shi, M. Adv.
+Synth. Catal. 2012, 354, 1926. (g) Takizawa, S.; Arteaga, F. A.;
+Yoshida, Y.; Suzuki, M.; Sasai, H. Org. Lett. 2013, 15, 4142.
+(13) Shi and Ye reported the achiral version of
+this reaction,
+independently. However, the asymmetric catalysis of this reaction has
+not been reported until now: (a) Chen, X.-Y.; Wen, M.-W.; Ye, S.;
+Wang, Z.-X. Org. Lett. 2011, 13, 1138. (b) Zhang, X.-C.; Cao, S.-H.;
+Wei, Y.; Shi, M. Org. Lett. 2011, 13, 1142. (c) Zhang, D.-H.; Shi, M.
+ChemistryOpen 2012, 1, 215.
+(14) During the preparation of the manuscript, Shi reported a chiral
+amine-catalyzed cycloaddition between allenoates and acylidenox-
+indoles, which results in the construction of bioxindole-substituted
+hexahydrofuro[2,3-b]furans. See: Yang, H.-B.; Zhao, Y.-Z.; Sang, R.;
+Wei, Y.; Shi, M. Adv. Synth. Catal. 2014, 356, 3799.
+(15) When R3 = H, only trace product was achieved. It is suggested
+that the protecting groups (especially for the electron-withdrawing
+groups) are necessary for the reaction.
+(16) When 4-substituted derivatives of allenoates (e.g., methyl 5-
+phenylpenta-2,3-dienoate and ethyl penta-2,3-dienoate) were selected
+as substrates, no [4+2] cycloaddtion products were isolated.
+(17) CCDC 1057332 and 992745 contain the supplementary
+crystallographic data for compound 3j and 3t, respectively. These
+data can be obtained free of charge from the Cambridge Crystallo-
+graphic Data Centre via www.ccdc.cam.ac.uk/data_request/cif.
+(18) For the synthesis of arylidenoxindoles, see: (a) Milanesio, M.;
+Viterbo, D.; Albini, A.; Fasani, E.; Bianchi, R.; Barzaghi, M. J. Org.
+Chem. 2000, 65, 3416. (b) Chen, X. H.; Wei, Q.; Luo, S. W.; Xiao, H.;
+Gong, L.-Z. J. Am. Chem. Soc. 2009, 131, 13819 and references cited
+therein. (c) Tan, B.; Candeias, N. R.; Barbas, C. F., III. J. Am. Chem.
+Soc. 2011, 133, 4672.
+the synthesis of (E)-1-acetyl-2-
+benzylideneindolin-3-ones, see: (d) Buzas, A.; Merour, J. Y. Synthesis
+1989, 458.
+
+For
+
+5286
+
+DOI: 10.1021/acs.joc.5b00212
+J. Org. Chem. 2015, 80, 5279−5286
+
+

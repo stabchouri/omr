@@ -1,0 +1,619 @@
+Note
+
+pubs.acs.org/joc
+
+†
+
+‡
+
+‡
+
+Victoria Pham,
+
+Development of Orthogonally Protected Hypusine for Solid-Phase
+Peptide Synthesis
+†
+Zhiyong Yu,
+Jeﬀrey Tom,
+Aimin Song,
+and Kurt Deshayes*,†
+∥
+∥
+Guoyong Fang,
+Tao Yu,
+†
+Department of Early Discovery Biochemistry, Genentech, Inc., 1 DNA Way, South San Francisco, California 94080, United States
+‡
+International Discovery Service Unit, WuXi AppTec (Shanghai) Co., Ltd., 288 Fute Zhong Road, Waigaoqiao Free Trade Zone,
+Shanghai 200131, China
+§Department of Protein Chemistry, Genentech, Inc., 1 DNA Way, South San Francisco, California 94080, United States
+∥
+Center for Peptide Service, WuXi AppTec (Shanghai) Co., Ltd., 288 Fute Zhong Road, Waigaoqiao Free Trade Zone, Shanghai
+200131, China
+*S Supporting Information
+
+Dengxiong Zhang,
+
+§
+
+‡
+Dajin Tan,
+
+ABSTRACT: An orthogonally protected hypusine reagent was developed for solid-phase
+synthesis of hypusinated peptides using the Fmoc/t-Bu protection strategy. The reagent was
+synthesized in an overall yield of 27% after seven steps from Cbz-Lys-OBzl and (R)-3-
+hydroxypyrrolidin-2-one. The side-chain protecting groups (Boc and t-Bu) are fully
+compatible with standard Fmoc chemistry and can be readily removed during the peptide
+cleavage step. The utility of the reagent was demonstrated by solid-phase synthesis of hypusinated peptides.
+
+U nusual amino acids widely exist in organisms. Many of
+
+them are formed by posttranslational modiﬁcations
+(PTMs) of natural proteinogenic amino acids and play
+important roles in various biological processes.1 (+)-Hypusine
+((2S,9R)-2,11-diamino-9-hydroxy-7-azaundecanoic acid, 1, Fig-
+ure 1) is a PTM derivative of lysine that was ﬁrst isolated from
+
+Figure 1. Structures of hypusine derivatives.
+
+homogenates of bovine brain in 1971.2 Eukaryotic translation
+initiation factor 5A (eIF5A) is the only known cellular protein
+that contains hypusine. Research has shown that eIF5A plays a
+key role in the viability and proliferation of eukaryotic cells,3
+and is overexpressed in a number of human cancers.4 The
+activity of eIF5A is modulated by the formation of hypusine
+that involves two enzymatic reactions. A speciﬁc lysine residue
+in eIF5A is ﬁrst modiﬁed with the 4-aminobutyl moiety of
+spermidine by deoxyhypusine synthase (DHS), followed by the
+deoxyhypusine hydroxylase (DOHH)-catalyzed hydroxylation.5
+Over the past decade, eIF5A and hypusination have attracted
+increasing attention as a potential diagnostic marker and a drug
+target.4,6 Synthetic hypusinated peptides are of great interest in
+order
+functions of eIF5A.
+Although several synthetic methods for free hypusine have
+been reported,7 the orthogonal protection of the side-chain
+
+to elucidate the physiological
+
+functionalities remains as a challenge for the incorporation of
+hypusine into peptide sequences. In 1997, Bergeron et al.
+developed a protected hypusine reagent (2, Figure 1) for
+peptide synthesis.8 The α-amino group of hypusine was
+protected with Fmoc (9-ﬂuorenylmethoxycarbonyl), and the
+side-chain amino groups and hydroxyl group were protected
+with Cbz (benzyloxycarbonyl) and THP (tetrahydropyranyl),
+respectively. The reagent was successfully used for the synthesis
+of hypusinated peptides.8,9 However, the side-chain protecting
+groups cannot be removed by standard TFA (triﬂuoroacetic
+acid) cleavage, and the deprotection required the treatment
+with HBr in TFA. The extra deprotection step caused not only
+inconvenience but also decreased peptide purity due to the
+harsh reaction conditions.10
+<para sub=“ques”>
+In an eﬀort to develop automated solid-phase synthesis of
+hypusinated peptides, we designed a new orthogonally
+protected hypusine derivative (3, Figure 1) using the standard
+Fmoc/t-Bu protection strategy. The α-amino group was
+protected with Fmoc for solid-phase peptide elongation. Boc
+(tert-butoxycarbonyl) and t-Bu (tert-butyl) were selected to
+protect
+the side-chain amino groups and hydroxyl group,
+respectively. The acid-labile side-chain protecting groups are
+fully compatible with standard Fmoc chemistry and can be
+readily removed during the peptide cleavage step. The hypusine
+molecule contains three amino groups, one hydroxyl group, and
+one carboxyl group. We envisioned that the selective protection
+would be diﬃcult once the molecule was assembled. Therefore,
+the protection should start with the synthons.
+</para>
+Received:
+January 15, 2015
+Published: March 13, 2015
+
+© 2015 American Chemical Society
+
+3677
+
+DOI: 10.1021/acs.joc.5b00110
+J. Org. Chem. 2015, 80, 3677−3681
+
+The Journal of Organic Chemistry
+
+Scheme 1. Synthesis of Orthogonally Protected Hypusine
+
+Note
+
+Table 1. Automated Solid-Phase Synthesis of Hypusinated Peptidesa
+
+entry
+
+peptide sequence
+
+crude purity (%)
+
+isolated yieldb (%)
+
+1
+2
+3
+4
+5
+6
+
+TG-Hpu-HGHAK
+IVEMSTSKTG-Hpu-HGHAK
+IVEMSTSK(Ac)TG-Hpu-HGHAK
+Biotin-IVEMSTSK(Ac)TG-Hpu-HGHAK
+YEDICPSTHNMDVPNI-Hpu-R
+A-Hpu-AIIVEFAQQGLNAALFYENK
+
+75
+63
+46
+49
+65
+58
+
+37
+31
+24
+21
+34
+28
+
+HRMS [M + 2H]2+
+
+calcd
+
+461.7645
+899.4856
+920.4909
+1033.5297
+1110.0328
+1263.1918
+
+found
+461.7654
+899.4863
+920.4906
+1033.5295
+1110.0338
+1263.1912
+
+aHpu represents hypusine, and X represents other amino acids. Standard single-letter codes are used for natural amino acids. bYields were calculated
+based on the resin loading.
+<para sub="scope">
+The synthesis of
+
+the orthogonally protected hypusine
+derivative is illustrated in Scheme 1. The key step of the
+synthesis involved the reductive alkylation of a commercially
+available lysine derivative, Cbz-Lys-OBzl (8), with an aldehyde
+equivalent (7) that was derivatized from (R)-3-hydroxypyrro-
+lidin-2-one (4). The hydroxyl group of 4 was ﬁrst protected
+with t-Bu in 68% yield by the treatment with isobutene in the
+presence of p-TsOH (p-toluenesulfonic acid).11 Subsequent
+reaction of the lactam 5 with Boc2O (di-tert-butyl dicarbonate)
+aﬀorded intermediate 6 in 97% yield.12 The product was
+analyzed with chiral HPLC, and no racemization was observed.
+</para>
+<para sub="scope">
+Initial attempts to reduce intermediate 6 with DIBAL-H
+failed to give the desired product.13 Reduction of 6 with NaBH4
+at −40 °C aﬀorded intermediate 7 in 28% yield, but the yield
+decreased at higher temperature due to the formation of the
+overreduction product. Finally, the aldehyde equivalent 7 was
+obtained by reduction with LiAlH4 at −78 °C in quantitative
+yield.
+</para>
+<para sub="scope">
+Various combinations of reagents, solvents, and conditions
+were tested for the reductive alkylation of Cbz-Lys-OBzl (8)
+with intermediate 7. The best
+result was achieved with
+NaBH3CN in THF at 60 °C in the presence of HOAc.
+Under these conditions, the key intermediate 9 was obtained in
+70% yield. SFC (supercritical ﬂuid chromatography) and NMR
+analysis indicated that compound 9 was the sole product of the
+reductive alkylation. There was no detectable epimerization
+
+probably because the reaction proceeded via a cyclic N-
+acyliminium ion intermediate instead of a ring-opened imine.14
+</para>
+<para sub="scope">
+Intermediate 9 was then reacted with Boc2O to complete the
+protection of the side-chain functionalities in hypusine. The
+fully protected hypusine derivative 10 was obtained in 88%
+yield. Hydrogenation of 10 catalyzed by Pd/C resulted in
+intermediate 11, which was subsequently protected with Fmoc-
+OSu without puriﬁcation.15 The ﬁnal product 3 was obtained in
+67% yield from 10 over two steps. A small amount of 3 was
+treated with 10% piperidine in ACN (acetonitrile) and
+subsequently 4 M HCl in 1,4-dioxane to aﬀord hypusine 1 in
+72% yield as its dihydrochloride salt ([α]D
+23 +7.4 (c 0.5, 6 M
+23 +7.6 (c 0.5, 6 M HCl),7d [α]D
+HCl); lit. [α]D
+25 +7.3 (c 0.52, 6 M
+HCl)7e). The analytical data for this substance matched those
+reported in the literature.7
+</para>
+<para sub="scope">
+The orthogonally protected hypusine reagent 3 was readily
+incorporated into peptide sequences using standard solid-phase
+Fmoc chemistry (Table 1).16 The coupling of 3 was complete
+in 1 h at room temperature using HBTU (O-(benzotriazol-1-
+yl)-N,N,N′,N′-tetramethyluronium hexaﬂuorophosphate)/
+NMM (4-methylmorpholine) as activating reagents. LC-MS
+analysis of the crude hypusinated peptides showed that the
+side-chain protecting groups were completely removed during
+the TFA cleavage step. To date, 47 hypusinated peptides were
+synthesized using reagent 3 in our group with various
+modiﬁcations, including acetylation, biotinylation, PEGylation,
+and stable isotope labeling. The hypusinated peptides were
+</para>
+3678
+
+DOI: 10.1021/acs.joc.5b00110
+J. Org. Chem. 2015, 80, 3677−3681
+
+The Journal of Organic Chemistry
+<para sub="scope">
+obtained in 42−81% crude purity and 12−37% isolated yield
+after HPLC puriﬁcation, which was comparable to that of
+control peptides without hypusination.
+</para>
+<para sub=“props”>
+The LC-MS analysis result of the synthetic stable isotope
+labeled eIF5A(48-55) peptide (Thr-Gly(U-13C2,15N)-hypusine-
+His-Gly(U-13C2,15N)-His-Ala(U-13C3,15N)-Lys, [M + 2H]2+
+Calcd 466.7718) is shown in Figure 2,
+in comparison with
+</para>
+Figure 2. LC-MS analysis results of endogenous (a) and synthetic
+heavy isotope labeled (b) eIF5A(48-55) peptides.
+<para sub=“props”>
+that of the endogenous peptide ([M + 2H]2+ Calcd 461.7645).
+The stable isotope-labeled hypusinated peptide eluted at the
+same time as the endogenous eIF5A(48-55) with the matching
+mass accuracy, isotopic envelope, and MS/MS fragmentation
+pattern (see the Supporting Information), conﬁrming the
+authenticity of the synthetic hypusinated peptide.
+</para>
+In summary, we have developed an orthogonally protected
+hypusine reagent
+for solid-phase synthesis of hypusinated
+peptides. The reagent was synthesized in an overall yield of
+27% after seven steps and was successfully used for the
+synthesis of hypusinated peptides. The side-chain protecting
+groups are fully compatible with standard Fmoc chemistry and
+can be readily removed during the peptide cleavage step. The
+reagent
+the automated synthesis of
+hypusinated peptides.
+
+is ideally suited for
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Experimental Methods. All solvents and reagents were
+used without further puriﬁcation. The purity of compounds was
+determined by LC-MS analysis (C18 column, 2 × 25 mm, 1.6 μm, 1.5
+mL/min, 1.5 min gradient from 5% to 95% ACN/water containing
+0.1% TFA) or HPLC analysis (C18 column, 2.1 × 30 mm, 3 μm, 1.2
+mL/min, 8 min gradient from 10% to 80% ACN/water containing
+0.1% TFA, 220 nm). The optical purity of compounds was determined
+by SFC analysis (chiral column, 4.6 × 150 mm, 3 μm, 2.5 mL/min, 10
+min gradient from 5% to 40% methanol or ethanol (0.05% DEA) in
+CO2, 220 nm). Peptides were puriﬁed by preparative HPLC (C18
+column, 30 × 250 mm, 15 μm, 70 mL/min, 50 min gradient from 10%
+to 90% ACN/water containing 0.1% TFA, 220 nm).
+
+Synthesis of (R)-3-tert-Butoxypyrrolidin-2-one (5). Isobutene
+(27.7 g, 494 mmol) was added to a solution of (R)-3-hydroxy-
+pyrrolidine-2-one (4, 5.0 g, 49.5 mmol) in DCM (dichloromethane)
+(35 mL) in a pressure vessel at −78 °C. The vessel was sealed, and the
+</para>
+Note
+<para sub=“exp”>
+20 +46.3 (c 1.0, CH3OH).
+
+reaction mixture was stirred at room temperature for 16 h. The
+reaction vessel was chilled in a dry ice/isopropanol bath, and the inner
+pressure was carefully released. TLC analysis (EtOAc, Rf = 0.4)
+indicated complete reaction. Saturated NaHCO3 solution was added
+into the mixture until pH = 7, followed by the addition of DCM (100
+mL). The organic phase was separated, and the aqueous phase was
+extracted with DCM (100 mL × 2). The combined organic phase was
+dried over anhydrous Na2SO4 and concentrated under
+reduced
+pressure to give compound 5 (5.3 g, 68%) as a white solid. The
+product was used for the next step without further puriﬁcation. 1H
+NMR (400 MHz, CDCl3) δ 4.13 (t, J = 8.0 Hz, 1H), 3.36−3.31 (m,
+1H), 3.24−3.21 (m, 1H), 2.34−2.30 (m, 1H), 1.99−1.94 (m, 1H),
+1.20 (s, 9H); 13C NMR (100 MHz, DMSO-d6) δ 175.7, 74.0, 69.2,
+37.6, 31.0, 28.2; [α]D
+Synthesis of (R)-tert-Butyl 3-tert-Butoxy-2-oxopyrrolidine-1-
+carboxylate (6). Boc2O (14.7 g, 67.4 mmol) was added to a stirred
+solution of compound 5 (5.3 g, 33.7 mmol), triethylamine (6.8 g, 67.4
+mmol), and DMAP (4.1 g, 33.7 mmol) in DCM (60 mL) at 0 °C. The
+resulting mixture was stirred at room temperature for 16 h. TLC
+analysis (20% EtOAc in petroleum, Rf = 0.6) indicated complete
+reaction. The reaction volatiles were removed under reduced pressure,
+and the residue was puriﬁed by ﬂash column chromatography (5%
+EtOAc in petroleum) to give compound 6 (8.5 g, 97%) as a white
+solid. Chiral HPLC analysis showed no racemization. 1H NMR (400
+MHz, DMSO-d6) δ 4.36(dd, J = 10.0, 8.5 Hz, 1H), 3.62−3.58 (m,
+1H), 3.43−3.40 (m, 1H), 2.22−2.16 (m, 1H), 1.74−1.64 (m, 1H),
+1.44 (s, 9H), 1.16 (s, 9H); 13C NMR (100 MHz, DMSO-d6) δ 172.8,
+149.9, 81.8, 74.6, 70.4, 41.6, 28.0, 27.7; [α]D
+20 +46.0 (c 1.0, CH3OH).
+(2RS,3R)-tert-Butyl 3-tert-Butoxy-2-hydroxy-
+pyrrolidine-1-carboxylate (7). A solution of compound 6 (7.0 g,
+27.2 mmol) in THF (30 mL) was added to a stirred solution of LiAlH4
+(1.55 g, 40.8 mmol) in THF (50 mL) at −78 °C. The resulting
+mixture was stirred at −78 °C for 1 h. TLC analysis (20% EtOAc in
+petroleum, Rf = 0.5) indicated complete reaction. The reaction was
+quenched by adding ice water (1.3 mL), 10% NaOH (1.3 mL), and
+water (2.6 mL) sequentially at −78 °C. The resulting mixture was
+warmed up to 27 °C and then ﬁltered. The ﬁlter cake was washed with
+THF (10 mL × 2). The ﬁltrate was concentrated under reduced
+pressure to give compound 7 (7.0 g, 26.9 mmol, 99.2%) as a colorless
+oil. The product was used for
+further
+puriﬁcation. 1H NMR (400 MHz, DMSO-d6) δ 5.74 (d, J = 3.6 Hz,
+0.5H, OH), 5.54 (d, J = 3.6 Hz, 0.5H, OH), 4.88 (dd, J = 20.0, 3.6 Hz,
+1H), 3.79 (dd, J = 20.0, 3.6 Hz, 1H), 3.25−3.21 (m, 2H), 2.07−2.04
+(m, 1H), 1.56 (brs, 1H), 1.38 (s, 9H), 1.13 (s, 9H); 13C NMR (100
+MHz, DMSO-d6) δ 153.6, 85.7, 78.4, 76.3, 75.5, 73.5, 44.0, 43.7, 30.2,
+29.4, 28.1, 28.0; HRMS (ESI-TOF) m/z: [M + Na]+ Calcd for
+C13H26NO3Na 282.1681; Found: 282.1695.
+
+the next step without
+
+Synthesis of
+
+Assembly of Hypusine Intermediate 9 via Reductive
+Alkylation. NaBH3CN (2.14 g, 34.0 mmol) and HOAc (1.36 g,
+22.7 mmol) were added to a stirred solution of compound 8 (6.0 g,
+11.3 mmol) and compound 7 (4.41 g, 17.0 mmol) in THF (90 mL) at
+room temperature. The resulting mixture was stirred at 60 °C for 16 h.
+TLC analysis (EtOAc, Rf = 0.3) indicated complete reaction. The
+reaction mixture was diluted with saturated NaHCO3 solution (30
+mL) and extracted with EtOAc (100 mL × 2). The combined organic
+phase was washed with brine (60 mL × 2), dried over anhydrous
+Na2SO4, and concentrated to dryness under reduced pressure. The
+residue was puriﬁed by ﬂash column chromatography (50% EtOAc in
+petroleum) to give compound 9 (4.9 g, 70%) as a colorless oil. SFC
+analysis showed no racemization. 1H NMR (400 MHz, CD3OD) δ
+7.34−7.30 (m, 10H), 5.20−5.08 (m, 4H), 4.25−4.22 (m, 2H), 3.92
+(brs, 2H), 3.07−2.93 (m, 6H), 1.88−1.72 (m, 1H), 1.71−1.66 (m,
+5H), 1.42 (s, 9H), 1.23 (s, 9H); 13C NMR (100 MHz, CD3OD) δ
+173.8, 158.9, 138.3, 137.4, 129.8, 129.6, 129.5, 129.0, 76.6, 68.1, 67.8,
+66.6, 55.3, 52.7, 35.6, 32.1, 28.9, 28.8, 26.2, 24.0; HRMS (ESI-TOF)
+m/z: [M + Na]+ Calcd for C34H51N3O7Na 636.3625; Found:
+636.3677.
+
+Synthesis of Fully Protected Hypusine 10. Boc2O (7.47 g, 34.2
+mmol) and triethylamine (4.62 g, 45.6 mmol) were added to a stirred
+solution of compound 9 (14.0 g, 22.8 mmol) in DCM (200 mL) at 0
+</para>
+3679
+
+DOI: 10.1021/acs.joc.5b00110
+J. Org. Chem. 2015, 80, 3677−3681
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+°C. The resulting mixture was stirred at room temperature for 16 h.
+TLC analysis (20% EtOAc in petroleum ether, Rf = 0.4) indicated
+complete reaction. The reaction mixture was concentrated under
+reduced pressure, and the residue was puriﬁed by ﬂash column
+chromatography (30% EtOAc in petroleum) to give fully protected
+hypusine 10 (14.4 g, 20.1 mmol, 88.4%) as a colorless oil. 1H NMR
+(400 MHz, CD3OD) δ 7.32−7.27 (m, 10H), 5.18−5.03 (m, 4H), 4.20
+(brs, 1H), 3.83 (brs, 1H), 3.33−3.31 (m, 1H), 3.23−2.93 (m, 6H),
+1.86−1.79 (m, 1H), 1.67−1.65 (m, 1H), 1.59−1.56 (m, 2H), 1.48−
+1.40 (m, 20H), 1.30 (brs, 2H), 1.14 (s, 9H); 13C NMR (100 MHz,
+CD3OD) δ 172.1, 156.8, 156.4, 155.6, 155.5, 136.3, 135.4, 127.7,
+127.6, 127.4, 127.1, 126.9, 79.3, 79.0, 78.0, 73.4, 68.0, 67.3, 65.9, 65.8,
+53.6, 50.8, 36.1, 33.9, 30.4, 26.9, 26.3, 22.3; HRMS (ESI-TOF) m/z:
+[M + Na]+ Calcd for C39H59N3O9Na 736.4149; Found: 736.4157.
+
+Synthesis of Orthogonally Protected Hypusine 3. A mixture
+of compound 10 (14.4 g, 20.2 mmol), 10% Pd/C (3.0 g), and MeOH
+(methanol) (50 mL) was agitated at room temperature under H2 (40
+psi) for 16 h. TLC analysis (30% EtOAc in petroleum) indicated
+complete reaction. The reaction mixture was ﬁltered. The ﬁltrate was
+concentrated under reduced pressure to aﬀord a white solid, which was
+dissolved in a mixture of 1,4-dioxane (200 mL) and 5% NaHCO3 in
+H2O (200 mL). Fmoc-OSu (8.2 g, 24.2 mmol) was added with stirring
+at 0 °C. The resulting mixture was stirred at room temperature for 16
+h. TLC analysis (60% EtOAc in petroleum, Rf = 0.3) indicated
+complete reaction. The reaction mixture was carefully acidiﬁed with 1
+M HCl to pH 5 and was then extracted with EtOAc (200 mL × 2).
+The combined organic phase was washed with water (200 mL × 3),
+dried over anhydrous Na2SO4, and concentrated under reduced
+pressure to dryness. The residue was puriﬁed by ﬂash column
+chromatography (5% MeOH in DCM) to give orthogonally protected
+hypusine 3 (9.6 g, 67% over two steps) as a white solid. SFC analysis
+showed no racemization. 1H NMR (400 MHz, CD3OD) δ 7.82−7.81
+(m, 2 H), 7.70−7.68 (m, 2 H), 7.43−7.39 (m, 2 H), 7.35−7.31 (m, 2
+H), 4.38−4.35 (m, 2 H), 4.26−4.18 (m, 2 H), 3.88 (brs, 1 H), 3.41
+(brs, 1 H), 3.27−3.01 (m, 6 H), 1.91−1.86 (m, 1 H), 1.74 (brs, 1 H),
+1.62−1.58 (m, 4 H), 1.47−1.44 (m, 20 H), 1.18 (s, 9 H); 13C NMR
+(100 MHz, CD3OD) δ 174.5, 157.3, 156.9, 143.9. 143.8, 141.1, 127.4,
+126.7, 124.8, 119.5, 79.8, 79.5, 78.4, 73.9, 68.4, 67.8, 66.5, 53.8, 53.7,
+51.2, 36.5, 34.3, 31.0, 27.4, 22.9; HRMS (ESI-TOF) m/z: [M + Na]+
+20 −4.4 (c
+Calcd for C39H57N3O9Na 734.3993; Found: 734.3954; [α]D
+1.0, CH3OH).
+
+Hypusine 1 Dihydrochloride. Piperidine (200 μL) was added to
+a solution of compound 3 (200 mg, 0.28 mmol) in ACN (2 mL) at 0
+°C. The resulting mixture was stirred at room temperature for 30 min.
+LC-MS analysis indicated complete reaction. The reaction mixture was
+concentrated under reduced pressure, and the residue was puriﬁed by
+preparative HPLC. The obtained intermediate 11 (104 mg, 0.21
+mmol) was dissolved in 4 M HCl in 1,4-dioxane (2 mL). The resulting
+solution was agitated at room temperature for 2 h and was then diluted
+with anhydrous ether (45 mL). The precipitate was separated by
+centrifugation, washed with anhydrous ether (45 mL × 3), and dried
+over NaOH in vacuo. The crude product was dissolved in MeOH (2
+mL) and precipitated again with anhydrous ether (45 mL) to give
+hypusine 1 dihydrochloride as a white hygroscopic solid (62 mg, 72%
+over two step). 1H NMR (500 MHz, D2O) δ 3.92 (tt, 1H J = 3.1, 9.7
+Hz), 3.85 (t, 1H, J = 6.2 Hz), 3.08−2.90 (m, 6H), 1.89−1.76 (m, 3H),
+1.72−1.61 (m, 3H), 1.45−1.31 (m, 2H); 13C NMR (125 MHz, D2O)
+δ 172.6, 64.6, 53.1, 52.0, 47.1, 36.3, 31.3, 29.3, 24.9, 21.4; HRMS (ESI-
+FTMS) m/z: [M + H]+ Calcd for C10H24N3O3 234.1817; Found:
+234.1810; [α]D
+
+23 +7.4 (c 0.5, 6 M HCl).
+
+Solid-Phase Peptide Synthesis. Automated solid-phase synthesis
+of hypusinated peptides was carried out on a multiplex peptide
+synthesizer using standard Fmoc chemistry. For the coupling step, a
+solution of the Fmoc-protected amino acid (0.2 M) in DMF (N,N-
+dimethylformamide) (1.5 mL) was added to the resin-bound amine
+(0.1 mmol), followed by the addition of a solution of HBTU (0.2 M)
+and NMM (0.4 M) in DMF (1.5 mL) and DCM (1 mL). The
+resulting mixture was purged with nitrogen at room temperature for 1
+h. The supernatant was drained, and the resin was washed with DMF
+(4 mL × 3). For Fmoc deprotection, 20% piperidine/DMF (4 mL)
+</para>
+Note
+<para sub=“exp”>
+was added to the resin. The resulting mixture was purged with
+nitrogen at room temperature for 10 min. The supernatant was
+drained, and the process was repeated once. The resin was then
+washed thoroughly with DMF (4 mL × 6). The coupling−
+deprotection cycle was repeated until
+the peptide assembly was
+complete. For peptide cleavage, the resin was washed thoroughly with
+MeOH (4 mL × 3) and DCM (4 mL × 3), and then dried in vacuo. A
+mixture of TFA/phenol/water/thioanisole/3,6-dioxa-1,8-octane-
+dithiol/triisopropylsilane (v/w/v/v/v/v 82.5:3.75:5:3.75:2.5:2.5, 4
+mL) was added to the resin at 0 °C. The resulting mixture was
+slowly warmed to room temperature and allowed to mix for 4 h. The
+supernatant was collected by ﬁltration, and the resin was washed with
+the cleavage mixture (1 mL × 3). The combined ﬁltrate was
+concentrated under reduced pressure to a small volume, which was
+diluted with anhydrous ether (45 mL). The resulting mixture was
+allowed to stand at 0 °C for 30 min and then centrifuged. The
+precipitate was washed with anhydrous ether (45 mL × 3) and dried in
+vacuo. The crude peptide was analyzed with LC-MS and puriﬁed by
+HPLC.
+
+Sample Preparation of eIF5A(48-55) Peptides for LC-MS/MS
+Analysis. Protein samples were reduced with 10 mM DTT
+(dithiothreitol) in 1× SDS sample buﬀer at 95 °C for 5 min and
+loaded on 4−12% Bis-Tris gel. The protein band corresponding to
+eIF5A was excised and further destained in 50 mM NH4HCO3 in 30%
+ACN/water, and then dehydrated in 100% ACN. Gel pieces were
+rehydrated with 10 ng/μL trypsin in 25 mM NH4HCO3 and chilled on
+ice for 1 h. Excess trypsin solution was removed, and digestion was
+performed in 25 mM NH4HCO3 at 37 °C overnight. Peptides were
+extracted with 50% ACN/water containing 0.1% TFA, followed by
+100% ACN. Heavy isotope labeled hypusinated peptides were spiked
+in at 250 fmol. The peptide mixture was dried to completion and
+resuspended in 2% ACN/water containg 0.1% FA (formic acid).
+
+LC-MS/MS Analysis of eIF5A(48-55) Peptides. Peptide digest
+containing 250 fmol of heavy isotopically labeled peptides was
+analyzed with LC-MS/MS (C18 column, 1.7 mm, 0.1 × 100 mm) with
+a ﬂow rate of 1 μL/min and a gradient of 2−25% Solvent B (where
+Solvent A is 0.1% FA/2% ACN/water and Solvent B is 0.1% FA/2%
+water/ACN) applied over 35 min with a total analysis time of 60 min.
+Precursor ions were analyzed in the FTMS at 60 000 resolution; MS/
+MS was performed in data dependent mode, whereby the top 15 most
+abundant
+fragmentation. Extracted ion
+chromatograms of the endogenous (light) and heavy labeled peptides
+were generated, and area under the curves (AUC) was integrated.
+Abundance measurements were calculated for each analyte peptide as
+the ratio of light to heavy peptides.
+
+ions were subjected for
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Copies of spectra and chromatograms. This material is available
+free of charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: deshayes.kurt@gene.com (K.D.).
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+The eIF5A samples were kindly provided by Dr. Neeraj
+Kapoor. The authors thank Yanzhou Liu and Jin Li
+for
+compound characterization, and Dr. Vishva Dixit and Dr.
+Wayne Fairbrother for helpful discussion.
+
+■ REFERENCES
+(1) Walsh, C. T.; Garneau-Tsodikova, S.; Gatto, G. J., Jr. Angew.
+Chem. Int. Ed. 2005, 44, 7342−7372.
+
+3680
+
+DOI: 10.1021/acs.joc.5b00110
+J. Org. Chem. 2015, 80, 3677−3681
+
+Note
+
+The Journal of Organic Chemistry
+
+(2) Shiba, T.; Mizote, H.; Kaneko, T.; Nakajima, T.; Kakimoto, Y.
+Biochim. Biophys. Acta 1971, 244, 523−531.
+(3) (a) Park, M. H.; Nishimura, K.; Zanelli, C. F.; Valentini, S. R.
+Amino Acids 2010, 38, 491−500. (b) Chen, K. Y.; Liu, A. Y. Biol.
+Signals 1997, 6, 1105−1109.
+(4) (a) Silvera, D.; Formenti, S. C.; Schneider, R. J. Nat. Rev. Cancer
+2010, 10, 254−266. (b) Caraglia, M.; Park, M. H.; Wolff, E. C.; Marra,
+M.; Abbruzzese, A. Amino Acids 2013, 44, 103−109.
+(5) Park, M. H. J. Biochem. 2006, 139, 161−169.
+(6) (a) Dever, T. E.; Gutierrez, E.; Shin, B. S. Crit. Rev. Biochem. Mol.
+Biol. 2014, 49, 413−425. (b) Rossi, D.; Kuroshu, R.; Zanelli, C. F.
+Wiley Interdiscip. Rev.: RNA 2014, 5, 209−222. (c) Agostinelli, E.
+Amino Acids 2014, 46, 475−485.
+(7) (a) Tice, C. M.; Ganem, B. J. Org. Chem. 1983, 48, 5043−5048.
+(b) Tice, C. M.; Ganem, B. J. Org. Chem. 1983, 48, 5048−5050.
+(c) Knapp, S.; Hale, J. J.; Bastos, M.; Molina, A.; Chen, K. Y. J. Org.
+Chem. 1992, 57, 6239−6256. (d) Bergeron, R. J.; Xia, M. X. B.;
+Phanstiel, O., IV J. Org. Chem. 1993, 58, 6804−6806. (e) Jain, R. P.;
+Albrecht, B. K.; DeMong, D. E.; Williams, R. M. Org. Lett. 2001, 3,
+4287−4289.
+(8) Bergeron, R. J.; Ludin, C.; Müller, R.; Smith, R. E.; Phanstiel, O.,
+IV J. Org. Chem. 1997, 62, 3285−3290.
+(9) Bergeron, R. J.; Weimar, W. R.; Müller, R.; Zimmerman, C. O.;
+McCosar, B. H.; Yao, H.; Smith, R. E. J. Med. Chem. 1998, 41, 3888−
+3900.
+(10) Schröder, E.; Lübke, K. The Peptides: Methods of Peptide
+Synthesis; Academic Press: New York, 1965; p 29.
+(11) Adamson, J. G.; Blaskovich, M. A.; Groenevelt, H.; Lajoie, G. A.
+J. Org. Chem. 1991, 56, 3447−3449.
+(12) Grehn, L.; Gunnarsson, K.; Ragnarsson, U. Acta Chem. Scand.,
+Ser. B 1986, 40, 745−750.
+(13) (a) Dieter, R. K.; Sharma, R. R. J. Org. Chem. 1996, 61, 4180−
+4184. (b) Cossy, J.; Cases, M.; Pardo, D. G. Synth. Commun. 1997, 27,
+2769−2776.
+(14) Yazici, A.; Pyne, S. G. Synthesis 2009, 339−368.
+(15) (a) Sigler, G. F.; Fuller, W. D.; Chaturvedi, N. C.; Goodman,
+M.; Verlander, M. Biopolymers 1983, 22, 2157−2162. (b) Lapatsanis,
+L.; Milias, G.; Froussios, K.; Kolovos, M. Synthesis 1983, 671−673.
+(16) Chan, W. C., White, P. D., Eds. Fmoc Solid Phase Peptide
+Synthesis: A Practical Approach; Oxford University Press: New York,
+2000.
+
+3681
+
+DOI: 10.1021/acs.joc.5b00110
+J. Org. Chem. 2015, 80, 3677−3681
+
+

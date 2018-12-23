@@ -1,0 +1,2155 @@
+Article
+
+pubs.acs.org/joc
+
+Taming Chlorine Azide: Access to 1,2-Azidochlorides from Alkenes
+Roman A. Valiulin,†,‡ Sreeman Mamidyala,‡,§ and M. G. Finn*,†,‡
+†
+School of Chemistry and Biochemistry, Georgia Institute of Technology, 901 Atlantic Drive, Atlanta, Georgia 30332-0400, United
+States
+‡
+Department of Chemistry, The Scripps Research Institute, 10550 North Torrey Pines Road, La Jolla, California 92037, United States
+*S Supporting Information
+
+ABSTRACT: The in situ preparation and trapping of chlorine azide
+provided a versatile one-pot method for the azidochlorination of alkenes.
+Gaseous ClN3 generated from sodium azide, hypochlorite, and acetic acid
+can be explosive if isolation is attempted. Instead, we generated the reagent
+in biphasic media in the presence of oleﬁnic compounds dissolved in the
+organic layer or evenly emulsiﬁed throughout the solution in the absence of
+organic solvent. Under these conditions, ClN3 is created slowly and
+trapped immediately at the aqueous−organic interface. The resulting safe
+and reliable procedure provided 1,2-azidochloride derivatives of a variety of
+substrates, with evidence for both polar and radical mechanisms. Minor
+impurities characterized in the product mixtures indicated the presence of
+alternative reaction pathways deriving primarily from radical intermediates.
+
+■ INTRODUCTION
+Since their initial discovery [in 1900 (IN3),1 1908 (ClN3),2
+1925 (BrN3),3 and 1942 (FN3)4,5], halogen azides have been
+regarded as challenging compounds to work with due to their
+extreme chemical reactivity, volatility, and potential toxicity.
+However, the extraordinarily useful nature of halogen and azide
+substituents
+in organic chemistry has engendered some
+exploration of XN3 reactivity through the years. Figure 1
+summarizes most of the known examples of the reactions of
+halogen azides or their equivalents and analogues with alkenes,
+with particular attention to the methods by which these reactive
+compounds were generated.
+
+19−30 or I2 + NaN3
+
+Iodine azide was ﬁrst synthesized from AgN3 and I2,1 and
+methods associated with its preparation and reactivity6 are the
+most abundant in the literature. Hassner and co-workers7−18
+made signiﬁcant contributions to the understanding of the
+mechanism of halogen azide addition to alkenes, and his
+original procedures for the formation of IN3 (from ICl +
+31−34) became popular among those
+NaN3
+disposed to use the reagent for synthetic purposes. Several
+alternatives soon followed,
+including those with thallium
+(TlN3) or stannous (Bu3SnN3) reagents as the source of
+azide ion,35−37 but these and other methods38 did not ﬁnd
+widespread application. Barluenga et al. found a way to perform
+39,40
+azido-iodination of
+leading to several modiﬁed protocols employing more familiar
+iodine,41 periodate,42 oxone,43 and
+oxidants (hypervalent
+cerium(VI)44,45). In many of these cases, anti-Markovnikov
+products were found,
+in contrast to earlier reports of the
+opposite regiochemistry. Kirsching developed several clever
+ways to ameliorate the dangers of IN3, ﬁrst by creating a
+nonexplosive polymer-bound form [of general formula R4NI-
+(N3)2],46−48 and then by making stable iodine(III)-based
+
+terpenes using IPy2BF4
+
+−TMSN3,
+
+precursors [Et4NX−PhI(OAc)2
+promoting azidohalogenation of alkenes.49
+
+−NaN3, X = I, Br] capable of
+
+Consistent with the higher oxidation potential of bromine,
+the published chemistry of bromine azide is less extensive than
+that of iodine azide. BrN3 was ﬁrst synthesized from Br2 gas and
+−HCl−
+solid NaN3,3 which was modiﬁed by Hassner [Br2
+NaN3]10,13,18 into a somewhat hazardous procedure that
+nevertheless achieved some subsequent use.50−52 Other
+approaches have involved the in situ generation of toxic and
+explosive hydrazoic acid [NXS−HN3, X = I, Br];53,54 the use of
+Br2 solution in the presence of sodium azide under neutral or
+basic conditions55,56 avoids that particular hazard, albeit with
+diminished yields and the formation of other side products. The
+accessibility and versatility of the technique reported by Krief in
+1974 [NBS−NaN3]57,58 was noted by several groups,59−63 and
+other recently published protocols still rely on NBS as the most
+common bromine source [NBS−TMSN3].64 A few variations
+of this reaction conducted in the presence of catalytic amounts
+of various metal triﬂates augmented the regio- and stereo-
+selectivity of BrN3 addition to organic substrates,65,66 including
+the asymmetric azidobromination of α,β-unsaturated carbonyl
+68
+compounds.67 Lastly, several sources of Br+ (such as TsNBr2
+69) have been used with trimethylsilylazide
+and PhNMe3Br3
+(TMSN3) in fast and eﬃcient
+reactions yielding vicinal
+bromoazides under catalyst-free conditions.
+
+While all halogen azides are highly explosive, their stability is
+believed to ascend in the following order: FN3 < IN3 < BrN3 <
+ClN3.70 A solution of chlorine azide in organic solvents can be
+stored for several days at room temperature,2,70 although we do
+not recommend this. From its discovery in 1908 through 1965,
+
+Received:
+Published: February 26, 2015
+
+January 3, 2015
+
+© 2015 American Chemical Society
+
+2740
+
+DOI: 10.1021/acs.joc.5b00009
+J. Org. Chem. 2015, 80, 2740−2755
+
+The Journal of Organic Chemistry
+
+Figure 1. Published methods for the formation of vicinal azido-
+halogenides from alkenes. (A) 1,2-Azidochlorides (formal addition of
+ClN3); (B) 1,2-azidobromides (formal addition of BrN3); (C) 1,2-
+azidoiodides (formal addition of IN3). Notes: (a) R′I−N3 = 1-azido-
+1λ3-benzo[d][1,2]iodaoxol-3(1H)-one (azidoiodine(III)). (b) ClN3
+obtained from [AgN3 + Cl2], [HN3 + HClO], or [NaN3 + Cl2].
+only several examples of the formation of ClN3 [from HClO−
+HN3,2 Cl2
+73] were described; none
+were generally adopted by synthetic chemists. But some
+interesting reports then began to appear, such as the method
+−NaN3]74 in which
+by Minisci and co-workers [FeCl3
+−TMSN3)75,76 or
+either two azido groups (related to Pb(OAc)4
+an azido group and a chlorine atom were added to an
+unsaturated substrate via a radical mechanism. Zbiral reported
+several protocols based on thallium(III) acetate: [MX−
+
+−AgN3,71,72 and Cl2
+
+−NaN3
+
+−H2O2
+
+−TMSN3, X = Cl, Br,
+
+Article
+I]77 and [MeCOX−Tl-
+Tl(OAc)3
+−TMSN3, X = Cl, Br].78 In this case, the substitution
+(OAc)3
+of a chlorine (or other halogen) source with 40% HF yielded
+1,2-azido-ﬂuorides−the only transformation of this kind to our
+knowledge. Furthermore, Zbiral also reported a competitive
+azidochlorinating reagent PhI(Cl)(N3) obtained from phenyl-
+iodosodiacetate [MeCOCl−PhI(OAc)2
+−TMSN3].79 The reac-
+tion outcome based on this reagent system diﬀers considerably
+from ClN3-based protocols, including the potential for alkyne
+cleavage if there action is performed in the absence of a
+chlorine source.80 It is assumed that the reaction occurs via
+azidonium ion formation.
+
+Many of the protocols described above lack selectivity, are
+low-yielding, or require toxic or exotic reagents. In a search for
+a facile and cost-eﬀective technique, we anticipated that N-
+chlorosuccinamide (NCS)-based reactions could be a depend-
+able option. We were surprised to ﬁnd only several examples
+reported thus far,81−83 including a number of recent reports of
+azidooxygenation or hydroazidation, rather than chloroazida-
+tion, of alkenes.84,85 We therefore turned to the original Raschig
+conditions, acidiﬁcation of aqueous sodium azide and sodium
+hypochlorite with acetic acid,2 and describe here a convenient
+and safe one-pot method and a survey of its application to an
+initial panel of various types of alkenes.
+
+Mechanisms of Chlorine Azide Formation and
+Degradation. The formation of chlorine azide likely occurs
+by azide attack on the hypochlorite bond. It is therefore fastest
+at pH 4−6, where signiﬁcant concentrations of N3
+− and HOCl
+exist (Scheme 1).86 ClN3 is soluble in both aqueous and
+
+Scheme 1. Formation and Decomposition of Chlorine Azide
+in Aqueous Solution
+
+organic media,70 giving the solution a characteristic yellow
+color. It is quite stable in aqueous solution at room temperature
+but can be eliminated from the system either via explosive
+decomposition (initiated by heat, for example),87 by reaction
+with excess azide or hydroxide in solution, or by productive
+addition to unsaturated compounds (Scheme 2). Under acidic
+conditions,
+immediate
+rearrangement to 3N2 can be explosively rapid, and is likely
+the source of some of the danger associated with this chemistry.
+Basic hydrolysis of ClN3 is relatively slow but can be signiﬁcant;
+hydrozidous acid is believed to be the ﬁrst intermediate, leading
+either to the formation of nitrogen gas via (N3)2 or hyponitrous
+
+the formation of (N3)2 and its
+
+2741
+
+DOI: 10.1021/acs.joc.5b00009
+J. Org. Chem. 2015, 80, 2740−2755
+
+The Journal of Organic Chemistry
+
+Scheme 2. General Mechanisms of Reactivity of ClN3 with
+Alkenesa
+
+Article
+
+a(A) Fragmentation pathways for ClN3. (B) Formation of 1,2-
+azidochlorides. (C) Formation of byproducts.
+
+to nitrous oxide (N2O) or
+
+acid (HONNOH). The latter species either undergoes
+rearrangement
+reaction with
+dissolved oxygen, producing peroxynitrous acid (ONO2H)86
+(Scheme 1).
+■ RESULTS AND DISCUSSION
+<para sub=“ques”>
+NaN3 and NaOCl (4.0−4.99% hypochlorite) can be combined
+in dilute aqueous solution without apparent reaction for periods
+of at least several hours. Chlorine azide formation can be
+initiated by the addition of a weak acid such as acetic acid. The
+balanced stoichiometry of this overall transformation is shown
+in eq 1. The ClN3 thus produced is a gas and can be isolated by
+transfer out of the reaction ﬂask with a gentle stream of
+nitrogen, bubbled into an organic solvent placed in a receiving
+ﬂask. While we performed this procedure a number of times, it
+proved to be occasionally explosive, and we strongly discourage
+its practice. Instead, we developed a safe procedure to generate
+ClN3 in small quantities in situ and in the presence of an alkene
+with which it can immediately react, as shown in Figure 2.
+</para>
+2NaOAc H O
+
+2AcOH
+
+→
+
+NaOCl NaN
+3
+
++
+
++
+
+ClN
+3
+
++
+
++
+
+2
+
+(1)
+<para sub=“opt”>
+Two variants of the procedure were routinely used. In a
+biphasic protocol (Figure 2A), an aqueous solution of sodium
+azide and sodium hypochlorite was kept either at
+room
+temperature (20 °C) or was cooled to −15 °C. (A small
+amount of brine was added to ensure that the solution at −15
+°C would not freeze, but the mixture often remained in the
+liquid state without added salt.) The alkene of interest (0.5−1.0
+mmol) was dissolved in an organic solvent of lower density
+than water (toluene, ether, ethyl acetate), and this solution was
+</para>
+Figure 2. Reaction setup for the formation of 1,2-azidochlorides. (A)
+Biphasic conditions in which the oleﬁnic substrate is dissolved in an
+organic phase. (B) Solvent-free conditions in which the liquid oleﬁnic
+substrate is added without organic solvent. Both conditions involve
+vigorous magnetic stirring. (C) Reaction parameters varied in
+preliminary optimization studies.
+<para sub=“opt”>
+introduced into the reaction ﬂask. The resulting mixture was
+then vigorously stirred, chlorine azide generation was initiated
+by the dropwise addition of acetic acid to the open or vented
+ﬂask (typically 1−2 equiv with respect to azide), and ClN3 was
+rapidly consumed in situ by the alkene. The amount and rate of
+evolution of ClN3 can be controlled by the amount of acetic
+acid added. In most cases, NaN3 was used in excess (2−10
+mmol), and the amounts of acetic acid (4−15 mmol) and
+sodium hypochlorite (1−2 mmol) were varied. Approximate
+concentrations were as follows: NaN3, 0.6−2 mM in the
+aqueous phase; NaOCl, 0.4−0.6 mM in the aqueous phase;
+AcOH, 0.5−2 mM in the combined phases after addition is
+complete; alkene, 0.1−0.5 mM in the organic phase. In an
+alternative “solvent-free” biphasic procedure (Figure 2B), no
+organic solvent was used. Here,
+the liquid alkene was
+distributed as an emulsion in the rapidly stirred mixture,
+performing the same trapping function during the reaction.
+Water-misicible cosolvents (acetonitrile, THF) can be used, but
+provided sluggish reactions and poor yields in the few cases
+tested. Each organic substrate required the determination of a
+partially optimized set of conditions, varying three key
+parameters (Figure 2C and Supporting Information):
+the
+nature of the solvent, the reaction temperature, and the amount
+of sodium azide. Caution! Even though these conditions diminish
+the hazards of chlorine azide substantially, it is still necessary to use
+common sense and care. Furthermore, acidic conditions with azide
+ion are always to be used with caution and avoided in workup, since
+HN3 is highly volatile, toxic, and explosive. Therefore, the reaction
+should be performed only in a well-ventilated fume hood behind a
+protective shield or hood sash, and workup should avoid the use of
+acid, especially when a large excess of NaN3 is left after the reaction
+is complete.
+</para>
+2742
+
+DOI: 10.1021/acs.joc.5b00009
+J. Org. Chem. 2015, 80, 2740−2755
+
+The Journal of Organic Chemistry
+
+Table 1. Vicinal Azidochlorination of Aromatic Alkenes
+
+Article
+
+aExperimental conditions: A = PhMe, 20 °C; B = PhMe, −15 °C; C = solvent-free, 20 °C; D = solvent-free, −15 °C; E = EtOAc, 20 °C; F = EtOAc,
+−15 °C. When multiple procedures are listed, the underlined procedure is the one for which the yield is reported, but all gave comparable results.
+bYields refer to isolated products (or their isolated diastereomeric mixtures), except where noted otherwise. cAnalysis of crude reaction mixture by
+NMR. dSee Supporting Information.
+<para sub=“ques”>
+The pioneering studies of Alfred Hassner and co-workers
+established that heterolytic cleavage dominates the chemistry of
+IN3, such that it reacts predominantly as a source of I+, but
+BrN3 and ClN3 can be directed along ionic (heterolytic) or
+radical (homolytic) pathways by changing the reaction
+conditions.12,17 Polar solvents favor ionic addition for styrenyl
+substrates, while nonpolar
+solvents and the absence of
+molecular oxygen were reported to promote radical forma-
+tion.12,17 A continuum of
+reactivity is likely, with polar
+components to a radical pathway, and,
+the
+participation of either chloronium or azidonium cations in
+the purposes of
+ionic reactions (Scheme 2A). For
+this
+introductory report, however, we restrict our mechanistic
+− or •Cl/•N3 described
+discussion to the possibilities of Cl+/N3
+by Hassner. Thus,
+ionic reactions are expected to produce
+regioisomers derived from azide capture of the most stable
+cationic intermediate(s); for styrenes, this places azide at the
+benzylic position (Scheme 2B). Radical reactions are expected
+to proceed by addition of •N3 to give the most stable carbon
+radical, which captures ClN3 to continue the chain, giving
+benzylic chlorides from styrenes (Scheme 2B, termination steps
+not shown). Some byproducts derived from radical pathways
+were also expected and observed (Scheme 2C).
+</para>
+in principle,
+<para sub="scope">
+Substrate Scope and Limitations. Table 1 summarizes a
+preliminary survey of the vicinal azidochlorination of aromatic
+alkenes. Most of the substrates (1−6, entries 1−7) underwent
+anti-Markovnikov type addition, in agreement with Hassner’s
+observation that a radical pathway is favored for
+these
+substrates. 3,4-Dimethoxystyrene (1) (entry 1) provided an
+exception, presumably because the electron-rich nature of the
+aromatic ring favored the formation of a cationic benzylic
+intermediate. Only at room temperature in toluene was the
+radical pathway competitive. The stereochemistry of 1,2-
+addition to styrene derivatives was not well controlled,
+consistent with the expected stability of the putative benzylic
+radical intermediate. Thus, both cis- and trans-stilbene (4 and
+4′) gave the same nearly equimolar mixture of erythro and
+threo isomers in excellent yield, although this transformation
+required a larger excess of sodium azide and higher temperature
+to reach completion than for most substrates. (A signiﬁcant
+amount of unreacted starting material 4 was isolated at lower
+temperatures.) Similarly, 1,2-dihydronaphthalene (5) and 1-
+phenyl-1-cyclohexene (6) also gave stereochemical mixtures,
+with a modest preference for anti-addition (entries 6 and 7).
+Hydroxyl (entry 8) and terminal alkyne (entry 9) functional
+tolerated. Substrate 9 showed the α-
+groups were well
+</para>
+2743
+
+DOI: 10.1021/acs.joc.5b00009
+J. Org. Chem. 2015, 80, 2740−2755
+
+The Journal of Organic Chemistry
+<para sub="scope">
+ethoxycarbamate moiety to remain intact, with the anti,syn-
+isomer 9a isolated as the major product. The azido-carbonyl
+derivative 9b was also obtained by a mechanism that we have
+not investigated. In contrast, electron-rich nitrogen heterocycles
+underwent chlorination rather than chloroazidation under all
+conditions tested. Methylindole-6-carboxylate (10) was con-
+verted to the corresponding 3,3-dichlorolactam 10a in excellent
+yield, implicating hypochlorite as an oxidant as well as a source
+of chloride radical. Similarly, 7-azaindole (11) gave only 3-
+chloro-1H-pyrollo[2,3-b]pyridine (11a).
+Indoles are well-
+known to undergo chlorination with hypochlorite,88−90
+although oxidation at the 2-position, as observed for 10,
+is
+rare.91−93 In some cases (substrates 2, 5, and 8), other
+oxidation products were isolated and characterized, reﬂecting
+the pathways shown in Scheme 2C. These results are provided
+in Supporting Information, since only small amounts of these
+byproducts were formed.
+</para>
+<para sub=“props”>
+The X-ray structures of a representative azidochloride (13a),
+an unusual byproduct azide (9b) and a product of radical
+chlorination (10a) are shown in Figure 3. In general, however,
+</para>
+Figure 3. ORTEP representations of X-ray crystallographic analyses of
+an azidochloride and two byproducts, each from a diﬀerent alkene.
+<para sub=“props”>
+the structures and stereochemical assignments of the products
+were established by conversion of the isolated azides to the
+corresponding 1,2,3-triazoles by thermal
+reaction with
+dimethylacetylenedicarboxylate (DMAD). This allowed for
+bond connectivities to be established by two-dimensional
+NMR techniques, and for ﬁve cases, by crystallization and X-ray
+analysis. Complete details of all structural assignments are given
+in the Experimental Section and Supporting Information.
+</para>
+reagent
+
+temperature,
+<para sub="scope">
+Table 2 shows the results of ClN3 reactions with unsaturated
+aliphatic oleﬁns. A radical pathway was indicated by the
+formation of the secondary chloride from 4-allylanisole (12,
+entry 1). In this case, radical-derived byproducts were observed
+with substantial variation in identity and relative amounts as the
+solvent,
+stoichiometry, and NaOCl
+concentration were changed (see Supporting Information).
+Switching to the solvent-free protocol at room temperature
+addressed this complication, giving 12a in a consistent and
+eﬃcient manner. This procedure (at 20 or −15 °C) proved to
+be superior for substrates which remained liquid under the
+reaction conditions (Table 1, entries 2, 7; Table 2, entries 1, 4).
+In these cases, the interface between the aqueous medium
+where ClN3 is generated and the substrate is much diﬀerent
+(droplet size, reactant density and interfacial organization, etc.)
+than when the substrate is dissolved in a hydrophobic solvent.
+It
+the reaction proceeds
+diﬀerently under these two conditions, although we are not
+
+is therefore not surprising that
+</para>
+Article
+<para sub="scope">
+yet able to explain exactly why the formation of side products is
+suppressed.
+</para>
+<para sub="scope">
+As before, a two-step mechanism with attack on a radical (or
+ionic) intermediate seemed to determine the stereochemistry of
+1,2-addition. anti-Chloroazides predominated for cycloheptene
+and cholesterol (15 and 17, entries 4 and 7); no stereo-
+selectivity was observed for trans-1,4-butenediol (16, entry 5);
+and syn-endo products were modestly favored from bridged
+bicyclic substrates 13 and 14 (entries 2 and 3). Studies of the
+reaction of 13 with variation of solvent and the addition of a
+radical trapping agent, described in Supporting Information,
+support the assignment of a primarily radical pathway using this
+substrate. The isopropenyl group of (S)-(+)-carvone (18)
+participated in dual
+reactivity depending on the reaction
+conditions (entries 8, 9). At low temperatures in EtOAc as the
+organic solvent, only allylic chlorination (18a) was observed,
+whereas reaction in the less polar toluene at room temperature
+gave rise to the azidochloride 18b in modest yield (23%), which
+could be increased to 42% with the use of a higher
+concentration of NaN3 in the aqueous phase. In both cases, a
+signiﬁcant amount of starting material 18 remained in the
+mixture; all other attempts to drive the reaction to completion
+resulted in the formation of more 18a as a byproduct.
+</para>
+<para sub="scope">
+The existence of
+
+radical chlorination as an alternative
+reaction was further demonstrated by the fate of three other
+substrates. Anthracene (19, entry 10) gave both 9-azido (19a)
+and 9-azido-10-chloro (19b) derivatives; one possible pathway
+is shown in Scheme 3. The expected addition of azide radical to
+C-9 followed by trapping with ClN3 provides intermediate 19c,
+with the observed products deriving from either base-mediated
+chloride elimination or oxidative aromatization. (Interestingly,
+phenanthrene was completely resistant to the biphasic reaction
+conditions.) N-Allylaniline (20, entry 11) underwent radical
+chlorination of
+leaving the
+pendant oleﬁn untouched. Complex mixtures of products were
+formed at warmer temperatures; comparable outcomes were
+observed for colchicine and other aromatic compounds with
+electron-rich aromatic rings (not shown). Lastly, 2′-amino-
+ethylcyclohexene (21, entry 12) was converted to a single
+tentatively assigned as structure 21a, which after
+product
+chromatographic puriﬁcation possessed the pungent bleach-like
+odor characteristic of N-chloramines.
+
+the aromatic ring at −15 °C,
+
+standard biphasic conditions (not
+</para>
+<para sub="scope">
+While clean azidochlorination of oleﬁns requires that the
+substrate contain neither electron-rich aromatic rings nor
+unfunctionalized amines, the alkene also must not be too
+electron-deﬁcient. This is indicated by the lack of reactivity at
+the enone moiety of substrate 18 and of the resistance of trans-
+4-phenyl-3-buten-2-one (benzylideneacetone) to reaction with
+ClN3 under
+shown).
+Remarkably, the diacetate of allylic diol 16 was also completely
+unreactive (Table 2, entry 6). The addition of Lewis acids
+[Y(OTf)3, Sc(OTf)3],
+iodosobenzene
+(PhIO), and diacetyliodobenzene [PhI(OAc)2] failed to
+promote reaction in this case, returning starting material 16-
+(OAc)2 in each case after prolonged exposure. Similarly, the
+introduction of a nitrogen into each ring of stilbene (trans-1,2-
+di(4-pyridyl)ethylene) gave an unreactive substrate.
+
+iodobenzene (PhI),
+</para>
+
+Early in our studies, we used solutions of ClN3 isolated in
+organic solvent by the procedure mentioned at the beginning of
+the Results section. In these cases, several additional substrates
+were found to react cleanly, although the stereo- and
+regiochemical outcomes were not ﬁrmly established (Support-
+ing Information Table S7). These substrates included several
+
+2744
+
+DOI: 10.1021/acs.joc.5b00009
+J. Org. Chem. 2015, 80, 2740−2755
+
+The Journal of Organic Chemistry
+
+Table 2. Vicinal Azidochlorination of Aliphatic Alkenes
+
+Article
+
+aExperimental conditions: A = PhMe, 20 °C; B = PhMe, −15 °C; C = solvent-free, 20 °C; D = solvent-free, −15 °C; E = EtOAc, 20 °C; F = EtOAc,
+−15 °C. When multiple procedures are listed, the underlined procedure is the one for which the yield is reported, but all gave comparable results.
+bYields refer to isolated products (or their isolated diastereomeric mixtures). cSee Supporting Information. dDiethyl ether (Et2O) was used instead
+of toluene. eA trace amount of the azidochloride, 18b, was observed in the product mixture. fA larger excess of NaN3 than usual (18 vs 10 equiv) was
+used.
+
+Scheme 3. Vicinal Azidochlorination of Anthracene Showing
+a Potential Pathway for the Formation of 19a and 19b
+
+allyl ethers, an allyl ester, and a glycal vinyl ether. Ester and
+epoxide groups were found to be undisturbed, while a tert-
+butyldiphenylsilyl ether did not survive.
+
+Several recent reports have appeared of azide modiﬁcation of
+graphene,94 carbon surfaces,95 and fullerene,96 most using gas-
+phase reactions of iodine azide. Akhmetov and co-workers96
+employed several methodologies developed previously65,67 to
+prepare new 1-halo-2-azidofullerenes which were characterized
+by NMR, IR, and MALDI-TOF. None of
+these reported
+examples were based on vicinal azidochlorination. We were
+encouraged to ﬁnd that solutions of C60 in chlorobenzene or
+
+toluene97 reacted with ClN3 under our standard conditions to
+give an azide-containing fullerene derivative in good yield
+(Supporting Information);
+this
+transformation and those involving related substrates are in
+progress.
+
+further characterization of
+
+■ CONCLUSIONS
+
+We describe here a simple, reliable,
+inexpensive, and safe
+method for the generation of ClN3 and its use for the
+preparation of 1,2-azidochlorides from oleﬁns. Its success relies
+on the slow generation and rapid capture of ClN3, both of
+which are enabled by the use of biphasic reaction conditions,
+preventing the buildup of the explosive oxidant. Aryl, alcohol,
+alkyne, ester, and ether functional groups are well tolerated;
+others will be tested in due course. The method is not presently
+applicable to molecules containing electron-rich aromatic rings
+or free amines, which undergo radical chlorination faster than
+chloroazidation. 1,2-Azidochlorides are expected to be a very
+useful class of organic compounds
+further
+derivatization by a variety of processes, including 1,3-dipolar
+cycloaddition, SN2 or anchimerically assisted substitution,
+reduction, aziridine and azirine formation, elimination, etc.
+While we focused on small organic molecules here, including a
+natural product and a fullerene, we believe these methods (or
+
+suitable for
+
+2745
+
+DOI: 10.1021/acs.joc.5b00009
+J. Org. Chem. 2015, 80, 2740−2755
+
+The Journal of Organic Chemistry
+
+variations thereof) will be equally useful for the functionaliza-
+tion of polymeric materials and surfaces.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+Representative and detailed procedures for azidochlorination of oleﬁns
+are described below; the largest scale employed for these procedures
+was 2 mmol of alkene.
+
+(A). General Biphasic Procedure. Sodium azide (150 mg, 2.31
+mmol) was added to a mixture of aqueous sodium hypochlorite
+(4.00−4.99% obtained from Sigma-Aldrich, 3.5 mL, 2.06 mmol) and 2
+mL of an organic solvent (PhMe, EtOAc, or Et2O, unless otherwise
+stated). The mixture was stirred brieﬂy to dissolve the NaN3. An
+organic substrate (13) (88 mg, 0.61 mmol) was added to the resulting
+heterogeneous mixture, allowed to dissolve in the organic media, and
+the resulting biphasic mixture was either kept at room temperature (20
+°C) or cooled to −15 °C. With continuous vigorous magnetic stirring,
+a solution of glacial acetic acid (0.25 mL, 4.37 mmol) in 2 mL of the
+organic solvent was added in dropwise fashion with a syringe over a
+period of 15 min to 1 h. After the addition was complete, the mixture
+was stirred at 20 °C for an additional 30 min to 2 h (or, if initially
+carried out at −15 °C, the reaction was allowed to warm to room
+temperature over a period of 30 min to 2 h).
+(B). General Solvent-Free Procedure. Sodium azide (350 mg,
+5.38 mmol) was dissolved in aqueous sodium hypochlorite (4.00−
+4.99% obtained from Sigma-Aldrich, 4 mL, 2.36 mmol) immediately
+prior to use, and the resulting solution was cooled to −15 °C if
+desired. An organic substrate (5) (as a neat liquid, 0.1 mL, 0.63 mmol)
+was added to the resulting aqueous solution, which was either kept at
+room temperature (20 °C) or cooled to −15 °C. A solution of glacial
+acetic acid (0.26 mL, 4.54 mmol) in 2 mL of water was added
+dropwise with a syringe over the period of 15 min to 1 h to the
+vigorously stirred mixture. After the addition was complete,
+the
+resulting reaction mixture was stirred at 20 °C for an additional 30 min
+to 2 h (or allowed to warm to room temperature over a period of 30
+min to 2 h if it had been initially cooled).
+
+(C). Workup. For each of the above procedures, the completed
+reaction (monitored by TLC) was quenched by the slow addition of
+saturated aq. NaHCO3 (5 mL) at 20 °C, during which the evolution of
+CO2 ceased, followed by stirring for 5−10 min. The biphasic mixture
+was extracted with EtOAc (3 × 5 mL), the combined organic layers
+were dried over anhydrous MgSO4,
+the resulting solution was
+concentrated by rotary evaporation, and the crude product was
+puriﬁed by ﬂash chromatography or preparative thin-layer chromatog-
+raphy (silica gel, hexanes/EtOAc).
+
+(D). Important Notes. (1) The solvent-free conditions should be
+used only if the alkene remains in the liquid state throughout the
+process (in other words, does not freeze if the reaction is cooled; true
+here for compounds 1−3, 5, 6, 8, 12, 15, 16, 18, 20, 21). (2) Brine can
+be added if the reaction is performed at −15 °C to prevent the
+aqueous medium (solution of NaOCl, NaN3, and AcOH) from
+solidifying. (3) Caution! Even though these conditions diminish the
+hazards of chlorine azide substantially, it is still necessary to use common
+sense and care. The addition of glacial acetic acid is an exothermic reaction
+accompanied by rapid gas evolution (ClN3, and possibly N2, Cl2, HN3). It
+is important to add the acetic acid solution slowly (dropwise), and to make
+sure the flask is open or vented to relieve pressure. Furthermore, acidic
+conditions with azide ion are always to be used with caution and avoided
+in workup, since HN3 is highly volatile, toxic, and explosive. Therefore, the
+reaction should be performed only in a well-ventilated fume hood behind a
+protective shield or hood sash, and workup should avoid the use of acid,
+especially when a large excess of NaN3 is left after the reaction is complete.
+(4) The procedures described here were optimized using only the
+4.00−4.99% solution of sodium hypochlorite available from Sigma-
+Aldrich. Higher concentrations of sodium hypochlorite were not
+exhaustively tested, but preliminary experiments showed a greater
+propensity for runaway reactions at higher active concentrations of
+NaOCl. (5) Remaining unreacted chlorine azide and any HN3 ion
+were neutralized and quenched by the added saturated sodium
+</para>
+Article
+<para sub=“exp”>
+bicarbonate solution,86 and (like diazomethane) by letting the mixture
+stir open to air in the fume hood to allow ClN3 to evaporate.
+(E). Structure Elucidation. Since the chemical shifts of protons
+attached to C−N3 and C−Cl centers are very similar,
+the
+determination of the 1,2-azidochloride regio- and stereochemistry
+requires some care. We employed the convenient and reliable thermal
+[3 + 2] cycloaddition of organic azides with an excess of
+dimethylacetylene dicarboxylate (DMAD)99 to make the correspond-
+ing 1,2,3-triazoles of many of the compounds reported above (Tables
+S8 and S9), and characterized these products extensively by 1D and
+2D NMR techniques and X-ray crystallographic analysis (Figures S2
+and S3). Further details can be found in Supporting Information.
+
+(F). Reactions and Characterization Data. 4-(2-Azido-1-
+chloroethyl)-1,2-dimethoxybenzene (1a). Compound 1a was ob-
+tained as a crude mixture together with 1b (1a:1b ≈ 1.3:1 ratio based
+on the NMR spectroscopic analysis) from 0.1 mL of 3,4-
+dimethoxystyrene (1) (0.675 mmol), 150 mg of NaN3 (2.31 mmol),
+4.0 mL of NaOCl solution (2.36 mmol), and 0.26 mL of AcOH (4.54
+mmol) (procedure I; PhMe; 20 °C; 0.5 h). 1a: Rf = 0.23 (silica gel,
+hexanes/EtOAc 10:1); 1H NMR (500 MHz, CDCl3) δ = 6.94−6.81
+(m, 3H), 4.92 (dd, J ≈ 6.9, 6.9 Hz, 1H; in DMSO-d6, apparent t or dd,
+J = 8.0, 5.9 Hz, 1H), 3.89 (s, 3H), 3.87 (s, 3H), 3.74 (dd, J = 12.9, 7.5
+Hz, 1H), 3.67 (dd, J = 12.9, 6.4 Hz, 1H).
+Dimethyl 1-(2-chloro-2-(3,4-dimethoxyphenyl)ethyl)-1H-1,2,3-tri-
+azole-4,5-dicarboxylate (1a′). Compound 1a′ was isolated in 25%
+yield (64 mg) after FCC (silica gel, hexanes/EtOAc = 5:1 → 1:1) from
+163 mg (0.674 mmol) of 1a:1b mixture (1b′ was isolated in 13% yield,
+33 mg) and 0.1 mL of DMAD (0.813 mmol) (procedure II; C6H6; 65
+°C; 16 h). 1a′: Rf = 0.33 (silica gel, hexanes/EtOAc 1:1); IR (ﬁlm)
+ν
+max 2956, 1737, 1727, 1514, 1462, 1263, 1221, 1141, 1024, 729 =
+cm−1; 1H NMR (500 MHz, CDCl3) δ = 6.84 (d, J = 2.0 Hz, 1H),
+6.82−6.80 (m, 1H), 6.76 (d, J = 8.2 Hz, 1H), 5.28 (dd, J = 6.6, 8.1 Hz,
+1H), 5.16 (dd, J = 13.9, 8.2 Hz, 1H), 5.04 (dd, J = 13.9, 6.6 Hz, 1H),
+3.93 (s, 3H), 3.89 (s, 3H), 3.87 (s, 3H), 3.85 (s, 3H); 13C NMR (125
+MHz, CDCl3) δ = 160.4, 159.1, 150.1, 149.5, 139.9, 130.6, 128.9,
+120.2, 111.2, 110.1, 60.6, 56.3, 56.17, 56.16, 53.6, 53.0; HRMS (ESI-
+TOF) calcd for C16H18ClN3O6 [M + Na+] 406.0782, found 406.0806.
+4-(1-Azido-2-chloroethyl)-1,2-dimethoxybenzene (1b). Com-
+pound 1b was obtained in 85% yield (138 mg) after PTLC (silica
+gel, hexanes/EtOAc = 10:1) from 0.1 mL of 3,4-dimethoxystyrene (1)
+(0.675 mmol), 350 mg of NaN3 (5.38 mmol), 4.0 mL of NaOCl
+solution (2.36 mmol), and 0.26 mL of AcOH (4.54 mmol) (procedure
+I; neat; 20 °C; 2 h). Alternatively, 1b can be obtained quantitatively
+(∼163 mg) after FCC (silica gel, hexanes/EtOAc = 10:1) from 0.1 mL
+of 3,4-dimethoxystyrene (1) (0.675 mmol), 150 mg of NaN3 (2.31
+mmol), 4.0 mL of NaOCl solution (2.36 mmol), and 0.26 mL of
+AcOH (4.54 mmol) (with or without 1.0 mL of brine) (procedure I;
+PhMe or EtOAc; −15 °C → 20 °C; 2 h). 1b: Rf = 0.30 (silica gel,
+max = 3000−2800, 2102, 1514, 1262,
+hexanes/EtOAc 10:1); IR (ﬁlm) ν
+1138, 1023, 763, 715 cm−1; 1H NMR (500 MHz, CDCl3) δ = 6.86 (m,
+2H), 6.80 (m, 1H), 4.66 (dd, J = 7.3, 6.3 Hz, 1H or dd, J = 8.1, 5.4 Hz,
+1H in DMSO-d6), 3.88 (s, 3H), 3.86 (s, 3H), 3.66 (d, J = 1.4 Hz, 1H),
+3.64 (s, 1H); 13C NMR (125 MHz, CDCl3) δ = 149.7, 149.5, 129.0,
+119.7, 111.3, 109.8, 67.0, 56.1, 56.0, 47.7; HRMS (ESI-TOF) calcd for
+C10H12ClN3O2 [M + Na+] 264.0516, found 264.0495.
+Dimethyl 1-(2-chloro-1-(3,4-dimethoxyphenyl)ethyl)-1H-1,2,3-tri-
+azole-4,5-dicarboxylate (1b′). Compound 1b′ was isolated in 90%
+yield (286 mg) after FCC (silica gel, hexanes/EtOAc = 5:1 → 1:1)
+from 200 mg of 1b (0.828 mmol) and 0.2 mL of DMAD (1.63 mmol)
+(procedure II; C6H6; 65 °C; 14 h). 1b′: Rf = 0.10 (silica gel, hexanes/
+EtOAc 5:1) or 0.60 (silica gel, hexanes/EtOAc 1:1); IR (ﬁlm) ν
+max =
+2956, 1737, 1728, 1515, 1450, 1263, 1214, 1142, 1024, 727 cm−1; 1H
+NMR (500 MHz, CDCl3) δ = 6.95−6.93 (m, 2H), 6.79 (d, J = 8.1 Hz,
+1H), 6.18 (dd, J = 10.2, 4.9 Hz, 1H), 4.63 (dd, J = 11.6, 10.3 Hz, 1H),
+4.04 (dd, J = 11.7, 4.9 Hz, 1H), 3.91 (s, 3H) overlaps with 3.91 (s,
+3H), 3.81 (s, 3H) overlaps with 3.81 (s, 3H); 13C NMR (125 MHz,
+CDCl3) δ = 160.6, 159.0, 150.1, 149.5, 140.3, 130.3, 127.6, 120.5,
+111.3, 110.3, 66.1, 56.11, 56.06, 53.6, 52.9, 45.5; HRMS (ESI-TOF)
+calcd for C16H18ClN3O6 [M + H+] 384.0962, found 384.0960; [M +
+Na+] 406.0782, found 406.0779.
+</para>
+2746
+
+DOI: 10.1021/acs.joc.5b00009
+J. Org. Chem. 2015, 80, 2740−2755
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+found 369.0605; [M + Na+] 391.0421,
+
+1-(2-Azido-1-chloroethyl)-3-nitrobenzene (2a). Compound 2a was
+obtained in 97% yield (206 mg) after FCC (silica gel, hexanes/EtOAc
+= 5:1) from 0.15 mL of 3-nitrostyrene (2) (1.08 mmol), 150 mg of
+NaN3 (2.31 mmol), 4.0 mL of NaOCl solution (2.36 mmol), and 0.26
+mL of AcOH (4.54 mmol) (procedure I; PhMe; 20 °C; from 0.5 to 1
+h). 2a: Rf = 0.35 (silica gel, hexanes/EtOAc 5:1); IR (ﬁlm) ν
+max =
+2104, 1530, 1350, 1310, 1260, 731, 687 cm−1; 1H NMR (500 MHz,
+CDCl3) δ = 8.29 (t, J = 2.0 Hz, 1H), 8.22 (ddd, J = 8.2, 2.2, 1.0 Hz,
+1H), 7.75 (ddd, J = 7.7, 1.3, 1.3 Hz, 1H), 7.59 (t, J = 8.0 Hz, 1H), 5.03
+(t, J = 6.7 Hz, 1H or dd, J = 7.4, 5.7 Hz, 1H in DMSO-d6), 3.82 (dd, J
+= 13.0, 6.8 Hz, 1H), 3.73 (dd, J = 13.0, 6.5 Hz, 1H); 13C NMR (125
+MHz, CDCl3) δ = 148.7, 140.4, 133.6, 130.2, 124.3, 122.7, 59.6, 57.8.
+Dimethyl 1-(2-chloro-2-(3-nitrophenyl)ethyl)-1H-1,2,3-triazole-
+4,5-dicarboxylate (2a′). Compound 2a′ was isolated in 78% yield
+(127 mg) (together with 13% of 2b′, 21 mg) after FCC (silica gel,
+hexanes/EtOAc = 5:1 → 3:1) from 100 mg of 2a (0.441 mmol) and
+0.1 mL of DMAD (0.813 mmol) (procedure II; C6H6; 65 °C; 15 h).
+2a′: Rf = 0.15 (silica gel, hexanes/EtOAc 5:1); IR (ﬁlm) ν
+max = 2956,
+1737, 1726, 1530, 1350, 1219, 1061, 732, 683 cm−1; 1H NMR (500
+MHz, CDCl3) δ = 8.28 (t, J = 2.0 Hz, 1H), 8.20 (ddd, J = 8.2, 2.2, 1.0
+Hz, 1H), 7.68 (d, J = 7.8 Hz, 1H), 7.55 (t, J = 8.0 Hz, 1H), 5.49 (dd, J
+= 8.4, 6.2 Hz, 1H), 5.19 (dd, J = 14.1, 8.4 Hz, 1H), 5.08 (dd, J = 14.1,
+6.2 Hz, 1H), 3.95 (s, 3H), 3.93 (s, 3H); 13C NMR (125 MHz, CDCl3)
+δ = 160.3, 159.0, 148.7, 140.3, 138.9, 133.5, 130.4, 130.2, 124.6, 122.6,
+58.8, 56.1, 53.8, 53.0; HRMS (ESI-TOF) calcd for C14H13ClN4O6 [M
++ H+] 369.0601,
+found
+391.0417.
+Dimethyl 1-(2-chloro-1-(3-nitrophenyl)ethyl)-1H-1,2,3-triazole-
+4,5-dicarboxylate (2b′). Compound 2b′ was isolated in 13% yield
+(21 mg) (together with 78% of 2a′, 127 mg) after FCC (silica gel,
+hexanes/EtOAc = 5:1 → 3:1) from 100 mg of 2a (0.441 mmol) and
+0.1 mL of DMAD (0.813 mmol) (procedure II; C6H6; 65 °C; 15 h).
+2b′: Rf = 0.24 (silica gel, hexanes/EtOAc 1:1); IR (ﬁlm) ν
+max = 2956,
+1737, 1727, 1530, 1351, 1282, 1221, 727 cm−1; 1H NMR (500 MHz,
+CDCl3) δ = 8.34 (t, J = 2.0 Hz, 1H), 8.23 (ddd, J = 8.3, 2.2, 1.0 Hz,
+1H), 7.81 (d, J = 7.8 Hz, 1H), 7.58 (t, J = 8.0 Hz, 1H), 6.42 (dd, J =
+9.4, 5.7 Hz, 1H), 4.63 (dd, J = 11.7, 9.5 Hz, 1H), 4.18 (dd, J = 11.6, 5.7
+Hz, 1H), 3.96 (s, 3H), 3.95 (s, 3H); 13C NMR (125 MHz, CDCl3) δ =
+160.1, 158.5, 148.4, 140.4, 136.8, 133.5, 130.3, 129.7, 124.5, 122.9,
+64.7, 53.5, 52.8, 44.7; HRMS (ESI-TOF) calcd for C14H13ClN4O6 [M
++ H+] 369.0601,
+found
+391.0415.
+Dimethyl 1-(2-(3-nitrophenyl)-2-oxoethyl)-1H-1,2,3-triazole-4,5-
+dicarboxylate (2c′). Compound 2c′ was isolated in 56% yield (34
+mg) after FCC (silica gel, hexanes/EtOAc = 5:1 → 1:1) from 36 mg of
+2c (0.175 mmol, small amounts 0−24% usually formed at 0 °C in
+PhMe) and 0.1 mL of DMAD (0.813 mmol) (procedure II; C6H6; 65
+°C; 21 h). 2c′: Rf = 0.35 (silica gel, hexanes/EtOAc 1:1); IR (ﬁlm)
+max = 2956, 1737−1712, 1531, 1352, 1278, 1223, 1064, 735 cm−1; 1H
+ν
+NMR (500 MHz, CDCl3) δ = 8.80 (t, J = 1.8 Hz, 1H), 8.51 (d, J = 8.1
+Hz, 1H), 8.31 (d, J = 7.8 Hz, 1H), 7.78 (t, J = 8.0 Hz, 1H), 6.21 (s,
+2H), 3.97 (s, 3H), 3.89 (s, 3H); 13C NMR (125 MHz, CDCl3) δ =
+188.0, 160.5, 159.1, 148.8, 140.6, 135.1, 133.8, 130.8, 130.1, 129.0,
+123.2, 56.7, 53.7, 53.1; HRMS (ESI-TOF) calcd for C14H12N4O7 [M +
+H+] 349.0784, found 349.0781; [M + Na+] 371.0604, found 371.0600.
+(2d). Compound 2d was
+obtained in 57% yield (82 mg) (together with 2a) after FCC (silica
+gel, hexanes/EtOAc = 5:1 → 1:1) from 0.1 mL of 3-nitrostyrene (2)
+(0.717 mmol), 150 mg of NaN3 (2.31 mmol), 4.0 mL of NaOCl
+solution (2.36 mmol), and 0.26 mL of AcOH (4.54 mmol) (procedure
+I; EtOAc; −15 °C → 20 °C; 1.5 h). 2d: Rf = 0.15 (silica gel, hexanes/
+EtOAc 5:1); IR (ﬁlm) ν
+max = 3425 (broad), 1524, 1519, 1346, 1068,
+729, 676 cm−1; 1H NMR (500 MHz, CDCl3) δ = 8.27 (t, J = 2.0 Hz,
+1H), 8.16 (ddd, J = 8.2, 2.3, 1.0 Hz, 1H), 7.72 (d, J = 7.7 Hz, 1H), 7.55
+(t, J = 8.0 Hz, 1H), 5.02 (m, 1H), 3.78 (dd, J = 11.4, 3.6 Hz, 1H), 3.65
+(dd, J = 11.4, 8.1 Hz, 1H), 2.89 (br s, OH); 13C NMR (125 MHz,
+CDCl3) δ = 148.6, 142.2, 132.4, 129.9, 123.5, 121.4, 73.1, 50.5; HRMS
+(ESI-TOF) calcd for C8H8ClNO3 [M + H+] 202.0270,
+found
+202.0287.
+
+found 369.0597; [M + Na+] 391.0421,
+
+2-Chloro-1-(3-nitrophenyl)ethan-1-ol
+
+4-(2-Azido-1-chloroethyl)benzonitrile (3a). Compound 3a was
+obtained in 83% yield (141 mg) after FCC (silica gel, hexanes/EtOAc
+= 10:1 → 5:1) from 0.1 mL of 4-cyanostyrene (3) (0.774 mmol), 150
+mg of NaN3 (2.31 mmol), 4.0 mL of NaOCl solution (2.36 mmol),
+and 0.26 mL of AcOH (4.54 mmol) (procedure I; PhMe; 20 °C; 1.5
+h). 3a: Rf = 0.45 (silica gel, hexanes/EtOAc 5:1); IR (ﬁlm) ν
+max =
+2230, 2104, 1307, 1258, 836, 559 cm−1; 1H NMR (500 MHz, CDCl3)
+δ = 7.67 (d, J = 8.3 Hz, 2H), 7.52 (d, J = 8.3 Hz, 2H), 4.97 (t, J = 6.6
+Hz, 1H), 3.76 (dd, J = 12.9, 6.9 Hz, 1H), 3.67 (dd, J = 13.0, 6.4 Hz,
+1H); 13C NMR (125 MHz, CDCl3) δ = 143.2, 132.8, 128.3, 118.3,
+113.1, 59.9, 57.6; HRMS (ESI-TOF) calcd for C9H7ClN4 [M + H+]
+207.0437, found 207.0401.
+Dimethyl 1-(2-chloro-2-(4-cyanophenyl)ethyl)-1H-1,2,3-triazole-
+4,5-dicarboxylate (3a′). Compound 3a′ was isolated in 42% yield
+(81 mg) after FCC (silica gel, hexanes/EtOAc = 5:1 → 2:1) from 114
+mg of 3a (0.552 mmol) and 0.1 mL of DMAD (0.813 mmol)
+(procedure II; C6H6; 65 °C; 15 h). 3a′: Rf = 0.27 (silica gel, hexanes/
+EtOAc 2:1); IR (ﬁlm) ν
+max = 2956, 2231, 1737, 1726, 1221, 1062, 825,
+731 cm−1; 1H NMR (500 MHz, CDCl3) δ = 7.64 (d, J = 8.4 Hz, 2H),
+7.48 (d, J = 8.4 Hz, 2H), 5.40 (dd, J = 8.4, 6.1 Hz, 1H), 5.14 (dd, J =
+14.0, 8.4 Hz, 1H), 5.02 (dd, J = 14.0, 6.2 Hz, 1H), 3.92 (s, 3H)
+overlaps with 3.92 (s, 3H); 13C NMR (125 MHz, CDCl3) δ = 160.3,
+158.9, 141.7, 140.2, 133.0, 130.1, 128.3, 118.1, 113.6, 59.1, 56.0, 53.7,
+53.0; HRMS (ESI-TOF) calcd for C15H13ClN4O4 [M + H+] 349.0704,
+found 349.0702; [M + Na+] 371.0523, found 371.0520.
+
+4-(2-Azidoacetyl)benzonitrile (3c). Compound 3c was obtained in
+27% yield (41 mg) (together with 71 mg of 3a, 42%) after FCC (silica
+gel, hexanes/EtOAc = 10:1 → 5:1) from 0.1 mL of 4-cyanostyrene (3)
+(0.774 mmol), 150 mg of NaN3 (2.31 mmol), 4.0 mL of NaOCl
+solution (2.36 mmol), and 0.26 mL of AcOH (4.54 mmol) (procedure
+I; EtOAc; −15 °C → 20 °C; 3 h). 3c: Rf = 0.36 (silica gel, hexanes/
+max = 2232, 2105, 1694, 1217, 833 cm−1; 1H
+EtOAc 5:1); IR (ﬁlm) ν
+NMR (500 MHz, CDCl3) δ = 7.99 (d, J = 8.5 Hz, 2H), 7.80 (d, J = 8.6
+Hz, 2H), 4.55 (s, 2H); 13C NMR (125 MHz, CDCl3) δ = 192.4, 137.5,
+133.0, 128.7, 117.8, 117.7, 55.3; HRMS (ESI-TOF) calcd for
+C9H6N4O [M + Na+] 209.0439, found 209.0408.
+Mixture of syn- and anti-1-Azido-2-chloroethane-1,2-diyl)-
+dibenzene (4a:4b). Compounds 4a:4b were obtained as a mixture
+of diastereomers in 86% yield (123 mg) after FCC (silica gel, hexanes/
+EtOAc = 20:1 → 15:1) from 100 mg of trans-stilbene (4) (0.555
+mmol), 400 mg of NaN3 (6.15 mmol), 3.0 mL of NaOCl solution
+(1.77 mmol), 0.85 mL of AcOH (14.8 mmol), and 1.0 mL of brine
+(procedure I; EtOAc; 20 °C; 3 h). 4a:4b: Rf = 0.51 (silica gel,
+hexanes/EtOAc 15:1 or 20:1); IR (ﬁlm) ν
+max = 3032, 2101, 1254, 727,
+693 cm−1; 1H NMR (500 MHz, CDCl3) δ = 7.39−7.35 (m), 7.27 (m),
+7.23−7.20 (m), 7.16 (m), 7.07 (m), 5.00 (d, J = 7.8 Hz, 1H) overlaps
+with 5.00 (d, J = 8.6 Hz, 1H), 4.95 (d, J = 7.8 Hz, 1H), 4.88 (d, J = 8.6
+Hz, 1H); 13C NMR (125 MHz, CDCl3) δ = 137.7, 137.6, 136.4, 136.2,
+129.14, 129.12, 128.9, 128.82, 128.79, 128.7, 128.6, 128.5, 128.4,
+128.1, 128.0, 127.8, 72.5, 71.6, 67.0, 64.9.
+
+(1R,2R)-2-Azido-1-chloro-1,2,3,4-tetrahydronaphthalene +
+Enantiomer (5a). Compound 5a was obtained in 67% yield (107
+mg) (together with 26% of 5b (42 mg); and ∼10% of 5c (∼14 mg))
+after PTLC (silica gel, hexanes/EtOAc = 20:1) from 0.1 mL of 1,2-
+dihydronaphthalene (5) (0.766 mmol), 350 mg of NaN3 (5.38 mmol),
+4.0 mL of NaOCl solution (2.36 mmol), and 0.26 mL of AcOH (4.54
+mmol) (procedure I; PhMe; −15 °C → 20 °C; 3 h). 5a: Rf = 0.80
+(silica gel, hexanes/EtOAc 10:1); IR (ﬁlm) ν
+max = 2937, 2093, 1259,
+739 cm−1; 1H NMR (500 MHz, CDCl3) δ = 7.43 (m, 1H), 7.22 (m,
+2H), 7.10 (m, 1H), 5.04 (d, J = 5.3 Hz, 1H), 4.12 (ddd, J = 7.6, 5.3, 2.9
+Hz, 1H), 2.97−2.84 (m, 2H), 2.39 (dddd, J = 13.9, 8.6, 5.9, 2.8 Hz,
+1H), 1.96 (m, 1H); 13C NMR (125 MHz, CDCl3) δ = 135.5, 133.5,
+130.7, 129.0, 128.8, 126.9, 63.4, 59.5, 25.5, 24.4; HRMS (ESI-TOF)
+calcd for C10H10ClN3 [M + H+] 208.0642, found 208.0627.
+anti-Dimethyl-1-chloro-1,2,3,4-tetrahydronaphthalen-2-yl)-1H-
+1,2,3-triazole-4,5-dicarboxylate (5a′). Compound 5a′ was isolated in
+75% yield (167 mg) after FCC (silica gel, hexanes/EtOAc = 5:1 →
+2:1) from 132 mg of 5a (0.636 mmol) and 0.2 mL of DMAD (1.63
+mmol) (procedure II; C6H6; 65 °C; 15 h). 5a′: Rf = 0.22 (silica gel,
+hexanes/EtOAc 5:1); IR (ﬁlm) ν
+max = 2954, 1737, 1731, 1453, 1286,
+</para>
+2747
+
+DOI: 10.1021/acs.joc.5b00009
+J. Org. Chem. 2015, 80, 2740−2755
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+1223, 743 cm−1; 1H NMR (500 MHz, CDCl3) δ = 7.59 (m, 1H), 7.25
+(m, 2H), 7.14 (m, 1H), 5.77 (d, J = 9.4 Hz, 1H), 5.33 (ddd, J = 12.1,
+9.4, 3.4 Hz, 1H), 3.98 (s, 3H), 3.97 (s, 3H), 3.16 (ddd, J = 17.1, 12.0,
+5.3 Hz, 1H), 3.02 (ddd, J = 17.1, 5.0, 3.1 Hz, 1H), 2.64 (dddd, J =
+13.2, 12.1, 12.1, 5.2 Hz, 1H), 2.46 (dddd, J = 13.2, 5.3, 3.2, 3.2 Hz,
+1H); 13C NMR (125 MHz, CDCl3) δ = 160.7, 159.5, 139.6, 135.4,
+134.0, 131.5, 129.8, 128.7 overlaps with 128.7, 127.2, 64.7, 61.8, 53.8,
+52.9, 29.7, 28.7; HRMS (ESI-TOF) calcd for C16H16ClN3O4 [M +
+H+] 350.0908, found 350.0906; [M + Na+] 372.0728, found 372.0725.
+(1R,2S)-2-Azido-1-chloro-1,2,3,4-tetrahydronaphthalene + Enan-
+tiomer (5b). Compound 5b was obtained in 26% yield (42 mg)
+(together with 67% of 5a (107 mg); and ∼10% of 5c (∼14 mg)) after
+PTLC (silica gel, hexanes/EtOAc = 20:1) from 0.1 mL of 1,2-
+dihydronaphthalene (5) (0.766 mmol), 350 mg of NaN3 (5.38 mmol),
+4.0 mL of NaOCl solution (2.36 mmol), and 0.26 mL of AcOH (4.54
+mmol) (procedure I; PhMe; −15 °C → 20 °C; 3 h). 5b: Rf = 0.72
+(silica gel, hexanes/EtOAc 10:1); IR (ﬁlm) ν
+max = 2939, 2094, 1258,
+731 cm−1; 1H NMR (500 MHz, CDCl3) δ = 7.31 (d, J = 7.5 Hz, 1H),
+7.24−7.19 (m, 2H), 7.12 (d, J = 7.5 Hz, 1H), 5.26 (dd, J = 3.4, 1.3 Hz,
+1H), 3.90 (ddd, J = 11.8, 3.4, 3.4 Hz, 1H), 3.08 (ddd, J = 17.5, 6.3, 2.7
+Hz, 1H), 2.93 (ddd, J = 17.5, 11.2, 6.4 Hz, 1H), 2.39 (dddd, J = 13.0,
+11.5, 11.5, 6.3 Hz, 1H), 2.07 (m, 1H); 13C NMR (125 MHz, CDCl3) δ
+= 134.8, 134.6, 130.5, 129.3, 129.2, 126.9, 61.8, 60.2, 27.8, 22.6.
+syn-Dimethyl-1-chloro-1,2,3,4-tetrahydronaphthalen-2-yl)-1H-
+1,2,3-triazole-4,5-dicarboxylate (5b′). Compound 5b′ was isolated in
+48% yield (40 mg) after FCC (silica gel, hexanes/EtOAc = 5:1 → 2:1)
+from 49 mg of 5b (0.236 mmol) and 0.1 mL of DMAD (0.813 mmol)
+(procedure II; C6H6; 65 °C; 15 h). 5b′: Rf = 0.20 (silica gel, hexanes/
+EtOAc 5:1); IR (ﬁlm) ν
+max = 2923, 2853, 1742, 1737, 1726, 1450,
+1220, 1062, 730 cm−1; 1H NMR (500 MHz, CDCl3) δ = 7.32 (d, J =
+7.8 Hz, 1H), 7.29 (ddd, J = 7.4, 7.4, 1.5 Hz, 1H), 7.23 (t, J = 7.3 Hz,
+1H), 7.18 (d, J = 7.6 Hz, 1H), 5.54 (dd, J = 3.3, 1.4 Hz, 1H), 5.39
+(ddd, J = 12.4, 3.2, 3.2 Hz, 1H), 3.97 (s, 6H), 3.23−3.14 (m, 2H), 3.06
+(m, 1H), 2.48 (m, 1H); 13C NMR (125 MHz, CDCl3) δ = 160.9,
+159.6, 140.9, 134.7, 134.1, 130.9, 129.63, 129.57, 129.4, 127.1, 61.4,
+60.0, 53.8, 53.0, 28.8, 22.4; HRMS (ESI-TOF) calcd for
+C16H16ClN3O4 [M + H+] 350.0908, found 350.0910; [M + Na+]
+found 372.0724. 5d′: HRMS (ESI-TOF) calcd for
+372.0728,
+C16H16ClN3O4 [M + H+] 350.0908, found 350.0907; [M + Na+]
+372.0728, found 372.0726.
+
+2-Azido-3,4-dihydronaphthalen-1(2H)-one (5c). Compound 5c
+was obtained in 10% yield (14 mg) (together with 67% of 5a (107
+mg); and 26% of 5b (42 mg)) after PTLC (silica gel, hexanes/EtOAc
+= 20:1) from 0.1 mL of 1,2-dihydronaphthalene (5) (0.766 mmol),
+350 mg of NaN3 (5.38 mmol), 4.0 mL of NaOCl solution (2.36
+mmol), and 0.26 mL of AcOH (4.54 mmol) (procedure I; PhMe; −15
+°C → 20 °C; 3 h). 5c: Rf = 0.50 (silica gel, hexanes/EtOAc 10:1); IR
+max = 2933, 2100, 1692, 1682, 1601, 1264, 1228, 745 cm−1; 1H
+(ﬁlm) ν
+NMR (500 MHz, CDCl3) δ = 8.05 (dd, J = 7.8, 1.2 Hz, 1H), 7.50
+(ddd, J = 7.5, 7.5, 1.4 Hz, 1H), 7.33 (t, J = 7.6 Hz, 1H), 7.24 (d, J = 7.6
+Hz, 1H), 4.21 (dd, J = 12.1, 4.7 Hz, 1H), 3.06 (dd, J = 7.8, 4.5 Hz,
+2H), 2.36 (dddd, J = 13.3, 4.5, 4.5, 4.5 Hz, 1H), 2.16−2.08 (m, 1H);
+13C NMR (125 MHz, CDCl3) δ = 194.0, 143.6, 134.4, 131.3, 128.9,
+128.2, 127.3, 64.5, 29.6, 27.8; HRMS (ESI-TOF) calcd for C10H9N3O
+[M + Na+] 210.0643, found 210.0638.
+
+((1S,2R)-2-Azido-1-chlorocyclohexyl)benzene + Enantiomer (6a).
+Compound 6a was obtained in 61% yield (91 mg) (together with 8%
+of 6b, 12 mg) after PTLC (silica gel, hexanes/EtOAc = 20:1) from 0.1
+mL of 1-phenyl-1-cyclohexene (6) (0.628 mmol), 350 mg of NaN3
+(5.38 mmol), 4.0 mL of NaOCl solution (2.36 mmol), and 0.26 mL of
+AcOH (4.54 mmol) (procedure I; neat; −15 °C → 20 °C; 2 h). 6a: Rf
+= 0.80 (silica gel, hexanes/EtOAc 10:1); IR (ﬁlm) ν
+max = 2939, 2866,
+2101, 1446, 1267, 751, 694, 658 cm−1; 1H NMR (500 MHz, CDCl3) δ
+= 7.58 (m, 2H), 7.40 (t, J = 7.6 Hz, 2H), 7.33 (t, J = 7.3 Hz, 1H), 4.22
+(m, 1H), 2.53 (ddd, J = 13.9, 12.4, 4.1 Hz, 1H), 2.38 (dddd, J = 14.3,
+13.0, 4.6, 2.9 Hz, 1H), 2.22 (ddddd, J = 13.9, 3.3, 3.3, 1.5, 1.5 Hz, 1H),
+1.95 (m, 1H), 1.89 (m, 1H), 1.76 (m, 1H), 1.60 (m, 1H) overlaps with
+1.55 (dddd, J = 13.2, 13.2, 4.0, 4.0 Hz, 1H); 13C NMR (125 MHz,
+CDCl3) δ = 143.6, 128.7, 128.5, 126.8, 73.1, 67.4, 32.4, 27.0, 21.5,
+</para>
+Article
+<para sub=“exp”>
+19.4; HRMS (ESI-TOF) calcd for C12H14ClN3 [M + H+] 236.0955,
+found 236.0961.
+Dimethyl 1-((1R,2S)-2-chloro-2-phenylcyclohexyl)-1H-1,2,3-tria-
+zole-4,5-dicarboxylate + Enantiomer (6a′). Compound 6a′ was
+isolated in 56% yield (18 mg) after FCC (silica gel, hexanes/EtOAc =
+5:1 → 1:1) from 20 mg of 6a (0.085 mmol) and 0.1 mL of DMAD
+(0.813 mmol) (procedure II; C6H6; 65 °C; 17 h). 6a′: Rf = 0.20 (silica
+gel, hexanes/EtOAc 5:1); IR (ﬁlm) ν
+max = 2952, 1737, 1727, 1446,
+1278, 1214, 753, 735, 697 cm−1; 1H NMR (500 MHz, CDCl3) δ =
+7.28 (m, 2H), 7.16−7.10 (m, 3H), 5.62 (ddd, J = 4.8, 2.4, 2.4 Hz, 1H),
+3.85 (s, 3H), 3.82 (s, 3H), 3.30 (m, 1H), 2.71 (m, 1H), 2.24 (m, 1H),
+2.19−2.08 (m, 2H), 2.02 (m, 1H), 1.96 (m, 1H), 1.70 (m, 1H); 13C
+NMR (125 MHz, CDCl3) δ = 160.5, 159.3, 141.5, 138.5, 131.2, 128.6,
+128.4, 126.3, 73.6, 64.1, 53.5, 52.7, 33.0, 27.6, 21.4, 19.1; HRMS (ESI-
+TOF) calcd for C18H20ClN3O4 [M + H+] 378.1215, found 378.1219;
+[M + Na+] 400.1035, found 400.1035.
+
+((1S,2S)-2-Azido-1-chlorocyclohexyl)benzene + Enantiomer (6b).
+Compound 6b was obtained as a mixture of 6b plus two other
+unidentiﬁed products in 8% yield (12 mg) (together with 61% of 6a,
+91 mg) after PTLC (silica gel, hexanes/EtOAc = 20:1) from 0.1 mL of
+1-phenyl-1-cyclohexene (6) (0.628 mmol), 350 mg of NaN3 (5.38
+mmol), 4.0 mL of NaOCl solution (2.36 mmol), and 0.26 mL of
+AcOH (4.54 mmol) (procedure I; neat; −15 °C → 20 °C; 2 h). 6b: Rf
+= 0.70 (silica gel, hexanes/EtOAc 10:1); IR (ﬁlm) ν
+max = 2942, 2865,
+− a
+2100, 1446, 1262, 751, 694 cm−1; 1H NMR (500 MHz, CDCl3
+mixture of three products) δ = 7.68 (m, 2H), 7.61 (m, 2H), 7.53−7.26
+(m, 11H), 4.88 (m, 1H), 4.49 (m, 1H), 4.28 (dd, J = 10.9, 4.8 Hz,
+1H), 3.77 (dd, J = 11.2, 4.3 Hz, 1H), 2.55 (m, 1H), 2.34 (m, 1H),
+2.24−2.08 (m, 7H), 2.05−1.86 (m, 8H), 1.70−1.64 (m, 4H), 1.50−
+1.40 (m, 2H); HRMS (ESI-TOF) calcd for C12H14ClN3 [M + H+]
+236.0955, found 236.0966.
+Dimethyl 1-((1S,2S)-2-chloro-2-phenylcyclohexyl)-1H-1,2,3-tria-
+zole-4,5-dicarboxylate + Enantiomer (6b′). Compound 6b′ was
+isolated in 62% yield (52 mg) after FCC (silica gel, hexanes/EtOAc =
+5:1 → 1:1) from 52 mg of 6b (0.221 mmol) and 0.1 mL of DMAD
+(0.813 mmol) (procedure II; C6H6; 65 °C; 16 h). 6b′: Rf = 0.17 (silica
+gel, hexanes/EtOAc 1:1); IR (ﬁlm) ν
+max = 2951, 1737, 1726, 1445,
+1285, 1214, 1061, 734, 697 cm−1; 1H NMR (500 MHz, CDCl3) δ =
+7.22−7.16 (m, 3H), 7.19−7.14 (m, 2H), 5.19 (dd, J = 12.0, 3.5 Hz,
+1H), 3.86 (s, 3H), 3.52 (s, 3H), 3.01 (m, 1H), 2.55 (ddd, J = 14.1,
+12.4, 3.9 Hz, 1H), 2.29 (m, 1H), 2.17 (ddddd, J = 13.1, 13.1, 13.1, 3.7,
+3.7 Hz, 1H) overlaps with 2.09 (m, 2H), 1.84 (m, 1H), 1.61 (m, 1H);
+13C NMR (125 MHz, CDCl3) δ = 160.7, 159.2, 140.9, 138.5, 131.3,
+128.6, 128.4, 126.9, 76.3, 67.4, 53.1, 52.7, 40.2, 29.1, 25.3 21.6; HRMS
+(ESI-TOF) calcd for C18H20ClN3O4 [M + H+] 378.1221,
+found
+378.1226; [M + Na+] 400.1040, found 400.1037.
+
+Mixture of syn- and anti-2-Azido-3-chloro-3-phenylpropan-1-ol
+(7a:7b). Compounds 7a:7b were obtained as an inseparable mixture in
+71% yield (112 mg) after PTLC (silica gel, hexanes/EtOAc = 5:1)
+from 100 mg of cinnamyl alcohol (7) (0.745 mmol), 150 mg of NaN3
+(2.31 mmol), 4.0 mL of NaOCl solution (2.36 mmol), 0.26 mL of
+AcOH (4.54 mmol), and 1.0 mL of brine (procedure I; PhMe; 20 °C;
+1 h). Alternatively, 7a:7b can be obtained (together with 35% of other
+region-isomers; 78% combined yield) from 100 mg of 7 (0.745
+mmol), 350 mg of NaN3 (5.38 mmol), 4.0 mL of NaOCl solution
+(2.36 mmol), and 0.26 mL of AcOH (4.54 mmol) (procedure I;
+PhMe; −15 °C → 20 °C; 2.5 h). 7a:7b: Rf = 0.28 (silica gel, hexanes/
+EtOAc 5:1); IR (ﬁlm) ν
+max = 3363 (broad), 2102, 1265, 1057, 733,
+697, 550 cm−1; 1H NMR (500 MHz, CDCl3) δ = 7.45−7.32 (m,
+10H), 5.01 (d, J = 7.8 Hz, 1H), 4.93 (d, J = 8.2 Hz, 1H), 3.96−3.83
+(m, 4H), 3.61 (dd, J = 11.6, 3.8 Hz, 1H), 3.40 (dd, J = 11.5, 6.2 Hz,
+1H), 2.05 (br s, 2H); 13C NMR (125 MHz, CDCl3) δ = 137.9, 137.8,
+129.4, 129.3, 129.12, 129.06, 128.2, 127.7, 69.8, 69.0, 63.8, 63.0, 62.9,
+60.7.
+Mixture of syn- and anti-2-Azido-3-chloro-3-phenylpropyl
+acetate (7a′:7b′). A mixture of 7a:7b (110 mg, 0.520 mmol) and
+Et3N (0.2 mL, 1.43 mmol) in 5 mL of dry DCM was treated with
+acetyl chloride (0.07 mL, 0.984 mmol) at 0 °C for 0.5 h. Excess DCM
+was removed in vacuo. After FCC (silica gel, hexanes/EtOAc = 5:1)
+78% of pure 7a′:7b′ (103 mg) was isolated. 7a′:7b′: Rf = 0.55 (silica
+</para>
+2748
+
+DOI: 10.1021/acs.joc.5b00009
+J. Org. Chem. 2015, 80, 2740−2755
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+max = 2106, 1753−1732, 1221,
+gel, hexanes/EtOAc 5:1); IR (ﬁlm) ν
+1044, 697 cm−1; 1H NMR (500 MHz, CDCl3) δ = 7.43−7.32 (m,
+10H), 4.92 (d, J = 7.1 Hz, 1H), 4.88 (d, J = 7.9 Hz, 1H), 4.43 (dd, J =
+11.7, 3.4 Hz, 1H), 4.25 (dd, J = 11.7, 6.9 Hz, 1H), 4.15 (dd, J = 11.5,
+3.7 Hz, 1H), 4.04 (ddd, J = 7.9, 6.9, 3.4 Hz, 1H) overlaps with 4.01
+(ddd, J = 7.2, 7.2, 3.6 Hz, 1H), 3.91 (dd, J = 11.5, 7.2 Hz, 1H), 2.10 (s,
+3H), 2.06 (s, 3H); 13C NMR (125 MHz, CDCl3) δ = 170.6, 170.5,
+137.4, 137.3, 129.49, 129.47, 129.2, 129.1, 128.1, 127.6, 66.3, 65.7,
+64.3, 64.2, 63.0, 60.9, 20.9, 20.8; HRMS (ESI-TOF) calcd for
+C11H12ClN3O2 [M + Na+] 276.0515, found 276.0550.
+Mixture of syn- and anti-Dimethyl-3-acetoxy-1-chloro-1-phenyl-
+propan-2-yl)-1H-1,2,3-triazole-4,5-dicarboxylate (7a″:7b″). Com-
+pounds 7a″:7b″ were isolated in 57% yield (89 mg) after FCC (silica
+gel, hexanes/EtOAc = 5:1 → 1:1) from 100 mg of 7a′:7b′ (0.394
+mmol) and 0.1 mL of DMAD (0.813 mmol) (procedure II; C6H6; 65
+°C; 15 h). 7a″:7b″: Rf = 0.15 (silica gel, hexanes/EtOAc 5:1) or 0.68
+max = 1753−1728, 1453,
+(silica gel, hexanes/EtOAc 1:1); IR (ﬁlm) ν
+1214, 1077, 1047, 731, 699 cm−1; 1H NMR (500 MHz, CDCl3) δ =
+7.45−7.34 (m, 5H), 7.18 (m, 5H), 5.73 (ddd, J = 10.2, 8.1, 4.4 Hz,
+1H), 5.65 (ddd, J = 10.2, 9.0, 3.3 Hz, 1H), 5.50 (d, J = 10.2 Hz, 1H),
+5.43 (d, J = 10.2 Hz, 1H), 5.16 (dd, J = 11.8, 3.3 Hz, 1H), 4.72 (dd, J =
+11.8, 9.1 Hz, 1H), 4.34−4.25 (m, 2H), 3.99 (s, 3H), 3.97 (s, 3H), 3.86
+(s, 3H), 3.85 (s, 3H), 1.95 (s, 3H), 1.87 (s, 3H); 13C NMR (125 MHz,
+CDCl3) δ = 170.3, 170.2, 160.6, 160.2, 159.2, 158.8, 139.7, 139.3,
+136.4, 136.1, 132.1, 131.4, 130.2, 129.62, 129.58, 129.0, 127.7, 127.5,
+65.1, 64.6, 63.8, 63.3, 62.0, 59.8, 53.8, 53.6, 53.0, 52.9, 20.7, 20.6;
+HRMS (ESI-TOF) calcd for C17H18ClN3O6 [M + H+] 396.0962,
+found 396.0976; [M + Na+] 418.0782, found 418.0778.
+
+(E)-(3-(Prop-2-yn-1-yloxy)prop-1-en-1-yl)benzene (8). Cinnamyl
+alcohol (7) (0.5 g, 3.73 mmol) was dissolved in dry THF (15 mL).
+The resulting solution was cooled to 0 °C. Sodium hydride (134 mg,
+5.58 mmol, prewashed separately from 60% in mineral oil) was added
+in portions over the period of 5 min, the reaction was stirred for
+additional 20 min at 0 °C after which propargyl bromide (0.72 mL,
+6.68 mmol, 80% solution in toluene) was added dropwise. After the
+reaction was completed (monitored by TLC, 0 °C → 20 °C; 3 h) it
+was slowly quenched with sat. aq. NH4Cl (10 mL). The biphasic
+mixture was extracted with CH2Cl2 (3 × 10 mL), the combined
+organic layers were dried over anhydrous Na2SO4 and concentrated in
+vacuo. FCC (silica gel, hexanes/EtOAc = 10:1 → 5:1) yielded 76%
+(0.49 g) of 8 as a colorless oil. 8: Rf = 0.75 (silica gel, hexanes/EtOAc
+5:1); IR (ﬁlm) ν
+max = 3290, 3026, 2851, 1356, 1116, 1073, 965, 736,
+691, 669, 632 cm−1; 1H NMR (500 MHz, CDCl3) δ = 7.38 (m, 2H),
+7.31 (t, J = 7.4 Hz, 2H), 7.23 (t, J = 7.3 Hz, 1H), 6.63 (d, J = 16.0 Hz,
+1H), 6.26 (ddd, J = 16.0, 6.2, 6.2 Hz, 1H), 4.23 (dd, J = 6.2, 1.4 Hz,
+2H), 4.19 (d, J = 2.4 Hz, 2H), 2.45 (t, J = 2.4 Hz, 1H); 13C NMR (125
+MHz, CDCl3) δ = 136.7, 133.6, 128.8, 128.0, 126.8, 125.2, 79.9, 74.7,
+70.4, 57.2; HRMS (ESI-TOF) calcd for C12H12O [M + H+] 173.0966,
+found 173.0949.
+
+Mixture of syn- and anti-2-Azido-1-chloro-3-(prop-2-yn-1-yloxy)-
+propyl)benzene (8a:8b). Compounds 8a:8b were obtained in 82%
+yield (119 mg) (together with 5% of 8c, 7 mg) after PTLC (silica gel,
+hexanes/EtOAc = 20:1) from 0.1 mL of 8 (0.581 mmol), 150 mg of
+NaN3 (2.31 mmol), 4.0 mL of NaOCl solution (2.36 mmol), and 0.26
+mL of AcOH (4.54 mmol) (procedure I; PhMe; 20 °C; 0.5 h). 8a:8b:
+Rf = 0.60−0.70 (silica gel, hexanes/EtOAc 10:1); IR (ﬁlm) ν
+max =
+3295, 2916, 2105, 1267, 1094, 732, 697, 639, 528 cm−1; 1H NMR
+(500 MHz, CDCl3) δ = 7.48−7.31 (m, 10H), 5.04 (d, J = 6.9 Hz, 1H),
+4.99 (d, J = 7.8 Hz, 1H), 4.21 (t, J = 2.6 Hz, 2H), 4.12 (d, J = 2.4 Hz,
+2H), 3.97 (m, 1H), 3.87 (m, 1H), 3.82−3.76 (m, 2H), 3.65 (dd, J =
+9.9, 4.1 Hz, 1H), 3.42 (dd, J = 9.9, 5.9 Hz, 1H), 2.46 (t, J = 2.4 Hz,
+1H), 2.40 (t, J = 2.4 Hz, 1H); 13C NMR (125 MHz, CDCl3) δ =
+138.0, 137.6, 129.23, 129.15, 129.0, 128.9, 128.2, 127.8, 79.0, 78.9,
+75.47, 75.46, 69.6, 69.5, 67.0, 66.4, 63.0, 60.9, 58.9, 58.8. 8a:8b (one of
+the diastereomers): Rf = 0.62 (silica gel, hexanes/EtOAc 10:1); IR
+max = 3294, 2916, 2104, 1270, 1109, 744, 699, 649 cm−1; 1H
+(ﬁlm) ν
+NMR (500 MHz, CDCl3) δ = 7.43−7.33 (m, 5H), 5.04 (d, J = 6.9 Hz,
+1H), 4.12 (d, J = 2.4 Hz, 2H), 3.86 (d, J = 6.8, 5.8, 4.2 Hz, 1H), 3.65
+(dd, J = 9.9, 4.1 Hz, 1H), 3.42 (dd, J = 9.9, 5.8 Hz, 1H), 2.39 (t, J = 2.4
+
+Hz, 1H); 13C NMR (125 MHz, CDCl3) δ = 138.0, 129.2, 129.0, 127.8,
+78.9, 75.5, 69.7, 67.1, 63.0, 58.9.
+
+Mixture of syn- and anti-Dimethyl-1-chloro-1-phenyl-3-(prop-2-
+yn-1-yloxy)propan-2-yl)-1H-1,2,3-triazole-4,5-dicarboxylate
+(8a′:8b′). Compounds 8a′:8b′ were isolated in 52% yield (41 mg)
+after FCC (silica gel, hexanes/EtOAc = 5:1 → 3:1) from 50 mg of
+8a:8b (0.200 mmol) and 0.15 mL of DMAD (1.22 mmol) (procedure
+II; C6H6; 65 °C; 18 h). 8a′:8b′: Rf = 0.18 (silica gel, hexanes/EtOAc
+5:1); IR (ﬁlm) ν
+max = 3286, 2954, 1737, 1727, 1453, 1275, 1217, 1099,
+699 cm−1; 1H NMR (500 MHz, CDCl3) δ = 7.43−7.33 (m, 5H),
+7.22−7.18 (m, 5H), 5.72 (m, 1H) overlaps with 5.69 (m, 1H), 5.53 (d,
+J = 9.9 Hz, 1H), 5.45 (d, J = 10.0 Hz, 1H), 4.45 (dd, J = 10.1, 3.5 Hz,
+1H), 4.27 (dd, J = 10.1, 9.0 Hz, 1H), 4.09 (m, 2H), 3.96 (s, 3H), 3.95
+(s, 3H), 3.91 (m, 2H), 3.89 (m, 1H), 3.87 (s, 3H), 3.86 (s, 3H), 3.60
+(dd, J = 10.1, 3.8 Hz, 1H), 2.42 (t, J = 2.4 Hz, 1H), 2.27 (t, J = 2.4 Hz,
+1H); 13C NMR (125 MHz, CDCl3) δ = 160.7, 160.4, 159.3, 159.0,
+139.8, 139.3, 137.0, 136.4, 132.1, 131.7, 129.8, 129.5, 129.4, 129.3,
+128.9, 128.7, 127.74, 127.69, 78.6, 78.3, 75.62, 75.58, 69.6, 68.9, 61.7,
+59.9, 58.7, 58.6, 53.6, 53.5, 52.9, 52.8; HRMS (ESI-TOF) calcd for
+C18H18ClN3O5 [M + H+] 392.1013, found 392.1036; [M + Na+]
+414.0833, found 414.0832.
+
+2-Azido-1-phenyl-3-(prop-2-yn-1-yloxy)propan-1-one (8c). Com-
+pound 8c was obtained (together with 98 mg of 8a:8b, 68%) in 10%
+yield (13 mg) after PTLC (silica gel, hexanes/EtOAc = 20:1) from 0.1
+mL of 8 (0.581 mmol), 350 mg of NaN3 (5.38 mmol), 4.0 mL of
+NaOCl solution (2.36 mmol), and 0.26 mL of AcOH (4.54 mmol)
+(procedure I; EtOAc; 20 °C; 1 h). 8c: Rf = 0.44 (silica gel, hexanes/
+max = 3293, 2916, 2849, 2102, 1702−1682,
+EtOAc 10:1); IR (ﬁlm) ν
+1270, 1228, 1104, 697 cm−1; 1H NMR (500 MHz, CDCl3) δ = 7.93
+(d, J = 7.3 Hz, 2H), 7.61 (t, J = 7.5 Hz, 1H), 7.49 (t, J = 7.8 Hz, 2H),
+4.84 (dd, J = 6.9, 4.3 Hz, 1H), 4.20 (d, J = 2.4 Hz, 1H), 4.18 (d, J = 2.4
+Hz, 1H), 4.04 (dd, J = 10.2, 4.3 Hz, 1H), 3.94 (dd, J = 10.2, 6.9 Hz,
+1H), 2.41 (t, J = 2.4 Hz, 1H).
+Dimethyl 1-(1-oxo-1-phenyl-3-(prop-2-yn-1-yloxy)propan-2-yl)-
+1H-1,2,3-triazole-4,5-dicarboxylate (8c′). Compound 8c′ was iso-
+lated in 48% yield (10 mg) after FCC (silica gel, hexanes/EtOAc = 5:1
+→ 2:1) from 13 mg of 8c (0.057 mmol) and 0.1 mL of DMAD (0.813
+mmol) (procedure II; C6H6; 65 °C; 17 h). 8c′: Rf = 0.11 (silica gel,
+hexanes/EtOAc 5:1) or 0.50 (silica gel, hexanes/EtOAc 2:1); IR (ﬁlm)
+max = 3283, 2955, 1737−1698, 1450, 1285, 1215, 1102, 692 cm−1; 1H
+ν
+NMR (500 MHz, CDCl3) δ = 7.92 (m, 2H), 7.57 (t, J = 7.5 Hz, 1H),
+7.44 (t, J = 7.8 Hz, 2H), 6.71 (dd, J = 9.0, 4.0 Hz, 1H), 4.39 (dd, J =
+10.6, 4.0 Hz, 1H), 4.32 (dd, J = 10.6, 9.0 Hz, 1H), 4.14 (dd, J = 16.0,
+2.4 Hz, 1H), 4.07 (dd, J = 16.0, 2.4 Hz, 1H), 3.94 (s, 3H) overlaps
+with 3.94 (s, 3H), 2.38 (t, J = 2.4 Hz, 1H); 13C NMR (125 MHz,
+CDCl3) δ = 190.9, 160.6, 159.6, 140.0, 134.5, 134.4, 131.0, 129.3,
+128.8, 78.6, 75.6, 68.4, 64.9, 58.9, 53.7, 53.0.
+
+Ethyl
+
+(2S,3R,4R)-3-azido-4-chloro-2-ethoxy-3,4-dihydroquino-
+(9a). Compound 9a was
+line-1(2H)-carboxylate + Enantiomer
+obtained in 67% yield (97 mg) (together with 32% of 9b, 37 mg)
+after PTLC (silica gel, hexanes/EtOAc = 5:1) from 110 mg of 2-
+ethoxy-1-ethoxycarbonyl-1,2-dihydroquinoline (EEDQ) (9) (0.445
+mmol), 350 mg of NaN3 (5.38 mmol), 4.0 mL of NaOCl solution
+(2.36 mmol), and 0.26 mL of AcOH (4.54 mmol) (procedure I;
+PhMe; −15 °C → 20 °C; 3 h). 9a: Rf = 0.68 (silica gel, hexanes/
+EtOAc 5:1); IR (ﬁlm) ν
+max = 2980, 2106, 1712, 1311, 1274, 1080,
+1046 cm−1; 1H NMR (500 MHz, CDCl3) δ = 7.62 (d, J = 7.7 Hz, 1H),
+7.40 (d, J = 8.0 Hz, 1H), 7.33 (t, J = 7.7 Hz, 1H), 7.25 (ddd, J = 7.6,
+7.6, 1.2 Hz, 1H), 5.69 (d, J = 3.8 Hz, 1H), 4.79 (d, J = 9.2 Hz, 1H),
+4.32−4.17 (m, 2H), 3.78 (dd, J = 9.1, 3.8 Hz, 1H), 3.73−3.62 (m,
+2H), 1.28 (t, J = 7.1 Hz, 3H), 1.15 (t, J = 7.1 Hz, 3H); 13C NMR (125
+MHz, CDCl3) δ = 154.6, 134.7, 128.8, 128.7, 126.9, 126.2, 125.8, 86.1,
+72.1, 64.3, 62.8, 57.8, 15.1, 14.5; HRMS (ESI-TOF) calcd for
+C14H17ClN4O3 [M + Na+] 347.0886, found 347.0886.
+
+Dimethyl 1-((2S,3R,4R)-4-chloro-2-ethoxy-1-(ethoxycarbonyl)-
+1,2,3,4-tetrahydroquinolin-3-yl)-1H-1,2,3-triazole-4,5-dicarboxylate
++ Enantiomer (9a′). Compound 9a′ was isolated in 61% yield (125
+mg) after FCC (silica gel, hexanes/EtOAc = 5:1 → 3:1) from 142 mg
+of 9a (0.437 mmol) and 0.15 mL of DMAD (1.22 mmol) (procedure
+II; C6H6; 65 °C; 15 h). 9a′: Rf = 0.18 (silica gel, hexanes/EtOAc 5:1)
+</para>
+2749
+
+DOI: 10.1021/acs.joc.5b00009
+J. Org. Chem. 2015, 80, 2740−2755
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+or 0.37 (silica gel, hexanes/EtOAc 3:1); IR (ﬁlm) ν
+max = 2954, 1737,
+1731, 1453, 1286, 1223, 1069, 743 cm−1; 1H NMR (500 MHz,
+CDCl3) δ = 7.64 (t, J = 7.8 Hz, 1H), 7.42−7.37 (m, 2H), 7.30 (ddd, J
+= 7.5, 7.5, 1.5 Hz, 1H), 6.16 (d, J = 4.4 Hz, 1H), 5.49 (d, J = 10.8 Hz,
+1H), 5.16 (dd, J = 10.8, 4.4 Hz, 1H), 4.30−4.16 (m, 2H), 3.96 (s, 3H),
+3.93 (s, 3H), 3.64 (dddd, J = 9.6, 7.1, 7.1, 7.1 Hz, 1H), 3.84 (dddd, J =
+9.6, 7.1, 7.1, 7.1 Hz, 1H), 1.25 (t, J = 7.1 Hz, 3H), 1.02 (t, J = 7.0 Hz,
+3H); 13C NMR (125 MHz, CDCl3) δ = 160.4, 158.8, 154.4, 139.7,
+134.9, 132.1, 129.1, 128.8, 126.6, 126.3, 126.2, 86.4, 71.6, 64.3, 63.1,
+57.0, 53.8, 52.9, 14.9, 14.5; HRMS (ESI-TOF) calcd for
+C20H23ClN4O7 [M + H+] 467.1333, found 467.1334; [M + Na+]
+489.1153, found 489.1150.
+
+Ethyl 3-azido-4-oxoquinoline-1(4H)-carboxylate (9b). Compound
+9b was obtained in 32% yield (37 mg) (together with 67% of 9a, 97
+mg) after PTLC (silica gel, hexanes/EtOAc = 5:1) from 110 mg of 2-
+ethoxy-1-ethoxycarbonyl-1,2-dihydroquinoline (EEDQ) (9) (0.445
+mmol), 350 mg of NaN3 (5.38 mmol), 4.0 mL of NaOCl solution
+(2.36 mmol), and 0.26 mL of AcOH (4.54 mmol) (procedure I;
+PhMe; −15 °C → 20 °C; 3 h). 9b: Rf = 0.55 (silica gel, hexanes/
+EtOAc 5:1); IR (ﬁlm) ν
+max = 2982, 2122, 1759, 1630, 1327, 1275,
+1212, 1189, 1032, 765 cm−1; 1H NMR (500 MHz, CDCl3) δ = 8.68
+(d, J = 8.9 Hz, 1H), 8.37 (dd, J = 8.1, 1.7 Hz, 1H), 8.19 (s, 1H), 7.68
+(ddd, J = 8.9, 7.1, 1.8 Hz, 1H), 7.45 (ddd, J = 8.0, 7.1, 0.9 Hz, 1H),
+4.52 (q, J = 7.1 Hz, 2H), 1.47 (t, J = 7.1 Hz, 3H); 13C NMR (125
+MHz, CDCl3) δ = 175.0, 151.2, 137.8, 133.3, 127.2, 126.6, 125.8,
+125.2, 123.6, 120.1, 65.7, 14.4; HRMS (ESI-TOF) calcd for
+C12H10N4O3 [M + H+] 259.0831,
+found 259.0822; [M + Na+]
+281.0650, found 281.0642.
+Dimethyl 1-(1-(ethoxycarbonyl)-4-oxo-1,4-dihydroquinolin-3-yl)-
+1H-1,2,3-triazole-4,5-dicarboxylate (9b′). Compound 9b′ was
+isolated in 39% yield (14 mg) after FCC (silica gel, hexanes/EtOAc
+= 5:1 → 2:1) from 23 mg of 9b (0.089 mmol) and 0.1 mL of DMAD
+(0.813 mmol) (procedure II; C6H6; 65 °C; 18 h). 9b′: Rf = 0.08 (silica
+gel, hexanes/EtOAc 5:1) or 0.19 (silica gel, hexanes/EtOAc 2:1); IR
+max = 1760−1728, 1656−1644, 1475−1453, 1279, 1206, 1026,
+(ﬁlm) ν
+865, 764, 733 cm−1; 1H NMR (500 MHz, CDCl3) δ = 9.03 (s, 1H),
+8.74 (d, J = 8.9 Hz, 1H), 8.42 (dd, J = 8.0, 1.7 Hz, 1H), 7.78 (ddd, J =
+8.9, 7.1, 1.7 Hz, 1H), 7.52 (ddd, J = 8.0, 7.1, 0.9 Hz, 1H), 4.59 (q, J =
+7.1 Hz, 2H), 3.99 (s, 3H), 3.92 (s, 3H), 1.50 (t, J = 7.1 Hz, 3H); 13C
+NMR (125 MHz, CDCl3) δ = 171.6, 160.3, 159.1, 150.6, 139.0, 138.1,
+136.1, 134.3, 133.4, 127.4, 126.7, 126.3, 120.9, 120.4, 66.5, 53.8, 53.0,
+14.4; HRMS (ESI-TOF) calcd for C18H16N4O7 [M + H+] 401.1098,
+found 401.1091; [M + Na+] 423.0917, found 423.0915.
+
+Methyl 3,3-dichloro-2-oxoindoline-6-carboxylate (10a). Com-
+pound 10a was obtained in 89% yield (159 mg) after FCC (silica
+gel, hexanes/EtOAc = 5:1) from 120 mg of methylindole-6-
+carboxylate (10) (0.685 mmol), 150 mg of NaN3 (2.31 mmol), 4.0
+mL of NaOCl solution (2.36 mmol), and 0.26 mL of AcOH (4.54
+mmol) (procedure I; EtOAc; 20 °C; 1.5 h). 10a: Rf = 0.25 (silica gel,
+hexanes/EtOAc 5:1); IR (ﬁlm) ν
+max = 3214, 1747, 1715, 1450, 1278,
+1221, 1090, 768, 729 cm−1; 1H NMR (500 MHz, CDCl3) δ = 9.09 (br
+s, 1H), 7.87 (dd, J = 7.9, 1.5 Hz, 1H), 7.69−7.67 (m, 2H), 3.93 (s,
+3H); 13C NMR (125 MHz, CDCl3) δ = 170.7, 165.9, 138.3, 134.0,
+133.8, 126.1, 125.3, 112.4, 73.9, 52.9; HRMS (ESI-TOF) calcd for
+C10H7Cl2NO3 [M + H+] 259.9881, found 259.9877.
+
+3-Chloro-1H-pyrrolo[2,3-b]pyridine (11a). Compound 11a was
+obtained in 91% yield (118 mg) after FCC (silica gel, hexanes/EtOAc
+= 1:1) from 100 mg of 7-azaindole (11) (0.846 mmol), 150 mg of
+NaN3 (2.31 mmol), 4.0 mL of NaOCl solution (2.36 mmol), and 0.26
+mL of AcOH (4.54 mmol) (procedure I; PhMe; 20 °C; 0.5 h). 11a: Rf
+max = 3077−2821
+= 0.29 (silica gel, hexanes/EtOAc 1:1); IR (ﬁlm) ν
+(br), 1590, 1414, 1291, 1001, 787, 761, 662 cm−1; 1H NMR (500
+MHz, CD3OD) δ = 8.24 (dd, J = 4.8, 1.5 Hz, 1H), 7.94 (dd, J = 7.9,
+1.5 Hz, 1H), 7.39 (s, 1H), 7.15 (dd, J = 7.9, 4.8 Hz, 1H); 13C NMR
+(125 MHz, CD3OD) δ = 147.6, 144.5, 127.9, 123.8, 119.7, 117.2,
+104.8.
+1-(3-Azido-2-chloropropyl)-4-methoxybenzene (12a). Compound
+12a was obtained in 87% yield (128 mg) after PTLC (silica gel,
+hexanes/EtOAc = 20:1) from 0.1 mL of 4-allylanisole (12) (0.651
+mmol), 500 mg of NaN3 (7.69 mmol), 4.0 mL of NaOCl solution
+
+(2.36 mmol), and 0.26 mL of AcOH (4.54 mmol) (procedure I; neat;
+20 °C; 1 h). Alternatively, 12a can be obtained in 94% yield (138 mg)
+after PTLC (silica gel, hexanes/EtOAc = 20:1 → 10:1) from 0.1 mL of
+4-allylanisole (12) (0.651 mmol), 500 mg of NaN3 (7.69 mmol), 4.0
+mL of NaOCl solution (2.36 mmol), and 0.35 mL of AcOH (6.11
+mmol) (procedure I; PhMe; at room temperature or 0 °C → 20 °C; 5
+h). NOTE: Larger amounts of NaOCl, older reagents, EtOAc, lower
+temperature, lack of the excess of NaN3 usually cause the formation of
+other side products (see 12b′ and 12c′). 12a: Rf = 0.65 (silica gel,
+hexanes/EtOAc 10:1); IR (ﬁlm) ν
+max = 2957, 2837, 2100, 1611, 1513,
+1302, 1246, 1178, 1032, 833, 543 cm−1; 1H NMR (500 MHz, CDCl3)
+δ = 7.12 (d, J = 8.7 Hz, 2H), 6.85 (d, J = 8.7 Hz, 2H), 4.13 (dddd, J =
+7.0, 7.0, 6.0, 4.7 Hz, 1H), 3.78 (s, 3H), 3.50 (dd, J = 13.0, 4.6 Hz, 1H),
+3.44 (dd, J = 13.0, 6.0 Hz, 1H), 3.06 (dd, J = 14.2, 7.0 Hz, 1H), 3.00
+(dd, J = 14.2, 7.1 Hz, 1H); 13C NMR (125 MHz, CDCl3) δ = 158.9,
+130.6, 128.7, 114.2, 61.4, 56.0, 55.4, 40.9; HRMS (ESI-TOF) calcd for
+C10H12ClN3O [M + Na+] 248.0566, found 248.0558.
+Dimethyl 1-(2-chloro-3-(4-methoxyphenyl)propyl)-1H-1,2,3-tria-
+zole-4,5-dicarboxylate (12a′). Compound 12a′ was isolated in 72%
+yield (162 mg) after FCC (silica gel, hexanes/EtOAc = 5:1 → 2:1)
+from 138 mg of 12a (0.611 mmol) and 0.25 mL of DMAD (2.03
+mmol) (procedure II; C6H6; 65 °C; 16 h). 12a′: Rf = 0.10 (silica gel,
+hexanes/EtOAc 5:1); IR (ﬁlm) ν
+max = 2955, 1737, 1728, 1514, 1462,
+1221, 1178, 1062, 1033, 824, 730 cm−1; 1H NMR (500 MHz, CDCl3)
+δ = 7.14 (d, J = 8.7 Hz, 2H), 6.84 (d, J = 8.7 Hz, 2H), 4.89−4.80 (m,
+2H), 4.48 (dddd, J = 7.9, 7.1, 7.1, 4.8 Hz, 1H), 3.94 (s, 3H) overlaps
+with 3.94 (s, 3H), 3.76 (s, 3H), 3.05 (d, J = 1.6 Hz, 1H), 3.04 (d, J =
+2.1 Hz, 1H); 13C NMR (125 MHz, CDCl3) δ = 160.5, 159.2, 159.1,
+139.9, 131.1, 130.6, 127.8, 114.3, 60.5, 55.4, 54.7, 53.7, 52.9, 41.3;
+HRMS (ESI-TOF) calcd for C16H18ClN3O5 [M + H+] 368.1013,
+found 368.1038; [M + Na+] 390.0832, found 390.0833.
+
+Mixture of
+syn- and anti-Dimethyl-1,3-dichloro-1-(4-
+methoxyphenyl)propan-2-yl)-1H-1,2,3-triazole-4,5-dicarboxylate
+(12b′) plus
+syn- and anti-Dimethyl-2,3-dichloro-1-(4-
+methoxyphenyl)propyl)-1H-1,2,3-triazole-4,5-dicarboxylate (12c′).
+Compounds 12b′:12c′ were isolated in various yields after FCC
+(silica gel, hexanes/EtOAc = 5:1 → 2:1) from various amounts of 12a
+(crude mixture obtained at −15 °C and in EtOAc) and 0.1 mL of
+DMAD (0.813 mmol) (procedure II; C6H6; 65 °C; 15 h). 12b′:12c′:
+Rf = 0.20 (silica gel, hexanes/EtOAc 5:1); IR (ﬁlm) ν
+max = 2956, 1737,
+1728, 1514, 1453, 1281, 1256, 1226, 1180, 1154, 1058, 1031, 825
+cm−1; 1H NMR (500 MHz, CDCl3) δ = 7.55 (d, J = 8.8 Hz, 2H), 7.47
+(d, J = 8.8 Hz, 2H), 6.88 (d, J = 8.8 Hz, 2H) overlaps with 6.87 (d, J =
+8.8 Hz, 2H), 6.34 (d, J = 10.1 Hz, 1H) overlaps with 6.32 (d, J = 9.4
+Hz, 1H), 5.37 (m, 1H), 5.29 (ddd, J = 9.8, 3.6, 3.1 Hz, 1H), 3.98 (s,
+3H), 3.94 (s, 3H), 3.93 (s, 3H) overlaps with 3.93 (s, 3H), 3.84 (dd, J
+= 12.7, 3.0 Hz, 1H), 3.79 (dd, J = 12.5, 2.8 Hz, 1H), 3.78 (s, 3H)
+overlaps with 3.77 (s, 3H), 3.61 (dd, J = 12.7, 3.7 Hz, 1H), 3.51 (dd, J
+= 12.5, 3.5 Hz, 1H); 13C NMR (125 MHz, CDCl3) δ = 161.0, 160.8,
+160.6, 160.5, 159.0, 158.8, 140.24, 140.15, 130.1, 130.0, 129.1, 129.0,
+126.6, 125.6, 114.9, 114.5, 67.3, 65.0, 61.6, 60.5, 55.6, 55.5, 53.8, 53.7,
+53.1, 53.0, 47.2, 46.9; HRMS (ESI-TOF) calcd for C16H17Cl2N3O5 [M
++ H+] 402.0623,
+found
+424.0439.
+
+found 402.0621; [M + Na+] 424.0442,
+
+1-Chloro-3-(4-methoxyphenyl)propan-2-ol
+
+(12d). Compound
+12d was obtained in 24% yield (32 mg) (together with 66% of 12a
+(97 mg) and other side-products (see 12b′ and 12c′) usually formed
+at −15 °C) after FCC (silica gel, hexanes/EtOAc = 20:1 → 5:1) from
+0.1 mL of 4-allylanisole (12) (0.651 mmol), 300 mg of NaN3 (4.61
+mmol), 8.0 mL of NaOCl solution (4.72 mmol), and 0.52 mL of
+AcOH (9.08 mmol) (procedure I; EtOAc; −15 °C; 2.5 h). 12d: Rf =
+0.20 (silica gel, hexanes/EtOAc 5:1); IR (ﬁlm) ν
+max = 3410 (broad),
+2955−2836, 1513, 1246, 1178, 1034, 810 cm−1; 1H NMR (500 MHz,
+CDCl3) δ = 7.18 (d, J = 8.6 Hz, 2H), 6.89 (d, J = 8.6 Hz, 2H), 4.03
+(dddd, J = 6.5, 6.5, 6.5, 3.8 Hz, 1H), 3.82 (s, 3H), 3.64 (dd, J = 11.1,
+3.9 Hz, 1H), 3.52 (d, J = 11.1, 6.2 Hz, 1H), 2.86 (d, J = 6.6 Hz, 2H),
+2.12 (br s, OH); 13C NMR (125 MHz, CDCl3) δ = 158.7, 130.5,
+129.1, 114.3, 72.5, 55.5, 49.4, 39.9.
+Dimethyl 1-(2-chloro-3-phenylpropyl)-1H-1,2,3-triazole-4,5-di-
+carboxylate (12e′). Compound 12e′ was isolated in 42% yield (29
+</para>
+2750
+
+DOI: 10.1021/acs.joc.5b00009
+J. Org. Chem. 2015, 80, 2740−2755
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+mg) (together with 17% of 12f′, 13 mg) after FCC (silica gel,
+hexanes/EtOAc = 5:1 → 3:1) from 40 mg of 12e (0.204 mmol) and
+0.1 mL of DMAD (0.813 mmol) (procedure II; C6H6; 65 °C; 16 h).
+12e′: Rf = 0.15 (silica gel, hexanes/EtOAc 5:1); IR (ﬁlm) ν
+max = 2955,
+1737, 1728, 1454, 1273, 1217, 1145, 1061, 825, 737, 700 cm−1; 1H
+NMR (500 MHz, CDCl3) δ = 7.32 (m, 2H), 7.27 (m, 1H), 7.23 (m,
+2H), 4.91−4.83 (m, 2H), 4.54 (dddd, J = 7.2, 7.2, 7.2, 5.3 Hz, 1H),
+3.95 (s, 3H) overlaps with 3.95 (s, 3H), 3.15−3.08 (m, 2H); 13C NMR
+(125 MHz, CDCl3) δ = 160.5, 159.2, 140.0, 135.9, 131.2, 129.5, 129.0,
+127.7, 60.2, 54.9, 53.7, 53.0, 42.2; HRMS (ESI-TOF) calcd for
+C15H16ClN3O4 [M + H+] 338.0907, found 338.0945; [M + Na+]
+360.0727, found 360.0725.
+Mixture of syn- and anti-Dimethyl-1,3-dichloro-1-phenylpropan-
+2-yl)-1H-1,2,3-triazole-4,5-dicarboxylate (12f′). Compound 12f′ was
+isolated in 17% yield (13 mg) (together with 42% of 12e′, 29 mg)
+after FCC (silica gel, hexanes/EtOAc = 5:1 → 3:1) from 40 mg of 12e
+(0.204 mmol, crude mixture) and 0.1 mL of DMAD (0.813 mmol)
+(procedure II; C6H6; 65 °C; 16 h). 12f′: Rf = 0.25 (silica gel, hexanes/
+EtOAc 5:1); IR (ﬁlm) ν
+max = 2955, 1742, 1737, 1731, 1454, 1281,
+1228, 1076, 701 cm−1; 1H NMR (500 MHz, CDCl3) δ = 7.47 (m,
+4H), 7.27−7.21 (m, 6H), 5.89 (ddd, J = 9.9, 9.9, 3.7 Hz, 1H), 5.80
+(ddd, J = 10.2, 10.2, 3.3 Hz, 1H), 5.50 (d, J = 9.8 Hz, 1H), 5.43 (d, J =
+10.0 Hz, 1H), 4.57 (dd, J = 11.8, 3.3 Hz, 1H), 4.39 (d, J = 11.7, 10.3
+Hz, 1H), 4.03 (m, 1H) overlaps with 4.03 (s, 3H) overlaps with 4.03
+(s, 3H), 3.93 (s, 3H), 3.90 (s, 3H), 3.61 (d, J = 11.8, 3.7 Hz, 1H); 13C
+NMR (125 MHz, CDCl3) δ = 160.7, 160.2, 159.2, 158.6, 140.1, 139.6,
+136.4, 135.9, 131.9, 131.4, 130.3, 129.8, 129.7, 129.0, 127.7, 127.6,
+67.3, 67.1, 62.6, 61.5, 53.7, 53.6, 53.1, 52.9, 44.5, 43.7; HRMS (ESI-
+TOF) calcd for C15H15Cl2N3O4 [M + H+] 372.0517, found 372.0525;
+[M + Na+] 394.0338, found 394.0334.
+
+(1R,2R,3R,4S)-2-Azido-3-chloro-1,2,3,4-tetrahydro-1,4-epoxy-
+naphthalene + Enantiomer (13a). Compound 13a was obtained in
+64% yield (86 mg) (together with 27% of 13b, 36 mg) after PTLC
+(silica gel, hexanes/EtOAc = 10:1) from 88 mg of 1,4-epoxy-1,4-
+dihydronaphthalene (13) (0.610 mmol), 350 mg of NaN3 (5.38
+mmol), 2.5 mL of NaOCl solution (1.47 mmol), and 0.85 mL of
+AcOH (14.8 mmol) (with or without 1.0 mL of brine) (procedure I;
+PhMe; −15 °C → 20 °C; 3 h). Alternatively, 13a can be obtained in
+56% yield (75 mg) (together with 24% of 13b, 32 mg) after PTLC
+(silica gel, hexanes/EtOAc = 10:1) from 88 mg of 1,4-epoxy-1,4-
+dihydronaphthalene (13) (0.610 mmol), 150 mg of NaN3 (2.31
+mmol), 3.5 mL of NaOCl solution (2.06 mmol), and 0.25 mL of
+AcOH (4.37 mmol) (procedure I; PhMe; −15 °C → 20 °C; 1 h). 13a:
+Rf = 0.45 (silica gel, hexanes/EtOAc 10:1); IR (ﬁlm) ν
+max = 3013,
+2100, 1257, 1230, 917, 847, 769, 756, 715, 646, 626, 551, 528 cm−1;
+1H NMR (500 MHz, CDCl3) δ = 7.31 (m, 2H), 7.23 (m, 2H), 5.38 (s,
+2H), 4.26 (d, J = 6.2 Hz, 1H), 3.62 (d, J = 6.2 Hz, 1H); 13C NMR
+(125 MHz, CDCl3) δ = 142.8, 142.2, 128.6, 128.5, 120.73, 120.65,
+86.7, 84.2, 63.3, 62.8; HRMS (ESI-TOF) calcd for C10H8ClN3O [M +
+Na+] 244.0253, found 244.0246.
+
+(1R,2R,3S,4S)-2-Azido-3-chloro-1,2,3,4-tetrahydro-1,4-epoxy-
+naphthalene + Enantiomer (13b). Compound 13b was obtained in
+27% yield (36 mg) (together with 64% of 13a, 86 mg) after PTLC
+(silica gel, hexanes/EtOAc = 10:1) from 88 mg of 1,4-epoxy-1,4-
+dihydronaphthalene (13) (0.610 mmol), 350 mg of NaN3 (5.38
+mmol), 2.5 mL of NaOCl solution (1.47 mmol), and 0.85 mL of
+AcOH (14.8 mmol) (with or without 1.0 mL of brine) (procedure I;
+PhMe; −15 °C → 20 °C; 3 h). Alternatively, 13b can be obtained in
+24% yield (32 mg) (together with 56% of 13a, 75 mg) after PTLC
+(silica gel, hexanes/EtOAc = 10:1) from 88 mg of 1,4-epoxy-1,4-
+dihydronaphthalene (13) (0.610 mmol), 150 mg of NaN3 (2.31
+mmol), 3.5 mL of NaOCl solution (2.06 mmol), and 0.25 mL of
+AcOH (4.37 mmol) (procedure I; PhMe; −15 °C → 20 °C; 1 h). 13b:
+Rf = 0.60 (silica gel, hexanes/EtOAc 10:1); IR (ﬁlm) ν
+max = 2916,
+2093, 1240, 952, 937, 859, 849, 835, 785, 754, 637, 585, 543 cm−1; 1H
+NMR (500 MHz, CDCl3) δ = 7.40 (m, 1H), 7.34 (m, 1H), 7.28 (m,
+2H), 5.41 (d, J = 4.7 Hz, 1H), 5.33 (s, 1H), 4.29 (ddd, J = 4.7, 2.3, 0.5
+Hz, 1H), 3.42 (d, J = 2.3 Hz, 1H); 13C NMR (125 MHz, CDCl3) δ =
+141.7, 141.5, 128.4, 127.9, 123.4, 120.2, 84.9, 82.2, 70.7, 58.5.
+</para>
+Article
+<para sub=“exp”>
+Dimethyl 1-((1R,2R,3S,4S)-3-chloro-1,2,3,4-tetrahydro-1,4-epoxy-
+naphthalen-2-yl)-1H-1,2,3-triazole-4,5-dicarboxylate + Enantiomer
+(13b′). Compound 13b′ was isolated in 65% yield (29 mg) after FCC
+(silica gel, hexanes/EtOAc = 5:1 → 2:1) from 27 mg of 13b (0.122
+mmol) and 0.15 mL of DMAD (1.22 mmol) (procedure II; C6H6; 65
+°C; 16 h). 13b′: Rf = 0.05 (silica gel, hexanes/EtOAc 5:1); IR (ﬁlm)
+ν
+max = 1737, 1726, 1450, 1282, 1220, 1155, 1067, 912, 853, 839, 765,
+732, 630, 584 cm−1; 1H NMR (500 MHz, CDCl3) δ = 7.47 (m, 2H),
+7.33 (m, 2H), 5.57 (d, J = 4.8 Hz, 1H), 5.52 (s, 1H), 5.38 (dd, J = 4.8,
+3.1 Hz, 1H), 4.82 (d, J = 3.1 Hz, 1H), 3.97 (s, 3H), 3.96 (s, 3H); 13C
+NMR (125 MHz, CDCl3) δ = 160.5, 159.3, 141.5, 141.3, 140.9, 130.7,
+128.7, 128.3, 123.6, 120.5, 85.5, 82.5, 71.8, 56.3, 53.9, 53.0; HRMS
+(ESI-TOF) calcd for C16H14ClN3O5 [M + H+] 364.0700,
+found
+364.0709; [M + Na+] 386.0520, found 386.0516.
+
+(1S,2R,3S,4R)-2-Azido-3-chlorobicyclo[2.2.1]heptane
+Mixture of
+(14a) and (1S,2R,3R,4R)-2-Azido-3-chlorobicyclo-
++ Enantiomer
+[2.2.1]heptane + Enantiomer (14b). Compounds 14a:14b (a mixture
+of diastereomers) were obtained in 95% yield (225 mg) from 130 mg
+of bicyclo[2.2.1]hept-2-ene (14) (1.38 mmol), 350 mg of NaN3 (5.38
+mmol), 4.0 mL of NaOCl solution (2.36 mmol), and 0.26 mL of
+AcOH (4.54 mmol) (procedure I; Et2O; 20 °C; 1 h). The product was
+extracted with Et2O and used without further puriﬁcation. 14a:14b: IR
+(ﬁlm) ν
+max = 2967, 2877, 2098, 1335, 1311, 1252, 947, 810, 769, 644,
+553 cm−1; 1H NMR (500 MHz, CDCl3) δ = 4.05 (dd, J = 6.5, 1.9 Hz,
+1H), 3.89 (m, 1H), 3.58 (dd, J = 6.5, 1.5 Hz, 1H), 3.38 (t, J = 2.7 Hz,
+1H), 2.48−2.38 (m, 2H), 2.33 (m, 1H), 2.29 (d, J = 4.9 Hz, 1H), 1.90
+(m, 1H), 1.69−1.54 (m, 4H), 1.46−1.39 (m, 2H), 1.35−1.17 (m, 5H).
+Dimethyl 1-((1S,2R,3S,4R)-3-chlorobicyclo[2.2.1]heptan-2-yl)-1H-
+1,2,3-triazole-4,5-dicarboxylate + Enantiomer (14a′). Compound
+14a′ was isolated in 45% yield (165 mg) (together with 19% of 14b′,
+70 mg) after FCC (silica gel, hexanes/EtOAc = 5:1 → 2:1) from 200
+mg of 14a:14b (1.17 mmol) and 0.15 mL of DMAD (1.22 mmol)
+(procedure II; C6H6; 65 °C; 16 h). 14a′: Rf = 0.18 (silica gel, hexanes/
+max = 2955, 1737−1726, 1450, 1286, 1216,
+EtOAc 5:1); IR (ﬁlm) ν
+1066, 947−764, 730, 684 cm−1; 1H NMR (500 MHz, CDCl3) δ = 4.89
+(dd, J = 6.8, 1.1 Hz, 1H), 4.27 (dd, J = 6.8, 1.7 Hz, 1H), 3.91 (s, 3H)
+overlaps with 3.91 (s, 3H), 3.21 (m, 1H), 2.52 (m, 1H), 2.43 (m, J1 =
+10.8 Hz, 1H), 1.80−1.67 (m, 2H), 1.48 (m, J1 = 10.8 Hz, 1H), 1.37−
+1.30 (m, 2H); 13C NMR (125 MHz, CDCl3) δ = 160.9, 159.3, 140.0,
+130.1, 67.5, 65.2, 53.4, 52.8, 46.4, 41.6, 35.6, 27.7, 26.4; HRMS (ESI-
+TOF) calcd for C13H16ClN3O4 [M + H+] 314.0907, found 314.0944;
+[M + Na+] 336.0728, found 336.0726.
+Dimethyl 1-((1S,2R,3R,4R)-3-chlorobicyclo[2.2.1]heptan-2-yl)-1H-
+1,2,3-triazole-4,5-dicarboxylate + Enantiomer (14b′). Compound
+14b′ was isolated in 19% yield (70 mg) (together with 45% of 14a′,
+165 mg) after FCC (silica gel, hexanes/EtOAc = 5:1 → 2:1) from 200
+mg of 14a:14b (1.17 mmol) and 0.15 mL of DMAD (1.22 mmol)
+(procedure II; C6H6; 65 °C; 16 h). 14b′: Rf = 0.29 (silica gel, hexanes/
+EtOAc 5:1); IR (ﬁlm) ν
+max = 2956, 1737, 1728, 1450, 1285, 1213,
+1069, 948, 825−732 cm−1; 1H NMR (500 MHz, CDCl3) δ = 4.89
+(ddd, J = 4.2, 4.2, 1.5 Hz, 1H), 4.58 (dd, J = 4.2, 2.1 Hz, 1H), 3.96 (s,
+3H), 3.92 (s, 3H), 2.62 (m, 1H), 2.50 (d, J = 4.5 Hz, 1H), 2.19 (m, J1
+= 10.9 Hz, 1H), 2.00 (m, 1H), 1.75 (dddd, J = 12.3, 12.3, 4.7, 4.7 Hz,
+1H), 1.57 (dddd, J = 12.8, 4.3, 4.3, 1.8 Hz, 1H), 1.54−1.47 (m, 2H);
+13C NMR (125 MHz, CDCl3) δ = 160.6, 159.2, 140.1, 130.7, 72.6,
+64.8, 53.7, 52.9, 45.3, 43.8, 35.8, 27.9, 21.4; HRMS (ESI-TOF) calcd
+for C13H16ClN3O4 [M + H+] 314.0907, found 314.0958; [M + Na+]
+336.0728, found 336.0724.
+
+anti-1-Azido-2-chlorocycloheptane (15a) with Trace Amount of
+syn-1-Azido-2-chlorocycloheptane (15b). Compound 15a (with
+trace amount of 15b) was obtained in 98% yield (219 mg) from
+0.15 mL of cycloheptene (15) (1.285 mmol), 350 mg of NaN3 (5.38
+mmol), 4.0 mL of NaOCl solution (2.36 mmol), and 0.26 mL of
+AcOH (4.54 mmol) (procedure I; neat; 20 °C; 1 h). The product was
+used without further puriﬁcation. 15a: IR (ﬁlm) ν
+max = 2933, 2862,
+2093, 1461−1445, 1258, 954, 876, 724 cm−1; 1H NMR (500 MHz,
+CDCl3) δ = 3.93 (ddd, J = 8.1, 8.1, 3.5 Hz, 1H), 3.64 (ddd, J = 8.6, 8.1,
+3.2 Hz, 1H), 2.09 (m, 1H), 1.99−1.91 (m, 2H), 1.79−1.65 (m, 3H),
+1.59−1.48 (m, 4H); 13C NMR (125 MHz, CDCl3) δ = 70.6, 66.4,
+35.0, 30.9, 27.6, 23.6, 23.4.
+</para>
+2751
+
+DOI: 10.1021/acs.joc.5b00009
+J. Org. Chem. 2015, 80, 2740−2755
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+anti-Dimethyl-2-chlorocycloheptyl)-1H-1,2,3-triazole-4,5-dicar-
+boxylate (15a′). Compound 15a′ was isolated in 55% yield (149 mg)
+(together with 13% of 15b′, 36 mg) after FCC (silica gel, hexanes/
+EtOAc = 5:1 → 2:1) from 150 mg of 15a (0.864 mmol) and 0.15 mL
+of DMAD (1.22 mmol) (procedure II; C6H6; 65 °C; 16 h). 15a′: Rf =
+0.30 (silica gel, hexanes/EtOAc 5:1); IR (ﬁlm) ν
+max = 2939, 1737,
+1728, 1461, 1453, 1278, 1211, 1179, 1151, 1062, 825, 731 cm−1; 1H
+NMR (500 MHz, CDCl3) δ = 4.98 (ddd, J = 9.7, 9.7, 3.2 Hz, 1H),
+4.60 (ddd, J = 9.7, 8.4, 3.8 Hz, 1H), 3.95 (s, 3H), 3.92 (s, 3H), 2.29−
+2.18 (m, 2H), 2.08−2.00 (m, 2H), 1.94 (m, 1H), 1.81 (m, 1H), 1.71−
+1.55 (m, 4H); 13C NMR (125 MHz, CDCl3) δ = 160.7, 159.6, 139.1,
+130.8, 69.5, 65.1, 53.6, 52.8, 35.6, 32.9, 27.3, 24.6, 23.3; HRMS (ESI-
+TOF) calcd for C13H18ClN3O4 [M + H+] 316.1064, found 316.1092;
+[M + Na+] 338.0883, found 338.0881.
+syn-Dimethyl-2-chlorocycloheptyl)-1H-1,2,3-triazole-4,5-dicar-
+boxylate (15b′). Compound 15b′ was isolated in 13% yield (36 mg)
+(together with 55% of 15a′, 149 mg) after FCC (silica gel, hexanes/
+EtOAc = 5:1 → 2:1) from 150 mg of 15a (0.864 mmol) and 0.15 mL
+of DMAD (1.22 mmol) (procedure II; C6H6; 65 °C; 16 h). 15b′: Rf =
+0.18 (silica gel, hexanes/EtOAc 5:1); IR (ﬁlm) ν
+max = 2937, 1742,
+1737, 1726, 1450, 1346, 1279, 1214, 1179, 1063, 825 cm−1; 1H NMR
+(500 MHz, CDCl3) δ = 5.23 (ddd, J = 10.4, 4.9, 2.9 Hz, 1H), 4.48
+(ddd, J = 7.5, 2.9, 2.9 Hz, 1H), 3.95 (s, 3H), 3.93 (s, 3H), 2.68 (dddd,
+J = 14.3, 10.2, 10.2, 4.0 Hz, 1H), 2.33−2.23 (m, 2H), 2.03 (dddd, J =
+15.1, 9.3, 3.1, 3.1 Hz, 1H), 1.95−1.87 (m, 2H), 1.77−1.53 (m, 4H);
+13C NMR (125 MHz, CDCl3) δ = 161.0, 159.8, 140.0, 130.1, 65.1,
+64.1, 53.7, 52.9, 34.5, 29.6, 27.1, 24.17, 24.16; HRMS (ESI-TOF) calcd
+for C13H18ClN3O4 [M + H+] 316.1064, found 316.1095; [M + Na+]
+338.0883, found 338.0886.
+
+syn- and anti-2-Azido-3-chlorobutane-1,4-diol
+
+(16a). Com-
+pounds 16a:16b were obtained as a mixture of diastereomers in
+94% yield (189 mg) from 0.1 mL of cis-2-butene-1,4-diol (16) (1.22
+mmol), 150 mg of NaN3 (2.31 mmol), 4.0 mL of NaOCl solution
+(2.36 mmol), and 0.26 mL of AcOH (4.54 mmol) (procedure I;
+PhMe; 20 °C; 1.5 h). The product was used without
+further
+puriﬁcation. 16a:16b: Rf = 0.19 (silica gel, hexanes/EtOAc 2:1); IR
+(ﬁlm) ν
+
+max = 3338 (broad), 2942, 2104, 1259, 1034, 550 cm−1.
+
+(3S,5R,6R,8S,9S,10R,13R,14S,17R)-6-Azido-5-chloro-10,13-di-
+methyl-17-((R)-6-methylheptan-2-yl)hexadecahydro-1H-
+cyclopenta[a]phenanthren-3-ol (17a). Compound 17a was obtained
+in 47% yield (148 mg) (together with 8% of 17b, 26 mg) after PTLC
+(silica gel, hexanes/EtOAc = 5:1 → 3:1) from 261 mg of cholesterol
+(17) (0.675 mmol), 400 mg of NaN3 (6.15 mmol), 2.5 mL of NaOCl
+solution (1.47 mmol), 0.85 mL of AcOH (14.8 mmol), and 1.0 mL of
+brine (procedure I; PhMe; 20 °C; 2.5 h). 17a: Rf = 0.51 (silica gel,
+hexanes/EtOAc 3:1) or 0.15 (silica gel, hexanes/EtOAc 5:1); IR (ﬁlm)
+ν
+max = 3331 (broad), 2943, 2868, 2100, 1467, 1381, 1267, 1038, 905,
+735 cm−1; 1H NMR (500 MHz, CDCl3) δ = 4.28 (dddd, J = 10.8, 10.8,
+5.4, 5.4 Hz, 1H), 3.80 (dd, J = 3.8, 2.3 Hz, 1H), 2.29 (dd, J = 13.4, 10.4
+Hz, 1H), 2.07−1.95 (m, 3H), 1.88 (m, 1H), 1.82 (m, 1H), 1.71 (ddd, J
+= 14.5, 4.2, 2.3 Hz, 1H), 1.66−1.44 (m, 8H), 1.40−1.23 (m, 6H), 1.21
+(s, 3H), 1.18−1.04 (m, 7H), 0.97 (m, 1H), 0.88 (d, J = 6.6 Hz, 3H),
+0.85 (d, J = 2.3 Hz, 3H), 0.83 (d, J = 2.3 Hz, 3H), 0.65 (s, 3H); 13C
+NMR (125 MHz, CDCl3) δ = 83.9, 67.8, 67.1, 56.3, 55.7, 46.1, 42.9,
+42.3, 40.4, 39.9, 39.7, 36.4, 36.0, 33.8, 31.2, 31.1, 30.6, 28.4, 28.2, 24.2,
+24.0, 23.0, 22.8, 21.4, 18.9, 18.1, 12.4.
+
+Dimethyl 1-((3S,5R,6R,8S,9S,10R,13R,14S,17R)-5-chloro-3-hy-
+droxy-10,13-dimethyl-17-((R)-6-methylheptan-2-yl)hexadecahydro-
+1H-cyclopenta[a]phenanthren-6-yl)-1H-1,2,3-triazole-4,5-dicarbox-
+ylate (17a′). Compound 17a′ was isolated in 47% yield (30 mg) after
+FCC (silica gel, hexanes/EtOAc = 5:1 → 2:1 → 1:1) from 49 mg of
+17a (0.106 mmol) and 0.2 mL of DMAD (1.63 mmol) (procedure II;
+C6H6; 65 °C; 16 h). 17a′: Rf = 0.10 (silica gel, hexanes/EtOAc 5:1) or
+0.50 (silica gel, hexanes/EtOAc 1:1); IR (ﬁlm) ν
+max = 3424 (broad),
+1737−1731, 1450, 1267, 1228, 1063, 734 cm−1; 1H NMR (500 MHz,
+CDCl3) δ = 5.31 (dd, J = 5.6, 0.9 Hz, 1H), 4.25 (dddd, J = 10.8, 10.8,
+5.3, 5.3 Hz, 1H), 4.00 (s, 3H), 3.94 (s, 3H), 2.48 (m, 1H), 2.38 (ddd, J
+= 14.6, 12.7, 6.4 Hz, 1H), 2.10−1.99 (m, 3H), 1.82 (m, 2H), 1.67 (m,
+2H), 1.55−1.43 (m, 5H), 1.40−1.05 (m, 11H) overlaps with 1.23 (s,
+3H), 0.98 (s, 3H) overlaps with 0.97 (m, 1H), 0.89 (d, J = 6.5 Hz,
+
+3H), 0.85 (d, J = 2.1 Hz, 3H), 0.83 (d, J = 2.1 Hz, 3H), 0.72 (s, 3H);
+13C NMR (125 MHz, CDCl3) δ = 160.6, 160.4, 139.1, 132.7, 83.5,
+67.6, 64.0, 56.4, 56.3, 53.9, 52.9, 46.1, 43.1, 41.3, 40.6, 40.0, 39.7, 36.4,
+36.0, 34.6, 32.5, 31.5, 30.4, 28.5, 28.2, 24.1, 24.0, 23.0, 22.8, 21.6, 18.9,
+17.7, 12.6; HRMS (ESI-TOF) calcd for C33H52ClN3O5 [M + H+]
+606.3674, found 606.3666; [M + Na+] 628.3494, found 628.3485.
+
+(3S,5R,6S,8S,9S,10R,13R,14S,17R)-6-Azido-5-chloro-10,13-di-
+methyl-17-((R)-6-methylheptan-2-yl)hexadecahydro-1H-
+cyclopenta[a]phenanthren-3-ol (17b). Compound 17b was obtained
+in 8% yield (26 mg) (together with 47% of 17a, 148 mg) after PTLC
+(silica gel, hexanes/EtOAc = 5:1 → 3:1) from 261 mg of cholesterol
+(17) (0.675 mmol), 400 mg of NaN3 (6.15 mmol), 2.5 mL of NaOCl
+solution (1.47 mmol), 0.85 mL of AcOH (14.8 mmol), and 1.0 mL of
+brine (procedure I; PhMe; 20 °C; 2.5 h). 17b: Rf = 0.43 (silica gel,
+hexanes/EtOAc 3:1) or 0.06 (silica gel, hexanes/EtOAc 5:1); IR (ﬁlm)
+max = 3348 (broad), 2936, 2867, 2097, 1467−1445, 1382−1366,
+ν
+1240, 1059−1028, 907, 734 cm−1; 1H NMR (500 MHz, CDCl3) δ =
+4.22 (dddd, J = 10.8, 10.8, 5.3, 5.3 Hz, 1H), 3.43 (dd, J = 11.4, 5.0 Hz,
+1H), 2.53 (ddd, J = 13.7, 5.1, 1.8 Hz, 1H), 1.97 (m, 1H), 1.89−1.65
+(m, 7H), 1.63−1.45 (m, 6H), 1.41 (m, 1H), 1.37−1.27 (m, 3H),
+1.26−1.08 (m, 9H), 1.07 (s, 3H), 0.97 (m, 1H), 0.88 (d, J = 6.5 Hz,
+3H), 0.85 (d, J = 2.4 Hz, 3H), 0.83 (d, J = 2.4 Hz, 3H), 0.63 (s, 3H).
+Dimethyl 1-((3S,5R,6S,8S,9S,10R,13R,14S,17R)-5-chloro-3-hy-
+droxy-10,13-dimethyl-17-((R)-6-methylheptan-2-yl)hexadecahydro-
+1H-cyclopenta[a]phenanthren-6-yl)-1H-1,2,3-triazole-4,5-dicarbox-
+ylate (17b′). Compound 17b′ was isolated in 68% yield (23 mg) after
+FCC (silica gel, hexanes/EtOAc = 5:1 → 1:1) from 26 mg of 17b
+(0.056 mmol) and 0.1 mL of DMAD (0.813 mmol) (procedure II;
+C6H6; 65 °C; 15 h). 17b′: Rf = 0.04 (silica gel, hexanes/EtOAc 5:1) or
+0.25 (silica gel, hexanes/EtOAc 1:1); IR (ﬁlm) ν
+max = 3340 (broad),
+2950, 2868, 1742−1728, 1450, 1279, 1223, 1066, 735 cm−1; 1H NMR
+(500 MHz, CDCl3) δ = 5.48 (dd, J = 12.5, 3.7 Hz, 1H), 4.08 (dddd, J
+= 10.8, 10.8, 5.2, 5.2 Hz, 1H), 3.96 (s, 3H), 3.94 (s, 3H), 2.70 (q, J =
+12.5 Hz, 1H), 2.00 (m, 1H), 1.87−1.79 (m, 4H), 1.77−1.64 (m, 3H),
+1.60−1.45 (m, 6H), 1.39−1.19 (m, 8H) overlaps with 1.24 (s, 3H),
+1.15−0.95 (m, 6H), 0.88 (d, J = 6.5 Hz, 3H), 0.84 (d, J = 2.5 Hz, 3H),
+0.83 (d, J = 2.5 Hz, 3H), 0.66 (s, 3H); 13C NMR (125 MHz, CDCl3) δ
+= 161.1, 160.0, 140.0, 130.6, 82.6, 67.0, 62.7, 56.2, 55.4, 53.7, 53.0,
+46.0, 43.0, 42.5, 40.4, 39.8, 39.7, 36.3, 36.0, 35.1, 32.8, 32.2, 29.9, 28.3,
+28.2, 24.1, 24.0, 23.0, 22.8, 21.7, 18.8, 16.9, 12.4; HRMS (ESI-TOF)
+calcd for C33H52ClN3O5 [M + H+] 606.3674, found 606.3664; [M +
+Na+] 628.3494, found 628.3482.
+
+((S)-5-(3-Chloroprop-1-en-2-yl)-2-methylcyclohex-2-en-1-one
+(18a). Compound 18a was obtained in 65% yield (77 mg) (together
+with trace amount of 18b and 18) after PTLC (silica gel, hexanes/
+EtOAc = 10:1) from 0.1 mL of (S)-(+)-carvone (18) (0.639 mmol),
+350 mg of NaN3 (5.38 mmol), 2.5 mL of NaOCl solution (1.47
+mmol), and 0.85 mL of AcOH (14.8 mmol), and 1.0 mL of brine
+(procedure I; EtOAc; −15 °C → 20 °C; 0.5 h). 18a: Rf = 0.37 (silica
+max = 2923, 1677−1667, 1366,
+gel, hexanes/EtOAc 10:1); IR (ﬁlm) ν
+1253, 1108, 902, 750 cm−1; 1H NMR (500 MHz, CDCl3) δ = 6.73 (m,
+1H), 5.24 (s, 1H), 5.04 (s, 1H), 4.07 (m, 2H), 2.96 (m, 1H), 2.64
+(ddd, J = 16.1, 3.7, 1.3 Hz, 1H), 2.54 (m, 1H), 2.37 (dd, J = 16.1, 13.1
+Hz, 1H) overlaps with 2.30 (m, 1H), 1.77 (s, 3H); 13C NMR (125
+MHz, CDCl3) δ = 199.1, 146.8, 144.2, 135.9, 115.4, 47.2, 43.3, 38.1,
+31.6, 15.9; HRMS (ESI-TOF) calcd for C10H13ClO [M + H+]
+185.0733, found 185.0732; [M + Na+] 207.0552, found 207.0551.
+
+(S)-5-((R)-1-Azido-2-chloropropan-2-yl)-2-methylcyclohex-2-en-
+1-one + (S)-5-((S)-1-Azido-2-chloropropan-2-yl)-2-methylcyclohex-
+2-en-1-one (18b). Compound 18b was obtained as a diastereomeric
+mixture in 42% yield (60 mg) (together with 16% of 18a (19 mg) and
+42% of 18 (42 mg)) after FCC (silica gel, hexanes/EtOAc = 10:1)
+from 0.1 mL of (S)-(+)-carvone (18) (0.639 mmol), 770 mg of NaN3
+(11.8 mmol), 4.0 mL of NaOCl solution (2.36 mmol), 0.28 mL of
+AcOH (4.89 mmol), and 1.0 mL of brine (procedure I; PhMe; 20 °C;
+1.5 h). 18b: Rf = 0.25 (silica gel, hexanes/EtOAc 10:1); IR (ﬁlm) ν
+max
+= 2924, 2100, 1677−1666, 1450, 1383, 1367, 1294, 1256, 1108, 905
+cm−1; 1H NMR (500 MHz, CDCl3) δ = 6.71 (m, 1H), 3.55 (dd, J =
+18.1, 12.8 Hz, 1H − one diastereomer) overlaps with 3.53 (dd, J = 16.6,
+12.8 Hz, 1H − another diastereomer), 2.59 (m, 1H), 2.50−2.31 (m,
+4H), 1.75 (m, 3H), 1.56 (s, 1.5H − one diastereomer) overlaps with
+</para>
+2752
+
+DOI: 10.1021/acs.joc.5b00009
+J. Org. Chem. 2015, 80, 2740−2755
+
+The Journal of Organic Chemistry
+Scheme 4. FTIR Spectra of Azidochloro-Fullerene (22a) and Aminochloro-Fullerene (22a′)a
+
+Article
+<para sub=“exp”>
+aThe number of azide and chloride groups introduced to the fullerene structure was not established.
+1.55 (s, 1.5H − another diastereomer); 13C NMR (125 MHz, CDCl3) δ
+= 198.59, 198.57, 144.0, 143.8, 135.7, 135.6, 73.46, 73.45, 60.1, 60.0,
+42.83, 42.79, 39.5, 39.4, 27.42, 27.35, 25.93, 25.90, 15.72, 15.71;
+HRMS (ESI-TOF) calcd for C10H14ClN3O [M + Na+] 250.0723,
+found 250.0713.
+
+Dimethyl 1-((R*)-2-chloro-2-((S)-4-methyl-5-oxocyclohex-3-en-1-
+yl)propyl)-1H-1,2,3-triazole-4,5-dicarboxylate + Diastereomer
+(18b′). Compound 18b′ was isolated in 78% yield (42 mg) after
+FCC (silica gel, hexanes/EtOAc = 5:1 → 1:1) from 33 mg of 18b
+(0.145 mmol) and 0.15 mL of DMAD (1.22 mmol) (procedure II;
+C6H6; 65 °C; 17 h). 18b′: Rf = 0.07 (silica gel, hexanes/EtOAc 5:1) or
+max = 2955, 1737−
+0.45 (silica gel, hexanes/EtOAc 1:1); IR (ﬁlm) ν
+1728, 1673, 1434, 1352, 1279, 1226, 1112, 1062, 825, 731 cm−1; 1H
+NMR (500 MHz, CDCl3) δ = 6.73 (m, 1H), 5.08 (d, J = 14.4 Hz,
+0.5H − one diastereomer) overlaps with 5.07 (d, J = 14.4 Hz, 0.5H −
+another diastereomer), 4.81 (d, J = 14.4 Hz, 0.5H − one diastereomer)
+overlaps with 4.80 (d, J = 14.4 Hz, 0.5H − another diastereomer), 3.96
+(s, 1.5H − one diastereomer) overlaps with 3.96 (s, 1.5H − another
+diastereomer), 3.94 (s, 1.5H − one diastereomer) overlaps with 3.94 (s,
+1.5H − another diastereomer), 2.75 (m, 1H), 2.66 (m, 1H), 2.49−2.33
+(m, 3H), 1.76 (m, 3H), 1.50 (s, 1.5H − one diastereomer), 1.47 (s,
+1.5H − another diastereomer); 13C NMR (125 MHz, CDCl3) δ =
+197.9, 197.7, 160.36, 160.35, 159.7, 159.6, 143.6, 143.3, 139.52,
+139.46, 136.0, 135.8, 132.3, 132.1, 72.71, 72.69, 56.88, 56.82, 53.79,
+53.78, 52.95, 52.93, 44.1 (2 overlapping peaks), 39.7, 39.5, 27.61,
+27.58, 25.6, 25.5, 15.68, 15.67; HRMS (ESI-TOF) calcd for
+C16H20ClN3O5 [M + H+] 370.1169, found 370.1169; [M + Na+]
+392.0989, found 392.0976.
+
+9-Azidoanthracene (19a). Compound 19a was obtained in 66%
+yield (81 mg) after PTLC (silica gel, hexanes/EtOAc = 20:1) from
+100 mg of anthracene (19) (0.561 mmol), 350 mg of NaN3 (5.38
+mmol), 2.5 mL of NaOCl solution (1.47 mmol), and 0.7 mL of AcOH
+(12.2 mmol) (with or without 1.0 mL of brine) (procedure I; PhMe;
+20 °C; 0.5 h). 19a: Rf = 0.78 (silica gel, hexanes/EtOAc 20:1); IR
+(ﬁlm) ν
+max = 3049, 2097, 1347, 1282, 1242, 1002, 883, 837, 730, 718,
+541 cm−1; 1H NMR (500 MHz, CDCl3) δ = 8.35 (dddd, J = 8.8, 0.9,
+0.9, 0.9 Hz, 2H), 8.28 (s, 1H), 7.98 (d, J = 8.5 Hz, 2H), 7.55 (ddd, J =
+8.7, 6.6, 1.2 Hz, 2H), 7.49 (ddd, J = 8.3, 6.6, 1.2 Hz, 2H); 13C NMR
+(125 MHz, CDCl3) δ = 132.0, 130.9, 128.9, 126.5, 125.8, 125.7, 125.4,
+122.7.
+
+Dimethyl 1-(anthracen-9-yl)-1H-1,2,3-triazole-4,5-dicarboxylate
+(19a′). Compound 19a′ was isolated in 82% yield (149 mg) (together
+with trace amount of 19b′, ∼ 18%) after FCC (silica gel, hexanes/
+EtOAc = 20:1 → 5:1 → 2:1) from 110 mg of 19a (0.502 mmol) and
+0.2 mL of DMAD (1.63 mmol) (procedure II; C6H6; 65 °C; 17 h).
+19a′: Rf = 0.41 (silica gel, hexanes/EtOAc 5:1); IR (ﬁlm) ν
+max = 2953,
+1737−1731, 1445, 1315, 1289, 1224, 1136, 1064, 908, 733 cm−1; 1H
+NMR (500 MHz, CDCl3) δ = 8.65 (s, 1H), 8.05 (m, 2H), 7.52−7.47
+(m, 4H), 7.17 (m, 2H); 13C NMR (125 MHz, CDCl3) δ = 160.5,
+158.4, 139.1, 135.3, 131.1, 131.0, 128.9, 128.7, 128.59, 128.57, 126.2,
+121.6, 53.5, 53.1; HRMS (ESI-TOF) calcd for C20H15N3O4 [M + H+]
+362.1140, found 362.1142; [M + Na+] 384.0960, found 384.0955.
+Dimethyl 1-(10-chloroanthracen-9-yl)-1H-1,2,3-triazole-4,5-dicarboxy-
+late (19b′): 1H NMR (500 MHz, CDCl3) δ = 8.58 (ddd, J = 8.9, 0.9,
+0.9 Hz, 2H), 7.63 (ddd, J = 8.9, 6.6, 1.1 Hz, 2H), 7.53 (ddd, J = 8.8,
+6.6, 1.1 Hz, 2H), 7.15 (ddd, J = 8.8, 0.9, 0.9 Hz, 2H), 4.07 (s, 3H),
+3.52 (s, 3H); HRMS (ESI-TOF) calcd for C20H14ClN3O4 [M + H+]
+396.0751, found 396.0747; [M + Na+] 418.0570, found 418.0565.
+
+N-Allyl-2,4-dichloroaniline (20a). Compound 20a was obtained in
+67% yield (100 mg) after PTLC (silica gel, hexanes/EtOAc = 20:1)
+from 0.1 mL of N-allylaniline (20) (0.737 mmol), 150 mg of NaN3
+(2.31 mmol), 4.0 mL of NaOCl solution (2.36 mmol), and 0.26 mL of
+AcOH (4.54 mmol) (with or without 1.0 mL of brine) (procedure I;
+PhMe; −15 °C → 20 °C; 1 h). 20a: Rf = 0.75 (silica gel, hexanes/
+max = 3424, 3100−2800 (weak), 1598, 1510,
+EtOAc 10:1); IR (ﬁlm) ν
+1503, 1321, 923, 800 cm−1; 1H NMR (500 MHz, CDCl3) δ = 7.24 (d,
+J = 2.5 Hz, 1H), 7.07 (dd, J = 8.8, 2.4 Hz, 1H), 6.54 (d, J = 8.8 Hz,
+1H), 5.91 (dddd, J = 17.1, 10.3, 5.2, 5.2 Hz, 1H), 5.26 (dddd, J = 17.1,
+1.6, 1.6, 1.6 Hz, 1H), 5.18 (dddd, J = 10.3, 1.5, 1.5, 1.5 Hz, 1H), 4.45
+(br s, NH), 3.80 (ddd, J = 5.2, 1.6, 1.6 Hz, 2H); 13C NMR (125 MHz,
+CDCl3) δ = 142.7, 134.5, 128.9, 127.9, 121.5, 119.6, 116.9, 112.3, 46.3;
+HRMS (ESI-TOF) calcd for C9H9Cl2N [M + H+] 202.0190, found
+202.0174; [M + Na+] 224.0009, found 224.0005.
+
+N,N-Dichloro-2-(cyclohex-1-en-1-yl)ethan-1-amine (21a). Pro-
+posed compound 21a was obtained in 73% yield (102 mg) after
+PTLC (silica gel, hexanes/EtOAc = 10:1 → 5:1) from 0.1 mL of 2-
+(cyclohexen-1-yl)ethylamine (21) (0.717 mmol), 350 mg of NaN3
+(5.38 mmol), 2.5 mL of NaOCl solution (1.47 mmol), 0.7 mL of
+AcOH (12.2 mmol), and 1.0 mL of brine (procedure I; PhMe; 20 °C;
+0.5 h). 21a: Rf = 0.79 (silica gel, hexanes/EtOAc 10:1); IR (ﬁlm) ν
+max
+= 2924, 2857, 2834, 1446, 1439, 1435, 1136, 919, 910, 802, 694, 641,
+</para>
+2753
+
+DOI: 10.1021/acs.joc.5b00009
+J. Org. Chem. 2015, 80, 2740−2755
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+576 cm−1; 1H NMR (500 MHz, CDCl3) δ = 5.47 (m, 1H), 3.67 (m,
+2H), 2.35 (t, J = 7.5 Hz, 2H), 1.97 (m, 2H), 1.91 (m, 2H), 1.63−1.58
+(m, 2H), 1.56−1.50 (m, 2H); 13C NMR (125 MHz, CDCl3) δ =
+133.3, 124.1, 74.9, 37.0, 28.8, 25.5, 23.0, 22.4.
+
+C60 Derivatives. The fullerene C60 was subjected to general
+procedure I in either chlorobenzene or toluene solvent, resulting in
+the complete consumption of starting material and the isolation of a
+product (or mixture of products) with good mass recovery (Scheme
+4). The presence of the azide group in the product was conﬁrmed by
+IR spectroscopy (strong asymmetric stretch at 2094 cm−1, weaker
+symmetric stretching band at 1217 cm−1),98 and by reduction with
+polymer-bound triphenylphosphine to give the amine derivative 22a′.
+The presence of chloride has not been veriﬁed, so structures 22a and
+22a′ are speculative at present.
+
+max = 2094, 1217 cm−1.
+
+Azido-chloro-fullerene (22a). Product 22a was obtained in 22 mg
+yield as a crude mixture from 20 mg of fullerene (22) (0.028 mmol),
+500 mg of NaN3 (7.69 mmol), 8.0 mL of NaOCl solution (4.72
+mmol), and 0.52 mL of AcOH (9.08 mmol) (procedure I; PhMe or
+PhCl; 20 °C; 1 h). 22a: IR (ﬁlm) ν
+Amino-chloro-fullerene (22a′). Product 22a′ was isolated from 20
+mg of 22a and 100 mg of polymer-bound triphenylphosphine (3
+mmol/g, 200−400 mesh) (procedure II; C6H6/THF/H2O; 65 °C; 16
+h). 22a′: IR (ﬁlm) ν
+max = 3362 (broad), 1673−1614, 1119, 722−693
+cm−1.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Tables summarizing optimization experiments, details of X-ray
+crystallographic analyses (including CIF ﬁles), NMR and IR
+spectra. This material is available free of charge via the Internet
+at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: mgﬁnn@gatech.edu.
+Present Address
+§
+Institute for Molecular Biosciences, The University of
+Queensland, St. Lucia QLD 4072, Australia.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was supported by the Skaggs Institute for Chemical
+Biology at The Scripps Research Institute, the Georgia Institute
+of Technology, and the National Science Foundation (CHE-
+1011796). We thank Dr. J. Bacsa and Ms. M. Wieliczko for X-
+ray crystallographic assistance.
+
+■ REFERENCES
+(1) Hantzsch, A. Ber. Dtsch. Chem. Ges. 1900, 33, 522−527.
+(2) Raschig, F. Ber. Dtsch. Chem. Ges. 1908, 41, 4194−4195.
+(3) Spencer, D. A. J. Chem. Soc., Trans. 1925, 127, 216−224.
+(4) Haller, J. F. Ph. D. Dissertation, Cornell University, 1942.
+(5) Bauer, S. H. J. Am. Chem. Soc. 1947, 69, 3104−3108.
+(6) Dehnicke, K. Angew. Chem., Int. Ed. Engl. 1979, 18, 507−514.
+(7) Hassner, A.; Levy, L. A. J. Am. Chem. Soc. 1965, 87, 4203−4204.
+(8) Fowler, F. W.; Hassner, A.; Levy, L. A. J. Am. Chem. Soc. 1967, 89,
+2077−2082.
+(9) Boerwinkle, F.; Hassner, A. Tetrahedron Lett. 1968, 9, 3921−
+3924.
+(10) Hassner, A.; Boerwinkle, F. J. Am. Chem. Soc. 1968, 90, 216−
+218.
+(11) Hassner, A.; Fowler, F. W. J. Org. Chem. 1968, 33, 2686−2691.
+(12) Hassner, A.; Boerwinkle, F. Tetrahedron Lett. 1969, 10, 3309−
+3312.
+
+Article
+
+(13) Hassner, A.; Boerwinkle, F.; Lavy, A. B. J. Am. Chem. Soc. 1970,
+92, 4879−4883.
+(14) Hassner, A.; Teeter, J. S. J. Org. Chem. 1970, 35, 3397−3401.
+(15) Hassner, A. Acc. Chem. Res. 1971, 4, 9−16.
+(16) L’Abbe, G.; Hassner, A. J. Org. Chem. 1971, 36, 258−260.
+(17) L’Abbé, G.; Hassner, A. Angew. Chem., Int. Ed. Engl. 1971, 10,
+98−104.
+(18) Hassner, A.; Keogh, J. Tetrahedron Lett. 1975, 16, 1575−1578.
+(19) Bochwic, B.; Kapuscinski, J.; Olejniczak, B. Rocz. Chem. 1971,
+45, 869−875.
+(20) Labows, J. N.; Swern, D. J. Org. Chem. 1972, 37, 3004−3006.
+(21) Sasaki, T.; Kanematsu, K.; Yukimoto, Y. J. Org. Chem. 1972, 37,
+890−894.
+(22) Bochwic, B.; Kuswik, G. Rocz. Chem. 1974, 48, 793−801.
+(23) Cambie, R. C.; Dixon, G.; Rutledge, P. S.; Woodgate, P. D. J.
+Chem. Soc., Perkin Trans. 1 1982, 961−965.
+(24) Cambie, R. C.; Jurlina, J. L.; Rutledge, P. S.; Swedlund, B. E.;
+Woodgate, P. D. J. Chem. Soc., Perkin Trans. 1 1982, 327−333.
+(25) Khan, M.; Ahmad, S.; Ahmad, M. S. J.; Osman, S. M. Indian J.
+Chem., Sect. B: Org. Chem. Incl. Med. Chem. 1985, 24B, 1043−1046.
+(26) Napolitano, E.; Fiaschi, R. Gazz. Chim. Ital. 1992, 122, 233−
+235.
+(27) Carmen Cano, M.; Gómez-Contreras, F.; Sanz, A. M.; Yunta, M.
+J. R. Tetrahedron 1993, 49, 243−254.
+(28) Cano, M. D. C.; Gómez-Contreras, F.; Sanz, A. M.; Yunta, M. J.
+R. Can. J. Chem. 1997, 75, 348−355.
+(29) Alajarín, M.; Orenes, R.-Á.; Vidal, Á.; Pastor, A. Synthesis 2003,
+1, 49−52.
+(30) Banert, K.; Ihle, A.; Kuhtz, A.; Penk, E.; Saha, B.; Würthwein, E.-
+U. Tetrahedron 2013, 69, 2501−2508.
+(31) Cambie, R. C.; Noall, W. I.; Potter, G. J.; Rutledge, P. S.;
+Woodgate, P. D. J. Chem. Soc., Perkin Trans. 1 1977, 226−230.
+(32) Woodgate, P. D.; Lee, H. O. H.; Rutledge, P. S.; Cambie, R. C.
+Synthesis 1977, 1977, 462−464.
+(33) Ando, T.; Clark, J. H.; Cork, D. G.; Fujita, M.; Kimura, T. J.
+Chem. Soc., Chem. Commun. 1987, 1301−1302.
+(34) Terent’ev, A. O.; Krylov, I. B.; Kokorekin, V. A.; Nikishin, G. I.
+Synth. Commun. 2008, 38, 3797−3809.
+(35) Cambie, R. C.; Hayward, R. C.; Rutledge, P. S.; Smith-Palmer,
+T.; Woodgate, P. D. J. Chem. Soc., Perkin Trans. 1 1976, 840−845.
+(36) Cambie, R. C.; Rutledge, P. S.; Smith-Palmer, T.; Woodgate, P.
+D. J. Chem. Soc., Perkin Trans. 1 1978, 997−1001.
+(37) Woodgate, P. D.; Janssen, S. J.; Rutledge, P. S.; Woodgate, S. D.;
+Cambie, R. C. Synthesis 1984, 1984, 1017−1020.
+(38) Zefirov, N. S.; Kasumov, T. M.; Koz’min, A. S.; Sorokin, V. D.;
+Polishchuk, V. R. Russ. J. Org. Chem. 1994, 30, 341−352.
+(39) Barluenga, J.; Álvarez-Pérez, M.; Fañanás, F. J.; González, J. M.
+Adv. Synth. Catal. 2001, 343, 335−337.
+(40) Barluenga, J.; Alvarez-Pérez, M.; Rodríguez, F.; Fañanás, F. J.;
+Cuesta, J. A.; García-Granda, S. J. Org. Chem. 2003, 68, 6583−6586.
+(41) Gottam, H.; Vinod, T. K. J. Org. Chem. 2010, 76, 974−977.
+(42) Chouthaiwale, P. V.; Karabal, P. U.; Suryavanshi, G.; Sudalai, A.
+Synthesis 2010, 2010, 3879−3882.
+(43) Curini, M.; Epifano, F.; Marcotullio, M. C.; Rosati, O.
+Tetrahedron Lett. 2002, 43, 1201−1203.
+(44) Banert, K.; Meier, B. Angew. Chem., Int. Ed. 2006, 45, 4015−
+4019.
+(45) Nair, V.; George, T. G.; Sheeba, V.; Augustine, A.; Balagopal, L.;
+Nair, L. G. Synlett 2000, 2000, 1597−1598.
+(46) Kirschning, A.; Monenschein, H.; Schmeck, C. Angew. Chem.,
+Int. Ed. 1999, 38, 2594−2596.
+(47) Hashem, M. A.; Haque, T. Indian J. Chem., Sect. B: Org. Chem.
+Incl. Med. Chem. 2004, 43B, 2024−2026.
+(48) Kupracz, L.; Hartwig, J.; Wegner, J.; Ceylan, S.; Kirschning, A.
+Beilstein J. Org. Chem. 2011, 7, 1441−1448.
+(49) Kirschning, A.; Hashem, M. A.; Monenschein, H.; Rose, L.;
+Schöning, K.-U. J. Org. Chem. 1999, 64, 6522−6526.
+(50) Cambie, R. C.; Robertson, J. D.; Rutledge, P. S.; Woodgate, P.
+D. Aust. J. Chem. 1982, 35, 863.
+
+2754
+
+DOI: 10.1021/acs.joc.5b00009
+J. Org. Chem. 2015, 80, 2740−2755
+
+The Journal of Organic Chemistry
+
+(51) Carlon, F. E.; Draper, R. W. J. Chem. Soc., Perkin Trans. 1 1983,
+2793−2799.
+(52) Naruta, Y.; Nagai, N.; Maruyama, K. J. Chem. Soc., Perkin Trans.
+1 1988, 1143−1148.
+(53) Kocor, M.; Gumulka, M. Rocz. Chem. 1977, 51, 297−302.
+(54) Ponsold, K.; Wunderwald, M. J. Prakt. Chem. (Leipzig) 1983,
+325, 123−132.
+(55) Postovoi, S. A.; Zeifman, Y. V.; Knunyants, I. L. Bull. Acad. Sci.
+USSR, Chem. Ser. 1986, 35, 1183−1186.
+(56) Nagorski, R. W.; Brown, R. S. J. Am. Chem. Soc. 1992, 114,
+7773−7779.
+(57) Van Ende, D.; Krief, A. Angew. Chem., Int. Ed. Engl. 1974, 13,
+279−279.
+(58) Denis, J. N.; Krief, A. Tetrahedron 1979, 35, 2901−2903.
+(59) Chiu, I. C.; Kohn, H. J. Org. Chem. 1983, 48, 2857−2866.
+(60) Lion, C.; Boukou-Poba, J.-P.; Saumtally, I. Bull. Soc. Chim. Belg.
+1987, 96, 711−718.
+(61) Nguy, N. M.; Chiu, I. C.; Kohn, H. J. Org. Chem. 1987, 52,
+1649−1655.
+(62) Lange, W.; Tueckmantel, W. Chem. Ber. 1989, 122, 1765−1776.
+(63) Devalankar, D. A.; Sudalai, A. Tetrahedron Lett. 2012, 53, 3213−
+3215.
+(64) Saikia, I.; Phukan, P. C. R. Chim. 2012, 15, 688−692.
+(65) Hajra, S.; Sinha, D.; Bhowmick, M. Tetrahedron Lett. 2006, 47,
+7017−7019.
+(66) Hajra, S.; Sinha, D.; Bhowmick, M. J. Org. Chem. 2007, 72,
+1852−1855.
+(67) Hajra, S.; Bhowmick, M.; Sinha, D. J. Org. Chem. 2006, 71,
+9237−9240.
+(68) Saikia, I.; Phukan, P. Tetrahedron Lett. 2009, 50, 5083−5087.
+(69) Kumar, A.; Rao, M. S.; Mehta, V. Indian J. Chem., Sect. B: Org.
+Chem. Incl. Med. Chem. 2011, 50B, 1123−1127.
+(70) Dehnicke, K. Angew. Chem., Int. Ed. Engl. 1967, 6, 240−246.
+(71) Frierson, W. J.; Kronrad, J.; Browne, A. W. J. Am. Chem. Soc.
+1943, 65, 1696−1698.
+(72) Frierson, W. J.; Browne, A. W. J. Am. Chem. Soc. 1943, 65,
+1698−1700.
+(73) Dehnicke, K. J. Inorg. Nucl. Chem. 1965, 27, 809.
+(74) Minisci, F.; Galli, R.; Mirella, C. Gazz. Chim. Ital. 1967, 94, 67−
+90.
+(75) Zbiral, E. Synthesis 1972, 1972, 285−302.
+(76) Draper, R. W. J. Chem. Soc., Perkin Trans. 1 1983, 2787−2791.
+(77) Maxa, E.; Zbiral, E.; Schulz, G.; Ernst, G. Justus Liebigs Ann.
+Chem. 1975, 1705−1720.
+(78) Emmer, G.; Zbiral, E.; Brill, G. Justus Liebigs Ann. Chem. 1979,
+796−802.
+(79) Zbiral, E.; Ehrenfreund, J. Tetrahedron 1971, 27, 4125−4137.
+(80) Zbiral, E.; Nestler, G. Tetrahedron 1970, 26, 2945−2951.
+(81) Drefahl, G.; Ponsold, K.; Eichhorn, D. Chem. Ber. 1968, 101,
+1633−1642.
+(82) Ponsold, K.; Eichhorn, D. Z. Chem. 1968, 8, 59−60.
+(83) Ohkata, K.; Mase, M.; Akiba, K.-y. J. Chem. Soc., Chem. Commun.
+1987, 1727−1728.
+(84) Leggans, E. K.; Barker, T. J.; Duncan, K. K.; Boger, D. L. Org.
+Lett. 2012, 14, 1428−1431.
+(85) Zhang, B.; Studer, A. Org. Lett. 2013, 15, 4548−4551.
+(86) Betterton, E. A.; Lowry, J.; Ingamells, R.; Venner, B. J. Hazard.
+Mater. 2010, 182, 716−722.
+(87) Combourieu, J.; Le Bras, G.; Poulet, G.; Jourdain, J. L. Symp.
+(Int.) Combust., [Proc.] 1977, 16, 863−870.
+(88) De Rosa, M. J. Chem. Soc., Chem. Commun. 1975, 482−483.
+(89) De Rosa, M.; Triana Alonso, J. L. J. Org. Chem. 1978, 43, 2639−
+2643.
+(90) De Rosa, M.; Carbognani, L.; Febres, A. J. Org. Chem. 1981, 46,
+2054−2059.
+(91) Hutchings, R. H.; Meyers, A. I. J. Org. Chem. 1996, 61, 1004−
+1013.
+
+Article
+
+(92) Shchekotikhin, A. E.; Luzikov, Y. N.; Sinkevich, Y. B.; Buyanov,
+V. N.; Preobrazhenskaya, M. N. Chem. Heterocycl. Compd. 2008, 44,
+1245−1249.
+(93) Kanamori, K.; Kataoka, H.; Matsugo, S. Eur. J. Inorg. Chem.
+2012, 2012, 4570−4573.
+(94) Devadoss, A.; Chidsey, C. E. D. J. Am. Chem. Soc. 2007, 129,
+5370−5371.
+(95) Stenehjem, E. D.; Ziatdinov, V. R.; Stack, T. D. P.; Chidsey, C.
+E. D. J. Am. Chem. Soc. 2013, 135, 1110−1116.
+(96) Dzhemilev, U. M.; Tuktarov, A. R.; Yarullin, I. R.; Akhmetov, A.
+R. Mendeleev Commun. 2013, 23, 326−328.
+(97) Ruoff, R. S.; Tse, D. S.; Malhotra, R.; Lorents, D. C. J. Phys.
+Chem. 1993, 97, 3379−3383.
+(98) Lieber, E.; Rao, C. N. R.; Chao, T. S.; Hoffman, C. W. W. Anal.
+Chem. 1957, 29, 916−918.
+(99) Huisgen, R. Proc. Chem. Soc. 1961, 357−396.
+
+2755
+
+DOI: 10.1021/acs.joc.5b00009
+J. Org. Chem. 2015, 80, 2740−2755
+
+

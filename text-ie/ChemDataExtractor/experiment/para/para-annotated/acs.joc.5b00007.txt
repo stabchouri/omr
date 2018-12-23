@@ -1,0 +1,1214 @@
+Article
+
+pubs.acs.org/joc
+
+Synthesis of 21,23-Selenium- and Tellurium-Substituted
+5‑Porphomethenes, 5,10-Porphodimethenes, 5,15-
+Porphodimethenes, and Porphotrimethenes and Their Interactions
+with Mercury
+Sohail Ahmad, Kumar Karitkey Yadav, Soumee Bhattacharya, Prashant Chauhan, and S. M. S. Chauhan*
+
+Bioorganic Research Laboratory, Department of Chemistry, University of Delhi, Delhi 110007, India
+
+*S Supporting Information
+
+ABSTRACT: The 3+1 condensation of symmetrical 16-
+Selena/telluratripyrranes with symmetrical selenophene-2,5-
+diols/tellurophene-2,5-diols in the presence of BF3-etheratre
+or BF3-methanol followed by oxidation with DDQ gave 5,10-
+porphodimethenes, whereas the process with unsymmetrical
+selenophene-2,5-diols/tellurophene-2,5-diols gave 5-porpho-
+methenes. In addition, the reaction of unsymmetrical 16-
+Selena/telluratripyrranes with symmetrical selenophene-2,5-
+diols/tellurophene-2,5-diols gave the corresponding porpho-
+trimethenes, whereas
+the process with unsymmetrical
+selenophene-2,5-diols/tellurophene-2,5-diols gave the 5,15-
+porphodimethenes. The structures of diﬀerent products were
+characterized by IR, 1H and 13C NMR, 1H−1H COSY, CHN analysis, and mass spectrometry. The binding of mercury with the
+calix[4]phyrins mentioned above had been observed in the decreasing order of porphodimethenes > porphomethenes >
+porphotrimethenes by UV−vis and 1H NMR spectroscopy.
+
+■ INTRODUCTION
+
+the presence of
+
+the sp3-hybridized unit,
+
+Porphomethenes, porphodimethenes, and porphotrimethenes
+are the classes of calixphyrins in which porphomethene
+[calix(4)phyrin-(1.1.1.1)] contains one sp2-hybridized meso-
+carbon atom and three sp3-hybridized meso-carbon atoms,
+porphodimethene [calix(4)phyrin-(1.1.1.1 and 1.1.1.1)] con-
+tains two sp2-hybridized and two sp3-hybridized meso-carbon
+atoms, and porphotrimethene [calix(4)phyrin-(1.1.1.1)] con-
+tains three sp2-hybridized meso-carbon atoms and one sp3-
+hybridized meso-carbon atom (Figure 1).1 The presence of sp3-
+hybridized meso-carbon centers disrupts the π-conjugation and
+allows the macrocycle to adapt a nonplanar conformation;2
+because of
+these
+compounds display an intriguing multielectron redox chem-
+istry.3 Calix[4]phyrins consist of the intermediate structure of
+porphyrin and calix[4]pyrrole;
+they have properties
+analogous to those of both porphyrins and calix[4]pyrroles
+ion receptors4 and anion-
+and play diverse roles as metal
+complexing agents5 and reveal a rich coordination chemistry.6
+However,
+the
+spectroscopic properties of these macrocycles in comparison
+to those of the porphyrins.7 Naturally, calix[4]phyrins have
+been proposed as intermediates in the synthesis of chlorophyll
+a,1b,c heme P460,8 chlorins,9 and porphyrins.9b Calix[4]phyrin
+was recently identiﬁed as a potential chemical
+inhibitor of
+uroporphyrinogen decarboxylase and reduced the viability of
+cancer cells.10 Calix[4]phyrins have been synthesized by
+
+the lack of π-conjugation compromises
+
+thus,
+
+reductive alkylation of porphyrins,11 dealkylation of calix[4]-
+pyrroles,12 oxidation of porphyrinogens,13 and reduction of
+porphyrins.14 The methods described above require expansive
+reagents, multistep synthesis, and vigorous reaction conditions.
+Recently, calix[4]phyrins have been synthesized by reaction
+of 5,5-disubstituted dipyrromethane and aldehyde or by
+reaction of 5-substituted dipyrromethane and ketone under
+acidic conditions followed by oxidation with DDQ, chloranil, or
+FeCl3 under mild conditions.15 The introduction of diﬀerent
+the sp2- or sp3-hybridized meso position15
+substituents at
+impacts calixphyrin’s stability, structure, and spectroscopic,
+electrostatic, and anion and cation binding properties.
+Modiﬁcation of the calix[4]phyrin core by replacement of
+one or two nitrogen atoms with donor atoms15 (O, S, and P)
+leads to the synthesis of core-modiﬁed calix[4]phyrins.16 The
+porphodimethenes are stable, and their properties have been
+extensively studied; on the other hand, core-modiﬁed
+porphomethenes and porphotrimethenes (Figure 1) have
+remained unexplored because of the instability and complexity
+of
+is
+anticipated for the calixphyrins with heavier chalcogen donor
+atoms such as selenium and tellurium, because of
+their
+“softness” and better σ-donor capacity compared to that of
+the lighter group 16 congeners. Selenium and tellurium
+
+the synthesis.17 Therefore, a similar development
+
+Received:
+January 21, 2015
+Published: March 24, 2015
+
+© 2015 American Chemical Society
+
+3880
+
+DOI: 10.1021/acs.joc.5b00007
+J. Org. Chem. 2015, 80, 3880−3890
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 1. Structures of porphyrinoids.
+Scheme 1. Synthesis of Selenophene and Tellurophene Diols (3a−h), Tripyrranes (4a and 4b), 5,10-Porphodimethenes (5a−d),
+and Porphomethenes (6a and 6b)
+
+porphyrinoids and their derivatives keep attracting the attention
+research groups18 beginning from the seminal
+of several
+contributions of Ulman and Manassen.19 The absence of a
+suitable synthetic procedure, starting precursors, and instability
+toward air and light limit the chemistry of Se/Te calixphyrins.
+Recently, we had reported the ﬁrst synthesis of Se/Te core-
+modiﬁed porphyrinogens and their coordination ability for the
+
+selective detection of Hg2+ by UV−vis, ﬂuorescence, and 1H
+NMR spectroscopy.20
+
+In this paper, we report the synthesis of novel 21,23-Se/Te-
+substituted porphomethenes, porphodimethenes, and porpho-
+trimethenes via acid-catalyzed 3+1 condensation of 16-
+selenophene/tellurophene tripyrranes with corresponding
+selenophene-2,5-diols/tellurophene-2,5-diols. The interactions
+
+3881
+
+DOI: 10.1021/acs.joc.5b00007
+J. Org. Chem. 2015, 80, 3880−3890
+
+The Journal of Organic Chemistry
+
+of meso-substituted calixphyrins with Hg2+ ion have been
+examined by UV−vis, ﬂuorescence, and 1H NMR spectroscopy.
+■ RESULTS AND DISCUSSION
+<para sub="scope">
+Acetylenic coupling is an important tool for the synthesis of
+natural products, pharmaceuticals, polymers, and nanomater-
+ials.21a The two-step homocoupling of terminal alkynes using a
+stoichiometric amount of CuCl and NH4OH in an oxygen
+atmosphere was reported by Glaser in 1869.21b,c The one-step
+homocoupling using CuCl and TMEDA was reported in
+·6H2O system had been used for the
+1962.21d The CuI, NiCl2
+homocoupling of 2-methylbut-3-yn-2-ol (1a) to give diynediol
+(2a).22 Diynediol (2a) reacts with Na2Se in the presence of
+silver acetate to give 2,5-bis[hydroxy(dimethyl)methyl]-
+selenophene (3a). The structure of 3a was fully conﬁrmed by
+1H NMR and comparison of other spectroscopic data from the
+literature.20 Similarly, other selenophene and tellurophene diols
+(3b−h) were synthesized and characterized. Selenophene diol
+3a reacts with an excess of pyrrole to give 16-selenatripyrrane
+(4a) in 75% yield. Similarly, 16-telluratripyrrane (4b) was
+synthesized and characterized by various
+spectroscopic
+techniques in 78% yield (Scheme 1).
+
+the oxidation state of
+</para>
+<para sub="scope">
+The 3+1 condensation is an important method for the
+synthesis of selected porphyrins15c and core-modiﬁed porphyr-
+ins.15,20,23 The 3+1 condensation of 1 equiv of tripyrranes (4a)
+with 1 equiv of corresponding diols (3c) in the presence of
+BF3-etherate in dichloromethane (3.2 mM) at room temper-
+ature in 30 min, followed by treatment with 2.2 equiv of 2,3-
+dichloro-5,6-dicyanobenzoquinone (DDQ), gave the new
+selenium core-modiﬁed 5,5,10,10-tetramethyl-15,20-bisphenyl-
+21,23-diselenaporphodimethene [5a (Scheme 1, method A)].
+From the reaction, a mixture of two calixphyrins, 5a and 8a, was
+the π-
+obtained. On the basis of
+conjugated moiety, 8a is classiﬁed as a 2e−-oxidized product
+(14π) and 5a as a 4e−-oxidized product (16π).15b In the high-
+resolution mass spectra, peaks corresponding to 8a along with
+5a were observed (see the Supporting Information), and TLC
+analysis of the crude reaction mixture indicated that product 5a
+was a predominant product of this condensation. However, all
+attempts to isolate 8a from the reaction mixture resulted in its
+decomposition, and only 16π-conjugated system 5a was
+isolated by column chromatography in 10% yield. Even with
+a decrease in the amount of oxidant from 2 to 0.5 equiv, no
+signiﬁcant improvements were observed in the yield of 8a. The
+greater selectivity of the 16π-conjugated system (4e−-oxidized)
+and the instability of the 14π-conjugated system (2e−-oxidized)
+may be explained on the basis of weak hydrogen bonding
+interaction of the lone pair (Se) with the pyrrolic NH proton
+(X···H−N, where X = Se or Te) or its absence in 8a; therefore,
+stabilization of the 14π system is not possible. Sulfur and
+oxygen core-modiﬁed calixphyrins showed greater stability of
+the 14π-conjugated system in comparison to that of 16π, which
+may arise from the repulsive or attractive electrostatic
+interactions between the core heteroatoms and the pyrrole
+NH groups.15b,c Similarly, the other porphodimethenes (5b−d)
+were synthesized and characterized by various spectroscopic
+techniques.
+</para>
+<para sub="scope">
+On the other hand, sp2-hybridized meso-methyl-substituted
+porphodimethene (5e and 5f) and sp2-hybridized meso-
+unsubstituted porphodimethene (5g and 5h) could not be
+synthesized by method A described above, and it led to the
+formation of a complex mixture. No corresponding porphodi-
+methenes were detected by HRMS or in the UV−vis spectrum.
+</para>
+Article
+<para sub="scope">
+In some cases, the HRMS analysis of the reaction mixture
+revealed the formation of desired porphyrinogen intermediates
+(7e−h), which disappeared without providing corresponding
+porphodimethene products upon oxidation with DDQ or p-
+chloranil. To understand the detailed mechanism of reaction,
+the intermediate porphyrinogens (7e−h) were isolated and
+characterized. These porphyrinogens (7e−h) were further
+oxidized under neutral conditions. Porphodimethenes (5e−h)
+were obtained by condensation of 1 equiv of tripyrranes (4a
+and 4b) with 1 equiv of the corresponding diol (3e−h) in the
+presence of BF3-methanol using dichloromethane as a solvent
+(3.2 mM) at 0 °C for 1 h, and then the reaction mixture was
+stirred at room temperature for 45 min (method B). The crude
+porphyrinogens were puriﬁed by silica gel column chromatog-
+raphy to aﬀord white solids in 10−14% yield. The methyl-
+substituted porphyrinogens (7e and 7f) were oxidized with
+chloranil, and meso-unsubstituted porphyrinogens (7g and 7h)
+were oxidized with 0.1% aqueous FeCl3 in CHCl3 at room
+temperature to obtain 16π-conjugated systems 5e in 6%, 5f in
+7%, 5g in 5%, and 5h in 4% yields (Scheme 2).
+</para>
+Scheme 2. Synthesis of Porphyrinogens (7e−h) and 5,10-
+Porphodimethenes (5e−h)
+<para sub=“props”>
+The structures of all the products were characterized by IR,
+1H NMR, 13C NMR, CHN analysis, and mass spectrometry
+(see the Supporting Information). The 1H NMR spectra of
+tellurium-embedded porphodimethenes 5b, 5d, 5f, and 5h were
+recorded in CDCl3 at room temperature. In general, the sp3-
+hybridized 5,10-meso-tetramethyl protons (CH3) resonate as a
+doublet at δ 1.78−1.75, while conjugated tellurophene protons
+are more deshielded and appeared as a sharp singlet at δ 7.60−
+7.62 compared to the nonconjugated tellurophene protons (δ
+7.59−7.47). On the other hand, in the 1H NMR spectra of
+selenium-embedded porphodimethenes 5a, 5c, 5e, and 5g,
+5,10-meso tetramethyl proton (CH3) resonate as a sharp singlet
+at δ 1.77 while conjugated and nonconjugated selenophene
+protons appeared at δ 7.07 and 6.91, respectively. The sp2 meso-
+CH protons of 5g and 5h resonate as a sharp singlet in the
+range of δ 6.73−6.71. The diﬀerence in sp3-hybridized 5,10-
+</para>
+3882
+
+DOI: 10.1021/acs.joc.5b00007
+J. Org. Chem. 2015, 80, 3880−3890
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 3. Synthesis of 5,15-Porphodimethenes (12a and 12b) and Porphotrimethenes (11a and 11b)
+<para sub=“props”>
+meso tetramethyl chemical shifts and the splitting pattern
+between Te and Se calixphyrins reﬂects the diﬀerence in the
+degree of distortion in their conformation; this may be ascribed
+to the diﬀerence in sizes of Se/Te incorporated in their π-
+conjugated N-X-N subunits. The UV−vis absorption spectra of
+Se hybrids 5a, 5c, 5e and 5g showed the transitions at lower
+wavelengths at around 343 and 520 nm. For Te hybrids 5b, 5d,
+5f, and 5h in CH2Cl2, broad absorptions due to π−π*
+transitions were observed around 561−559 nm along with an
+intense band around 360−358 nm (Supporting Information).
+Unsubstituted 15,20-meso-carbon porphodimethenes (5g and
+5h) are highly unstable and very diﬃcult to handle and become
+dark at
+room temperature in comparison to 15,20-meso-
+substituted porphodimethene.
+</para>
+<para sub="scope">
+The cross coupling of haloalkyne with a terminal alkyne
+catalyzed by Cu(I) is the most important method for the
+synthesis of unsymmetrical diynes (Scheme 3).24 Although the
+nickel-catalyzed oxidative coupling reaction of two diﬀerent
+terminal alkynes using O2 as the oxidant at room temperature
+has been reported for the facile synthesis of unsymmetrical
+diynes,21 the symmetrical diynes are also formed and separated
+from the reaction mixture. The reaction of 1 equiv of
+unsymmetrical diols (9a) with 1 equiv of corresponding 16-
+selenatripyrranes (4a) in dichloromethane (method A) gave
+porphomethenes 6a in 9% yield (Scheme 1). Similarly,
+ditelluraporphomethene (6b) was obtained in 7% yield. The
+absorption spectra of ditelluraporphomethene (564 and 360
+nm) and diselenaporphomethene (440 and 328 nm) were quite
+similar to the absorption spectra of ditellura/diselenaporpho-
+dimethene. In the 1H NMR spectra of selenaporphomethene
+(6a), the four β-pyrrole protons appeared as two sets of
+multiplets in the range of δ 6.0−6.3, and two diﬀerent β-
+selenophene protons appeared as a multiplet and a singlet at δ
+6.9 and 7.1, respectively (Supporting Information).
+</para>
+<para sub="scope">
+The reaction of unsymmetrical 16-selenatripyrrane (10a) and
+symmetrical selenophene diols (3c) in dichloromethane, in the
+presence of a catalytic amount of triﬂuoroacetic acid at room
+temperature,
+followed by oxidation with DDQ gave the
+porphotrimethene (11a) in 9% yield. The presence of a strong
+M+ ion peak in the mass spectra and correct elemental analysis
+conﬁrmed the synthesis of phlorin (11a). Similarly, the other
+porphotrimethene 11b was synthesized in 11% yield and
+characterized by IR, NMR, and UV−vis spectroscopy. Phlorins
+11a and 11b are quite stable under nitrogen and isolable
+(Scheme 3).
+</para>
+<para sub=“props”>
+The 1H NMR data of 11b are typical for a nonaromatic
+conjugated system with four sets of signals of four β-pyrrole
+protons in the range of δ 6.3−7.1 as compared to the 21,23-
+ditelluraporphyrins.18c,d The four β-tellurophene protons
+appeared as two sets of signals: a doublet at δ 7.5 and a
+multiplet at δ 7.6. The inner NH proton showed two broad
+signals at δ 11.2 and 12.2 that were attributed tentatively to the
+presence of tautomers in solution. However, when the 1H
+NMR spectrum was
+recorded using deuterated pyridine
+(C5D5N) as a solvent, only one broad signal at δ 10.2 was
+observed, which disappeared upon addition of a drop of D2O
+(exchange of
+the NH proton with a deuterium atom),
+conﬁrming the NH signal. The tautomeric eﬀect of the inner
+NH proton has been previously reported with 21,23-
+dithiaphlorins.17i
+</para>
+<para sub=“props”>
+Generally,
+
+the electronic absorption spectra of phlorins
+displayed absorption at a wavelength longer than that of
+porphyrins.17,18c,d The electronic absorption spectra of
+diselenaphlorin 11a showed absorption bands at 679 and 438
+nm, whereas ditelluraphlorin (11b) showed a pattern diﬀerent
+from that of 21,23-dithia/diselenaphlorins and appeared as a
+broad Q-band at 583 nm and a Soret band at 362 nm. The
+change in conformation due to the presence of tellurium had
+been previously reported with 21,23-ditelluraporphyrin;18b
+</para>
+3883
+
+DOI: 10.1021/acs.joc.5b00007
+J. Org. Chem. 2015, 80, 3880−3890
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“props”>
+21,23-ditelluraporphyrin has been shown to adapt a nonplanar
+macrocyclic conformation, and its chromophore is found to be
+diﬀerent from regular heteroporphyrins.18b
+</para>
+<para sub="scope">
+The reaction of unsymmetrical 16-selenatripyrrane (10a)
+with unsymmetrical selenophene diols (9a) in dichloro-
+methane, in the presence of triﬂuoroacetic acid (1.5h), followed
+by DDQ oxidation gave the newer 5,15-porphodimethene
+(12a). The newer 5,15-porphodimethene (12a) was charac-
+terized by UV−vis, 1H NMR, and correct elemental analysis.
+The 1H NMR spectra of both the compounds are in good
+agreement for the given structure. Similarly, the other 5,15-
+porphodimethene (12b) was synthesized (Scheme 3). The
+electronic absorption spectrum of 5,15-diselenaporphodime-
+thene 12a is quite diﬀerent from that of 5,10-diselenaporpho-
+dimethene 5a. The UV−vis spectrum of 5a showed two sharp
+peaks at 343 and 520 nm, whereas in the UV−vis spectrum of
+12a, a broad peak at 426 nm along with a shoulder at 525 nm
+was observed. It is quite understandable due to the presence of
+conjugated double bonds in diselenaporphodimethene 5a.
+Compared to those of 5,10-porphodimethene (5a), the 1H
+NMR spectra of 5,15-porphodimethene (12a) showed a
+diﬀerent pattern. The selenophene protons appeared as two
+sets of doublets at 7.52 and 7.35 ppm, whereas the β-pyrrolic
+proton appeared at 6.83 and 6.22 ppm as doublets. Similarly,
+porphodimethene (12b) showed a broad absorption spectrum
+at 443 and 536 nm. Porphodimethene (12b) readily undergoes
+decomposition in air.
+</para>
+<para sub=“props”>
+The problematic role of mercury for the environment has
+necessitated the investigation of the detection of mercury with
+suitable chemosensors.25 The chalcogenophilicity of mercury
+led to the development of various sensors from compounds
+containing chalcogen atoms. Chalcogen−mercury binding is
+stronger than chalcogen−zinc or chalcogen−magnesium bind-
+ing because of the strong relativistic 6s orbital contraction that
+draws the chalcogen charge to the Hg2+ nucleus.25 The greater
+stability of phenyl-substituted calixphyrin among those of other
+calixphyrins oﬀers the further utilization of these compounds in
+the selective detection of mercury. The electronic absorption
+spectroscopic titration of 5,10-porphodimethene 5a with a
+“soft” Lewis acid, mercuric perchlorate Hg(ClO4)2, was
+performed in an acetonitrile/water mixture [6:4 (v/v)] at
+room temperature. Calixphyrin 5a gave characteristic absorp-
+tion maxima at 339 and 514 nm, and upon addition of Hg2+ in
+an acetonitrile/water solution [6:4 (v/v)] of 5a (1:1 complex),
+the absorption peak was bathochromically shifted to 415 and
+584 nm (shifted by 70 nm) with the increase in relative
+intensity (Figure 2). The bright red solution of 5a turned gray
+upon complexation with Hg2+, and the color changes were
+clearly visible to the naked eye. The binding constant for the
+formation of the 1:1 complex from the interaction of 5a and
+Hg2+ was calculated from the plot of 1/(A − A0) versus 1/
+[Hg2+] using the Benesi−Hildebrand equation26 and was found
+to be 1.37 × 107 M−1. The linearity of
+further
+conﬁrmed the 1:1 binding stoichiometry. The UV−vis
+absorption response of 5a was also examined in the presence
+of 1−100 equiv of various metal ions such as K+, Ag+, Mn2+,
+Cu2+, Pb2+, Cr2+, Zn2+, and Cd2+ in an acetonitrile/water
+solution [6:4 (v/v)] (Supporting Information). No signiﬁcant
+changes in UV−vis intensity were observed with these metal
+ions, which indicated the selective chelation of Hg2+ with 5a
+(Figure S15 of the Supporting Information).
+
+the plot
+</para>
+<para sub=“props”>
+The ﬂuorescence spectroscopic titration of 5a with Hg2+ was
+performed in an acetonitrile/water solution [6:4 (v/v)] at room
+</para>
+Figure 2. UV−vis titration proﬁle of 5a (5.1 × 10−8 M) with the
+gradual addition of Hg2+ in an acetonitrile/water solution [6:4 (v/v)].
+The inset shows the Benesis−Hildebrand plot of 5a, assuming a 1:1
+stoichiometry for association between 5a and Hg2+.
+<para sub=“props”>
+temperature. Compound 5a showed characteristic emission
+peaks at 404 and 430 nm upon excitation at 350 nm. The
+ﬂuorescence was gradually quenched upon the stepwise
+addition of Hg2+ (from 0.5 to 5.0 μm) to a solution of 5a (2
+μm) (Figure 3). The ﬂuorescence quenching upon addition of
+Hg2+ was attributed to the formation of a complex between 5a
+and Hg2+.27 The ﬂuorescence response of 5a was also examined
+in the presence of 1−100 equiv of various metal ions such as
+K+, Ag+, Mn2+, Cu2+, Pb2+, Cr2+, Zn2+, and Cd2+ in an
+acetonitrile/water solution [6:4 (v/v)] (Figure S16 of the
+Supporting Information). No signiﬁcant changes in ﬂuores-
+cence intensity were observed with these metal ions, whereas
+the signiﬁcant quenching of ﬂuorescence intensity was observed
+with 1 equiv of Hg2+. Hence, selective chelation of Hg2+ with 5a
+was observed.
+</para>
+<para sub=“props”>
+The electronic absorption spectroscopic titration of 5b with
+Hg2+ was also performed, and their respective preliminary peaks
+were shifted by 18−20 nm. The binding constant was
+calculated to be 3 × 106 M−1 (Figure 4). The detection limits
+of 5a and 5b were calculated for Hg2+ ions, and we found that
+5a (1.1 × 10−7 M) showed a detection limit higher than that of
+5b (3.2 × 10−6 M) (Figures S19 and S20 of the Supporting
+Information). Similar studies were conducted with 5,15-
+porphodimethenes 12a and 12b, but no signiﬁcant changes
+were observed (Figures S20 and S21 of
+the Supporting
+Information).
+</para>
+<para sub=“props”>
+The 1H NMR spectrum of selenium calixphyrin with Hg2+ at
+298 K was recorded (Figure 5 and Table S1 of the Supporting
+Information). A signiﬁcant downﬁeld chemical shift change was
+observed for selenophene protons (conjugated and uncon-
+jugated) and pyrrolic protons of 5a. 5a exhibited conjugated
+and unconjugated selenophene protons at 7.07 and 6.91 ppm,
+respectively, and pyrrolic protons at 6.67−6.71 ppm that were
+signiﬁcantly downﬁeld shifted to 7.45, 7.26, and 6.71−6.74
+ppm, respectively. This ﬁnding suggests the interaction takes
+place through the selenium of selenophene (conjugated and
+unconjugated) and nitrogen of the pyrrole ring of 5a. Similar
+changes in chemical shifts were also observed in calixphyrin 5b
+in which Hg2+ binds with tellurium of tellurophene (conjugated
+</para>
+3884
+
+DOI: 10.1021/acs.joc.5b00007
+J. Org. Chem. 2015, 80, 3880−3890
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 3. Changes in the ﬂuorescence spectra (λ
+
+ex = 350 nm) of 5a (10 μM) measured upon addition of Hg2+.
+<para sub=“props”>
+of the presence of Hg2+ in solution and inner NH proton
+appeared at δ 10.3, and signiﬁcant downﬁeld chemical shift
+changes in selenophene protons and pyrrolic protons were
+observed (Figure S64 of the Supporting Information). Titration
+of 6a with 1 equiv of Hg2+ resulted in a small decrease in the
+absorption at 328 and 440 nm with a 60 nm bathochromic shift
+(Figure 7), and the binding constant was calculated to be 16.1
+× 104 M−1. The lower binding constants for the interaction of
+Hg2+ with porphomethene 6a and porphotrimethene 11a
+compared to the binding constant for the interaction with
+porphodimethenes 5a and 12a suggest
+the diﬀerence in
+macrocycle ﬂexibility and conjugation and the presence of
+in 6a and 11a as compared to
+NH pyrrolic units
+porphodimethenes.
+</para>
+■ CONCLUSIONS
+
+In conclusion, the ﬁrst syntheses of 21,23-diselena/ditellura
+core-modiﬁed porphomethenes, 5,10-porphodimethenes, 5,15-
+porphodimethenes, and porphotrimethenes (phlorins) have
+been achieved from easily available precursors. The reaction
+approach using readily available conjugated diynes as starting
+materials makes this strategy highly attractive in diversity-
+oriented synthesis. The diﬀerent selenium-substituted calix[4]-
+phyrins are more stable than tellurium-substituted calix[4]-
+phyrins, and these calixphyrins have shown better selectivity for
+Hg2+. The binding ability of calixphyrins with Hg2+ ion has
+been examined by using 1H NMR, UV−vis, and ﬂuorescence
+spectroscopy.
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Experimental Details. Melting points were determined
+on a capillary melting point apparatus and are uncorrected. The
+chemical shifts (δ) are referenced to the respective solvents, and
+splitting patterns are designed as s (singlet), d (doublet), t (triplet), m
+(multiplet), dt (double triplet), br (broad), and brs (broad singlet).
+Coupling constants (J) are reported in hertz. The mass spectra of
+selected compounds were recorded on an Agilent Technologies high-
+resolution Q-TOF mass spectrometry instrument. Solvents used were
+of analytical grade and were dried before being used. Pyrrole was
+</para>
+3885
+
+DOI: 10.1021/acs.joc.5b00007
+J. Org. Chem. 2015, 80, 3880−3890
+
+Figure 4. UV−vis titration proﬁle of 5b (4.8 × 10−8 M) with the
+gradual addition of Hg2+ in an acetonitrile/water solution [6:4 (v/v)].
+The inset shows the Benesis−Hildebrand plot of 5b, assuming a 1:1
+stoichiometry for association between 5b and Hg2+.
+<para sub=“props”>
+and unconjugated) and the nitrogen of the pyrrole (Figure S63
+of the Supporting Information). The higher binding constant
+for mercury with selenium calix[4]phyrins than with tellurium
+calix[4]phyrins has been observed by UV−vis spectroscopy.
+Stronger inhibition of ﬂuorescence is observed in the case of
+diﬀerent selenium calix[4]phyrins than in the case of tellurium
+calix[4]phyrins.
+</para>
+<para sub=“props”>
+The titration proﬁle of 11a (6 × 10−7 M) with Hg2+ was
+recorded in an acetonitrile/water solution [6:4 (v/v)] (Figure
+6). Upon addition of Hg2+, the intensity of the absorption peak
+at 679 nm decreased and a gradual red shift in the spectral
+position at 826 nm was observed, along with an increase in the
+absorption intensity; the binding constant was calculated to be
+2.3 × 104 M−1. In the 1H NMR spectra of 11a with Hg2+, the
+tautomeric eﬀect of the inner NH proton was restricted because
+</para>
+The Journal of Organic Chemistry
+
+Article
+
+Figure 5. 1H NMR spectrum of 5a with Hg2+. (A) 5a (from 6.5 to 7.5 ppm). (B) 5a with Hg2+ (1 equiv) in CDCl3.
+
+Figure 6. UV−vis titration proﬁle of 11a (6 × 10−7 M) with the
+gradual addition of Hg2+ in an acetonitrile/water solution [6:4 (v/v)].
+
+Figure 7. UV−vis titration proﬁle of 6a (3.1 × 10−8 M) with the
+gradual addition of Hg2+ in an acetonitrile/water solution [6:4 (v/v)].
+<para sub=“exp”>
+distilled before being used. All other chemicals were purchased as
+reagent quality and used as received. All processes and reactions were
+conducted under argon and protected from light.
+Synthesis of Symmetrical Diynediols (2a−d). The symmetrical
+diynediols (2a−d) were synthesized by slightly modifying our reported
+procedure.20
+
+Synthesis of Unsymmetrical Diynediols (2e). The diynediols
+(2e) were synthesized by slightly modifying the literature procedure.21
+The solution of TMEDA (46.4 mg, 0.4 mmol), CuI (19.05 mg, 0.1
+·6H2O (23.78 mg, 0.1 mmol) in THF (10 mL) was
+mmol), and NiCl2
+stirred at room temperature. A THF (10 mL) solution of 2-methylbut-
+3-yn-2-ol 1a (252 mg, 3 mmol) and alkynes (1b) (264 mg, 2 mmol)
+were added dropwise with the bubbling of oxygen to the reaction
+</para>
+3886
+
+DOI: 10.1021/acs.joc.5b00007
+J. Org. Chem. 2015, 80, 3880−3890
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+mixture. The reaction was monitored by TLC. After completion of the
+reaction (10 h), the reaction mixture was concentrated under reduced
+pressure and puriﬁed by column chromatography on silica gel. The
+product was eluted with a benzene/acetone solution [97.5:2.5 (v/v)]
+to give unsymmetrical diynediols as a pale yellow liquid.
+
+6-Methyl-1-phenylhepta-2,4-diyne-1,6-diol
+
+(2e).28 Yellow liquid
+(227 mg, 53%). 1H NMR (400 MHz, CDCl3): δ 7.49 (d, 2H, C6H5),
+7.37 (m, 3H, C6H5), 5.50 (s, 1H, CH), 2.37 (brs, 1H, OH), 2.05 (brs,
+1H, OH), 1.53 [s (split), 6H, CH3].
+Reaction of Diynediols (2a−d or 8) with Selenium and
+Tellurium: Synthesis of Symmetrical and Unsymmetrical
+Selenophene and Tellurophene Diols (3a−h, 9a, and 9b). A
+250 mL three-neck ﬂask equipped with a nitrogen inlet, a reﬂux
+condenser, and a dropping funnel was loaded with selenium/tellurium
+(4 mmol), NaBH4 (16 mmol), and distilled water (10 mL). The
+reaction mixture was vigorously stirred under nitrogen for 30 min. A
+deoxygenated solution of diynediols (2a−d or 8) (3.1 mmol) in
+MeOH (12 mL) with AgOAc (50 mg) was added dropwise, and the
+reaction mixture was stirred overnight.2 After completion of
+the
+reaction, water (100 mL) was added and the product was extracted
+with a benzene/diethyl ether mixture (1:1, 150 mL). The organic layer
+was washed with water (2 × 20 mL) and dried over anhydrous
+Na2SO4, and the solvent was evaporated under reduced pressure to
+give products (3a−h, 9a, and 9b) as an oﬀ-white solid (83−94%). All
+selenophene and tellurophene diols (3a−h) were
+symmetrical
+characterized, and their values matched the reported values.20
+2-{5-[Hydroxy(phenyl)methyl]selenophen-2-yl}propan-2-ol
+
+(9a).
+Yellow liquid (375 mg, 41%). 1H NMR (400 MHz, CDCl3): δ
+7.44−7.28 (m, 5H, C6H5), 6.86 (m, 2H, selenophene), 5.94 (s, 1H,
+CH), 2.49 (brs, 1H, OH), 1.59 (s, 6H, CH3). 13C NMR (75 MHz,
+CDCl3): δ 161.9, 153.8, 143.4, 128.5, 127.9, 126.3, 126.1, 123.0, 74.2,
+72.8, 32.2, 30.9. HRMS (ESI-QTOF): [M + H]+ calcd for C14H17O2Se
+m/z 297.0394,
+found m/z 297.0391. CHN analysis. Calcd for
+C14H16O2Se: C, 56.95; H, 5.46. Found: C, 56.99; H, 5.52.
+
+2-{5-[Hydroxy(phenyl)methyl]tellurophen-2-yl}propan-2-ol
+
+(9b).
+Yellow liquid (576 mg, 54%). 1H NMR (400 MHz, CDCl3): δ 7.43
+(m, 2H, tellurophene), 7.33−7.20 (m, 5H, C6H5), 5.77 (s, 1H, CH),
+2.77 (brs, 1H, OH), 2.34 (brs, 1H, OH), 1.58 [s (split), 6H, CH3]. 13C
+NMR (75 MHz, CDCl3): δ 165.7, 156.6, 146.2, 135.6, 132.0, 130.6,
+129.9, 128.0, 78.7, 34.3, 34.2. HRMS (ESI-QTOF): [M + H]+ calcd
+for C14H17O2Te m/z 347.0291, found m/z 347.0298. CHN analysis.
+Calcd for C14H16O2Te: C, 48.90; H, 4.69. Found: C, 48.96; H, 4.78.
+Reaction of Tellurophene and Selenophene Diols (3a and
+3b, respectively) with Pyrrole: Synthesis of Symmetrical
+Selenatripyrrane (4a) and Telluratripyrrane (4b). Boron
+triﬂuoride-etherate (0.3 mmol) was added to the solution of diols
+(3a and 3b) (0.7 mmol) in degassed pyrrole (6.5 mL), and the
+resulting mixture was stirred for 1 h under argon. The reaction was
+monitored by TLC. After completion of the reaction, it was diluted
+with CH2Cl2 (30 mL) and 40% NaOH (25 mL). The organic layer
+was separated and washed with water (3 × 100 mL) and brine (100
+mL). It was dried over MgSO4 and concentrated under reduced
+pressure. The product was puriﬁed over silica gel (80:20 hexanes/
+EtOAc) to give 78−91% of 4a and 4b as a white solid.
+
+5,5,10,10-Tetramethyl-16-selenatripyrromethane (4a).20 White
+solid (181 mg, 75% yield). Mp: 97 °C. Rf = 0.2 [8:2 (v/v)
+petroleum/EtOAc]. 1H NMR (400 MHz, CDCl3): δ 7.91 (br, 2H,
+NH), 6.71 (s, 2H, selenophene), 6.65 (m, 2H, pyrrole), 6.12−6.05 (m,
+4H, pyrrole), 1.69 (s, 12H, CH3). 13C NMR (75 MHz, CDCl3): δ
+160.94, 139.68, 124.10, 116.78, 107.72, 103.54, 39.68, 31.61. IR (KBr)
+ν
+max: 3372, 3099, 2967, 1559, 1439, 1383, 1312, 1296, 1231, 1112,
+1036, 949, 803, 722, 583 cm−1. HRMS (ESI-QTOF): [M + H]+ calcd
+for C18H23N2Se m/z 347.1026, found m/z 347.1050. CHN analysis.
+Calcd for C18H22N2Se: C, 62.60; H, 6.42; N, 8.11. Found: C, 62.57; H,
+6.22; N, 8.41.
+
+5,5,10,10-Tetramethyl-16-telluratripyrromethane (4b).20 White
+solid (215 mg, 78% yield). Mp: 148 °C. Rf = 0.2 [8:2 (v/v)
+petroleum/EtOAc]. 1H NMR (400 MHz, CDCl3): δ 7.93 (br, 2H,
+NH), 7.10 (s, 2H, tellurophene), 6.65 (m, 2H, pyrrole), 6.10−6.03 (m,
+4H, pyrrole), 1.66 (s, 12H, CH3). 13C NMR (75 MHz, CDCl3): δ
+
+162.41, 140.73, 131.27, 116.91, 107.71, 103.35, 42.04, 31.92. IR (KBr)
+ν
+max: 3367, 2964, 2861, 1559, 1381, 1361, 1254, 1236, 1112, 1037,
+1010, 965, 807, 723, 581 cm−1. HRMS (ESI-QTOF): [M + H]+ calcd
+for C18H23N2Te m/z 397.0923, found m/z 397.0912. CHN analysis.
+Calcd for C18H22N2Te: C, 54.87; H, 5.63; N, 7.11. Found: C, 54.70;
+H, 5.82; N, 7.28.
+
+Reaction of Selenophene and Tellurophene Diols (9a and
+9b, respectively) with Pyrrole: Synthesis of Unsymmetrical
+Selenatripyrrane and Telluratripyrrane (10a and 10b, respec-
+tively). Boron triﬂuoride-etherate (0.3 mmol) was added to the
+solution of diols (9a and 9b) (0.7 mmol) in degassed pyrrole (6.5
+mL), and the resulting mixture was stirred for 1 h under argon. The
+reaction was monitored by TLC. After completion of the reaction, it
+was diluted with CH2Cl2 (30 mL) and 40% NaOH (25 mL). The
+organic layer was separated and washed with water (3 × 100 mL) and
+brine (100 mL). It was dried over MgSO4 and concentrated under
+reduced pressure. The product was puriﬁed over silica gel (80:20
+hexanes/EtOAc) to give 78−91% of 10a and 10b as a yellow oil.
+
+10,10-Dimethyl-5-phenyl-16-selenatripyrromethane (10a). Yel-
+low oil (253 mg, 92% yield). Rf = 0.3 [8:2 (v/v) petroleum/
+EtOAc]. 1H NMR (400 MHz, CDCl3): δ 7.91 (br, 2H, NH), 7.27 (m,
+5H, Ph), 6.73 (s, 2H, selenophene), 6.66 (m, 2H, pyrrole), 6.12−5.92
+(m, 4H, pyrrole), 5.55 (s, 1H, CH), 1.67 (s, 6H, CH3). 13C NMR (75
+MHz, CDCl3): δ 162.1, 152.2, 143.1, 139.6, 133.3, 128.5, 1287.3,
+127.2, 124.3, 117.1, 116.8, 108.3, 107.7, 107.4, 103.5, 48.1, 39.7, 31.6,
+30.9, 29.6. HRMS (ESI-QTOF): [M + H]+ calcd for C18H23N2Se m/z
+395.1026, found m/z 395.1042. CHN analysis. Calcd for C22H22N2Se:
+C, 67.17; H, 5.64; N, 7.12. Found: C, 67.16; H, 5.38; N, 7.51.
+
+10,10-Dimethyl-5-phenyl-16-telluratripyrromethane (10b). Yel-
+low oil (266 mg, 86%). Rf = 0.3 [8:2 (v/v) petroleum/EtOAc]. 1H
+NMR (400 MHz, CDCl3): δ 7.93 (br, 2H, NH), 7.28−7.27 (m, 4H,
+Ph), 7.24−7.14 (dd, 2H, tellurophene), 6.65−6.63 (m, 2H, pyrrole),
+6.12−6.07 (m, 4H, pyrrole), 5.44 (s, 1H, CH), 1.65 (s, 6H, CH3). 13C
+NMR (75 MHz, CDCl3): δ 151.42, 143.71, 138.6, 132.21, 132.01,
+128.2, 127.6, 126.8, 125.3, 124.3, 116.11, 115.8, 107.81, 103.35, 41.04,
+39.01, 32.32. IR (KBr) ν
+max: 3351, 3332, 2901, 2853, 1563, 1389, 1322,
+1262, 1202, 1108, 1007, 952, 821, 752 cm−1. HRMS (ESI-QTOF): [M
++ H]+ calcd for C22H23N2Te m/z 445.0923, found m/z 445.0928.
+CHN analysis. Calcd for C22H22N2Te: C, 59.78; H, 5.02; N, 6.34.
+Found: C, 59.62; H, 5.12; N, 6.48.
+
+Reaction of Selenophene and Tellurophene Diols (3c and
+3d, respectively) with Selena- and Telluratripyrromethane (4a
+and 4b, respectively): Synthesis of 5,10-Porphodimethene
+5a−d (method A). To a degassed solution of tripyrrane (4a and 4b)
+(0.50 mmol) and selenophene and tellurophene diols (3c and 3d,
+·OEt2 (0.091
+respectively) (0.50 mmol) in CH2Cl2 (250 mL), BF3
+mmol) was added dropwise and the reaction mixture was stirred for 1
+h at room temperature, followed by oxidation with 2.2 equiv of DDQ
+(2,3-dichloro-5,6-dicyanobenzoquinone). After 1 h, the solvent was
+evaporated under reduced pressure to give a black crude mixture. The
+crude was puriﬁed by column chromatography on silica gel using
+CH2Cl2 as an eluent to aﬀord solid 5a−d (9−11%).
+5,5,10,10-Tetramethyl-15,20-bis(phenyl)-21,23-diselenaporpho-
+dimethene (5a). Orange solid (32.40 mg, 10% yield). Mp: 173 °C
+dec. Rf = 0.5 [5:5 (v/v) petroleum/CHCl3]. UV−vis (CHCl3): 339,
+514 nm. 1H NMR (400 MHz, CDCl3): δ 7.38−7.31 (m, 10H, C6H5),
+7.07 (s, 2H, selenophene), 6.91 (s, 2H, selenophene), 6.71−6.67 (dd,
+4H, pyrrole), 1.78 (s, 12H, CH3). 13C NMR (75 MHz, CDCl3): δ
+182.7, 158.7, 158.1, 152.5. 144.8, 137.1, 136.6, 135.3, 130.3, 128.3,
+127.6, 125.9, 124.9, 43.0, 29.6, 23.3. HRMS (ESI-QTOF): [M]+ calcd
+for C36H30N2Se2 m/z 650.073, found m/z 650.079.
+5,5,10,10-Tetramethyl-15,20-bis(phenyl)-21,23-ditelluraporpho-
+dimethene (5b). Purple solid (11 mg, 11% yield). Mp: 191 °C dec. Rf
+= 0.4 [5:5 (v/v) petroleum/CHCl3]. UV−vis (CHCl3): 356, 554 nm.
+1H NMR (400 MHz, CDCl3): δ 7.60 (s, 2H, tellurophene), 7.59 (s,
+2H, tellurophene) 7.37−7.33 (m, 10H, Ph), 6.69 (s, 4H, pyrrole),
+1.78−1.75 (d, 12H, CH3). 13C NMR (75 MHz, CDCl3): δ 181.8,
+161.2, 158.4, 152.6, 150.5, 143.5, 136.6, 135.9, 134.7, 130.2, 128.2,
+137.6, 125.4, 45.1, 34.0, 29.6. 26.6, 22.9. HRMS (ESI-QTOF): [M]+
+calcd for C36H30N2Te2 m/z 750.053, found m/z 750.051.
+</para>
+3887
+
+DOI: 10.1021/acs.joc.5b00007
+J. Org. Chem. 2015, 80, 3880−3890
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+5,5,10,10-Tetramethyl-15,20-bis(phenyl)-21-selena-23-tellura-
+porphodimethene (5c). Orange solid (31 mg, 9%). Mp: 178 °C dec.
+Rf = 0.5 [5:5 (v/v) petroleum/CHCl3]. UV−vis (CHCl3): 343, 520,
+554 nm. 1H NMR (400 MHz, CDCl3): δ 7.47 (s, 2H, tellurophene),
+7.38−7.34 (m, 10H, Ph), 6.89 (s, 2H, selenophene), 6.71−6.65 (dd,
+4H, pyrrole), 1.79−1.74 (d, 12H, CH3). 13C NMR (75 MHz, CDCl3):
+δ 183.3, 158.2, 152.6, 144.6, 136.8, 135.3, 132.9, 130.3, 128.2, 127.6,
+125.9, 45.0, 29.6. HRMS (ESI-QTOF): [M]+ calcd for C36H30N2SeTe
+m/z 700.063, found m/z 700.065.
+5,5,10,10-Tetramethyl-15,20-bis(phenyl)-21-selena-23-tellura-
+porphodimethene (5d). Purple solid (42 mg, 12%). Mp: 189 °C dec.
+Rf = 0.5 [5:5 (v/v) petroleum/CHCl3]. UV−vis (CHCl3): 359, 560
+nm. 1H NMR (400 MHz, CDCl3): δ 7.62 (s, 2H, tellurophene), 7.37−
+7.21 (m, 10H, Ph), 7.18 (s, 2H, selenophene), 6.71−6.68 (m, 4H,
+pyrrole), 1.78 (d, 12H, CH3). 13C NMR (75 MHz, CDCl3): δ 181.2,
+161.9, 158.0, 152.6, 150.7, 143.4, 136.4, 134.7, 130.2, 128.2, 128.0,
+127.6, 125.3, 43.1, 31.1, 27.7. HRMS (ESI-QTOF): [M]+ calcd for
+C36H30N2SeTe m/z 700.063, found m/z 700.061.
+
+Reaction of Selenophene and Tellurophene Diols (3e and
+3f, respectively) with Selena- and Telluratripyrromethane (4a
+and 4b, respectively): Synthesis of 5,10-Porphodimethene 5e
+and 5f (method B, isolation of porphyrinogens 7e and 7f and
+oxidation with p-chloranil). The methanolic solution (5 mL) of
+diol (3e and 3f) (2 mmol) was added to a degassed solution of
+tripyrrane (4a and 4b) (2 mmol) in CH2Cl2 (200 mL). The reaction
+was conducted at 0 °C in a dark room under argon. After 20 min, a
+·CH3OH solution (0.4 mmol) was added with a micropipette
+20% BF3
+and the reaction mixture was stirred for 1 h at 0 °C. The stirring was
+continued at room temperature for 1 h. After completion of the
+reaction, the solvent was evaporated under reduced pressure and a
+viscous colorless oil was obtained, which was puriﬁed by column
+chromatography on silica gel using CH2Cl2 as an eluent to aﬀord
+porphyrinogen (7e and 7f) as a colorless solid in 12−14% yield.
+Further, the isolated porphyrinogens were subjected to oxidation.
+
+5,5,10,10,15,20-Hexamethyl-21,23-diselenaporphyrinogen (7e).
+White solid (127 mg, 12%). Mp: 169 °C dec. Rf = 0.5 [8:2 (v/v)
+petroleum/CHCl3]. IR (KBr) ν
+max: 3351, 2854, 2821, 1584, 1352,
+1198, 969, 796 cm−1. 1H NMR (400 MHz, CDCl3): δ 7.26 (br, 2H, H,
+stereoisomer), 7.28 (br, H, NH,
+stereoisomer), 6.83 (s, H,
+selenophene, stereoisomer), 6.86−6.85 (m, H, selenophene, stereo-
+isomer), 6.86−6.88 (m, H, selenophene, stereoisomer), 5.87 (m, H,
+pyrrole, stereoisomer), 5.86 (m, H, pyrrole, stereoisomer), 4.17 (m,
+4H, CH, stereoisomer), 4.16 (m, H, CH, stereoisomer), 1.54 (s, H,
+CH3, stereoisomer), 1.56 (s, H, CH3, stereoisomer). 13C NMR (75
+MHz, CDCl3): δ 163.01, 157.5, 157.3, 156.4, 155.3, 143.87, 136.2,
+136.1, 131.89, 124.6, 124.4, 103.6, 103.2, 103.1, 102.05, 41.36, 37.0,
+36.9, 36.5, 22.5, 22.3, 22.2. HRMS (ESI-QTOF): [M]+ calcd for
+C26H30N2Se2 m/z 530.073, found m/z 530.071.
+5,5,10,10,15,20-Hexamethyl-21,23-ditelluraporphyrinogen (7f).
+White solid (175 mg, 14%). Mp: 153 °C dec. Rf = 0.5 [8:2 (v/v)
+petroleum/CHCl3]. IR (KBr) ν
+max: 3438, 2941, 2868, 1581, 1391,
+1101, 984, 751 cm−1. 1H NMR (400 MHz, CDCl3): δ 7.31 (br, 2H,
+NH), 7.249 (m, 2H, tellurophene), 7.240 (m, 2H, tellurophene,
+isomer), 7.231 (m, 2H, tellurophene), 7.230 (m, 2H, tellurophene,
+isomer), 5.85−5.83 (m, 4H, pyrrole), 5.82−5.80 (m, 4H, pyrrole,
+isomer), 4.11−4.07 (q, 1H, CH), 4.00−3.95 (q, 1H, CH) 1.63−1.61
+(d, 12H, CH3). 13C NMR (75 MHz, CDCl3): δ 163.2, 163.1, 159.0,
+157.4, 141.9, 137.6, 137.2, 131.4, 131.1, 130.4, 130.3, 102.6, 102.0,
+101.4, 101.3, 42.2, 40.4, 40.0 33.3, 31.2, 30.8, 28.8, 235, 21.9. HRMS
+(Q-TOF): m/z 630.051 (M+). HRMS (ESI-QTOF): [M]+ calcd for
+C26H30N2Te2 m/z 630.053, found m/z 630.051.
+
+To a degassed solution of porphyrinogen (7e and 7f) (1 mmol) in
+CHCl3 (10 mL) was added p-chloranil at room temperature, and the
+mixture was stirred for 10 min. The organic solvent was evaporated
+under reduced pressure and puriﬁed by column chromatography on
+silica gel using a petroleum/CHCl3 mixture as an eluent to aﬀord solid
+product 5e and 5f in 6−7% yield.
+
+5,5,10,10,15,20-Hexamethyl-21,23-diselenaporphodimethene
+(5e). Brick solid (31.50 mg, 6% yield). Rf = 0.45 [5:5 (v/v) petroleum/
+CHCl3]. UV−vis (CHCl3): 349, 529 nm. 1H NMR (400 MHz,
+
+CDCl3): δ 7.06 (s, 2H, selenophene), 6.91 (s, 2H, selenophene),
+6.72−6.67 (m, 4H, pyrrole), 3.63 (s, 6H, 15,20-meso-CH3), 1.77 (s,
+12H, CH3). HRMS (ESI-QTOF): [M]+ calcd for C26H26N2Se2 m/z
+526.043, found m/z 526.044.
+
+5,5,10,10,15,20-Hexamethyl-21,23-ditelluraporphodimethene
+(5f). Purple solid (43.50 mg, 7% yield). Rf = 0.5 [5:5 (v/v) petroleum/
+CHCl3]. UV−vis (CHCl3): 350, 544 nm. 1H NMR (400 MHz,
+CDCl3): δ 7.60 (s, 2H, tellurophene), 7.56 (s, 2H, tellurophene),
+6.70−6.62 (m, 4H, pyrrole), 3.69 (s, 6H, 15,20-meso-CH3), 1.78−1.76
+(d, 12H, CH3). HRMS (ESI-QTOF): [M]+ calcd for C26H26N2Te2 m/
+z 626.022, found m/z 626.021.
+
+Reaction of Selenophene and Tellurophene Diols (3g and
+3h, respectively) with Selena and Telluratripyrromethane (4a
+and 4b, respectively): Synthesis of 5,10-Porphodimethene (5g
+and 5h) (method B, isolation of porphyrinogens 7g and 7h
+and oxidation with a 0.1% aqueous FeCl3 solution). To a
+degassed solution of tripyrranes (4a and 4b) (1.8 mmol) in CH2Cl2
+(200 mL) was added the methanolic solution (4.2 mL) of diols (3g
+and 3h) (1.8 mmol). The reaction was conducted at 0 °C in a dark
+·CH3OH solution (0.38
+room under argon. After 20 min, a 20% BF3
+mmol) was added with a micropipette and the reaction mixture was
+stirred for 1 h. Stirring was continued for 1 h at room temperature.
+After completion of the reaction, the solvent was evaporated under
+reduced pressure to give a viscous colorless soild. The solid was
+puriﬁed by column chromatography on silica gel using a petroleum/
+CHCl3 mixture as an eluent to aﬀord porphyrinogens (7g and 7h) as a
+colorless solid in 10−11% yield.
+5,5,10,10-Tetramethyl-15,20-tetrahydro-21,23-diselenaporphyri-
+nogen (7g). White solid (99 mg, 11%). Mp: 149 °C dec. Rf = 0.4 [8:2
+(v/v) petroleum/CHCl3]. IR (KBr) ν
+max: 3441, 2941, 1682, 1432,
+1381, 1233, 1054, 798, 754, 705, 563 cm−1. 1H NMR (400 MHz,
+CDCl3): δ 7.28 (br, 2H, NH), 6.84 (s, 2H, selenophene), 6.82 (s, 2H,
+selenophene), 5.86−5.85 (m, 4H, pyrrole), 4.02 (s, 4H, CH2), 1.63 (s,
+12H, CH3). 13C NMR (75 MHz, CDCl3): δ 162.74, 151.4, 143.89,
+131.02, 130.54, 128.01, 105.64, 102.00, 41.22, 31.79, 31.6. HRMS
+(ESI-QTOF): [M]+ calcd for C24H26N2Se2 m/z 502.042, found m/z
+502.044.
+5,5,10,10-Tetramethyl-15,20-tetrahydro-21,23-ditelluraporphyri-
+nogen (7h). White solid (107.50 mg, 10%). Mp: 158 °C dec. Rf = 0.4
+[8:2 (v/v) petroleum/CHCl3]. IR (KBr) ν
+max: 3442, 2957, 2915, 1641,
+1422, 1355, 1215, 1041, 788, 741, 723, 591 cm−1. 1H NMR (400 MHz,
+CDCl3): δ 7.33 (br, 2H, NH), 7.24 (s, 2H, tellurophene), 7.22 (s, 2H,
+tellurophene), 5.82−5.80 (m, 4H, pyrrole), 3.96 (s, 4H, CH2), 1.63 (s,
+12H, CH3). 13C NMR (75 MHz, CDCl3): δ 162.6, 150.6, 143.9, 131.1,
+130.9, 106.4, 102, 41.2, 32.8. HRMS (ESI-QTOF): [M]+ calcd for
+C24H26N2Te2 m/z 602.022, found m/z 602.017.
+
+The isolated porphyrinogens were subjected to oxidation. To a
+degassed solution of porphyrinogen (7g and 7h) (1 mmol) in CHCl3
+(10 mL) was added a 0.1% aqueous FeCl3 solution at
+room
+temperature, and the mixture was stirred for 10 min. The organic
+solvent was separated and evaporated under reduced pressure. The
+crude was puriﬁed by column chromatography on silica gel using a
+petroleum/CHCl3 mixture as an eluent to obtain solid 5g and 5h in
+4−5% yield.
+
+5,5,10,10-Tetramethyl-21,23-diselenaporphodimethene (5g).
+Red solid (25 mg, 5%). Mp: 134 °C dec. Rf = 0.6 [5:5 (v/v)
+petroleum/CHCl3]. IR (KBr) ν
+max: 2864, 2851 2811, 1531, 1351,
+1321, 1184, 1031, 951, 781 cm−1. UV−vis (CHCl3): 331, 528 nm. 1H
+NMR (400 MHz, CDCl3): δ 7.103 (s, 2H, selenophene), 6.91 (s, 2H,
+selenophene), 6.71 (s, 2H, 15,20-meso-H), 6.67−6.70 (m, 4H,
+pyrrole), 1.87 (s, 12H, CH3). HRMS (ESI-QTOF): [M]+ calcd for
+C24H22N2Se2 m/z 498.011, found m/z 498.011.
+5,10-Tetramethyl-21,23-ditelluraporphodimethene (5h). Purple
+solid (24 mg, 4%). Mp: 139 °C dec. Rf = 0.7 [5:5 (v/v) petroleum/
+CHCl3]. IR (KBr) ν
+max: 2882, 2841 2801, 1504, 1366, 1358, 1154,
+1051, 961, 796 cm−1. UV−vis (CHCl3): 346, 554 nm. 1H NMR (400
+MHz, CDCl3): δ 7.68 (s, 2H,
+tellurophene), 7.32 (s, 2H,
+tellurophene), 6.73 (s, 2H, 15,20-meso-H), 6.69−6.67 (m, 4H,
+pyrrole), 1.78−1.76 (d, 12H, CH3). HRMS (ESI-QTOF): [M]+
+calcd for C24H22N2Te2 m/z 597.991, found m/z 597.994.
+</para>
+3888
+
+DOI: 10.1021/acs.joc.5b00007
+J. Org. Chem. 2015, 80, 3880−3890
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+Reaction of Selenophene and Tellurophene Diols (9a and
+9b, respectively) with Selena- and Telluratripyrromethane (4a
+and 4b, respectively): Synthesis of Porphomethene 6a and 6b.
+To a degassed solution of selena- and telluratripyrrane (4a and 4b,
+respectively) (3 × 10−4 mol) in DCM (200 mL) were added
+selenophene and tellurophene diols (9a and 9b, respectively) (3 ×
+10−4 mol), and the reaction was started by the dropwise addition of a
+catalytic amount of triﬂuoroacetic acid (0.020 mL) for 90 min, under a
+nitrogen atmosphere. The progress of the reaction was monitored by
+TLC. After completion of the reaction, DDQ (3 × 10−4 mol) was
+added and the stirring was continued in air for 10 min. The crude
+mixture was puriﬁed by silica gel column chromatography, and the
+separated product was characterized as 6a and 6b in 7−9% yield.
+
+5,5,10,10,15,15-Hexamethyl-20-phenyl-21,23-diselenaporpho-
+methene (6a). Brown solid (16 mg, 9%). Rf = 0.6 [5:5 (v/v)
+petroleum/CHCl3]. UV−vis (CHCl3): 328, 440 nm. 1H NMR (400
+MHz, CDCl3): δ 7.85 (brs, 1H, NH), 7.37−7.33 (m, 5H, Ph), 7.04
+(m, 2H, selenophene), 6.93 (s, 2H, selenophene), 6.31 (m, 2H,
+pyrrole), 6.03 (d, 2H, J = 4.2, pyrrole), 1.74 (s, 6H, CH3), 1.66 (d,
+12H, CH3). CHN analysis. Calcd for C32H32N2Se2: C, 63.79; H, 5.35;
+N, 4.65. Found: C, 63.93; H, 5.22; N, 4.21.
+
+5,5,10,10,15,15-Hexamethyl-20-phenyl-21,23-ditelluraporpho-
+methene (6b). Dark purple solid (15 mg, 7%). Rf = 0.6 [5:5 (v/v)
+petroleum/CHCl3]. UV−vis (CHCl3): 360, 564 nm. 1H NMR (400
+MHz, CDCl3): δ 8.01 (brs, 1H, NH), 7.62 (m, 2H, tellurophene), 7.50
+(s, 2H, tellurophene), 7.37−7.33 (m, 5H, Ph), 6.35 (m, 2H, pyrrole),
+6.02 (m, 2H, J = 4.2, pyrrole), 1.72−1.64 (m, 18H, CH3). HRMS (Q-
+TOF): m/z 704.215 (M+). HRMS (ESI-QTOF): [M]+ calcd for
+C32H32N2Te2 m/z 704.211, found m/z 704.213. CHN analysis. Calcd
+for C32H32N2Te2: C, 54.92; H, 4.61; N, 4.00. Found: C, 54.93; H,
+5.02; N, 4.11.
+
+Reaction of Selenophene and Tellurophene Diols (3c and
+3d, respectively) with Selena- and Telluratripyrromethane
+(10a and 10b, respectively): Synthesis of Porphotrimethene
+11a and 11b. The selenophene and tellurophene diols (3c and 3d,
+respectively) (3 × 10−4 mol) and selena- and telluratripyrrane (10a
+and 10b, respectively) (3 × 10−4 mol) were condensed in 250 mL of
+CH2Cl2 under nitrogen in the presence of a catalytic amount of
+triﬂuoroacetic acid (0.020 mL) for 2 h under an inert atmosphere.
+DDQ (3 × 10−4 mol) was added, and stirring was continued in air for
+an additional 1 h. The crude mixture was puriﬁed by silica gel column
+chromatography, and the desired 11a and 11b were collected as a
+green solid (9−11%).
+5,5′-Dimethyl-10,15,20-triphenyl-21,23-diselenaporphotrime-
+thene (11a). Green solid (19 mg, 9%). Rf = 0.6 [5:5 (v/v) petroleum/
+CHCl3]. UV−vis (CHCl3): 438, 679 nm. 1H NMR (400 MHz,
+CDCl3): δ 12.73 (br s, 1H, NH), 11.32 (br s, 1H, NH), 7.53−7.11 (m,
+19H, Ph and β-selenophene), 7.11 (br s, 1H, β-pyrrole), 6.90 (d, 1H,
+β-pyrrole), 6.67 (d, 1H, β-pyrrole), 6.28 (d, 1H, β-pyrrole), 1.91 (s,
+6H, CH3). 13C NMR (75 MHz, CDCl3): δ 180.1, 179.2, 170.6. 159.3,
+155.8, 150.2, 145.7, 137.5 134.2, 132.9, 132.1, 132.0, 131.1, 129.1,
+128.6, 122.2, 45.8, 32.1, 31.9. HRMS (ESI-QTOF): [M + H]+ calcd
+for C40H31N2Se2 m/z 699.0818, found m/z 699.0748. CHN analysis.
+Calcd for C40H30N2Se2: C, 68.97; H, 4.34; N, 4.02. Found: C, 69.03;
+H, 4.31; N, 4.03.
+5,5′-Dimethyl-10,15,20-triphenyl-21,23-ditelluraporphotrime-
+thene (11b). Green solid (26 mg, 11%). Rf = 0.6 [5:5 (v/v)
+petroleum/CHCl3]. UV−vis (CHCl3): 362, 583 nm. 1H NMR (400
+MHz, CDCl3): δ 12.20 (br s, 1H, NH), 11.20 (br s, 1H, NH), 7.64 (m,
+3H, β-tellurophene), 7.53 (d, 1H, β-tellurophene), 7.43−7.20 (m,
+15H, Ph), 7.11 (d, 1H, β-pyrrole), 6.91 (d, 1H, β-pyrrole), 6.66 (d,
+1H, β-pyrrole), 6.25 (d, 1H, β-pyrrole), 1.93 (s, 6H, CH3). 13C NMR
+(75 MHz, CDCl3): δ 180.6, 179.3, 178.8. 158.4, 155.6, 151.2, 146.5,
+136.6, 134.9, 132.7, 132.2, 130.6, 128.6, 128.2,122.4, 45.1, 34.6, 34.5.
+HRMS (ESI-QTOF): [M]+ calcd for C40H30N2Te2 m/z 798.052,
+found m/z 798.054. CHN analysis. Calcd for C40H30N2Te2: C, 60.52;
+H, 3.81; N, 3.53. Found: C, 60.61; H, 3.96; N, 3.63.
+
+Reaction of Selenophene and Tellurophene Diols (9a and
+9b, respectively) with Selena- and Telluratripyrromethane
+(10a and 10b, respectively): Synthesis of Porphodimethene
+12a and 12b. To a degassed solution of selena- and telluratripyrrane
+</para>
+Article
+<para sub=“exp”>
+(10a and 10b, respectively) (3 × 10−4 mol) in DCM (200 mL) were
+added selenophene and tellurophene diols (9a and 9b, respectively) (3
+× 10−4 mol), and the reaction was started by the dropwise addition of
+a catalytic amount of triﬂuoroacetic acid (0.020 mL) for 2 h under a
+nitrogen atmosphere. The progress of the reaction was monitored by
+TLC. After consumption of the starting material, DDQ (3 × 10−4
+mol) was added and stirring was continued in air for 10 min. The
+crude mixture was puriﬁed by silica gel column chromatography, and
+the separated red solid product was characterized as 12a and 12b (12−
+18%).
+5,5,15,15-Tetramethyl-10,20-diphenyl-21,23-diselenaporphodi-
+methene (12a). Red solid (35 mg, 18%). UV−vis (CH2Cl2): 426, 525
+nm. 1H NMR (400 MHz, CDCl3): δ 7.52 (d, 2H, β-selenophene),
+7.35 (d, 2H, β-selenophene), 7.06−7.28 (m, 10H, C6H5), 6.83 (d, 2H,
+β-pyrrole), 6.22 (d, 2H, β-pyrrole), 1.21 (s, 12H, CH3). CHN analysis.
+Calcd for C36H30N2Se2: C, 66.67; H, 4.66; N, 4.32. Found: C, 66.46;
+H, 4.42; N, 4.28.
+5,5,15,15-Tetramethyl-10,20-diphenyl-21,23-ditelluraporphodi-
+methene (12b). Red solid (18 mg, 8%). UV−vis (CH2Cl2): 443, 536
+nm. 1H NMR (400 MHz, CDCl3): δ 7.81 (d, 2H, β-tellurophene),
+7.74 (d, 2H, β-tellurophene), 7.08−7.26 (m, 10H, C6H5), 6.85 (d, 2H,
+β-pyrrole), 6.26 (d, 2H, β-pyrrole), 1.23 (s, 12H, CH3). CHN analysis.
+Calcd for C36H30N2Te2: C, 57.97; H, 4.05; N, 3.76. Found: C, 57.84;
+H, 4.18; N, 3.86.
+
+General Procedure for the Sensing of Hg2+ with Calixphyr-
+ins. All the experiments were conducted at an ambient temperature of
+25 °C. For every experiment, a fresh solution was prepared. The
+solution of calixphyrins in acetonitrile (2 mL) was taken in a
+spectrophotometer cuvette, and the absorption spectrum was
+recorded. A 20 μL stock solution of Hg(ClO4)2 with a similar
+concentration was added to the cuvette and mixed well, and the
+absorption spectrum was recorded. Similarly, a mercury solution was
+added to the cuvette until the absorption spectrum began to change. In
+addition, the binding constant was calculated by using the Benesi−
+Hilderbrand equation.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+1H NMR, 13C NMR, HRMS, and UV−vis spectra of all new
+compounds and UV−vis and ﬂuorescence spectra of Hg2+
+titration with newer calix[4]phyrins. This material is available
+free of charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: smschauhan@chemistry.du.ac.in.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This research was supported by the DST New Delhi, DU-DST
+Purse Grant Delhi, and University of Delhi. S.A., K.K.Y., and
+S.B. are also thankful to UGC New Delhi for their senior
+research fellowship.
+
+■ REFERENCES
+
+(1) (a) Sessler, J. L.; Zimmerman, R. S.; Bucher, C.; Kral, V.;
+Andrioletti, B. Pure Appl. Chem. 2001, 73, 1041. (b) Woodward, R. B.
+Angew. Chem. 1960, 72, 651. (c) Woodward, R. B.; Ayer, W. A.;
+Beaton, J. M.; Bickelhaupt, F.; Bonnett, R.; Buchschacher, P.; Closs, G.
+L.; Dutler, H.; Hannah, J.; Hauck, F. P.; Ito, S.; Langemann, A.;
+LeGoff, E.; Leimgruber, W.; Lwowski, W.; Sauer, J.; Valenta, Z.; Voltz,
+H. J. Am. Chem. Soc. 1960, 82, 3800.
+(2) (a) Bucher, C.; Seidel, D.; Lynch, V.; Kral, V.; Sessler, J. L. Org.
+Lett. 2000, 2, 3103. (b) Bernatkova, M.; Andrioletti, B.; Kral, V.; Rose,
+E.; Vaissermann, J. J. Org. Chem. 2004, 69, 8140.
+
+3889
+
+DOI: 10.1021/acs.joc.5b00007
+J. Org. Chem. 2015, 80, 3880−3890
+
+The Journal of Organic Chemistry
+
+(3) (a) Pistner, A. J.; Lutterman, D. A.; Ghidiu, M. J.; Ma, Y.-Z.;
+Rosenthal, J. J. Am. Chem. Soc. 2013, 135, 6601. (b) Bruce, A. M.;
+Weyburne, E. S.; Engle, J. T.; Ziegler, C. J.; Geier, G. R. J. Org. Chem.
+2014, 79, 5664.
+(4) (a) Karthik, G.; Krushna, P. V.; Srinivasan, A.; Chandrashekar, T.
+K. J. Org. Chem. 2013, 78, 8496. (b) Salini, P. S.; Thomas, A. P.;
+Sabarinathan, R.; Ramakrishnan, S.; Sreedevi, K. C. G.; Reddy, M. L.
+P.; Srinivasan, A. Chem.Eur. J. 2011, 17, 6598.
+(5) (a) Sessler, J. L.; Camiolo, S.; Gale, P. A. Coord. Chem. Rev. 2003,
+240, 17. (b) Chang, K. C.; Minami, T.; Koutnik, P.; Savechenkov, P.
+Y.; Liu, Y.; Anzenbacher, P., Jr. J. Am. Chem. Soc. 2014, 136, 1520.
+(c) Finnigan, E. M.; Giordani, S.; Senge, M. O.; McCabe, T. J. Phys.
+Chem. A 2010, 114, 2464. (d) Jha, S. C.; Lorch, M.; Lewis, R. A.;
+Archibald, S. J.; Boyle, R. W. Org. Biomol. Chem. 2007, 5, 1970.
+(6) (a) Holaday, M. G. D.; Tarafdar, G.; Kumar, A.; Reddy, M. L. P.;
+Srinivasan, A. Dalton Trans. 2014, 43, 7699. (b) Matano, Y.; Fujita, M.;
+Miyajima, T.; Imahori, H. Organometallics 2009, 28, 6213. (c) Matano,
+Y.; Fujita, M.; Miyajima, T.; Imahori, H. Phosphorus, Sulfur Silicon
+Relat. Elem. 2010, 185, 1098.
+(7) Bachmann, J.; Hodgkiss, J. M.; Young, E. R.; Nocera, D. G. Inorg.
+Chem. 2007, 46, 607.
+(8) Arciero, D. M.; Hooper, A. B. Biochem. Soc. Trans. 1998, 26, 385.
+(9) (a) Burns, D. H.; Shi, D. C.; Lash, T. D. Chem. Commun. 2000,
+299. (b) Lash, T. D.; Gandhi, V. J. Org. Chem. 2000, 65, 8020.
+(10) (a) Yip, K. W.; Zhang, Z.; Nakatsugawa, N. S.; Huang, J. W.; Vu,
+N. M.; Chiang, Y. K.; Lin, C. L.; Kwan, J. Y. Y.; Yue, S.; Jitkova, Y.; To,
+T.; Zahedi, P.; Pai, E. F.; Schimmer, A. D.; Lovell, J. F.; Sessler, J. L.;
+Liu, F. F. PLoS One 2014, 9, e89889. (b) Phillips, J. D.; Bergonia, H.
+A.; Reilly, C. A.; Franklin, M. R.; Kushner, J. P. Proc. Natl. Acad. Sci.
+U.S.A. 2007, 104, 5079. (c) Danton, M.; Lim, C. K. Biomed.
+Chromatogr. 2007, 21, 661.
+(11) Sergeeva, N. N.; Shaker, Y. M.; Finnigam, E. M.; McCabe, T.;
+Senge, M. O. Tetrahedron 2007, 63, 12454.
+(12) Bonomo, L.; Solari, E.; Scopelliti, R.; Latronico, M.; Floriani, C.
+Chem. Commun. 1999, 2227.
+(13) (a) Serra, A. C.; Gonsalves, A. M. R. Tetrahedron Lett. 2010, 51,
+4192. (b) Nascimento, B. F. O.; Gonsalves, A. M. R.; Pineiro, M. Inorg.
+Chem. Commun. 2010, 13, 395.
+(14) Bergonia, H. A.; Phillips, J. D.; Kushner, J. P. Anal. Biochem.
+2009, 384, 74.
+(15) (a) Dolensky, B.; Kroulik, J.; Kral, V.; Sessler, J. L.; Dvorakova,
+H.; Bour, P.; Bernatkova, M.; Bucher, C.; Lynch, V. J. Am. Chem. Soc.
+2004, 126, 13714. (b) Pistner, A. J.; Lutterman, D. A.; Ghidiu, M. J.;
+Walker, E.; Yap, G. P. A.; Rosenthal, J. J. Phys. Chem. C 2014, 118,
+14124. (c) Dehaen, W. Top. Heterocycl. Chem. 2010, 24, 75.
+(16) (a) Matano, Y.; Miyajima, T.; Nakabuchi, T.; Imahori, H.; Ochi,
+Y.; Sakaki, S. J. Am. Chem. Soc. 2006, 128, 11760. (b) Ochi, N.; Nakao,
+Y.; Sato, H.; Matano, Y.; Imahori, H.; Sakaki, S. J. Am. Chem. Soc.
+2009, 131, 10955. (c) Matano, Y.; Imahori, H. Acc. Chem. Res. 2009,
+42, 1193. (d) Matano, Y.; Miyajima, T.; Ochi, N.; Nakao, Y.; Sakaki, S.;
+Imahori, H. J. Org. Chem. 2008, 73, 5139. (e) Beyzavi, M. H.; Lentz,
+J. Org. Chem. 2013, 269.
+D.; Reissig, H. U.; Wiehe, A. Eur.
+(f) Ganapathi, E.; Chatterjee, T.; Ravikanth, M. Dalton Trans. 2015,
+44, 2763.
+(17) (a) Gupta, I.; Frohlich, R.; Ravikanth, M. Eur. J. Org. Chem.
+2008, 1884. (b) Gupta, I.; Frohlich, R.; Ravikanth, M. Chem. Commun.
+2006, 3726.
+(18) (a) Abe, M.; Detty, M. R.; Gerlits, O. O.; Sukumaran, D. K.
+Organometallics 2004, 23, 4513. (b) Pacholska, E.; Grazynski, L. L.;
+Ciunik, Z. Angew. Chem., Int. Ed. 2001, 40, 4466. (c) Abe, M.; Hilmey,
+D. G.; Stilts, C. E.; Sukumaran, D. K.; Detty, M. R. Organometallics
+2002, 21, 2986. (d) Sathyamoorthy, B.; Axelrod, A.; Farwell, V.;
+Bennett, S. M.; Calitree, B. D.; Benedict, J. B.; Sukumaran, D. K.;
+Detty, M. R. Organometallics 2010, 29, 3431.
+(19) Ulman, A.; Manassen, J.; Frolow, F.; Rabinovich, D. Tetrahedron
+Lett. 1978, 19, 167.
+(20) Ahmad, S.; Yadav, K. K.; Singh, S. J.; Chauhan, S. M. S. RSC
+Adv. 2014, 4, 3171.
+
+Article
+
+(21) (a) Siemsen, P.; Livingston, R. C.; Diederich, F. Angew. Chem.,
+Int. Ed. 2000, 39, 2632. (b) Glaser, C. Ber. Dtsch. Chem. Ges. 1869, 2,
+422. (c) Glaser, C. Ann. Chem. Pharm. 1870, 154, 137. (d) Hay, A. S. J.
+Org. Chem. 1962, 27, 3320.
+(22) (a) Yin, W.; He, C.; Chen, M.; Zhang, H.; Lei, A. Org. Lett.
+2009, 11, 709. (b) Shi, W.; Lei, A. Tetrahedron Lett. 2014, 55, 2763.
+(c) Kurita, T.; Abe, M.; Maegawa, T.; Monguchi, Y.; Sajiki, H. Synlett
+2007, 2521. (d) McCormick, T. M.; Jahnke, A. A.; Lough, A. J.;
+Seferos, D. S. J. Am. Chem. Soc. 2012, 134, 3542.
+(23) (a) Jang, Y. S.; Kim, H. J.; Lee, P. H.; Lee, C. H. Tetrahedron
+Lett. 2000, 41, 2919. (b) Arumugam, N.; Ka, J. W.; Lee, C. H.
+Tetrahedron 2001, 57, 7323. (c) Kral, V.; Sessler, J. L.; Zimmerman, R.
+S.; Seidel, D.; Lynch, V.; Andrioletti, B. Angew. Chem., Int. Ed. 2000,
+39, 1055.
+(24) (a) Ahammed, S.; Kundu, D.; Ranu, B. C. J. Org. Chem. 2014,
+79, 7391. (b) Peng, H.; Xi, Y.; Ronaghi, N.; Dong, B.; Akhmedov, N.
+G.; Shi, X. J. Am. Chem. Soc. 2014, 136, 13174.
+(25) (a) Zou, W.; Filatov, M.; Atwood, D.; Cremer, D. Inorg. Chem.
+2013, 52, 2497. (b) Namor, A. F. D. D.; Abbas, I. J. Phys. Chem. B
+2007, 111, 5803. (c) Kumar, A.; Singh, J. D. Inorg. Chem. 2012, 51,
+772. (d) Parthiban, C.; Manivannan, R.; Elango, K. P. Dalton Trans.
+2015, 44, 3259.
+(26) Benesi, H. A.; Hildebrand, J. H. J. Am. Chem. Soc. 1949, 71,
+2703.
+(27) (a) Tamayo, A.; Lodeiro, C.; Escriche, L.; Casabo, J.; Covelo, B.;
+Gonzalez, P. Inorg. Chem. 2005, 44, 8105. (b) Fang, Z.; Pu, K.-Y.; Liu,
+B. Macromolecules 2008, 41, 8380.
+(28) Wu, W.; Gao, Y.; Jiang, H.; Huang, Y. J. Org. Chem. 2013, 78,
+4580.
+
+3890
+
+DOI: 10.1021/acs.joc.5b00007
+J. Org. Chem. 2015, 80, 3880−3890
+
+

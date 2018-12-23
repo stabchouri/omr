@@ -1,0 +1,1089 @@
+Article
+
+pubs.acs.org/joc
+
+A General Method for Interconversion of Boronic Acid Protecting
+Groups: Triﬂuoroborates as Common Intermediates
+Quentin I. Churches,
+†
+School of Chemistry and Bio21 Molecular Science and Biotechnology Institute, University of Melbourne, Parkville, VIC 3010,
+Australia
+‡
+CSIRO Materials Science and Engineering, Clayton, VIC 3168, Australia
+*S Supporting Information
+
+and Craig A. Hutton*,†
+
+Joel F. Hooper,
+
+†,‡
+
+†
+
+ABSTRACT: We have developed a general protocol
+for the
+interconversion of diverse protected boronic acids, via intermediate
+organotriﬂuoroborates. N-Methyliminodiacetyl boronates, which
+have been hitherto resistant to direct conversion to triﬂuoroborates,
+have been shown to undergo ﬂuorolysis at elevated temperatures.
+Subsequent solvolysis of organotriﬂuoroborates in the presence of trimethylsilyl chloride and a wide range of bis-nucleophiles
+enables the generation of a variety of protected boronic acids.
+
+■ INTRODUCTION
+
+The utility of organoboron compounds in organic synthesis has
+ﬂourished in recent years,1 particularly through developments
+in the Suzuki−Miyaura coupling. Boronic acids are also
+extremely valuable substrates
+for other metal-catalyzed
+reactions,2 the Petasis reaction,3 and the iterative synthesis of
+polyene natural products.4,5a
+
+Free boronic acids are often unstable, diﬃcult to handle, or
+are prone to dehydration to give the corresponding
+boroxine.1,4d Bulky boronate esters such as pinacolyl and
+hexylene glycolyl boronate esters have been used extensively as
+“blocking” groups that reduce the reactivity of the organo-
+boronate through steric eﬀects.5b More recently,
+true
+“protecting” groups for boronic acids have been introduced
+that modulate reactivity through both steric and electronic
+eﬀects. Suginome and co-workers developed the diaminonaph-
+thalenyl (dan) group that diminishes the reactivity of an
+organoboron compound toward metal-catalyzed cross-cou-
+plings.6 Burke and co-workers developed the N-methylimino-
+diacetyl (mida) group as a boronic acid protecting group that
+similarly renders the organoboron unreactive toward cross-
+coupling reactions.4 Both the B(dan) and B(mida) protecting
+groups require removal to regenerate the boronic acid to re-
+establish reactivity of
+the organoboron in cross-coupling
+reactions.
+
+To function as useful protecting groups,
+
+the B(dan),
+B(mida), and other boronate systems must be able to be
+introduced and removed under mild conditions, preferably in
+an orthogonal manner. The B(mida) and B(dan) protecting
+groups employ orthogonal deprotection strategies, mild base4e
+and acid,6c respectively. However, problems frequently arise in
+the introduction of
+these protecting groups, such as the
+requirement of high temperatures and long reaction times,4c the
+generation of highly reactive dibromoborane intermediates,4e
+and low yields or conversion eﬃciency.
+
+Organotriﬂuoroborate salts, extensively investigated by
+Molander and co-workers,7 have also been used as protecting
+groups for boronic acids. Organotriﬂuoroborates are generally
+easily handled, stable crystalline solids. In the absence of protic
+solvents, they have limited reactivity, though they are readily
+hydrolyzed to the reactive boronic acid.8
+
+We have previously shown that
+
+triﬂuoroborates can be
+hydrolyzed to the corresponding boronic acid with TMS-Cl in
+the presence of water.9 We envisaged that elaboration of the
+TMS-Cl promoted solvolysis of triﬂuoroborates, incorporating
+various bis-nucleophiles in place of water, would enable the
+generation of a variety of protected boronic acids. Together
+with a general method for the generation of triﬂuoroborates
+from protected boronic acid derivatives, this process would
+enable the facile interconversion of virtually any combination of
+boronic acid protecting groups. Such a process would allow the
+protection of boronic acids under a wide range of reaction
+conditions such that they could be carried through multistep
+processes, a frequent limitation of the use of organoborons in
+synthesis.4g
+
+To establish the generality of this interconversion process, we
+needed to establish the generality of both the preparation of
+triﬂuoroborates from protected boronic acids and, subse-
+quently,
+the preparation of
+protected boronic acids from triﬂuoroborates.
+
+the reverse process,
+
+that of
+
+■ RESULTS AND DISCUSSION
+R−BXY to R−BF3K. Organotriﬂuoroborates are readily
+prepared from boronic acids by treatment with KHF2,10 or KF/
+tartaric acid.11 The use of KHF2 also enables the conversion of
+boronate esters,9,12,13 boroxines,7d trisalkoxyboronates,14 and
+diaminoboranes15 to triﬂuoroborates and thus appears to be
+quite general. However, no examples of the direct conversion of
+
+Received:
+Published: May 20, 2015
+
+January 26, 2015
+
+© 2015 American Chemical Society
+
+5428
+
+DOI: 10.1021/acs.joc.5b00182
+J. Org. Chem. 2015, 80, 5428−5435
+
+The Journal of Organic Chemistry
+
+N-based boron protecting groups, such as the important
+B(mida) or B(dan) groups,
+to triﬂuoroborates have been
+reported. B(mida) groups have been converted to triﬂuor-
+oborates
+indirectly, via the corresponding boronic acid
+intermediates.16 Several studies of compounds possessing a
+B(dan) group and a second boronate group suggest that the
+B(dan) group is resistant to conversion to triﬂuoroborates
+under these conditions,17 but this has not been extensively
+investigated. Accordingly, we sought to determine whether the
+KHF2 method was suitable for the preparation of triﬂuor-
+oborates from B(mida), B(dan), and other N-based boronate
+derivatives.
+<para sub="scope">
+Phenyl diethanolamine-boronate 1b was converted to
+PhBF3K 1a in good yield under standard conditions (Table
+1, entry 1). However, the other N-based boronate derivatives
+</para>
+Table 1. Conversion of B−N Boronates to Triﬂuoroboratesa
+
+Article
+<para sub="scope">
+rates was investigated. In general, conversion of the B(mida)
+compounds to the corresponding triﬂuoroborates proceeded in
+good yield, with minimal steric and electronic eﬀects evident
+(see Table 2). The conversion of the pyridyl-2-B(mida) 7c to
+the pyridyl-2-triﬂuoroborate 7a was achieved at room temper-
+ature and avoided decomposition of the product that occurred
+at 70 °C (Table 2, entry 6).
+</para>
+R−BF3K to R−BXY. With the conversion of most common
+boronate protecting groups to triﬂuoroborates shown to be
+
+Table 2. Conversion of B(mida) Boronates to
+Triﬂuoroboratesa
+
+aConditions: 4.5 M KHF2, MeOH, rt, 1 h. bProduct contaminated
+with diethanolamine·HF. cIsolated yield upon heating in MeOH at 70
+°C.
+<para sub="scope">
+were considerably less reactive. The anthranilamide (aam)
+boronate18 1e was only partially converted to the correspond-
+ing triﬂuoroborate at room temperature in 1 h. Nevertheless,
+heating the reaction to 70 °C did result in complete conversion
+of PhB(aam) 1e to the triﬂuoroborate 1a (Table 1, entry 4,
+72% isolated yield). PhB(mida) 1c was unreactive to KHF2 at
+room temperature but similarly underwent complete con-
+version to 1a at elevated temperature (Table 1, entry 2).
+</para>
+<para sub="scope">
+PhB(dan) 1d was unreactive to KHF2 treatment, even at
+elevated temperature (Table 1, entry 3). These results are in
+accordance with the hydrolytic stabilities determined for
+protected boronic acid derivatives determined by Suginome
+and co-workers18 and indicate that the conversion of boronate
+derivatives to triﬂuoroborates with KHF2 appears general for all
+systems except B−(sp2)N,−(sp2)N systems.
+</para>
+<para sub="scope">
+With the ﬁnding that PhB(mida) 1c could be converted to
+the corresponding triﬂuoroborate 1a with KHF2 at elevated
+temperature, the transformation of a range of aryl-, vinyl-, and
+alkynyl-B(mida) compounds to the corresponding triﬂuorobo-
+</para>
+aStandard conditions: 4.5 M KHF2, MeOH, 70 °C, 1−1.5 h. brt, 16 h,
+approximate yield (contaminated with MIDA; see ref 7e).
+
+5429
+
+DOI: 10.1021/acs.joc.5b00182
+J. Org. Chem. 2015, 80, 5428−5435
+
+The Journal of Organic Chemistry
+
+Article
+
+readily achievable, we next sought to investigate the generality
+of the complementary conversion of triﬂuoroborates to a range
+of boronate derivatives.
+
+We have previously developed a method for the hydrolysis of
+triﬂuoroborates to boronic acids by treatment with TMSCl/
+H2O.9 Molander et al. reported a closely related method
+employing silica gel as the ﬂuorophile.19 While the conversion
+of triﬂuoroborates to organoboron derivatives via the boronic
+acid derivatives20 and dichloroboranes21 has been demon-
+strated, the direct conversion of triﬂuoroborates to organo-
+borons other than the boronic acid is rare and is limited to
+elaboration of the TMS-Cl method with bis-silyl ethers22 or
+esters.23 Molander has used silica gel in the presence of an
+alcohol
+to generate boronate esters from triﬂuoroborates,
+though this transformation possibly proceeds via hydrolysis to
+boronic acid followed by in situ boronate ester formation.19
+<para sub=“opt”>
+Our initial investigations focused on the direct conversion of
+triﬂuoroborates to boronate esters. Conversion of potassium
+phenyltriﬂuoroborate 1a to the corresponding hexylene glycol
+boronate 1f was initially optimized, with variation of
+the
+amount of diol and TMS-Cl and the type of base employed.
+Reasonable yields were obtained under a variety of conditions,
+with optimum yields for this transformation obtained with a
+slight excess of diol and 3 equiv of both TMS-Cl and K2CO3
+(Table 3). This direct method of conversion of triﬂuoroborates
+</para>
+Table 3. Optimization of Diol Boronate Formation
+
+equiv of diol
+
+equiv of
+TMS-Cl
+
+1.1
+1.1
+1.1
+1.1
+2
+3
+1.2
+1.2
+1.2
+1.2
+
+1.1
+1.1
+1.1
+1.1
+1.1
+1.1
+1
+2
+3
+3
+
+entry
+1
+2
+3
+4
+6
+7
+8
+9
+10
+11
+
+base
+Et3N
+Et3N
+Et3N
+Et3N
+Et3N
+Et3N
+Et3N
+Et3N
+Et3N
+K2CO3
+
+equiv of base
+
+1
+2
+3
+4
+3
+3
+3
+3
+3
+3
+
+yield
+(%)
+40
+59
+67
+41
+65
+66
+55
+75
+88
+93
+<para sub=“opt”>
+to boronate esters with a diol and TMS-Cl is simpler than the
+related reaction of diol bis-silyl ethers, as prior preparation of
+the diol bis-silyl ether is not required. The use of pinacol or
+pinanediol under similar conditions (2 equiv TMS-Cl and
+K2CO3) gave the corresponding boronate esters 1g and 1h in
+excellent yields (Table 4, entries 1 and 2).
+</para>
+<para sub="scope">
+investigated.
+
+The conversion of phenyltriﬂuoroborate 1a to the N-based
+boronate derivatives was next
+Incorporating
+diaminonaphthalene as the bis-nucleophile generated the
+PhB(dan) derivative 1d in excellent yield (Table 4, entry 3).
+The use of anthranilamide, MIDA, and diethanolamine also
+proceeded in good yield to generate the corresponding
+boronate derivatives 1e, 1c, and 1b (Table 4, entries 4−6).
+The use of MIDA with base (K2CO3) provided the PhB(mida)
+derivative 1c in greater yield than employing the MIDA
+disodium salt (Table 4, entry 5).
+</para>
+<para sub="scope">
+To probe further the scope of the boronate interconversion,
+a variety of alkenyl− and alkyl−boron species were investigated.
+</para>
+Table 4. Conversion of Triﬂuoroborates to Other Boronate
+Derivativesa
+
+aStandard conditions: nucleophile (1.1 equiv), K2CO3 (2 equiv),
+TMS-Cl (2 equiv), CH3CN, rt, 2 h. bDMF, rt, 18 h. cMIDA disodium
+salt used in place of MIDA/K2CO3.
+<para sub="scope">
+The parent vinyltriﬂuoroborate 12a was converted to the
+corresponding diethanolamine boronate 12b and B(mida)
+derivative 12c in reasonable yield (Table 5, entries 1 and 2).
+Although a number of protected vinylboronic acid derivatives
+are commercially available, vinyltriﬂuoroborate 12a is consid-
+erably less expensive per mole than all others.24 Similarly,
+propenyl triﬂuoroborate 13a was converted to the correspond-
+ing B(mida) derivative 13c in excellent yield (entry 3).
+Styrenyltriﬂuoroborate 9a was converted to the corresponding
+B(pin) and B(dan) derivatives, 9g and 9d, in excellent yield
+(entries 4 and 5). Hexyl- and cyclopropyltriﬂuoroborates, 15a
+and 16a, were converted to the corresponding volatile B(pin)
+derivatives 15g and 16g (entries 6 and 7). Allyl- and
+benzofuran-2-yltriﬂuoroborates 11a and 17a were converted
+to the corresponding B(mida) compounds 11c and 17c in
+reasonable to excellent yields (entries 8 and 9).
+</para>
+<para sub="scope">
+Orthogonal
+
+Interconversion of Bisboronates. Given
+the diﬀerential reactivity of the B(mida), B(aam), and B(dan)
+groups, we next sought to exploit these diﬀerences in the
+orthogonal interconversion of diﬀerentially protected bisboro-
+nate systems. Accordingly,
+the vinyl-B(pin)/
+B(mida) bisboronate 18 with KHF2 yielded selective ﬂuorolysis
+of
+the pinacol boronate to give the vinyl-BF3K/B(mida)
+bisboronate 19 in 63% yield (Scheme 1), highlighting the
+stability of the B(mida) group and the orthogonal nature of the
+B(pin) and B(mida) protecting groups under standard KHF2
+conditions. Further, addition of Bu4NOH enabled isolation of
+the more soluble tetrabutylammonium triﬂuoroborate salt.
+
+treatment of
+</para>
+5430
+
+DOI: 10.1021/acs.joc.5b00182
+J. Org. Chem. 2015, 80, 5428−5435
+
+The Journal of Organic Chemistry
+
+Article
+
+Table 5. Scope of Boronate Interconversions
+
+Scheme 1. Orthogonal Interconversion of Bisboronates
+
+aStandard conditions: nucleophile (1−1.2 equiv), K2CO3 (1−1.2
+rt, 2−18 h. bQuantitative
+equiv), TMS-Cl (3 equiv), CH3CN,
+conversion by TLC; some loss on isolation due to volatility.25
+<para sub="scope">
+Similarly, the aryl-B(pin)/B(mida) and aryl-B(pin)/B(dan) bis-
+boronates, 24 and 20, respectively, also underwent selective
+conversion of the B(pin) group to generate the corresponding
+monotriﬂuoroborates 23 and 21 with retention of the B(mida)
+and B(dan) protecting groups,
+respectively (Scheme 1).
+Pleasingly, conditions were also found that enabled selective
+ﬂuorolysis of the B(aam) group in the B(aam)/B(mida) bis-
+boronate 22, generating the aryl-BF3K/B(mida) bisboronate 23
+in reasonable yield, despite the B(aam) group being only
+slightly more reactive under ﬂuorolysis conditions than the
+B(mida) group. Lastly, following conversion of the aryl-B(pin)/
+B(mida) bis-boronate 24 to the corresponding monotriﬂuor-
+oborate 23, subsequent treatment with TMS-Cl in the presence
+of anthranilamide gave the corresponding B(aam)/B(mida) bis-
+
+boronate 22 in excellent yield, exemplifying the use of this
+procedure for the orthogonal
+interconversion of boronate
+protecting groups.
+</para>
+■ CONCLUSIONS
+
+In summary, we have developed a general protocol for the
+interconversion of diverse protected boronic acids, via
+intermediate organotriﬂuoroborates. B−N-containing boronate
+derivatives are resistant to direct conversion to triﬂuoroborates,
+though B(aam) and B(mida) compounds undergo the
+conversion at elevated temperatures. Importantly, this allows
+the selective conversion of diﬀerentially protected bisboronates
+to monotriﬂuoroborates. Subsequent solvolysis of organo-
+triﬂuoroborates in the presence of TMS-Cl and a wide range
+of bis-nucleophiles allows the general conversion to a wide
+variety of protected boronic acids.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Information. 1H NMR spectra were recorded at 400 or
+500 MHz. Residual solvent peaks were used as internal references:
+chloroform (δ 7.26 ppm), methanol-d3 (δ 3.31 ppm), acetone-d5 (δ
+2.05 ppm), and DMSO-d5 (δ 2.50 ppm). 13C NMR spectra were
+recorded at 100 or 125 MHz, with sovent used as an internal
+reference: chloroform-d (δ 77.00), acetone-d6 (δ 30.83 ppm),
+methanol-d4 (δ 49.00 ppm), and DMSO-d6 (δ 39.52). IR spectra
+were obtained as thin ﬁlms. Mass spectra were recorded on an FT-ICR
+</para>
+5431
+
+DOI: 10.1021/acs.joc.5b00182
+J. Org. Chem. 2015, 80, 5428−5435
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+mass spectrometer by electrospray ionization in the negative mode,
+unless otherwise noted.
+
+General Procedure 1: Conversion of B(mida) Boronates to
+Triﬂuoroborates. To a stirred solution of the B(mida) derivative in
+methanol (40 mL/mmol) was added aq KHF2 solution (3−4 equiv,
+4.5 M solution) and the mixture was stirred at 70 °C (or at room
+temperature; see the tables) for 1−2 h. The solvent was removed
+under reduced pressure and the crude residue was thoroughly dried
+under high vacuum. The solid was extracted with hot acetone and
+ﬁltered and the solvent evaporated. The crude product was
+recrystallized (acetone/hexanes) to yield the corresponding potassium
+triﬂuoroborate derivative.
+
+Potassium Phenyltriﬂuoroborate (1a). The title compound was
+prepared from PhB(mida) derivative 1c (70 mg, 0.3 mmol) and aq
+KHF2 solution (0.2 mL, 0.9 mmol, 4.5 M) at 70 °C for 1 h, according
+to general procedure 1. The product was puriﬁed by recrystallization
+(acetone/hexanes), yielding a white solid (50.1 mg, 90%): 1H NMR
+(400 MHz, acetone-d6) δ 7.45 (d, J = 7.2 Hz, 2H), 7.17−6.71 (m,
+3H).11
+
+Potassium 2-Tolyltriﬂuoroborate (2a). The title compound was
+prepared from o-tolyl-B(mida) derivative 2c (74 mg, 0.3 mmol) and aq
+KHF2 solution (0.2 mL, 0.9 mmol, 4.5 M) according to general
+procedure 1 at 70 °C for 90 min. The crude residue was extracted with
+hot acetone, the mixture was ﬁltered, the ﬁltrate was concentrated in
+vacuo, and the crude residue was recrystallized from a minimal amount
+of hot acetone and petroleum spirits,
+to aﬀord the potassium
+triﬂuoroborate as a white powder (42 mg, 71%): 1H NMR (400
+MHz, acetone-d6) δ 7.48 (d, J = 6.7 Hz, 1H), 7.05−6.75 (m, 3H), 2.40
+(s, 3H); 13C NMR (100 MHz, acetone-d6) δ 141.8, 132.8, 129.1,
+126.2, 124.2, 22.1 (carbon bearing boron substituent not observed).26
+Potassium 4-Iodophenyltriﬂuoroborate (3a). The title compound
+was prepared from 4-iodophenyl-B(mida) derivative 3c (108 mg, 0.3
+mmol) and aq KHF2 solution (0.2 mL, 0.9 mmol, 4.5 M) according to
+general procedure 1 at 70 °C for 1 h. The product was puriﬁed by
+recrystallization (acetone/hexanes), yielding a white solid (82 mg,
+88%): 1H NMR (400 MHz, acetone-d6) δ 7.34 (ddd, J = 7.9, 1.2, 0.7
+Hz, 2H), 7.14 (d, J = 7.9 Hz, 2H); 13C NMR (100 MHz, acetone-d6) δ
+135.3, 134.1, 90.9 (carbon bearing boron substituent not observed).27
+Potassium 4-Methoxyphenyltriﬂuoroborate (4a). The title com-
+pound was prepared from 4-methoxyphenyl-B(mida) derivative 4c (79
+mg, 0.3 mmol) and aq KHF2 solution (0.2 mL, 0.9 mmol, 4.5 M)
+according to general procedure 1 at 70 °C for 60 min. The crude
+residue was extracted with hot acetone, the mixture was ﬁltered, the
+ﬁltrate was concentrated in vacuo, and the crude residue was
+recrystallized from a minimal amount of hot acetone and pet spirits,
+to aﬀord a white solid (56 mg, 87%): 1H NMR (400 MHz, acetone-d6)
+δ 7.57−7.21 (m, 2H), 6.78−6.49 (m, 2H), 3.72 (s, 3H); 13C NMR
+(100 MHz, acetone-d6) δ 158.8, 133.4, 112.7, 55.0 (carbon bearing
+boron substituent not observed).26
+
+Potassium 3-Cyanophenyltriﬂuoroborate (5a). The title com-
+pound was prepared from 3-cyanophenyl-B(mida) derivative 5c (77
+mg, 0.3 mmol) and aq KHF2 solution (0.2 mL, 0.9 mmol, 4.5 M)
+according to general procedure 1 at 70 °C for 60 min. The crude
+residue was extracted with hot acetone, the mixture was ﬁltered, the
+ﬁltrate was concentrated in vacuo, and the crude residue was
+recrystallized from a minimal amount of hot acetone and petroleum
+spirits, to aﬀord a white solid (56 mg, 87%): 1H NMR (400 MHz,
+acetone-d6) δ 7.72 (dt, J = 4.4, 2.3 Hz, 2H), 7.39 (dt, J = 7.6, 1.6 Hz,
+1H), 7.33−7.16 (m, 1H); 13C NMR (100 MHz, acetone-d6) δ 137.0
+(q, J = 1.8 Hz), 136.0 (q, J = 1.9 Hz), 129.6, 128.00, 121.0, 111.0.7c
+Potassium 5-Benzofurazantriﬂuoroborate (6a). The title com-
+pound was prepared from 5-benzofurazan-B(mida) derivative 6c (82.5
+mg, 0.3 mmol) and aq KHF2 solution (0.2 mL, 0.9 mmol, 4.5 M)
+according to general procedure 1 at 70 °C for 60 min. The crude
+residue was extracted with hot acetone, the mixture was ﬁltered, the
+ﬁltrate was concentrated in vacuo, and the crude residue was
+recrystallized from a minimal amount of hot acetone and petroleum
+spirits, to aﬀord a white powder (50 mg, 80%): 1H NMR (400 MHz,
+acetone-d6) δ 7.72 (dt, J = 4.4, 2.3 Hz, 2H), 7.39 (dt, J = 7.6, 1.6 Hz,
+1H), 7.25 (m, 1H); 13C NMR (100 MHz, acetone-d6) δ 150.5, 150.1,
+
+138.7, 115.9 (q, J = 2.8 Hz), 113.2. Spectral data matched that of an
+authentic commercial sample.
+
+Potassium Pyridine-2-triﬂuoroborate (7a). To a stirred solution of
+pyridyl-2-B(mida) derivative 7c (140 mg, 0.6 mmol) in methanol (6
+mL) was added aq KHF2 solution (0.4 mL, 1.8 mmol, 4.5 M), and the
+mixture was stirred at room temperature for 16 h. The solvent was
+removed under reduced pressure and the crude residue was thoroughly
+dried under high vacuum. The crude solid was extracted with
+methanol and ﬁltered and the solvent evaporated. The residue was
+extracted with a small amount of methanol, which was evaporated to
+aﬀord the corresponding potassium pyridine-2-triﬂuoroborate 7a and
+methyliminodiacetic acid as a 1:1 mixture (79.8 mg, 80%): 1H NMR
+(400 MHz, methanol-d4) δ 8.58 (br d, J = 6.0 Hz, 1H), 8.36 (td, J =
+7.7, 1.2 Hz, 1H), 8.01 (br d, J = 7.8 Hz, 1H), 7.81 (ddd, J = 7.6, 6.0,
+1.5 Hz, 1H), MIDA peaks appear at δ 3.71 (s, 4H), 2.95 (s, 3H); 13C
+NMR (100 MHz, methanol-d4) δ 144.8, 140.5, 131.3, 125.6.7e
+
+Potassium N-(Phenylsulfonyl)indolyl-2-triﬂuoroborate (8a). The
+title compound was prepared from N-phenylsulfonylindolyl-B(mida)
+derivative 8c (124 mg, 0.3 mmol) and aq KHF2 solution (0.2 mL, 0.9
+mmol, 4.5 M) according to general procedure 1 at 70 °C for 90 min.
+The crude residue was extracted with hot acetone, the mixture was
+ﬁltered, the ﬁltrate was concentrated in vacuo, and the crude residue
+was recrystallized from a minimal amount of hot acetone and
+petroleum spirits, to aﬀord a white powder (110 mg, 100%): 1H NMR
+(400 MHz, acetone-d6) δ 8.20−8.10 (m, 2H), 8.10−8.03 (m, 1H),
+7.56−7.48 (m, 1H), 7.48−7.38 (m, 3H), 7.22−7.05 (m, 2H), 6.78 (d, J
+= 0.9 Hz, 1H); 13C NMR (100 MHz, acetone-d6) δ 140.4, 138.7,
+133.9, 132.7, 129.5, 127.9 (q, J = 1.8 Hz), 123.4, 123.3, 120.9, 116.2
+(q, J = 3.1 Hz), 115.1; HRMS m/z calcd for C14H10BF3NO2S ([M −
+K+]−) 324.0477, found 324.0474.
+
+Potassium trans-Styrenyltriﬂuoroborate (9a). The title compound
+was prepared from trans-styrenyl-B(mida) derivative 9c (78 mg, 0.3
+mmol) and aq KHF2 solution (0.2 mL, 0.9 mmol, 4.5 M) according to
+general procedure 1 at 70 °C for 1 h. The product was puriﬁed by
+recrystallization (acetone/hexanes), yielding a white solid (45 mg,
+71%): 1H NMR (400 MHz, acetone-d6) δ 7.37−7.32 (m, 2H), 7.22
+(app dd, J = 8.4, 6.9 Hz, 2H), 7.09 (app tt, J = 7.3, 3.5 Hz, 1H), 6.67
+(d, J = 18.2 Hz, 1H), 6.32 (dq, J = 18.3, 3.7 Hz, 1H); 13C NMR (100
+MHz, acetone-d6) δ 140.9, 133.9, 128.1, 125.7, 125.6 (carbon bearing
+boron substituent not observed).11
+
+Potassium 2-(4-Tolyl)ethynyltriﬂuoroborate (10a). The title
+compound was prepared from 4-methylphenylethynyl-B(mida)
+derivative 10c (49 mg, 0.18 mmol) and aq KHF2 solution (0.2 mL,
+0.9 mmol, 4.5 M) according to general procedure 1 at 70 °C for 60
+min. The crude residue was extracted with hot acetone, the mixture
+was ﬁltered, the ﬁltrate was concentrated in vacuo, and the crude
+residue was recrystallized from a minimal amount of hot acetone and
+petroleum spirits, to aﬀord a white powder (31 mg, 78%): 1H NMR
+(400 MHz, acetone-d6) δ 7.29−7.13 (m, 2H), 7.11−6.91 (m, 2H),
+2.27 (s, 3H); 13C NMR (100 MHz, acetone-d6) δ 136.0, 131.1, 128.6,
+123.5, 89.1, 20.4.28
+
+Potassium Allyltriﬂuoroborate (11a). The title compound was
+prepared from allyl-B(mida) derivative 11c (100 mg, 0.57 mmol) and
+aq KHF2 solution (0.33 mL, 4.5 M, 1.52 mmol) at room temperature
+for 1 h according to general procedure 1. The product was collected by
+ﬁltration to yield the product 11a (52 mg, 62%) as a white crystalline
+solid: 1H NMR (400 MHz, acetone-d6) δ 5.94 (dq, J = 10.0, 7.9 Hz,
+1H), 4.64 (m, 2H), 1.14 (br s, 2H); 13C NMR (100 MHz, acetone-d6)
+δ 142.1, 109.2 (carbon bearing boron substituent not observed).
+
+Potassium trans-2-Triﬂuoroboryl-1-vinyl-B(mida)
+
+(19). To a
+solution of trans-2-B(pin)-vinyl-B(mida) derivative 18 (105 mg, 0.34
+mmol) in methanol (1 mL) was added aqueous KHF2 solution (0.43
+mL, 4.5 M, 1.93 mmol). The resulting white slurry was stirred at room
+temperature for 1 h and then concentrated in vacuo. The crude solid
+obtained was extracted exhaustively with anhydrous hot acetone
+(product was poorly soluble). The extract was ﬁltered and the ﬁltrate
+concentrated in vacuo. The crude residue obtained was recrystallized
+from a minimal amount of hot acetone and ether (5 mL), to aﬀord an
+amorphous solid (62 mg, 63%): 1H NMR (400 MHz, DMSO-d6) δ
+6.09 (dq, J = 20.5, 3.4 Hz, 1H), 5.63 (d, J = 20.6 Hz, 1H), 4.09 (d, J =
+</para>
+5432
+
+DOI: 10.1021/acs.joc.5b00182
+J. Org. Chem. 2015, 80, 5428−5435
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+17.1 Hz, 2H), 3.86 (d, J = 17.0 Hz, 2H), 2.67 (s, 3H); 13C NMR (100
+MHz, DMSO-d6) δ 169.5, 61.0, 46.5 (carbon bearing boron
+substituents not observed); 11B NMR (128 MHz, DMSO-d6) δ 12.3,
+2.51; HRMS m/z calcd for C7H9B2F3NO4 ([M − K+]−) 250.0670,
+found 250.0669; IR (neat, cm−1) 526, 545, 556, 567, 592, 607, 633,
+648, 675, 737, 763, 823, 850, 892, 1004, 1025, 1050, 1073, 1221, 1294,
+1333, 1374, 1460, 1633, 1727, 3265, 3324, 3348.
+
+Tetrabutylammonium trans-2-Triﬂuoroboryl-1-vinyl-B(mida). To
+a solution of trans-2-B(pin)-vinyl-B(mida) derivative 18 (0.50 g, 1.62
+mmol) in methanol (1 mL) was added aqueous KHF2 (1.05 mL,4.5 M,
+4.6 mmol, 3.1 equiv). After stirring for 30 min, Bu4N+OH− (1.10 mL,
+40% aq solution, 1.62 mmol) was added dropwise and the mixture
+stirred for 1 h. The reaction was diluted with DCM (10 mL) and the
+aqueous layer was extracted with DCM (5 × 10 mL). The combined
+organic layers were dried (MgSO4) and ﬁltered, and the solvent was
+evaporated to aﬀord the tetrabutylammonium triﬂuoroborate salt
+(0.560 g, 70%, ∼90% purity) contaminated with tetrabutylammonium
+species. Careful washing with minimal tetrahydrofuran was able to
+remove excess tetrabutylammonium salts with minor loss of product:
+1H NMR (400 MHz, DMSO-d6) δ 6.09 (dq, J = 20.5, 3.4 Hz, 1H),
+5.63 (d, J = 20.6 Hz, 1H), 4.09 (d, J = 17.1 Hz, 2H), 3.86 (d, J = 17.0
+Hz, 2H), 2.67 (s, 3H); 13C NMR (100 MHz, DMSO-d6) δ 169.9, 61.8,
+59.1, 46.9, 46.8, 24.3, 20.2, 13.8 (carbon bearing boron substituents
+not observed); 11B NMR (128 MHz, DMSO-d6) δ 12.3, 2.51; HRMS
+m/z calcd for C7H9B2F3NO4 ([M − Bu4N+]−) 250.0670,
+found
+250.0669.
+
+Potassium 4-Triﬂuoroborylphenyl-B(dan) (21). To a solution of
+B(pin)/B(dan) 1,4-benzenebisboronate 20 (51.7 mg, 0.139 mmol) in
+methanol (1 mL) was added aqueous KHF2 (0.43 mL, 4.5 M, 1.93
+mmol). The resulting white slurry was stirred at room temperature for
+15 min, the solvent was then removed under reduced pressure, and the
+residue was extracted with hot acetone. The mixture was ﬁltered, the
+ﬁltrate was concentrated in vacuo, and the residue was recrystallized
+from a minimal amount of hot acetone and petroleum spirits, to aﬀord
+a light purple powder (39 mg, 80%): 1H NMR (400 MHz, acetone-d6)
+δ 7.63 (d, J = 7.4 Hz, 2H), 7.54 (d, J = 7.4 Hz, 2H), 7.50 (s, 2H), 7.08
+(t, J = 7.8 Hz, 2H), 6.62 (d, J = 7.6 Hz, 2H); 13C NMR (100 MHz,
+acetone-d6) δ 143.7, 137.6, 132.4, 131.2, 128.5, 121.0, 117.5, 106.6
+(carbon bearing boron substituents not observed); 11B NMR (128
+MHz, acetone-d6) δ 32.04, 5.59; IR (neat, cm−1) 629, 701, 755, 824,
+890, 965, 1005, 1024, 1047, 1092, 1179, 1196, 1234, 1272, 1304, 1389,
+1449, 1513, 1585, 1596, 1613, 1649, 2854, 2925, 2966, 3219, 3294,
+3308, 3327, 3334; HRMS m/z calcd for C16H12B2F3N2 ([M − K+]−)
+311.1139, found 311.1142.
+
+Potassium 4-Triﬂuoroborylphenyl-B(mida) (23). From 4-B(pin)-
+phenyl-B(mida) 24. The title compound was prepared from B(pin)/
+B(mida) 1,4-benzenebisboronate 24 (500 mg, 1.46 mmol) and aq
+KHF2 solution (0.92 mL, 4.5 M, 4.14 mmol) at room temperature for
+1 h according to general procedure 1. The precipitate was collected by
+ﬁltration to yield the product 23 (415 mg, 83%) as a white solid: 1H
+NMR (400 MHz, acetone-d6) δ 7.30 (s, 2H), 7.15 (s, 2H), 4.25 (d, J =
+17 Hz, 2H), 4.03 (d, J = 17 Hz, 2H), 2.42 (s, 3H); 13C NMR (100
+MHz, acetone-d6) δ 170.0, 131.3, 130.8, 130.1, 62.0, 47.9 (carbon
+bearing boron substituent not observed); 11B NMR (128 MHz,
+acetone-d6) δ 16.6, 7.9; IR (neat, cm−1) 3302, 1741, 1657, 1620, 1338,
+1302, 1231, 1035, 983, 817; HRMS m/z calcd for C11H11B2F3NO4
+([M − K+]−) 300.0826, found 300.0856.
+
+From 4-B(aam)-phenyl-B(mida) 22. To a solution of B(aam)/
+B(mida) 1,4-benzenebisboronate 22 (41 mg, 0.11 mmol) in a mixture
+of 2-propanol and DMF (1:1) was added aq KHF2 solution (73 μL,
+4.5 M, 0.33 mmol). The mixture was heated to 50 °C for 1 h and
+cooled to room temperature. The solution was cooled to −20 °C
+overnight, and the product was collected by ﬁltration to yield 23 (18
+mg, 48%) as a white solid.
+
+General Procedure 2: Conversion of Triﬂuoroborates to
+Boronate Ester Derivatives. To a mixture of
+the potassium
+triﬂuoroborate, potassium carbonate (2 equiv), and diol (1 equiv) in
+acetonitrile was added TMS-Cl (1.5 equiv) and the reaction stirred 2
+h. The reaction was diluted with ether and ﬁltered and the solvent
+evaporated under reduced pressure. The crude residue obtained was
+
+puriﬁed by passage through a silica plug eluting with ethyl acetate/
+hexane, yielding the corresponding boronate ester.
+
+Hexylene Glycolyl Phenylboronate (1f). The title compound was
+prepared from phenyltriﬂuoroborate 1a (138 mg, 0.747 mmol) and
+2,4-hexylene glycol (90 mg, 0.76 mmol) according to general
+procedure 2. The boronate ester was
+isolated by column
+chromatography on silica gel (hexanes/ethyl acetate = 1:4): 1H
+NMR (400 MHz, CDCl3) δ 7.81 (dd, J = 8.0, 1.5 Hz, 2H), 7.50−7.24
+(m, 3H), 4.32 (dqd, J = 11.5, 6.2, 3.0 Hz, 1H), 1.83 (dd, J = 13.9, 3.0
+Hz, 1H), 1.69−1.48 (m, 1H), 1.36 (s, 3H), 1.34 (s, 3H), 1.33 (d, J =
+6.2 Hz, 3H).29
+
+Pinacolyl Phenylboronate (1g). The title compound was prepared
+from phenyltriﬂuoroborate 1a (138 mg, 0.747 mmol) and pinacol (90
+mg, 0.76 mmol) according to general procedure 2. The boronate ester
+was isolated by column chromatography on silica gel (hexanes/ethyl
+acetate = 1:4), yielding a white solid (148 mg, 97%).30
+
+Pinanediolyl Phenylboronate (1h). The title compound was
+prepared from phenyltriﬂuoroborate 1a (138 mg, 0.747 mmol) and
+(1R,2R,3S,5R)-(−)-pinanediol (129 mg, 0.760 mmol) according to
+general procedure 2. The boronate ester was isolated by column
+chromatography on silica gel (hexanes/ethyl acetate = 1:4), yielding a
+viscous oil that solidiﬁed upon standing (183 mg, 96%): 1H NMR
+(200 MHz, CDCl3) δ 7.82 (dd, J = 7.9, 1.6 Hz, 3H), 7.57−7.28 (m,
+3H), 4.46 (dd, J = 8.7, 1.9 Hz, 1H), 2.59−2.09 (m, 3H), 2.08−1.85
+(m, 2H), 1.49 (s, 3H), 1.32 (s, 3H), 1.23 (d, J = 10.5 Hz, 1H), 0.90 (s,
+3H); 13C NMR (50 MHz, CDCl3) δ 134.9, 131.3, 127.9, 86.4, 51.6,
+39.7, 38.4, 35.8, 28.9, 27.3, 26.7, 24.2.31
+
+Pinacolyl trans-Styrenylboronate (9g). The title compound was
+prepared from potassium trans-styrenyltriﬂuoroborate 9a (102 mg,
+0.747 mmol) and pinacol (90 mg, 0.760 mmol) according to general
+procedure 2. The product was isolated by column chromatography on
+silica gel (hexanes/ethyl acetate = 1:4), yielding a colorless liquid (156
+mg, 91% yield): 1H NMR (400 MHz, CDCl3) δ 7.54−7.21 (m, 6H),
+6.15 (d, J = 18.5 Hz, 1H), 1.30 (s, 12H); 13C NMR (100 MHz,
+CDCl3) δ 149.7, 137.6, 129.0, 128.7, 127.2, 83.5, 25.0 (carbon bearing
+boron substituent not observed).32
+
+Pinacolyl 1-Hexylboronate (15g). The title compound was
+prepared from potassium n-hexane-1-triﬂuoroborate 15a (143 mg,
+0.747 mmol) and pinacol (90 mg, 0.760 mmol) according to general
+procedure 2. The product was isolated by column chromatography on
+silica gel (hexanes/ethyl acetate = 9:1), yielding a clear liquid (100 mg,
+63%): 1H NMR (400 MHz, CDCl3) δ 1.44−1.30 (m, 2H), 1.31−1.13
+(m, 18H), 0.82 (t, J = 6.9 Hz, 3H), 0.72 (t, J = 7.8 Hz, 2H); 13C NMR
+(101 MHz, CDCl3) δ 82.9, 32.2, 31.7, 24.9, 24.0, 22.7, 14.2 (carbon
+bearing boron substituent not observed).30
+
+Pinacolyl Cyclopropylboronate (16g). The title compound was
+prepared from potassium cyclopropyltriﬂuoroborate 16a (111 mg,
+0.747 mmol) and pinacol (90 mg, 0.760 mmol) according to general
+procedure 2. The product was isolated by column chromatography on
+silica gel (hexanes/ethyl acetate = 1:4) as a colorless liquid (42 mg,
+33%; unoptimized, with compound lost due to volatility): 1H NMR
+(400 MHz, CDCl3) δ 1.21 (s, 12H), 0.60 (ddd, J = 9.2, 6.1, 3.3 Hz,
+2H), 0.49 (td, J = 6.0, 3.3 Hz, 2H), −0.20 (tt, J = 9.3, 6.1 Hz, 1H).33
+General Procedure 3: Conversion of Triﬂuoroborates to
+B(aam) or B(dan) Derivatives. To a mixture of potassium carbonate
+(103 mg, 0.747 mmol) and potassium phenyltriﬂuoroborate (69 mg,
+0.374 mmol) in acetonitrile (7.5 mL) were added TMS-Cl (132 μL,
+1.12 mmol, 3 equiv) and anthranilamide or 1,8-diaminonaphthalene
+(0.380 mmol), and the reaction was stirred for 30 min. The reaction
+was diluted with ethyl acetate (20 mL) and ﬁltered and the solvent
+evaporated under reduced pressure. The crude residue obtained was
+puriﬁed by column chromatography (silica, eluting with ethyl acetate/
+petroleum spirits), yielding the product as a white−purple solid.
+
+PhB(dan) (1d). The title compound was prepared from phenyl-
+triﬂuoroborate 1a (69 mg, 0.374 mmol) and 1,8-diaminonaphthalene
+(59 mg, 0.374 mmol) according to general procedure 3. The product
+was isolated by column chromatography on silica gel (eluting with 1:4
+hexanes/ethyl acetate then 1:1 hexanes/ethyl acetate), yielding 1d (91
+mg, 100%) as a white−purple solid: 1H NMR (200 MHz, CDCl3) δ
+7.72−7.60 (m, 2H), 7.55−7.41 (m, 3H), 7.26−7.00 (m, 4H), 6.43 (dd,
+</para>
+5433
+
+DOI: 10.1021/acs.joc.5b00182
+J. Org. Chem. 2015, 80, 5428−5435
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+J = 7.0, 1.3 Hz, 2H), 6.03 (br s, 2H); 13C NMR (50 MHz, CDCl3) δ
+141.2 (2C), 136.5, 131.5 (2C), 130.4, 128.4 (2C), 127.7 (2C) 120.1,
+118.0 (2C), 106.2 (2C) (carbon bearing boron substituent not
+observed).34
+
+PhB(aam) (1e). The title compound was prepared from phenyl-
+triﬂuoroborate 1a (138 mg, 0.747 mmol) and anthranilamide (104 mg,
+0.760 mmol) according to general procedure 3. The product was
+isolated by column chromatography on silica gel (hexanes/ethyl
+acetate = 1:1), yielding 1e (130 mg, 78%) as a white−purple solid: 1H
+NMR (400 MHz, CDCl3) δ 8.26 (dd, J = 8.0, 1.6 Hz, 1H), 7.76−7.66
+(m, 2H), 7.66−7.44 (m, 5H), 7.18 (ddd, J = 8.1, 7.2, 1.1 Hz, 1H), 7.12
+(dd, J = 8.1, 0.5 Hz, 1H), 6.82 (br s, 1H); 13C NMR (100 MHz,
+CDCl3) δ 166.6, 144.2, 133.9, 131.8 (2C), 131.1, 129.2, 128.6 (2C),
+121.9, 117.6, 115.0 (carbon bearing boron substituent not observed).18
+trans-Styrenyl-B(dan) (9d). The title compound was prepared from
+potassium trans-styrenyl triﬂuoroborate 9a (101.0 mg, 0.747 mmol)
+and 1,8-diaminonaphthalene (60 mg, 0.380 mmol) according to
+general procedure 3. The product was
+isolated by column
+chromatography on silica gel (hexanes/ethyl acetate = 3:1), yielding
+the product 9d (77 mg, 76%) as a white−purple solid: 1H NMR (500
+MHz, CDCl3) δ 7.55−7.51 (m, 2H), 7.43−7.37 (m, 2H), 7.34 (d, J =
+7.5 Hz, 1H), 7.20−7.10 (m, 3H), 7.05 (dd, J = 8.4, 0.9 Hz, 2H), 6.38
+(dd, J = 7.3, 1.0 Hz, 2H), 6.34 (d, J = 18.6 Hz, 1H), 5.86 (br s, 2H);
+13C NMR (125 MHz, CDCl3) δ 143.9, 141.4, 137.8, 136.6, 128.94,
+128.92, 127.8, 127.0, 120.1, 117.9, 106.0 (carbon bearing boron
+substituent not observed).6a
+
+General Procedure 4: Conversion of Triﬂuoroborates to
+B(mida) Derivatives. To a stirred solution of triﬂuoroborate salt
+(0.374 mmol), N-methyliminodiacetic acid (59 mg, 0.4 mmol), and
+potassium carbonate (104 mg, 0.747 mmol) in dimethylformamide (5
+mL) under an atmosphere of nitrogen was added TMS-Cl (132 μL,
+1.12 mmol), and the mixture was stirred overnight. Ethyl acetate (20
+mL) was added, the solution was ﬁltered, and the ﬂask was rinsed with
+a small amount of ethyl acetate. For small-scale reactions, the solvent
+was removed under reduced pressure. For large-scale reactions, an
+aqueous workup was employed to remove the DMF; the solution was
+washed with brine (20 mL), water (20 mL ×2), and brine (20 mL)
+and then dried (MgSO4). The solvent was removed under reduced
+pressure and the product was puriﬁed by recrystallization (ethyl
+acetate−petroleum spirits) to give the product.
+
+Allyl-B(mida)
+
+PhB(mida) (1c). The title compound was prepared from phenyl-
+triﬂuoroborate 1a (68.8 mg, 0.374 mmol) and N-methyliminodiacetic
+acid (58.9 mg, 0.4 mmol) according to general procedure 4. The crude
+residue was recrystallized (ethyl acetate/petroleum spirits) to yield 1c
+(75 mg 86%) as a white solid: 1H NMR (400 MHz, DMSO-d6) δ
+7.45−7.36 (m, 2H), 7.36−7.26 (m, 3H), 4.29 (d, J = 17.2 Hz, 2H),
+4.07 (d, J = 17.2 Hz, 2H), 2.45 (s, 3H); 13C NMR (101 MHz, DMSO-
+d6) δ 169.4, 132.3, 128.9, 127.7, 61.8, 47.6 (carbon bearing boron
+substituent not observed); 11B NMR (128 MHz, DMSO-d6) δ 13.44.35
+(11c). The title compound was prepared from
+potassium allyltriﬂuoroborate 11a (55 mg, 0.374 mmol) and N-
+methyliminodiacetic acid (59 mg, 0.4 mmol) according to general
+procedure 4. The crude residue was recrystallized (ethyl acetate/
+petroleum spirits) to yield 11 (110 mg, 75%) as a white solid: 1H
+NMR (400 MHz, acetone-d6) δ 5.89 (ddt, J = 17.0, 10.2, 7.6 Hz, 1H),
+5.00 (ddt, J = 17.1, 2.5, 1.6 Hz, 1H), 4.90 (ddt, J = 10.2, 2.5, 1.2 Hz,
+1H), 4.21 (d, J = 16.9 Hz, 2H), 3.99 (d, J = 16.8 Hz, 2H), 2.54 (s, 3H),
+1.66 (d, J = 7.6 Hz, 2H); 13C NMR (100 MHz, acetone-d6) δ 168.7,
+137.0, 115.3, 62.9, 46.3, 41.3; 11B NMR (128 MHz, acetone-d6) δ
+12.16. Spectral data matched that of an authentic commercial sample.
+(12c). The title compound was prepared from
+potassium vinyltriﬂuoroborate 12a (51 mg, 0.374 mmol) and N-
+methyliminodiacetic acid (59 mg, 0.4 mmol) according to general
+procedure 4. The crude residue was recrystallized (ethyl acetate/
+petroleum spirits) to yield 12c (45 mg, 65%) as a white solid: 1H
+NMR (500 MHz, CDCl3) δ 6.11−5.94 (m, 2H), 5.92−5.77 (m, 1H),
+3.84 (d, J = 16.3 Hz, 2H), 3.69 (d, J = 16.3 Hz, 2H), 2.85 (s, 3H).4e
+2-Propenyl-B(mida) (13c). The title compound was prepared from
+potassium isopropenyltriﬂuoroborate 13a (55 mg, 0.374 mmol) and
+N-methyliminodiacetic acid (118 mg, 0.8 mmol) according to general
+
+Vinyl-B(mida)
+
+procedure 4. The crude residue was recrystallized (ethyl acetate/
+petroleum spirits) to yield 13c (55 mg, 94%) as a white solid: 1H
+NMR (400 MHz, acetone-d6) δ 5.45 (br s, 1H), 5.31 (d, J = 2.5 Hz,
+1H), 4.23 (d, J = 17.0 Hz, 2H), 4.04 (d, J = 17.0 Hz, 2H), 3.00 (s, 3H),
+1.78 (br s, 3H).4c
+
+2-Benzofuranyl-B(mida) (17c). The title compound was prepared
+from potassium 2-benzofuranyltriﬂuoroborate 17a (84 mg, 0.374
+mmol) and N-methyliminodiacetic acid (59 mg, 0.4 mmol) according
+to general procedure 4. The crude residue was recrystallized (ethyl
+acetate/petroleum spirits) to yield 17c (91 mg, 89%) as a white solid:
+1H NMR (400 MHz, DMSO-d6) δ 7.64 (app d, J = 7.1 Hz, 1H), 7.57
+(app d, J = 8.2 Hz, 1H), 7.29 (td, J = 8.3, 7.7, 1.4 Hz, 1H), 7.22 (td, J =
+7.5, 1.0 Hz, 1H), 7.07 (br s, 1H), 4.41 (d, J = 17.2 Hz, 2H), 4.17 (d, J
+= 17.2 Hz, 2H), 2.69 (s, 3H).4d
+
+4-B(aam)-phenyl-B(mida) (22). The title compound was prepared
+from potassium triﬂuoroborate salt 23 (50 mg, 0.147 mmol) and
+anthranilamide (21 mg, 0.147 mmol) according to general procedure
+4. The crude product was puriﬁed by ﬂash chromatography (10%
+MeOH/EtOAc), to give 24 (51 mg, 92%) as a colorless solid: 1H
+NMR (400 MHz, acetone-d6) 9.66 (s, 1H), 9.31 (s, 1H), 8.04−7.99
+(m, 3H), 7.75 (d, J = 8 Hz, 1H), 7.55 (m, 1H), 7.50 (d, J = 8 Hz, 2H),
+7.40 (d, J = 8 Hz, 2H), 7.09 (t, J = 11 Hz, 1H), 4.34 (d, J = 17 Hz,
+2H), 4.13 (d, J = 17 Hz, 2H), 2.52 (s, 3H); 13C NMR (100 MHz,
+acetone-d6) δ 169.8, 166.7, 145.9, 133.6, 131.8, 128.4, 121.2, 119.2,
+118.6 (carbon bearing boron substituent not observed); 11B NMR
+(128 MHz, acetone-d6) δ 15.8; IR (neat, cm−1) 3303, 1743, 1658,
+1620, 1538, 1339, 1303, 1241, 1037, 988, 716, 725; HRMS m/z calcd
+for C18H18B2N3O5 ([M + H]+) 378.1433, found 378.1446.
+
+General Procedure 5: Conversion of Triﬂuoroborates to
+Diethanolamine Boronate Derivatives. To a stirred solution of
+potassium phenyltriﬂuoroborate (69 mg, 0.374 mmol), diethanol-
+amine (42 mg, 0.4 mmol), and K2CO3 (56 mg, 0.4 mmol) in
+acetonitrile (5 mL) under an atmosphere of nitrogen was added TMS-
+Cl (132 μL, 1.12 mmol), and the mixture was stirred for 2 h.
+Dichloromethane (20 mL) was added to the reaction, the solution was
+ﬁltered, and the precipitate was washed with dichloromethane (3 × 20
+mL). The ﬁltrate was evaporated under reduced pressure and the
+crude solid residue was puriﬁed by recrystallization (dichloromethane/
+ether).
+
+Diethanolaminyl Phenylboronate (1b). The title compound was
+prepared from phenyltriﬂuoroborate 1a (69 mg, 0.374 mmol) and
+diethanolamine (42 mg, 0.4 mmol) according to general procedure 5.
+The product was recrystallized (dichloromethane/ether) to yield 1b
+(59 mg, 82%) as a white solid: 1H NMR (400 MHz, DMSO-d6) δ 7.44
+(dd, J = 7.8, 1.7 Hz, 2H), 7.24−7.14 (m, 3H), 6.88 (br s, 1H), 3.87 (td,
+J = 9.2, 5.4 Hz, 2H), 3.78 (ddd, J = 9.6, 6.6, 3.5 Hz, 2H), 3.13−3.01
+(m, 2H), 2.87−2.76 (m, 2H).36
+
+Diethanolaminyl Vinylboronate (12b). The title compound was
+prepared from potassium vinyltriﬂuoroborate 12a (50 mg, 0.374
+mmol) and diethanolamine (40 mg, 0.38 mmol) according to general
+procedure 5. The product was recrystallized (dichloromethane/ether)
+to yield 12b (39 mg, 74%) as a white solid: 1H NMR (400 MHz,
+DMSO-d6) δ 6.72 (s, 1H), 5.83 (dd, J = 19.5, 13.2 Hz, 1H), 5.50−5.24
+(m, 2H), 4.01−3.66 (m, 2H), 3.65−3.46 (m, 2H), 3.16−2.84 (m, 2H),
+2.84−2.59 (m, 2H); 13C NMR (100 MHz, DMSO-d6) δ 122.5, 62.3,
+50.4 (carbon bearing boron substituent not observed).37
+
+4-B(pin)-phenyl-B(mida) 24. To a solution of 4-bromophenyl-
+B(mida) boronate (1.11g, 3.53 mmol), KOAc (690 mg, 7.1 mmol),
+and bispinacolatodiboron (3.58 g, 14.1 mmol) in DMF (40 mL) was
+added Pd(dppf)Cl2 (128 mg, 0.17 mmol). The solution was heated to
+90 °C overnight and cooled to room temperature. The solvent was
+removed in vacuo, and the residue was puriﬁed by ﬂash
+chromatography (20−50% EtOAc/petroleum spirits),
+followed by
+recrystallization (CH2Cl2/petroleum spirits) to give 24 (950 mg, 75%)
+as a colorless crystalline solid: 1H NMR (400 MHz, acetone-d6) δ 7.75
+(d, J = 7.5 Hz, 2H), 7.56 (d, J = 7.5 Hz, 2H), 4.36 (d, J = 17 Hz, 2H),
+4.15 (d, J = 17 Hz, 2H), 2.68 (s, 3H), 1.30 (s, 12H); 13C NMR (100
+MHz, acetone-d6) δ 168.4, 133.9, 131.8, 83.6, 61.9, 47.4, 24.3 (carbon
+bearing boron substituent not observed); 11B NMR (128 MHz,
+acetone-d6) δ 30.5, 11.6. IR (neat, cm−1) 1745, 1657, 1615, 1391,
+</para>
+5434
+
+DOI: 10.1021/acs.joc.5b00182
+J. Org. Chem. 2015, 80, 5428−5435
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+1363, 1337, 1300, 1220, 1036, 990, 961, 816; HRMS m/z calcd for
+C17H24B2NO6 ([M + H]+) 360.1790, found 360.1799.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+1H and 13C NMR spectra for all compounds. The Supporting
+Information is available free of charge on the ACS Publications
+website at DOI: 10.1021/acs.joc.5b00182.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: chutton@unimelb.edu.au.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+The Australian Research Council is acknowledged for support.
+
+■ REFERENCES
+
+(1) Boronic Acids, 2nd ed.; Hall, D. G., Ed.; Wiley-VCH: Singapore,
+2011.
+(2) (a) Beenen, M. A.; Weix, D. J.; Ellman, J. A. J. Am. Chem. Soc.
+2006, 128, 6304. (b) Beisel, T.; Manolikakes, G. Org. Lett. 2013, 15,
+6046. (c) Vogt, A. P.; Trouillet, V.; Greiner, A. M.; Kaupp, M.; Geckle,
+U.; Barner, L.; Hofe, T.; Barner-Kowollik, C. Macromol. Rapid
+Commun. 2012, 33, 1108. (d) Miura, T.; Takahashi, Y.; Murakami, M.
+Org. Lett. 2007, 9, 5075. (e) Nishikata, T.; Yamamoto, Y.; Miyaura, N.
+Angew. Chem., Int. Ed. 2003, 42, 2768. (f) Lam, P. Y. S.; Clark, C. G.;
+Saubern, S.; Adams, J.; Winters, M. P.; Chan, D. M. T.; Combs, A.
+Tetrahedron Lett. 1998, 39, 2941. (g) Evans, D. A.; Katz, J. L.; West, T.
+R. Tetrahedron Lett. 1998, 39, 2937.
+(3) (a) Candeias, N. R.; Montalbano, F.; Cal, P. M. S. D.; Gois, P. M.
+P. Chem. Rev. 2010, 110, 6169. (b) Kaiser, P. F.; Churches, Q. I.;
+Hutton, C. A. Aust. J. Chem. 2007, 60, 799.
+(4) (a) Woerly, E. M.; Roy, J.; Burke, M. D. Nat. Chem. 2014, 6, 484.
+(b) Fujii, S.; Chang, S. Y.; Burke, M. D. Angew. Chem., Int. Ed. 2011,
+50, 7862. (c) Woerly, E. M.; Cherney, A. H.; Davis, E. K.; Burke, M. D.
+J. Am. Chem. Soc. 2010, 132, 6941. (d) Knapp, D. M.; Gillis, E. P.;
+Burke, M. D. J. Am. Chem. Soc. 2009, 131, 6961. (e) Uno, B. E.; Gillis,
+E. P.; Burke, M. D. Tetrahedron 2009, 65, 3130. (f) Gillis, E. P.; Burke,
+M. D. Aldrichimica Acta 2009, 42, 17. (g) Gillis, E. P.; Burke, M. D. J.
+Am. Chem. Soc. 2008, 130, 14084. (h) Lee, S. J.; Gray, K. C.; Paek, J.
+S.; Burke, M. D. J. Am. Chem. Soc. 2008, 130, 466. (i) Gillis, E. P.;
+Burke, M. D. J. Am. Chem. Soc. 2007, 129, 6716.
+(5) (a) Lightfoot, A. P.; Twiddle, S. J. R.; Whiting, A. Org. Biomol.
+Chem. 2005, 3, 3167. (b) Lightfoot, A. P.; Maw, G.; Thirsk, C.;
+Twiddle, S. J. R.; Whiting, A. Tetrahedron Lett. 2003, 44, 7645.
+(6) (a) Iwadate, N.; Suginome, M. Org. Lett. 2009, 11, 1899.
+(b) Noguchi, H.; Shioda, T.; Chou, C.-M.; Suginome, M. Org. Lett.
+2008, 10, 377. (c) Noguchi, H.; Hojo, K.; Suginome, M. J. Am. Chem.
+Soc. 2007, 129, 758.
+J.-P. Chem. Rev. 2008, 108, 288.
+(7) (a) Darses, S.; Genet,
+(b) Molander, G. A.; Ellis, N. Acc. Chem. Res. 2007, 40, 275.
+(c) Molander, G. A.; Fumagalli, T. J. Org. Chem. 2006, 71, 5743.
+(d) Molander, G. A.; Yun, C.-S.; Ribagorda, M.; Biolatto, B. J. Org.
+Chem. 2003, 68, 5534. (e) Molander, G. A.; Biolatto, B. J. Org. Chem.
+2003, 68, 4302.
+(8) (a) Lennox, A. J. J.; Lloyd-Jones, G. C. J. Am. Chem. Soc. 2012,
+134, 7431. (b) Butters, M.; Harvey, J. N.; Jover, J.; Lennox, A. J. J.;
+Lloyd-Jones, G. C.; Murray, P. M. Angew. Chem., Int. Ed. 2010, 49,
+5156.
+(9) Yuen, A. K. L.; Hutton, C. A. Tetrahedron Lett. 2005, 46, 7899.
+(10) Vedejs, E.; Chapman, R.; Fields, S.; Lin, S.; Schrimpf, M. J. Org.
+Chem. 1995, 60, 3020.
+(11) Lennox, A. J. J.; Lloyd-Jones, G. C. Angew. Chem., Int. Ed. 2012,
+51, 9385.
+
+(12) Murphy, J. M.; Tzschucke, C. C.; Hartwig, J. F. Org. Lett. 2007,
+9, 757.
+(13) Kim, B. J.; Matteson, D. S. Angew. Chem., Int. Ed. 2004, 43,
+3056.
+(14) Kolomeitsev, A. A.; Kadyrov, A. A.; Szczepkowska-Sztolcman, J.;
+Milewska, M.; Koroniak, H.; Bissky, G.; Barten, J. A.; Roschenthaler,
+G.-V. Tetrahedron Lett. 2003, 44, 8273.
+(15) Molander, G. A.; Pfeiffer, D. Org. Lett. 2001, 3, 361.
+(16) Parsons, A. T.; Senecal, T. D.; Buchwald, S. L. Angew. Chem., Int.
+Ed. 2012, 51, 2947.
+(17) (a) Lee, J. C. H.; McDonald, R.; Hall, D. G. Nat. Chem. 2011, 3,
+894. (b) Lee, J. C. H.; Hall, D. G. J. Am. Chem. Soc. 2010, 132, 5544.
+(18) Ihara, H.; Koyanagi, M.; Suginome, M. Org. Lett. 2011, 13, 2662.
+(19) Molander, G. A.; Cavalcanti, L. N.; Canturk, B.; Pan, P.-S.;
+Kennedy, L. E. J. Org. Chem. 2009, 74, 7364.
+(20) (a) Pei, W.; Krauss, I. J. J. Am. Chem. Soc. 2011, 133, 18514.
+(b) Mitra, S.; Gurrala, S. R.; Coleman, R. S. J. Org. Chem. 2007, 72,
+8724.
+(21) (a) Hohn, E.; Paleček, J.; Pietruszka, J.; Frey, W. Eur. J. Org.
+Chem. 2009, 3765. (b) Hohn, E.; Paleček, J.; Pietruszka, J. Synlett
+2008, 971.
+(22) (a) Touchet, S.; Carreaux, F.; Molander, G. A.; Carboni, B.;
+Bouillon, A. Adv. Synth. Catal. 2011, 353, 3391. (b) Inglis, S. R.;
+Woon, E. C. Y.; Thompson, A. L.; Schofield, C. J. J. Org. Chem. 2010,
+75, 468. (c) Yamamoto, Y.; Hattori, K.; Ishii, J.-I.; Nishiyama, H.
+Tetrahedron 2006, 62, 4294.
+(23) Noda, H.; Bode, J. W. Chem. Sci. 2014, 5, 4328.
+(24) Potassium vinyltriﬂuoroborate is AUD$2915/mol, and vinyl
+MIDA boronate is AUD$5124/mol (Sigma-Aldrich, May 15, 2015).
+(25) Brown, H. C.; Park, W. S.; Cha, J. S.; Cho, B. T.; Brown, C. A. J.
+Org. Chem. 1986, 51, 337.
+(26) Molander, G. A.; Trice, S. L. J.; Dreher, S. D. J. Am. Chem. Soc.
+2010, 132, 17701.
+(27) Molander, G. A.; Ellis, N. M. J. Org. Chem. 2006, 71, 7491.
+(28) Mundal, D. A.; Lutz, K. E.; Thomson, R. J. J. Am. Chem. Soc.
+2012, 134, 5782.
+(29) Murata, M.; Oda, T.; Watanabe, S.; Masuda, Y. Synthesis 2007,
+2007, 351.
+(30) Clary, J. W.; Rettenmaier, T. J.; Snelling, R.; Bryks, W.; Banwell,
+J.; Wipke, W. T.; Singaram, B. J. Org. Chem. 2011, 76, 9602.
+(31) Morandi, F.; Caselli, E.; Morandi, S.; Focia, P. J.; Blázquez, J.;
+Shoichet, B. K.; Prati, F. J. Am. Chem. Soc. 2003, 125, 685.
+(32) Southwood, T. J.; Curry, M. C.; Hutton, C. A. Tetrahedron
+2006, 62, 236.
+(33) Yang, C.-T.; Zhang, Z.-Q.; Tajuddin, H.; Wu, C.-C.; Liang, J.;
+Liu, J.-H.; Fu, Y.; Czyzewska, M.; Steel, P. G.; Marder, T. B.; Liu, L.
+Angew. Chem., Int. Ed. 2012, 51, 528.
+(34) Kaupp, G.; Naimi-Jamal, M. R.; Stepanenko, V. Chem.Eur. J.
+2003, 9, 4156.
+(35) Mancilla, T.; Contreras, R. J. Organomet. Chem. 1986, 307, 1.
+(36) Jabbour, A.; Steinberg, D.; Dembitsky, V. M.; Moussaieff, A.;
+Zaks, B.; Srebnik, M. J. Med. Chem. 2004, 47, 2409.
+(37) Aronovich, P. M.; Mikhailov, B. M. Izv. Akad. Nauk SSSR, Ser.
+Khim. 1968, 2745.
+
+5435
+
+DOI: 10.1021/acs.joc.5b00182
+J. Org. Chem. 2015, 80, 5428−5435
+
+

@@ -1,0 +1,905 @@
+Article
+
+pubs.acs.org/joc
+
+Rh(I)-Catalyzed Chemo- and Stereoselective Domino Cycloaddition
+of Optically Active Propargyl 2,4-Hexadienyl Ethers
+Jun Ying, Kenneth B. Brown, Matthew J. Sandridge, Brooke A. Hering, Michal Sabat, and Lin Pu*
+Department of Chemistry, University of Virginia, Charlottesville, Virginia 22904-4319, United States
+
+*S Supporting Information
+
+ABSTRACT: 1,1′-Bi-2-naphthol in combination with ZnEt2,
+Ti(OiPr)4, and dicyclohexylamine have been employed to
+catalyze asymmetric alkyne addition to an ynal to synthesize
+optically active propargylic alcohols containing two alkyne
+functions with excellent yields and enantioselectivities. These
+chiral alcohols are readily converted to the corresponding
+optically active propargyl 2,4-hexadienyl ethers. These diene-
+diyne substrates are found to undergo a highly chemoselective
+and stereoselective domino Pauson−Khand and Diels−Alder
+cycloaddition catalyzed by [RhCl(CO)2]2 under CO to generate a class of tetracyclic compounds with high enantiomeric purity.
+This is a very eﬃcient method for the asymmetric synthesis of polycyclic compounds.
+
+■ INTRODUCTION
+
+Over the past decade, signiﬁcant progress has been made on
+the catalytic asymmetric alkyne addition to aldehydes to
+generate chiral propargylic alcohols.1−3 For example,
+in our
+laboratory, we have discovered that the readily available 1,1′-bi-
+2-naphthol (BINOL) in combination with ZnEt2 and Ti(OiPr)4
+can catalyze the highly enantioselective reaction of a broad
+range of alkynes with aldehydes.3 Addition of a catalytic
+amount of dicyclohexylamine (Cy2NH) allows the entire
+catalytic process to be conducted at room temperature.3c,d
+Using the BINOL-based catalytic system can quickly produce
+structurally diverse chiral propargylic alcohols with high
+enantiomeric purity. This has prompted us to explore the
+application of these chiral propagylic alcohols in the asymmetric
+synthesis of multicyclic organic compounds.4
+
+Scheme 1 shows an example of a Rh(I)-catalyzed domino
+cyclization of a chiral propargylic alcohol derivative we recently
+
+Scheme 1. BINOL-Catalyzed Enyne Addition to an Aldehyde
+and Catalytic Conversion of a Chiral Propargyl Allyl Ether to
+a Pentacyclic Product
+
+reported.4a A chiral propargylic alcohol was obtained from the
+BINOL-based catalytic enyne addition to an aldehyde with high
+enantiomeric purity. After preparation of its allylic ether, it was
+treated with a Rh(I) catalyst under CO, which catalyzed a
+domino cycloaddition to give a multicyclic product. In this
+paper, we report our further development of this strategy by
+conducting the Rh(I)-catalyzed domino cyclization of chiral
+propargyl 2,4-hexadienyl ethers. This process eﬃciently
+generates multicyclic products with high diastereoselectivity
+and high enantiomeric purity.
+
+■ RESULTS AND DISCUSSION
+<para sub="scope">
+Preparation of Chiral Propargylic Alcohols by the
+Catalytic Asymmetric Alkyne Addition to Aldehydes
+and Their Conversion to 2,4-Hexadienyl Ethers. We have
+conducted the asymmetric alkyne addition to 5-(trimethylsilan-
+yl)pent-5-ynal
+to synthesize a series of chiral propargylic
+alcohols containing two alkyne functions. As shown in Table 1,
+in the presence of (S)-BINOL, ZnEt2, Cy2NH, and Ti(OiPr)4,
+the reaction of various terminal alkynes with the ynal gave the
+corresponding diynols (R)-1a−g with good yields (69−95%)
+and high enantioselectivity (86−92% ee). Both the aromatic
+alkynes and aliphatic alkynes show similarly high stereo-
+selectivity. These reactions were conducted in diethyl ether
+solution at room temperature under nitrogen in a three-step−
+one-pot process. In the ﬁrst step, an alkyne was treated with
+ZnEt2, Cy2NH, and (S)-BINOL, which presumably generated a
+nucleophilic alkynylzinc reagent. The Lewis base Cy2NH could
+increase the basicity of Et2Zn for the deprotonation of the
+alkyne. In the second step, the deprotonated (S)-BINOL in the
+ﬁrst step was combined with Ti(OiPr)4 to generate a chiral
+</para>
+Received:
+January 20, 2015
+Published: February 20, 2015
+
+© 2015 American Chemical Society
+
+3195
+
+DOI: 10.1021/acs.joc.5b00150
+J. Org. Chem. 2015, 80, 3195−3202
+
+The Journal of Organic Chemistry
+
+Article
+
+Table 1. Catalytic Asymmetric Alkyne Addition to Aldehydes
+To Form Chiral Propargylic Alcohols
+
+Table 2. Preparation of the Chiral Propargylic Ether Based
+Dienediynes
+<para sub="scope">
+Lewis acid catalyst. In the third step, an aldehyde was added
+and the asymmetric alkyne addition proceeded. After aqueous
+workup, the desired chiral propargylic alcohol product was
+obtained.
+</para>
+<para sub="scope">
+We have introduced conjugated diene unit into the above
+optically active diynols by reacting with 1-bromo-2,4-hexadiene
+under basic conditions. As shown in Table 2, treatment of (R)-
+1a−g with tBuOK followed by addition of 1-bromo-2,4-
+hexadiene at room temperature gave the corresponding ether
+products (R)-2a−g in 50−86% yield. In this step, the TMS
+group was also removed. This allows the introduction of other
+groups on the alkyne unit. For example, treatment of (R)-2a
+with nBuLi followed by addition of MeI gave the methylated
+product (R)-3-Me. The TMS group was also placed back on
+the alkyne unit to give compounds (R)-3a−g in good yields.
+Compounds (R)-3 are optically active propargyl 2,4-hexadienyl
+ethers containing two alkyne functions and a conjugated diene.
+These compounds are designed to undergo a metal-promoted
+domino Pauson−Khand and Diels−Alder cycloaddition.
+</para>
+<para sub=“opt”>
+Catalytic Domino Pauson−Khand (PK) and Diels−
+Alder (DA) Cycloaddition of the Optically Active Diene-
+Diyne Ethers. With the synthesis of the optically active diene-
+diyne ethers, we studied their catalytic conversions in the
+presence of a Rh(I) catalyst and CO. When the optically active
+dienediyne (R)-3a was treated with 10 mol % of [RhCl(CO)2]2
+under 1 atm of CO in reﬂuxing 1,2-dichloroethane (DCE), a
+highly chemoselective and stereoselective domino PK/DA
+cycloaddition occurred to generate the tetracyclic product 4a as
+a single diastereomer with 64% yield and 87% ee (Scheme 2).
+This demonstrates that the enantiomeric purity of the original
+chiral propargylic alcohol (R)-1a generated by the catalytic
+</para>
+Scheme 2. Catalytic Conversion of (R)-3a To Generate 4a
+<para sub=“opt”>
+asymmetric alkyne addition to aldehydes is almost completely
+maintained. There is little change in the enantiomeric purity in
+the ether formation step as well as in the domino cyclization
+step. In this domino cycloaddition process, four new chiral
+centers including a quaternary chiral carbon core are formed.
+</para>
+<para sub=“props”>
+The structure of 4a was established by high-resolution mass
+1H and 13C NMR
+spectroscopic analysis and various
+spectroscopic analyses, including COSY, NOESY, HSQC, and
+DEPT-135 (Figure 1). In the 1H NMR spectrum of 4a, the
+signals at δ 3.61 (d, 1H, J = 3.2 Hz), 3.75 (dd, 1H, J = 12.8, 8
+Hz), and 4.16 (t, 1H, J = 7.2 Hz) are attributed to H1, H2, and
+H3, respectively. The 1H NMR signal of H11 at δ 1.07 is shifted
+unusually upﬁeld in comparison with that of H10 at δ 2.08 on
+the same carbon. We attribute this to the shielding eﬀect of the
+Ph group of 4a on H11. In the 13C NMR spectrum, the carbonyl
+signal of 4a is observed at δ 211.5 and the TMS-substituted
+vinyl carbon signal is observed at δ 192.6. The carbon bearing
+H1 gives a signal at δ 80.9 and that bearing H2 and H3 at δ 69.7.
+</para>
+3196
+
+DOI: 10.1021/acs.joc.5b00150
+J. Org. Chem. 2015, 80, 3195−3202
+
+The Journal of Organic Chemistry
+
+Article
+<para sub="scope">
+ee (Table 3). Thus, the enantiomeric purity of the starting
+chiral propargylic alcohol (R)-1c is completely maintained in
+this product. In a similar fashion, the other propargylic ethers
+(R)-3 are also converted to the corresponding cyclic products 4
+in the presence of [RhCl(CO)2]2 and CO with high
+chemoselectivity and stereoselectivity.
+is expected that
+these products should also maintain the enantiomeric purity
+of their corresponding propargylic alcohol starting materials,
+similar to the case for 4a,c.
+
+It
+</para>
+<para sub=“props”>
+Single crystals of compound 4d were obtained by slow
+evaporation of its hexane/isopropyl alcohol solution. An X-ray
+analysis of these single crystals has allowed us to determine the
+structure of 4d, as shown in Figure 2. This conﬁrms the
+structural assignment derived by analogy with that of 4a
+determined by NMR analysis. The bond angles around the
+central quaternary carbon of 4d are found to be 100.0−116.6°
+with the angle C(2)−C(1)−C(9) being the largest and the
+angle C(2)−C(1)−C(12) being the smallest. These data are
+very close to those calculated for 4a.
+</para>
+<para sub="scope">
+The reactions of additional
+
+racemic propargylic ether
+substrates in the presence of [RhCl(CO)2]2 and CO were
+also studied (Figure 3). Under the same conditions, compound
+2a with a terminal alkyne group gave a complicated product
+mixture. Apparently other reactions also occurred on the
+terminal alkyne. Compound 3i was observed to undergo the
+domino PK/DA cycloaddition in the presence of [RhCl-
+(CO)2]2 and CO. However, unlike (R)-3-Me, which gave 4-Me
+as a single diastereomer, 3i gave a mixture of two inseparable
+diastereomers in about a 1.6:1 ratio. When the bis-TMS
+compound 3j was subjected to the reaction conditions, an
+enyne PK cycloaddition took place to give 4j in 51% yield. That
+is, the PK cycloaddition of the two TMS group substituted
+</para>
+Figure 1. Observed NOE eﬀects of compound 4a and a molecular
+modeling structure.
+<para sub=“props”>
+The two quaternary carbons in the core give signals at δ 74.2
+and 65.6, respectively. Figure 1 shows the observed NOE
+eﬀects between the proton signals which have allowed the
+determination of
+its stereo structure. More detailed signal
+assignments are included in the Supporting Information. A
+molecular modeling structure of 4a obtained by using the
+Spartan semiempirical PM3 program is shown in Figure 1.
+</para>
+Previously, Chung reported a Co-catalyzed cyclization of
+racemic dienediynes to give racemic tetracyclic products similar
+to 4a.5 The use of the Co catalyst required higher temperature
+(130 °C) and higher pressure (30 atm) of CO in comparison to
+those for the use of the Rh catalyst reported here. In Chung’s
+work, the stereostructure of the product is also diﬀerent from
+that of 4a, which could be due to either a diﬀerent reaction
+mechanism or a possible error in assignment.
+<para sub="scope">
+When the aliphatic alkyne derived propargylic ether (R)-3c
+was treated with the Rh(I) catalyst under the same conditions
+as the reaction of (R)-3a, a similar tetracyclic product 4c was
+also obtained as a single diastereomer with 60% yield and 88%
+</para>
+Table 3. Synthesis of More Tetracyclic Products 4 from the Rh(I)-Catalyzed Domino PK/DA Cycloaddition
+
+3197
+
+DOI: 10.1021/acs.joc.5b00150
+J. Org. Chem. 2015, 80, 3195−3202
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“ques”>
+Coordination of (R)-3a with [RhCl(CO)2]2 can generate the
+intermediate 5. Oxidative coupling of the coordinated triple
+bonds of 5 gives 6. Migratory insertion of 6 with CO followed
+by reductive elimination should give the PK cycloaddition
+product 7. When both of the alkyne units contain a TMS
+group, as in 3j,
+it should be more diﬃcult to generate a
+corresponding intermediate similar to 5 due to the steric
+interaction of the two bulky TMS groups in the intermediate,
+and thus no PK cycloaddition of the two alkyne units of 3j was
+observed. The cyclopentadienone unit of the intermediate 7 is
+expected to be highly reactive, which readily undergoes an
+intramolecular endo-DA cycloaddition to give the tetracyclic
+product 4a. In this step, the cis Hβ and Hγ atoms on the newly
+to Hα on the
+formed chiral centers are cis with respect
+propargylic chiral center, whereas Ph and Me are trans with
+respect to each other. The stereochemistry of the isolated
+product supports this mechanism.
+</para>
+Conclusion. Using the chiral propargylic alcohols prepared
+from the catalytic asymmetric alkyne addition to aldehydes, we
+have synthesized a series of optically active propargyl 2,4-
+hexadienyl ethers. These compounds are found to undergo a
+one-pot Rh(I)-catalyzed intramolecular domino PK/DA cyclo-
+addition under mild reaction conditions to generate optically
+active tetracyclic products with high chemoselectivity and
+stereoselectivity. We have demonstrated that
+the high
+enantiomeric purity of
+the propargylic alcohols generated
+from the catalytic asymmetric alkyne addition is maintained in
+the domino cycloaddition products. This strategy is very
+eﬃcient for the asymmetric synthesis of polycyclic compounds.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Data. All commercial chemicals were used without further
+puriﬁcation unless otherwise noted. All catalysts were purchased and
+stored under a dry nitrogen atmosphere. Tetrahydrofuran was distilled
+over sodium and benzophenone under nitrogen. Diethyl ether and
+methylene chloride were dried by passing through activated alumina
+columns under nitrogen. All the NMR spectra were obtained in CDCl3
+unless indicated otherwise.
+
+General Procedure for the Catalytic Asymmetric Alkyne
+Addition to Aldehydes. Under nitrogen, (S)-BINOL (40 mol %)
+was weighed into a tared ﬂask and dissolved in Et2O (9 mL). An
+alkyne (4 equiv), Cy2NH (5 mol %), and Et2Zn (4 equiv) were added,
+and the mixture was stirred at room temperature for 16 h. Then,
+Ti(OiPr)4 (1 equiv) was added and stirring was continued for 3 h. An
+aldehyde (0.75 mmol, 1 equiv) was added and the mixture was stirred
+for another 4 h. The reaction mixture was quenched with saturated
+aqueous ammonium chloride and extracted three times with CH2Cl2.
+</para>
+Figure 2. Structure of compound 4d determined by X-ray analysis.
+
+Figure 3. Additional diene-diyne substrates studied.
+<para sub="scope">
+it
+
+the direction of
+
+is possible to control
+
+alkyne units might be too sterically hindered to occur. This
+shows that
+the
+cycloaddition by varying the substituents of the alkyne units to
+generate diverse products. The formation of 4j from 3j also
+suggests that the intramolecular DA reaction of the alkyne unit
+with the conjugated diene should not occur prior to the PK
+cycloaddition of the diyne unit. That is, the PK cycloaddition of
+compounds 3 should be more facile than the DA cycloaddition
+under the reaction conditions.
+</para>
+<para sub=“ques”>
+On the basis of previous studies on the Rh-catalyzed PK
+reactions,4a,b,6 a mechanism is proposed to illustrate the
+formation of compound 4a from (R)-3a (Scheme 3).
+</para>
+Scheme 3. Proposed Mechanism for the Chemoselective and Stereoselective Domino PK/DA Cycloadditions
+
+3198
+
+DOI: 10.1021/acs.joc.5b00150
+J. Org. Chem. 2015, 80, 3195−3202
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+The organic layer was dried with anhydrous Na2SO4 and concentrated
+by rotary evaporation. The resultant oil was puriﬁed by ﬂash column
+chromatography on silica gel with hexanes/ethyl acetate to give the
+propargylic alcohol products with 69−95% yield and 86−92% ee.
+Characterization of the Chiral Propargylic Alcohol Products
+(R)-1a−g Generated from Alkyne Additions to Aldehydes. (R)-
+1-Phenyl-7-(trimethylsilyl)hepta-1,6-diyn-3-ol ((R)-1a). Light yellow
+oil, 182.4 mg, 95% yield. 90% ee determined by HPLC analysis:
+CHIRALCEL OD column, 98/2 hexanes/iPrOH, ﬂow rate 1.0 mL/
+min, λ 254 nm, retention time tminor = 8.8 min, tmajor = 10.2 min. [α]22
+D
+= −36.3° (c = 0.88, CHCl3). 1H NMR (300 MHz, CDCl3): δ 7.43 (m,
+2H), 7.32 (m, 3H), 4.75 (t, 1H, J = 6.3 Hz), 2.51 (m, 2H), 2.03 (m,
+3H), 0.16 (s, 9H). 13C NMR (75 MHz, CDCl3): δ 131.9, 128.7, 128.5,
+122.6, 106.3, 89.4, 85.9, 85.6, 62.2, 36.6, 16.2, 0.3. HRMS [ESI(TOF)]
+for C16H20ONaSi [M + Na+]: m/z calcd for 279.1181, found 279.1186.
+(R)-1-(p-Tolyl)-7-(trimethylsilyl)hepta-1,6-diyn-3-ol ((R)-1b). Light
+yellow oil, 186.3 mg, 92% yield. 89% ee determined by HPLC analysis:
+CHIRALPAK AD-H column, 93:7 hexanes: iPrOH, ﬂow rate 1.0 mL/
+min, λ = 254 nm, retention time: tminor = 5.7 min, tmajor = 6.9 min.
+D = −37.1° (c = 3.34, CHCl3). 1H NMR (300 MHz, CDCl3): δ
+[α]23
+7.31 (d, 2H, J=8.1), 7.11 (d, 2H, J = 8.4), 4.74 (t, 1H, J = 6.6 Hz), 2.48
+(m, 2H), 2.34 (s, 3H), 2.02 (m, 2H), 0.16 (s, 9H). 13C NMR (75
+MHz, CDCl3): δ 138.9, 131.8, 129.3, 119.6, 106.4, 88.7, 85.8, 85.7,
+62.2, 36.7, 21.7, 16.2, 0.3. HRMS [ESI(TOF)] for C17H22ONaSi [M +
+Na+]: m/z calcd 293.1338, found 293.1352.
+
+(R)-9-Phenyl-1-(trimethylsilyl)nona-1,6-diyn-5-ol
+
+((R)-1c). Color-
+less oil, 191.7 mg, 90% yield. 88% ee determined by HPLC analysis:
+CHIRALPAK AD-H column, 99/1 hexanes/iPrOH, ﬂow rate 1.0 mL/
+min, λ 254 nm, retention time tminor = 11.8 min, tmajor = 13.3 min.
+D = −14.7° (c = 3.20, CHCl3). 1H NMR (300 MHz, CDCl3): δ
+[α]22
+7.26 (m, 5H), 4.48 (m, 1H), 2.82 (m, 2H), 2.51 (m, 2H), 2.35 (m,
+2H), 1.85 (m, 3H), 0.15 (s, 9H). 13C NMR (75 MHz, CDCl3): δ
+140.7, 128.7, 128.6, 126.6, 106.5, 85.6, 85.5, 81.4, 61.9, 36.8, 35.2, 21.1,
+16.1, 0.3. HRMS [ESI(TOF)] for C18H25OSi [M + H+]: m/z calcd
+285.1675, found 285.1681.
+
+(R)-1-(Trimethylsilyl)undeca-1,6-diyn-5-ol
+
+((R)-1d). Light yellow
+oil, 127.4 mg, 72% yield. 86% ee determined by 1H and 19F NMR
+D = −12.2° (c =
+analyses of the corresponding (R)-Mosher ester. [α]22
+0.64, CHCl3). 1H NMR (300 MHz, CDCl3): δ 4.49 (m, 1H), 2.41 (m,
+2H), 2.20 (m, 2H), 1.87 (m, 3H), 1.43 (m, 4H), 0.91 (t, 3H, J=7.2
+Hz), 0.14 (s, 9H). 13C NMR (75 MHz, CDCl3): δ 106.5, 86.4, 85.6,
+80.5, 62.0, 36.9, 30.9, 22.1, 18.6, 16.2, 13.8, 0.3. HRMS [ESI(TOF)]
+for C14H25OSi [M + H+]: m/z calcd 237.1675, found 237.1680.
+
+(R)-1-(Trimethylsilyl)trideca-1,6-diyn-5-ol ((R)-1e). Light yellow oil,
+136.6 mg, 69% yield. 86% ee determined by 1H and 19F NMR analyses
+D = −15.3° (c = 0.65,
+of the corresponding (R)-Mosher ester. [α]22
+CHCl3). 1H NMR (300 MHz, CDCl3): δ 4.49 (m, 1H), 2.39 (m, 2H),
+2.19 (m, 2H), 1.95 (s, 1H), 1.87 (m, 2H), 1.49 (m, 2H), 1.37 (m, 2H),
+1.28 (m, 4H), 0.88 (t, 3H, J = 6.9 Hz), 0.14 (s, 9H). 13C NMR (75
+MHz, CDCl3): δ 106.5, 86.4, 85.5, 80.6, 62.0, 36.9, 31.5, 28.8, 28.7,
+22.8, 18.9, 16.2, 14.3, 0.3. HRMS [ESI(TOF)] for C16H29OSi [M +
+H+]: m/z calcd 265.1988, found 265.1994.
+
+(R)-10-Chloro-1-(trimethylsilyl)deca-1,6-diyn-5-ol
+
+((R)-1f). Light
+yellow oil, 134.4 mg, 70% yield. 88% ee determined by 1H NMR
+D = −15.3° (c =
+analyses of the corresponding (R)-Mosher ester. [α]22
+0.87, CHCl3). 1H NMR (300 MHz, CDCl3): δ 4.49 (m, 1H), 3.63 (t,
+2H, J = 6.3 Hz), 2.40 (m, 4H), 2.08 (s, 1H), 1,91 (m, 4H), 0.13 (s,
+9H). 13C NMR (75 MHz, CDCl3): δ 106.3, 85.7, 84.2, 81.7, 61.9, 43.8,
+36.8, 31.4, 16.3, 16.2, 0.3. HRMS [ESI(TOF)] for C13H22OSiCl [M +
+H+]: m/z calcd 257.1128, found 257.1129.
+
+(R)-1-Phenoxy-8-(trimethylsilyl)octa-2,7-diyn-4-ol
+
+((R)-1g). Light
+yellow oil, 152.3 mg, 71% yield. 92% ee determined by 1H NMR
+D = −15.0° (c =
+analyses of the corresponding (R)-Mosher ester. [α]22
+1.07, CHCl3). 1H NMR (300 MHz, CDCl3): δ 7.30 (m, 2H), 6.98 (m,
+3H), 4.72 (d, 2H, J = 1.5 Hz), 4.56 (m, 1H), 2.34 (m, 3H), 1.90 (q,
+2H, J = 6.6 Hz), 0.15 (s, 9H). 13C NMR (75 MHz, CDCl3): δ 157.8,
+129.7, 121.8, 115.1, 106.1, 87.8, 85.9, 80.4, 61.6, 56.2, 36.3, 16.1, 0.3.
+HRMS [ESI(TOF)] for C17H23O2Si [M + H+]: m/z calcd 287.1467,
+found 287.1468.
+
+General Procedure for Preparation of the Unsubstituted
+Diene-Diynes (R)-2a−g. Under nitrogen, KOtBu (4 equiv) was
+weighed into a ﬂask and dissolved in THF (10 mL). Then a
+propargylic alcohol (1 equiv) and 1-bromo-2,4-hexadiene (2 equiv)
+were added sequentially. The mixture was stirred at room temperature
+for 15 h. The reaction mixture was quenched with saturated aqueous
+ammonium chloride and extracted three times with CH2Cl2. The
+organic layer was dried with anhydrous Na2SO4 and concentrated by
+rotary evaporation. The resultant oil was puriﬁed by ﬂash column
+chromatography on silica gel with hexanes/dichloromethane to give
+the products (R)-2a−g in 50−86% yield.
+
+Characterization of Compounds (R)-2a−g.
+
+((R)-3-((2E,4E)-
+Hexa-2,4-dien-1-yloxy)hepta-1,6-diyn-1-yl)benzene ((R)-2a). Pre-
+pared from (R)-1a (184.8 mg, 0.722 mmol), light yellow oil, 123.0
+D = 95.0° (c = 1.71, CHCl3). 1H NMR (600 MHz,
+mg, 65% yield. [α]22
+CDCl3): δ 7.43 (m, 2H), 7.30 (m, 3H), 6.25 (m, 1H), 6.06 (m, 1H),
+5.72 (m, 1H), 5.65 (m, 1H), 4.44 (m, 1H), 4.32 (dd, 1H, J = 12, 6
+Hz), 4.05 (dd, 1H, J = 12, 6 Hz), 2.43 (m, 2H), 2.03 (m, 2H), 1.96 (t,
+1H, 3 Hz), 1.75 (d, 3H, J = 6 Hz). 13C NMR (150 MHz, CDCl3): δ
+133.7, 131.7, 130.8, 130.2, 128.4, 128.3, 126.2, 122.6, 87.5, 86.1, 83.5,
+69.3, 68.7, 67.5, 34.6, 18.1, 14.7.
+
+1-((R)-3-((2E,4E)-Hexa-2,4-dien-1-yloxy)hepta-1,6-diyn-1-yl)-4-
+methylbenzene ((R)-2b). Prepared from (R)-1b (227.7 mg, 0.843
+D = 95.5° (c = 1.23,
+mmol), yellow oil, 125.8 mg, 54% yield. [α]22
+CHCl3). 1H NMR (600 MHz, CDCl3): δ 7.32 (d, 2H, J=8.4 Hz), 7.10
+(d, 2H, 7.8 Hz), 6.25 (m, 1H), 6.06 (m, 1H), 5.72 (m, 1H), 5.65 (m,
+1H), 4.43 (t, 1H, J = 6 Hz), 4.31 (dd, 1H, J = 12, 6 Hz), 4.04 (dd, 1H,
+J = 12, 6.6 Hz), 2.42 (m, 2H), 2.34 (s, 3H), 2.02 (m, 2H), 1.96 (t, 1H,
+J=2.4 Hz), 1.75 (d, 3H, J=6 Hz). 13C NMR (150 MHz, CDCl3): δ
+138.5, 133.6, 131.6, 130.8, 130.1, 129.0, 126.2, 119.5, 86.7, 86.2, 83.6,
+69.2, 68.7, 67.5, 34.6, 21.5, 18.1, 14.7
+
+((R)-5-((2E,4E)-Hexa-2,4-dien-1-yloxy)nona-3,8-diyn-1-yl)benzene
+((R)-2c). Prepared from (R)-1c (211.5 mg, 0.745 mmol), light yellow
+D = 64.7° (c = 0.79, CHCl3). 1H NMR
+oil, 178.8 mg, 82% yield. [α]22
+(600 MHz, CDCl3): δ 7.29 (m, 2H), 7.22 (m, 3H), 6.17 (m, 1H), 6.04
+(m, 1H), 5.71 (m, 1H), 5.59 (m, 1H), 4.17 (m, 2H), 3.89 (m, 1H),
+2.82 (t, 2H, J = 7.2 Hz), 2.52 (t, 2H, J = 7.2 Hz), 2.30 (m, 2H), 1.93
+(s, 1H), 1.90 (m, 1H), 1.85 (m, 1H), 1.75 (d, 3H, J = 6.6 Hz). 13C
+NMR (150 MHz, CDCl3): δ 140.5, 133.4, 130.8, 129.9, 128.4, 128.3,
+126.4, 126.3, 85.9, 83.7, 79.2, 68.9, 68.5, 67.2, 35.0, 34.7, 20.8, 18.1,
+14.5.
+
+(R)-5-((2E,4E)-Hexa-2,4-dien-1-yloxy)undeca-1,6-diyne ((R)-2d).
+Prepared from (R)-1d (50.0 mg, 0.212 mmol), colorless oil, 26.1
+D = 78.8° (c = 0.53, CHCl3). 1H NMR (600 MHz,
+mg, 50% yield. [α]21
+CDCl3): δ 6.20 (m, 1H), 6.04 (m, 1H), 5.68 (m, 1H), 5.60 (m, 1H),
+4.22 (dd, 1H, J = 12.6, 6 Hz), 4.17 (t, 1H, J = 6.6 Hz), 3.94 (dd, 1H, J
+= 12.6, 6.6 Hz), 2.34 (m, 2H), 2.21 (m, 2H), 1.89 (m, 3H), 1.73 (d,
+3H, J = 6.6 Hz), 1.48 (m, 2H), 1.40 (m, 2H), 0.90 (t, 3H, J = 7.2 Hz).
+13C NMR (150 MHz, CDCl3): δ 133.3, 130.8, 129.9, 126.4, 86.8, 83.7,
+78.3, 68.9, 68.4, 67.3, 34.8, 30.7, 21.9, 18.3, 18.0, 14.6, 13.5.
+
+(R)-5-((2E,4E)-Hexa-2,4-dien-1-yloxy)trideca-1,6-diyne ((R)-2e).
+Prepared from (R)-1e (95.1 mg, 0.360 mmol), colorless oil, 69.5
+D = 66.1° (c = 1.47, CHCl3). 1H NMR (600 MHz,
+mg, 71% yield. [α]21
+CDCl3): δ 6.20 (m, 1H), 6.04 (m, 1H), 5.70 (m, 1H), 5.61 (m, 1H),
+4.22 (dd, 1H, J = 12, 5.4 Hz), 4.18 (m, 1H), 3.95 (dd, 1H, J = 12.6, 7.2
+Hz), 2.34 (m, 2H), 2.20 (m, 2H), 1.89 (m, 3H), 1.74 (d, 3H, J = 6
+Hz), 1.49 (m, 2H), 1.37 (m, 2H), 1.28 (m, 4H), 0.88 (t, 3H, J = 6.6
+Hz). 13C NMR (150 MHz, CDCl3): δ 133.4, 130.8, 129.9, 126.4, 86.9,
+83.7, 78.3, 68.9, 68.4, 67.3, 34.8, 31.3, 28.6, 28.5, 22.5, 18.7, 18.1, 14.6,
+14.0.
+
+(R)-10-Chloro-5-((2E,4E)-hexa-2,4-dien-1-yloxy)deca-1,6-diyne
+((R)-2f). Prepared from (R)-1f (95.0 mg, 0.371 mmol), colorless oil,
+D = 63.3° (c = 0.60, CHCl3). 1H NMR (600
+73.3 mg, 75% yield. [α]19
+MHz, CDCl3): δ 6.21 (m, 1H), 6.04 (m, 1H), 5.71 (m, 1H), 5.60 (m,
+1H), 4.20 (m, 2H), 3.94 (m, 1H), 3.63 (m, 2H), 2.41 (m, 2H), 2.33
+(m, 2H), 1.94 (m, 4H), 1.87 (m, 1H), 1.74 (d, 3H, J = 6.6 Hz). 13C
+NMR (150 MHz, CDCl3): δ 133.5, 130.8, 130.1, 126.2, 84.6, 83.6,
+79.5, 69.1, 68.6, 67.2, 43.6, 34.7, 31.3, 18.1, 16.2, 14.6.
+
+(((R)-4-((2E,4E)-Hexa-2,4-dien-1-yloxy)octa-2,7-diyn-1-yl)oxy)-
+benzene ((R)-2g). Prepared from (R)-1g (112.0 mg, 0.392 mmol),
+</para>
+3199
+
+DOI: 10.1021/acs.joc.5b00150
+J. Org. Chem. 2015, 80, 3195−3202
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+D = 74.8° (c = 1.75, CHCl3). 1H
+colorless oil, 99.4 mg, 86% yield. [α]20
+NMR (600 MHz, CDCl3): δ 7.30 (m, 2H), 6.98 (m, 3H), 6.15 (m,
+1H), 6.02 (m, 1H), 5.67 (m, 1H), 5.56 (m, 1H), 4.73 (s, 2H), 4.25 (m,
+1H), 4.18 (m, 1H), 3.92 (m, 1H), 2.32 (m, 2H), 1.90 (m, 3H), 1.74
+(d, 3H, J = 6.6 Hz). 13C NMR (150 MHz, CDCl3): δ 157.5, 133.8,
+130.7, 130.3, 129.4, 125.9, 121.5, 115.0, 85.9, 83.3, 81.0, 69.3, 68.8,
+66.8, 56.0, 34.3, 18.1, 14.5.
+
+General Procedure for Preparation of the Optically Active
+Propargyl 2,4-Hexadienyl Ethers (R)-3. Under nitrogen, (R)-2 (1
+equiv) was dissolved in THF (5 mL) and cooled to −78 °C under
+nitrogen. nBuLi (2.5 M in hexane, 1.2 equiv) was added, and the
+mixture was stirred for 30 min. Then TMSCl or MeI (3 equiv) was
+added and the system was stirred for 18 h at room temperature. The
+reaction was quenched with saturated aqueous ammonium chloride
+solution and extracted with CH2Cl2 three times. The organic layer was
+washed with brine, dried with Na2SO4, concentrated by rotary
+evaporation, and puriﬁed by column chromatography on silica gel with
+hexanes/dichloromethane to give the products (R)-3 in 70−91% yield.
+Characterization of the Optically Active Dienediynes (R)-3.
+((R)-3-((2E,4E)-Hexa-2,4-dien-1-yloxy)octa-1,6-diyn-1-yl)benzene
+((R)-3-Me). Prepared from (R)-2a (172.0 mg, 0.652 mmol), colorless
+D = 77.5° (c = 1.30, CHCl3). 1H NMR
+oil, 144.5 mg, 80% yield. [α]22
+(600 MHz, CDCl3): δ 7.43 (m, 2H), 7.30 (m, 3H), 6.25 (m, 1H), 6.06
+(m, 1H), 5.72 (m, 1H), 5.66 (m, 1H), 4.43 (t, 1H, J = 6.6 Hz), 4.32
+(dd, 1H, J = 12, 5.4 Hz), 4.05 (dd, 1H, J = 12, 6.6 Hz), 2.35 (m, 2H),
+1.97 (m, 2H), 1.77 (s, 3H), 1.75 (d, 3H, J = 6 Hz). 13C NMR (150
+MHz, CDCl3): δ 133.6, 131.7, 130.8, 130.1, 128.3, 128.2, 126.3, 122.7,
+87.9, 85.9, 78.1, 76.0, 69.2, 67.7, 35.2, 18.1, 15.0, 3.5. HRMS
+[ESI(TOF)] for C20H23O [M + H+]: m/z calcd 279.1749, found
+279.1749.
+
+((R)-5-((2E,4E)-Hexa-2,4-dien-1-yloxy)-7-phenylhepta-1,6-diyn-1-
+yl)trimethylsilane ((R)-3a). Prepared from (R)-2a (123.0 mg, 0.466
+D = 69.3° (c = 1.92,
+mmol), colorless oil, 127.6 mg, 82% yield. [α]22
+CHCl3). 1H NMR (600 MHz, CDCl3): δ 7.44 (m, 2H), 7.30 (m, 3H),
+6.25 (m, 1H), 6.06 (m, 1H), 5.72 (m, 1H), 5.65 (m, 1H), 4.43 (t, 1H,
+J = 7.2 Hz), 4.31 (dd, 1H, J = 12, 6 Hz), 4.06 (dd, 1H, J = 12, 7.2 Hz),
+2.46 (m, 2H), 2.01 (m, 2H), 1.75 (d, 3H, J = 6.6 Hz). 13C NMR (150
+MHz, CDCl3): δ 133.7, 131.7, 130.8, 130.1, 128.3, 128.2, 126.2, 122.6,
+106.3, 87.7, 86.0, 85.0, 69.2, 67.4, 34.8, 18.1, 16.1, 0.1. HRMS
+[ESI(TOF)] for C22H29OSi [M + H+]: m/z calcd 337.1988, found
+337.1995.
+
+((R)-5-((2E,4E)-Hexa-2,4-dien-1-yloxy)-7-(p-tolyl)hepta-1,6-diyn-
+1-yl)trimethylsilane ((R)-3b). Prepared from (R)-2b (125.8 mg, 0.453
+D = 63.6° (c = 1.89,
+mmol), colorless oil, 111.2 mg, 70% yield. [α]22
+CHCl3). 1H NMR (600 MHz, CDCl3): δ 7.32 (d, 2H, J = 8.4 Hz),
+7.10 (d, 2H, 7.8 Hz), 6.25 (m, 1H), 6.06 (m, 1H), 5.72 (m, 1H), 5.65
+(m, 1H), 4.42 (m, 1H), 4.31 (dd, 1H, J = 12.6, 6 Hz), 4.05 (dd, 1H, J
+= 12, 6.6 Hz), 2.46 (m, 2H), 2.34 (s, 3H), 2.00 (m, 2H), 1.75 (d, 3H, J
+= 6 Hz), 0.15 (s, 9H). 13C NMR (150 MHz, CDCl3): δ 138.4, 133.6,
+131.6, 130.9, 130.1, 129.0, 126.3, 119.6, 106.3, 86.9, 86.1, 84.9, 69.2,
+67.5, 34.8, 21.5, 18.1, 16.1, 0.1. HRMS [ESI(TOF)] for C23H31OSi [M
++ H+]: m/z calcd 351.2144, found 351.2141.
+
+((R)-5-((2E,4E)-Hexa-2,4-dien-1-yloxy)-9-phenylnona-1,6-diyn-1-
+yl)trimethylsilane ((R)-3c). Prepared from (R)-2c (178.8 mg, 0.612
+D = 45.7° (c = 1.02,
+mmol), colorless oil, 203.8 mg, 91% yield. [α]22
+CHCl3). 1H NMR (600 MHz, CDCl3): δ 7.29 (m, 2H), 7.21 (m, 3H),
+6.17 (m, 1H), 6.04 (m, 1H), 5.69 (m, 1H), 5.58 (m, 1H), 4.15 (m,
+2H), 3.89 (dd, 1H, J = 12.6, 7.2 Hz), 2.82 (t, 2H, J = 7.2 Hz), 2.52 (t,
+2H, J = 7.2 Hz), 2.33 (m, 2H), 1.86 (m, 2H), 1.75 (d, 3H, J = 6.6 Hz),
+0.14 (s, 9H). 13C NMR (150 MHz, CDCl3): δ 140.5, 133.4, 130.9,
+129.9, 128.4, 128.3, 126.4, 126.3, 106.5, 85.7, 84.7, 79.4, 68.8, 67.1,
+35.0, 34.9, 20.9, 18.0, 16.0, 0.1. HRMS [ESI(TOF)] for C24H33OSi [M
++ H+]: m/z calcd 365.2301, found 365.2298.
+
+((R)-5-((2E,4E)-Hexa-2,4-dien-1-yloxy)undeca-1,6-diyn-1-yl)-
+trimethylsilane ((R)-3d). Prepared from (R)-2d (26.1 mg, 0.091
+D = 48.3° (c = 1.46,
+mmol), colorless oil, 29.1 mg, 86% yield. [α]20
+CHCl3). 1H NMR (600 MHz, CDCl3): δ 6.20 (m, 1H), 6.04 (m, 1H),
+5.69 (m, 1H), 5.60 (m, 1H), 4.21 (dd, 1H, J = 12.6, 6 Hz), 4.16 (t, 1H,
+J = 6 Hz), 3.95 (dd, 1H, J = 12.6, 6.6 Hz), 2.36 (m, 2H), 2.20 (t, 2H, J
+= 5.4 Hz), 1.87 (m, 2H), 1.73 (d, 3H, J = 6.6 Hz), 1.48 (m, 2H), 1.40
+
+(m, 2H), 0.90 (t, 3H, J = 7.2 Hz), 0.12 (s, 9H). 13C NMR (150 MHz,
+CDCl3): δ 133.4, 130.9, 129.9, 126.4, 106.5, 86.6, 84.7, 78.4, 68.8, 67.2,
+35.0, 30.7, 21.9, 18.4, 18.1, 16.0, 13.6, 0.1. HRMS [ESI(TOF)] for
+C20H33OSi [M + H+]: m/z calcd 317.2301, found 317.2298.
+
+((R)-5-((2E,4E)-Hexa-2,4-dien-1-yloxy)trideca-1,6-diyn-1-yl)-
+trimethylsilane ((R)-3e). Prepared from (R)-2e (69.5 mg, 0.256
+D = 48.0° (c = 1.65,
+mmol), colorless oil, 66.6 mg, 76% yield. [α]20
+CHCl3). 1H NMR (600 MHz, CDCl3): δ 6.20 (m, 1H), 6.04 (m, 1H),
+5.69 (m, 1H), 5.60 (m, 1H), 4.20 (dd, 1H, J = 12, 5.4 Hz), 4.16 (t, 1H,
+J = 6 Hz), 3.95 (m, 1H, J = 12.6, 6.6 Hz), 2.37 (m, 2H), 2.20 (t, 2H, J
+= 6 Hz), 1.88 (m, 2H), 1.73 (d, 3H, J = 6.6 Hz), 1.49 (m, 2H), 1.37
+(m, 2H), 1.28 (m, 4H), 0.88 (t, 3H, J = 6.6 Hz), 0.13 (s, 9H). 13C
+NMR (150 MHz, CDCl3): δ 133.4, 130.9, 129.9, 126.4, 106.5, 86.7,
+84.7, 78.4, 68.8, 67.2, 35.0, 31.3, 28.6, 28.5, 22.5, 18.7, 18.1, 16.0, 14.0,
+0.1. HRMS [ESI(TOF)] for C22H37OSi [M + H+]: m/z calcd
+345.2614, found 345.2619.
+
+((R)-10-Chloro-5-((2E,4E)-hexa-2,4-dien-1-yloxy)deca-1,6-diyn-1-
+yl)trimethylsilane ((R)-3f). Prepared from (R)-2f (31.5 mg, 0.119
+D = 48.1° (c = 1.52,
+mmol), colorless oil, 30.3 mg, 76% yield. [α]20
+CHCl3). 1H NMR (600 MHz, CDCl3): δ 6.20 (m, 1H), 6.04 (m, 1H),
+5.70 (m, 1H), 5.59 (m, 1H), 4.20 (m, 1H), 4.16 (m, 1H), 3.95 (m,
+1H), 3.63 (t, 2H, J = 6.6 Hz), 2.41 (m, 2H), 2.35 (m, 2H), 1.95 (t, 2H,
+J = 6.6 Hz), 1.87 (m, 2H), 1.74 (d, 3H, J = 6.6 Hz), 0.13 (s, 9H). 13C
+NMR (150 MHz, CDCl3): δ 133.5, 130.8, 130.1, 126.2, 106.3, 84.9,
+84.4, 79.7, 69.0, 67.1, 43.6, 34.9, 31.3, 18.1, 16.2, 16.0, 0.1. HRMS
+[ESI(TOF)] for C19H30OSiCl [M + H+]: m/z calcd 337.1754, found
+337.1762.
+
+((R)-5-((2E,4E)-Hexa-2,4-dien-1-yloxy)-8-phenoxyocta-1,6-diyn-1-
+yl)trimethylsilane ((R)-3g). Prepared from (R)-2g (99.4 mg, 0.338
+D = 57.8° (c = 0.78,
+mmol), colorless oil, 94.6 mg, 76% yield. [α]20
+CHCl3). 1H NMR (600 MHz, CDCl3): δ 7.30 (t, 2H, J = 7.2 Hz), 6.98
+(m, 3H), 6.13 (m, 1H), 6.01 (m, 1H), 5.68 (m, 1H), 5.56 (m, 1H),
+4.73 (s, 2H), 4.23 (t, 1H, J = 6 Hz), 4.17 (dd, 1H, J = 12.6, 6 Hz), 3.92
+(dd, 1H, J = 12, 7.2 Hz), 2.35 (m, 2H), 1.89 (m, 2H), 1.73 (d, 3H, J =
+6.6 Hz), 0.13 (s, 9H). 13C NMR (150 MHz, CDCl3): δ 157.5, 133.8,
+130.7, 130.2, 129.4, 125.9, 121.4, 115.0, 106.0, 86.0, 85.1, 80.8, 69.2,
+66.8, 56.0, 34.4, 18.1, 15.9, 0.1. HRMS [ESI(TOF)] for C23H31O2Si
+[M + H+]: m/z calcd 367.2093, found 367.2099.
+
+General Procedure for the Catalytic Domino PK/DA Cyclo-
+addition. Under nitrogen, a propargyl 2,4-hexadienyl ether (1 equiv)
+and [Rh(CO)2Cl]2 (0.1 equiv) were weighed into a tared two-necked
+round-bottom ﬂask and dissolved in 1,2-dichloroethane (DCE, 5 mL).
+The ﬂask was ﬁtted with a reﬂux condenser equipped with a septum,
+and the side arm of the ﬂask was also equipped with a septum. The
+solution was bubbled with CO gas for 2 min through the side arm
+equipped with a septum and a vent needle in the septum of the reﬂux
+condenser in a well-vented fume hood. Then, the solution was placed
+under a CO atmosphere by using a balloon. After the reaction mixture
+was heated at 80 °C to reﬂux temperature for 19−26 h, it was cooled
+to room temperature and the CO was released cautiously in the fume
+hood. The reaction mixture was concentrated, and the crude product
+was puriﬁed by column chromatography on silica gel with hexanes/
+ethyl acetate to give the tetracyclic products 4 with 42−64% yield and
+87−88% ee.
+
+Characterization of
+
+the Domino PK/DA Cycloaddition
+Products 4. Compound 4a. Prepared from (R)-3a (127.6 mg,
+0.380 mmol), colorless oil, 88.7 mg, 64% yield. 87% ee determined by
+HPLC analysis: CHIRALPAK AD-H column, 100/0.5 hexane-
+s/iPrOH, ﬂow rate 1.0 mL/min, λ 254 nm, retention time tmajor =
+D = 371.3° (c = 1.18, CHCl3). 1H NMR
+7.6 min, tminor = 9.4 min. [α]22
+(800 MHz, CDCl3): δ 7.27 (m, 2H), 7.19 (m, 1H), 7.02 (br, 2H), 5.88
+(m, 1H), 5.84 (m, 1H), 4.16 (t, 1H, J = 7.2 Hz), 3.75 (dd, 1H, J =
+12.8, 8 Hz), 3.61 (d, 1H, J = 3.2 Hz), 3.11 (m, 1H), 2.99 (m, 1H), 2.59
+(m, 1H), 2.52 (m, 1H), 2.08 (dd, 1H, J = 12.8, 7.2 Hz), 1.26 (d, 3H, J
+= 7.2 Hz), 1.07 (m, 1H), 0.25 (s, 9H). 13C NMR (150 MHz, CDCl3):
+δ 211.5, 192.6, 143.7, 139.7, 136.4, 128.5, 127.0, 126.5, 124.5, 80.9,
+74.2, 69.7, 65.6, 51.5, 39.8, 37.9, 32.0, 15.3, 0.9. HRMS [ESI(TOF)]
+for C23H29O2Si [M + H+]: m/z calcd 365.1937, found 365.1939.
+
+Compound 4c. Prepared from (R)-3c (203.8 mg, 0.560 mmol),
+colorless oil, 131.7 mg, 60% yield. 88% ee determined by HPLC
+</para>
+3200
+
+DOI: 10.1021/acs.joc.5b00150
+J. Org. Chem. 2015, 80, 3195−3202
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+analysis: CHIRALPAK AD-H column, 100/0.5 hexanes/iPrOH, ﬂow
+rate 1.0 mL/min, λ 254 nm, retention time tmajor = 8.9 min, tminor =
+D = 147.4° (c = 0.58, CHCl3). 1H NMR (600 MHz,
+10.9 min. [α]22
+CDCl3): δ 7.27 (m, 2H), 7.18 (m, 3H), 5.82 (m, 1H), 5.66 (m, 1H),
+4.69 (d, 1H, J = 4.2 Hz), 4.17 (t, 1H, J = 7.8 Hz), 3.84 (dd, 1H, J =
+12.6, 7.8 Hz), 2.90 (m, 1H), 2.64 (dd, 1H, J = 13.8, 7.2 Hz), 2.56 (m,
+3H), 2.42 (dd, 1H, J = 13.2, 7.2 Hz), 2.34 (m, 1H), 2.09 (m, 1H), 1.70
+(m, 2H), 1.37 (d, 3H, J = 7.2 Hz), 0.16 (s, 9H). 13C NMR (150 MHz,
+CDCl3): δ 211.1, 192.0, 142.5, 142.1, 136.2, 128.7, 128.3, 126.2, 124.7,
+79.9, 71.6, 69.6, 58.8, 52.2, 39.6, 38.7, 33.5, 32.2, 31.0, 15.3, −0.8.
+HRMS [ESI(TOF)] for C25H33O2Si [M + H+]: m/z calcd 393.2250,
+found 393.2250.
+
+Compound 4-Me. Prepared from (R)-3-Me (144.5 mg, 0.520
+D = 328.8° (c = 1.14,
+mmol), light yellow oil, 82.7 mg, 52% yield. [α]22
+CHCl3). 1H NMR (600 MHz, CDCl3): δ 7.27 (m, 3H), 7.03 (m, 2H),
+5.89 (m, 1H), 5.83 (m, 1H), 4.17 (t, 1H, J = 7.8 Hz), 3.75 (dd, 1H, J =
+12, 7.8 Hz), 3.59 (d, 1H, J = 3 Hz), 3.11 (m, 1H), 3.03 (m, 1H), 2.56
+(dd, 1H, J = 20.4, 7.2 Hz), 2.43 (m, 1H), 2.07 (dd, 1H, J = 13.2, 7.2
+Hz), 1.82 (s, 3H), 1.27 (d, 3H, J = 7.2 Hz), 1.08 (m, 1H). 13C NMR
+(150 MHz, CDCl3): δ 208.1, 178.4, 139.6, 139.1, 136.3, 128.7, 127.2,
+126.8, 125.2, 81.2, 71.6, 69.9, 64.7, 51.3, 40.2, 38.2, 29.8, 15.4, 9.5.
+HRMS [ESI(TOF)] for C21H23O2 [M + H+]: m/z calcd 307.1698,
+found 307.1693.
+
+Compound 4b. Prepared from (R)-3b (111.2 mg, 0.318 mmol),
+D = 370.6° (c = 1.17, CHCl3).
+colorless oil, 63.2 mg, 53% yield. [α]22
+1H NMR (600 MHz, CDCl3): δ 7.07 (d, 2H, J = 7.2 Hz), 6.89 (s, 2H),
+5.86 (m, 1H), 5.83 (m, 1H), 4.15 (t, 1H, J=7.2 Hz), 3.74 (m, 1H),
+3.64 (s, 1H), 3.09 (m, 1H), 2.95 (s, 1H), 2.58 (m, 1H), 2.52 (m, 1H),
+2.28 (s, 3H), 2.08 (m, 1H), 1.25 (d, 3H, J = 6 Hz), 1.07 (m, 1H), 0.24
+(s, 9H). 13C NMR (150 MHz, CDCl3): δ 211.6, 192.5, 143.6, 136.6,
+136.5, 136.0, 129.2, 126.9, 124.4, 81.0, 74.1, 69.7, 65.3, 51.5, 39.8, 37.9,
+32.0, 20.9, 15.3, −0.9. HRMS [ESI(TOF)] for C24H31O2Si [M + H+]:
+m/z calcd 379.2093, found 379.2091.
+
+Compound 4d. Prepared from (R)-3d (29.1 mg, 0.092 mmol), light
+D = 101.3° (c = 0.51, CHCl3). 1H
+yellow oil, 14.1 mg, 45% yield. [α]21
+NMR (600 MHz, CDCl3): δ 5.77 (m, 1H), 5.62 (m, 1H), 4.48 (d, 1H,
+J = 4.2 Hz), 4.12 (t, 1H, J = 7.8 Hz), 3.79 (dd, 1H, J = 12.6, 7.8 Hz),
+2.82 (m, 1H), 2.60 (dd, 1H, J = 13.8, 7.2 Hz), 2.51 (m, 1H), 2.36 (dd,
+1H, J = 13.2, 7.2 Hz), 2.27 (m, 1H), 1.79 (m, 1H), 1.63 (m, 1H), 1.29
+(d, 3H, J = 7.2 Hz), 1.27 (m, 5H), 0.89 (t, 1H, J = 6.6 Hz), 0.15 (s,
+9H). 13C NMR (150 MHz, CDCl3): δ 211.5, 191.7, 142.1, 136.1,
+124.3, 79.6, 71.4, 69.4, 58.6, 52.0, 39.3, 38.2, 31.9, 30.8, 26.5, 23.5,
+15.0, 13.9, −1.0. HRMS [ESI(TOF)] for C21H33O2Si [M + H+]: m/z
+calcd 345.2250, found 345.2245.
+
+Compound 4e. Prepared from (R)-3e (26.7 mg, 0.078 mmol), light
+D = 134.7° (c = 0.83, CHCl3). 1H
+yellow oil, 16.6 mg, 57% yield. [α]21
+NMR (600 MHz, CDCl3): δ 5.77 (m, 1H), 5.62 (m, 1H), 4.47 (d, 1H,
+J = 4.2 Hz), 4.12 (t, 1H, J = 7.8 Hz), 3.79 (dd, 1H, J = 12.6, 7.8 Hz),
+2.82 (m, 1H), 2.60 (dd, 1H, J = 13.8, 6.6 Hz), 2.52 (m, 1H), 2.36 (dd,
+1H, J = 13.2, 7.2 Hz), 2.26 (m, 1H), 1.78 (m, 1H), 1.64 (m, 1H), 1.30
+(d, 3H, J = 7.8 Hz), 1.25 (m, 9H), 0.87 (t, 3H, J = 6 Hz), 0.15 (s, 9H).
+13C NMR (150 MHz, CDCl3): δ 211.7, 191.9, 142.3, 136.4, 124.5,
+79.9, 71.7, 69.6, 58.9, 52.2, 39.5, 38.5, 32.1, 31.8, 31.3, 30.3, 24.6, 22.8,
+15.2, 14.2, −0.7. HRMS [ESI(TOF)] for C23H37O2Si [M + H+]: m/z
+calcd 373.2563, found 373.2561.
+
+Compound 4f. Prepared from (R)-3f (30.3 mg, 0.090 mmol),
+D = 182.0° (c = 0.35, CHCl3).
+colorless oil, 16.4 mg, 50% yield. [α]21
+1H NMR (600 MHz, CDCl3): δ 5.78 (m, 1H), 5.62 (m, 1H), 4.55 (d,
+1H, J = 3 Hz), 4.12 (t, 1H, J = 7.2 Hz), 3.79 (dd, 1H, J = 13.2, 9 Hz),
+3.50 (m, 2H), 2.79 (m, 1H), 2.61 (dd, 1H, J = 13.8, 7.2 Hz), 2.51 (m,
+1H), 2.37 (dd, 1H, J = 13.2, 7.2 Hz), 2.22 (m, 1H), 1.91 (m, 1H), 1.72
+(m, 2H), 1.65 (m, 1H), 1.57 (m, 1H), 1.29 (d, 3H, J = 7.2 Hz), 0.15
+(s, 9H). 13C NMR (150 MHz, CDCl3): δ 210.7, 191.9, 142.2, 135.8,
+124.6, 79.4, 71.3, 69.3, 57.9, 51.9, 45.3, 39.3, 38.5, 31.9, 28.3, 27.6,
+15.0,-1.0. HRMS [ESI(TOF)] for C20H30O2SiCl [M + H+]: m/z calcd
+365.1704, found 365.1704.
+
+Compound 4g. Prepared from (R)-3g (94.6 mg, 0.258 mmol), light
+D = 190.4° (c = 0.66, CHCl3). 1H
+yellow oil, 42.8 mg, 42% yield. [α]21
+NMR (600 MHz, CDCl3): δ 7.24 (t, 2H, J = 7.2 Hz), 6.92 (t, 1H, J =
+7.8 Hz), 6.80 (d, 1H, J = 8.4 Hz), 5.85 (m, 1H), 5.66 (m, 1H), 4.51 (s,
+
+1H), 4.15 (dd, 2H, J = 15.6, 7.2 Hz), 4.08 (d, 1H, J = 9 Hz), 3.81 (dd,
+1H, J = 12.6, 8.4 Hz), 2.97 (m, 1H), 2.66 (dd, 1H, J = 13.8, 6.6 Hz),
+2.58 (m, 1H), 2.52 (m, 1H), 2.32 (dd, 1H, J = 12.6, 7.2 Hz), 1.75 (m,
+1H), 1.37 (d, 3H, J = 6.6 Hz), 0.18 (s, 9H). 13C NMR (150 MHz,
+CDCl3): δ 208.7, 193.1, 158.3, 142.8, 135.6, 129.4, 124.9, 121,1, 114.3,
+79.9, 70.4, 69.3, 67.7, 59.5, 51.5, 39.0, 36.8, 32.2, 15.1, −1.0. HRMS
+[ESI(TOF)] for C24H31O3Si [M + H+]: m/z calcd 395.2042, found
+395.2039.
+
+Characterization of Additional Dienediyne Substrates and a
+PK Product. 6-((2E,4E)-Hexa-2,4-dien-1-yloxy)dodeca-2,7-diyne
+(3i). Colorless oil, 72 mg, 74% yield. 1H NMR (600 MHz, CDCl3):
+δ 6.20 (m, 1H), 6.04 (m, 1H), 5.69 (m, 1H), 5.61 (m, 1H), 4.22 (dd,
+1H, J = 12, 5.4 Hz), 4.16 (t, 1H, J=6 Hz), 3.95 (dd, 1H, J=12.6, 7.2
+Hz), 2.27 (m, 2H), 2.20 (t, 2H, J = 7.2 Hz), 1.86 (m, 1H), 1.80 (m,
+1H), 1.75 (s, 3H), 1.73 (d, 3H, J = 7.2 Hz), 1.48 (m, 2H), 1.40 (m,
+2H), 0.90 (t, 3H, J = 7.8 Hz). 13C NMR (150 MHz, CDCl3): δ 133.2,
+130.9, 129.8, 126.6, 86.5, 78.6, 78.3, 75.7, 68.8, 67.5, 35.4, 30.8, 21.9,
+18.4, 18.0, 14.9, 13.5, 3.4. HRMS [ESI(TOF)] for C18H27O [M + H+]:
+m/z calcd 259.2062, found 259.2064.
+
+(3-((2E,4E)-Hexa-2,4-dien-1-yloxy)hepta-1,6-diyne-1,7-diyl)bis-
+(trimethylsilane) (3j). Colorless oil, 120.2 mg, 87% yield. 1H NMR
+(600 MHz, CDCl3): δ 6.20 (m, 1H), 6.04 (m, 1H), 5.70 (m, 1H), 5.60
+(m, 1H), 4.22 (dd, 1H, J = 12, 5.4 Hz), 4.17 (t, 1H, J = 7.2 Hz), 3.96
+(dd, 1H, J = 12.6, 7.2 Hz), 2.37 (m, 2H), 1.90 (m, 2H), 1.74 (d, 3H, J
+= 6.6 Hz), 0.16 (s, 9H), 0.13 (s, 9H). 13C NMR (150 MHz, CDCl3): δ
+133.6, 130.8, 130.0, 126.2, 106.3, 104.1, 90.7, 84.8, 69.0, 67.3, 34.6,
+18.0, 15.9, 0.09, −0.10. HRMS [ESI(TOF)] for C19H33OSi2 [M +
+H+]: m/z calcd 333.2070, found 333.2069.
+
+PK Product 4j. light yellow oil, 58.7 mg, 51% yield. 1H NMR (600
+MHz, CDCl3): δ 5.56 (m, 2H), 5.00 (d, 1H, J = 10.2 Hz), 4.24 (t, 1H,
+J = 8.4 Hz), 3.29 (m, 1H), 3.15 (m, 1H), 2.79 (d, 1H, J=5.4 Hz), 2.46
+(m, 2H), 1.79 (m, 1H), 1.72 (d, 3H, J=6 Hz), 1.63 (m, 1H), 0.24 (s,
+9H), 0.13 (s, 9H). 13C NMR (150 MHz, CDCl3): δ 211.7, 193.3,
+134.1, 129.2, 126.6, 105.4, 86.1, 75.1, 68.3, 56.3, 55.1, 33.2, 18.1, 17.2,
+0.03, −0.77. HRMS [ESI(TOF)] for C20H33O2Si2 [M + H+]: m/z
+calcd 361.2019, found 361.2021.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Text, ﬁgures, tables, and a CIF ﬁle giving additional data for
+synthesis and characterization of the compounds, HPLC plots,
+NMR spectra, calculated Cartesian coordinates, and X-ray
+analysis data. This material is available free of charge via the
+Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail for L.P.: lp6n@virginia.edu.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+Partial support of this work from the US National Science
+Foundation (CHE-1047104) and the donors of the Petroleum
+Research Fund, administered by the American Chemical
+Society, are gratefully acknowledged.
+
+■ REFERENCES
+(1) (a) Frantz, D. E.; Fässler, R.; Tomooka, C. S.; Carreira, E. M. Acc.
+Chem. Res. 2000, 33, 373−381. (b) Pu, L. Tetrahedron 2003, 59,
+9873−9886. (c) Cozzi, P. G.; Hilgraf, R.; Zimmermann, N. Eur. J. Org.
+Chem. 2004, 4095−4105. (d) Lu, G.; Li, Y.-M.; Li, X.-S.; Chan, A. S.
+C. Coord. Chem. Rev. 2005, 249, 1736−1744. (e) Trost, B. M.; Weiss,
+A. H. Adv. Synth. Catal. 2009, 351, 963−983.
+(2) Selected reports on the catalytic asymmetric alkyne addition to
+aldehydes: (a) Frantz, D. E.; Fässler, R.; Carreira, E. M. J. Am. Chem.
+Soc. 2000, 122, 1806−1807. (b) Anand, N. K.; Carreira, E. M. J. Am.
+
+3201
+
+DOI: 10.1021/acs.joc.5b00150
+J. Org. Chem. 2015, 80, 3195−3202
+
+Article
+
+The Journal of Organic Chemistry
+Chem. Soc. 2001, 123, 9687−9688. (c) Li, X.-S.; Lu, G.; Kwok, W. H.;
+Chan, A. S. C. J. Am. Chem. Soc. 2002, 124, 12636−12637. (d) Xu, Z.
+Q.; Wang, R.; Xu, J. K.; Da, C.-S.; Yan, W. J.; Chen, C. Angew. Chem.,
+Int. Ed. 2003, 42, 5747−5749. (e) Takita, R.; Yakura, K.; Ohshima, T.;
+Shibasaki, M. J. Am. Chem. Soc. 2005, 127, 13760−13761. (f) Wolf, C.;
+Liu, S. J. Am. Chem. Soc. 2006, 128, 10996−10997. (g) Trost, B. M.;
+Weiss, A. H.; von Wangelin, A. J. J. Am. Chem. Soc. 2006, 128, 8−9.
+(h) Blay, G.; Cardona, L.; Fernandez, I.; Marco-Aleixandre, A.; Muñoz,
+M. C.; Pedro, J. R. Org. Biomol. Chem. 2009, 7, 4301−4308.
+(3) (a) Moore, D.; Pu, L. Org. Lett. 2002, 4, 1855−1857. (b) Gao, G.;
+Moore, D.; Xie, R.-G.; Pu, L. Org. Lett. 2002, 4, 4143−4146. (c) Du,
+Y.-H.; Turlington, M.; Zhou, X.; Pu, L. Tetrahedron Lett. 2010, 51,
+5024−5027. (d) Turlington, M.; Du, Y.-H.; Ostrum, S. G.; Santosh,
+V.; Wren, K.; Lin, T.; Sabat, M.; Pu, L. J. Am. Chem. Soc. 2011, 133,
+11780−11794. (e) Pu, L. Acc. Chem. Res. 2014, 47, 1523−1535.
+(4) (a) Ying, J.; Pu, L. Chem. Eur. J. 2014, 20, 16301−16307.
+(b) Chen, W.; Tay, J.-H.; Ying, J.; Yu, X.-Q.; Pu, L. J. Org. Chem. 2013,
+78, 2256−2265. (c) Wang, Q.; Pu, L. Synlett. 2013, 11, 1340−1363.
+(5) Kim, D. H.; Son, S. U.; Chung, Y. K.; Lee, S.-G. Chem. Commun.
+2002, 56−57.
+(6) Rh-catalyzed PK cycloadditions: (a) Jeong, N.; Lee, S.; Sung, B.
+K. Organometallics 1998, 17, 3642−3644. (b) Jeong, N.; Sung, B. K.;
+Choi, Y. K. J. Am. Chem. Soc. 2000, 122, 6771−6772. (c) Evans, P. A.;
+J. Am. Chem. Soc. 2001, 123, 4609−4610.
+Robinson,
+(d) Kobayashi, T.; Koga, Y.; Narasaka, K. J. Organomet. Chem. 2001,
+624, 73−87. (e) Fan, B. M.; Xie, J. H.; Li, S.; Tu, Y. Q.; Zhou, Q. L.
+Adv. Syn. Catal. 2005, 347, 759−762. (f) Shibata, T.; Toshida, N.;
+Takagi, K. Org. Lett. 2002, 4, 1619−1621. (g) Shibata, T.; Toshida, N.;
+Takagi, K. J. Org. Chem. 2002, 67, 7446−7450.
+
+J. E.
+
+3202
+
+DOI: 10.1021/acs.joc.5b00150
+J. Org. Chem. 2015, 80, 3195−3202
+
+

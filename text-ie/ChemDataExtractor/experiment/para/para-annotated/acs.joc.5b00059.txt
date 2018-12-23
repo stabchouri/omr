@@ -1,0 +1,1082 @@
+Article
+
+pubs.acs.org/joc
+
+Rh(III)-Catalyzed Oxidative Annulation of 2‑Phenylimidazo[1,2‑a]pyridines
+with Alkynes: Mono versus Double C−H Activation
+Zisong Qi, Songjie Yu, and Xingwei Li*
+Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian 116023, China
+
+*S Supporting Information
+
+ABSTRACT: Rh(III)-catalyzed C−H activation of 2-phenylimidazo[1,2-a]pyridines in divergent oxidative coupling with
+alkynes has been achieved. Selective mono versus 2-fold C−H activation has been attained under condition control. When
+AgOAc was used as an oxidant, the coupling aﬀorded 5,6-disubstituted naphtho[1′,2′:4,5]imidazo[1,2-a]pyridines as a result of
+initial nitrogen chelation-assisted C−H activation at the benzene ring followed by rollover C−H activation. In contrast, the
+reaction aﬀorded a fused isoquinolinium salt as a result of C−C and C−N coupling when AgBF4 was employed as a co-oxidant. A
+rhodacyclic intermediate has been isolated.
+
+■ INTRODUCTION
+Arenes and heteroarenes with extended conjugated π-systems
+have received considerable attention owing to their potential
+utility as organic electronic materials.1 Therefore, many future
+applications require the improvement of existing synthetic
+methods for extended π-systems. Transition metal-catalyzed
+C−H bond activation has received increasing attention as a
+powerful strategy in synthetic chemistry in the past decades.2 In
+particular, Rh(III)-catalyzed functionalization of C(aryl)−H
+bonds has experienced tremendous progress owing to their
+high eﬃciency, broad scope, and high functional group
+tolerance.3 Signiﬁcantly, preparation of heterocycles via
+rhodium(III)-catalyzed C−H activation of arenes and oxidative
+coupling with alkynes has been established as an important
+method by many research groups.4 The group of Miura and
+Satoh demonstrated the rhodium(III)-catalyzed synthesis of
+polyarylated naphthyl-/anthrylazole,5 acene,6 indolo[2,1-a]-
+isoquinoline,7 and naphthothiophene derivatives.8 Cramer and
+co-workers reported the synthesis of anthracenes via oxidative
+annulations of naphthalenes.9 Very recently, Rh(III)-catalyzed
+syntheses of aza-fused polycyclic quinolines,10
+eﬃcient
+naphthapyrans,11 phenanthroimidazoles,12 and naphthyridines13
+have also been described. Hua and co-workers reported synthesis
+of multisubstituted 2-aminoquinolines via Rh(III)-catalyzed
+coupling between tetrazoles and internal alkynes.14
+As a continuation of our interest in Rh(III)-catalyzed double
+C−H activation of arenes,15 we aim to explore the synthesis of
+fused heteroaromatics through double C−H bond activation
+resulting in oxidative annulations. We reasoned that
+the
+coupling of 2-phenylimidazo[1,2-a]pyridines with alkynes may
+
+follow this reaction pattern. This is because,
+in addition to
+chelation-assisted C−H activation in the benzene ring, the
+3-position of this heterocycle is also very reactive. Thus, the
+expected 2-fold C−H activation process may involve either
+N-chelation-assisted C−H activation followed by subsequent
+rollover C−H bond activation16 or C(3)-chelation-assisted cyclo-
+metalation. We now report a convenient condition-controlled
+approach to access 5,6-disubstituted naphtho[1′,2′:4,5]imidazo-
+[1,2-a]pyridines and a fused isoquinolinium via rhodium(III)-
+catalyzed C−H activation of 2-phenylimidazo[1,2-a]pyridines.
+■ RESULTS AND DISSCUSSION
+<para sub=“opt”>
+The coupling of 2-phenylimidazo[1,2-a]pyridine (1a) with
+diphenylacetylene (2a) was selected as a model reaction for the
+screening of the reaction parameters (Table 1). The initial reac-
+tion of 1a with 2a was carried out in the presence of 4 mol % of
+[RhCp*Cl2]2 (Cp* = 1,2,3,4,5-pentamethylcyclopentadienyl)
+and 16 mol % of AgSbF6 as the catalyst at 100 °C in DCE.
+While no product was detected when Ag2CO3 was used as an
+oxidant (Table 1, entry 1), switching the oxidant to AgOAc and
+Cu(OAc)2 resulted in the isolation of the desired product 3aa
+in 87% and 44% yield, respectively (entries 2 and 3), as a result
+of formal 2-fold C−H activation. Further examination of the
+solvent revealed that 1,4-dioxane, toluene, THF, and EtOAc all
+gave inferior results (entries 4−7). In a control experiment,
+omitting AgSbF6 led to the product 3aa in a low yield (entry 8)
+and no reaction was observed when neither AgSbF6 nor
+</para>
+Received:
+January 9, 2015
+Published: March 13, 2015
+
+© 2015 American Chemical Society
+
+3471
+
+DOI: 10.1021/acs.joc.5b00059
+J. Org. Chem. 2015, 80, 3471−3479
+
+The Journal of Organic Chemistry
+Table 1. Optimization Studiesa
+
+entry
+
+catalyst
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+[RhCp*Cl2]2/AgSbF6
+[RhCp*Cl2]2/AgSbF6
+[RhCp*Cl2]2/AgSbF6
+[RhCp*Cl2]2/AgSbF6
+[RhCp*Cl2]2/AgSbF6
+[RhCp*Cl2]2/AgSbF6
+[RhCp*Cl2]2/AgSbF6
+[RhCp*Cl2]2
+−
+
+oxidant
+Ag2CO3
+AgOAc
+Cu(OAc)2
+AgOAc
+AgOAc
+AgOAc
+AgOAc
+AgOAc
+AgOAc
+
+solvent
+
+yield (%)b
+
+DCE
+DCE
+DCE
+1,4-dioxane
+toluene
+THF
+EtOAc
+DCE
+DCE
+
+nd
+87
+44
+56
+38
+42
+35
+75
+nd
+
+aReaction conditions: [RhCp*Cl2]2 (4 mol %), AgSbF6 (16 mol %),
+oxidant (2.2 equiv), 1a (0.20 mmol), and 2a (0.24 mmol) in solvent
+(2 mL) at 100 °C for 12 h. bYield of isolated product.
+<para sub=“opt”>
+[RhCp*Cl2]2 was used (entry 9). Thus,
+the following
+conditions were eventually chosen for subsequent studies:
+[RhCp*Cl2]2 (4 mol %), AgSbF6 (16 mol %), AgOAc (2.2
+equiv) in DCE (2 mL) at 100 °C for 12 h.
+</para>
+<para sub="scope">
+Under the standard reaction conditions, we ﬁrst examined
+the 2-arylimidazo[1,2-a]pyridine substrates
+the scope of
+(1a−y) in the coupling with diphenylacetylene (2a) (Scheme 1).
+2-Arylimidazo[1,2-a]pyridines bearing electron-donating, electron-
+withdrawing, and halogen groups at the para position of benzene
+ring were generally well-tolerated and aﬀorded products
+3aa−ha in moderate to good isolated yields. Moreover, a
+larger-scale (5 mmol) synthesis of 3aa resulted in somewhat
+lower isolation (60%). An exception was observed for the
+substrate bearing a p-nitro group, where only low isolated yield
+was obtained (3ia). It was observed that substrate bearing a
+m-chloro group underwent selective C−H activation at the less
+hindered site to aﬀord the desired product 3ja in 83% yield.
+However, the m-methoxy-substituted substrate aﬀorded two
+regioisomeric products that could be chromatographically
+separated (3ka and 3k′a), and the identity of 3k′a has been
+conﬁrmed by X-ray crystallography.17 The desired products
+were isolated in 70−80% yield when a methyl or halogen group
+was introduced to the imidazo[1,2-a]pyridine ring (3la−oa).
+Substrates bearing methyl, methoxy, halo, and even cyano on
+both the benzene and pyridine ring also reacted smoothly to
+aﬀord products in good yields (3pa−wa). However,
+the
+8-methyl-substituted substrate exhibited lower reactivity and
+formed 3xa in 39% yield, implying that the reaction is strongly
+aﬀected by the steric eﬀect at this position and that the C−H
+activation might be assisted by N-coordination. Importantly,
+the arene ring in the substrate is not limited to a benzene sys-
+tem. When 2-(thiophen-2-yl)imidazo[1,2-a]pyridine was em-
+ployed under the standard conditions, product 3ya was isolated
+in 93% yield.
+</para>
+<para sub="scope">
+We next explored the scope and limitations of alkyne sub-
+strate in this coupling (Scheme 2). Symmetric diarylacetylenes
+bearing various substituents such as methyl, methoxy, halogen,
+and triﬂuoromethyl at the 4-position all coupled smoothly with
+1a in 67−89% yields (3ab−af). Diarylacetylene bearing a
+m-methyl provided 3ag in low yield, and two rotational isomers
+were observed as indicated by 1H and 13C NMR spectroscopy.
+This reaction is also compatible with o-ﬂuoro-substituted
+diarylacetylene, from which product 3ah was isolated in 43% yield.
+</para>
+Article
+<para sub="scope">
+The annulative coupling between bis(2-thiophenyl)acetylene
+and 1a took place to aﬀord 3ai in only 33% yield, indicative of
+limitation of
+the alkyne. It should be noted that diethyl
+acetylenedicarboxylate displayed good reactivity and aﬀorded
+product 3aj
+in 85% yield. Unsymmetrical alkynes such as
+1-phenyl-1-propyne were also applicable. Although the eﬃciency
+of this reaction is limited (3ak, 33%), the regioselectivity with
+to alkyne insertion is high. Aside from 2k, other
+respect
+unsymmetrical diarylacetylenes or alkyl phenylpropiolate also
+coupled with 1a in high eﬃciency, but a mixture of two
+regioisomeric products was isolated in approximately 2:1 ratio
+(3al and 3al′, 3am and 3am′, 3an and 3an′), and they failed to
+be chromatographically separated. All the above results seem to
+indicate that more electron-poor alkynes are more reactive. In
+contrast, both 3-hexyne and phenylacetylene failed to undergo
+the desired reaction.
+</para>
+<para sub="scope">
+To further extend the usage of the arene substrates and
+encouraged by the reports by Cheng,18 You,19 and others,20 we
+applied the imidazo[1,2-a]pyridines to an alternative oxidative
+C−C/C−N coupling reaction. Thus, 1a and 2a were treated
+under modiﬁed conditions reported by You, and the reaction
+aﬀorded a fused isoquinolinium 4a in 88% yield. The scope of
+the arenes and alkynes was next brieﬂy explored (Scheme 3). It
+was found that substrates bearing methyl, methoxy, and chloro
+groups were fully tolerated in this transformation, and the salt
+products were isolated in consistently good to high yields (4a−f).
+</para>
+<para sub=“props”>
+these
+products, we measured the absorption and emission spectra of a
+few products in CH2Cl2. 3aa, 3ca, and 3ya showed strong
+absorption bands between 240 and 300 nm and showed strong
+emissions of violet
+light between 410 and 480 nm when
+irradiated by light at 260 nm wavelength. In contrast, 3ia only
+showed relatively weak emissions at 393 and 618 nm when
+irradiated by light of 310 nm wavelength (see Supporting
+Information).
+
+To further understand the physical properties of
+</para>
+<para sub="scope">
+Several experiments have been performed to investigate the
+reaction mechanism. A competitive reaction has been
+conducted using an equimolar mixture of 1a and 2-([D5]-
+phenyl)imidazo[1,2-a]pyridine (1a-d5) in the coupling with 2a.
+1H NMR spectroscopic analysis of the product mixture revealed
+a kinetic isotope eﬀect (KIE) of 1.9 at a low conversion (eq 1).
+A stoichiometric reaction between 1a and [RhCp*Cl2]2 was
+performed in the presence of NaOAc,
+from which the
+cyclometalated product 5 was isolated in 74% yield. Complex
+</para>
+3472
+
+DOI: 10.1021/acs.joc.5b00059
+J. Org. Chem. 2015, 80, 3471−3479
+
+The Journal of Organic Chemistry
+Scheme 1. Substrate Scope of 2-Phenylimidazo[1,2-a]pyridinesa
+
+Article
+
+aReaction conditions: [RhCp*Cl2]2 (4 mol %), AgSbF6 (16 mol %), AgOAc (2.2 equiv), 1 (0.20 mmol), and 2a (0.24 mmol) in DCE (2 mL)
+at 100 °C for 12 h. Yield of isolated product.
+<para sub="scope">
+5 has been fully characterized by 1H and 13C NMR spec-
+troscopy. In particular, the Rh−C resonates as a doublet at δ
+174.4 (JRh−C = 31.2 Hz) in the 13C NMR spectrum (100 MHz,
+CDCl3). Complex 5 proved to be an active catalyst because
+when it was designated as a catalyst (7 mol %) in the presence
+of AgSbF6 for the coupling between 1a and 2a, product 3aa was
+isolated in a comparable yield (eq 3). In addition to this
+coupling reaction, 5 also proved to be an active catalyst for the
+C−C/C−N coupling between 1a and 2a to aﬀord 4a in 82%
+yield. These results indicated that in both coupling systems, the
+C−H activation is initially assisted by N-coordination, and in
+the formation of 3aa, subsequent rollover C−H activation16 to the
+C(3) position of the heterocycle is likely involved (see Scheme 4).
+</para>
+<para sub="scope">
+Based on these observations and literature precedents,16a,19 a
+proposed reaction mechanism is given in Scheme 4. First, coordina-
+tion of 1a to rhodium and subsequent cyclometalation generates
+rhodacyclic intermediate 5. Insertion of an incoming alkyne gives
+seven-membered rhodacycle 6. This intermediate is proposed to
+undergo nitrogen decoordination and rollover C−H activation16 to
+aﬀord intermediate 7, which is proposed to undergo reductive
+elimination to aﬀord product 3aa and a Rh(I) species. The Rh(I) is
+reoxidized by AgOAc to regenerate the rhodium(III) active catalyst
+for the next catalytic cycle. Alternatively, C−N bond reductive
+elimination of the rhodacycle 6 followed by anion exchange gives
+the fused isoquinolinium salt 4a and a Rh(I) species, which was
+oxidized by Cu(OAc)2 to regenerate the Rh(III) active catalyst.
+</para>
+3473
+
+DOI: 10.1021/acs.joc.5b00059
+J. Org. Chem. 2015, 80, 3471−3479
+
+The Journal of Organic Chemistry
+Scheme 2. Scope of the Alkyne Substratea
+
+Article
+
+Scheme 3. Synthesis of Fused Isoquinolinium
+Tetraﬂuoroboratesa
+
+aReaction conditions: [RhCp*Cl2]2 (4 mol %), AgBF4 (1.0 equiv),
+Cu(OAc)2 (1.0 equiv), 1 (0.20 mmol), and 2 (0.20 mmol) in DCE
+(3 mL) at 100 °C for 24 h. Yield of isolated product.
+
+■ CONCLUSION
+We have developed Rh(III)-catalyzed divergent C−H activation
+of 2-phenylimidazo[1,2-a]pyridines in the oxidative coupling with
+alkynes. Selective mono versus 2-fold C−H activation has been
+attained under condition control. When AgOAc was used as an
+oxidant,
+this coupling aﬀorded 5,6-disubstituted naphtho-
+[1′,2′:4,5]imidazo[1,2-a]pyridines as a result of inititial chelation-
+assisted C−H activation at the benzene ring followed by rollover
+C−H activation at the heterocycle. In contrast, the reaction
+aﬀorded a fused isoquinolinium as a result of C−C and C−N
+coupling while AgBF4 was employed as a co-oxidant. In both
+the initial C−H activation is assisted by nitrogen
+cases,
+coordination. A rhodacyle complex has been isolated and has
+been established as a reactive intermediate. This work expanded
+the scope of rhodium-catalyzed C−H activation of arenes for
+the synthesis of extended π-systems.
+■ EXPERIMENTAL SECTION
+
+General
+<para sub=“exp”>
+Information. All chemicals were obtained from
+commercial sources and were used as received unless otherwise
+noted. Diarylacetylenes21 other
+than diphenylacetylene and 2-
+phenylimidazo[1,2-a]pyridines22 were prepared by following literature
+</para>
+3474
+
+DOI: 10.1021/acs.joc.5b00059
+J. Org. Chem. 2015, 80, 3471−3479
+
+The Journal of Organic Chemistry
+
+Scheme 4. Proposed Reaction Mechanism
+<para sub=“exp”>
+reports. [RhCp*Cl2]2 was prepared from RhCl3
+·xH2O according to a
+literature procedure.23 All reactions were carried out using Schlenk
+techniques or
+in a nitrogen-ﬁlled glovebox. NMR spectra were
+recorded on a 400 MHz NMR spectrometer in the solvent indicated.
+The chemical shift is given in dimensionless δ values and is frequency
+referenced relative to TMS in 1H and 13C NMR spectroscopy. HRMS
+data were obtained via ESI mode with a TOF mass analyzer. Column
+chromatography was performed on silica gel (300−400 mesh) using
+ethyl acetate (EA)/petroleum ether (PE) or MeOH/CH2Cl2.
+General Procedures for Synthesis of 3. 2-Phenylimidazo[1,2-a]-
+pyridines (0.20 mmol), alkynes (0.24 mmol), [RhCp*Cl2]2 (4 mol %),
+AgSbF6 (16 mol %), AgOAc (2.2 equiv), and DCE (2 mL) were
+charged into the sealed tube. The reaction mixture was stirred at
+100 °C for 12 h. After cooling to room temperature, the solvent was
+removed under reduced pressure and the residue was puriﬁed by silica
+gel chromatography using PE/EA to aﬀord the desired product 3.
+5,6-Diphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine (3aa).
+white solid (64.4 mg, 87%); mp 299−300 °C; 1H NMR (400 MHz,
+CDCl3) δ 8.98 (d, J = 8.1 Hz, 1H), 7.84 (d, J = 9.0 Hz, 1H), 7.70 (ddd,
+J = 8.1, 6.9, 1.0 Hz, 1H), 7.61 (d, J = 8.3 Hz, 1H), 7.49 (ddd, J = 8.3,
+6.9, 1.3 Hz, 1H), 7.35−7.17 (m, 12H), 6.48 (td, J = 7.0, 1.1 Hz, 1H);
+13C NMR (100 MHz, CDCl3) δ 148.2, 141.1, 138.8, 137.1, 133.7,
+131.8, 131.7, 130.6, 128.7, 127.9, 127.8, 127.7, 127.4, 126.80, 126.77,
+126.7, 126.4, 126.34, 126.32, 123.2, 122.8, 118.0, 110.8; HRMS:
+[M + H]+ calculated for C27H19N2: 371.1543, found 371.1542.
+3-Methyl-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3ba). white solid (56.1 mg, 73%); mp 292−293 °C; 1H NMR
+(400 MHz, CDCl3) δ 8.87 (d, J = 8.3 Hz, 1H), 7.81 (d, J = 9.0 Hz,
+1H), 7.54 (dd, J = 8.3, 1.2 Hz, 1H), 7.37 (s, 1H), 7.34−7.16 (m, 12H),
+6.46 (td, J = 7.0, 1.0 Hz, 1H), 2.44 (s, 3H); 13C NMR (100 MHz,
+CDCl3) δ 148.2, 141.2, 138.9, 137.3, 136.1, 133.3, 131.82, 131.81,
+130.6, 128.6, 128.4, 127.8, 127.7, 127.2, 127.0, 126.8, 126.7, 126.6,
+124.3, 123.1, 122.4, 117.9, 110.6, 22.2; HRMS: [M + H]+ calculated
+for C28H21N2: 385.1699, found 385.1703.
+3-Methoxy-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3ca). pale yellow solid (56.1 mg, 70%); mp 244−246 °C; 1H NMR
+(400 MHz, CDCl3) δ 8.88 (d, J = 8.9 Hz, 1H), 7.79 (d, J = 9.1 Hz,
+1H), 7.36 (dd, J = 8.9, 2.5 Hz, 1H), 7.33−7.15 (m, 12H), 6.96 (d, J =
+2.5 Hz, 1H), 6.45 (td, J = 7.0, 1.1 Hz, 1H), 3.71 (s, 3H); 13C NMR
+(100 MHz, CDCl3) δ 158.2, 148.3, 141.3, 138.9, 137.2, 133.1, 132.8,
+131.7, 130.5, 128.6, 127.8, 127.8, 127.3, 127.2, 126.8, 126.6, 124.7,
+121.8, 121.1, 117.8, 117.1, 110.6, 108.3, 55.3; HRMS: [M + H]+
+calculated for C28H21N2O: 401.1648, found 401.1650.
+3-Fluoro-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3da). pale yellow solid (53.5 mg, 69%); mp 279−280 °C; 1H NMR
+(400 MHz, CDCl3) δ 8.96 (dd, J = 8.9, 5.9 Hz, 1H), 7.82 (d, J = 9.1 Hz,
+</para>
+Article
+<para sub=“exp”>
+1H), 7.44 (td, J = 8.6, 2.5 Hz, 1H), 7.37−7.20 (m, 11H), 7.18−7.15
+(m, 2H), 6.50 (dd, J = 10.0, 3.7 Hz, 1H); 13C NMR (100 MHz,
+CDCl3) δ 161.4 (d, J = 242.7 Hz), 148.4, 141.2, 138.3, 136.9, 133.1 (d,
+J = 7.5 Hz), 133.0 (d, J = 3.3 Hz), 131.6, 130.4, 128.7, 128.04, 127.99,
+127.91, 127.6, 127.0, 126.7, 125.5 (d, J = 9.1 Hz), 123.1, 122.5, 118.0,
+115.8 (d, J = 24.5 Hz), 111.9 (d, J = 22.3 Hz), 110.9; HRMS:
+[M + H]+ calculated for C27H18FN2: 389.1449, found 389.1447.
+3-Chloro-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3ea). white solid (65.5 mg, 81%); mp 300−301 °C; 1H NMR (400
+MHz, CDCl3) δ 8.90 (d, J = 8.7 Hz, 1H), 7.82 (d, J = 9.2 Hz, 1H),
+7.64 (dd, J = 8.7, 2.0 Hz, 1H), 7.58 (d, J = 2.0 Hz, 1H), 7.38−7.29 (m,
+4H), 7.29−7.20 (m, 6H), 7.19−7.13 (m, 2H), 6.50 (td, J = 7.0, 1.1 Hz,
+1H); 13C NMR (100 MHz, CDCl3) δ 148.5, 141.0, 138.0, 136.8,
+132.9, 132.7, 132.4, 131.7, 130.4, 128.8, 128.1, 128.0, 127.9, 127.8,
+127.1, 127.0, 126.8, 126.7, 124.8, 124.6, 123.0, 118.0, 111.0; HRMS:
+[M + H]+ calculated for C27H18ClN2: 405.1153, found 405.1154.
+3-Bromo-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3fa). pale yellow solid (63.7 mg, 71%); mp 302−303 °C; 1H NMR
+(400 MHz, CDCl3) δ 8.83 (d, J = 8.6 Hz, 1H), 7.92−7.68 (m, 3H),
+7.43−7.10 (m, 12H), 6.51 (t, J = 6.4 Hz, 1H); 13C NMR (100 MHz,
+CDCl3) δ 148.5, 141.0, 138.0, 136.7, 133.0, 132.8, 131.7, 130.4,
+129.9, 129.6, 128.8, 128.1, 128.0, 127.9, 127.8, 127.1, 126.7, 125.0,
+124.8, 123.0, 120.8, 118.1, 111.0; HRMS: [M + H]+ calculated for
+C27H18BrN2: 449.0648, found 449.0644.
+3,5,6-Triphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine (3ga).
+white solid (49.9 mg, 56%); mp >300 °C; 1H NMR (400 MHz,
+CDCl3) δ 9.04 (d, J = 8.5 Hz, 1H), 7.98 (dd, J = 8.5, 1.7 Hz, 1H),
+7.90−7.81 (m, 2H), 7.61−7.54 (m, 2H), 7.43−7.37 (m, 2H), 7.36−
+7.19 (m, 13H), 6.50 (td, J = 6.9, 1.0 Hz, 1H); 13C NMR (100 MHz,
+CDCl3) δ 148.4, 141.7, 139.1, 138.7, 137.2, 134.1, 132.0, 131.8, 130.6,
+128.9, 128.7, 127.9, 127.8, 127.7, 127.5, 127.33, 127.29, 126.9, 126.7,
+125.98, 125.95, 125.4, 123.8, 118.1, 110.8. Two carbons are not visible
+due to overlapping peaks; HRMS: [M + H]+ calculated for C33H23N2:
+447.1856, found 447.1856.
+5,6-Diphenyl-3-(triﬂuoromethyl)naphtho[1′,2′:4,5]imidazo[1,2-
+a]pyridine (3ha). white solid (59.6 mg, 68%); mp 261−262 °C; 1H
+NMR (400 MHz, CDCl3) δ 9.07 (d, J = 8.5 Hz, 1H), 7.92 (s, 1H),
+7.88 (dd, J = 8.6, 1.3 Hz, 1H), 7.84 (d, J = 9.2 Hz, 1H), 7.38−7.21 (m,
+10H), 7.20−7.14 (m, 2H), 6.51 (td, J = 7.1, 1.0 Hz, 1H); 13C NMR
+(100 MHz, CDCl3) δ 148.6, 140.6, 137.7, 136.6, 134.1, 131.7, 130.8,
+130.4, 128.8, 128.3, 128.23, 128.18, 128.0, 127.94, 127.89, 127.3,
+126.7, 125.2 (q, J = 4.5 Hz), 124.7 (q, J = 270.6 Hz), 124.2, 123.9,
+122.0 (q, J = 3.2 Hz), 118.2, 111.2; HRMS: [M + H]+ calculated for
+C28H18F3N2: 439.1417, found 439.1418.
+3-Nitro-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3ia). yellow solid (25.0 mg, 30%); mp >300 °C; 1H NMR (400 MHz,
+CDCl3) δ 9.07 (d, J = 9.0 Hz, 1H), 8.56 (d, J = 2.1 Hz, 1H), 8.44 (dd,
+J = 9.0, 2.2 Hz, 1H), 7.86 (d, J = 9.2 Hz, 1H), 7.43−7.35 (m, 4H),
+7.33−7.23 (m, 6H), 7.23−7.17 (m, 2H), 6.57 (t, J = 6.5 Hz, 1H); 13C
+NMR (100 MHz, CDCl3) δ 149.0, 146.1, 140.5, 137.2, 136.2, 134.9,
+131.7, 130.8, 130.3, 129.4, 129.1, 129.0, 128.5, 128.4, 128.1, 127.6,
+126.8, 124.9, 124.7, 124.4, 119.9, 118.4, 111.6; HRMS: [M + H]+
+calculated for C27H18N3O2: 416.1394, found 416.1395.
+2-Chloro-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3ja). pale white solid (67.1 mg, 83%); mp 277−278 °C; 1H NMR
+(400 MHz, CDCl3) δ 8.93 (d, J = 1.9 Hz, 1H), 7.78 (d, J = 9.1 Hz,
+1H), 7.51 (d, J = 8.9 Hz, 1H), 7.37 (dd, J = 9.0, 2.0 Hz, 1H), 7.35−
+7.26 (m, 4H), 7.26−7.18 (m, 6H), 7.17−7.11 (m, 2H), 6.47 (t, J = 6.8
+Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 148.3, 140.2, 138.3, 136.7,
+133.4, 132.5, 131.6, 130.4, 129.8, 129.4, 128.7, 128.0, 127.8, 127.7,
+127.04, 127.00, 126.9, 126.8, 126.6, 123.3, 122.3, 118.0, 110.9; HRMS:
+[M + H]+ calculated for C27H18ClN2: 405.1153, found 405.1154.
+4-Methoxy-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3ka). pale yellow solid (16.8 mg, 21%); mp 239−240 °C; 1H NMR
+(400 MHz, CDCl3) δ 8.63 (d, J = 8.1 Hz, 1H), 7.81 (d, J = 9.2 Hz,
+1H), 7.64 (t, J = 7.9 Hz, 1H), 7.32−7.24 (m, 4H), 7.21−7.15 (m, 2H),
+7.12−7.06 (m, 5H), 7.04 (dd, J = 8.8, 4.5 Hz, 1H), 6.94 (d, J = 7.7 Hz,
+1H), 6.45 (t, J = 6.8 Hz, 1H), 3.38 (s, 3H); 13C NMR (100 MHz,
+CDCl3) δ 157.9, 148.3, 143.0, 141.0, 137.3, 131.9, 130.8, 130.4, 128.4,
+128.3, 127.6, 127.5, 127.1, 126.7, 126.2, 125.1, 123.1, 122.5, 118.0,
+</para>
+3475
+
+DOI: 10.1021/acs.joc.5b00059
+J. Org. Chem. 2015, 80, 3471−3479
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+116.2, 110.7, 108.4, 100.2, 56.0; HRMS: [M + H]+ calculated for
+C28H21N2O: 401.1648, found 401.1651.
+2-Methoxy-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3k′a). pale white solid (30.4 mg, 38%); mp 279−280 °C; 1H NMR
+(400 MHz, CDCl3) δ 8.29 (d, J = 2.6 Hz, 1H), 7.84 (d, J = 9.4 Hz,
+1H), 7.51 (d, J = 9.2 Hz, 1H), 7.34−7.27 (m, 5H), 7.26−7.20 (m,
+5H), 7.19−7.16 (m, 2H), 7.13 (dd, J = 9.2, 2.7 Hz, 1H), 6.47 (t, J = 6.9
+Hz, 1H), 4.08 (s, 3H); 13C NMR (100 MHz, CDCl3) δ 158.5, 148.0,
+140.5, 138.9, 137.2, 133.8, 131.7, 130.8, 129.5, 128.6, 127.8, 127.64,
+127.62, 127.3, 126.74, 126.72, 126.5, 124.1, 123.3, 118.3, 118.0, 110.7,
+102.1, 56.0; HRMS: [M + H]+ calculated for C28H21N2O: 401.1648,
+found 401.1648.
+10-Methyl-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3la). pale yellow solid (58.4 mg, 76%); mp >300 °C; 1H NMR (400
+MHz, CDCl3) δ 8.95 (d, J = 8.1 Hz, 1H), 7.67 (t, J = 7.2 Hz, 1H),
+7.62−7.56 (m, 2H), 7.47 (ddd, J = 8.3, 6.9, 1.1 Hz, 1H), 7.34−7.28
+(m, 3H), 7.26−7.16 (m, 7H), 7.13 (d, J = 7.2 Hz, 1H), 6.32 (dd, J =
+7.2, 1.4 Hz, 1H), 2.38 (s, 3H); 13C NMR (100 MHz, CDCl3) δ 148.8,
+141.2, 138.9, 138.6, 137.2, 133.1, 131.8, 131.5, 130.6, 128.6, 127.8,
+127.68, 127.66, 126.7, 126.24, 126.16, 126.1, 125.7, 123.1, 122.7,
+116.2, 113.5, 21.7. One carbon is not visible due to overlapping peaks;
+HRMS: [M + H]+ calculated for C28H21N2: 385.1699, found 385.1698.
+9-Methyl-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3ma). white solid (53.8 mg, 70%); mp 288−289 °C; 1H NMR (400
+MHz, CDCl3) δ 8.96 (d, J = 8.1 Hz, 1H), 7.74 (d, J = 9.3 Hz, 1H),
+7.71−7.66 (m, 1H), 7.60 (d, J = 8.3 Hz, 1H), 7.51−7.45 (m, 1H),
+7.36−7.29 (m, 3H), 7.28−7.18 (m, 7H), 7.15 (dd, J = 9.3, 1.4 Hz,
+1H), 6.96 (s, 1H), 2.03 (s, 3H); 13C NMR (100 MHz, CDCl3) δ
+147.4, 141.1, 138.9, 137.3, 133.3, 131.8, 131.5, 130.6, 130.5, 128.6,
+127.8, 127.74, 127.68, 126.9, 126.7, 126.4, 126.3, 126.2, 124.4, 123.1,
+122.7, 120.1, 117.3, 18.6; HRMS: [M + H]+ calculated for C28H21N2:
+385.1699, found 385.1699.
+9-Fluoro-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3na). yellow solid (62.1 mg, 80%); mp 295−297 °C; 1H NMR (400
+MHz, CDCl3) δ 8.94 (d, J = 8.1 Hz, 1H), 7.81 (dd, J = 9.9, 5.3 Hz,
+1H), 7.71 (ddd, J = 8.0, 6.9, 1.1 Hz, 1H), 7.61 (d, J = 8.3 Hz, 1H), 7.51
+(ddd, J = 8.3, 6.9, 1.3 Hz, 1H), 7.39−7.32 (m, 3H), 7.28−7.18 (m,
+8H), 7.13 (dd, J = 5.1, 2.0 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ
+151.6 (d, J = 234.0 Hz), 145.8, 142.0, 138.6, 136.4 (d, J = 19.6 Hz),
+134.3, 131.72, 131.69, 130.5, 128.8, 128.2, 127.9, 127.8, 126.9, 126.61,
+126.58, 126.5, 123.6 (d, J = 2.0 Hz), 123.0, 119.5 (d, J = 26.0 Hz),
+118.3 (d, J = 8.8 Hz), 113.6, 113.1; HRMS: [M + H]+ calculated for
+C27H18FN2: 389.1449, found 389.1446.
+9-Chloro-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3oa). yellow solid (58.9 mg, 73%); mp 295−296 °C; 1H NMR (400
+MHz, CDCl3) δ 8.94 (d, J = 8.1 Hz, 1H), 7.77 (d, J = 9.6 Hz, 1H),
+7.71 (t, J = 7.4 Hz, 1H), 7.62 (d, J = 8.3 Hz, 1H), 7.51 (t, J = 7.5 Hz,
+1H), 7.40−7.33 (m, 3H), 7.29−7.17 (m, 9H); 13C NMR (100 MHz,
+CDCl3) δ 146.3, 141.6, 138.5, 136.5, 134.5, 131.8, 131.7, 130.4, 128.9,
+128.5, 128.2, 127.9, 127.8, 126.9, 126.7, 126.6, 126.3, 124.6, 123.1,
+122.9, 118.7, 118.2. One carbon is not visible due to overlapping
+peaks; HRMS: [M + H]+ calculated for C27H18ClN2: 405.1153, found
+405.1150.
+3-Chloro-10-methyl-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-
+a]pyridine (3pa). pale yellow solid (68.5 mg, 82%); mp >300 °C; 1H
+NMR (400 MHz, CDCl3) δ 8.87 (d, J = 8.7 Hz, 1H), 7.62 (dd, J = 8.7,
+2.0 Hz, 1H), 7.57 (d, J = 1.8 Hz, 2H), 7.36−7.29 (m, 3H), 7.28−7.20
+(m, 5H), 7.18−7.14 (m, 2H), 7.12 (d, J = 7.2 Hz, 1H), 6.35 (dd, J =
+7.2, 1.6 Hz, 1H), 2.40 (s, 3H); 13C NMR (100 MHz, CDCl3) δ 149.1,
+141.0, 139.1, 138.1, 136.9, 132.5, 132.3, 132.2, 131.8, 130.4, 128.7,
+128.0, 127.93, 127.89, 127.0, 126.8, 126.7, 125.8, 124.8, 124.5, 122.9,
+116.2, 113.8, 21.8; HRMS: [M + H]+ calculated for C28H20ClN2:
+419.1310, found 419.1312.
+2-Chloro-10-methyl-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-
+a]pyridine (3qa). pale yellow solid (66.9 mg, 80%); mp 279−280 °C;
+1H NMR (400 MHz, CDCl3) δ 8.90 (d, J = 2.1 Hz, 1H), 7.53 (s, 1H),
+7.51 (d, J = 9.0 Hz, 1H), 7.36 (dd, J = 9.0, 2.3 Hz, 1H), 7.33−7.29 (m,
+3H), 7.26−7.19 (m, 5H), 7.16−7.13 (m, 2H), 7.11 (d, J = 7.2 Hz,
+1H), 6.32 (dd, J = 7.2, 1.6 Hz, 1H), 2.37 (s, 3H); 13C NMR (100
+MHz, CDCl3) δ 148.9, 140.3, 139.0, 138.4, 136.8, 132.8, 132.3, 131.7,
+</para>
+Article
+<para sub=“exp”>
+130.5, 129.7, 129.3, 128.7, 127.9, 127.8, 127.0, 126.92, 126.89, 126.7,
+125.7, 123.2, 122.3, 116.2, 113.8, 21.7; HRMS: [M + H]+ calculated
+for C28H20ClN2: 419.1314, found 419.1312.
+3-Methoxy-9-methyl-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-
+a]pyridine (3ra). pale yellow solid (65.4 mg, 79%); mp 233−234 °C;
+1H NMR (400 MHz, CDCl3) δ 8.86 (d, J = 8.9 Hz, 1H), 7.69 (d, J =
+9.2 Hz, 1H), 7.36−7.29 (m, 4H), 7.26−7.16 (m, 7H), 7.11 (dd, J =
+9.3, 1.6 Hz, 1H), 6.96 (d, J = 2.5 Hz, 1H), 6.93 (s, 1H), 3.70 (s, 3H),
+2.01 (s, 3H); 13C NMR (100 MHz, CDCl3) δ 158.1, 147.4, 141.3,
+138.9, 137.3, 132.9, 132.4, 131.7, 130.5, 130.3, 128.5, 127.8, 127.7,
+127.3, 126.7, 124.6, 124.4, 121.7, 121.1, 119.8, 117.0, 116.9, 108.2,
+55.3, 18.5; HRMS: [M + H]+ calculated for C29H23N2O: 415.1805,
+found 415.1810.
+3-Fluoro-9-methyl-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]-
+pyridine (3sa). pale yellow solid (60.3 mg, 75%); mp 287−289 °C; 1H
+NMR (400 MHz, CDCl3) δ 8.93 (dd, J = 9.0, 5.9 Hz, 1H), 7.70 (d, J =
+9.3 Hz, 1H), 7.42 (td, J = 8.6, 2.5 Hz, 1H), 7.37−7.30 (m, 3H), 7.28−
+7.12 (m, 9H), 6.94 (s, 1H), 2.02 (s, 3H); 13C NMR (100 MHz,
+CDCl3) δ 161.3 (d, J = 254.6 Hz), 147.5, 141.1, 138.4, 137.0, 132.9 (d,
+J = 9.0 Hz), 132.5 (d, J = 4.5 Hz), 131.7, 130.7, 130.4, 128.6, 128.1,
+127.89, 127.88, 127.0, 125.4 (d, J = 9.0 Hz), 124.4, 123.1, 122.3, 120.2,
+117.1, 115.7 (d, J = 24.5 Hz), 111.8 (d, J = 22.4 Hz), 18.5; HRMS:
+[M + H]+ calculated for C28H20FN2: 403.1605, found 403.1606.
+3-Chloro-9-methyl-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-
+a]pyridine (3ta). pale yellow solid (66.9 mg, 80%); mp 263−264 °C;
+1H NMR (400 MHz, CDCl3) δ 8.87 (d, J = 8.7 Hz, 1H), 7.71 (d, J =
+9.3 Hz, 1H), 7.62 (dd, J = 8.7, 2.0 Hz, 1H), 7.57 (d, J = 1.9 Hz, 1H),
+7.37−7.31 (m, 3H), 7.29−7.21 (m, 5H), 7.20−7.12 (m, 3H), 6.94 (s,
+1H), 2.02 (s, 3H); 13C NMR (100 MHz, CDCl3) δ 147.6, 141.0,
+138.1, 136.9, 132.5, 132.4, 132.2, 131.7, 130.9, 130.4, 128.6, 128.1,
+127.94, 127.89, 127.1, 126.9, 126.7, 124.7, 124.6, 124.4, 122.9, 120.3,
+117.2, 18.6; HRMS: [M + H]+ calculated for C28H20ClN2: 419.1310,
+found 419.1306.
+9-Fluoro-3-methyl-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]-
+pyridine (3ua). pale yellow solid (53.9 mg, 67%); mp 291−292 °C;
+1H NMR (400 MHz, CDCl3) δ 8.83 (d, J = 8.3 Hz, 1H), 7.77 (dd, J =
+9.8, 5.3 Hz, 1H), 7.54 (dd, J = 8.3, 1.2 Hz, 1H), 7.37 (s, 1H), 7.36−
+7.30 (m, 3H), 7.28−7.16 (m, 8H), 7.09 (dd, J = 5.1, 2.0 Hz, 1H), 2.44
+(s, 3H); 13C NMR (100 MHz, CDCl3) δ 151.6 (d, J = 233.8 Hz),
+145.7, 142.1, 138.7, 136.6, 136.4, 133.9, 131.9, 131.7, 130.5, 128.8,
+128.6, 128.1, 127.7, 127.2, 126.8, 126.6, 124.4, 123.2 (d, J = 2.2 Hz),
+122.9, 119.2 (d, J = 26.0 Hz), 118.1 (d, J = 8.8 Hz), 113.3, 113.1,
+22.2; HRMS: [M + H]+ calculated for C28H20FN2: 403.1605, found
+403.1602.
+9-Chloro-3-methyl-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-
+a]pyridine (3va). yellow solid (58.5 mg, 70%); mp 282−283 °C; 1H
+NMR (400 MHz, CDCl3) δ 8.82 (d, J = 8.3 Hz, 1H), 7.73 (d, J = 9.6
+Hz, 1H), 7.54 (dd, J = 8.3, 1.1 Hz, 1H), 7.39−7.32 (m, 4H), 7.29−
+7.16 (m, 8H), 7.15 (d, J = 1.7 Hz, 1H), 2.44 (s, 3H); 13C NMR (100
+MHz, CDCl3) δ 146.2, 141.6, 138.6, 136.6, 136.4, 134.0, 131.9, 131.7,
+130.4, 128.8, 128.6, 128.3, 128.1, 127.7, 127.1, 126.8, 126.6, 124.5,
+124.3, 123.0, 122.5, 118.5, 118.1, 22.2; HRMS: [M + H]+ calculated
+for C28H20ClN2: 419.1310, found 419.1313.
+3-Methyl-5,6-diphenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine-
+10-carbonitrile (3wa). yellow solid (53.2 mg, 65%); mp >300 °C; 1H
+NMR (400 MHz, CDCl3) δ 8.84 (d, J = 8.3 Hz, 1H), 8.19 (s, 1H),
+7.59 (d, J = 7.6 Hz, 1H), 7.40−7.33 (m, 4H), 7.30−7.21 (m, 6H),
+7.20−7.16 (m, 2H), 6.58 (dd, J = 7.3, 1.6 Hz, 1H), 2.46 (s, 3H); 13C
+NMR (100 MHz, CDCl3) δ 145.5, 142.8, 138.2, 137.3, 136.4, 136.0,
+132.3, 131.5, 130.5, 129.1, 128.9, 128.3, 127.8, 127.4, 127.2, 127.1,
+126.4, 124.2, 124.1, 123.3, 123.1, 117.7, 110.4, 109.4, 22.3; HRMS:
+[M + H]+ calculated for C29H20N3: 410.1652, found 410.1656.
+3-Methoxy-11-methyl-5,6-diphenylnaphtho[1′,2′:4,5]imidazo-
+[1,2-a]pyridine (3xa). yellow solid (32.3 mg, 39%); mp 216−218 °C;
+1H NMR (400 MHz, CDCl3) δ 8.94 (d, J = 8.9 Hz, 1H), 7.34 (dd, J =
+8.9, 2.5 Hz, 1H), 7.32−7.27 (m, 3H), 7.26−7.16 (m, 7H), 7.13 (d, J =
+7.0 Hz, 1H), 7.07 (d, J = 6.7 Hz, 1H), 6.95 (d, J = 2.4 Hz, 1H), 6.38 (t,
+J = 6.9 Hz, 1H), 3.71 (s, 3H), 2.78 (s, 3H); 13C NMR (100 MHz,
+CDCl3) δ 158.1, 148.8, 141.1, 139.0, 137.3, 132.9, 132.7, 131.8, 130.6,
+128.6, 127.8, 127.7, 127.5, 127.4, 126.7, 125.8, 125.0, 124.4, 122.3,
+</para>
+3476
+
+DOI: 10.1021/acs.joc.5b00059
+J. Org. Chem. 2015, 80, 3471−3479
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+121.3, 116.9, 110.5, 108.1, 55.3, 17.9; HRMS: [M + H]+ calculated for
+C29H23N2O: 415.1805, found 415.1808.
+4,5-Diphenylthieno[3″,2″:5′,6′]benzo[1′,2′:4,5]imidazo[1,2-a]-
+pyridine (3ya). white solid (70.0 mg, 93%); mp 266−267 °C; 1H
+NMR (400 MHz, CDCl3) δ 7.77 (d, J = 9.1 Hz, 1H), 7.46 (d, J = 5.3
+Hz, 1H), 7.36−7.31 (m, 4H), 7.31−7.18 (m, 8H), 7.16 (d, J = 5.3 Hz,
+1H), 6.46 (t, J = 6.8 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 149.0,
+139.4, 139.2, 138.4, 136.7, 131.18, 131.16, 131.0, 129.1, 128.7, 128.3,
+128.0, 127.7, 127.2, 126.7, 125.54, 125.46, 124.5, 123.4, 117.9, 110.5;
+HRMS: [M + H]+ calculated for C25H17N2S: 377.1107,
+found
+377.1108.
+5,6-Di-p-tolylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine (3ab).
+white solid (56.5 mg, 71%); mp 286−287 °C; 1H NMR (400 MHz,
+CDCl3) δ 8.96 (d, J = 8.1 Hz, 1H), 7.83 (d, J = 8.9 Hz, 1H), 7.68 (ddd,
+J = 8.0, 6.8, 0.9 Hz, 1H), 7.61 (d, J = 8.4 Hz, 1H), 7.47 (ddd, J = 8.3,
+6.9, 1.2 Hz, 1H), 7.32−7.26 (m, 2H), 7.12 (d, J = 8.6 Hz, 4H), 7.09−
+7.03 (m, 4H), 6.49 (td, J = 6.9, 1.1 Hz, 1H), 2.37 (s, 3H), 2.32 (s, 3H);
+13C NMR (100 MHz, CDCl3) δ 148.2, 141.0, 137.4, 136.1, 135.8,
+134.1, 133.9, 131.9, 131.6, 130.4, 129.4, 128.4, 127.8, 127.2, 126.9,
+126.8, 126.3, 126.2, 123.1, 118.0, 110.6, 21.5, 21.4. DEPT 135 analysis
+revealed that a quaternary carbon signal overlaps with the δ 126.8
+signal and a tertiary carbon signal overlaps with the δ 126.2 signal.
+HRMS: [M + H]+ calculated for C29H23N2: 399.1856, found 399.1855.
+5,6-Bis(4-methoxyphenyl)naphtho[1′,2′:4,5]imidazo[1,2-a]-
+pyridine (3ac). white solid (60.2 mg, 70%); mp 285−287 °C; 1H
+NMR (400 MHz, CDCl3) δ 8.96 (d, J = 7.9 Hz, 1H), 7.84 (d, J = 9.1
+Hz, 1H), 7.69 (t, J = 7.3 Hz, 1H), 7.63 (d, J = 8.4 Hz, 1H), 7.49 (t, J =
+7.6 Hz, 1H), 7.38 (d, J = 6.8 Hz, 1H), 7.33−7.28 (m, 1H), 7.14 (d, J =
+8.2 Hz, 2H), 7.09 (d, J = 8.2 Hz, 2H), 6.87 (d, J = 8.1 Hz, 2H), 6.81
+(d, J = 8.2 Hz, 2H), 6.52 (t, J = 6.8 Hz, 1H), 3.84 (s, 3H), 3.80 (s,
+3H); 13C NMR (100 MHz, CDCl3) δ 159.0, 158.3, 133.9, 132.8,
+132.1, 131.6, 131.2, 129.4, 127.8, 127.3, 126.83, 126.78, 126.31,
+126.25, 123.1, 118.0, 114.2, 113.3, 110.7, 55.4, 55.3. Four carbons are
+not visible due to signal overlapping. HRMS: [M + H]+ calculated for
+C29H23N2O2: 431.1754, found 431.1759.
+5,6-Bis(4-chlorophenyl)naphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3ad). white solid (68.5 mg, 78%); mp 281−282 °C; 1H NMR (400
+MHz, CDCl3) δ 8.96 (d, J = 8.0 Hz, 1H), 7.84 (d, J = 9.2 Hz, 1H),
+7.71 (t, J = 7.0 Hz, 1H), 7.57−7.47 (m, 2H), 7.39−7.29 (m, 4H), 7.25
+(d, J = 7.9 Hz, 2H), 7.17 (d, J = 8.0 Hz, 2H), 7.09 (d, J = 8.0 Hz, 2H),
+6.56 (t, J = 6.8 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 148.3, 141.4,
+137.0, 135.4, 134.2, 133.1, 133.0, 132.5, 131.8, 131.3, 129.2, 128.2,
+127.6, 127.4, 126.7, 126.6, 126.4, 126.3, 125.6, 123.3, 122.4, 118.2,
+111.1; HRMS: [M + H]+ calculated for C27H17Cl2N2: 439.0763, found
+439.0767.
+5,6-Bis(4-bromophenyl)naphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3ae). pale yellow solid (70.7 mg, 67%); mp 292−294 °C; 1H NMR
+(400 MHz, CDCl3) δ 8.96 (d, J = 8.1 Hz, 1H), 7.84 (d, J = 9.3 Hz,
+1H), 7.70 (ddd, J = 8.0, 6.3, 1.7 Hz, 1H), 7.56−7.46 (m, 4H), 7.41 (d,
+J = 8.3 Hz, 2H), 7.35−7.30 (m, 2H), 7.11 (d, J = 8.3 Hz, 2H), 7.03 (d,
+J = 8.3 Hz, 2H), 6.57 (t, J = 6.5 Hz, 1H); 13C NMR (100 MHz,
+CDCl3) δ 148.3, 141.4, 137.5, 135.8, 133.3, 132.4, 132.1, 131.24,
+131.17, 127.6, 127.4, 126.7, 126.6, 126.4, 126.3, 125.5, 123.3, 122.4,
+122.3, 121.3, 118.2, 111.2. One carbon is not visible due to over-
+lapping peaks; HRMS: [M + H]+ calculated for C27H17Br2N2: 526.9753,
+found 526.9756.
+5,6-Bis(4-(triﬂuoromethyl)phenyl)naphtho[1′,2′:4,5]imidazo[1,2-
+a]pyridine (3af). white solid (90.0 mg, 89%); mp >300 °C; 1H NMR
+(400 MHz, CDCl3) δ 8.99 (d, J = 8.2 Hz, 1H), 7.86 (d, J = 9.2 Hz,
+1H), 7.74 (ddd, J = 8.1, 6.7, 1.3 Hz, 1H), 7.63 (d, J = 8.0 Hz, 2H),
+7.56−7.46 (m, 4H), 7.40 (d, J = 8.0 Hz, 2H), 7.35 (ddd, J = 9.1, 6.7,
+1.0 Hz, 1H), 7.30 (d, J = 7.9 Hz, 2H), 7.24 (d, J = 7.1 Hz, 1H), 6.57
+(td, J = 7.0, 1.0 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 148.5, 142.4,
+141.7, 140.6, 132.2, 132.1, 131.0, 130.6 (q, J = 32.5 Hz), 129.5 (q, J =
+32.4 Hz), 127.8, 127.3, 127.0, 126.9, 126.6, 126.1, 125.9 (q, J = 3.7
+Hz), 125.3, 124.9 (q, J = 270.4 Hz), 124.3 (q, J = 3.7 Hz), 124.0 (q,
+J = 270.7 Hz), 123.4, 122.1, 118.4, 111.4. One carbon is not visible
+due to overlapping peaks; HRMS: [M + H]+ calculated for C29H17F6N2:
+507.1290, found 507.1292.
+</para>
+Article
+<para sub=“exp”>
+5,6-Di-m-tolylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine (3ag).
+pale yellow solid (37.5 mg, 47%); mp 245−247 °C; 1H NMR (400
+MHz, CDCl3) δ 8.97 (d, J = 8.1 Hz, 1H), 7.84 (d, J = 9.2 Hz, 1H),
+7.69 (t, J = 7.5 Hz, 1H), 7.63 (d, J = 8.3 Hz, 1H), 7.49 (ddd, J = 8.1,
+6.8, 1.0 Hz, 1H), 7.33−7.27 (m, 2H), 7.24−7.18 (m, 1H), 7.17−7.09
+(m, 2H), 7.09−6.97 (m, 5H), 6.50 (t, J = 6.8 Hz, 1H), 2.29 (d, J = 4.2
+Hz, 3H), 2.27 (d, J = 6.1 Hz, 3H). 13C NMR (100 MHz, CDCl3) δ
+148.2, 141.0, 138.7, 138.3, 138.2, 137.1, 137.03, 136.98, 133.84,
+133.81, 132.6, 132.5, 131.7, 131.3, 131.2, 128.9, 128.8, 128.54, 128.52,
+128.5, 128.4, 127.9, 127.59, 127.56, 127.5, 127.4, 127.3, 126.9, 126.8,
+126.2, 123.1, 118.0, 110.7, 21.57, 21.56, 21.52, 21.51; HRMS: [M +
+H]+ calculated for C29H23N2: 399.1856, found 399.1860.
+5,6-Bis(2-ﬂuorophenyl)naphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3ah). pale yellow solid (34.9 mg, 43%); mp 276−277 °C; 1H NMR
+(400 MHz, CDCl3) δ 9.00 (d, J = 8.1 Hz, 1H), 7.87 (d, J = 9.2 Hz,
+1H), 7.73 (ddd, J = 8.1, 5.2, 2.8 Hz, 1H), 7.58−7.50 (m, 2H), 7.42 (d,
+J = 6.6 Hz, 1H), 7.39−7.29 (m, 3H), 7.29−7.21 (m, 2H), 7.17−6.98
+(m, 4H), 6.57 (td, J = 7.0, 1.0 Hz, 1H); 13C NMR (100 MHz, CDCl3)
+δ 160.6 (d, J = 243.2 Hz), 159.9 (d, J = 244.6 Hz), 148.3, 141.8, 132.8
+(d, J = 2.8 Hz), 131.7 (d, J = 1.2 Hz), 131.3, 130.8 (d, J = 7.7 Hz),
+129.7 (d, J = 7.9 Hz), 128.3, 127.6, 127.0, 126.8, 126.69, 126.65, 126.4
+(d, J = 17.2 Hz), 125.9, 124.73 (d, J = 3.6 Hz), 124.72 (d, J = 16.9 Hz),
+123.9 (d, J = 3.6 Hz), 123.4, 122.8, 121.0, 118.2, 115.7 (d, J = 21.5
+Hz), 115.1 (d, J = 22.1 Hz), 111.4; HRMS: [M + H]+ calculated for
+C27H17F2N2: 407.1354, found 407.1356.
+5,6-Di(thiophen-2-yl)naphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3ai). pale yellow solid (25.2 mg, 33%); mp >300 °C; 1H NMR (400
+MHz, CDCl3) δ 8.95 (d, J = 8.2 Hz, 1H), 7.87−7.83 (m, 2H), 7.73 (t,
+J = 7.5 Hz, 1H), 7.56 (t, J = 7.7 Hz, 1H), 7.44 (d, J = 5.1 Hz, 1H),
+7.41−7.32 (m, 3H), 7.13−6.94 (m, 4H), 6.62 (t, J = 6.9 Hz, 1H); 13C
+NMR (100 MHz, CDCl3) δ 148.6, 141.8, 138.9, 137.0, 132.4, 130.1,
+129.3, 128.2, 127.9, 127.8, 127.6, 127.5, 127.1, 126.8, 126.72, 126.67,
+126.53, 126.50, 123.3, 123.2, 121.2, 118.1, 111.3; HRMS: [M + H]+
+calculated for C23H15N2S2: 383.0671, found 383.0676.
+Diethyl naphtho[1′,2′:4,5]imidazo[1,2-a]pyridine-5,6-dicarboxy-
+late (3aj). pale yellow solid (61.5 mg, 85%); mp 128−129 °C; 1H
+NMR (400 MHz, CDCl3) δ 8.92 (d, J = 8.1 Hz, 1H), 8.75 (d, J = 7.1
+Hz, 1H), 8.32 (d, J = 8.5 Hz, 1H), 7.86 (d, J = 9.1 Hz, 1H), 7.77 (t, J =
+7.5 Hz, 1H), 7.69 (t, J = 7.7 Hz, 1H), 7.45 (dd, J = 8.8, 7.0 Hz, 1H),
+6.90 (t, J = 6.9 Hz, 1H), 4.62−4.48 (m, 4H), 1.47 (t, J = 7.2 Hz, 6H);
+13C NMR (100 MHz, CDCl3) δ 168.0, 167.0, 149.6, 143.8, 129.0,
+128.2, 128.0, 127.7, 127.6, 127.5, 126.6, 125.3, 123.6, 119.5, 119.3,
+118.2, 111.9, 62.7, 62.1, 14.4, 14.2; HRMS: [M + H]+ calculated for
+C21H19N2O4: 363.1339, found 363.1340.
+5-Methyl-6-phenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine
+(3ak). pale yellow solid (20.3 mg, 33%); mp 179−180 °C; 1H NMR
+(400 MHz, CDCl3) δ 8.95 (d, J = 8.0 Hz, 1H), 8.20 (d, J = 8.2 Hz,
+1H), 7.80 (d, J = 9.1 Hz, 1H), 7.74 (t, J = 7.4 Hz, 1H), 7.68 (t, J = 7.5
+Hz, 1H), 7.64−7.56 (m, 3H), 7.44−7.38 (m, 2H), 7.25 (t, J = 7.9 Hz,
+1H), 7.17 (d, J = 7.1 Hz, 1H), 6.46 (t, J = 6.9 Hz, 1H), 2.53 (s, 3H);
+13C NMR (100 MHz, CDCl3) δ 147.7, 140.2, 138.2, 131.5, 130.1,
+129.5, 128.5, 126.9, 126.7, 126.53, 126.49, 126.4, 126.3, 125.3, 123.7,
+123.1, 118.0, 110.6, 16.0. One carbon is not visible due to overlapping
+peaks; HRMS: [M + H]+ calculated for C22H17N2: 309.1386, found
+309.1390.
+5-(4-Methoxyphenyl)-6-(4-(triﬂuoromethyl)phenyl)naphtho-
+[1′,2′:4,5]imidazo[1,2-a]pyridine (3al) and 6-(4-methoxyphenyl)-5-
+(4-(triﬂuoromethyl)phenyl)naphtho[1′,2′:4,5]imidazo[1,2-a]-
+pyridine (3al′). pale yellow solid (84.2 mg, 90% in total). Selected
+signals: Major: 1H NMR (400 MHz, CDCl3) δ 8.96 (d, J = 8.1 Hz,
+1H), 7.84 (d, J = 9.2 Hz, 1H), 7.73−7.66 (m, 1H), 7.61 (t, J = 9.2 Hz,
+2H), 7.53−7.46 (m, 2H), 7.36 (d, J = 7.7 Hz, 2H), 7.30 (dd, J = 11.1,
+5.7 Hz, 2H), 7.03 (d, J = 8.4 Hz, 2H), 6.77 (d, J = 8.4 Hz, 2H), 6.52 (t,
+J = 6.8 Hz, 1H), 3.78 (s, 3H). 13C NMR (100 MHz, CDCl3) δ 158.6,
+148.2, 132.6, 131.1, 125.6 (q, J = 3.7 Hz), 118.2, 113.4, 111.1, 55.3.
+Minor: 1H NMR (400 MHz, CDCl3) δ 8.96 (d, J = 8.1 Hz, 1H), 7.84
+(d, J = 9.2 Hz, 1H), 7.73−7.66 (m, 1H), 7.61 (t, J = 9.2 Hz, 2H),
+7.53−7.46 (m, 2H), 7.36 (d, J = 7.7 Hz, 1H), 7.30 (dd, J = 11.1, 5.7
+Hz, 1H), 7.22 (d, J = 7.0 Hz, 2H), 7.10 (d, J = 8.4 Hz, 2H), 6.86 (d,
+J = 8.4 Hz, 2H), 6.52 (t, J = 6.8 Hz, 1H), 3.82 (s, 3H). 13C NMR
+</para>
+3477
+
+DOI: 10.1021/acs.joc.5b00059
+J. Org. Chem. 2015, 80, 3471−3479
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(100 MHz, CDCl3) δ 159.3, 148.3, 124.7 (d, J = 3.8 Hz), 118.0, 114.3,
+111.0, 55.4; HRMS: [M + H]+ calculated for C29H20F3N2O: 469.1522,
+found 469.1522.
+Methyl 6-phenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine-5-car-
+boxylate (3am) and methyl 5-phenylnaphtho[1′,2′:4,5]imidazo-
+[1,2-a]pyridine-6-carboxylate (3am′). pale yellow solid (57.0 mg,
+81% in total). Selected signals: Major: 1H NMR (400 MHz, CDCl3) δ
+8.94 (d, J = 8.1 Hz, 1H), 8.47 (d, J = 7.0 Hz, 1H), 7.88 (d, J = 9.1 Hz,
+1H), 6.88 (t, J = 6.8 Hz, 1H), 3.60 (s, 3H); 13C NMR (100 MHz,
+CDCl3) δ 168.7, 148.4, 141.7, 138.3, 133.7, 130.8, 129.7, 129.1, 128.2,
+127.9, 127.6, 126.7, 126.4, 123.3, 118.2, 111.7, 52.5. Minor: 1H NMR
+(400 MHz, CDCl3) δ 8.94 (d, J = 8.1 Hz, 1H), 8.03 (d, J = 8.3 Hz,
+1H), 7.83 (d, J = 9.1 Hz, 1H), 7.37−7.30 (m, 1H), 6.54 (t, J = 6.9 Hz,
+1H), 3.62 (s, 3H); 13C NMR (100 MHz, CDCl3) δ 169.5, 149.0,
+142.5, 135.9, 130.7, 129.0, 128.4, 128.3, 126.9, 126.8, 126.2, 126.0,
+125.8, 123.5, 121.8, 119.9, 111.3, 52.1; HRMS: [M + H]+ calculated
+for C23H17N2O2: 353.1285, found 353.1289.
+Ethyl 6-phenylnaphtho[1′,2′:4,5]imidazo[1,2-a]pyridine-5-car-
+boxylate (3an) and ethyl 5-phenylnaphtho[1′,2′:4,5]imidazo[1,2-
+a]pyridine-6-carboxylate (3an′). pale yellow solid (54.9 mg, 75% in
+total). Selected signals: Major: 1H NMR (400 MHz, CDCl3) δ 8.95 (d,
+J = 7.3 Hz, 1H), 8.54 (d, J = 7.0 Hz, 1H), 7.89 (d, J = 9.1 Hz, 1H),
+6.88 (t, J = 6.8 Hz, 1H), 4.12 (q, J = 7.1 Hz, 2H), 0.93 (t, J = 7.1 Hz,
+3H); 13C NMR (100 MHz, CDCl3) δ 168.3, 138.4, 133.5, 131.0,
+129.9, 129.0, 128.2, 128.0, 127.9, 127.6, 126.7, 123.3, 118.2, 111.6,
+62.0, 13.6. Minor: 1H NMR (400 MHz, CDCl3) δ 8.95 (d, J = 7.3 Hz,
+1H), 8.08 (d, J = 8.3 Hz, 1H), 7.83 (d, J = 9.0 Hz, 1H), 7.37−7.29 (m,
+1H), 6.53 (t, J = 6.8 Hz, 1H), 4.12 (q, J = 7.1 Hz, 2H), 0.98 (t, J = 7.1
+Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 169.0, 135.9, 130.8, 128.5,
+127.4, 127.3, 126.6, 126.23, 126.19, 123.5, 118.9, 118.2, 111.2, 61.3,
+13.9; HRMS: [M + H]+ calculated for C24H19N2O2: 367.1441, found
+367.1438.
+
+General procedures for synthesis of 4. 2-Phenylimidazo[1,2-
+a]pyridines (0.20 mmol), alkynes (0.20 mmol), [RhCp*Cl2]2 (4 mol %),
+AgBF4 (1.0 equiv), Cu(OAc)2 (1.0 equiv) and DCE (3 mL) were charged
+into the sealed tube. The reaction mixture was stirred at 100 °C for 24 h.
+After cooled to room temperature, the solvent was removed under reduced
+pressure and the residue was puriﬁed by silica gel chromatography using
+CH2Cl2/MeOH to aﬀord the desired product 4.
+5,6-Diphenylpyrido[2′,1′:2,3]imidazo[5,1-a]isoquinolin-7-ium
+tetraﬂuoroborate (4a). brown solid (80.6 mg, 88%); 1H NMR (400
+MHz, DMSO-d6) δ 9.63 (s, 1H), 9.21 (d, J = 5.4 Hz, 1H), 8.66 (d, J =
+7.9 Hz, 1H), 7.87 (t, J = 7.5 Hz, 1H), 7.80−7.67 (m, 3H), 7.63−7.47
+(m, 5H), 7.42−7.26 (m, 5H), 7.21 (d, J = 8.1 Hz, 1H), 6.04 (d, J = 8.3
+Hz, 1H); 13C NMR (100 MHz, DMSO-d6) δ 134.5, 134.1, 132.1,
+131.7, 131.3, 131.22, 131.19, 130.8, 130.6, 130.4, 129.9, 129.61,
+129.56, 129.2, 128.2, 127.9, 127.6, 126.6, 124.5, 120.5, 119.0, 113.1.
+One carbon is not visible due to overlapping peaks; 19F NMR (376
+MHz, DMSO-d6) δ −148.35, −148.41. The two signals in the 19F
+NMR spectrum are due to presence of 10B and 11B isotopes. However,
+no ﬁne coupling was detected. HRMS: [M − BF4] calculated for
+C27H19N2: 371.1543, found 371.1542.
+3-Methyl-5,6-diphenylpyrido[2′,1′:2,3]imidazo[5,1-a]isoquinolin-
+7-ium tetraﬂuoroborate (4b). brown solid (79.3 mg, 84%); 1H NMR
+(400 MHz, DMSO-d6) δ 9.56 (s, 1H), 9.19 (d, J = 4.2 Hz, 1H), 8.54
+(d, J = 8.1 Hz, 1H), 7.69 (s, 3H), 7.62−7.46 (m, 5H), 7.41−7.26 (m,
+5H), 6.99 (s, 1H), 6.10−5.95 (m, 1H), 2.36 (s, 3H); 13C NMR
+(100 MHz, DMSO-d6) δ 141.3, 134.3, 134.1, 132.1, 131.8, 131.3,
+131.0, 130.81, 130.75, 130.6, 130.4, 130.0, 129.5, 129.2, 128.2, 127.9,
+127.6, 126.3, 124.4, 118.9, 118.1, 113.0, 107.2, 21.5; 19F NMR (376
+MHz, DMSO-d6) δ −148.33, −148.38. The two signals in the 19F
+NMR spectrum are due to presence of 10B and 11B isotopes. However,
+no ﬁne coupling was detected. HRMS: [M − BF4] calculated for
+C28H21N2: 385.1699, found 385.1703.
+10-Chloro-5,6-diphenylpyrido[2′,1′:2,3]imidazo[5,1-a]-
+isoquinolin-7-ium tetraﬂuoroborate (4c). brown solid (77.7 mg,
+79%); 1H NMR (400 MHz, DMSO-d6) δ 9.55 (s, 2H), 8.74 (d, J = 7.5
+Hz, 1H), 7.96−7.81 (m, 2H), 7.77 (t, J = 7.0 Hz, 1H), 7.63−7.47 (m,
+5H), 7.41−7.20 (m, 6H), 6.01 (d, J = 9.9 Hz, 1H); 13C NMR
+(100 MHz, DMSO-d6) δ 133.9, 133.2, 132.0, 131.9, 131.5, 131.42,
+</para>
+Article
+<para sub=“exp”>
+131.35, 130.8, 130.6, 130.0, 129.7, 129.3, 128.3, 127.9, 127.5, 126.7,
+125.5, 124.7, 120.3, 113.8, 108.0. Two carbons are not visible due to over-
+lapping peaks; 19F NMR (376 MHz, DMSO) δ −148.41, −148.46. The
+two signals in the 19F NMR spectrum are due to presence of 10B and 11B
+isotopes. However, no ﬁne coupling was detected. HRMS: [M − BF4]
+calculated for C27H18ClN2: 405.1153, found 405.1157.
+3-Chloro-9-methyl-5,6-diphenylpyrido[2′,1′:2,3]imidazo[5,1-a]-
+isoquinolin-7-ium tetraﬂuoroborate (4d). brown solid (80.9 mg,
+80%); 1H NMR (400 MHz, DMSO-d6) δ 9.54 (s, 1H), 9.12 (d, J = 6.7
+Hz, 1H), 8.68 (d, J = 8.3 Hz, 1H), 7.92 (d, J = 8.1 Hz, 1H), 7.66−7.49
+(m, 6H), 7.44−7.29 (m, 5H), 7.06 (s, 1H), 5.62 (s, 1H), 2.22 (s, 3H);
+13C NMR (100 MHz, DMSO-d6) δ 143.4, 135.5, 134.8, 133.5, 133.4,
+131.6, 131.5, 130.73, 130.65, 130.4, 130.3, 129.5, 129.2, 128.9, 128.5,
+128.2, 126.6, 126.0, 125.5, 121.0, 119.5, 112.0, 107.8, 21.8; 19F NMR
+(376 MHz, DMSO-d6) δ −148.33, −148.39. The two signals in the 19F
+NMR spectrum are due to presence of 10B and 11B isotopes. However,
+no ﬁne coupling was detected. HRMS: [M − BF4] calculated for
+C28H20ClN2: 419.1310, found 419.1311.
+5,6-Bis(4-methoxyphenyl)pyrido[2′,1′:2,3]imidazo[5,1-a]-
+isoquinolin-7-ium tetraﬂuoroborate (4e). brown solid (78.7 mg,
+76%); 1H NMR (400 MHz, DMSO-d6) δ 9.60 (s, 1H), 9.20 (d, J = 4.2
+Hz, 1H), 8.62 (d, J = 6.8 Hz, 1H), 7.90−7.65 (m, 4H), 7.50 (d, J = 7.2
+Hz, 2H), 7.31−7.16 (m, 3H), 7.10 (d, J = 7.2 Hz, 2H), 6.95 (d, J = 7.0
+Hz, 2H), 6.18 (d, J = 8.6 Hz, 1H), 3.83 (s, 3H), 3.76 (s, 3H); 13C
+NMR (100 MHz, DMSO-d6) δ 160.2, 158.5, 134.5, 132.3, 132.2,
+131.8, 131.3, 131.0, 130.4, 129.5, 129.3, 127.70, 126.65, 126.3, 124.3,
+123.9, 120.4, 118.9, 114.6, 113.7, 113.3, 107.6, 55.2, 55.0. One carbon
+is not visible due to overlapping peaks; 19F NMR (376 MHz, DMSO-
+d6) δ −148.34, −148.39. The two signals in the 19F NMR spectrum are
+due to presence of 10B and 11B isotopes. However, no ﬁne coupling was
+detected. HRMS: [M − BF4] calculated for C29H23N2O2: 431.1754,
+found 431.1757.
+5,6-Bis(4-chlorophenyl)pyrido[2′,1′:2,3]imidazo[5,1-a]-
+isoquinolin-7-ium tetraﬂuoroborate (4f). brown solid (74.8 mg,
+71%); 1H NMR (400 MHz, DMSO-d6) δ 9.64 (s, 1H), 9.23 (d, J = 6.0
+Hz, 1H), 8.67 (d, J = 7.5 Hz, 1H), 7.96−7.80 (m, 2H), 7.75 (d, J = 6.4
+Hz, 2H), 7.62 (s, 4H), 7.46 (d, J = 7.7 Hz, 2H), 7.31 (d, J = 7.5 Hz,
+2H), 7.21 (d, J = 7.8 Hz, 1H), 6.30 (d, J = 9.1 Hz, 1H); 13C NMR
+(100 MHz, DMSO-d6) δ 135.3, 134.5, 132.9, 132.8, 132.7, 132.5,
+131.9, 131.3, 131.2, 131.1, 130.4, 129.8, 129.7, 129.6, 129.5, 128.5,
+127.0, 126.6, 124.5, 120.6, 119.1, 113.1, 107.8. The two signals in the
+19F NMR spectrum are due to presence of 10B and 11B isotopes. How-
+ever, no ﬁne coupling was detected. 19F NMR (376 MHz, DMSO-d6)
+δ −148.34, −148.39; HRMS: [M − BF4] calculated for C27H17Cl2N2:
+439.0763, found 439.0762.
+
+Procedure for Synthesis of Complex 5. 2-Phenylimidazo[1,2-
+a]pyridine (0.15 mmol, 29.1 mg), [RhCp*Cl2]2 (0.07 mmol, 43.3 mg),
+NaOAc (6 equiv, 34.3 mg), and CH2Cl2 (4 mL) were charged into the
+sealed tube. The reaction mixture was stirred at room temperature for
+12 h. After ﬁltration, the solvent was removed under reduced pressure
+and the residue was washed with Et2O ﬁve times to aﬀord complex 5
+(48.3 mg, 74%). 1H NMR (400 MHz, CDCl3) δ 8.06 (s, 1H), 7.82 (s,
+1H), 7.56 (d, J = 32.3 Hz, 2H), 7.36−7.12 (m, 3H), 6.98 (s, 1H), 6.67
+(s, 1H), 1.64 (s, 15H); 13C NMR (100 MHz, CDCl3) δ 174.4 (d, JRh−C =
+31.2 Hz), 152.3, 143.8, 139.0, 137.1, 128.4, 127.9, 125.9, 122.7, 121.9,
+114.2, 112.8, 105.7, 95.1 (d, JRh−C = 6.2 Hz), 9.8. HRMS: [M − Cl]+
+calculated for C23H24N2Rh: 431.0995, found 431.1006.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+1H and 13C NMR spectra of all new products and crystallo-
+graphic data of 3ka′ (including CIF). This material is available
+free of charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+
+Corresponding Author
+*E-mail: xwli@dicp.ac.cn.
+
+3478
+
+DOI: 10.1021/acs.joc.5b00059
+J. Org. Chem. 2015, 80, 3471−3479
+
+The Journal of Organic Chemistry
+
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We are grateful to the National Natural Science Foundation of
+China (grant nos. 21272231, 21402190, and 21472186) and
+Dalian Institute of Chemical Physics, Chinese Academy of
+Sciences,
+for ﬁnancial support. We thank Prof. Mei Wang,
+Mr. Zhongkai Lu, and Mr. Shuai Zhang (Dalian University of
+Technology) for their help on absorption and emission spectra.
+
+■ REFERENCES
+
+Itami, K. Angew. Chem.,
+
+(1) (a) Allard, S.; Forster, M.; Souharce, B.; Thiem, H.; Scherf, U.
+Angew. Chem., Int. Ed. 2008, 47, 4070. (b) Facchetti, A. Chem. Mater.
+2011, 23, 733. (c) Wang, C.; Dong, H.; Hu, W.; Liu, Y.; Zhu, D. Chem.
+Rev. 2012, 112, 2208.
+(2) (a) Ritleng, V.; Sirlin, C.; Pfeffer, M. Chem. Rev. 2002, 102, 1731.
+(b) Ackermann, L.; Vicente, R.; Kapdi, A. R. Angew. Chem., Int. Ed.
+2009, 48, 9792. (c) Colby, D. A.; Bergman, R. G.; Ellman, J. A. Chem.
+Rev. 2010, 110, 624. (d) Lyons, T. W.; Sanford, M. S. Chem. Rev. 2010,
+110, 1147. (e) Sun, C.-L.; Li, B.-J.; Shi, Z.-J. Chem. Rev. 2010, 111,
+1293. (f) Ackermann, L. Chem. Rev. 2011, 111, 1315. (g) Cho, S. H.;
+Kim, J. Y.; Kwak, J.; Chang, S. Chem. Soc. Rev. 2011, 40, 5068.
+(h) Wencel-Delord, J.; Droge, T.; Liu, F.; Glorius, F. Chem. Soc. Rev.
+2011, 40, 4740. (i) Wendlandt, A. E.; Suess, A. M.; Stahl, S. S. Angew.
+Chem., Int. Ed. 2011, 50, 11062. (j) Yeung, C. S.; Dong, V. M. Chem.
+Rev. 2011, 111, 1215. (k) Arockiam, P. B.; Bruneau, C.; Dixneuf, P. H.
+Chem. Rev. 2012, 112, 5879. (l) Engle, K. M.; Mei, T.-S.; Wasa, M.; Yu,
+J.-Q. Acc. Chem. Res. 2012, 45, 788. (m) Kuhl, N.; Hopkinson, M. N.;
+Wencel-Delord, J.; Glorius, F. Angew. Chem., Int. Ed. 2012, 51, 10236.
+(n) White, M. C. Science 2012, 335, 807. (o) Yamaguchi,
+J.;
+Yamaguchi, A. D.; Itami, K. Angew. Chem., Int. Ed. 2012, 51, 8960.
+(p) Shang, X.; Liu, Z.-Q. Chem. Soc. Rev. 2013, 42, 3253. (q) Yan, G.;
+Wu, X.; Yang, M. Org. Biomol. Chem. 2013, 11, 5558. (r) Ackermann,
+L. Acc. Chem. Res. 2014, 47, 281. (s) Zhang, M.; Zhang, Y.; Jie, X.;
+Zhao, H.; Li, G.; Su, W. Org. Chem. Front. 2014, 1, 843. (t) Segawa, Y.;
+Int. Ed. 2015, 54, 66.
+Maekawa, T.;
+(u) Gutekunst, W. R.; Baran, P. S. Chem. Soc. Rev. 2011, 40, 1976.
+(v) McMurray, L.; O’Hara, F.; Gaunt, M. J. Chem. Soc. Rev. 2011, 40,
+1885. (w) Chen, D. Y. K.; Youn, S. W. Chem.Eur. J. 2012, 18, 9452.
+(3) (a) Colby, D. A.; Tsai, A. S.; Bergman, R. G.; Ellman, J. A. Acc.
+Chem. Res. 2011, 45, 814. (b) Song, G.; Wang, F.; Li, X. Chem. Soc.
+Rev. 2012, 41, 3651. (c) Kuhl, N.; Schröder, N.; Glorius, F. Adv. Synth.
+Catal. 2014, 356, 1443. (d) Patureau, F. W.; Besset, T.; Fröhlich, R.;
+Glorius, F. Aldrichim. Acta 2012, 45, 31.
+(4) (a) Satoh, T.; Miura, M. Chem.Eur. J. 2010, 16, 11212.
+(b) Chen, J.; Song, G.; Pan, C.-L.; Li, X. Org. Lett. 2010, 12, 5426.
+(c) Morimoto, K.; Hirano, K.; Satoh, T.; Miura, M. J. Org. Chem. 2011,
+76, 9548. (d) Patureau, F. W.; Besset, T.; Kuhl, N.; Glorius, F. J. Am.
+Chem. Soc. 2011, 133, 2154. (e) Pham, M. V.; Ye, B.; Cramer, N.
+Angew. Chem., Int. Ed. 2012, 51, 10610. (f) Wang, D.; Wang, F.; Song,
+G.; Li, X. Angew. Chem., Int. Ed. 2012, 51, 12348. (g) Chen, Y.; Wang,
+F.; Zhen, W.; Li, X. Adv. Synth. Catal. 2013, 355, 353. (h) Park, S.; Seo,
+B.; Shin, S.; Son, J. Y.; Lee, P. H. Chem. Commun. 2013, 49, 8671.
+(i) Seo, J.; Park, Y.; Jeon, I.; Ryu, T.; Park, S.; Lee, P. H. Org. Lett.
+2013, 15, 3358. (j) Unoh, Y.; Hashimoto, Y.; Takeda, D.; Hirano, K.;
+Satoh, T.; Miura, M. Org. Lett. 2013, 15, 3258. (k) Wang, C.; Sun, H.;
+Fang, Y.; Huang, Y. Angew. Chem., Int. Ed. 2013, 52, 5795. (l) Itoh, M.;
+Shimizu, M.; Hirano, K.; Satoh, T.; Miura, M. J. Org. Chem. 2013, 78,
+11427. (m) Burns, D. J.; Lam, H. W. Angew. Chem., Int. Ed. 2014, 53,
+9931. (n) Seoane, A.; Casanova, N.; Quinones, N.; Mascarenas, J. L.;
+Gulias, M. J. Am. Chem. Soc. 2014, 136, 7607. (o) Seoane, A.;
+Casanova, N.; Quiñones, N.; Mascareñas, J. L.; Gulías, M. J. Am. Chem.
+Soc. 2014, 136, 834. (p) Zhang, X.; Li, Y.; Shi, H.; Zhang, L.; Zhang,
+S.; Xu, X.; Liu, Q. Chem. Commun. 2014, 50, 7306. (q) Qi, Z.; Wang,
+M.; Li, X. Chem. Commun. 2014, 50, 9776. (r) Kujawa, S.; Best, D.;
+Burns, D. J.; Lam, H. W. Chem.Eur. J. 2014, 20, 8599. (s) Chen, Y.;
+Wang, D.; Duan, P.; Ben, R.; Dai, L.; Shao, X.; Hong, M.; Zhao, J.;
+
+Article
+
+Huang, Y. Nat. Commun. 2014, 5, 4610. (t) Sun, H.; Wang, C.; Yang,
+Y.-F.; Chen, P.; Wu, Y.-D.; Zhang, X.; Huang, Y. J. Org. Chem. 2014,
+79, 11863.
+(5) Umeda, N.; Tsurugi, H.; Satoh, T.; Miura, M. Angew. Chem., Int.
+Ed. 2008, 47, 4019.
+(6) Fukutani, T.; Hirano, K.; Satoh, T.; Miura, M. J. Org. Chem. 2011,
+76, 2867.
+(7) Morimoto, K.; Hirano, K.; Satoh, T.; Miura, M. Org. Lett. 2010,
+12, 2068.
+(8) Iitsuka, T.; Hirano, K.; Satoh, T.; Miura, M. Chem.Eur. J. 2014,
+20, 385.
+(9) Pham, M. V.; Cramer, N. Angew. Chem., Int. Ed. 2014, 53, 3484.
+(10) (a) Huang, J.-R.; Zhang, Q.-R.; Qu, C.-H.; Sun, X.-H.; Dong, L.;
+Chen, Y.-C. Org. Lett. 2013, 15, 1878. (b) Huang, J.-R.; Dong, L.; Han,
+B.; Peng, C.; Chen, Y.-C. Chem.Eur. J. 2012, 18, 8896.
+(11) Tan, X.; Liu, B.; Li, X.; Li, B.; Xu, S.; Song, H.; Wang, B. J. Am.
+Chem. Soc. 2012, 134, 16163.
+(12) Zheng, L.; Hua, R. J. Org. Chem. 2014, 79, 3930.
+(13) Jayakumar, J.; Parthasarathy, K.; Chen, Y. H.; Lee, T. H.;
+Chuang, S. C.; Cheng, C. H. Angew. Chem., Int. Ed. 2014, 53, 9889.
+(14) Zhang, L.; Zheng, L.; Guo, B.; Hua, R. J. Org. Chem. 2014, 79,
+11541.
+(15) (a) Song, G.; Chen, D.; Pan, C.-L.; Crabtree, R. H.; Li, X. J. Org.
+Chem. 2010, 75, 7487. (b) Song, G.; Gong, X.; Li, X. J. Org. Chem.
+2011, 76, 7583. (c) Qi, Z.; Li, X. Angew. Chem., Int. Ed. 2013, 52, 8995.
+(16) (a) Yu, S.; Li, X. Org. Lett. 2014, 16, 1220. (b) Kwak, J.; Ohk, Y.;
+Jung, Y.; Chang, S. J. Am. Chem. Soc. 2012, 134, 17778. (c) Zucca, A.;
+Cinellu, M. A.; Pinna, M. V.; Stoccoro, S.; Minghetti, G.; Manassero,
+M.; Sansoni, M. Organometallics 2000, 19, 4295. (d) Minghetti, G.;
+Stoccoro, S.; Cinellu, M. A.; Soro, B.; Zucca, A. Organometallics 2003,
+22, 4770.
+(17) Crystallographic data for compound 3ka′ has been deposited to
+the Cambridge Crystallographic Data Centre as entry CCDC
+1042680.
+(18) (a) Muralirajan, K.; Cheng, C.-H. Chem.Eur. J. 2013, 19,
+6198. (b) Jayakumar, J.; Parthasarathy, K.; Cheng, C.-H. Angew. Chem.,
+Int. Ed. 2012, 51, 197. (c) Luo, C.-Z.; Gandeepan, P.; Jayakumar, J.;
+Parthasarathy, K.; Chang, Y.-W.; Cheng, C.-H. Chem.Eur. J. 2013,
+19, 14181. (d) Luo, C.-Z.; Gandeepan, P.; Cheng, C.-H. Chem.
+Commun. 2013, 49, 8528.
+(19) Zhao, D.; Wu, Q.; Huang, X.; Song, F.; Lv, T.; You, J. Chem.
+Eur. J. 2013, 19, 6239.
+(20) Zhang, G.; Yang, L.; Wang, Y.; Xie, Y.; Huang, H. J. Am. Chem.
+Soc. 2013, 135, 8850.
+(21) Mio, M. J.; Kopel, L. C.; Braun, J. B.; Gadzikwa, T. L.; Hull, K.
+L.; Brisbois, R. G.; Markworth, C. J.; Grieco, P. A. Org. Lett. 2002, 4,
+3199.
+(22) Aginagalde, M.; Vara, Y.; Arrieta, A.; Zangi, R.; Cebolla, V. L.;
+Delgado-Camón, A.; Cossío, F. P. J. Org. Chem. 2009, 75, 2776.
+(23) Fujita, K.-i.; Takahashi, Y.; Owaki, M.; Yamamoto, K.;
+Yamaguchi, R. Org. Lett. 2004, 6, 2785.
+
+3479
+
+DOI: 10.1021/acs.joc.5b00059
+J. Org. Chem. 2015, 80, 3471−3479
+
+

@@ -1,0 +1,182 @@
+<para sub=“opt”>
+The present protocol is a versatile method tolerating a variety
+including aliphatic and
+of <cem>carbonyl</cem> and <cem>amine</cem> substrates,
+<cem>aromatic ketones</cem> as well as <cem>aldehydes</cem>. In our earlier reports, the
+role of Lewis acidic character of <cem>CoPc</cem> and <cem>AlCl3</cem> was revealed in
+catalyzing the reductive amination reaction.9,10 Although these
+methods were very eﬀective in DRA of <cem>carbonyl</cem> compounds
+with <cem>primary and secondary amines</cem>, unfortunately DRA of
+<cem>ketones</cem> with <cem>secondary amines</cem> was not eﬀective. In this
+context, we focused on the DRA of <cem>carbonyl</cem> compounds with
+<cem>secondary amines</cem> and screened various <cem>Lewis acidic</cem> salts. To
+optimize the reaction conditions, the reductive amination of
+<cem>anisaldehyde</cem> with <cem>N-methylaniline</cem> was
+investigated with
+variation in reaction parameters such as catalyst, reducing
+agent, solvent, temperature and time (Table 1). Surprisingly, in
+the absence of catalyst, the reaction proceeded to aﬀord the
+product in 15% yield (Table 1, entry 1) which was further
+lowered in the presence of strong <cem>Lewis acids</cem> such as <cem>AlCl3</cem> and
+<cem>FeCl3</cem> (Table 1, entries 2−3). While no reaction was observed
+with <cem>copper</cem>, <cem>nickel</cem> or <cem>cobalt</cem> based catalysts (Table 1, entries
+4−6), <cem>zinc chloride</cem> showed some activity toward the reaction
+(Table 1, entry 7). The best yield of the product was observed
+<cem>·2H2O</cem> and 2 equiv of PMHS as a
+with 20 mol % of <cem>SnCl2</cem>
+reducing agent at 70 °C for 6 h in <cem>methanol</cem> (Table 1, entry 8).
+Further, a lower catalyst loading led to lower conversion (Table
+1, entry 9), whereas no signiﬁcant change in the yield of the
+product was observed with higher catalyst loading (Table 1,
+entry 10). The investigation of diﬀerent
+reducing agents
+the most eﬃcient <cem>hydrogen</cem> source
+revealed PMHS as
+providing the product
+in 86% yield (Table 1, entry 8).
+Comparable yields were recorded with other <cem>silanes</cem> such as
+</para>
+
+<para sub=“opt”>
+<cem>Et3SiH</cem>, <cem>Ph3SiH</cem>, TMDS and <cem>PhSiH3</cem> (Table 1, entries 11−14).
+Lowering the quantity of PMHS resulted in the lower yield of
+the desired product (Table 1, entry 15). As expected, no
+product was formed in the absence of PMHS; however,
+<cem>iminium</cem> ion was observed as major intermediate (Table 1,
+entry 16). Further, diﬀerent
+solvents were screened to
+investigate the inﬂuence of solvent on the yield as the
+interaction of solvent molecules with <cem>Lewis acids</cem> drastically
+inﬂuences catalytic activity and <cem>methanol</cem> was found to be most
+eﬃcient compared to other solvents. Moderate yield of the
+product was observed in water and <cem>ethanol</cem> (Table 1, entries 17
+and 18), whereas sterically hindered <cem>alcohols</cem> such as <cem>iPrOH</cem>
+and <cem>nBuOH</cem> gave lower yield of the desired product (Table 1,
+entries 19−20).
+</para>
+
+<para sub=“opt”>
+In the case of aprotic solvents such as <cem>toluene</cem> and <cem>THF</cem>,
+moderate yield of the desired product was observed (Table 1,
+entries 21 and 22) which further decreased in dry <cem>toluene</cem>.
+Similarly,
+in complete anhydrous condition with <cem>stannous
+chloride</cem> in <cem>dry methanol</cem>, signiﬁcant lowering in the yield was
+observed which indicated the supportive role of water in
+catalyzing the reaction (Table S1 in the Supporting
+Information). A decrease in the yield of the desired product
+was observed at lower temperature, while no change in the
+yield was observed at 120 °C (Table 1, entries 23 and 24).
+</para>
+
+<para sub="scope">
+<cem>Halogen</cem> substituted <cem>aldehydes</cem> were well tolerated, and the
+corresponding <cem>amines</cem> were obtained in good to excellent yields
+(Scheme 1, 3a−3e). The reductive amination of <cem>aldehydes</cem>
+bearing electron-donating groups with <cem>N-methylaniline</cem> pro-
+ceeded smoothly to aﬀord the desired product in excellent
+yields (Scheme 1, 3f−3h). The reaction of polysubstituted
+<cem>aldehydes</cem> with <cem>N-methylaniline</cem>, a less studied challenging
+substrate combination, gave good to excellent yield of the
+desired product (Scheme 1, 3i−3l). Sterically hindered
+<cem>aldehydes</cem> provided the desired product in good yield (Scheme
+1, 3m−3o). One of the major predicament associated with
+reductive amination is intolerance of <cem>CC</cem> bonds;17 however,
+in the present case >99% chemoselectivity was observed with
+isolated <cem>CC</cem> bonds containing
+conjugated as well as
+<cem>aldehydes</cem> (Scheme 1, 3p−3s). Reductive amination of <cem>2-
+furaldehyde</cem>, <cem>anthraldehyde</cem>, and <cem>aliphatic aldehyde</cem>,
+i.e., <cem>3-
+phenylpropionaldehyde</cem>, proceeded smoothly to give 3t, 3u,
+and 3v in good (70−87%) yield. The reductive amination of
+<cem>aldehydes</cem> with other <cem>secondary amines</cem>, <cem>N-ethylaniline</cem> and <cem>N-
+benzylanisidine</cem>, provided an excellent yield of the product
+(Scheme 1, 3w−3x). Unfortunately, no reaction was observed
+with <cem>aliphatic amines</cem> under the present reaction condition
+(Table S2 in the Supporting Information).
+</para>
+
+<para sub="scope">
+One of the merits of the present method is the reductive
+amination of aromatic and <cem>aliphatic ketones</cem> with <cem>secondary
+amines</cem> which are otherwise considered diﬃcult substrates for
+this reaction resulting in low yields of the product.18 Under the
+present reaction conditions, the reductive amination of diﬀerent
+aliphatic and <cem>aromatic ketones</cem> with <cem>secondary amines</cem> aﬀorded
+the desired products in excellent to moderate yields (Scheme
+2). <cem>Cyclopentanone</cem> and <cem>cyclohexanone</cem> reacted with <cem>N-methyl
+aniline</cem> to aﬀord 5a and 5b in 83 and 90% yields, respectively.
+Substituted <cem>cyclohexanone</cem> also gave excellent yield of the
+desired product (Scheme 2, 5c−5d). Reductive amination of <cem>4-
+methylcyclohexanone</cem> and <cem>cyclopentanone</cem> with sterically
+hindered <cem>diphenylamine</cem> provided moderate yield of the desired
+product (Scheme 2, 5e−5f). In the case of <cem>acetophenones</cem>,
+while no reaction occurred under
+reaction
+conditions, moderate yield of
+the corresponding products
+were observed when the reaction was carried out in <cem>toluene</cem>
+with 3 equiv <cem>MeOH</cem> at 120 °C (Scheme 2, 5g−5i).
+
+the present
+</para>
+
+<para sub="scope">
+Further, the scope of the method was extended for the
+reductive animation of <cem>carbonyl</cem> compounds with <cem>primary
+amines</cem> which aﬀorded excellent yield of the corresponding
+<cem>secondary amines</cem> with high chemoselectivity (Scheme 3).
+Excellent yield was observed with electron deﬁcient <cem>N-
+heteroaromatic primary amines</cem> (Scheme 3, 7a−7b). Bogolub-
+sky et al. reported an eﬃcient method for the reductive
+amination of <cem>heterocyclic amines</cem>, but the use of <cem>NaBH(OAc)3</cem>
+as a reducing agent which is not eco-friendly and economically
+favorable limits its viability.19 Electron donating substituents
+present on <cem>amines</cem> as well as <cem>aldehydes</cem> were well tolerated and
+gave excellent yields of the desired products (Scheme 3, 7c−
+7f). One of the major advantages of the present method is the
+reductive amination with <cem>primary amines</cem> bearing electron
+withdrawing substituents such as <cem>−COOH</cem>, <cem>−COCH3</cem>, and
+<cem>−NO2</cem> (Scheme 3, 7g−7i) which were otherwise considered as
+</para>
+
+<para sub="scope">
+diﬃcult substrates.20 Aliphatic as well as <cem>aromatic ketones</cem> were
+transformed to the desired products in excellent yields (Scheme
+3, 7j−7m).
+</para>
+
+<para sub="scope">
+To get insight into the reaction mechanism, diﬀerent control
+experiments were carried out. ESI-MS, UV−vis, and FT-IR
+·2H2O/<cem>MeOH</cem> indicated the initial formation
+spectra of <cem>SnCl2
+of tin methanol</cem> complex (A). Although exact role of <cem>tin</cem> catalyst
+is not clear, the in situ formation of <cem>tin hydride</cem> complex has
+been assumed. Being highly unstable,21 direct detection of <cem>tin
+hydride</cem> complex (B) was not possible; however, various
+indirect evidence in favor of B were collected. Addition of
+<cem>·2H2O</cem>/<cem>MeOH</cem> led to the disappearance of
+PMHS to <cem>SnCl2
+</para></cem>
+
+<para sub="scope">
+vSi−<cem>H</cem> (2162 cm−1) band in FT-IR spectrum. <cem>1H</cem> NMR of
+<cem>·2H2O</cem>/<cem>MeOH</cem> mixture also showed disappear-
+PMHS/<cem>SnCl2</cem>
+ance of <cem>δ
+H</cem> 4.75 signal of <cem>Si-H</cem>. Furthermore, the reduction of
+<cem>imine</cem> did not proceed in the presence of PMHS/<cem>MeOH</cem>
+system alone, hence indicating the formation of B via activation
+of PMHS by A. The <cem>hydride</cem> transfer from B to in situ generated
+<cem>iminium</cem> ion resulted in the formation of product. It has been
+observed that the role of water as an additive is crucial for the
+product formation as complete anhydrous condition led to
+</para>
+
+<para sub="scope">
+signiﬁcant decrease in product yield (Table S1 in the
+Supporting Information).
+</para>
+

@@ -1,0 +1,823 @@
+Article
+
+pubs.acs.org/joc
+
+Weimin Liu,*,†
+
+†,‡
+Ying Wang,
+
+Aminobenzofuran-Fused Rhodamine Dyes with Deep-Red to Near-
+Infrared Emission for Biological Applications
+Guangle Niu,
+†
+Jiechao Ge,
+†
+Key Laboratory of Photochemical Conversion and Optoelectronic Materials and CityU-CAS Joint Laboratory of Functional
+Materials and Devices, Technical Institute of Physics and Chemistry, Chinese Academy of Sciences, Beijing 100190, China
+‡
+University of Chinese Academy of Sciences, Beijing 100049, China
+*S Supporting Information
+
+†
+Hongyan Zhang,
+
+Jiasheng Wu,
+
+Bingjiang Zhou,
+
+Haitao Xu,
+
+and Pengfei Wang
+
+†
+
+†,‡
+
+Jianhong Chen,
+
+†,‡
+
+†
+
+†
+
+†
+
+ABSTRACT: Aminobenzofuran-fused rhodamine dyes (AFR
+dyes) containing an amino group were constructed by an
+eﬃcient condensation based on 3-coumaranone derivatives.
+AFR dyes exhibited signiﬁcantly improved properties, including
+deep-red and near-infrared emissions, a large Stokes shift, good
+photostability, and wide pH stability. 3-(4,5-Dimethylthiazol-2-
+yl)-2,5-diphenyl-2H-tetrazolium assay experiments show that
+these AFR dyes are biocompatible for their low cytotoxicity to
+both A549 and HeLa cells. Cell imaging data reveal that AFR1,
+AFR1E, and AFR2 are mainly located in the mitochondria,
+while AFR3 is a lysosome tracker. As far as we know, NIR AFR3 is the longest ﬂuorescent rhodamine derivative containing the
+amino group. These amino group-containing AFR dyes hold great potential in ﬂuorogenic detection, biomolecule labeling, and
+cell imaging.
+
+■ INTRODUCTION
+
+such as high molar extinction coeﬃcients,
+
+rhodamine
+Compared with other generally used dyes,
+derivatives have received considerable attention in biomolecule
+labeling and detection, cancer diagnosis, and other biological
+applications because of their outstanding photophysical proper-
+ties,
+large
+ﬂuorescence quantum yields, and resistance to photobleaching.1
+In addition, chemical modiﬁcation of rhodamine dyes is a
+straightforward process.2 For example, modiﬁcation of
+the
+amino group on the ring of the rhodamine moieties is usually
+utilized to detect cancer-related markers or
+signiﬁcant
+biomolecules in living samples.3 However, most rhodamine
+derivatives emit green to orange ﬂuorescence. As we know, in
+contrast to short wavelength ﬂuorophores, deep-red and near-
+infrared (NIR) dyes is advantageous to biodetection or imaging
+because of the minimal photodamage to biological samples,
+deep tissue penetration, and minimal
+interference from
+background autoﬂuorescence in living systems.4
+
+Substantial eﬀorts have been made to synthesize rhodamine
+derivatives with longer emission wavelengths. The innovative
+work of replacing the bridged oxygen atom with other elements
+(Si, Ge, Sn, or Te) was proposed by Qian and Nagano et al.5
+An amino group-containing rhodamine dye with red emission
+(2Me SiR600; λ
+max = 613 nm) was obtained by the Nagano
+group.6 In addition, Abe’s group synthesized a deep-red
+naphthyl-fused rhodamine derivative with an amino group
+(λ
+max = 650 nm).7 After that, a series of deep-red to NIR
+rhodamine derivatives were developed by extending the π-
+conjugation of
+the rhodamine skeleton by benzene or
+
+heteroaromatic rings.8 Aside from the strategies mentioned
+above, introducing electron-withdrawing groups (CF3 and CN)
+into the rhodamine skeleton at position 9 can also be utilized to
+increase the ﬂuorescence wavelength of rhodamine dyes.9 Just
+recently, another
+strategy was explored to obtain NIR
+rhodamine analogues by introducing phenylethynyl at position
+9.10 However, these strategies have some drawbacks, such as
+low production yield,
+tedious and rigorous synthesis, pH
+sensitivity, and a small Stokes shift.
+
+Aromatic ring-fused dyes have high ﬂuorescence quantum
+yields, good photostability, and longer emission wavelengths.11
+However, very few aromatic ring-fused rhodamine derivatives
+have been constructed, especially heteroaromatic rings.7,8
+Recently, our group synthesized a series of coumarin-fused
+rhodamine dyes (CR series) as a novel ratiometric detection
+platform, which exhibited deep-red emission, good ﬂuorescence
+quantum yields, excellent photostability and low cytotoxity.8b
+In the study presented here, we design and synthesize another
+novel
+family of deep-red and NIR rhodamine derivatives
+(AFR1, AFR1E, AFR2, and AFR3) bearing an amino group by
+introducing benzofuran into the rhodamine skeleton (Scheme
+1). These novel aminobenzofuran-fused rhodamine dyes have
+the advantage of a larger Stokes
+longer emission
+wavelengths, and higher pH stability compared to those of
+the traditional rhodamine dyes. Cell cytotoxicity experiments
+reveal that these AFR dyes are biocompatible with both A549
+
+shift,
+
+Received:
+January 12, 2015
+Published: February 18, 2015
+
+© 2015 American Chemical Society
+
+3170
+
+DOI: 10.1021/acs.joc.5b00077
+J. Org. Chem. 2015, 80, 3170−3175
+
+The Journal of Organic Chemistry
+Scheme 1. Synthesis of Deep-Red and NIR Dyes AFR1, AFR1E, AFR2, and AFR3a
+
+Article
+
+aConditions: (a) Ac2O, AcOH, 0 °C to rt, 24 h; (b) (1) ClCH2COCl, AlCl3, 1,2-dichloroethane, 0 °C to rt, 24 h; (2) AcONa, EtOH, reﬂux, 24 h;
+(c) Ac2O, NEt3, DMAP, rt, 12 h; (d) (1) TFAA, Et2O, reﬂux, 3 h; (2) 2 N HCl, THF, rt, 24 h; (e) concentrated H2SO4, 100 °C, 4−8 h; (f) EtOH,
+concentrated H2SO4, reﬂux, 4 h.
+
+and HeLa cells. The good photophysical properties of AFR
+dyes and the amino group contained in the rhodamine skeleton
+identify them as promising candidates for imaging-related
+biological applications.
+
+■ RESULTS AND DISCUSSION
+<para sub="scope">
+Design and Synthesis. The synthetic routes of the AFR
+dyes are outlined in Scheme 1. The key intermediate 3 was
+prepared using a previously published method.12 First, the
+starting material 1 was protected by the acetyl group to obtain
+2. 2-Chloroacetyl chloride was the introduced into compound 2
+via the Friedel−Crafts reaction. After cyclization reaction with
+AcONa in ethanol, the synthetic precursor 3 was obtained.
+Condensation of 3 and 7 in the presence of heated
+concentrated H2SO4 leads to AFR1 with an excellent yield
+(90%), during which the acetyl group was automatically
+removed without further treatment. Likewise, AFR2 was also
+synthesized by condensation of 3 and 8 with a high yield
+(69%). AFR1E was obtained from AFR1 in ethanol catalyzed
+by concentrated H2SO4.
+</para>
+<para sub="scope">
+The introduction of electron-withdrawing groups such as
+CF3 at position 9 of xanthenes leads to dyes with longer
+absorption and emission wavelengths.9 The CF3 group is
+introduced into the xanthene skeleton usually through a
+reaction between 3-alkylaminophenol and triﬂuoroacetic
+anhydride (TFAA). However, the production yield is low,
+and further conjugation is restricted because of the absence of
+functional groups.9 Recently, Cornish proposed a new strategy
+by using the reaction of TFAA with a diaryl ether derivative
+with good yield.13 Thus, a similar synthetic method was
+employed to synthesize AFR3 by the reaction of 3 and 6 with a
+yield of 11%. The intermediate 6 was synthesized in three steps
+from the starting material 4. Compound 5 that was prepared by
+acetylation of 4 reacted with TFAA via the Friedel−Crafts
+reaction and then was deacetylated by HCl in THF leading to
+
+6.14 The ﬁnal structures of AFR dyes were characterized via 1H
+and 13C NMR spectroscopy, HR-ESI, and element analysis.
+</para>
+<para sub=“props”>
+Photophysics. The absorption and ﬂuorescence data for
+AFR1, AFR1E, AFR2, and AFR3 in distinct solvents (CH2Cl2,
+EtOH, and H2O) are summarized in Table 1. Their
+</para>
+Table 1. Photophysical Properties of AFR Dyes in Diﬀerent
+Solvents
+
+dye
+AFR1
+
+AFR1E
+
+AFR2
+
+AFR3
+
+solvent
+CH2Cl2
+EtOH
+H2O
+CH2Cl2
+EtOH
+H2O
+CH2Cl2
+EtOH
+H2O
+CH2Cl2
+EtOH
+H2O
+
+λ
+max
+abs
+(nm)
+581
+572
+581
+587
+590
+588
+597
+588
+583
+658
+640
+640
+
+λ
+max
+em
+(nm)
+617
+622
+634
+627
+640
+645
+623
+629
+627
+695
+706
+707
+
+Stokes
+shift
+(nm)
+36
+50
+53
+40
+50
+57
+26
+41
+44
+37
+66
+67
+
+ε
+
+(M−1 cm−1)
+
+44400
+113400
+71400
+74200
+133200
+86800
+89400
+78800
+94400
+92875
+13880
+36650
+
+Φ
+
+0.726
+0.778
+0.126
+0.732
+0.501
+0.088
+0.717
+0.584
+0.152
+0.157
+0.064
+0.014
+
+em
+<para sub=“props”>
+corresponding spectra are shown in Figure 1 and Figures S1
+and S2 of the Supporting Information. The maximal emission
+wavelengths (λ
+max) of AFR1, AFR1E, and AFR2 gradually
+increased from CH2Cl2 to EtOH to H2O, which indicates the
+phenomenon of positive solvatochromism. Likewise, AFR3
+showed the same changing trend for emission in these solvents.
+As expected, AFR3 emits NIR ﬂuorescence because of the
+introduction of the electron-withdrawing group (CF3) into the
+skeleton leading to a lower energy gap.9 AFR3 is the longest
+ﬂuorescent rhodamine derivative containing an amino group.
+AFR1, AFR1E, and AFR2 had good quantum yields in CH2Cl2
+the quantum yield of AFR3 was
+and EtOH, whereas
+</para>
+3171
+
+DOI: 10.1021/acs.joc.5b00077
+J. Org. Chem. 2015, 80, 3170−3175
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“props”>
+absorption intensity varied very little in the pH range of 2−9.
+AFR3 had strong absorption intensity only under acidic
+conditions (from 2.0 to 6.0), but
+the intensity dropped
+between pH 6 and 11. Under alkaline environment conditions,
+the position directly connected with CF3 of AFR3 might be
+easily attached by hydroxyl, resulting in structural destruction.
+Nonetheless, it had little inﬂuence on the bioimaging properties
+of AFR3 because of
+the location in the acid organelle
+(lysosome, pH 4.6−5.0)18 in the cells.
+</para>
+<para sub=“props”>
+Bioimaging and Cell Location. To further demonstrate
+the potential applications of AFR dyes in biological samples, we
+conducted ﬂuorescent imaging cell
+location experiments in
+A549 cells. As shown in Figure 3, AFR dyes were easily
+</para>
+Figure 1. Normalized absorption and ﬂuorescence spectra of AFR
+dyes in EtOH.
+
+abs
+<para sub=“props”>
+the absorption wavelength (λ
+
+signiﬁcantly reduced because of the decreased energy gap and
+enhanced nonradiative transition in NIR ﬂuorescent dyes.7,15
+max) of AFR dyes in
+For
+diﬀerent solvents, no distinct regularity was observed except in
+the visible light and deep-red region (Figure 1). AFR3 may be
+an excellent imaging dye because of excitation at the deep-red
+wavelength (640 nm), which largely reduced the level of
+photodamage and autoﬂuorescence in living samples. The
+molar extinction coeﬃcients of the AFR dyes ranged from
+70000 to 134000 M−1 cm−1, whereas few were in the region
+from 13000 to 45000 M−1 cm−1. Compared with traditional
+rhodamine dyes,7,16 the AFR dyes had larger Stokes shifts (>50
+nm) in H2O, which could reduce the level of self-absorption,
+help produce a high resolution, and facilitate multichannel
+bioimaging.4b,17
+</para>
+<para sub=“props”>
+The pH stability of the AFR dyes was measured in diﬀerent
+Britton-Robinson (BR) buﬀers (40 mM, pH 2−11). As seen in
+Figure 2 and Figure S3 of the Supporting Information, the
+absorption intensity of AFR1 remains almost the same over a
+wide pH range (4.0−10.0). This result indicates wider pH
+stability for AFR1 than for traditional rhodamine dyes,7 which
+implies that the formation of spirolactone for AFR1 is diﬃcult
+probably because of
+the introduction of aminobenzofuran.
+AFR1E and AFR2 showed the same tendency, and their
+</para>
+Figure 2. pH dependence of the normalized absorption of AFR dyes
+in BR buﬀers (40 mM, pH 2−11).
+
+Figure 3. Confocal ﬂuorescence microscopy images of A549 cells
+incubated with (a) MTG (100 nM) and compound AFR1, AFR1E, or
+AFR2 (2 μM) and (b) LTG (200 nM) and compound AFR3 (5 μM).
+The scale bar is 10 μm.
+<para sub=“props”>
+permeating the living cells at the optimal concentration, and
+obvious stains in the cytoplasm were observed. Generally,
+positively charged rhodamine derivatives are mainly located in
+the mitochondria by electrostatic interactions.7b,19 Hence,
+MitoTracker Green FM (MTG) as the standard mitochondria
+marker was ﬁrst used to conﬁrm the localization of AFR dyes in
+the A549 cells. AFR1, AFR1E, and AFR2 are mainly located in
+the mitochondria with 90−99% overlap with MTG (Figure 3a).
+As for AFR3, it had little overlap with MTG in A549 cells (data
+not shown), which properly stained lysosome. The colocaliza-
+tion experiment of AFR3 with LysoTracker Green (LTG, a
+commercially available lysosome speciﬁc staining probe)
+demonstrated that ﬂuorescence throughout the cytoplasm is
+predominantly associated with lysosomes (Figure 3b).
+</para>
+<para sub=“props”>
+Photostability and Cytotoxicity. It is vital to note that
+evaluating the photostability of AFR dyes is crucial for imaging-
+related applications in living cells. The photostability of AFR
+dyes was evaluated in A549 cells by continuous irradiation
+(Figure 4). After irradiation for 20 min, the intensity of AFR1
+decreased to 95%, whereas those of AFR1E and AFR2
+decreased to 76 and 74%,
+respectively. However, as a
+comparison, the intensity of the MTG dropped to 12% in 20
+</para>
+3172
+
+DOI: 10.1021/acs.joc.5b00077
+J. Org. Chem. 2015, 80, 3170−3175
+
+The Journal of Organic Chemistry
+
+Article
+
+imaging showed that AFR1, AFR1E, and AFR2 are mainly
+located in the mitochondria, and AFR3 is a lysosome tracker.
+Our work demonstrated an alternative strategy for obtaining a
+high quantum yield, a large Stokes shift, and long wavelength
+ﬂuorescent dyes. Further studies using the AFR dyes for
+detection and imaging applications in biological samples are
+underway in our laboratory.
+
+Figure 4. Photostability of AFR dyes, MTG, and LTG in A549 cells.
+<para sub=“props”>
+min. As for AFR3, more than 85% of the initial ﬂuorescence
+intensity remained after irradiation for 20 min, which was
+roughly equal to that of LTG. The results mentioned above
+revealed that the AFR dyes had comparable photostability,
+which could be applied to long-term monitoring biological
+events in living samples.
+</para>
+<para sub=“props”>
+The cytotoxicity of the AFR dyes in the A549 and HeLa cells
+was tested via MTT [3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl-
+2H-tetrazolium] assay. As seen in Figure 5, all the compounds
+</para>
+Figure 5. Cytotoxicity of AFR dyes in A549 cells.
+<para sub=“props”>
+exhibited very low cytotoxicity after incubation in A549 cells for
+24 h even if the concentration was up to 10 μM. At this
+concentration, the cell viabilities of AFR dyes were >85%. The
+results of the MTT assay in HeLa cells (Figure S5 of the
+Supporting Information) are in good agreement with the
+results for A549 cells. These results indicate that the AFR dyes
+are biocompatible because of their low cytotoxicity in both
+A549 and HeLa cells.
+</para>
+■ CONCLUSIONS
+
+In conclusion, a series of amino group-containing and
+benzofuran-fused rhodamine derivatives (AFR1, AFR1E,
+AFR2, and AFR3) with excellent photophysical properties
+and good biocompatibility were synthesized. AFR1, AFR1E,
+and AFR2 show deep-red emission, high ﬂuorescence quantum
+yield, good photostability, and a wide region of pH stability. To
+the best of our knowledge, NIR AFR3 emits the longest
+ﬂuorescence with comparable photostability among all
+the
+amino group-containing rhodamine derivatives. Data from cell
+
+2/nst
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+Quantum Yield (QY) Measurement. Cresyl violet in methanol
+(Φ = 0.54) was chosen as the standard for measuring the quantum
+yield of AFR1, AFR1E, and AFR2.20 As for the quantum yield of
+AFR3, zinc phthalocyanine in toluene (containing 1% pyridine; Φ =
+0.30) was the standard.21 The quantum yield of the AFR dyes in
+diﬀerent solvents was calculated according to the equation Φ
+x =
+2)(Gx/Gst), where Φ is the quantum yield, G is the gradient
+Φ
+st(nx
+from the plot of integrated ﬂuorescence intensity versus absorbance, n
+is the refractive index (nMeOH = 1.329, nCH2Cl2 = 1.424, nEtOH = 1.361,
+nH2O = 1.333, and ntoluene = 1.497), and A is the absorbance at the
+excitation wavelength (λ
+ex = 540 nm for AFR1, AFR1E, and AFR2, λ
+ex
+= 605 nm for AFR3). Subscripts x and st refer to the unknown and
+standard ﬂuorophores, respectively. Related data are included in the
+Supporting Information (Figure S4 and Table S1).
+
+Imaging. A human non-small cell lung cancer cell line (A549 cells)
+was used to perform all the imaging-related experiments (including the
+MTT assay), while a human uterine cervical cancer cell line (HeLa
+cells) was used only to evaluate the cytotoxicity of AFR dyes by the
+MTT assay. A549 and HeLa cells were cultured in confocal dishes in
+culture media [McCoy’s 5A and Dulbecco’s modiﬁed Eagle’s medium
+(DMEM) respectively, supplemented with 10% fetal bovine serum
+(FBS), 50 units/mL penicillin, and 50 mg/mL streptomycin] under a
+5% CO2/air atmosphere at 37 °C in a humidiﬁed incubator for 24 h.
+Then 2 or 5 μL of the AFR dye solution (stock solution, 1 mM in
+DMSO) was added to the culture medium of A549 cells and incubated
+at 37 °C under 5% CO2 for 30 min before being imaged. (For
+colocalization experiments, A549 cells were treated and incubated with
+100 nM MTG or 200 nM LTG.) Cells were washed with PBS (pH
+7.4) three times before being imaged. Images were aquired with a
+Nikon C1si laser scanning confocal microscope (excitation at 488 nm,
+FITC channel; excitation at 543 nm, TRITC channel; excitation at 640
+nm, DAPI channel) and processed with NIS-Elements Viewer 3.20.
+For photostability, AFR1, AFR1E, AFR2, MTG, and LTG were
+continuously irradiated with a 488 nm laser, and a 640 nm laser was
+used for AFR3.
+
+MTT Assay. AFR dye stock solutions (1 mM each) were diluted
+with fresh medium (McCoy’s 5A and DMEM were utilized for A549
+and HeLa cells, respectively) to diﬀerent concentrations (0, 2, 4, 6, 8,
+and 10 μM). A549 or HeLa cells were cultured in a 96-well plate for 12
+h, and then the cell medium was exchanged with diﬀerent
+concentrations of AFR solutions, which were removed after incubation
+for 2 h and exchanged with fresh medium. After a 24 h incubation at
+37 °C in 5% CO2, the cell medium were exchanged with fresh medium
+(100 μL), and then 20 μL of the MTT (5 mg/mL) solution was added
+to each well. After incubation at 37 °C in 5% CO2 for 4 h, 100 μL of
+DMSO was added after the culture medium had been discarded. The
+absorbance for all the wells with cell medium was measured at 570 nm,
+and the cell viability of untreated cells was set to 100% as a reference.
+Synthesis of N-(3-Methoxyphenyl)acetamide (2). The pub-
+lished method was followed to synthesize compound 2.22 Acetic
+anhydride (20 mL) was added to a solution of m-anisidine (20 g, 16.25
+mmol) in 20 mL of acetic acid at 0 °C. The solution was stirred for 24
+h at room temperature and then poured into the mixture of 100 g of
+ice and 100 mL of water. The light pink solid was ﬁltered and dried
+under vacuum, yielding 15.6 g (58%) of the product. 1H NMR (400
+MHz, DMSO-d6): δ 9.89 (s, 1H), 7.28 (t, 1H, J = 2.1 Hz), 7.18 (t, 1H,
+J = 8.1 Hz), 7.10 (d, 1H, J = 8.5 Hz), 6.62−6.58 (m, 1H), 3.71 (s, 3H),
+2.03 (s, 3H). 13C NMR (100 MHz, DMSO-d6): δ 168.3, 159.5, 140.5,
+</para>
+3173
+
+DOI: 10.1021/acs.joc.5b00077
+J. Org. Chem. 2015, 80, 3170−3175
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+129.4, 111.3, 108.3, 104.9, 54.9, 24.1. TOF-EI calcd for [C9H11NO2]
+m/z 165.0789, found m/z 165.0743.
+
+Synthesis of N-(3-Oxo-2,3-dihydrobenzofuran-6-yl)-
+acetamide (3). A modiﬁed method was followed to synthesize
+compound 3.12 Chloroacetyl chloride (6.52 g, 58.2 mmol) was added,
+followed within 15 min by 4 g (24.2 mmol) of N-(3-methoxyphenyl)-
+acetamide, to a solution of 12.92 g (98.0 mmol) of AlCl3 in 20 mL of
+1,2-dichloroethane at 0 °C under N2. The mixture was stirred for 30
+min at 0 °C, slowly warmed to room temperature, and further stirred
+for 24 h. The brown mixture was added to 200 mL of ice−water and
+200 mL of AcOEt. After the mixture had been vigorously stirred, the
+resulting precipitate [N-(3-methoxy-4-chloroacetylphenyl)acetamide]
+was ﬁltered oﬀ and dried under vacuum. The resulting solid was
+introduced into 30 mL of EtOH; 2.64 g (32.2 mmol) of AcONa was
+added, and then the mixture was heated under reﬂux for 24 h. EtOH
+was removed under reduced pressure, and the mixture solid was
+puriﬁed by silica gel chromatography using a 1:2 (v/v) petroleum
+ether/AcOEt mixture as the eluent to give 3 as a yellow solid (1.47 g,
+32%). 1H NMR (400 MHz, DMSO-d6): δ 10.45 (s, 1H), 7.71 (d, 1H, J
+= 1.4 Hz), 7.56 (d, 1H, J = 8.4 Hz), 7.14 (dd, 1H, J1 = 8.5 Hz, J2 = 1.6
+Hz), 4.75 (s, 2H), 2.11 (s, 3H). 13C NMR (100 MHz, DMSO-d6): δ
+197.5, 174.5, 169.4, 147.9, 124.2, 115.6, 113.4, 101.5, 75.2, 24.3. TOF-
+EI calcd for [C10H9NO3] m/z 191.0582, found m/z 191.0534.
+
+Synthesis of 3-(Diethylamino)phenyl Acetate (5). Ac2O (765
+μL, 8 mmol), DMAP (31 mg, 0.25 mmol), and NEt3 (845 μL, 6
+mmol) were successively added to an anhydrous CH2Cl2 (10 mL)
+solution of 3-(diethylamino)phenol (852 mg, 5 mmol), which was
+stirred for 12 h. The mixture solution was extracted with 100 mL of
+CH2Cl2. The organic layer was washed with a saturated NaHCO3 (2 ×
+30 mL) solution and brine (2 × 30 mL) and dried with anhydrous
+MgSO4. After being dried, CH2Cl2 was removed under reduced
+pressure, and the ﬁnal
+solution was puriﬁed by silica gel
+chromatography using an 8:1 (v/v) petroleum ether/AcOEt mixture
+as the eluent to give 5 as a light yellow oily liquid (1.02 g, 98%). 1H
+NMR (400 MHz, CDCl3): δ 7.17 (t, 1H, J = 8.0 Hz), 6.54−6.48 (m,
+1H), 6.34 (d, 2H, J = 7.5 Hz), 3.32 (q, 4H, J = 7.1 Hz), 2.28 (s, 3H),
+1.15 (t, 6H, J = 7.1 Hz). 13C NMR (100 MHz, CDCl3): δ 170.6, 153.0,
+150.0, 130.7, 110.1, 108.9, 105.6, 45.3, 22.2, 13.4. TOF-EI calcd for
+[C12H17NO2] m/z 207.1259, found m/z 207.1293.
+Synthesis of 4-(Dimethylamino)-1′,1′,1′-triﬂuoro-2-hydrox-
+yacetophenone (6). A modiﬁed method was followed to synthesize
+compound 6.14 A solution of 5 (2.04 g, 9.86 mmol) and triﬂuoroacetic
+anhydide (3.45 mL, 24.6 mmol) in Et2O (20 mL) was reﬂuxed for 3 h,
+and the solvent was evaporated. The residue, dissolved in a mixture of
+THF (40 mL) and 2 M aqueous hydrochloric acid (20 mL), was
+stirred for 24 h at room temperature. The solution was concentrated
+under reduced pressure, and the aqueous residue was extracted with
+ether. The organic extract was washed with water and brine, dried, and
+evaporated. The residue was crystallized (petroleum ether) to give 4 as
+yellow needles (1.03 g, 40%). 1H NMR (400 MHz, CDCl3): δ 11.83
+(s, 1H), 7.57 (dq, 1H, J1 = 9.4 Hz, J2 = 2.1 Hz), 6.27 (dd, 1H, J1 = 9.5
+Hz, J2 = 2.6 Hz), 6.11 (d, 1H, J = 2.6 Hz), 3.44 (q, 4H, J = 7.1 Hz),
+1.23 (t, 6H, J = 7.1 Hz). 13C NMR (100 MHz, CDCl3): δ 180.2 (q, J =
+34 Hz), 168.2, 156.1, 133.3 (q, J = 4 Hz), 118.3 (q, J = 287 Hz), 106.3,
+105.2, 98.0, 45.9, 13.5 (F atom eﬀect-induced split of 13C NMR).23 19F
+NMR (376 MHz, DMSO-d6): δ −68.6 (s, 3F). TOF-EI calcd for
+[C12H14F3NO2] m/z 261.0977, found m/z 261.0950.
+
+Synthesis of AFR1. Compound 3 (382 mg, 2.0 mmol) and
+compound 7 (640 mg, 2.0 mmol) were successively added to
+concentrated H2SO4 (10 mL), which was heated at 100 °C for 4 h.
+After being cooled, the mixture was poured into ice−water, and then
+perchloric acid (2 mL) was added. The resulting precipitate was
+ﬁltered oﬀ and washed with plenty of water. After the sample had
+dried, puriﬁcation by silica gel chromatography using a CH2Cl2/
+CH3OH mixture [20:1, 10:1, 5:1, or 3:1 (v/v)] as the eluent gave
+AFR1 as a dark-blue solid (945 mg, 90%). Mp: 292−294 °C. 1H NMR
+(400 MHz, DMSO-d6): δ 13.22 (s, 1H), 8.16 (d, 1H, J = 7.5 Hz), 7.86
+(t, 1H, J = 7.4 Hz), 7.83−7.74 (m, 2H), 7.52 (d, 1H, J = 7.2 Hz),
+7.28−6.78 (m, 6H), 6.65 (s, 1H), 3.53 (q, 4H, J = 6.7 Hz), 1.17 (t, 6H,
+J = 7.0 Hz). 13C NMR (100 MHz, CD3OD): δ 166.0, 160.1, 158.5,
+
+157.9, 155.8, 154.4, 142.1, 132.2, 132.0, 131.6, 131.3, 130.8, 124.8,
+117.5, 115.7, 113.8, 106.4, 98.4, 94.8, 46.4, 12.7. ESI-HRMS calcd for
+[C26H23N2O4]+ m/z 427.16523, found m/z 427.16504. Elem. Anal.
+Calcd for C26H23ClN2O8: C, 59.26; H, 4.40; N, 5.32. Found: C, 59.12;
+H, 4.53; N, 5.29.
+
+Synthesis of AFR1E. Concentrated H2SO4 (2 mL) was added to
+an ethanol solution (10 mL) of compound AFR1 (527 mg, 1.0 mmol),
+and the solution was heated to reﬂux for 4 h. After the sample had
+cooled, ethanol was removed under reduced pressure and the residue
+was slowly diluted with 50 mL of H2O followed by 2 mL of HClO4,
+which was stirred to collect the resulting precipitate. After the sample
+had dried, puriﬁcation by silica gel chromatography using a CH2Cl2/
+CH3OH [100:1, 80:1, or 60:1 (v/v)] as the eluent gave AFR1E as a
+dark-green solid (280 mg, 50%). Mp: 275−277 °C. 1H NMR (400
+MHz, DMSO-d6): δ 8.26−8.22 (m, 1H), 7.96−7.92 (m, 2H), 7.86 (td,
+1H, J1 = 7.7 Hz, J2 = 1.2 Hz), 7.80 (s, 2H), 7.65 (d, 1H, J = 6.7 Hz),
+7.28 (d, 1H, J = 2.3 Hz), 7.25 (d, 1H, J = 9.4 Hz), 7.18 (dd, 1H, J1 =
+9.4 Hz, J2 = 2.3 Hz), 6.97 (dd, 1H, J1 = 9.0 Hz, J2 = 1.6 Hz), 6.69 (d,
+1H, J = 1.6 Hz), 4.03 (q, 2H, J = 7.1 Hz), 3.61 (q, 4H, J = 7.0 Hz),
+1.20 (t, 6H, J = 7.0 Hz), 0.93 (t, 3H, J = 7.1 Hz). 13C NMR (100 MHz,
+DMSO-d6): δ 165.3, 164.1, 159.1, 155.9, 154.0, 152.6, 140.4, 139.3,
+133.4, 131.3, 131.2, 130.4, 129.4, 129.0, 124.5, 117.2, 115.0, 111.7,
+104.4, 97.5, 93.6, 61.5, 45.1, 13.7, 12.5. ESI-HRMS calcd for
+[C28H27N2O4]+ m/z 455.19653, found m/z 455.19629. Elem. Anal.
+Calcd for C28H27ClN2O8: C, 60.60; H, 4.90; N, 5.05. Found: C, 60.71;
+H, 5.12; N, 5.09.
+
+Synthesis of AFR2. Compound 3 (382 mg, 2.0 mmol) and
+compound 8 (394 mg, 2.0 mmol) were successively added to
+concentrated H2SO4 (10 mL), which was heated at 100 °C for 4 h.
+After being cooled, the mixture was poured into ice−water, and then
+perchloric acid (2 mL) was added. The resulting precipitate was
+ﬁltered oﬀ and washed with plenty of water. After the sample had
+dried, puriﬁcation by silica gel chromatography using a CH2Cl2/
+CH3OH mixture [80:1, 60:1, 40:1, or 20:1 (v/v)] as the eluent gave
+AFR2 as a dark-blue solid (560 mg, 69%). Mp: 254−256 °C. 1H NMR
+(400 MHz, DMSO-d6): δ 8.69 (d, J = 16.5 Hz, 1H), 7.95−7.83 (m,
+2H), 7.77 (s, 2H), 7.26 (d, J = 8.9 Hz, 1H), 7.16 (s, 1H), 6.94 (d, J =
+8.9 Hz, 1H), 6.76 (s, 1H), 3.60 (q, J = 6.2 Hz, 4H), 1.20 (t, J = 7.0 Hz,
+6H). 13C NMR (100 MHz, 2:1 CD3OD/CD2Cl2): δ 166.1, 160.2,
+157.0, 156.4, 154.2, 143.6, 132.5, 126.4, 124.6, 117.7, 115.4, 113.4,
+105.5, 97.8, 94.3, 46.1, 12.3. ESI-HRMS calcd for [C19H19N2O2]+ m/z
+307.14410,
+found m/z 307.144409. Elem. Anal. Calcd for
+C19H19ClN2O6: C, 56.09; H, 4.71; N, 6.89. Found: C, 55.91; H,
+4.78; N, 6.91.
+
+Synthesis of AFR3. Compound 3 (382 mg, 2.0 mmol) and
+compound 6 (522 mg, 2.0 mmol) were successively added to
+concentrated H2SO4 (10 mL), which was heated at 100 °C for 8 h.
+After being cooled, the mixture was poured into ice−water, and then
+perchloric acid (2 mL) was added. The resulting precipitate was
+ﬁltered oﬀ and washed with plenty of water. After the sample had
+dried, puriﬁcation by silica gel chromatography using a CH2Cl2/
+CH3OH mixture [200:1, 150:1, 100:1, or 80:1 (v/v)] as the eluent
+gave AFR3 as a green solid (105 mg, 11%). Mp: 265−268 °C. 1H
+NMR (400 MHz, DMSO-d6): δ 8.60 (s, 2H), 7.94 (dd, 1H, J1 = 9.0
+Hz, J2 = 1.9 Hz), 7.81 (d, 1H, J = 9.4 Hz), 7.29 (d, 1H, J = 9.5 Hz),
+7.22 (s, 1H), 7.01 (d, 1H, J = 9.0 Hz), 6.82 (s, 1H), 3.61 (q, 4H, J =
+6.9 Hz), 1.20 (t, 6H, J = 7.0 Hz). 13C NMR (100 MHz, DMSO-d6): δ
+165.8, 161.8, 156.8, 155.5, 152.1, 140.9, 127.0, 126.0, 121.8 (d, J = 275
+Hz), 118.9, 118.2 (d, J = 35 Hz), 115.3, 106.2, 104.9, 98.3, 94.3, 45.3,
+12.8 (F atom eﬀect-induced split of 13C NMR).23 19F NMR (376
+MHz, DMSO-d6): δ −56.4 (s, 3F). ESI-HRMS calcd for
+[C20H18F3N2O2]+ m/z 375.13149,
+found m/z 375.13133. Elem.
+·1/4H2O: C, 50.12; H, 3.89; N,
+Anal. Calcd for C20H18ClF3N2O6
+5.84. Found: C, 50.09; H, 3.91; N, 5.82.
+</para>
+3174
+
+DOI: 10.1021/acs.joc.5b00077
+J. Org. Chem. 2015, 80, 3170−3175
+
+The Journal of Organic Chemistry
+
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Photophysical data, cell data, and NMR spectra of new
+compounds. This material is available free of charge via the
+Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: wmliu@mail.ipc.ac.cn.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was supported by the NNSF of China (Grants
+21373250, 21173244, and F040801).
+
+■ REFERENCES
+
+(1) (a) Kobayashi, H.; Ogawa, M.; Alford, R.; Choyke, P. L.; Urano,
+Y. Chem. Rev. 2010, 110, 2620. (b) Chen, X.; Pradhan, T.; Wang, F.;
+Kim, J. S.; Yoon, J. Chem. Rev. 2012, 112, 1910. (c) Chan, J.; Dodani,
+S. C.; Chang, C. J. Nat. Chem. 2012, 4, 973. (d) Li, X.; Gao, X.; Shi,
+W.; Ma, H. Chem. Rev. 2014, 114, 590.
+(2) (a) Fan, J.; Hu, M.; Zhan, P.; Peng, X. Chem. Soc. Rev. 2013, 42,
+29. (b) Zheng, H.; Zhan, X.-Q.; Bian, Q.-N.; Zhang, X.-J. Chem.
+Commun. 2013, 49, 429.
+(3) (a) Lippert, A. R.; New, E. J.; Chang, C. J. J. Am. Chem. Soc. 2011,
+133, 10078. (b) Lin, V. S.; Lippert, A. R.; Chang, C. J. Proc. Natl. Acad.
+Sci. U.S.A. 2013, 110, 7131. (c) Sakabe, M.; Asanuma, D.; Kamiya, M.;
+Iwatate, R. J.; Hanaoka, K.; Terai, T.; Nagano, T.; Urano, Y. J. Am.
+Chem. Soc. 2013, 135, 409. (d) Komatsu, T.; Hanaoka, K.; Adibekian,
+A.; Yoshioka, K.; Terai, T.; Ueno, T.; Kawaguchi, M.; Cravatt, B. F.;
+Nagano, T. J. Am. Chem. Soc. 2013, 135, 6002.
+(4) (a) Weissleder, R. Nat. Biotechnol. 2001, 19, 316. (b) Escobedo, J.
+O.; Rusin, O.; Lim, S.; Strongin, R. M. Curr. Opin. Chem. Biol. 2010,
+14, 64. (c) Yuan, L.; Lin, W.; Zheng, K.; He, L.; Huang, W. Chem. Soc.
+Rev. 2013, 42, 622.
+(5) (a) Fu, M. Y.; Xiao, Y.; Qian, X. H.; Zhao, D. F.; Xu, Y. F. Chem.
+Commun. 2008, 1780. (b) Koide, Y.; Urano, Y.; Hanaoka, K.; Terai, T.;
+Nagano, T. J. Am. Chem. Soc. 2011, 133, 5680. (c) Koide, Y.; Urano,
+Y.; Hanaoka, K.; Terai, T.; Nagano, T. ACS Chem. Biol. 2011, 6, 600.
+(6) (a) Kushida, Y.; Hanaoka, K.; Komatsu, T.; Terai, T.; Ueno, T.;
+Yoshida, K.; Uchiyama, M.; Nagano, T. Bioorg. Med. Chem. Lett. 2012,
+22, 3908. (b) Piao, W.; Tsuda, S.; Tanaka, Y.; Maeda, S.; Liu, F.;
+Takahashi, S.; Kushida, Y.; Komatsu, T.; Ueno, T.; Terai, T.;
+Nakazawa, T.; Uchiyama, M.; Morokuma, K.; Nagano, T.; Hanaoka,
+K. Angew. Chem., Int. Ed. 2013, 52, 13028.
+(7) Furukawa, K.; Abe, H.; Wang, J.; Uda, M.; Koshino, H.; Tsuneda,
+S.; Ito, Y. Org. Biomol. Chem. 2009, 7, 671.
+(8) (a) Yuan, L.; Lin, W.; Yang, Y.; Chen, H. J. Am. Chem. Soc. 2012,
+134, 1200. (b) Chen, J.; Liu, W.; Zhou, B.; Niu, G.; Zhang, H.; Wu, J.;
+Wang, Y.; Ju, W.; Wang, P. J. Org. Chem. 2013, 78, 6121. (c) Liu, J.;
+Sun, Y.-Q.; Wang, P.; Zhang, J.; Guo, W. Analyst 2013, 138, 2654.
+(d) Kamino, S.; Murakami, M.; Tanioka, M.; Shirasaki, Y.; Watanabe,
+K.; Horigome, J.; Ooyama, Y.; Enomoto, S. Org. Lett. 2014, 16, 258.
+(9) (a) Haley, L. N. F. J. Heterocycl. Chem. 1977, 14, 683. (b) Shi, J.
+M.; Zhang, X. P.; Neckers, D. C. Tetrahedron Lett. 1993, 34, 6013.
+(c) Sauer, M.; Han, K. T.; Mueller, R.; Schulz, A.; Tadday, R.; Seeger,
+S.; Wolfrum, J.; Arden-Jacob, J.; Deltau, G.; Marx, N. J.; Drexhage, K.
+H. J. Fluoresc. 1993, 3, 131.
+(10) (a) Ustinov, A.; Korshun, V. US 20120316319 A1, 2012.
+(b) Pastierik, T.; Šebej, P.; Medalová, J.; Štacko, P.; Klán, P. J. Org.
+Chem. 2014, 79, 3374.
+(11) (a) Umezawa, K.; Nakamura, Y.; Makino, H.; Citterio, D.;
+Suzuki, K. J. Am. Chem. Soc. 2008, 130, 1550. (b) Son, J. H.; Lim, C. S.;
+Han, J. H.; Danish, I. A.; Kim, H. M.; Cho, B. R. J. Org. Chem. 2011,
+76, 8113. (c) Chen, J.; Liu, W.; Ma, J.; Xu, H.; Wu, J.; Tang, X.; Fan,
+Z.; Wang, P. J. Org. Chem. 2012, 77, 3475. (d) Bochkov, A. Y.;
+
+Article
+
+Akchurin, I. O.; Dyachenko, O. A.; Traven, V. F. Chem. Commun.
+2013, 49, 11653.
+(12) Diedrichs, N.; Fahrig, T.; Gerlach, I.; Ragot, J.; Schuhmacher, J.;
+Thede, K.; Horvath, E. WO 2005113529 A2, 2005.
+(13) Anzalone, A. V.; Wang, T. Y.; Chen, Z. X.; Cornish, V. W.
+Angew. Chem., Int. Ed. 2013, 52, 650.
+(14) Corrie, J. E. T.; Munasinghe, V. R. N.; Rettig, W. J. Heterocycl.
+Chem. 2000, 37, 1447.
+(15) Sommer, J. R.; Shelton, A. H.; Parthasarathy, A.; Ghiviriga, I.;
+Reynolds, J. R.; Schanze, K. S. Chem. Mater. 2011, 23, 5296.
+(16) (a) Sreenath, K.; Clark, R. J.; Zhu, L. J. Org. Chem. 2012, 77,
+8268. (b) Cui, X.; Zhao, J.; Lou, Z.; Li, S.; Wu, H.; Han, K.-l. J. Org.
+Chem. 2015, 80, 568.
+(17) Lakowicz, J. R. Principles of ﬂuorescence spectroscopy, 2nd ed.;
+Kluwer Academic: New York, 1999.
+(18) Luzio, J. P.; Pryor, P. R.; Bright, N. A. Nat. Rev. Mol. Cell Biol.
+2007, 8, 622.
+(19) (a) Johnson, L. V.; Walsh, M. L.; Chen, L. B. Proc. Natl. Acad.
+Sci. U.S.A. 1980, 77, 990. (b) Koide, Y.; Urano, Y.; Kenmoku, S.;
+Kojima, H.; Nagano, T. J. Am. Chem. Soc. 2007, 129, 10324. (c) Kim,
+Y. K.; Ha, H. H.; Lee, J. S.; Bi, X. Z.; Ahn, Y. H.; Hajar, S.; Lee, J. J.;
+Chang, Y. T. J. Am. Chem. Soc. 2010, 132, 576.
+(20) Magde, D.; Brannon, J. H.; Cremers, T. L.; Olmsted, J. J. Phys.
+Chem. 1979, 83, 696.
+(21) Vincett, P. S.; Voigt, E. M.; Rieckhoff, K. E. J. Chem. Phys. 1971,
+55, 4131.
+(22) Akhavan-Tafti, H.; DeSilva, R.; Arghavani, Z.; Eickholt, R. A.;
+Handley, R. S.; Schoenfelner, B. A.; Sugioka, K.; Sugioka, Y.; Schaap,
+A. P. J. Org. Chem. 1998, 63, 930.
+(23) Dolbier, W. R. Guide to ﬂuorine NMR for organic chemists; John
+Wiley & Sons: New York, 2009.
+
+3175
+
+DOI: 10.1021/acs.joc.5b00077
+J. Org. Chem. 2015, 80, 3170−3175
+
+

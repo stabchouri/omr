@@ -1,0 +1,1715 @@
+Article
+
+pubs.acs.org/joc
+
+One-Pot Synthesis of Glycosyl-β-azido Ester via Diazotransfer
+Reaction Toward Access of Glycosyl-β-triazolyl Ester
+Amrita Mishra and Vinod K. Tiwari*
+
+Department of Chemistry, Centre of Advanced Study, Faculty of Science, Banaras Hindu University, Varanasi 221005, India
+
+*S Supporting Information
+
+ABSTRACT: A concise and eﬃcacious one-pot protocol for the synthesis of novel glycosyl-β-azido ester 3 from glycosyl oleﬁnic
+ester 1 under mild conditions has been devised. The β-aminoester, formed by the conjugate addition of ammonia on oleﬁnic
+ester, undergoes a metal-catalyzed diazotransfer reaction to furnish glycosyl-β-azido ester. The optimized conditions for
+diazotransfer reaction indicate that imidazole-1-sulphonyl azide and K2CO3 give the best results in the presence of ZnCl2. A
+diverse range of novel regioselective triazolyl glycoconjugates 6a−u have been achieved in high yields via 1,3-dipolar
+cycloaddition of compound 3 with various alkynes in the presence of CuI/DIPEA. Structures of all the compounds have been
+elucidated using IR, NMR, MS, and elemental analysis, and four of them (3a, 3b, 4b, and 6a) have also been characterized by
+single crystal X-ray diﬀraction analysis.
+
+■ INTRODUCTION
+
+the most
+
+1,2,3-Triazoles are one of
+important classes of
+heterocycles that have been studied over the past decade because
+of their wide applicability in material science, biological research,
+and medicinal chemistry.1 They possess antitumor,2 anti-HIV,3
+cytostatic,4 and antibactericidal properties5 and can also act as
+glycosidase6 and GABA inhibitors.7 The triazole moiety, because
+of its close electronic and chemical resemblance to an amide
+bond, serves as a bioisostere of peptide functionality and hence
+plays a major role in the elaboration and composition of
+biological systems.8
+
+Carbohydrates and their conjugates play a fundamental role in
+normal cell functions, including energy storage, modulation of
+protein function, transport, adhesion, signal transduction, as well
+as viral and bacterial cell surface recognition. Their role in
+biodynamic applications has led to increased demand of
+carbohydrate-based molecules for complete chemical, medicinal,
+biological, and pharmacological investigations.9 In this context,
+sugar derivatives with substituted C-5 amide functionality
+possess signiﬁcant bioactivity, such as antitubercular, antiﬁlarial,
+and α-glucosidase inhibition.9d,10,11 Thus,
+the pursuit of
+introducing a triazole ring at the C-5 position of sugar derivatives
+is quite relevant and demanding. In this perspective, the Huisgen
+1,3-dipolar cycloaddition of terminal alkynes and organic azides
+
+(click chemistry) has been extensively used in joining two
+distinct building blocks, enabling easy access to regioselective
+novel 1,4-disubstituted-1,2,3-triazolyl conjugates of simple to
+complex molecular-level architectures.12−14 Although this
+chemistry has exponentially expanding applications in various
+disciplines of science, ranging from organic synthesis, material
+science, and catalysis to chemical biology; however, special
+attention has been received in the ﬁeld of glycoscience because it
+leads to an easy route for triazolyl glycoconjugation in diverse
+applications.13e
+
+The role of azides in the click reaction is well established.15 For
+the introduction of a triazole skeleton at the β-position (C-5) of
+glycosyl oleﬁnic ester, the presence of an azide group is necessary.
+However, the introduction of azide functionality at the β-position
+of oleﬁnic esters is still a challenging task. Several established
+strategies for the β-azidation of α,β-unsaturated carbonyl
+compounds include conjugate addition of the azide via HN3 in
+HOAc, HN3 with Lewis bases, and TMSN3 with HOAc. These
+methods suﬀer from some limitations, including poor reaction
+yields, requiring elevated temperature (353 K) and long reaction
+times.16−18 A search of the available literature revealed that there
+
+Received:
+Published: April 20, 2015
+
+January 26, 2015
+
+© 2015 American Chemical Society
+
+4869
+
+DOI: 10.1021/acs.joc.5b00179
+J. Org. Chem. 2015, 80, 4869−4881
+
+The Journal of Organic Chemistry
+
+is no report on the β-azidation of glycosyl oleﬁnic esters. Our
+current interest in azide chemistry, and the need for new and
+speciﬁc ﬂexible strategies that would provide potentially useful
+routes for triazole synthesis, prompted us to determine a new
+methodology for this purpose. In this article, we report a new and
+remarkably mild synthesis of novel glycosyl-β-azido ester and its
+application for the development of glycosyl-β-triazolyl esters in
+good to excellent yields.
+■ RESULTS AND DISCUSSION
+<para sub=“opt”>
+We ﬁrst investigated the conjugate addition of azide to glycosyl
+oleﬁnic ester 1 using previously reported reagents and reaction
+conditions for β-azidation of α,β-unsaturated carbonyl com-
+pounds.16−18 To our surprise, the reaction of compound 1 with
+hydrogen azide in acidic media (HOAc)16 using a Lewis base
+catalyst (Et3N) at two diﬀerent temperatures (30 and 80 °C),17
+TMSN3, HOAc with tertiary amine (Et3N) as catalyst,18a and
+NaN3 in dry DMF at 80 °C, indicated the absence of product.
+These results indicate that synthesis of glycosyl-β-azido ester was
+indeed challenging using these earlier methods. Therefore, a
+diﬀerent route was developed for the synthesis of glycosyl-β-
+azido ester.
+</para>
+Scheme 1. Synthesis of Novel Glycosyl-β-azido Ester 3
+<para sub="scope">
+It is known that azides can formally be considered diazo-
+amines15 and can be prepared by a diazotransfer reaction of
+amines. In light of this fact, we attempted a 1,4-conjugate
+</para>
+Article
+<para sub="scope">
+addition of amine on glycosyl oleﬁnic ester followed by a metal-
+catalyzed diazotransfer reaction of amine. Expectedly,
+the
+reaction led to the formation of glycosyl-β-azido ester with
+signiﬁcant ease. Our synthetic protocol started from a cheap and
+readily available compound, D-glucose, which undergoes a
+number of high-yielding steps, such as isopropylidene protection,
+3-O-benzyl protection, selective 5,6-isopropylidene deprotection
+followed by NaIO4 oxidation, and ﬁnally Horner−Emmons−
+Wadsworth Wittig oleﬁnation aﬀording the glycosyl oleﬁnic ester
+(1R,2R,3S,4R)-ethyl-[3-O-benzyl-5,6-dideoxy-1,2-O-isopropyli-
+dene-α-D-gluco]-heptfuran-5-en-uronate 1.19 Further, 1,4-con-
+jugate addition of oleﬁnic ester 1 with ammonia in dry ethanol
+yielded (1R,2R,3S,4R)-ethyl-[5-amino-3-O-benzyl-5,6-dideoxy-
+1,2-O-isopropylidene]-α-D-gluco- and -β-L-ido-heptofuranurnate
+2a and 2b as a diastereomeric mixture (70:30) in good yield
+(Scheme 1).19,20 The diastereoselectivity ratio was determined
+by literature precedent.19,20 The major and minor isomers were
+successfully isolated in pure form by ﬂash column chromatog-
+raphy. The observed diastereoselectivity can be rationalized by
+Felkin−Anh-like transition states based on an alkene−arene π
+stacking interaction as described by earlier studies.20,21 The
+synthesized glycosyl-β-amino ester can undergo a diazotransfer
+reaction to form glycosyl-β-azido ester. To achieve an eﬃcient,
+practical, and easy synthesis of novel glycosyl-β-azido esters, we
+focused on the diazotransfer reaction and related chemistry. The
+major isomer 2a was further used for the optimization studies.
+The intermolecular diazotransfer reaction of compound 2 with
+imidazole-1-sulphonyl azide22 as the donor of a diazo group in
+·5H2O and K2CO3 in dry ethanol aﬀorded
+the presence of CuSO4
+ethyl-[5-azido-3-O-benzyl-5,6-dideoxy-1,2- O-isopropylidene]-
+α-D-gluco- and -β-L-ido-heptofuranurnate 3 in 80% yield (Scheme
+1). Separation of major and minor isomers was achieved by ﬂash
+column chromatography, and the structure was conﬁrmed by
+NMR (1H and 13C). Lastly, single crystal X-ray analysis
+conﬁrmed the unambiguous structure and stereochemistry at
+the C-5 center in compounds 3a and 3b (Figure 1).
+</para>
+<para sub=“opt”>
+The success of this reaction prompted us toward the synthesis
+of a new diazotransfer reagent. Hence, the reaction of indole-3-
+carboxaldehyde (2.0 equiv) with chlorosulphonyl azide, prepared
+in situ by the reaction of equimolar quantities of sodium azide
+and sulfuryl chloride in MeCN, gave indole-3-carboxaldehyde-1-
+sulphonyl azide I (40%, obtained after aqueous workup and
+puriﬁcation by ﬂash column chromatography) as a yellow solid
+(mp 174−176 °C) (Scheme 2).
+</para>
+Figure 1. Molecular structure of 3a and 3b. Thermal ellipsoids of C, N, and O are set at 40% probability.
+
+4870
+
+DOI: 10.1021/acs.joc.5b00179
+J. Org. Chem. 2015, 80, 4869−4881
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 2. Synthesis of Indole-3-carboxaldehyde-1-sulphonyl
+Azide I
+
+Table 2. Diazotransfer Reaction of Glycosyl-β-amino Ester 2a
+in the Presence of Various Diazotransfer Reagents
+<para sub="scope">
+Then, the diazotransfer reaction of primary amines (1.0 equiv)
+with indole-3-carboxaldehyde-1-sulphonyl azide I (1.2 equiv) in
+·5H2O catalyst (5 mol %) and K2CO3 (2.0
+the presence of CuSO4
+equiv) in dry methanol at room temperature was investigated,
+which gave the corresponding azides (Table 1). Consequently,
+</para>
+Table 1. Synthesis of Azides from Primary Amines Utilizing
+Indole-3-carboxaldehyde-1-sulphonyl Azide I (1.2 equiv),
+·5H2O Catalyst (5 mol %)
+K2CO3 (2.0 equiv), and CuSO4
+
+aReaction conditions: Glycosyl-β-amino ester 2a (1.0 equiv),
+diazotransfer reagent (1.2 equiv), K2CO3 (2.0 equiv) [for all reagents
+·5H2O catalyst (5
+except benzotriazole-1-sulphonyl azide] and CuSO4
+mol %). bReaction time in hours. cIsolated yield of product obtained
+after puriﬁcation by column chromatography.
+<para sub=“opt”>
+obtained in excellent yield (86%). This was followed by copper
+(80%), and decent results were also observed using nickel over a
+5 h duration (Table 3). In a control experiment in which the
+metal catalyst was omitted completely, the product was obtained
+in low yields,
+indicating a decrease in the eﬃciency of the
+reaction. The other metals, MgII, CoII, PdII, and CaII, had a
+negligible eﬀect with nearly the same reaction yield as that in the
+absence of metal catalyst (entries 4−8, Table 3). Os(III) and
+Ru(III) also have no eﬀect on the reaction (Cu as sulfate, Zn, Mg,
+Co, Ni, Ca, Pd, Os, and Ru as chlorides). These observations
+suggest that the metal catalyst might increase the rate of the
+reaction by lowering the activation energy barrier for the
+reaction. It might also act as a Lewis acid catalyst to activate the
+imidazole-1-sulphonyl azide toward the probable reaction via the
+nucleophilic mechanism.24
+</para>
+<para sub=“opt”>
+Next, the eﬀect of diﬀerent bases was investigated. Upon
+scanning the reaction for various inorganic/organic bases, it was
+revealed that 2.0 equiv of either bicarbonate or carbonate bases
+resulted in comparable product formation as was evident from
+the results obtained in Table 4 (entries 1−3). Amine bases do not
+aﬀect the reaction to a great extent, and thus, low product yield
+was obtained.
+</para>
+<para sub=“opt”>
+Finally, the reaction was screened for a variety of organic
+solvents; the results are summarized in Table 5. It was observed
+that the reaction performed well in terms of eﬃciency and had
+good yields using ethanol and methanol solvents (entries 1 and 3,
+Table 5). However, ethanol proved to be the solvent of choice for
+the prescribed diazotransfer reaction because ethyl functionality
+of the ester group in glycosyl-β-amino ester is preserved in the
+product. Using methanol as the solvent, hydrolysis of the ester
+2 (bimolecular base-catalyzed
+functional group occurred by a BAC
+hydrolysis via acyl oxygen cleavage) mechanism. As a result, the
+ethyl group present on the ester functionality was replaced by a
+methyl group to aﬀord methyl-[5-azido-3-O-benzyl-5,6-dideoxy-
+1,2-O-isopropylidene]-α-D-gluco- and -β-L-ido-heptofuranurnate
+(4a,b). The 1H NMR data of compound 4b corresponding to 23
+proton resonances and a sharp singlet integrated to 3 proton
+resonances appearing at δ 3.63 evidenced the presence of the
+methyl group. The molecular ion peak [M + H]+ observed at m/z
+378 and single crystal X-ray analysis conﬁrmed the unambiguous
+</para>
+4871
+
+DOI: 10.1021/acs.joc.5b00179
+J. Org. Chem. 2015, 80, 4869−4881
+
+aReaction time in hours. bIsolated yield of product obtained after
+puriﬁcation by column chromatography.
+<para sub="scope">
+the diazotransfer reagent I was tested on glycosyl-β-amino ester
+2a under same reaction conditions to give glycosyl-β-azido ester
+3a in 25% yield (entry 3, Table 1). The NMR data of compound
+3a matched with that of the major isomer obtained in Scheme 1.
+</para>
+<para sub=“opt”>
+We then compared the eﬃciency of conversion of glycosyl-β-
+amino ester to glycosyl-β-azido ester in the presence of various
+diazotransfer reagents, such as imidazole-1-sulphonyl azide,22
+indole-3-carboxaldehyde-1-sulphonyl azide, or benzotriazole-1-
+·5H2O and K2CO3 for all reagents
+sulphonyl azide23 with CuSO4
+except for benzotriazole-1-sulphonyl azide with which no base
+was used. The observed results indicated that the best reaction
+yields and eﬃciency were achieved when imidazole-1-sulphonyl
+azide was used as the diazotransfer reagent (entry 1, Table 2).
+</para>
+<para sub="scope">
+Then, with imidazole-1-sulphonyl azide as the well suited
+diazotransfer reagent, we performed the next experiment
+intended to determine the feasibility of screening metal catalysts
+for this reaction. In one set of experiments, zinc chloride and zinc
+nitrate were tested under homogeneous reaction conditions. It
+was observed that the products were obtained in the same yields
+with both metal salts having zinc in the +2 oxidation state but
+diﬀerent counterions. Thus,
+the
+counterion of zinc does not signiﬁcantly aﬀect the reaction
+because it exhibits a similar eﬀect.
+
+it can be concluded that
+</para>
+<para sub=“opt”>
+In the other set of experiments, out of the several metal ions
+tested under homogeneous reaction conditions given in Scheme
+3, zinc chloride (5 mol %) gave the best result as the product was
+</para>
+The Journal of Organic Chemistry
+
+Scheme 3. One-Pot Synthesis for Novel Glycosyl-β-azido Ester 3
+
+Article
+
+Table 3. Diazotransfer Reaction of Glycosyl-β-amino Ester in
+the Presence of Various Metal Catalysts
+
+entry
+
+metal (M2+)
+
+timea
+
+yield (%)b
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+Cu
+Ni
+Zn
+Ca
+Mg
+Co
+Pd
+
+5
+5
+5
+5
+5
+5
+5
+5
+
+80
+60
+86
+45
+45
+45
+40
+45
+
+aReaction time in hours. bIsolated yield of product 3a.
+
+Table 4. Diazotransfer Reaction of Glycosyl-β-amino Ester in
+the Presence of Various Bases
+
+entry
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+solvent
+Na2CO3
+K2CO3
+NaHCO3
+DMAP
+DIPEA
+DBU
+DABCO
+Et3N
+pyridine
+
+timea
+
+yield (%)b
+
+5
+5
+5
+5
+5
+5
+5
+5
+5
+
+>80
+>85
+>80
+40
+40
+40
+40
+<30
+<30
+
+aReaction time in hours. bIsolated yield of product 3a.
+<para sub=“opt”>
+structure of compound 4b and the presence of the methyl group
+at the ester functionality (Figure 2).
+</para>
+<para sub="scope">
+Therefore, eﬃcient synthesis of glycosyl-β-azido ester from
+glycosyl-β-amino ester (1.0 equiv) was achieved in ethanol with
+imidazole-1-sulphonyl azide (1.2 equiv), K2CO3 (2.0 equiv), and
+ZnCl2 (5 mol %). Upon observing the formation of glycosyl-β-
+azido ester from oleﬁnic ester 1, we found that both steps
+involved in the reaction sequence proceeded in the same solvent.
+Thus, after the conjugate addition of ammonia (24 h) in ethanol,
+the reagents for the second step (diazotransfer reaction) were
+added, and the reaction was stirred for the appropriate amount of
+</para>
+Table 5. Diazotransfer Reaction of Glycosyl-β-amino Ester
+(1.0 equiv) with Imidazole-1-sulphonyl Azide (1.2 equiv),
+K2CO3 (2.0 equiv), and ZnCl2 (5 mol %)
+timea
+
+yield (%)b
+
+entry
+
+solvent
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+ethanol
+DCM
+methanol
+THF
+acetone
+DMF
+Et2O
+acetonitrile
+
+5
+5
+5
+5
+5
+5
+5
+5
+
+>85
+50
+>85
+>40
+30
+20
+30
+35
+
+aReaction time in hours. bIsolated yield of product 3a.
+
+Figure 2. Molecular structure of 4b. Thermal ellipsoids of C, N, and O
+are set at 40% probability.
+<para sub="scope">
+time. The process gave compound 3 in good yields at room
+temperature. Thus, a facile and eﬃcacious one-pot methodology
+for the synthesis of novel glycosyl-β-azido ester 3 from glycosyl
+oleﬁnic ester 1 has been developed (Scheme 3).
+</para>
+<para sub=“props”>
+The stereochemistry at the C-5 stereogenic center has been
+tentatively predicted on the basis of a precedent set in the
+literature and mechanistic grounds.20,21 On the basis of Felkin−
+Anh and Cram’s transition states, it can be predicted that the
+major attack of nucleophilic ammonia at C-5 in oleﬁnic ester
+would take place from the side of
+the least bulky group
+(hydrogen attached to C-4 of
+the Si
+diastereoface). Thus, the major reaction product has an S
+conﬁguration at C-5, whereas that of the minor one is R (Scheme
+4). The diazotransfer reaction does not involve a change in
+stereochemistry25 at the carbon (C-5) center, so the conﬁg-
+uration at this stereocenter should be the same as that in the
+glycosyl-β-amino ester previously established. The 1H NMR
+spectra of azide 3a (major isomer) showed J4,5 = 9.9 Hz,
+evidenced a threo relationship between protons at C-4 and C-5,
+and S conﬁguration at new sterogenic center C-5 has been
+
+the furanose ring,
+</para>
+4872
+
+DOI: 10.1021/acs.joc.5b00179
+J. Org. Chem. 2015, 80, 4869−4881
+
+The Journal of Organic Chemistry
+
+Scheme 4. Formation of L-Ido Isomer from Si Face Attack
+
+Table 6. Study of the Solvent Eﬀect on CuAAC of Glycosyl-β-
+azido Ester 3a with 5a
+
+Article
+<para sub=“props”>
+assigned to this isomer. Consequently, for the second isomer
+(erythro) isolated as a minor ratio, the R stereochemistry could
+easily be established at C-5. Therefore, the diazotransfer reaction
+on glycosyl-β-amino ester 2a aﬀords the corresponding glycosyl-
+β-azido ester (1R,2R,3S,4R,5S)-ethyl-[5-azido-3-O-benzyl-5,6-
+dideoxy-1,2-O-isopropylidene]-β-L-ido-heptofuranurnate 3a.
+The 1H NMR spectrum of compound 3a corresponds to 25
+protons, and a multiplet at δ 7.35 was observed for ﬁve Ar-H
+protons. A doublet at δ 5.87 (J = 3.0 Hz) was identiﬁed for the
+anomeric proton. The remaining 14 protons of glycosyl-β-azido
+ester appeared in the range of δ 2.26−4.69 along with the six
+protons of isopropylidene moiety, which appeared as singlets at δ
+1.41 and 1.31. A triplet integrated to 3 proton resonances was
+observed at δ 1.27 (J = 6.9 Hz) for the −CH2CH3 group. The IR
+spectra showed a sharp absorption band at 2134 cm−1, indicating
+the presence of an azide (-N3) group, and 19 carbon resonances
+appeared in 13C NMR in addition to the molecular ion peak [M +
+H]+ observed at m/z 392. Further, single crystal X-ray analysis
+conﬁrmed the unambiguous structure of compounds 3a and 3b
+(Figure 1).
+</para>
+<para sub=“opt”>
+Once the synthesis of glycosyl-β-azido ester 3 was achieved in
+excellent yields, we next turned our focus toward the application
+of this compound for CuAAC click reactions. Such reactions, in
+general, require a Cu(I) source directly introduced in the
+reaction medium from CuI or by the reduction of Cu(II) salts in
+·5H2O or copper acetate in the presence of
+form of CuSO4
+sodium ascorbate, which is the most frequently used reducing
+agent utilized in 3−4 fold excess to give commendable results in
+aqueous medium. The latter reagents are more eﬀective because
+they maintain a high Cu(I) concentration during the reaction
+course, and they are not aﬀected by oxidizing atmosphere. Thus,
+we primarily investigated the click reaction between the
+developed compound 3a and 1-phenyl-2-propyn-1-ol 5a using
+MeOH/H2O, t-BuOH/H2O, CH2Cl2/H2O, Et2O/H2O, THF/
+H2O, and acetone/H2O as solvent mixtures. It is easy to verify
+that most of
+the reactions aﬀorded the corresponding
+glycoconjugated triazole 6a using a variety of organic solvents
+in combination with H2O (Table 6). However, the optimal yield
+of 6a was achieved using a mixture of acetone/H2O (1:1) as the
+solvent. A remarkable feature of this reaction is the H2O
+dependence of the triazolyl glycoconjugate synthesis (tolerant to
+pH range 6−9). Reactions using a mixture of acetone/H2O
+(1:0.5) or acetone alone resulted in poor yield of desired product
+6a (entries 7 and 8, Table 6). The probable reason is the
+dependency toward aqueous media of the in situ generation of
+·5H2O and
+Cu(I) species from the combination of CuSO4
+sodium ascorbate. However, when the reaction was performed
+</para>
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+reaction conditions
+MeOH/H2O (1:1)
+t-BuOH/H2O (1:1)
+CH2Cl2/H2O (1:1)
+Et2O/H2O (1:1)
+THF/H2O (1:1)
+acetone/H2O (1:1)
+acetone/H2O (1:05)
+acetone
+H2O
+acetone/H2O (1:1)b
+
+yield (%)a
+
+<20
+30
+>70
+>70
+60
+>80
+40
+ndb
+tab
+>70
+
+aIsolated yields in 10 h. bReaction under an argon atmosphere; ta =
+trace amount, nd = not detected.
+<para sub=“opt”>
+only in H2O, the formation of product 6a was not observed
+(entry 9, Table 6) because of the decreased solubility of
+compound 3a in aqueous media compared to that in the organic
+phase. These observations suggest that in the solvent mixture of
+acetone and H2O, the Cu(I) species is generated in situ in
+·5H2O and sodium ascorbate and
+aqueous medium from CuSO4
+then catalyzes the click reaction between compounds 3a and 6a,
+which are soluble in the organic phase. It is important to note that
+the reactions are not very air sensitive, allowing for preparation of
+the respective triazole 6a in an open atmosphere (entry 10, Table
+6).
+</para>
+<para sub=“opt”>
+For the yield to be improved further, the reaction of 3a (400
+mg, 1.02 mmol) with 5a (0.149 mL, 1.22 mmol) under catalysis
+by CuI (5 mol %) and DIPEA (10 mol %) at room temperature
+under inert reaction conditions was screened for a variety of
+organic solvents to aﬀord 6a in good to signiﬁcant yields. The
+results illustrated poor performance of
+toluene,
+benzene, DMF, and methanol in terms of yield and reaction
+time (Table 7). Maximum yields of triazolyl glycoconjugate were
+obtained using acetone and DCM (entries 1 and 3, Table 7).
+
+t-BuOH,
+</para>
+<para sub="scope">
+Thus, under optimized conditions, alkyne 5a reacted with 3a
+in the presence of CuI (5 mol %) and DIPEA (10 mol %) as click
+</para>
+Table 7. Optimization of Solvent for 1,3-Dipolar
+Cycloaddition of Glycosyl-β-azido Ester 3a with 5a in the
+presence of CuI and DIPEA
+
+entry
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+solvent
+acetone
+t-BuOH
+CH2Cl2
+MeCN
+THF
+toluene
+benzene
+MeOH
+DMF
+
+timea
+8
+18
+8
+8
+9
+12
+15
+12
+12
+
+yield (%)b
+
+>80
+30
+>85
+>75
+70
+25
+20
+35
+10
+
+aReaction time in hours. bIsolated yield of product 6a.
+
+4873
+
+DOI: 10.1021/acs.joc.5b00179
+J. Org. Chem. 2015, 80, 4869−4881
+
+The Journal of Organic Chemistry
+<para sub="scope">
+catalysts in anhydrous CH2Cl2 under an argon atmosphere at
+ambient temperature aﬀorded corresponding 1-[ethyl-(3′-O-
+benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-β-L-ido-heptofura-
+nurnate-5-yl]-4-(1″-phenylmethan-1″-ol-1″-yl)-1H-[1,2,3]-tria-
+zole 6a regioselectively in 94% yield. The regioisomeric nature of
+compound 6a was established based on its spectroscopic data. In
+mass spectrum, compound 6a displayed a molecular ion peak [M
++ H]+ at m/z 524, which corresponded to the molecular formula
+C28H33N3O7. In the 1H NMR spectrum, the signal for the
+triazolyl proton and 8 phenyl protons were observed as a
+multiplet in the range δ 7.17−7.38 and the remaining two Ar-H
+protons appeared as multiplets at δ 7.08. The anomeric proton
+(H-1) along with the proton at the hydroxyl group bearing the
+carbon atom of alkyne appeared as a multiplet in the range δ
+5.91−5.98. The remaining 11 protons of
+the cycloadduct
+resonated between δ 3.35−5.17 along with the six protons of
+isopropylidene moiety, which appeared as singlets at δ 1.49 and
+1.29. A triplet of 3 protons appearing at δ 1.11 (J = 6.9 Hz) was
+identiﬁed for −CH2CHx. The 13C NMR spectrum showed a
+signal at δ 170.3 for carbonyl carbon, whereas the anomeric
+carbon (C-1) of the furanose sugar resonated at δ 105.2. Single-
+crystal X-ray analysis further conﬁrmed the unambiguous
+structure of compound 6a (Figure 3).
+</para>
+Figure 3. Molecular structure of 6a. Thermal ellipsoids of C, N, and O
+are set at 40% probability.
+<para sub="scope">
+Utilizing the reaction conditions established above for the
+regioselective cycloaddition of alkyne 5a and glycosyl-β-azido
+ester 3a, we further explored the scope and possibility of using
+various alkyl, aryl, and sugar-substituted terminal alkynes26 in
+such a cycloaddition and prepared a library of glycoconjugated
+triazoles 6a−u in eﬃcient yields (Table 8). The structures of
+compounds 6a−u were deduced using extensive spectral studies
+(IR, 1H and 13C NMR, and MS) and single crystal X-ray analysis
+for compound 6a.
+</para>
+<para sub="scope">
+After successfully isolating the triazole made from the highly
+functionalized carbohydrates as well as aromatic and aliphatic
+side chains in excellent yields, we next synthesized 1′-1″-[ethyl-
+(3″-O-benzyl-5″,6″-dideoxy-1″,2″-O-isopropylidene)-α-D-glu-
+coheptofuranurnate-5-yl]-ethisterone-1,2,3-triazole 6u by the
+reaction of ethisterone 5u with glycosyl-β-azido ester 3a and
+successfully executed the synthesis of ethisterone triazolyl
+glycoconjugate in excellent yield under our standardized
+conditions for click reactions (Scheme 5). Thus, the method-
+ology is equally applicable to complex steroidal moieties. Analysis
+</para>
+Article
+<para sub="scope">
+of extensive spectral studies (IR, 1H, and 13C NMR) evidenced
+the formation of the triazole ring in compound 6u.
+</para>
+<para sub=“ques”>
+Mechanistic Consideration. Ammonia adds to oleﬁnic
+ester via 1,4 conjugate additions, and its formation can be
+rationalized by Felkin−Anh-like transition states based on
+alkene-arene π stacking interactions as described in the
+literature.19−21 The next step includes the diazotransfer reaction
+with imidazole-1-sulphonyl azide. Imidazole-1-sulphonyl azide is
+an eﬃcient diazotransfer reagent that has the ability to transfer
+the diazo group directly to the primary amine function to form
+the corresponding azide.22 The exact mechanism of
+the
+diazotransfer reaction is to date still controversial; however,
+close examination of previous reports for these reactions suggests
+that a dianionic tetrazene intermediate is formed during this
+reaction and is stabilized by two monovalent metal ions (e.g.,
+sodium).27 This proposed mechanism has been further extended
+by Nyﬀeler et al. to incorporate a divalent metal ion in place of
+the two monovalent ions.28 On the basis of these reports, we
+propose a plausible mechanism for the transition metal-catalyzed
+diazotransfer reaction of glycosyl-β-azido ester formation. The
+mechanism proceeds via the initial complexation of the amine
+substrate with the metal catalyst under basic conditions to give 7.
+The amine of complex 7 undergoes nucleophilic attack on the
+highly electrophilic imidazole-1-sulphonyl azide that, upon
+further deprotonation, may possibly form zinc-stabilized mixed
+tetrazene 8.29b This zinc-stabilized tetrazene undergoes break-
+down possibly by a reverse [3 + 2] dipolar cycloaddition, which
+leads to the formation of product glycosyl-β-azido ester and
+zinc−imidazole sulphonyl imido complex 9. The computational
+work on such similar structures by Brandt et al. suggests that
+complex 9 would be in equilibrium with complex 11.29 From
+here, two possible pathways could be operating: one leads to
+amine complexation followed by consequent proton transfer to
+give 9 and the other forms zinc−imido complex 11 via the
+transamination of 10. Further, this zinc−imido complex is
+employed in a [3 + 2] dipolar cycloaddition with imidazole-1-
+sulphonyl azide to alternatively give 8 (Figure 4).
+</para>
+
+■ CONCLUSION
+
+In conclusion, we have developed a concise and readily adaptable
+novel one-pot protocol for easy access to glycosyl-β-azido ester
+from glycosyl oleﬁnic ester under mild reaction conditions. This
+method demonstrates high eﬃciency in terms of product yields.
+The developed glycosyl-β-azido ester has been utilized for the
+development of a diverse range of novel triazolyl glycoconju-
+gates. On the basis of the presence of a substituted triazole
+moiety incorporating various sugar, aryl, and alkyl side chains in
+the glycoconjugates, they might prove to be potent scaﬀolds for
+biological and pharmaceutical investigations. The short reaction
+period, simple workup, high yield, and mild conditions of this
+methodology underscore its signiﬁcance. In addition,
+the
+generality with respect to substrate scope and facile accessibility
+to the starting materials is also highly appealing. Synthesis of a
+novel glycosyl-β-azido ester from glycosyl oleﬁnic ester has not
+yet been realized for one-pot conditions; thus, this approach
+should also be of interest to synthetic chemists. The developed
+methodology also performs well in small as well as gram scale
+synthesis of glycosyl-β-azido ester, suggesting that it may have
+industrial signiﬁcance. Biological screening of the developed
+glycosyl-β-triazolyl esters is currently under way.
+
+4874
+
+DOI: 10.1021/acs.joc.5b00179
+J. Org. Chem. 2015, 80, 4869−4881
+
+The Journal of Organic Chemistry
+Table 8. Synthesis of Glycoconjugate Triazoles 6a−t via CuAAC Reaction
+
+Article
+
+aMolar ratios: alkynes, glycosyl-β-azido ester (1.2:1.0 equiv), CuI (5 mol %), and DIPEA (10 mol %). bTriazolyl glycoconjugates. cReaction time: in
+hours. dIsolated yield of triazolyl glycoconjugates after puriﬁcation by column chromatography.
+
+Scheme 5. Synthesis of Glycosyl-β-triazolyl Ester with
+Steroidal Functionality
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Remarks. All of the reactions were executed in anhydrous
+solvents under an argon atmosphere in glassware that was oven-dried for
+1 h at 100 °C. All reagents and solvents were of pure analytical grade.
+Thin layer chromatography (TLC) was performed on 60 F254 silica gel
+precoated on aluminum plates and revealed with either a UV lamp (λ
+max
+= 254 nm), a speciﬁc color reagent (Draggendorﬀ reagent or iodine
+vapors), or by spraying with a methanolic-H2SO4 solution and
+subsequent charring by heating at 100 °C. 1H and 13C NMR were
+recorded at 300 and 75 MHz, respectively. Chemical shifts are given in
+ppm downﬁeld from internal TMS, and J values are in Hz. Mass spectra
+were recorded using electrospray ionization mass spectrometry (ESI-
+</para>
+4875
+
+DOI: 10.1021/acs.joc.5b00179
+J. Org. Chem. 2015, 80, 4869−4881
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 4. Proposed mechanism of the diazotransfer reaction of glycosyl-β-amino ester with imidazole-1-sulphonyl azide and zinc chloride as the catalyst.
+<para sub=“exp”>
+MS). Infrared spectra were recorded as Nujol mulls in KBr plates.
+Elemental analysis was performed using a C, H, N analyzer, and the
+results were found to be within ±0.4% of the calculated values. Single-
+crystal X-ray data was collected on a CCD diﬀractometer.
+
+Procedure for
+
+the Synthesis of
+
+Indole-3-carboxaldehyde-1-
+sulphonyl Azide (I). Sulfuryl chloride (1.10 mL, 13.6 mmol) was
+added dropwise to an ice-cooled suspension of NaN3 (0.89 g, 13.6
+mmol) in CH3CN (5.0 mL), and the mixture was stirred for 12 h at
+room temperature. Indole-3-carboxaldehyde (3.97 g, 27.3 mmol) was
+added to the ice-cooled reaction mixture, and the resulting slurry was
+stirred at room temperature for 5 h. The mixture was diluted with EtOAc
+(40 mL) and H2O (40 mL) and separated. The organic layer was washed
+with H2O (40 mL) followed by saturated aqueous NaHCO3 (2 × 30
+mL), dried over anhydrous Na2SO4, and concentrated under reduced
+pressure. The crude mass obtained was subjected to ﬂash chromatog-
+raphy using gradient mixtures of ethyl acetate and n-hexane to aﬀord
+pure compound I as a yellow solid; mp 174−176 °C; 1.36 g, 40% yield;
+Rf = 0.48 (30% ethyl acetate/n-hexane); 1H NMR (300 MHz, CDCl3) δ
+8.86 (s, 1H), 7.78 (d, J = 6.6 Hz, 1H), 7.74−7.31 (m, 1H), 7.47 (d, J = 7.2
+Hz, 1H), 7.36−7.25 (m, 2H); 13C NMR (75 MHz, CDCl3) δ 180.1,
+134.8, 131.8, 126.9, 124.3, 122.3, 119.6, 115.8, 112.0; IR (KBr) ν
+3257, 2924, 2223 (azide-N3), 1709 (CO), 1621, 1583, 1522, 1433,
+1239, 1110, 745, 737 cm−1; MS (m/z) 251 [M + H]+; Anal. Calcd for
+C9H6N4O3S C 43.20, H 2.42, N 22.39; found C 43.30, H 2.48, N 22.41.
+General Procedure for the Synthesis of Azides. To a stirred solution
+of amine or ammonium salt substrate (1.0 equiv) in dry MeOH were
+added indole-3-carboxaldehyde-1-sulphonyl azide I (1.2 equiv), K2CO3
+·5H2O (5 mol %), and the resulting reaction
+(2.0 equiv), and CuSO4
+mixture was stirred at room temperature for 6−7 h. The mixture was
+concentrated in vacuo, diluted with H2O, acidiﬁed with concentrated
+HCl and extracted with EtOAc 3 times. The combined organic layers
+were dried on anhydrous Na2SO4, ﬁltered, and concentrated. Flash
+
+max
+
+chromatography using gradient mixtures of ethyl acetate and n-hexane
+aﬀorded pure azides.
+
+1,2-Diazido-4,5-dimethyl-benzene (II). To a stirred solution of 1,2-
+diamino-4,5-dimethyl-benzene (150 mg, 1.10 mmol) in dry MeOH (5.0
+mL) were added indole-3-carboxaldehyde-1-sulphonyl azide I (330 mg,
+·5H2O (5 mol
+1.32 mmol), K2CO3 (304 mg, 2.20 mmol), and CuSO4
+%), and the resulting reaction mixture was stirred at room temperature
+for 6 h. Aqueous workup and puriﬁcation by ﬂash chromatography as
+described above aﬀorded pure azide as a liquid; 62 mg, 30% yield; Rf =
+0.55 (30% ethyl acetate/n-hexane); 1H NMR (300 MHz, CDCl3) δ 7.91
+(s, 2H), 2.53 (s, 6H); 13C NMR (75 MHz, CDCl3) δ 142.4, 140.8, 127.8
+(2C), 127.7 (2C), 20.6 (2C); IR (KBr) ν
+max 2923, 2824, 2107 (azide
+-N3), 1491, 1453, 1359, 1027, 998, 859 cm−1; Anal. Calcd for C8H8N6 C
+51.06, H 4.28, N 44.66; found C 51.03, H 4.32, N 44.65.
+
+Methyl-2-azido-propan-1-oate (III). To a stirred solution of amine
+substrate (150 mg, 1.45 mmol) in dry MeOH (5 mL) was added indole-
+3-carboxaldehyde-1-sulphonyl azide I (436 mg, 1.74 mmol), K2CO3
+·5H2O (5 mol %), and the resulting
+(402 mg, 2.91 mmol), and CuSO4
+reaction mixture was stirred at room temperature for 7 h. Aqueous
+workup and puriﬁcation by ﬂash chromatography as described above
+aﬀorded pure azide as a colorless liquid; 75 mg, 40% yield; Rf = 0.49
+(25% ethyl acetate/n-hexane); 1H and 13C NMR spectroscopic data
+were in agreement with published results;30 IR (KBr) ν
+max 2852, 2118
+(azide -N3), 1463, 1257, 1054, 631 cm−1; Anal. Calcd for C4H7N3O2 C
+37.21, H 5.46, N 32.54; found C 37.26, H 5.50, N 32.58.
+
+Procedure for the Synthesis of Orthogonally Protected Sugars.
+The protected sugars were prepared from readily available carbohy-
+drates (D-glucose, D-galactose, D-mannose, D-fructose, and D-xylose)
+using standard protection methodologies.31,32
+General Procedure for the Synthesis of O-Propargyl Ethers of
+Orthogonally Protected Sugars (5j−n). To a stirred solution of
+orthogonally protected sugars (1.0 mmol) in dry DMF (10 mL) was
+</para>
+4876
+
+DOI: 10.1021/acs.joc.5b00179
+J. Org. Chem. 2015, 80, 4869−4881
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+added NaH (2.1 mmol) fractionwise at 0 °C, and the reaction was
+allowed to stir for 10−15 min. Then, propargyl bromide (1.3 mmol) and
+TBAB (50 mg, catalytic amount) were added to the reaction mixture and
+stirring continued at room temperature for 10−12 h. Completion of the
+reaction was conﬁrmed by TLC (n-hexane/ethyl acetate 9:1); the
+reaction mixture was extracted with ethyl acetate and dried over
+anhydrous Na2SO4. Solvent evaporated under reduced pressure below
+55 °C. Column chromatography (SiO2) of crude product was
+performed using gradient mixtures of n-hexane/ethyl acetate (9:1) as
+eluant, which aﬀorded the desired sugar alkynes 5j−n.26
+
+General Procedure for the Synthesis of Glycosyl-β-azido Ester (3a,
+b). To a stirred solution of ethyl-[3-O-benzyl-5,6-dideoxy-1,2-O-
+isopropylidene-α-D-gluco]-heptfuran-5-en-uronate 119 dissolved in dry
+ethanol was passed NH3 gas for 3 h, and the reaction was allowed to stir
+at room temperature for 24 h to aﬀord ethyl-[5-amino-3-O-benzyl-5,6-
+dideoxy-1,2-O-isopropylidene]-α-D-gluco- and -β-L-ido-heptofuranur-
+nate19,20 (2a, 2b) as diastereomeric mixture. Then, in the same reaction
+pot having glycosyl-β-aminoester 2 (1.0 equiv), imidazole-1-sulphonyl
+azide22 (1.2 equiv), K2CO3 (2.0 equiv), and ZnCl2 in catalytic amount (5
+mol %) were added and stirring continued for additional 5 h to aﬀord
+glycosyl-β-azido ester 3a and 3b with a major to minor ratio of 70:30.
+After completion of the reaction (monitored by TLC), the reaction
+mixture was concentrated in vacuo, diluted with H2O, extracted with
+EtOAc, washed with brine solution, and dried over anhydrous Na2SO4.
+The organic layer was concentrated under reduced pressure. Further
+puriﬁcation and separation using ﬂash column chromatography using
+gradient mixtures of ethyl acetate and n-hexane aﬀorded pure compound
+3 with 86% yield.
+
+Ethyl-[5-(S)-azido-3-O-benzyl-5,6-dideoxy-1,2-O-isopropylidene]-
+β-L-ido-heptofuranurnate (3a, major isomer). To a stirred solution of
+glycosyl-β-oleﬁnic ester 1 (5.0 g, 0.014 mol) dissolved in dry ethanol
+(50.0 mL) was passed NH3 gas for 3 h, and the reaction was allowed to
+stir at room temperature for 24 h to aﬀord ethyl-[5-amino-3-O-benzyl-
+5,6-dideoxy-1,2-O-isopropylidene]-α-D-gluco- and -β-L-ido-heptofura-
+nurnate (2a, 2b) as a diastereomeric mixture. Then,
+in the same
+reaction pot, glycosyl-β-aminoester 2,
+imidazole-1-sulphonyl azide
+(2.67g, 0.015 mol), K2CO3 (3.56g, 0.025 mol), and ZnCl2 in a catalytic
+amount (5 mol %) were added and stirring continued for an additional 5
+h to aﬀord glycosyl-β-azido ester 3 (86% yield) with a major to minor
+ratio of 70:30, which was separated by puriﬁcation as described earlier to
+aﬀord 3a as white crystals; mp 82−84 °C; Rf = 0.52 (10% ethyl acetate/
+n-hexane); 1H NMR (300 MHz, CDCl 3) δ 7.35 (m, 5H), 5.87 (d, J = 3.0
+Hz,1H), 4.69−4.62 (m, 3H), 4.28 (dd, J = 9.9, 19.2 Hz, 1H), 4.18 (q, J =
+6.9 Hz, 2H), 4.06 (m, 1H), 3.99 (d, J = 9.6 Hz, 1H), 2.90 (d, J = 16.5 Hz,
+1H), 2.46 (dd, J = 10.2, 16.8 Hz, 1H), 1.48 (s, 3H), 1.31 (s, 3H), 1.27 (t, J
+= 6.9 Hz, 3H); 13C NMR (75 MHz, CDCl3) δ 170.8, 136.9, 128.4 (2C),
+128.0, 127.9 (2C), 111.9, 105.1, 81.8, 81.4, 80.8, 71.9, 60.7, 56.5, 37.4,
+26.8, 26.1, 14.0; IR (KBr) ν
+max 2980, 2933, 2134 (azide- N3), 2096, 1742
+(CO), 1465, 1399, 1081, 1037, 731 cm−1; MS (m/z) 392 [M + H]+;
+Anal. Calcd for C19H25N3O6 C 58.30, H 6.44, N 10.74; found C 58.45, H
+6.48, N 10.78.
+
+Ethyl-[5-(R)-azido-3-O-benzyl-5,6-dideoxy-1,2-O-isopropylidene]-
+α-D-gluco-heptofuranurnate (3b, minor isomer). White crystalline
+solid; mp 78 °C, Rf = 0.56 (10% ethyl acetate/n-hexane); 1H NMR (300
+MHz, CDCl3) δ 7.32−7.25 (m, 5H), 5.98 (d, J = 3.3 Hz, 1H), 4.72 (d, J =
+11.7 Hz, 1H), 4.66 (d, J = 3.6 Hz, 1H), 4.41 (d, J = 11.7 Hz, 1H), 4.20−
+4.18 (m, 2H), 4.15−4.10 (m, 2H), 3.85 (m, 1H), 2.26−2.12 (m, 2H),
+1.49 (s, 3H), 1.33 (s, 3H), 1.27 (t, J = 6.9 Hz, 3H); 13C NMR (75 MHz,
+CDCl3) δ 169.9, 136.5, 128.5 (2C), 128.3, 128.0 (2C), 112.0, 105.0,
+81.9, 81.7, 81.0, 71.5, 60.9, 58.2, 35.8, 26.7, 26.2, 14.1; IR (KBr) ν
+2990, 2912, 2129 (azide- N3), 2091, 1736 (CO), 1455, 1381, 1081,
+max
+742, 698 cm−1; MS (m/z) 392 [M + H]+; Anal. Calcd for C19H25N3O6 C
+58.30, H 6.44, N 10.74; found C 58.40, H 6.50, N 10.76.
+
+Methyl-[5-(R)-azido-3-O-benzyl-5,6-dideoxy-1,2-O-isopropyli-
+dene]-α-D-gluco-heptofuranurnate (4b, minor). To a stirred solution
+of glycosyl-β-oleﬁnic ester 1 (0.8 g, 1.43 mmol) dissolved in dry
+methanol (8.0 mL) was passed NH3 gas for 3 h, and the reaction was
+allowed to stir at room temperature for 24 h. Then, in the same reaction
+pot, glycosyl-β-aminoester, imidazole-1-sulphonyl azide (0.42 g, 0.46
+mmol), K2CO3 (0.56, 4.10 mmol), and ZnCl2 in a catalytic amount (5
+</para>
+Article
+<para sub=“exp”>
+mol %) were added to the reaction mixture and stirring continued for
+additional 5 h to aﬀord 4b as thin white crystals after puriﬁcation as
+described above; Rf = 0.57 (10% ethyl acetate/n-hexane); 1H NMR (300
+MHz, CDCl3) δ 7.25−7.24 (m, 5H), 5.91 (d, J = 3.6 Hz, 1H), 4.65 (d, J =
+12 Hz, 1H), 4.59 (d, J = 3.6 Hz, 1H), 4.34 (d, J = 12 Hz, 1H), 4.16−4.09
+(m, 1H), 4.06−4.02 (m, 1H), 3.77 (d, J = 3.0 Hz, 1H), 3.63 (s, 3H),
+2.20−2.04 (m, 2H), 1.42 (s, 3H), 1.26 (s, 3H); 13C NMR (75 MHz,
+CDCl3) δ 168.9, 136.5, 128.9 (2C), 128.6, 128.1 (2C), 111.3, 104.9,
+81.9, 81.5, 80.9, 73.3, 65.5, 58.1, 35.5, 26.8, 26.3; IR (KBr) ν
+max 2992,
+2915, 2125 (azide- N3), 2092, 1732 (CO), 1453, 1386, 1084, 745, 696
+cm−1; MS (m/z) 378 [M + H]+; Anal. Calcd for C18H23N3O6 C 57.29, H
+6.14, N 11.13; found C 57.35, H 6.20, N 11.15.
+General Procedure for the Synthesis of Glycosyl-β-triazolyl Esters
+(6a−u). To a stirred solution of glycosyl-β-azido ester 3 (1.0 equiv) in
+dry CH2Cl2 (10 mL) was added alkynes 5a−u (1.2 equiv) in the
+presence of DIPEA (10 mol %) and CuI (5 mol %), and the reaction
+mixture was allowed to stir at room temparature for 9−14 h under an
+argon atmosphere. After completion of the reaction (monitored by
+TLC), the reaction mixture was concentrated to obtain a crude residue
+that was further puriﬁed by ﬂash column chromatography using gradient
+mixtures of ethyl acetate and n-hexane to aﬀord pure compounds 6a−u
+in good to excellent yields.
+1-[Ethyl-(3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-β-L-
+ido-heptofuranurnate-5-yl]-4-(1″-phenylmethan-1″-ol-1″-yl)-1H-
+[1,2,3]-triazole (6a). To a stirred solution of ethyl-[5-(S)-azido-3-O-
+benzyl-5,6-dideoxy-1,2-O-isopropylidene]-β-L-ido-heptofuranurnate 3a
+(400 mg, 1.021 mmol) in dry dichloromethane (10 mL) was added 1-
+phenyl-2-propyn-1-ol 5a (0.149 mL, 1.226 mmol) in the presence of
+DIPEA (0.017 mL, 0.102 mmol) and CuI (5 mol %), and the reaction
+was allowed to stir at room temparature under an argon atmosphere for
+9 h followed by puriﬁcation described above to aﬀord compound 6a as a
+white crystalline solid; mp 128−130 °C; 502 mg, 94% yield; Rf = 0.45
+(45% ethyl acetate/n-hexane); 1H NMR (300 MHz, CDCl3) δ 7.38−
+7.17 (m, 9H), 7.08 (m, 2H), 5.98−5.91 (m, 2H), 5.17−5.08 (m, 1H),
+4.71 (d, J = 9.9 Hz, 1H), 4.54−4.51 (m, 1H), 4.40−4.31 (m, 1H), 4.02−
+3.84 (m, 3H), 3.46 (d, J = 9.9 Hz, 1H), 3.35 (s, 1H), 3.22−3.16 (m, 2H),
+1.49 (s, 3H), 1.29 (s, 3H), 1.11 (t, J = 6.9 Hz, 3H); 13C NMR (75 MHz,
+CDCl3) δ 170.3, 150.1, 141.9, 136.5, 128.5 (4C), 128.0 127.9, 127.8,
+127.6, 126.3, 126.1, 123.1, 112.2, 105.2, 81.7, 81.1, 80.5, 72.0, 68.9, 60.8,
+max 3412, 2990, 3065, 1690 (C
+55.6, 37.2, 26.8, 26.1, 13.9; IR (KBr) ν
+O), 1610, 1563, 1478, 1420, 1282, 1108, 1072, 845, 786, 562; MS (m/z)
+524 [M + H]+; Anal. Calcd for C28H33N3O7 C 64.23, H 6.35, N 8.03;
+found C 64.35, H 6.38, N 8.05.
+
+A click reaction between glycosyl-β-azido ester 3a and alkyne 5a using
+·5H2O/sodium ascorbate in aqueous medium at room temper-
+CuSO4
+ature aﬀords glycosyl-β-triazolyl ester 6a in good yields. The physical
+data closely matched that of developed molecule 6a, where the reaction
+was carried out in dry CH2Cl2 solvent under an inert atmosphere at
+room temperature.
+1-(Ethyl-[3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene]-α-D-
+gluco-heptofuranurnate-5′-yl)-4-(phenyl-1″-yl)-1H-[1,2,3]-triazole
+(6b). To a stirred solution of ethyl-[5-(R)-azido-3-O-benzyl-5,6-
+dideoxy-1,2-O-isopropylidene]-α-D-gluco-heptofuranurnate 3b (400
+mg, 1.021 mmol) in dry dichloromethane (10 mL) was added
+phenylacetylene 5b (0.134 mL, 1.226 mmol) in the presence of
+DIPEA (0.017 mL, 0.102 mmol) and CuI (5 mol %), and the reaction
+was allowed to stir at room temparature under an argon atmosphere for
+10 h followed by puriﬁcation as described above to aﬀord compound 6b
+as a yellow solid; mp 124−126 °C; 454 mg, 90% yield; Rf = 0.41 (50%
+ethyl acetate/n-hexane); 1H NMR (300 MHz, CDCl3) δ 7.88 (s, 1H),
+7.82−7.79 (m, 2H), 7.40−7.28 (m, 8H), 5.91 (d, J = 3.6 Hz, 1H), 5.20−
+5.13 (m, 1H), 4.76 (d, J = 12 Hz, 1H), 4.68 (d, J = 3.3 Hz, 1H), 4.63 (dd,
+J = 3, 9.3 Hz, 1H), 4.47 (d, J = 11.4 Hz, 1H), 4.02−4.01 (m, 2H), 3.57
+(m, 1H), 3.29−3.20 (m, 1H), 2.45 (dd, J = 2.4, 16.5 Hz, 1H), 1.43 (s,
+3H), 1.29 (s, 3H), 1.14 (t, J = 6.9 Hz, 3H); 13C NMR (75 MHz, CDCl3)
+δ 169.4, 146.6, 136.3, 130.8, 128.68 (2C), 128.61 (2C), 128.4 (2C),
+128.2 (2C), 127.8, 125.6, 121.9, 112.2, 105.0, 81.6, 81.5, 80.6, 71.6, 60.9,
+max 3414, 3077, 1695 (CO),
+57.3, 34.8, 26.7, 26.2, 13.9; IR (KBr) ν
+1607, 1565, 1484, 1449, 1424, 1279, 1101, 1075, 850, 784, 574; MS (m/
+</para>
+4877
+
+DOI: 10.1021/acs.joc.5b00179
+J. Org. Chem. 2015, 80, 4869−4881
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+z) 494 [M + H]+; Anal. Calcd for C27H31N3O6 C 65.71, H 6.33, N 8.51.;
+found C 65.56, H 6.45, N 8.63.
+1-(Ethyl-[3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene]-α-D-
+gluco-heptofuranurnate-5′-yl)-4-(toluene-4″-yl)-1H-[1,2,3]-triazole
+(6c). To a stirred solution of ethyl-[5-(R)-azido-3-O-benzyl-5,6-
+dideoxy-1,2-O-isopropylidene]-α-D-gluco-heptofuranurnate 3b (500
+mg, 1.277 mmol) in dry dichloromethane (10 mL) was added 4-
+ethynyl toluene 5c (0.194 mL, 1.532 mmol) in the presence of DIPEA
+(0.022 mL, 0.127 mmol) and CuI (5 mol %), and the reaction was
+allowed to stir at room temparature under an argon atmosphere for 10 h
+followed by puriﬁcation as described above to aﬀord title compound 6c
+as a yellow liquid; 602 mg, 93% yield; Rf = 0.41 (50% ethyl acetate/n-
+hexane); 1H NMR (300 MHz, CDCl3) δ 7.83 (s, 1H), 7.70−7.68 (m,
+2H), 7.34 (m, 5H), 7.20−7.17 (m, 2H), 5.91 (d, J = 3.6 Hz, 1H), 5.18−
+5.12 (m, 1H), 4.76 (d, J = 11.7 Hz, 1H), 4.68 (d, J = 3.6 Hz, 1H), 4.63
+(dd, J = 3, 9.3 Hz, 1H), 4.47 (d, J = 11.7 Hz, 1H), 4.01 (d, J = 2.7 Hz,
+2H), 3.56 (m, 1H), 3.24 (dd, J = 10.8, 16.8 Hz, 1H), 2.47 (d, J = 13.8 Hz,
+1H), 2.35 (s, 3H), 1.43 (s, 3H), 1.29 (s, 3H), 1.14 (t, J = 6.9 Hz, 3H); 13C
+NMR (75 MHz, CDCl3) δ 169.4, 146.7, 137.5, 136.3, 129.3 (2C), 128.6
+(2C), 128.4, 128.2 (2C), 127.9, 125.5 (2C), 121.5, 112.2, 104.8, 81.5,
+80.7, 80.6, 71.6, 60.9, 57.2, 34.9, 26.7, 26.2, 21.2, 13.9; IR (KBr) ν
+3409, 3065, 1706 (CO), 1603, 1567, 1489, 1453, 1419, 1225, 1105,
+max
+855, 570; MS (m/z) 508 [M + H]+; Anal. Calcd for C28H33N3O6 C
+66.26, H 6.55, N 8.28.; found C 66.37, H 6.71, N 8.41.
+1-[Ethyl-(3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-β-L-
+ido-heptofuranurnate-5-yl]-4-(ﬂuorobenzene-4″-yl)-1H-[1,2,3]-tria-
+zole (6d). To a stirred solution of ethyl-[5-(S)-azido-3-O-benzyl-5,6-
+dideoxy-1,2-O-isopropylidene]-β-L-ido-heptofuranurnate 3a (500 mg,
+1.277 mmol) in dry dichloromethane (10 mL) was added 1-ethynyl-4-
+ﬂuorobenzene 5d (0.175 mL, 1.532 mmol) in the presence of DIPEA
+(0.022 mL, 0.127 mmol) and CuI (5 mol %), and the reaction was
+allowed to stir at room temparature under an argon atmosphere for 14 h
+followed by puriﬁcation as described above to aﬀord desired compound
+6d as a yellow liquid; 575 mg, 88% yield; Rf = 0.43 (55% ethyl acetate/n-
+hexane); 1H NMR (300 MHz, CDCl3) δ 7.68−7.57 (m, 2H), 7.40−6.99
+(m, 8H), 5.98 (d, J = 3 Hz, 1H), 5.23 (dd, J = 8.4, 14.1 Hz, 1H), 4.82 (d, J
+= 9.9 Hz, 1H), 4.62 (d, J = 3 Hz, 1H), 4.56 (d, J = 11.7 Hz, 1H), 4.06 (d, J
+= 11.1 Hz, 1H), 4.01 (d, J = 7.5 Hz, 2H), 3.64 (d, J = 2.7 Hz, 1H), 3.25
+(d, J = 6 Hz, 2H), 1.52 (s, 3H), 1.32 (s, 3H), 1.14 (t, J = 6.9 Hz, 3H); 13C
+NMR (75 MHz, CDCl3) δ 170.5, 162.5 (d, J = 246 Hz), 145.5, 136.6,
+134.1, 128.5 (2C), 128.1, 127.7 (2C), 127.3 (d, J = 8.9 Hz), 126.65,
+126.61, 121.4, 115.5 (d, J = 21.6 Hz), 112.2, 105.3, 81.6, 81.2, 80.2, 72.1,
+max 3412, 3079, 1701 (C
+60.8, 55.7, 37.4, 26.8, 26.2, 13.9; IR (KBr) ν
+O), 1604, 1562, 1479, 1452, 1276, 1085, 1106, 1079, 858, 786, 576; MS
+(m/z) 512 [M + H]+; Anal. Calcd for C27H30FN3O6 C 63.39, H 5.91, N
+8.21; found C 63.55, H 5.99, N 8.17.
+1-[Ethyl-(3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-β-L-
+ido-heptofuranurnate-5-yl]-4-(pyridine-3″-yl)-1H-[1,2,3]-triazole
+(6e). To a stirred solution of ethyl-[5-(S)-azido-3-O-benzyl-5,6-dideoxy-
+1,2-O-isopropylidene]-β-L-ido-heptofuranurnate 3a (500 mg, 1.277
+mmol) in dry dichloromethane (10 mL) was added 3-ethynylpyridine
+5e (158 mg, 1.532 mmol) in the presence of DIPEA (0.022 mL, 0.127
+mmol) and CuI (5 mol %), and the reaction was allowed to stir at room
+temparature under an argon atmosphere for 12 h followed by
+puriﬁcation as described above to aﬀord compound 6e as a yellow
+solid; mp 120−124 °C; 568 mg, 90% yield; Rf = 0.45 (65% ethyl acetate/
+n-hexane); 1H NMR (300 MHz, CDCl3) δ 8.84 (m, 1H), 8.56 (d, J = 4.5
+Hz, 1H), 8.08 (d, J = 7.8 Hz, 1H), 7.65 (m, 1H), 7.37−7.26 (m, 5H),
+7.18 (d, J = 6.3 Hz, 1H), 5.99 (d, J = 3.3 Hz, 1H), 5.25 (dd, J = 9.6, 14.7
+Hz, 1H), 4.82 (d, J = 9.9 Hz, 1H), 4.64 (d, J = 3 Hz, 1H), 4.59 (d, J =
+11.4, 1H), 4.08−4.00 (m, 3H), 3.64 (m, 1H), 3.27 (d, J = 5.1 Hz, 2H),
+1.52 (s, 3H), 1.32 (s, 3H), 1.14 (t, J = 6.9 Hz, 3H); 13C NMR (75 MHz,
+CDCl3) δ 170.4, 149.0, 146.9, 143.3, 136.4, 132.8, 128.6 (2C), 128.3,
+127.7 (2C), 126.5, 123.6, 122.1, 112.3, 105.3, 81.7, 81.5, 80.2, 72.1, 60.9,
+max 3440, 3064, 2926, 1736 (C
+55.7, 37.3, 26.8, 26.2, 13.9; IR (KBr) ν
+O), 1605, 1574, 1455, 1409, 1376, 1220, 1164, 803, 707; MS (m/z) 495
+[M + H]+; Anal. Calcd for C26H30N4O6 C 63.15, H 6.11, N 11.33; found
+C 63.44, H 6.01, N 11.22.
+1-[Ethyl-(3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-α-D-
+gluco-heptofuranurnate-5′-yl]-4-(1″-phenyl-methan-1″-yl)-1H-
+[1,2,3]-triazole (6f). To a stirred solution of ethyl-[5-(R)-azido-3-O-
+</para>
+Article
+<para sub=“exp”>
+benzyl-5,6-dideoxy-1,2-O-isopropylidene]-α-D-gluco-heptofuranurnate
+3b (400 mg, 1.021 mmol) in dry dichloromethane (10 mL) was added 3-
+phenyl-1-propyne 5f (0.152 mL, 1.226 mmol) in the presence of DIPEA
+(0.017 mL, 0.102 mmol) and CuI (5 mol %), and the reaction was
+allowed to stir at room temparature under an argon atmosphere for 10 h
+followed by puriﬁcation as described above to aﬀord compound 6f as a
+white solid; mp 138−140 °C, 471 mg, 91% yield; Rf = 0.46 (45% ethyl
+acetate/n-hexane); 1H NMR (300 MHz, CDCl3) δ 1H NMR (300 MHz,
+CDCl3) δ 7.33−7.22 (m, 11H), 5.87 (d, J = 3 Hz, 1H), 5.07−5.00 (m,
+1H), 4.72 (d, J = 11.7 Hz, 1H), 4.65 (d, J = 3 Hz, 1H), 4.57 (d, J = 9.3 Hz,
+1H), 4.43 (d, J = 11.7 Hz, 1H), 4.05−3.97 (m, 5H), 3.17 (dd, J = 10.8,
+16.5 Hz, 1H), 2.41 (d, J = 15.9 Hz, 1H), 1.43 (s, 3H), 1.29 (s, 3H), 1.14
+(t, J = 6.9 Hz, 3H); 13C NMR (75 MHz, CDCl3) δ 169.4, 146.3, 139.0,
+136.3, 128.7 (2C), 128.6, 128.44 (2C), 128.40 (2C), 128.1 (2C), 126.2,
+123.6, 112.1, 104.9, 81.6, 81.4, 80.6, 71.6, 60.8, 57.1, 35.0, 32.1, 26.6,
+max 3412, 3076, 1698 (CO), 1603, 1561, 1482,
+26.2, 13.8; IR (KBr) ν
+1451, 1423, 1276, 1105, 1075, 856, 784; MS (m/z) 508 [M + H]+; Anal.
+Calcd for C28H33N3O6 C 66.26, H 6.55, N 8.28; found C 66.53, H 6.49,
+N 8.23.
+1-(Ethyl-[3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene]-β-L-
+ido-heptofuranurnate-5-yl)-4-(cyclohexan-1″-ol-1″-yl)-1H-[1,2,3]-
+triazole (6g). To a stirred solution of ethyl-[5-(S)-azido-3-O-benzyl-5,6-
+dideoxy-1,2-O-isopropylidene]-β-L-ido-heptofuranurnate 3a (300 mg,
+0.766 mmol) in dry dichloromethane (10 mL) was added 1-
+ethynylcyclohexanol 5g (114 mg, 0.919 mmol) in the presence of
+DIPEA (0.013 mL, 0.076 mmol) and CuI (5 mol %), and the reaction
+was allowed to stir at room temparature under an argon atmosphere for
+10 h followed by puriﬁcation as described above to aﬀord compound 6g
+as a yellow liquid; 375 mg, 95% yield; Rf = 0.52 (75% ethyl acetate/n-
+hexane); 1H NMR (300 MHz, CDCl3) δ 7.37−7.26 (m, 6H), 5.94 (m,
+1H), 5.29−5.17 (m, 2H), 4.76 (d, J = 9.3 Hz, 1H), 4.57 (d, J = 3 Hz, 1H),
+4.51 (d, J = 11.1 Hz, 1H), 4.09 (d, J = 11.7 Hz, 2H), 4.02 (dd, J = 6.9, 13.2
+Hz, 1H), 3.56 (s, 1H), 3.22 (d, J = 6.9 Hz, 2H), 2.33 (m, 1H), 1.81 (m,
+5H), 1.50 (m, 5H), 1.30 (s, 5H), 1.14 (t, J = 6.9 Hz, 3H); 13C NMR (75
+MHz, CDCl3) δ 170.4, 154.2, 136.7, 128.6 (2C), 128.0, 127.4 (2C),
+121.4, 112.2, 105.1, 81.8, 81.3, 80.5, 72.1, 60.8, 55.5, 38.1 (3C), 37.4,
+26.7, 26.2, 25.3, 21.9 (2C), 13.9; IR (KBr) ν
+max 3443, 2929, 2855, 1737
+(CO), 1607, 1498, 1454, 1376, 1221, 1164, 1075, 1026, 738; MS (m/
+z) 516 [M + H]+; Anal. Calcd for C27H37N3O7 C 62.90, H 7.23, N 8.15;
+found C 63.21, H 7.28, N 8.27.
+1-[Ethyl-(3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-α-D-
+gluco-heptofuranurnate-5′-yl]-4-[1″-(4-methylpiperazin)-methan-
+1″-yl]-1H-[1,2,3]-triazole (6h). To a stirred solution of ethyl-[5-(R)-
+azido-3-O-benzyl-5,6-dideoxy-1,2-O-isopropylidene]-α-D-gluco-hepto-
+furanurnate 3b (500 mg, 1.277 mmol) in dry dichloromethane (9.0 mL)
+was added N-methyl,N-propargyl piperazine 5h (0.194 mL, 1.532
+mmol) in the presence of DIPEA (0.022 mL, 0.127 mmol) and CuI (5
+mol %), and the reaction was allowed to stir at room temparature under
+an argon atmosphere for 16 h followed by puriﬁcation as described
+above to aﬀord compound 6h as a yellow liquid; 588 mg, 87% yield; Rf =
+0.41 (50% ethyl acetate/n-hexane); 1H NMR (300 MHz, CDCl3) δ 7.63
+(s, 1H), 7.35 (m, 5H), 5.89 (s, 1H), 5.12−5.09 (m, 1H), 4.76 (d, J = 15
+Hz, 1H), 4.69 (m, 1H), 4.56 (m, 1H), 4.45 (d, J = 11.7 Hz, 1H), 4.04 (d,
+J = 8.1 Hz, 2H), 4.00 (d, J = 6.6 Hz, 1H), 3.76−3.69 (m, 2H), 3.05−2.91
+(m, 8H), 2.65 (s, 3H), 2.44−2.32 (m, 1H), 2.03 (d, J = 6.9 Hz, 1H), 1.41
+(s, 3H), 1.25−1.14 (m, 6H); 13C NMR (75 MHz, CDCl3) δ 169.3,
+141.5, 136.3, 128.7 (2C), 128.5, 128.2 (2C), 125.4, 112.1, 104.9, 81.6,
+81.5, 80.6, 71.6, 60.9, 57.1, 53.5 (2C), 52.2, 49.8 (2C), 43.8, 34.8, 26.7,
+26.2, 14.0; MS (m/z) 530 [M + H]+; Anal. Calcd for C27H39N5O6 C
+61.23, H 7.42, N 13.22; found C 61.30, H 7.38, N 13.21.
+1-(Ethyl-[3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene]-β-L-
+ido-heptofuranurnate-5-yl)-4-(cyclohexene-1″-yl)-1H-[1,2,3]-tria-
+zole (6i). To a stirred solution of ethyl-[5-(S)-azido-3-O-benzyl-5,6-
+dideoxy-1,2-O-isopropylidene]-β-L-ido-heptofuranurnate 3a (300 mg,
+0.766 mmol) in dry dichloromethane (10 mL) was added 1-
+ethynylcyclohexene 5i (0.108 mL, 0.919 mmol) in the presence of
+DIPEA (0.013 mL, 0.076 mmol) and CuI (5 mol %), and the reaction
+was allowed to stir at room temparature under an argon atmosphere for
+12 h followed by puriﬁcation as described above to aﬀord compound 6i
+as a yellow liquid; 350 mg, 92% yield; Rf = 0.32 (45% ethyl acetate/n-
+</para>
+4878
+
+DOI: 10.1021/acs.joc.5b00179
+J. Org. Chem. 2015, 80, 4869−4881
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+hexane); 1H NMR (300 MHz, CDCl3) δ 7.32−7.30 (m, 4H), 7.23−7.21
+(m, 2H), 6.43 (s, 1H), 5.94 (s, 1H), 5.18 (dd, J = 8.4, 15.6 Hz, 1H), 4.77
+(d, J = 6.9 Hz, 1H), 4.58 (m, 1H), 4.52 (d, J = 11.1 Hz, 1H), 4.11 (m,
+1H), 4.06 (d, J = 9 Hz, 1H), 4.01 (d, J = 6 Hz, 1H), 3.59 (m, 1H), 3.21 (d,
+J = 6 Hz, 2H), 2.25−2.09 (m, 4H), 1.73 (m, 2H), 1.66 (d, J = 5.7 Hz,
+2H), 1.50 (s, 3H), 1.30 (s, 3H), 1.15 (t, J = 6.9 Hz, 3H); 13C NMR (75
+MHz, CDCl3) δ 170.5, 148.1, 136.7, 128.5 (2C), 128.0, 127.6 (2C),
+127.0, 124.8, 120.3, 112.2, 105.1, 81.7, 81.2, 80.3, 72.1, 60.7, 55.2, 37.4,
+29.6, 26.7, 26.2, 25.2, 22.4, 22.1, 13.9; IR (KBr) ν
+max 3449, 2926, 2855,
+1736 (CO), 1655, 1497, 1455, 1376, 1220, 1164, 1074, 1024, 854,
+740; MS (m/z) 498 [M + H]+; Anal. Calcd for C27H35N3O6 C 65.17, H
+7.09, N 8.44.; found C 64.99, H 7.23, N 8.57.
+1-[Ethyl-(3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-α-D-
+gluco-heptofuranurnate-5′-yl]-4-(1″,2″:3″,4″-di-O-isopropylidene-
+6″-O-methyl-α-D-galacto-pyranose-6″-yl)-1H-[1,2,3]-triazole (6j).
+To a stirred solution of ethyl-[5-(R)-azido-3-O-benzyl-5,6-dideoxy-
+1,2-O-isopropylidene]-α-D-gluco-heptofuranurnate 3b (500 mg, 1.277
+mmol) in dry dichloromethane (10 mL) was added 1,2:3,4-di-O-
+isopropylidene-6-O-propargyl-α-D-galacto-pyranose 5j (456 mg, 1.532
+mmol) in the presence of DIPEA (0.022 mL, 0.127 mmol) and CuI (5
+mol %), and the reaction was allowed to stir at room temparature under
+an argon atmosphere for 9 h followed by puriﬁcation described earlier to
+aﬀord title compound 6j as a yellow liquid; 819 mg, 93% yield; Rf = 0.50
+(60% ethyl acetate/n-hexane); 1H NMR (300 MHz, CDCl3) δ 7.65 (s,
+1H), 7.33 (m, 5H), 5.88 (s, 1H), 5.52 (s, 1H), 5.13−5.07 (m, 1H), 4.75
+(d, J = 12.6 Hz, 2H), 4.67 (d, J = 7.5 Hz, 2H), 4.58 (d, J = 7.8 Hz, 2H),
+4.45 (d, J = 12 Hz, 1H), 4.29−4.23 (m, 2H), 3.99 (m, 4H), 3.71−3.65
+(m, 2H), 3.18 (dd, J = 10.8, 16.5 Hz, 1H), 2.43 (d, J = 16.8 Hz, 1H), 1.53
+(s, 6H), 1.42 (s, 6H), 1.30 (s, 6H), 1.14 (t, J = 6.9 Hz, 3H); 13C NMR
+(75 MHz, CDCl3) δ 169.2, 143.9, 136.3, 128.5 (2C), 128.3, 128.1 (2C),
+124.5, 112.0, 109.0, 108.4, 104.9, 96.3, 81.5, 81.3, 80.6, 80.5, 71.5, 70.9,
+70.5, 69.0, 66.5, 64.7, 60.8, 57.1, 34.9, 26.5, 26.1, 25.9, 25.8, 24.7, 24.3,
+max 3450, 2930, 1732 (CO), 1635, 1452, 1376, 1222,
+13.8; IR (KBr) ν
+1112, 1082, 856; MS (m/z) 690 [M + H]+; Anal. Calcd for C34H47N3O12
+C 59.20, H 6.87, N 6.09; found C 58.92, H 6.83, N 6.06.
+1-[Ethyl-(3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-α-D-
+gluco-heptofuranurnate-5′-yl]-4-(1″,2″:5″,6″-di-O-isopropylidene-
+3″-O-methyl-α-D-gluco-furanose-3″-yl)-1H-[1,2,3]-triazole (6k). To a
+stirred solution of ethyl-[5-(R)-azido-3-O-benzyl-5,6-dideoxy-1,2-O-
+isopropylidene]-α-D-gluco-heptofuranurnate 3b (500 mg, 1.277
+mmol) in dry dichloromethane (10 mL) was added 1,2:5,6-di-O-
+isopropylidene-3-O-propargyl-α-D-gluco-furanose 5k (456 mg, 1.532
+mmol) in the presence of DIPEA (0.022 mL, 0.127 mmol) and CuI (5
+mol %), and the reaction was allowed to stir at room temparature under
+an argon atmosphere for 9 h followed by puriﬁcation as described above
+to aﬀord compound 6k as a yellow liquid; 810 mg, 92% yield; Rf = 0.46
+(60% ethyl acetate/n-hexane); 1H NMR (300 MHz, CDCl3) δ 7.71 (s,
+1H), 7.34−7.27 (m, 5H), 5.89−5.86 (m, 2H), 5.08 (d, J = 9.6 Hz, 1H),
+4.76−4.68 (m, 4H), 4.57−4.35 (m, 2H), 4.32 (dd, J = 6, 13.2 Hz, 1H),
+4.13−3.99 (m, 7H), 3.57 (m, 1H), 3.21 (dd, J = 10.8, 16.5 Hz, 1H), 2.44
+(d, J = 16.5 Hz, 1H), 1.48 (s, 3H), 1.42 (s, 6H), 1.36 (s, 3H), 1.29 (s,
+6H), 1.15 (t, J = 6.9 Hz, 3H); 13C NMR (75 MHz, CDCl3) δ 169.2,
+143.7, 136.3, 128.6 (2C), 128.4, 128.1 (2C), 124.7, 112.1, 111.7, 108.9,
+105.2, 104.8, 82.4, 81.9, 81.7, 81.4, 81.1, 80.6, 72.3, 71.6, 67.2, 64.2, 60.8,
+57.1, 34.7, 26.6 (2C), 26.1 (2C), 25.3 (2C), 13.9; IR (KBr) ν
+max 3453,
+2926, 1739 (CO), 1640, 1457, 1380, 1220, 1117, 1080, 853; MS (m/
+z) 690 [M + H]+; Anal. Calcd for C34H47N3O12 C 59.20, H 6.87, N 6.09;
+found C 58.88, H 6.81, N 6.15.
+1-[Ethyl-(3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-α-D-
+gluco-heptofuranurnate-5′-yl]-4-(1″,2″:4″,5″-di-O-isopropylidene-
+3″-O-methyl-D-fructo-pyranose-1″-yl)-1H-[1,2,3]-triazole (6l). To a
+stirred solution of ethyl-[5-(R)-azido-3-O-benzyl-5,6-dideoxy-1,2-O-
+isopropylidene]-α-D-gluco-heptofuranurnate 3b (500 mg, 1.277
+mmol) in dry dichloromethane (10 mL) was added 1,2,:4,5-di-O-
+isopropylidene-3-O-propargyl-D-fructo-pyranose 5l (456 mg, 1.532
+mmol) in the presence of DIPEA (0.022 mL, 0.127 mmol) and CuI
+(5 mol %), and the reaction was allowed to stir at room temparature
+under an argon atmosphere for 9 h followed by puriﬁcation as described
+above to aﬀord compound 6l as a yellow liquid; 819 mg, 93% yield; Rf =
+0.45 (65% ethyl acetate/n-hexane); 1H NMR (300 MHz, CDCl3) δ 7.63
+</para>
+Article
+<para sub=“exp”>
+(s, 1H), 7.34 (m, 5H), 5.87 (d, J = 3 Hz, 1H), 5.12−5.06 (m, 1H), 5.02
+(d, J = 12.9 Hz, 1H), 4.81 (d, J = 12.9 Hz, 1H), 4.78 (d, J = 11.7 Hz, 1H),
+4.66 (d, J = 3 Hz, 1H), 4.54 (d, J = 9.3 Hz, 1H), 4.45 (d, J = 12 Hz, 1H),
+4.35 (dd, J = 6.3, 12.9 Hz, 1H), 4.20−4.02 (m, 4H), 3.98 (d, J = 6.3 Hz,
+2H), 3.81 (d, J = 8.7 Hz, 1H), 3.56 (m, 2H), 3.19 (dd, J = 11.4, 16.8 Hz,
+1H), 2.41 (d, J = 16.8 Hz, 1H), 1.57 (s, 3H), 1.47 (s, 3H), 1.42 (s, 3H),
+1.37 (s, 3H), 1.29 (s, 6H), 1.15 (t, J = 7.2 Hz, 3H); 13C NMR (75 MHz,
+CDCl3) δ 169.2, 144.0, 136.2, 128.6 (2C), 128.4, 128.2 (2C), 124.5,
+112.1, 111.9, 109.0, 104.7, 104.1, 81.6, 81.5, 80.5, 75.7, 73.7, 71.6, 71.5,
+64.8, 60.8, 60.0, 57.0, 51.8, 34.7, 28.0, 26.8, 26.6, 26.1 (2C), 25.8, 13.9;
+max 3453, 2926, 1739 (CO), 1640, 1457, 1380, 1220, 1117,
+IR (KBr) ν
+1080, 853; MS (m/z) 690 [M + H]+; Anal. Calcd for C34H47N3O12 C
+59.20, H 6.87, N 6.09; found C 59.36, H 6.89, N 6.11.
+1-[Ethyl-(3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-α-D-
+gluco-heptofuranurnate-5′-yl]-4-(5″-O-benzyl-1″,2″-O-isopropyli-
+dene-3″-O-methyl-α-D-xylo-furanose-3″-yl)-1H-[1,2,3]-triazole (6m).
+To a stirred solution of ethyl-[5-(R)-azido-3-O-benzyl-5,6-dideoxy-1,2-
+O-isopropylidene]-α-D-gluco-heptofuranurnate 3b (500 mg, 1.277
+mmol) in dry dichloromethane (10 mL) was added 5-O-benzyl-1,2-O-
+isopropylidene-3-O-propargyl-α-D-xylo-furanose 5m (456 mg, 1.532
+mmol) in the presence of DIPEA (0.022 mL, 0.127 mmol) and CuI (5
+mol %), and the reaction was allowed to stir at room temparature under
+an argon atmosphere for 9 h followed by puriﬁcation described earlier to
+aﬀord compound 6m as a yellow liquid; 853 mg, 94% yield; Rf = 0.50
+(60% ethyl acetate/n-hexane); 1H NMR (300 MHz, CDCl3) δ 7.59 (s,
+1H), 7.33−7.26 (m, 10H), 5.89 (s, 2H), 5.11−5.05 (m, 1H), 4.75 (d, J =
+11.7 Hz, 1H), 4.69−4.54 (m, 8H), 4.49 (d, J = 10.2 Hz, 2H), 4.41 (d, J =
+14.4 Hz, 1H), 4.00 (d, J = 7.5 Hz, 3H), 3.70 (d, J = 4.8 Hz, 2H), 3.18 (dd,
+J = 10.8, 16.8 Hz, 1H), 2.41 (d, J = 15.9 Hz, 1H), 1.47 (s, 3H), 1.41 (s,
+3H), 1.29 (s, 6H), 1.13 (t, J = 6.9 Hz, 3H); 13C NMR (75 MHz, CDCl3)
+δ 169.2, 143.5, 138.0, 136.2, 128.6 (2C), 128.4 (2C), 128.2 (2C), 128.1
+(2C), 127.7, 127.5, 124.5, 112.1, 111.5, 105.0, 104.9, 82.3, 82.1, 81.5,
+80.7, 80.6, 79.0, 73.3, 71.6, 67.5, 63.9, 60.8, 57.1, 34.7, 26.67, 26.62, 26.2,
+max 3451, 2927, 1740 (CO), 1625, 1456, 1379,
+26.1, 13.9; IR (KBr) ν
+1260, 1165, 1077, 1023, 851; MS (m/z) 711 [M + H]+; Anal. Calcd for
+C37H48N3O11 C 62.52, H 6.81, N 5.91; found C 62.57, H 6.76, N 5.90.
+1-[Ethyl-(3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-α-D-
+gluco-heptofuraurnate-5′-yl]-4-(2″,3″:5″,6″-di-O-isopropylidene-
+1″-O-methyl-D-manno-furanose-1″-yl)-1H-[1,2,3]-triazole (6n). To a
+stirred solution of ethyl-[5-(R)-azido-3-O-benzyl-5,6-dideoxy-1,2-O-
+isopropylidene]-α-D-gluco-heptofuranurnate 3b (500 mg, 1.277
+mmol) in dry dichloromethane (9.0 mL) was added 2,3:5,6-di-O-
+isopropylidene-1-O-propargyl-D-manno-furanose 5n (456 mg, 1.532
+mmol) in the presence of DIPEA (0.022 mL, 0.127 mmol) and CuI (5
+mol %), and the reaction was allowed to stir at room temparature under
+an argon atmosphere for 10 h followed by puriﬁcation as described
+above to aﬀord compound 6n as a white solid; mp 142−144 °C; 810 mg,
+92% yield; Rf = 0.48 (60% ethyl acetate/n-hexane); 1H NMR (300 MHz,
+CDCl3) δ 7.63 (s, 1H), 7.34−7.33 (m, 5H), 5.89 (d, J = 3.3 Hz, 1H),
+5.09 (m, 2H), 4.76−4.53 (m, 7H), 4.46 (d, J = 15.3 Hz, 1H), 4.40 (d, J =
+6 Hz, 1H), 4.14−3.99 (m, 6H), 3.19 (dd, J = 10.5 Hz, 16.5 Hz, 1H), 2.44
+(d, J = 16.5 Hz, 1H), 1.45 (s, 6H), 1.43 (s, 3H), 1.38 (s, 3H), 1.38 (s,
+3H), 1.30 (s, 3H), 1.15 (t, J = 6.9 Hz, 3H); 13C NMR (75 MHz, CDCl3)
+δ 169.3, 142.9, 136.3, 128.6 (2C), 128.4, 128.1 (2C), 124.9, 112.5, 112.1,
+109.1, 105.8, 105.0, 85.0, 81.6, 81.4, 80.7, 80.6, 79.5, 73.0, 71.6, 66.9,
+60.9, 60.4, 57.1, 34.9, 26.7, 26.6, 26.2, 25.8, 25.1, 24.4, 13.9; IR (KBr)
+max 3459, 2925, 1735 (CO), 1622, 1459, 1365, 1259, 1163, 1068,
+ν
+1025, 858; MS (m/z) 690 [M + H]+; Anal. Calcd for C34H47N3O12 C
+59.20, H 6.87, N 6.09; found C 59.15, H 6.80, N 6.07.
+1-[Ethyl-(3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-α-D-
+gluco-heptofuranurnate-5′-yl]-4-(octan-1″-ol-8″-yl)-1H-[1,2,3]-tria-
+zole (6o). To a stirred solution of ethyl-[5-(R)-azido-3-O-benzyl-5,6-
+dideoxy-1,2-O-isopropylidene]-α-D-gluco-heptofuranurnate 3b (500
+mg, 1.277 mmol) in dry dichloromethane (9.0 mL) was added dec-9-
+yne-1-ol 5o (0.271 mL, 1.532 mmol) in the presence of DIPEA (0.022
+mL, 0.127 mmol) and CuI (5 mol %), and the reaction was allowed to
+stir at room temparature under an argon atmosphere for 12 h followed
+by puriﬁcation as described above to aﬀord compound 6o as a yellow
+liquid; 648 mg, 93% yield; Rf = 0.48 (45% ethyl acetate/n-hexane); 1H
+NMR (300 MHz, CDCl3) δ 7.36−7.33 (m, 5H), 5.90−5.87 (m, 1H),
+</para>
+4879
+
+DOI: 10.1021/acs.joc.5b00179
+J. Org. Chem. 2015, 80, 4869−4881
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+5.07−5.04 (m, 1H), 4.80 (d, J = 12 Hz, 1H), 4.77 (dd, J = 12, 26.7 Hz,
+1H), 4.66 (d, J = 3.9 Hz, 1H), 4.58 (dd, J = 3, 9.3 Hz, 1H), 4.51−4.42 (m,
+1H), 4.05−3.96 (m, 3H), 3.65−3.54 (m, 3H), 3.29−3.15 (m, 1H),
+2.69−2.60 (m, 2H), 2.42 (dd, J = 2.4, 16.5 Hz, 1H), 1.57−1.55 (m, 6H),
+1.42 (d, J = 5.4 Hz, 2H), 1.32−1.10 (m, 13H); 13C NMR (75 MHz,
+CDCl3) δ 169.5, 147.1, 136.3, 128.6 (2C), 128.4, 128.1 (2C), 122.7,
+112.1, 104.9, 81.6, 81.4, 80.7, 71.6, 71.5, 62.8, 60.8, 56.8, 34.9, 32.6, 29.6,
+29.1 (2C), 26.6, 26.1, 26.0, 25.7, 13.8; IR (KBr) ν
+max 3310, 2928, 2856,
+1738 (CO), 1457, 1378, 1223, 1164, 1075, 1028, 888, 856; MS (m/z)
+546 [M + H]+; Anal. Calcd for C29H43N3O7 C 63.83, H 7.94, N 7.70;
+found C 63.90, H 7.82, N 7.65.
+1-[Ethyl-(3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-α-D-
+gluco-heptofuranurnate-5′-yl]-4-(hexan-1″-yl)-1H-[1,2,3]-triazole
+(6p). To a stirred solution of ethyl-[5-(R)-azido-3-O-benzyl-5,6-
+dideoxy-1,2-O-isopropylidene]-α-D-gluco-heptofuranurnate 3b (400
+mg, 1.021 mmol) in dry dichloromethane (10 mL) was added 1-octyne
+5p (0.180 mL, 1.226 mmol) in the presence of DIPEA (0.017 mL, 0.102
+mmol) and CuI (5 mol %), and the reaction was allowed to stir at room
+temparature under an argon atmosphere for 10 h followed by
+puriﬁcation as described above to aﬀord compound 6p as a yellow
+semisolid; 481 mg, 94% yield; Rf = 0.48 (50% ethyl acetate/n-hexane);
+1H NMR (300 MHz, CDCl3) δ 7.26−7.19 (m, 6H), 5.82 (d, J = 3.3 Hz,
+1H), 4.98 (d, J = 9.3 Hz, 1H), 4.67 (d, J = 11.7 Hz, 1H), 4.59 (d, J = 3.3
+Hz, 1H), 4.51 (d, J = 6.3 Hz, 1H), 4.38 (d, J = 11.7 Hz, 1H), 3.93 (d, J =
+10.5 Hz, 2H), 3.48 (m, 1H), 3.11 (dd, J = 10.5, 16.5 Hz, 1H), 2.61−2.56
+(m, 2H), 2.36 (d, J = 14.7 Hz, 1H), 1.57 (m, 2H), 1.35 (m, 2H), 1.22−
+1.85 (m, 10H), 1.06 (t, J = 6.9 Hz, 3H), 0.80 (s, 3H); 13C NMR (75
+MHz, CDCl3) δ 169.5, 136.3, 128.6 (2C), 128.3, 128.1 (2C), 122.7,
+112.1, 104.9, 81.6, 81.4, 80.6, 71.6, 60.8, 56.9, 34.9, 31.4, 29.0, 28.8, 26.6,
+26.2, 25.6 (2C), 22.4, 13.9 (2C); IR (KBr) ν
+max 3426, 2925, 2856, 1732
+(CO), 1451, 1372, 1225, 1161, 1074, 1031, 879, 852, 702; MS (m/z)
+502 [M + H]+; Anal. Calcd for C27H39N3O6 C 64.65, H 7.84, N 8.38;
+found C 64.70, H 7.80, N 8.39.
+1-[Ethyl-(3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-α-D-
+gluco-heptofuranurnate-5′-yl]-4-(3″-cyanopropan-1″-yl)-1H-
+[1,2,3]-triazole (6q). To a stirred solution of ethyl-[5-(R)-azido-3-O-
+benzyl-5,6-dideoxy-1,2-O-isopropylidene]-α-D-gluco-heptofuranurnate
+3b (500 mg, 1.277 mmol) in dry dichloromethane (10 mL) was added 5-
+cyanopentyne 5q (0.160 mL, 1.532 mmol) in the presence of DIPEA
+(0.022 mL, 0.127 mmol) and CuI (5 mol %), and the reaction was
+allowed to stir at room temparature under an argon atmosphere for 12 h
+followed by puriﬁcation as described above to aﬀord compound 6q as a
+yellow liquid; 575 mg, 93% yield; Rf = 0.51 (55% ethyl acetate/n-
+hexane); 1H NMR (300 MHz, CDCl3) δ 7.44 (s, 1H), 7.34−7.33 (m,
+5H), 5.89 (d, J = 3.9 Hz, 1H), 5.06 (d, J = 9.6 Hz, 1H), 4.75 (d, J = 11.7
+Hz, 1H), 4.67 (d, J = 3.6 Hz, 1H), 4.56 (dd, J = 3.0, 9.6 Hz, 1H), 4.47−
+4.43 (m, 1H), 4.03−3.99 (m, 3H), 3.21−3.12 (m, 1H), 2.85−2.80 (m,
+2H), 2.45−2.40 (m, 2H), 2.37 (d, J = 6.9 Hz, 1H), 2.05 (t, J = 6.9 Hz,
+2H), 1.43 (s, 3H), 1.30 (s, 3H), 1.15 (t, J = 6.9 Hz, 3H); 13C NMR (75
+MHz, CDCl3) δ 169.4, 144.3, 136.3, 128.6 (2C), 128.4, 128.2 (2C),
+123.4, 119.3, 112.1, 104.9, 81.6, 81.4, 80.6, 71.6, 60.8, 57.1, 34.8, 29.6,
+max 3429, 2927, 2855, 2246 (−C
+26.6, 26.1, 24.1, 16.4, 13.9; IR (KBr) ν
+N), 1737 (CO), 1455, 1379, 1217, 1165, 1075, 1028, 856, 701; MS
+(m/z) 485 [M + H]+; Anal. Calcd for C25H32N4O6 C 61.97, H 6.66, N
+11.56.; found C 62.05, H 6.65, N 11.60.
+1-[Ethyl-(3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-α-D-
+gluco-heptofuranurnate-5′-yl]-4-(propan-1″-yl)-1H-[1,2,3]-triazole
+(6r). To a stirred solution of ethyl-[5-(R)-azido-3-O-benzyl-5,6-dideoxy-
+1,2-O-isopropylidene]-α-D-gluco-heptofuranurnate 3b (700 mg, 1.788
+mmol) in dry dichloromethane (10.0 mL) was added 1-pentyne 5r
+(0.228 mL, 2.146 mmol) in the presence of DIPEA (0.031 mL, 0.178
+mmol) and CuI (5 mol %), and the reaction was allowed to stir at room
+temparature under an argon atmosphere for 12 h followed by
+puriﬁcation as described above to aﬀord compound 6r as a white
+solid; mp 158−160 °C; 755 mg, 92% yield; Rf = 0.48 (60% ethyl acetate/
+n-hexane); 1H NMR (300 MHz, CDCl3) δ 7.55 (s, 1H), 7.34−7.33 (m,
+5H), 5.88 (m, 1H), 5.13−5.06 (m, 1H), 4.75 (d, J = 11.4 Hz, 2H), 4.67
+(d, J = 3.3 Hz, 1H), 4.57 (d, J = 9.3 Hz, 1H), 4.45 (d, J = 12 Hz, 1H), 4.01
+(d, J = 11.1 Hz, 3H), 3.17 (dd, J = 10.8, 16.5 Hz, 1H), 2.44 (d, J = 16.2
+Hz, 2H), 1.87−1.81 (m, 2H), 1.43 (s, 3H), 1.29 (s, 3H), 1.14 (t, J = 6.9
+</para>
+Article
+<para sub=“exp”>
+Hz, 3H), 0.096 (t, J = 7.2 Hz, 3H); 13C NMR (75 MHz, CDCl3) δ 169.3,
+149.9, 136.3, 128.6 (2C), 128.4, 128.2 (2C), 122.5, 112.1, 105.0, 81.6,
+80.7, 80.6, 71.6, 68.3, 60.9, 57.1, 35.0, 30.1, 26.6, 26.2, 13.9, 9.7; IR (KBr)
+max 3426, 2925, 2853, 1733 (CO), 1453, 1377, 1216, 1162, 1071,
+ν
+1025, 851, 702; MS (m/z) 460 [M + H]+; Anal. Calcd for C24H33N3O6
+C 62.73, H 7.24, N 9.14; found C 62.79, H 7.21, N 9.10.
+1-[Ethyl-(3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-α-D-
+gluco-heptofuranurnate-5′-yl]-4-(meth-1″-ol-1″-yl)-1H-[1,2,3]-tria-
+zole (6s). To a stirred solution of ethyl-[5-(R)-azido-3-O-benzyl-5,6-
+dideoxy-1,2-O-isopropylidene]-α-D-gluco-heptofuranurnate 3b (300
+mg, 0.766 mmol) in dry dichloromethane (10 mL) was added propargyl
+alcohol 5s (0.057 mL, 0.996 mmol) in the presence of DIPEA (0.013
+mL, 0.076 mmol) and CuI (5 mol %), and the reaction was allowed to
+stir at room temparature under an argon atmosphere for 10 h followed
+by puriﬁcation as described above to aﬀord compound 6s as a white
+solid; mp 150−152 °C; 322 mg, 94% yield; Rf = 0.51 (80% ethyl acetate/
+n-hexane); 1H NMR (300 MHz, CDCl3) δ 7.59 (s, 1H), 7.35−7.26 (m,
+5H), 5.88 (d, J = 3.6 Hz, 1H), 5.14−5.02 (m, 1H), 4.77−4.67 (m, 4H),
+4.56 (dd, J = 3, 9.6 Hz, 1H), 4.45 (d, J = 11.7 Hz, 1H), 4.03−3.98 (m,
+3H), 3.18 (dd, J = 10.8, 16.5 Hz, 1H), 2.56 (s, 1H), 2.42 (d, J = 16.8 Hz,
+1H), 1.42 (s, 3H), 1.29 (s, 3H), 1.15 (t, J = 7.2 Hz, 3H); 13C NMR (75
+MHz, CDCl3) δ 169.3, 146.5, 136.3, 128.6 (2C), 128.4, 128.2 (2C),
+123.7, 112.2, 104.8, 81.6, 81.4, 80.6, 71.6, 60.9, 57.2, 56.6, 34.8, 26.7,
+max 3312, 2926, 2859, 1737 (CO), 1455, 1376,
+26.2, 13.9; IR (KBr) ν
+1225, 1162, 1074, 1025, 883, 854; MS (m/z) 448 [M + H]+; Anal. Calcd
+for C22H29N3O7 C 59.05, H 6.53, N 9.39; found C 59.10, H 6.56, N 9.43.
+1-[Ethyl-(3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-α-D-
+gluco-heptofuranurnate-5′-yl]-4-(butan-1″-yl)-1H-[1,2,3]-triazole
+(6t). To a stirred solution of ethyl-[5-(R)-azido-3-O-benzyl-5,6-dideoxy-
+1,2-O-isopropylidene]-α-D-gluco-heptofuranurnate 3b (500 mg, 1.277
+mmol) in dry dichloromethane (9.0 mL) was added 1-hexyne 5t (0.174
+mL, 1.532 mmol) in the presence of DIPEA (0.022 mL, 0.127 mmol)
+and CuI (5 mol %), and the reaction was allowed to stir at room
+temparature under an argon atmosphere for 12 h followed by
+puriﬁcation as described above to aﬀord compound 6t as a yellow
+liquid; 544 mg, 90% yield; Rf = 0.43 (55% ethyl acetate/n-hexane); 1H
+NMR (300 MHz, CDCl3) δ 8.14 (s, 1H), 7.35−7.33 (m, 5H), 5.88 (d, J
+= 3.6 Hz, 1H), 5.16−5.10 (m, 1H), 4.76 (d, J = 12 Hz, 1H), 4.68 (d, J =
+3.3 Hz, 1H), 4.57−4.54 (m, 1H), 4.44 (d, J = 11.7 Hz, 1H), 4.04−3.99
+(m, 3H), 3.17 (dd, J = 11.1, 16.5 Hz, 1H), 3.08−3.03 (m, 1H), 2.66 (d, J
+= 7.2 Hz, 1H), 2.41 (d, J = 16.8 Hz, 1H), 1.79−1.72 (m, 2H), 1.42 (s,
+3H), 1.25 (s, 6H), 1.15 (t, J = 6.9 Hz, 3H), 1.01- 0.96 (m, 2H); 13C NMR
+(75 MHz, CDCl3) δ 169.0, 147.0, 136.2, 128.7 (2C), 128.5, 128.3 (2C),
+127.6, 112.2, 105.0, 81.5, 80.4, 80.2, 71.6, 61.0, 57.7, 41.3, 34.6, 29.6,
+max 3424, 2921, 2857, 1737 (C
+26.6, 26.2, 25.3, 17.2, 13.9; IR (KBr) ν
+O), 1454, 1376, 1215, 1161, 1072, 1023, 886, 856, 701; MS (m/z) 474
+[M + H]+; Anal. Calcd for C25H35N3O6 C 63.41, H 7.45, N 8.87; found
+C 63.52, H 7.48, N 8.89.
+1-[Ethyl-(3′-O-benzyl-5′,6′-dideoxy-1′,2′-O-isopropylidene)-β-L-
+ido-heptofuranurnate-5-yl]-4-(ethisterone-1″-yl)-1H-[1,2,3]-triazole
+(6u). To a stirred solution of ethyl-[5-(S)-azido-3-O-benzyl-5,6-
+dideoxy-1,2-O-isopropylidene]-β-L-ido-heptofuranurnate 3a (500 mg,
+1.277 mmol) in dry dichloromethane (10 mL) was added ethisterone 5u
+(478 mg, 1.532 mmol) in the presence of DIPEA (0.022 mL, 0.127
+mmol) and CuI (5 mol %), and the reaction was allowed to stir at room
+temparature under an argon atmosphere for 12 h followed by
+puriﬁcation as described above to aﬀord compound 6u as a yellow
+liquid; 782 mg, 87% yield; Rf = 0.45 (50% ethyl acetate/n-hexane); 1H
+NMR (300 MHz, CDCl3) δ 7.45 (s, 1H), 7.34−7.33 (m, 5H), 5.87 (d, J
+= 3.3 Hz, 1H), 5.69 (m, 1H), 5.11−5.05 (m, 1H), 4.74 (d, J = 11.5 Hz,
+1H), 4.66 (d, J = 3.6 Hz, 1H), 4.55 (d, J = 9.3 Hz, 1H), 4.44 (d, J = 11.7
+Hz, 1H), 4.01−3.94 (m, 3H), 3.13 (dd, J = 10.5, 16.5 Hz, 1H), 3.05 (m,
+1H), 2.45−1.77 (m,11H), 1.62−1.47 (m, 7H), 1.41 (s, 3H), 1.27 (s,
+3H), 1.12 (s, 3H), 1.07 (m, 3H), 1.03 (s, 3H), 0.68 (m, 1H), 0.37 (m,
+1H); 13C NMR (75 MHz, CDCl3) δ 199.5, 171.4, 169.2, 152.0, 136.3,
+128.6 (2C), 128.4, 128.2 (2C), 123.7, 123.1, 112.2, 104.7, 81.7, 81.5,
+80.6, 80.5, 71.7, 60.8, 57.2, 53.3, 48.9, 46.8, 38.5, 37.3, 36.1, 35.5, 35.0,
+33.8, 32.8, 32.4, 31.6, 26.7, 26.2, 23.4, 20.6, 17.3, 14.17, 14.10; MS (m/z)
+704 [M + H]+; Anal. Calcd for C40H53N3O8 C 68.26, H 7.59, N 5.97;
+found C 68.20, H 7.55, N 5.95.
+</para>
+4880
+
+DOI: 10.1021/acs.joc.5b00179
+J. Org. Chem. 2015, 80, 4869−4881
+
+The Journal of Organic Chemistry
+
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Copies of 1H and 13C NMR spectra for all the new compounds
+and X-ray crystallographic data for 3a, 3b, 4b, and 6a (CIF) are
+given. The Supporting Information is available free of charge on
+the ACS Publications website at DOI: 10.1021/acs.joc.5b00179.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: tiwari_chem@yahoo.co.in. Phone: +91-542-6702466.
+Fax: +91-542-236817.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+The authors thank CISC, Banaras Hindu University, and the
+Central Drug Research Institute, Lucknow, for spectroscopic
+studies and single crystal X-ray analysis. We thank the Council of
+Scientiﬁc & Industrial Research, New Delhi (Grant No.
+02(0173)/13/EMRII) for funding and Dr. R. P. Tripathi,
+Scientist-G at CDRI, Lucknow, for help and suggestions during
+preparation of the manuscript.
+
+■ REFERENCES
+
+(1) New, K.; Brechbiel, M. W. Cancer Biother. Radiopharm. 2009, 24,
+289.
+(2) Cafici, L.; Pirali, T.; Condorelli, F.; Del Grosso, E.; Massarotti, A.;
+Sorba, G.; Canonico, P. L.; Tron, G. C.; Genazzani, A. A. J. Comb. Chem.
+2008, 10, 732.
+(3) (a) Lenda, F.; Guenoun, F.; Martinez, J.; Lamaty, F. Tetrahedron
+Lett. 2007, 48, 805. (b) Whiting, M.; Tripp, J. C.; Lin, Y. C.; Lindstrom,
+W.; Olson, A. J.; Elder, J. H.; Sharpless, K. B.; Fokin, V. V. J. Med. Chem.
+2006, 49, 7697.
+(4) Liebert, T.; Hansch, C.; Heinze, T. Macromol. Rapid Commun.
+2006, 27, 208.
+(5) Gallardo, H.; Conte, G.; Bryk, F.; Lourenço, M. C. S.; Costa, M. S.;
+Ferreira, V. F. J. Braz. Chem. Soc. 2007, 18, 1285.
+(6) Perion, R.; Ferrieres, V.; Garcia-Moreno, M. I.; Mellet, C. O.;
+Duval, R.; Fernandez, J. M. G; Plusquellec, D. Tetrahedron 2005, 61,
+9118.
+(7) Alam, M.S.; Huang, J.; Ozoe, F.; Matsumura, F.; Ozoe, Y. Bioorg.
+Med. Chem. 2007, 15, 5090.
+(8) Valverde, I. E.; Bauman, A.; Kluba, C. A.; Vomstein, S.; Walter, M.
+A.; Mindt, T. L. Angew. Chem., Int. Ed. 2013, 52, 8957.
+(9) (a) Jelinek, R.; Kolusheva, S. Chem. Rev. 2004, 104, 5987. (b) Varki,
+A. Glycobiology 1993, 3, 97. (c) Bertozzi, C. R.; Kiessling, L. L. Science.
+2001, 291, 2357. (d) Tiwari, V. K.; Mishra, R. C.; Sharma, A.; Tripathi,
+R. P. Mini-Rev. Med. Chem. 2012, 12, 1497.
+(10) (a) Pandey,
+J.; Sharma, A.; Tiwari, V. K.; Dube, D.;
+Ramachandran, R.; Chaturvedi, V.; Sinha, S. K.; Mishra, N. N.;
+Shukla, P. K.; Tripathi, R. P. J. Comb. Chem. 2009, 11, 422. (b) Tripathi,
+R. P.; Shukla, P. K.; Sinha, S.; Srivastava, R.; Srivastava, K. K.;
+Chaturvedi, V.; Srivastava, A.; Srivastava, B. S. A novel combinatorial
+library of 3-substituted amino-3-glycosylated propanamides useful as
+antifungal and antibacterial agents, Ind. Patent 1529DEL2004,196956.
+(11) (a) Tewari, N.; Tiwari, V. K.; Mishra, R. C.; Tripathi, R. P.;
+Srivastava, A. K.; Ahmad, R.; Srivastava, R.; Srivastava, B. S. Bioorg. Med.
+Chem. 2003, 11, 2911. (b) Srivastava, S. K.; Dube, D.; Tewari, N.;
+Dwivedi, N.; Tripathi, R. P.; Ramachandran, R. Nucleic Acids Res. 2005,
+33, 7090. (c) Tripathi, R. P.; Rastogi, S. K.; Kundu, B.; Saxena, J. K.;
+Reddy, V. J. M.; Srivastava, S. K.; Chandra, S.; Bhaduri, A. P. Comb.
+Chem. High Throughput Screening 2001, 4, 237.
+(12) (a) Huisgen, R. Angew. Chem., Int. Ed. 1963, 2, 565. (b) Huisgen,
+R. Angew. Chem., Int. Ed. 1963, 2, 633.
+(13) (a) Kolb, H. C.; Finn, M. G.; Sharpless, K. B. Angew. Chem, Int. Ed.
+2001, 40, 2004. (b) Meldal, C. W.; Tornoe, C.; Meldal, M. J. Org. Chem.
+
+Article
+
+2002, 67, 3057. (c) Rostovtsev, V. V.; Green, L. G.; Fokin, V. V.;
+Sharpless, K. B. Angew. Chem., Int. Ed. 2002, 41, 2596. (d) Amblard, F.;
+Cho, J. H.; Schinazi, R. F. Chem. Rev. 2009, 109, 4207. (e) Click reaction:
+Click Chemistry in Glycoscience: New Development and Strategies; Z. J.
+Witczak, Z. J., Bielski, R., Ed.; John Wiley & Sons: New York, 2013.
+(14) (a) Singh, Y.; Spinelli, N.; DeFrancq, E.; Dumy, P. Org. Biomol.
+Chem. 2006, 4, 1413. (b) Virta, P.; Katajisto, J.; Niittymaki, T.;
+Lonnberg, H. Tetrahedron. 2003, 59, 5137. (c) Dedola, S.; Nepogodiev,
+S. A.; Field, R. A. Org. Biomol. Chem. 2007, 5, 1006. (d) Kushwaha, D.;
+Tiwari, V. K. J. Org. Chem. 2013, 78, 8184. (e) Kushwaha, D.; Dwivedi,
+P.; Kuanar, S. K.; Tiwari, V. K. Curr. Org. Synth. 2013, 9, 90.
+(15) (a) Beckmann, H. S. G.; Wittmann, V. In Organic Azides: Syntheses
+and Applications; Bräse, S., Banert, K., Eds.; John Wiley & Sons, 2010, p
+469. (b) Witczak, Z. J. Azides: Recent Advances in the Synthesis of
+Functionalized Carbohydrate Azides. In Carbohydrate Chemistry; RSC
+Publishing, 2010; Vol. 36, p 176
+(16) Biﬃn, M. E. C., Miller, J., Paul, D. B., Patai, S., Eds.; The Chemistry
+of the Azido Group; Interscience: London, 1971, p 57.
+(17) Lakshmipathi, P.; Rao, A. V. R. Tetrahedron Lett. 1997, 38, 2551.
+(18) (a) Guerin, D. J.; Horstmann, T. E.; Miller, S. J. Org. Lett. 1999, 1,
+1107. (b) Xu, L. W.; Li, L.; Xia, C. G.; Zhou, S. L.; Li, J. W. Tetrahedron
+Lett. 2004, 45, 1219.
+(19) Tripathi, R. P.; Tripathi, R.; Tiwari, V. K.; Bala, L.; Sinha, S.;
+Srivastava, A.; Srivastava, R.; Srivastava, B. S. Eur. J. Med. Chem. 2002, 37,
+773.
+(20) (a) Patil, N. T.; Jayant, N. T.; Dhavale, D. D. J. Org. Chem. 2000,
+66, 1065. (b) Katiyar, D.; Tiwari, V. K.; Tewari, N.; Verma, S. S.; Sinha,
+S.; Giakwad, A.; Srivastava, A.; Chaturvedi, V.; Srivastava, R.; Srivastava,
+B. S.; Tripathi, R. P. Eur. J. Med. Chem. 2005, 40, 351.
+(21) Singh, A.; Mishra, B. B.; Kale, R. R.; Kushwaha, D.; Tiwari, V. K.
+Synth. Commun. 2012, 42, 1.
+(22) Goddard-Borger, E. D.; Stick, R. V. Org. Lett. 2007, 19, 3797.
+(23) Katritzky, A. R.; El Khatib, M.; Boshakov, O.; Khelashvili, L.; Steel,
+P. J. J. Org. Chem. 2010, 75, 6532.
+(24) (a) Doering, W. E.; DePuy, C. H. J. Am. Chem. Soc. 1953, 75, 5955.
+(b) Alper, P. B.; Hung, S. C.; Wong, C. H. Tetrahedron Lett. 1996, 37,
+6029.
+(25) Pandiakumar, A. K.; Siddhartha, P.; Sarma, S. P.; Samuelson, A. G.
+Tetrahedron Lett. 2014, 55, 2917.
+(26) (a) Pai, N. R.; Vishwasrao, S.; Wankhede, K.; Dubhashi, D. J.
+Chem. Pharm. Res. 2012, 4, 4946. (b) Mishra, K. B.; Tiwari, V. K. J. Org.
+Chem. 2014, 79, 5752.
+(27) Fischer, W.; Anselme, J. P. J. Am. Chem. Soc. 1967, 89, 5284.
+(28) Nyffeler, P. T.; Liang, C. H.; Koeller, K. M.; Wong, C. H. J. Am.
+Chem. Soc. 2002, 124, 10773.
+(29) (a) Brandt, P.; Soergren, M. J.; Andersson, P. G.; Norrby, P. O. J.
+Am. Chem. Soc. 2000, 122, 8013. (b) Michejda, C. J.; Campbell, D. H. J.
+Am. Chem. Soc. 1974, 96, 929.
+(30) Pinto, R. M.; Dias, A. A.; Costa, M. L.; Rodrigues, P.; Barros, M.
+T.; Ogden, J. S.; Dyke, J. M. J. Phys. Chem. A 2011, 115, 8447.
+(31) (a) Bajza, I.; Borbas, A.; Liptak, A. Comprehensive Glycoscience:
+From Chemistry to Systems Biology; Kamerling, J. P., Ed., Elsevier, 2007,
+Vol. 1, p 203. (b) Schworer, C. J.; Oberthur, M. Eur. J. Org. Chem. 2009,
+35, 6129. (c) Enholm, E. J.; Gallagher, M. E.; Jiang, S.; Batson, W. A. Org.
+Lett. 2000, 21, 3355. (d) Alper, P. B.; Hendrix, M.; Sears, P.; Wong, C. H.
+J. Am. Chem. Soc. 1998, 120, 1965. (e) Follmann, H.; Hogenkamp, H. P.
+C. J. Am. Chem. Soc. 1970, 92, 671. (f) Goda, S. K.; Al-Feel, W.; Akhtar,
+M. J. Chem. Soc., Perkin Trans. 1 1986, 1383.
+(32) Kumar, D.; Mishra, A.; Mishra, B. B.; Bhattacharya, S.; Tiwari, V.
+K. J. Org. Chem. 2013, 78, 899.
+
+4881
+
+DOI: 10.1021/acs.joc.5b00179
+J. Org. Chem. 2015, 80, 4869−4881
+
+

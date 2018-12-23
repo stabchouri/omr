@@ -1,0 +1,1029 @@
+Note
+
+pubs.acs.org/joc
+
+Stereoselective Synthesis of 3‑Methyleneisoindolin-1-ones via Base-
+Catalyzed Intermolecular Reactions of Electron-Deﬁcient Alkynes
+with N‑Hydroxyphthalimides
+Xin Chen,
+†
+School of Basic Sciences, China Pharmaceutical University, Nanjing, 210009, P. R. China
+‡
+State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, 210009, P. R. China
+*S Supporting Information
+
+and Qing-Fa Zhou*,†,‡
+
+Fei-Fei Ge,
+
+†
+
+†
+
+Tao Lu,*,†
+
+ABSTRACT: Highly stereoselective intermolecular reactions of electron-deﬁcient alkynes with N-hydroxyphthalimides for
+eﬃcient construction of N-unprotected 3-methyleneisoindolin-1-ones have been developed through base catalytic strategies. The
+reaction of alkynoates with N-hydroxyphthalimides catalyzed by Bu3P in DMF at 150 °C gave the corresponding 3-
+methyleneisoindolin-1-ones with a (Z)-conﬁguration, while the reaction of alkynoates with N-hydroxyphthalimides catalyzed by
+K2CO3 in DMF at 60 °C gave the corresponding 3-methyleneisoindolin-1-ones with an (E)-conﬁguration, and (Z)-3-
+methyleneisoindolin-1-ones were obtained when alkyne ketones reacted with N-hydroxyphthalimide.
+
+I soindolinones are important scaﬀolds in organic chemistry
+
+and medicinal chemistry due to their prevalence in
+numerous synthetic and naturally occurring bioactive mole-
+cules. In particular, 3-methyleneisoindolin-1-ones have been
+recognized as core structures in natural compounds such as
+enterocarpam II, the secophthalide−isoquinoline ene-lactam
+fumaridine,1 magallanesine, an isoindolobenzazocine isolated
+from the South-American plant Berberis darwinii.2 3-
+Methyleneisoindolin-1-ones have shown a diverse range of
+bioactivities, such as vasorelaxant property3 and local anesthetic
+activity.4 In addition, 3-methyleneisoindolin-1-ones are also
+important
+the synthesis of other useful
+alkaloids.5 Owing to their great importance, many methods
+have been developed for the preparation of 3-methylene-
+isoindolin-1-ones. These methods mainly involved the tradi-
+tional condensation reaction of phthalimides with stabilized
+phosphoranes,6 or addition of organometallic reagents,
+followed by dehydration of the resulting 3-hydroxyphthalimi-
+dines,7 the Horner condensation of 3-(diphenylphosphinoyl)-
+isoindolin-1-ones with aldehydes,8 ortholithiation−anionic
+cyclization of N-acyl-2-bromobenzamides,9 electrophilic cycli-
+zations of 2-alkynylbenzamides,10 and recently developed
+metal-catalyzed cascade reactions.11 However, most of
+the
+present procedures suﬀer from one or more drawbacks such as
+
+intermediates for
+
+the use of expensive metal reagents or poor stereoselectivity of
+the products; therefore, more eﬃcient and simple protocols to
+stereoselectively prepare 3-methyleneisoindolin-1-one would be
+highly desirable.
+
+Over the past 20 years, base-catalyzed annulation has grown
+signiﬁcantly and represents one of the most powerful synthetic
+methodologies for preparing various heterocyclic compounds.
+Nonetheless, base catalytic, direct syntheses of 3-methylene-
+isoindolin-1-one derivatives have seen considerably less
+progress. We have recently developed a convenient phos-
+phine-catalyzed [3 + 2] annulation of electron-deﬁcient alkynes
+with N-hydroxyphthalimide (NHPI) for the synthesis of 3a-
+hydroxyisoxazolo[3,2-a]isoindol-8(3aH)-ones (Scheme 1).12 In
+the context of ongoing projects for the diversely functionalized
+construction of isoindolin-1-ones, we wish to report the novel
+process for stereoselective synthesis of 3-methyleneisoindolin-
+1-ones (Scheme 1).
+<para sub=“opt”>
+We started our
+
+investigation by examining the Bu3P-
+catalyzed reaction of 2-hydroxyisoindoline-1,3-dione 1a and
+ethyl propiolate 2a (Table 1). First, the reaction of 1a with 2a
+</para>
+Received:
+Published: February 24, 2015
+
+January 1, 2015
+
+© 2015 American Chemical Society
+
+3295
+
+DOI: 10.1021/acs.joc.5b00002
+J. Org. Chem. 2015, 80, 3295−3301
+
+The Journal of Organic Chemistry
+
+Note
+
+Scheme 1. Phosphine-Catalyzed Reactions of 2-Hydroxyisoindoline-1,3-dione and Ethyl Propiolate
+
+Table 1. Evaluation of Conditions for the Reaction of 1a with Ethyl Propiolate (2a)a
+
+entry
+
+catalyst (mol %)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+17
+18
+19
+20
+21d
+22
+23
+
+Bu3P (10)
+Bu3P (20)
+Bu3P (50)
+Bu3P (20)
+Bu3P (20)
+Bu3P (20)
+Bu3P (20)
+Bu3P (20)
+Bu3P (20)
+Bu3P (20)
+Bu3P (20)
+Bu3P (20)
+Bu3P (20)
+Bu3P (20)
+Bu3P (20)
+Ph3P (20)
+Ph3P (20)
+Ph2PEt (20)
+Ph2PEt (20)
+Et3N (20)
+K2CO3 (20)
+K2CO3 (20)
+
+solvent
+DMF
+DMF
+DMF
+DMF
+DMF
+DMF
+DMF
+DMF
+THF
+CH2Cl2
+CH2Cl2
+CH3CN
+CH3CN
+toluene
+toluene
+DMF
+DMF
+DMF
+DMF
+DMF
+DMF
+DMF
+
+temperature (°C)
+
+time (h)
+
+yield of 3 (%)b
+
+yield of 4a (%)b
+
+yield of 5a (%)b
+
+r.t.c
+r.t.
+r.t.
+0
+−20
+60
+100
+150
+reﬂux
+r.t.
+reﬂux
+r.t.
+reﬂux
+r.t.
+reﬂux
+100
+150
+100
+150
+60
+60
+100
+
+48
+24
+2
+48
+6
+6
+2
+2
+48
+48
+48
+48
+12
+48
+12
+18
+16
+18
+14
+4
+4
+6
+
+48
+0
+0
+40
+97
+0
+0
+0
+0
+18
+38
+31
+0
+30
+0
+0
+0
+0
+0
+0
+0
+0
+
+42
+69
+76
+36
+0
+74
+80
+0
+0
+28
+35
+49
+65
+19
+51
+40
+0
+51
+0
+0
+73
+0
+
+0
+11
+6
+14
+0
+17
+11
+95
+0
+5
+11
+10
+13
+trace
+21
+31
+62
+42
+92
+0
+trace
+74
+
+aUnless noted otherwise, reaction of N-hydroxyphthalimide 1a (0.3 mmol), ethyl propiolate 2a (0.36 mmol) was performed in 1 mL of solvent
+under N2. bIsolated yield based on 1a. cr.t. = room temperature. dThe Michael addition product was formed in 77% yield.
+<para sub=“opt”>
+in the presence of Bu3P (10 mol %) in DMF at room
+temperature for 48 h aﬀorded the (E)-3-methyleneisoindolin-1-
+one 4a in the yield of 42% accompanied by 3a-hydroxy-
+isoxazolo[3,2-a]isoindol-8(3aH)-one derivative 3 in the yield of
+48% (entry 1, Table 1). It was interesting to note that 3a-
+hydroxyisoxazolo[3,2-a]isoindol-8(3aH)-one derivative 3 was
+not found and the (E)-3-methyleneisoindolin-1-one 4a was
+formed in good yield beside a little amount of (Z)-3-
+methyleneisoindolin-1-one 5a when the loading of the catalyst
+Bu3P was increased to 20 or 50 mol % (entries 2 and 3, Table
+1). To improve the reaction selectivity, the temperature was
+then evaluated. To our delight, an excelent yield of 5a was
+obtained when the reaction was carried out at 150 °C (entry 8,
+Table 1). The (E)-3-methyleneisoindolin-1-one 4a was formed
+in good yield accompanied by a small quantity of its (Z)-isomer
+
+5a when the reaction was disposed at 60 °C for 6 h or 100 °C
+for 2 h (entries 6 and 7, Table 1). However, only 3a-
+hydroxyisoxazolo[3,2-a]isoindol-8(3aH)-one derivative 3 was
+given when the reaction was performed at −20 °C (entry 4,
+Table 1). When shifting the solvent to THF, CH2Cl2, CH3CN,
+or toluene, the reaction did not give the better results (entries
+9−15, Table 1). Other nucleophilic phosphines was also tested,
+and both Ph3P and Ph2PEt were proved to be useable catalysts
+for 5a at 150 °C (entries17−20, Table 1). The base containing
+nitrogen, such as Et3N, was also examined in the reaction; only
+the Michael addition product was observed (entry 21, Table 1).
+It is highlighted here that only (E)-3-methyleneisoindolin-1-
+one 4a was given in 73% yield when the reaction was
+performed in DMF at 60 °C for 4 h using inorganic base
+K2CO3 as catalyst, and the sole product 5a was formed in 74%
+</para>
+3296
+
+DOI: 10.1021/acs.joc.5b00002
+J. Org. Chem. 2015, 80, 3295−3301
+
+The Journal of Organic Chemistry
+
+Note
+
+Scheme 2. Transformation of Isoindolinone Derivatives at Diﬀerent Conditions
+<para sub=“opt”>
+yield when the reaction was performed in DMF at 100 °C for 6
+h (entries 22 and 23, Table 1). Herein, we established the
+optimal reaction conditions for the stereoselective synthesis of
+N-unprotected 3-methyleneisoindolin-1-one derivatives via the
+reaction conditions’ control.
+</para>
+<para sub="scope">
+To understand these novel processes, 3a-hydroxyisoxazolo-
+[3,2-a]isoindol-8(3aH)-one derivative 3 and (E)-3-methylene-
+isoindolin-1-one 4a were treated under diﬀerent conditions
+(Scheme 2). We found that compound 3a could be eﬀectively
+transformed to (E)-3-methyleneisoindolin-1-one 4a in the
+presence of a catalytic amount of both K2CO3 and Bu3P at 60
+°C, while it was
+fully transformed to (Z)-3-methylene-
+isoindolin-1-one 5a at 150 °C in the presence of Bu3P or at
+100 °C in the presence of K2CO3. We also found that (E)-3-
+methyleneisoindolin-1-one 4a could be eﬀectively transformed
+to (Z)-3-methyleneisoindolin-1-one 5a in the presence of a
+catalytic amount of both K2CO3 and Bu3P at a higher
+temperature, which shows a novel example that
+the (E)-
+conﬁguration of the carbon−carbon double bond could be
+transformed to the (Z)-conﬁguration of the carbon−carbon
+double bond. It is worth mentioning here that compound 3a
+could also be transformed to (E)-3-methyleneisoindolin-1-one
+4a and (Z)-3-methyleneisoindolin-1-one 5a in the absence of
+catalyst, and compound 4a could also be transformed to its
+isomer 5a. There is an obvious intramolecular hydrogen
+bonding of the N−H group of 5a in its crystal structure, and
+this could be the cause of the Z-stereoselectivity under higher
+temperature.13
+</para>
+<para sub="scope">
+
+With these results in hand, we ﬁrst investigated the scope of
+alkynoates for the synthesis of (Z)-3-methyleneisoindolin-1-
+ones (Table 2). As shown in Table 2, all terminal alkynoates
+were proved to be applicable to this reaction and selectively
+gave product (Z)-3-methyleneisoindolin-1-ones in good to
+excellent yields under the optimized reaction conditions. The
+alkynoates bearing both little alkyl units, namely, ethyl and
+methyl, and a branched bulky alkyl group, such as t-butyl, could
+give the products in 95, 99, and 99% yields, respectively
+(entries1−3, Table 2). The nature of the substituent on the
+benzene ring of the benzyl propiolate did impact the yields. For
+example, for substrates with a halogen Cl or methoxy group
+attached on the benzene ring, the yields of the corresponding
+products were obtained in the yields of 98% and 86%,
+respectively (entries 5 and 8, Table 2). Gratifyingly, furan-2-
+ylmethyl propiolate also reacted smoothly with 2a to give the
+desired (Z)-3-methyleneisoindolin-1-one 5i
+in an excellent
+</para>
+Table 2. Bu3P-Catalyzed Synthesis of Z-3-
+Methyleneisoindolin-1-onesa
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+R
+
+time (h)
+
+product
+
+yield (%)
+
+Et
+Me
+t-Bu
+PhCH2
+4−Cl-C6H4CH2
+4−Br-C6H4CH2
+4-Me-C6H4CH2
+4-MeO-C6H4CH2
+2-furyl-CH2
+Ph
+
+2
+2
+2
+2
+2
+2
+4
+6
+2
+6
+
+5a
+5b
+5c
+5d
+5e
+5f
+5g
+5h
+5i
+5j
+
+95
+99
+99
+99
+98
+94
+90
+86
+99
+71
+
+aAll the reactions were carried out with 1a (0.3 mmol) and 2 (0.36
+mmol) at 150 °C in 1.0 mL of DMF under N2, and isolated yields
+were reported.
+<para sub="scope">
+yield (entry 9, Table 2). It is worthy to note that phenyl
+propiolate could also proceed with 2a to provide the
+corresponding (Z)-3-methyleneisoindolin-1-one 5j
+in the
+yield of 71%. However, only the 3a-hydroxyisoxazolo[3,2-
+a]isoindol-8(3aH)-one products were formed, when β-sub-
+stituted alkynoates were applied in the reaction.
+</para>
+<para sub="scope">
+We then investigated the scope of alkynoates for
+
+the
+synthesis of (E)-3-methyleneisoindolin-1-ones in the presence
+of K2CO3 (Table 3). As exempliﬁed in Table 3, a wide array of
+alkynoates was suitable for the present strategy despite that
+some examples need to be careful about
+the reaction
+temperature. For example,
+the (E)-3-methyleneisoindolin-1-
+ones were eﬀectively given at room temperature when methyl
+propiolate or 4-bromophenyl propiolate was used in this
+reaction; however, the (Z)-3-methyleneisoindolin-1-ones were
+formed as major products at 60 °C for 2 h (entries 2 and 6,
+Table 3). Notably, phenyl propiolate was also compatible with
+the standard reaction conditions but in a decreased yield (entry
+10, Table 3).
+</para>
+<para sub="scope">
+To examine the scope of 2-hydroxyisoindoline-1,3-dione, 5,6-
+dichloro-2-hydroxyisoindoline-1,3-dione (1b) was investigated.
+As expected, the (Z)-ethyl 2-(5,6-dichloro-3-oxoisoindolin-1-
+</para>
+3297
+
+DOI: 10.1021/acs.joc.5b00002
+J. Org. Chem. 2015, 80, 3295−3301
+
+The Journal of Organic Chemistry
+Table 3. K2CO3-Catalyzed Synthesis of E-3-
+Methyleneisoindolin-1-onesa
+
+Scheme 4. Reactions of 2-Hydroxyisoindoline-1,3-dione (1a)
+with Alkyne Ketones (8)
+
+Note
+
+entry
+
+R
+
+time (h)
+
+product
+
+yield (%)
+
+1
+2b
+3
+4
+5
+6b
+7
+8
+9
+10
+
+Et
+Me
+t-Bu
+PhCH2
+4-Cl-C6H4CH2
+4-Br-C6H4CH2
+4-Me-C6H4CH2
+4-MeO-C6H4CH2
+2-furyl-CH2
+Ph
+
+4
+12
+4
+4
+4
+12
+6
+6
+4
+6
+
+4a
+4b
+4c
+4d
+4e
+4f
+4g
+4h
+4i
+4j
+
+73
+66
+62
+60
+62
+60
+60
+57
+63
+29
+
+aUnless noted otherwise, the reactions were carried out with 1a (0.3
+mmol) and 2 (0.36 mmol) at 60 °C in 1.0 mL of DMF under N2, and
+isolated yields were reported. bRoom temperature.
+<para sub="scope">
+ylidene)acetate (6) was formed in 90% yield when the reaction
+was performed in DMF at 150 °C for 2 h in the presence of
+Bu3P, while the (E)-ethyl 2-(5,6-dichloro-3-oxoisoindolin-1-
+ylidene)acetate (7) was formed in 65% yield when K2CO3 was
+used as catalyst in DMF at 60 °C for 2 h (Scheme 3).
+</para>
+Scheme 3. Reaction of 5,6-Dichloro-2-hydroxyisoindoline-
+1,3-dione (1b) with Ethyl Propiolate (2a)
+<para sub="scope">
+Subsequently, promoted by the successful base-catalyzed
+direct selective synthesis of 3-methyleneisoindolin-1-ones with
+alkynoates, a range of alkyne ketones were also examined with
+respect to 2-hydroxyisoindoline-1,3-dione 1a to synthesize 3-
+methyleneisoindolin-1-one compounds. To our surprise, the
+(Z) 3-methyleneisoindolin-1-ones were given when alkyne
+ketones 8 and 1a were disposed in DMF at 60 °C in the
+presence of K2CO3, while the reactions were very complicated
+when the reactions were carried out in the presence of Bu3P
+under diﬀerent
+temperatures. Both aromatic and aliphatic
+alkyne ketones could proceed smoothly to give (Z)-3-
+methyleneisoindolin-1-ones in good yields (Scheme 4).
+</para>
+<para sub="scope">
+Next, the free N−H group of 4a was attempted to protect
+with 1-(bromomethyl)-4-nitrobenzene (10) (2.0 equiv) in the
+presence NaH (2.0 equiv) in THF at 40 °C for 1 h. In the
+reaction, N-benzyl-protected compound 11 was obtained in
+88% yield (eq 1).
+</para>
+
+In conclusion, we have developed an eﬃcient and metal-free
+protocol to synthesize (E)-3-methyleneisoindolin-1-ones and
+(Z)-3-methyleneisoindolin-1-ones via base-catalyzed selective
+reactions of electron-deﬁcient alkynes with N-hydroxy-
+phthalimides. The present catalytic process provides a mild
+and general access to the (E)-3-methyleneisoindolin-1-ones and
+(Z)-3-methyleneisoindolin-1-ones, respectively. Especially, the
+structures of these products are attractive for potential drug
+discovery.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Methods. All reactions were performed in anhydrous
+solvents under a N2 atmosphere. THF, Et2O, and toluene were
+distilled from K and Na metal, respectively. DMF, CH2Cl2, and
+acetone were distilled from CaH2. CH3CN was distilled from P2O5. PE
+refers to petroleum ether (boiling range: 60−90 °C). Melting points
+were obtained on a melting point apparatus and are uncorrected. 1H
+and 13C NMR spectra were recorded in DMSO-d6 using a 300 MHz
+spectrometer: chemical shifts (δ) are given in parts per million,
+coupling constants (J) in Hz. High-resolution mass spectra were
+recorded in ESI mode on a QTOF MS spectrometer.
+
+General Procedure for Reaction of Electron-Deﬁcient
+Alkynes with N-Hydroxyphthalimide. To the solution of
+electron-deﬁcient alkyne (0.36 mmol) and N-hydroxyphthalimide
+(0.3 mmol) in dry DMF (1 mL) was added Ph3P (15.7 mg, 0.06
+mmol). The resulting mixture was stirred at room temperature under a
+nitrogen atmosphere for the required period of time. After completion
+of the reaction as monitored by TLC, the reaction mixture was
+quenched with CH2Cl2 (15 mL), which was washed with water and
+brine successively, dried over MgSO4, ﬁltered, and concentrated in
+vacuo. Puriﬁcation by ﬂash chromatography (SiO2; ethyl acetate/PE,
+1:10−1:3) yielded the desired products.
+(E)-Ethyl 2-(3-Oxoisoindolin-1-ylidene)acetate (4a). 47.54 mg,
+73% isolated yield; white solid. mp: 95−97 °C. IR (KBr) 3744, 3722,
+3651, 2360, 2345, 1770, 1750, 1734, 1717, 1700, 1683, 1657, 1562,
+1504, 1458, 794 cm−1. 1H NMR (300 MHz, DMSO-d6): δ 10.34 (s,
+1H), 8.11 (d, J = 7.3 Hz, 1H), 7.82 (d, J = 7.3 Hz, 1H), 7.72 (dt, J =
+18.5, 7.2 Hz, 2H), 6.11 (s, 1H), 4.23 (q, J = 7.1 Hz, 2H), 1.28 (t, J =
+7.1 Hz, 3H). 13C NMR (75 MHz, DMSO-d6): δ 167.9, 166.2, 146.6,
+136.5, 133.1, 131.7, 128.7, 123.1, 122.0, 92.0, 59.9, 14.1. ESIHRMS:
+Calcd for C12H12NO3: (M + H)+ 218.0812. Found: m/z 218.0815.
+(E)-Methyl 2-(3-Oxoisoindolin-1-ylidene)acetate (4b). 40.20 mg,
+66% isolated yield; white solid. mp: 197−199 °C; IR (KBr) 3167,
+3113, 3086, 1744, 1715, 1643, 1694, 1632, 1607, 1454, 1373, 1302,
+1273, 1157, 1115, 845, 773, 696 cm−1. 1H NMR (300 MHz, DMSO-
+d6): δ 10.92 (s, 1H), 8.95 (d, J = 7.6 Hz, 1H), 7.83−7.66 (m, 3H),
+5.80 (s, 1H), 3.72 (s, 3H). 13C NMR (75 MHz, DMSO-d6): δ 169.3,
+</para>
+3298
+
+DOI: 10.1021/acs.joc.5b00002
+J. Org. Chem. 2015, 80, 3295−3301
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+167.8, 150.0, 135.5, 134.9, 133.7, 133.1, 129.5, 124.7, 99.7, 53.2.
+ESIHRMS: Calcd for C11H9NNaO3: (M + Na)+ 226.0475. Found: m/
+z 226.0479.
+(E)-tert-Butyl 2-(3-Oxoisoindolin-1-ylidene)acetate (4c). 45.59 mg,
+62% isolated yield; white solid. mp: 162−164 °C. IR (KBr) 3318,
+2963, 2928, 1713, 1694, 1634, 1614, 1271, 1146, 1136, 1098, 1076,
+856, 812, 696 cm−1. 1H NMR (300 MHz, DMSO-d6): δ 10.88 (s, 1H),
+8.95 (d, J = 8.6 Hz, 1H), 7.79 (t, J = 6.8 Hz, 2H), 7.74−7.65 (m, 1H),
+5.73 (s, 1H), 1.51 (s, 9H). 13C NMR (75 MHz, DMSO-d6): δ 167.4,
+165.0, 147.2, 133.6, 132.9, 131.6, 131.2, 127.7, 122.7, 100.2, 79.9, 27.8.
+ESIHRMS: Calcd for C14H16NO3: (M + H)+ 246.1125. Found: m/z
+246.1129.
+(E)-Benzyl 2-(3-Oxoisoindolin-1-ylidene)acetate (4d). 50.24 mg,
+60% isolated yield; white solid. mp:185−187 °C. IR (KBr) 3181, 3080,
+3071, 3030, 2994, 2843, 1721, 1701, 1643, 1634, 1468, 1454, 1155,
+1140, 1117, 851, 741, 696 cm−1. 1H NMR (300 MHz, CDCl3): δ 9.41
+(s, 1H), 9.09 (d, J = 7.7 Hz, 1H), 7.88 (d, J = 7.2 Hz, 1H), 7.66 (dt, J =
+25.0, 7.4 Hz, 2H), 7.39 (dd, J = 14.6, 7.0 Hz, 5H), 5.97 (s, 1H), 5.28
+(s, 2H). 13C NMR (75 MHz, CDCl3): δ 171.9, 168.3, 150.1, 138.5,
+136.7, 136.0, 134.1, 133.7, 131.2, 131.1, 130.8, 130.8, 125.8, 102.5,
+69.0. ESIHRMS: Calcd for C17H14NO3: (M + H)+ 280.0968. Found:
+m/z 280.0972.
+(E)-4-Chlorobenzyl 2-(3-Oxoisoindolin-1-ylidene)acetate (4e).
+58.23 mg, 62% isolated yield; white solid. mp: 194−196 °C. IR
+(KBr) 3204, 3192, 3115, 1753, 1715, 1651, 1454, 1265, 1223, 1153,
+1107, 837, 808, 768 cm−1. 1H NMR (300 MHz, DMSO-d6): δ 10.98
+(s, 1H), 8.94 (d, J = 7.5 Hz, 1H), 7.75 (ddd, J = 13.0, 11.4, 7.1 Hz,
+3H), 7.53−7.35 (m, 4H), 5.83 (s, 1H), 5.21 (s, 2H). 13C NMR (75
+MHz, DMSO-d6): δ 167.4, 165.2, 148.6, 135.2, 133.5, 133.0, 132.6,
+131.8, 131.1, 129.8, 128.3, 127.6, 122.8, 97.4, 64.6. ESIHRMS: Calcd
+for C17H12ClNNaO3: (M + Na)+ 336.0398. Found: m/z 336.0402.
+(E)-4-Bromobenzyl 2-(3-Oxoisoindolin-1-ylidene)acetate (4f).
+64.26 mg, 60% isolated yield; white solid. mp: 215−217 °C. IR
+(KBr) 3306, 3275, 1722, 1682, 1667, 1651, 1470, 1416, 1294, 1280,
+1200, 1125, 1063, 824, 770, 696 cm−1. 1H NMR (300 MHz, DMSO-
+d6): δ 10.98 (s, 1H), 8.94 (d, J = 7.6 Hz, 1H), 7.81 (s, 1H), 7.72 (ddd,
+J = 18.0, 10.5, 4.2 Hz, 2H), 7.57 (d, J = 8.3 Hz, 2H), 7.38 (d, J = 8.3
+Hz, 2H), 5.83 (s, 1H), 5.19 (s, 2H). 13C NMR (75 MHz, DMSO-d6):
+δ 167.4, 165.2, 148.7, 135.6, 134.2, 133.5, 133.0, 131.9, 131.3, 131.1,
+130.1, 127.6, 122.8, 97.4, 64.6. ESIHRMS: Calcd for C17H13BrNO3:
+(M + H)+ 358.0073. Found: m/z 358.0078.
+(E)-4-Methylbenzyl 2-(3-Oxoisoindolin-1-ylidene)acetate (4g).
+52.76 mg, 60% isolated yield; white solid. mp:166−168 °C. IR
+(KBr) 3418, 3410, 3404, 1748, 1712, 1703, 1694, 1651, 1643, 1634,
+1267, 1152, 1146, 1107, 847, 808 cm−1. 1H NMR (300 MHz, DMSO-
+d6): δ 10.96 (s, 1H), 8.95 (d, J = 7.6 Hz, 1H), 7.92−7.55 (m, 3H),
+7.30 (d, J = 7.7 Hz, 2H), 7.18 (d, J = 7.6 Hz, 2H), 5.81 (s, 1H), 5.16
+(s, 2H), 2.29 (s, 3H). 13C NMR (75 MHz, DMSO-d6): δ 167.4, 165.3,
+148.4, 137.3, 133.5, 133.1, 133.0, 131.8, 131.1, 128.9, 128.1, 127.6,
+122.8, 97.7, 65.3, 20.6. ESIHRMS: Calcd for C18H16NO3: (M + H)+
+294.1125. Found: m/z 294.1131.
+(E)-4-Methoxybenzyl 2-(3-Oxoisoindolin-1-ylidene)acetate (4h).
+52.86 mg, 57% isolated yield; white solid. mp:203−205 °C. IR (KBr)
+3418, 3400, 2359, 2342, 1732, 1713, 1645, 1634, 1614, 1520, 1277,
+1256, 1117, 843 cm−1. 1H NMR (300 MHz, DMSO-d6): δ 10.95 (s,
+1H), 8.95 (d, J = 7.5 Hz, 1H), 7.8−7.64 (m, 3H), 7.36 (d, J = 8.6 Hz,
+2H), 6.93 (d, J = 8.7 Hz, 2H), 5.79 (s, 1H), 5.14 (s, 2H), 3.74 (s, 3H).
+13C NMR (75 MHz, DMSO-d6): δ 167.4, 165.3, 159.1, 148.3, 133.5,
+133.0, 131.8, 131.1, 130.0, 128.0, 127.6, 122.8, 113.7, 97.8, 65.2, 55.0.
+ESIHRMS: Calcd for C18H16NO4: (M + H)+ 310.1074. Found: m/z
+310.1081.
+(E)-Furan-2-ylmethyl 2-(3-Oxoisoindolin-1-ylidene)acetate (4i).
+50.86 mg, 63% isolated yield; white solid. mp: 154−155 °C. IR
+(KBr) 3192, 3183, 3136, 3112, 1728, 1705, 1636, 1613, 1267, 1157,
+1142, 1105, 1076, 1001, 841, 752, 696 cm−1. 1H NMR (300 MHz,
+CDCl3): δ 9.32 (s, 1H), 9.05 (d, J = 7.8 Hz, 1H), 7.86 (d, J = 7.2 Hz,
+1H), 7.65 (dt, J = 24.5, 7.4 Hz, 2H), 7.45 (s, 1H), 6.47 (d, J = 2.9 Hz,
+1H), 6.39 (d, J = 1.7 Hz, 1H), 5.90 (s, 1H), 5.20 (s, 2H). 13C NMR
+(75 MHz, DMSO-d6): δ 168.0, 165.5, 149.9, 149.2, 144.2, 134.0,
+</para>
+Note
+<para sub=“exp”>
+133.6, 132.4, 131.7, 128.1, 123.4, 113.3, 113.2, 97.8, 57.9. ESIHRMS:
+Calcd for C15H12NO4: (M + H)+ 270.0761. Found: m/z 270.0764.
+(E)-Phenyl 2-(3-Oxoisoindolin-1-ylidene)acetate (4j). 23.06 mg,
+29% isolated yield; white solid. mp: 196−198 °C. IR (KBr) 3161,
+3088, 3071, 1713, 1643, 1634, 1611, 1591, 1493, 1271, 1204, 1136,
+1096, 1072, 839, 775, 689 cm−1. 1H NMR (300 MHz, CDCl3): δ 9.10
+(d, J = 6.7 Hz, 1H), 8.68 (s, 1H), 7.92 (dd, J = 5.5, 1.8 Hz, 1H), 7.73−
+7.62 (m, 2H), 7.46 (t, J = 7.8 Hz, 2H), 7.31 (d, J = 7.4 Hz, 1H), 7.20
+(d, J = 8.0 Hz, 2H), 6.09 (s, 1H). 13C NMR (75 MHz, CDCl3): δ
+167.2, 153.2, 151.6, 136.5, 136.2, 135.6, 134.5, 133.5, 132.1, 131.5,
+128.5, 126.0, 124.3, 101.2. ESIHRMS: Calcd for C16H12NO3: (M +
+H)+ 266.0812. Found: m/z 266.0813.
+(Z)-Ethyl 2-(3-Oxoisoindolin-1-ylidene)acetate (5a). 61.87 mg,
+95% isolated yield; white solid. mp167−169 °C. IR (KBr) 3187, 1728,
+1682, 1634, 1607, 1470, 1296, 1271, 1153, 1138, 1100, 1076, 854, 779,
+698 cm−1. 1H NMR (300 MHz, DMSO-d6): δ 10.95 (s, 1H), 8.98 (d,
+J = 7.6 Hz, 1H), 7.91−7.60 (m, 3H), 5.80 (s, 1H), 4.21 (q, J = 7.1 Hz,
+2H), 1.28 (t, J = 7.1 Hz, 3H). 13C NMR (75 MHz, DMSO-d6): δ
+167.4, 165.5, 148.0, 133.6, 133.0, 131.7, 131.2, 127.6, 122.7, 98.2, 59.8,
+14.1. ESIHRMS: Calcd for C12H12NO3: (M + H)+ 218.0812. Found:
+m/z 218.0815.
+(Z)-Methyl 2-(3-Oxoisoindolin-1-ylidene)acetate (5b). 60.31 mg,
+99% isolated yield; white solid. mp: 122−124 °C. IR (KBr) 3404,
+1732, 1667, 1651, 1645, 1634, 1614, 1441, 1283, 1209, 1128, 1097,
+764, 692 cm−1. 1H NMR (300 MHz, CDCl3): δ 9.63 (s, 1H), 7.88 (d, J
+= 4.2 Hz, 1H), 7.70 (d, J = 4.2 Hz, 1H), 7.64 (dd, J = 11, 4.2 Hz, 2H),
+5.78 (s, 1H), 3.82 (s, 3H). 13C NMR (75 MHz, CDCl3): δ 168.0,
+167.9, 147.5, 136.4, 132.8, 131.6, 129.6, 124.0, 121.01, 91.2, 51.7.
+ESIHRMS: Calcd for C11H10NO3: (M + H)+ 204.0655. Found: m/z
+204.0657.
+(Z)-tert-Butyl 2-(3-Oxoisoindolin-1-ylidene)acetate (5c). 72.80
+mg, Yield: 99% isolated yield; white solid. mp: 140−142 °C. IR
+(KBr) 3188, 3175, 3078, 1720, 1699, 1707, 1682, 1643, 1368, 1279,
+1258, 1153, 1138, 1115, 775, 694 cm−1. 1H NMR (300 MHz, CDCl3):
+δ 9.65 (s, 1H), 7.88 (d, J = 4.4 Hz, 1H), 7.67 (d, J = 4.4 Hz, 1H), 7.61
+(dt, J = 8.8, 4.2 Hz, 2H), 5.72 (s, 1H), 1.55 (s, 9H). 13C NMR (75
+MHz, CDCl3): δ 168.0, 167.0, 146.6, 136.7, 132.6, 131.3, 129.6, 123.9,
+120.8, 93.6, 81.3, 28.2. ESIHRMS: Calcd for C14H16NO3: (M + H)+
+246.1125. Found: m/z 246.1128.
+(Z)-Benzyl 2-(3-Oxoisoindolin-1-ylidene)acetate (5d). 82.89 mg,
+99% isolated yield; white solid. mp: 146−148 °C. IR (KBr) 3322,
+1742, 1692, 1668, 1645, 1424, 1298, 1277, 1211, 1198, 1177, 1161,
+1128, 1065, 770, 692 cm−1. 1H NMR (300 MHz, CDCl3): δ 9.66 (s,
+1H), 7.89 (d, J = 4.2 Hz, 1H), 7.75−7.57 (m, 3H), 7.40 (dt, J = 8.6, 4
+Hz, 5H), 5.85 (s, 1H), 5.28 (s, 2H). 13C NMR (75 MHz, CDCl3): δ
+168.0, 167.3, 147.9, 136.4, 135.7, 132.8, 131.6, 129.6, 128.6, 128.4,
+128.3, 124.1, 121.0, 91.2, 66.4. ESIHRMS: Calcd for C17H14NO3: (M
++ H)+ 280.0968. Found: m/z 280.0975.
+(Z)-4-Chlorobenzyl 2-(3-Oxoisoindolin-1-ylidene)acetate (5e).
+92.04 mg, 98% isolated yield; white solid. mp 180−182 °C. IR
+(KBr) 3325, 1740, 1688, 1667, 1422, 1296, 1275, 1196, 1171, 1126,
+1094, 1063, 812, 768, 692 cm−1. 1H NMR (300 MHz, DMSO-d6): δ
+10.43 (s, 1H), 8.09 (d, J = 7.2 Hz, 1H), 7.80 (d, J = 6.7 Hz, 1H), 7.72
+(dd, J = 18.0, 7.3 Hz, 2H), 7.45 (s, 4H), 6.15 (s, 1H), 5.23 (s, 2H). 13C
+NMR (75 MHz, DMSO-d6): δ 168.0, 165.8, 147.1, 136.4, 135.3,
+133.1, 132.5, 131.7, 129.8, 128.7, 128.3, 123.1, 122.0, 91.5, 64.5.
+ESIHRMS: Calcd for C17H13ClNO3: (M + H)+ 314.0578. Found: m/z
+314.0585.
+(Z)-4-Bromobenzyl 2-(3-Oxoisoindolin-1-ylidene)acetate (5f).
+100.68 mg, 94% isolated yield; white solid. mp: 191−193 °C. IR
+(KBr) 3327, 1738, 1688, 1682, 1667, 1422, 1294, 1275, 1196, 1171,
+1126, 1063, 808, 768, 692 cm−1. 1H NMR (300 MHz, DMSO-d6): δ
+10.44 (s, 1H), 8.10 (d, J = 7.3 Hz, 1H), 7.80 (d, J = 7.2 Hz, 1H), 7.70
+(dt, J = 18.5, 7.2 Hz, 2H), 7.58 (d, J = 8.2 Hz, 2H), 7.39 (d, J = 8.3 Hz,
+2H), 6.15 (s, 1H), 5.22 (s, 2H). 13C NMR (75 MHz, DMSO-d6): δ
+168.0, 165.8, 147.1, 136.4, 135.7, 133.1, 131.7, 131.2, 130.1, 128.7,
+123.1, 122.0, 121.1, 91.5, 64.5. ESIHRMS: Calcd for C17H12BrNO3:
+(M + H)+ 358.0073. Found: m/z 358.0077.
+(Z)-4-Methylbenzyl 2-(3-Oxoisoindolin-1-ylidene)acetate (5g).
+79.14 mg, 90% isolated yield; white solid. mp: 154−156 °C. IR
+</para>
+3299
+
+DOI: 10.1021/acs.joc.5b00002
+J. Org. Chem. 2015, 80, 3295−3301
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(KBr) 3327, 1744, 1682, 1667, 1422, 1273, 1294, 1273, 1196, 1179,
+1125, 1063, 814, 768, 691 cm−1. 1H NMR (300 MHz, DMSO-d6): δ
+10.39 (s, 1H), 8.09 (d, J = 7.2 Hz, 1H), 7.80 (d, J = 7.2 Hz, 1H), 7.70
+(dd, J = 10.7, 7.3 Hz, 2H), 7.31 (d, J = 7.8 Hz, 2H), 7.18 (d, J = 7.7
+Hz, 2H), 6.13 (s, 1H), 5.19 (s, 2H), 2.29 (s, 3H). 13C NMR (75 MHz,
+DMSO-d6): δ 167.9, 166.0, 146.9, 137.2, 136.4, 133.1, 133.1, 131.7,
+128.8, 128.7, 128.1, 123.1, 122.0, 91.7, 65.2, 20.6. ESIHRMS: Calcd for
+C18H16NO3: (M + H)+ 294.1125. Found: m/z 294.1131.
+(Z)-4-Methoxybenzyl 2-(3-Oxoisoindolin-1-ylidene)acetate (5h).
+79.75 mg, 86% isolated yield; white solid. mp: 173−175 °C. IR (KBr)
+3339, 1742, 1682, 1667, 1660, 1651, 1645, 1634, 1514, 1470, 1120,
+1173, 1060, 822, 168, 694 cm−1. 1H NMR (300 MHz, DMSO-d6): δ
+10.39 (s, 1H), 8.09 (d, J = 7.5 Hz, 1H), 7.81 (d, J = 7.0 Hz, 1H), 7.70
+(dd, J = 10.6, 7.4 Hz, 2H), 7.37 (d, J = 8.5 Hz, 2H), 6.94 (d, J = 8.5
+Hz, 2H), 6.13 (s, 1H), 5.17 (s, 2H), 3.75 (s, 3H). 13C NMR (75 MHz,
+DMSO-d6): δ 168.5, 166.6, 159.7, 147.4, 137.0, 133.6, 132.3, 130.6,
+129.2, 128.6, 123.7, 122.5, 114.3, 92.3, 65.8, 55.6. ESIHRMS: Calcd for
+C18H15NNaO4: (M + Na)+ 332.0893. Found: m/z 332.0896.
+(Z)-Furan-2-ylmethyl 2-(3-Oxoisoindolin-1-ylidene)acetate (5i).
+79.92 mg, 99% isolated yield; white solid. mp: 119−121 °C. IR
+(KBr) 3426, 3333, 1746, 1732, 1688, 1665, 1645, 1422, 1198, 1177,
+1126, 1062, 780, 687 cm−1. 1H NMR (300 MHz, DMSO-d6): δ 10.98
+(s, 1H), 8.95 (d, J = 7.6 Hz, 1H), 7.84−7.66 (m, 4H), 6.58 (d, J = 3.0
+Hz, 1H), 6.48 (s, 1H), 5.77 (s, 1H), 5.19(s, 2H). 13C NMR (75 MHz,
+DMSO-d6): δ 168.5, 166.3, 149.9, 147.8, 144.1, 136.9, 133.6, 132.3,
+129.2, 123.7, 122.6, 111.3, 111.2, 91.8, 57.8. ESIHRMS: Calcd for
+C15H12NO4: (M + H)+ 270.0761. Found: m/z 270.0764.
+(Z)-Phenyl 2-(3-Oxoisoindolin-1-ylidene)acetate (5j). 56.46 mg,
+71% isolated yield; white solid. mp: 134−136 °C. IR (KBr) 3242,
+1713, 1694, 1643, 1634, 1275, 1202, 1153, 1117, 1096, 1057, 692
+cm−1. 1H NMR (300 MHz, CDCl3): δ 9.58 (s, 1H), 4.8 (d, J = 7.3 Hz,
+1H), 7.78 (d, J = 4.4 Hz, 1H), 7.68 (dt, J = 12.1, 4.4 Hz, 2H), 7.44 (t, J
+= 4.6 Hz, 2H), 7.28 (dd, J = 5.4, 3.1 Hz, 1H), 7.19 (d, J = 4.9 Hz, 2H),
+6.02 (s, 1H). 13C NMR (75 MHz, CDCl3): δ 167.9, 166.1, 150.4,
+149.2, 136.3, 133.0, 131.9, 129.4, 126.0, 124.2, 121.5, 121.2, 114.9,
+90.4. ESIHRMS: Calcd for C16H12NO3: (M + H)+ 266.0812. Found:
+m/z 266.0816.
+(Z)-Ethyl 2-(5,6-Dichloro-3-oxoisoindolin-1-ylidene)acetate (6).
+76.95 mg, 90% isolated yield; yellow solid. mp: 194−196 °C. IR
+(KBr) 3390, 3381, 3242, 1737, 1732, 1694, 1682, 1651, 1645, 1634,
+1614, 1557, 1537, 1505, 1271, 1067, 906, 854 cm−1. 1H NMR (300
+MHz, DMSO-d6): δ 10.53 (s, 1H), 8.49 (s, 1H), 8.01 (s, 1H), 6.20 (s,
+1H), 4.21 (q, J = 6.9 Hz, 2H), 1.26 (t, J = 7.0 Hz, 3H). 13C NMR (75
+MHz, DMSO-d6): δ 167.9, 167.7, 146.4, 138.3, 137.9, 136.3, 130.8,
+127.0, 126.3, 95.9, 62.0, 16.0. ESIHRMS: Calcd for C12H9Cl2N1NaO3:
+(M + Na)+ 307.9852. Found: m/z 307.9857.
+(E)-Ethyl 2-(5,6-Dichloro-3-oxoisoindolin-1-ylidene)acetate (7).
+55.58 mg, 65% isolated yield; white solid. mp: 215−217 °C. IR
+(KBr) 3200, 3109, 1743, 1732, 1713, 1694, 1643, 1634, 1607, 1393,
+1280, 1145, 1105, 1036, 910, 850. 1H NMR (300 MHz, DMSO-d6): δ
+11.18 (s, 1H), 9.10 (s, 1H), 7.95 (s, 1H), 5.77 (s, 1H), 4.18 (q, J = 7.0
+Hz, 2H), 1.26 (t, J = 7.1 Hz, 3H). 13C NMR (75 MHz, DMSO-d6): δ
+167.3, 167.2, 147.9, 137.5, 136.6, 135.0, 133.3, 131.2, 126.5, 101.5,
+62.1, 15.9. ESIHRMS: Calcd for C12H10Cl2N1O3: (M + H)+ 286.0032.
+Found: m/z 286.0037.
+(Z)-3-(2-Oxopropylidene) Isoindolin-1-one (9a). 33.67 mg, 60%
+isolated yield; white solid. mp: 116−118 °C. IR (KBr) 3443, 3426,
+3347, 3333, 1728, 1694, 1682, 1674, 1614, 1607, 1360, 1227, 1098,
+760, 694 cm−1. 1H NMR (300 MHz, DMSO-d6): δ 10.55 (s, 1H), 8.01
+(d, J = 7.5 Hz, 1H), 7.80 (m, 2H), 7.75−7.68 (m, 1H), 6.52 (s, 1H),
+2.28 (s, 3H). 13C NMR (75 MHz, DMSO-d6): δ 200.2, 170.4, 146.4,
+138.8, 136.1, 135.0, 133.8, 125.3, 124.7, 123.7, 101.4, 32.8. ESIHRMS:
+Calcd for C11H10NO2: (M + H)+ 188.0707. Found: m/z 188.0706.
+Isoindolin-1-one (9b). 37.36
+mg, 50% isolated yield; yellow solid. mp: 165−167 °C. IR (KBr)
+3333, 1720, 1651, 1599, 1300, 1227, 1018, 760, 710 cm−1. 1H NMR
+(300 MHz, DMSO-d6): δ 10.89 (s, 1H), 8.34 (d, J = 7.5 Hz, 1H), 8.19
+(d, J = 7.4 Hz, 2H), 7.81 (dd, J = 14.9, 7.4 Hz, 2H), 7.75−7.62 (m,
+2H), 7.58 (t, J = 7.3 Hz, 2H), 7.39 (s, 1H). 13C NMR (75 MHz,
+DMSO-d6): δ 191.7, 170.6, 149.4, 139.7, 139.0, 135.1, 134.9, 133.9,
+
+(Z)-3-(2-Oxo-2-phenylethylidene)
+</para>
+Note
+<para sub=“exp”>
+(Z)-3-(2-(Naphthalen-2-yl)-2-oxoethylidene)
+
+130.6, 130.3, 130.0, 125.2, 124.4, 97.5. ESIHRMS: Calcd for
+C16H12NO2: (M + H)+ 250.0867. Found: m/z 250.0863.
+Isoindolin-1-one
+(9c). 45.76 mg, 51% isolated yield; white solid. mp: 211−213 °C. IR
+(KBr) 3426, 3412, 3381, 3352, 1715, 1694, 1645, 1593, 810, 768 cm−1.
+1H NMR (300 MHz, DMSO-d6): δ 10.95 (s, 1H), 8. 96 (s, 1H), 8.41
+(d, J = 7.5 Hz, 1H), 8.18 (t, J = 8.6 Hz, 2H), 8.06 (dd, J = 15.2, 8.0 Hz,
+2H), 7.86 (t, J = 8.4 Hz, 2H), 7.81−7.63 (m, 3H), 7.58 (s, 1H). 13C
+NMR (75 MHz, DMSO-d6): δ 191.5, 170.7, 149.3, 139.1, 137.1,
+136.9, 135.1, 134.1, 133.9, 131.8, 131.4, 130.5, 130.4, 130.3, 129.6,
+128.8, 125.7, 125.3, 124.4, 97.7. ESIHRMS: Calcd for C20H14NO2: (M
++ H)+ 300.1019. Found: m/z 300.1026.
+(E)-Ethyl 2-(2-(4-Nitrobenzyl)-3-oxoisoindolin-1-ylidene)acetate
+(11). 98.76 mg, 88% isolated yield; white solid. mp: 138−140 °C.
+IR (KBr) 3389, 3381, 1720, 1709, 1694, 1634, 1610, 1520, 1342, 1323,
+1188, 1155, 1101, 829, 772, 708 cm−1. 1H NMR (300 MHz, DMSO-
+d6): δ 8.94 (d, J = 7.4 Hz, 1H), 8.20 (d, J = 8.4 Hz, 2H), 7.92 (d, J =
+7.2 Hz, 1H), 7.86−7.66 (m, 2H), 7.51 (d, J = 8.4 Hz, 2H), 5.78 (s,
+1H), 5.22 (s, 2H), 4.17 (dd, J = 13.8, 6.9 Hz, 2H), 1.22 (t, J = 6.9 Hz,
+3H). 13C NMR (75 MHz, DMSO-d6): δ 168.3, 167.0, 148.6, 145.9,
+136.4, 135.5, 134.9, 133.7, 129.6, 129.3, 125.7, 125.1, 124.7, 101.3,
+62.1, 43.6, 15.9. ESIHRMS: Calcd for C19H16N2NaO5: (M + H)+
+375.0951. Found: m/z 375.0955.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+The ORTEP diagrams of 4a and 5a, 1H and 13C NMR spectra
+of the products as well as the X-ray crystallographic data (CIF
+ﬁles) of 4a and 5a. This material is available free of charge via
+the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Authors
+*Fax: +86-025-86285179. Tel: +86-025-86185160. E-mail:
+zhouqingfa@cpu.edu.cn (Q.-F.Z.).
+*E-mail: lut163@163.com (T.L.).
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was ﬁnancially supported by the National Natural
+Science Foundation of China (Grant No. 21102179).
+
+■ REFERENCES
+(1) Blasko, G.; Gula, D. J.; Shamma, M. J. Nat. Prod. 1982, 45, 105−
+122.
+(2) Valencia, E.; Fajardo, V.; Freyer, A. J.; Shamma, M. Tetrahedron
+Lett. 1985, 26, 993−996.
+(3) (a) Kato, Y.; Takemoto, M.; Achiwa, K. Chem. Pharm. Bull. 1993,
+41, 2003−2006. (b) Kato, Y.; Ebiike, H.; Achiwa, K.; Ashizawa, N.;
+Kurihara, T.; Kobayashi, F. Chem. Pharm. Bull. 1990, 38, 2060−2062.
+(4) Laboratori Baldacci, S. P. A. (Italy). Jpn. Patent 59046268, 1984.
+(5) (a) Lu, W.-D.; Lin, C.-F.; Wang, C.-J.; Wang, S.-J.; Wu, M.-J.
+Tetrahedron 2002, 58, 7315−7319. (b) Koradin, C.; Dohle, W.;
+Rodriguez, A. L.; Schmid, B.; Knochel, P. Tetrahedron 2003, 59, 1571−
+1587. (c) Kundu, N. G.; Khan, M. W. Tetrahedron Lett. 1997, 38,
+6937−6940. (d) Yao, T.; Larock, R. C. J. Org. Chem. 2005, 70, 1432−
+1437. (e) Wang, C.; Sun, C.; Weng, F.; Gao, M.; Liu, B.; Xu, B.
+Tetrahedron Lett. 2011, 52, 2984−2989.
+(6) Flitsch, W.; Peters, H. Tetrahedron Lett. 1969, 1161−1162.
+(7) (a) Pigeon, P.; Decroix, B. Tetrahedron Lett. 1996, 37, 7707−
+7710. (b) Daich, A.; Marchalin, S.; Pigeon, P.; Decroix, B. Tetrahedron
+Lett. 1998, 39, 9187−9190. (c) Chihab-Eddine, A.; Daich, A.; Jilale, A.;
+Decroix, B. Heterocycles 2002, 58, 449−456. (d) Kato, Y.; Ebiike, H.;
+Achiwa, K.; Ashizawa, N.; Kurihara, T.; Kobayashi, F. Chem. Pharm.
+Bull. 1990, 38, 2060−2062.
+
+3300
+
+DOI: 10.1021/acs.joc.5b00002
+J. Org. Chem. 2015, 80, 3295−3301
+
+Note
+
+The Journal of Organic Chemistry
+
+(8) (a) Couture, A.; Deniau, E.; Grandclaudon, P. Tetrahedron 1997,
+53, 10313−10330. (b) Couture, A.; Deniau, E.; Grandclaudon, P.;
+Hoarau, C. Tetrahedron 2000, 56, 1491−1499. (c) Couture, A.;
+Deniau, E.; Grandclaudon, P.; Hoarau, C.; Rys, V. Tetrahedron Lett.
+2002, 43, 2207−2210. (d) Couture, A.; Deniau, E.; Grandclaudon, P.;
+Rybalko-Rosen, H.; Léonce, S.; Pfeiffer, B.; Renard, P. Bioorg. Med.
+Chem. Lett. 2002, 12, 3557−3559. (e) Rys, V.; Couture, A.; Deniau, E.;
+Grandclaudon, P. Tetrahedron 2003, 59, 6615−6619. (f) Moreau, A.;
+Couture, A.; Deniau, E.; Grandclaudon, P. J. Org. Chem. 2004, 69,
+4527−4530.
+(9) Hendi, M. S.; Natalie, K. J., Jr.; Hendi, S. B.; Campbell, J. A.;
+Greenwood, T. D.; Wolfe, J. F. Tetrahedron Lett. 1989, 30, 275−278.
+(10) (a) Kundu, N. G.; Khan, M. W. Tetrahedron Lett. 1997, 38,
+6937−6940. (b) Kundu, N. G.; Khan, M. W.; Mukhopadhyay, R.
+Tetrahedron 1999, 55, 12361−12376. (c) Yao, T.; Larock, R. C. J. Org.
+Chem. 2005, 70, 1432−1437.
+(11) (a) Khan, M. W.; Kundu, N. G. Synlett 1997, 1435−1437.
+(b) Sashida, H.; Kawamukai, A. Synthesis 1999, 1145−1148.
+(c) Kundu, N. G.; Khan, M. W. Tetrahedron 2000, 56, 4777−4792.
+(d) Koradin, C.; Dohle, W.; Rodriguez, A. L.; Schmid, B.; Knochel, P.
+Tetrahedron 2003, 59, 1571−1587. (e) Uozumi, Y.; Kawasaki, N.;
+Mori, E.; Mori, M.; Shibasaki, M. J. Am. Chem. Soc. 1989, 111, 3725−
+3727. (f) Garcıa, A.; Rodrıguez, D.; Castedo, L.; Saa, C.; Domınguez,
+D. Tetrahedron Lett. 2001, 42, 1903−1905. (g) Comins, D. L.; Joseph,
+S. P.; Zhang, Y.-M. Tetrahedron Lett. 1996, 37, 793−796. (h) Wriggles-
+worth, J. W.; Cox, B.; Lloyd-Jones, G. C.; Booker-Milburn, K. I. Org.
+Lett. 2011, 13, 5326−5329. (i) Mancuso, R.; Ziccarelli, I.; Armentano,
+D.; Marino, N.; Giofre, S. V.; Gabriele, B. J. Org. Chem. 2014, 79,
+3506−3518. (j) Liu, X.; Hii, K. K. Eur. J. Org. Chem. 2010, 5181−5189.
+(k) Zhou, B.; Hou, W.; Yang, Y.; Li, Y. Chem.Eur. J. 2013, 19,
+4701−4706. (l) Patureau, F. W.; Besset, T.; Frohlich, R.; Glorius, F. C.
+R. Chim. 2012, 15, 1081−1085.
+(12) Zhou, Q.-F.; Chu, X.-P.; Ge, F.-F.; Wang, Y.; Lu, T. Adv. Synth.
+Catal. 2013, 355, 2787−2792.
+(13) CCDC 1032756 and CCDC 1032759 contain the supple-
+mentary crystallographic data for compounds 4a and 5a, respectively.
+These data can be obtained free of charge from The Cambridge
+Crystallographic Data Centre via www.ccdc.cam.ac.uk/data_request/
+cif.
+
+3301
+
+DOI: 10.1021/acs.joc.5b00002
+J. Org. Chem. 2015, 80, 3295−3301
+
+

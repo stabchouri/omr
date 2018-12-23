@@ -1,0 +1,2035 @@
+Article
+
+pubs.acs.org/joc
+
+Duplex DNA and DNA−RNA Hybrids with Parallel Strand Orientation:
+2′-Deoxy-2′-ﬂuoroisocytidine, 2′-Deoxy-2′-ﬂuoroisoguanosine, and
+Canonical Nucleosides with 2′-Fluoro Substituents Cause
+Unexpected Changes on the Double Helix Stability
+Sachin A. Ingale,
+†
+Laboratory of Bioorganic Chemistry and Chemical Biology, Center for Nanotechnology, Heisenbergstrasse 11, 48149 Münster,
+Germany
+‡
+Laboratorium für Organische und Bioorganische Chemie, Institut für Chemie neuer Materialien, Universität Osnabrück,
+Barbarastrasse 7, 49069 Osnabrück, Germany
+*S Supporting Information
+
+and Frank Seela*,†,‡
+
+†
+Quang Nhat Tran,
+
+Peter Leonard,
+
+†
+
+†
+
+ABSTRACT: Oligonucleotides with parallel or antiparallel strand orienta-
+tion incorporating 2′-ﬂuorinated 2′-deoxyribonucleosides with canonical
+nucleobases or 2′-deoxy-2′-ﬂuoroisocytidine (FiCd, 1c) and 2′-deoxy-2′-
+ﬂuoroisoguanosine (FiGd, 3c) were synthesized. To this end, the nucleosides
+1c and 3c as well as the phosphoramidite building blocks 19 and 23 were
+prepared and employed in solid-phase oligonucleotide synthesis. Unexpect-
+edly, FiCd is not stable during oligonucleotide deprotection (55 °C, aq NH3)
+and was converted to a cyclonucleoside (14). Side product formation was
+circumvented when oligonucleotides were deprotected under mild conditions
+(aq ammonia−EtOH, rt). Oligonucleotides containing 2′-ﬂuoro substituents
+(FiCd, FiGd and ﬂuorinated canonical 2′-deoxyribonucleosides) stabilize
+double-stranded DNA, RNA, and DNA−RNA hybrids with antiparallel
+strand orientation. Unexpected strong stability changes are observed for
+oligonucleotide duplexes with parallel chains. While ﬂuorinated oligonucleo-
+tides form moderately stable parallel stranded duplexes with complementary DNA, they do not form stable hybrids with RNA.
+Furthermore, oligoribonucleotide duplexes with parallel strand orientation are extremely unstable. It is anticipated that nucleic
+acids with parallel chains might be too rigid to accept sugar residues in the N-conformation as observed for ribonucleosides or 2′-
+deoxy-2′-ﬂuororibonucleosides. These observations might explain why nature has evolved the principle of antiparallel chain
+orientation and has not used the parallel chain alignment.
+
+■ INTRODUCTION
+
+DNA with parallel strand (ps) orientation can be constructed
+from any single-stranded DNA of natural or artiﬁcial origin
+when the complementary strand consists of the four nucleo-
+sides 2′-deoxyisocytidine (iCd, 1a) or its 5-methyl derivative
+(MeiCd, 2a), 2′-deoxyisoguanosine (iGd, 3a), dA, and dT
+(Figure 1).1,2 Parallel-stranded DNA is remarkably stable but
+shows a lower stability than DNA with antiparallel strand (aps)
+orientation.3 From that,
+the lower
+stability of ps DNA results from the low strength of the reverse
+Watson−Crick dA−dT pair (Donohue pair). Incorporation of
+−dG pairs in ps DNA can compensate the loss
+iGd
+of stability.1 Furthermore, nucleoside shape mimics with a
+pyrrolo[2,3-d]pyrimidine or a pyrazolo[3,4-d]pyrimidine skel-
+eton replacing the nucleobases of dA or dT and iGd or iCd have
+been shown to be well accommodated in ps DNA and add
+additional stability to the parallel helix structure.4
+
+it was concluded that
+
+−dC or iCd
+
+Previously, the beneﬁcial inﬂuence of ﬂuorine substituents to
+antiviral nucleosides and to antisense oligonucleotides with
+antiparallel strand orientation was demonstrated.5,6 The high
+
+resistant
+
+ﬂuorine−carbon bond stability (109 kcal/mol)7 makes ﬂuorine
+substituents rather
+to metabolic transformations.
+Furthermore, the ﬂuorine atom introduces lipophilicity into
+the molecule.8 The target site of the ﬂuoro modiﬁcation in
+antisense oligonucleotides is usually the 2′-position of the sugar
+moiety with the ﬂuorine substituent in the “ribo” (down)
+conﬁguration as shown for 1b−3b and 1c−3c (Figure 1). The
+hydrophobic, but still polar, ﬂuorine substituent has approx-
+imately the same atomic radius as hydrogen and is well
+accommodated in DNA and DNA−RNA hybrids.9 Never-
+theless, the van der Waals radius of ﬂuorine is larger (1.47 Å)
+than that of hydrogen (1.20 Å) but similar to that of oxygen
+(1.52 Å).10 Apart
+the highest
+electronegativity of a substituent and has therefore a great
+impact on the sugar conformation. The replacement of the 2′-
+OH group of the ribose moiety by a ﬂuorine atom leads to a
+preferred 3′-endo (N) conformation of the sugar residue, which
+
+from that, ﬂuorine has
+
+Received:
+January 7, 2015
+Published: March 5, 2015
+
+© 2015 American Chemical Society
+
+3124
+
+DOI: 10.1021/acs.joc.5b00040
+J. Org. Chem. 2015, 80, 3124−3138
+
+The Journal of Organic Chemistry
+
+Article
+
+is the conformation of RNA duplexes.11 In the antisense
+approach, entirely 2′-deoxy-2′-ﬂuoro-modiﬁed oligonucleoti-
+des, which adopt an A conformation, show a high binding
+aﬃnity to their RNA target.9a It was assumed that the increased
+pairing aﬃnity of 2′-F-RNA compared to RNA results from a
+positive enthalpic eﬀect going back to strengthening of H-
+bonding, stacking interactions, and a higher rigidity of the
+duplex backbone induced by the electron-withdrawing eﬀect of
+ﬂuorine in the 2′-position.6b Another interesting property of
+ﬂuorine is the ease of detection by 19F NMR spectroscopy and
+the use of the radiolabeled 18F isotope as tracer in in PET
+imaging.12
+
+In this study, the concept of parallel strand orientation which
+was already realized by using isocytosine nucleosides (1a,b,
+2a,b)13 and isoguanine nucleosides (3a,b)14 (Figure 1) is now
+combined with the unique properties of 2′-ﬂuoro substitution,
+such as enhanced binding aﬃnity and nuclease resistance. To
+construct parallel-stranded DNA with 2′-ﬂuoro substituents,
+building blocks (phosphoramidites) of 2′-deoxy-2′-ﬂuoroisocy-
+tidine (FiCd, 1c) and 2′-deoxy-2′-ﬂuoroisoguanosine (FiGd, 3c)
+were prepared and applied to automatized solid-phase
+oligonucleotide synthesis. To this end, the precursor nucleo-
+sides 2′-deoxy-2′-ﬂuoroisocytidine and 2′-deoxy-2′-ﬂuoroiso-
+guanosine were synthesized. The base-pairing properties of FiCd
+and FiGd in DNA duplexes with parallel chain orientation are
+studied and compared with those in DNA duplexes with
+antiparallel chains. Hybridization experiments are performed
+
+Figure 1. Motifs of strand orientation and structures of isocytosine
+and isoguanine nucleosides.
+
+Table 1. Synthesized Oligonucleotides and Their Molecular Masses Measured by MALDI-TOF Mass Spectra
+
+aCalculated on the basis of molecular weight as [M + H]+. bDetermined by MALDI-TOF mass spectrometry as [M + H]+ in the linear positive
+mode.
+
+3125
+
+DOI: 10.1021/acs.joc.5b00040
+J. Org. Chem. 2015, 80, 3124−3138
+
+Article
+Scheme 2. Synthesis of 2′-Deoxy-2′-ﬂuoroisocytidine (1c)
+via the Sugar Protection and Deprotection Methoda
+
+The Journal of Organic Chemistry
+with complementary strands of DNA, RNA, and 2′-F-RNA, and
+the eﬀect of the 2′-ﬂuorine substituent is related to non-
+ﬂuorinated oligonucleotides.
+■ RESULTS AND DISCUSSION
+1. Synthesis of 2′-Deoxy-2′-ﬂuororibonucleosides. 2′-
+Deoxy-2′-ﬂuororibonucleosides with canonical nucleobases are
+known for several decades (FAd,15 FUd,16 FGd
+17 and FCd;18 for
+structures see Table 1). Corresponding phosphoramidites were
+employed in oligonucleotide synthesis (for structures see
+Figure S1, Supporting Information).9a,19 Several reviews on
+this matter appeared in the literature.20 To the best of our
+knowledge, synthetic routes to access 2′-deoxy-2′-ﬂuoroisocy-
+tidine (1c) and 2′-deoxy-2′-ﬂuoroisoguanosine (3c) have not
+been reported before.
+2′-Deoxy-2′-ﬂuoroisocytidine (1c). The synthesis of 2′-
+deoxy-2′-ﬂuoroisocytidine (1c) uses 2′-deoxy-2′-ﬂuorouridine
+(4) as starting material (Scheme 1). This route employs similar
+Scheme 1. Synthesis of 2′-Deoxy-2′-ﬂuoroisocytidine (1c)
+via Tosylation of 2′-Deoxy-2′-ﬂuorouridine (4)a
+
+aReagents and conditions: (i) DMT-Cl, pyridine, rt; (ii) acetic
+rt; (iv) p-
+anhydride, pyridine,
+toluenesulfonyl chloride, pyridine, rt; (v) DBU, CH3CN, reﬂux, 30
+min; (vi) K2CO3, MeOH,
+rt,
+overnight.
+
+rt; (vii) saturated NH3/MeOH,
+
+rt; (iii) AcOH/H2O (4:1),
+
+introduced in the 5′-position (→ 9), and an acetyl group was
+used for 3′-protection to acquire compound 10.9a,22b,c Then,
+the 5′-O-DMT group was
+removed and the resulting
+compound 1122b,c was 5′-O-tosylated using p-toluenesulfonyl
+chloride to give 12 (88% yield). Treatment of 12 with DBU in
+reﬂuxing CH3CN furnished the 3′-O-acetylated 2,5′-anhydro
+nucleoside 13 (79%), which after treatment with K2CO3 in
+MeOH gave 8 (86%) (Scheme 2). Finally, treatment of 8 with
+saturated NH3/MeOH aﬀorded nucleoside 1c.
+
+In summary, the ﬁrst route gives the target nucleoside 1c in
+an overall yield of 8% over three steps, while the second route
+leads to an improved overall yield of 25% over seven steps.
+Therefore,
+if time matters, the ﬁrst route is the method of
+choice to access 2′-deoxy-2′-ﬂuoroisocytidine (1c).
+As discussed in section 4, it was found that oligonucleotides
+with 2′-deoxy-2′-ﬂuoroisocytidine residues are rather labile
+under standard oligonucleotide deprotection conditions. To
+verify this ﬁnding, nucleoside 1c was treated with concentrated
+aqueous NH3 at 55 °C for 16 h (standard oligonucleotide
+deprotection conditions). HPLC analysis of
+the reaction
+mixture indicated the formation of two side products (14:
+major and 15: minor), while almost no starting material was left
+(Figure 2a and Figure S2, Supporting Information). Hence, it
+was proven that side product formation could be minimized
+when mild oligonucleotide deprotection conditions were
+treatment of 1c in a mixture of EtOH/
+chosen. Indeed,
+concentrated aqueous NH3 (1:3) at room temperature kept the
+main amount of 1c intact with only a small amount of
+formation of the faster migrating side product 14 (Figure 2b).
+As deprotection at room temperature is suﬃcient to remove all
+base protecting groups from oligonucleotides (data not shown),
+we were conﬁdent that pure oligonucleotides containing 2′-
+
+3126
+
+DOI: 10.1021/acs.joc.5b00040
+J. Org. Chem. 2015, 80, 3124−3138
+
+aReagents and conditions: (i) p-toluenesulfonyl chloride, pyridine, 16
+h, rt; (ii) DBU, CH3CN, reﬂux, 30 min; (iii) saturated NH3/MeOH,
+rt, overnight.
+reaction steps as described for 2′-deoxyisocytidine.13d,21 To this
+end, nucleoside 4 was tosylated with p-toluenesulfonyl chloride
+in pyridine. Diﬀerent to the reaction of 2′-deoxyuridine which
+yields the 5′-O-tosylated compound as major product,21
+tosylation of 2′-deoxy-2′-ﬂuorouridine (4) furnished a mixture
+of the 5′-O-tosylated compound 7 (30%) together with the 3′-
+O-derivative 6 (11%) and the 3′,5′-bis-O-tosylated nucleoside 5
+(26%). The reaction products were separated by ﬂash column
+chromatography and characterized by NMR spectra and ESI-
+TOF mass spectra. Modiﬁed reaction conditions did not lead to
+an improved yield of nucleoside 7. Next, the 5′-O-tosylated 7
+was treated with DBU (1,8-diazabicyclo[5.4.0]undec-7-ene) in
+dry CH3CN under
+for 30 min (TLC
+monitoring) aﬀording 8 in 46% yield. Finally, treatment of
+the 2,5′-anhydro nucleoside 8 with saturated NH3/MeOH at
+room temperature overnight furnished 2′-deoxy-2′-ﬂuoroisocy-
+tidine (1c) in 58% yield (Scheme 1;
+for details, see the
+Experimental Section).
+the 5′-O-tosylated nucleoside 7 was
+unsatisfactory, an alternative route was developed (Scheme
+2). To this end, the 3′- and 5′-sugar hydroxyl groups of
+nucleoside 4 were transiently protected.22 A DMT residue was
+
+As the yield for
+
+reﬂux conditions
+
+The Journal of Organic Chemistry
+
+Article
+
+suitable precursors for the synthesis of isoguanine nucleosi-
+des.13d,14a,24 The 2-amino group can be selectively deaminated
+via diazotization. Consequently, 2,6-diamino-2′-deoxy-2′-ﬂuo-
+ropurine nucleoside 16, whose chemical and enzymatic
+synthesis has been reported,25 was used as starting material
+for the preparation of 2′-deoxy-2′-ﬂuoroisoguanosine (3c).
+Deamination of 16 using NaNO2 in AcOH gave compound 3c
+in 79% yield (Scheme 4). As
+the compound is now
+Scheme 4. Synthesis of 2′-Deoxy-2′-ﬂuoroisoguanosine 3c
+
+Figure 2. Reversed-phase HPLC elution proﬁles of the crude reaction
+mixtures: (a) 2′-deoxy-2′-ﬂuoroisocytidine (1c) treated with con-
+centrated aqueous ammonia (55 °C for 16 h), (b) 1c treated with
+EtOH/concentrated aqueous NH3 (1:3) (room temperature, 16 h),
+(c) artiﬁcial mixture of nucleoside 1c, 14 and base 15. The HPLC
+proﬁles were monitored at 260 nm using gradient system III.
+deoxy-2′-ﬂuoroisocytidine are accessible when mild depro-
+tection conditions are chosen.
+Then, the structure of the side products was evaluated. To
+this end, the 2′-ﬂuoro nucleoside 1c was fully converted to the
+side products 14 and 15 at 55 °C in concentrated aqueous
+ammonia (preparative scale experiment) (Scheme 3). On the
+
+Scheme 3. Conversion of 1c to Compounds 14 and 15
+
+commercially available, we anticipate that similar conditions
+were chosen for its preparation. Nucleoside 3c is stable under
+moderate alkaline or acidic conditions and shows strong
+gelation properties in water. The same is observed for the 2′-
+ﬂuorinated 2,6-diaminopurine nucleoside 16 as well as for 2′-
+deoxyisoguanosine (3a). A detailed investigation of this matter
+will be described elsewhere.
+2. Building Block Synthesis. Having both 2′-ﬂuoro-
+modiﬁed nucleosides in hand, building blocks for solid-phase
+oligonucleotide synthesis were prepared. To this end, the 2-
+amino group of 2′-deoxy-2′-ﬂuoroisocytidine 1c was protected
+at the nucleobase with a (dimethylamino)methylidene residue
+to give 17 in 77% yield. 4,4′-Dimethoxytritylation of the 5′-OH
+group aﬀorded 18 (76%) and phosphitylation furnished 19
+(75%) (Scheme 5).
+
+Scheme 5. Synthesis of the Phosphoramidite Building Block
+19a
+
+basis of mass spectra and 1H and 13C NMR data, the structure
+of the faster migrating material was assigned to cyclonucleoside
+14 and the ﬂuorescent slower migrating compound to base 15
+(Figure 2c and Figure S2, Supporting Information).23 Cyclo-
+nucleoside formation as occurring on nucleoside 1c is possible
+because of the spatial proximity of the nucleobase amino group
+and the 2′-ﬂuorinated sugar carbon. This steric arrangement
+promotes the ﬂuoro substituent to leave the molecule under the
+anchimeric assistance of the amino group. Further degradation
+of the molecule to compound 15 has already been reported.23
+2′-Deoxy-2′-ﬂuoroisoguanosine (3c). It has been veriﬁed
+on several examples that 2,6-diaminopurine nucleosides are
+
+aReagents and conditions: (i) N,N-dimethylformamide dimethyl
+acetal, MeOH, 1 h, rt; (ii) DMT-Cl, pyridine, rt; (iii) NC(CH2)2OP-
+(Cl)N(i-Pr)2, DIPEA, DCM, 2 h, rt.
+
+3127
+
+DOI: 10.1021/acs.joc.5b00040
+J. Org. Chem. 2015, 80, 3124−3138
+
+The Journal of Organic Chemistry
+
+Next, 2′-deoxy-2′-ﬂuoroisoguanosine 3c was converted to
+the phosphoramidite 23. Diﬀerent to 2′-deoxyguanosine but
+similar to 2′-deoxyisoguanosine both, the amino group and the
+oxo group of
+the nucleobase have to be protected. All
+protecting groups should be removed under mild deprotection
+conditions. Consequently, the amino group of 2′-deoxy-2′-
+(3c) was protected with the
+ﬂuoroisoguanosine
+(dimethylamino)ethylidene residue (→ 20, 82%) and a N,N-
+diphenylcarbamoyl (DPC) residue was used to protect the 2-
+oxo group (→ 21, 71%). 4,4′-Dimethoxytritylation of the 5′-
+OH group aﬀorded 22 (74% yield) and phosphitylation gave
+23 (66% yield; Scheme 6).
+
+Scheme 6. Synthesis of the Phosphoramidite Building Block
+23a
+
+Article
+chemistry. Oligonucleotides containing 2′-deoxy-2′-ﬂuoro
+nucleosides were cleaved from the solid support using
+concentrated aqueous NH3/EtOH (3:1, v/v) and were
+deprotected in this solution for 48 h at room temperature
+(for details,
+see the Experimental Section). All other
+oligonucleotides were cleaved from CPG and ﬁnally depro-
+tected in concentrated aqueous NH3 at 55 °C for 16 h. The
+coupling yields of the modiﬁed building blocks were always
+higher than 95%. All synthesized oligonucleotides were puriﬁed
+by reversed-phase HPLC (RP-18), detritylated with 2.5%
+dichloroacetic acid in dichloromethane and again puriﬁed by
+HPLC. The contents of single peaks were isolated in all cases
+(Figure S3, Supporting Information). Subsequently,
+the
+molecular masses were determined by MALDI-TOF mass
+spectra. Table 1 displays all modiﬁed oligonucleotides used in
+this study together with the mass data.
+The purity of the 2′-ﬂuoro-modiﬁed oligonucleotides were
+further conﬁrmed by enzymatic tandem hydrolysis with snake
+venom phosphodiesterase and alkaline phosphatase in 0.1 M
+Tris-HCl buﬀer (pH 8.5) at 37 °C (for details, see the
+Experimental Section).
+the cleavage proﬁle of ODN 34 and ODN 38
+incorporating 1c or 3c (2′-ﬂuoro), see Figure 3. The mixtures
+
+For
+
+aReagents and conditions: (i) N,N-dimethylacetamide dimethyl acetal,
+MeOH, 2 h, rt; (iii) N,N-diphenylcarbamoyl (DPC) chloride, pyridine,
+60 min, rt; (iv) DMT-Cl, pyridine, 90 min, rt; (v) NC(CH2)2OP-
+(Cl)N(i-Pr)2, DIPEA, DCM, 2 h, rt.
+
+All synthesized compounds were characterized by 1H, 13C,
+and 19F NMR spectra as well as ESI-TOF spectra. DEPT-135
+and 1H−13C gated-decoupled NMR spectra were used to assign
+the 13C NMR signals (Table S1 and Table S2, Supporting
+Information). For details see the Experimental Section (for
+spectra, see the Supporting Information).
+
+3. Synthesis and Characterization of Oligonucleo-
+tides. It has been reported that the synthesis of oligonucleo-
+tides (ODNs) containing 2′-ﬂuoro substituents is encountered
+with diﬃculties.26 The problem results mainly from the
+instability of 2′-deoxy-2′-ﬂuoropyrimidine nucleosides. In our
+study, it was necessary to apply conditions for oligonucleotide
+synthesis, deprotection, and workup under which all six 2′-
+deoxy-2′-ﬂuoronucleoside residues are stable.
+
+Oligonucleotides were prepared on the solid phase using the
+phosphoramidites 19 and 23 together with the phosphor-
+amidites of nucleosides 2a and 3a (Figure S1, Supporting
+Information) as well as the standard phosphoramidites and
+applying the standard protocol for solid-phase oligonucleotide
+
+Figure 3. HPLC proﬁles of the enzymatic hydrolysis products of (a)
+ODN 34 and (b) ODN 38. (c) Artiﬁcial mixture of puriﬁed
+nucleosides 2′-deoxy-2′-ﬂuoroisocytidine (1c) and 2′-deoxy-2′-ﬂuo-
+roisoguanosine (3c), monitored at 260 nm using gradient system III.
+
+obtained from the digest were analyzed by reversed-phase
+HPLC (RP-18, at 260 nm), showing the peaks for the canonical
+nucleosides and the 2′-ﬂuoro nucleosides 1c and 3c (Figure 3,
+Figures S4 and S5, Supporting Information). In contrast to the
+ﬁndings made on the monomeric 2′-deoxy-2′-ﬂuoroisocytidine
+nucleoside, a conversion to the side products 14 and 15 was
+not substantial or not observed for oligonucleotides containing
+
+3128
+
+DOI: 10.1021/acs.joc.5b00040
+J. Org. Chem. 2015, 80, 3124−3138
+
+The Journal of Organic Chemistry
+
+Article
+
+Table 2. T
+
+m Values of Fluorinated and Nonﬂuorinated 12-mer Duplexes with Antiparallel Chain Orientationa
+
+aMeasured at 260 nm in 0.1 M NaCl, 10 mM MgCl2, 10 mM Na-cacodylate (pH 7.0) with 5 μM + 5 μM single strand concentration. bTm values
+were determined from the melting curves by using the software MELTWIN 3.0. cΔTm was calculated as Tm
+unmodified duplex (24·25). For
+nucleoside structures see Table 1.
+
+modified duplex − Tm
+
+Table 3. T
+
+m Values of Fluorinated and Nonﬂuorinated 12-mer Duplexes with Parallel Chain Orientationa
+
+aMeasured at 260 nm in 0.1 M NaCl, 10 mM MgCl2, 10 mM Na-cacodylate (pH 7.0) with 5 μM + 5 μM single-strand concentration. bTm values
+were determined from the melting curves by using the software MELTWIN 3.0. cΔTm was calculated as Tm
+unmodified duplex (24·41). dFor
+nucleoside modiﬁcations see Table 1.
+
+modified duplex − Tm
+
+1c when mild deprotection conditions (EtOH/concentrated
+aqueous NH3, 1:3, 48 h) were used (for heating condition see
+Figure S6, Supporting Information). This ﬁnding was
+conﬁrmed by MALDI-TOF mass spectra and HPLC proﬁles
+from the enzymatic digestion of ODNs 34 and 38 showing the
+intact isonucleosides 1c and 3c together with the canonical
+nucleosides without side product formation (Figure 3a,b). An
+
+HPLC proﬁle of the artiﬁcial mixture of 1c and 3c is shown for
+comparison (Figure 3c).
+4. Eﬀect of 2′-Fluoro Substitution on the Stability of
+Duplexes with Parallel and Antiparallel Strand Orienta-
+tion. Functionalization of regular oligonucleotides with 2′-
+ﬂuoro substituents increases the binding aﬃnity to comple-
+mentary DNA and even more to RNA when both duplex
+
+3129
+
+DOI: 10.1021/acs.joc.5b00040
+J. Org. Chem. 2015, 80, 3124−3138
+
+The Journal of Organic Chemistry
+
+Article
+
+strands are in antiparallel orientation.6b,9c As nothing is known
+on the ﬂuoro eﬀect on ps DNA, a series of 12-mer
+oligonucleotides containing 2′-deoxy-2′-ﬂuoroisocytidine (1c)
+and 2′-deoxy-2′-ﬂuoroisoguanosine (3c) as well as
+their
+nonﬂuorinated counterparts 2a and 3a as a comparison were
+studied. For duplexes with parallel strands, the duplex 5′-
+d(TAGGTCAATACT) (24)·5′-d(ATMeiCMeiCAiGTTATiGA)
+(41) was selected as reference duplex and for comparison aps
+( 2 4 ) · 3 ′ - d -
+d u p l e x
+(ATCCAGTTATGA) (25) was chosen (Table 2 and 3).
+These duplexes were partially modiﬁed with 1c, 3c, 2a, or 3a or
+were fully ﬂuorinated using the ﬂuorinated canonical nucleo-
+sides FUd, FGd, FCd, and FAd (for structures, see Table 1).
+Hybridization experiments were performed with single-
+stranded DNA, RNA, and 2′-F-RNA.
+
+5 ′ - d ( T A G G T C A A T A C T )
+
+it
+
+for
+
+Due to the low hydrolytic stability of iCd, the oligonucleotide
+41 and related oligomers used for the construction of ps DNA
+contain always MeiCd (Table 3).1c,e For the ﬂuorinated iCd (1c)
+a structural stabilization by the 5-methyl group was not
+necessary as the ﬂuorinated compound is more stable than the
+nonﬂuorinated counterpart. Moreover,
+is known that
+pyrimidine 5-methyl groups stabilize the DNA duplex structure
+depending on the content and positioning in duplex DNA. This
+matter has already been investigated on parallel and antiparallel
+DNA.1c,e,27,28 To demonstrate this eﬀect
+the 12-mer
+duplexes used in this study, duplex 5′-d(UAGGUCAAUACU)
+(24-dU)·3′-d(AUCCAGUUAUGA) (25-dU) was prepared
+(replacing dT by dU),1c Tm values were determined and
+compared to those obtained for duplex 24·25 containing dT.
+The diﬀerence in the Tm values between duplex 24·25
+(containing dT) and 24-dU·25-dU (containing dU) amounts
+to only 2 °C (see Table S3, Supporting Information). The
+eﬀect is even smaller when one strand was ﬂuorinated (ΔTm =
++1 °C; 28·25 vs 28·25-dU).
+
+Duplexes with Antiparallel Chain Orientation. In a ﬁrst
+series of experiments, duplex stability was studied on helices
+with antiparallel chain orientation containing canonical
+nucleobases (Table 2; for thermodynamic data, see Table S4,
+Supporting Information).
+In the context of antisense
+therapeutics, the upper strands can be considered as antisense
+oligonucleotides and the lower ones as RNA or DNA target.
+The data displayed in Table 2 show that the most stable duplex
+is the fully 2′-ﬂuorinated duplex 28·29 with aps orientation (Tm
+= 82 °C) (for melting curves see Figure S7, Supporting
+Information). Its Tm is signiﬁcantly higher than that of the
+corresponding RNA duplex 30·26 (Tm = 61 °C). 2′-
+Fluorination of one strand of duplex DNA (24·25 vs 28·25)
+causes a Tm increase of 12 °C, while for the DNA−RNA hybrid
+28·26 a Tm increase of 22 °C was observed. The changes
+observed for these 12-mer duplexes are in line with previous
+reports made on other ﬂuorinated oligonucleotides.6b,9a
+Hydrophobic properties of the ﬂuorine residue which aﬀect
+hydration by changing the water spine in the helix groove also
+have to be considered.29
+
+It is accepted that the Tm increase induced by the ﬂuorine
+substituents results from conformational changes of the DNA
+B-form to the A-form. Both forms show signiﬁcantly diﬀerent
+CD spectra. Exemplarily, CD spectra were determined for
+selected ﬂuorinated and nonﬂuorinated 12-mer duplex DNA,
+duplex RNA, and DNA−RNA hybrids (see Table 2 and Figure
+4, Figure S8 Supporting Information). According to Figure 4,
+RNA duplex 30·26, ﬂuorinated DNA-RNA hybrid 28·26 as well
+as duplex DNA 28·29 with both strands ﬂuorinated are in the A
+
+Figure 4. CD spectra of ﬂuorinated and nonﬂuorinated oligonucleo-
+tide duplexes measured in 0.1 M NaCl, 10 mM MgCl2, and 10 mM
+Na-cacodylate (pH 7.0) with a single-strand concentration of 5 μM +
+5 μM.
+
+Comparison of
+
+form. The DNA−DNA duplex 28·25 with one strand
+ﬂuorinated adopts an intermediate conformation while the
+reference DNA−DNA duplex 24·25 is in the B form.
+the stability of duplex 24·25 containing
+entirely canonical base pairs (dA−dT and dG−dC) with that of
+−MeiCd pairs shows an additional
+duplex 31·32 comprising iGd
+stabilization by the “iso-pairs” (ΔTm = 6 °C) as this base pair is
+more stable than the dG−dC pair (Table 2, lower part). DNA−
+DNA duplexes or DNA−RNA hybrids show almost the same
+duplex stability in this sequence motif. The new base pair 1c·3c
+−MeiCd pair (31·32
+can be considered to be as stable as the iGd
+vs 33·34, Table 2, lower part, Figure 5). However, a further
+signiﬁcant Tm increase by the 2′-ﬂuoro modiﬁcation was not
+observed in this sequence context.
+
+Figure 5. Base-pair motifs of DNA with parallel and antiparallel chain
+orientation.
+
+Duplexes with Parallel Chain Orientation. Ps DNA
+represents an autonomous nucleic acid structure and was
+realized by changing the Watson−Crick motif to the reverse
+mode (dA-dT base pair) and/or by replacing dG by 2′-
+−dC base pair or by
+deoxyisoguanosine (iGd) resulting in a iGd
+
+3130
+
+DOI: 10.1021/acs.joc.5b00040
+J. Org. Chem. 2015, 80, 3124−3138
+
+The Journal of Organic Chemistry
+substituting dC by 2′-deoxy-5-methylisocytidine (MeiCd) in the
+dC−dG pair (Figure 5).3,13,14,30
+
+As mentioned above, nucleoside shape mimics with a
+pyrrolo[2,3-d]pyrimidine or a pyrazolo[3,4-d]pyrimidine skel-
+eton replacing the nucleobases of dA or dT and iGd or iCd have
+been shown to be well accommodated in ps DNA and add
+additional stability to the parallel helix structure.4 However, it
+remains to be shown if modiﬁcations in the sugar moiety are
+accepted by ps DNA. In this context, only the inﬂuence of a 2′-
+methoxy group on ps DNA stability was reported.31 As
+discussed above, the 2′-ﬂuoro (down) substituent has a positive
+inﬂuence on the stability of 12-mer duplexes with antiparallel
+chain orientation, and a similar behavior was anticipated for ps
+DNA. Consequently, a series of duplexes with parallel chain
+orientation was constructed, and the stability was studied by
+thermal denaturation experiments.
+To this end, the inﬂuence of the 2′-ﬂuoro substituent on the
+the
+
+sugar puckering (N vs S conformation, Figure 6) of
+
+Figure 6. N and S conformation for ﬂuoronucleosides. B corresponds
+to nucleobase. ax: axial; eq: equatorial.
+
+monomeric “isonucleosides” 2′-deoxy-2′-ﬂuoroisoguanosine
+(3c) and 2′-deoxy-2′-ﬂuoroisocytidine (1c) was investigated.
+As the stability data of 2′-ﬂuorinated duplexes will be compared
+with those of oligoribonucleotide and oligodeoxyribonucleotide
+duplexes,
+the conformational analysis was extended to a
+number of ﬂuorinated and nonﬂuorinated nucleosides with
+canonical bases.32
+
+Article
+
+The conformation study was performed using the program
+PSEUROT (version 6.3).33 The input used the following
+coupling constants: 3J(H1′, H2′), 3J(H2′, H3′), 3J(H3′, H4′),
+3J(H1′, F), and 3J(H3′, F). The coupling constants were taken
+from well-resolved 1H NMR spectra measured in D2O or
+DMSO-d6. Figure 7 summarizes not only the data of the
+isonucleosides but also those of the corresponding canonical
+DNA and RNA constituents and their 2′-ﬂuorinated derivatives.
+From Figure 7 it is apparent that the pentofuranose moiety of
+all ﬂuoronucleosides prefers the N-conformation. The degree of
+the N population is higher for the ﬂuorinated pyrimidine
+nucleosides than for those with a purine skeleton. This is valid
+for the nucleosides with canonical nucleobases as well as for
+isonucleosides. On the contrary, purine and pyrimidine ribo-
+and 2′-deoxyribonucleosides prefer the S-type sugar pucker as
+long as they are not constituents of a nucleic acid. A
+comparison of 2′-deoxy-2′-ﬂuoroisoguanosine (3c), isoguano-
+sine (3b), and 2′-deoxyisoguanosine (3a) shows that the 2′-
+ﬂuoro substituent
+the N-conformer population
+signiﬁcantly, which is the conformation of the sugar moiety
+in RNA.34 The same is valid for the 2′-ﬂuorinated isocytidine
+1c. However, the conformational parameters determined for
+nucleosides are not necessarily the same as those found in
+oligonucleotide duplexes.
+
+increases
+
+Next, the stability of ﬂuorinated and nonﬂuorinated duplexes
+with parallel strand orientation was studied. At ﬁrst, non-
+ﬂuorinated duplexes were measured (Table 3,
+left row). As
+expected from previous observations by our laboratory, the Tm
+values of ps 12-mer duplexes are about 15 °C lower than those
+−dG base
+with aps orientation.1c The iGd
+pairs both stabilize the duplex structure compared to duplexes
+containing only dA−dT base pairs. Surprisingly, the complete
+ﬂuorination of one strand did not increase the duplex stability
+over that of the nonﬂuorinated counterpart. Only a small
+positive eﬀect was found for duplex 28·41, while another
+duplex (39·42) was slightly less stable (for melting curves see
+
+−dC and the MeiCd
+
+Figure 7. Conformer population of ribonucleosides, 2′-deoxyribonucleosides, and 2′-deoxyribo-2′-ﬂuoronucleosides determined in D2O or b
+DMSO-d6. The conformational analysis of the sugar moiety in solution was performed using the program PSEUROT (version 6.3).33 The input used
+the following coupling constants: 3J(H1′, H2′), 3J(H2′, H3′), 3J(H3′, H4′), 3J(H1′, F), 3J(H3′, F).
+
+3131
+
+DOI: 10.1021/acs.joc.5b00040
+J. Org. Chem. 2015, 80, 3124−3138
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 8. Stability of 12-mer duplexes with parallel and antiparallel chain orientation. (a) Tm data taken from Tables 2 and 3. (b) According to
+hybridization of oligonucleotides 46 and 47.
+
+Figure S9, Supporting Information). This result was unexpected
+as aps DNA shows a strong duplex stabilizing response to 2′-
+ﬂuorination. More surprisingly, ﬂuorinated oligonucleotides
+could not be hybridized with complementary RNA under
+parallel chain orientation. A Tm value was not detectable for
+duplexes 43·38, 39·44, and 39·45 (Table 3, right row). Taken
+together, ﬂuorinated oligonucleotides are able to form ps
+duplexes of signiﬁcant stability with complementary non-
+ﬂuorinated DNA (for thermodynamic data, see Table S5,
+Supporting Information); ps hybrids of ﬂuorinated DNA
+strands and RNA strands are unstable.
+We anticipate that the unexpected behavior upon 2′-ﬂuoro
+functionalization is a special feature of parallel DNA. According
+to NMR measurements and modeling studies, parallel DNA
+forms a unique structure with a number of properties similar to
+aps DNA, while others are diﬀerent.35 The orientation of the
+nucleobases in ps DNA is anti, and the sugar conformation is in
+the S-domain similar to aps DNA. The helix is right handed
+with a diameter of about 20 nm, which is almost the same for ps
+and aps DNA. The reduced stability results from weaker
+stacking interactions and the weaker hydrogen bonding of the
+dA−dT Donohue base pair. The helical parameters of ps and
+aps DNA are diﬀerent,
+leading to two grooves with almost
+identical width (8−9 Å) for ps DNA compared to 6 and 12 Å
+width in aps DNA. The interstrand C1′−C1′ distance in ps
+DNA is ∼11.4 Å, which is almost 2 Å larger than in aps DNA.35
+According to our ﬁndings, we propose that parallel DNA is
+less ﬂexible than canonical DNA, which exists in various
+structures (A and B form). Consequently, ps DNA reacts
+sensitively to sugar backbone changes. 2′-Fluoro “down”
+nucleosides which favor the N-conformation might add too
+much strain to the helix and drive the nucleobases in an
+unfavorable pairing position.31 Factors like steric clashes by the
+2′-ﬂuoro substituents also have to be considered. This leads to
+the question if RNA with the sugar
+residues in the N
+conformation is able to form stable duplexes with parallel
+strand alignment. Toward this end, we tried to construct a
+parallel-stranded 25-mer RNA−RNA duplex by hybridizing the
+complementary RNA single strands 5′-(AAAAAAAAAAUAA-
+UUUUAAAUAUUUU) (46) and 5′-(UUUUUUUUUUA-
+UUAAAAUUUAUAAAA) (47). Both strands do not contain
+iGd and MeiCd residues, and the strand orientation is solely
+controlled by the sequence, a methodology which was already
+applied to 25-mer duplex DNA.27 In agreement with our
+
+observations made on 2′-ﬂuoro-2′-deoxyribonucleosides, it was
+not possible to generate a parallel RNA duplex (no Tm), while
+the corresponding antiparallel duplex showed a Tm value of 52
+°C.
+strand
+orientation is limited to duplex DNA and DNA−RNA hybrids,
+while two ﬂuorinated DNA strands do not hybridize under
+parallel strand alignment.
+
+that DNA with parallel
+
+This ﬁnding conﬁrms
+
+■ CONCLUSION AND OUTLOOK
+A diversity of complementary oligonucleotides with ﬂuorine
+substitution at the 2′-position of 2′-deoxyisoguanosine and 2′-
+deoxyisocytidine and at
+the canonical DNA residues was
+synthesized. To this end, syntheses for 2′-deoxy-2′-ﬂuoroiso-
+cytidine (1c) and 2′-deoxy-2′-ﬂuoroisoguanosine (3c) were
+developed. 2′-Deoxy-2′-ﬂuoroisonucleosides 1c and 3c were
+converted to building blocks (phosphoramidites) for solid-
+phase oligonucleotide synthesis. Unexpectedly, 2′-deoxy-2′-
+ﬂuoroisocytidine is not
+stable in concentrated aqueous
+ammonia at 55 °C (16 h treatment) and was converted to
+the cyclonucleoside 14. Side product formation of nucleoside
+1c was minimized, and not observed during oligonucleotide
+deprotection with an aqueous ammonia−EtOH mixture (3:1,
+v/v) at room temperature.
+As anticipated, 2′-ﬂuorine substituents lead to a signiﬁcant
+increased stability in antiparallel duplexes depending on the
+·FiCd
+number of ﬂuorine modiﬁcations. The ﬂuorinated FiGd
+(3c·1c) base pair is as stable as its nonﬂuorinated counterpart
+and more stable than the dG−dC pair. The situation changes
+for ﬂuorinated duplexes with parallel chain orientation.
+Although ﬂuorinated DNA single strands form stable ps
+duplexes with nonﬂuorinated DNA, they are less stable than
+their antiparallel counterparts (Figure 8). Furthermore, the
+ﬂuorine functionalization does not add additional stability to
+the DNA duplex structure. Apparently, ﬂuoro nucleoside
+residues which prefer
+the N-conformation have diﬃculty
+adopting the required sugar conformation in parallel DNA,
+which appears to be closer to S than to N.
+
+Consequently, hybridization of single-stranded ﬂuorinated
+oligonucleotides with complementary RNA strands did not
+result in duplex formation. This is also valid for 25-mer RNA
+strands which did not hybridize with parallel chain alignment.
+These ﬁndings might shed more light on the question why
+evolution has used the principle of antiparallel chain
+
+3132
+
+DOI: 10.1021/acs.joc.5b00040
+J. Org. Chem. 2015, 80, 3124−3138
+
+Article
+
+CO
+NCH
+
+CH3
+NCH3
+
+OCH3
+
+qC
+
+C(4′)
+87.4
+84.1
+
+C(5′)
+60.7
+59.5
+
+The Journal of Organic Chemistry
+Table 4. 13C NMR Data for Isocytosine Nucleosidesa,b
+
+C(2)b
+154.2
+154.3
+
+154.0
+150.3
+
+C(4)b
+169.7
+169.5
+
+170.3
+163.2
+
+C(5)b
+106.7
+107.2
+
+114.2
+101.6
+
+C(6)b
+138.1
+138.2
+
+133.9
+140.4
+
+150.1
+
+163.7
+
+101.9
+
+143.6
+
+150.3
+
+163.2
+
+102.0
+
+141.9
+
+150.1
+
+163.2
+
+101.9
+
+141.5
+
+156.8
+
+170.4
+
+108.8
+
+142.8
+
+150.1
+
+163.2
+
+101.4
+
+140.9
+
+150.1
+
+163.3
+
+101.8
+
+142.4
+
+150.3
+
+163.1
+
+102.1
+
+141.2
+
+150.5
+
+163.7
+
+102.4
+
+143.4
+
+156.8
+
+170.4
+
+109.1
+
+143.1
+
+156.9
+156.8
+
+136.8
+169.9
+
+106.0
+107.6
+
+171.0
+137.2
+
+157.0
+
+170.0
+
+107.8
+
+137.2
+
+1ae
+1c
+
+2ad
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+17
+
+18
+
+C(1′)
+(2J F,C)
+87.6
+89.1
+(34.9)
+88.0
+87.2
+(34.2)
+91.8
+(37.4)
+89.0
+(35.1)
+89.4
+(36.2)
+95.9
+(40.1)
+88.6
+(35.9)
+90.6
+(36.3)
+88.1
+(34.5)
+91.8
+(37.2)
+95.6
+(40.0)
+91.0
+88.1
+(33.9)
+88.9
+(34.6)
+
+C(2′)
+(1J F,C)
+
+c
+
+92.3
+(188)
+
+c
+
+93.6
+(185)
+90.4
+(187)
+90.3
+(190)
+92.6
+(185)
+95.1
+(192)
+93.5
+(184)
+91.0
+(186)
+90.8
+(189)
+91.1
+(187)
+93.7
+(195)
+65.6
+94.2
+(186)
+94.4
+(186)
+
+C(3′)
+(2J F,C)
+69.8
+67.5
+(15.7)
+69.8
+67.4
+(16.2)
+73.6
+(15.2)
+74.7
+(14.6)
+68.0
+(16.6)
+71.2
+(15.5)
+67.9
+(16.6)
+69.8
+(15.0)
+69.7
+(14.4)
+69.9
+(15.0)
+73.1
+(13.8)
+75.9
+66.6
+(16.3)
+67.5
+(16.7)
+
+86.7
+83.2
+
+76.7
+
+80.9
+
+79.4
+
+87.4
+
+81.0
+
+79.2
+
+81.5
+
+78.1
+
+84.5
+
+89.3
+82.7
+
+80.9
+
+60.7
+59.3
+
+67.3
+
+59.3
+
+69.3
+
+74.2
+
+62.0
+
+62.2
+
+60.0
+
+69.4
+
+74.1
+
+61.4
+58.6
+
+61.2
+
+13.5
+
+21.2
+21.3
+21.2
+
+21.1
+
+20.2
+
+20.4
+
+20.7
+21.5
+20.2
+
+34.6
+40.6
+34.9
+40.9
+
+55.0
+85.8
+55.0
+85.9
+
+55.1
+85.9
+
+169.5
+
+169.6
+
+169.9
+
+169.6
+
+157.8
+
+158.0
+
+CMe
+
+CO
+CHN
+
+18.8
+
+17.4
+
+17.2
+
+164.1
+
+160.8,
+162.6
+160.8,
+162.5
+
+C(4)b
+151.7
+
+C(5)b
+109.0
+
+C(6)b
+154.5c
+
+C(8)b
+137.4
+
+C(2)b
+155.5c
+
+aMeasured in DMSO-d6 at 298 K. bPyrimidine numbering. cSuperimposed by DMSO-d6. dReference 1b. eReference 1c.
+Table 5. 13C NMR Data for Purine-2,6-diamine and Isoguanine Nucleosidesa,b
+C(3′)
+(2JF,C)
+68.1
+(15.7)
+70.9
+71.1
+68.4
+68.4
+(15.6)
+68.3
+(15.9)
+68.8
+(16.4)
+
+C(1′)
+(2JF,C)
+85.1
+(32.4)
+87.8
+83.7
+85.0
+85.2
+(32.5)
+85.6
+(33.0)
+85.9
+(34.0)
+
+93.3
+92.8
+(187)
+93.4
+(187)
+93.2
+(185)
+
+155.9
+154.1
+160.3
+156.4c
+
+C(2′)
+(1JF,C)
+92.7
+(187)
+73.0
+
+d
+
+152.2
+156.7
+156.3
+156.7c
+
+138.4
+137.5
+135.5
+139.7
+
+109.8
+109.3
+113.3
+113.0
+
+3be
+3af,g
+16
+20
+
+61.7
+62.1
+60.5
+60.5
+
+d
+
+152.5
+151.2
+153.7
+
+123.9
+
+155.6
+
+140.9
+
+123.8
+
+155.7
+
+140.9
+
+151.5c
+
+151.3c
+
+151.4c
+
+151.3c
+
+C(4′)
+84.1
+
+C(5′)
+60.3
+
+85.6
+88.1
+83.9
+84.3
+
+3c
+
+21
+
+22
+
+84.1
+
+60.3
+
+81.5
+
+62.9
+
+NMe2
+
+d
+
+38.1
+37.8
+38.3
+37.8
+38.4
+
+aMeasured in DMSO-d6 at 298 K. bPurine numbering. cTentative. dNot detected. eReference 14d. fReference 14c. gMeasured in DMSO-d6/0.4 M
+aq NH4OAc.
+
+orientation. We are currently investigating this matter in more
+depth.
+
+■ EXPERIMENTAL SECTION
+
+General Methods and Materials. All chemicals and solvents
+were of laboratory grade as obtained from commercial suppliers and
+were used without further puriﬁcation. Thin-layer chromatography
+(TLC) was performed on TLC aluminum sheets covered with silica
+gel 60 F254 (0.2 mm). Flash column chromatography (FC): silica gel
+60 (40−60 μM, for ﬂash chromatography) at 0.4 bar. UV spectra: λ
+max
+(ε) in nm, ε in dm3 mol−1 cm−1. NMR spectra were measured at
+300.15 MHz for 1H, 75.48 MHz for 13C, 121.52 MHz for 31P, and
+
+282.4 MHz for 19F. The J values are given in hertz; δ values are given
+in ppm relative to Me4Si as internal standard. For NMR spectra
+recorded in DMSO-d6, the chemical shift of the solvent peak was set to
+2.50 ppm for 1H NMR and 39.50 ppm for 13C NMR. The 13C NMR
+signals were assigned on the basis of DEPT-135 and 1H−13C gated-
+decoupled NMR spectra (Tables 4 and 5; for coupling constants see
+Tables S1and S2 in the Supporting Information). Reversed-phase
+HPLC was carried out on a 4 × 250 mm RP-18 (10 μM) LiChrospher
+100 column with a HPLC pump connected with a variable wavelength
+monitor, a controller, and an integrator. ESI-TOF mass spectra of
+nucleosides were recorded on a Micro-TOF spectrometer. Molecular
+masses of oligonucleotides were determined by MALDI-TOF mass
+
+3133
+
+DOI: 10.1021/acs.joc.5b00040
+J. Org. Chem. 2015, 80, 3124−3138
+
+The Journal of Organic Chemistry
+
+Article
+
+spectrometry in the linear positive mode with 3-hydroxypicolinic acid
+(3-HPA) as a matrix (Table 1). The melting temperature curves were
+measured with a UV−vis spectrophotometer equipped with a Cary
+thermoelectrical controller. The temperature was measured continu-
+ously in the reference cell with a Pt-100 resistor with a heating rate of
+1 °C min−1. Tm values were determined from the melting curves using
+the software MELTWIN, version 3.0.36
+
+(m, 2H, arom. H), 11.46 (s, 1H, NH). 19F NMR (DMSO-d6, 282.4
+MHz): δ −193.851. ESI-TOF: m/z calcd for C23H23FN2O9S2 [M +
+Na]+ 577.0721, found 577.0736.
+1-[2-Deoxy-2- ﬂuoro-3-O-(p-tolue nesulfonyl)-β- D-
+ribofuranosyl]uracil (6). From the second zone, compound 6 was
+isolated as colorless foam (0.590 g, 11%). TLC (silica gel, CH2Cl2/
+max (MeOH)/nm 226 (ε/dm3 mol−1 cm−1
+MeOH, 95:5): Rf 0.50. λ
+14400), 257 (9900). 1H NMR (DMSO-d6, 300 MHz): δ 2.42 (s, 3H,
+CH3), 3.33 (m, superimposed by DMSO, 1H, H-5′), 3.50−3.54 (m,
+1H, H-5′), 4.04 (m, 1H, H-4′), 5.05−5.14 (m, 2H, H-3′, HO-5′), 5.31
+(dd, J = 2.4 Hz, J = 52.2 Hz, 1H, H-2′), 5.64 (d, J = 8.1 Hz, 1H, H-5),
+5.84 (dd, J = 1.8 Hz, J = 18.3, 1H, H-1′), 7.48−7.51 (m, 2H, arom. H),
+7.76 (d, J = 8.1 Hz, 1H, H-6), 7.83−7.85 (m, 2H, arom. H), 11.44 (bs,
+1H, NH). 19F NMR (DMSO-d6, 282.4 MHz): δ −198.862. ESI-TOF:
+m/z calcd for C16H17FN2O7S [M + Na]+ 423.0633, found 423.0619.
+1-[2-Deoxy-2- ﬂuoro-5-O-(p-tolue nesulfonyl)-β- D-
+ribofuranosyl]uracil
+(7). From the slowest migrating zone,
+compound 7 was isolated as colorless foam (1.55 g, 30%). TLC
+(silica gel, CH2Cl2/MeOH, 95:5): Rf 0.45. λ
+max (MeOH)/nm 224 (ε/
+dm3 mol−1 cm−1 14800), 260 (9900). 1H NMR (DMSO-d6, 300
+MHz): δ 2.39 (s, 3H, CH3), 3.92−3.96 (m, 1H, H-5′), 4.18−4.24 (m,
+2H, H-4′, H-5′), 4.30−4.34 (m, 1H, H-3′), 5.10 (dd, J = 4.8 Hz, J =
+53.1 Hz, 1H, H-2′), 5.57 (dd, J = 4.8 Hz, J = 8.1 Hz, 1H, H-5), 5.74−
+5.81 (m, 2H, H-1′, HO-3′), 7.43−7.48 (m, 3H, H-6, arom. H), 7.76−
+7.79 (m, 2H, arom. H), 11.42 (bs, 1H, NH). 19F NMR (DMSO-d6,
+282.4 MHz): δ −199.750. ESI-TOF: m/z calcd for C16H17FN2O7S [M
++ Na]+ 423.0633, found 423.0630.
+2,5′-Anhydro-2′-deoxy-2′-ﬂuorouridine (8). Method A (from
+Compound 7). Compound 7 (0.320 g, 0.79 mmol) was dissolved in
+dry CH3CN. Then DBU (1,8-diazabicyclo[5.4.0]undec-7-en, 120 μL,
+0.122 g, 0.8 mmol) was added, and the reaction mixture was heated
+under reﬂux for 45 min. The solvent was evaporated, and the
+remaining residue was subjected to FC (silica gel, column 15 × 4 cm,
+CH2Cl2/MeOH, 90:10). Evaporation of
+the main zone aﬀorded
+compound 8 as colorless solid (0.083 g, 46%). TLC (silica gel,
+CH2Cl2/MeOH, 90:10): Rf 0.40. λ
+max (MeOH)/nm 237 (ε/dm3
+mol−1 cm−1 12000). 1H NMR (DMSO-d6, 300 MHz): δ 4.10 (d, J
+= 12.3, 1H, H-4′), 4.48−4.52 (m, 3H, H-3′, OCH2), 5.48 (dd, J = 3.3,
+J = 51.3, 1H, H-2′), 5.63 (s, 1H, H-5), 5.94 (d, J = 6.6 Hz, 1H, HO-
+3′), 6.02 (d, J = 18.0 Hz, 1H, H-1′), 7.99 (d, J = 6.3 Hz, 1H, H-6). 19F
+NMR (DMSO-d6, 282.4 MHz): δ −196.663. ESI-TOF: m/z calcd for
+C9H9FN2O4 [M + Na]+ 251.0439, found 251.0437.
+Method B (from Compound 13). Compound 13 (0.390 g, 1.43
+mmol) was suspended in MeOH (10 mL), K2CO3 (0.020 g, 0.15
+mmol) was added, and the reaction mixture was stirred for 20 min.
+The solvent was evaporated, and the remaining residue was applied to
+FC (silica gel, column 15 × 4 cm, CH2Cl2/MeOH, 95:5). Compound
+8 was obtained as colorless solid (0.281 g, 86%). Analytical data were
+identical to the data described for method A.
+1-[3-O-Acetyl-2-deoxy-2-ﬂuoro-5-O-(4,4′-dimethoxytrityl)-β-
+D-ribofuranosyl] uracil (10). Compound 99a (5.4 g, 9.84 mmol) was
+dissolved in dry pyridine, acetic anhydride (3.24 g, 3.0 mL, 31.7 mmol)
+was added, and the solution was stirred for 30 min. The solvent was
+evaporated, and the remaining oily residue was coevaporated with
+toluene (3 × 10 mL) and MeOH (3 × 10 mL) to aﬀord 10 as a
+yellowish foam in quantitative yield. The compound was directly used
+for the next step. An analytical sample of the compound was puriﬁed
+by FC (silica gel, column 15 × 4 cm, CH2Cl2/acetone, 4:1). TLC
+(silica gel, CH2Cl2/acetone, 4:1): Rf 0.60. λ
+max (MeOH)/nm 235 (ε/
+dm3 mol−1 cm−1 22600), 260sh (11000). 1H NMR (DMSO-d6, 300
+MHz): δ 2.07 (s, 3H, CH3), 3.29−3.30 (m, 2H, 2 × H-5′), 3.73 (s, 6H,
+OCH3), 4.17−4.22 (m, 1H, H-4′), 5.26−5.37 (m, 1H, H-3′), 5.53 (d, J
+= 7.8 Hz, 1H, H-5), 5.54 (dd, J = 5.4 Hz, J = 52.8 Hz, 1H, H-2′), 5.88
+(d, J = 22.2 Hz, 1H, H-1′), 6.86−6.90 (m, 4H, arom. H), 7.23−7.38
+(m, 9H, arom. H), 7.79 (d, J = 8.1 Hz, 1H, H-6), 11.50 (bs, 1H, NH).
+19F NMR (DMSO-d6, 282.4 MHz): δ −197.685. ESI-TOF: m/z calcd
+for C32H31FN2O8 [M + Na]+ 613.1957, found 613.1952.
+1-[3-O-Acetyl-2-deoxy-2-ﬂuoro-β-D-ribofuranosyl]uracil (11).
+Crude compound 10 (5.8 g, 9.84 mmol) was dissolved in glacial acetic
+acid/MeOH (4:1, 50 mL, v/v), and the mixture was stirred for 12 h at
+
+3134
+
+DOI: 10.1021/acs.joc.5b00040
+J. Org. Chem. 2015, 80, 3124−3138
+
+the support
+
+Synthesis, Puriﬁcation, and Characterization of Oligonu-
+cleotides. The oligonucleotides were synthesized on an automated
+DNA synthesizer on a 1 μmol scale employing standard phosphor-
+amidites as well as the phosphoramidites 1c and 3c. After cleavage
+from the solid support, the oligonucleotides were deprotected in
+concentrated aqueous ammonia solution for 16 h at 55 °C.
+Oligonucleotides containing 2′-deoxy-2′-ﬂuoro nucleosides were
+cleaved from the solid support by storage of
+in
+concentrated aqueous NH3/EtOH (3:1, v/v) for 1 h. The supernatant
+was separated from the CPG and kept in concentrated aqueous NH3/
+EtOH (3:1, v/v) for 48 h at room temperature. The puriﬁcation of the
+“trityl-on” oligonucleotides was carried out on reversed-phase HPLC
+using the following gradient system at 260 nm: (A) MeCN; (B) 0.1 M
+(Et3NH)OAc (pH 7.0):MeCN, 95:5; gradient I: 0−3 min 10−15% A
+in B, 3−15 min 15−50% A in B, ﬂow rate 0.8 mL/min. The puriﬁed
+“trityl-on” oligonucleotides were treated with 2.5% CHCl2COOH/
+CH2Cl2 for 2 min at 0 °C to remove the 4,4′-dimethoxytrityl residues.
+The detritylated oligomers were puriﬁed again by reversed-phase
+HPLC (column 4 × 250 mm) with gradient II: 0−20 min 0−20% A in
+B, 20−25 min, 20% A in B, ﬂow rate 0.8 mL/min. The
+oligonucleotides were desalted on RP-18 (column 4 × 125 mm)
+using water for elution of salt, while the oligonucleotides were eluted
+with H2O/MeOH (2:3). The oligonucleotides were lyophilized on a
+Speed-Vac evaporator to yield colorless or yellow solids which were
+frozen at −24 °C. The molecular masses of the oligonucleotides were
+determined by MALDI-TOF mass spectrometry in the linear positive
+mode. Extinction coeﬃcients ε
+260 (H2O) of nucleosides are dA, 15
+400; dG, 11 700; dT, 8800; dC, 7300; FiCd 5100, FiGd 4400, iGd
+4300,1a MeiCd 6100,1b FAd 14600, FGd 11600, FUd 9400, FCd 6900.
+
+Tandem Enzymatic Hydrolysis of Oligonucleotides. The
+enzymatic hydrolysis of ODN-34 and ODN-38 was performed using
+snake-venom phosphodiesterase (EC 3.1.15.1, Crotallus adamanteus)
+and alkaline phosphatase (EC 3.1.3.1, Escherichia coli) in 0.1 M Tris−
+HCl buﬀer (pH 8.5) at 37 °C. The enzymatic digestion products were
+analyzed by reversed-phase HPLC using the following gradient.
+Gradient III: 0−25 min 100% B; ﬂow rate 0.7 mL/min. [B = 0.1 M
+(Et3NH)OAc (pH 7.0)/MeCN, 95:5)].
+Tosylation of 1-(2-Deoxy-2-ﬂuoro-β-D-ribofuranosyl)uracil
+(4) with p-Toluenesulfonyl Chloride. 2′-Deoxy-2′-ﬂuorouridine
+(4)16 (3.2 g, 13 mmol) was dissolved in dry pyridine (20 mL). The
+solution was cooled to 0 °C (ice-bath), p-toluenesulfonyl chloride (2.8
+g, 14.7 mmol) was added, and the solution was stirred overnight at
+room temperature. A second portion of p-toluenesulfonyl chloride was
+introduced (0.5 g, 2.62 mmol), and stirring was continued for 3 h until
+the starting material was consumed (TLC monitoring, CH2Cl2/
+MeOH, 95:5). The solution was diluted with CH2Cl2 (50 mL), and
+the reaction was quenched upon addition of water (20 mL). The
+aqueous phase was extracted with CH2Cl2 (3 × 50 mL), and the
+combined organic phase was washed with saturated NaHCO3 solution
+(2 × 50 mL) and H2O (2 × 50 mL) and dried (Na2SO4). The solvent
+was evaporated, and the remaining residue was applied to FC (silica
+gel, column 15 × 4 cm, CH2Cl2/MeOH, 95:5). Three products (5−7)
+were isolated.
+1-[2-Deoxy-2-ﬂuoro-3,5-di-O-(p-toluenesulfonyl)-β-D-
+ribofuranosyl]uracil
+(5). From the fastest migrating zone,
+compound 5 was isolated as colorless foam (1.9 g, 26%). TLC (silica
+gel, CH2Cl2/MeOH, 95:5): Rf 0.70. λ
+max (MeOH)/nm 226 (ε/dm3
+mol−1 cm−1 23900), 256 (9800). 1H NMR (DMSO-d6, 300 MHz): δ
+2.37, 2.42 (2s, 6H, 2 × CH3), 3.88−4.04 (m, 2H, 2 × H-5′), 4.16−4.20
+(m, 1H, H-4′), 5.10−5.20 (m, 1H, H-3′), 5.39 (dd, J = 5.1 Hz, J = 52.5
+Hz, 1H, H-2′), 5.61 (d, J = 8.1 Hz, 1H, H-5), 5.68 (d, J = 24.6 Hz, 1H,
+H-1′), 7.37−7.39 (m, 2H, arom. H), 7.47−7.50 (m, 2H, arom. H),
+7.55 (d, J = 7.8 Hz, 1H, H-6), 7.63−7.66 (m, 2H, arom. H), 7.79−7.82
+
+The Journal of Organic Chemistry
+
+room temperature. The solvent was evaporated, and the remaining
+residue was coevaporated with MeOH (3 × 10 mL) and toluene (3 ×
+10 mL). The resulting foam was applied to FC (silica gel, column 15 ×
+4 cm, CH2Cl2/acetone, 4:1) to aﬀord compound 11 (2.5 g, 88%) as a
+colorless foam. TLC (silica gel, CH2Cl2/acetone, 4:1): Rf 0.35. λ
+max
+(MeOH)/nm 258 (ε/dm3 mol−1 cm−1 8700). 1H NMR (DMSO-d6,
+300 MHz): δ 2.11 (s, 3H, CH3), 3.55−3.60 (m, 1H, H-5′), 3.68−3.71
+(m, 1H, H-5′), 4.12−4.14 (m, 1H, H-4′), 5.16−5.27 (m, 2H, H-3′,
+OH-5′), 5.41 (dt, J = 3.6 Hz, J = 52.5 Hz, 1H, H-2′), 5.68 (d, J = 8.1
+Hz, 1H, H-5), 5.95 (dd, J = 3.0 Hz, J = 18.9 Hz, 1H, H-1′), 7.86 (d, J =
+7.8 Hz, 1H, H-6), 11.46 (bs, 1H, NH). 19F NMR (DMSO-d6, 282.4
+MHz): δ −202.456. ESI-TOF: m/z calcd for C11H13FN2O6 [M + Na]+
+311.0650, found 311.0654.
+1-[3-O-Acetyl-2-deoxy-2-ﬂuoro-5-O-(p-toluenesulfonyl)-β-D-
+ribofuranosyl]uracil (12). Compound 11 (2.9 g, 10.06 mmol) was
+dissolved in dry pyridine (15 mL), p-toluenesulfonyl chloride (6.329 g,
+33.2 mmol) was added, and the resulting mixture was stirred for 12 h
+at room temperature. The reaction was quenched by the addition of
+ice-cold water (10 mL). Then CH2Cl2 (25 mL) was added, and the
+organic layer was washed saturated NaHCO3 solution (2 × 20 mL)
+and brine (2 × 20 mL). The organic phase was dried and ﬁltrated, and
+the solvent was evaporated. The remaining residue was applied to FC
+(silica gel, column 15 × 4 cm, CH2Cl2/acetone, 4:1) furnishing
+compound 12 (3.9 g, 88%) as a colorless foam. TLC (silica gel,
+max (MeOH)/nm 224 (ε/dm3 mol−1
+CH2Cl2/acetone, 4:1): Rf 0.70. λ
+cm−1 14400), 260 (10400). 1H NMR (DMSO-d6, 300 MHz): δ 2.06
+(s, 3H, CH3), 2.39 (s, 3H, CH3), 4.17−4.23 (m, 2H, 2 × H-5′), 4.37−
+4.40 (m, 1H, H-4′), 5.12−5.22 (m, 1H, H-3′), 5.51 (dd, J = 5.4 Hz, J =
+52.5 Hz, 1H, H-2′), 5.64 (d, J = 7.8 Hz, 1H, H-5), 5.77 (d, J = 22.2 Hz,
+1H, H-1′), 7.41−7.44 (m, 2H, arom. H), 7.61 (d, J = 8.1 Hz, 1H, H-6),
+7.74−7.77 (m, 2H, arom. H), 11.47 (s, 1H, NH). 19F NMR (DMSO-
+d6, 282.4 MHz): δ −197.012. ESI-TOF: m/z calcd for C18H19FN2O8S
+[M + Na]+ 465.0738, found 465.0740.
+3′-O-Acetyl-2,5′-anhydro-2′-deoxy-2′-ﬂuorouridine (13).
+Compound 12 (1.5 g, 3.4 mmol) was dissolved in dry CH3CN (20
+mL), DBU (1,8-diazabicyclo[5.4.0]undec-7-en, 540 μL, 0.550 g, 3.6
+mmol) was added, and the reaction mixture was heated under reﬂux
+for 50 min. The solvent was evaporated, and the remaining residue was
+applied to FC (silica gel, column 15 × 4 cm, CH2Cl2/MeOH, 90:10).
+Evaporation of the main zone aﬀorded compound 13 as colorless solid
+(0.730 g, 79%). TLC (silica gel, CH2Cl2/MeOH, 90:10): Rf 0.50. λ
+max
+(MeOH)/nm 237 (ε/dm3 mol−1 cm−1 11900). 1H NMR (DMSO-d6,
+300 MHz): δ 2.11 (s, 3H, CH3), 4.20 (d, J = 12.6 Hz, 1H, H-5′), 4.57
+(d, J = 12.6 Hz, 1H, H-5′), 4.84 (s, 1H, H-4′), 5.49 (d, J = 5.1 Hz, 1H,
+H-3′), 5.79 (dd, J = 6.0 Hz, J = 49.5 Hz, 1H, H-2′), 5.97 (d, J = 7.5 Hz,
+1H, H-5), 6.12 (d, J = 18.3 Hz, 1H, H-1′), 7.98 (d, J = 7.2 Hz, 1H, H-
+6). 19F NMR (DMSO-d6, 282.4 MHz): δ −195.067. ESI-TOF: m/z
+calcd for C11H11FN2O5 [M + Na]+ 293.0544, found 293.0542.
+2-Amino-1-(2-deoxy-2-ﬂuoro-β-D-ribofuranosyl)pyrimidin-
+4(3H)-one (1c). Compound 8 (0.280 g, 1.23 mmol) was dissolved in
+MeOH saturated with NH3 at 0 °C (50 mL), and the solution was
+stirred for 12 h at room temperature. The solvent was evaporated, and
+the remaining residue was adsorbed on silica gel and applied to FC
+(silica gel, column 15 × 4 cm, CH2Cl2/MeOH, 80:20). Evaporation of
+the main zone aﬀorded compound 1c as colorless solid (0.173 g, 58%).
+TLC (silica gel, CH2Cl2/MeOH, 80:20): Rf 0.30. λ
+max (MeOH)/nm
+210 (ε/dm3 mol−1 cm−1 23200), 227(sh) (11700), 251(sh) (5800).
+max (H2O)/nm 260 (ε/dm3 mol−1 cm−1 5100). 1H NMR (DMSO-d6,
+λ
+300 MHz): δ 3.58−3.74 (m, 2H, H-5′), 3.90−3.92 (m, 1H, H-4′),
+4.13−4.22 (m, 1H, H-3′), 5.07 (dd, J = 3.9 Hz, J = 53.1 Hz, 1H, H-2′),
+5.37 (bs, 1H, HO-5′), 5.58 (d, J = 7.8 Hz, 1H, H-5), 5.74 (d, J = 5.4
+Hz, 1H, HO-3′), 5.90 (dd, J = 3.3 Hz, J = 15.9 Hz, 1H, H-1′), 7.06 (bs,
+2H, NH2), 7.66 (d, J = 7.8 Hz, 1H, H-6). 19F NMR (DMSO-d6, 282.4
+MHz): δ −204.934. ESI-TOF: m/z calcd for C9H12FN3O4 [M + H]+
+246.0885, found 246.0892.
+Conversion of 2-Amino-1-(2-deoxy-2-ﬂuoro-β-D-ribofurano-
+syl)-pyrimidin-4(1H)-one (1c) to Cyclic Byproducts 14 and 15.
+Compound 1c (0.1 g, 0.33 mmol) was dissolved in aqueous
+concentrated NH3, and the reaction mixture was heated at 55 °C in
+a steel bomb for 16 h. The solvent was evaporated, the remaining
+
+Article
+
+residue was subjected to FC (silica gel, CH2Cl2/MeOH, 70:30), and
+two products (14, 15) were isolated.
+2,2′-Imino-1-(2-deoxy-β-D-arabinofuranosyl)uracil (14). From
+the slower migrating zone compound 14 was isolated as colorless solid
+(0.050 g, 54%). TLC (silica gel, CH2Cl2/MeOH, 70:30) Rf 0.27. λ
+max
+(H2O)/nm 260 (ε/dm3 mol−1 cm−1 4000), 263 (4100). 1H NMR
+(DMSO-d6, 300 MHz): 3.10−3.27 (m, 2H, 2 × H-5′), 3.95−4.00 (m,
+1H, H-4′), 4.11 (s, 1H, H-3′), 4.19 (d, J = 6.6 Hz, 1H, H-2′), 4.92 (bs,
+1H, HO-5′), 5.49 (d, J = 7.5 Hz, 1H, H-5), 5.62 (bs, 1H, HO-3′), 6.12
+(d, J = 6.3 Hz, 1H, H-1′), 7.56 (d, J = 7.5 Hz, 1H, H-6), 8.47 (s, 1H,
+NH). ESI-TOF: m/z calcd for C9H11N3O4 [M + Na]+ 248.0642,
+found 248.0654.
+
+Imidazo[1,2-a]pyrimidin-7-(8H)-one (15). From the faster
+migrating zone, compound 15 was isolated as a colorless solid
+(0.006 g, 11%). TLC (silica gel, CH2Cl2/MeOH, 70:30): Rf 0.47. 1H
+NMR (DMSO-d6, 300 MHz): 6.00 (d, J = 7.5 Hz, 1H, H-6), 7.00 (s,
+1H, H-2), 7.33 (s, 1H, H-3), 8.28 (d, J = 7.8 Hz, 1H, H-5), 12.29 (br s,
+1H, NH). Analytical data of 14 and 15 are in agreement in ref 23.
+
+1-(2-Deoxy-2-ﬂuoro-β-D-ribofuranosyl)-2-[[(dimethylamino)-
+methylidene]amino]-pyrimidin-4(1H)-one (17). Compound 1c
+(0.510 g, 2.08 mmol) was dissolved in MeOH (10 mL), and N,N-
+dimethylformamide dimethyl acetal (0.900 g, 1.0 mL, 7.6 mmol) was
+added. The resulting mixture was stirred for 1 h at room temperature.
+The solvent was evaporated, and the remaining residue was applied to
+FC (silica gel, column 10 × 4 cm, CH2Cl2/MeOH, 85:15).
+Evaporation of the main zone aﬀorded compound 17 as a colorless
+solid (0.481 g, 77%). TLC (silica gel, CH2Cl2/MeOH, 4:1): Rf 0.40.
+max (MeOH)/nm 242 (ε/dm3 mol−1 cm−1 17500), 282 (25200). 1H
+λ
+NMR (DMSO-d6, 300 MHz): δ 3.00 (s, 3H, NCH3), 3.18 (s, 3H,
+NCH3), 3.58−3.65 (m, 1H, H-5′), 3.78−3.83 (m, 1H, H-5′), 3.88−
+3.91 (m, 1H, H-4′), 4.04−4.14 (m, 1H, H-3′), 4.94 (dd, J = 3.6 Hz, J =
+52.8 Hz, 1H, H-2′), 5.27 (t, J = 4.8 Hz, 1H, 5′−OH), 5.63 (d, J = 6.0
+Hz, 1H, 3′−OH), 5.70 (d, J = 7.8 Hz, 1H, H-5), 6.32 (d, J = 16.8 Hz,
+1H, H-1′), 7.96 (d, J = 7.8 Hz, 1H, H-6), 8.58 (s, 1H, NCH). 19F
+NMR (DMSO-d6, 282.4 MHz): δ −202.563. ESI-TOF: m/z calcd for
+C12H17FN4O4 [M + H]+ 301.1307, found 301.1310.
+1-[2-Deoxy-2-ﬂuoro-5-O-(4,4′-dimethoxytrityl)-β-D-ribofura-
+nosyl]-2-[[(dimethylamino)methylidene]amino]pyrimidin-
+4(1H)-one (18). Compound 17 (0.240 g, 0.80 mmol was dissolved in
+dry pyridine (5 mL), 4,4′-dimethoxytrityl chloride (0.700 g, 2.08
+mmol) was added in portions, and the reaction mixture stirred until
+the starting material was completely consumed (∼5 h, TLC
+monitoring). The solution was diluted with CH2Cl2 (20 mL) and
+extracted with 5% NaHCO3 solution. The organic layer was dried, and
+the solvent was evaporated. The remaining residue was subjected to
+FC (silica gel, column 10 × 3 cm, CH2Cl2/MeOH, 90:10 containing 1
+pipet triethylamine per 500 mL of solvent). Evaporation of the main
+zone aﬀorded 18 (0.365 g, 76%) as a colorless foam. TLC (silica gel,
+max (MeOH)/nm 237 (ε/dm3 mol−1
+CH2Cl2/MeOH, 9:1): Rf 0.55. λ
+cm−1 35500), 282 (33000). 1H NMR (DMSO-d6, 300 MHz): δ 3.00
+(s, 3H, NCH3), 3.19 (s, 3H, NCH3), 3.31−3.40 (m, 2H, 2 × H-5′),
+3.71 (s, 6H, 2 × OCH3), 4.02−4.06 (m, 1H, H-4′), 4.27−4.39 (m, 1H,
+H-3′), 5.00 (dd, J = 3.9 Hz, J = 52.5 Hz, 1H, H-2′), 5.33 (d, J = 7.8 Hz,
+1H, HO-3′), 5.72 (d, J = 6.9 Hz, 1H, H-5), 6.33 (d, J = 18.3 Hz, 1H,
+H-1′), 6.88−6.91 (m, 4H, arom. H), 7.24−7.40 (m, 9H, arom. H),
+7.81 (d, J = 7.8 Hz, 1H, H-6), 8.60 (s, 1H, NCH). 19F NMR
+(DMSO-d6, 282.4 MHz): δ −201.243. ESI-TOF: m/z calcd for
+C33H35FN4O6 [M + H]+ 603.2613, found 603.2631.
+1-[2-Deoxy-2-ﬂuoro-5-O-(4,4′-dimethoxytrityl)-β-D-ribofura-
+nosyl]-2-[[(dimethylamino)methylidene]amino]pyrimidin-
+4(1H)-one 3′-O-[(2-Cyanoethyl)-(N,N-diisopropyl)]-
+phosphoramidite (19). Compound 18 (0.360 g, 0.60 mmol) was
+dissolved in dry CH2Cl2 (10 mL), (i-Pr)2NEt (0.138 g, 180 μL, 1.07
+mmol) and 2-cyanoethyl N,N-diisopropyl phosphoramidochloridite
+(0.191 g, 180 μL, 0.81 mmol) were added, and the reaction mixture
+was stirred for 1 h at room temperature. The solution was diluted with
+CH2Cl2 (20 mL) and extracted with 5% NaHCO3 solution. The
+organic layer was dried, and the solvent was evaporated. The
+remaining residue was subjected to FC (silica gel, column 10 × 3
+cm, CH2Cl2/MeOH/triethylamine 94.5:5:0.5). Evaporation of the
+
+3135
+
+DOI: 10.1021/acs.joc.5b00040
+J. Org. Chem. 2015, 80, 3124−3138
+
+The Journal of Organic Chemistry
+
+Article
+
+main zone aﬀorded 19 (0.361 g, 75%) as a colorless foam. TLC (silica
+19F NMR
+gel, CH2Cl2/MeOH/triethylamine, 90:9:1): Rf 0.55.
+(CDCl3, 282.4 MHz): δ −201.07, −201.04, −201.01, −200.98. 31P
+NMR (CDCl3, 121.5 MHz): δ 151.23, 151.17, 150.59, 150.52. ESI-
+TOF: m/z calcd for C42H52FN6O7P [M + H]+ 803.3692,
+found
+803.3674.
+
+6-Amino-9-(2-deoxy-2-ﬂuoro-β-D-ribofuranosyl)-1,9-dihy-
+dro-2H-purin-2-one (3c). Compound 1625 (0.568 g, 2.00 mmol)
+was suspended in H2O (18 mL) at 50 °C, and NaNO2 (0.541 g, 7.73
+mmol) in H2O (4 mL) was introduced. Then, acetic acid (0.833 g,
+0.79 mL, 13.87 mmol) was added dropwise to the solution at 50 °C in
+2 min. The resulting clear solution was stirred for 20 min at 50 °C.
+After completion of the reaction (TLC monitoring), the reaction
+mixture was diluted with water (8 mL) and cooled in an ice bath, and
+then concd aq NH3 was added dropwise until the pH reached 8. Then
+the solution was evaporated, and the remaining residue was
+redissolved in 50 mL of water. The pH of the solution was adjusted
+to 5−6, and the solution was passed through a pad of RP-18 silica gel
+(mesh 40−63 μM, 50 g). Inorganic salts were removed with water (2
+× 10 mL), and the nucleoside was eluted with methanol (2 × 50 mL).
+The combined methanol portions were evaporated to obtain 3c as a
+pale yellow solid (0.450 g, 79%). TLC (silica gel, i-PrOH/H2O/NH3,
+max (H2O)/nm 247 (ε/dm3 mol−1 cm−1 8300), 260
+70:20:10) Rf 0.75. λ
+(4400), 292 (9600). 1H NMR (DMSO-d6, 300 MHz): δ 3.53−3.72
+(m, 2H, 2 × H-5′), 3.94 (bs, 1H, H-4′), 4.35−4.42 (m, 1H, H-3′), 5.32
+(d, J = 52.8 Hz, 1H, H-2′), 5.98 (d, J = 15.3 Hz, 1H, H-1′), 7.98 (s,
+1H, H-8). 19F NMR (DMSO-d6, 282.4 MHz): δ −205.9. ESI-TOF: m/
+z calcd for C10H12FN5O4 [M + Na+] 308.0766, found 308.0775.
+9 - ( 2 - D e o x y - 2 - ﬂ u o r o - β - D - r i b o f u r a n o s y l ) - 6 - [ [ 1 -
+(dimethylamino)ethylidene]amino]-1,9-dihydro-2H-purin-2-
+one (20). To a suspension of compound 3c (0.660 g, 2.31 mmol) in
+methanol (40 mL) was added N,N-dimethylacetamide dimethyl acetal
+(0.826 g, 0.91 mL, 6.20 mmol), and the resulting mixture was stirred at
+room temperature for 2 h (TLC monitoring). The solvent was
+evaporated, and the residue was coevaporated with methanol and
+subjected to FC (silica gel, CH2Cl2/MeOH, 85:15) to obtain 20
+(0.670 g, 82%) as a colorless solid. TLC (silica gel, CH2Cl2/MeOH,
+max (MeOH)/nm 337 (ε/dm3 mol−1 cm−1 18900),
+70:30) Rf 0.51. λ
+251 (9000). 1H NMR (DMSO-d6, 300 MHz): δ 2.12 (s, 3H, CH3),
+3.07 (s, 3H, CH3), 3.15 (s, 3H, CH3), 3.51−3.58 (m, 1H, H-5′), 3.68−
+3.72 (m, 1H, H-5′), 3.92 (br s, 1H, H-4′), 4.33−4.42 (m, 1H, H-3′),
+5.27−5.46 (m, 2H, H-2′, 5′−OH), 5.70 (d, J = 5.7 Hz, 1H, 3′−OH),
+5.97 (dd, J = 3.3 Hz, J = 16.5 Hz, 1H, H-1′), 8.03 (s, 1H, H-8), 11.02
+(br s, 1H, NH). 19F NMR (DMSO-d6, 282.4 MHz): δ −205.8. ESI-
+TOF: m/z calcd for C14H19FN6O4 [M + Na+] 377.1344,
+found
+377.1347.
+
+9 - ( 2 - D e o x y - 2 - ﬂ u o r o - β - D - r i b o f u r a n o s y l ) - 6 - [ [ 1 -
+(dimethylamino)ethylidene]amino]-1,9-dihydro-2H-purin-2-yl
+Diphenyl Carbamate (21). To a solution of compound 20 (0.610 g,
+1.72 mmol) in pyridine (10 mL) were added N,N-diphenylcarbamoyl
+chloride (0.598 g, 2.58 mmol) and (i-Pr)2EtN (0.334 g, 0.44 mL, 2.58
+mmol). The mixture was stirred at room temperature for 60 min,
+poured into 5% aqueous NaHCO3 (20 mL), and extracted with
+CH2Cl2 (3 × 40 mL). The organic layer was separated, dried over
+Na2SO4, and evaporated, and the residue was applied to FC (silica gel,
+CH2Cl2/MeOH, 96:4) to yield 21 (0.670 g, 71%) as a colorless foam.
+TLC (silica gel, CH2Cl2/MeOH, 90:10) Rf 0.56. λ
+max (MeOH)/nm
+234 (ε/dm3 mol−1 cm−1 32300), 310 (27800). 1H NMR (DMSO-d6,
+300 MHz): δ 2.11 (s, 3H, CH3), 3.12 (s, 3H, CH3), 3.14 (s, 3H, CH3),
+3.56−3.63 (m, 1H, H-5′), 3.73−3.78 (m, 1H, H-5′), 3.98−3.99 (m,
+1H, H-4′), 4.42−4.48 (m, 1H, H-3′), 5.18 (t, J = 5.1 Hz, 1H, 5′−OH),
+5.39 (dt, J = 3.0 Hz, J = 52.8 Hz, 1H, H-2′), 5.75 (br s, 1H, 3′−OH),
+6.21 (dd, J = 2.4 Hz, J = 16.7 Hz, 1H, H-1′), 7.28−7.33 (m, 2H, Ar-
+H), 7.42−7.44 (m, 8H, Ar-H), 8.43 (s, 1H, H-8). 19F NMR (DMSO-
+d6, 282.4 MHz): δ −204.7. ESI-TOF: m/z calcd for C27H28FN7O5 [M
++ Na+] 572.2028, found 572.2013.
+9-[2-Deoxy-2-ﬂuoro-5-O-(4,4′-dimethoxytrityl)-β-D-ribofura-
+nosyl]-6-[[1-(dimethylamino)ethylidene]amino]-1,9-dihydro-
+2H-purin-2yl-diphenylcarbamate (22). To a solution of com-
+pound 21 (0.5 g, 0.91 mmol) in pyridine (1 mL) was added 4,4′-
+
+dimethoxytrityl chloride (0.462 g, 1.36 mmol). The mixture was
+stirred at room temperature for 90 min. After completion of the
+reaction (TLC monitoring), 40 mL of CH2Cl2 was added and the
+mixture washed with 5% aq NaHCO3 (20 mL). The organic layer was
+dried over Na2SO4, evaporated to dryness, and coevaporated with
+toulene (2 × 5 mL), and the residue was applied to FC (silica gel,
+CH2Cl2/acetone, 84:16) to obtain compound 22 (0.575 g, 74%) as a
+colorless foam. TLC (silica gel, CH2Cl2/acetone, 80:20) Rf 0.29. λ
+max
+(MeOH)/nm 234 (ε/dm3 mol−1 cm−1 48000), 309 (23500). 1H NMR
+(DMSO-d6, 300 MHz): δ 2.07 (s, 3H, CH3), 3.11 (s, 6H, 2 × CH3),
+3.16−3.29 (m, 2H, 2 × H-5′), 3.68 (s, 6H, 2 × OCH3), 4.09−4.10 (m,
+1H, H-4′), 4.60−4.67 (m, 1H, H-3′), 5.51 (dd, J = 3.6 Hz, J = 52.7 Hz,
+1H, H-2′), 5.75 (d, J = 5.1 Hz, 1H, 3′−OH), 6.26 (d, J = 18.9 Hz, 1H,
+H-1′), 6.75−6.80 (m, 4H, Ar-H), 7.14−7.40 (m, 19H, Ar−H), 8.30 (s,
+1H, H-8). 19F NMR (DMSO-d6, 282.4 MHz): δ −202.3. ESI-TOF: m/
+z calcd for C48H46FN7O7 [M + Na+] 874.3335, found 874.3315.
+9-[2-Deoxy-2-ﬂuoro-5-O-(4,4′-dimethoxytrityl)-β-D-ribofura-
+nosyl]-6-[[1-(dimethylamino)ethylidene]amino]-1,9-dihydro-
+2H-purin-2yl Diphenyl Carbamate 3′-O-[(2-Cyanoethyl)-(N,N-
+diisopropyl)]phosphoramidite (23). To a solution of compound
+22 (0.250 g, 0.29 mmol) in dry CH2Cl2 (3 mL) were added (i-
+Pr)2NEt (0.065 g, 85 μL, 0.50 mmol) and 2-cyanoethyl diisopropyl-
+phosphoramidochloridite (0.103 g, 98 μL, 0.44 mmol), and the
+reaction mixture was stirred for 90 min at room temperature. After
+completion of the reaction (TLC monitoring), the reaction mixture
+was diluted with CH2Cl2 (30 mL), poured into 5% NaHCO3 solution
+(30 mL), and extracted with CH2Cl2 (3 × 20 mL). The combined
+organic layers were dried over Na2SO4, and the solvent was
+evaporated. The residual foam was applied to FC (silica gel, eluted
+with CH2Cl2/acetone, 85:15). Evaporation of the main zone aﬀorded
+23 (0.205 g, 66%) as a colorless foam. TLC (silica gel, CH2Cl2/
+acetone, 80:20) Rf 0.53. 31P NMR (CDCl3, 121.5 MHz): δ 151.5,
+151.4, 151.2, 151.1. 19F NMR (CDCl3, 282.4 MHz): δ −201.54,
+−201.56, −201.66, −201.69. ESI-TOF: m/z calcd for C57H63FN9O8P
+[M + Na+] 1074.4413, found 1074.4376.
+■ ASSOCIATED CONTENT
+*S Supporting Information
+1H−13C coupling constants, HPLC proﬁles, copies of 1H, 13C,
+31P, 19F NMR, DEPT-135, and 1H−13C gated-decoupled NMR
+spectra, melting proﬁles, Tm values, thermodynamic data, and
+CD spectra. This material is available free of charge via the
+Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*Phone: +49 (0)251 53 406 500. Fax: +49 (0)251 53 406 857.
+E-mail: frank.seela@uni-osnabrueck.de. Homepage: www.seela.
+net.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We thank Dr. S. Budow-Busse for helpful discussions and
+support while preparing the manuscript. We also thank Mr. H.
+Mei for measuring the NMR spectra. We thank Dr. M. Letzel,
+Organisch-chemisches Institut, Universität Münster, Germany,
+for the measurement of the MALDI spectra and Prof. Dr. Jens
+Müller (Institut für Anorganische und Analytische Chemie,
+Universität Münster, Germany) for
+the use of his CD
+spectrometer. Financial support by ChemBiotech, Münster,
+Germany, is highly appreciated.
+■ REFERENCES
+(1) (a) Seela, F.; Wei, C. Helv. Chim. Acta 1997, 80, 73−85.
+(b) Seela, F.; He, Y.; Wei, C. Tetrahedron 1999, 55, 9481−9500.
+
+3136
+
+DOI: 10.1021/acs.joc.5b00040
+J. Org. Chem. 2015, 80, 3124−3138
+
+J. A.; Liquier,
+
+The Journal of Organic Chemistry
+(c) Seela, F.; He, Y. Helv. Chim. Acta 2000, 83, 2527−2540.
+(d) Geinguenaud, F.; Mondragon-Sanchez,
+J.;
+Shchyolkina, A. K.; Klement, R.; Arndt-Jovin, D. J.; Jovin, T. M.;
+Taillandier, E. Spectrochim. Acta, Part A 2005, 61, 579−587.
+(e) Sugiyama, H.; Ikeda, S.; Saito, I. J. Am. Chem. Soc. 1996, 118,
+9994−9995.
+(2) (a) Seela, F.; He, Y. Parallel DNA: The application of base-
+modiﬁed nucleosides to control the chain orientation in modiﬁed
+nucleosides, synthesis and applications. In Organic and Bioorganic
+Chemistry; Loakes, D., Ed.; Transworld Research Network: Trivan-
+drum, India, 2002; pp 57−85. (b) Seela, F.; Gabler, B.; Kazimierczuk,
+Z. Collect. Czech. Chem. Commun. 1993, 58, 170−173.
+(3) Ramsing, N. B.; Jovin, T. M. Nucleic Acids Res. 1988, 16, 6659−
+6676.
+(4) (a) Seela, F.; Wei, C. Helv. Chim. Acta 1999, 82, 726−745.
+(b) Seela, F.; Kröschel, R. Nucleic Acids Res. 2003, 31, 7150−7158.
+(c) Seela, F.; He, Y. J. Org. Chem. 2003, 68, 367−377. (d) Seela, F.;
+Peng, X.; Li, H. J. Am. Chem. Soc. 2005, 127, 7739−7751.
+(5) (a) Clark, J. L.; Hollecker, L.; Mason, J. C.; Stuyver, L. J.;
+Tharnish, P. M.; Lostia, S.; McBrayer, T. R.; Schinazi, R. F.; Watanabe,
+K. A.; Otto, M. J.; Furman, P. A.; Stec, W. J.; Patterson, S. E.;
+Pankiewicz, K. W. J. Med. Chem. 2005, 48, 5504−5508. (b) Gud-
+mundsson, K. S.; Freeman, G. A.; Drach, J. C.; Townsend, L. B. J. Med.
+Chem. 2000, 43, 2473−2478. (c) Ross, B. S.; Sofia, M. J.; Pamulapati,
+G. R.; Rachakonda, S.; Zhang, H.-R.: Chun, B.-K.; Wang, P. N-[(2′R)-
+2′-Deoxy-2′-fluoro-2′-methyl-p-phenyl-5′-uridylyl]-L-alanine 1-Meth-
+ylethyl Ester and Process for
+Its Production. U.S. Patent WO
+135569 A1, 2010.
+(6) (a) Monia, B. P.; Lesnik, E. A.; Gonzalez, C.; Lima, W. F.;
+McGee, D.; Guinosso, C. J.; Kawasaki, A. M.; Cook, P. D.; Freier, S.
+M. J. Biol. Chem. 1993, 268, 14514−14522. (b) Pallan, P. S.; Greene,
+E. M.; Jicman, P. A.; Pandey, R. K.; Manoharan, M.; Rozners, E.; Egli,
+M. Nucleic Acids Res. 2011, 39, 3482−3495. (c) Egli, M.; Pallan, P. S.;
+Allerson, C. R.; Prakash, T. P.; Berdeja, A.; Yu, J.; Lee, S.; Watt, A.;
+Gaus, H.; Bhat, B.; Swayze, E. E.; Seth, P. P. J. Am. Chem. Soc. 2011,
+133, 16642−16649.
+(7) Lemal, D. M. J. Org. Chem. 2004, 69, 1−11.
+(8) Fox, J. J.; Watanabe, K. A.; Chou, T. C.; Shinazi, R. F.; Soike, K.
+F.; Fourel, I.; Hantz, G.; Trepo, C. In Fluorinated Carbohydrates;
+Taylor, N. F., Ed.; American Chemical Society: Washington, D.C.,
+1988; pp 176−190 and references cited therein.
+(9) (a) Kawasaki, A. M.; Casper, M. D.; Freier, S. M.; Lesnik, E. A.;
+Zounes, M. C.; Cummins, L. L.; Gonzalez, C.; Dan Cook, P. J. Med.
+Chem. 1993, 36, 831−841. (b) Wilds, C. J.; Damha, M. J. Nucleic Acids
+Res. 2000, 28, 3625−3635. (c) Patra, A.; Paolillo, M.; Charisse, K.;
+Manoharan, M.; Rozners, E.; Egli, M. Angew. Chem., Int. Ed. 2012, 51,
+11863−11866. (d) Williams, D. M.; Benseler, F.; Eckstein, F.
+Biochemistry 1991, 30, 4001−4009. (e) Heidenreich, O.; Benseler,
+F.; Fahrenholz, A.; Eckstein, F. J. Biol. Chem. 1994, 269, 2131−2138.
+(f) Denisov, A. Y.; Noronha, A. M.; Wilds, C. J.; Trempe, J.-F.; Pon, R.
+T.; Gehring, K.; Damha, M. J. Nucleic Acids Res. 2001, 29, 4284−4293.
+(10) Bondi, A. J. Phys. Chem. 1964, 68, 441−451.
+(11) (a) Manoharan, M.; Akinc, A.; Pandey, R. K.; Qin, J.; Hadwiger,
+P.; John, M.; Mills, K.; Charisse, K.; Maier, M. A.; Nechev, L.; Greene,
+E. M.; Pallan, P. S.; Rozners, E.; Rajeev, K. G.; Egli, M. Angew. Chem.
+2011, 123, 2332−2336. (b) He, J.; Mikhailopulo, I.; Seela, F. J. Org.
+Chem. 2003, 68, 5519−5524.
+(12) (a) Seela, F.; Xu, K. Org. Biomol. Chem. 2008, 6, 3552−3560.
+(b) Piel, M.; Vernaleken, I.; Rösch, F. J. Med. Chem. 2014, 57, 9232−
+9258.
+(13) (a) Brown, D. M.; Todd, A. R.; Varadarajan, S. J. Chem. Soc.
+1957, 868−872. (b) Switzer, C. Y.; Moroney, S. E.; Benner, S. A.
+Biochemistry 1993, 32, 10489−10496. (c) Strobel, S. A.; Cech, T. R.;
+Usman, N.; Beigelman, L. Biochemistry 1994, 33, 13824−13835.
+(d) Tor, Y.; Dervan, P. B. J. Am. Chem. Soc. 1993, 115, 4461−4467.
+(e) Horn, T.; Chang, C.-A.; Collins, M. L. Tetrahedron Lett. 1995, 36,
+2033−2036. (f) Switzer, C.; Moroney, S. E.; Benner, S. A. J. Am. Chem.
+Soc. 1989, 111, 8322−8323. (g) Jurczyk, S. C.; Kodra, J. T.; Rozzell, J.
+
+Article
+
+J.
+
+J., Ed.;
+
+IRL Press: Oxford, 1984;
+
+D.; Benner, S. A.; Battersby, T. R. Helv. Chim. Acta 1998, 81, 793−
+811.
+J. Am. Chem. Soc. 1951, 73, 3174−3176.
+(14) (a) Davoll,
+(b) Kazimierczuk, Z.; Mertens, R.; Kawczynski, W.; Seela, F. Helv.
+Chim. Acta 1991, 74, 1742−1748. (c) Seela, F.; Wei, C.; Kazimierczuk,
+Z. Helv. Chim. Acta 1995, 78, 1843−1854. (d) Seela, F.; Fröhlich, T.
+Helv. Chim. Acta 1994, 77, 399−408. (e) Chen, X.; Kierzek, R.;
+Turner, D. H. J. Am. Chem. Soc. 2001, 123, 1267−1274. (f) Roberts,
+C.; Bandaru, R.; Switzer, C. Tetrahedron Lett. 1995, 36, 3601−3604.
+(g) Roberts, C.; Bandaru, R.; Switzer, C. J. Am. Chem. Soc. 1997, 119,
+4640−4649.
+(15) (a) Ranganathan, R. Tetrahedron Lett. 1977, 15, 1291−1294.
+(b) Ikehara, M.; Miki, H. Chem. Pharm. Bull. 1978, 26, 2449−2453.
+(16) Codington, J. F.; Doerr, I.; Van Praag, D.; Bendich, A.; Fox, J. J.
+J. Am. Chem. Soc. 1961, 83, 5030−5031.
+(17) Ikehara, M.; Imura, J. Chem. Pharm. Bull. 1981, 29, 1034−1038.
+(18) Doerr, I. L.; Fox, J. J. J. Org. Chem. 1967, 32, 1462−1471.
+(19) (a) Benseler, F.; Williams, D. M.; Eckstein, F. Nucleosides
+Nucleotides 1992, 11, 1333−1351. (b) Reif, B.; Wittmann, V.;
+Schwalbe, H.; Griesinger, C.; Wörner, K.; Jahn-Hofmann, K.; Engels,
+J. W. Helv. Chim. Acta 1997, 80, 1952−1971.
+(20) (a) Herdewijn, P.; Van Aerschot, A.; Kerremans, L. Nucleosides
+Nucleotides 1989, 8, 65−96. (b) Pankiewicz, K. W. Carbohydr. Res.
+2000, 327, 87−105.
+(21) Watanabe, K. A.; Reichman, U.; Chu, C. K.; Fox, J. J. Nucleic
+Acid Chemistry; Tipson, R. S., Townsend, L. B., Eds.; John Wiley and
+Sons: New York, 1978; Part 1, pp 273−277.
+(22) (a) Rajeev, K. G.; Prakash, T. P.; Manoharan, M. Org. Lett.
+2003, 5, 3005−3008. (b) Schoetzau, T.; Langner, J.; Moyroud, E.;
+Roehl, I.; Vonhoff, S.; Klussmann, S. Bioconjugate Chem. 2003, 14,
+919−926. (c) Gait, M.
+J. Oligonucleotide Synthesis, A Practical
+Approach; Gait, M.
+ISBN 0-
+904147-74-6.
+(23) Minamoto, K.; Azuma, K.; Tanaka, T.; Iwasaki, H.; Eguchi, S.;
+Kadoya, S.; Moroi, R. J. Chem. Soc., Perkin Trans. 1 1988, 2955−2961.
+(24) Shi, X.; Fettinger, J. C.; Cai, M.; Davis, J. T. Angew. Chem., Int.
+Ed. 2000, 39, 3124−3127.
+(25) (a) Tuttle, J. V.; Tisdale, M.; Krenitsky, T. A. J. Med. Chem.
+1993, 36, 119−125. (b) Thomas, H. J.; Tiwari, K. N.; Clayton, S. J.;
+Secrist, J. A., III; Montgomery, J. A. Nucleosides Nucleotides 1994, 13,
+309−323.
+(26) Krug, A.; Oretskaya, T. S.; Volkov, E. M.; Cech, D.; Shabarova,
+Z. A.; Rosenthal, A. Nucleosides Nucleotides 1989, 8, 1473−1483.
+(27) Förtsch, I.; Fritzsche, H.; Birch-Hirschfeld, E.; Evertsz, E.;
+Klement, R.; Jovin, T. M.; Zimmer, C. Biopolymer 1996, 38, 209−220.
+(28) Quinn, J. R.; Zimmerman, S. C.; Del Bene, J. E.; Shavitt, I. J. Am.
+Chem. Soc. 2007, 129, 934−941.
+(29) Rentzeperis, D.; Kupke, D. W.; Marky, L. A. Biochemistry 1994,
+33, 9588−9591.
+(30) (a) Jovin, T. M.; Rippe, K.; Ramsing, N. B.; Klement, R.;
+Elhorst, W.; Vojtisková, M. Parallel Stranded DNA. In Structure and
+Methods, Vol 3: DNA and RNA; Sarma, R. H., Sarma, M. H., Eds.;
+Adenine Press: Guilderland, NY, 1990; pp 155−174. (b) Germann, M.
+W.; Kalisch, B. W.; van de Sande, J. H. Biochemistry 1988, 27, 8302−
+8306. (c) Yang, X.-L.; Sugiyama, H.; Ikeda, S.; Saito, I.; Wang, A. H.-J.
+Biophys. J. 1998, 75, 1163−1171.
+(31) Pallan, P. S.; Lubini, P.; Bolli, M.; Egli, M. Nucleic Acids Res.
+2007, 35, 6611−6624.
+(32) Thibaudeau, C.; Acharya, P.; Chattopadhyaya, J. Stereoelectronic
+Eﬀects in Nucleosides & Nucleotides and Their Structural Implications;
+Uppsala University Press: Uppsala, SE, 1999.
+(33) vanWijk, L.; Haasnoot, C. A. G.; deLeeuw, F. A. A. M.;
+Huckriede, B. D.; Westra Hoekzema, A. J. A.; Altona, C. PSEUROT
+6.3, Leiden Institute of Chemistry, Leiden University, The Nether-
+lands, 1999.
+(34) Saenger, W. Principles of Nucleic Acid Structure; Springer-Verlag:
+New York, 1984.
+
+3137
+
+DOI: 10.1021/acs.joc.5b00040
+J. Org. Chem. 2015, 80, 3124−3138
+
+The Journal of Organic Chemistry
+
+(35) Parvathy, V. R.; Bhaumik, S. R.; Chary, K. V. R.; Govil, G.; Liu,
+K.; Howard, F. B.; Miles, H. T. Nucleic Acids Res. 2002, 30, 1500−
+1511.
+(36) McDowell, J. A.; Turner, D. H. Biochemistry 1996, 35, 14077−
+14089.
+
+Article
+
+3138
+
+DOI: 10.1021/acs.joc.5b00040
+J. Org. Chem. 2015, 80, 3124−3138
+
+

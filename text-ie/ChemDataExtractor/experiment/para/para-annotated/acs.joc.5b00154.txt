@@ -1,0 +1,1344 @@
+Article
+
+pubs.acs.org/joc
+
+Palladium-Catalyzed Tandem Annulation: A Strategy To Construct
+2,3-Difunctionalized Benzofuran Derivatives in Ionic Liquids
+Jianxiao Li, Zhongzhi Zhu, Shaorong Yang,* Zhenming Zhang, Wanqing Wu, and Huanfeng Jiang*
+School of Chemistry and Chemical Engineering, South China University of Technology, Guangzhou 510640, China
+
+*S Supporting Information
+
+ABSTRACT: An eﬃcient and ecofriendly method for the
+construction of 2,3-difunctionalized benzofuran derivatives in
+moderate to good yields from readily available 2-alkynylphe-
+nols has been developed. This tandem annulation process,
+featuring one pot, three steps, good functional group tolerance,
+and high atom economy, makes this transformation eﬃcient
+and practical. Moreover, this protocol is scalable, illustrating
+its potential applications in synthetic and pharmaceutical
+chemistry.
+
+■ INTRODUCTION
+
+The shortage of resources and the increasing awareness of
+environmental aspects have changed the major focus of
+contemporary chemical research to provide desired target
+molecules via an economical and environmentally benign
+synthetic route.1 Toward this end, transition-metal-catalyzed
+carbon−carbon or carbon−heteroatom bond formation has
+attracted considerable attention over the past decades, owing to
+its easy access to highly functionalized complicated molecules in
+a rather eﬃcient, atom- and step-economical way.2 Particularly,
+palladium-catalyzed tandem reaction is now established as a
+captivating branch of organic chemistry, since such reactions
+aﬀord unconventional and more elaborated poly- and hetero-
+cyclic scaﬀolds via straightforward and eﬃcient synthetic
+strategies.3 Besides, the outstanding potential of palladium-
+catalyzed tandem processes lies in (i) the diversity of available
+bond-forming processes, such as C−C, C−O, and C−N bond
+formations; (ii) high chemo-, regio-, and stereoselectivity; and
+(iii) great functional-group tolerance. Consequently, palladium-
+catalyzed tandem processes constitute an eﬃcient strategy
+to synthesize an increasingly wide range of polyfunctionalized
+compounds.4
+
+In addition, 2,3-difunctionalized benzofurans are attractive
+synthetic targets because of their remarkable biological activities
+and potentiality of being pharmaceutical,5 prompting develop-
+ment of many eﬃcient synthetic methodologies for constructing
+this scaﬀold. Undoubtedly, 2-alkynylphenols are the most
+commonly used precursors to prepare this functionalized core
+backbone, for instance, cyclization of 2-alkynylphenol to the
+3-metallobenzofuran intermediate that reacts further with an
+electrophile to produce the corresponding 2,3-difunctionalized
+benzofuran derivatives (Scheme 1, route a).6 After that,
+Aurrecoechea and co-workers discovered a new Pd-catalyzed
+tandem intramolecular oxypalladation/Heck-type coupling
+between 2-alkynylphenols and alkenes leading to 2,3-difunction-
+alized benzofuran derivatives (Scheme 1, route b).7 Despite the
+
+Scheme 1. Cyclization of 2-Alkynylphenol to
+2,3-Difunctionalized Benzofurans
+
+signiﬁcant progress that has been achieved along this line, all
+these elegant developments suﬀer from certain limitations such
+as troublesome operation, harsh reaction conditions, or low
+yields, prohibiting their wider application in organic synthesis.
+Therefore, the development of convenient, eﬃcient, and atom-
+economical synthetic methodologies for the rapid construction
+of this heterocyclic motif is still highly desirable. In this context,
+impressive achievements have been made in enhancing the
+eﬃciency of transition-metal-catalyzed cross-coupling reaction
+for the synthesis of 2,3-difunctionalized benzofurans, notably
+cross-coupling of C2-halogenated or stannylated benzofurans
+with aryl boronic acids or aryl halides,8 direct arylation of
+C2- or C3-substituted benzofurans with aryl halides by C−H
+activation,9 oxidative dehydrogenative cross-coupling at the C2
+position of benzofurans,10 and other strategies.11 More recently,
+we reported an intermolecular cascade annulation to construct
+functionalized β- and γ-lactones in ionic liquids.12 Driven by our
+interest in nucleopalladation13 and Pd-catalyzed cross-coupling
+
+Received:
+January 20, 2015
+Published: March 17, 2015
+
+© 2015 American Chemical Society
+
+3870
+
+DOI: 10.1021/acs.joc.5b00154
+J. Org. Chem. 2015, 80, 3870−3879
+
+The Journal of Organic Chemistry
+
+reactions in ionic liquids,14 herein we disclose an eﬃcient and
+practical method for the synthesis of 2,3-difunctionalized
+benzofurans via the Pd-catalyzed intermolecular tandem annula-
+tion reaction of 2-alkynylphenol derivatives with vinylacetic acid in
+ionic liquids (Scheme 1, route c).
+
+■ RESULTS AND DISCUSSION
+<para sub=“opt”>
+Our investigation was initiated by using the reaction of
+2-(phenylethynyl)phenol (1aa) with but-3-enoic acid (2a) as a
+model system to screen the optimal conditions (Table 1). First,
+</para>
+Table 1. Optimization of the Reaction Conditionsa
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+catalyst
+
+solvent
+
+oxidant
+·2H2O
+
+CuCl2
+PdCl2
+PdCl2
+Cu(OAc)2
+PdCl2
+Cu(OTf)2
+PdCl2
+Cu(OPiv)2
+PdCl2
+Cu(TFA)2
+PdCl2
+Cu(hfac)2
+Pd(TFA)2
+Cu(TFA)2
+Pd(TFA)2
+O2
+Pd(OAc)2
+Cu(TFA)2
+Pd(PhCN)2Cl2
+Cu(TFA)2
+Pd(acac)2
+Cu(TFA)2
+Pd(PCy3)2Cl2
+Cu(TFA)2
+[Pd(η3-C3H5)Cl]2 Cu(TFA)2
+Pd(TFA)2
+Cu(TFA)2
+Pd(TFA)2
+Cu(TFA)2
+Pd(TFA)2
+Cu(TFA)2
+
+[C2OHmim]Cl
+[C2OHmim]Cl
+[C2OHmim]Cl
+[C2OHmim]Cl
+·xH2O [C2OHmim]Cl
+·2H2O
+[C2OHmim]Cl
+·xH2O [C2OHmim]Cl
+[C2OHmim]Cl
+·xH2O [C2OHmim]Cl
+·xH2O [C2OHmim]Cl
+·xH2O [C2OHmim]Cl
+·xH2O [C2OHmim]Cl
+·xH2O [C2OHmim]Cl
+·xH2O DMF
+·xH2O toluene
+·xH2O 1,4-dioxane
+
+yieldb
+(%)
+
+23
+17
+trace
+trace
+67
+10
+94 (83)
+58
+trace
+19
+8
+52
+43
+trace
+9
+trace
+
+aUnless otherwise noted, all reactions were performed with 1aa
+(0.25 mmol), 2a (0.3 mmol), Pd catalyst (3 mol %), and oxidant (2 equiv)
+in the indicated solvent (1.0 mL) at 100 °C for 12 h. bDetermined by GC
+using dodecane as the internal standard. The value in parentheses is
+the yield of isolated product. Hfac = hexaﬂuoroacetylacetonate.
+<para sub=“opt”>
+·2H2O in [C2OHmim]
+with the combination of PdCl2 and CuCl2
+Cl at 100 °C, the desired product 3aa was obtained in 23% yield
+(Table 1, entry 1). The structure of 3aa was established by 1H
+NMR, 13C NMR, GC−MS, and HRMS analysis. Subsequently,
+further exploration of oxidants in the model reaction indicated
+·xH2O was superior to the others. Other oxidants,
+that Cu(TFA)2
+·2H2O,
+such as Cu(OAc)2, Cu(OTf)2, Cu(OPiv)2, and Cu(hfac)2
+showed less or no eﬃciency in terms of chemical yields (Table 1,
+entries 2−6). Unfortunately, a lower yield of 3aa was obtained
+when the reaction was performed under 1 atm of pressure of O2
+(Table 1, entry 8). Furthermore, other palladium catalysts
+were also examined. Except for Pd(TFA)2, other Pd sources,
+including Pd(OAc)2, Pd(PCy3)2Cl2, Pd(PhCN)2Cl2, Pd(acac)2,
+and [Pd(η3-C3H5)Cl]2, showed low eﬃciencies (entries 9−13).
+Replacing [C2OHmim]Cl with other ionic liquids, such as
+[Bmim]Cl, [Bmim]BF4, [Bmim]PF6, [C2O2mim]Cl, and
+[BuPy]Cl, were ineﬀective for this transformation, and the
+reactions gave only low yields.15 Finally, various conventional
+solvents, such as DMF, toluene, and 1,4-dioxane, were examined
+under the same reaction conditions and signiﬁcantly decreased
+the yields (entries 14−16).
+</para>
+Article
+<para sub="scope">
+With the optimized reaction conditions in hand, we further
+investigated the scope and generality of
+this protocol.
+Representative results are summarized in Table 2. Gratifyingly,
+a range of 2,3-difunctionalized benzofurans 3 were obtained in
+moderate to excellent yields. Additionally, reactions employing
+2-alkynylphenols 1 with aryl groups attached on the triple bond
+all worked well to aﬀord the desired products 3. For instance,
+a series of para-substituted aryl rings,
+including some with
+electron-donating groups (R = alkyl, OMe, Ph, ethylcyclohexyl)
+and some with electron-withdrawing groups (R = F, Cl, Br), were
+converted into the corresponding 2,3-difunctionalized benzofur-
+ans in moderate to excellent yields (3aa−3al). Pleasingly, this
+transformation was compatible with the Cl- and Br-substituted
+aryl rings, which might allow for further synthetic trans-
+formations by transition-metal-catalyzed coupling and other
+reactions. As for the sterically hindered 2-alkynylphenols 1aa,
+1ae, and 1ak, the reaction furnished the corresponding products
+3aa in yields similar to those of 3ae and 3ak. These results
+showed that
+toward
+electronic and steric eﬀects of the aromatic ring. Similarly,
+2-alkynylphenols 1 with alkyl groups attached on the triple bond
+proceeded smoothly to give the products 3 in moderate to good
+yields (3am−3bc). Notably, with the carbon chain of alkyl
+groups extended, the benzofuran derivatives 3an−3as and 3au−
+3ay were successfully obtained in moderate yields. Afterward,
+1az−1bc could be transformed eﬃciently, which greatly
+expanded the scope of the products. Besides the wide substrate
+scope, another impressive feature of the current tandem annu-
+lation reaction is its high tolerance for functional groups. For
+instance, the 2-alkynylphenols containing vinyl or thienyl groups
+underwent the tandem reaction to give corresponding products
+3bd and 3be in 78% and 56% yields, respectively. Unfortunately,
+2-(pyridin-2-ylethynyl)phenol (1bf) failed to aﬀord the desired
+products. Delightfully, 2,2-dimethylbut-3-enoic acid (2b) could
+be converted into the corresponding products 3bg in 87% yield
+as well.
+
+this new transformation was tolerant
+</para>
+<para sub="scope">
+With the positive results above, we next explored the scope of
+tandem annulation of various substituted phenols with allylic acid
+(2a), which showed high tolerance to the reactions. In general,
+various substituted 2-alkynylphenols with electron-donating
+groups (alkyl, alkoxyl) and weakly or moderately electron-
+withdrawing groups (F, Cl, Br) aﬀorded the corresponding
+benzofuran derivatives 4a−4n in moderate to excellent yields
+(Table 3). Importantly, even if a sterically bulky 2-alkynylphenol
+such as 4-(tert-butyl)-2-(phenylethynyl)phenol was used, the
+corresponding 4e was obtained in 81% yield. Moreover, this
+transformation could be successfully extended to a variety of
+2,4- and 2,5-disubstituted 2-alkynylphenols,
+furnishing the
+corresponding benzofuran derivatives 4f and 4n in 76% and
+74% yields, respectively.
+</para>
+<para sub="scope">
+Based on the results obtained, the tandem annulation reactions
+of pent-4-enoic acid (5) with 2-alkynylphenols were attempted
+under standard reaction conditions (Scheme 2). When the
+tandem annulation coupling reagent was 2-(phenylethynyl)-
+phenol (1aa), no benzofuran products 8 were obtained, but 6a
+and 7a were obtained in 84% and 11% yields, respectively.
+Similarly, when 2-(pent-1-yn-1-yl)phenol (1ao) was used as the
+coupling reagent, the annulation products 6b (66%) and 7b
+(19%) were obtained, respectively. The result obtained indicates
+the crucial role of the position of the carboxylic acid pattern in the
+transformation.
+</para>
+<para sub="scope">
+To prove the practicality of the present method in the
+synthesis of benzofuran derivatives, a gram-scale synthesis of 3aa
+</para>
+3871
+
+DOI: 10.1021/acs.joc.5b00154
+J. Org. Chem. 2015, 80, 3870−3879
+
+The Journal of Organic Chemistry
+Table 2. Scope of the Reaction of 2-Alkyl-Substituted Phenols with But-3-enoic Acida
+
+Article
+
+aReaction conditions: 1 (0.25 mmol), 2 (0.30 mmol), Pd(TFA)2 (3 mol %), Cu(TFA)2
+Reaction was monitored by TLC for the completion of the reaction. Yields referred to isolated yields.
+
+·xH2O (2 equiv), and [C2OHmim]Cl (1 mL) at 100 °C.
+<para sub="scope">
+was performed, and the result is shown in Scheme 3. When 0.97 g
+of 1aa was utilized, 1.02 g of product 3aa was obtained in 74%
+yield.
+</para>
+<para sub="scope">
+To extend the applicability of
+
+this methodology, we
+subsequently utilized various 2-(phenylethynyl)anilines 9 with
+the developed optimal reaction conditions. Disappointingly,
+2-(phenylethynyl)aniline (9a) and N-methyl-2-(phenylethynyl)-
+aniline (9b) failed to aﬀord the desired products and only a
+complicated mixture was detected by GC−MS. Ultimately, when
+4-methyl-N-(2-(phenylethynyl)phenyl)benzenesulfonamide
+(9c) was employed to react with 2a under the standard con-
+ditions, only a trace amount of 1-tosyl-1H-indole 10c was
+detected by GC−MS (Scheme 4).
+</para>
+<para sub="scope">
+The aryl halide functionality in the newly formed product
+enables them to be attractive and versatile synthetic building
+blocks in a variety of chemical transformations, leading to more
+complicated organic architectures by the formation of new C−C
+bonds. Hence, to demonstrate the synthetic utility of this
+protocol, we further examined the resultant products in the
+transition-metal-catalyzed cross-coupling reactions (Scheme 5).
+For instance, the Suzuki−Miyaura cross-coupling reactions of 4l
+with phenylboronic acid delivered arylated compounds 11a in
+moderate yield.16 Furthermore, the desulﬁtative coupling of 4l
+occurred uneventfully as well, providing the arylated compounds
+11b in 68% yield.17 To our satisfaction, 4l underwent the Negishi
+coupling to produce the highly functionalized benzofuran
+derivative 11c in 63% yield.16
+</para>
+<para sub=“ques”>
+Based on the current results and previous literature,12−14,18
+the postulated reaction mechanism is depicted in Scheme 6.
+Pd complex is initially formed in situ in ionic liquids.12−14 Then,
+oxypalladation of 2-alkynylphenols aﬀorded vinyl palladium
+intermediate I.18 Subsequently, intermediate I could undergo
+Heck-like alkene insertion to produce intermediates II.
+Simultaneously, the alkylpalladium species coordinated to the
+oxygen atoms of the hydroxyl group and generated the ﬁve
+membered palladacycle intermediate III.12 Finally, a reductive
+elimination produced the target product and Pd(II) active species
+was regenerated by the oxidation of Cu(II) for the next cycle.
+</para>
+■ CONCLUSION
+
+In conclusion, we have successfully accomplished an attractive
+strategy for the synthesis of functionalized 2,3-difunctionalized
+benzofurans via palladium-catalyzed cascade annulation of
+2-alkynylphenols with allylic acids in ionic liquids. This cascade
+annulation process,
+three steps, good
+functional group tolerance, and high atom economy, makes
+this transformation eﬃcient and practical. Most importantly, the
+employment of ionic liquids under mild conditions makes this
+transformation green and environmentally friendly. Further-
+more, this protocol should provide an ecofriendly methodology
+to functionalized benzofurans.
+
+featuring one pot,
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Methods. Melting points were measured by a melting
+point instrument and were uncorrected. 1H and 13C NMR spectra were
+</para>
+3872
+
+DOI: 10.1021/acs.joc.5b00154
+J. Org. Chem. 2015, 80, 3870−3879
+
+The Journal of Organic Chemistry
+Table 3. Scope with Regard to But-3-enoic Acid and Substituted Phenolsa
+
+Article
+
+aReaction conditions: 1 (0.25 mmol), 2a (0.30 mmol), Pd(TFA)2 (3 mol %), Cu(TFA)2
+Reaction was monitored by TLC for the completion of the reaction. Yields referred to isolated yields.
+
+·xH2O (2 equiv), and [C2OHmim]Cl (1 mL) at 100 °C.
+
+Scheme 2. Investigation of Tandem Annulation of Pent-4-enoic Acid with Substituted Phenols
+
+Scheme 3. Gram-Scale Synthesis of 3aaa
+
+Scheme 4. Investigation of Tandem Annulation of 2a with
+2-Alkyl-Substituted Anilines
+
+aReaction conditions: 1aa (5 mmol, 0.97 g), but-3-enoic acid 2a
+·xH2O
+(6 mmol, 0.52 g), Pd(TFA)2 (3 mol %, 50 mg), Cu(TFA)2
+(2 equiv, 2.89 g), and [C2OHmim]Cl (3 mL) at 100 °C for 28 h.
+Reaction was monitored by TLC for the completion of the reaction;
+Yields referred to isolated yields.
+
+3873
+
+DOI: 10.1021/acs.joc.5b00154
+J. Org. Chem. 2015, 80, 3870−3879
+
+The Journal of Organic Chemistry
+
+Scheme 5. Synthetic Transformations of 4l
+
+Scheme 6. Proposed Mechanism
+<para sub=“exp”>
+recorded by using a 400 MHz NMR spectrometer. The chemical shifts
+are referenced to signals at 7.24 and 77.0 ppm, respectively, and
+chloroform is used as a solvent with TMS as the internal standard. IR
+spectra were obtained either as potassium bromide pellets or as liquid
+ﬁlms between two potassium bromide pellets with an infrared
+spectrometer. GC−MS was obtained using electron ionization. The
+data of HRMS was carried out on a high-resolution mass spectrometer
+(LCMS-IT-TOF). TLC was performed by using commercially available
+100−400 mesh silica gel plates (GF254). Unless otherwise noted,
+all purchased chemicals were used without further puriﬁcation. The
+2-alkynylphenols were prepared according to the literature.7
+
+General Procedure for the Synthesis of 2,3-Disubstituted
+Benzofurans 3 and 4. A mixture of 2-alkynylphenols 1 (0.25 mmol),
+·
+oleﬁn acids 2 (0.30 mmol), Pd(TFA)2 (2.5 mg, 3 mol %), Cu(TFA)2
+xH2O (145 mg, 2 equiv), and ionic liquid (1.0 mL) was placed in a test
+tube (10 mL) equipped with a magnetic stirring bar. The mixture was
+stirred under the atmosphere of air at 100 °C. After the reaction was
+completed, 10 mL of ethyl acetate (3 × 10 mL) was added into the tube.
+The combined organic layers were washed with brine to neutral, dried
+over MgSO4, and concentrated in vacuum. Puriﬁcation of the residue on
+a preparative TLC aﬀorded the desired products.
+4-((2-Phenylbenzofuran-3-yl)methyl)oxetan-2-one (3aa): yield
+83% (57.7 mg) as a yellow solid; mp = 136.6−137.4 °C; Rf 0.34
+(petroleum ether/EtOAc 5/1); 1H NMR (400 MHz, CDCl3) δ 7.67 (d,
+J = 7.6 Hz, 2H), 7.60 (d, J = 7.6 Hz, 1H), 7.51 (dt, J = 13.2, 7.6 Hz, 4H),
+7.35 (t, J = 8.0 Hz, 1H), 7.28 (d, J = 7.6 Hz, 1H), 5.92 (t, J = 8.0 Hz, 1H),
+2.88−2.78 (m, 2H), 2.73−2.59 (m, 2H); 13C NMR (100 MHz, CDCl3)
+δ 176.6, 154.5, 153.7, 129.8, 129.5, 128.9, 128.1, 126.7, 124.9, 123.2,
+max(KBr)/cm−1 3060, 2922,
+120.6, 113.5, 111.7, 75.9, 29.5, 28.6 ppm; ν
+</para>
+Article
+<para sub=“exp”>
+1776, 1645, 1515, 1453, 1136, 750; MS (EI) m/z 105, 115, 128, 139,
+165, 191, 219, 249, 278; HRMS(ESI) m/z calcd for C18H15O3 [M + H]+
+279.1016, found 279.1013.
+
+4-((2-(4-Propylphenyl)benzofuran-3-yl)methyl)oxetan-2-one
+(3ab): yield 89% (71.2 mg) as a yellow oil; Rf 0.35 (petroleum ether/
+EtOAc 5/1); 1H NMR (400 MHz, CDCl3) δ 7.58 (t, J = 6.8 Hz, 3H),
+7.53 (d, J = 8.4 Hz, 1H), 7.33 (t, J = 7.6 Hz, 3H), 7.27 (d, J = 8.0 Hz, 1H),
+5.91 (t, J = 8.0 Hz, 1H), 2.86−2.76 (m, 2H), 2.74−2.59 (m, 4H), 1.79−
+1.64 (m, 2H), 0.98 (t, J = 7.2 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ
+176.6, 154.4, 154.1, 144.5, 129.1, 128.0, 127.1, 126.8, 124.8, 123.1, 120.4,
+max(KBr)/cm−1
+112.9, 111.6, 76.0, 37.9, 29.6, 28.6, 24.4, 13.8 ppm; ν
+3058, 2926, 1766, 1640, 1515, 1416, 1124; MS (EI) m/z 91, 115, 147,
+189, 207, 233, 265, 291, 320; HRMS(ESI) m/z calcd for C21H21O3
+[M + H]+ 321.1485, found 321.1483.
+
+4-((2-(4-Butylphenyl)benzofuran-3-yl)methyl)oxetan-2-one (3ac):
+yield 88% (73.5 mg) as a yellow oil; Rf 0.35 (petroleum ether/EtOAc
+5/1); 1H NMR (400 MHz, CDCl3) δ 7.58 (t, J = 7.2 Hz, 3H), 7.53 (d, J =
+8.4 Hz, 1H), 7.33 (t, J = 7.2 Hz, 3H), 7.27 (d, J = 7.6 Hz, 1H), 5.91 (t, J =
+8.0 Hz, 1H), 2.81 (dd, J = 16.8, 7.6 Hz, 2H), 2.76−2.60 (m, 4H), 1.65
+(dt, J = 15.2, 7.6 Hz, 2H), 1.39 (dq, J = 14.6, 7.2 Hz, 2H), 0.95 (t, J =
+7.2 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 176.7, 154.4, 154.1, 144.7,
+129.0, 128.0, 127.1, 126.8, 124.8, 123.1, 120.4, 112.9, 111.6, 76.0, 35.5,
+max(KBr)/cm−1 3055, 2929, 1754,
+33.4, 29.6, 28.6, 22.3, 13.9 ppm; ν
+1637, 1516, 1426, 1128; MS (EI) m/z 115, 131, 145, 187, 199, 217, 229,
+272, 281, 334; HRMS(ESI) m/z calcd for C22H23O3 [M + H]+
+335.1642, found 335.1637.
+
+4-((2-(4-Pentylphenyl)benzofuran-3-yl)methyl)oxetan-2-one
+(3ad): yield 83% (72.2 mg) as a yellow oil; Rf 0.37 (petroleum ether/
+EtOAc 5/1); 1H NMR (400 MHz, CDCl3) δ 7.58 (t, J = 7.2 Hz, 3H),
+7.53 (d, J = 8.0 Hz, 1H), 7.33 (t, J = 7.2 Hz, 3H), 7.27 (d, J = 7.6 Hz, 1H),
+5.91 (t, J = 8.0 Hz, 1H), 2.81 (dd, J = 16.8, 7.6 Hz, 2H), 2.75−2.58 (m,
+4H), 1.73−1.62 (m, 2H), 1.42−1.30 (m, 4H), 0.91 (t, J = 6.8 Hz, 3H);
+13C NMR (100 MHz, CDCl3) δ 176.7, 154.4, 154.1, 144.8, 129.0, 128.0,
+127.1, 126.8, 124.8, 123.1, 120.4, 112.9, 111.6, 76.0, 35.8, 31.5, 30.9,
+max(KBr)/cm−1 3053, 2928, 1755, 1631,
+29.6, 28.6, 22.5, 14.0 ppm; ν
+1518, 1426, 1126; MS (EI) m/z 115, 133, 165, 191, 207, 233, 281, 320,
+348; HRMS(ESI) m/z calcd for C23H25O3 [M + H]+ 349.1798, found
+349.1795.
+
+4-((2-(4-Hexylphenyl)benzofuran-3-yl)methyl)oxetan-2-one
+(3ae): yield 85% (76.9 mg) as a yellow oil; Rf 0.40 (petroleum ether/
+EtOAc 5/1); 1H NMR (400 MHz, CDCl3) δ 7.58 (t, J = 7.2 Hz, 3H),
+7.53 (d, J = 8.0 Hz, 1H), 7.33 (t, J = 7.6 Hz, 3H), 7.27 (d, J = 7.6 Hz, 1H),
+5.91 (t, J = 8.0 Hz, 1H), 2.81 (dd, J = 16.8, 7.6 Hz, 2H), 2.74−2.60
+(m, 4H), 1.69−1.62 (m, 2H), 1.40−1.30 (m, 6H), 0.89 (t, J = 6.8 Hz,
+3H); 13C NMR (100 MHz, CDCl3) δ 176.7, 154.4, 154.1, 144.8, 129.0,
+128.0, 127.1, 126.8, 124.8, 123.1, 120.4, 112.9, 111.6, 76.0, 35.8, 31.7,
+max(KBr)/cm−1 3050, 2930,
+31.3, 29.6, 28.9, 28.6, 22.6, 14.1 ppm; ν
+1748, 1622, 1518, 1424, 1123; MS (EI) m/z 115, 165, 207, 233, 291,
+307, 362; HRMS(ESI) m/z calcd for C24H27O3 [M + H]+ 363.1955,
+found 363.1952.
+
+4-((2-(4-(tert-Butyl)phenyl)benzofuran-3-yl)methyl)oxetan-2-one
+(3af): yield 83% (69.3 mg) as a yellow oil; Rf 0.38 (petroleum ether/
+EtOAc 5/1); 1H NMR (400 MHz, CDCl3) δ 7.59 (t, J = 6.4 Hz, 3H),
+7.53 (d, J = 8.4 Hz, 3H), 7.33 (d, J = 7.6 Hz, 1H), 7.27 (d, J = 8.4 Hz,
+1H), 5.92 (t, J = 8.0 Hz, 1H), 2.86−2.73 (m, 2H), 2.72−2.57 (m, 2H),
+1.37 (s, 9H); 13C NMR (100 MHz, CDCl3) δ 176.7, 154.4, 154.0, 152.9,
+127.9, 126.9, 126.8, 125.9, 124.8, 123.1, 120.5, 112.9, 111.6, 76.0, 34.9,
+max(KBr)/cm−1 3057, 2959, 1778, 1619, 1509,
+31.2, 29.6, 28.6 ppm; ν
+1455, 1400, 1135, 747; MS (EI) m/z 105, 119, 133, 154, 193, 207, 249,
+281, 334; HRMS(ESI) m/z calcd for C22H22NaO3 [M + Na]+ 357.1461,
+found 357.1458.
+4-((2-(4-Ethoxyphenyl)benzofuran-3-yl)methyl)oxetan-2-one
+(3ag): yield 74% (59.6 mg) as a yellow solid; mp = 123.4−124.5 °C; Rf
+0.41 (petroleum ether/EtOAc 2/1); 1H NMR (400 MHz, CDCl3) δ
+7.60−7.56 (m, 3H), 7.52 (d, J = 8.0 Hz, 1H), 7.33 (d, J = 7.6 Hz, 1H),
+7.27 (d, J = 6.4 Hz, 1H), 7.02 (d, J = 8.4 Hz, 2H), 5.88 (t, J = 8.0 Hz, 1H),
+4.11 (q, J = 6.8 Hz, 2H), 2.88−2.78 (m, 2H), 2.74−2.60 (m, 2H), 1.46
+(t, J = 6.8 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 176.7, 160.0, 154.3,
+154.1, 129.6, 126.9, 124.6, 123.1, 122.0, 120.3, 114.9, 112.1, 111.5, 76.1,
+max(KBr)/cm−1 3060, 2923, 1775, 1645,
+63.7, 29.6, 28.5, 14.8 ppm; ν
+</para>
+3874
+
+DOI: 10.1021/acs.joc.5b00154
+J. Org. Chem. 2015, 80, 3870−3879
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+1546, 1510, 1178, 751; MS (EI) m/z 105, 127, 143, 165, 193, 207, 249,
+281, 322; HRMS(EI) m/z calcd for C20H19O4 [M + H]+ 323.1278,
+found 323.1283.
+4-((2-(4-Fluorophenyl)benzofuran-3-yl)methyl)oxetan-2-one
+(3ah): yield 80% (59.2 mg) as a yellow solid; mp = 110.6−111.9 °C; Rf
+0.42 (petroleum ether/EtOAc 4/1); 1H NMR (400 MHz, CDCl3) δ
+7.67−7.64 (m, 2H), 7.59 (d, J = 8.0 Hz, 1H), 7.54 (d, J = 8.0 Hz, 1H),
+7.35 (t, J = 7.6 Hz, 1H), 7.28 (d, J = 7.6 Hz, 1H), 7.21 (t, J = 8.0 Hz, 2H),
+5.85 (t, J = 8.0 Hz, 1H), 2.88−2.79 (m, 2H), 2.75−2.58 (m, 2H); 13C
+NMR (100 MHz, CDCl3) δ 176.5, 163.4 (J = 249.2 Hz), 154.4, 152.9,
+130.1 (J = 8.4 Hz), 126.6, 125.9 (J = 3.2 Hz), 125.1, 123.3, 120.5, 116.2
+max(KBr)/cm−1 3063,
+(J = 21.7 Hz), 113.3, 111.7, 75.7, 29.5, 28.5 ppm; ν
+2922, 1775, 1644, 1508, 1453, 1416, 1182, 749; MS (EI) m/z 106, 133,
+183, 207, 251, 296; HRMS(EI) m/z calcd for C18H14FO3 [M + H]+
+297.0921, found 297.0922.
+4-((2-(4-Chlorophenyl)benzofuran-3-yl)methyl)oxetan-2-one
+(3ai): yield 72% (56.2 mg) as a yellow solid; mp = 102.6−103.7 °C; Rf
+0.40 (petroleum ether/EtOAc 4/1); 1H NMR (400 MHz, CDCl3) δ
+7.62−7.60 (m, 3H), 7.54 (d, J = 8.0 Hz, 1H), 7.49 (d, J = 8.0 Hz, 2H),
+7.41−7.34 (m, 1H), 7.29 (d, J = 7.6 Hz, 1H), 5.87 (t, J = 8.0 Hz, 1H),
+2.90−2.78 (m, 2H), 2.74−2.58 (m, 2H); 13C NMR (100 MHz, CDCl3)
+δ 176.5, 154.5, 152.5, 135.7, 130.9, 129.3, 129.2, 128.6, 125.3, 123.4,
+max(KBr)/cm−1 3064, 2923,
+120.6, 113.9, 111.7, 75.6, 29.4, 28.6 ppm; ν
+1777, 1648, 1483, 1452, 1137, 750; MS (EI) m/z 115, 135, 165, 193,
+207, 233, 255, 281, 312; HRMS(EI) m/z calcd for C18H13ClNaO3
+[M + Na]+ 335.0445, found 335.0444.
+4-((2-(4-Bromophenyl)benzofuran-3-yl)methyl)oxetan-2-one
+(3aj): yield 77% (68.5 mg) as a yellow solid; mp = 133.7−134.9 °C; Rf
+0.47 (petroleum ether/EtOAc 4/1); 1H NMR (400 MHz, CDCl3) δ
+7.65 (d, J = 8.0 Hz, 2H), 7.60 (d, J = 7.6 Hz, 1H), 7.54 (d, J = 8.4 Hz,
+2H), 7.41−7.34 (m, 2H), 7.29 (d, J = 7.6 Hz, 1H), 5.86 (t, J = 8.0 Hz,
+1H), 2.91−2.78 (m, 2H), 2.73−2.60 (m, 2H); 13C NMR (100 MHz,
+CDCl3) δ 176.4, 154.5, 152.5, 138.1, 132.2, 129.5, 128.7, 126.6, 125.3,
+max(KBr)/cm−1 3066,
+123.4, 120.6, 114.0, 111.7, 75.6, 29.4, 28.5 ppm; ν
+2921, 1767, 1645, 1485, 1450, 1131, 756; MS (EI) m/z 115, 133, 165,
+207, 233, 267, 301, 327, 356; HRMS(EI) m/z calcd for C18H13BrNaO3
+[M + Na]+ 378.9940, found 378.9938.
+
+4-((2-(4-(4-Ethylcyclohexyl)phenyl)benzofuran-3-yl)methyl)-
+oxetan-2-one (3ak): yield 78% (75.7 mg) as a yellow solid; mp =
+130.3−131.3 °C; Rf 0.32 (petroleum ether/EtOAc 5/1); 1H NMR
+(400 MHz, CDCl3) δ 7.58 (d, J = 8.0 Hz, 3H), 7.52 (d, J = 8.0 Hz, 1H),
+7.35 (t, J = 8.0 Hz, 2H), 7.31 (d, J = 8.4 Hz, 1H), 7.26 (d, J = 6.8 Hz, 1H),
+5.91 (t, J = 8.0 Hz, 1H), 2.88−2.78 (m, 2H), 2.75−2.61 (m, 2H), 2.57−
+2.51 (m, 1H), 1.93 (t, J = 11.2 Hz, 4H), 1.53−1.43 (m, 1H), 1.31−1.26
+(m, 4H), 1.13−1.03 (m, 2H), 0.92 (t, J = 7.2 Hz, 3H); 13C NMR
+(100 MHz, CDCl3) δ 176.7, 154.4, 154.1, 149.6, 128.1, 127.5, 127.2,
+126.8, 124.7, 123.1, 120.4, 112.9, 111.6, 76.0, 44.6, 39.1, 34.2, 33.1, 30.0,
+max(KBr)/cm−1 3059, 2921, 1778, 1626, 1514, 1453,
+29.6, 28.6 ppm; ν
+1137, 750; MS (EI) m/z 105, 135, 191, 207, 281, 325, 356, 388;
+HRMS(EI) m/z calcd for C26H28NaO3 [M + Na]+ 411.1931, found
+411.1926.
+4-((2-([1,1′-Biphenyl]-4-yl)benzofuran-3-yl)methyl)oxetan-2-one
+(3al): yield 82% (72.6 mg) as a yellow solid; mp = 194.3−195.7 °C; Rf
+0.31 (petroleum ether/EtOAc 4/1); 1H NMR (400 MHz, CDCl3) δ
+7.75 (s, 3H), 7.65 (d, J = 7.2 Hz, 2H), 7.62 (d, J = 8.0 Hz, 1H), 7.56 (d,
+J = 8.0 Hz, 1H), 7.49 (t, J = 7.6 Hz, 2H), 7.42−7.37 (m, 2H), 7.35 (d, J =
+8.0 Hz, 1H), 7.29 (d, J = 7.6 Hz, 1H), 5.98 (t, J = 8.0 Hz, 1H), 2.90−2.80
+(m, 2H), 2.78−2.65 (m, 2H); 13C NMR (100 MHz, CDCl3) δ 176.6,
+154.5, 153.5, 142.3, 140.1, 130.1, 129.0, 128.6, 128.5, 127.6, 127.1, 126.8,
+max(KBr)/cm−1
+125.0, 123.3, 120.6, 113.6, 111.7, 76.0, 29.5, 28.6 ppm; ν
+3056, 2920, 1775, 1648, 1517, 1500, 1449, 1138, 750; MS (EI) m/z 105,
+119, 133, 149, 177, 191, 207, 281, 325, 354; HRMS(EI) m/z calcd for
+C24H18NaO3 [M + Na]+ 377.1148, found 377.1145.
+4-((2-(tert-Butyl)benzofuran-3-yl)methyl)oxetan-2-one (3am):
+yield 81% (52.2 mg) as a yellow solid; mp = 101.4−102.8 °C; Rf 0.44
+(petroleum ether/EtOAc 5/1); 1H NMR (400 MHz, CDCl3) δ 7.45
+(d, J = 7.6 Hz, 1H), 7.42 (d, J = 8.4 Hz, 1H), 7.42 (d, J = 8.0 Hz, 1H),
+7.17 (t, J = 7.6 Hz, 1H), 6.07 (t, J = 8.0 Hz, 1H), 2.83−2.71 (m, 2H),
+2.58−2.51 (m, 2H), 1.47 (s, 9H); 13C NMR (100 MHz, CDCl3) δ 176.7,
+161.8, 153.3, 127.0, 122.6, 120.4, 111.2, 111.1, 75.9, 30.0, 29.6, 29.2,
+</para>
+Article
+<para sub=“exp”>
+max(KBr)/cm−1 3066, 2967, 1777, 1648, 1517, 1455, 1136,
+27.4 ppm; ν
+750; MS (EI) m/z 91, 115, 128, 157, 183, 199, 225, 243, 258;
+HRMS(EI) m/z calcd for C16H19O3 [M + H]+ 259.1329,
+found
+259.1332.
+
+4-((2-Propylbenzofuran-3-yl)methyl)oxetan-2-one (3an): yield
+69% (42.1 mg) as a yellow oil; Rf 0.44 (petroleum ether/EtOAc 5/1);
+1H NMR (400 MHz, CDCl3) δ 7.47−7.42 (m, 2H), 7.24−7.18 (m, 2H),
+5.68 (t, J = 8.0 Hz, 1H), 2.82−2.72 (m, 4H), 2.56 (dd, J = 16.8, 8.0 Hz,
+2H), 1.77 (dq, J = 14.4, 7.2 Hz, 2H), 0.98 (t, J = 7.2 Hz, 3H); 13C NMR
+(100 MHz, CDCl3) δ 176.6, 156.4, 154.2, 126.3, 123.9, 122.8, 119.5,
+max(KBr)/cm−1
+112.7, 111.2, 75.7, 29.4, 28.9, 28.7, 21.7, 13.7 ppm; ν
+3055, 2938, 1768, 1649, 1509, 1457, 1400, 1135, 748; MS (EI) m/z 91,
+103, 115, 131, 145, 189, 215, 244; HRMS(ESI) m/z calcd for C15H17O3
+[M + H]+ 245.1172, found 245.1170.
+
+4-((2-Butylbenzofuran-3-yl)methyl)oxetan-2-one (3ao): yield 64%
+(41.3 mg) as a yellow oil; Rf 0.45 (petroleum ether/EtOAc 5/1); 1H
+NMR (400 MHz, CDCl3) δ 7.44 (t, J = 8.4 Hz, 2H), 7.24−7.18 (m, 2H),
+5.68 (t, J = 8.0 Hz, 1H), 2.87−2.68 (m, 4H), 2.56 (dd, J = 16.4, 8.0 Hz,
+2H), 1.72 (dt, J = 14.8, 7.2 Hz, 2H), 1.38 (td, J = 14.8, 7.2 Hz, 2H), 0.94
+(t, J = 7.2 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 175.5, 155.5, 153.1,
+125.2, 122.8, 121.6, 118.3, 111.3, 110.1, 74.5, 29.4, 28.3, 27.8, 25.4, 21.2,
+max(KBr)/cm−1 3056, 2936, 1763, 1645, 1506, 1450, 1400,
+12.6 ppm; ν
+1133, 746; MS (EI) m/z 55, 103, 128, 145, 171, 185, 215, 258;
+HRMS(ESI) m/z calcd for C16H19O3 [M + H]+ 259.1329, found
+259.1323.
+
+4-((2-Pentylbenzofuran-3-yl)methyl)oxetan-2-one (3ap): yield
+73% (49.6 mg) as a yellow oil; Rf 0.45 (petroleum ether/EtOAc 5/1);
+1H NMR (400 MHz, CDCl3) δ 7.44 (t, J = 8.4 Hz, 2H), 7.24−7.18 (m,
+2H), 5.68 (t, J = 8.0 Hz, 1H), 2.83−2.75 (m, 4H), 2.56 (q, J = 8.2 Hz,
+2H), 1.77−1.70 (m, 2H), 1.39−1.30 (m, 2H), 0.90 (t, J = 6.4 Hz, 3H);
+13C NMR (100 MHz, CDCl3) δ 176.7, 156.6, 154.2, 126.3, 123.9, 122.7,
+119.5, 112.4, 111.2, 75.7, 31.3, 29.4, 28.9, 28.1, 26.8, 22.4, 13.9 ppm;
+max(KBr)/cm−1 3058, 2938, 1768, 1644, 1506, 1440, 1406, 1130, 748;
+ν
+MS (EI) m/z 91, 128, 145, 187, 217, 243, 272; HRMS(ESI) m/z calcd
+for C17H21O3 [M + H]+ 273.1485, found 273.1483.
+
+4-((2-Hexylbenzofuran-3-yl)methyl)oxetan-2-one (3aq): yield 66%
+(47.2 mg) as a yellow oil; Rf 0.45 (petroleum ether/EtOAc 5/1); 1H
+NMR (400 MHz, CDCl3) δ 7.44 (t, J = 8.8 Hz, 2H), 7.24−7.18 (m, 2H),
+5.67 (t, J = 8.0 Hz, 1H), 2.84−2.70 (m, 4H), 2.55 (q, J = 8.0 Hz, 2H),
+1.72 (dd, J = 14.4, 6.8 Hz, 2H), 1.41−1.32 (m, 6H), 0.87 (d, J = 6.4 Hz,
+3H); 13C NMR (100 MHz, CDCl3) δ 176.6, 156.6, 154.2, 126.3, 123.9,
+122.7, 119.5, 112.4, 111.2, 75.7, 31.5, 29.7, 29.4, 28.9, 28.4, 26.8, 22.5,
+max(KBr)/cm−1 3056, 2936, 1766, 1648, 1502, 1445, 1404,
+14.0 ppm; ν
+1128, 754; MS (EI) m/z 55, 85, 115, 131, 145, 171, 201, 215, 232, 286;
+HRMS(ESI) m/z calcd for C18H23O3 [M + H]+ 287.1642, found
+287.1640.
+
+4-((2-Heptylbenzofuran-3-yl)methyl)oxetan-2-one (3ar): yield
+63% (47.3 mg) as a yellow oil; Rf 0.46 (petroleum ether/EtOAc 5/1);
+1H NMR (400 MHz, CDCl3) δ 7.44 (t, J = 8.8 Hz, 2H), 7.24−7.18 (m,
+2H), 5.67 (t, J = 8.0 Hz, 1H), 2.82−2.74 (m, 2H), 2.55 (dd, J = 16.4, 8.0
+Hz, 2H), 1.72 (dd, J = 13.2, 6.4 Hz, 2H), 1.33−1.25 (m, 8H), 0.88 (t, J =
+6.0 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 176.6, 156.6, 154.2, 126.3,
+123.9, 122.7, 119.5, 112.4, 111.2, 75.7, 31.7, 29.4, 29.2, 28.9, 28.8, 28.4,
+max(KBr)/cm−1 3058, 2938, 1763, 1640, 1508,
+26.8, 22.6, 14.0 ppm; ν
+1448, 1400, 1129, 756; MS (EI) m/z 55, 85, 118, 131, 171, 207, 215, 245,
+281, 300; HRMS(ESI) m/z calcd for C19H25O3 [M + H]+ 301.1798,
+found 301.1794.
+
+4-((2-Octylbenzofuran-3-yl)methyl)oxetan-2-one (3as): yield 57%
+(44.7 mg) as a yellow oil; Rf 0.46 (petroleum ether/EtOAc 5/1); 1H
+NMR (400 MHz, CDCl3) δ 7.44 (t, J = 8.6 Hz, 2H), 7.24−7.18 (m, 2H),
+5.67 (t, J = 8.0 Hz, 1H), 2.84−2.71 (m, 4H), 2.56 (q, J = 8.0 Hz, 2H),
+1.72 (dd, J = 14.0, 7.0 Hz, 2H), 1.33−1.25 (m, 10H), 0.87 (t, J = 6.0 Hz,
+3H); 13C NMR (100 MHz, CDCl3) δ 176.7, 156.7, 154.2, 126.3, 123.9,
+122.7, 119.5, 112.4, 111.2, 75.7, 31.8, 29.4, 29.3, 29.2, 29.1, 28.9, 28.4,
+max(KBr)/cm−1 3060, 2940, 1766, 1643, 1500,
+26.8, 22.6, 14.1 ppm; ν
+1445, 1405, 1134, 758; MS (EI) m/z 55, 77, 91, 115, 145, 187, 215, 229,
+259, 281, 314; HRMS(ESI) m/z calcd for C20H27O3 [M + H]+
+315.1955, found 315.1953.
+</para>
+3875
+
+DOI: 10.1021/acs.joc.5b00154
+J. Org. Chem. 2015, 80, 3870−3879
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+4-((2-(4-Chlorobutyl)benzofuran-3-yl)methyl)oxetan-2-one (3at):
+yield 77% (56.2 mg) as a yellow oil; Rf 0.41 (petroleum ether/EtOAc
+5/1); 1H NMR (400 MHz, CDCl3) δ 7.45 (t, J = 8.0 Hz, 2H), 7.24−7.19
+(m, 2H), 5.68 (t, J = 8.0 Hz, 1H), 3.57 (t, J = 6.0 Hz, 2H), 2.90−2.81
+(m, 2H), 2.80−2.72 (m, 2H), 2.64−2.51 (m, 2H), 1.96−1.80 (m, 4H);
+13C NMR (100 MHz, CDCl3) δ 176.6, 155.5, 154.2, 126.2, 124.2, 122.9,
+119.5, 112.9, 111.3, 75.5, 44.5, 31.8, 29.3, 28.9, 26.1, 25.7 ppm;
+max(KBr)/cm−1 3050, 2926, 1760, 1644, 1510, 1440, 1400, 1136, 758;
+ν
+MS (EI) m/z 103, 115, 131, 159, 207, 237, 292; HRMS(ESI) m/z calcd
+for C16H18ClO3 [M + H]+ 293.0939, found 293.0936.
+
+4-((2-Isobutylbenzofuran-3-yl)methyl)oxetan-2-one (3au): yield
+75% (48.4 mg) as a yellow oil; Rf 0.48 (petroleum ether/EtOAc 5/1);
+1H NMR (400 MHz, CDCl3) δ 7.47−7.42 (m, 2H), 7.24−7.17 (m, 2H),
+5.65 (t, J = 8.0 Hz, 1H), 2.80−2.76 (m, 2H), 2.73−2.63 (m, 2H), 2.62−
+2.53 (m, 2H), 2.12 (dt, J = 13.6, 6.4 Hz, 2H), 0.98 (dd, J = 11.2, 6.8 Hz,
+6H); 13C NMR (100 MHz, CDCl3) δ 176.7, 155.9, 154.3, 126.2, 123.9,
+122.8, 119.6, 113.3, 111.2, 75.7, 35.8, 29.5, 28.8, 28.2, 22.5, 22.4 ppm;
+max(KBr)/cm−1 3056, 2934, 1766, 1645, 1506, 1454, 1406, 1138, 749;
+ν
+MS (EI) m/z 103, 115, 131, 145, 171, 215, 258; HRMS(ESI) m/z calcd
+for C16H19O3 [M + H]+ 259.1329, found 259.1328.
+
+4-((2-Isopentylbenzofuran-3-yl)methyl)oxetan-2-one (3av): yield
+76% (51.7 mg) as a yellow oil; Rf 0.48 (petroleum ether/EtOAc 5/1);
+1H NMR (400 MHz, CDCl3) δ 7.44 (t, J = 8.0 Hz, 2H), 7.25−7.17
+(m, 2H), 5.68 (t, J = 8.0 Hz, 1H), 2.84−2.73 (m, 4H), 2.56 (dd, J = 15.6,
+7.6 Hz, 2H), 1.66−1.59 (m, 3H), 0.95 (d, J = 4.0 Hz, 6H); 13C NMR
+(100 MHz, CDCl3) δ 176.7, 156.8, 154.2, 126.3, 123.9, 122.8, 119.5,
+112.2, 111.2, 75.7, 37.5, 29.4, 28.9, 27.7, 24.8, 22.4, 22.3 ppm;
+max(KBr)/cm−1 3055, 2936, 1760, 1648, 1514, 1452, 1400, 1136, 756;
+ν
+MS (EI) m/z 77, 85, 115, 131, 157, 185, 199, 229, 272; HRMS(ESI) m/z
+calcd for C17H21O3 [M + H]+ 273.1485, found 273.1481.
+
+4-((2-Benzylbenzofuran-3-yl)methyl)oxetan-2-one (3aw): yield
+81% (51.7 mg) as a yellow oil; Rf 0.46 (petroleum ether/EtOAc 5/1);
+1H NMR (400 MHz, CDCl3) δ 7.48 (d, J = 7.6 Hz, 1H), 7.43 (d, J =
+8.0 Hz, 1H), 7.30 (dd, J = 14.8, 7.6 Hz, 4H), 7.24−7.19 (m, 3H), 5.70
+(t, J = 8.0 Hz, 1H), 4.17 (q, J = 16.0 Hz, 2H), 2.74−2.69 (m, 2H), 2.51−
+2.44 (m, 2H); 13C NMR (100 MHz, CDCl3) δ 176.6, 154.4, 154.1,
+137.0, 128.8, 128.5, 126.9, 126.3, 124.3, 122.9, 119.7, 113.6, 111.4, 75.5,
+max(KBr)/cm−1 3061, 2922, 1774, 1645, 1515,
+33.2, 29.3, 28.9 ppm; ν
+1454, 1140, 750; MS (EI) m/z 115, 159, 178, 191, 207, 233, 292;
+HRMS(ESI) m/z calcd for C19H17O3 [M + H]+ 293.1172, found
+293.1170.
+
+4-((2-Phenethylbenzofuran-3-yl)methyl)oxetan-2-one (3ax): yield
+69% (52.8 mg) as a yellow oil; Rf 0.46 (petroleum ether/EtOAc 5/1);
+1H NMR (400 MHz, CDCl3) δ 7.47 (d, J = 8.4 Hz, 1H), 7.39 (d, J =
+7.6 Hz, 1H), 7.29 (d, J = 7.6 Hz, 1H), 7.24−7.16 (m, 4H), 7.08 (d, J =
+7.2 Hz, 2H), 5.36 (t, J = 8.0 Hz, 1H), 3.23−3.07 (m, 2H), 3.04−3.00
+(m, 2H), 2.61−2.56 (m, 2H), 2.12 (td, J = 20.0, 10.2 Hz, 1H), 1.96 (dt,
+J = 12.8, 7.2 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 176.7, 154.8,
+154.3, 140.5, 128.6, 128.5, 126.4, 126.2, 124.1, 122.8, 119.6, 113.6, 111.2,
+max(KBr)/cm−1 3029, 2922, 1775,
+75.5, 34.5, 29.3, 29.2, 28.5 ppm; ν
+1650, 1455, 1140, 748; MS (EI) m/z 103, 128, 145, 187, 215, 246, 281,
+306; HRMS(ESI) m/z calcd for C20H19O3 [M + H]+ 307.1329, found
+307.1335.
+
+4-((2-(3-Phenylpropyl)benzofuran-3-yl)methyl)oxetan-2-one
+(3ay): yield 71% (56.8 mg) as a yellow oil; Rf 0.48 (petroleum ether/
+EtOAc 5/1); 1H NMR (400 MHz, CDCl3) δ 7.45 (t, J = 7.6 Hz, 2H),
+7.32−7.27 (m, 3H), 7.20 (t, J = 9.0 Hz, 4H), 5.58 (t, J = 8.0 Hz, 1H), 2.81
+(t, J = 7.4 Hz, 2H), 2.77−2.65 (m, 4H), 2.51 (dd, J = 16.0, 7.6 Hz, 2H),
+2.10 (qd, J = 11.6, 4.8 Hz, 2H); 13C NMR (100 MHz, CDCl3) δ 176.6,
+156.0, 154.3, 141.3, 128.5, 126.3, 126.1, 124.0, 122.8, 119.5, 112.7, 111.2,
+max(KBr)/cm−1 3028, 2920,
+75.5, 35.1, 29.7, 29.4, 28.8, 26.1 ppm; ν
+1776, 1655, 1456, 1146, 756; MS (EI) m/z 91, 119, 131, 146, 193, 207,
+253, 281, 320; HRMS(ESI) m/z calcd for C21H21O3 [M + H]+
+321.1485, found 321.1483.
+
+4-((2-Cyclopentylbenzofuran-3-yl)methyl)oxetan-2-one (3az):
+yield 79% (53.3 mg) as a yellow oil; Rf 0.37 (petroleum ether/EtOAc
+5/1); 1H NMR (400 MHz, CDCl3) δ 7.44 (t, J = 8.8 Hz, 2H), 7.25−7.17
+(m, 2H), 5.73 (t, J = 8.0 Hz, 1H), 3.33−3.23 (m, 1H), 2.82−2.70
+(m, 2H), 2.55 (q, J = 8.0 Hz, 2H), 2.04−1.86 (m, 6H), 1.77−1.69
+
+(m, 2H); 13C NMR (100 MHz, CDCl3) δ 176.7, 159.2, 154.1, 126.5,
+123.8, 122.7, 119.5, 111.5, 111.2, 75.7, 37.2, 32.5, 31.9, 29.5, 29.1, 26.0,
+max(KBr)/cm−1 3060, 2928, 1776, 1648, 1506, 1450, 1144,
+26.0 ppm; ν
+756; MS (EI) m/z 91, 115, 141, 169, 197, 215, 241, 270; HRMS(ESI)
+m/z calcd for C17H19O3 [M + H]+ 271.1329, found 271.1325.
+
+4-((2-Cyclohexylbenzofuran-3-yl)methyl)oxetan-2-one (3ba):
+yield 85% (60.4 mg) as a yellow oil; Rf 0.33 (petroleum ether/EtOAc
+5/1); 1H NMR (400 MHz, CDCl3) δ 7.48−7.42 (m, 2H), 7.25−7.17
+(m, 2H), 5.73 (t, J = 8.0 Hz, 1H), 2.89−2.83 (m, 1H), 2.80−2.71 (m,
+2H), 2.60−2.52 (m, 2H), 1.94−1.82 (m, 3H), 1.80−1.72 (m, 4H),
+1.41−1.33 (m, 3H); 13C NMR (100 MHz, CDCl3) δ 176.7, 160.5, 154.1,
+126.3, 123.8, 122.7, 119.6, 111.2, 110.7, 75.6, 36.7, 31.9, 31.3, 29.5, 28.9,
+max(KBr)/cm−1 3063, 2929, 1777, 1649, 1500,
+26.3, 26.2, 25.7 ppm; ν
+1453, 1141, 752; MS (EI) m/z 91, 115, 145, 183, 211, 241, 256, 284;
+HRMS(ESI) m/z calcd for C18H21O3 [M + H]+ 285.1485, found
+285.1483.
+
+4-((2-(Cyclopentylmethyl)benzofuran-3-yl)methyl)oxetan-2-one
+(3bb): yield 73% (51.8 mg) as a yellow oil; Rf 0.44 (petroleum ether/
+EtOAc 5/1); 1H NMR (400 MHz, CDCl3) δ 7.46−7.42 (m, 2H), 7.25−
+7.18 (m, 2H), 5.67 (t, J = 8.0 Hz, 1H), 2.84−2.71 (m, 4H), 2.56 (dd, J =
+18.0, 9.2 Hz, 2H), 2.28 (dt, J = 15.2, 7.8 Hz, 1H), 1.82−1.73 (m, 2H),
+1.67−1.54 (m, 6H); 13C NMR (100 MHz, CDCl3) δ 176.7, 156.5, 154.2,
+126.2, 123.9, 122.7, 119.5, 112.6, 111.2, 75.7, 39.5, 32.5, 32.4, 29.7, 29.5,
+max(KBr)/cm−1 3062, 2928, 1776, 1642, 1454,
+28.8, 24.9, 24.8 ppm; ν
+1141, 747; MS (EI) m/z 115, 128, 131, 157, 171, 207, 216, 253, 284;
+HRMS(ESI) m/z calcd for C18H21O3 [M + H]+ 285.1485, found
+285.1481.
+
+4-((2-(Cyclohexylmethyl)benzofuran-3-yl)methyl)oxetan-2-one
+(3bc): yield 78% (58.1 mg) as a yellow oil; Rf 0.51 (petroleum ether/
+EtOAc 5/1); 1H NMR (400 MHz, CDCl3) δ 7.44 (t, J = 8.4 Hz, 2H),
+7.25−7.18 (m, 2H), 5.64 (t, J = 8.0 Hz, 1H), 2.82−2.74 (m, 2H), 2.73−
+2.61 (m, 2H), 2.56 (dd, J = 20.0, 10.6 Hz, 2H), 1.81−1.64 (m, 5H), 1.18
+(dd, J = 24.2, 12.8 Hz, 4H), 1.07−0.94 (m, 2H); 13C NMR (100 MHz,
+CDCl3) δ 176.7, 155.6, 154.3, 126.2, 123.9, 122.7, 119.5, 113.3,
+111.2, 75.8, 37.4, 34.5, 33.2, 33.1, 29.7, 29.5, 28.8, 26.2, 26.1 ppm;
+max(KBr)/cm−1 3048, 2926, 1777, 1640, 1454, 1145, 748; MS (EI) m/z
+ν
+115, 128, 131, 157, 171, 216, 254, 298; HRMS(ESI) m/z calcd for
+C19H23O3 [M + H]+ 299.1642, found 299.1640.
+
+4-((2-(Cyclohex-1-en-1-yl)benzofuran-3-yl)methyl)oxetan-2-one
+(3bd): yield 78% (55.0 mg) as a yellow oil; Rf 0.42 (petroleum ether/
+EtOAc 5/1); 1H NMR (400 MHz, CDCl3) δ 7.50 (d, J = 7.6 Hz, 1H),
+7.43 (d, J = 8.0 Hz, 1H), 7.28 (d, J = 7.6 Hz, 1H), 7.20 (t, J = 7.6 Hz, 1H),
+6.12 (s, 1H), 5.83 (t, J = 8.0 Hz, 1H), 2.81−2.77 (m, 2H), 2.64−2.59
+(m, 1H), 2.56−2.52 (m, 2H), 2.45−2.34 (m, 1H), 2.32−2.23 (m, 2H),
+1.83−1.76 (m, 2H), 1.75−1.68 (m, 2H); 13C NMR (100 MHz, CDCl3)
+δ 176.8, 156.1, 153.8, 131.9, 128.4, 126.6, 124.4, 122.8, 120.2, 112.2,
+max(KBr)/cm−1 3040,
+111.3, 76.0, 29.6, 28.8, 26.7, 25.7, 22.3, 21.8 ppm; ν
+2931, 1735, 1542, 1452, 1102, 749; MS (EI) m/z 115, 131, 169, 181,
+195, 209, 237, 282; HRMS(ESI) m/z calcd for C18H19O3 [M + H]+
+283.1329, found 283.1325.
+4-((2-(Thiophen-3-yl)benzofuran-3-yl)methyl)oxetan-2-one
+(3be): yield 56% (39.8 mg) as a yellow solid; mp = 114.4−115.9 °C; Rf
+0.28 (petroleum ether/EtOAc 10/1); 1H NMR (400 MHz, CDCl3) δ
+7.66 (s, 1H), 7.59 (d, J = 7.6 Hz, 1H), 7.52 (d, J = 8.4 Hz, 1H), 7.46 (d,
+J = 7.2 Hz, 2H), 7.33 (t, J = 7.6 Hz, 1H), 7.27 (d, J = 7.6 Hz, 1H), 5.97 (t,
+J = 8.0 Hz, 1H), 2.87−2.74 (m, 2H), 2.69−2.61 (m, 2H); 13C NMR
+(100 MHz, CDCl3) δ 176.6, 154.2, 149.6, 130.7, 126.9, 126.6, 126.5,
+124.9, 124.8, 123.3, 120.4, 112.9, 111.5, 75.8, 29.4, 28.6 ppm;
+max(KBr)/cm−1 3063, 2922, 1774, 1646, 1515, 1454, 1136, 750; MS
+ν
+(EI) m/z 127, 152, 207, 239, 284; HRMS(ESI) m/z calcd for
+C16H13O3S [M + H]+ 285.0580, found 285.0576.
+3,3-Dimethyl-4-((2-phenylbenzofuran-3-yl)methyl)oxetan-2-one
+(3bg): yield 87% (66.6 mg) as a yellow solid; mp = 162.6−163.8 °C; Rf
+0.43 (petroleum ether/EtOAc 5/1); 1H NMR (400 MHz, CDCl3) δ
+7.66 (d, J = 7.2 Hz, 2H), 7.58−7.47 (m, 5H), 7.34 (t, J = 7.6 Hz, 1H),
+7.27 (d, J = 8.4 Hz, 1H), 5.86 (t, J = 8.0 Hz, 1H), 2.66−2.56 (m, 1H),
+2.45−2.40 (m, 1H), 1.44 (s, 3H), 1.41 (s, 3H); 13C NMR (100 MHz,
+CDCl3) δ 181.6, 154.5, 153.6, 129.9, 129.4, 128.9, 128.1, 126.9,
+124.9, 123.2, 120.6, 113.3, 111.6, 72.1, 43.5, 40.8, 24.9, 24.4 ppm;
+max(KBr)/cm−1 3060, 2930, 1771, 1646, 1516, 1498, 1119, 748; MS
+ν
+</para>
+3876
+
+DOI: 10.1021/acs.joc.5b00154
+J. Org. Chem. 2015, 80, 3870−3879
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(EI) m/z 105, 116, 165, 194, 221, 247, 262, 306; HRMS(ESI) m/z calcd
+for C20H18NaO3 [M + Na]+ 329.1148, found 329.1147.
+4-((2-(p-Tolyl)benzofuran-3-yl)methyl)oxetan-2-one (4a): yield
+89% (64.9 mg) as a yellow solid; mp = 140.5−141.3 °C; Rf 0.53
+(petroleum ether/EtOAc 4/1); 1H NMR (400 MHz, CDCl3) δ 7.56 (dt,
+J = 17.2, 8.4 Hz, 4H), 7.33 (t, J = 8.0 Hz, 3H), 7.27 (d, J = 8.0 Hz, 1H),
+5.90 (t, J = 8.0 Hz, 1H), 2.87−2.74 (m, 2H), 2.69−2.61 (m, 2H), 2.44 (s,
+3H); 13C NMR (100 MHz, CDCl3) δ 176.7, 154.4, 154.0, 139.8, 129.6,
+128.0, 126.9, 126.8, 124.8, 123.1, 120.4, 112.9, 111.6, 76.0, 29.6, 28.6,
+max(KBr)/cm−1 3060, 2921, 1777, 1627, 1567, 1515, 1453,
+21.4 ppm; ν
+1138, 749; MS (EI) m/z 109, 115, 133, 165, 178, 207, 233, 247, 292;
+HRMS(ESI) m/z calcd for C19H17O3 [M + H]+ 293.1172, found
+293.1170.
+4-((2-(m-Tolyl)benzofuran-3-yl)methyl)oxetan-2-one (4b): yield
+81% (59.1 mg) as a yellow solid; mp = 128.5−129.8 °C; Rf 0.55
+(petroleum ether/EtOAc 4/1); 1H NMR (400 MHz, CDCl3) δ 7.59 (d,
+J = 8.0 Hz, 1H), 7.56−7.49 (m, 2H), 7.43 (t, J = 6.4 Hz, 1H), 7.40−7.32
+(m, 2H), 7.28 (d, J = 8.0 Hz, 2H), 5.92 (t, J = 8.0 Hz, 1H), 2.88−2.78 (m,
+2H), 2.75−2.61 (m, 2H), 2.45 (s, 3H); 13C NMR (100 MHz, CDCl3) δ
+176.7, 154.4, 153.9, 138.8, 130.4, 129.7, 128.8, 128.7, 126.8, 125.3, 124.9,
+max(KBr)/cm−1
+123.2, 120.5, 113.3, 111.6, 75.9, 29.5, 28.6, 21.5 ppm; ν
+3097, 2924, 1741, 1629, 1516, 1454, 1414, 1137, 747; MS (EI) m/z 115,
+137, 178, 207, 233, 267, 292; HRMS(ESI) m/z calcd for C19H17O3 [M +
+H]+ 293.1172, found 293.1172.
+4-((7-Methyl-2-phenylbenzofuran-3-yl)methyl)oxetan-2-one (4c):
+yield 85% (62.1 mg) as a yellow solid; mp = 116.7−119.2 °C; Rf 0.56
+(petroleum ether/EtOAc 4/1); 1H NMR (400 MHz, CDCl3) δ 7.61 (d,
+J = 7.6 Hz, 1H), 7.53 (d, J = 8.0 Hz, 1H), 7.40 (dd, J = 15.0, 7.6 Hz, 2H),
+7.35 (d, J = 7.2 Hz, 2H), 7.29 (t, J = 7.6 Hz, 2H), 5.55 (t, J = 8.0 Hz, 1H),
+2.74 (dt, J = 18.9, 13.6 Hz, 2H), 2.67−2.56 (m, 1H), 2.49 (td, J = 12.0,
+6.8 Hz, 1H), 2.35 (s, 3H); 13C NMR (100 MHz, CDCl3) δ 176.6, 154.7,
+154.6, 138.6, 130.8, 130.7, 130.1, 128.9, 126.1, 125.8, 124.8, 123.1, 120.3,
+max(KBr)/cm−1 3038, 2926,
+114.7, 111.7, 75.8, 29.4, 28.4, 20.1 ppm; ν
+1744, 1628, 1515, 1451, 1410, 1136, 749; MS (EI) m/z 115, 152, 178,
+207, 219, 233, 247, 292; HRMS(ESI) m/z calcd for C19H17O3 [M + H]+
+293.1172, found 293.1168.
+4-((2-(4-Ethylphenyl)benzofuran-3-yl)methyl)oxetan-2-one (4d):
+yield 85% (65.0 mg) as a yellow solid; mp = 138.8−140.3 °C; Rf 0.59
+(petroleum ether/EtOAc 4/1); 1H NMR (400 MHz, CDCl3) δ 7.58 (d,
+J = 8.0 Hz, 3H), 7.53 (d, J = 8.0 Hz, 1H), 7.33 (t, J = 8.2 Hz, 3H), 7.27 (d,
+J = 8.0 Hz, 1H), 5.91 (t, J = 8.0 Hz, 1H), 2.88−2.78 (m, 2H), 2.73 (q, J =
+7.6 Hz, 2H), 2.69−2.57 (m, 2H), 1.29 (t, J = 7.6 Hz, 3H); 13C NMR
+(100 MHz, CDCl3) δ 176.7, 154.4, 154.1, 146.0, 128.5, 128.1, 127.1,
+126.8, 124.8, 123.1, 120.4, 112.9, 111.6, 76.0, 29.6, 28.8, 28.6, 15.4 ppm;
+max(KBr)/cm−1 3032, 2924, 1776, 1628, 1515, 1454, 1416, 1138, 752;
+ν
+MS (EI) m/z 115, 133, 178, 207, 233, 251, 281, 297, 306; HRMS(ESI)
+m/z calcd for C20H18NaO3 [M + Na]+ 329.1148, found 329.1146.
+4-((2-(4-(tert-Butyl)phenyl)benzofuran-3-yl)methyl)oxetan-2-one
+(4e): yield 81% (67.6 mg) as a yellow solid; mp = 137.9−139.5 °C; Rf
+0.62 (petroleum ether/EtOAc 4/1); 1H NMR (400 MHz, CDCl3) δ
+7.59 (t, J = 6.4 Hz, 3H), 7.53 (d, J = 8.4 Hz, 3H), 7.33 (d, J = 7.6 Hz, 1H),
+7.27 (d, J = 8.4 Hz, 1H), 5.92 (t, J = 8.0 Hz, 1H), 2.86−2.73 (m, 2H),
+2.72−2.57 (m, 2H), 1.37 (s, 9H); 13C NMR (100 MHz, CDCl3) δ 176.7,
+154.4, 154.0, 152.9, 127.9, 126.9, 126.8, 125.9, 124.8, 123.1, 120.5, 112.9,
+max(KBr)/cm−1 3057, 2959,
+111.6, 76.0, 34.9, 31.2, 29.6, 28.6 ppm; ν
+1778, 1619, 1509, 1455, 1400, 1135, 747; MS (EI) m/z 105, 119, 133,
+154, 193, 207, 249, 281, 334; HRMS(ESI) m/z calcd for C22H22NaO3
+[M + Na]+ 357.1461, found 357.1458.
+4-((2-(2,4-Dimethylphenyl)benzofuran-3-yl)methyl)oxetan-2-one
+(4f): yield 76% (58.1 mg) as a yellow solid; mp = 99.3−100.7 °C; Rf 0.61
+(petroleum ether/EtOAc 4/1); 1H NMR (400 MHz, CDCl3) δ 7.60 (d,
+J = 7.6 Hz, 1H), 7.52 (d, J = 8.0 Hz, 1H), 7.34 (t, J = 7.2 Hz, 1H), 7.29 (d,
+J = 7.6 Hz, 1H), 7.23 (d, J = 8.0 Hz, 1H), 7.16 (s, 1H), 7.10 (d, J = 7.6 Hz,
+1H), 5.54 (t, J = 8.0 Hz, 1H), 2.79−2.67 (m, 2H), 2.64−2.45 (m, 2H),
+2.40 (s, 3H), 2.31 (s, 3H); 13C NMR (100 MHz, CDCl3) δ 176.7, 154.9,
+154.7, 140.2, 138.4, 131.6, 130.7, 126.5, 126.2, 126.0, 124.7, 123.1, 120.2,
+max(KBr)/cm−1 3061,
+114.4, 111.6, 75.9, 29.5, 28.4, 21.3, 20.1 ppm; ν
+2924, 1776, 1646, 1516, 1453, 1138, 752; MS (EI) m/z 117, 152, 165,
+178, 205, 232, 247, 306; HRMS(ESI) m/z calcd for C20H18NaO3
+[M + Na]+ 329.1148, found 329.1145.
+</para>
+Article
+<para sub=“exp”>
+4-((2-(4-Methoxyphenyl)benzofuran-3-yl)methyl)oxetan-2-one
+(4g): yield 78% (60.1 mg) as a yellow solid; mp = 118.8−120.1 °C; Rf
+0.43 (petroleum ether/EtOAc 2/1); 1H NMR (400 MHz, CDCl3) δ
+7.61−7.56 (m, 3H), 7.52 (d, J = 8.0 Hz, 1H), 7.32 (t, J = 7.6 Hz, 1H),
+7.27 (d, J = 6.4 Hz, 1H), 7.03 (d, J = 8.0 Hz, 2H), 5.88 (t, J = 8.0 Hz, 1H),
+3.88 (s, 3H), 2.89−2.75 (m, 2H), 2.73−2.56 (m, 2H); 13C NMR
+(100 MHz, CDCl3) δ 176.7, 160.6, 154.3, 154.0, 129.6, 126.9, 124.6,
+123.1, 122.2, 120.3, 114.4, 112.2, 111.5, 76.1, 55.4, 29.6, 28.5 ppm;
+max(KBr)/cm−1 3066, 2921, 1774, 1645, 1511, 1454, 1137, 753; MS
+ν
+(EI) m/z 115, 135, 147, 177, 191, 207, 249, 281, 308; HRMS(ESI) m/z
+calcd for C19H17O4 [M + H]+ 309.1121, found 309.1120.
+4-((6-Methoxy-2-phenylbenzofuran-3-yl)methyl)oxetan-2-one
+(4h): yield 76% (58.5 mg) as a yellow solid; mp = 115.3−116.8 °C; Rf
+0.45 (petroleum ether/EtOAc 2/1); 1H NMR (400 MHz, CDCl3) δ
+7.60 (d, J = 7.6 Hz, 1H), 7.54 (d, J = 8.0 Hz, 1H), 7.42 (t, J = 8.0 Hz, 1H),
+7.35 (t, J = 7.6 Hz, 1H), 7.28 (d, J = 7.6 Hz, 1H), 7.21 (d, J = 6.4 Hz, 2H),
+7.01 (d, J = 8.0 Hz, 1H), 5.93 (t, J = 8.0 Hz, 1H), 3.89 (s, 3H), 2.87−2.76
+(m, 2H), 2.74−2.59 (m, 2H); 13C NMR (100 MHz, CDCl3) δ 176.6,
+160.0, 154.4, 153.5, 130.9, 130.0, 126.7, 125.0, 123.2, 120.6, 120.5, 115.2,
+max(KBr)/cm−1 3060,
+113.7, 113.6, 111.7, 75.8, 55.5, 29.5, 28.6 ppm; ν
+2926, 1776, 1642, 1510, 1453, 1138, 758; MS (EI) m/z 126, 145, 165,
+181, 207, 249, 279, 308; HRMS(ESI) m/z calcd for C19H17O4 [M + H]+
+309.1121, found 309.1118.
+4-((5-Fluoro-2-phenylbenzofuran-3-yl)methyl)oxetan-2-one (4i):
+yield 80% (59.2 mg) as a yellow solid; mp = 194.4−195.7 °C; Rf 0.50
+(petroleum ether/EtOAc 4/1); 1H NMR (400 MHz, CDCl3) δ 7.65
+(d, J = 7.2 Hz, 1H), 7.54−7.41 (m, 4H), 7.24−7.19 (m, 1H), 7.06 (t, J =
+8.8 Hz, 1H), 5.87 (t, J = 8.0 Hz, 1H), 2.88−2.72 (m, 2H), 2.68−2.60 (m,
+2H); 13C NMR (100 MHz, CDCl3) δ 176.3, 159.2 (d, J = 238.1 Hz),
+155.5, 150.7, 129.6 (d, J = 35.5 Hz), 129.0, 128.1, 127.4, 126.4, 113.7 (d,
+J = 16.8 Hz), 112.7 (d, J = 26.2 Hz), 112.4 (d, J = 9.6 Hz), 106.3 (d, J =
+max(KBr)/cm−1 3058, 2926, 1768, 1642,
+25.5 Hz), 75.5, 29.4, 28.6 ppm; ν
+1508, 1450, 1135, 756; MS (EI) m/z 105, 118, 139, 165, 183, 207, 237,
+251, 296; HRMS(ESI) m/z calcd for C18H14FO3 [M + H]+ 297.0921,
+found 297.0918.
+4-((5-Chloro-2-phenylbenzofuran-3-yl)methyl)oxetan-2-one (4j):
+yield 68% (53.0 mg) as a yellow solid; mp = 198.7−199.8 °C; Rf 0.56
+(petroleum ether/EtOAc 4/1); 1H NMR (400 MHz, CDCl3) δ 7.65 (d,
+J = 7.2 Hz, 2H), 7.56−7.45 (m, 5H), 7.30 (d, J = 8.0 Hz, 1H), 5.86 (t, J =
+8.0 Hz, 1H), 2.84−2.73 (m, 2H), 2.67−2.58 (m, 2H); 13C NMR
+(100 MHz, CDCl3) δ 176.3, 155.2, 152.9, 129.9, 129.3, 129.0, 128.9,
+128.2, 128.1, 125.2, 120.2, 113.1, 112.6, 75.4, 29.4, 28.7 ppm;
+max(KBr)/cm−1 3066, 2924, 1777, 1646, 1516, 1448, 1136, 755; MS
+ν
+(EI) m/z 105, 147, 201, 218, 255, 267, 312; HRMS(ESI) m/z calcd for
+C18H13ClNaO3 [M + Na]+ 335.0445, found 335.0442.
+4-((6-Chloro-2-phenylbenzofuran-3-yl)methyl)oxetan-2-one (4k):
+yield 79% (61.6 mg) as a yellow solid; mp = 173.3−175.0 °C; Rf 0.54
+(petroleum ether/EtOAc 4/1); 1H NMR (400 MHz, CDCl3) δ 7.64
+(d, J = 7.6 Hz, 2H), 7.55−7.46 (m, 5H), 7.25 (d, J = 6.8 Hz, 1H), 5.89
+(t, J = 8.0 Hz, 1H), 2.88−2.77 (m, 2H), 2.69−2.57 (m, 2H); 13C NMR
+(100 MHz, CDCl3) δ 176.4, 154.5, 154.3, 130.9, 129.8, 129.3, 129.0,
+128.0, 125.5, 123.9, 121.2, 113.4, 112.2, 75.6, 29.4, 28.8 ppm;
+max(KBr)/cm−1 3035, 2921, 1741, 1646, 1515, 1464, 1138, 754; MS
+ν
+(EI) m/z 77, 128, 165, 207, 218, 255, 267, 283, 312; HRMS(ESI) m/z
+calcd for C18H14ClO3 [M + H]+ 313.0626, found 313.0623.
+4-((5-Bromo-2-phenylbenzofuran-3-yl)methyl)oxetan-2-one (4l):
+yield 87% (77.4 mg) as a yellow solid; mp = 207.5−208.6 °C; Rf 0.55
+(petroleum ether/EtOAc 4/1); 1H NMR (400 MHz, CDCl3) δ 7.71
+(s, 1H), 7.63 (t, J = 7.6 Hz, 2H), 7.57−7.47 (m, 3H), 7.30 (d, J = 8.0 Hz,
+2H), 5.85 (t, J = 8.0 Hz, 1H), 2.87−2.78 (m, 2H), 2.65−2.59 (m, 2H);
+13C NMR (100 MHz, CDCl3) δ 176.3, 155.0, 153.2, 133.7, 129.9, 129.2,
+129.0, 128.2, 128.1, 127.9, 123.2, 116.4, 113.1, 75.4, 29.5, 28.7 ppm;
+max(KBr)/cm−1 3056, 2928, 1756, 1648, 1510, 1442, 1138, 758; MS
+ν
+(EI) m/z 115, 147, 207, 267, 305, 356; HRMS(ESI) m/z calcd for
+C18H14BrO3 [M + H]+ 357.0121, found 357.0117.
+4-((6-Bromo-2-phenylbenzofuran-3-yl)methyl)oxetan-2-one
+(4m): yield 81% (72.1 mg) as a yellow solid; mp = 188.9−189.8 °C; Rf
+0.50 (petroleum ether/EtOAc 4/1); 1H NMR (400 MHz, CDCl3) δ
+7.72 (s, 1H), 7.64 (d, J = 7.2 Hz, 2H), 7.59−7.45 (m, 4H), 7.37
+(dd, J = 16.0, 8.0 Hz, 1H), 5.89 (t, J = 8.0 Hz, 1H), 2.80 (dd, J = 10.8,
+</para>
+3877
+
+DOI: 10.1021/acs.joc.5b00154
+J. Org. Chem. 2015, 80, 3870−3879
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+7.6 Hz, 2H), 2.61 (dd, J = 17.6, 8.0 Hz, 2H); 13C NMR (100 MHz,
+CDCl3) δ 176.4, 154.7, 154.2, 129.8, 129.0, 128.1, 126.6, 125.9, 121.5,
+max(KBr)/cm−1 3038,
+120.9, 118.3, 115.1, 113.5, 75.5, 29.4, 28.8 ppm; ν
+2926, 1740, 1648, 1516, 1468, 1133, 756; MS (EI) m/z 115, 133, 176,
+233, 327, 356; HRMS(ESI) m/z calcd for C18H14BrO3 [M + H]+
+357.0121, found 357.0119.
+4-((5,6-Dichloro-2-phenylbenzofuran-3-yl)methyl)oxetan-2-one
+(4n): yield 74% (64.0 mg) as a yellow solid; mp = 233.8−234.9 °C; Rf
+0.36 (petroleum ether/EtOAc 2/1); 1H NMR (400 MHz, CDCl3) δ
+7.78 (s, 1H), 7.62−7.49 (m, 4H), 7.38 (t, J = 7.6 Hz, 1H), 7.30 (d, J =
+7.6 Hz, 1H), 5.86 (t, J = 8.0 Hz, 1H), 2.90−2.76 (m, 2H), 2.73−2.63 (m,
+2H); 13C NMR (100 MHz, CDCl3) δ 176.3, 154.5, 150.9, 133.8, 133.4,
+130.9, 129.7, 127.0, 126.4, 125.6, 123.5, 120.8, 111.8, 75.3, 29.3, 28.6
+max(KBr)/cm−1 3036, 2928, 1748, 1642, 1519, 1464, 1138, 758;
+ppm; ν
+MS (EI) m/z 77, 103, 131, 171, 191, 207, 281, 314, 346; HRMS(ESI)
+m/z calcd for C18H13Cl2O3 [M + H]+ 347.0236, found 347.0233.
+3-Chloro-2-phenylbenzofuran (6a):19 yield 84% (47.9 mg) as a
+white solid; mp = 68.4−69.8 °C; Rf 0.67 (petroleum ether/EtOAc
+100/1); 1H NMR (400 MHz, CDCl3) δ 7.66 (t, J = 8.8 Hz, 2H), 7.53
+(d, J = 8.0 Hz, 1H), 7.23−7.11 (m, 4H), 7.03 (dt, J = 14.4, 7.6 Hz, 2H);
+13C NMR (100 MHz, CDCl3) δ 154.4, 152.0, 130.5, 129.5, 128.6, 128.5,
+126.3, 124.9, 123.1, 120.7, 111.3, 107.7 ppm; HRMS(ESI) m/z calcd for
+C14H9ClNaO [M + Na]+ 251.0234, found 251.0232.
+
+3-Chloro-2-propylbenzofuran (6b): yield 66% (32.0 mg) as a yellow
+oil; Rf 0.71 (petroleum ether/EtOAc 100/1); 1H NMR (400 MHz,
+CDCl3) δ 7.31 (d, J = 8.4 Hz, 1H), 7.27−7.25 (m, 1H), 7.21 (d, J =
+7.6 Hz, 2H), 2.77 (t, J = 7.2 Hz, 2H), 1.72 (dd, J = 14.8, 7.2 Hz, 2H), 0.93
+(t, J = 7.6 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 158.9, 154.3, 131.1,
+max(KBr)/cm−1
+125.1, 124.5, 123.1, 120.8, 110.9, 29.7, 21.3, 13.7 ppm; ν
+3026, 2926, 1648, 1510, 1463, 1136; MS (EI) m/z 63, 77, 102, 115, 131,
+160, 194; HRMS(ESI) m/z calcd for C11H11ClNaO [M + Na]+
+217.0391, found 217.0388.
+2-Phenylbenzofuran (7a):18c yield 11% (5.5 mg) as a white solid;
+mp = 108.5−109.8 °C; Rf 0.61 (petroleum ether/EtOAc 100/1); 1H
+NMR (400 MHz, CDCl3) δ 7.86 (d, J = 8.0 Hz, 2H), 7.57 (d, J = 7.2 Hz,
+1H), 7.51 (d, J = 8.0 Hz, 1H), 7.43 (t, J = 7.6 Hz, 2H), 7.35 (d, J = 6.8 Hz,
+1H), 7.26 (d, J = 8.0 Hz, 1H), 7.22 (t, J = 7.2 Hz, 1H), 7.01 (s, 1H); 13C
+NMR (100 MHz, CDCl3) δ 156.0, 154.9, 130.5, 129.3, 128.8, 128.6,
+125.0, 124.3, 123.0, 120.9, 111.2, 101.3 ppm.
+
+2-Propylbenzofuran (7b):20 yield 19% (7.6 mg) as a yellow oil; Rf
+0.64 (petroleum ether/EtOAc 100/1); 1H NMR (400 MHz, CDCl3) δ
+7.47 (d, J = 7.2 Hz, 1H), 7.40 (d, J = 7.6 Hz, 1H), 7.17 (dt, J = 13.2,
+6.8 Hz, 2H), 6.36 (s, 1H), 2.73 (t, J = 7.6 Hz, 2H), 1.82−1.71 (m, 2H),
+1.00 (t, J = 7.2 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 159.6, 154.7,
+129.1, 123.0, 122.4, 120.2, 110.7, 101.9, 30.5, 21.1, 13.8 ppm.
+
+General Procedure for the Synthesis of 11a. Following a
+reported procedure,16 to a mixture of (4-ethylphenyl)boronic acid (45.0
+mg, 0.30 mmol), Pd(OAc)2 (5 mol %), K3PO4 (63.5 mg, 0.30 mmol),
+and Xphos (4.8 mg, 0.01 mmol) in 1 mL of toluene was added a solution
+of 4l (35.6 mg, 0.10 mmol) in 1.0 mL of toluene under nitrogen.
+After stirring at 110 °C for 10 h, the reaction mixture was quenched
+with water, extracted with ethyl acetate, washed with brine, dried
+over MgSO4, and concentrated. Column chromatography on silica
+(petroleum ether/ethyl acetate = 5/1) gave 28.7 mg (yield: 75%) of 11a
+as a yellow solid.
+4-((5-(4-Ethylphenyl)-2-phenylbenzofuran-3-yl)methyl)oxetan-2-
+one (11a): yield 75% (28.7 mg) as a yellow solid; mp = 197.6−198.8 °C;
+Rf 0.44 (petroleum ether/EtOAc 4/1); 1H NMR (400 MHz, CDCl3) δ
+7.75 (s, 1H), 7.68 (d, J = 7.6 Hz, 2H), 7.64 (d, J = 8.0 Hz, 1H), 7.58 (d,
+J = 8.0 Hz, 2H), 7.55−7.47 (m, 4H), 7.31 (d, J = 8.0 Hz, 2H), 5.93 (t, J =
+8.0 Hz, 1H), 2.89−2.79 (m, 2H), 2.77−2.63 (m, 4H), 1.30 (t, J = 7.2 Hz,
+3H); 13C NMR (100 MHz, CDCl3) δ 176.6, 155.2, 154.0, 143.6, 138.7,
+138.3, 129.8, 129.5, 128.9, 128.4, 128.1, 127.3, 125.7, 122.7, 120.6, 113.5,
+max(KBr)/cm−1 3050, 2928,
+109.8, 75.9, 29.7, 28.7, 28.5, 15.6 ppm; ν
+1776, 1648, 1516, 1500, 1456, 1418, 1400, 1135, 757; MS (EI) m/z 126,
+207, 281, 335, 382; HRMS(EI) m/z calcd for C26H22NaO3 [M + Na]+
+405.1461, found 405.1455.
+
+General Procedure for the Synthesis of 11b. Following a
+reported procedure,17 an oven-dried pressure tube (10 mL) was charged
+with Pd(OAc)2 (1.5 mg, 0.005 mmol), tri-p-tolylphosphine (3.0 mg,
+
+0.01 mmol), 4l (35.6 mg, 0.1 mmol), CH3ONa (7.6 mg, 0.3 mmol),
+sodium p-toluenesulﬁnic acid (18.0 mg, 0.1 mmol), and cyclohexane
+(0.3 mL). The reaction vessel was closed under air, and the result-
+ing solution was stirred at 160 °C for 4 h. After cooling to room
+temperature, the volatiles were removed under vacuum and the residue
+was puriﬁed by column chromatography (silica gel, petroleum ether/
+ethyl acetate = 5/1) to give the corresponding product 11b (24.1 mg) as
+a yellow solid in 68% yield.
+4-((2,5-Diphenylbenzofuran-3-yl)methyl)oxetan-2-one (11b):
+yield 68% (24.1 mg) as a yellow solid; mp = 195.3−196.8 °C; Rf 0.41
+(petroleum ether/EtOAc 4/1); 1H NMR (400 MHz, CDCl3) δ 7.74
+(s, 1H), 7.69 (d, J = 7.2 Hz, 2H), 7.61 (d, J = 8.4 Hz, 3H), 7.58−7.50
+(m, 4H), 7.49−7.44 (m, 2H), 7.37 (t, J = 7.2 Hz, 1H), 5.93 (t, J = 8.0 Hz,
+1H), 2.88−2.79 (m, 2H), 2.77−2.61 (m, 2H); 13C NMR (100 MHz,
+CDCl3) δ 176.5, 154.5, 154.1, 141.4, 137.1, 129.7, 129.6, 128.9, 128.8,
+128.2, 127.6, 127.3, 127.1, 124.8, 119.0, 113.5, 111.8, 75.8, 29.6,
+max(KBr)/cm−1 3048, 2926, 1769, 1646, 1515, 1508, 1500,
+28.6 ppm; ν
+1456, 1411, 1400, 1136, 758; MS (EI) m/z 133, 163, 191, 207, 281, 354;
+HRMS(EI) m/z calcd for C24H19O3 [M +H]+ 355.1329, found 355.1326.
+General Procedure for the Synthesis of 11c. Following a
+reported procedure,16 under nitrogen, ZnCl2 (0.5 M solution in THF;
+0.35 mL, 0.16 mmol) was added by syringe to a Schlenk tube.
+o-Tolylmagnesium chloride (1.0 M solution in THF; 0.4 mL,
+0.40 mmol) was then added dropwise, and the resulting mixture was
+stirred at room temperature for 20 min. Next, NMP (0.5 mL) was added
+by syringe, followed after 5 min by Pd(P(t-Bu)3)2 (1.5 mg, 0.003 mmol)
+and 4l (35.6 mg, 0.1 mmol). The Schlenk tube was closed at the Teﬂon
+stopcock, and the reaction mixture was stirred in a 100 °C oil bath for
+2 h. It was then allowed to cool to room temperature, and aqueous HCl
+was added (1.0 M; 3 mL). The resulting mixture was extracted with Et2O
+(2 × 10 mL), and the organic extracts were combined, washed with
+water (2 × 10 mL), dried (MgSO4), and concentrated, aﬀording a
+yellow solid. Column chromatography on silica (petroleum ether/ethyl
+acetate = 5/1) furnished 24.9 mg (63%) of the title compound 11c as a
+yellow solid.
+4-((2-(4′-Propyl-[1,1′-biphenyl]-4-yl)benzofuran-3-yl)methyl)-
+oxetan-2-one (11c): yield 63% (24.9 mg) as a yellow solid; mp =
+203.5−204.7 °C; Rf 0.51 (petroleum ether/EtOAc 4/1); 1H NMR
+(400 MHz, CDCl3) δ 7.73 (s, 4H), 7.61 (d, J = 7.6 Hz, 2H), 7.56 (t, J =
+6.8 Hz, 2H), 7.35 (t, J = 7.6 Hz, 1H), 7.29 (d, J = 7.6 Hz, 3H), 5.97 (t, J =
+7.6 Hz, 1H), 2.89−2.80 (m, 2H), 2.77−2.69 (m, 2H), 2.67−2.63 (m,
+2H), 1.70 (dd, J = 14.8, 7.6 Hz, 2H), 0.99 (t, J = 7.2 Hz, 3H); 13C NMR
+(100 MHz, CDCl3) δ 176.7, 154.5, 153.6, 142.7, 142.3, 137.4, 129.1,
+128.4, 128.3, 127.4, 126.9, 126.8, 124.9, 123.2, 120.5, 113.4, 111.7, 75.9,
+max(KBr)/cm−1 3058, 2923, 1775,
+37.7, 29.5, 28.6, 24.5, 13.9 ppm; ν
+1648, 1517, 1456, 1428, 1137, 751; MS (EI) m/z 135, 177, 191, 207,
+249, 281, 313, 355, 396; HRMS(EI) m/z calcd for C27H25O3 [M +H]+
+397.1798, found 397.1797.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Spectral data for all new compounds. This material is available
+free of charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Authors
+*Fax: (+86) 20-8711-2906. E-mail: lisryang@scut.edu.cn.
+*Fax: (+86) 20-8711-2906. E-mail: jianghf@scut.edu.cn.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+The authors are grateful
+to the National Natural Science
+Foundation of China (21490572 and 21420102003), National
+Basic Research Program of China (973 Program) (2011CB808600),
+and the Fundamental Research Funds for the Central Universities
+(2014ZP0004) for ﬁnancial support.
+
+3878
+
+DOI: 10.1021/acs.joc.5b00154
+J. Org. Chem. 2015, 80, 3870−3879
+
+The Journal of Organic Chemistry
+
+■ REFERENCES
+(1) For selected reviews, see: (a) Horváth, I. T.; Anastas, P. T. Chem.
+Rev. 2007, 107, 2169−2173. (b) Gunanathan, C.; Milstein, D. Acc.
+Chem. Res. 2011, 44, 588−602. (c) Sundararaju, B.; Achard, M.;
+Bruneau, C. Chem. Soc. Rev. 2012, 41, 4467−4483. (d) Sheldon, R. A.
+Chem. Soc. Rev. 2012, 41, 1437−1451.
+(2) For selected reviews, see: (a) Zeni, G.; Larock, R. C. Chem. Rev.
+2006, 106, 4644−4680. (b) Patil, N. P.; Yamamoto, Y. Chem. Rev. 2008,
+108, 3395−3442. (c) Li, B.-J.; Shi, Z.-J. Chem. Soc. Rev. 2012, 41, 5588−
+5598. (d) Wu, W.; Jiang, H. Acc. Chem. Res. 2012, 45, 1736−1748.
+(e) Chow, W. K.; Yuen, O. Y.; Choy, P. Y.; So, C. M.; Lau, C. P.; Wong,
+W. T.; Kwong, F. Y. RSC Adv. 2013, 3, 12518−12539. (f) Gulevich, A.
+V.; Dudnik, A. S.; Chernyak, N.; Gevorgyan, V. Chem. Rev. 2013, 113,
+3084−3213.
+(3) For selected reviews: (a) Nicolaou, K. C.; Edmonds, D. J.; Bulger,
+P. G. Angew. Chem., Int. Ed. 2006, 45, 7134−7186. (b) Tietze, L. F.;
+Brasche, G.; Gericke, K. Domino Reactions in Organic Synthesis; Wiley-
+VCH, Weinheim, 2006; p 672. (c) Pellissier, H. Tetrahedron 2006, 62,
+2143−2173.
+(4) For selected reviews: (a) Skoda-Fçldes, R. Chem. Rev. 2003, 103,
+4095−4130. (b) Cacchi, S.; Fabrizi, G. Chem. Rev. 2011, 111, PR215−
+PR283. (c) Magano, J.; Dunetz, J. R. Chem. Rev. 2011, 111, 2177−2250.
+(5) For selected examples: (a) Durani, N.; Jain, R.; Saeed, A.; Dikshit,
+D. K.; Durani, S.; Kapil, R. S. J. Med. Chem. 1989, 32, 1700−1707.
+(b) Wallez, V.; Durieux-Poissonnier, S.; Chavatte, P.; Boutin, J. A.;
+Audinot, V.; Nicolas, J.-P.; Bennejean, C.; Delagrange, P.; Renard, P.;
+Lesieur, D. J. Med. Chem. 2002, 45, 2788−2800. (c) Ohno, M.;
+Miyamoto, M.; Hoshi, K.; Takeda, T.; Yamada, N.; Ohtake, A. J. Med.
+Chem. 2005, 48, 5279−5294. (d) He, Y.; Xu, J.; Yu, Z.-H.; Gunawan, A.
+M.; Wu, L.; Wang, L.; Zhang, Z.-Y. J. Med. Chem. 2013, 56, 832−842.
+(6) (a) Gilman, H.; Melstrom, D. S. J. Am. Chem. Soc. 1948, 70, 1655−
+1657. (b) Larock, R. C.; Harrison, L. W. J. Am. Chem. Soc. 1984, 106,
+4218−4227. (c) Kondo, Y.; Shiga, F.; Murata, N.; Sakamoto, T.;
+Yamanaka, H. Tetrahedron 1994, 50, 11803−11812. (d) Arcadi, A.;
+Cacchi, S.; Rosario, M. D.; Fabrizi, G.; Marinelli, F. J. Org. Chem. 1996,
+61, 9280−9288. (e) Inoue, M.; Carson, M. W.; Frontier, A. J.;
+Danishefsky, S. J. J. Am. Chem. Soc. 2001, 123, 1878−1889. (f) Han, Z.;
+Zhang, L.; Li, Z.; Fan, R. Angew. Chem., Int. Ed. 2014, 53, 6805−6809.
+(7) Martínez, C.; Álvarez, R.; Aurrecoechea, J. M. Org. Lett. 2009, 11,
+1083−1086.
+(8) (a) Clough, J. M.; Mann, I. S.; Widdowson, D. A. Tetrahedron Lett.
+1987, 28, 2645−2648. (b) Trejo, A.; Arzeno, H.; Browner, M.; Chanda,
+S.; Cheng, S.; Comer, D. D.; Dalrymple, S. A.; Dunten, P.; Lafargue, J.;
+Lovejoy, B.; Lim, J.; McIntosh, J.; Miller, J.; Papp, E.; Reuter, D.;
+Roberts, R.; Sanpablo, F.; Saunders, J.; Song, K.; Villasenor, A.; Warren,
+S. D.; Welch, M.; Weller, P.; Whiteley, P. E.; Zeng, L.; Goldstein, D. M. J.
+Med. Chem. 2003, 46, 4702−4713.
+(9) For direct C2-arylation of benzofurans: (a) Hughes, C. C.;
+Trauner, D. Angew. Chem., Int. Ed. 2002, 41, 1569−1572. (b) Do, H.-Q.;
+Khan, R. M. K.; Daugulis, O. J. Am. Chem. Soc. 2008, 130, 15185−15192.
+(c) Liégault, B.; Lapointe, D.; Caron, L.; Vlassova, A.; Fagnou, K. J. Org.
+Chem. 2009, 74, 1826−1834. (d) Matsuda, S.; Takahashi, M.;
+Monguchi, D.; Mori, A. Synlett 2009, 1941−1944. (e) Tamba, S.;
+Okubo, Y.; Tanaka, S.; Monguchi, D.; Mori, A. J. Org. Chem. 2010, 75,
+6998−7001. For direct C3-arylation of benzofurans: (f) Ionita, M.;
+Roger, J.; Doucet, H. ChemSusChem 2010, 3, 367−376. (g) Roy, D.;
+Mom, S.; Royer, S.; Lucas, D.; Hierso, J.-C.; Doucet, H. ACS Catal.
+2012, 2, 1033−1041. (h) Carrër, A.; Brinet, D.; Florent, J.-C.; Rousselle,
+P.; Bertounesque, E. J. Org. Chem. 2012, 77, 1316−1327.
+(10) (a) Dwight, T. A.; Rue, N. R.; Charyk, D.; Josselyn, R.; DeBoef, B.
+Org. Lett. 2007, 9, 3137−3139. (b) Kuhl, N.; Hopkinson, M. N.; Glorius,
+F. Angew. Chem., Int. Ed. 2012, 51, 8230−8234. (c) Dong, J.; Long, Z.;
+Song, F.; Wu, N.; Guo, Q.; Lan, J.; You, J. Angew. Chem., Int. Ed. 2013,
+52, 580−584. (d) Lee, J. H.; Kim, M.; Kim, I. J. Org. Chem. 2014, 79,
+6153−6163.
+(11) For recent representative examples: (a) Markina, N. A.; Chen, Y.;
+Larock, R. C. Tetrahedron 2013, 69, 2701−2713. (b) Kuram, M. R.;
+Bhanuchandra, M.; Sahoo, A. K. Angew. Chem., Int. Ed. 2013, 52, 4607−
+4612. (c) Zeng, W.; Wu, W.; Jiang, H.; Huang, L.; Sun, Y.; Chen, Z.; Li,
+
+Article
+
+X. Chem. Commun. 2013, 49, 6611−6613. (d) Zhu, R.; Wei, J.; Shi, Z.
+Chem. Sci. 2013, 4, 3706−3711. (e) Liu, G.; Shen, Y.; Zhou, Z.; Lu, X.
+Angew. Chem., Int. Ed. 2013, 52, 6033−6037. (f) Rao, V. K.; Shelke, G.
+M.; Tiwari, R.; Parang, K.; Kumar, A. Org. Lett. 2013, 15, 2190−2193.
+(g) Yuan, F.-Q.; Han, F.-S. Adv. Synth. Catal. 2013, 355, 537−547.
+(h) Okitsu, T.; Nakata, K.; Nishigaki, K.; Michioka, N.; Karatani, M.;
+Wada, A. J. Org. Chem. 2014, 79, 5914−5920. (i) Murakami, K.;
+Yorimitsu, H.; Osuka, A. Angew. Chem., Int. Ed. 2014, 53, 7510−7513.
+(j) Yuan, W.; Ma, S. Org. Lett. 2014, 16, 193−195.
+(12) Li, J.; Yang, W.; Yang, S.; Huang, L.; Wu, W.; Sun, Y.; Jiang, H.
+Angew. Chem., Int. Ed. 2014, 53, 7219−7222.
+(13) (a) Huang, J.; Zhou, L.; Jiang, H. Angew. Chem., Int. Ed. 2006, 45,
+1945−1949. (b) Huang, L.; Wang, Q.; Liu, X.; Jiang, H. Angew. Chem.,
+Int. Ed. 2012, 51, 5696−5700. (c) Wu, W.; Gao, Y.; Jiang, H.; Huang, Y.
+J. Org. Chem. 2013, 78, 4580−4586. (d) Huang, L.; Wang, Q.; Wu, W.;
+Jiang, H. J. Org. Chem. 2014, 79, 7734−7739. (e) Wu, W.; Jiang, H. Acc.
+Chem. Res. 2014, 47, 2483−2504. (f) Zhang, Z.; Ouyang, L.; Wu, W.; Li,
+J.; Zhang, Z.; Jiang, H. J. Org. Chem. 2014, 79, 10734−10742.
+(14) (a) Yang, S.-R.; Jiang, H.-F.; Li, Y.-Q.; Chen, H.-J.; Luo, W.; Xu,
+Y.-B. Tetrahedron 2008, 64, 2930−2937. (b) Li, J.; Yang, S.; Huang, L.;
+Chen, H.; Jiang, H. RSC Adv. 2013, 3, 11529−11532. (c) Li, J.; Yang, S.;
+Jiang, H.; Wu, W.; Zhao, J. J. Org. Chem. 2013, 78, 12477−12486. (d) Li,
+J.; Yang, S.; Wu, W.; Qi, C.; Deng, Z.; Jiang, H. Tetrahedron 2014, 70,
+1516−1523. (e) Li, J.; Yang, S.; Wu, W.; Jiang, H. Chem. Commun. 2014,
+50, 1381−1383.
+(15) See the Supporting Information for details.
+(16) Littke, A. F.; Fu, G. C. Angew. Chem., Int. Ed. 2002, 41, 4176−
+4211.
+(17) Zhao, F.; Tan, Q.; Xiao, F.; Zhang, S.; Deng, G. J. Org. Lett. 2013,
+15, 1520−1523.
+(18) (a) Chaplin, J. H.; Flynn, B. L. Chem. Commun. 2001, 1594−1595.
+(b) Nakamura, M.; Ilies, L.; Otsubo, S.; Nakamura, E. Angew. Chem., Int.
+Ed. 2006, 45, 944−947. (c) Zhou, R.; Wang, W.; Jiang, Z.; Wang, K.;
+Zheng, X.; Fu, H.; Chen, H.; Li, R. Chem. Commun. 2014, 50, 6023−
+6026.
+(19) Liang, Y.; Tang, S.; Zhang, X.-D.; Mao, L.-Q.; Xie, Y.-X.; Li, J.-H.
+Org. Lett. 2006, 8, 3017−3020.
+(20) Li, X.; Chianese, A. R.; Vogel, T.; Crabtree, R. H. Org. Lett. 2005,
+7, 5437−5440.
+
+3879
+
+DOI: 10.1021/acs.joc.5b00154
+J. Org. Chem. 2015, 80, 3870−3879
+
+

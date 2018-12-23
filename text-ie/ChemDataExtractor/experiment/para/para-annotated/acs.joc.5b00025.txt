@@ -1,0 +1,2053 @@
+Article
+
+pubs.acs.org/joc
+
+Regio- and Stereoselective Pd-Catalyzed Direct Arylation of
+Unactivated sp3 C(3)−H Bonds of Tetrahydrofuran and 1,4-
+Benzodioxane Systems
+Ramarao Parella and Srinivasarao Arulananda Babu*
+
+Department of Chemical Sciences, Indian Institute of Science Education and Research (IISER) Mohali, Manauli P.O., Sector 81, SAS
+Nagar, Mohali, Knowledge City, Punjab 140306, India
+*S Supporting Information
+
+ABSTRACT: An auxiliary-enabled Pd-catalyzed highly regio- and stereoselective sp3 C−H activation and the direct arylation of
+the C3-position of oxygen heterocycles, such as tetrahydrofuran and 1,4-benzodioxane systems, are reported. An eﬃcient
+stereoselective construction of cis 2,3-disubstituted tetrahydrofuran derivatives (analogues of norlignans) and cis 2,3-
+disubstituted 1,4-benzodioxane derivatives (analogues of neolignans) is described. The direct C(sp3)−H arylation of the C3-
+position of (R)- or (S)- tetrahydrofuran-2-carboxamides furnished the corresponding (2R,3R) and (2S,3S) C3-arylated THF
+scaﬀolds as major compounds with very high regio- and diastereoselectivities. The stereochemistry of the products obtained in
+this work were unambiguously assigned on the basis of the X-ray structure analyses of representative compounds 3b, 3e, 4p, and
+7.
+
+■ INTRODUCTION
+
+Saturated oxygen hetereocycles, especially,
+tetrahydrofuran
+(THF)- and benzodioxane-based motifs are recurrently
+encountered in nature (e.g., lignans, annonaceous acetogenins,
+polyether ionophores/antibiotics, and macrodiolides), pharma-
+ceuticals, and bioactive synthetic compounds.1,2 Several
+substituted THF- and benzodioxane-based synthetic molecules
+and naturally occurring lignan, neolignan, and norlignan oxygen
+hetereocycles were found to exhibit a wide range of biological
+activities (e.g., anticancer, antioxidant, antimicrobial, anti-
+inﬂammatory, and immunosuppressive activities).1−4 There
+exist several naturally occurring THF−norlignan and benzo-
+dioxane−neolignan motifs possessing an aryl group at the C3-
+position (Figure 1), and many of them were found to exhibit
+various biological activities.1,2 For example, recently, a family of
+THF−norlignans, such as metasequirins A, B, E, F, G, and H,
+were isolated2a−c and metasequirins E and F were evaluated for
+lines.2a Further,
+cytotoxicity against ﬁve human tumor cell
+benzodioxane−neolignan molecules, such as isoamericanol A,
+americanol A, isoamericanin A, and americanin A, were found
+to show neurotropic and acetylcholine-enhancing activities.2d,e
+
+The present investigation deals on the synthesis of analogues of
+norlignans and neolignans.
+
+Due to their prevalence in natural products, biological
+activities, and ability to serve as building blocks in organic
+chemistry, numerous classical and modern stereoselective
+synthetic methods1−4 including α-C−H functionalization5
+have been developed for producing bioactive and synthetic
+tetrahydrofuran and benzodioxane derivatives. In general, the
+majority of the tetrahydrofuran and benzodioxane derivatives
+were assembled mainly via the cyclization reaction3,4 of
+predesigned starting materials having the required functional
+groups.
+The direct functionalization of the unactivated C(sp3)−H
+bonds of organic molecules is known to be a challenging task in
+the past decades. However, from the recent past decade, several
+exceptional reports appeared on the transition metal-catalyzed
+direct
+in organic
+molecules, and indeed, functionalization of organic molecules
+via C−H activation is emerging as one of
+the important
+
+functionalization of C−H bonds present
+
+Received:
+Published:
+
+January 5, 2015
+January 15, 2015
+
+© 2015 American Chemical Society
+
+2339
+
+DOI: 10.1021/acs.joc.5b00025
+J. Org. Chem. 2015, 80, 2339−2355
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 1. Representative examples of lignan natural products.
+
+Scheme 1. Theme of This Work
+
+2340
+
+DOI: 10.1021/acs.joc.5b00025
+J. Org. Chem. 2015, 80, 2339−2355
+
+The Journal of Organic Chemistry
+
+Table 1. Optimization of Reaction Conditions
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+
+PdL2 (mol %)
+
+nil
+Pd(OAc)2 (10)
+Pd(OAc)2 (5)
+Pd(OAc)2 (10)
+Pd(OAc)2 (10)
+Pd(OAc)2 (10)
+Pd(OAc)2 (10)
+Pd(OAc)2 (10)
+PdCl2 (10)
+Pd(TFA)2 (10)
+Pd(CH3CN)2Cl2 (10)
+Pd(PPh3)4 (10)
+Pd(OAc)2 (10)
+Pd(OAc)2 (10)
+Pd(OAc)2 (10)
+Pd(OAc)2 (10)
+Pd(OAc)2 (10)
+Pd(OAc)2 (10)
+
+additive (mmol)
+AgOAc (0.55)
+nil
+AgOAc (0.55)
+AgOAc (0.55)
+Ag2CO3 (0.55)
+K2CO3 (0.55)
+KOAc (0.55)
+PhI(OAc)2 (0.55)
+AgOAc (0.55)
+AgOAc (0.55)
+AgOAc (0.55)
+AgOAc (0.55)
+AgOAc (0.55)
+AgOAc (0.55)
+AgOAc (0.55)
+AgOAc (0.55)
+AgOAc (0.55)
+AgOAc (0.55)
+
+solvent (3 mL)
+
+toluene
+toluene
+toluene
+toluene
+toluene
+toluene
+toluene
+toluene
+toluene
+toluene
+toluene
+toluene
+CH3CN
+1,2-DCE
+tBuOH
+1,4-dioxane
+tamylOH
+toluene
+
+T (°C)
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+80
+80
+85
+100
+110
+110
+
+Article
+
+3a; yield (%)a
+
+0
+<15
+70
+81
+69
+0
+traces
+0
+<10
+0
+69
+30
+0
+0
+0
+46
+57
+0b,c
+
+derivative.15c Wu et al.
+revealed the amination reaction
+involving the C(3)−H bond of a proline derivative.15d Earlier,
+Chen’s group reported an example of the direct alkylation of
+the C(3)−H bond of a piperidine derivative.15e
+In continuation of our lab’s interest in C−H activation
+reactions, herein we report an auxiliary-enabled, Pd-catalyzed,
+highly regio- and stereoselective C(sp3)−H activation/
+functionalization of the tetrahydrofuran and 1,4-benzodioxane
+systems. This work demonstrates a new route for the direct
+arylation of the C(3) position of oxygen heterocycles, such as
+tetrahydrofuran and 1,4-benzodioxane systems and highly
+stereoselective construction of novel norlignan-type cis 2,3-
+disubstituted tetrahydrofurans and neolignan-type cis 2,3-
+disubstituted 1,4-benzodioxanes.
+
+such as
+
+Along this
+
+aThe yield corresponds to the reaction of 1a with 2a. bThe yield corresponds to the reaction of 1a with 2b. cThe yield corresponds to the reaction of
+1a with 2c.
+strategies.6−15 There exist several outstanding reports that
+dealing with the direct functionalization of C(sp2)−H bonds
+present in organic molecules. On the other hand, the direct
+functionalization of the unactivated C(sp3)−H bonds present
+in organic molecules is one of the emerging research areas.6−15
+Notably, an auxiliary-enabled, Pd-catalyzed arylation reaction of
+alkyl C(sp3)−H bonds instigated by Daugulis, Yu, Chen, and
+others is emerging as one of
+the seminal methods for
+constructing C−C bonds. Along this line, the direct arylations
+of C(sp3)−H bonds present in carbocyclic systems, such as
+cyclopropane, cyclobutane, medium-sized rings, the norbor-
+nane framework, and acyclic amino acid derivatives, have been
+successfully demonstrated by various research groups.14,15
+line, we envisioned the selective C−H
+functionalization and the direct arylation of the unactivated
+C(sp3)−H bonds present in the THF and 1,4-benzodioxane
+systems for assembling new neolignan/norlignan scaﬀolds. To
+the best of our knowledge, there exist only rare papers dealing
+with the directing group-enabled, Pd-catalyzed C−H function-
+the unactivated C(sp3)−H bonds of saturated
+alization of
+heterocycles, and a literature survey revealed that there is no
+report dealing with the Pd-catalyzed direct arylation of the C3-
+tetrahydrofuran and benzodioxane systems.6−15
+position of
+With regard to the functionalization of C(sp3)−H bonds of
+saturated oxygen hetereocycles, there exist only two examples
+reported by Yu et al., which include the arylation15a and
+alkynylation15b of
+the C3-position of a tetrahydropyran
+derivative (Scheme 1). On the other hand, with regard to the
+the unactivated C(sp3)−H bonds of
+functionalization of
+saturated nitrogen hetereocycles, recently, Bull et al. reported
+the C(3)−H bond of a proline
+the direct arylation of
+
+■ RESULTS AND DISCUSSION
+<para sub=“opt”>
+To examine the arylation of the methylene C(sp3)−H bond of
+oxygen heterocycles,
+tetrahydrofuran and 1,4-
+benzodioxane systems, initially, we prepared the substrate 1a
+by linking tetrahydrofuran-2-carboxylic acid chloride with
+Daugulis’s bidentate directing group (8-aminoquinoline).14a,b
+Then to ﬁnd out the best reaction conditions for achieving the
+C(3)−H arylation of substrate 1a, we performed several
+reactions as shown in Table 1. We found the best reaction
+conditions comprising the reaction of substrate 1a, aryl iodide
+2a, and AgOAc (additive) in the presence 5 or 10 mol % of the
+Pd(OAc)2 catalyst, which aﬀorded the C3-arylated product, cis
+2,3-disubstituted tetrahydrofuran 3a (norlignan analogue), in
+70 and 81% yields, respectively (entries 3 and 4, Table 1). The
+C−H arylation of the substrate 1a with 2a in the presence of
+</para>
+2341
+
+DOI: 10.1021/acs.joc.5b00025
+J. Org. Chem. 2015, 80, 2339−2355
+
+The Journal of Organic Chemistry
+<para sub=“opt”>
+Ag2CO3 as an additive instead of AgOAc also gave the product
+3a in 69% yield (entry 5, Table 1).
+</para>
+<para sub=“opt”>
+The Pd-catalyzed C(3)−H arylation of substrate 1a with 2a
+in the presence of various other additives, such as K2CO3 or
+KOAc or PhI(OAc)2 did not give the product 3a (entries 6−8,
+Table 1). The C−H arylation of substrate 1a in the presence of
+other palladium catalysts, such as PdCl2 or Pd(TFA)2 instead of
+Pd(OAc)2, did not give satisfactory yields (entries 9 and 10,
+Table 1). However, the C−H arylation of 1a in the presence of
+Pd(CH3CN)2Cl2 and Pd(PPh3)4
+instead of Pd(OAc)2
+furnished the product 3a in 69 and 30% yields, respectively
+(entries 11 and 12, Table 1). The Pd-catalyzed C−H arylation
+of 1a with 2a in other solvents, such as MeCN or 1,2-DCE or
+tert-butyl alcohol, failed to aﬀord the product 3a (entries 13−
+15, Table 1). However, the Pd-catalyzed reaction of 1a with 2a
+in 1,4-dioxane or tert-amyl alcohol gave the product 3a in 46
+and 57% yields, respectively (entries 16 and 17, Table 1).
+Employing coupling partners 2b or 2c instead of 2a was
+ineﬀective (entry 18, Table 1).
+</para>
+<para sub=“opt”>
+To ﬁnd out how many equivalents of aryl
+
+iodide 2a are
+required for producing the C3-arylated product 3a with better
+yield, we investigated the C−H arylation of substrate 1a by
+varying the quantity of 2a (Table 2). The Pd-catalyzed C−H
+</para>
+Table 2. Optimization of Reaction Conditions
+<para sub=“opt”>
+arylation of substrate 1a with 1 equiv of 2a gave the C3-arylated
+product 3a in low yield (35%, entry 1, Table 2). Next, the Pd-
+catalyzed C−H arylation of substrate 1a with 2 or 3 equiv of 2a
+gave the C3-arylated product 3a in 59% and 68% yields,
+respectively (entries 2 and 3, Table 2). The usage of 4 equiv of
+2a gave the C3-arylated product 3a in very good yield (81%,
+entry 4, Tables 1 and 2). Along this line, we have also
+performed the Pd-catalyzed C−H arylation of substrate 1a with
+1.8 equiv of 2a by using Bull’s reaction conditions,15c which
+gave the C3-arylated product 3a in 50% yield (Table 2).
+</para>
+<para sub="scope">
+this bidentate directing-
+group-enabled, Pd-catalyzed direct arylation of the C(3)−H
+bond of the THF derivative 1a was elaborated using a variety of
+aryl iodides (Scheme 2). The direct arylation of the methylene
+sp3 C(3)−H bond of the substrate 1a with various aryl iodides
+containing a substituent at the para or meta position (e.g., Ac,
+Cl, and NO2) aﬀorded the corresponding cis 2,3-disubstituted
+tetrahydrofurans 3b−g in 56−76% yields. Similarly, the C3-
+arylated THF scaﬀolds 3h and 3i were obtained from the Pd-
+
+the generality of
+
+Subsequently,
+</para>
+Article
+<para sub="scope">
+catalyzed C−H arylation of the substrate 1a by using the
+corresponding benzodioxane- or benzodioxole-based aryl
+iodides as coupling partners. Further, the arylation of the
+substrate 1a with multisubstituted aryl
+iodides gave the
+corresponding products 3j−l in 40−58% yields. We have also
+carried out the Pd-catalyzed direct arylation of the C(3)-
+position of the THF derivative 1a with a variety of hetero aryl
+iodides, which furnished the corresponding THF scaﬀolds 3m−
+r possessing heteroaryl groups at the C3-position in 20−87%
+yields.
+</para>
+<para sub=“props”>
+Representatively, recrystallization of C−H arylated products
+3b and 3e formed single crystals, which were subjected to
+single-crystal X-ray structure analyses. The X-ray structures of
+the representative compounds 3b and 3e (see SI for the X-ray
+structures of 3b and 3e)16 unambiguously conﬁrmed that all
+these reactions were highly regio- and stereoselective and the
+direct C−H arylation occurred only at the C3-position of the
+substrate 1a and selectively gave the 2,3-disubstituted
+tetrahydrofurans 3a−r having cis stereochemistry (C2 and C3
+stereocenters). In addition, characteristically, the C2 proton of
+all the compounds (3a−r) appeared as a doublet (chemical
+shift value range, δ = 4.71−4.91 ppm) due to its coupling with
+the C3 proton. The coupling constants (J) of the doublet peaks
+of the C2 proton of all the compounds (3a−r) were calculated
+from their respective 1H NMR spectra and found to be in the
+range of 6.6−8.2 Hz (except the compound 3q having a
+thiophene moiety at the C3-position, C2H, doublet, J = 6.3
+Hz).17a Accordingly, the stereochemistry of the compounds
+3a−r were assigned as cis on the basis of the X-ray structure
+the compounds 3b and 3e coupled with the
+analyses of
+similarity in the NMR spectral pattern of the compounds 3a−r.
+</para>
+<para sub="scope">
+Successively, we investigated the Pd-catalyzed C−H arylation
+of other substrates, such as 1bA, 1bB, and 1bC (Figure 2). It is
+a limitation that the Pd-catalyzed C−H arylation reactions of
+substrates 1bA, 1bB, and 1bC with 2a were not successful (see
+the SI
+reaction
+conditions). Furthermore,
+the other working
+auxiliaries for selectively arylating the C(3)−H bond of THF
+derivatives, we performed the Pd-catalyzed reactions of
+substrates 1c−f, 1dA, 1eA, and 1fA with 2a (Figure 2), and
+in these reactions we did not get any of the corresponding C−
+H arylated THF products. These reactions indicated that 8-
+aminoquinoline (Daugulis’s auxiliary14a,b) is an eﬀective
+auxiliary, as the substrate 1a underwent the Pd-catalyzed C−
+H arylation more smoothly than the other substrates 1c−f,
+1dA, 1eA, and 1fA.
+
+information and individual
+
+for additional
+
+to ﬁnd out
+</para>
+<para sub="scope">
+Furthermore, we focused our attention to further extend the
+generality of this protocol, and we decided to investigate the
+Pd-catalyzed direct C−H arylation of the methylene C(sp3)−H
+bond of the 1,4-benzodioxane system (Scheme 3). Along this
+initially, we assembled the substrate 1g by linking the
+line,
+corresponding 1,4-benzodioxane carboxylic acid chloride with
+Daugulis’s bidentate directing group (8-aminoquinoline). Then
+we performed the reaction of the substrate 1g with phenyl
+iodide in the presence of AgOAc (2.2 equiv) and 10 mol % of
+the Pd(OAc)2 catalyst, which successfully gave the C3-arylated
+product, cis 2,3-disubstituted 1,4-benzodioxane scaﬀold 4a
+(neolignan analogue), in 65% yield (Scheme 3). Thenceforth,
+we capitalized on this success and synthesized a wide range
+neolignan-type cis 2,3-disubstituted 1,4-benzodioxane scaﬀolds
+4b−q (40−83%) from Pd-catalyzed direct arylation of the
+methylene sp3 C(3)−H bond of the 1,4-benzodioxane system
+1g by using the corresponding aryl iodides, such as mono- and
+</para>
+2342
+
+DOI: 10.1021/acs.joc.5b00025
+J. Org. Chem. 2015, 80, 2339−2355
+
+The Journal of Organic Chemistry
+Scheme 2. Arylation of sp3 C(3)−H Bond of 1a and Construction of Norlignan-THF Scaﬀolds
+
+Article
+<para sub="scope">
+disubstituted aryl iodides, benzodioxane-based aryl iodide, and
+heteroaryl iodides.
+</para>
+<para sub=“props”>
+In a representative case, the C−H arylated product 4p was
+recrystallized and subjected to single-crystal X-ray structure
+analysis. The X-ray structure of the representative compound
+4p (see SI for the X-ray structure of 4p16) clearly conﬁrmed
+that the C−H arylation of the substrate 1g was highly regio-
+and stereoselective and the direct C−H arylation occurred only
+at the C3-position of the substrate 1g and selectively gave the
+2,3-disubstituted 1,4-benzodioxanes 4a−q with cis stereo-
+chemistry (C2 and C3 stereocenters). Characteristically, the
+C2 and C3 protons in compounds 4a−q appeared as doublets,
+and the coupling constants (J) of the doublet peaks of C2 and
+C3 protons of compounds 4a−q were calculated from their
+respective 1H NMR spectra and found to be in the range of
+2.8−3.1 Hz.18 Accordingly,
+the stereochemistry of 2,3-
+disubstituted 1,4-benzodioxanes 4a−q were assigned as cis on
+the basis of the X-ray structure analysis of the compound 4p
+
+coupled with the similarity in their NMR spectral patterns and
+the characteristic coupling constant values of the doublet peaks
+of the C2 protons and C3 protons of compounds 4a−q.
+</para>
+<para sub="scope">
+Subsequently, we decided to explore the direct C−H
+the unactivated sp3 C(3)−H bond of chiral
+arylation of
+tetrahydrofuran-2-carboxamides and synthesize chiral C3-
+arylated tetrahydrofuran-2-carboxamides. In this regard, we
+assembled the chiral tetrahydrofuran-2-carboxamide substrates
+1h (R-isomer) and 1i (S-isomer, Scheme 4). Then we
+performed the Pd-catalyzed direct C(sp3)−H arylation of the
+substrates 1h and 1i with various aryl iodides. These reactions
+successfully furnished the corresponding chiral 2,3-disubsti-
+tuted tetrahydrofurans 5a−g (2R,3R, major isomer) and 6a−g
+(2S,3S, major isomer) in 70−86% yields. Similarly, the C−H
+arylation of substrates 1h and 1i with 2-iodothiophene gave the
+products 5h (2R,3S, major isomer) and 6h (2S,3R, major
+isomer) in 81 and 90% yields, respectively (Scheme 4). The
+HPLC analyses of the compounds 5a−h and 6a−h revealed
+</para>
+2343
+
+DOI: 10.1021/acs.joc.5b00025
+J. Org. Chem. 2015, 80, 2339−2355
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 2. Investigation of C(sp3)−H arylation reactions using other substrates and auxiliaries. Conditions: Substrate (0.25 mmol), 2a or 1-iodo-4-
+methylbenzene (1 mmol, 4 equiv), (Pd(OAc)2 (5−10 mol %), AgOAc (0.55 mmol, 2.2 equiv), toluene (3 mL), 24 h, and 110 °C. See Tables 3−5 in
+SI for additional information and individual reaction conditions.
+Scheme 3. Arylation of sp3 C(3)−H Bond of 1g and Construction of Benzodioxane−Neolignan Motifs
+
+2344
+
+DOI: 10.1021/acs.joc.5b00025
+J. Org. Chem. 2015, 80, 2339−2355
+
+The Journal of Organic Chemistry
+Scheme 4. Arylation of sp3 C(3)−H Bond of 1h,i and Construction of Norlignan−THF Scaﬀolds
+
+Article
+
+Scheme 5. Gram Scale Reaction and Removal of the Directing Group
+<para sub="scope">
+that the C−H arylation of the chiral substrates 1h and 1i
+resulted the chiral products 5a−h with ee 81 to >99% and 6a−
+h with ee 83 to >99%, and perceptibly, partial racemizations
+were observed in most of the reactions under the experimental
+conditions. The direct C−H arylation of chiral substrates 1h
+and 1i occurred only at the C3-position and selectively gave the
+chiral 2,3-disubstituted tetrahydrofurans 5a−h and 6a−h with
+cis stereochemistry (C2 and C3 stereocenters). The com-
+pounds 5a−h and 6a−h were isolated in pure form as single
+diastereomers and characterized by NMR spectral data, mass,
+and HPLC analyses. The stereochemistry of compounds 5a−h
+and 6a−h (cis isomers) were assigned on the basis of the X-ray
+
+the compounds 3b and 3e and
+structure analyses of
+deliberations given for establishing the stereochemistry of the
+compounds 3a−r.17a
+</para>
+<para sub="scope">
+We also performed the Pd-catalyzed direct arylation of
+C(3)−H bond of the substrate 1a with iodobenzene on a gram
+scale. This reaction gave the C3-arylated product 3b in 70%
+yield (Scheme 5). Finally, we have attempted the removal of
+the bidentate directing group (8-aminoquinoline) from the C3-
+arylated cis 2,3-disubstituted THF and benzodioxane systems.
+Representatively, we carried out
+the
+carboxamides 3b and 4a. The hydrolysis of the carboxamides
+3b and 4a under the standard hydrolysis reaction conditions
+
+the hydrolysis of
+</para>
+2345
+
+DOI: 10.1021/acs.joc.5b00025
+J. Org. Chem. 2015, 80, 2339−2355
+
+The Journal of Organic Chemistry
+<para sub="scope">
+(e.g., concd HCl- or NaOH-mediated hydrolysis) failed to
+aﬀord the corresponding carboxylic acids 7 and 8. Later we
+found that the hydrolysis of carboxamides 3b and 4a in the
+presence of
+triﬂic acid (TfOH) successfully gave the
+corresponding carboxylic acids 7 and 8 (Scheme 5). The
+stereochemistry of the compound 7 (C2 and C3 stereocenters)
+was unambiguously found to be cis (see SI for the X-ray
+structure of 7),16 and no signiﬁcant epimerization was observed
+under the experimental condition employed for hydrolyzing the
+carboxamide 3b. Additionally, the C2 proton in the compound
+7 appeared as a doublet (δ = 4.65 ppm) due to its coupling
+with the C3 proton similar to that of its parent compound 3b
+(C2H, doublet, δ = 4.78, J = 7.0 Hz). The coupling constant (J)
+of the doublet peak of the C2 proton of the compound 7 (cis
+isomer) was found to be 7.7 Hz similar to that of its parent
+compound 3b (cis isomer).17a Likewise, the stereochemistry of
+the C2 and C3 stereocenters of the compound 8 was assigned
+as cis based on the coupling constant (J = 3.2 Hz) of the
+doublet peaks of the C2/C3 protons, which was found to be in
+agreement with the literature and that of its parent compound
+4a (cis isomer),
+in which the coupling constant (J) of the
+doublet peaks of the C2/C3 protons was 3.1 Hz.18
+</para>
+In summary, we have shown the bidentate directing group-
+aided, Pd-catalyzed, highly regio- and stereoselective sp3 C−H
+activation and direct arylation of the C(3)−H position of
+tetrahydrofuran and 1,4-benzodioxane systems. The direct C−
+H arylation occurred only at
+the C3 position of racemic
+tetrahydrofuran-2-carboxamides and gave the corresponding
+racemic C3-arylated THF derivatives with excellent regio- and
+diastereoselectivities. Similarly, the C−H arylation of chiral (R)-
+or (S)-tetrahydrofuran-2-carboxamides resulted in the corre-
+sponding chiral (2R,3R) and (2S,3S) C3-arylated-THF
+scaﬀolds having cis stereochemistry with excellent regio- and
+diastereoselectivities and very good ee. Overall, this protocol
+has led to the production of a wide range of cis 2,3-
+disubstituted THF−norlignan and benzodioxane−neolignan
+scaﬀolds with very high regio- and stereoselectivities.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General. Melting points are uncorrected. FT-IR spectra of
+compounds were recorded as thin ﬁlms or KBr pellets. 1H and 13C
+NMR spectra of all compounds were recorded on 400 and 100 MHz
+spectrometers, respectively (using TMS as an internal standard).
+HRMS measurements reported in this work were obtained from a
+TOF mass analyzer using electrospray ionization (ESI). Column
+chromatography was carried out using silica gel 100−200 mesh. HPLC
+analyses were performed using OD-H (0.46 cm IDR, 25 cm length) as
+a chiral column (eluents, ﬂow rate, detection method are listed in the
+HPLC charts). Reactions were performed in anhydrous solvent under
+a nitrogen atmosphere. Solutions were dried using anhydrous Na2SO4.
+Thin layer chromatography analyses were performed on silica gel
+plates, and components were visualized by observation under iodine.
+Isolated yields of all the compounds are reported and yields were not
+optimized. In all the reactions, puriﬁcation of the crude reaction
+mixture by the column chromatography gave only the major
+diastereomer (as single compound) in pure form, and we did not
+isolate any other compound in considerable quantity suitable for
+characterization.
+Procedure for the Synthesis of the Carboxamides 1a−i,
+1bA−bC, 1dA, 1eA, and 1fA. The corresponding carboxylic acid
+(1.5 mmol) was dissolved in SOCl2 (4 mmol) and stirred for 24 h at rt
+under a nitrogen atmosphere. After this period, the reaction mixture
+was concentrated in vacuum and diluted with anhydrous DCM (3 mL)
+under a nitrogen atmosphere. Then the corresponding acid chloride in
+DCM was added to a separate RB ﬂask containing amine (1 mmol)
+</para>
+Article
+<para sub=“exp”>
+and Et3N (1.1 mmol) in anhydrous DCM (2 mL) under a nitrogen
+atmosphere. The reaction mixture was stirred at rt for 10 min, and
+then the reaction mixture was reﬂuxed for 12 h under a nitrogen
+atmosphere. After this period, the reaction mixture was diluted with
+DCM (5 mL) and washed with water followed by saturated aqueous
+NaHCO3 solution. The combined organic layers were dried over
+anhydrous Na2SO4 and concentrated in vacuum, and puriﬁcation of
+the resulting reaction mixture by column chromatography (EtOAc/
+hexanes = 30:70) furnished the corresponding cyclic ether
+carboxamides 1a−i, 1bA−bC, 1dA, 1eA, and 1fA.
+General Procedure for the Pd-Catalyzed C−H Arylation of
+the Carboxamides 1a−i, 1bA−bC, 1dA, 1eA, and 1fA and
+Preparation of 3a−r, 4a−q, 5a−h, and 6a−h. A mixture of the
+corresponding cyclic ether carboxamide 1 (0.25 mmol, 1 equiv),
+Pd(OAc)2 (5.6 mg, 10 mol %), ArI (1.0 mmol, 4 equiv), and AgOAc
+(91.8 mg, 0.55 mmol, 2.2 equiv) in anhydrous toluene (3 mL) was
+heated at 110 °C for 24−48 h under a nitrogen atmosphere. After the
+reaction period, the reaction mixture was concentrated in vacuum, and
+puriﬁcation of the resulting reaction mixture by silica gel column
+chromatography furnished the corresponding C−H arylated cyclic
+ether carboxamides 3a−r, 4a−q, 5a−h, and 6a−h (see tables/schemes
+for speciﬁc examples).
+
+Procedure for the Hydrolysis of the Amides 3b and 4a. To a
+RB ﬂask (capacity 25 mL) ﬁtted with a Liebig condenser (length = 15
+cm) sealed at the top and having a J Young air inlet valve at the side of
+the RB ﬂask was sequentially added the corresponding carboxamide 3b
+or 4a (0.25 mmol) dissolved in a mixture of toluene (3 mL) and water
+(0.5 mL) and CF3SO3H (0.5 mL) using syringes. The air inlet was
+closed, the reaction mixture was heated at 100 °C, and chilled water
+was circulated in the outer glass tube of the condenser. After 12 h, the
+reaction mixture was transferred from the RB ﬂask into a separating
+funnel using a syringe, diluted with EtOAc, and extracted with
+saturated aqueous Na2CO3 solution (20 mL × 2). Then the combined
+aqueous layers were acidiﬁed with 1 N HCl (15 mL × 2) to get pH ∼
+2. Then the aqueous layers were extracted using EtOAc (10 mL × 2),
+the combined organic layers were dried over anhydrous Na2SO4, and
+evaporation in vacuum gave the corresponding carboxylic acid 7 or 8.
+N-(Quinolin-8-yl)tetrahydrofuran-2-carboxamide (1a). Fol-
+lowing the general procedure, 1a was obtained after puriﬁcation by
+column chromatography on silica gel (EtOAc:hexanes = 30:70) as
+brown color solid; yield: 95% (230 mg); mp 85−87 °C; IR (KBr):
+3441, 1653, 1554, 1260, 750 cm−1; 1H NMR (400 MHz, CDCl3): δ
+10.94 (br s, 1H), 8.88 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.82 (dd, 1H,
+J1 = 6.2 Hz, J2 = 2.8 Hz), 8.17 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.58−
+7.53 (m, 2H), 7.47 (dd, 1H, J1 = 8.3 Hz, J2 = 4.2 Hz), 4.64 (dd, 1H, J1
+= 8.4 Hz, J2 = 5.6 Hz), 4.28−4.23 (m, 1H), 4.08 (dd, 1H, J1 = 15.2 Hz,
+J2 = 7.0 Hz), 2.48−2.39 (m, 1H), 2.32−2.25 (m, 1H), 2.04−1.98 (m,
+2H); 13C NMR (100 MHz, CDCl3): δ 172.1, 148.6, 138.9, 136.2,
+133.9, 128.0, 127.2, 121.9, 121.6, 116.5, 79.2, 69.8, 30.5, 25.6; HRMS
+(ESI): m/z [M + H]+ calcd for C14H15N2O2: 243.1134;
+found
+243.1154.
+
+N-(Quinolin-8-yl)tetrahydrofuran-3-carboxamide (1bA). Fol-
+lowing the general procedure, 1bA was obtained after puriﬁcation by
+column chromatography on silica gel (EtOAc:hexanes = 30:70) as red
+color solid; yield: 90% (218 mg); mp 80−82 °C; IR (KBr): 3440,
+1676, 1527, 1385, 791 cm−1; 1H NMR (400 MHz, CDCl3): δ 9.91 (br
+s, 1H), 8.72 (d, 1H, J1 = 1.7 Hz), 8.71 (dd, 1H, J1 = 3.1 Hz, J2 = 1.7
+Hz), 8.03 (dd, 1H, J1 = 8.3 Hz, J2 = 1.6 Hz), 7.45−7.38 (m, 2H), 7.34
+(dd, 1H, J1 = 8.3 Hz, J2 = 4.2 Hz), 4.06 (d, 2H, J = 6.9 Hz), 4.02−3.97
+(m, 1H), 3.87−3.81 (m, 1H), 3.27−3.19 (m, 1H), 2.34−2.20 (m, 2H);
+13C NMR (100 MHz, CDCl3): δ 172.0, 148.2, 138.2, 136.3, 134.3,
+127.8, 127.2, 121.7, 121.6, 116.5, 71.0, 68.4, 46.9, 30.7; HRMS (ESI):
+m/z [M + H]+ calcd for C14H15N2O2: 243.1134; found 243.1158.
+
+N-(Quinolin-8-yl)tetrahydro-2H-pyran-4-carboxamide (1bB).
+Following the general procedure, 1bB was obtained after puriﬁcation
+by column chromatography on neutral alumina (EtOAc:hexanes =
+40:60) as brown color solid. Yield: 88% (225 mg); mp 141−143 °C;
+IR (KBr): 3352, 1682, 1528, 1280, 792 cm−1; 1H NMR (400 MHz,
+CDCl3): δ 9.98 (br s, 1H), 8.82 (dd, 1H, J1 = 4.2 Hz, J2 = 1.6 Hz), 8.80
+(dd, 1H, J1 = 7.1 Hz, J2 = 1.8 Hz), 8.19 (d, 1H, J = 8.3 Hz), 7.58−7.51
+</para>
+2346
+
+DOI: 10.1021/acs.joc.5b00025
+J. Org. Chem. 2015, 80, 2339−2355
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+(m, 2H), 7.49 (dd, 1H, J1 = 8.3 Hz, J2 = 4.2 Hz), 4.14 (t, 1H, J = 3.0
+Hz), 4.11 (t, 1H, J = 3.0 Hz), 3.55 (dt, 2H, J1 = 11.0 Hz, J2 = 3.5 Hz),
+2.80−2.72 (m, 1H), 2.09−1.96 (m, 4H); 13C NMR (100 MHz,
+CDCl3): δ 172.9, 148.2, 138.4, 136.5, 134.3. 128.0, 127.4, 121.7, 121.6,
+116.5, 67.3, 43.6, 29.3; HRMS (ESI): m/z [M + H]+ calcd for
+C15H17N2O2: 257.1290; found 257.1290.
+
+N-(Quinolin-8-yl)chroman-3-carboxamide (1bC). Following
+the general procedure, 1bC was obtained after puriﬁcation by column
+chromatography on neutral alumina (EtOAc:hexanes = 30:70) as
+yellow color liquid. Yield: 85% (258 mg); IR (DCM): 3343, 1682,
+1528, 1228, 1068, 752 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.17
+(br s, 1H), 8.82−8.79 (m, 2H), 8.19 (d, 1H, J = 8.2 Hz), 7.59−7.54
+(m, 2H), 7.48 (dd, 1H, J1 = 8.2 Hz, J2 = 4.2 Hz), 7.17 (t, 2H, J = 8.0
+Hz), 6.93 (dd, 2H, J1 = 12.2 Hz, J2 = 8.0 Hz), 4.66−4.62 (m, 1H), 4.30
+(t, 1H, J = 10.4 Hz), 3.37 (dd, 1H, J1 = 15.3 Hz, J2 = 10.0 Hz), 3.27−
+3.15 (m, 2H); 13C NMR (100 MHz, CDCl3): δ 170.5, 154.0, 148.3,
+138.4, 136.4, 134.1, 129.9, 127.9, 127.6, 127.4, 121.9, 121.7, 120.8,
+120.5, 116.8, 116.7, 67.4, 41.3, 28.6; HRMS (ESI): m/z [M + H]+
+calcd for C19H17N2O2: 305.1290; found 305.1286.
+
+N-(2-(Dimethylamino)ethyl)tetrahydrofuran-2-carboxamide
+(1c). Following the general procedure, 1c was obtained after
+puriﬁcation by column chromatography on silica gel (MeOH:EtOAc
+= 10:90) as dark brown color liquid; yield: 40% (75 mg); IR (DCM):
+3433, 1637, 1528, 1260, 749 cm−1; 1H NMR (400 MHz, CDCl3): δ
+7.07 (br s, 1H), 4.36 (dd, 1H, J1 = 8.3 Hz, J2 = 5.8 Hz), 3.99−3.86 (m,
+2H), 3.41−3.29 (m, 2H), 2.41 (dt, 2H, J1 = 6.3 Hz, J2 = 1.5 Hz), 2.33−
+2.26 (m, 1H), 2.24 (s, 6H), 2.10−2.02 (m, 1H), 1.95−1.83 (m, 2H);
+13C NMR (100 MHz, CDCl3): δ 173.3, 78.5, 69.4, 58.1, 45.3, 36.4,
+30.2, 25.5; HRMS (ESI): m/z [M + H]+ calcd for C9H19N2O2:
+187.1447; found 187.1459.
+
+N-(Pyridin-2-ylmethyl)tetrahydrofuran-2-carboxamide (1d).
+Following the general procedure, 1d was obtained after puriﬁcation by
+column chromatography on silica gel (EtOAc:hexanes = 60:40) as
+dark brown color liquid; yield: 71% (146 mg); IR (DCM): 3396, 1650,
+1530, 1075, 758 cm−1; 1H NMR (400 MHz, CDCl3): δ 8.46 (d, 1H, J
+= 4.5 Hz), 7.68 (br s, 1H), 7.58 (t, 1H, J = 7.6 Hz), 7.18 (d, 1H, J = 7.6
+Hz), 7.12 (t, 1H, J = 5.9 Hz), 4.56−4.40 (m, 2H), 4.35 (dd, 1H, J1 =
+8.3 Hz, J2 = 6.1 Hz), 3.95−3.90 (m, 1H), 3.85−3.79 (m, 1H), 2.27−
+2.18 (m, 1H), 2.06−1.96 (m, 1H), 1.88−1.78 (m, 2H); 13C NMR
+(100 MHz, CDCl3): δ 173.4, 156.7, 149.1, 136.7, 122.3, 121.8, 78.5,
+69.4, 43.9, 30.2, 25.4; HRMS (ESI): m/z [M + H]+ calcd for
+C11H15N2O2: 207.1134; found 207.1132.
+
+N-((Tetrahydrofuran-2-yl)methyl)picolinamide (1dA). Follow-
+ing the general procedure, 1dA was obtained after puriﬁcation by
+column chromatography on silica gel (EtOAc:hexanes = 40:60) as
+dark brown color liquid; yield: 80% (165 mg); IR (DCM): 3480, 1668,
+1590, 1077, 751 cm−1; 1H NMR (400 MHz, CDCl3): δ 8.57−8.55 (m,
+1H), 8.36 (br s, 1H), 8.19 (d, 1H, J = 7.8 Hz), 7.84 (dt, 1H, J1 = 7.7
+Hz, J2 = 1.7 Hz), 7.44−7.40 (m, 1H), 4.13−4.07 (m, 1H), 3.95−3.90
+(m, 1H), 3.82−3.71 (m, 2H), 3.47−3.41 (m, 1H), 2.07−1.99 (m, 1H),
+1.95−1.87 (m, 2H), 1.68−1.59 (m, 1H); 13C NMR (100 MHz,
+CDCl3): δ 164.4, 149.8, 148.1, 137.3, 126.1, 122.2, 77.8, 68.3, 43.2,
+28.8, 25.9; HRMS (ESI): m/z [M + H]+ calcd for C11H15N2O2:
+207.1134; found 207.1157.
+
+N-(2-(Methylthio)phenyl)tetrahydrofuran-2-carboxamide
+(1e). Following the general procedure, 1e was obtained after
+puriﬁcation by column chromatography on silica gel (EtOAc:hexanes
+= 30:70) as yellow color liquid; yield: 81% (192 mg); IR (DCM):
+3441, 1685, 1523, 1275, 750 cm−1; 1H NMR (400 MHz, CDCl3): δ
+9.57 (br s, 1H), 8.36 (dd, 1H, J1 = 8.2 Hz, J2 = 1.3 Hz), 7.47 (dd, 1H,
+J1 = 7.6 Hz, J2 = 1.3 Hz), 7.32−7.28 (m, 1H), 7.09 (dt, 1H, J1 = 7.6 Hz,
+J2 = 1.3 Hz), 4.54 (dd, 1H, J1 = 8.5 Hz, J2 = 5.4 Hz), 4.17−4.12 (m,
+1H), 4.01 (dd, 1H, J1 = 15.2 Hz, J2 = 7.0 Hz), 2.41 (s, 3H), 2.39−2.33
+(m, 1H), 2.26−2.18 (m, 1H), 2.02−1.93 (m, 2H); 13C NMR (100
+MHz, CDCl3): δ 171.7, 137.5, 132.4, 128.6, 126.0, 124.5, 120.3, 79.0,
+69.8, 30.4, 25.6, 18.5; HRMS (ESI): m/z [M + Na]+ calcd for
+C12H15NNaO2S: 260.0721; found 260.0734.
+
+N-(2-(Methylthio)phenyl)tetrahydrofuran-3-carboxamide
+(1eA). Following the general procedure, 1eA was obtained after
+puriﬁcation by column chromatography on silica gel (EtOAc:hexanes
+
+= 40:60) as colorless solid. Yield: 70% (65 mg); mp 64−66 °C; IR
+(KBr): 3437, 1661, 1471, 1554, 1261, 750 cm−1; 1H NMR (400 MHz,
+CDCl3): δ 8.49 (br s, 1H), 8.26 (d, 1H, J = 8.2 Hz), 7.46 (d, 1H, J =
+7.2 Hz), 7.28 (t, 1H, J = 8.2 Hz), 7.08 (t, 1H, J = 7.2 Hz), 4.09−3.97
+(m, 3H), 3.87 (dd, 1H, J1 = 15.4 Hz, J2 = 7.5 Hz), 3.17−3.11 (m, 1H),
+2.39 (s, 3H), 2.29 (dd, 2H, J1 = 14.0 Hz, J2 = 7.0 Hz); 13C NMR (100
+MHz, CDCl3): δ 172.0, 137.9, 132.4, 128.6, 125.8, 124.6, 121.0, 70.9,
+68.2, 46.8, 30.5, 18.7; HRMS (ESI): m/z [M + H]+ calcd for
+C12H16NO2S: 238.0902; found 238.0908.
+
+N-(2-Methylquinolin-8-yl)tetrahydrofuran-2-carboxamide
+(1f). Following the general procedure, 1f was obtained after
+puriﬁcation by column chromatography on silica gel (EtOAc:hexanes
+= 30:70) as brown color solid; yield: 85% (217 mg); mp 83−85 °C; IR
+(KBr): 3440, 1603, 1573, 1260, 757 cm−1; 1H NMR (400 MHz,
+CDCl3): δ 10.99 (br s, 1H), 8.76 (dd, 1H, J1 = 5.5 Hz, J2 = 3.4 Hz),
+8.03 (d, 1H, J = 8.4 Hz), 7.48−7.47 (m, 2H), 7.32 (d, 1H, J = 8.4 Hz),
+4.64 (dd, 1H, J1 = 8.4 Hz, J2 = 5.3 Hz), 4.29−4.24 (m, 1H), 4.12−4.07
+(m, 1H), 2.77 (s, 3H), 2.44−2.37 (m, 1H), 2.33−2.25 (m, 1H), 2.04−
+1.97 (m, 2H); 13C NMR (100 MHz, CDCl3): δ 172.1, 157.4, 138.3,
+136.2, 133.3, 126.2, 126.1, 122.4, 121.7, 116.4, 79.2, 69.7, 30.5, 25.5,
+25.4; HRMS (ESI): m/z [M + H]+ calcd for C15H17N2O2: 257.1290;
+found 257.1298.
+
+N-(2-Methylquinolin-8-yl)tetrahydrofuran-3-carboxamide
+(1fA). Following the general procedure, 1fA was obtained after
+puriﬁcation by column chromatography on silica gel (EtOAc:hexanes
+= 40:60) as brown color liquid. Yield: 90% (230 mg); IR (DCM):
+3342, 1683, 1530, 1384, 763 cm−1; 1H NMR (400 MHz, CDCl3): δ
+10.05 (br s, 1H), 8.75−8.71 (m, 1H), 8.01 (d, 1H, J = 8.4 Hz), 7.45 (d,
+2H, J = 4.2 Hz), 7.31 (d, 1H, J = 8.4 Hz), 4.17−4.05 (m, 3H), 3.93
+(dd, 1H, J1 = 15.2 Hz, J2 = 7.7 Hz), 3.41−3.27 (m, 1H), 2.75 (s, 3H),
+2.43−2.27 (m, 2H); 13C NMR (100 MHz, CDCl3): δ 171.9, 157.3,
+137.7, 136.4, 133.7, 126.3, 126.0, 122.5, 121.5, 116.5, 71.1, 68.5, 47.0,
+30.7, 25.3; HRMS (ESI): m/z [M + H]+ calcd for C15H17N2O2:
+257.1290; found 257.1281.
+
+N-(Quinolin-8-yl)-2,3-dihydrobenzo[b][1,4]dioxine-2-car-
+boxamide (1g). Following the general procedure, 1g was obtained
+after puriﬁcation by column chromatography on silica gel
+(EtOAc:hexanes = 30:70) as brown color solid; yield: 84% (257
+mg); mp 121−123 °C; IR (KBr): 3440, 1682, 1491, 1274, 750 cm−1;
+1H NMR (400 MHz, CDCl3): δ 10.98 (br s, 1H), 8.84 (dd, 1H, J1 =
+4.2 Hz, J2 = 1.6 Hz), 8.81 (t, 1H, J = 4.4 Hz), 8.17 (dd, 1H, J1 = 8.3
+Hz, J2 = 1.6 Hz), 7.57 (d, 2H, J = 4.3 Hz), 7.47 (dd, 1H, J1 = 8.3 Hz, J2
+= 4.2 Hz), 7.27−7.24 (m, 1H), 7.01−6.92 (m, 3H), 4.97 (dd, 1H, J1 =
+7.0 Hz, J2 = 2.7 Hz), 4.69 (dd, 1H, J1 = 11.4 Hz, J2 = 2.7 Hz), 4.44 (dd,
+1H, J1 = 11.4 Hz, J2 = 7.0 Hz); 13C NMR (100 MHz, CDCl3): δ 165.7,
+148.7, 143.4, 141.8, 138.7, 136.2, 133.5, 127.9, 127.1, 122.5, 122.5,
+122.0, 121.8, 117.7, 117.7, 116.9, 73.8, 65.3 ; HRMS (ESI): m/z [M +
+H]+ calcd for C18H15N2O3: 307.1083; found 307.1094.
+
+(R)-N-(Quinolin-8-yl)tetrahydrofuran-2-carboxamide (1h).
+Following the general procedure, 1h was obtained after puriﬁcation
+by column chromatography on silica gel (EtOAc:hexanes = 30:70) as
+dark brown color liquid; yield: 90% (218 mg); ee 99%; [α]25
+D =
+−101.1 (c 0.05, DCM); IR (DCM): 3377, 2964, 1276, 1263, 847
+cm−1; 1H NMR (400 MHz, CDCl3): δ 10.93 (br s, 1H), 8.86 (dd, 1H,
+J1 = 4.2 Hz, J2 = 1.7 Hz), 8.81 (dd, 1H, J1 = 6.6 Hz, J2 = 2.3 Hz), 8.14
+(dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.56−7.50 (m, 2H), 7.44 (dd, 1H, J1
+= 8.3 Hz, J2 = 4.2 Hz), 4.63, (dd, 1H, J1 = 8.4 Hz, J2 = 5.6 Hz), 4.26−
+4.21 (m, 1H), 4.06 (dd, 1H, J1 = 15.2 Hz, J2 = 7.0 Hz), 2.44−2.37 (m,
+1H), 2.31−2.23 (m, 1H), 2.02−1.94 (m, 2H); 13C NMR (100 MHz,
+CDCl3): δ 172.1, 148.6, 138.9, 136.2, 133.9, 128.0, 127.2, 121.9, 121.6,
+116.5, 79.2, 69.8, 30.5, 25.6; HRMS (ESI): m/z [M + H]+ calcd for
+C14H15N2O2: 243.1134; found 243.1138.
+
+(S)-N-(Quinolin-8-yl)tetrahydrofuran-2-carboxamide (1i).
+Following the general procedure, 1i was obtained after puriﬁcation
+by column chromatography on silica gel (EtOAc:hexanes = 30:70) as
+dark brown color liquid; yield: 88% (213 mg); ee 99%; [α]25
+D =
++111.1 (c 0.05, DCM); IR (DCM): 3334, 1683, 1578, 1530, 1067, 750
+cm−1; 1H NMR (400 MHz, CDCl3): δ 10.93 (br s, 1H), 8.87 (dd, 1H,
+J1 = 4.2 Hz, J2 = 1.7 Hz), 8.81 (dd, 1H, J1 = 6.3 Hz, J2 = 2.7 Hz), 8.16
+(dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.58−7.53 (m, 2H), 7.46 (dd, 1H, J1
+</para>
+2347
+
+DOI: 10.1021/acs.joc.5b00025
+J. Org. Chem. 2015, 80, 2339−2355
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+= 8.3 Hz, J2 = 4.2 Hz), 4.64 (dd, 1H, J1 = 8.4 Hz, J2 = 5.6 Hz), 4.28−
+4.22 (m, 1H), 4.08 (dd, 1H, J1 = 15.2 Hz, J2 = 7.0 Hz), 2.48−2.38 (m,
+1H), 2.32−2.24 (m, 1H), 2.04−1.97 (m, 2H); 13C NMR (100 MHz,
+CDCl3): δ 172.1, 148.6, 138.9, 136.2, 133.9, 128.0, 127.2, 122.0, 121.6,
+116.5, 79.2, 69.8, 30.5, 25.6; HRMS (ESI): m/z [M + H]+ calcd for
+C14H15N2O2: 243.1134; found 243.1130.
+
+(2R*,3R*)-3-(4-Methoxyphenyl)-N-(quinolin-8-yl)-
+tetrahydrofuran-2-carboxamide (3a). Following the general
+procedure, 3a was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 40:60) as brown color viscous
+liquid; yield: 81% (71 mg); IR (DCM): 3341, 1683, 1489, 1326, 791
+cm−1; 1H NMR (400 MHz, CDCl3): δ 10.59 (br s, 1H), 8.87 (dd, 1H,
+J1 = 4.2 Hz, J2 = 1.7 Hz), 8.48 (dd, 1H, J1 = 7.2 Hz, J2 = 1.7 Hz), 8.12
+(dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.47−7.40 (m, 3H), 7.21 (d, 2H, J =
+8.8 Hz), 6.68 (d, 2H, J = 8.8 Hz), 4.74 (d, 1H, J = 7.0 Hz), 4.63−4.57
+(m, 1H), 4.21−4.15 (m, 1H), 3.90−3.85 (m, 1H), 3.62 (s, 3H), 2.58−
+2.53 (m, 1H), 2.31−2.26 (m, 1H); 13C NMR (100 MHz, CDCl3): δ
+168.6, 158.2, 148.5, 138.8, 136.1, 133.6, 132.5, 128.9, 127.9, 127.1,
+121.7, 121.5, 116.6, 113.6, 83.9, 68.7, 55.0, 47.2, 33.7; HRMS (ESI):
+m/z [M + H]+ calcd for C21H21N2O3: 349.1552; found 349.1563.
+
+(2R*,3R*)-3-Phenyl-N-(quinolin-8-yl)tetrahydrofuran-2-car-
+boxamide (3b). Following the general procedure, 3b was obtained
+after puriﬁcation by column chromatography on silica gel
+(EtOAc:hexanes = 40:60) as brown color solid; yield: 73% (58 mg);
+mp 102−104 °C; IR (DCM): 3441, 1642, 1527, 1275, 750 cm−1; 1H
+NMR (400 MHz, CDCl3): δ 10.60 (br s, 1H), 8.88 (dd, 1H, J1 = 4.2
+Hz, J2 = 1.7 Hz), 8.45 (dd, 1H, J1 = 7.4 Hz, J2 = 1.7 Hz), 8.12 (dd, 1H,
+J1 = 8.3 Hz, J2 = 1.7 Hz), 7.47−7.39 (m, 3H), 7.31−7.29 (m, 2H), 7.15
+(t, 2H, J = 7.3 Hz), 7.05 (t, 1H, J = 7.3 Hz), 4.78 (d, 1H, J = 7.0 Hz),
+4.65−4.59 (m, 1H), 4.24−4.18 (m, 1H), 3.94−3.89 (m, 1H), 2.64−
+2.55 (m, 1H), 2.37−2.29 (m, 1H); 13C NMR (100 MHz, CDCl3): δ
+168.4, 148.5, 140.5, 138.8, 136.1, 133.6, 128.2, 127.9, 127.9, 127.1,
+126.7, 121.7, 121.5, 116.6, 83.9, 68.7, 48.0, 33.7; HRMS (ESI): m/z
+[M + H]+ calcd for C20H19N2O2: 319.1447; found 319.1460.
+
+( 2 R * , 3 R * ) - 3 - ( 4 - A c e t y l p h e n y l ) - N - ( q u i n o l i n - 8 - y l ) -
+tetrahydrofuran-2-carboxamide (3c). Following the general
+procedure, 3c was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 50:50) as yellow color solid;
+yield: 72% (65 mg); mp 117−119 °C; IR (KBr): 3424, 1678, 1528,
+1274, 749 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.62 (br s, 1H),
+8.88 (dd, 1H, J1 = 4.2 Hz, J2 = 1.6 Hz), 8.42 (dd, 1H, J1 = 7.6 Hz, J2 =
+1.6 Hz), 8.12 (dd, 1H, J1 = 8.3 Hz, J2 = 1.6 Hz), 7.73 (d, 2H, J = 8.3
+Hz), 7.47−7.39 (m, 3H), 7.38 (d, 2H, J = 8.3 Hz), 4.79 (d, 1H, J = 7.0
+Hz), 4.65−4.59 (m, 1H), 4.24−4.18 (m, 1H), 3.99−3.94 (m, 1H),
+2.65−2.57 (m, 1H), 2.42 (s, 3H), 2.34−2.25 (m, 1H); 13C NMR (100
+MHz, CDCl3): δ 197.7, 168.0, 148.6, 146.4, 138.7, 136.2, 135.5, 133.4,
+128.4, 128.2, 127.9, 127.1, 122.0, 121.6, 116.6, 83.8, 68.7, 47.8, 33.6,
+26.5; HRMS (ESI): m/z [M + H]+ calcd for C22H21N2O3: 361.1552;
+found 361.1568.
+( 2 R * , 3 R * ) - 3 - ( 4 - C h l o r o p h e n y l ) - N - ( q u i n o l i n - 8 - y l ) -
+tetrahydrofuran-2-carboxamide (3d). Following the general
+procedure, 3d was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 30:70) as colorless solid; yield:
+62% (55 mg); mp 143−145 °C; IR (DCM): 3339, 1682, 1528, 1057,
+757 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.61 (br s, 1H), 8.88 (dd,
+1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.47 (dd, 1H, J1 = 7.3 Hz, J2 = 1.7 Hz),
+8.13 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.49−7.41 (m, 3H), 7.22 (d,
+2H, J = 8.6 Hz), 7.11 (d, 2H, J = 8.6 Hz), 4.75 (d, 1H, J = 7.0 Hz),
+4.61−4.55 (m, 1H), 4.22−4.16 (m, 1H), 3.91−3.86 (m, 1H), 2.62−
+2.53 (m, 1H), 2.29−2.21 (m, 1H); 13C NMR (100 MHz, CDCl3): δ
+168.1, 148.5, 139.2, 138.8, 136.2, 133.5, 132.5, 129.3, 128.4, 127.9,
+127.1, 121.9, 121.5, 116.2, 83.7, 68.6, 47.3, 33.7; HRMS (ESI): m/z
+[M + H]+ calcd for C20H18ClN2O2: 353.1057; found 353.1070.
+
+( 2 R * , 3 R * ) - 3 - ( 4 - C y a n o p h e n y l ) - N - ( q u i n o l i n - 8 - y l ) -
+tetrahydrofuran-2-carboxamide (3e). Following the general
+procedure, 3e was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 50:50) as colorless solid; yield:
+76% (65 mg); mp 200−202 °C; IR (KBr): 3431, 1636, 1531, 1275,
+749 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.60 (br s, 1H), 8.88 (dd,
+1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.41 (dd, 1H, J1 = 7.6 Hz, J2 = 1.7 Hz),
+
+Article
+8.16 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.52−7.49 (m, 1H), 7.46 (dd,
+1H, J1 = 8.3 Hz, J2 = 4.0 Hz), 7.44−7.38 (m, 5H), 4.78 (d, 1H, J = 7.0
+Hz), 4.64−4.58 (m, 1H), 4.25−4.19 (m, 1H), 3.97−3.92 (m, 1H),
+2.68−2.59 (m, 1H), 2.32−2.23 (m, 1H); 13C NMR (100 MHz,
+CDCl3): δ 167.6, 148.6, 146.4, 138.7, 136.3, 133.2, 132.0, 128.8, 127.9,
+127.1, 122.2, 121.6, 118.8, 116.6, 110.5, 83.7, 68.6, 47.8, 33.4; HRMS
+(ESI): m/z [M + H]+ calcd for C21H18N3O2: 344.1399;
+found
+344.1408.
+
+( 2 R * , 3 R * ) - 3 - ( 4 - N i t r o p h e n y l ) - N - ( q u i n o l i n - 8 - y l ) -
+tetrahydrofuran-2-carboxamide (3f). Following the general
+procedure, 3f was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 50:50) as brown color solid;
+yield: 56% (51 mg); mp 160−162 °C; IR (KBr): 3396, 1664, 1596,
+1076, 750 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.64 (br s, 1H),
+8.88 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.41 (dd, 1H, J1 = 7.6 Hz, J2 =
+1.7 Hz), 8.13 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 8.00 (d, 2H, J = 8.8
+Hz), 7.49−7.39 (m, 5H), 4.80 (d, 1H, J = 7.0 Hz), 4.65−4.60 (m, 1H),
+4.25−4.19 (m, 1H), 4.03−3.98 (m, 1H), 2.69−2.60 (m, 1H), 2.32−
+2.24 (m, 1H); 13C NMR (100 MHz, CDCl3): δ 167.6, 148.6, 146.7,
+138.7, 136.3, 133.2, 128.8, 127.9, 127.1, 123.5, 122.2, 121.7, 116.6,
+83.7, 68.6, 47.6, 33.5; HRMS (ESI): m/z [M + H]+ calcd for
+C20H18N3O4: 364.1297; found 364.1309.
+
+( 2 R * , 3 R * ) - 3 - ( 3 - N i t r o p h e n y l ) - N - ( q u i n o l i n - 8 - y l ) -
+tetrahydrofuran-2-carboxamide (3g). Following the general
+procedure, 3g was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 50:50) as brown color solid;
+yield: 75% (68 mg); mp 109−111 °C; IR (KBr): 3441, 1684, 1528,
+1259, 791 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.57 (br s, 1H),
+8.84 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.37 (dd, 1H, J1 = 7.6 Hz, J2 =
+1.7 Hz), 8.17 (t, 1H, J = 1.7 Hz), 8.11 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7
+Hz), 7.87−7.84 (m, 1H), 7.60 (d, 1H, J = 7.7 Hz), 7.47−7.42 (m, 2H),
+7.38 (t, 1H, J = 8.0 Hz), 7.26 (t, 1H, J = 8.0 Hz), 4.78 (d, 1H, J = 6.8
+Hz), 4.70−4.64 (m, 1H), 4.26−4.20 (m, 1H), 4.03−3.98 (m, 1H),
+2.70−2.61 (m, 1H), 2.36−2.28 (m, 1H); 13C NMR (100 MHz,
+CDCl3): δ 167.6, 148.7, 148.0, 142.8, 138.6, 136.1, 134.4, 133.2, 129.0,
+127.8, 126.9, 122.7, 122.1, 121.9, 121.7, 116.5, 83.7, 68.6, 47.5, 33.3;
+HRMS (ESI): m/z [M + H]+ calcd for C20H18N3O4: 364.1297; found
+364.1310.
+(2R*,3R*)-3-(2,3-Dihydrobenzo[b][1,4]dioxin-6-yl)-N-(quino-
+lin-8-yl)tetrahydrofuran-2-carboxamide (3h). Following the
+general procedure, 3h was obtained after puriﬁcation by column
+chromatography on silica gel (EtOAc:hexanes = 40:60) as colorless
+liquid; yield: 53% (50 mg); IR (DCM): 3440, 1677, 1528, 1282, 749
+cm−1; 1H NMR (400 MHz, CDCl3): δ 10.55 (br s, 1H), 8.88 (dd, 1H,
+J1 = 4.2 Hz, J2 = 1.7 Hz), 8.52 (dd, 1H, J1 = 6.9 Hz, J2 = 1.7 Hz), 8.11
+(dd, 1H, J1 = 8.2 Hz, J2 = 1.7 Hz), 7.46−7.42 (m, 3H), 6.80 (d, 1H, J =
+2.0 Hz), 6.75 (dd, 1H, J1 = 8.3 Hz, J2 = 2.0 Hz), 6.60 (d, 1H, J = 8.3
+Hz), 4.71 (d, 1H, J = 6.8 Hz), 4.60−4.55 (m, 1H), 4.20−4.14 (m, 1H),
+4.09−3.94 (m, 4H), 3.82−3.78 (m, 1H), 2.58−2.49 (m, 1H), 2.30−
+2.22 (m, 1H); 13C NMR (100 MHz, CDCl3): δ 168.6, 148.5, 143.0,
+142.2, 138.8, 136.0, 133.7, 127.9, 127.1, 121.6, 121.4, 120.9, 116.9,
+116.8, 116.6, 83.8, 68.6, 64.1, 47.3, 33.6; HRMS (ESI): m/z [M + H]+
+calcd for C22H21N2O4: 377.1501; found 377.1508.
+
+(2R*,3R*)-3-(Benzo[d][1,3]dioxol-5-yl)-N-(quinolin-8-yl)-
+tetrahydrofuran-2-carboxamide (3i). Following the general
+procedure, 3i was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 40:60) as brown color liquid;
+yield: 46% (42 mg); IR (DCM): 3432, 1637, 1528, 1269, 749 cm−1;
+1H NMR (400 MHz, CDCl3): δ 10.57 (br s, 1H), 8.88 (dd, 1H, J1 =
+4.2 Hz, J2 = 1.7 Hz), 8.51 (dd, 1H, J1 = 7.1 Hz, J2 = 1.7 Hz), 8.13 (dd,
+1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.47−7.42 (m, 3H), 6.79 (d, 1H, J = 1.7
+Hz), 6.75 (dd, 1H, J1 = 8.0 Hz, J2 = 1.7 Hz), 6.57 (d, 1H, J = 8.0 Hz),
+5.76 (d, 1H, J = 1.5 Hz), 5.66 (d, 1H, J = 1.5 Hz), 4.71 (d, 1H, J = 6.8
+Hz), 4.61−4.55 (m, 1H), 4.21−4.15 (m, 1H), 3.86−3.81 (m, 1H),
+2.60−2.51 (m, 1H), 2.30−2.22 (m, 1H); 13C NMR (100 MHz,
+CDCl3): δ 168.4, 148.5, 147.4, 146.1, 138.8, 136.1, 134.3, 133.6, 127.9,
+127.1, 121.7, 121.5, 121.1, 116.6, 108.4, 108.0, 100.7, 83.8, 68.5, 47.7,
+33.7; HRMS (ESI): m/z [M + H]+ calcd for C21H19N2O4: 363.1345;
+found 363.1352.
+</para>
+2348
+
+DOI: 10.1021/acs.joc.5b00025
+J. Org. Chem. 2015, 80, 2339−2355
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(2R*,3R*)-3-(4-Bromo-3-ﬂuorophenyl)-N-(quinolin-8-yl)-
+tetrahydrofuran-2-carboxamide (3j). Following the general
+procedure, 3j was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 40:60) as brown color solid;
+yield: 58% (60 mg); mp 99−101 °C; IR (KBr): 3339, 1686, 1530,
+1325, 751 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.58 (br s, 1H),
+8.88 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.47 (dd, 1H, J1 = 7.4 Hz, J2 =
+1.7 Hz), 8.13 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.50−7.42 (m, 3H),
+7.30−7.26 (m, 1H), 7.08 (dd, 1H, J1 = 9.8 Hz, J2 = 2.1 Hz), 6.95 (dd,
+1H, J1 = 8.3 Hz, J2 = 2.1 Hz), 4.74 (d, 1H, J = 6.8 Hz), 4.60−4.54 (m,
+1H), 4.22−4.15 (m, 1H), 3.88−3.84 (m, 1H), 2.63−2.54 (m, 1H),
+2.27−2.18 (m, 1H); 13C NMR (100 MHz, CDCl3): δ 167.8, 158.7 (d,
+JC−F = 245.6 Hz), 148.6, 142.6 (d, JC−F = 6.4 Hz), 138.7, 136.2, 133.3,
+133.1, 127.9, 127.1, 125.0 (d, JC−F = 3.0 Hz), 122.1, 121.6, 116.7, 116.0
+(d, JC−F = 22.2 Hz), 107.0 (d, JC−F = 20.7 Hz), 83.6, 68.4, 47.2, 33.5;
+HRMS (ESI): m/z [M + H]+ calcd for C20H17BrFN2O2: 415.0457;
+found 415.0465.
+(2R*,3R*)-N-(Quinolin-8-yl)-3-(3,4,5-trimethoxyphenyl)-
+tetrahydrofuran-2-carboxamide (3k). Following the general
+procedure, 3k was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 60:40) as brown color solid;
+yield: 54% (55 mg); mp 89−91 °C; IR (DCM): 3441, 1681, 1590,
+1127, 750 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.53 (br s, 1H),
+8.82 (dd, 1H, J1 = 4.2 Hz, J2 = 1.5 Hz), 8.55 (dd, 1H, J1 = 6.8 Hz, J2 =
+2.2 Hz), 8.11 (dd, 1H, J1 = 8.3 Hz, J2 = 1.5 Hz), 7.47−7.40 (m, 3H),
+6.49 (s, 2H), 4.73 (d, 1H, J = 6.6 Hz), 4.61−4.55 (m, 1H), 4.22−4.16
+(m, 1H), 3.85−3.81 (m, 1H), 3.63 (s, 6H), 3.44 (s, 3H), 2.62−2.53
+(m, 1H), 2.32−2.24 (m, 1H); 13C NMR (100 MHz, CDCl3): δ 168.4,
+152.8, 148.3, 138.6, 136.5, 136.4, 136.2, 133.6, 127.9, 127.2, 121.7,
+121.5, 116.4, 104.8, 84.0, 68.6, 60.4, 55.7, 48.2, 33.8; HRMS (ESI): m/
+z [M + H]+ calcd for C23H25N2O5: 409.1763; found 409.1768.
+
+(2R*,3R*)-3-(2,4-Dimethoxyphenyl)-N-(quinolin-8-yl)-
+tetrahydrofuran-2-carboxamide (3l). Following the general
+procedure, 3l was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 40:60) as brown color solid;
+yield: 40% (38 mg); mp 105−107 °C; IR (KBr): 3424, 1614, 1529,
+1260, 750 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.52 (br s, 1H),
+8.87 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.53 (dd, 1H, J1 = 7.2 Hz, J2 =
+1.7 Hz), 8.14 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.48−7.41 (m, 3H),
+7.07 (d, 1H, J = 8.4 Hz), 6.39 (d, 1H, J = 2.4 Hz), 6.26 (dd, 1H, J1 =
+8.4 Hz, J2 = 2.5 Hz), 4.91 (d, 1H, J = 8.2 Hz), 4.62−4.57 (m, 1H),
+4.20−4.12 (m, 2H), 3.85 (s, 3H), 3.67 (s, 3H), 2.47−2.29 (m, 2H);
+13C NMR (100 MHz, CDCl3): δ 169.5, 159.5, 158.3, 148.3, 138.7,
+136.1, 134.0, 127.9, 127.9, 127.2, 121.5, 121.4, 119.8, 116.4, 103.9,
+98.4, 81.8, 68.7, 55.5, 55.1, 41.5, 30.9; HRMS (ESI): m/z [M + H]+
+calcd for C22H23N2O4: 379.1658; found 379.1672.
+
+(2R*,3R*)-3-(6-Fluoropyridin-3-yl)-N-(quinolin-8-yl)-
+tetrahydrofuran-2-carboxamide (3m). Following the general
+procedure, 3m was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 70:30) as yellow color solid;
+yield: 71% (60 mg); mp 117−119 °C; IR (KBr): 3441, 1679, 1528,
+1259, 750 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.63 (br s, 1H),
+8.86 (dd, 1H, J1 = 4.2 Hz, J2 = 1.6 Hz), 8.44 (dd, 1H, J1 = 7.5 Hz, J2 =
+1.6 Hz), 8.14−8.11 (m, 2H), 7.70 (dt, 1H, J1 = 8.0 Hz, J2 = 2.6 Hz),
+7.49−7.40 (m, 3H), 6.68 (dd, 1H, J1 = 8.5 Hz, J2 = 3.0 Hz), 4.74 (d,
+1H, J = 6.8 Hz), 4.61−4.55 (m, 1H), 4.23−4.17 (m, 1H), 3.94−3.89
+(m, 1H), 2.65−2.56 (m, 1H), 2.27−2.17 (m, 1H); 13C NMR (100
+MHz, CDCl3): δ 167.6, 162.6 (d, JC−F = 236.5 Hz), 148.6, 146.8 (d,
+JC−F = 14.6 Hz), 140.6 (d, JC−F = 7.8 Hz), 138.7, 136.2, 133.9 (d, JC−F
+= 4.6 Hz), 133.2, 127.9, 127.1, 122.2, 121.6, 116.6, 108.9 (d, JC−F =
+37.4 Hz), 83.4, 68.5, 44.5, 33.4; HRMS (ESI): m/z [M + H]+ calcd for
+C19H17FN3O2: 338.1305; found 338.1315.
+
+(2R*,3R*)-3-(6-Chloropyridin-3-yl)-N-(quinolin-8-yl)-
+tetrahydrofuran-2-carboxamide (3n). Following the general
+procedure, 3n was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 80:20) as colorless solid; yield:
+56% (50 mg); mp 127−129 °C; IR (DCM): 3435, 1579, 1459, 1325,
+792 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.66 (br s, 1H), 8.86 (dd,
+1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.45 (dd, 1H, J1 = 7.5 Hz, J2 = 1.7 Hz),
+8.32 (d, 1H, J = 2.5 Hz), 8.13 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.56
+</para>
+Article
+<para sub=“exp”>
+(dd, 1H, J1 = 8.3 Hz, J2 = 2.6 Hz), 7.50−7.41 (m, 3H), 7.08 (d, 1H, J =
+8.3 Hz), 4.76 (d, 1H, J = 6.9 Hz), 4.60−4.54 (m, 1H), 4.23−4.17 (m,
+1H), 3.92−3.87 (m, 1H), 2.66−2.57 (m, 1H), 2.25−2.17 (m, 1H); 13C
+NMR (100 MHz, CDCl3): δ 167.6, 149.8, 149.1, 148.7, 138.7, 138.2,
+136.2, 135.3, 133.2, 127.9, 127.1, 123.8, 122.2, 121.6, 116.7, 83.3, 68.5,
+44.6, 33.4; HRMS (ESI): m/z [M + H]+ calcd for C19H17ClN3O2:
+354.1009; found 354.1023.
+(2R*,3R*)-3-(5-Bromopyridin-2-yl)-N-(quinolin-8-yl)-
+tetrahydrofuran-2-carboxamide (3o). Following the general
+procedure, 3o was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 80:20) as brown color liquid;
+yield: 31% (31 mg); IR (DCM): 3436, 1638, 1530, 1275, 749 cm−1;
+1H NMR (400 MHz, CDCl3): δ 10.66 (br s, 1H), 8.88 (dd, 1H, J1 =
+4.2 Hz, J2 = 1.7 Hz), 8.45 (dd, 1H, J1 = 7.4 Hz, J2 = 1.7 Hz), 8.40−8.39
+(m, 1H), 8.15 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.60 (dd, 1H, J1 = 8.3
+Hz, J2 = 2.4 Hz), 7.51−7.43 (m, 3H), 7.17 (dd, 1H, J1 = 8.3 Hz, J2 =
+0.4 Hz), 4.87 (d, 1H, J = 7.6 Hz), 4.70 (dd, 1H, J1 = 14.9 Hz, J2 = 6.9
+Hz), 4.21 (dd, 1H, J1 = 14.9 Hz, J2 = 6.9 Hz), 4.04 (dd, 1H, J1 = 13.9
+Hz, J2 = 6.9 Hz), 2.49 (dd, 2H, J1 = 13.9 Hz, J2 = 6.9 Hz); 13C NMR
+(100 MHz, CDCl3): δ 168.8, 158.5, 150.1, 148.6, 138.8, 138.5, 136.1,
+133.6, 127.9, 127.1, 124.7, 121.8, 121.5, 118.7, 116.5, 83.3, 69.5, 48.9,
+32.4; HRMS (ESI): m/z [M + H]+ calcd for C19H17BrN3O2:
+398.0504; found 398.0512.
+(2R*,3R*)-3-(2-Chloropyridin-4-yl)-N-(quinolin-8-yl)-
+tetrahydrofuran-2-carboxamide (3p). Following the general
+procedure, 3p was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 80:20) as brown color solid;
+yield: 51% (45 mg); mp 98−100 °C; IR (DCM): 3441, 1684, 1527,
+1275, 750 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.61 (br s, 1H),
+8.88 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.43 (dd, 1H, J1 = 7.6 Hz, J2 =
+1.7 Hz), 8.14 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 8.11 (d, 1H, J = 5.2
+Hz), 7.51−7.41 (m, 3H), 7.26 (d, 1H, J = 1.4 Hz), 7.13 (dd, 1H, J1 =
+5.2 Hz, J2 = 1.6 Hz), 4.77 (d, 1H, J = 6.7 Hz), 4.61−4.55 (m, 1H),
+4.24−4.18 (m, 1H), 3.87−3.83 (m, 1H), 2.66−2.57 (m, 1H), 2.27−
+2.18 (m, 1H); 13C NMR (100 MHz, CDCl3): δ 167.2, 153.3, 151.5,
+149.4, 148.7, 138.7, 136.2, 133.0, 127.9, 127.1, 123.7, 122.3, 122.0,
+121.6, 116.8, 83.4, 68.5, 46.9, 33.1; HRMS (ESI): m/z [M + H]+ calcd
+for C19H17ClN3O2: 354.1009; found 354.1025.
+
+( 2 R * , 3 S * ) - N - ( Q u i n o l i n - 8 - y l ) - 3 - ( t h i o p h e n - 2 - y l ) -
+tetrahydrofuran-2-carboxamide (3q). Following the general
+procedure, 3q was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 30:70) as brown color solid;
+yield: 87% (71 mg); mp 134−136 °C; IR (DCM): 3424, 1643, 1275,
+1094, 750 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.63 (br s, 1H),
+8.88 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.56 (dd, 1H, J1 = 6.9 Hz, J2 =
+1.7 Hz), 8.13 (dd, 1H, J1 = 8.2 Hz, J2 = 1.7 Hz), 7.49−7.43 (m, 3H),
+7.00 (dd, 1H, J1 = 5.1 Hz, J2 = 1.0 Hz), 6.96 (dd, 1H, J1 = 3.5 Hz, J2 =
+1.0 Hz), 6.79 (dd, 1H, J1 = 5.1 Hz, J2 = 3.5 Hz), 4.74 (d, 1H, J = 6.3
+Hz), 4.62 (dd, 1H, J1 = 16.1 Hz, J2 = 7.5 Hz), 4.28−4.22 (m, 2H),
+2.66−2.57 (m, 1H), 2.37−2.30 (m, 1H); 13C NMR (100 MHz,
+CDCl3): δ 168.1, 148.5, 142.4, 138.8, 136.1, 133.7, 127.9, 127.1, 126.5,
+125.5, 123.9, 121.8, 121.5, 116.6, 83.6, 68.4, 43.3, 34.6; HRMS (ESI):
+m/z [M + H]+ calcd for C18H17N2O2S: 325.1011; found 325.1029.
+
+( 2 R * , 3 R * ) - 3 - ( 1 H - I n d o l - 5 - y l ) - N - ( q u i n o l i n - 8 - y l ) -
+tetrahydrofuran-2-carboxamide (3r). Following the general
+procedure, 3r was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 80:20) as dark brown color
+liquid; yield: 20% (18 mg); IR (DCM): 3339, 1731, 1672, 1325, 764
+cm−1; 1H NMR (400 MHz, CDCl3): δ 10.63 (br s, 1H), 8.86 (dd, 1H,
+J1 = 4.2 Hz, J2 = 1.7 Hz), 8.40 (dd, 1H, J1 = 7.6 Hz, J2 = 1.7 Hz), 8.09
+(dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 8.03 (br s, 1H), 7.55 (s, 1H), 7.45−
+7.39 (m, 2H), 7.33 (t, 1H, J = 8.0 Hz), 7.11−7.05 (m, 2H), 7.00 (t,
+1H, J = 3.0 Hz), 6.32 (t, 1H, J = 2.2 Hz), 4.81 (d, 1H, J = 7.2 Hz),
+4.69−4.64 (m, 1H), 4.24−4.18 (m, 1H), 4.04−3.99 (m, 1H), 2.64−
+2.55 (m, 1H), 2.42−2.34 (m, 1H); 13C NMR (100 MHz, CDCl3): δ
+169.0, 148.4, 138.8, 136.0, 134.8, 133.7, 131.5, 127.8, 127.1, 124.1,
+122.3, 121.5, 121.4, 119.7, 116.6, 110.8, 102.4, 84.1, 68.8, 48.3, 34.2;
+HRMS (ESI): m/z [M + H]+ calcd for C22H20N3O2: 358.1556; found
+358.1565.
+</para>
+2349
+
+DOI: 10.1021/acs.joc.5b00025
+J. Org. Chem. 2015, 80, 2339−2355
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+(2R*,3R*)-3-Phenyl-N-(quinolin-8-yl)-2,3-dihydrobenzo[b]-
+[1,4]dioxine-2-carboxamide (4a). Following the general procedure,
+4a was obtained after puriﬁcation by column chromatography on silica
+gel (EtOAc:hexanes = 30:70) as colorless solid; yield: 65% (62 mg);
+mp 168−170 °C; IR (KBr): 3423, 1643, 1533, 1260, 750 cm−1; 1H
+NMR (400 MHz, CDCl3): δ 10.64 (br s, 1H), 8.79 (dd, 1H, J1 = 4.2
+Hz, J2 = 1.7 Hz), 8.73 (t, 1H, J = 4.2 Hz), 8.12 (dd, 1H, J1 = 8.3 Hz, J2
+= 1.7 Hz), 7.53−7.52 (m, 2H), 7.43 (dd, 1H, J1 = 8.3 Hz, J2 = 4.2 Hz),
+7.38 (d, 2H, J = 7.1 Hz), 7.28−7.26 (m, 1H), 7.22−7.00 (m, 6H), 5.95
+(d, 1H, J = 3.1 Hz), 5.14 (d, 1H, J = 3.1 Hz); 13C NMR (100 MHz,
+CDCl3): δ 164.9, 148.6, 143.3, 142.1, 138.7, 136.1, 135.8, 133.4, 128.4,
+127.9, 127.1, 123.3, 122.4, 121.7, 121.5, 117.8, 117.4, 116.9, 76.4, 76.0;
+HRMS (ESI): m/z [M + H]+ calcd for C24H19N2O3: 383.1396; found
+383.1413.
+(2R*,3R*)-3-(4-Methoxyphenyl)-N-(quinolin-8-yl)-2,3-
+dihydrobenzo[b][1,4]dioxine-2-carboxamide (4b). Following the
+general procedure, 4b was obtained after puriﬁcation by column
+chromatography on silica gel (EtOAc:hexanes = 30:70) as colorless
+solid; yield: 81% (84 mg); mp 119−121 °C; IR (KBr): 3431, 1634,
+1531, 1259, 749 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.66 (br s,
+1H), 8.81 (dd, 1H, J1 = 4.2 Hz, J2 = 1.6 Hz), 8.72 (dd, 1H, J1 = 5.9 Hz,
+J2 = 3.0 Hz), 8.14 (dd, 1H, J1 = 8.2 Hz, J2 = 1.6 Hz), 7.53−7.52 (m,
+2H), 7.44 (dd, 1H, J1 = 8.2 Hz, J2 = 4.2 Hz), 7.30 (d, 2H, J = 8.8 Hz),
+7.28−7.26 (m,1H), 7.08−6.99 (m, 3H), 6.71 (d, 2H, J = 8.8 Hz), 5.88
+(d, 1H, J = 3.1 Hz), 5.12 (d, 1H, J = 3.1 Hz), 3.62 (s, 3H); 13C NMR
+(100 MHz, CDCl3): δ 165.0, 159.5, 148.6, 143.2, 142.0, 138.7, 136.1,
+133.4, 128.5, 128.0, 127.9, 127.1, 123.3, 122.4, 121.7, 121.4, 117.7,
+117.5, 116.9, 113.8, 76.4, 75.6, 55.0; HRMS (ESI): m/z [M + H]+
+calcd for C25H21N2O4: 413.1501; found 413.1515.
+
+(2R*,3R*)-N-(Quinolin-8-yl)-3-(p-tolyl)-2,3-dihydrobenzo[b]-
+[1,4]dioxine-2-carboxamide (4c). Following the general procedure,
+4c was obtained after puriﬁcation by column chromatography on silica
+gel (EtOAc:hexanes = 30:70) as brown color liquid; yield: 66% (65
+mg); IR (DCM): 3431, 1636, 1534, 1363, 749 cm−1; 1H NMR (400
+MHz, CDCl3): δ 10.66 (br s, 1H), 8.80 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7
+Hz), 8.74 (t, 1H, J = 4.6 Hz), 8.13 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz),
+7.53−7.52 (m, 2H), 7.43 (dd, 1H, J1 = 8.3 Hz, J2 = 4.2 Hz), 7.28−7.26
+(m, 3H), 7.10−6.98 (m, 5H), 5.91 (d, 1H, J = 3.0 Hz), 5.13 (d, 1H, J =
+3.0 Hz), 2.16 (s, 3H); 13C NMR (100 MHz, CDCl3): δ 165.0, 148.5,
+143.3, 142.1, 138.7, 138.1, 136.1, 133.4, 132.8, 129.1, 127.9, 127.1,
+127.0, 123.2, 122.4, 121.7, 121.4, 117.7, 117.4, 116.9, 76.5, 75.8, 21.1;
+HRMS (ESI): m/z [M + H]+ calcd for C25H21N2O3: 397.1552; found
+397.1562.
+(2R*,3R*)-3-(4-Ethylphenyl)-N-(quinolin-8-yl)-2,3-
+dihydrobenzo[b][1,4]dioxine-2-carboxamide (4d). Following the
+general procedure, 4d was obtained after puriﬁcation by column
+chromatography on silica gel (EtOAc:hexanes = 30:70) as colorless
+solid; yield: 40% (41 mg); mp 95−97 °C; IR (DCM): 3333, 1687,
+1533, 1255, 825 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.62 (br s,
+1H), 8.80 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.73 (dd, 1H, J1 = 5.5 Hz,
+J2 = 3.5 Hz), 8.14 (dd, 1H, J1 = 8.2 Hz, J2 = 1.7 Hz), 7.54−7.53 (m,
+2H), 7.44 (dd, 1H, J1 = 8.2 Hz, J2 = 4.2 Hz), 7.28−7.25 (m, 3H),
+7.09−7.02 (m, 3H), 7.00 (d, 2H, = 8.0 Hz), 5.91 (d, 1H, J = 3.1 Hz),
+5.12 (d, 1H, J = 3.1 Hz), 2.45 (q, 2H, J = 7.6 Hz), 1.01 (t, 3H, J = 7.6
+Hz); 13C NMR (100 MHz, CDCl3): δ 165.0, 148.5, 144.3, 143.3,
+142.1, 138.7, 136.1, 133.4, 133.0, 127.9, 127.8, 127.1, 127.0, 123.2,
+122.3, 121.6, 121.4, 117.7, 117.4, 116.9, 76.5, 75.8, 28.4, 15.2; HRMS
+(ESI): m/z [M + H]+ calcd for C26H23N2O3: 411.1709;
+found
+411.1697.
+
+(2R*,3R*)-3-(4-Fluorophenyl)-N-(quinolin-8-yl)-2,3-
+dihydrobenzo[b][1,4]dioxine-2-carboxamide (4e). Following the
+general procedure, 4e was obtained after puriﬁcation by column
+chromatography on silica gel (EtOAc:hexanes = 40:60) as colorless
+solid; yield: 40% (40 mg); mp 96−98 °C; IR (DCM): 3433, 1637,
+1275, 1260, 764 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.64 (br s,
+1H), 8.82 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.70 (dd, 1H, J1 = 6.8 Hz,
+J2 = 2.1 Hz), 8.15 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.57−7.51 (m,
+2H), 7.46 (dd, 1H, J1 = 8.3 Hz, J2 = 4.2 Hz), 7.35 (dd, 2H, J1 = 8.7 Hz,
+J2 = 5.3 Hz), 7.28−7.26 (m, 1H), 7.10−7.00 (m, 3H), 6.87 (t, 2H, J =
+8.7 Hz), 5.91 (d, 1H, J = 3.1 Hz), 5.11 (d, 1H, J = 3.1 Hz); 13C NMR
+
+(100 MHz, CDCl3): δ 164.8, 162.6 (d, JC−F = 245.7 Hz), 148.6, 143.0,
+141.9, 138.7, 136.2, 133.2, 131.7 (d, JC−F = 3.1 Hz), 129.0 (d, JC−F =
+8.4 Hz), 127.9, 127.1, 123.4, 122.6, 121.7, 121.6, 117.8, 117.4, 116.9,
+115.4 (d, JC−F = 21.2 Hz), 76.2, 75.4; HRMS (ESI): m/z [M + H]+
+calcd for C24H18FN2O3: 401.1301; found 401.1314.
+(2R*,3R*)-3-(4-Bromophenyl)-N-(quinolin-8-yl)-2,3-
+dihydrobenzo[b][1,4]dioxine-2-carboxamide (4f). Following the
+general procedure, 4f was obtained after puriﬁcation by column
+chromatography on silica gel (EtOAc:hexanes = 30:70) as brown color
+solid; yield: 83% (96 mg); mp 146−148 °C; IR (KBr): 3424, 1684,
+1490, 1257, 751 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.64 (br s,
+1H), 8.81 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.71 (dd, 1H, J1 = 6.8 Hz,
+J2 = 1.7 Hz), 8.15 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.58−7.51 (m,
+2H), 7.46 (dd, 1H, J1 = 8.3 Hz, J2 = 4.2 Hz), 7.33−7.22 (m, 5H),
+7.10−7.00 (m, 3H), 5.90 (d, 1H, J = 3.0 Hz), 5.12 (d, 1H, J = 3.0 Hz);
+13C NMR (100 MHz, CDCl3): δ 164.7, 148.7, 143.0, 141.9, 138.7,
+136.1, 134.9, 133.2, 131.5, 128.8, 127.9, 127.1, 123.5, 122.6, 122.6,
+121.8, 121.7, 117.8, 117.4, 116.9, 76.2, 75.4; HRMS (ESI): m/z [M +
+H]+ calcd for C24H18BrN2O3: 461.0501; found 461.0506.
+(2R*,3R*)-3-(4-Chlorophenyl)-N-(quinolin-8-yl)-2,3-
+dihydrobenzo[b][1,4]dioxine-2-carboxamide (4g). Following the
+general procedure, 4g was obtained after puriﬁcation by column
+chromatography on silica gel (EtOAc:hexanes = 30:70) as colorless
+solid; yield: 57% (59 mg); mp 148−149 °C; IR (KBr): 3431, 1785,
+1635, 1533, 749 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.65 (br s,
+1H), 8.81 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.71 (dd, 1H, J1 = 6.5 Hz,
+J2 = 2.4 Hz), 8.15 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.57−7.51 (m,
+2H), 7.45 (dd, 1H, J1 = 8.3 Hz, J2 = 4.2 Hz), 7.30 (d, 2H, J = 8.6 Hz),
+7.28−7.26 (m, 1H), 7.15 (d, 2H, J = 8.6 Hz), 7.11−7.01 (m, 3H), 5.92
+(d, 1H, J = 3.0 Hz), 5.12 (d, 1H, J = 3.0 Hz); 13C NMR (100 MHz,
+CDCl3): δ 164.7, 148.7, 143.0, 141.9, 138.7, 136.2, 134.4, 134.3, 133.2,
+128.6, 128.5, 127.9, 127.1, 123.5, 122.6, 121.8, 121.7, 117.8, 117.4,
+116.9, 76.2, 75.4; HRMS (ESI): m/z [M + H]+ calcd for
+C24H18ClN2O3: 417.1006; found 417.0993.
+(2R*,3R*)-3-(4-Nitrophenyl)-N-(quinolin-8-yl)-2,3-
+dihydrobenzo[b][1,4]dioxine-2-carboxamide (4h). Following the
+general procedure, 4h was obtained after puriﬁcation by column
+chromatography on silica gel (EtOAc:hexanes = 40:60) as red color
+solid; yield: 56% (60 mg); mp 153−155 °C; IR (KBr): 3424, 1637,
+1528, 1290, 750 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.64 (br s,
+1H), 8.76 (dd, 1H, J1 = 4.2 Hz, J2 = 1.6 Hz), 8.69 (dd, 1H, J1 = 7.0 Hz,
+J2 = 1.6 Hz), 8.15 (dd, 1H, J1 = 8.3 Hz, J2 = 1.6 Hz), 8.04 (d, 2H, J =
+8.6 Hz), 7.58−7.52 (m, 4H), 7.45 (dd, 1H, J1 = 8.3 Hz, J2 = 4.2 Hz),
+7.29−7.27 (m, 1H), 7.14−7.04 (m, 3H), 6.03 (d, 1H, J = 3.0 Hz), 5.17
+(d, 1H, J = 3.0 Hz); 13C NMR (100 MHz, CDCl3): δ 164.3, 148.7,
+147.7, 143.1, 142.8, 141.8, 138.6, 136.2, 133.0, 128.0, 127.9, 127.0,
+123.8, 123.5, 122.9, 122.1, 121.8, 118.0, 117.4, 116.9, 76.1, 75.3;
+HRMS (ESI): m/z [M + H]+ calcd for C24H18N3O5: 428.1246; found
+428.1241.
+(2R*,3R*)-3-(4-Bromo-3-ﬂuorophenyl)-N-(quinolin-8-yl)-2,3-
+dihydrobenzo[b][1,4]dioxine-2-carboxamide (4i). Following the
+general procedure, 4i was obtained after puriﬁcation by column
+chromatography on silica gel (EtOAc:hexanes = 40:60) as brown color
+solid; yield: 66% (79 mg); mp 117−119 °C; IR (KBr): 3329, 1685,
+1490, 1256, 871 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.66 (br s,
+1H), 8.82 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.70 (dd, 1H, J1 = 6.9 Hz,
+J2 = 1.7 Hz), 8.16 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.59−7.52 (m,
+2H), 7.47 (dd, 1H, J1 = 8.3 Hz, J2 = 4.2 Hz), 7.34 (dd, 1H, J1 = 8.3 Hz,
+J2 = 7.1 Hz), 7.28−7.26 (m, 1H), 7.15 (dd, 1H, J1 = 9.7 Hz, J2 = 2.0
+Hz), 7.11−7.03 (m, 4H), 5.90 (d, 1H, J = 3.0 Hz), 5.12 (d, 1H, J = 3.0
+Hz); 13C NMR (100 MHz, CDCl3): δ 164.5, 158.9 (d, JC−F = 246.0
+Hz), 148.7, 142.7, 141.8, 138.7, 137.6 (d, JC−F = 6.5 Hz), 136.2, 133.4,
+133.1, 127.9, 127.1, 124.0 (d, JC−F = 3.5 Hz), 123.6, 122.7, 121.9,
+121.8, 117.9, 117.4, 117.0, 115.4 (d, JC−F = 23.4 Hz), 109.1 (d, JC−F =
+20.6 Hz), 76.0, 74.9 (d, JC−F = 1.2 Hz); HRMS (ESI): m/z [M + H]+
+calcd for C24H17BrFN2O3: 479.0407; found 479.0403.
+(2R*,3R*)-3-(3,4-Dichlorophenyl)-N-(quinolin-8-yl)-2,3-
+dihydrobenzo[b][1,4]dioxine-2-carboxamide (4j). Following the
+general procedure, 4j was obtained after puriﬁcation by column
+chromatography on silica gel (EtOAc:hexanes = 25:75) as colorless
+</para>
+2350
+
+DOI: 10.1021/acs.joc.5b00025
+J. Org. Chem. 2015, 80, 2339−2355
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+solid; yield: 45% (51 mg); mp 170−172 °C; IR (KBr): 3328, 1597,
+1491, 1254, 1031, 751 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.62
+(br s, 1H), 8.81 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.70 (dd, 1H, J1 =
+6.9 Hz, J2 = 1.7 Hz), 8.17 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.58−7.52
+(m, 2H), 7.49−7.45 (m, 2H), 7.28−7.18 (m, 3H), 7.10−7.01 (m, 3H),
+5.87 (d, 1H, J = 3.0 Hz), 5.11 (d, 1H, J = 3.0 Hz); 13C NMR (100
+MHz, CDCl3): δ 164.5, 148.7, 142.7, 141.8, 138.7, 136.2, 136.1, 133.1,
+132.6, 132.5, 130.4, 129.2, 127.9, 127.0, 126.4, 123.6, 122.7, 121.9,
+121.8, 117.9, 117.4, 117.0, 76.1, 74.9; HRMS (ESI): m/z [M + H]+
+calcd for C24H17Cl2N2O3: 451.0616; found 451.0599.
+(2R*,3R*)-3-(3,5-Dichlorophenyl)-N-(quinolin-8-yl)-2,3-
+dihydrobenzo[b][1,4]dioxine-2-carboxamide (4k). Following the
+general procedure, 4k was obtained after puriﬁcation by column
+chromatography on silica gel (EtOAc:hexanes = 25:75) as colorless
+solid; yield: 52% (59 mg); mp 213−215 °C; IR (KBr): 3393, 1597,
+1393, 1194, 1064 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.62 (br s,
+1H), 8.82 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.70 (dd, 1H, J1 = 6.6 Hz,
+J2 = 2.3 Hz), 8.16 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 1H), 7.58−7.53 (m,
+2H), 7.48 (dd, 1H, J1 = 8.3 Hz, J2 = 4.2 Hz), 7.29−7.26 (m, 1H), 7.25
+(dd, 2H, J1 = 1.8 Hz, J2 = 0.5 Hz), 7.13 (t, 1H, J = 1.9 Hz), 7.11- 7.08
+(m, 1H), 7.07−7.04 (m, 2H), 5.84 (d, 1H, J = 3.0 Hz), 5.11 (d, 1H, J =
+3.0 Hz); 13C NMR (100 MHz, CDCl3): δ 164.4, 148.7, 142.7, 141.7,
+139.2, 138.7, 136.2, 134.9, 133.0, 128.6, 127.9, 127.1, 125.6, 123.7,
+122.7, 122.0, 121.8, 118.0, 117.4, 117.1, 76.0, 75.0; HRMS (ESI): m/z
+[M + H]+ calcd for C24H17Cl2N2O3: 451.0616; found 451.0600.
+(2R*,3R*)-3-(3-Nitrophenyl)-N-(quinolin-8-yl)-2,3-
+dihydrobenzo[b][1,4]dioxine-2-carboxamide (4l). Following the
+general procedure, 4l was obtained after puriﬁcation by column
+chromatography on silica gel (EtOAc:hexanes = 40:60) as brown color
+solid; yield: 50% (54 mg); mp 205−207 °C; IR (KBr): 3417, 1683,
+1531, 1256, 750 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.67 (br s,
+1H), 8.78 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.69 (dd, 1H, J1 = 6.9 Hz,
+J2 = 2.1 Hz), 8.27 (t, 1H, J = 2.1 Hz), 8.15 (dd, 1H, J1 = 8.3 Hz, J2 =
+1.7 Hz), 8.02 (dd, 1H, J1 = 7.8 Hz, J2 = 1.3 Hz), 7.71 (d, 1H, J = 7.7
+Hz), 7.58−7.51 (m, 2H), 7.45 (dd, 1H, J1 = 8.3 Hz, J2 = 4.2 Hz), 7.38
+(t, 1H, J = 8.0 Hz), 7.30−7.28 (m, 1H), 7.14−7.04 (m, 3H), 6.02 (d,
+1H, J = 3.0 Hz), 5.19 (d, 1H, J = 3.0 Hz); 13C NMR (100 MHz,
+CDCl3): δ 164.4, 148.7, 148.1, 142.7, 141.7, 138.6, 138.0, 136.2, 133.1,
+133.0, 129.4, 127.9, 127.1, 123.8, 123.3, 122.8, 122.3, 122.1, 121.8,
+118.0, 117.5, 117.0, 76.1, 75.1; HRMS (ESI): m/z [M + H]+ calcd for
+C24H18N3O5: 428.1246; found 428.1257.
+(2R*,3R*)-3-(3-Bromophenyl)-N-(quinolin-8-yl)-2,3-
+dihydrobenzo[b][1,4]dioxine-2-carboxamide (4m). Following
+the general procedure, 4m was obtained after puriﬁcation by column
+chromatography on silica gel (EtOAc:hexanes = 30:70) as brown color
+liquid; yield: 50% (58 mg); IR (DCM): 3440, 1682, 1531, 1255, 825
+cm−1; 1H NMR (400 MHz, CDCl3): δ 10.61 (br s, 1H), 8.81 (dd, 1H,
+J1 = 4.2 Hz, J2 = 1.7 Hz), 8.71 (dd, 1H, J1 = 6.0 Hz, J2 = 2.9 Hz), 8.14
+(dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.55−7.51 (m, 3H), 7.45 (dd, 1H, J1
+= 8.3 Hz, J2 = 4.2 Hz), 7.31−7.25 (m, 3H), 7.10−7.06 (m, 4H), 5.89
+(d, 1H, J = 3.0 Hz), 5.13 (d, 1H, J = 3.0 Hz); 13C NMR (100 MHz,
+CDCl3): δ 164.6, 148.6, 143.0, 141.9, 138.7, 138.1, 136.1, 133.2, 131.5,
+130.2, 129.9, 127.9, 127.1, 125.6, 123.5, 122.6, 122.5, 121.8, 121.7,
+117.9, 117.4, 117.0, 76.2, 75.3; HRMS (ESI): m/z [M + H]+ calcd for
+C24H18BrN2O3: 461.0501; found 461.0503.
+(2R*,3R*)-3-(3,4-Dimethylphenyl)-N-(quinolin-8-yl)-2,3-
+dihydrobenzo[b][1,4]dioxine-2-carboxamide (4n). Following the
+general procedure, 4n was obtained after puriﬁcation by column
+chromatography on silica gel (EtOAc:hexanes = 30:70) as colorless
+liquid; yield: 82% (84 mg); IR (DCM): 3440, 1641, 1533, 1275, 764
+cm−1; 1H NMR (400 MHz, CDCl3): δ 10.60 (br s, 1H), 8.79 (dd, 1H,
+J1 = 4.2 Hz, J2 = 1.7 Hz), 8.73 (t, 1H, J = 4.2 Hz), 8.13 (dd, 1H, J1 =
+8.3 Hz, J2 = 1.7 Hz), 7.53−7.52 (m, 2H), 7.44 (dd, 1H, J1 = 8.3 Hz, J2
+= 4.2 Hz), 7.27−7.25 (m, 1H), 7.13−6.98 (m, 5H), 6.93 (d, 1H, J =
+7.8 Hz), 5.86 (d, 1H, J = 3.1 Hz), 5.13 (d, 1H, J = 3.1 Hz), 2.04 (s,
+3H), 2.02 (s, 3H); 13C NMR (100 MHz, CDCl3): δ 165.1, 148.5,
+143.3, 142.1, 138.7, 136.8, 136.5, 136.1, 133.5, 133.1, 129.7, 128.5,
+127.8, 127.1, 124.3, 123.2, 122.3, 121.6, 121.4, 117.7, 117.5, 116.9,
+76.6, 75.8, 19.7, 19.4; HRMS (ESI): m/z [M + H]+ calcd for
+C26H23N2O3: 411.1709; found 411.1694.
+</para>
+Article
+<para sub=“exp”>
+(2R*,3R*)-N-(Quinolin-8-yl)-2,2′,3,3′-tetrahydro-[2,6′-
+bibenzo[b][1,4]dioxine]-3-carboxamide (4o). Following the
+general procedure, 4o was obtained after puriﬁcation by column
+chromatography on silica gel (EtOAc:hexanes = 40:60) as colorless
+liquid; yield: 82% (90 mg); IR (DCM): 3334, 1595, 1533, 1253, 750
+cm−1; 1H NMR (400 MHz, CDCl3): δ 10.65 (br s, 1H), 8.83 (dd, 1H,
+J1 = 4.2 Hz, J2 = 1.6 Hz), 8.73 (dd, 1H, J1 = 5.5 Hz, J2 = 3.4 Hz), 8.14
+(dd, 1H, J1 = 8.3 Hz, J2 = 1.6 Hz), 7.54−52 (m, 2H), 7.45 (dd, 1H, J1
+= 8.2 Hz, J2 = 4.2 Hz), 7.27−7.24 (m, 1H), 7.07−6.97 (m, 3H), 6.90−
+6.86 (m, 2H), 6.67 (d, 1H, J = 8.2 Hz), 5.82 (d, 1H, J = 3.1 Hz), 5.09
+(d, 1H, J = 3.1 Hz), 4.07 (s, 4H); 13C NMR (100 MHz, CDCl3): δ
+164.9, 148.6, 143.6, 143.2, 143.1, 142.0, 138.7, 136.1, 133.4, 129.1,
+127.9, 127.1, 123.3, 122.3, 121.7, 121.4, 120.5, 117.8, 117.4, 117.1,
+116.9, 116.3, 76.4, 75.4, 64.2, 64.1; HRMS (ESI): m/z [M + H]+ calcd
+for C26H21N2O5: 441.1450; found 441.1467.
+(2R*,3S*)-N-(Quinolin-8-yl)-3-(thiophen-2-yl)-2,3-
+dihydrobenzo[b][1,4]dioxine-2-carboxamide (4p). Following the
+general procedure, 4p was obtained after puriﬁcation by column
+chromatography on silica gel (EtOAc:hexanes = 30:70) as colorless
+solid; yield: 49% (48 mg); mp 184−186 °C; IR (DCM): 3439, 1682,
+1533, 1490, 750 cm−1; 1H NMR (400 MHz, CDCl3): δ 10.91 (br s,
+1H), 8.90 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.74 (dd, 1H, J1 = 6.9 Hz,
+J2 = 2.1 Hz), 8.17 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.59−7.54 (m,
+2H), 7.49 (dd, 1H, J1 = 8.3 Hz, J2 = 4.2 Hz), 7.33−7.29 (m, 1H),
+7.16−7.15 (m, 1H), 7.12 (dd, 1H, J1 = 5.1 Hz, J2 = 1.2 Hz), 7.05−7.02
+(m, 3H), 6.82 (dd, 1H, J1 = 5.1 Hz, J2 = 3.6 Hz), 6.24 (d, 1H, J = 2.8
+Hz), 5.15 (d, 1H, J = 2.8 Hz); 13C NMR (100 MHz, CDCl3): δ 164.6,
+148.8, 141.7, 141.7, 138.8, 136.2, 136.2, 133.4, 127.9, 127.7, 127.1,
+126.6, 126.4, 123.4, 122.5, 121.9, 121.8, 118.1, 117.7, 116.9, 75.7, 71.7;
+HRMS (ESI): m/z [M + H]+ calcd for C22H17N2O3 S: 389.0960;
+found 389.0970.
+(2R*,3R*)-3-(2-Chloropyridin-4-yl)-N-(quinolin-8-yl)-2,3-
+dihydrobenzo[b][1,4]dioxine-2-carboxamide (4q). Following the
+general procedure, 4q was obtained after puriﬁcation by column
+chromatography on silica gel (EtOAc:hexanes = 50:50) as colorless
+liquid; yield: 49% (51 mg); IR (DCM): 3416, 1667, 1531, 1325, 792
+cm−1; 1H NMR (400 MHz, CDCl3): δ 10.69 (br s, 1H), 8.82 (dd, 1H,
+J1 = 4.2 Hz, J2 = 1.7 Hz), 8.71 (dd, 1H, J1 = 7.1 Hz, J2 = 1.7 Hz), 8.20−
+8.16 (m, 2H), 7.60−7.54 (m, 2H), 7.48 (dd, 1H, J1 = 8.3 Hz, J2 = 4.2
+Hz), 7.30−7.26 (m, 2H), 7.19 (dd, 1H, J1 = 5.3 Hz, J2 = 1.1 Hz),
+7.14−7.05 (m, 3H), 5.92 (d, 1H, J = 3.0 Hz), 5.15 (d, 1H, J = 3.0 Hz);
+13C NMR (100 MHz, CDCl3): δ 164.1, 151.8, 149.7, 148.8, 148.0,
+142.5, 141.7, 138.7, 136.2, 132.9, 127.9, 127.0, 123.8, 122.9, 122.5,
+122.3, 121.9, 120.4, 118.1, 117.3, 117.1, 75.7, 74.4; HRMS (ESI): m/z
+[M + H]+ calcd for C23H17ClN3O3: 418.0958; found 418.0957.
+
+( 2 R , 3 R ) - 3 - ( 4 - M e t h o x y p h e n y l ) - N - ( q u i n o l i n - 8 - y l ) -
+tetrahydrofuran-2-carboxamide (5a). Following the general
+procedure, 5a was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 40:60) as brown color solid;
+D = −243.5 (c 0.10, DCM); mp 90−
+yield: 71% (60 mg); ee 95%; [α]25
+92 °C; IR (DCM): 3340, 1682, 1530, 1255, 750 cm−1; 1H NMR (400
+MHz, CDCl3): δ 10.59 (br s, 1H), 8.88 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7
+Hz), 8.48 (dd, 1H, J1 = 7.3 Hz, J2 = 1.7 Hz), 8.13 (dd, 1H, J1 = 8.3 Hz,
+J2 = 1.7 Hz), 7.48−7.41 (m, 3H), 7.21 (d, 2H, J = 8.8 Hz), 6.68 (d, 2H,
+J = 8.8 Hz), 4.74 (d, 1H, J = 7.0 Hz), 4.63−4.58 (m, 1H), 4.22−4.16
+(m, 1H), 3.90−3.85 (m, 1H), 3.62 (s, 3H), 2.60−2.52 (m, 1H), 2.33−
+2.24 (m, 1H); 13C NMR (100 MHz, CDCl3): δ 168.6, 158.2, 148.5,
+138.8, 136.1, 133.6, 132.5, 128.9, 127.9, 127.1, 121.7, 121.5, 116.6,
+113.6, 83.9, 68.7, 55.0, 47.2, 33.8; HRMS (ESI): m/z [M + H]+ calcd
+for C21H21N2O3: 349.1552; found 349.1553.
+
+( 2 R , 3 R ) - 3 - ( 4 - C h l o r o p h e n y l ) - N - ( q u i n o l i n - 8 - y l ) -
+tetrahydrofuran-2-carboxamide (5b). Following the general
+procedure, 5b was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 60:40) as colorless solid; yield:
+D = −216.8 (c 0.10, DCM); mp 130−132
+85% (75 mg); ee 88%; [α]25
+°C; IR (KBr): 3336, 1682, 1528, 1325, 826 cm−1; 1H NMR (400
+MHz, CDCl3): δ 10.61 (br s, 1H), 8.88 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7
+Hz), 8.47 (dd, 1H, J1 = 7.4 Hz, J2 = 1.7 Hz), 8.13 (dd, 1H, J1 = 8.3 Hz,
+J2 = 1.7 Hz), 7.49−7.41 (m, 3H), 7.22 (d, 2H, J = 8.6 Hz), 7.11 (d, 2H,
+J = 8.6 Hz), 4.75 (d, 1H, J = 7.0 Hz), 4.61−4.56 (m, 1H), 4.22−4.16
+</para>
+2351
+
+DOI: 10.1021/acs.joc.5b00025
+J. Org. Chem. 2015, 80, 2339−2355
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(m, 1H), 3.91−3.86 (m, 1H), 2.62−2.53 (m, 1H), 2.29−2.21 (m, 1H);
+13C NMR (100 MHz, CDCl3): δ 168.1, 148.5, 139.2, 138.8, 136.2,
+133.5, 132.5, 129.3, 128.4, 127.9, 127.1, 121.9, 121.5, 116.6, 83.7, 68.6,
+47.3, 33.7; HRMS (ESI): m/z [M + H]+ calcd for C20H18ClN2O2:
+353.1057; found 353.1051.
+
+( 2 R , 3 R ) - 3 - ( 4 - A c e t y l p h e n y l ) - N - ( q u i n o l i n - 8 - y l ) -
+tetrahydrofuran-2-carboxamide (5c). Following the general
+procedure, 5c was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 70:30) as yellow color solid;
+D = −239.6 (c 0.10, DCM); mp
+yield: 81% (73 mg); ee 97%; [α]25
+148−150 °C; IR (KBr): 3441, 1607, 1528, 1267, 792 cm−1; 1H NMR
+(400 MHz, CDCl3): δ 10.63 (br s, 1H), 8.88 (dd, 1H, J1 = 4.2 Hz, J2 =
+1.7 Hz), 8.42 (dd, 1H, J1 = 7.6 Hz, J2 = 1.7 Hz), 8.12 (dd, 1H, J1 = 8.3
+Hz, J2 = 1.7 Hz), 7.73 (d, 2H, J = 8.4 Hz), 7.47−7.39 (m, 3H), 7.37 (d,
+2H, J = 8.4 Hz), 4.79 (d, 1H, J = 7.0 Hz), 4.65−4.59 (m, 1H), 4.24−
+4.18 (m, 1H), 3.99−3.94 (m, 1H), 2.63−2.58 (m, 1H), 2.42 (s, 3H),
+2.32−2.28 (m, 1H); 13C NMR (100 MHz, CDCl3): δ 197.8, 168.0,
+148.6, 146.4, 138.7, 136.2, 135.5, 133.4, 128.4, 128.2, 127.9, 127.1,
+122.0, 121.6, 116.6, 83.8, 68.7, 47.8, 33.6, 26.5; HRMS (ESI): m/z [M
++ H]+ calcd for C22H21N2O3: 361.1552; found 361.1545.
+
+(2R,3R)-3-(4-Nitrophenyl)-N-(quinolin-8-yl)tetrahydrofuran-
+2-carboxamide (5d). Following the general procedure, 5d was
+obtained after puriﬁcation by column chromatography on silica gel
+(EtOAc:hexanes = 50:50) as red color solid; yield: 72% (65 mg); ee
+D = −229.2 (c 0.10, DCM); mp 139−141 °C; IR (KBr):
+84%; [α]25
+3439, 1682, 1523, 1344, 750 cm−1; 1H NMR (400 MHz, CDCl3): δ
+10.63 (br s, 1H), 8.88 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.41 (dd, 1H,
+J1 = 7.6 Hz, J2 = 1.7 Hz), 8.14 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 8.00
+(d, 2H, J = 8.8 Hz), 7.50−7.39 (m, 5H), 4.80 (d, 1H, J = 7.0 Hz),
+4.66−4.61 (m, 1H), 4.26−4.20 (m, 1H), 4.03−3.99 (m, 1H), 2.70−
+2.61 (m, 1H), 2.33−2.25 (m, 1H); 13C NMR (100 MHz, CDCl3): δ
+167.6, 148.6, 146.7, 138.7, 136.3, 133.2, 128.8, 127.9, 127.1, 123.5,
+122.2, 121.7, 116.6, 83.7, 68.6, 47.6, 33.5; HRMS (ESI): m/z [M +
+H]+ calcd for C20H18N3O4: 364.1297; found 364.1298.
+
+( 2 R , 3 R ) - 3 - ( 4 - C y a n o p h e n y l ) - N - ( q u i n o l i n - 8 - y l ) -
+tetrahydrofuran-2-carboxamide (5e). Following the general
+procedure, 5e was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 50:50) as colorless solid; yield:
+D = −223.4 (c 0.10, DCM); mp 182−184
+78% (67 mg); ee 93%; [α]25
+°C; IR (KBr): 3424, 1677, 1528, 1260, 764 cm−1; 1H NMR (400
+MHz, CDCl3): δ 10.60 (br s, 1H), 8.88 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7
+Hz), 8.40 (dd, 1H, J1 = 7.6 Hz, J2 = 1.7 Hz), 8.14 (dd, 1H, J1 = 8.3 Hz,
+J2 = 1.7 Hz), 7.51−7.48 (m, 1H), 7.46 (dd, 1H, J1 = 8.3 Hz, J2 = 4.0
+Hz), 7.42−7.37 (m, 5H), 4.77 (d, 1H, J = 7.0 Hz), 4.63−4.57 (m, 1H),
+4.23−4.17 (m, 1H), 3.96−3.92 (m, 1H), 2.67−2.58 (m, 1H), 2.30−
+2.22 (m, 1H); 13C NMR (100 MHz, CDCl3): δ 167.6, 148.6, 146.4,
+138.7, 136.3, 133.2, 132.0, 128.8, 127.9, 127.1, 122.2, 121.7, 118.8,
+116.6, 110.5, 83.7, 68.6, 47.8, 33.4; HRMS (ESI): m/z [M + H]+ calcd
+for C21H18N3O2: 344.1399; found 344.1395.
+
+(2R,3R)-3-(3-Nitrophenyl)-N-(quinolin-8-yl)tetrahydrofuran-
+2-carboxamide (5f). Following the general procedure, 5f was
+obtained after puriﬁcation by column chromatography on silica gel
+(EtOAc:hexanes = 50:50) as brown color solid; yield: 70% (64 mg);
+D = −219.2 (c 0.10, DCM); mp 103−105 °C; IR
+ee 83%; [α]25
+(DCM): 3441, 1637, 1260, 1093, 764 cm−1; 1H NMR (400 MHz,
+CDCl3): δ 10.57 (br s, 1H), 8.85 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz),
+8.37 (dd, 1H, J1 = 7.6 Hz, J2 = 1.7 Hz), 8.17 (t, 1H, J = 2.0 Hz), 8.12
+(dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.87−7.85 (m, 1H), 7.62−7.59 (m,
+1H), 7.47−7.43 (m, 2H), 7.39 (t, 1H, J = 8.0 Hz), 7.27 (t, 1H, J = 8.0
+Hz), 4.78 (d, 1H, J = 6.8 Hz), 4.71−4.65 (m, 1H), 4.27−4.21 (m, 1H),
+4.04−3.99 (m, 1H), 2.71−2.62 (m, 1H), 2.37−2.29 (m, 1H); 13C
+NMR (100 MHz, CDCl3): δ 167.6, 148.7, 148.0, 142.8, 138.6, 136.1,
+134.5, 133.1, 129.0, 127.8, 127.0, 122.7, 122.1, 121.9, 121.7, 116.5,
+83.7, 68.6, 47.5, 33.3; HRMS (ESI): m/z [M + H]+ calcd for
+C20H18N3O4: 364.1297; found 364.1290.
+
+(2R,3R)-3-(4-Bromo-3-ﬂuorophenyl)-N-(quinolin-8-yl)-
+tetrahydrofuran-2-carboxamide (5g). Following the general
+procedure, 5g was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 50:50) as brown color solid;
+D = −153.6 (c 0.10, DCM); mp
+yield: 65% (68 mg); ee 81%; [α]25
+</para>
+Article
+<para sub=“exp”>
+100−102 °C; IR (KBr): 3425, 1682, 1485, 1530, 1092, 750 cm−1; 1H
+NMR (400 MHz, CDCl3): δ 10.58 (br s, 1H), 8.88 (dd, 1H, J1 = 4.2
+Hz, J2 = 1.7 Hz), 8.47 (dd, 1H, J1 = 7.4 Hz, J2 = 1.7 Hz), 8.14 (dd, 1H,
+J1 = 8.3 Hz, J2 = 1.7 Hz), 7.51−7.43 (m, 3H), 7.30−7.26 (m, 1H), 7.08
+(dd, 1H, J1 = 9.8 Hz, J2 = 2.0 Hz), 6.95 (dd, 1H, J1 = 8.2 Hz, J2 = 2.0
+Hz), 4.74 (d, 1H, J = 6.8 Hz), 4.61−4.55 (m, 1H), 4.22−4.16 (m, 1H),
+3.89−3.84 (m, 1H), 2.64−2.55 (m, 1H), 2.27−2.18 (m, 1H); 13C
+NMR (100 MHz, CDCl3): δ 167.8, 158.7 (d, JC−F = 245.3 Hz), 148.6,
+142.6 (d, JC−F = 6.5 Hz), 138.7, 136.2, 133.3, 133.1, 127.9, 127.1, 125.0
+(d, JC−F = 3.2 Hz), 122.1, 121.6, 116.7, 116.0 (d, JC−F = 22.3 Hz),
+107.1 (d, JC−F = 20.0 Hz), 83.6, 68.4, 47.2, 33.5; HRMS (ESI): m/z
+[M + H]+ calcd for C20H17BrFN2O2: 415.0457; found 415.0434.
+
+(2R,3S)-N-(Quinolin-8-yl)-3-(thiophen-2-yl)tetrahydrofuran-
+2-carboxamide (5h). Following the general procedure, 5h was
+obtained after puriﬁcation by column chromatography on silica gel
+(EtOAc:hexanes = 40:60) as brown color solid; yield: 81% (66 mg);
+D = −134.2 (c 0.10, DCM); mp 100−102 °C; IR
+ee 99%; [α]25
+(DCM): 3436, 1637, 1557, 1275, 749 cm−1; 1H NMR (400 MHz,
+CDCl3): δ 10.63 (br s, 1H), 8.88 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz),
+8.56 (dd, 1H, J1 = 7.0 Hz, J2 = 2.0 Hz), 8.13 (dd, 1H, J1 = 8.3 Hz, J2 =
+1.7 Hz), 7.50−7.43 (m, 3H), 7.00 (dd, 1H, J1 = 5.1 Hz, J2 = 1.0 Hz),
+6.96 (dd, 1H, J1 = 3.5 Hz, J2 = 1.0 Hz), 6.79 (dd, 1H, J1 = 5.1 Hz, J2 =
+3.5 Hz), 4.74 (d, 1H, J = 6.3 Hz), 4.61 (dd, 1H, J1 = 16.0 Hz, J2 = 7.5
+Hz), 4.28−4.22 (m, 2H), 2.66−2.57 (m, 1H), 2.37−2.30 (m, 1H); 13C
+NMR (100 MHz, CDCl3): δ 168.1, 148.6, 142.4, 138.8, 136.1, 133.7,
+127.9, 127.1, 126.5, 125.5, 123.9, 121.8, 121.5, 116.6, 83.6, 68.4, 43.3,
+34.6; HRMS (ESI): m/z [M + H]+ calcd for C18H17N2O2S: 325.1011;
+found 325.1003.
+
+( 2 S , 3 S ) - 3 - ( 4 - M e t h o x y p h e n y l ) - N - ( q u i n o l i n - 8 - y l ) -
+tetrahydrofuran-2-carboxamide (6a). Following the general
+procedure, 6a was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 40:60) as brown color solid;
+yield: 82% (71 mg); ee 93%; [α]25
+D = +218.4 (c 0.10, DCM); mp
+100−102 °C; IR (KBr): 3432, 1636, 1528, 1260, 764 cm−1; 1H NMR
+(400 MHz, CDCl3): δ 10.60 (br s, 1H), 8.88 (dd, 1H, J1 = 4.2 Hz, J2 =
+1.7 Hz), 8.49 (dd, 1H, J1 = 7.2 Hz, J2 = 1.7 Hz), 8.11 (dd, 1H, J1 = 8.3
+Hz, J2 = 1.7 Hz), 7.47−7.40 (m, 3H), 7.21 (d, 2H, J = 8.8 Hz), 6.68 (d,
+2H, J = 8.8 Hz), 4.74 (d, 1H, J = 7.0 Hz), 4.63−4.57 (m, 1H), 4.21−
+4.15 (m, 1H), 3.90−3.85 (m, 1H), 3.61 (s, 3H), 2.58−2.51 (m, 1H),
+2.32−2.24 (m, 1H); 13C NMR (100 MHz, CDCl3): δ 168.6, 158.2,
+148.5, 138.8, 136.1, 133.6, 132.5, 128.9, 127.9, 127.1, 121.7, 121.5,
+116.6, 113.6, 83.9, 68.7, 55.0, 47.2, 33.8; HRMS (ESI): m/z [M + H]+
+calcd for C21H21N2O3: 349.1552; found 349.1566.
+
+( 2 S , 3 S ) - 3 - ( 4 - C h l o r o p h e n y l ) - N - ( q u i n o l i n - 8 - y l ) -
+tetrahydrofuran-2-carboxamide (6b). Following the general
+procedure, 6b was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 50:50) as colorless solid; yield:
+D = +147.6 (c 0.10, DCM); mp 138−140
+77% (68 mg); ee 83%; [α]25
+°C; IR (DCM): 3437, 1637, 1486, 1252, 750 cm−1; 1H NMR (400
+MHz, CDCl3): δ 10.61 (br s, 1H), 8.88 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7
+Hz), 8.47 (dd, 1H, J1 = 7.4 Hz, J2 = 1.7 Hz), 8.14 (dd, 1H, J1 = 8.3 Hz,
+J2 = 1.7 Hz), 7.50−7.42 (m, 3H), 7.22 (d, 2H, J = 8.6 Hz), 7.11 (d, 2H,
+J = 8.6 Hz), 4.75 (d, 1H, J = 7.0 Hz), 4.62−4.56 (m, 1H), 4.22−4.16
+(m, 1H), 3.91−3.86 (m, 1H), 2.63−2.54 (m, 1H), 2.29−2.19 (m, 1H);
+13C NMR (100 MHz, CDCl3): δ 168.1, 148.6, 139.2, 138.8, 136.2,
+133.4, 132.5, 129.3, 128.4, 127.9, 127.1, 121.9, 121.6, 116.6, 83.7, 68.6,
+47.3, 33.7; HRMS (ESI): m/z [M + H]+ calcd for C20H18ClN2O2:
+353.1057; found 353.1039.
+
+(2S,3S)-3-(4-Acetylphenyl)-N-(quinolin-8-yl)tetrahydrofuran-
+2-carboxamide (6c). Following the general procedure, 6c was
+obtained after puriﬁcation by column chromatography on silica gel
+(EtOAc:hexanes = 70:30) as yellow color solid; yield: 80% (72 mg);
+D = +264.3 (c 0.10, DCM); mp 142−144 °C; IR (KBr):
+ee 85%; [α]25
+3437, 1638, 1528, 1092, 749 cm−1; 1H NMR (400 MHz, CDCl3): δ
+10.63 (br s, 1H), 8.88 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.42 (dd, 1H,
+J1 = 7.6 Hz, J2 = 1.7 Hz), 8.12 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.73
+(d, 2H, J = 8.4 Hz), 7.47−7.39 (m, 3H), 7.38 (d, 2H, J = 8.4 Hz), 4.79
+(d, 1H, J = 7.0 Hz), 4.65−4.59 (m, 1H), 4.24−4.18 (m, 1H), 3.99−
+3.94 (m, 1H), 2.66−2.57 (m, 1H), 2.42 (s, 3H), 2.34−2.26 (m, 1H);
+13C NMR (100 MHz, CDCl3): δ 197.8, 168.0, 148.6, 146.4, 138.7,
+</para>
+2352
+
+DOI: 10.1021/acs.joc.5b00025
+J. Org. Chem. 2015, 80, 2339−2355
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+136.2, 135.5, 133.4, 128.4, 128.2, 127.9, 127.1, 122.0, 121.6, 116.6,
+83.8, 68.7, 47.8, 33.6, 26.5; HRMS (ESI): m/z [M + H]+ calcd for
+C22H21N2O3: 361.1552; found 361.1544.
+
+(2S,3S)-3-(4-Nitrophenyl)-N-(quinolin-8-yl)tetrahydrofuran-
+2-carboxamide (6d). Following the general procedure, 6d was
+obtained after puriﬁcation by column chromatography on silica gel
+(EtOAc:hexanes = 50:50) as brown color solid; yield: 86% (78 mg);
+D = +280.3 (c 0.10, DCM); mp 134−136 °C; IR
+ee 87%; [α]25
+(DCM): 3336, 1598, 1486, 1344, 751 cm−1; 1H NMR (400 MHz,
+CDCl3): δ 10.63 (br s, 1H), 8.88 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz),
+8.41 (dd, 1H, J1 = 7.6 Hz, J2 = 1.7 Hz), 8.13 (dd, 1H, J1 = 8.3 Hz, J2 =
+1.7 Hz), 8.00 (d, 2H, J = 8.8 Hz), 7.49−7.38 (m, 5H), 4.80 (d, 1H, J =
+7.0 Hz), 4.65−4.59 (m, 1H), 4.25−4.19 (m, 1H), 4.02−3.98 (m, 1H),
+2.67−2.60 (m, 1H), 2.32−2.24 (m, 1H); 13C NMR (100 MHz,
+CDCl3): δ 167.6, 148.6, 146.7, 138.7, 136.3, 133.2, 128.8, 127.9, 127.1,
+123.5, 122.2, 121.7, 116.6, 83.7, 68.6, 47.6, 33.5; HRMS (ESI): m/z
+[M + H]+ calcd for C20H18N3O4: 364.1297; found 364.1281.
+
+(2S,3S)-3-(4-Cyanophenyl)-N-(quinolin-8-yl)tetrahydrofuran-
+2-carboxamide (6e). Following the general procedure, 6e was
+obtained after puriﬁcation by column chromatography on silica gel
+(EtOAc:hexanes = 50:50) as colorless solid; yield: 72% (62 mg); ee
+D = +218.8 (c 0.10, DCM); mp 176−178 °C; IR (KBr):
+94%; [α]25
+3425, 1712, 1530, 1266, 747 cm−1; 1H NMR (400 MHz, CDCl3): δ
+10.60 (br s, 1H), 8.88 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.41 (dd, 1H,
+J1 = 7.6 Hz, J2 = 1.7 Hz), 8.15 (dd, 1H, J1 = 8.3 Hz, J2 = 1.7 Hz), 7.52−
+7.49 (m, 1H), 7.46 (dd, 1H, J1 = 8.3 Hz, J2 = 4.0 Hz), 7.44−7.38 (m,
+5H), 4.78 (d, 1H, J = 6.9 Hz), 4.63−4.58 (m, 1H), 4.24−4.18 (m,
+1H), 3.97−3.92 (m, 1H), 2.67−2.58 (m, 1H), 2.31−2.23 (m, 1H); 13C
+NMR (100 MHz, CDCl3): δ 167.6, 148.6, 146.4, 138.7, 136.3, 133.2,
+132.0, 128.8, 127.9, 127.1, 122.2, 121.7, 118.8, 116.6, 110.5, 83.7, 68.6,
+47.8, 34.4; HRMS (ESI): m/z [M + H]+ calcd for C21H18N3O2:
+344.1399; found 344.1412.
+
+(2S,3S)-3-(3-Nitrophenyl)-N-(quinolin-8-yl)tetrahydrofuran-
+2-carboxamide (6f). Following the general procedure, 6f was
+obtained after puriﬁcation by column chromatography on silica gel
+(EtOAc:hexanes = 50:50) as brown color solid; yield: 77% (70 mg);
+D = +235.9 (c 0.10, DCM); mp 114−116 °C; IR
+ee 89%; [α]25
+(DCM): 3335, 1683, 1528, 125, 792 cm−1; 1H NMR (400 MHz,
+CDCl3): δ 10.57 (br s, 1H), 8.84 (dd, 1H, J1 = 4.2 Hz, J2 = 1.6 Hz),
+8.37 (dd, 1H, J1 = 7.6 Hz, J2 = 1.6 Hz), 8.16 (t, 1H, J = 2.0 Hz), 8.10
+(dd, 1H, J1 = 8.3 Hz, J2 = 1.6 Hz), 7.86−7.83 (m, 1H), 7.61−7.59 (m,
+1H), 7.46−7.42 (m, 2H), 7.38 (t, 1H, J = 8.0 Hz), 7.26 (t, 1H, J = 8.0
+Hz), 4.78 (d, 1H, J = 6.8 Hz), 4.70−4.64 (m, 1H), 4.26−4.19 (m, 1H),
+4.03−3.98 (m, 1H), 2.70−2.61 (m, 1H), 2.37−2.28 (m, 1H); 13C
+NMR (100 MHz, CDCl3): δ 167.6, 148.7, 148.0, 142.8, 138.6, 136.1,
+134.4, 133.2, 129.0, 127.8, 126.9, 122.7, 122.1, 121.9, 121.7, 116.5,
+83.6, 68.6, 47.5, 33.3; HRMS (ESI): m/z [M + H]+ calcd for
+C20H18N3O4: 364.1297; found 364.1304.
+
+(2S,3S)-3-(4-Bromo-3-ﬂuorophenyl)-N-(quinolin-8-yl)-
+tetrahydrofuran-2-carbhoxamide (6g). Following the general
+procedure, 6g was obtained after puriﬁcation by column chromatog-
+raphy on silica gel (EtOAc:hexanes = 60:40) as brown color solid;
+yield: 66% (69 mg); ee 89%; [α]25
+D = +149.8 (c 0.10, DCM); mp
+110−112 °C; IR (KBr): 3440, 1638, 1530, 1275, 750 cm−1; 1H NMR
+(400 MHz, CDCl3): δ 10.58 (br s, 1H), 8.88 (dd, 1H, J1 = 4.2 Hz, J2 =
+1.7 Hz), 8.47 (dd, 1H, J1 = 7.4 Hz, J2 = 1.7 Hz), 8.14 (dd, 1H, J1 = 8.3
+Hz, J2 = 1.7 Hz), 7.51−7.43 (m, 3H), 7.30−7.26 (m, 1H), 7.08 (dd,
+1H, J1 = 9.8 Hz, J2 = 2.0 Hz), 6.96 (dd, 1H, J1 = 8.2 Hz, J2 = 2.0 Hz),
+4.74 (d, 1H, J = 6.8 Hz), 4.61−4.55 (m, 1H), 4.22−4.16 (m, 1H),
+3.89−3.84 (m, 1H), 2.64−2.55 (m, 1H), 2.27−2.18 (m, 1H); 13C
+NMR (100 MHz, CDCl3): δ 167.8, 158.7 (d, JC−F = 245.4 Hz), 148.6,
+142.6 (d, JC−F = 6.5 Hz), 138.7, 136.2, 133.3, 133.1, 127.9, 127.1, 125.0
+(d, JC−F = 3.2 Hz), 122.1, 121.6, 116.7, 116.0 (d, JC−F = 22.3 Hz),
+107.1 (d, JC−F = 20.0 Hz), 83.6, 68.4, 47.2, 33.5; HRMS (ESI): m/z
+[M + H]+ calcd for C20H17BrFN2O2: 415.0457; found 415.0443.
+
+(2S,3R)-N-(Quinolin-8-yl)-3-(thiophen-2-yl)tetrahydrofuran-
+2-carboxamide (6h). Following the general procedure, 6h was
+obtained after puriﬁcation by column chromatography on silica gel
+(EtOAc:hexanes = 40:60) as brown color solid; yield: 90% (73 mg);
+D = +169.4 (c 0.10, DCM); mp 98−100 °C; IR (KBr):
+ee 99%; [α]25
+</para>
+Article
+<para sub=“exp”>
+3436, 1680, 1531, 1325, 750 cm−1; 1H NMR (400 MHz, CDCl3): δ
+10.64 (br s, 1H), 8.88 (dd, 1H, J1 = 4.2 Hz, J2 = 1.7 Hz), 8.58 (dd, 1H,
+J1 = 6.6 Hz, J2 = 2.4 Hz), 8.11 (dd, 1H, J1 = 8.2 Hz, J2 = 1.7 Hz), 7.48−
+7.41 (m, 3H), 7.00 (dd, 1H, J1 = 5.1 Hz, J2 = 1.0 Hz), 6.96 (dd, 1H, J1
+= 3.5 Hz, J2 = 1.0 Hz), 6.79 (dd, 1H, J1 = 5.1 Hz, J2 = 3.5 Hz), 4.74 (d,
+1H, J = 6.3 Hz), 4.61 (dd, 1H, J1 = 16.0 Hz, J2 = 7.5 Hz), 4.28−4.21
+(m, 2H), 2.65−2.56 (m, 1H), 2.36−2.29 (m, 1H); 13C NMR (100
+MHz, CDCl3): δ 168.1, 148.5, 142.4, 138.8, 136.1, 133.7, 127.9, 127.1,
+126.5, 125.5, 123.9, 121.8, 121.5, 116.6, 83.6, 68.3, 43.3, 34.6; HRMS
+(ESI): m/z [M + H]+ calcd for C18H17N2O2S: 325.1011;
+found
+325.0998.
+
+(2R*,3R*)-3-Phenyltetrahydrofuran-2-carboxylic Acid (7).17b
+Following the general procedure, the compound 7 was obtained as
+brown color solid (the crude material was almost pure); yield: 95%
+(46 mg); mp 216−218 °C; IR (KBr): 3432, 1637, 1275, 1260, 764,
+750 cm−1; 1H NMR (400 MHz, CDCl3): δ 7.33−7.19 (m, 5H), 5.03
+(br s, 1H), 4.65 (d, 1H, J = 7.7 Hz), 4.43−4.37 (m, 1H), 4.06 (dd, 1H,
+J1 = 15.0 Hz, J2 = 7.5 Hz), 3.76 (dd, 1H, J1 = 15.0 Hz, J2 = 7.5 Hz),
+2.48−2.29 (m, 2H); 13C NMR (100 MHz, CDCl3): δ 174.3, 138.6,
+128.5, 127.8, 127.3, 81.4, 68.9, 48.0, 32.2; HRMS (ESI): m/z [M −
+H]− calcd for C11H11O3: 191.0708;
+found 191.0700. The stereo-
+chemistry of the compound 7 has been assigned based on the X-ray
+structure analysis (see the SI for the X-ray structure).
+
+(2R*,3R*)-3-Phenyl-2,3-dihydrobenzo[b][1,4]dioxine-2-car-
+boxylic Acid (8).18a Following the general procedure, the compound
+8 was obtained as brown color viscous liquid (the crude material was
+almost pure); yield: 95% (59 mg); IR (DCM): 3456, 1723, 1598,
+1257, 1032 cm−1; 1H NMR (400 MHz, CDCl3): δ 7.42−7.35 (m, 5H),
+7.08−6.95 (m, 4H), 6.43 (br s, 1H), 5.51 (d, 1H, J = 3.2 Hz), 5.04 (d,
+1H, J = 3.2 Hz); 13C NMR (100 MHz, CDCl3): δ 171.6, 143.0, 141.8,
+134.8, 128.9, 128.6, 126.5, 122.5, 122.2, 117.4, 117.2, 75.1, 75.0;
+HRMS (ESI): m/z [M + H]+ calcd for C15H13O4: 257.0814; found
+257.0821. The stereochemistry of the compound 8 has been assigned
+based on the stereochemistry of its parent compound 4a.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+X-ray structures and CIF ﬁles, copies of 1H, 13C, and NOESY
+NMR charts, and HPLC analysis charts. This material
+is
+available free of charge via the Internet at http://pubs.acs.org/.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: sababu@iisermohali.ac.in.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was funded by IISER-Mohali. We thank the NMR,
+HRMS, and X-ray facilities of IISER-Mohali. R.P. thanks CSIR,
+New Delhi, for an SRF fellowship. The authors sincerely thank
+the reviewers of this manuscript for their valuable suggestions.
+
+■ REFERENCES
+(1) (a) Lorente, A.; Lamariano-Merketegi, J.; Albericio, F.; Álvarez,
+M. Chem. Rev. 2013, 113, 4567. (b) Bermejo, A.; Figadère, B.; Zafra-
+Polo, M.-C.; Barrachina, I.; Estornell, E.; Cortes, D. Nat. Prod. Rep.
+2005, 22, 269. (c) Kang, E. J.; Lee, E. Chem. Rev. 2005, 105, 4348.
+(d) Faul, M. M.; Huff, B. E. Chem. Rev. 2000, 100, 2407. (e) Dutton,
+C. J.; Banks, B. J.; Cooper, C. B. Nat. Prod. Rep. 1995, 12, 165.
+(f) Fernández, J. J.; Souto, M. L.; Norte, M. Nat. Prod. Rep. 2000, 17,
+235. (g) Sefkow, M. Synthesis 2003, 2595. (h) Ward, R. S. Nat. Prod.
+Rep. 1999, 16, 75. (i) Saleem, M.; Kim, H. J.; Ali, M. S.; Lee, Y. S. Nat.
+Prod. Rep. 2005, 22, 696. (j) Pan, J.-Y.; Chen, S.-L.; Yang, M.-H.; Wu,
+J.; Sinkkonen, J.; Zou, K. Nat. Prod. Rep. 2009, 26, 1251. (k) Nguyen,
+P.-H.; Yang, J.-L.; Uddin, M. N.; Park, S.-L.; Lim, S.-I.; Jung, D.-W.;
+Williams, D. R.; Oh, W.-K. J. Nat. Prod. 2013, 76, 2080. (l) Pilkington,
+
+2353
+
+DOI: 10.1021/acs.joc.5b00025
+J. Org. Chem. 2015, 80, 2339−2355
+
+The Journal of Organic Chemistry
+
+L. I.; Barker, D. J. Org. Chem. 2012, 77, 8156. (m) Birch, A. M.;
+Bradley, P. A.; Gill, J. C.; Kerrigan, F.; Needham, P. L. J. Med. Chem.
+1999, 42, 3342.
+(2) (a) Dong, L.-B.; He, J.; Wang, Y.-Y.; Wu, X.-D.; Deng, X.; Pan,
+Z.-H.; Xu, G.; Peng, L.-Y.; Zhao, Y.; Li, Y.; Gong, X.; Zhao, Q.-S. J.
+Nat. Prod. 2011, 74, 234. (b) Zeng, Q.; Cheng, X.-R.; Qin, J.-J.; Guan,
+B.; Chang, R. J.; Yan, S. K.; Jin, H.-Z.; Zhang, W.-D. Helv. Chim. Acta
+2012, 95, 606. (c) Wang, P.-S.; Zhou, X.-L.; Gong, L.-Z. Org. Lett.
+2014, 16, 976. (d) Fukuyama, Y.; Hasegawa, T.; Toda, M.; Kodama,
+M.; Okazaki, H. Chem. Pharm. Bull. 1992, 40, 252. (e) Fukuyama, Y.;
+Otoshi, Y.; Kodama, M.; Hasegawa, T.; Okazaki, H.; Nagasawa, M.
+Tetrahedron. Lett. 1989, 30, 5907.
+(3) For selected reviews, see: (a) Wolfe, J. P.; Hay, M. B. Tetrahedron
+2007, 63, 261. (b) Jalce, G.; Franck, X.; Figadère, B. Tetrahedron:
+Asymmetry 2009, 20, 2537. (c) Deiters, A.; Martin, S. F. Chem. Rev.
+2004, 104, 2199. (d) Wolfe, J. P. Synlett 2008, 2913. (e) Miura, K.;
+Hosomi, A. Synlett 2003, 143. (f) Bellur, E.; Feist, H.; Langer, P.
+Tetrahedron 2007, 63, 10865.
+(4) For selected articles, see: (a) Mansueto, R.; Mallardo, V.; Perna,
+F. M.; Salomone, A.; Capriati, V. Chem. Commun. 2013, 49, 10160.
+(b) Kubo, O.; Yahata, K.; Maegawa, T.; Fujioka, H. Chem. Commun.
+2011, 47, 9197. (c) Urabe, F.; Miyamoto, S.; Takahashi, K.; Ishihara,
+J.; Hatakeyama, S. Org. Lett. 2014, 16, 1004. (d) Campbell, M. J.;
+Johnson, J. S.; Parsons, A. T.; Pohlhaus, P. D.; Sanders, S. D. J. Org.
+Chem. 2010, 75, 6317. (e) Spivey, A. C.; Laraia, L.; Bayly, A. R.; Rzepa,
+H. S.; White, A. J. P. Org. Lett. 2010, 12, 900. (f) Kim, H.; Wooten, C.
+M.; Park, Y.; Hong, J. Org. Lett. 2007, 9, 3965. (g) Jahn, U.; Rudakov,
+D. Org. Lett. 2006, 8, 4481. (h) Evans, M. A.; Morken, J. P. Org. Lett.
+2005, 7, 3367. (i) Arthuis, M.; Beaud, R.; Gandon, V.; Roulland, E.
+Angew. Chem., Int. Ed. 2012, 51, 10510. (j) Fries, P.; Halter, D.;
+Kleinschek, A.; Hartung, J. J. Am. Chem. Soc. 2011, 133, 3906.
+(k) McConville, M.; Ruan, J.; Blacker, J.; Xiao, J. Org. Biomol. Chem.
+2010, 8, 5614. (l) Ward, A. F.; Wolfe, J. P. Org. Lett. 2010, 12, 1268.
+(m) Pandey, G.; Luckorse, S.; Budakoti, A.; Puranik, V. G. Tetrahedron
+Lett. 2010, 51, 2975. (n) Gogoi, P.; Das, V. K.; Saikia, A. K. J. Org.
+Chem. 2014, 79, 8592.
+(5) For selected papers on α-C−H functionalization of THF systems,
+see: (a) Liu, D.; Liu, C.; Li, H.; Lei, A. Angew. Chem., Int. Ed. 2013, 52,
+4453. (b) Davies, H. M. L.; Hansen, T.; Churchill, M. R. J. Am. Chem.
+Soc. 2000, 122, 3063. (c) Wei, W.-T.; Song, R.-J.; Li, J.-H. Adv. Synth.
+Catal. 2014, 356, 1703. (d) Singh, P. P.; Gudup, S.; Ambala, S.; Singh,
+U.; Dadhwal, S.; Singh, B.; Sawant, S. D.; Vishwakarma, R. A. Chem.
+Commun. 2011, 47, 5852 and references cited therein. (e) Singh, P. P.;
+Gudup, S.; Aruri, H.; Singh, U.; Ambala, S.; Yadav, M.; Sawant, S. D.;
+Vishwakarma, R. A. Org. Biomol. Chem. 2012, 10, 1587 and references
+cited therein. (f) Pandit, R. P.; Lee, Y. R. Adv. Synth. Catal. 2014, 356,
+3171 and references cited therein.
+(6) For selected reviews on C−H functionalization, see; (a) Chen,
+X.; Engle, K. M.; Wang, D.-H.; Yu, J.-Q. Angew. Chem., Int. Ed. 2009,
+48, 5094. (b) Rouquet, G.; Chatani, N. Angew. Chem., Int. Ed. 2013,
+52, 11726. (c) Corbet, M.; De Campo, F. Angew. Chem., Int. Ed. 2013,
+52, 9896. (d) Lyons, T. W.; Sanford, M. S. Chem. Rev. 2010, 110, 1147.
+(e) White, C. M. Science 2012, 335, 807. (f) Li, B.-J.; Shi, Z.-J. Chem.
+Soc. Rev. 2012, 41, 5588. (g) Baudoin, O. Chem. Soc. Rev. 2011, 40,
+4902. (h) Yamaguchi, J.; Yamaguchi, A. D.; Itami, K. Angew. Chem., Int.
+Ed. 2012, 51, 8960. (i) Ackermann, L. Chem. Rev. 2011, 111, 1315.
+(7) For selected reviews on C−H functionalization, see; (a) Kakiuchi,
+F.; Murai, S. Acc. Chem. Res. 2002, 35, 826. (b) Chen, D. Y.-K.; Youn,
+S. W. Chem.Eur. J. 2012, 18, 9452. (c) Jazzar, R.; Hitce, H.;
+Renaudat, A.; Sofack-Kreutzer, J.; Baudoin, O. Chem.Eur. J. 2010,
+16, 2654. (d) Arockiam, P. B.; Bruneau, C.; Dixneuf, P. H. Chem. Rev.
+2012, 112, 5879. (e) Colby, D. A.; Bergman, R. G.; Ellman, J. A. Chem.
+Rev. 2010, 110, 624. (f) Dastbaravardeh, N.; Christakakou, M.; Haider,
+M.; Schnürch, M. Synthesis 2014, 46, 1421. (g) Zhang, Q.; Chen, K.;
+Shi, B.-F. Synlett 2014, 25, 1941. (h) Topczewski, J. T.; Sanford, M. S.
+Chem. Sci. 2015, 6, 70.
+(8) For selected reviews on C−H functionalization, see: (a) Giri, R.;
+Shi, B.-F.; Engle, K. M.; Maugel, N.; Yu, J.-Q. Chem. Soc. Rev. 2009, 38,
+3242. (b) Wasa, M.; Engle, K. M.; Yu, J.-Q. Isr. J. Chem. 2010, 50, 605.
+
+Article
+
+(c) Sun, C.-L.; Li, B.-J.; Shi, Z.-J. Chem. Rev. 2011, 111, 1293.
+(d) Ackermann, L.; Vicente, R.; Kapdi, A. R. Angew. Chem., Int. Ed.
+2009, 48, 9792. (e) Yeung, C. S.; Dong, V. M. Chem. Rev. 2011, 111,
+1215. (f) Liu, C.; Zhang, H.; Shi, W.; Lei, A. Chem. Rev. 2011, 111,
+1780. (g) Wencel-Delord, J.; Droge, T.; Liu, F.; Glorius, F. Chem. Soc.
+Rev. 2011, 40, 4740. (h) Culkin, D. A.; Hartwig, J. F. Acc. Chem. Res.
+2003, 36, 234. (i) Hartwig, J. F. Acc. Chem. Res. 2012, 45, 864.
+(j) Shilov, A. E.; Shul’pin, G. B. Chem. Rev. 1997, 97, 2879.
+(9) (a) For a themed issue on C−H activation reactions, see: Chem.
+Soc. Rev. 2011, 40, 1845. (b) Davies, H M. L.; Du Bois, J.; Yu, J.-Q.
+Chem. Soc. Rev. 2011, 40, 1855. (c) McMurray, L.; O’Hara, F.; Gaunt,
+M. J. Chem. Soc. Rev. 2011, 40, 1885. (d) Daugulis, O.; Do, H.-Q.;
+Shabashov, D. Acc. Chem. Res. 2009, 42, 1074. (e) Xu, L.-M.; Li, B.-J.;
+Yang, Z.; Shi, Z.-J. Chem. Soc. Rev. 2010, 39, 712. (f) Li, B.; Dixneuf, P.
+H. Chem. Soc. Rev. 2013, 42, 5744. (g) Wencel-Delord, J.; Glorius, F.
+Nat. Chem. 2013, 5, 369. (h) Gao, K.; Yoshikai, N. Acc. Chem. Res.
+2014, 47, 1208.
+(10) For selected articles on C−H functionalization, see: (a) Wasa,
+M.; Engle, K. M.; Lin, D. W.; Yoo, E. J.; Yu, J.-Q. J. Am. Chem. Soc.
+2011, 133, 19598. (b) Chen, X.; Goodhue, C. E.; Yu, J.-Q. J. Am.
+Chem. Soc. 2006, 128, 12634. (c) Nadres, E. T.; Daugulis, O. J. Am.
+Chem. Soc. 2012, 134, 7. (d) Tran, L. D.; Popov, I.; Daugulis, O. J. Am.
+Chem. Soc. 2012, 134, 18237. (e) Tran, L. D.; Daugulis, O. Angew.
+Chem., Int. Ed. 2012, 51, 5188. (f) Tran, L. D.; Roane, J.; Daugulis, O.
+Angew. Chem., Int. Ed. 2013, 52, 6043. (g) Reddy, B. V. S.; Reddy, L.
+R.; Corey, E. J. Org. Lett. 2006, 8, 3391. (h) He, G.; Chen, G. Angew.
+Chem., Int. Ed. 2011, 50, 5192. (i) He, G.; Zhao, Y.; Zhang, S.; Lu, C.;
+Chen, G. J. Am. Chem. Soc. 2012, 134, 3.
+(11) For selected articles on C−H functionalization, see: (a) Dyker,
+G. Angew. Chem., Int. Ed. 1992, 31, 1023. (b) Chaumontet, M.;
+Piccardi, R.; Audic, N.; Hitce, J.; Peglion, J.-L.; Clot, E.; Baudoin, O. J.
+Am. Chem. Soc. 2008, 130, 15157. (c) Saget, T.; Cramer, N. Angew.
+Chem., Int. Ed. 2012, 51, 12842. (d) Baudoin, O.; Herrbach, A.;
+Guéritte, F. Angew. Chem., Int. Ed. 2003, 42, 5736. (e) Pan, F.; Shen,
+P.-X.; Zhang, L.-S.; Wang, X.; Shi, Z.-J. Org. Lett. 2013, 15, 4758.
+(f) Dick, A. R.; Hull, K. L.; Sanford, M. S. J. Am. Chem. Soc. 2004, 126,
+2300.
+(12) For selected articles on C−H functionalization, see: (a) Harvey,
+M. E.; Musaev, D. G.; Bois, J. D. J. Am. Chem. Soc. 2011, 133, 17207.
+(b) Shang, R.; Ilies, L.; Matsumoto, A.; Nakamura, E. J. Am. Chem. Soc.
+2013, 135, 6030. (c) Allen, A. E.; MacMillan, D. W. C. J. Am. Chem.
+Soc. 2011, 133, 4260. (d) Desai, V. L.; Hull, K. L.; Sanford, M. S. J. Am.
+Chem. Soc. 2004, 126, 9542. (e) Rit, R. K.; Yadav, M. R.; Sahoo, A. K.
+Org. Lett. 2012, 14, 3724. (f) Nishino, M.; Hirano, K.; Satoh, T.;
+Miura, M. Angew. Chem., Int. Ed. 2013, 52, 4457.
+(13) For selected recent articles on C−H functionalization, see:
+(a) Gutekunst, W. R.; Baran, P. S. J. Org. Chem. 2014, 79, 2430.
+(b) Tang, H.; Zhou, B.; Huang, X.-R.; Wang, C.; Yao, J.; Chen, H.
+ACS Catal. 2014, 4, 649. (c) Murakami, R.; Tsunoda, K.; Iwai, T.;
+Sawamura, M. Chem.Eur. J. 2014, 20, 13127. (d) Odani, R.; Nishino,
+M.; Hirano, K.; Satoh, T.; Miura, M. Heterocycles 2014, 88, 595.
+(e) Wei, Y.; Tang, H.; Cong, X.; Rao, B.; Wu, C.; Zeng, X. Org. Lett.
+2014, 16, 2248. (f) Li, M.; Dong, J.; Huang, X.; Li, K.; Wu, Q.; Song,
+F.; You, J. Chem. Commun. 2014, 50, 3944. (g) Paradine, S. M.; White,
+M. C. J. Am. Chem. Soc. 2012, 134, 2036. (h) Wu, X.; Zhao, Y.; Ge, H.
+Chem.Eur. J. 2014, 20, 9530. (i) Iyanaga, M.; Aihara, Y.; Chatani, N.
+J. Org. Chem. 2014, 79, 11933 and references cited therein..
+(14) For selected articles on C−H functionalization of cyclopropane,
+cyclobutane, medium-sized rings, norbornane framework, and acyclic
+amino acid derivatives, see: (a) Zaitsev, V. G.; Shabashov, D.;
+Daugulis, O. J. Am. Chem. Soc. 2005, 127, 13154. (b) Shabashov, D.;
+Daugulis, O. J. Am. Chem. Soc. 2010, 132, 3965. (c) Gutekunst, W. R.;
+Baran, P. S. J. Am. Chem. Soc. 2011, 133, 19076. (d) Roman, D. S.;
+Charette, A. B. Org. Lett. 2013, 15, 4394. (e) Chen, K.; Hu, F.; Zhang,
+S.-Q.; Shi, B.-F. Chem. Sci. 2013, 4, 3906. (f) Fan, M.; Ma, D. Angew.
+Chem., Int. Ed. 2013, 52, 12152. (g) Rodríguez, N.; Romero-Revilla, J.
+A.; Fernández-Ibáñez, M. Á.; Carretero, J. C. Chem. Sci. 2013, 4, 175.
+(h) Gutekunst, W. R.; Baran, P. S. Angew. Chem., Int. Ed. 2012, 51,
+7507. (i) Parella, R.; Gopalakrishnan, B.; Babu, S. A. Org. Lett. 2013,
+
+2354
+
+DOI: 10.1021/acs.joc.5b00025
+J. Org. Chem. 2015, 80, 2339−2355
+
+Article
+
+The Journal of Organic Chemistry
+
+15, 3238. (j) Parella, R.; Gopalakrishnan, B.; Babu, S. A. J. Org. Chem.
+2013, 78, 11911. (k) Parella, R.; Babu, S. A. Synlett. 2014, 25, 1395.
+(15) For selected articles on C−H functionalization of cyclopropane,
+cyclobutane, medium-sized rings, norbornane framework, and acyclic
+amino acid derivatives, see: (a) Wasa, M.; Chan, K. S. L.; Zhang, X.-G.;
+He, J.; Miura, M.; Yu, J.-Q. J. Am. Chem. Soc. 2012, 134, 18570.
+(b) He, J.; Wasa, M.; Chan, K. S. L.; Yu, J.-Q. J. Am. Chem. Soc. 2013,
+135, 3387. (c) Affron, D. P.; Davis, O. A.; Bull, J. A. Org. Lett. 2014,
+16, 4956. (d) Sun, W.-W.; Cao, P.; Mei, R.-Q.; Li, Y.; Ma, Y.-L.; Wu, B.
+Org. Lett. 2014, 16, 480. (e) Zhang, S.-Y.; Li, Q.; He, G.; Nack, W. A.;
+Chen, G. J. Am. Chem. Soc. 2013, 135, 12135. (f) Aihara, Y.; Chatani,
+N. J. Am. Chem. Soc. 2014, 136, 898. (g) Wu, X.; Zhao, Y.; Ge, H. J.
+Am. Chem. Soc. 2014, 136, 1789. (h) Wang, B.; Nack, W. A.; He, G.;
+Zhang, S.-Y.; Chen, G. Chem. Sci. 2014, 5, 3952. (i) Rousseaux, S.;
+Liégault, B.; Fagnou, K. Chem. Sci. 2012, 3, 244. (j) Hoshiya, N.;
+Kobayashi, T.; Arisawa, M.; Shuto, S. Org. Lett. 2013, 15, 6202. For a
+recent paper on C−H arylation of proline derivative, see: (k) Feng, R.;
+Wang, B.; Liu, Y.; Liu, Z.; Zhang, Y. Eur. J. Org. Chem. 2015, 142.
+(16) Crystallographic data of the X-ray structures of 3b (CCDC
+1041214), 3e (CCDC 1029716), 4p (CCDC 1029717), and 7
+(CCDC 1041215) reported in this work have been deposited at the
+Cambridge Crystallographic Data Centre.
+(17) (a) Lo, M. M.-C.; Fu, G. C. Tetrahedron 2001, 57, 2621. In this
+paper, the coupling constant (J) of the doublet peak of the OC(2)−H
+moiety present
+in trans-3-aryltetrahydrofuran-2-carboxylates was
+reported to be in the range of 5.8−6.4 Hz not exceeding 6.4 Hz.
+Further, the coupling constant (J) of the doublet peak of the OC(2)−
+H moiety present
+in cis-3-aryltetrahydrofuran-2-carboxylates was
+reported to be in the range of 7.3−7.6 Hz. Analogously, in addition
+to the unambiguous assignment of the stereochemistry of 3-aryl/
+heteroaryl tetrahydrofuran-2-carboxamides 3a−r based on the X-ray
+structures of 3b and 3e, the coupling constants (J) of the doublet peak
+of the C2 proton of compounds 3a−r were found to be in the range of
+6.6−8.2 Hz (except the compound 3q having a thiophene moiety at
+the C3-position, C2H, doublet, J = 6.3 Hz). (b) Nozaki, H.; Takaya,
+H.; Noyori, R. Tetrahedron 1966, 22, 3393.
+(18) (a) The coupling constant (J) of the doublet peak of the OC−
+H moiety present in the 2,3-disubstituted benzodioxane system having
+cis or trans stereochemistry has been reported to be 2.51 and 7−11
+Hz,
+respectively, see: Quaglia, W.; Pigini, M.; Giannella, M.;
+Melchiorre, C. J. Med. Chem. 1990, 33, 2946 and references cited
+therein. (b) The coupling constant (J) of the doublet peak of OC−H
+moiety in a typical 2,3-disubstituted benzodioxane compound having
+trans stereochemistry has been reported to be 9 Hz; see: Ganesh, T.;
+Sharma, K. K.; Krupadanam, G. L. D. Bull. Chem. Soc. Jpn. 2001, 74,
+2397.
+
+2355
+
+DOI: 10.1021/acs.joc.5b00025
+J. Org. Chem. 2015, 80, 2339−2355
+
+

@@ -1,0 +1,851 @@
+Note
+
+pubs.acs.org/joc
+
+Gallium-Catalyzed Domino Arylation/Oxycyclization of Allenes with
+Phenols
+Benito Alcaide,*,† Pedro Almendros,*,‡ Fernando Herrera,† Amparo Luna,† M. Elena de Orbe,†
+and M. Rosario Torres§
+†
+Grupo de Lactamas y Heterociclos Bioactivos, Departamento de Química Orgánica I, Unidad Asociada al CSIC, Facultad de
+Química, Universidad Complutense de Madrid, 28040 Madrid, Spain
+‡
+Instituto de Química Orgánica General, IQOG-CSIC, Juan de la Cierva 3, 28006 Madrid, Spain
+§CAI Difracción de Rayos X, Facultad de Química, Universidad Complutense de Madrid, 28040 Madrid, Spain
+
+*S Supporting Information
+
+ABSTRACT: The synthesis of dihydrobenzofuran-appended
+oxindoles has been accomplished taking advantage of an
+unprecedented reaction between allenols and phenols under
+metal catalysis.
+
+T he dihydrobenzofuran motif is present in a wide variety of
+
+natural products and biologically relevant compounds,1
+and the synthesis of this heterocycle is of current interest.2
+Numerous reports are available on metal-catalyzed cyclization
+functionalized allenes.3 In
+or cross-coupling reactions of
+contrast, such reactions that involve the coupling of the allene
+moiety and a phenol are scarcely accessible in literature.4
+Despite the fact that phenols are readily available chemicals,
+their use is problematic due to selectivity issues. Recently, we
+have successfully reported selective transformations of both
+indolinone-tethered allenols5 and phenols.6 We envisioned that
+a diﬀerent behavior of the allenol moiety might be achieved
+utilizing a phenol as a coupling partner. Herein, we present a
+gallium-catalyzed coupling−cyclization between phenols and
+toward the preparation of
+indolinone-tethered allenols
+dihydrobenzofuran-linked oxindoles.
+<para sub=“opt”>
+To explore the possibility of an allene−phenol coupling,
+allenol 1a and phenol 2a were initially chosen. The AuCl3-
+catalyzed reaction of allenol 1a and 4-methylphenol 2a aﬀorded
+the spirocyclic 2,5-dihydrofuran 3a (Scheme 1). Hence, the
+hydroxy group in allenol 1a exclusively suﬀers a 5-endo
+oxycyclization reaction,7 without the participation of the phenol
+moiety.
+</para>
+<para sub=“opt”>
+When a π acid such as AuCl3 is used, it might coordinate
+with one of the allene double bonds via a monodentade mode.
+When a Lewis acid is employed, it might coordinate with the
+OH of the allenol moiety via mono- or bidentate modes. This
+activation might generate a carbocation intermediate. Con-
+sequently, we decided to use a main-group salt instead of a
+transition-metal derivative. Happily, after assessing various
+metal catalysts, we found that a catalytic amount of metal
+triﬂate speciﬁcally promoted the domino allenol−phenol
+coupling reaction (Table 1). The domino reaction took place
+</para>
+Scheme 1. Nonproductive Gold-Catalyzed Reaction of
+Indolinone-Tethered Allenol 1a and Phenol 2a
+<para sub="scope">
+at 40 °C under M(OTf)n catalysis, which speciﬁcally promoted
+the generation of
+the desired dihydrobenzofuran-appended
+oxindole scaﬀold, and the domino addition−cyclization
+reaction took place readily.8 Diastereoselectivities were modest,
+in all cases giving rise to mixtures of adducts 4a and 5a. Based
+on conversion and isolated yields, gallium(III) triﬂate proved to
+be the most eﬃcient Lewis acid catalyst (Table 1, entry 12).9,10
+An experiment using molecular sieves as an additive led to
+comparable results, thus indicating that this transformation
+could be eﬃciently catalyzed by metal triﬂates. A screening of
+solvents (acetonitrile, tetrahydrofuran, toluene) revealed that
+the reaction is best performed in dichloromethane. A Brønsted
+acid such as triﬂuoromethanesulfonic acid (TfOH) was also
+tested. The corresponding rearranged α,β-unsaturated ketone
+was the major reaction product under stoichiometric TfOH
+conditions. However, the use of 10 mol % TfOH aﬀorded
+adducts 4a and 5a along with a minor rearranged ketone, but
+did not promote the reaction to completion, with some
+unreacted starting material remaining. Comparatively, the use
+of TfOH led to limited reactivity.
+</para>
+Received:
+January 15, 2015
+Published: March 27, 2015
+
+© 2015 American Chemical Society
+
+4157
+
+DOI: 10.1021/acs.joc.5b00106
+J. Org. Chem. 2015, 80, 4157−4163
+
+Note
+
+The Journal of Organic Chemistry
+
+Table 1. Reaction between Indolinone-Tethered Allenol 1a
+and Phenol 2a under Modiﬁed Metal-Catalyzed Conditions
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+catalyst
+
+In(OTf )3
+Zn(OTf )2
+Fe(OTf )3
+Yb(OTf )3
+Bi(OTf )3
+Bi(OTf )3
+Bi(OTf )3
+Bi(OTf )3
+Bi(OTf )3/PTSA
+Ga(OTf )3
+Ga(OTf )3
+Ga(OTf )3
+
+d
+
+c
+
+temperature (°C)
+40
+40
+40
+40
+40
+30
+130/sealed tube
+80/microwave
+40
+40
+40
+40
+
+time (h)
+
+4a:5a yield (%)a
+
+11
+12
+10
+12
+1
+3
+0.5
+0.5
+1
+30
+12
+4
+
+25/8
+22/7
+29/9
+20/6
+26/19
+23/17
+6/4b
+19/14
+11/15
+23/13
+30/17
+35/20
+
+aYield of pure, isolated product with correct analytical and spectral
+data. bDecomposition of the starting allenol 1a was observed in
+appreciable extension. cCatalyst loading of 2 mol %. dCatalyst loading
+of 5 mol %.
+<para sub="scope">
+the phenol reactant was ﬁrst examined by submitting 4-
+methoxyphenol 1d to various allenols 1. In the event, phenol 1e
+reacted well and the corresponding adducts 4d, 4l, 5d, and 5l
+were obtained. Unfortunately, a negative result was observed
+using either 4-hydroxybenzonitrile or methyl 4-hydroxy-
+benzoate, which indicated that electron-withdrawing groups
+on the aromatic ring were not compatible with this catalytic
+arylation/oxycyclization reaction sequence. The Rf values of the
+two dihydrobenzofuran isomers 4a−l and 5a−l were very close
+to each other. Fortunately, the diastereomeric adducts 4 and 5
+could be separated by ﬂash chromatography,
+thus readily
+providing two structurally complex and valuable heterocyclic
+products. However, characterization of minor adducts 5c, 5d,
+5f−i, 5k, and 5l was performed on a mixture containing small
+amounts of their major counterparts 4. Because most of the
+reactions were conducted in a 50 mg scale, it was desirable to
+scale-up the procedure. Worthy of note, when we performed a
+4 mmol-scale reaction starting from allenol 1a and phenol 2a,
+adducts 4a and 5a were isolated in a combined yield of 59%,
+which is slightly higher than that achieved at a smaller scale
+during the scope study. The structure of dihydrobenzofuran 5a
+was unambiguously conﬁrmed with the help of an X-ray
+diﬀraction analysis on suitable crystals of
+this compound
+(Figure 1 in the Supporting Information).12
+</para>
+<para sub=“opt”>
+Next, the reaction of aryl-substituted allenol derivatives and
+phenols was examined. To test the reactivity of aryl allenes 6,
+we started the initial
+investigation on the gallium-catalyzed
+reaction of phenyl-substituted allene 6a under otherwise
+identical reaction conditions used for its methyl-counterpart
+1a. In the event, it was found that substrate 6a was exclusively
+transformed into the rearranged product 7a (Scheme 3).13
+</para>
+<para sub="scope">
+With the optimized reaction conditions in hand we then
+examined the scope and generality of the Ga-catalyzed method.
+Thus, various methyl-substituted allenols and phenols were
+reacted to give a range of dihydrobenzofuran-appended
+oxindoles 4 and 5 (Scheme 2).11 The two products obtained
+from the coupling reaction are not identical but rather stand in
+an epimeric relationship at the allylic position. Although the
+diastereoselectivity of the reaction between 1a and 2a is poor
+under the conditions (Table 1), eﬀorts for further improve-
+ments were not in vain. Interestingly, the use of both NH-free
+allenols 1b−d and phenols bearing bulkier substituents (such as
+Br or t-Bu) resulted in improved diastereoselectivities (Scheme
+2). The inﬂuence of the electronic nature of the substituents at
+</para>
+Scheme 2. Synthesis of Dihydrobenzofuran-Appended Oxindoles 4 and 5 through Domino Addition−Cyclization Reaction
+under Gallium Catalysis
+
+Scheme 3. Reaction of Phenyl-Substituted Allenol 6a under
+Metal Triﬂate Catalysis
+
+4158
+
+DOI: 10.1021/acs.joc.5b00106
+J. Org. Chem. 2015, 80, 4157−4163
+
+The Journal of Organic Chemistry
+
+Note
+
+Scheme 4. Mechanistic Explanation for the Ga(III)-Catalyzed Synthesis of Dihydrobenzofurans 4 and 5 from Allenols 1 and
+Phenols
+<para sub=“opt”>
+Noticeably, despite the above-mentioned ability (Schemes 1
+and 2) of metal triﬂate based catalysis for the coupling reaction
+of allenols 1 and phenols into dihydrobenzofurans 4/5, no
+traces of oxacycles were detected using gallium(III) triﬂate as a
+promoter. Possibly, attempts to use aryl-substituted substrates 6
+proved to be unsuccessful
+the
+corresponding dihydrobenzofurans because of both unfavorable
+steric factors and a direct interaction of the π-aromatic system
+with the metal center from the catalyst.
+
+the construction of
+
+for
+</para>
+<para sub=“ques”>
+A possible pathway for the gallium-catalyzed generation of
+dihydrobenzofuran-linked oxindoles 4 and 5 is outlined in
+Scheme 4. Initially, Ga(OTf)3 acts as a Lewis acid interacting
+with the allene and phenol moieties simultaneously via a
+bidentade mode. The formation of a complex 1-Ga through
+both π-coordination of the metal to the allene group of allenols
+1 and σ-coordination to the hydroxy group of phenols 2 may be
+involved. Subsequent nucleophilic addition of
+the phenol
+moiety at the sterically less hindered carbon center in complex
+1-Ga would lead to a ketone intermediate, which after
+tautomerization aﬀorded the more stable enol-form 8. Then,
+from zwitterionic
+an elimination of water and Ga(OTf)3
+intermediate 8 occurs to generate gallium species 9 through η-
+coordination of the gallium salt to the more substituted double
+bond. Species 9 suﬀers an intramolecular chemo- and
+regioselective 5-exo-trig oxycyclization reaction to produce
+zwitterionic dihydrobenzofurans 10. This nucleophilic attack
+from the O-phenol site occurs as a result of the stability of the
+intermediate oxonium type cation 10. Loss of HOTf
+in
+zwitterionic dihydrobenzofurans 10 generates neutral metal
+species 11. Finally, protonolysis of the carbon−gallium bond of
+11 liberates dihydrobenzofurans 4 and 5 with concomitant
+regeneration of the Ga(III) catalytic species (Scheme 4).
+</para>
+In conclusion,
+
+the synthesis of dihydrobenzofuran-linked
+oxindoles has been accomplished taking advantage of an
+unprecedented reaction between allenols and phenols under
+Lewis acid catalysis. Probably, Ga(OTf)3 merges allene and
+phenol moieties simultaneously via a bidentate mode.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Methods. NMR spectra were recorded at 25 °C on 700
+or 300 MHz spectrometers: 1H NMR (300 or 700 MHz) and 13C
+NMR (75 or 175 MHz). NMR spectra were recorded in CDCl3 or
+C6D6 solutions, except if otherwise stated. Chemical shifts are given in
+ppm relative to TMS (1H, 0.0 ppm), or CDCl3 (13C, 76.9 ppm), or
+C6D6 (13C, 128.4 ppm). Low and high resolution mass spectra were
+acquired on a QTOF LC/MS spectrometer using the electronic
+impact (EI) or electrospray (ES) mode.
+
+Typical Procedure for the Ga(OTf)3-Catalyzed Coupling
+Reaction of α-Allenols 1 and Phenols 2. General Procedure
+for the Preparation of Dihydrobenzofuran-Appended Oxin-
+doles 4 and 5. To a solution of the appropriate allenol 1 (0.46
+mmol) in dichloromethane (5 mL) at room temperature, Ga(OTf)3
+(0.046 mmol) was added under an argon atmosphere and stirring was
+continued for 5 min. Then, the corresponding phenol 2 (1.28 mmol)
+was added and stirring was continued for another 5 min. Then, the
+reaction mixture was stirred at reﬂux temperature until the starting
+material disappeared as indicated by TLC. After ﬁltration through a
+pad of Celite, the mixture was concentrated under vacuum and
+puriﬁed by ﬂash column chromatography, eluting with ethyl acetate/
+hexanes or dichloromethane/ethyl acetate mixtures. Spectroscopic and
+analytical data for pure forms of compounds 4 and 5 follow.
+
+Preparation of Dihydrobenzofuran-Appended Oxindoles 4a
+and 5a. From 32 mg (0.14 mmol) of α-allenol 1a, and after
+chromatography of the residue using hexanes/ethyl acetate (5:1) as
+eluent, 15 mg (35%) of the less polar compound 4a and 8 mg (20%)
+of the more polar compound 5a were obtained.
+Dihydrobenzofuran-Appended Oxindole 4a. Yellow oil (15
+mg, 35%); 1H NMR (300 MHz, CDCl3, 25 °C) δ: 7.19 (d, J = 7.5 Hz,
+1H), 7.12 (t, J = 7.7 Hz, 1H), 6.99 (m, 1H), 6.91 (s, 1H), 6.78 (d, J =
+8.3 Hz, 1H), 6.72 (m, 2H), 5.09 and 4.76 (s, each 1H), 3.88 (s, 1H),
+3.20 (s, 3H), 2.20 (s, 3H), 1.94 (s, 3H); 13C NMR (75 MHz, CDCl3,
+25 °C) δ: 173.1, 158.4, 148.0, 144.2, 131.4, 129.7, 128.1, 126.3, 126.1,
+125.1, 122.2, 121.0, 109.5, 107.5, 100.0, 91.0, 54.0, 26.1, 25.9, 20.7; IR
+(CH2Cl2, cm−1): ν 1710, 1611, 1471; HRMS (ES): calcd for
+C20H19NO2 [M]+: 305.1416; found: 305.1412.
+Dihydrobenzofuran-Appended Oxindole 5a. Colorless solid
+(8 mg, 20%); mp 134−136 °C; 1H NMR (300 MHz, CDCl3, 25 °C)
+δ: 7.29 (d, J = 7.6 Hz, 1H), 7.17 (m, 2H), 6.91 (dd, J = 6.9, 1.5 Hz,
+1H), 6.79 (t, J = 7.6 Hz, 1H), 6.74 (d, J = 7.7 Hz, 1H), 6.53 (d, J = 8.3
+</para>
+4159
+
+DOI: 10.1021/acs.joc.5b00106
+J. Org. Chem. 2015, 80, 4157−4163
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+Hz, 1H), 5.53 and 4.99 (s, each 1H), 3.63 (s, 1H), 3.20 (s, 3H), 2.27
+(s, 3H), 1.80 (s, 3H); 13C NMR (75 MHz, CDCl3, 25 °C) δ: 174.0,
+159.0, 150.8, 145.0, 131.5, 129.8, 128.2, 125.6, 125.2, 124.6, 121.7,
+121.0, 109.8, 107.5, 101.0, 90.2, 52.8, 26.1, 24.8, 20.8; IR (CH2Cl2,
+cm−1): ν 1709, 1612, 1487; HRMS (ES): calcd for C20H19NO2 [M]+:
+305.1416; found: 305.1419.
+
+Preparation of Dihydrobenzofuran-Appended Oxindoles 4b
+and 5b. From 43 mg (0.20 mmol) of α-allenol 1a, and after
+chromatography of the residue using hexanes/ethyl acetate (8:1) as
+eluent, 47 mg (67%) of the less polar compound 4b and 12 mg (17%)
+of the more polar compound 5b were obtained.
+Dihydrobenzofuran-Appended Oxindole 4b. Pale yellow solid
+(47 mg, 67%); mp 90−92 °C; 1H NMR (300 MHz, CDCl3, 25 °C) δ:
+7.19 (m, 4H), 6.82 (d, J = 8.5 Hz, 1H), 6.77 (m, 1H), 6.73 (t, J = 7.6
+Hz, 1H), 5.12 and 4.76 (s, each 1H), 3.89 (s, 1H), 3.21 (s, 3H), 1.94
+(s, 3H), 1.22 (s, 9H); 13C NMR (175 MHz, C6D6, 25 °C) δ: 173.0,
+159.7, 149.7, 145.0, 143.8, 129.0, 128.9, 126.9, 126.7, 126.0, 122.5,
+118.1, 110.1, 108.0, 100.3, 92.0, 54.5, 34.6, 31.9 (3C), 27.2, 25.9; IR
+(CH2Cl2, cm−1): ν 1700, 1610, 1489; HRMS (ES): calcd for
+C23H25NO2 [M]+: 347.1885; found: 347.1888.
+Dihydrobenzofuran-Appended Oxindole 5b. Yellow oil (12
+mg, 17%); 1H NMR (700 MHz, CDCl3, 25 °C) δ: 7.39 (d, J = 1.8 Hz,
+1H), 7.31 (d, J = 7.4 Hz, 1H), 7.18 (t, J = 7.7 Hz, 1H), 7.16 (dd, J =
+8.5, 2.0 Hz, 1H), 6.80 (t, J = 7.6 Hz, 1H), 6.74 (d, J = 7.7 Hz, 1H),
+6.59 (d, J = 8.5 Hz, 1H), 5.58 and 5.05 (s, each 1H), 3.64 (s, 1H), 3.20
+(s, 3H), 1.77 (s, 3H), 1.29 (s, 9H); 13C NMR (75 MHz, CDCl3, 25
+°C) δ: 174.0, 158.7, 150.9, 144.9, 143.6, 128.2, 128.1, 125.8, 124.8,
+124.7, 121.7, 117.3, 109.5, 107.5, 101.1, 90.3, 52.7, 34.3, 31.6 (3C),
+26.2, 24.5; IR (CH2Cl2, cm−1): ν 1708, 1612, 1487; HRMS (ES): calcd
+for C23H25NO2 [M]+: 347.1885; found: 347.1889.
+Preparation of Dihydrobenzofuran-Appended Oxindoles 4c
+and 5c. From 50 mg (0.23 mmol) of α-allenol 1a, and after
+chromatography of the residue using hexanes/ethyl acetate (5:1) as
+eluent, 43 mg (50%) of the less polar compound 4c and 9 mg (10%)
+of the more polar compound 5c (containing ca. 40% of its epimer 4c)
+were obtained.
+Dihydrobenzofuran-Appended Oxindole 4c. Yellow solid (43
+mg, 50%); mp 164−166 °C; 1H NMR (300 MHz, C6D6, 25 °C) δ:
+7.03 (dd, J = 8.5, 2.2 Hz, 1H), 6.92 (d, J = 2.2 Hz, 1H), 6.88 (s, 1H),
+6.80 (t, J = 7.5 Hz, 1H), 6.56 (t, J = 7.6 Hz, 1H), 6.45 (d, J = 8.5 Hz,
+1H), 6.13 (d, J = 7.7 Hz, 1H), 4.87 and 4.75 (s, each 1H), 3.58 (s,
+1H), 2.68 (s, 3H), 2.0 (s, 3H); 13C NMR (175 MHz, C6D6, 25 °C) δ:
+172.6, 160.3, 147.5, 145.0, 141.9, 133.9, 129.4, 126.8, 124.7, 123.1,
+122.6, 113.4, 112.0, 108.1, 102.8, 92.7, 54.4, 26.7, 25.9; IR (CH2Cl2,
+cm−1): ν 3334, 1682, 1489; HRMS (ES): calcd for C19H16BrNO2
+[M]+: 369.0364; found: 369.0370.
+Dihydrobenzofuran-Appended Oxindole 5c. Yellow solid (9
+mg, 10%; containing ca. 40% of its epimer 4c); mp 124−126 °C; 1H
+NMR (300 MHz, CDCl3, 25 °C) δ: 7.48 (d, J = 2.0 Hz, 0.4H, m), 7.20
+(m, 3.6H, M + m), 6.77 (m, 2.6H, M + m), 6.52 (d, J = 8.5 Hz, 0.4H,
+m), 5.56 (s, 0.4H, m), 5.13 (s, 0.6H, M), 5.03 (s, 0.4H, m), 4.85 (s,
+0.6H, M), 3.87 (s, 0.6H, M), 3.63 (s, 0.4H, m), 3.20 (s, 3H, M + m),
+1.95 (s, 1.8H, M), 1.82 (s, 1.2H, m); 13C NMR (75 MHz, CDCl3, 25
+°C) δ: 173.6 (m), 172.7 (M), 159.3 (M + m), 149.3 (m), 146.6 (M),
+144.9 (m), 144.1 (M), 133.3 (m), 133.2 (M), 128.4 (M), 128.3 (M +
+m), 126.2 (M + m), 125.5 (m), 124.6 (M), 124.1 (m), 123.7 (M + m),
+122.3 (M), 121.9 (m), 112.7 (M), 112.6 (m), 111.9 (m), 111.5 (M),
+107.8 (M), 107.7 (m), 102.9 (m), 102.1 (M), 91.9 (M), 91.1 (m), 53.9
+(M), 52.7 (m), 26.2 (m), 26.0 (M) 26.0 (M), 24.9 (m); IR (CH2Cl2,
+cm−1): ν 3299, 1706, 1466; HRMS (ES): calcd for C19H16BrNO2
+[M]+: 369.0364; found: 369.0357.
+
+Preparation of Dihydrobenzofuran-Appended Oxindoles 4d
+and 5d. From 52 mg (0.24 mmol) of α-allenol 1a, and after
+chromatography of the residue using hexanes/ethyl acetate (8:1) as
+the eluent, 33 mg (42%) of the less polar compound 4d and 15 mg
+(20%) of the more polar compound 5d (containing ca. 20% of its
+epimer 4d) were obtained.
+
+Dihydrobenzofuran-Appended Oxindole 4d. Yellow oil; 1H
+NMR (300 MHz, CDCl3, 25 °C) δ: 7.18 (d, J = 7.5 Hz, 1H), 7.12 (d, J
+= 7.7 Hz, 1H), 6.75 (m, 4H), 6.61 (d, J = 1.6 Hz, 1H), 5.09 and 4.79
+
+(s, each 1H), 3.88 (s, 1H), 3.70 (s, 3H), 3.20 (s, 3H), 1.94 (s, 3H),
+1.94 (s, 3H); 13C NMR (175 MHz, CDCl3, 25 °C) δ: 173.1, 154.8,
+148.3, 144.1, 138.3, 128.1, 126.3, 125.0, 122.2, 117.6, 114.1, 110.2,
+107.5, 104.9, 100.5, 91.2, 54.8, 54.9, 26.1, 26.0; IR (CH2Cl2, cm−1): ν
+1706, 1612, 1482; HRMS (ES): calcd for C20H19NO3 [M]+: 321.1365;
+found: 321.1373.
+
+Dihydrobenzofuran-Appended Oxindole 5d. Yellow oil; 1H
+NMR (700 MHz, C6D6, 25 °C) δ: 7.30 (d, J = 7.5 Hz, 0.8H, m), 7.26
+(d, J = 8.1 Hz, 0.2H, M), 7.04 (s, 0.2H, M), 6.93 (t, J = 7.7 Hz, 0.2H,
+M), 6.89 (m, 1.6H, m), 6.74 (d, J = 8.7 Hz, 0.2H, M), 6.70 (t, J = 7.2
+Hz, 0.2H, M), 6.61 (t, J = 7.3 Hz, 0.8H, m), 6.48 (d, J = 2.6 Hz, 0.2H,
+M), 6.43 (d, J = 1.4 Hz, 1.6H, m), 6.20 (d, J = 7.7 Hz, 0.8H, m), 6.17
+(d, J = 7.8 Hz, 0.2H, M), 5.31 (s, 0.8H, m), 4.99 and 4.97 (s, each
+0.2H, M), 4.79 (s, 0.8H, m), 3.33 (s, 0.8H, m), 3.23 (s, 3H, M + m),
+3.11 (s, 0.2H, M), 2.71 (s, 2.4H, m), 2.65 (s, 0.6H, M), 1.97 (s, 2.4H,
+m), 1.84 (s, 0.6H, M); 13C NMR (175 MHz, C6D6, 25 °C) δ: 173.9
+(M+m), 156.7 (m), 155.1 (M), 152.8 (m), 150.4 (M), 146.0 (m),
+143.6 (M), 129.7 (m), 128.0 (m), 127.5 (M), 127.0 (M), 126.6 (M),
+126.1 (m), 125.6 (M), 123.1 (m), 122.5 (M), 122.4 (m), 121.9 (m),
+121.3 (M), 118.7 (M), 118.2 (m), 111.5 (m), 111.0 (M), 108.3 (M),
+108.0 (m), 105.9 (m), 105.6 (M), 101.4 (m), 100.8 (M), 91.5 (M +
+m), 55.6 (m), 55.4 (M), 53.2 (M + m), 26.1 (M), 26.0 (m) 25.6 (m),
+25.5 (M); IR (CH2Cl2, cm−1): ν 1708, 1611, 1482; HRMS (ES): calcd
+for C20H19NO3 [M]+: 321.1365; found: 321.1372.
+Preparation of Dihydrobenzofuran-Appended Oxindoles 4e
+and 5e. From 40 mg (0.20 mmol) of α-allenol 1b, and after
+chromatography of the residue using dicloromethane/ethyl acetate
+(40:1) as eluent, 35 mg (60%) of the less polar compound 4e and 14
+mg (24%) of the more polar compound 5e were obtained.
+Dihydrobenzofuran-Appended Oxindole 4e. Colorless solid
+(35 mg, 60%); mp 166−168 °C; 1H NMR (300 MHz, CDCl3, 25 °C)
+δ: 7.88 (br s, 1H), 7.17 (d, J = 7.5 Hz, 1H), 7.07 (t, J = 7.8 Hz, 1H),
+7.00 (d, J = 8.2 Hz, 1H), 6.95 (s, 1H), 6.75 (m, 3H), 5.18 and 4.92 (s,
+each 1H), 3.90 (s, 1H), 2.21 (s, 3H), 1.92 (s, 3H); 13C NMR (75
+MHz, CDCl3, 25 °C) δ: 174.9, 158.4, 147.9, 141.0, 131.4, 129.8, 128.1,
+126.7, 126.0, 125.7, 122.2, 121.1, 109.5, 109.0, 100.4, 90.8, 54.4, 26.1,
+20.7; IR (CH2Cl2, cm−1): ν 3252, 1705, 1482; HRMS (ES): calcd for
+C19H17NO2 [M]+: 291.1259; found: 291.1246.
+Dihydrobenzofuran-Appended Oxindole 5e. Colorless solid
+(14 mg, 24%); mp 164−166 °C; 1H NMR (300 MHz, CDCl3, 25 °C)
+δ: 7.53 (br s, 1H), 7.28 (m, 1H), 7.19 (s, 1H), 7.11 (t, J = 7.7 Hz, 1H),
+6.92 (dd, J = 7.7, 1.4 Hz, 1H), 6.78 (m, 2H), 6.57 (d, J = 8.2 Hz, 1H),
+5.53 and 4.97 (s, each 1H), 3.65 (s, 1H), 2.27 (s, 3H), 1.80 (s, 3H);
+13C NMR (75 MHz, CDCl3, 25 °C) δ: 175.6, 159.0, 150.5, 141.8,
+131.6, 129.9, 128.3, 126.1, 125.8, 125.2, 121.8, 121.1, 109.8, 109.0,
+101.2, 90.1, 53.1, 24.7, 20.8; IR (CH2Cl2, cm−1): ν 3253, 1708, 1480;
+HRMS (ES): calcd for C19H17NO2 [M]+: 291.1259; found: 291.1250.
+Preparation of Dihydrobenzofuran-Appended Oxindoles 4f
+and 5f. From 40 mg (0.20 mmol) of α-allenol 1b, and after
+chromatography of the residue using hexanes/ethyl acetate (6:1) as
+eluent, 35 mg (52%) of the less polar compound 4f and 4 mg (6%) of
+the more polar compound 5f (containing ca. 50% of its epimer 4f)
+were obtained.
+Dihydrobenzofuran-Appended Oxindole 4f. Pale yellow solid
+(35 mg, 52%); mp 203−205 °C; 1H NMR (700 MHz, C6D6, 25 °C) δ:
+7.30 (d, J = 7.5 Hz, 1H), 7.27 (s, 1H), 7.09 (dd, J = 8.5, 2.0 Hz, 1H),
+7.05 (s, 1H), 6.85 (d, J = 8.5 Hz, 1H), 6.70 (t, J = 7.7 Hz, 1H), 6.49 (t,
+J = 7.2 Hz, 1H), 6.04 (m, 1H), 5.17 and 5.13 (s, each 1H), 3.66 (s,
+1H), 2.06 (s, 3H), 1.07 (s, 9H); 13C NMR (175 MHz, CDCl3, 25 °C)
+δ: 174.2, 159.6, 149.5, 143.8 (2C), 142.0, 129.0, 128.0, 127.3, 126.7,
+126.6, 122.4, 118.2, 110.1, 109.3, 100.6, 91.9, 54.7, 34.6, 31.9 (3C),
+27.0; IR (CH2Cl2, cm−1): ν 3214, 1706, 1487; HRMS (ES): calcd for
+C22H23NO2 [M]+: 333.1729; found: 333.1721.
+Dihydrobenzofuran-Appended Oxindole 5f. Yellow solid (4
+mg, 6%; containing ca. 50% of its epimer 4f); mp 182−184 °C; 1H
+NMR (300 MHz, C6D6, 25 °C) δ: 8.20 (br s, 0.5H, m), 8.14 (br s,
+0.5H, M), 7.45 (d, J = 1.9 Hz, 0.5H, m), 7.30 (m, 1.5H, 2M+m), 7.16
+(m, 0.5H, M), 7.10 (m, 1H, 2M), 6.81 (m, 2H, 2M + 2m), 6.54 (m,
+1H, M + m), 6.35 (d, J = 7.7 Hz, 0.5H, m), 6.27 (d, J = 7.7 Hz, 0.5H,
+m), 5.41 (s, 0.5H, m), 5.18 and 5.15 (s, each 0.5H, M), 4.79 (s, 0.5H,
+</para>
+4160
+
+DOI: 10.1021/acs.joc.5b00106
+J. Org. Chem. 2015, 80, 4157−4163
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+m), 3.70 (s, 0.5H, M), 3.35 (s, 0.5H, m), 2.06 (s, 1.5H, M), 1.90 (s,
+1.5H, m), 1.15 (s, 4.5H, m), 1.08 (s, 4.5H, M); 13C NMR (75 MHz,
+CDCl3, 25 °C) δ: 176.6 (m), 175.7 (M), 160.2 (m), 159.6 (M), 152.3
+(m), 149.5 (M), 144.0 (m), 143.9 (M), 143.3(m), 142.3 (M), 129.1
+(m), 129.0 (M), 128.7 (m), 128.0 (M),127.2 (M), 126.8 (m), 126.7
+(M), 126.6 (M), 126.3 (m), 125.7 (m), 122.5 (M), 121.9 (m), 118.2
+(M), 117.8 (m), 110.7 (m), 110.1 (M), 109.8 (m), 109.7 (M), 100.9
+(m), 100.7 (M), 91.9 (M), 91.3 (m), 55.0 (M), 53.6 (m), 34.7 (m),
+34.6 (M), 32.0 (3C, m), 31.9 (3C, M), 27.1 (M), 25.6 (m); IR
+(CH2Cl2, cm−1): ν 3212, 1704, 1486; HRMS (ES): calcd for
+C22H23NO2 [M]+: 333.1729; found: 333.1710.
+Preparation of Dihydrobenzofuran-Appended Oxindoles 4g
+and 5g. From 40 mg (0.20 mmol) of α-allenol 1b, and after
+chromatography of the residue using hexanes/ethyl acetate (4:1) as
+eluent, 27 mg (38%) of the less polar compound 4g and 4 mg (6%) of
+the more polar compound 5g (containing ca. 20% of its epimer 4g)
+were obtained.
+Dihydrobenzofuran-Appended Oxindole 4g. Pale yellow solid
+(27 mg, 38%); mp 204−206 °C; 1H NMR (700 MHz, C6D6, 25 °C) δ:
+7.10 (dd, J = 8.2, 6.2 Hz, 1H), 7.02 (dd, J = 8.5, 2.0 Hz, 1H), 6.95 (d, J
+= 2.0 Hz, 1H), 6.72 (t, J = 7.7 Hz, 1H), 6.50 (t, J = 7.7 Hz, 1H), 6.44
+(d, J = 8.5 Hz, 1H), 6.32 (d, J = 8.7 Hz, 1H), 6.12 (d, J = 7.7 Hz, 1H),
+4.99 and 4.83 (s, each 1H), 3.54 (s, 1H), 1.93 (s, 3H); 13C NMR (175
+MHz, C6D6, 25 °C) δ: 174.0, 160.3, 147.4, 142.1, 133.9, 133.0, 129.4,
+127.1, 126.2, 124.8, 122.4, 113.5, 112.0, 109.5, 103.1, 92.5, 54.7, 26.6;
+IR (CH2Cl2, cm−1): ν 3256, 1699, 1464; HRMS (ES): calcd for
+C18H14BrNO2 [M]+: 355.0208; found: 355.0192.
+Dihydrobenzofuran-Appended Oxindole 5g. Yellow solid (4
+mg, 6%; containing ca. 20% of its epimer 4g); mp 194−196 °C; 1H
+NMR (300 MHz, C6D6, 25 °C) δ: 7.46 (m, 0.2H, m), 7.31 (d, J = 2.0
+Hz, 0.8H, M), 7.11 (m, 1H, M + m), 7.02 (dd, J = 8.5, 2.0 Hz, 1H, M
++ m), 6.96 (d, J = 2.0 Hz, 1H, M + m), 6.77 (m, 1H, M + m), 6.52 (td,
+J = 7.7, 1.0 Hz, 1H, M + m), 6.44 (d, J = 8.5 Hz, 1H, M + m), 6.20 (m,
+1H, M + m), 5.09 (s, 0.2H, m), 5.00 and 4.84 (s, each 0.8H, M), 4.62
+(s, 0.2H, m), 3.55 (s, 0.8H, M), 3.18 (s, 0.2H, m), 1.93 (s, 2.4H, M),
+1.79 (s, 0.6H, m); 13C NMR (75 MHz, C6D6, 25 °C) δ: 174.6 (M +
+m), 160.3 (M + m), 147.4 (M + m), 142.2 (M + m), 134.1 (m), 133.9
+(3C, 2M + 1m), 129.4 (M), 128.9 (m), 127.1 (M), 126.4 (m), 126.2
+(M), 125.7 (m), 124.8 (M + m), 124.5 (m), 122.5 (M), 122.0 (m),
+113.5 (M), 112.7 (m), 112.0 (M), 109.7 (M + m), 103.1 (M + m),
+92.5 (M), 91.9 (m), 54.8 (M), 53.4 (m), 26.6 (M), 25.4 (m); IR
+(CH2Cl2, cm−1): ν 3187, 1708, 1464; HRMS (ES): calcd for
+C18H14BrNO2 [M]+: 355.0208; found: 355.0218.
+Preparation of Dihydrobenzofuran-Appended Oxindoles 4h
+and 5h. From 43 mg (0.21 mmol) of α-allenol 1b, and after
+chromatography of the residue using hexanes/ethyl acetate (7:1) as
+eluent, 32 mg (55%) of the less polar compound 4h and 6 mg (10%)
+of the more polar compound 5h (containing ca. 40% of its epimer 4h)
+were obtained.
+Dihydrobenzofuran-Appended Oxindole 4h. Colorless solid
+(32 mg, 55%); mp 164−166 °C; 1H NMR (700 MHz, CDCl3, 25 °C)
+δ: 7.65 (s, 1H), 7.20 (td, J = 8.4, 1.3 Hz, 1H), 7.16 (d, J = 7.5 Hz, 1H),
+7.14 (dd, J = 7.6, 0.8 Hz, 1H), 7.06 (t, J = 7.7 Hz, 1H), 6.90 (d, J = 8.2
+Hz, 1H), 6.78 (td, J = 7.5, 0.8 Hz, 1H), 6.73 (d, J = 7.7 Hz, 1H), 6.70
+(td, J = 7.7, 0.8 Hz, 1H), 5.22 and 4.96 (s, each 1H), 3.92 (s, 1H), 1.94
+(s, 3H); 13C NMR (175 MHz, CDCl3, 25 °C) δ: 174.6, 160.3, 147.6,
+140.9, 130.6, 128.2, 126.7, 126.2, 125.6, 122.2, 120.8, 120.6, 109.9,
+108.9, 100.9, 90.7, 50.4, 26.0; IR (CH2Cl2, cm−1): ν 3244, 1702, 1468;
+HRMS (ES): calcd for C18H15NO2 [M]+: 277.1103; found: 277.1105.
+Dihydrobenzofuran-Appended Oxindole 5h. Yellow solid (6
+mg, 10%; containing ca. 40% of its epimer 4h); mp 124−126 °C; 1H
+NMR (300 MHz, CDCl3, 25 °C) δ: 7.91 (m, 1H, M + m), 7.38 (dd, J
+= 7.6, 0.9 Hz, 0.4H, m), 7.29−7.04 (m, 3.6H, M + m), 6.90 (d, J = 8.0
+Hz, 0.6H, M), 6.86 (dd, J = 7.5, 0.8 Hz, 0.4H, m), 6.82−6.65 (m, 3H,
+M + m), 5.58 (s, 0.4H, m), 5.22 (s, 0.6H, M), 5.02 (s, 0.4H, m), 4.95
+(s, 0.6H, M), 3.92 (s, 0.6H, M), 3.66 (s, 0.4H, m), 1.94 (s, 1.8H, M),
+1.83 (s, 1.2H, m); 13C NMR (75 MHz, CDCl3, 25 °C) δ: 174.5 (M +
+m), 160.3 (M + m), 147.5 (M + m) 140.9 (M + m), 130.6 (M + m),
+128.4 (m), 128.2 (M), 126.8 (m), 126.7 (M), 126.2 (M + m), 125.5
+(M + m), 122.3 (m), 122.1 (M), 120.8 (M + m), 120.6 (M + m),
+</para>
+Note
+<para sub=“exp”>
+109.9 (M + m), 108.9 (M + m), 100.9 (M + m), 90.7 (M + m), 54.3
+(M + m), 26.0 (M + m); IR (CH2Cl2, cm−1): ν 3231, 1707, 1468;
+HRMS (ES): calcd for C18H15NO2 [M]+: 277.1103; found: 277.1111.
+Preparation of Dihydrobenzofuran-Appended Oxindoles 4i
+and 5i. From 50 mg (0.18 mmol) of α-allenol 1c, and after
+chromatography of the residue using hexanes/ethyl acetate (4:1) as
+eluent, 33 mg (49%) of the less polar compound 4i and 6 mg (9%) of
+the more polar compound 5i (containing ca. 50% of its epimer 4i)
+were obtained.
+Dihydrobenzofuran-Appended Oxindole 4i. Yellow oil (33
+mg, 49%); 1H NMR (300 MHz, C6D6, 25 °C) δ: 7.42 (s, 1H), 6.89−
+6.66 (m, 4H), 5.72 (d, J = 8.2 Hz, 1H), 5.08 and 5.03 (s, each 1H),
+3.47 (s, 1H), 1.97 (s, 3H), 1.88 (s, 3H); 13C NMR (175 MHz, C6D6,
+25 °C) δ: 173.6, 159.7, 149.1, 141.1, 132.6 (2C), 131.5, 131.0, 130.6,
+126.9, 122.3, 115.1, 110.7, 110.3, 101.0, 91.4, 55.1, 26.7, 21.0; IR
+(CH2Cl2, cm−1): ν 3249, 1707, 1485; HRMS (ES): calcd for
+C19H16BrNO2 [M]+: 369.0364; found: 369.0347.
+
+Dihydrobenzofuran-Appended Oxindole 5i. Yellow oil (6 mg,
+9%; containing ca. 50% of its epimer 4i); 1H NMR (300 MHz, C6D6,
+25 °C) δ: 7.42 (s, 1H, M + m), 7.22−6.66 (m, 4H, M + m), 6.58 (d, J
+= 7.4 Hz, 0.5H, m), 6.46 (d, J = 8.2 Hz, 0.5H, m), 5.73 (d, J = 8.3 Hz,
+0.5H, M), 5.69 (d, J = 8.3 Hz, 0.5H, m), 5.26 (s, 0.5H, m), 5.07 and
+5.03 (s, each 0.5H, M), 4.69 (s, 0.5H, m), 3.47 (s, 0.5H, M), 3.08 (s,
+0.5H, m), 2.00 (s, 1.5H, m), 1.97 (s, 1.5H, M), 1.88 (s, 1.5H, M), 1.80
+(s, 1.5H, m); 13C NMR (75 MHz, C6D6, 25 °C) δ: 174.4 (M + m),
+159.5 (M + m), 149.0 (M + m), 141.1 (M + m), 132.5, (4C, 2M +
+2m), 131.4 (M + m), 130.8 (M + m), 130.5 (M), 129.2 (m), 127.5
+(m), 126.7 (M), 122.1 (M + m), 115.5 (m), 115.1 (M), 110.8 (M +
+m), 110.1 (M + m), 100.9 (M + m), 91.2 (M + m), 60.4 (m), 55.2
+(M), 26.6 (M + m), 21.0 (M + m); IR (CH2Cl2, cm−1): ν 3245, 1703,
+1475; HRMS (ES): calcd for C19H16BrNO2 [M]+: 369.0364; found:
+369.0383.
+
+Preparation of Dihydrobenzofuran-Appended Oxindoles 4j
+and 5j. From 40 mg (0.17 mmol) of α-allenol 1d, and after
+chromatography of the residue using hexanes/ethyl acetate (6:1) as
+eluent, 38 mg (69%) of the less polar compound 4j and 4 mg (7%) of
+the more polar compound 5j were obtained.
+Dihydrobenzofuran-Appended Oxindole 4j. Colorless solid
+(38 mg, 69%); mp 103−105 °C; 1H NMR (700 MHz, CDCl3, 25 °C)
+δ: 7.76 (br s, 1H), 7.00 (d, J = 8.1 Hz, 1H), 6.94 (s, 1H), 6.68 (m,
+2H), 6.67 (m, 2H), 5.17 and 4.93 (s, each 1H), 3.93 (s, 1H), 3.80 (s,
+3H), 2.21 (s, 3H), 1.92 (s, 3H); 13C NMR (175 MHz, CDCl3, 25 °C)
+δ: 174.2, 158.4, 147.8, 143.0, 131.3, 129.9, 129.7, 126.5, 126.0, 122.5,
+121.0, 119.0, 110.3, 109.5, 100.5, 90.8, 55.4, 55.1, 29.6, 26.0; IR
+(CH2Cl2, cm−1): ν 3228, 1709, 1493, 1462; HRMS (ES): calcd for
+C20H19NO3 [M]+: 321.1365; found: 321.1358.
+Dihydrobenzofuran-Appended Oxindole 5j. Colorless oil (4
+mg, 7%); 1H NMR (700 MHz, CDCl3, 25 °C) δ: 7.43 (s, 1H), 7.19 (s,
+1H), 6.93 (m, 1H), 6.76 (m, 1H), 6.71 (d, J = 8.2 Hz, 1H), 6.59 (d, J =
+8.2 Hz, 1H), 5.52 and 4.96 (s, each 1H), 3.82 (s, 3H), 3.67 (s, 1H),
+2.27 (s, 3H), 1.79 (s, 3H); 13C NMR (175 MHz, CDCl3, 25 °C) δ:
+174.8, 158.9, 150.4, 143.0, 131.5, 130.8, 129.9, 125.9, 125.3, 122.1,
+121.1, 118.5, 110.5, 109.9, 101.2, 90.1, 55.5, 53.7, 29.7, 24.7; IR
+(CH2Cl2, cm−1): ν 3221, 1704, 1494, 1461; HRMS (ES): calcd for
+C20H19NO3 [M]+: 321.1365; found: 321.1357.
+
+Preparation of Dihydrobenzofuran-Appended Oxindoles 4k
+and 5k. From 40 mg (0.17 mmol) of α-allenol 1d, and after
+chromatography of the residue using hexanes/ethyl acetate (4:1) as
+eluent, 29 mg (48%) of the less polar compound 4k and 6 mg (9%) of
+the more polar compound 5k (containing ca. 50% of its epimer 4k)
+were obtained.
+Dihydrobenzofuran-Appended Oxindole 4k. Pale yellow solid
+(29 mg, 48%); mp 193−195 °C; 1H NMR (300 MHz, C6D6, 25 °C) δ:
+8.44 (m, 1H), 7.13 (m, 2H), 7.03 (d, J = 7.5 Hz, 1H), 6.89 (dd, J = 8.3,
+0.7 Hz, 1H), 6.47 (t, J = 8.0 Hz, 1H), 6.10 (d, J = 8.3 Hz, 1H), 5.23
+and 5.16 (s, each 1H), 3.80 (s, 1H), 3.05 (s, 3H), 2.12 (s, 3H), 1.09 (s,
+9H); 13C NMR (75 MHz, CDCl3, 25 °C) δ: 174.9, 159.7, 149.4, 143.9,
+143.8, 131.4, 129.0, 127.5, 126.7, 122.9, 119.7, 118.2, 111.1, 110.1,
+100.9, 92.0, 55.7, 55.1, 34.6, 31.9 (3C), 27.0; IR (CH2Cl2, cm−1): ν
+</para>
+4161
+
+DOI: 10.1021/acs.joc.5b00106
+J. Org. Chem. 2015, 80, 4157−4163
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+3225, 1708, 1490; HRMS (ES): calcd for C23H25NO3 [M]+: 363.1834;
+found: 363.1841.
+Dihydrobenzofuran-Appended Oxindole 5k. Yellow solid (6
+mg, 9%; containing ca. 50% of its epimer 4k); mp 181−183 °C; 1H
+NMR (300 MHz, C6D6, 25 °C) δ: 8.22 (br s, 0.5H, m), 8.12 (br s,
+0.5H, M), 7.47 (d, J = 2.0 Hz, 0.5H, m), 7.13 (m, 1.5H, M + m + M),
+7.01 (m, 1H, M + m), 6.91 (m, 1H, M + m), 6.55 (m, 1H, m), 6.48 (t,
+J = 8.0 Hz, 0.5H, M), 6.22 (d, J = 8.3 Hz, 0.5H, m), 6.10 (d, J = 8.3 Hz,
+0.5H, M), 5.45 (s, 0.5H, m), 5.21 and 5.15 (s, each 0.5H, M), 4.868 (s,
+0.5H, m), 3.79 (s, 0.5H, M), 3.42 (s, 0.5H, m), 3.12 (s, 1.5H, m), 3.04
+(s, 1.5H, M), 2.12 (s, 1.5H, M), 1.94 (s, 1.5H, m), 1.16 (s, 4.5H, m),
+1.09 (s, 4.5H, M); 13C NMR (75 MHz, C6D6, 25 °C) δ: 175.6 (m),
+174.8 (M), 160.2 (m), 159.7 (M), 152.5 (m), 149.4 (M), 143.9 (m),
+143.9 (m), 143.7 (2C, M), 132.3 (m), 131.3 (M), 129.1 (m), 129.0
+(M), 127.5 (M), 127.0 (m), 126.7 (M), 125.8 (m), 122.9 (M), 122.2
+(m), 119.7 (M), 119.3 (m), 118.2 (M), 117.8 (m), 111.1 (M), 111.0
+(m), 110.8 (m), 110.1 (M), 101.0 (m), 100.8 (M), 92.0 (M), 91.4
+(m), 55.7 (M), 55.1 (m), 55.1 (M), 54.1 (m), 34.7 (M), 32.0 (3C, m),
+31.9 (3C, M), 30.6 (m), 27.1 (M), 25.5 (m); IR (CH2Cl2, cm−1): ν
+3220, 1710, 1391; HRMS (ES): calcd for C23H25NO3 [M]+: 363.1834;
+found: 363.1845.
+</para>
+material is available free of charge via the Internet at http://
+pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Authors
+*E-mail: alcaideb@quim.ucm.es.
+*E-mail: Palmendros@iqog.csic.es.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+Support for this work by MINECO and FEDER (Projects
+CTQ2012-33664-C02-01 and CTQ2012-33664-C02-02) and
+UCM-BANCO SANTANDER (Project GR3/14) is gratefully
+acknowledged. We thank Dr. D. Molero (CAI de RMN,
+Universidad Complutense de Madrid) for technical assistance
+with the NMR spectra.
+
+■ REFERENCES
+
+(1) For selected reviews, see: (a) Donnelly, D. M. X.; Meegan, M. J.
+In Comprehensive Heterocyclic Chemistry; Katritzky, A. R., Rees, C. W.,
+Eds.; Pergamon: Oxford, U.K., 1984; Vol. 4. (b) Ayers, A. C.; Loike, J.
+K. Lignans: Chemical, Biological and Clinical Properties; Cambridge,
+1990. (c) Watzke, A.; O’Malley, S. J.; Bergman, R. G.; Ellman, J. A. J.
+Nat. Prod. 2006, 69, 1231. (d) Veitch, N. C. Nat. Prod. Rep. 2007, 24,
+417. (e) Shen, T.; Wang, X.-N.; Lou, H.-X. Nat. Prod. Rep. 2009, 26,
+916.
+(2) For a review, see: Sheppard, T. D. J. Chem. Res. 2011, 35, 337.
+(3) For recent selected reviews, see: (a) Fensterbank, L.; Malacria, M.
+Acc. Chem. Res. 2014, 47, 953. (b) Alcaide, B.; Almendros, P. Acc.
+Chem. Res. 2014, 47, 939. (c) Lechel, T.; Pfrengle, F.; Reissig, H.-U.;
+Zimmer, R. ChemCatChem 2013, 5, 2100. (d) Yu, S.; Ma, S. Angew.
+Chem., Int. Ed. 2012, 51, 3074. (e) Yang, W.; Hashmi, A. S. K. Chem.
+Soc. Rev. 2014, 43, 2941.
+(4) For the coupling of an allene intermediate with halogenated
+phenols, see: (a) Bi, H.-P.; Liu, X.-Y.; Gou, F.-R.; Guo, L.-N.; Duan,
+X.-H.; Shu, X.-Z.; Liang, Y.-M. Angew. Chem., Int. Ed. 2007, 46, 7068.
+For the condensation of allenoates and phenols, see: (b) Kim, S.;
+Kang, D.; Lee, C.-H.; Lee, P. H. J. Org. Chem. 2012, 77, 6530. For the
+gold-catalyzed chromane formation from allenamides and phenols,
+see: (c) Slater, N. H.; Brown, N. J.; Elsegood, M. R. J.; Kimber, M. C.
+Org. Lett. 2014, 16, 4606.
+(5) (a) Alcaide, B.; Almendros, P.; Martínez del Campo, T.; Quirós,
+M. T. Chem.Eur. J. 2009, 15, 3344. (b) Alcaide, B.; Almendros, P.;
+Luna, A.; Cembellín, S.; Arnó, M.; Domingo, L. R. Chem.Eur. J.
+2011, 17, 11559. (c) Alcaide, B.; Almendros, P.; Luna, A.; Prieto, N. J.
+Org. Chem. 2012, 77, 11388.
+(6) Alcaide, B.; Almendros, P.; Quirós, M. T.; López, R.; Menéndez,
+M. I.; Sochacka-Ćwikła, A. J. Am. Chem. Soc. 2013, 135, 898.
+(7) (a) Hoffmann-Röder, A.; Krause, N. Org. Lett. 2001, 3, 2537.
+(b) Hashmi, A. S. K.; Blanco, M. C.; Fischer, D.; Bats, J. W. Eur. J. Org.
+Chem. 2006, 1387. (c) Asikainen, M.; Krause, N. Adv. Synth. Catal.
+2009, 351, 2305. (d) Brasholz, M.; Dugovič, B.; Reissig, H.-U.
+Synthesis 2010, 3855. (e) Alcaide, B.; Almendros, P.; Martínez del
+Campo, T.; Fernández, I. Chem. Commun. 2011, 47, 9054.
+(8) For a diﬀerent reactivity of 3-hydroxy-2-oxindoles and phenols
+under Lewis acid catalysis, see: (a) Kinthada, L. K.; Ghosh, S.; Babu, K.
+N.; Sharique, M.; Biswas, S.; Bisai, A. Org. Biomol. Chem. 2014, 12,
+8152. (b) Ghosh, S.; Kinthada, L. K.; Bhunia, S.; Bisai, A. Chem.
+Commun. 2012, 48, 10132. (c) Zhou, F.; Cao, Z.- Y.; Zhang, J.; Yang,
+H.-B.; Zhou, J. Chem.Asian J. 2012, 7, 233. For a different reactivity
+of 3-hydroxy-2-oxindoles and phenols under organocatalysis, see:
+(d) Liu, Y.; Zhang, H.-H.; Zhang, Y.-C.; Jiang, Y.; Shi, F.; Tu, S.-J.
+Chem. Commun. 2014, 50, 12054. For a different reactivity of allenes
+and phenols, see: (e) Nemoto, T.; Nozaki, T.; Yoshida, M.; Hamada,
+Y. Adv. Synth. Catal. 2013, 355, 2693.
+
+4162
+
+DOI: 10.1021/acs.joc.5b00106
+J. Org. Chem. 2015, 80, 4157−4163
+
+Preparation of Dihydrobenzofuran-Appended Oxindoles 4l
+and 5l. From 35 mg (0.17 mmol) of α-allenol 1b, and after
+chromatography of the residue using hexanes/ethyl acetate (6:1) as
+eluent, 26 mg (50%) of the less polar compound 4l and 9 mg (17%) of
+the more polar compound 5l (containing ca. 40% of its epimer 4l)
+were obtained.
+
+Dihydrobenzofuran-Appended Oxindole 4l. Colorless oil; 1H
+NMR (700 MHz, C6D6, 25 °C) δ: 7.31 (d, J = 7.5 Hz, 1H), 6.77 (t, J =
+7.5 Hz, 1H), 6.73 (d, J = 8.7 Hz, 1H), 6.70 (dd, J = 8.7, 2.6 Hz, 1H),
+6.57 (t, J = 7.6 Hz, 1H), 6.51 (m, 1H), 6.29 (m, 1H), 5.13 and 5.06 (s,
+each 1H), 3.69 (m, 1H), 3.12 (s, 3H), 2.1 (s, 3H); 13C NMR (175
+MHz, C6D6, 25 °C) δ: 175.8, 155.9, 155.0, 149.5, 142.3, 128.7, 127.5,
+127.4, 126.7, 122.5, 118.7, 111.0, 109.7, 105.6, 101.2, 91.8, 55.4, 55.1,
+26.9; IR (CH2Cl2, cm−1): ν 3263, 1706, 1482; HRMS (ES): calcd for
+C19H17NO3 [M]+: 307.1208; found: 307.1218.
+Dihydrobenzofuran-Appended Oxindole 5l. Yellow oil; 1H
+NMR (700 MHz, C6D6, 25 °C) δ: 7.31 (d, J = 7.5 Hz, 0.4H, M), 7.24
+(d, J = 7.5 Hz, 0.6H, m), 7.23 (d, J = 7.7 Hz, 0.6H, m), 6.87 (m, 0.6H,
+m), 6.77 (t, J = 7.7 Hz, 0.4H, M), 6.73 (d, J = 8.7 Hz, 0.4H, M), 6.70
+(dd, J = 8.7, 2.6 Hz, 0.4H, M), 6.66 (t, J = 7.7 Hz, 0.6H, m), 6.58 (m,
+1H, M + m), 6.51 (m, 0.4H, M), 6.45 (m, 0.6H, m), 6.35 (m, 2H, M +
+m), 5.30 (s, 0.6H, m), 5.12 and 5.05 (s, each 0.4H, M), 4.75 (s, 0.6H,
+m), 3.69 (s, 0.4H, M), 3.32 (s, 0.6H, m), 3.23 (s, 1.8H, m), 3.13 (s,
+1.2H, M), 2.37 (s, 1.8H, m), 2.07 (s, 1.2H, m); 13C NMR (175 MHz,
+C6D6, 25 °C) δ: 176.8 (m), 175.8 (M), 156.6 (m), 155.9 (M), 155.2
+(M), 152.4 (m), 151.1 (m), 149.5 (M), 143.4 (m), 142.5 (M), 141.2
+(m), 129.8 (m), 128.7 (M), 127.5 (M), 127.3 (M), 126.5 (M), 126.3
+(m), 123.5 (m), 122.5 (M), 122.0 (m), 118.7 (M), 118.2 (m), 111.5
+(m), 111.0 (M), 110.4 (m), 109.8 (M), 105.9 (m), 105.6 (M), 101.5
+(m), 101.3 (M), 91.8 (M), 91.3 (m), 55.6 (m), 55.4 (M), 55.2 (M),
+53.7 (m), 28.0 (m), 27.0 (M); IR (CH2Cl2, cm−1): ν 3263, 1707,
+1480; HRMS (ES): calcd for C19H17NO3 [M]+: 307.1208; found:
+307.1210.
+
+Ketone 7a. From 44 mg (0.16 mmol) of the allenol 6a and after
+chromatography of the residue using hexanes/ethyl acetate (5:1) as
+eluent, compound 7a (14 mg, 30%) was obtained as a yellow oil; 1H
+NMR (300 MHz, CDCl3, 25 °C) δ: 7.27 (m, 1H), 7.00 (m, 2H), 6.79
+(d, J = 8.1 Hz, 1H), 6.53 (m, 3H), 3.00 (s, 3H), 2.24 (s, 3H); 13C
+NMR (75 MHz, CDCl3, 25 °C) δ: 204.0, 166.7, 151.4, 144.5, 132.8,
+130.0, 129.9, 129.8, 129.2, 127.8, 123.8, 123.1, 121.9, 120.6, 115.0,
+108.2, 29.0, 25.9; IR (CH2Cl2, cm−1): ν 2926, 1697, 1606, 1487;
+HRMS (ES): calcd for C18H15NO2 [M]+: 277.1103; found: 277.1104.
+■ ASSOCIATED CONTENT
+*S Supporting Information
+ORTEP drawing of compound 5a as well as copies of the 1H
+NMR and 13C NMR spectra for all new compounds. This
+
+Note
+
+The Journal of Organic Chemistry
+
+(9) Slighly improved yields were obtained by the use of Ga(OTf)3 in
+comparison with Bi(OTf)3,
+In(OTf)3, Zn(OTf)2, Fe(OTf)3, and
+Yb(OTf)3.
+(10) For a review on the use of Ga(OTf)3 in organic reactions, see:
+(a) Prakash, G. K. S.; Mathew, T.; Olah, G. A. Acc. Chem. Res. 2012,
+45, 565. For a recent use, see: (b) Zhang, S.; Xu, Z.; Jia, J.; Tung, C.-
+H.; Xu, Z. Chem. Commun. 2014, 50, 12084.
+(11) Compounds 4a−i and 5a−i can be considered as hybrid
+scaﬀolds as a combination of the biologically relevant oxindole and
+dihydrobenzofuran frameworks. For
+reviews on hybrid chemical
+entities, see: (a) Decker, M. Curr. Med. Chem. 2011, 18, 1464.
+(b) Tsogoeva, S. B. Mini-Rev. Med. Chem. 2010, 10, 773. (c) Meunier,
+B. Acc. Chem. Res. 2008, 41, 69. (d) Tietze, L. F.; Bell, H. P.;
+Chandrasekhar, S. Angew. Chem., Int. Ed. 2003, 42, 3996.
+(12) CCDC-907155 contains the supplementary crystallographic
+data for this paper (www.ccdc.cam.ac.uk/data_request/cif).
+(13) The transformation of isoindolinone-tethered alkoyallenols into
+oxopropylidene isoindolinones has been reported by treatment with
+aqueous sulphuric acid: (a) Kaden, S.; Reissig, H.-U.; Brüdgam, I.;
+Hartl, H. Synthesis 2006, 1351. For the acid-catalyzed synthesis of α,β-
+disubstituted conjugated enones by a Meyer−Schuster-type rearrange-
+ment in allenols, see: (b) Alcaide, B.; Almendros, P.; Cembellín, S.;
+Martínez del Campo, T. Adv. Synth. Catal. 2015, 357, 1070.
+
+4163
+
+DOI: 10.1021/acs.joc.5b00106
+J. Org. Chem. 2015, 80, 4157−4163
+
+

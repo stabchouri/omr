@@ -1,0 +1,1312 @@
+Article
+
+pubs.acs.org/joc
+
+Asymmetric Epoxidation of Allylic Alcohols Catalyzed by Vanadium−
+Binaphthylbishydroxamic Acid Complex
+Masahiro Noji,* Toshihiro Kobayashi, Yuria Uechi, Asami Kikuchi, Hisako Kondo, Shigeo Sugiyama,
+and Keitaro Ishii
+
+Department of Life and Pharmaceutical Sciences, Meiji Pharmaceutical University, 2-522-1 Noshio, Kiyose, Tokyo 204-8588, Japan
+
+*S Supporting Information
+
+ABSTRACT: A vanadium−binaphthylbishydroxamic acid
+(BBHA) complex-catalyzed asymmetric epoxidation of allylic
+alcohols is described. The optically active binaphthyl-based
+ligands BBHA 2a and 2b were synthesized from (S)-1,1′-
+binaphthyl-2,2′-dicarboxylic acid and N-substituted-O-trime-
+thylsilyl (TMS)-protected hydroxylamines via a one-pot, three-
+step procedure. The epoxidations of 2,3,3-trisubstituted allylic
+alcohols using the vanadium complex of 2a were easily
+performed in toluene with a TBHP water solution to aﬀord
+(2R)-epoxy alcohols in good to excellent enantioselectivities.
+
+■ INTRODUCTION
+
+independent of
+
+the allylic alcohols. Therefore,
+
+The asymmetric epoxidation of allylic alcohols is an attractive
+method for the synthesis of chiral epoxy alcohols, which are
+useful chiral building blocks for the production of pharmaceut-
+icals and agrochemicals.1 The Katsuki−Sharpless asymmetric
+epoxidation of allylic alcohols is a reliable method of obtaining
+synthetically useful chiral epoxy alcohols.2 The epoxidation
+gives very high asymmetric induction for various types of allylic
+alcohols. The enantioselectivity depends only on the chirality of
+L-(+)-, or D-(−)-tartrates as ligands,
+the
+structure of
+the absolute
+conﬁguration of the products can be predicted. Although the
+epoxidation is conducted using commercially available titanium
+tartrate, and tert-butylhydroperoxide
+tetraisopropoxide,
+it requires strict anhydrous
+(TBHP) as an oxidizing agent,
+conditions.
+Recently, the vanadium−chiral hydroxamic acid (V−HA)
+complex-catalyzed asymmetric epoxidation of allylic alcohols
+with TBHP has also become a highly potent approach to
+obtaining chiral epoxy alcohols. The advantage of the V−HA
+complex-catalyzed method is its simple reaction procedure,
+which can be conducted in aqueous TBHP solution, rather than
+under anhydrous conditions. Since the ﬁrst
+report by
+Sharpless,3 the V−HA complex-catalyzed system has been
+extensively studied for the past decade.4−7 Yamamoto has
+reported C2-symmetric cyclohexane diamine-based chiral
+bishydroxamic acid (BHA) ligands.8 The vanadium−BHA
+system exhibited excellent enantioselectivities for a wide
+range of substituted allylic alcohols. The recent application of
+BHA ligands for Mo-, Zr-, Hf-, and W-catalyzed systems
+demonstrated that the C2-symmetric chiral BHA ligand was
+very useful
+for asymmetric oxidations of sulﬁdes, simple
+alkenes, homoallylic alcohols, and allylic amine derivatives.9
+
+Axially chiral C2-symmetric binaphthyl derivatives have been
+recognized as a privileged chiral
+ligand for many enantiose-
+lective reactions.10 The C2-symmetric chiral auxiliaries minimize
+the possibility of diastereomeric interactions at the transition
+state and are therefore useful for obtaining high enantiomeric
+excesses and for elucidating the mechanism of asymmetric
+induction.11 The steric bulkiness and structural rigidity of
+naphthalene rings would be eﬀective for the production of large
+asymmetric space. The ﬂexibility of the binaphthyl axis enables
+the chiral ligand to adapt to a wide range of substrates. This
+induced-fit property12 would also be a great advantage for the
+the vanadium−
+asymmetric reaction. Herein, we report
+binaphthylbishydroxamic acid (BBHA) complex-catalyzed
+asymmetric epoxidation of allylic alcohols.
+
+■ RESULTS AND DISCUSSION
+<para sub="scope">
+The BBHA ligands were synthesized via a one-pot, three-step
+procedure. The method involved (i) the preparation of the acid
+chloride of (S)-1,1′-binaphthyl-2,2′-dicarboxylic acid13 (1)
+followed by (ii) the reaction of the N-substituted-O-TMS
+protected hydroxylamines and then (iii) the removal of the
+TMS groups from the amide. Chromatographic puriﬁcation and
+recrystallization gave pure BBHA ligands 2a and 2b in 65% and
+54% chemical yields from (S)-1 (Scheme 1).
+</para>
+<para sub=“props”>
+1H NMR spectra of 2a and 2b in CDCl3 at
+
+room
+temperature showed broad signals, probably because of the
+structural rigidity of the amide linkage and hydrogen bonding.
+Therefore, most of the 13C NMR signals of 2a and 2b were not
+observed. NMR measurements at 80 °C improved the situation
+with regard to the broad signals in the 1H and 13C spectra of 2a
+and 2b. However, the structure assignments on the basis of the
+</para>
+Received:
+January 27, 2015
+Published: February 25, 2015
+
+© 2015 American Chemical Society
+
+3203
+
+DOI: 10.1021/acs.joc.5b00185
+J. Org. Chem. 2015, 80, 3203−3210
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 1. Synthesis of Binaphthylbishydroxamic Acid
+(BBHA)
+
+Table 1. Optimization of Vanadium/Ligand Ratio, Solvent,
+and Vanadium Compounds
+<para sub=“props”>
+aromatic NMR signals remained diﬃcult. Consequently, single-
+crystal X-ray diﬀraction analysis was used to ascertain the
+structure and conformation of BBHA ligands 2a and 2b.
+</para>
+<para sub=“props”>
+A single crystal of 2a was obtained by slow evaporation from
+toluene solution at room temperature. Similarly, a single crystal
+of 2b was prepared from EtOH−THF solution. The molecular
+structures of 2a and 2b were determined by single-crystal X-ray
+diﬀraction analysis.14 The crystal prepared from 2a contained
+one toluene molecule per 2a. The dihedral angle of
+the
+binaphthyl axis, C2−C1−C1′−C2′, of 2a and 2b was 85° and
+70°, respectively. Intramolecular hydrogen bonds between the
+carbonyl oxygen and hydroxyl group were observed in both
+structures, and the oxygen−oxygen distances were 2.6−2.7 Å.
+In the crystal of 2a with toluene, the hydroxamic acid moieties
+were transoid structures, and the torsional angles of HO−N−
+CO were 170° and 175°. In contrast, cisoid and transoid
+structures were observed in the crystal structure of 2b, and the
+torsional angles were 14° and 167°, respectively. The cisoid
+hydroxamic groups formed intramolecular stacking structures
+between the naphthalene and benzene rings.15 BBHA 2a
+appears to have a larger asymmetric space than 2b, and we
+employed 2a for
+the asymmetric
+epoxidation.
+
+initial examination of
+
+stirred at 20 °C until
+</para>
+<para sub=“opt”>
+To optimize the epoxidation conditions using BBHA 2a,
+allylic alcohol 3a was used as a model substrate. The vanadium/
+ligand ratio,
+solvent, and vanadium compounds were
+investigated using 5 mol % of the vanadium compound; the
+results are reported in Table 1. A typical reaction procedure was
+as follows: BBHA 2a and 5 mol % of vanadium compound were
+stirred in the solvent at 20 °C for 24 h, whereupon 1.5 equiv of
+TBHP water solution and then allylic alcohol 3a were added.
+The mixture was
+the complete
+consumption of allylic alcohol 3a or 24 h of reaction time.
+The reaction was then quenched by adding saturated aqueous
+Na2SO3 solution; subsequent extraction and chromatographic
+puriﬁcation gave epoxy alcohol 4a and recovered 3a. The
+enantiomeric excess (ee) was determined by chiral-stationary-
+phase HPLC analysis. The absolute stereochemistry of
+(2R,3R)-4a was determined by comparison of the chiroptical
+property with the literature data.16
+</para>
+<para sub=“opt”>
+The vanadium/ligand ratio for the best asymmetric induction
+was examined via the reactions described in entries 1−3.
+Generally, one hydroxamic acid group (CO−NOH) serves
+as one bidentate ligand using two oxygen atoms of carbonyl and
+hydroxyl groups. Because BBHA 2a has two hydroxamic acids
+and might be potentially tetradendate, we examined the
+optimum molar amount of BBHA for 5 mol % of VO(OEt)3
+(entries 1−3). The use of 10 mol % of 2a (potentially 20 mol %
+of coordination sites for 5 mol % of VO(OEt)3) and 7.5 mol %
+of 2a (potentially 15 mol % of coordination sites for 5 mol % of
+</para>
+entrya
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+vanadium
+(5 mol %)
+VO(OEt)3
+VO(OEt)3
+VO(OEt)3
+VO(OEt)3
+VO(OEt)3
+VO(OEt)3
+VO(OEt)3
+VO(OEt)3
+VO(acac)2
+VO(acac)2
+VO(acac)2
+VO(Oi-Pr)3
+
+BBHA
+
+2a
+
+(mol %)
+
+10
+7.5
+3
+7.5
+7.5
+7.5
+7.5
+7.5
+7.5
+7.5
+7.5
+7.5
+
+epoxide 4a
+
+yield
+(%)
+60
+62
+86
+83
+78
+64
+40
+20
+84
+81
+62
+65
+
+eeb
+(%)
+86
+86
+38
+80
+84
+85
+72
+68
+89
+87
+83
+87
+
+recov
+
+3a
+(%)
+31
+24
+0
+4
+8
+20
+35
+63
+7
+5
+21
+26
+
+solvent
+toluene
+toluene
+toluene
+CHCl3
+CH2Cl2
+EtOAc
+CH3CN
+acetone
+toluene
+CH2Cl2
+EtOAc
+toluene
+
+time
+(h)
+24
+24
+3
+9.5
+24
+24
+24
+24
+6
+6
+24
+24
+
+aComplexation time was 24 h. bDetermined by HPLC.
+<para sub=“opt”>
+VO(OEt)3) gave better asymmetric induction of 86% ee
+(entries 1 and 2) than the quantities used in entry 3. Allylic
+alcohol 3a was recovered in entries 1 and 2; thus, the reaction
+proceeded more slowly in the cases of entries 1 and 2 than in
+the case of entry 3. The vanadium excess condition in entry 3,
+VO(OEt)3 5 mol % and BBHA 3 mol % (potentially 6 mol % of
+coordination sites), appeared to produce ligand-free vanadium
+species, which resulted in racemic epoxy alcohol 4a with
+improved yield and decreased enantioselectivity. We therefore
+chose the best ratio of 7.5 mol % BBHA for 5 mol % of
+vanadium.
+</para>
+<para sub=“opt”>
+Next, the solvent eﬀect was examined using an excess-ligand
+condition: 5 mol % of VO(OEt)3 and 7.5 mol % of BBHA 2a.
+The epoxidation proceeded rapidly in CHCl3 and CH2Cl2,
+moderately in toluene and EtOAc, and slowly in acetonitrile
+and acetone (entries 4−8). A considerable amount of allylic
+alcohol 3a was recovered from the reactions in EtOAc,
+acetonitrile, and acetone. The best enantioselectivity was
+observed in toluene in the reaction involving VO(OEt)3
+(entries 2 and 4−7). A similar tendency was observed in the
+solvent screening reaction involving VO(acac)2 (entries 9−11).
+VO(acac)2 is an inexpensive, air-stable, and easy-to-handle solid
+reagent. Toluene was also the best solvent for the combination
+of 2a and VO(acac)2. A comparison of
+the vanadium
+compounds revealed that VO(acac)2 exhibited slightly better
+enantioselectivity than VO(OEt)3 or VO(Oi-Pr)3 (entries 2, 9,
+and 12). Further optimization of reaction conditions was
+conducted with 5 mol % of VO(acac)2 and 7.5 mol % of BBHA
+2a in toluene. The complexation time, oxidant, concentration,
+and equivalents of TBHP were examined;
+the results are
+summarized in Table 2.
+</para>
+<para sub=“opt”>
+During the complexation process in toluene at 20 °C for 24 h
+(entry 1), dark-green toluene-insoluble VO(acac)2 became a
+dark-purple solution with BBHA 2a. Shorter complexation time
+</para>
+3204
+
+DOI: 10.1021/acs.joc.5b00185
+J. Org. Chem. 2015, 80, 3203−3210
+
+The Journal of Organic Chemistry
+
+Article
+
+Table 2. Optimization of the Complexation Time, Oxidant, Reaction Temperature, and Equivalents of TBHP
+
+oxidant
+
+concn
+
+(Y mol/L)
+
+oxidant
+(X equiv)
+
+complexation time
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+aDetermined by HPLC. b5 mol % VO(acac)2 and 5.5 mol % BBHA 2a was used.
+
+TBHP (in water)
+TBHP (in water)
+TBHP (in water)
+TBHP (in nonane)
+CHP
+TBHP (in water)
+TBHP (in water)
+TBHP (in water)
+TBHP (in water)
+TBHP (in water)
+TBHP (in water)
+TBHP (in water)
+
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.25
+0.5
+1.0
+1.0
+0.1
+0.1
+
+(h)
+24
+6
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3b
+
+1.5
+1.5
+1.5
+1.5
+1.5
+1.5
+1.5
+1.5
+1.5
+3.0
+3.0
+3.0
+
+reaction temp
+
+(°C)
+20
+20
+20
+20
+20
+0
+0
+0
+0
+0
+0
+0
+
+reaction time
+
+(h)
+6
+4
+4
+24
+24
+48
+48
+48
+48
+48
+48
+24
+
+epoxide 4a
+
+yield
+(%)
+84
+88
+88
+84
+67
+80
+80
+77
+81
+86
+87
+93
+
+eea
+(%)
+89
+89
+89
+89
+83
+92
+90
+90
+93
+91
+92
+89
+
+recov 3a
+
+(%)
+7
+4
+1
+1
+27
+10
+17
+21
+17
+5
+2
+0
+<para sub=“opt”>
+was examined for convenience of epoxidation. Nearly the same
+change in color was observed at 3 h (entry 3), and the ee of the
+epoxide 4a was the same as that for 24 h. Three hours was
+for the complexation of 2a to obtain the best
+suﬃcient
+enantioselectivity in toluene solution at 20 °C (entries 1−3).
+Hydroperoxide species were investigated (entries 3−5) under
+these complexation conditions. The use of a water solution or
+nonane solution of TBHP gave the same ee of 89%. The use of
+the nonane solution of TBHP required a longer reaction time
+of 24 h for the consumption of allylic alcohol 3a (entry 4). The
+epoxidation employing cumene hydroperoxide (CHP) in
+aromatic hydrocarbon proceeded more slowly, and the
+enantioselectivity slightly decreased (entry 5). Compared to
+the epoxidation at 20 °C (entry 3), reaction at the lower
+temperature of 0 °C improved the enantioselectivity to 92% ee
+(entry 6). Next, the substrate concentration and equivalents of
+TBHP were examined. Higher substrate concentrations (0.1 vs.
+0.25−1 mol/L) did not improve the yields (entries 6 vs. 7−9),
+whereas excess TBHP (3 equiv) slightly improved the yields
+(entries 9−10). Under TBHP (3 equiv) conditions, no
+inﬂuence of
+substrate concentration on the yield and
+enantioselectivity was observed (entries 10 and 11). On the
+basis of the best epoxidation condition in entry 11 (87% yield,
+92% ee), more ligand-eﬃcient conditions were re-examined.
+The molar ratio of VO(acac)2/BBHA 2a was changed from 5/
+7.5 to 5/5.5. Unfortunately, enantioselectivity was decreased to
+89% ee, whereas the yield was increased to 93% in 24 h.
+</para>
+<para sub="scope">
+The substrate scope of the epoxidation was examined under
+the optimized reaction conditions (Table 2, entry11) using
+BBHA 2a with a complexation time of 3 h. The results are
+summarized in Table 3. The ee was determined by chiral-
+stationary-phase HPLC analysis. For the HPLC analysis of
+aliphatic epoxy alcohols 4f−4k,
+the epoxy alcohols were
+converted into benzoate derivatives. The absolute stereo-
+chemistry of the epoxide was determined by comparison of the
+chiroptical properties with the literature data.
+
+In the case of
+</para>
+<para sub="scope">
+The epoxidation of trisubstituted allylic alcohols proceeded
+faster than the epoxidation of disubstituted allylic alcohols
+(entries 1 and 3 vs entries 4−6 and entries 8−11 vs entries 12−
+13). Although the chemical reactivity of the vanadium complex
+of BBHA 2b was almost the same as the chemical reactivity of
+BBHA 2a, enantioselectivity was low for the epoxidation of 3a
+(entry 1−2).
+the epoxidation of geminal
+substituted allylic alcohol 3e, the opposite enantiomer of (S)-4e
+was obtained when BBHA 2b was used in the reaction (entries
+6−7). The enantioselectivity of the epoxidation was better in
+the case of the reaction of trisubstituted allylic alcohols than in
+the case of disubstituted allylic alcohols (entries 1 and 3 vs
+entries 4−6). In the reaction of disubstituted allylic alcohols,
+enantioselectivity of the epoxidation increased in the order
+geminal < trans < cis with respect to the geometry of the oleﬁn
+moiety (entries 4−6 and 12−13). Epoxidation of a bulky
+trisubstituted allylic alcohol, geraniol (3f), showed excellent
+enantioselectivity and gave epoxide 4f in 98% ee (entry 8).17 In
+the epoxidation of geraniol (3f) and nerol (3g), allylic alcohol
+moieties were predominantly epoxidized over the trisubstituted
+alkene moieties, and no overoxidized products were obtained
+(entries 8 and 9). The epoxidation of low-molecular-weight
+allylic alcohol 3h proceeded with good enantioselectivity to give
+epoxy alcohol 4h (entry 10). The use of (S)-conﬁgured BBHA
+2a gave (2R)-epoxy alcohols as the major enantiomers in all
+cases.
+</para>
+■ CONCLUSIONS
+
+We observed that binaphthyl-based BBHA 2a was an eﬀective
+ligand for the vanadium-catalyzed asymmetric epoxidation of
+allylic alcohols. The (S)-BBHA ligands were easily synthesized
+by the one-pot, three-step procedure from (S)-1,1′-binaphthyl-
+2,2′-dicarboxylic acid. The combination of
+the stable and
+inexpensive VO(acac)2 and a TBHP water solution as the
+oxidant
+in toluene gave the epoxy alcohols in the best
+enantioselectivities. The reaction proceeded faster for trisub-
+
+3205
+
+DOI: 10.1021/acs.joc.5b00185
+J. Org. Chem. 2015, 80, 3203−3210
+
+The Journal of Organic Chemistry
+
+Table 3. Epoxidation of Various Allylic Alcohols Using 5 mol
+% of VO(acac)2 and 7.5 mol % of BBHA 2
+
+aDetermined by comparison of the chiroptical property with the
+literature data. bDeteremined by HPLC. cMajor product was (S)-4e.
+dDetermined by HPLC after benzoylation or m-toluoylation of the
+isolated products.
+
+stituted allylic alcohols than for disubstituted allylic alcohols.
+The enantioselectivity was better
+trisubstituted allylic
+alcohols. The stereochemistry of the epoxy alcohols corre-
+sponded to (2R)-structures in all cases when (S)-BBHA 2a was
+used for the epoxidation. Further study of the coordination
+structure and the mechanisms of asymmetric induction and
+further development of other BBHAs are in progress.
+
+for
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Experimental Methods. The epoxidations were
+conducted under air without anhydrous conditions. Reactions for
+the syntheses of BBHA ligands and allylic alcohols and for the
+benzoylation of epoxy alcohols were conducted in anhydrous
+conditions under argon atmosphere. All solvents and reagents were
+used as received. 1H NMR and 13C{1H} NMR spectra were collected
+with spectrometers operating at 300 or 500 MHz for proton nuclei in
+the solvents indicated. 1H chemical shifts are reported in δ ppm with
+tetramethylsilane (TMS) as an internal standard. 13C{1H} chemical
+shifts are reported relative to the central peak of CDCl3 (77.0 ppm) or
+DMSO-d6 (39.52). Infrared spectra were collected using an FT-IR
+</para>
+Article
+<para sub=“exp”>
+spectrometer. Melting points were measured on a hot-plate melting-
+point apparatus and are uncorrected. High-resolution mass spectra
+were obtained on a double-focusing high-resolution magnetic-sector
+mass analyzer operating in a fast atom bombardment (FAB) mode or
+an electron impact (EI) mode. Optical rotation was measured on a
+polarimeter. Chromatographic puriﬁcations were performed on silica
+gel (40−50 μm, spherical) or alumina (activity III). The ee of the
+products was determined by chiral-stationary-phase HPLC on a
+chromatograph equipped with a Daicel CHIRALCEL OD-H or a
+CHIRALCEL OB-H column. (Z)-3-Phenyl-2-propen-1-ol18 (cis-
+cinnamyl alcohol) (3d), 2-phenyl-2-propen-1-ol19 (3e), and 1-
+cyclohexenylmethanol20 (3i) were synthesized according to methods
+reported in the literature.
+
+Synthesis of BBHA 2a and 2b. N-Benzyl-O-(trimethylsilyl)-
+hydroxylamine. To a solution of N-benzylhydroxylamine hydro-
+chloride (2.82 g, 17.5 mmol), DMAP (109 mg, 877 μmol), and
+triethylamine (29.2 mL, 210 mmol) in CH2Cl2 (175 mL) was added
+TMSCl (7.97 mL, 63.1 mmol) at 0 °C. The mixture was gradually
+warmed to room temperature and stirred for 18 h. Saturated aqueous
+NaHCO3 was added, and the mixture was extracted with CH2Cl2 (100
+mL × 3). The combined organic layer was washed with sat. NaCl (100
+mL), dried over MgSO4, and ﬁltered. The ﬁltrate was concentrated,
+and the residue was puriﬁed by bulb-to-bulb distillation (160 °C, 11−
+12 Pa) to give a colorless oil (3.26 g, 94%): 1H NMR (300 MHz,
+CDCl3) δ: 7.36−7.26 (5H, m), 5.21 (1H, bs), 4.01 (2H, s), 0.11 (9H,
+s).21 IR (neat) cm−1: 3255 (m), 2958 (m), 1604 (m), 1249 (s), 880
+(m), 843 (m), 749 (m), 698 (m). EI-MS (70 eV) m/z (relative
+intensity): 195 (M+, 76), 180 (22), 151 (12), 102 (20), 91 (100), 75
+(46).
+
+N-Phenyl-O-(trimethylsilyl)hydroxylamine. To a solution of N-
+phenylhydroxylamine (2.09 g, 19.2 mmol), DMAP (104 mg, 852
+μmol), and triethylamine (11.4 mL, 82.0 mmol) in CH2Cl2 (110 mL)
+was added TMSCl (5.56 mL, 44.0 mmol) at −20 °C. The mixture was
+gradually warmed to room temperature and stirred for 30 h. Saturated
+aqueous NaHCO3 was added, and the mixture was extracted with n-
+hexane/Et2O = 1:2 (150 mL × 3). The combined organic layer was
+washed with sat. NaCl (100 mL), dried over MgSO4, and ﬁltered. The
+ﬁltrate was concentrated under reduced pressure at a temperature
+below 15 °C, and the residue was dried under vacuum. The crude
+product was then used without further puriﬁcation.
+(S)-N,N′-Dibenzyl-1,1′-binaphtyl-2,2′-biscarbohydroxamic
+Acid (2a). To a solution of (S)-1,1′-binaphthyl-2,2′-dicarboxylic acid 1
+(1.50 g, 4.38 mmol) in CH2Cl2 (44 mL) were added oxalyl chloride
+(3.82 mL, 43.8 mmol) and DMF (100 μL) at 0 °C. The mixture was
+gradually warmed to room temperature. After gas generation ceased (4
+h), the mixture was concentrated under reduced pressure and dried
+under vacuum. The residue was dissolved in CH2Cl2 (44 mL). N-
+Benzyl-O-(trimethylsilyl)hydroxylamine (2.66 g, 13.7 mmol), triethyl-
+amine (3.65 mL, 26.3 mmol), and DMAP (27.0 mg, 221 μmol) were
+added at 0 °C, and the mixture was brought to room temperature and
+stirred for 15 h.
+
+The mixture was cooled to 0 °C, whereupon tetrabutylammonium
+ﬂuoride (1 mol/L in THF, 17.5 mL, 17.5 mmol) was added, and the
+resulting mixture was stirred for 3.5 h. Water (100 mL) was added, and
+the mixture was extracted with CH2Cl2 (150 mL × 3). The combined
+organic layer was washed with sat. NaCl (100 mL), dried over MgSO4,
+and ﬁltered. The ﬁltrate was concentrated under reduced pressure.
+The crude product was puriﬁed by column chromatography (silica gel,
+1−50% EtOAc/n-hexane +15% THF) and recrystallization from n-
+hexane and CHCl3 (1:1) to give 2a as colorless needles (1.58 g, 65%):
+Rf = 0.20 (silica gel, EtOAc/n-hexane/THF = 1:4:1); mp 199−200 °C.
+1H NMR (500 MHz, DMSO-d6, 80 °C) δ: 9.96 (2H, s), 8.10 (2H, d, J
+= 8.6 Hz), 8.02 (2H, d, J = 8.3 Hz), 7.60 (2H, d, J = 8.6 Hz), 7.51 (2H,
+ddd, J = 8.3, 7.0, 1.2 Hz), 7.26 (2H, ddd, J = 8.6, 7.1, 1.3 Hz), 7.17
+(2H, d, J = 8.6 Hz), 7.14 (2H, d, J = 7.4 Hz), 7.12−7.06 (4H, m), 6.71
+(4H, br), 4.58 (2H, d, J = 15.6 Hz), 4.51 (2H, d, J = 15.6 Hz).
+13C{1H} NMR (125 MHz, DMSO-d6, 80 °C) δ: 168.4, 135.5, 133.8,
+132.6, 132.3, 131.9, 127.6, 127.4, 127.3, 126.8, 126.7, 126.4, 126.3,
+125.9, 123.7, 51.2. IR (KBr) cm−1: 3198 (br), 2905 (br), 1609 (s),
+1481 (s), 1445 (m), 1421 (m), 1348 (s), 1245 (s), 1147 (s), 819 (s),
+</para>
+3206
+
+DOI: 10.1021/acs.joc.5b00185
+J. Org. Chem. 2015, 80, 3203−3210
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+
+(40), 165 (14), 105 (69), 91 (33), 77 (11). IR (KBr) cm−1: 3262 (m),
+1445 (m), 1091 (m), 1071 (m), 1004 (m), 916 (m), 694 (m).
+
+23 −142 (c 0.218, THF).
+
+755 (s), 628 (m), 488 (m). EI-MS (70 eV) m/z (relative intensity):
+552 (M+, 75), 430 (78), 281 (84), 252 (47), 91 (100). HRMS (EI) m/
+z: M+ calcd for C36H28N2O4 552.2049; found, 552.2054. Anal. Calcd
+for C36H28N2O4: C, 78.24; H, 5.11; N, 5.07. Found: C, 78.14; H, 5.37;
+N, 5.07; [α]D
+(S)-N,N′-Diphenyl-1,1′-binaphtyl-2,2′-biscarbohydroxamic
+Acid (2b). To a solution of (S)-1,1′-binaphthyl-2,2′-dicarboxylic acid
+1 (1.00 g, 2.92 mmol) in CH2Cl2 (30 mL) were added oxalyl chloride
+(2.50 mL, 29.2 mmol) and DMF (100 μL) at 0 °C. The mixture was
+gradually warmed to room temperature. After gas generation ceased
+(1.5 h), the mixture was concentrated under reduced pressure and
+dried under vacuum. The residue was dissolved in CH2Cl2 (30 mL).
+N-Phenyl-O-(trimethylsilyl)hydroxylamine (1.59 g, 8.76 mmol),
+triethylamine (2.43 mL, 17.5 mmol), and DMAP (22.2 mg, 182
+μmol) were added at 0 °C, and the resulting mixture was brought to
+room temperature and stirred for 20 h. The mixture was cooled to 0
+°C, whereupon tetrabutylammonium ﬂuoride (1 mol/L in THF, 11.7
+mL, 11.7 mmol) was added, and the resulting mixture was stirred for
+3.5 h. Water (100 mL) was added, and the mixture was extracted with
+CH2Cl2 (150 mL × 3). The combined organic layer was washed with
+sat. NaCl (100 mL), dried over MgSO4, and ﬁltered. The ﬁltrate was
+concentrated under reduced pressure. The crude product was puriﬁed
+by column chromatography (silica gel, 2−50% EtOAc/n-hexane +15%
+THF) and recrystallization from n-hexane and CH2Cl2 (2:1) to give
+2b as colorless prisms (828 mg, 54%): Rf = 0.16 (silica gel, EtOAc/n-
+hexane/THF = 1:4:1); mp 212−216 °C. 1H NMR (500 MHz,
+DMSO-d6, 80 °C) δ: 10.41 (2H, s), 8.03 (2H, d, J = 8.6 Hz), 7.98 (2H,
+d, J = 8.3 Hz), 7.69 (2H, d, J = 8.6 Hz), 7.52 (2H, ddd, J = 8.0, 6.8, 1.3
+Hz), 7.32 (2H, ddd, J = 8.3, 6.7, 1.2 Hz), 7.25−7.16 (10H, m), 7.11−
+7.06 (2H, m). 13C{1H} NMR (125 MHz, DMSO-d6, 80 °C) δ: 167.9,
+140.5, 134.0, 132.5, 132.3, 132.1, 127.8, 127.8, 127.3, 126.9, 126.3,
+125.8, 125.4, 123.9, 121.5. IR (KBr) cm−1: 3149 (br), 3065 (br), 2918
+(br), 2856 (Br), 1617 (s), 1589 (s), 1490 (s), 1389 (m), 828 (m), 754
+(m), 680 (m). EI-MS (70 eV) m/z (relative intensity): 524 (M+, 2),
+492 (12), 416 (13), 400 (14), 372 (23), 325 (11), 281 (100), 252
+(40). HRMS (EI) m/z: M+ calcd for C36H28N2O4 552.2049; found,
+552.2054; Anal. Calcd for C34H24N2O4: C, 77.85; H, 4.61; N, 5.34.
+Found: C, 77.71; H, 4.68; N, 5.21; [α]D
+Synthesis of Allylic Alcohols: (E)-2,3-Diphenyl-2-propen-1-ol
+(3b).22 A mixture of (E)-2,3-diphenyl-2-propenoic acid (3.02 g, 13.4
+mmol) and powdered KOH (1.24 g, 18.7 mmol) in DMSO (40 mL)
+was stirred at room temperature for 1 h. The mixture was cooled to 0
+°C, whereupon MeI (1.25 mL, 20.1 mmol) was added, and the
+resulting mixture was stirred at room temperature for 42 h. Water (100
+mL) was added, and the mixture was extracted with n-hexane/EtOAc
+(1:1) (100 mL × 3). The combined organic layer was washed with
+water (100 mL × 3), dried over MgSO4, and ﬁltered. The ﬁltrate was
+concentrated under reduced pressure. The crude product was puriﬁed
+by column chromatography (silica gel, 0−4% EtOAc/n-hexane) to
+give methyl (E)-2,3-diphenyl-2-propenoate (2.97 g, 92%) as a
+colorless solid: Rf = 0.22 (silica gel, EtOAc/n-hexane = 1:40). 1H
+NMR (300 MHz, CDCl3) δ: 7.85 (1H, s), 7.40−7.33 (3H, m), 7.23−
+7.12 (5H, m), 7.03 (2H, d, J = 5.5 Hz), 3.79 (3H, s).
+
+22 −31.8 (c 0.200, THF).
+
+To a solution of (E)-2,3-diphenyl-2-propenoate (2.67 g, 11.2
+mmol) in Et2O (22 mL) was added DIBAL solution (0.98 mol/L in
+hexanes, 25.2 mL, 46.2 mmol) at 0 °C over 20 min. The mixture was
+warmed to room temperature and stirred for 4 h. The mixture was
+then recooled to 0 °C, and water (100 mL) was carefully added,
+followed by brine (50 mL). The white solid that formed was dissolved
+by the addition of 2 mol/L aqueous HCl. The resulting mixture was
+extracted with Et2O (150 mL × 3). The combined organic layer was
+washed with brine (100 mL), dried over MgSO4, and ﬁltered. The
+ﬁltrate was concentrated under reduced pressure. The crude product
+was puriﬁed by column chromatography (silica gel, 5−32% EtOAc/n-
+hexane) to give allylic alcohol 3b (2.13 g, 90%) as a colorless oil: Rf =
+0.20 (silica gel, EtOAc/n-hexane = 1:4). 1H NMR (300 MHz, CDCl3)
+δ: 7.37−7.28 (3H, m), 7.28−7.19, (2H, m), 7.16−7.06 (3H, m), 7.20−
+6.94 (2H, m), 6.69 (1H, s), 4.47 (2H, d, J = 2.9 Hz), 1.64 (1H, br). EI-
+MS (70 eV) m/z (relative intensity): 210 (M+, 100), 191 (13), 178
+
+(2R,3R)-(2-Methyl-3-phenyloxiran-2-yl)methanol
+
+Typical Procedure for the Asymmetric Epoxidation: Epox-
+idation of 3a (Table 3, Entry 1). A mixture of VO(acac)2 (6.62 mg,
+25.0 μmol) and BBHA 2a (20.7 mg, 37.5 μmol) in toluene (5.00 mL)
+was stirred at 20 °C for 3 h. To the resulting dark-purple solution,
+TBHP in water (70%, 206 μL, 1.5 mmol, 3.0 equiv) was added at 0
+°C; the resulting mixture was stirred for 10 min. Allylic alcohol 3a
+(74.6 mg, 500 μmol) was added, and the reaction was monitored by
+TLC. Saturated aqueous Na2SO3 solution was added. The mixture was
+stirred for 30 min and extracted with Et2O or EtOAc (5 mL × 5). The
+combined organic layer was dried over MgSO4 and ﬁltered. The ﬁltrate
+was concentrated under vacuum. The crude product was puriﬁed by
+column chromatography (silica gel, 5−40% EtOAc/n-hexane) to give
+epoxy alcohol 4a as colorless needles (72.3 mg, 87%). HPLC analysis
+of 4a indicated 92% ee. To isolate the volatile aliphatic epoxy alcohols
+(4h, 4j, and 4k), a partially concentrated solution of crude epoxy
+alcohols, mostly in toluene, was charged directly to the column for
+chromatography. Al2O3 (activity III) was used instead of silica gel for
+the puriﬁcation of epoxy alcohols 4d, 4f, 4g, 4h, 4i, 4j, and 4k.
+Benzoylation and m-Toluoylation of Aliphatic Epoxy
+Alcohols (4f−4k). To a CH2Cl2 (0.25 mol/L) solution of epoxy
+alcohol 4f−4k (1 equiv), DMAP (2 mol %), and NEt3 (3 equiv) was
+added RCOCl (1.2 equiv) at 0 °C. The mixture was gradually warmed
+to room temperature and stirred for 5 h. Saturated aqueous NaHCO3
+was added, and the organic layer was extracted with CH2Cl2. The
+extracts were dried over MgSO4, ﬁltered, and concentrated. The crude
+ester was puriﬁed by column chromatography (silica gel, EtOAc/n-
+hexane or EtOAc/n-hexane/CH2Cl2) to give esters of 4f−4h-benzoyl
+and 4i−4k-toluoyl.
+(4a). Puri-
+ﬁed by silica gel column chromatography (5−40% EtOAc/n-hexane)
+to give 72.3 mg (87%) of colorless needles: mp 50−52 °C (lit.23 52−
+53 °C); Rf = 0.13 (silica gel, EtOAc/n-hexane = 1:4). 1H NMR (500
+MHz, CDCl3) δ: 7.37−7.27 (5H, m), 4.21 (1H, s), 3.85 (1H, dd, J =
+12.6, 2.8 Hz), 3.75 (1H, dd, J = 12.6, 8.2 Hz), 2.04 (1H, br), 1.09 (3H,
+s). 13C{1H} NMR (125 MHz, CDCl3) δ: 135.6, 128.9, 127.6, 126.4,
+65.0, 63.6, 60.2, 13.4. IR (KBr) cm−1: 3424 (m), 1451 (m), 1094 (m),
+1070 (m), 851 (m), 740 (m), 699 (m), 554 (m), 507 (m). EI-MS (70
+eV) m/z (relative intensity): 164 (M+, 7), 145 (10), 131 (22), 107
+(100), 90 (71), 79 (39), 77 (25), 58 (13). HRMS (EI) m/z: M+ calcd
+found, 164.0843; [α]D
+25 +13.6 (c 1.28,
+for C10H12O2 164.0837;
+25 −16.9 [c 2.0, CHCl3, (2S,3S)-epoxide,
+CHCl3, 92% ee), (lit.16 [α]D
+>98% ee]). HPLC conditions: OD-H, n-hexane/2-propanol = 95/5,
+0.4 mL/min, 210 nm, 28.2 min (2S,3S), minor, 36.0 min (2R,3R),
+major.8a
+(4b). Puriﬁed by
+silica gel column chromatography (4−40% EtOAc/n-hexane) to give
+107.3 mg (95%) of colorless solid: mp 66−69 °C (lit.23 115−116 °C);
+Rf = 0.13 (silica gel, EtOAc/n-hexane = 1:6). 1H NMR (500 MHz,
+CDCl3) δ: 7.23−7.15 (5H, m), 7.12−7.09 (3H, m), 7.05−7.01 (2H,
+m), 4.51 (1H, s), 4.06−4.00 (2H, m), 2.06 (1H, t, J = 6.7 Hz).
+13C{1H} NMR (125 MHz, CDCl3) δ: 134.7, 134.4, 128.3, 127.8,
+127.71, 127.66, 127.5, 126.6, 69.1, 65.0, 60.8. IR (KBr) cm−1: 3401
+(m), 1496 (m), 1455 (m), 1093 (m), 1036 (m), 1004 (m), 908 (m),
+754 (m), 700 (m). EI-MS (70 eV) m/z (relative intensity): 226 (M+,
+6), 195 (26), 167 (51), 152 (9), 120 (100), 105 (27), 91 (72), 77
+(22). HRMS (EI) m/z: M+ calcd for C15H14O2 226.0994; found,
+18 −55.6 (c 1.08,
+226.0992; [α]D
+CH2Cl2, 87% ee), [lit.2a (+)-(2S,3S)-epoxide (>95% ee) was
+reported]. HPLC conditions: OD-H, n-hexane/2-propanol = 95/5, 1
+mL/min, 210 nm, 13.5 min (2S,3S), minor, 15.7 min (2R,3R),
+major.8a,23
+(2R,3R)-(3-Phenyloxiran-2-yl)methanol (4c). Puriﬁed by silica
+gel column chromatography (5−40% EtOAc/n-hexane) to give 21.9
+mg (29%) of colorless oil: Rf = 0.15 (silica gel, EtOAc/n-hexane =
+1:3). 1H NMR (500 MHz, CDCl3) δ: 7.37−7.25 (5H, m), 4.04 (1H,
+ddd, J = 12.8, 5.2, 2.5 Hz), 3.92 (1H, d, J = 2.2 Hz), 3.79 (1H, dd, J =
+12.8, 7.6, 4.0 Hz), 3.22 (1H, dt, J = 4.0, 2.0 Hz), 2.09 (1H, dd, J = 7.7,
+5.5 Hz). 13C{1H} NMR (125 MHz, CDCl3) δ: 136.7, 128.5, 128.3,
+
+28 −65.4 (c 1.97, CHCl3, 87% ee), [α]D
+
+(2R,3R)-(2,3-Diphenyloxiran-2-yl)methanol
+</para>
+3207
+
+DOI: 10.1021/acs.joc.5b00185
+J. Org. Chem. 2015, 80, 3203−3210
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+125.7, 62.4, 61.3, 55.6. IR (KBr) cm−1: 3439 (m), 1464 (m), 1398
+(m), 1069 (m), 929 (m), 768 (m), 700 (m). EI-MS (70 eV) m/z
+(relative intensity): 150 (M+, 15), 132 (30), 119 (27), 107 (100), 91
+(95), 90 (84), 79 (41); HRMS (EI) m/z: M+ calcd for C9H10O2
+150.0681; found, 150.0680; [α]D
+24 +37.2 (c 0.340, CHCl3, 82% ee),
+25 −49.6 [c 2.4, CHCl3, (2S,3S)-epoxide, 98% ee]). HPLC
+(lit.16 [α]D
+conditions: OD-H, n-hexane/2-propanol = 90/10, 0.5 mL/min, 210
+nm, 24.5 min (2S,3S), minor, 27.1 min (2R,3R), major.8a
+(2R,3S)-(3-Phenyloxiran-2-yl)methanol (4d). Puriﬁed by Al2O3
+column chromatography (10−100% EtOAc/n-hexane) to give 13.9 mg
+(18%) of colorless oil: Rf = 0.15 (silica gel, EtOAc/n-hexane = 1:3),
+0.20 (Al2O3, EtOAc/n-hexane = 1:1). 1H NMR (500 MHz, CDCl3) δ:
+7.37−7.25 (5H, m), 4.19 (1H, d, J = 4.3 Hz), 3.57−3.52 (1H, m),
+3.48−3.42 (2H, m), 1.57 (1H, br). 13C{1H} NMR (125 MHz, CDCl3)
+δ: 134.7, 128.3, 127.9, 126.2, 60.5, 58.5, 57.0. IR (neat) cm−1: 3391
+(br), 1496 (m), 1454 (s), 1041 (s), 894 (m), 745 (S), 700 (S). EI-MS
+(70 eV) m/z (relative intensity): 150 (M+, 4), 132 (31), 119 (28), 107
+(100), 90 (85), 79 (41), 51 (11). HRMS (EI) m/z: M+ calcd for
+C9H10O2 150.0681; found, 150.0678; [α]D
+21 +35.0 (c 0.344, CHCl3,
+25 −50 [c 3.3, CHCl3, (2S,3R)-epoxide, 78% ee]).
+89% ee), (lit.24 [α]D
+HPLC conditions: OD-H, n-hexane/2-propanol = 90/10, 0.5 mL/min,
+210 nm, 19.5 min (2R,3S), major, 24.8 min (2S,3R), minor.8a
+(R)-(2-Phenyloxiran-2-yl)methanol (4e). Puriﬁed by silica gel
+column chromatography (5−40% EtOAc/n-hexane) to give 17.4 mg
+(20%) of colorless oil: TLC Rf = 0.14 (silica gel, EtOAc/n-hexane =
+1:3). 1H NMR (500 MHz, CDCl3) δ: 7.40−7.30 (5H, m), 4.10 (1H, d,
+J = 12.5 Hz), 4.00 (1H, d, J = 12.5 Hz), 3.26 (1H, d, J = 5.5 Hz), 2.82
+(1H, d, J = 5.5 Hz), 2.12 (1H, br). 13C{1H} NMR (125 MHz, CDCl3)
+δ: 137.3, 128.5, 128.1, 126.0, 63.1, 60.4, 52.5. IR (neat) cm−1: 3420
+(br, s), 2926 (m), 1496 (m), 1448 (m), 1044 (m), 1024 (m), 761 (s),
+699 (s). EI-MS (70 eV) m/z (relative intensity): 150 (M+, 3), 120
+(92), 105 (23), 91 (100), 77 (20). HRMS (FAB) m/z: [M + H]+ calcd
+found, 151.0761; [α]D
+22 +5.19 (c 0.233,
+for C9H11O2, 151.0759;
+CHCl3, 21% ee), (lit.25 [α]D
+25 +27.4 [c 1.3, CHCl3, (2R)-epoxide, 77%
+ee]). HPLC conditions: OD-H, n-hexane/2-propanol = 90/10, 1 mL/
+min, 210 nm, 9.4 min (2S), minor, 11.8 min (2R), major.8a
+(2R,3R)-Geraniol-2,3-epoxide (4f). Puriﬁed by Al2O3 column
+chromatography (7−60% EtOAc/n-hexane) to give 76.5 mg (89%) of
+colorless oil: Rf = 0.13 (Al2O3, EtOAc/n-hexane = 3:7), 0.20 (silica gel,
+EtOAc/n-hexane = 1:3). 1H NMR (500 MHz, CDCl3) δ: 5.11−5.05
+(1H, m), 3.83 (1H, ddd, J = 11.9, 7.8, 4.6 Hz), 3.68 (1H, ddd, J = 11.6,
+6.7, 4.6 Hz), 2.98 (1H, dd, J = 6.7, 4.3 Hz), 2.09 (2H, q, J = 7.6 Hz),
+1.94 (1H, dd, J = 7.0, 4.9 Hz), 1.74−1.65 (1H, m), 1.69 (3H, d, J = 0.9
+Hz), 1.61 (3H, s), 1.48 (1H, ddd, J = 13.8, 9.2, 7.1 Hz), 1.30 (3H, s).
+13C{1H} NMR (125 MHz, CDCl3) δ: 132.1, 123.3, 62.9, 61.4, 61.1,
+38.5, 25.6, 23.7, 17.6, 16.7. IR (neat) cm−1: 3419 (br, s), 2968 (s),
+1451 (s), 1384 (s), 1036 (s), 865 (m). EI-MS (70 eV) m/z (relative
+intensity): 170 (M+, 1), 152 (3), 139 (5), 121 (7), 109 (100), 95 (26),
+82 (46), 69 (67). HRMS (EI) m/z: M+ calcd for C10H18O2 170.1307;
+25 +4.93 (c 1.44, CHCl3, 98% ee), (lit.16 [α]D
+found, 170.1303; [α]D
+25
+−5.3 [c 3.0, CHCl3, (2S,3S)-epoxide, 91% ee]).
+(2R,3R)-2,3-Epoxygeranyl Benzoate (4f-benzoyl). Puriﬁed by
+silica gel column chromatography (1−10% EtOAc/n-hexane) to give
+99.6 mg (86% based on 422 μmol 4f) of colorless oil: Rf = 0.27 (silica
+gel, EtOAc/n-hexane = 1:15). 1H NMR (500 MHz, CDCl3) δ: 8.11−
+8.07 (2H, m), 7.59−7.56 (1H, m), 7.47−7.42 (2H, m), 5.15−5.09
+(1H, m), 4.59 (1H, dd, J = 12.2, 4.5 Hz), 4.27 (1H, dd, J = 11.9, 7.1
+Hz), 3.13 (1H, dd, J = 6.7, 4.0 Hz), 2.23−2.09 (2H, m), 1.75−1.67
+(1H, m), 1.70 (3H, d, J = 0.9 Hz), 1.62 (3H, s) 1.60−1.53 (1H, m),
+1.38 (3H, s). 13C{1H} NMR (125 MHz, CDCl3) δ: 166.4, 133.1,
+132.5, 129.8, 129.7, 128.4, 123.2, 63.7, 61.0, 60.8, 33.3, 25.7, 24.2, 22.0,
+17.6. IR (neat) cm−1: 2967 (s), 1723 (s), 1451 (s), 1272 (s), 1109
+(m), 712 (m). EI-MS (70 eV) m/z (relative intensity): 274 (M+, 1),
+256 (1), 192 (14), 134 (9), 105 (100), 77 (18). HRMS (EI) m/z: M+
+calcd for C17H22O3 274.1569; found, 274.1572; [α]D
+25 +15.1 (c 1.71,
+27 −13.8 [c 1.0, CHCl3, (2S,3S)-epoxide,
+CHCl3, 98% ee), (lit.26 [α]D
+99% ee]). HPLC conditions: OD-H, n-hexane/2-propanol = 99/1, 1
+mL/min, 254 nm, 10.3 min (2R,3R), major, 15.7 min (2S,3S), minor.
+(2R,3S)-Nerol-2,3-epoxide (4g). Puriﬁed by Al2O3 column
+chromatography (7−60% EtOAc/n-hexane) to give 80.5 mg (95%)
+</para>
+Article
+<para sub=“exp”>
+(2R)-(3,3-Dimethyloxiran-2-yl)methanol
+
+of colorless oil: Rf = 0.16 (Al2O3, EtOAc/n-hexane = 3:7), 0.21 (silica
+gel, EtOAc/n-hexane = 1:3). 1H NMR (500 MHz, CDCl3) δ: 5.12−
+5.06 (1H, m), 3.84−3.77 (1H, m), 3.67−3.62 (1H, m), 2.97 (1H, dd, J
+= 7.0, 4.3 Hz), 2.40 (1H, br), 2.18−2.02 (2H, m),1.69 (3H, s), 1.70−
+1.63 (1H, m), 1.62 (3H, s), 1.48 (1H, ddd, J = 13.7, 10.1, 7.0 Hz), 1.34
+(3H, s). 13C{1H} NMR (125 MHz, CDCl3) δ: 132.4, 123.3, 64.3, 61.5,
+61.2, 33.1, 25.6, 24.1, 22.1, 17.5. IR (neat) cm−1: 3419 (br, s), 2968
+(s), 1450 (s), 1380 (s), 1034 (s), 865 (m). FAB-MS (glycerol) m/z:
+171 [M + H]+; HRMS (FAB) m/z: [M + H]+ calcd for C10H19O2
+171.1385; found, 171.1387; [α]D
+25 +17.8 (c 1.42, CHCl3, 84% ee),
+(lit.27 [α]D +15.4 [c 3.3, CHCl3, (2R,3S)-epoxide, 70% ee]).
+(2R,3S)-2,3-Epoxyneryl benzoate (4g-benzoyl). Puriﬁed by
+silica gel column chromatography (1−10% EtOAc/n-hexane) to give
+97.3 mg (88% based on 402 μmol 4g) of colorless oil: Rf = 0.29 (silica
+gel, EtOAc/n-hexane = 1:15). 1H NMR (500 MHz, CDCl3) δ: 8.09−
+8.06 (2H, m), 7.59−7.55 (1H, m), 7.46−7.43 (2H, m), 5.15−5.10
+(1H, m), 4.59 (1H, dd, J = 11.9, 4.0 Hz), 4.28 (1H, dd, J = 11.9, 7.1
+Hz), 3.13 (1H, dd, J = 8.0, 5.3 Hz), 2.23−2.10 (2H, m), 1.73−1.65
+(1H, m), 1.70 (3H, d, J = 0.9 Hz), 1.62 (3H, s), 1.59−1.53 (1H, m),
+1.38 (3H, s). 13C{1H} NMR (125 MHz, CDCl3) δ: 166.4, 133.1,
+132.5, 129.8, 129.7, 128.4, 123.2, 63.7, 61.0, 60.8, 33.3, 25.6, 24.2, 22.0,
+17.6. IR (neat) cm−1: 2967 (m), 1722 (s), 1451 (m), 1272 (s), 1109
+(m), 712 (s). EI-MS (70 eV) m/z (relative intensity): 274 (M+, 0.2),
+191 (5), 134 (9), 105 (100), 77 (22). HRMS (EI) m/z: M+ calcd for
+C17H22O3 274.1569; found, 274.1572; [α]D
+26 +19.1 (c 1.25, CHCl3,
+84% ee). HPLC conditions: OD-H, n-hexane/2-propanol = 99.7/0.3, 1
+mL/min, 230 nm, 11.3 min (2S,3R), minor, 16.7 min (2R,3S), major.28
+(4h). Puriﬁed by
+Al2O3 column chromatography (8−66% EtOAc/n-hexane) to give
+30.7 mg (60%) of colorless oil: Rf = 0.16 (Al2O3, EtOAc/n-hexane =
+1:3). 1H NMR (500 MHz, CDCl3) δ: 3.83 (1H, dd, J = 12.2, 1.2 Hz),
+3.67 (1H, dd, J = 12.2, 7.1 Hz), 2.99 (1H, dd, J = 6.7, 4.3 Hz), 2.89
+(1H, br), 1.35 (3H, s), 1.31 (3H, s). 13C{1H} NMR (125 MHz,
+CDCl3) δ: 63.9, 61.3, 58.8, 24.7, 18.7. IR (neat) cm−1: 3419 (br, s),
+1456 (s), 1380 (s), 1033 (s), 858 (m). FAB-MS (glycerol) m/z: 103
+([M + H]+). HRMS (FAB) m/z: [M + H]+ calcd for C5H11O2
+103.0759; found, 103.0757; [α]D
+22 +13.0 (c 0.417, CHCl3, 80% ee),
+(lit.29 [α]D
+(2R)-(3,3-Dimethyloxiran-2-yl)methyl benzoate (4h-benzo-
+yl). Puriﬁed by silica gel column chromatography (0−4% EtOAc/n-
+hexane +2% CH2Cl2) to give 40.7 mg (66% based on 300 μmol 4h) of
+colorless oil: Rf = 0.09 (silica gel, EtOAc/n-hexane/CH2Cl2 = 1:40:1).
+1H NMR (500 MHz, CDCl3) δ: 8.09−8.06 (2H, m), 7.60−7.55 (1H,
+m), 7.47−7.43 (2H, m), 4.59 (1H, dd, J = 12.2, 4.3 Hz), 4.28 (1H, dd,
+J = 12.2, 6.7 Hz), 3.14 (1H, dd, J = 6.7, 4.3 Hz), 1.390 (3H, s), 1.387
+(3H, s). 13C{1H} NMR (125 MHz, CDCl3) δ: 166.4, 133.1, 129.8,
+129.7, 128.4, 63.9, 60.6, 58.2, 24.6, 19.0. IR (neat) cm−1: 2965 (m),
+1722 (s), 1453 (m), 1273 (m), 1113 (m), 711 (m). FAB-MS (m-
+nitrobenzylalcohol) m/z: 207 ([M + H]+). HRMS (FAB) m/z: [M +
+H]+ calcd for C12H15O3 207.1021; found, 207.1029; [α]D
+22 +22.2 (c
+25 −22.2 [c 1.00, CHCl3, (S)-
+0.573, CHCl3, 80% ee), (lit.30 [α]D
+epoxide, 90% ee]). HPLC conditions: OB-H, n-hexane/2-propanol
+=90/10, 1 mL/min, 230 nm, 12.5 min (2S), minor, 16.3 min (2R),
+major.
+(1R,6R)-7-Oxabicyclo[4.1.0]heptan-1-ylmethanol (4i). Puriﬁed
+by Al2O3 column chromatography (7−60% EtOAc/n-hexane) to give
+33.7 mg (52%) of colorless oil: Rf = 0.16 (Al2O3, EtOAc/n-hexane =
+1:3). 1H NMR (500 MHz, CDCl3) δ: 3.68 (1H, d, J = 11.9 Hz), 3.59
+(1H, dd, J = 12.2, 7.9 Hz), 3.26 (1H, d, J = 3.4 Hz), 1.98 (1H, dt, J =
+15.6, 7.5 Hz), 1.99−1.77 (3H, m), 1.74−1.66 (1H, m), 1.53−1.42
+(2H, m), 1.33−1.22 (2H, m). 13C{1H} NMR (125 MHz, CDCl3) δ:
+64.5, 60.1, 55.8, 25.3, 24.4, 19.9, 19.6. IR (neat) cm−1: 3418 (s), 2937
+(s), 1434 (m), 1109 (m), 1069 (m), 1034 (m), 917 (m), 835 (m).
+FAB-MS (glycerol) m/z: 129 ([M + H]+). HRMS (FAB) m/z: [M +
+H]+ calcd for C7H13O2 129.0916; found, 129.0915; [α]D
+22 +3.16 (c
+25 −22.8 [c 2.6, CHCl3, (S,S)-
+0.510, CHCl3, 83% ee), (lit.16 [α]D
+epoxide, 93% ee]).
+(1R,6R)-7-Oxabicyclo[4.1.0]heptan-1-ylmethyl 3-Methylben-
+zoate (4i-toluoyl). Puriﬁed by silica gel column chromatography (0−
+4% EtOAc/n-hexane + 2% CH2Cl2) to give 43.9 mg (71% based on
+
+25 −19.4 [c 0.40, CHCl3, (2S)-epoxide, 86% ee]).
+</para>
+3208
+
+DOI: 10.1021/acs.joc.5b00185
+J. Org. Chem. 2015, 80, 3203−3210
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+
+25 −46.6 [c 1.0, CHCl3, (2S,3S)-epoxide, 96.8% ee]).
+
+251 μmol 4i) of colorless oil: Rf = 0.09 (silica gel, EtOAc/n-hexane/
+CH2Cl2 = 1:40:1). 1H NMR (500 MHz, CDCl3) δ: 7.87−7.83 (2H,
+m), 7.38 (1H, d, J = 7.9 Hz), 7.33 (1H, t, J = 7.7 Hz), 4.46 (1H, d, J =
+11.9 Hz), 4.18 (1H, d, J = 11.9 Hz), 3.21 (1H, d, J = 3.4 Hz), 2.41
+(3H, s), 2.05−1.95 (2H, m), 1.91−1.84 (2H, m), 1.54−1.44 (2H, m),
+1.36−1.23 (2H, m). 13C{1H} NMR (125 MHz, CDCl3) δ: 166.4,
+138.2, 138.9, 130.2, 129.8, 128.3, 126.9, 68.4, 57.8, 56.7, 25.5, 24.3,
+21.3, 19.7, 19.5. IR (neat) cm−1: 2938 (s), 1719 (s), 1590 (m), 1436
+(m), 1274 (m), 1197 (s), 1083 (m), 1001 (m), 744 (s). EI-MS (20
+eV) m/z (relative intensity): 246 (M+, 0.5), 119 (100). HRMS (EI)
+m/z: M+ calcd for C15H18O3 246.1256; found, 246.1254. Anal. Calcd
+for C15H18O3: C, 73.15; H, 7.37. Found: C, 73.23; H, 7.40; [α]D
+22
++13.5 (c 0.493, CHCl3, 83% ee). HPLC conditions: OB-H, n-hexane/
+2-propanol = 90/10, 1 mL/min, 230 nm, 9.6 min (S,S), minor, 14.2
+min (R,R), major.
+(2R,3R)-(3-Propyloxiran-2-yl)methanol (4j). Puriﬁed by Al2O3
+column chromatography (7−60% EtOAc/n-hexane) to give 43.9 mg
+(75%) of colorless oil: Rf = 0.14 (Al2O3, EtOAc/n-hexane = 3:7). 1H
+NMR (500 MHz, CDCl3) δ: 3.91 (1H, d, J = 12.6 Hz), 3.63 (1H, d, J
+= 12.2 Hz), 2.96 (1H, td, J = 5.7, 2.4 Hz), 2.92 (1H, dt, J = 4.3, 2.4
+Hz), 1.85 (1H, br), 1.58−1.42 (4H, m), 0.97 (3H, t, J = 7.2 Hz).
+13C{1H} NMR (125 MHz, CDCl3) δ: 61.7, 58.4, 55.8, 33.6, 19.2, 13.7.
+IR (neat) cm−1: 3419 (br, s), 2961 (s), 1665 (m), 1382 (m), 1223
+(m), 1065 (m), 1045 (m), 901 (m), 854 (m). FAB-MS (glycerol) m/
+z: 107 ([M + H]+). HRMS (FAB) m/z: [M + H]+ Calcd for C6H13O2,
+117.0916; found, 117.0918; [α]D
+23 +27.0 (c 0.694, CHCl3, 80% ee),
+(lit.31 [α]D
+(2R,3R)-(3-Propyloxiran-2-yl)methyl 3-Methylbenzoate (4j-
+toluoyl). Puriﬁed by silica gel column chromatography (0−4%
+EtOAc/n-hexane +2% CH2Cl2) to give 44.4 mg (50% based on 378
+μmol 4j) of colorless oil: Rf = 0.14 (silica gel, EtOAc/n-hexane/
+CH2Cl2 = 1:40:1). 1H NMR (500 MHz, CDCl3) δ: 7.88 (1H, d, J =
+0.7 Hz), 7.86 (1H, d, J = 7.9 Hz), 7.37 (1H, d, J = 7.7 Hz), 7.33 (1H, t,
+J = 7.7 Hz), 4.59 (1H, dd, J = 12.0, 3.4 Hz), 4.18 (1H, dd, J = 12.0, 6.0
+Hz), 3.10 (1H, ddd, J = 5.7, 3.4, 2.2 Hz), 2.93 (1H, td, J = 5.7, 2.2 Hz),
+2.40 (3H, s), 1.62−1.42 (4H, m), 0.97 (3H, t, J = 7.3 Hz). 13C{1H}
+NMR (125 MHz, CDCl3) δ: 166.4, 138.1, 133.9, 130.2, 129.6, 128.2,
+126.8, 65.1, 56.5, 55.3, 33.5, 21.2, 19.1, 13.8. IR (neat) cm−1: 2960 (s),
+1721 (s), 1276 (m), 1199 (m), 1106 (m), 1082 (m), 745 (m). EI-MS
+(70 eV) m/z (relative intensity): 234 (M+, 1), 191 (1), 136 (4), 119
+(100), 91 (17). HRMS (EI) m/z: M+ calcd for C14H18O3 234.1256;
+found, 234.1258; [α]D
+20 +31.7 (c 0.550, CHCl3, 80% ee). HPLC
+conditions: OB-H, n-hexane/2-propanol = 98/2, 0.5 mL/min, 230 nm,
+30.4 min (2R,3R), major, 34.8 min (2S,3S), minor.8a
+(2R,3S)-(3-Propyloxiran-2-yl)methanol (4k). Puriﬁed by Al2O3
+column chromatography (7−60% EtOAc/n-hexane) to give 50.5 mg
+(86%) of colorless oil: Rf = 0.14 (Al2O3, EtOAc/n-hexane =3:7); Rf =
+0.14 (silica gel, EtOAc/n-hexane = 1:3). 1H NMR (500 MHz, CDCl3)
+δ: 3.85 (1H, dd, J = 12.2, 4.0 Hz), 3.67 (1H, dd, J = 12.2, 7.0 Hz), 3.16
+(1H, dt, J = 4.3, 2.1 Hz), 3.07−3.01 (1H, m), 1.59−1.41 (4H, m), 2.37
+(1H, br), 0.98 (3H, t, J = 7.0 Hz). 13C{1H} NMR (125 MHz, CDCl3)
+δ: 60.9, 57.1, 56.9, 29.9, 19.9, 13.8. IR (neat) cm−1: 3408 (br, s), 2962
+(s), 1465 (m), 1042 (s), 914 (m), 858 (m), 829 (m), 768 (m). FAB-
+MS (glycerol) m/z: 117 ([M + H]+). HRMS (FAB) m/z: [M + H]+
+calcd for C6H13O2 117.0916; found, 117.0919; [α]D
+22 +2.87 (c 0.757,
+21.5 −4.99 [c 3.64, CHCl3, (2S,3R)-
+CHCl3, 87% ee), (lit.32 [α]D
+epoxide, 85.8% ee]).
+(2R,3S)-(3-Propyloxiran-2-yl)methyl 3-Methylbenzoate (4k-
+toluoyl). Puriﬁed by silica gel column chromatography (0−4%
+EtOAc/n-hexane + 2% CH2Cl2) to give 50.9 mg (50% based on 435
+μmol 4k) of colorless oil: Rf = 0.16 (EtOAc/n-hexane/CH2Cl2 =
+1:40:1). 1H NMR (500 MHz, CDCl3) δ: 7.89 (1H, d, J = 0.6 Hz), 7.88
+(1H, d, J = 7.6 Hz), 7.38 (1H, d, J = 7.9 Hz), 7.33 (1H, t, J = 7.6 Hz),
+4.58 (1H, dd, J = 11.9, 4.3 Hz), 4.28 (1H, dd, J = 12.2, 7.0 Hz), 3.32
+(1H, dt, J = 7.0, 3.5 Hz), 3.08 (1H, td, J = 6.1, 4.3 Hz), 2.41 (3H, s),
+1.64−1.46 (4H, m), 1.01 (3H, t, J = 7.2 Hz). 13C{1H} NMR (125
+MHz, CDCl3) δ: 166.6, 138.2, 133.9, 130.3, 129.7, 128.3, 126.9, 63.3,
+56.4, 53.8, 30.0, 21.2, 19.9, 13.9. IR (neat) cm−1: 2961 (s), 1721 (s),
+1457 (m), 1278 (s), 1199 (s), 1107 (m), 1083 (m), 745 (s). EI-MS
+(70 eV) m/z (relative intensity): 234 (M+, 1), 119 (100), 91 (16).
+</para>
+Article
+<para sub=“exp”>
+HRMS (EI) m/z: M+ calcd for C14H18O3 234.1256; found, 234.1259;
+[α]D
+21 +14.2 (c 0.793, CHCl3, 87% ee). HPLC conditions: OB-H, n-
+hexane/2-propanol = 99.8/0.2, 1 mL/min, 230 nm, 19.4 min (2R,3S),
+major, 28.4 min (2S,3R), minor.9f
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+NMR spectra, HPLC charts, and X-ray crystal structure details.
+This material
+is available free of charge via the Internet at
+http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: mnoji@my-pharm.ac.jp.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+M.N. thanks Mr. Kubota and Ms. Ohashi for their technical
+assistance.
+
+■ REFERENCES
+
+(1) Asymmetric epoxidation: Xia, Q.-H.; Ge, H.-Q.; Ye, C.-P.; Liu, Z.-
+M.; Su, K.-X. Chem. Rev. 2005, 105, 1603.
+(2) Ti-chiral tartrate system: (a) Katsuki, T.; Sharpless, K. B. J. Am.
+Chem. Soc. 1980, 102, 5974. (b) Katsuki, T.; Martin, V. S. Org. React.
+(Hoboken, NJ, U.S.) 1996, 48, 1.
+(3) V-chiral HA system: (a) Michaelson, R. C.; Palermo, R. E.;
+Sharpless, K. B. J. Am. Chem. Soc. 1977, 99, 1990. (b) Sharpless, K. B.;
+Verhoeven, T. R. Aldrichimica Acta 1979, 12, 63. (c) Berrisford, D. J.;
+Bolm, C.; Sharpless, K. B. Angew. Chem., Int. Ed. 1995, 34, 1059.
+(4) V-chiral HA system, review: (a) Bolm, C. Coord. Chem. Rev.
+2003, 237, 245. (b) Licini, G.; Conte, V.; Coletti, A.; Mba, M.; Zonta,
+C. Coord. Chem. Rev. 2011, 255, 2345. (c) Li, Z.; Yamamoto, H. Acc.
+Chem. Res. 2013, 46, 506.
+(5) V-chiral HA system: (a) Murase, N.; Hoshino, Y.; Oishi, M.;
+Yamamoto, H. J. Org. Chem. 1999, 64, 338. (b) Hoshino, Y.; Murase,
+N.; Oishi, M.; Yamamoto, H. Bull. Chem. Soc. Jpn. 2000, 73, 1653.
+(c) Hoshino, Y.; Yamamoto, H. J. Am. Chem. Soc. 2000, 122, 10452.
+(d) Makita, N.; Hoshino, Y.; Yamamoto, H. Angew. Chem., Int. Ed.
+2003, 42, 941.
+(6) V-chiral HA system: (a) Traber, B.; Jung, Y.-G.; Park, T. K.;
+Hong, J.-I. Bull. Korean Chem. Soc. 2001, 22, 547. (b) Bolm, C.;
+Beckmann, O.; Kühn, T.; Palazzi, C.; Adam, W.; Rao, P. B.; Saha-
+Möller, C. R. Tetrahedron: Asymmetry 2001, 12, 2441. (c) Bolm, C.;
+Kühn, T. Isr. J. Chem. 2001, 41, 263. (d) Wu, H.-L.; Uang, B.-J.
+Tetrahedron: Asymmetry 2002, 13, 2625. (e) Malkov, A. V.; Bourhani,
+Z.; Kočovský, P. Org. Biomol. Chem. 2005, 3, 3194. (f) Bourhani, Z.;
+Malkov, A. V. Chem. Commun. 2005, 4592. (g) Malkov, A. V.;
+Czemerys, L.; Malyshev, D. A. J. Org. Chem. 2009, 74, 3350.
+(7) V-achiral HA and chiral ROOH system: (a) Adam, W.; Beck, A.
+K.; Pichota, A.; Saha-Möller, C. R.; Seebach, D.; Vogl, N.; Zhang, R.
+Tetrahedron: Asymmetry 2003, 14, 1355. (b) Adam, W.; Alsters, P. L.;
+Neumann, R.; Saha-Möller, C. R.; Seebach, D.; Beck, A. K.; Zhang, R.
+J. Org. Chem. 2003, 68, 8222. (c) Lattanzi, A.; Piccirillo, S.; Scettri, A.
+Eur. J. Org. Chem. 2005, 1669. (d) Lattanzi, A.; Scettri, A. J. Organomet.
+Chem. 2006, 691, 2072.
+(8) V-chiral BHA system: (a) Zhang, W.; Basak, A.; Kosugi, Y.;
+Hoshino, Y.; Yamamoto, H. Angew. Chem., Int. Ed. 2005, 44, 4389.
+(b) Zhang, W.; Yamamoto, H. J. Am. Chem. Soc. 2007, 129, 286.
+(c) Barlan, A. U.; Zhang, W.; Yamamoto, H. Tetrahedron 2007, 63,
+6075. (d) Li, Z.; Zhang, W.; Yamamoto, H. Angew. Chem., Int. Ed.
+2008, 47, 7520.
+(9) Mo, Zr, Hf, W-chiral BHA system: (a) Basak, A.; Barlan, A. U.;
+Yamamoto, H. Tetrahedron: Asymmetry 2006, 17, 508. (b) Barlan, A.
+U.; Basak, A.; Yamamoto, H. Angew. Chem., Int. Ed. 2006, 45, 5849.
+J. Am. Chem. Soc. 2010, 132, 7878.
+(c) Li, Z.; Yamamoto, H.
+
+3209
+
+DOI: 10.1021/acs.joc.5b00185
+J. Org. Chem. 2015, 80, 3203−3210
+
+Article
+
+The Journal of Organic Chemistry
+
+(d) Olivares-Romero, J. L.; Li, Z.; Yamamoto, H. J. Am. Chem. Soc.
+2012, 134, 5440. (e) Olivares-Romero, J. L.; Li, Z.; Yamamoto, H. J.
+Am. Chem. Soc. 2013, 135, 3411. (f) Wang, C.; Yamamoto, H. J. Am.
+Chem. Soc. 2014, 136, 1222.
+(10) (a) Yoon, T. P.; Jacobsen, E. N. Science 2003, 299, 1691.
+(b) Teichert, J. F.; Feringa, B. L. Angew. Chem., Int. Ed. 2010, 49, 2486.
+(c) Privileged Chiral Ligands and Catalysts; Zhou, Q.-L., Ed.; VCH:
+Weinheim, Germany, 2011.
+(11) (a) Walsh, P. J.; Kozlowski, M. C. Fundamentals of Asymmetric
+Catalysis; University Science Books: Sausalito, CA, 2008; pp 114−164.
+(b) Toriumi, K.; Ito, T.; Takaya, H.; Souchi, T.; Noyori, R. Acta
+Crystallogr., Sect. B 1982, 38, 807. (c) Whitesell, J. K. Chem. Rev. 1989,
+89, 1581. (d) Pfaltz, A.; Drury, W. J., III Proc. Natl. Acad. Sci. U.S.A.
+2004, 101, 5723.
+(12) (a) Schalley, C. A.; Lützen, A.; Albrecht, M. Chem.Eur. J.
+2004, 10, 1072. (b) Hatano, M.; Ishihara, K. Chem. Commun. 2012, 48,
+4273. (c) Enders, D.; Nguyen, T. V. Org. Biomol. Chem. 2012, 10,
+5327.
+(13) (a) Seki, M.; Yamada, S.; Kuroda, T.; Imashiro, R.; Shimizu, T.
+Synthesis 2000, 1677. (b) Ohta, T.; Ito, M.; Inagaki, K.; Takaya, H.
+Tetrahedron Lett. 1993, 34, 1615. (c) Hashimoto, T.; Maruoka, K. J.
+Am. Chem. Soc. 2007, 129, 10054.
+(14) Please see Supporting Information.
+(15) Hunter, C. A.; Sanders, J. K. M. J. Am. Chem. Soc. 1990, 112,
+5525.
+(16) Gao, Y.; Hanson, R. M.; Klunder, J. M.; Ko, S. Y.; Masamune,
+H.; Sharpless, K. B. J. Am. Chem. Soc. 1987, 109, 5765.
+(17) The enantioselectivity of the epoxidation using BBHA 2a was
+generally lower than those using Yamamoto’s BHA ligands,8a,c but one
+example of epoxidation of geraniol (3f) showed a similar level of
+enantioselectivity.
+(18) Jiang, T.; Huynh, K.; Livinghouse, T. Synlett 2013, 24, 193.
+(19) Hollingworth, C.; Hazari, A.; Hopkinson, M. N.; Tredwell, M.;
+Benedetto, E.; Huiban, M.; Gee, A. D.; Brown, J. M.; Gouverneur, V.
+Angew. Chem., Int. Ed. 2011, 50, 2613.
+(20) Fox, R. J.; Lalic, G.; Bergman, R. G. J. Am. Chem. Soc. 2007, 129,
+14144.
+(21) Knight, F. I.; Brown, J. M.; Lazzari, D.; Ricci, A.; Blacker, A. J.
+Tetrahedron 1997, 53, 11411.
+(22) Esteriﬁcation: (a) Fujihara, T.; Xu, T.; Semba, K.; Terao, J.;
+Tsuji, Y. Angew. Chem., Int. Ed. 2011, 50, 523. Reduction: (b) Rahaim,
+R. J., Jr.; Maleczka, R. E., Jr. Org. Lett. 2011, 13, 584.
+(23) Adam, W.; Alsters, P. L.; Neumann, R.; Saha-Möller, C. R.;
+Seebach, D.; Zhang, R. Org. Lett. 2003, 5, 725.
+(24) Denis, J.-N.; Greene, A. E.; Serra, A. A.; Luche, M.-J. J. Org.
+Chem. 1986, 51, 46.
+(25) Wang, B.; Wong, O. A.; Zhao, M.-X.; Shi, Y. J. Org. Chem. 2008,
+73, 9539.
+(26) Riclea, R.; Dickschat, J. S. Chem.Eur. J. 2011, 17, 11930.
+(27) Kolb, M.; Hijfte, L. V.; Ireland, R. E. Tetrahedron Lett. 1988, 29,
+6769.
+(28) Egami, H.; Oguma, T.; Katsuki, T. J. Am. Chem. Soc. 2010, 132,
+5886.
+(29) Dumont, R.; Pfander, H. Helv. Chim. Acta 1983, 66, 814.
+(30) Shafi, S. M.; Chou, J.; Kataoka, K.; Nokami, J. Org. Lett. 2005, 7,
+2957.
+(31) Hill, J. G.; Sharpless, K. B.; Exon, C. M.; Regenye, R. Org. Synth.
+1984, 63, 66.
+(32) Nakagawa, N.; Mori, K. Agric. Biol. Chem. 1984, 48, 2505.
+
+3210
+
+DOI: 10.1021/acs.joc.5b00185
+J. Org. Chem. 2015, 80, 3203−3210
+
+

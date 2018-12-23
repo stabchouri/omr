@@ -1,0 +1,2669 @@
+Article
+
+pubs.acs.org/joc
+
+‡
+
+Jordi Bujons,
+
+§
+
+†
+
+Meritxell Egido-Gabás,
+
+Synthesis and Evaluation of Hydroxymethylaminocyclitols as
+Glycosidase Inhibitors
+Ana Trapero,
+†
+Laboratory of Medicinal Chemistry, Department of Biomedicinal Chemistry, Institut de Química Avançada de Catalunya
+(IQAC−CSIC), Jordi Girona 18-26, 08034 Barcelona, Spain
+‡
+Department of Biomedicinal Chemistry, Institut de Química Avançada de Catalunya (IQAC−CSIC), Jordi Girona 18-26, 08034
+Barcelona, Spain
+§Department of Biological Chemistry and Molecular Modeling, Institut de Química Avançada de Catalunya (IQAC−CSIC), Jordi
+Girona 18-26, 08034 Barcelona, Spain
+*S Supporting Information
+
+and Amadeu Llebaria*,†
+
+ABSTRACT: Four series of C7N aminocyclitol analogues of glucose
+were synthesized by stereocontrolled epoxide opening of hydroxyl
+protected forms of the cyclohexane epoxides cyclophellitol and 1,6-
+epi-cyclophellitol. The resulting hydroxymethyl substituted amino-
+cyclitols were tested as glycosidase inhibitors. Cyclitols having an
+amino group in an α conﬁguration at a position equivalent to the
+anomeric in the sugar were found to be low micromolar inhibitors of
+the α-glucosidase from baker’s yeast with Ki
+’s near to 2 μM. On the
+other hand, N-octyl aminocyclitols having the nitrogen substituents in
+an α or β conﬁguration were found to be good inhibitors of recombinant β-glucocerebrosidase with Ki values between 8.3 and 17
+μM, and also inhibited lysosomal β-glucosidase activity in live cells at low-micromolar concentrations. A computational docking
+study suggests a diﬀerential binding among the diﬀerent series of β-glucocerebrosidase inhibitors. In agreement with the
+experimental results, the binding poses obtained indicate that the presence of an alkyl lipid substituent in the inhibitor mimicking
+one of the lipid chains in the substrate is critical for potency. In contrast, the matching of hydroxymethyl substituents in the
+aminocyclitols and the parent glucosylceramide does not seem to be strictly necessary for potent inhibition, indicating the risk of
+simplifying structural analogies in sugar mimetic design.
+
+■ INTRODUCTION
+
+Glycosidases are involved in a large range of
+important
+biological processes. These enzymes are attractive targets for
+the design of therapies for numerous diseases such as diabetes,
+lysosomal storage disorders, and cancer.1
+viral
+Therefore, glycosidase inhibitors are currently of great interest
+as promising candidates for new drug development.
+
+infections,
+
+Aminocyclitols, which have been demonstrated as eﬀective
+mimics of natural carbohydrates, are amino polyhydroxy
+cycloalkanes and comprise an important group of compounds
+for drug development. The amino functionality can modulate
+biological activity with respect to the parent carbohydrate, and
+the replacement of the endocyclic oxygen confers hydrolytic
+stability.2−4 Diﬀerent families of aminocyclitol analogues have
+been synthesized over the last decades, and their biological
+activities have been studied. These include the C7N amino-
+cyclitols,2 polyhydroxylated aminocyclohexanes with an exocy-
+clic methyl or hydroxymethyl substituent. C7N compounds
+have found applications in medicinal chemistry as antifungal
+agents, such as salbostatin,5 and antibiotics, such as validamycin
+A,6 the most active of the validamycin family, which contain a
+valienamine4 unit, linked to either validamine, valiolamine, or
+hydroxyvalidamine7 (Figure 1).
+
+Other C7N aminocyclitols such as voglibose,8 a derivative of
+valiolamine,9 or acarbose10 are α-glucosidase inhibitors used to
+treat type II diabetes. C7N aminocyclitols have therapeutic
+potential for the treatment of lysosomal storage disorders, such
+as 4-epi-N-octyl-β-valienamine for GM1-gangliosidosis or N-
+octyl-β-valienamine for Gaucher disease.11
+
+Over the past decade, applications of some N-alkylated
+aminocyclitols as β-glucocerebrosidase (GCase) inhibitors with
+therapeutic potential
+for Gaucher disease have been
+described.12−17 In this context, we reported on a series of
+inosamine derivatives (scyllo- and chiro-aminocyclitols, Figure
+1), as selective inhibitors of GCase.12,13 In continuation of our
+eﬀorts in the design and synthesis of new glycosidase inhibitors,
+we became interested in four series of C7N aminocyclitols (1−
+4, Figure 2) to study their glycosidase inhibitory activities.
+These compounds were designed taking into account
+the
+transformation of
+chiro-amino-
+cyclitols previously reported12,13 to the C7N aminocyclitols by
+replacing a hydroxyl group by hydroxymethyl substituents
+the D-glucose
+(Figure 2). As far as the conﬁguration of
+is maintained in the new
+secondary hydroxyl groups
+
+the scyllo-aminocyclitols or
+
+Received:
+Published: March 9, 2015
+
+January 19, 2015
+
+© 2015 American Chemical Society
+
+3512
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 1. Structures of biologically active aminocyclitol derivatives.
+
+Figure 3. Retrosynthetic analysis of C7N aminocyclitols.
+<para sub=“opt”>
+described for the stereocontrolled synthesis of aminocyclitols
+from conduritol B.13,16,18,19 The
+and 1,2-diaminocyclitols
+selective access to key epoxides could be achieved from a
+common cyclohexene intermediate (+)-7 by choosing the
+appropriate conditions or protecting groups for a hydroxyl
+directed epoxidation reaction.20
+</para>
+<para sub="scope">
+Compound (+)-7 was prepared as shown in Scheme 1,
+following a modiﬁed sequence described by Trost et al.21 from
+tetraacetate (±)-8, which was synthesized in three steps from p-
+benzoquinone according to the literature procedure.22
+</para>
+<para sub="scope">
+In a previous work, we reported23 the synthesis of pivalate
+(+)-9 from tetraacetate (±)-8 by a simple modiﬁcation of
+</para>
+Scheme 1. Synthesis of (1R,2R,3S,6R)-6-
+(Hydroxymethyl)cyclohex-4-ene-1,2,3-triol (7)a
+
+Figure 2. Chemical structures of C7N aminocyclitols evaluated in this
+work and their relationship with the previously reported amino-
+cyclitols.
+
+compounds, two diﬀerent hydroxyl groups (encircled in Figure
+2) can be replaced by the hydroxymethyl substituents, and then
+four series are possible. We considered compounds diﬀering
+not only in the conﬁguration of the cyclohexane substituents
+but also in the nature of nitrogen substituents, and R = H, n-
+butyl, n-octyl, and 2-phenylethyl derivatives were synthesized.
+
+■ RESULTS AND DISCUSSION
+<para sub=“opt”>
+Design and Synthesis of C7N Aminocyclitols. The
+retrosynthetic approach for the synthesis of the C7N amino-
+cyclitols is outlined in Figure 3. The four series of C7N
+aminocyclitols could be prepared from cyclophellitol (+)-5 and
+epi-cyclophellitol (+)-6 derivatives based on the regioselective
+opening of epoxides with suitable nucleophiles, followed by
+hydroxyl group deprotection. This scheme has been previously
+</para>
+aReagents and conditions: (a) ligand (R,R)-10, [η3-C3H5PdCl]2,
+THAB, tC4H9CO2H, NaOH, H2O, DCM, 30 °C, 44%, >96% ee; (b)
+NH3, MeOH, rt, 96%; (c) MOMBr, iPr2NEt, DMF, 75 °C, 73%; (d)
+NaOMe, MeOH, rt, 94%; (e) KH, Bu3SnCH2I, DME, 0 °C, 79%; (f)
+n-BuLi, THF, −78 °C, 86%; (g) AcCl, MeOH, 40 °C, 99%.
+
+3513
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+The Journal of Organic Chemistry
+
+Article
+<para sub="scope">
+Trost’s original procedure,21,24 which consisted of the in situ
+the catalyst precursor, bis(π-allyl)-palladium
+preparation of
+dichloride, by reacting allyltrimethylsilane and PdCl2(CH3CN)2
+in acetonitrile.25 These conditions gave more reproducible
+results and eliminated the problems associated with the
+manipulation of the palladium sensitive compound. Therefore,
+tetraacetate (±)-8 was subjected to palladium-catalyzed kinetic
+resolution using chiral phosphine ligand (R,R)-10. Under these
+conditions, the (−)-enantiomer of 8 was converted to pivalate
+(−)-9,21,24 whereas the (+)-enantiomer of
+the tetraacetate
+remained unreacted. The cleavage of the O-acetyl groups of
+(−)-9 in the presence of the pivalate was performed using
+methanolic ammonia to give triol (−)-11.21,24 Unfortunately,
+the clean protection of the triol (−)-11 as a benzyl ether21,24
+was not possible at our work scale due to the lability of the
+pivalate group under the conditions described for this reaction.
+Therefore, we decided to use the methoxymethyl ether
+(MOM) group instead of benzyl ether as hydroxyl protecting
+group. With this modiﬁcation,
+reaction proceeded
+uneventfully to give (−)-12,
+the
+pivalate ester to alcohol (−)-13, which was converted to its
+corresponding stannylmethyl ether (−)-14 (Scheme 1).
+Intermediate (−)-14 was used as precursor
+for a 2,3-
+sigmatropic rearrangement, which was accomplished by
+treatment with 1.5 equiv of n-BuLi at −78 °C for 5 min to
+put
+the hydroxylmethyl group in place with regio- and
+to give (+)-15 according to the
+stereochemically control
+Still−Wittig procedure. The deprotection of MOM ethers
+under acidic conditions gave the compound (+)-7 in good yield
+(Scheme 1).
+
+followed by cleavage of
+
+this
+</para>
+<para sub=“props”>
+The spectroscopic data obtained for cyclohexene (+)-7 were
+in agreement with those described,26,27 but the magnitude and
+sign of the optical rotation found for this compound ([α]D
+25
++120.9 (c 1.1, MeOH)) were diﬀerent from those reported in
+−13.4 (c 1.1, MeOH)).26 The stereo-
+the literature ([α]D
+chemistry of (+)-7 was unambiguously conﬁrmed by the
+synthesis of compounds (+)-16,21 (−)-16,21 (+)-17,28
+(+)-18,28 and (+)-1926,28 (see Scheme 2), and comparison of
+their spectroscopic and analytical data that matched those
+reported in the literature for the same compounds obtained by
+diﬀerent synthetic sequences. These results conﬁrmed the
+structure and enantiomeric purity of intermediate (+)-7.
+</para>
+<para sub="scope">
+With the key intermediate (+)-7 in hand, cyclophellitol and
+epi-cyclophellitol benzylated derivatives (+)-5 and (+)-6 were
+obtained as shown in Scheme 3. The epoxidation of the tetraol
+(+)-7 with m-CPBA was directed20 by the free allylic hydroxyl
+group to furnish exclusively 1,6-epi-cyclophellitol (20),29,30
+which was then benzylated to aﬀord tetra-O-benzyl derivative
+(+)-6.31
+</para>
+<para sub="scope">
+To reverse the facial selectivity of the epoxidation step, a
+protection−deprotection sequence of
+secondary hydroxyl
+groups was developed (Scheme 3). This strategy has been
+used in several previous synthesis21,32−34 of cyclophellitol, but
+the epoxidation only occurred with good stereocontrol when it
+is directed by the primary hydroxyl group.35 Selective
+in (+)-7 as a TBDPS or
+protection of the primary alcohol
+trityl ether and benzylation yielded fully protected derivatives,
+which were subjected to detritylation or desilylation to aﬀord
+the primary alcohol (+)-22 (see Scheme 3).21,32,33 The
+epoxidation with m-CPBA was stereochemically directed by
+the free homoallylic alcohol, giving the cyclophellitol derivative
+(+)-5.21,24,33 Although this
+sequence involved additional
+protection/deprotection steps,
+it was high yielding, scalable,
+</para>
+Scheme 2. Synthesis of Compounds 16−19a
+
+aReagents and conditions: (a) ref 23, ligand (R,R)-10 for (−)-9 and
+ligand (S,S)-10 for (+)-9; (b) BzCl, py, DMAP, DCM, rt, 64% for
+(+)-16, 66% for (−)-16; (c) PhCH(OMe)2, p-TsOH, DMF, 60 °C/
+15−20 mmHg, 78%; (d) NaH, BnBr, DMF, rt, 77%; (e) 80% aq.
+AcOH, 40 °C, 74%.
+
+Scheme 3. Synthesis of Epoxides 5 and 6a
+
+aReagents and conditions: (a) m-CPBA, AcOH, rt, 78%; (b) BnBr,
+NaH, DMF, rt, 52%; (c) (Ph3C-pyr)BF4, CH3CN/DMF (20/1), rt,
+77% for 21a; TBDPSCl, imidazole, DMAP, DMF, 45 °C, 83% for 21b;
+(d) 1. BnBr, NaH, DMF, 0 °C; 2. p-TsOH, DCM/MeOH, (1/4), rt,
+88%; (e) 1. BnBr, NaH, DMF, 0 °C; 2. TBAF, THF, rt, 70%; (f) m-
+CPBA, DCM, rt, 70%; (g) H2 (1 atm), Pd/C, THF, 91%.
+<para sub="scope">
+and was consistently used several times. Both trityl and TBDPS
+groups were useful to protect the primary hydroxyl group in
+this sequence.
+</para>
+3514
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+The Journal of Organic Chemistry
+Scheme 4. Synthesis of C7N Aminocyclitols 1−4 from Epoxides 5−6a
+
+Article
+
+aReagents and conditions: (a) nucleophile (10 equiv), 2 N LiClO4, CH3CN, 80 °C; (b) nucleophile (10 equiv), NH4Cl, MeOH:H2O (8:1), 100 °C;
+(c) LiAlH4, THF (78−89%); (d) BCl3, DCM (77%−94%); (e) H2 (2 atm), Pd/C, HCl, THF (92−93%).
+
+Table 1. Reaction of Epoxides 5 and 6 with Amines and NaN3
+
+substrate
+
+nucleophile
+
+react. cond.a
+
+A
+A
+A
+A
+A
+A
+A
+A
+B
+B
+B
+
+products (ratio)b
+25a/24a (91:9)
+25b/24b (83:17)
+25c/24c (87:13)
+25e/24e (75:25)
+27a
+27b
+27c
+26e/27e (56:44)
+26a/27a (59:41)
+26b/27b (59:41)
+26c/27c (55:45)
+
+yieldc (%)
+
+83
+82
+85
+82
+74
+76
+72
+85
+82
+85
+79
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+5
+5
+5
+5
+6
+6
+6
+6
+6
+6
+6
+
+Ph(CH2)2NH2
+C8H17NH2
+C4H9NH2
+NaN3
+Ph(CH2)2NH2
+C8H17NH2
+C4H9NH2
+NaN3
+Ph(CH2)2NH2
+C8H17NH2
+C4H9NH2
+
+aReaction conditions A: nucleophile (10 equiv), 2 N LiClO4, CH3CN, 80 °C. Conditions B: nucleophile (10 equiv), NH4Cl, MeOH:H2O (8:1), 100
+°C. bDetermined by 1H NMR analysis of the crude reaction mixture. cIsolated yields.
+<para sub="scope">
+The stereochemistry of the intermediate (+)-7 was also
+the reported cyclophellitol
+
+conﬁrmed by the synthesis of
+(+)-2321,36 from epoxide (+)-5 (Scheme 3).
+</para>
+<para sub="scope">
+We planned the synthesis of the series of new aminocyclitols
+by a regio- and stereocontrolled epoxide opening of
+compounds (+)-5 and (+)-6 with suitable nitrogen nucleo-
+philes (Scheme 4). The stereoselectivity of cyclohexane epoxide
+opening is controlled by the well-established Fürst−Plattner
+rule,37 which predicts trans-diaxial opening from the most stable
+chair conformation. The trans-diequatorial opening can be
+obtained by a lithium salt promoted reaction.18 Interestingly,
+the other regioisomers were obtained by epoxide opening
+under nonchelating conditions.13
+</para>
+<para sub="scope">
+Epoxides (+)-5 and (+)-6 were subjected to ring-opening
+reaction using an excess LiClO4 and sodium azide or primary
+amines (10 equiv/mol) at 80 °C in acetonitrile as solvent
+
+(condition A, Table 1) or using primary amines (10 equiv/mol)
+under acidic conditions (excess ammonium chloride in
+methanol−water mixture, condition B, Table 1) at 100 °C.
+The obtained results are shown in Table 1.
+</para>
+<para sub="scope">
+Opening of epoxide 5 with NaN3 aﬀorded the corresponding
+azidoalcohol derivatives with moderate regioselectivity (entry 4,
+condition A). However,
+the use of primary amines as
+nucleophiles for the opening of the epoxide 5 under chelating
+conditions gave the corresponding amino alcohols with high
+regioselectivity (entries 1−3, condition A) favoring the
+regioisomers 25a−c. Since the minor regioisomers 24a−c
+could also be isolated in high purity and characterized after
+column chromatography, no attempts to perform the opening
+of epoxide 5 in acidic conditions (condition B) were done.
+</para>
+<para sub="scope">
+On the other hand, the reaction of epoxide 6 with primary
+amines under lithium chelating conditions aﬀorded a single
+</para>
+3515
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+The Journal of Organic Chemistry
+<para sub="scope">
+amino alcohol with total regioselectivity (entries 5−8, condition
+A), which corresponds to the expected all-equatorial sub-
+stituents. In contrast, nearly 1:1 regioisomeric mixtures were
+obtained on reaction with NaN3 as nucleophile (entry 8,
+condition A) or under acidic conditions (entries 9−11,
+condition B). Epoxide opening showed remarkable stereo-
+and regiochemical control when using amines as nucleophiles
+and LiClO4. Again, the use of sodium azide as nucleophile
+resulted in lower regioselectivities than when amines were used,
+in contrast with our previous experience in related reactions,
+where azide opening was highly selective.18 The reasons for the
+low regioselectivity obtained with an azide nucleophile in these
+reactions are at present unclear.
+</para>
+<para sub="scope">
+Alternatively, the opening of epoxides in mild acidic aqueous
+media (entries 9−11, condition B) showed a low regioselec-
+tivity. Reduction of azides 24e−26e31 and 27e31 with LiAlH4
+provided the corresponding primary amines 24d−27d in good
+yields. The ﬁnal products were obtained after O-benzyl
+deprotection with BCl3,13 but deprotection on compounds
+26a−c under
+these conditions aﬀorded complex reaction
+mixtures. Gratifying, the alternative O-benzyl removal of these
+compounds by catalytic hydrogenation over Pd/C under acidic
+conditions aﬀorded the desired aminocyclitols 3a−c in good
+yields.
+</para>
+<para sub=“props”>
+The stereochemistry of compounds 1−4 was established to
+be as shown in Figure 4, using 1H NMR, gDQCOSY, and
+</para>
+Article
+<para sub=“props”>
+Enzyme Inhibition Studies. The four series of C7N
+aminocyclitols 1−4 were tested as inhibitors against a series of
+commercial glycosidases, including α-glucosidase (baker’s yeast
+and rice), β-glucosidase (sweet almond), α-galactosidase (green
+coﬀee beans), and β-galactosidase (bovine liver). Compounds
+1−4 were further evaluated as inhibitors of glucosylceramide
+synthase and recombinant human GCase (imiglucerase,
+Inhibitory activity against α-
+Cerezyme from Genzyme).
+glucosidases, β-glucosidase (from sweet almond), β-galactosi-
+dase (from bovine liver), and imiglucerase is shown in Table 2
+(see also the Supporting Information, Table S1).
+</para>
+<para sub=“props”>
+All C7N aminocyclitols were inactive when tested at 1.1 mM
+against green coﬀee beans α-galactosidase, and only com-
+pounds 1a, 1b, and 3b displayed weak inhibition of
+the
+glycosyltransferase glucosylceramide synthase (between 52%
+and 67% inhibition at 250 μM).
+</para>
+<para sub=“props”>
+Of the 16 aminocyclitols obtained, only 3a (IC50 = 63 μM)
+and 3b (IC50 = 147 μM) exhibited moderate inhibitory activity
+against almond β-glucosidase and only aminocyclitols 3b (IC50
+= 60 μM) and 4b (IC50 = 114 μM) displayed moderate
+inhibition of bovine liver β-galactosidase. Moreover, only the
+free amino derivatives (1d−4d) showed weak to moderate
+inhibition against rice α-glucosidase (IC50 = 21−773 μM),
+indicating that the presence of lipophilic chains in the inhibitor
+is unfavorable for the activity of this enzyme.
+</para>
+<para sub=“props”>
+Activity data reﬂect that the conﬁgurations of amino groups
+and hydroxyl groups (encircled in Figure 2) have an important
+eﬀect on baker’s yeast α-glycosidase inhibition. Compounds
+1a−c exhibited signiﬁcant baker’s yeast α-glucosidase inhibitory
+activity (IC50 = 2.6−27 μM), whereas the corresponding free
+amino derivative 1d and aminocyclitols 2−4 showed little or no
+inhibitory activity toward this enzyme. Inhibition constants (Ki)
+were determined for compounds 1a and 1b, and in both cases,
+a competitive inhibition was found with Ki values of 2.1 and 1.9
+μM,
+It has been reported4,9 that validamine
+(Figure 1), structurally related to 1, also inhibited baker’s yeast
+α-glucosidase using maltose as substrate with an IC50 of 580
+μM. For comparative purposes, DNJ (deoxynojirimycin) was
+also tested, being less potent than compounds 1a−c.
+
+respectively.
+
+family 1 were inhibitors of
+</para>
+<para sub=“props”>
+Although initially designed to improve the activity as GCase
+inhibitors, the data obtained with C7N aminocyclitols clearly
+indicate that some of the compounds showed no signiﬁcant
+inhibition against imiglucerase. We found that compound 1b is
+a low micromolar inhibitor of imiglucerase with an IC50 of 44
+μM, whereas 1a and 1d were only weak inhibitors. The fact that
+the β-
+several members of
+glucosidase imiglucerase is remarkable, since these compounds
+have an amino group in an axial position, resembling more an
+α- than a β-glucoside. To try to understand these unexpected
+results, we studied the inhibition mode of 1b. Mixed inhibition
+was found for this aminocyclitol (Ki = 17 μM), suggesting the
+existence of an independent binding site for the inhibitor
+diﬀerent from the active site. This result contrasts with the
+chiro-C8 derivative (Figure 2) that is a competitive inhibitor
+with a Ki value of 158 μM.13
+</para>
+<para sub=“props”>
+In general,
+
+it seems that the main factor for imiglucerase
+inhibition is the presence of a liphophilic chain. The N-octyl
+derivatives 1b−4b were found to be better inhibitors for this
+enzyme than the N-butyl or free amino derivatives, a fact that is
+in agreement with the correlation between lipophilicity (chain
+length) and the inhibitory activity that was observed in other
+glycomimetic families12,42 with this enzyme. Compounds 3a
+and 3b, which contain the hydroxymethyl and amino
+</para>
+3516
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+Figure 4. NOE correlations of compounds 1−4.
+
+NOESY spectral studies (see the Supporting Information). The
+NOESY spectra of compounds 1 and 3 showed strong NOE
+interactions between H5/H6 and H4/H3. On the other hand,
+the NOESY spectrum of compound 4 showed strong NOE
+interactions between H5/H1, H5/H3, H5/H7, H4/H6, and
+H4/H2. Similarly, the characterization of compound 2 was also
+conﬁrmed by NOE interactions between H5/H1, H5/H7, and
+H4/H6. The NOE interactions between H5/H3, H4/H2 in
+compound 2 were not able to be determined due to the
+overlapped signals.
+
+The Journal of Organic Chemistry
+
+Article
+
+Table 2. Inhibition of α-Glucosidases (from Baker’s Yeast and Rice), β-Glucosidase (from Sweet Almond), β-Galactosidase
+(from Bovine Liver), and Imiglucerase by Aminocyclitols 1−4k
+
+α-glucosidase
+(baker’s yeast)
+Ki
+2.1a
+1.9a
+
+compound
+
+1a
+1b
+1c
+1d
+2a
+2b
+2c
+2d
+3a
+3b
+3c
+3d
+4a
+4b
+4c
+4d
+DNJ
+
+IC50
+2.6
+7.0
+27
+NI
+962
+383
+44%e
+NI
+NI
+NI
+NI
+NI
+NI
+NI
+NI
+NI
+190f
+
+8.7a,g
+
+Ki
+
+α-glucosidase (rice)
+IC50
+NIb
+NI
+NI
+773
+NI
+NI
+NI
+166
+58%e
+61%e
+NI
+21
+NI
+NI
+NI
+167
+0.05h
+
+26a
+
+β-glucosidase (almond)
+
+β-galactosidase (bovine liver)
+
+imiglucerase
+
+IC50
+NI
+NI
+NI
+NI
+NI
+NI
+NI
+NI
+63
+147
+56%e
+NI
+NI
+NI
+NI
+NI
+81f
+
+IC50
+NI
+NI
+NI
+NI
+NI
+NI
+NI
+NI
+45%d
+60
+NI
+NI
+NI
+114
+NI
+NI
+NI
+
+IC50
+258
+44
+NI
+43%d
+NI
+400
+NI
+NI
+138
+17
+NI
+NI
+NI
+23
+NI
+NI
+506i
+
+Ki
+
+17c
+
+162c
+8.3a
+
+9.0c
+
+88a,j
+
+aType of inhibition: competitive. bNI: No signiﬁcant inhibition at 800 μM (for baker’s yeast α-glucosidase, rice α-glucosidase, and almond β-
+glucosidase) or 200 μM (for imiglucerase and bovine liver β-galactosidase). cType of inhibition: mixed. d% inhibition at 200 μM. e% inhibition at 800
+μM. fReference 38. gReference 39. hReference 40. iReference 41. jReference 13. kIC50 and Ki values are given in μM.
+<para sub=“props”>
+It
+
+respectively.
+
+substituents in contiguous carbon atoms, behaved as mixed (Ki
+= 162 μM) and competitive (Ki = 8.3 μM) inhibitors (see
+Figure S1, Supporting Information),
+is
+remarkable that the N-octyl aminocyclitol 3b is signiﬁcantly
+more potent than the competitive chiro-C8 inhibitor (Ki = 158
+μM). The N-octyl aminocyclitol 4b was also an eﬀective and
+selective inhibitor of imiglucerase (Ki = 9.0 μM). Surprisingly,
+mixed inhibition was found for aminocyclitol 4b, which
+apparently can be considered structurally closer to the scyllo-
+C8 (Ki = 2.4 μM)13 and to the glucosylceramide (GlcCer)
+enzyme substrate. Therefore, the introduction of a hydrox-
+ymethyl
+in the
+aminocyclitol
+increasing the potency of
+scyllo-C8 for imiglucerase inhibition,
+in spite of having the
+cyclohexane nitrogen substituents in an equatorial position
+(compounds 2 and 4), and apparently having a better structural
+match to the GlcCer substrate.
+
+substituent as a hydroxyl
+
+inhibitors is not
+
+replacement
+</para>
+<para sub=“props”>
+Overall, the data collected suggest a diﬀerent recognition of
+the C7N inhibitors at the imiglucerase active site, and would
+explain the relatively lower
+the
+hydroxymethyl aminocyclitols when compared with the scyllo
+series counterparts.
+
+inhibitory activity of
+</para>
+<para sub=“props”>
+The C7N aminocyclitols 1a−c,
+
+showing the strongest
+inhibition potency for baker’s yeast α-glucosidase, were selected
+for further evaluation of the lysosomal α-glucosidase inhibition
+in intact human ﬁbroblasts. Similarly, aminocyclitols 1a−b, 3a−
+b, and 4b, showing the strongest
+inhibition potency for
+imiglucerase, were also selected for further evaluation of the
+lysosomal β-glucosidase inhibition in wild-type human
+ﬁbroblasts. Cytotoxicity assays were done to ensure that the
+enzyme activity was not aﬀected by the possible toxicity of the
+compounds. The tested compounds did not show signs of
+cellular toxicity at concentrations up to 300 μM. We initially
+studied the enzyme activity incubating the compounds at 100
+μM concentration, and we lowered the concentration of the
+compound when the inhibition was signiﬁcant.
+</para>
+<para sub=“props”>
+The N-phenylethyl derivative 1a displayed a moderate
+inhibitory activity against lysosomal α-glucosidase (68% and
+15% at 100 and 50 μM, respectively), whereas compounds 1b−
+c showed less than 13% of lysosomal α-glucosidase inhibition at
+100 μM concentration.
+</para>
+<para sub=“props”>
+Compound 3a showed 22% of
+
+lysosomal β-glucosidase
+inhibition at 100 μM, whereas the N-phenylethyl derivative 1a
+and the N-octyl derivatives 1b, 3b, and 4b showed more than
+73% of
+the same
+concentration (see Figure 5). The high potency of compounds
+
+lysosomal β-glucosidase inhibition at
+</para>
+
+Figure 5. Inhibition of lysosomal human β-glucosidase in intact wild-
+type human ﬁbroblasts after 24 h incubation time at the indicated
+inhibitor concentrations (μM).
+<para sub=“props”>
+1a, 1b, 3b, and 4b incited analysis at lower concentrations.
+Interestingly, the N-octyl derivatives 1b, 3b, and 4b behaved as
+lysosomal β-glucosidase inhibitors at low-micromolar concen-
+trations in cellular assays, lower than required for inhibition in
+isolated enzyme experiments. These results show that
+the
+lysosomal human β-glucosidase
+compounds are powerful
+</para>
+3517
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 6. Best docked poses against the structure of human β-glucocerebrosidase43 (PDB code: 2V3E) obtained for a truncated model of the natural
+substrate glucosylceramide (A), and aminocyclitols 1b (B), 2b (C), and 3b/4b (superposed in yellow and green, respectively) (D). Panel A shows
+the carboxylate of residue E235 in its protonated form, which is postulated as the acid catalyst that protonates the ceramide hydroxyl group, once the
+scissile ketal bond is cleaved. Panels B−D, on the contrary, show the aminocyclitols bound to the E235 unprotonated form of the enzyme. This was
+based on the assumption that the presence of a charged amino group (expected at pH 5.2) in these ligands, at close distance from the carboxylate of
+E235, would stabilize the anionic form of the amino acid, as has been observed in the crystal structure of the isofagomine-bound GCase.44
+<para sub=“props”>
+inhibitors in live cells, reﬂecting good membrane permeability
+and cellular stability properties to inhibit the cellular enzyme.
+</para>
+<para sub=“comp”>
+Computational Docking. To shed further light on the
+binding mode of the compounds that showed inhibition of
+imiglucerase, computational docking against known structures
+of GCase43,44 was carried out. For comparison purposes, a
+truncated model of the natural substrate GlcCer was also
+docked against the target enzyme.
+</para>
+<para sub=“comp”>
+Figure 6A shows the best docked pose obtained for GlcCer
+bound in a plausible prereactive conformation, where the
+anomeric carbon lies at 3.6 Å of the carboxylate of the essential
+nucleophile residue E340 and the oxygen of the scissile ketal
+bond accepts a hydrogen bond from the protonated catalytic
+residue E235. In this conformation, the hydroxymethyl group
+of GlcCer is disposed, donating a hydrogen bond to the
+carbonyl oxygen of the amide group of residue N396 and
+accepting another one from a crystallographic water, which is
+also hydrogen bonded to N396 and S345. In contrast, the best
+pose for 1b shows its cyclohexyl moiety in an inverted
+conformation relative to GlcCer,
+in which the C6-hydrox-
+ymethyl group is oriented toward the opposite side of the
+catalytic cavity, forming hydrogen bonds with residues N234
+and E340 (Figure 6B). This is due to the steric requirements of
+the axial octylamino substituent, which precludes binding in a
+GlcCer-like manner. Compound 2b shows a similar orientation
+
+to 1b, although,
+in this case, the determined binding pose
+suggests that the polar interactions between the charged amino
+group of the ligand and the E235 carboxylate are the main
+determinants of this orientation (Figure 6C). On the contrary,
+compounds 3b and 4b show binding poses with their
+cyclohexyl moieties disposed in a more GlcCer-like orientation,
+with the corresponding hydroxymethyl substituents interacting
+with residue N396 (Figure 6D). Noteworthy,
+these two
+compounds were the best GCase inhibitors found in this
+study. Comparison with the predicted binding modes for the
+parent C6N analogues chiro-C8 and scyllo-C8 (Figure 2) reveals
+some similarities (Figure S2, Supporting Information). The
+best pose obtained for
+the chiro-conﬁgured compound
+resembles those of compounds 1b and 3b, while the best
+pose for the scyllo-C8 analogue resembles those of 2b and 4b.
+Thus, replacement of a hydroxyl
+in the parent chiro-C8 or
+scyllo-C8 by a hydroxymethyl group did not result in large
+diﬀerences in the ways of interaction with the target enzyme
+and most of the hydrogen bonds with the receptor (i.e., with
+residues D127, W179, or N234) are maintained in all the
+compounds. Similarly, the hydrophobic interactions between
+the axial alkyl substituent of compounds 1b, 3b, or chiro-C8 and
+residues L241, Y244, P245, and F246, as well as those between
+the equatorial alkyl chain of compounds 2b, 4b, or scyllo-C8
+and residues Y313, L314, and K346, are mostly maintained.
+</para>
+3518
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 7. Comparison of the surface topologies of the active sites of the GCase structures 2V3E (A) and 2NSX44 (B) and their surroundings.
+Docked poses obtained for compounds 3b (yellow) and 4b (green) bound into the GCase active site (A), and into the adjacent groove (B), which is
+only accessible in structure 2NSX, are shown. Surfaces are colored according to electrostatic potential (blue: positive; red: negative). Labels denoting
+the location of loops L1 and L3 are also shown.
+
+found. For
+<para sub=“comp”>
+The presence of both axial and equatorial amino groups among
+the imiglucerase active inhibitors group is somewhat surprising,
+since the mimetism of the anomeric β-oxygen of GluCer with
+the nitrogen atom in the aminocyclitol inhibitor was initially
+believed to play a critical role on inhibitor potency.45 The
+results of the docking of those inhibitors having equatorial
+amino groups (2b, 4b, or scyllo-C8) show that this is the case
+and hydrogen bonding of the nitrogen and the catalytic acid
+E235 is obtained. The lipidic chain in this series would be
+located in the same pocket where the sphingosine chain of the
+ceramide substrate is
+the axial alkylamino
+compounds, 1b, 3b, or
+chiro-C8, no hydrogen bonding
+interaction of the nitrogen with residues of the active site is
+observed. In this case, the six-membered ring is found rotated
+about 60°, placing the N-alkyl chain in the pocket where the
+alkyl fatty acid group of the GluCer substrate is found; this
+hydrophobic interaction would account for the unexpected
+recognition of the axial aminocyclitols in the imiglucerase active
+site, which is believed to be dominated by the lipidic
+interactions, as shown for the importance of the alkyl length
+in the inhibitory potency. The presence of two long alkyl chains
+in the GluCer substrate would facilitate the duality of axial and
+equatorial structures in the N-alkyl active inhibitors found. The
+these compounds are
+binding modes
+compatible with a competitive mechanism of
+inhibition;
+however, analysis of the inhibition mode showed that some
+of them (1b and 4b) exhibit a mixed mechanism. This suggests
+that there could be alternative binding modes in addition to
+those predicted by these docking studies.
+
+shown by all of
+</para>
+<para sub=“comp”>
+In this sense,
+
+it is worth mentioning that, among all the
+crystal structures reported for human GCase, several of them
+(PDB codes 2NSX,44 2J25,46 2WKL,47 2XWE,48 3GXI,49
+3GXM,49 and 3RIL50) present a narrow groove between
+loops L1 (residues 341−350) and L3 (residues 312−319), two
+of the loops that conform the entrance to the enzyme active
+site.43,51 We and others have previously proposed that this
+groove, which is not accessible in other GCase structures
+(Figure 7), could be occupied by one of the alkyl chains of
+glucosylceramide or by the hydrophobic moieties of some
+inhibitors bound into the active center of GCase.14,44,51 Using
+structure 2NSX as a target for docking of the C7N GCase
+inhibitors, we observed that, in addition to the detection of
+poses in the active site cavity, which were similar to those
+shown in Figure 6 (results not shown), poses with the
+
+aminocyclitol moieties bound into that adjacent groove were
+also detected (Figure S3, Supporting Information). This is
+illustrated in Figure 7B for compounds 3b and 4b. Although
+binding of inhibitors at this site might not have as large an eﬀect
+as direct binding at the active site of GCase, it is tempting to
+propose that this could be an alternative site for modulation of
+the GCase activity, particularly if part of the inhibitor projects
+toward the entrance to the active site, as it is shown for
+compound 4b in Figure 7B. Binding in an opposite orientation,
+as that shown for 3b, could have a lower eﬀect, although it
+would still hamper the binding of any substrate moiety in that
+location. It is well-known that occurrence of diﬀerent binding
+modes like these could translate into mixed-type inhibition
+properties.52 Thus,
+reasonable to propose that
+inhibitors such as aminocyclitols C7N could explore these
+diﬀerent binding modes, and that the relative populations of
+each one would determine their behavior as purely competitive,
+mixed-type, or other type of inhibition.
+
+seems
+
+it
+</para>
+
+■ CONCLUSIONS
+
+In conclusion, we have developed a strategy for the synthesis of
+four series of C7N aminocyclitols from cyclohexane epoxides
+(+)-5 and (+)-6 by stereocontrolled ring opening with nitrogen
+nucleophiles. The ﬁnal compounds have been tested as α-
+glycosidase and recombinant GCase inhibitors, and other
+glycosidases. Activity data reﬂect that the conﬁgurations of
+amino groups and hydroxyl groups have an important eﬀect on
+series of C7N
+glycosidase inhibition. Among the four
+aminocyclitols, N-alkyl aminocyclitols 1a and 1b were found
+to be low micromolar inhibitors of baker’s yeast α-glucosidase
+with Ki values of 2.1 and 1.9 μM, respectively. Furthermore, N-
+octyl compounds 1b, 3b, and 4b were the most potent
+recombinant GCase inhibitors of the series of hydroxymethy-
+laminocyclitols described in this work with Ki values between
+8.3 and 17 μM. The presence of both axial and equatorial
+alkylamino groups among this group is somewhat surprising,
+since the mimetism of the anomeric β-oxygen of GluCer by the
+nitrogen atom was initially believed to exert a critical inﬂuence
+on inhibitor potency. The docking studies suggest that the
+presence of a lipidic chain is a main structural determinant for
+high potency and some inhibitors having an axial alkylamino
+substituent have also favorable interactions with several residues
+in the active site that would account for its inhibitory potency.
+These results show that design of glycoanalogues based on
+
+3519
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+The Journal of Organic Chemistry
+
+simple structural correlations involving hydroxyl matching or
+anomeric conﬁguration with the sugar substrates is not as direct
+as one could expect, and that other less evident eﬀects need
+also to be considered. The N-octyl substituted most active
+compounds (1b, 3b, and 4b) also behaved as inhibitors of
+lysosomal β-glucosidase in intact wild-type human ﬁbroblasts at
+low-micromolar concentrations, showing a good permeability
+and stability under cell culture conditions. This is a positive
+trend for their potential use as pharmacological chaperones,17,53
+as the activity shown in isolated enzyme is maintained in live
+cells.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Experimental Methods. Solvents were distilled prior to
+use and dried by standard methods. FT-IR spectra are reported in
+cm−1. Unless otherwise stated, 1H and 13C NMR spectra were
+obtained in CDCl3, D2O, or CD3OD solutions at 500 MHz (for 1H)
+and 100 MHz (for 13C). Chemical shifts (δ) are given in ppm relative
+to the residual solvent peak (CDCl3: 1H, δ = 7.26 ppm; 13C, δ = 77.16
+ppm), and the coupling constants (J) are reported in hertz (Hz).
+Optical rotations were measured at the sodium D line (589 nm), and
+speciﬁc rotations are reported in 10−1 deg cm2 g−1. HRMS were
+recorded in a time-of-ﬂight (TOF) mass spectrometer with electro-
+spray ionization (ESI).
+(1RS,2SR,3SR,4RS)-Cyclohex-5-ene-1,2,3,4-tetrayl Tetraace-
+tate (( ± )-8). The title compound was synthesized according to a
+literature procedure.22
+
+(1S,2S,3R,6R)-6-(Pivaloyloxy)cyclohex-4-ene-1,2,3-triyl Tria-
+cetate (9). The title compound was synthesized according to a
+literature procedure23 using the ligand (R,R)-10.
+
+Data for 12: [α]D
+
+(1R,4R,5S,6R)-4,5,6-Trihydroxycyclohex-2-en-1-yl Pivalate
+(11). The title compound was synthesized according to a literature
+procedure.21,24
+(1R,4R,5S,6S)-4,5,6-Tris(methoxymethoxy)cyclohex-2-enyl
+Pivalate (12). To a stirred mixture of (−)-1121,24 (2.38 g, 10.3 mmol)
+and N,N-diisopropylethylamine (12 mL, 68.9 mmol) in anhydrous
+DMF (20 mL) was added slowly bromomethyl methyl ether (6 mL,
+73.5 mmol) at 0 °C. The mixture was stirred at 75 °C for 3 h, and then
+poured into ice−water. The resulting mixture was extracted with ether.
+The extracts were washed with saturated aqueous NaHCO3 and brine.
+The organic layer was dried over MgSO4 and ﬁltered, and the solvent
+was removed under reduced pressure to give a brown oil (3.5 g),
+which was puriﬁed by flash chromatography (silica gel, hexane/EtOAc,
+4:1). Product 12 was obtained as a yellow oil (2.76 g, 7.6 mmol, 73%).
+25 −130.8 (c 1.0, CHCl3); IR (ﬁlm): υ = 2960,
+2894, 2825, 1729, 1480, 1280, 1156, 1038, 921 cm−1; 1H NMR (δ, 500
+MHz, CDCl3): 1.21 (s, 9H), 3.38 (s, 3H), 3.41 (s, 3H), 3.44 (s, 3H),
+3.74−3.83 (m, 2H), 4.21−4.23 (m, 1H), 4.74−4.89 (m, 6H), 5.40−
+5.44 (m, 1H), 5.48 (dt, 1H, J = 10.3, 2.3 Hz), 5.77 (dt, 1H, J = 10.3,
+2.0 Hz); 13C NMR (δ, 100 MHz, CDCl3): 27.2, 38.9, 55.8, 56.3, 56.4,
+74.4, 78.2, 79.0, 79.3, 97.4, 98.0, 98.2, 125.9, 130.2, 178.0. HRMS
+calculated for C17H30O8Na: 385.1838 [M + Na]+. Found: 385.1850.
+(1R,4R,5S,6S)-4,5,6-Tris(methoxymethoxy)cyclohex-2-enol
+(13). A solution of pivalate (−)-12 (5.68 g, 15.6 mmol) in MeOH (10
+mL) was added dropwise to a solution of NaOMe (1.4 g, 24.6 mmol)
+in MeOH (50 mL) at 0 °C. The reaction mixture was stirred at rt for
+14 h, and then the solvent was evaporated. The resulting residue was
+dissolved with DCM (100 mL) and washed with saturated aqueous
+NH4Cl (60 mL) and brine (60 mL). The organic layer was dried over
+MgSO4 and ﬁltered, and the solvent was removed under reduced
+pressure to give a yellow oil (5.8 g), which was puriﬁed by flash
+chromatography (silica gel, hexane/EtOAc, 2:1). Product 13 was
+obtained as a colorless oil (4.1 g, 14.6 mmol, 94%).
+25 −108 (c 1.0, CHCl3); IR (ﬁlm): υ = 3442, 3039,
+2894, 2825, 1470, 1384, 1125, 916, 774 cm−1; 1H NMR (δ, 500 MHz,
+CDCl3): 3.41 (s, 3H), 3.43 (s, 3H), 3.48 (s, 3H), 3.73 (dd, 1H, J =
+10.4, 7.7 Hz), 4.17 (d, 1H, J = 2.0 Hz), 4.20−4.22 (m, 2H), 4.74−4.85
+(m, 6H), 5.66−5.72 (m, 2H); 13C NMR (δ, 100 MHz, CDCl3): 55.7,
+56.08, 56.09, 56.1, 71.5, 78.5, 78.6, 87.3, 97.2, 98.0, 98.6, 127.8, 128.8.
+
+Data for 13: [α]D
+</para>
+Article
+<para sub=“exp”>
+HRMS calculated for C12H22O7Na: 301.1263 [M + Na]+. Found:
+301.1250.
+
+Tributyl(((1R,4R,5S,6S)-4,5,6-tris(methoxymethoxy)cyclo-
+hex-2-enyloxy)methyl)stannane (14). A solution of alcohol 13
+(810 mg, 2.9 mmol) in DME (10 mL) was added dropwise to a
+suspension of potassium hydride (760 mg, 30% suspension in mineral
+oil, 5.6 mmol) in DME (10 mL) at 0 °C. The reaction mixture was
+stirred at rt for 30 min. After cooling to 0 °C, iodomethyltributyltin
+(1.9 g, 4.5 mmol) was added, and the mixture was stirred at rt for an
+additional 2 h. Then, 30 mL of saturated aqueous NH4Cl was added
+and the mixture was extracted with Et2O (3 × 50 mL). The organic
+layers were washed with brine, dried over MgSO4, ﬁltered, and
+concentrated in vacuo. Puriﬁcation of
+the residue by f lash
+chromatography (silica gel, hexane/EtOAc, 6:1) provided the
+tributylstannylmethyl ether 14 (1.3 g, 79%) as a colorless oil.
+25 −80 (c 2.0, CHCl3); IR (ﬁlm): υ = 3039, 2925,
+2851, 2822, 1465, 1388, 1153, 1034, 921, 774 cm−1; 1H NMR (δ, 500
+MHz, CDCl3): 0.87−0.92 (m, 15H), 1.27−1.31 (m, 6H), 1.45−1.52
+(m, 6H), 3.41 (s, 3H), 3.44 (s, 6H), 3.59 (d, 1H, J = 9.8 Hz), 3.65−
+3.72 (m, 2H), 3.83−3.88 (m, 2H), 4.17−4.19 (m, 1H), 4.74−4.91 (m,
+6H), 5.70−5.75 (m, 2H); 13C NMR (δ, 100 MHz, CDCl3): 9.0, 13.7,
+13.9, 17.7, 27.0, 27.5, 28.0, 29.2, 55.7, 56.2, 56.2, 58.8, 78.1, 79.0, 79.4,
+84.6, 97.4, 97.9, 98.2, 127.2, 128.7. HRMS calculated for C25H50-
+O7NaSn: 605.2476 [M + Na]+. Found: 605.2450.
+
+Data for 14: [α]D
+
+Data for 15: [α]D
+
+(1R,4S,5R,6R)-4,5,6-Tris(methoxymethoxy)cyclohex-2-enyl)-
+methanol (15). The stannylmethyl eher 14 (0.51 g, 0.86 mmol) was
+dissolved in anhydrous THF (15 mL), and the solution was cooled to
+−78 °C. After 30 min, n-BuLi (0.8 mL of a 1.6 M solution in hexanes,
+1.29 mmol) was added slowly. The reaction mixture was stirred at −78
+°C for 5 min, and then the reaction was quenched with saturated
+aqueous NH4Cl (15 mL) at −78 °C, and extracted with Et2O (3 × 30
+mL). The combined organic layers were washed with brine and dried
+over MgSO4, and the solvent was removed under reduced pressure.
+The crude product was puriﬁed by flash chromatography (silica gel,
+hexane/EtOAc, 2:1 to 1:1) to aﬀord the desidered homoallylic alcohol
+15 (216 mg, 0.74 mmol, 86%) as a colorless oil.
+25 +113 (c 1, CHCl3); IR (ﬁlm): υ = 3454, 2892,
+2826, 1651, 1469, 1444, 1392, 1151, 1105, 1025, 918, 771 cm−1; 1H
+NMR (δ, 500 MHz, CDCl3): 2.42−2.46 (m, 1H), 3.40 (s, 3H), 3.43
+(s, 3H), 3.44 (s, 3H), 3.66−3.70 (m, 2H), 3.79 (dd, 1H, J = 10.1, 7.7
+Hz), 3.88 (dd, 1H, J = 11.5, 3.8 Hz), 4.18−4.21 (m, 1H), 4.71−4.94
+(m, 6H), 5.59 (dt, 1H, J = 10.1, 2.0 Hz), 5.73 (dt, 1H, J = 10.1, 2.6
+Hz); 13C NMR (δ, 100 MHz, CDCl3): 45.5, 55.7, 56.2, 56.3, 63.0,
+77.8, 79.5, 81.6, 97.1, 98.0, 99.0, 129.0, 129.1; HRMS calculated for
+C13H24O7Na: 315.1420 [M + Na]+. Found: 315.1431.
+
+(1R,2R,3S,6R)-6-(Hydroxymethyl)cyclohex-4-ene-1,2,3-triol
+(7). To a solution of AcCl (0.6 mL, 7.9 mmol) in MeOH (20 mL) was
+added dropwise a solution of 15 (0.38 g, 1.32 mmol) in MeOH (10
+mL) at 0 °C. The reaction mixture was stirred at 40 °C for 1 h, and
+then the solvent was removed under reduced pressure to give the
+expected product as a white amorphous solid (0.21 g, 1.31 mmol,
+99%).
+
+Data for 7: mp 134−136 °C; [α]D
+
+25 +120.9 (c 1.1, MeOH); lit26
+−13.4 (c 1.1, MeOH); IR (KBr): υ = 3340, 1652, 1081, 723
+[α]D
+cm−1; 1H NMR (δ, 500 MHz, CD3OD): 2.21−2.30 (br s, 1H), 3.4−
+3.47 (m, 2H), 3.59 (dd, 1H, J = 10.6, 6.1 Hz), 3.79 (dd, 1H, J = 10.6,
+4.1 Hz), 3.99−4.06 (m, 1H), 5.59−5.64 (m, 2H); 13C NMR (δ, 100
+MHz, CD3OD): 47.8, 63.5, 72.0, 73.7, 78.9, 128.6, 131.1; HRMS
+calculated for C7H12O4Na: 183.0633 [M + Na]+. Found: 183.0629.
+NMR data are in accordance with literature values.26−28
+
+(1R,2R,3S,6R)-6-(Benzoyloxymethyl)cyclohex-4-ene-1,2,3-
+triyl Tribenzoate (16). To a solution of 7 (17 mg, 0.1 mmol), dry py
+(0.3 mL, 3.7 mmol) and DMAP (7.2 mg, 0.06 mmol) in DCM (1.5
+mL) was added BzCl (0.2 mL, 1.7 mmol). After stirring overnight at rt,
+the reaction mixture was diluted with DCM (25 mL) and washed with
+H2O (10 mL). The organic layer was dried over MgSO4, ﬁltered, and
+concentrated under reduced pressure. The crude product obtained was
+puriﬁed by flash chromatography (silica gel, hexane/EtOAc, 5:1)).
+Product 16 was obtained as a white powder (39 mg, 0.07 mmol, 64%).
+</para>
+3520
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+ee); lit21 [α]D
+
+Data for (+)-16: mp 101−104 °C; [α]D
+
+Enantiomeric excess > 96% determined by HPLC [Chiralpak IA
+column, eluting with 90:10 hexane/iPrOH, 0.7 mL/min, 240 and 210
+nm]. (−)-enantiomer tR 25.69 min, (+)-enantiomer tR 35.33 min.
+25 +159.7 (c 0.7, DCM); IR
+(ﬁlm): υ = 3063, 3034, 2955, 2928, 2854, 1736, 1601, 1451, 1315,
+1275, 1178, 1113 707 cm−1; 1H NMR (δ, 500 MHz, CDCl3): 3.25−
+3.30 (m, 1H), 4.40 (dd, 1H, J = 11.3, 4.9 Hz), 4.61 (dd, 1H, J = 11.3,
+4.5 Hz), 5.88−5.92 (m, 1H), 5.94−6.0 (m, 2H), 6.02−6.08 (m, 2H),
+7.26−7.33 (m, 4H), 7.40−7.47 (m, 6H), 7.54−7.57 (m, 2H), 7.85−
+7.91 (m, 4H), 8.03 (d, 4H, J = 7.5 Hz); 13C NMR (δ, 100 MHz,
+CDCl3): 42.2, 64.0, 70.2, 73.0, 127.0−129.9, 133.2, 133.3, 133.32,
+133.4, 166.0 (2), 166.1, 166.4; 13C NMR (δ, 100 MHz, CD3OD):
+43.3, 65.5, 71.9, 74.2, 74.7, 127.7−134.5, 167.3, 167.3, 167.4, 167.7;
+HRMS calculated for C35H28O8Na: 599.1682 [M + Na]+. Found:
+599.1674.
+25 −147.2 (c 0.7, DCM, 86%
+
+Data for (−)-16: mp 112−115 °C; [α]D
+25 −76.9 (c 1.1, DCM, 88% ee).
+(1R,3R,6R,9S,10S)-9,10-Dihydroxy-3-phenyl-2,4-dioxa-
+bicyclo[4.4.0]dec-7-ene (17). To a solution of 7 (25 mg, 0.15
+mmol) in DMF (2 mL) were added PhCH(OMe)2 (0.03 mL, 0.2
+mmol) and p-TsOH (2 mg, 0.01 mmol) at rt. The mixture was
+immersed into a 60 °C preheated water bath and stirred under reduced
+pressure (20 mmHg) for 5 h. After the solution was cooled to rt, solid
+NaHCO3 (10 mg) was added and the solvent was removed under
+reduced pressure. The resulting residue was puriﬁed by flash
+chromatography (silica gel, hexane/EtOAc, 1:1) to give 17 (30 mg,
+0.12 mmol, 78%) as a white amorphous solid.
+
+Data for 17: mp 170−172 °C; lit28 mp 165−167 °C; [α]D
+
+25 +32 (c
+25 +28 (c 2.5, EtOH); IR (ﬁlm): υ = 3333, 2957,
+1.8, EtOH); lit28 [α]D
+2922, 2851, 1462, 1453, 1369, 1360, 1261, 1165, 1095, 1025 cm−1; 1H
+NMR (δ, 500 MHz, CD3OD): 2.55−2.60 (br s, 1H), 3.62 (t, 1H, J =
+13 Hz), 3.66 (t, 1H, J = 14 Hz), 3.78 (dd, 1H, J = 13.0, 9.2 Hz), 4.16−
+4.2 (m, 1H), 4.25 (dd, 1H, J = 10.7, 4.5 Hz), 5.40 (dt, 1H, J = 12.0, 2.0
+Hz), 5.59−5.62 (m, 1H), 5.67 (dt, 1H, J = 12.5, 3.5 Hz), 7.30−7.42
+(m, 3H), 7.51 (t, 2H, J = 12.6 Hz); 13C NMR (δ, 100 MHz, CD3OD):
+40.2, 71.1, 75.2, 76.6, 82.3, 103.3, 125.1, 127.5, 129.0, 129.8, 132.3,
+139.8; HRMS calculated for C14H17O4: 249.1127 [M + H]+. Found:
+249.1129.
+
+(1R,3R,6R,9S,10S)-9,10-Dibenzyloxy-3-phenyl-2,4-dioxa-
+bicyclo[4.4.0]dec-7-ene (18). To a suspension of NaH (20 mg, 60%
+dispersion in mineral oil, 0.5 mmol) in DMF (4 mL) at 0 °C was
+added a solution of diol 17 (30 mg, 0.12 mmol) in DMF (2 mL),
+followed by BnBr (0.06 mL, 0.5 mmol). The reaction mixture was
+stirred for 1 h at rt, and then H2O (1 mL) was added at 0 °C. The
+reaction mixture was diluted with H2O (20 mL) and extracted with
+EtOAc (3 × 20 mL). The combined organic layers were washed with
+brine (2 × 50 mL), dried over MgSO4, and ﬁltered, and the solvent
+was removed under reduced pressure to give a yellow oil, which was
+puriﬁed by flash chromatography (silica gel, hexane/EtOAc, 10:1).
+Product 18 was obtained as a colorless oil (39.5 mg, 0.09 mmol, 77%).
+20 +34 (c 2.6,
+CHCl3); IR (ﬁlm): υ = 3406, 2922, 2852, 1627, 1599, 1573, 1495,
+1462, 1453, 1434, 1371, 1084, 1069, 1025 cm−1; 1H NMR (δ, 500
+MHz, CDCl3): 2.58−2.82 (m, 1H), 3.66 (t, 1H, J = 11.2 Hz), 3.83 (t,
+1H, J = 9.9 Hz), 4.02 (ddd, 1H, J = 10.3, 7.0, 0.9 Hz), 4.24−4.41 (m,
+2H), 4.55−4.98 (m, 3H), 5.04 (d, 1H, J = 11.3 Hz), 5.41 (dt, 1H, J =
+9.9, 1.8 Hz), 5.63−5.68 (m, 1H), 5.77 (dtd, 1H, J = 9.9, 3.0, 0.7 Hz),
+7.26−7.56 (m, 15H); 13C NMR (δ, 100 MHz, CDCl3): 38.7, 70.1,
+72.4, 74.8, 80.8, 82.0, 82.3, 101.6, 125.2, 126.1, 127.7−129.0, 138.3,
+138.5, 138.8; HRMS calculated for C28H29O4: 429.2066 [M + H]+.
+Found: 429.2062. HRMS calculated for C28H28O4Na: 451.1885 [M +
+Na]+. Found: 451.1885. NMR data are in accordance with literature
+values.28
+
+25 +40.6 (c 1.85, CHCl3); lit28 [α]D
+
+Data for 18: [α]D
+
+(1R,2R,5S,6S)-5,6-Bis(benzyloxy)-2-(hydroxymethyl)cyclo-
+hex-3-enol (19). A solution of 18 (32.2 mg, 0.07 mmol) in 80%
+aqueous AcOH (2 mL) was stirred for 90 min at 40 °C and then
+concentrated to dryness. The resulting crude was puriﬁed by flash
+chromatography (silica gel, hexane/EtOAc, 1:1) to give 19 (19 mg,
+0.05 mmol, 74%) as a pale yellow oil.
+
+Data for 19: [α]D
+
+25 +34 (c 2.6, CHCl3); [α]D
+
+25 +158 (c 1.1, acetone);
+lit28 [α]D
+23 +147 (c 1.1, acetone); lit26[α]D +104.7 (c 1.0, CHCl3); IR
+(ﬁlm): υ = 3415, 3088, 3063, 3031, 1649, 1454, 1098, 1052 cm−1; 1H
+NMR (δ, 500 MHz, CDCl3): 2.48−2.53 (m, 1H), 3.64−3.72 (m, 3H),
+3.79 (dd, 1H, J = 10.7, 4.2 Hz), 4.20−4.24 (m, 1H), 4.64 (d, 1H, J =
+11.5 Hz), 4.72 (t, 2H, J = 11.5 Hz), 5.05 (d, 1H, J = 11.3 Hz), 5.53 (dt,
+1H, J = 10.2, 1.9 Hz), 5.80 (dt, 1H, J = 10.2, 2.5 Hz), 7.29−7.39 (m,
+10H); 13C NMR (δ, 100 MHz, CDCl3): 45.3, 65.5, 71.6, 72.8, 75.0,
+80.3, 83.4, 127.5−128.7, 138.1, 138.5; HRMS calculated for
+C21H24O4Na: 363.1572 [M + Na]+. Found: 363.1583. NMR data
+are in accordance with literature values.26,28
+
+(1R,2R,3S,4R,5R,6S)-5-Hydroxymethyl-7-oxa-bicyclo[4.1.0]-
+heptane-2,3,4-triol (20). m-CPBA (1.0 g, 4.05 mmol) was added to
+a solution of (+)-7 (300 mg, 1.87 mmol) in AcOH (15 mL) at 0 °C.
+The reaction mixture was stirred at rt overnight. The solvent was
+removed under reduced pressure, and the residue was triturated with
+Et2O to dissolve excess m-CPBA and 3-chlorobenzoic acid. The
+remaining white solid was washed with Et2O several times and dried at
+vacuum to give 20 (255 mg, 1.45 mmol, 78%) as a white powder.
+
+Data for 20: mp 143−145 °C; lit29 mp 150−152 °C; [α]D
+
+25 +79 (c
+0.4, H2O); lit29 [α]D
+25 +80 (c 0.36, H2O); 1H NMR (δ, 500 MHz,
+CD3OD): 1.92−1.96 (m, 1H), 3.18 (d, 1H, J = 4.0 Hz), 3.22 (t, 1H, J
+= 9.9 Hz), 3.27 (dd, 1H, J = 3.7, 1.5 Hz), 3.33−3.38 (m, 1H), 3.69−
+3.74 (m, 2H), 3.88 (dd, 1H, J = 10.8, 3.5 Hz); 13C NMR (δ, 100 MHz,
+CD3OD): 46.4, 55.3, 58.1, 62.1, 71.3, 73.3, 74.8; HRMS calculated for
+C7H12O5Na: 199.0582 [M + Na]+. Found: 199.0575.
+
+(1S,2R,3S,4R,5R,6S)-2,3,4-tris(benzyloxy)-5-(Benzyloxy-
+methyl)-7-oxabicyclo[4.1.0]heptane (6). To a suspension of NaH
+(350 mg, 60% dispersion in mineral oil, 8.75 mmol) in DMF (15 mL)
+at 0 °C was added a solution of epoxide 20 (200 mg, 1.13 mmol) in
+DMF (5 mL), followed by BnBr (0.9 mL, 7.6 mmol). The reaction
+mixture was stirred for 6 h at rt, and then H2O (1 mL) was added at 0
+°C. The reaction mixture was diluted with H2O (30 mL) and extracted
+with Et2O (3 × 40 mL). The combined organic layers were washed
+with brine (2 × 100 mL), dried over MgSO4, and ﬁltered, and the
+solvent was removed under reduced pressure to give a yellow oil,
+which was puriﬁed by flash chromatography (silica gel, hexane/EtOAc,
+20:1). Product 6 was obtained as a white powder (315 mg, 0.59 mmol,
+52%).
+
+Data for (+)-6: mp 97−99 °C; lit31 mp 103−104 °C; [α]D
+
+25 +53.5 (c
+0.50, CHCl3); lit31 [α]D
+25 +60 (c 0.50, CHCl3); IR (ﬁlm): υ = 3062,
+3029, 2923, 2852, 1737, 1496, 1454, 1363, 1158, 1072, 1027, 735, 697
+cm−1; 1H NMR (δ, 500 MHz, CDCl3): 2.22 (dt, 1H, J = 9.7, 3.2 Hz,
+H-5), 3.17 (d, 1H, J = 4.0 Hz, H-6), 3.34 (dd, 1H, J = 3.75, 1.4 Hz, H-
+1), 3.48 (t, 1H, J = 9.7 Hz, H-4), 3.56 (d, 2H, J = 3.5 Hz, H-8, H-8′),
+3.73 (t, 1H, J = 9.3 Hz, H-3), 3.89 (dd, 1H, J = 8.5, 1.3 Hz, H-2),
+4.34−4.88 (m, 8H, 4 × PhCH2O), 7.16−7.42 (m, 20H, Ph); 13C NMR
+(δ, 100 MHz, CDCl3): 43.0 (C5), 55.0 (C6), 55.2 (C1), 68.4 (C8),
+73.0 (PhCH2O), 73.3 (PhCH2O), 75.4 (PhCH2O), 75.9 (PhCH2O),
+77.7 (C4), 79.9 (C2), 82.4 (C3), 127.7−128.5 (CHar), 138.0 (Car),
+138.5 (Car), 138.6 (Car), 138.8 (Car); HRMS calculated for
+C35H36O5Na: 559.2460 [M + Na]+. Found: 559.2479.
+
+(1R,2R,3S,6R)-6-(Trityloxymethyl)cyclohex-4-ene-1,2,3-triol
+(21a). To a solution of compound (+)-7 (0.36 g, 2.25 mmol) in
+CH3CN/DMF (20:1, 15 mL) was added tritylpyridinium tetraﬂuor-
+oborate (1.01 g, 2.47 mmol). The reaction was stirred for 12 h, and
+then the solvent was removed in vacuo. The residue was taken in
+EtOAc (20 mL) and ﬁltered, and the solid was washed several times
+with EtOAc. The ﬁltrate and washings were evaporated to dryness
+under reduced pressure. The resulting residue was puriﬁed by ﬂash
+chromatography (silica gel, hexane/EtOAc, 1:1) to give compound
+21a (702 mg, 1.74 mmol, 77%) as a white solid.
+25 +85.6 (c 1.0, CHCl3); 1H
+NMR (δ, 500 MHz, CDCl3): 2.58−2.59 (br s, 1H), 3.12−3.16 (m,
+1H), 3.42−3.46 (m, 1H), 3.58−3.65 (m, 2H), 4.21−4.22 (m, 1H),
+5.35−5.37 (m, 1H), 5.61- 5.64 (m, 1H), 7.27−7.45 (m, 15H); 13C
+NMR (δ, 100 MHz, CDCl3): 44.2, 66.5, 72.3, 73.6, 77.6, 87.6, 126.5,
+127.4, 128.1, 128.7, 129.5, 143.6; HRMS calculated for C26H26O4Na:
+425.1729 [M + Na]+. Found: 425.1728.
+
+Data for 21a: mp 118−120 °C; [α]D
+</para>
+3521
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+(1R,2R,3S,6R)-6-((tert-Butyldiphenylsilyloxy)methyl)cyclo-
+hex-4-ene-1,2,3-triol (21b). Imidazole (148 mg, 2.17 mmol) was
+added to a stirred solution of (+)-7 (163 mg, 1.01 mmol) in DMF (10
+mL) at 0 °C. After 30 min, DMAP (12 mg, 0.1 mmol) and tert-
+butyldiphenylsilyl chloride (0.34 mL, 1.3 mmol) were added, and the
+resulting mixture was stirred at 45 °C. After 2 h, the mixture was
+cooled to 0 °C, quenched by the addition of MeOH (2 mL), and
+solvents were removed under reduced pressure. The compound 21b
+(347 mg, 0.84 mmol, 83%) was isolated as a white solid after flash
+chromatography (silica gel, DCM/MeOH, 20:1).
+
+Data for 21b: mp 125−127 °C; [α]D
+
+25 +92.6 (c 0.56, MeOH); IR
+(ﬁlm): υ = 3405, 2929, 2857, 1659, 1589, 1472, 1427, 1112, 823, 701
+cm−1; 1H NMR (δ, 500 MHz, CD3OD): 1.04 (s, 9H), 2.30−2.34 (br s,
+1H), 3.41 (dd, 1H, J = 10.1, 8.0 Hz), 3.59 (t, 1H, J = 9.7), 3.79−3.89
+(m, 2H), 4.03−4.06 (m, 1H), 5.58−5.66 (m, 2H), 7.38−7.44 (m, 6H),
+7.66−7.68 (m, 4H); 13C NMR (δ, 100 MHz, CD3OD): 20.2, 27.3,
+48.0, 65.0, 71.5, 73.7, 79.0, 128.8, 129.3, 130.8, 130.9, 136.7, 136.7.
+HRMS calculated for C23H30O4SiNa: 421.1811 [M + Na]+. Found:
+421.1808.
+
+(1S,2R,3R,4R)-4-Hydroxymethyl-1,2,3-tribenzyloxy-5-cyclo-
+hexene (22). (a) To a suspension of NaH (304 mg, 60% dispersion
+in mineral oil, 7.6 mmol) in DMF (10 mL) at 0 °C was added a
+solution of 21a (690 mg, 1.71 mmol) in DMF (10 mL), followed by
+BnBr (0.9 mL, 7.6 mmol). The reaction mixture was stirred for 30 min
+at 0 °C, and the mixture was warmed to rt over a period of 30 min, and
+stirred at rt for an additional 2 h. The mixture was then cooled back to
+0 °C and quenched by the addition of H2O (0.5 mL) The reaction
+mixture was diluted with H2O (40 mL) and extracted with Et2O (3 ×
+60 mL). The combined organic layers were washed with brine (2 ×
+100 mL), dried over MgSO4, and ﬁltered, and the solvent was removed
+under reduced pressure to give a yellow oil. This material was used
+without further puriﬁcation. The residue was dissolved in DCM/
+MeOH (1:4, 10 mL), p-toluenesulfonic acid monohydrate (33 mg,
+0.17 mmol) was added, and the reaction mixture was stirred at rt. After
+3 h, the reaction was stopped by addition of Et3N (0.05 mL), and then
+concentrated and puriﬁed by flash chromatography (silica gel, hexane/
+EtOAc, 5:1) to give 22 (0.65 g, 1.50 mmol, 88%) as a colorless oil.
+(b) To a suspension of NaH (144 mg, 60% dispersion in mineral
+oil, 3.6 mmol) in DMF (15 mL) at 0 °C was added a solution of 21b
+(287 mg, 0.72 mmol) in DMF (5 mL), followed by BnBr (0.5 mL, 4.2
+mmol). The reaction mixture was stirred for 2 h at 0 °C, and then H2O
+(2 mL) was added at 0 °C. The reaction mixture was diluted with H2O
+(30 mL) and extracted with Et2O (3 × 40 mL). The combined organic
+layers were washed with brine (2 × 100 mL), dried over MgSO4, and
+ﬁltered, and the solvent was removed under reduced pressure to give a
+yellow oil, which was puriﬁed by flash chromatography (silica gel,
+hexane/EtOAc, 40:1). The resulting oil (376 mg, 0.56 mmol) was
+redissolved in THF (15 mL), and TBAF (1.0 M soln. in THF, 1.2 mL,
+1.2 mmol) was added at 0 °C. After 30 min at 0 °C, the reaction was
+stirred at 40 °C for an additional 2 h. The solution was then cooled to
+0 °C, and MeOH (0.5 mL) was added. The solvents were removed
+under reduced pressure, and the crude product was puriﬁed by flash
+chromatography (silica gel, hexane/EtOAc, 10:3 to 2:1) to give 22
+(217 mg, 70%) as a colorless oil.
+
+Data for 22: [α]D
+
+25 +67.3 (c 0.4, CHCl3); lit21 [α]D
+
+23 +104.5 (c 1.92,
+CHCl3); IR (ﬁlm): υ = 3442, 3063, 3030, 2923, 2853, 2360, 2343,
+1496, 1454, 1359 cm−1; 1H NMR (δ, 500 MHz, CDCl3): 2.47−2.50
+(br s, 1H), 3.64−3.71 (m, 3H), 3.85 (dd, 1H, J = 10.0, 7.8 Hz), 4.24−
+4.28 (m, 1H), 4.69 (d, 1H, J = 11.2 Hz), 4.73 (s, 2H), 4.94−4.99 (m,
+2H), 5.0 (d, 1H, J = 11.2 Hz), 5.55 (dt, 1H, J = 10.0, 1.8 Hz), 5.76 (dt,
+1H, J = 10.2, 2.1 Hz), 7.28−7.39 (m, 15H); 13C NMR (δ, 100 MHz,
+CDCl3): 45.9, 63.4, 72.3, 75.2, 75.4, 78.7, 80.9, 85.3, 127.7−128.7,
+138.4, 138.5, 138.9; HRMS calculated for C28H30O4Na: 453.2042 [M
++ Na]+. Found: 453.2051. NMR data are consistent with those
+reported in the literature.21,32,33
+
+((1R,2R,3R,4S,5R,6R)-3,4,5-Tris(benzyloxy)-7-oxabicyclo-
+((+)-2,3,4-Tri-O-benzylcyclo-
+[4.1.0]heptan-2-yl)methanol
+phellitol, 5). m-CPBA (370 mg, 70%, 1.5 mmol) was added to a
+cooled (0 °C) solution of the alkene 23 (219 mg, 0.5 mmol) in DCM
+(30 mL). The mixture was warmed to rt. After 18 h, the reaction
+
+mixture was washed with saturated aqueous NaHCO3 (30 mL) and
+the aqueous layer extracted with EtOAc (3 × 50 mL). The combined
+organic layers were dried over MgSO4, ﬁltered, and concentrated in
+vacuo. The resulting residue was puriﬁed by flash chromatography
+(silica gel, hexane/EtOAc, 4:1 to 3:1) to aﬀord the desired epoxide 5
+followed by the
+(160 mg, 0.36 mmol, 70%) as a white solid,
+diastereomeric epoxide (27 mg, 0.06 mmol, 12%).
+Data for epoxide 5: mp 98−100 °C; lit21 mp 101 °C; lit36 mp 92−
+93 °C; [α]D
+25 +65.8 (c 0.9, CHCl3); lit36 [α]D +71.0 (c 0.9, CHCl3); IR
+(ﬁlm): υ = 3356, 2957, 2924, 2854, 1463, 1454, 1070, 736, 694 cm−1;
+1H NMR (δ, 500 MHz, CDCl3): 2.18−2.22 (m, 1H), 3.19 (d, 1H, J =
+3.7 Hz), 3.36 (d, 1H, J = 3.4 Hz), 3.49 (t, 1H, J = 10.0 Hz), 3.59 (dd,
+1H, J = 10.0, 8.0 Hz), 3.89 (dd, 2H, J = 11.8, 4.5 Hz), 3.98 (dd, 1H, J =
+10.8, 4.5 Hz), 4.57 (d, 1H, J = 10.9 Hz), 4.74−4.94 (m, 5H), 7.28−
+7.37 (m, 15H); 13C NMR (δ, 100 MHz, CDCl3): 44.1, 53.1, 56.0, 63.0,
+73.3, 75.5, 75.7, 75.7, 79.9, 85.1, 127.7−128.7, 137.7, 138.2, 138.7;
+HRMS calculated for C28H30O5Na: 469.1991 [M + Na]+. Found:
+469.1992. 1H and 13C NMR data are completely consistent with those
+reported.21,33,36
+
+(1S,2R,3S,4R,5R,6R)-5-Hydroxymethyl-7-oxa-bicyclo[4.1.0]-
+heptane-2,3,4-triol (23). In a glass pressure ﬂask, epoxide 5 (60 mg,
+0.13 mmol) was dissolved in THF (3 mL) and Pd/C (50 mg, 5−15%
+Pd on activated C, water-wet) was then added. The ﬂask was
+repeatedly ﬁlled and evacuated with hydrogen and vigorously stirred at
+room temperature for 14 h under H2 (1 atm). The reaction mixture
+was next ﬁltered through a plug of Celite to separate the catalyst, and
+the ﬁlter was washed three times with MeOH. The combined ﬁltrates
+and washings were concentrated to give 23 (21.5 mg, 0.12 mmol,
+91%) as a white solid.
+
+23 +102 (c 0.7, H2O); lit36 [α]D
+
+Data for epoxide 23: mp 132−134 °C; lit21 mp 145 °C; [α]D
+
+25 +101
+(c 0.5, H2O); lit21 [α]D
+27 +103 (c 0.5,
+H2O); 1H NMR (δ, 500 MHz, CD3OD): 1.94−2.01 (m, 1H), 3.04−
+3.08 (m, 2H), 3.20 (dd, 1H, J = 9.9, 8.3 Hz), 3.40−3.42 (m, 1H), 3.64
+(d, 1H, J = 8.2 Hz), 3.68 (dd, 1H, J = 10.1, 9.3 Hz), 4.01 (dd, 1H, J =
+10.5, 4.3 Hz); 13C NMR (δ, 100 MHz, CD3OD): 45.9, 56.0, 57.4, 62.4,
+68.8, 72.8, 78.5; HRMS calculated for C7H12O5Na: 199.0582 [M +
+Na]+. Found: 199.0578. NMR data are in accordance with literature
+values.21,36
+
+General Method A: Reaction of epoxides 5 and 6 with
+nucleophiles in the presence of LiClO4. A 2 N suspension of
+LiClO4 in anhydrous CH3CN (3 mL) was added dropwise under an
+argon atmosphere to the starting epoxides 5 or 6 (0.3 mmol). NaN3 or
+the corresponding amine (3.0 mmol) was added next, and the reaction
+mixture was stirred at 80 °C. After 18 h, the mixture was cooled to rt,
+quenched by the addition of H2O (0.5 mL) and concentrated in vacuo.
+The residue was taken up in 30 mL of Et2O and washed with H2O (15
+mL), and the aqueous layer was extracted with Et2O (3 × 30 mL). The
+combined organic layers were washed with brine and dried over
+MgSO4. Filtration and evaporation aﬀorded crude aminoalcohols,
+which were puriﬁed as indicated below.
+
+(1R,2S,3S,4S,5R,6S)-3,4,5-Tris(benzyloxy)-6-(hydroxymethyl)-2-
+(24a) and (1R,2S,3S,4R,5R,6S)-
+(phenethylamino)cyclohexanol
+2,3,4-Tris(benzyloxy)-5-(hydroxymethyl)-6-(phenethylamino)-
+cyclohexanol (25a). According to the general method A, the ring-
+opening of epoxide 5 (141 mg, 0.32 mmol) with 2-phenylethylamine
+(0.4 mL, 3.2 mmol) aﬀorded a mixture of regioisomers 25a and 24a in
+a ratio of 91:9. Chromatography on silica gel (hexane/EtOAc, 1:2)
+provided 24a (14 mg, 0.02 mmol, 8%), followed by 25a (135 mg, 0.24
+mmol, 75%).
+
+Data for 24a: Pale yellow oil; [α]D
+
+25 +41.2 (c 1.00, CHCl3); IR
+(ﬁlm): υ = 3320, 3103, 3072, 2925, 2851, 1499, 1445, 1348, 1061, 693
+cm−1; 1H NMR (δ, 500 MHz, CDCl3): 2.12−2.20 (m, 1H, H-6),
+2.73−2.84 (m, 4H, PhCH2, NCH2), 3.07 (t, 1H, J = 3.9 Hz, H-2), 3.73
+(dd, 1H, J = 11.0, 2.5 Hz, H-7), 3.87 (t, 1H, J = 8.4 Hz, H-5), 3.91 (t,
+1H, J = 8.4 Hz, H-4), 3.98 (dd, 1H, J = 8.7, 4.2 Hz, H-3), 4.05 (dd, 1H,
+J = 11.0, 3.5 Hz, H-7′), 4.15−4.17 (m, 1H, H-1), 4.50−4.92 (m, 6H, 3
+× PhCH2O), 7.20−7.38 (m, 20 H, Ph); 13C NMR (δ, 100 MHz,
+CDCl3): 36.6 (PhCH2), 41.5 (C6), 49.8 (NCH2), 60.0 (C2), 63.5
+(C7), 72.3 (C1), 72.5 (PhCH2O), 74.7 (PhCH2O), 75.4 (PhCH2O),
+75.7 (C5), 79.9 (C3), 83.7 (C4), 126.3−128.7 (CHar), 138.6 (Car),
+</para>
+3522
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+138.9 (Car), 139.1 (Car), 140.0 (Car); HRMS calculated for
+C36H42NO5: 568.3063 [M + H]+. Found: 568.3069.
+
+Data for 25a: Pale yellow oil; [α]D
+
+25 +6.8 (c 1.00, CHCl3); IR (ﬁlm):
+υ = 3389, 3063, 3030, 2924, 2854, 1666, 1496, 1454, 1360, 1066, 1028,
+750, 698 cm−1; 1H NMR (δ, 500 MHz, CDCl3): 1.84−1.90 (m, 1H,
+H-5), 2.64 (t, 1H, J = 10.9 Hz, H-6), 2.72−2.89 (m, 2H, PhCH2),
+2.95−3.08 (m, 2H, NCH2), 3.24 (t, 1H, J = 9.9 Hz, H-4), 3.30 (t, 1H, J
+= 9.3 Hz, H-2), 3.54−3.62 (m, 2H, H-1, H-3), 3.66 (dd, 1H, J = 10.6,
+7.8 Hz, H-7), 3.99 (dd, 1H, J = 10.6, 3.0 Hz, H-7′), 4.55−4.98 (m, 6H,
+3 × PhCH2O), 7.20−7.38 (m, 20H, Ph); 13C NMR (δ, 100 MHz,
+CDCl3): 36.3 (PhCH2), 42.6 (C5), 45.6 (NCH2), 60.5 (C6), 63.9
+(C7), 72.4 (C1), 75.5 (PhCH2O), 75.6 (PhCH2O), 75.7 (PhCH2O),
+79.5 (C4), 83.8 (C2), 85.6 (C3), 126.6−128.8 (CHar), 138.0 (Car),
+138.36 (Car), 138.42 (Car), 138.9 (Car); HRMS calculated for
+C36H42NO5: 568.3063 [M + H]+. Found: 568.3045.
+(1R,2S,3S,4S,5R,6S)-3,4,5-Tris(benzyloxy)-6-(hydroxymethyl)-2-
+(octylamino)cyclohexanol (24b) and (1R,2S,3S,4R,5R,6S)-2,3,4-Tris-
+(25b).
+(benzyloxy)-5-(hydroxymethyl)-6-(octylamino)cyclohexanol
+According to the general method A, the ring-opening of epoxide 5
+(131 mg, 0.29 mmol) with octylamine (0.48 mL, 2.9 mmol) aﬀorded a
+regioisomers 25b and 24b in a ratio of 83:17.
+mixture of
+Chromatography on silica gel (hexane/EtOAc, 1:2) provided 24b
+(22 mg, 0.04 mmol, 13%), followed by 25b (117 mg, 0.20 mmol,
+69%).
+
+Data for 24b: Pale yellow oil; [α]D
+
+25 +38.7 (c 0.64, CHCl3); IR
+(ﬁlm): υ = 3389, 3081, 3061, 3021, 2954, 2926, 2855, 1471, 1451,
+1060, 1023, 661 cm−1; 1H NMR (δ, 500 MHz, CDCl3): 0.88 (t, 3H, J
+= 6.9 Hz, CH3), 1.18−1.42 (m, 12H, 6 × CH2), 2.12−2.20 (m, 1H, H-
+6), 2.39−2.54 (m, 2H, NCH2), 3.04 (t, 1H, J = 3.8 Hz, H-2), 3.75 (dd,
+1H, J = 10.9, 2.1 Hz, H-7), 3.87 (t, 1H, J = 8.5 Hz, H-5), 3.90 (t, 1H, J
+= 8.5 Hz, H-4), 3.98 (dd, 1H, J = 8.5, 4.1 Hz, H-3), 4.06 (dd, 1H, J =
+10.9, 3.2 Hz, H-7′), 4.15−4.18 (m, 1H, H-1), 4.59−4.91 (m, 6H, 3 ×
+PhCH2O), 7.26−7.38 (m, 15H, Ph); 13C NMR (δ, 100 MHz, CDCl3):
+14.3 (CH3), 22.8 (CH2), 27.4 (CH2), 29.4 (CH2), 29.6 (CH2), 29.8
+(CH2), 32.0 (CH2), 41.6 (C6), 48.7 (NCH2), 60.3 (C2), 63.5 (C7),
+72.4 (C1), 72.5 (PhCH2O), 74.7 (PhCH2O), 75.4 (PhCH2O), 75.8
+(C5), 80.3 (C3), 83.8 (C4), 127.7−128.7 (CHar), 138.6 (Car), 138.8
+(Car), 139.1 (Car); HRMS calculated for C36H50NO5: 576.3689 [M +
+H]+. Found: 576.3693.
+
+Data for 25b: Pale yellow oil; [α]D
+
+25 +5.1 (c 1.00, CHCl3); IR (ﬁlm):
+υ = 3389, 3084, 3056, 3026, 2958, 2927, 2852, 1478, 1458, 1081, 1024,
+893, 651 cm−1; 1H NMR (δ, 500 MHz, CDCl3): 0.87 (t, 3H, J = 7.1
+Hz, CH3), 1.15−1.55 (m, 12H, 6 × CH2), 1.95−2.01 (m, 1H, H-5),
+2.74−2.88 (m, 3H, H-6, NCH2), 3.24 (t, 1H, J = 9.8 Hz, H-4), 3.33 (t,
+1H, J = 9.3 Hz, H-2), 3.58 (t, 1H, J = 9.3 Hz, H-3), 3.65 (t, 1H, J = 9.8
+Hz, H-1), 3.70 (dd, 1H, J = 10.7, 8.2 Hz, H-7), 4.07 (dd, 1H, J = 10.5,
+2.7 Hz, H-7′), 4.54−4.97 (m, 6H, 3 × PhCH2O), 7.26−7.36 (m, 15H,
+Ph); 13C NMR (δ, 100 MHz, CDCl3): 14.2 (CH3), 22.8 (CH2), 27.0
+(CH2), 29.3 (CH2), 29.4 (CH2), 29.9 (CH2), 31.9 (CH2), 41.8 (C5),
+45.0 (NCH2), 61.0 (C6), 63.7 (C7), 71.8 (C1), 75.6 (PhCH2O), 75.70
+(PhCH2O), 75.73 (PhCH2O), 79.0 (C4), 83.4 (C2), 85.3 (C3),
+127.9−128.8 (CHar), 137.8 (Car), 138.2 (Car), 138.3 (Car); HRMS
+calculated for C36H50NO5: 576.3689 [M + H]+. Found: 576.3702.
+(1R,2S,3S,4S,5R,6S)-3,4,5-Tris(benzyloxy)-2-(butylamino)-6-
+(hydroxymethyl)cyclohexanol (24c) and (1R,2S,3S,4R,5R,6S)-2,3,4-
+tris(benzyloxy)-6-(butylamino)-5-(hydroxymethyl)cyclohexanol
+(25c). According to the general method A, the ring-opening of epoxide
+5 (141 mg, 0.32 mmol) with butylamine (0.32 mL, 3.2 mmol) aﬀorded
+regioisomers 25c and 24c in a ratio of 87:13.
+a mixture of
+Chromatography on silica gel (hexane/EtOAc, 1:2) provided 24c
+(19 mg, 0.04 mmol, 11%), followed by 25c (121 mg, 0.23 mmol,
+74%).
+
+Data for 24c: Pale yellow oil; [α]D
+
+25 +41.4 (c 0.88, CHCl3); IR
+(ﬁlm): υ = 3389, 3088, 3063, 3030, 2956, 2924, 2854, 1496, 1454,
+1360, 1094, 1067, 1028, 733, 697, 665 cm−1; 1H NMR (δ, 500 MHz,
+CDCl3): 0.90 (t, 3H, J = 7.3 Hz, CH3), 1.23−1.54 (m, 4H, 2 × CH2),
+2.14−2.19 (m, 1H, H-6), 2.44−2.57 (m, 2H, CH2), 3.07 (t, 1H, J = 3.6
+Hz, H-2), 3.77 (dd, 1H, J = 11.0, 2.5 Hz, H-7), 3.89 (t, 1H, J = 8.5 Hz,
+H-5), 3.92 (t, 1H, J = 8.4 Hz, H-4), 4.00 (dd, 1H, J = 8.6, 4.1 Hz, H-3),
+4.07 (dd, 1H, J = 11.0, 4.1 Hz, H-7′), 4.17−4.21 (m, 1H, H-1), 4.62−
+
+Article
+4.93 (m, 6H, 3 × PhCH2O), 7.28−7.38 (m, 15H, Ph); 13C NMR (δ,
+100 MHz, CDCl3): 14.1 (CH3), 20.5 (CH2), 29.8 (CH2), 41.6 (C6),
+48.4 (NCH2), 60.3 (C2), 63.5 (C7), 72.3 (C1), 72.5 (PhCH2O), 74.7
+(PhCH2O), 75.4 (PhCH2O), 75.8 (C5), 79.8 (C3), 83.7 (C4), 127.6−
+128.7 (CHar), 138.6 (Car), 138.8 (Car), 139.1 (Car); HRMS
+calculated for C32H42NO5: 520.3063 [M + H]+. Found: 520.3061.
+
+Data for 25c: Pale yellow oil; [α]D
+
+25 +12.4 (c 0.84, CHCl3); IR
+(ﬁlm): υ = 3309, 3078, 3051, 3028, 2851, 1493, 1458, 1090, 1065,
+1025, 668 cm−1; 1H NMR (δ, 500 MHz, CDCl3): 0.83−1.54 (m, 7H,
+CH3, 2 × CH2), 2.12−2.18 (m, 1H, H-5), 2.95−3.15 (m, 3H, CH2, H-
+6), 3.27 (t, 1H, J = 9.7 Hz, H-4), 3.39 (t, 1H, J = 9.2 Hz, H-2), 3.61 (t,
+1H, J = 9.2 Hz, H-3), 3.74 (dd, 1H, J = 10.6, 8.9 Hz, H-7), 3.80 (t, 1H,
+J = 9.8 Hz, H-1), 4.16 (dd, 1H, J = 10.8, 2.9 Hz, H-7′), 4.53−4.96 (m,
+6H, 3 × PhCH2O), 7.26−7.40 (m, 15H, Ph); 13C NMR (δ, 100 MHz,
+CDCl3): 13.6 (CH3), 19.7 (CH2), 29.8 (CH2), 40.7 (C5), 45.8
+(NCH2), 61.8 (C6), 63.3 (C7), 71.3 (C1), 75.5 (PhCH2O), 75.7
+(PhCH2O), 75.8 (PhCH2O), 78.3 (C4), 82.7 (C2), 84.7 (C3), 127.8−
+128.8 (CHar), 137.6 (Car), 138.0 (Car), 138.1 (Car); HRMS
+calculated for C32H42NO5: 520.3063 [M + H]+. Found: 520.3080.
+(1R,2S,3S,4S,5R,6S)-2-Azido-3,4,5-tris(benzyloxy)-6-(hydroxy-
+methyl)cyclohexanol (24e) and (1R,2S,3S,4R,5R,6S)-6-Azido-2,3,4-
+tris(benzyloxy)-5-(hydroxymethyl)cyclohexanol (25e). According to
+the general method A, the ring-opening of epoxide 5 (171 mg, 0.38
+mmol) with NaN3 (0.25 g, 3.8 mmol) aﬀorded a mixture of
+regioisomers 25e and 24e in a ratio of 75:25. Chromatography on
+silica gel (hexane/EtOAc, 2:1) provided 25e (115 mg, 0.23 mmol,
+61%), followed by 24e (39 mg, 0.08 mmol, 21%).
+25 +22 (c 1.00, CHCl3); IR (ﬁlm): υ
+= 3440, 3049, 3022, 2909, 2104, 1714, 1496, 1452 cm−1; 1H NMR (δ,
+500 MHz, CDCl3): 1.71−1.76 (m, 1H, H-6), 3.70−3.74 (m, 1H, H-7),
+3.82−3.92 (m, 3H, H-2, H-4, H-5), 4.00 (dd, 1H, J = 10.9, 2.3 Hz, H-
+7′), 4.06−4.08 (m, 2H, H-1, H-3), 4.70−5.00 (m, 6H, 3 × PhCH2O),
+7.29−7.40 (m, 15H, Ph); 13C NMR (δ, 100 MHz, CDCl3): 41.6 (C6),
+62.8 (C2), 63.0 (C7), 73.1 (C1), 73.5 (PhCH2O), 74.7 (C5), 75.0
+(PhCH2O), 76.0 (PhCH2O), 80.3 (C3), 84.3 (C4), 127.7−128.8
+(CHar), 138.2 (Car), 138.6 (Car), 138.8 (Car); HRMS calculated for
+C28H31N3O5Na: 512.2161 [M + Na]+. Found: 512.2159.
+25 −8.8 (c 1.00, CHCl3); IR (ﬁlm): υ
+= 3439, 3054, 3026, 2903, 2106, 1953, 1721, 1493, 1455 cm−1; 1H
+NMR (δ, 500 MHz, CDCl3): 1.41−1.47 (m, 1H, H-5), 2.57−2.75
+(brs, 1H, OH), 3.38−3.45 (m, 2H, H-2, H-6), 3.56−3.62 (m, 3H, H-1,
+H-3, H-4), 3.79 (dd, 1H, J = 10.8, 2.4 Hz, H-7), 3.85 (dd, 1H, J = 10.8,
+1.6 Hz, H-7′), 4.72−5.02 (m, 6H, 3 × PhCH2O), 7.28−7.40 (m, 15H,
+Ph); 13C NMR (δ, 100 MHz, CDCl3): 45.2 (C5), 58.3 (C7), 60.9
+(C6), 75.3 (PhCH2O), 75.7 (PhCH2O), 75.9 (PhCH2O), 76.3, 76.8,
+83.2 (C2), 85.7 (C3), 127.9−128.8 (CHar), 138.1 (Car), 138.27
+(Car), 138.35 (Car); HRMS calculated for C28H31N3O5Na: 512.2161
+[M + Na]+. Found: 512.2153.
+
+Data for 24e: Colorless oil; [α]D
+
+Data for 25e: Colorless oil; [α]D
+
+(1S,2R,3S,4S,5R,6S)-3,4,5-Tris(benzyloxy)-6-(benzyloxymethyl)-2-
+(27a). According to the general
+(phenethylamino)cyclohexanol
+method A, the ring-opening of epoxide 6 (56 mg, 0.10 mmol) with
+2-phenylethylamine (0.13 mL, 1.0 mmol) aﬀorded 51 mg (0.08 mmol,
+74%) of 27a after chromatography on silica gel (hexane/EtOAc, 2:1 to
+1:1).
+
+Data for 27a: Pale yellow oil; [α]D
+
+25 +11.6 (c 0.43, CHCl3); IR
+(ﬁlm): υ = 3331, 3062, 3028, 2923, 2853, 1658, 1495, 1453, 1069,
+1028, 876, 750 cm−1; 1H NMR (δ, 500 MHz, CDCl3): 1.68 (t, 1H, J =
+10.2 Hz, H-6), 2.49 (t, 1H, J = 10.2 Hz, H-2), 2.68−2.77 (m, 2H,
+PhCH2), 2.91 (dt, 1H, J = 11.2, 7.1 Hz, NCH2), 3.13 (dt, 1H, J = 11.3,
+7.1 Hz, NCH2), 3.43 (t, 1H, J = 9.2 Hz, H-3), 3.49 (t, 1H, J = 10.3 Hz,
+H-1), 3.60−3.67 (m, 2H, H-4, H-5), 3.80 (dd, 1H, J = 8.9, 3.0 Hz, H-
+7), 3.88 (dd, 1H, J = 8.9, 1.9 Hz, H-7′), 4.54−4.99 (m, 8H, 4 ×
+PhCH2O), 7.14−7.34 (m, 25H, Ph); 13C NMR (δ, 100 MHz, CDCl3):
+37.1 (PhCH2), 47.2 (C6), 47.9 (NCH2), 65.2 (C2), 65.9 (C7), 66.9
+(C1), 73.4 (PhCH2O), 75.3 (PhCH2O), 75.60 (PhCH2O), 75.62
+(PhCH2O), 77.9, 80.7 (C3), 88.0, 126.3−128.9 (CHar), 138.4 (Car),
+138.51 (Car), 138.53 (Car), 138.7 (Car), 139.8 (Car); HRMS
+calculated for C43H48NO5: 658.3532 [M + H]+. Found: 658.3545.
+(1S,2R,3S,4S,5R,6S)-3,4,5-Tris(benzyloxy)-6-(benzyloxymethyl)-2-
+(octylamino)cyclohexanol (27b). According to the general method A,
+</para>
+3523
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+the ring-opening of epoxide 6 (38 mg, 0.07 mmol) with octylamine
+(0.12 mL, 0.7 mmol) aﬀorded 36 mg (0.05 mmol, 76%) of 27b after
+chromatography on silica gel (hexane/EtOAc, 1:1).
+
+Data for 27b: Pale yellow oil; [α]D
+
+25 +9.5 (c 0.72, CHCl3); IR (ﬁlm):
+υ = 3344, 3088, 3064, 3030, 2924, 2854, 1496, 1454, 1360, 1148, 1068,
+1028, 734, 697, 666 cm−1; 1H NMR (δ, 500 MHz, CDCl3): 0.91 (t,
+3H, J = 7.0 Hz, CH3), 1.17−1.38 (m, 12H, 6 × CH2), 1.70 (t, 1H, J =
+10.0 Hz, H-6), 2.47 (t, 1H, J = 10.2 Hz, H-2), 2.57 (dt, 1H, J = 11.0,
+7.1 Hz, NCH2), 2.76 (dt, 1H, J = 11.0, 7.2 Hz, NCH2), 3.47 (t, 1H, J =
+9.2 Hz, H-3), 3.50 (t, 1H, J = 10.2 Hz, H-1), 3.63−3.69 (m, 2H, H-4,
+H-5), 3.79 (dd, 1H, J = 8.9, 2.9 Hz, H-7), 3.90 (d, 1H, J = 8.8 Hz, H-
+7′), 4.48−5.03 (m, 8H, 4 × PhCH2O), 7.21−7.37 (m, 20H, Ph); 13C
+NMR (δ, 100 MHz, CDCl3): 14.3 (CH3), 22.8 (CH2), 27.4 (CH2),
+29.4 (CH2), 29.6 (CH2), 30.9 (CH2), 31.9 (CH2), 46.6 (NCH2), 47.3
+(C6), 65.1 (C2), 65.9 (C7), 66.8 (C1), 73.4 (PhCH2O), 75.4
+(PhCH2O), 75.6 (2 × PhCH2O), 77.9, 80.5 (C3), 88.2, 127.7−128.7
+(CHar), 138.50 (Car), 138.53 (Car), 138.55 (Car), 138.72 (Car);
+HRMS calculated for C43H56NO5: 666.4158 [M + H]+. Found:
+666.4181.
+
+(1S,2R,3S,4S,5R,6S)-3,4,5-Tris(benzyloxy)-6-(benzyloxymethyl)-2-
+(butylamino)cyclohexanol (27c). According to the general method A,
+the ring-opening of epoxide 6 (39 mg, 0.07 mmol) with butylamine
+(0.08 mL, 0.7 mmol) aﬀorded 32 mg (0.05 mmol, 72%) of 27c after
+chromatography on silica gel (hexane/EtOAc, 1:1).
+
+Data for 27c: Pale yellow oil; [α]D
+
+25 +8.7 (c 0.90, CHCl3); IR (ﬁlm):
+υ = 3349, 3088, 3063, 3030, 2956, 2924, 2870, 1496, 1454, 1360, 1145,
+1089, 1068, 1028, 734, 697, 666 cm−1; 1H NMR (δ, 500 MHz,
+CDCl3): 0.88 (t, 3H, J = 7.3 Hz, CH3), 1.20−1.40 (m, 4H, 2 × CH2),
+1.69 (t, 1H, J = 9.0 Hz, H-6), 2.49 (t, 1H, J = 10.2 Hz, H-2), 2.60 (dt,
+1H, J = 11.2, 7.1 Hz, NCH2), 2.78 (dt, 1H, J = 11.0, 7.2 Hz, NCH2),
+3.47−3.55 (m, 2H, H-1, H-3), 3.62−3.67 (m, 2H, H-4, H-5), 3.79 (dd,
+1H, J = 9.0, 3.2 Hz, H-7), 3.88 (dd, 1H, J = 9.0, 1.9 Hz, H-7′), 4.48−
+5.02 (m, 8H, 4 × PhCH2O), 7.19−7.37 (m, 20H, Ph); 13C NMR (δ,
+100 MHz, CDCl3): 14.1 (CH3), 20.4 (CH2), 29.8 (CH2), 46.5
+(NCH2), 47.3 (C6), 65.2 (C2), 66.0 (C7), 66.8 (C1), 73.4
+(PhCH2O), 75.4 (PhCH2O), 75.6 (2 × PhCH2O), 77.9, 80.3 (C3),
+88.1, 127.7−128.7 (CHar), 138.4 (Car), 138.47 (Car), 138.50 (Car),
+138.7 (Car); HRMS calculated for C39H48NO5: 610.3532 [M + H]+.
+Found: 610.3553.
+
+(1S,2S,3S,4R,5R,6R)-6-Azido-2,3,4-tris(benzyloxy)-5-(benzyloxy-
+methyl)cyclohexanol (26e) and (1S,2R,3S,4S,5R,6S)-2-Azido-3,4,5-
+(27e). According
+tris(benzyloxy)-6-(benzyloxymethyl)cyclohexanol
+to the general method A, the ring-opening of epoxide 6 (161 mg, 0.30
+mmol) with NaN3 (0.20 g, 3.0 mmol) aﬀorded a mixture of
+regioisomers 26e and 27e in a ratio of 56:44. Chromatography on
+silica gel (CHCl3/EtOAc, 40:1) provided 26e (79 mg, 0.14 mmol,
+46%), followed by 27e (68 mg, 0.12 mmol, 39%).
+
+Data for 26e: Colorless oil; [α]D
+
+25 +27.9 (c 0.49, CHCl3); lit31 [α]D
+25
++32 (c 0.44, CHCl3); IR (ﬁlm): υ = 3393, 3063, 3030, 2919, 2106,
+1454, 1361, 1063, 1027, 735, 698 cm−1; 1H NMR (δ, 500 MHz,
+CDCl3): 2.51−2.65 (m, 1H, H-5), 3.46−3.50 (m, 2H, H-4, H-7), 3.72
+(dd, 1H, J = 9.4, 2.9 Hz, H-2), 3.80−3.84 (m, 2H, H-3, H-7′), 4.10 (t,
+1H, J = 3.4 Hz, H-1), 4.20 (t, 1H, J = 3.4 Hz, H-6), 4.47−4.91 (m, 8H,
+4 × PhCH2O), 7.19−7.37 (m, 20H, Ph); 13C NMR (δ, 100 MHz,
+CDCl3): 40.4 (C5), 61.0 (C6), 67.8 (C7), 68.9 (C1), 73.27
+(PhCH2O), 73.30 (PhCH2O), 75.4 (PhCH2O), 75.9 (PhCH2O),
+78.4 (C4), 80.3 (C2), 83.4 (C3), 127.7−128.7 (CHar), 137.9 (Car),
+138.2 (Car), 138.3 (Car), 138.8 (Car); HRMS calculated for
+C35H37N3O5Na: 602.2631 [M + Na]+. Found: 602.2655.
+
+Data for 27e: Colorless oil; [α]D
+
+25 +54.0 (c 0.52, CHCl3); lit31 [α]D
+25
++61 (c 0.4, CHCl3); IR (ﬁlm): υ = 3390, 3062, 3030, 2922, 2857,
+2108, 1452, 1360, 1147, 1063, 1025, 992, 696 cm−1; 1H NMR (δ, 500
+MHz, CDCl3): 1.77−1.82 (m, 1H, H-6), 3.38 (t, 1H, J = 9.8 Hz, H-3),
+3.41 (t, 1H, J = 9.9 Hz, H-2), 3.51 (t, 1H, J = 9.6 Hz, H-5), 3.56 (t, 1H,
+J = 9.7 Hz, H-1), 3.64 (t, 1H, J = 9.2 Hz, H-4), 3.68 (dd, 1H, J = 9.1,
+4.6 Hz, H-7), 3.86 (dd, 1H, J = 9.0, 2.5 Hz, H-7′), 4.47−4.94 (m, 8H,
+4 × PhCH2O), 7.19−7.38 (m, 20H, Ph); 13C NMR (δ, 100 MHz,
+CDCl3): 46.2 (C6), 66.8 (C7), 69.7 (C1), 70.0 (C2), 73.4 (PhCH2O),
+75.7 (PhCH2O), 75.8 (PhCH2O), 76.0 (PhCH2O), 77.3 (C5), 81.3
+(C3), 86.3 (C4), 127.7−128.6 (CHar), 137.8 (Car), 137.9 (Car),
+
+138.2 (Car), 138.5 (Car); HRMS calculated for C35H37N3O5Na:
+602.2631 [M + Na]+. Found: 602.2617.
+
+General Method B: Reaction of Epoxide 6 with Nucleophiles
+under Acidic Conditions. To a solution of the epoxide 6 (100 mg,
+0.18 mmol) in a 8:1 MeOH−H2O mixture (4.5 mL) was added
+NH4Cl (59 mg, 1.1 mmol) and the corresponding amine (1.8 mmol).
+After stirring at 100 °C (48−72 h), the reaction mixture was cooled to
+rt and quenched with H2O, and the solvent was then removed in vacuo.
+The residue was taken up in Et2O and washed with H2O (10 mL). The
+aqueous layer was extracted with Et2O (3 × 20 mL), the combined
+organic layers were dried over MgSO4 and ﬁltered, and the solvent was
+removed under reduced pressure to give a yellow oil.
+
+(1S,2S,3S,4R,5R,6R)-2,3,4-Tris(benzyloxy)-5-(benzyloxymethyl)-6-
+(phenethylamino)cyclohexanol (26a). Following the general method
+the ring-opening of epoxide 6 (80 mg, 0.15 mmol) with 2-
+B,
+phenylethylamine (0.19 mL, 1.5 mmol) aﬀorded a mixture of
+regioisomers 26a and 27a in a ratio of 59:41. Chromatography on
+silica gel (hexane/EtOAc, 4:1 to 1:2) provided 26a (49 mg, 0.08
+mmol, 50%), followed by 27a (32 mg, 0.05 mmol, 32%).
+
+Data for 26a: Pale yellow oil; [α]D
+
+25 +14.8 (c 1.00, CHCl3); IR
+(ﬁlm): υ = 3328, 3051, 3027, 2961, 2841, 2095, 1645, 1493, 1058,
+1025, 743 cm−1; 1H NMR (δ, 500 MHz, CDCl3): 2.31−2.33 (m, 1H,
+H-5), 2.62−2.79 (m, 4H, PhCH2, NCH2), 3.11−3.13 (m, 1H, H-6),
+3.58 (d, 1H, J = 9.3 Hz, H-7), 3.85 (d, 1H, J = 8.8 Hz, H-3), 3.91−4.0
+(m, 4H, H-1, H-2, H-4, H-7′), 4.32−4.95 (m, 8H, 4 × PhCH2O),
+7.18−7.37 (m, 25H, Ph); 13C NMR (δ, 100 MHz, CDCl3): 36.7
+(PhCH2), 39.9 (C5), 50.1 (NCH2), 61.1 (C6), 68.6, 70.0 (C7), 73.2
+(PhCH2O), 73.3 (PhCH2O), 75.1 (PhCH2O), 75.6 (PhCH2O), 77.8,
+80.9, 84.4 (C3), 126.1−128.8 (CHar), 138.2 (Car), 138.5 (Car), 139.1
+(Car), 139.2 (Car), 140.3 (Car); HRMS calculated for C43H48NO5:
+658.3532 [M + H]+. Found: 658.3533.
+
+(1S,2S,3S,4R,5R,6R)-2,3,4-Tris(benzyloxy)-5-(benzyloxymethyl)-6-
+(octylamino)cyclohexanol (26b). Following the general method B,
+the ring-opening of epoxide 6 (100 mg, 0.18 mmol) with octylamine
+(0.3 mL, 1.8 mmol) aﬀorded a mixture of regioisomers 26b and 27b in
+a ratio of 59:41. Chromatography on silica gel (hexane/EtOAc, 4:1 to
+1:2) provided 26b (64 mg, 0.09 mmol, 52%), followed by 27b (41 mg,
+0.06 mmol, 33%).
+
+Data for 26b: Pale yellow oil; [α]D
+
+25 +19.4 (c 0.72, CHCl3); IR
+(ﬁlm): υ = 3341, 3098, 3061, 3025, 2951, 2862, 1483, 1446, 1357,
+1134, 1052, 661 cm−1; 1H NMR (δ, 500 MHz, CDCl3): 0.88 (t, 3H, J
+= 7.1 Hz, CH3), 1.20−1.33 (m, 12H, 6 × CH2), 2.27−2.30 (m, 1H, H-
+5), 2.45 (t, 2H, J = 6.8 Hz, NCH2), 3.05 (t, 1H, J = 2.5 Hz, H-6), 3.65
+(dd, 1H, J = 9.1, 1.1 Hz, H-7), 3.83 (t, 1H, J = 9.1 Hz, H-3), 3.97−4.00
+(m, 4H, H-1, H-2, H-4, H-7′), 4.46−4.91 (m, 8H, 4 × PhCH2O),
+7.22−7.38 (m, 20H, Ph); 13C NMR (δ, 100 MHz, CDCl3): 14.3
+(CH3), 22.8 (CH2), 27.5 (CH2), 29.4 (CH2), 29.7 (CH2), 30.6 (CH2),
+32.1 (CH2), 40.0 (C5), 49.1 (NCH2), 61.7 (C6), 68.7, 70.4 (C7), 73.2
+(PhCH2O), 73.4 (PhCH2O), 75.2 (PhCH2O), 75.7 (PhCH2O), 77.9,
+81.0, 84.6 (C3), 127.5−129.2 (CHar), 138.2 (Car), 138.5 (Car), 139.2
+(Car), 139.3 (Car); HRMS calculated for C43H56NO5: 666.4158 [M +
+H]+. Found: 666.4164.
+
+(1S,2S,3S,4R,5R,6R)-2,3,4-Tris(benzyloxy)-5-(benzyloxymethyl)-6-
+(butylamino)cyclohexanol (26c). Following the general method B,
+the ring-opening of epoxide 6 (90 mg, 0.17 mmol) with butylamine
+(0.17 mL, 1.7 mmol) aﬀorded a mixture of regioisomers 26c and 27c
+in a ratio of 55:45. Chromatography on silica gel (hexane/EtOAc, 4:1
+to 1:2) provided 26c (45 mg, 0.07 mmol, 43%), followed by 27c (36
+mg, 0.06 mmol, 36%).
+
+Data for 26c: Pale yellow oil; [α]D
+
+25 +12.5 (c 1.00, CHCl3); IR
+(ﬁlm): υ = 3394, 3321, 3085, 3068, 3033, 2954, 2864, 1493, 1456,
+1066, 1024, 663 cm−1; 1H NMR (δ, 500 MHz, CDCl3): 0.87 (t, 3H, J
+= 6.5 Hz, CH3), 1.22−1.34 (m, 4H, 2 × CH2), 2.31−2.34 (m, 1H, H-
+5), 2.47 (t, 2H, J = 6.1 Hz, NCH2), 3.07−3.09 (m, 1H, H-6), 3.66 (d,
+1H, J = 9.3 Hz, H-7), 3.85 (t, 1H, J = 9.0 Hz, H-3), 4.00−4.05 (m, 4H,
+H-1, H-2, H-4, H-7′), 4.46−4.95 (m, 8H, 4 × PhCH2O), 7.26−7.39
+(m, 20H, Ph); 13C NMR (δ, 100 MHz, CDCl3): 14.1 (CH3), 20.5
+(CH2), 32.6 (CH2), 40.0 (C5), 48.6 (NCH2), 61.7 (C6), 68.7, 70.4
+(C7), 73.2 (PhCH2O), 73.5 (PhCH2O), 75.2 (PhCH2O), 75.6
+(PhCH2O), 77.9, 80.9, 84.5 (C3), 127.5−128.6 (CHar), 138.2
+</para>
+3524
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(Car), 138.5 (Car), 139.2 (Car), 139.3 (Car); HRMS calculated for
+C39H48NO5: 610.3532 [M + H]+. Found: 610.3550.
+
+General Method C: Reduction of Azides 24e/25e and 26e/
+27e: Synthesis of 24d/25d and 26d/27d. LiAlH4 (0.13 mmol) was
+added in one portion to a solution of the starting azide (0.07 mmol) in
+anhydrous THF (5 mL) at 0 °C and stirred at this temperature for 1 h.
+The reaction mixture was then stirred for 1 h at rt. After cooling to 0
+°C, the reaction was carefully quenched with dropwise addition of
+saturated aqueous Na2SO4 and the aluminum salts were removed by
+ﬁltration through Celite. The plug of Celite was washed several times
+with Et2O. The combined washings and ﬁltrate were evaporated in
+vacuo to give the desired products.
+
+Data for 24d: Colorless oil; [α]D
+
+(1R,2S,3S,4S,5R,6S)-2-Amino-3,4,5-tris(benzyloxy)-6-(hydroxy-
+methyl)cyclohexanol (24d). According to general method C, amine
+24d was obtained in 87% yield (30 mg, 0.06 mmol) from 36 mg (0.07
+mmol) of azide 24e.
+25 +40.4 (c 1.00, CHCl3); IR (ﬁlm):
+υ = 3362, 2928, 2924, 2853, 1598, 1461, 1452, 1049, 1027, 696 cm−1;
+1H NMR (δ, 500 MHz, CDCl3): 2.07−2.10 (m, 1H, H-6), 3.39−3.43
+(m, 1H, H-2), 3.67−3.71 (brs, 3H, NH2, OH), 3.77−3.81 (m, 1H, H-
+7), 3.85−3.93 (m, 3H, H-3, H-4, H-5), 4.04−4.09 (m, 2H, H-1, H-7’),
+4.66−4.96 (m, 6H, 3 × PhCH2O), 7.28−7.36 (m, 15H, Ph); 13C NMR
+(δ, 100 MHz, CDCl3): 41.6 (C6), 53.3 (C2), 63.1 (C7), 72.8
+(PhCH2O), 74.8 (C1), 74.9 (PhCH2O), 75.6 (PhCH2O), 76.1 (C5),
+80.5 (C3), 83.6 (C4), 127.6−128.7 (CHar), 138.7 (Car), 138.8 (Car),
+139.0 (Car); HRMS calculated for C28H34NO5: 464.2437 [M + H]+.
+Found: 464.2438.
+
+(1R,2S,3S,4R,5R,6S)-6-Amino-2,3,4-tris(benzyloxy)-5-(hydroxy-
+methyl)cyclohexanol (25d). According to general method C, amine
+25d was obtained in 89% yield (84 mg, 0.18 mmol) from 100 mg
+(0.20 mmol) of azide 25e.
+
+Data for 25d: Colorless oil; [α]D
+
+25 +20.6 (c 1.00, CHCl3); IR (ﬁlm):
+υ = 3356, 3030, 2921, 1586, 1496, 1453 1359, 1065, 1027, 734, 697,
+665 cm−1; 1H NMR (δ, 500 MHz, CDCl3): 1.50−1.61 (m, 1H, H-5),
+2.58 (t, 1H, J = 10.3 Hz, H-6), 2.70−3.00 (brs, 3H, OH, NH2), 3.20 (t,
+1H, J = 9.3 Hz, H-1), 3.31 (t, 1H, J = 9.3 Hz, H-2), 3.35 (t, 1H, J = 9.8
+Hz, H-4), 3.63 (t, 1H, J = 9.3 Hz, H-3), 3.76 (dd, 1H, J = 10.6, 6.3 Hz,
+H-7), 4.01 (d, 1H, J = 10.5 Hz, H-7′), 4.61−5.00 (m, 6H, 3 ×
+PhCH2O), 7.28−7.40 (m, 15H, Ph); 13C NMR (δ, 100 MHz, CDCl3):
+46.4 (C5), 54.4 (C6), 62.5 (C7), 75.5 (PhCH2O), 75.6 (PhCH2O),
+75.7 (PhCH2O), 77.2 (C1), 79.2 (C4), 83.6 (C2), 85.9 (C3), 127.8−
+128.8 (CHar), 138.12 (Car), 138.14 (Car), 138.46 (Car), 138.51
+(Car); HRMS calculated for C28H34NO5: 464.2437 [M + H]+. Found:
+464.2434.
+
+Data for 26d: Colorless oil; [α]D
+
+(1S,2S,3S,4R,5R,6R)-6-Amino-2,3,4-tris(benzyloxy)-5-(benzyloxy-
+methyl)cyclohexanol (26d). According to general method C, amine
+26d was obtained in 84% yield (56 mg, 0.10 mmol) from 70 mg (0.12
+mmol) of azide 26e.
+25 +30.7 (c 0.43, CHCl3); IR (ﬁlm):
+υ = 3331, 3062, 3034, 2907, 2863, 1581, 1458, 1149, 683 cm−1; 1H
+NMR (δ, 500 MHz, CDCl3): 2.30−2.33 (m, 1H, H-5), 3.52−3.54 (m,
+1H, H-6), 3.69 (dd, 1H, J = 2.4, 9.4 Hz, H-7), 3.83 (t, 1H, J = 9.0 Hz,
+H-3), 3.88−3.91 (m, 2H, H1, H-7′), 3.97 (t, 1H, J = 10.0 Hz, H-4),
+4.00 (dd, 1H, J = 3.0, 9.2 Hz, H-2), 4.45−4.90 (m, 8H, 4 × PhCH2O),
+7.21−7.34 (m, 20H, Ph); 13C NMR (δ, 100 MHz, CDCl3): 40.3 (C5),
+53.3 (C6), 69.7 (C7), 71.6 (C1), 73.0 (PhCH2O), 73.4 (PhCH2O),
+75.2 (PhCH2O), 75.6 (PhCH2O), 77.5 (C4), 80.8 (C2), 84.3 (C3),
+127.8−128.6 (CHar), 138.26 (Car), 138.32 (Car), 138.9 (Car), 139.2
+(Car); HRMS calculated for C35H40NO5: 554.2906 [M + H]+. Found:
+554.2922.
+
+Data for 27d: Colorless oil; [α]D
+
+(1S,2R,3S,4S,5R,6S)-2-Amino-3,4,5-tris(benzyloxy)-6-(benzyloxy-
+methyl)cyclohexanol (27d). According to general method C, amine
+27d was obtained in 78% yield (47 mg, 0.08 mmol) from 63 mg (0.11
+mmol) of azide 27e.
+25 +9.4 (c 0.18, CHCl3); IR (ﬁlm): υ
+= 3366, 3090, 3030, 2917, 2863, 1584, 1481, 1454, 1059, 693 cm−1; 1H
+NMR (δ, 500 MHz, CDCl3): 1.77 (t, 1H, J = 1 0.7 Hz, H-6), 2.20−
+2.60 (br s, 3H, OH, NH2), 2.67 (t, 1H, J = 9.8 Hz, H-2), 3.24 (t, 1H, J
+= 9.5 Hz, H-3), 3.46 (t, 1H, J = 10.0 Hz, H-1), 3.54 (t, 1H, J = 10.1
+Hz, H-5), 3.62 (t, 1H, J = 9.3 Hz, H-4), 3.69 (dd, 1H, J = 4.3, 8.8 Hz,
+</para>
+Article
+<para sub=“exp”>
+H-7), 3.86 (dd, 1H, J = 1.3, 9.0 Hz, H-7′), 4.45−4.99 (m, 8H, 4 ×
+PhCH2O), 7.18−7.37 (m, 20H, Ph); 13C NMR (δ, 100 MHz, CDCl3):
+47.0 (C6), 59.2 (C2), 67.1 (C7), 70.5 (C1), 73.4 (PhCH2O), 75.6 (2
+× PhCH2O), 75.7 (PhCH2O), 78.0 (C5), 83.0 (C3), 87.1 (C4),
+127.8−128.7 (CHar), 138.2 (Car), 138.42 (Car), 138.47 (Car), 138.6
+(Car); HRMS calculated for C35H40NO5: 554.2906 [M + H]+. Found:
+554.2899.
+General Method D: Synthesis of Amino Alcohols 1, 2, 4a−
+c,d, and 3d by Debenzylation with BCl3. A solution of the
+corresponding amine (0.21 mmol) in anhydrous DCM (10 mL) at
+−78 °C was treated with 1 M BCl3 in heptane (2.5 equiv for OBn
+group). The reaction mixture was allowed to rt and stirred for an
+additional 16 h. The mixture was then cooled to −78 °C and
+quenched with MeOH (0.5 mL). Solvents were then removed under
+reduced pressure, and EtOAc (3 mL) was added next to the oily
+residue. After sonication in an ultrasonic bath for 1 min, the suspended
+solid was collected by ﬁltration and dried at vacuum. Following this
+protocol, 1, 2, 4, and 3d were obtained as the corresponding
+hydrochloride salts.
+
+Data for 1a: mp 89−91 °C; [α]D
+
+(1R,2S,3S,4S,5R,6S)-6-(Hydroxymethyl)-4-(phenethylamino)-
+cyclohexane-1,2,3,5-tetraol Hydrochloride (1a). Following the
+general procedure D, from 24a (13 mg, 0.02 mmol) was obtained
+1a (7 mg, 0.02 mmol, 90%) as a white amorphous solid.
+25 +6.5 (c 0.70, CH3OH); 1H NMR
+(δ, 500 MHz, CD3OD): 1.93−2.05 (m, 1H, H-6), 3.04−3.08 (m, 2H,
+PhCH2), 3.33−3.36 (m, 2H, NCH2), 3.54 (t, 1H, J = 4.9 Hz, H-4),
+3.61 (t, 1H, J = 7.3 Hz, H-2), 3.72 (t, 1H, J = 7.5 Hz, H-1), 3.85 (dd,
+1H, J = 10.6, 7.5 Hz, H-7), 3.96 (dd, 1H, J = 10.6, 4.8 Hz, H-7′), 4.07
+(dd, 1H, J = 7.6, 4.5 Hz, H-3), 4.41 (dd, 1H, J = 4.7, 4.0 Hz, H-5),
+7.26−7.36 (m, 5H, Ph); 13C NMR (δ, 100 MHz, CD3OD): 32.9
+(PhCH2), 46.7 (C6), 49.1 (NCH2), 60.6 (C7), 62.5 (C4), 65.4 (C5),
+69.6 (C3), 71.6 (C1), 75.0 (C2), 128.3 (CHar), 129.7 (CHar), 130.0
+(CHar), 137.8 (Car); HRMS calculated for C15H24NO5: 298.1654 [M
++ H]+. Found: 298.1656.
+
+Data for 1b: [α]D
+
+(1R,2S,3S,4S,5R,6S)-6-(Hydroxymethyl)-4-(octylamino)-
+cyclohexane-1,2,3,5-tetraol Hydrochloride (1b). Following the
+general procedure D, from 24b (20 mg, 0.03 mmol) was obtained
+1b (11 mg, 0.03 mmol, 91%) as a white amorphous semisolid.
+25 +5.4 (c 1.00, CH3OH); 1H NMR (δ, 500 MHz,
+CD3OD): 0.91 (t, 3H, J = 6.9 Hz, CH3), 1.23−1.76 (m, 12H, 6 ×
+CH2), 1.91−1.95 (m, 1H, H-6), 3.00−3.10 (m, 2H, NCH2), 3.45 (t,
+1H, J = 4.9 Hz, H-4), 3.58 (t, 1H, J = 7.6 Hz, H-2), 3.71 (t, 1H, J = 7.8
+Hz, H-1), 3.85 (dd, 1H, J = 10.6, 7.4 Hz, H-7), 3.95 (dd, 1H, J = 10.6,
+4.8 Hz; H-7′), 4.05 (dd, 1H, J = 7.9, 4.4 Hz, H-3), 4.33 (t, 1H, J = 4.2
+Hz, H-5); 13C NMR (δ, 100 MHz, CD3OD): 14.4 (CH3), 23.7 (CH2),
+26.6 (CH2), 27.7 (CH2), 30.2 (CH2), 30.22 (CH2), 32.9 (CH2), 46.5
+(C6), 48.1 (NCH2), 60.6 (C7), 62.2 (C4), 65.3 (C5), 69.6 (C3), 71.6
+(C1), 75.0 (C2); HRMS calculated for C15H32NO5: 306.2280 [M +
+H]+. Found: 306.2280.
+
+Data for 1c: mp 87−90 °C; [α]D
+
+(1R,2S,3S,4S,5R,6S)-4-(Butylamino)-6-(hydroxymethyl)-
+cyclohexane-1,2,3,5-tetraol Hydrochloride (1c). Following the
+general procedure D, from 24c (17 mg, 0.03 mmol) was obtained
+1c (9 mg, 0.03 mmol, 94%) as a white amorphous solid.
+25 +7.6 (c 0.90, CH3OH); 1H NMR
+(δ, 500 MHz, CD3OD): 1.00 (t, 3H, J = 7.4 Hz, CH3), 1.39−1.75 (m,
+4H, 2 × CH2), 1.92−1.99 (m, 1H, H-6), 3.11 (dd, 2H, J = 9.5, 6.9 Hz,
+NCH2), 3.46 (t, 1H, J = 5.0 Hz, H-4), 3.58 (t, 1H, J = 7.4 Hz, H-2),
+3.71 (t, 1H, J = 7.1 Hz, H-1), 3.84 (dd, 1H, J = 10.6, 7.5 Hz, H-7), 3.95
+(dd, 1H, J = 10.7, 4.8 Hz, H-7′), 4.05 (dd, 1H, J = 7.8, 4.5 Hz, H-3),
+4.37 (dd, 1H, J = 5.2, 4.0 Hz, H-5); 13C NMR (δ, 100 MHz, CD3OD):
+14.0 (CH3), 21.0 (CH2), 28.6 (CH2), 46.5 (C6), 48.0 (NCH2), 60.7
+(C7), 62.2 (C4), 65.4 (C5), 69.6 (C3), 71.6 (C1), 75.1 (C2); HRMS
+calculated for C11H24NO5: 250.1654 [M + H]+. Found: 250.1647.
+(1R,2S,3S,4S,5R,6S)-4-Amino-6-(hydroxymethyl)cyclohexane-
+1,2,3,5-tetraol Hydrochloride (1d). Following the general procedure
+D, from 24d (25 mg, 0.05 mmol) was obtained 1d (11 mg, 0.05 mmol,
+87%) as a hygroscopic white amorphous solid.
+25 +11.1 (c 0.60, CH3OH); 1H NMR (δ, 500 MHz,
+CD3OD): 1.78−1.86 (m, 1H, H-6), 3.45−3.49 (m, 2H, H-2, H-4),
+3.62 (t, 1H, J = 9.1 Hz, H-1), 3.83 (dd, 1H, J = 7.9, 10.5 Hz, H-7),
+
+Data for 1d: [α]D
+</para>
+3525
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+3.93−3.97 (m, 2H, H-3, H-7′), 4.24 (t, 1H, J = 3.5 Hz, H-5); 13C
+NMR (δ, 100 MHz, CD3OD): 45.4 (C6), 56.9 (C4), 60.8 (C7), 67.2
+(C5), 69.5 (C3), 71.2 (C1), 75.6 (C2); HRMS calculated for
+C7H16NO5: 194.1028 [M + H]+. Found: 194.1022.
+(1R,2S,3S,4R,5S,6R)-6-(Hydroxymethyl)-5-(phenethylamino)-
+cyclohexane-1,2,3,4-tetraol Hydrochloride (2a). Following the
+general procedure D, from 25a (120 mg, 0.21 mmol) was obtained
+2a (54 mg, 0.18 mmol, 77%) as a white amorphous solid.
+25 +9.6 (c 1.00, CH3OH); 1H NMR
+(δ, 500 MHz, CD3OD): 1.83−1.90 (m, 1H, H-6), 3.00 (t, 2H, J = 7.7
+Hz, PhCH2), 3.14 (t, 1H, J = 9.4 Hz, H-1), 3.16−3.23 (m, 3H, H-2, H-
+3, H-5), 3.33−3.40 (m, 1H, NCH2), 3.54−3.60 (m, 2H, NCH2, H-4),
+3.70 (t, 1H, J = 9.8 Hz, H-7), 4.13 (dd, 1H, J = 10.8, 3.3 Hz, H-7′),
+7.25−7.36 (m, 5H, Ph); 13C NMR (δ, 100 MHz, CD3OD): 33.8
+(PhCH2), 42.8 (C6), 48.0 (NCH2), 63.3 (C5), 63.5 (C7), 71.7 (C1),
+72.7 (C4), 76.0, 77.4, 128.4 (CHar), 129.9 (CHar), 130.0 (CHar),
+137.6 (Car); HRMS calculated for C15H24NO5: 298.1654 [M + H]+.
+Found: 298.1646.
+
+Data for 2a: mp 77−80 °C; [α]D
+
+Data for 2b: mp 82−85 °C; [α]D
+
+(1R,2S,3S,4R,5S,6R)-6-(Hydroxymethyl)-5-(octylamino)cyclo-
+hexane-1,2,3,4-tetraol Hydrochloride (2b). Following the general
+procedure D, from 25b (100 mg, 0.17 mmol) was obtained 2b (55 mg,
+0.16 mmol, 92%) as a white amorphous solid.
+25 +11.5 (c 1.00, CH3OH); 1H
+NMR (δ, 500 MHz, CD3OD): 0.91 (t, 3H, J = 6.6 Hz, CH3), 1.22−
+1.73 (m, 12H, 6 × CH2), 1.88−1.94 (m, 1H, H-6), 3.09−3.31 (m, 6H,
+NCH2, H-1, H-2, H-3, H-5), 3.57 (dd, 1H, J = 10.2, 8.9 Hz, H-4), 3.77
+(dd, 1H, J = 10.4, 8.9 Hz, H-7), 4.16 (dd, 1H, J = 10.8, 3.0 Hz, H-7′);
+1H NMR (δ, 400 MHz, D2O): 0.87 (t, 3H, J = 6.8 Hz, CH3), 1.21−
+1.47 (m, 12H, 5 × CH2), 1.72 (dt,
+J = 15.1, 7.5 Hz, 2H,
+NCH2CH2),1.97−2.08 (m, 1H, H-6), 3.08−3.25 (m, 2H, NCH2),
+3.26−3.42 (H-1, H-2, H-3, H-5), 3.71 (dd, 1H, J = 10.4, 8.9 Hz, H-4),
+3.86 (dd, 1H, J = 11.6, 7.4 Hz, H-7), 4.07 (dd, 1H, J = 11.6, 2.9 Hz, H-
+7′); 13C NMR (δ, 100 MHz, CD3OD): 14.4 (CH3), 23.7 (CH2), 27.5
+(CH2), 27.7 (CH2), 30.2 (CH2), 30.2 (CH2), 32.9 (CH2), 42.8 (C6),
+46.6 (NCH2), 63.0 (C5), 63.2 (C7), 71.6 (C1), 72.5 (C4), 76.0, 77.4;
+13C NMR (δ, 100 MHz, D2O): 13.3 (CH3), 21.9 (CH2), 25.5 (CH2),
+25.8 (CH2), 28.0 (CH2), 28.04 (CH2), 30.9 (CH2), 40.5 (C6), 44.3
+(NCH2), 59.7 (C5), 60.2 (C7), 69.6 (C1), 70.1 (C4), 73.8, 75.2;
+HRMS calculated for C15H32NO5: 306.2280 [M + H]+. Found:
+306.2268.
+
+Data for 2c: [α]D
+
+(1R,2S,3S,4R,5S,6R)-5-(Butylamino)-6-(hydroxymethyl)cyclo-
+hexane-1,2,3,4-tetraol Hydrochloride (2c). Following the general
+procedure D, from 25c (115 mg, 0.22 mmol) was obtained 2c (56 mg,
+0.19 mmol, 88%) as a white amorphous semisolid.
+25 +13.9 (c 0.48, CH3OH); 1H NMR (δ, 500 MHz,
+CD3OD): 0.99 (t, 3H, J = 7.4 Hz, CH3), 1.40−1.71 (m, 4H, 2 × CH2),
+1.86−1.93 (m, 1H, H-6), 3.10−3.30 (m, 6H, NCH2, H-1, H-2, H-3, H-
+5), 3.55 (dd, 1H, J = 10.4, 8.8 Hz, H-4), 3.77 (dd, 1H, J = 10.7, 8.7 Hz,
+H-7), 4.17 (dd, 1H, J = 10.8, 3.2 Hz, H-7′); 13C NMR (δ, 100 MHz,
+CD3OD): 13.9 (CH3), 20.7 (CH2), 29.7 (CH2), 42.7 (C6), 46.3
+(NCH2), 63.0 (C5), 63.3 (C7), 71.6, 72.5 (C4), 76.0, 77.5; HRMS
+calculated for C11H24NO5: 250.1654 [M + H]+. Found: 250.1657.
+(1R,2S,3S,4R,5S,6R)-5-Amino-6-(hydroxymethyl)cyclohexane-
+1,2,3,4-tetraol Hydrochloride (2d). Following the general procedure
+D, from 25d (75 mg, 0.16 mmol) was obtained 2d (34 mg, 0.15 mmol,
+91%) as a white amorphous solid.
+25 +7.2 (c 0.80, CH3OH); 1H
+NMR (δ, 500 MHz, CD3OD): 1.66−1.73 (m, 1H, H-6), 3.05 (t, 1H, J
+= 10.9 Hz, H-5), 3.16−3.23 (m, 3H, H-1, H-2, H-3), 3.37 (dd, 1H, J =
+10.4, 9.3 Hz, H-4), 3.80 (dd, 1H, J = 6.9, 10.9 Hz, H-7), 4.03 (dd, 1H,
+J = 3.3, 10.9 Hz, H-7′); 13C NMR (δ, 100 MHz, CD3OD): 44.7 (C6),
+56.1 (C5), 62.0 (C7), 71.5, 74.2 (C4), 76.0, 77.8; HRMS calculated
+for C7H16NO5: 194.1028 [M + H]+. Found: 194.1021.
+(1R,2S,3S,4S,5R,6R)-5-Amino-6-(hydroxymethyl)cyclohexane-
+1,2,3,4-tetraol Hydrochloride (3d). Following the general procedure
+D, from 26d (50 mg, 0.09 mmol) was obtained 3d (18 mg, 0.08 mmol,
+85%) as a white amorphous solid.
+25 +7.8 (c 1.00, CH3OH); 1H
+NMR (δ, 500 MHz, CD3OD): 2.22−2.26 (m, 1H, H-6), 3.61−3.73
+(m, 4H, H-1, H-2, H-3, H-5,), 3.82 (dd, 1H, J = 11.2, 3.2 Hz, H-7),
+
+Data for 2d: mp 108−111 °C; [α]D
+
+Data for 3d: mp 98−101 °C; [α]D
+
+Article
+4.01−4.04 (m, 2H, H-4, H-7′); 13C NMR (δ, 100 MHz, CD3OD):
+42.8 (C6), 61.3 (2) (C5, C7), 67.7 (C4), 71.3, 73.6, 74.2 (C1, C2,
+C3); HRMS calculated for C7H16NO5: 194.1028 [M + H]+. Found:
+194.1023.
+
+Data for 4a: [α]D
+
+(1R,2S,3S,4R,5S,6S)-6-(Hydroxymethyl)-4-(phenethylamino)-
+cyclohexane-1,2,3,5-tetraol Hydrochloride (4a). Following the
+general procedure D, from 27a (42 mg, 0.06 mmol) was obtained
+4a (18 mg, 0.05 mmol, 87%) as a white amorphous semisolid.
+25 +4.2 (c 1.00, CH3OH); 1H NMR (δ, 500 MHz,
+CD3OD): 1.50 (tt, 1H, J = 10.5, 3.2 Hz, H-6), 3.04−3.10 (m, 3H,
+PhCH2, H-4), 3.27−3.38 (m, 3H, H-1, H-2, H-3), 3.39−3.46 (m, 2H,
+NCH2), 3.73 (t, 1H, J = 10.5 Hz, H-5), 3.88−3.94 (m, 2H, H-7, H-7′),
+7.27−7.36 (m, 5H, Ph); 13C NMR (δ, 100 MHz, CD3OD): 33.4
+(PhCH2), 47.4 (NCH2), 50.1 (C6), 58.4 (C7), 65.8 (C5), 66.2 (C4),
+70.09 (C3), 70.11 (C1), 79.2 (C2), 128.3 (CHar), 129.8 (CHar),
+130.0 (CHar), 137.9 (Car); HRMS calculated for C15H24NO5:
+298.1654 [M + H]+. Found: 298.1640.
+
+Data for 4b: mp 84−86 °C; [α]D
+
+(1R,2S,3S,4R,5S,6S)-6-(Hydroxymethyl)-4-(octylamino)-
+cyclohexane-1,2,3,5-tetraol Hydrochloride (4b). Following the
+general procedure D, from 27b (34 mg, 0.05 mmol) was obtained
+4b (16 mg, 0.05 mmol, 92%) as a white amorphous solid.
+25 +7.1 (c 1.00, CH3OH); 1H NMR
+(δ, 500 MHz, CD3OD): 0.91 (t, 3H, J = 6.9 Hz, CH3), 1.24−1.51 (m,
+11H, 5 × CH2, H-6), 1.71−1.79 (m, 2H, NCH2CH2), 2.95 (t, 1H, J =
+10.6 Hz, H-4), 3.12−3.20 (m, 2H, NCH2), 3.27−3.46 (m, 3H, H-1, H-
+2, H-3), 3.71 (t, 1H, J = 10.5 Hz, H-5), 3.89−3.95 (m, 2H, H-7, H-7′);
+13C NMR (δ, 100 MHz, CD3OD): 14.4 (CH3), 23.7 (CH2), 27.3
+(CH2), 27.6 (CH2), 30.2 (CH2), 33.0 (CH2), 46.2 (NCH2), 50.2
+(C6), 58.4 (C7), 65.7 (C5), 66.1 (C4), 70.0 (C3), 70.1 (C1), 79.2
+(C2); HRMS calculated for C15H32NO5: 306.2280 [M + H]+. Found:
+306.2268.
+
+Data for 4c: [α]D
+
+(1R,2S,3S,4R,5S,6S)-4-(Butylamino)-6-(hydroxymethyl)-
+cyclohexane-1,2,3,5-tetraol Hydrochloride (4c). Following the
+general procedure D, from 27c (25 mg, 0.04 mmol) was obtained
+4c (11 mg, 0.03 mmol, 86%) as a white amorphous semisolid.
+25 +4.6 (c 0.72, CH3OH); 1H NMR (δ, 500 MHz,
+CD3OD): 1.00 (t, 3H, J = 7.4 Hz, CH3), 1.39−1.75 (m, 5H, 2 × CH2,
+H-6), 2.99 (t, 1H, J = 10.7 Hz, H-4), 3.13−3.20 (m, 2H, NCH2),
+3.25−3.44 (m, 3H, H-1, H-2, H-3), 3.71 (t, 1H, J = 10.5 Hz, H-5),
+3.88−3.93 (m, 2H, H-7, H-7′); 13C NMR (δ, 100 MHz, CD3OD):
+13.9 (CH3), 20.9 (CH2), 29.3 (CH2), 45.8 (NCH2), 50.2 (C6), 58.4
+(C7), 65.7 (C5), 66.1 (C4), 69.9 (C3), 70.1 (C1), 79.2 (C2); HRMS
+calculated for C11H24NO5: 250.1654 [M + H]+. Found: 250.1646.
+(1R,2S,3S,4R,5S,6S)-4-Amino-6-(hydroxymethyl)cyclohexane-
+1,2,3,5-tetraol Hydrochloride (4d). Following the general procedure
+D, from 27d (45 mg, 0.08 mmol) was obtained 4d (17 mg, 0.07 mmol,
+90%) as a white amorphous solid.
+
+Data for 4d: mp 110−112 °C; [α]D
+
+25 +10.1 (c 0.54, CH3OH); 1H
+NMR (δ, 500 MHz, CD3OD): 1.46 (tt, 1H, J = 10.6, 2.8 Hz, H-6),
+2.87 (t, 1H, J = 10.1 Hz, H-4), 3.24−3.27 (m, 2H, H-2, H-3), 3.34−
+3.39 (m, 1H, H-1), 3.55 (t, 1H, J = 10.2 Hz, H-5), 3.87−3.94 (m, 2H,
+H-7, H-7′); 13C NMR (δ, 100 MHz, CD3OD): 50.1 (C6), 58.3 (C7),
+60.7 (C4), 67.3 (C5), 70.3 (C1), 71.6, 79.0 (C2, C3); HRMS
+calculated for C7H16NO5: 194.1028 [M + H]+. Found: 194.1022.
+General Method E: Synthesis of Amino Alcohols 3a−3c by
+Hydrogenolysis Using Pd/C Catalyst. In a glass pressure ﬂask, the
+benzylated amino alcohol (0.1 mmol) was dissolved in a mixture of
+THF (3 mL) and concentrated HCl (4 drops). Pd/C (50 mg, 5−15%
+Pd on activated C, water-wet) was then added. The ﬂask was
+repeatedly ﬁlled and evacuated with hydrogen and vigorously stirred at
+rt for 14 h under H2 (2 atm). After this period, the reaction mixture
+was ﬁltered through a plug of Celite to separate the catalyst, and the
+ﬁlter was washed three times with MeOH. The ﬁltrate and combined
+washings were concentrated to give the required amino alcohols.
+
+(1R,2S,3S,4S,5R,6R)-6-(Hydroxymethyl)-5-(phenethylamino)-
+cyclohexane-1,2,3,4-tetraol Hydrochloride (3a). Following the
+general procedure E, compound 3a was obtained in 92% yield (21
+mg, 0.06 mmol) as a white amorphous semisolid from 45 mg (0.07
+mmol) of 26a.
+</para>
+3526
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+Data for 3a: [α]D
+
+25 +7.2 (c 0.90, CH3OH); 1H NMR (δ, 500 MHz,
+CD3OD): 2.38−2.41 (m, 1H, H-6), 2.97−3.12 (m, 2H, PhCH2),
+3.37−3.48 (m, 2H, NCH2), 3.67−3.72 (m, 1H, H-5), 3.73−3.87 (m,
+4H, H-1, H-2, H-3, H-7), 4.17 (dd, 1H, J = 11.1, 7.1 Hz, H-7′), 4.20−
+4.22 (m, 1H, H-4), 7.25−7.36 (m, 5H); 13C NMR (δ, 100 MHz,
+CD3OD): 33.3 (PhCH2), 42.8 (C6), 50.1 (NCH2), 61.2 (2) (C5, C7),
+67.6 (C4), 71.3, 73.6, 74.1 (C1, C2, C3), 128.3 (CHar), 129.8 (CHar),
+130.0 (CHar), 137.7 (Car); HRMS calculated for C15H24NO5:
+298.1654 [M + H]+. Found: 298.1630.
+
+Data for 3b: [α]D
+
+(1R,2S,3S,4S,5R,6R)-6-(Hydroxymethyl)-5-(octylamino)cyclo-
+hexane-1,2,3,4-tetraol Hydrochloride (3b). Following the general
+procedure E, compound 3b was obtained in 93% yield (26 mg, 0.08
+mmol) as a white amorphous semisolid from 55 mg (0.08 mmol) of
+26b.
+25 +11.6 (c 1.00, CH3OH); 1H NMR (δ, 500 MHz,
+CD3OD): 0.91 (t, 3H, J = 6.9 Hz, CH3), 1.29−1.40 (m, 10H, 5 ×
+CH2), 1.70−1.76 (m, 2H, NCH2CH2), 2.41−2.42 (m, 1H, H-6),
+3.11−3.22 (m, 2H, NCH2), 3.64 (dd, 1H, J = 9.1, 4.6 Hz, H-5), 3.74−
+3.81 (m, 4H, H-1, H-2, H-3, H-7), 4.15−4.19 (m, 2H, H-4, H-7′); 1H
+NMR (δ, 400 MHz, D2O): 0.87 (t, 3H, J = 5.8 Hz, CH3), 1.21−1.46
+(m, 10H, 5 × CH2), 1.67−1.79 (m, 2H, NCH2CH2), 2.23−2.34 (m,
+1H, H-6), 3.12−3.32 (m, 2H, NCH2), 3.67−3.87 (m, 4H, H-1, H-2,
+H-3, H5), 3.94 (dd, 1H, J = 11.7, 2.3 Hz, H-7), 4.17 (dd, 1H, J = 11.6,
+5.1 Hz, H-7′), 4.23−4.28 (m, 1H, H-4); 13C NMR (δ, 100 MHz,
+CD3OD): 14.4 (CH3), 23.7 (CH2), 27.2 (CH2), 27.6 (CH2), 30.2
+(CH2), 32.9 (CH2), 42.8 (C6), 49.0 (NCH2), 61.3 (2) (C5, C7), 67.6
+(C4), 71.3, 73.7, 74.1 (C1, C2, C3); 13C NMR (δ, 100 MHz, D2O):
+13.3 (CH3), 21.9 (CH2), 25.3 (CH2), 25.4 (CH2), 28.0 (CH2), 28.05
+(CH2), 30.9 (CH2), 39.1 (C6), 48.4 (NCH2), 59.1 (C7), 60.9 (C5),
+66.9 (C4), 68.1, 70.2, 73.5 (C1, C2, C3); HRMS calculated for
+C15H32NO5: 306.2280 [M + H]+. Found: 306.2276.
+(1R,2S,3S,4S,5R,6R)-5-(Butylamino)-6-(hydroxymethyl)cyclo-
+hexane-1,2,3,4-tetraol Hydrochloride (3c). Following the general
+procedure E, compound 3c was obtained in 92% yield (17 mg, 0.06
+mmol) as a white amorphous solid from 40 mg (0.06 mmol) of 26c.
+25 +5.0 (c 1.00, CH3OH); 1H NMR
+(δ, 500 MHz, CD3OD): 0.99 (t, 3H, J = 6.8 Hz, CH3), 1.40−1.45 (m,
+2H, CH2), 1.67−1.73 (m, 2H, NCH2CH2), 2.39−2.41 (m, 1H, H-6),
+3.16−3.18 (m, 2H, NCH2), 3.61−3.65 (m, 1H, H-5), 3.75−3.82 (m,
+4H, H-1, H-2, H-3, H-7), 4.16−4.18 (m, 2H, H-4, H-7′); 13C NMR (δ,
+100 MHz, CD3OD): 13.9 (CH3), 20.8 (CH2), 29.2 (CH2), 42.7 (C6),
+49.0 (NCH2), 61.3 (2) (C5, C7), 67.6 (C4), 71.2, 73.5, 74.2 (C1, C2,
+C3); HRMS calculated for C11H24NO5: 250.1654 [M + H]+. Found:
+250.1650.
+
+Data for 3c: mp 85−88 °C; [α]D
+
+Biological Assays. The glycosidases α-glucosidase (from baker’s
+yeast and rice), β-glucosidase (from crude almond), β-galactosidase
+(from bovine liver), and α-galactosidase (from green coﬀee beans) that
+were used in the inhibition studies, as well as 4-methylumbelliferyl-β-D-
+glucoside and the corresponding p-nitrophenyl glycoside substrates,
+were purchased from Sigma. Imiglucerase (Cerezyme; recombinant
+human GCase analogue) was kindly provided by Genzyme.
+
+General Procedure for
+
+the Inhibition Assay against
+Commercial Enzymes.13 Commercial glycosidase solutions were
+prepared with the appropriated buﬀer and incubated in 96-well plates
+at 37 °C without (control) or with inhibitor for 5 min. After addition
+of the corresponding substrate solution, incubations were prolonged
+for diﬀerent time periods: 3 min for β-glucosidase (from almond) and
+α-glucosidase (from baker’s yeast), 5 min for β-galactosidase, 10 min
+for α-glucosidase (from rice), and 13 min for α-galactosidase and
+stopped by addition of Tris solution (50 μL, 1 M) or Na2CO3 (180
+μL, 1 M), depending on the enzymatic inhibition assay. The amount of
+p-nitrophenol formed was determined at 405 nm with a Spectramax
+M5 (Molecular Devices Corporation) spectrophotometer. For α-
+glucosidase (from rice),
+the activity was determined with p-
+nitrophenyl-α-D-glucopyranoside (1 mM) in sodium acetate buﬀer
+(50 mM, pH 5.0). For α-glucosidase (from baker’yeast), the activity
+was determined with p-nitrophenyl-α-D-glucopyranoside (1 mM) in
+sodium phosphate buﬀer (100 mM, pH 7.2). For β-glucosidase (from
+the activity was determined with p-nitrophenyl-β-D-
+almond),
+glucopyranoside (1 mM) in sodium acetate buﬀer (100 mM, pH
+
+5.0). β-Galactosidase activity was determined with p-nitrophenyl-β-D-
+galactopyranoside (1 mM) in sodium phosphate buﬀer (100 mM, 0.1
+mM MgCl2, pH 7.2). α-Galactosidase activity was determined with p-
+nitrophenyl-α-D-galactopyranoside (1 mM) in sodium phosphate
+buﬀer (100 mM, pH 6.8). The commercial glycosidase solutions
+were prepared as follows: α-glucosidase (from rice): (NH4)2SO4
+suspension (30 μL) in buﬀer (1.8 mL); α-glucosidase (from baker’s
+yeast): (0.1 mg mL−1 buﬀer); β-glucosidase (from crude almond): (0.1
+mg mL−1 buﬀer); β-galactosidase from bovine liver (0.5 mg mL−1
+buﬀer); α-galactosidase (from green coﬀee beans): 7.4 μL in buﬀer
+(1.99 mL).
+
+Glucosylceramide Synthase Assay.54 A549 Cells were washed
+with sodium phosphate (PBS) (10 mM, 137 mM NaCl, pH 7.4) and
+collected by brief trypsinization. The cells were then washed twice with
+PBS and resuspended in 50 mM TRIS-HCl buﬀer (pH 7.4) and 10
+mM MgCl2 by sonication (three times, 30 s). The cell lysate (100 μL)
+was incubated with inhibitor (0.25 mM ﬁnal concentration) for 10 min
+at 37 °C. Then, 25 μL of NAD (16 mM in TRIS-HCl, pH 7.4 and 10
+mM MgCl2), 25 μL of UDP-Glucose (2 mM in TRIS-HCl 50 mM, pH
+7.4 and 10 mM MgCl2), and 52 μL of NBD C6-ceramide complexed to
+BSA at a 1:1 ratio (20 μM in 50 mM TRIS-HCl buﬀer, pH = 7.4, 10
+mM MgCl2)) were added. After 15 min incubation at 37 °C, the
+reactions were stopped by adding 800 μL of MeOH and centrifuged at
+10 000 rpm for 3 min. The supernatant was transferred to HPLC vials.
+HPLC analyses were performed with a Waters 2690 Alliance System
+coupled to a Waters 2475 Fluorescence detector (Milford, MA) using
+a C18-Kromasil column and eluted with 15% H2O and 85% CH3CN,
+both with a 0.1% of triﬂuoroacetic acid, ﬂowing at 1 mL/min. The
+detector was set at an excitation wavelength of 465 nm and measured
+the emission wavelength at 530 nm. Empower Software (Waters
+Corporation) was utilized for data acquisition and processing.
+
+Imiglucerase Inhibition Assay. Imiglucerase (Genzyme) activity
+was determined with 4-methylumbelliferyl-β-D-glucopyranoside as
+previously reported.13 Brieﬂy, enzyme solutions (25 μL from a stock
+solution containing 0.1 mg mL−1) in the presence of 0.25% (w/v)
+sodium taurocholate and 0.1% (v/v) Triton X-100 in McIlvaine buﬀer
+(100 mM sodium citrate and 200 mM sodium phosphate buﬀer, pH
+5.2) were incubated at 37 °C without (control) or with inhibitor at a
+ﬁnal volume of 40 μL for 30 min. After addition of 60 μL of substrate
+(4 mM, McIlvaine buﬀer, pH 5.2), the samples were incubated at 37
+°C for 10 min. Enzymatic reactions were stopped by the addition of
+aliquots (150 μL) of glycine/NaOH buﬀer (100 mM, pH 10.6). The
+amount of 4-methylumbelliferone formed was determined with a
+SpectraMax M5 ﬂuorometer (Molecular Devices Corporation) at 355
+nm (excitation) and 460 nm (emission).
+
+IC50 values were determined by plotting percent activity versus log
+[I], using at least ﬁve diﬀerent inhibitor concentrations. The type of
+inhibition and Ki values for more active inhibitors were determined by
+Lineweaver−Burk or Dixon plots of assays performed with diﬀerent
+concentrations of inhibitor and substrate.
+
+Cell Lines and Culture. Wild-type ﬁbroblasts were obtained from
+Eucellbank (University of Barcelona). Fibroblast cells were cultured in
+Dulbecco’s modiﬁed Eagle’s medium (DMEM, Sigma-Aldrich)
+supplemented with 10% fetal bovine serum (FBS, Invitrogen), 100
+U mL−1 of penicillin, and 100 μg mL−1 of streptomycin at 37 °C in 5%
+CO2. Culture medium was replaced every 3−4 days, and all cells used
+in this study were between the 14th and 30th passages.
+Cytotoxicity Assay in Wild-Type Human Fibroblasts.54 Wild-
+type ﬁbroblasts were cultured in Dulbecco’s modiﬁed Eagle’s medium
+(DMEM; D5796; Sigma-aldrich) supplemented with 10% fetal bovine
+serum (FBS) and 1% penicillin−streptomycin at 37 °C in 5% CO2/
+95% air. Cells used were between the 14th and 30th passage. At the
+time of the experiments, cells were seeded at a density of 25 000 cells
+per well
+in 96-well plates. Media were renewed after 24 h, and
+compounds were added to give ﬁnal concentrations of 300−18 μM.
+All compounds were dissolved in DMSO, and control experiments
+were performed with DMSO. Cells were incubated at 37 °C in 5%
+CO2 for 24 h. Then, the media were replaced with 100 μL of 3-(4,5-
+dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) solu-
+tion, and the mixture was incubated for an additional 3 h at 37 °C in
+</para>
+3527
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+5% CO2/95% air. The number of viable cells was quantiﬁed by the
+estimation of its dehydrogenase activity, which reduces MTT to water-
+insoluble formazan, which was dissolved in 100 μL of DMSO and
+measured at 570 nm with a SpectraMax M5 (Molecular Devices
+Corporation) in 96-well format.
+
+Inhibition Assay of Human Lysosomal Glycosidases.54,55
+Fibroblasts were seeded at a density of 105 cells per well in 24-well
+plates. After 24 h, the media were replaced with fresh media with or
+without a test compound and incubated at 37 °C in 5% CO2 for 24 h.
+The enzyme activity assay was performed after removing media
+supplemented with the corresponding compound. The monolayers
+were washed with 100 μL of PBS solution. Then, 80 μL of PBS and 80
+μL of 200 mM acetate buﬀer (pH 4.0) were added to each well. The
+reactions were started by the addition of 100 μL of substrates (200
+mM acetate buﬀer, pH 4.0) to each well, followed by incubation at 37
+°C for 2 h. The substrates were 4-methylumbelliferyl-β-D-glucopyrano-
+for lysosomal human β-glucosidase) and 4-methyl-
+side (5 mM,
+for lysosomal human α-
+umbelliferyl-α-D-glucopyranoside (5 mM,
+glucosidase). Enzymatic reactions were stopped by lysing the cells with
+1.8 mL of glycine/NaOH buﬀer (100 mM, pH 10.6). Liberated 4-
+methylumbelliferone was measured (excitation 355 nm, emission 460
+nm) with a SpectraMax M5 ﬂuorometer (Molecular Devices
+Corporation) in 24-well format. All determinations were performed
+in triplicate. Cells used were between the 14th and 30th passages.
+Computational Methods. Protein complexes were modeled with
+the package Schrödinger Suite 2014,56 through its graphical interface
+Maestro.57 The program MacroModel58 with its default force ﬁeld
+OPLS 2005,59 a modiﬁed version of the OPLS-AA force ﬁeld, and GB/
+SA water solvation conditions60 were used for all energy calculations.
+Coordinates of GCase (PDB codes 2V3E43 and 2NSX44) were
+obtained from the Protein Data Bank61 at Brookhaven National
+Laboratory. The program Glide62 was used for
+the docking
+calculations using the default XP precision settings except
+for a
+setting of 500 000 poses per ligand for the initial phase of docking, a
+scoring window of 200 for keeping initial poses, and a limit of 1000
+poses per ligand for energy minimization.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Copies of 1H, 13C, and 2D NMR spectra of all new compounds,
+representative Lineweaver−Burk plots against imiglucerase, %
+glycosidase inhibition, best docked poses against the structure
+of human GCase (PDB code: 2V3E) obtained for amino-
+cyclitols 1b−4b, chiro-C8, and scyllo-C8, as well as docked
+poses against structure 2NSX. This material is available free of
+charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: amadeu.llebaria@cid.csic.es (A.L.).
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was supported by the Spanish MICINN (projects
+CTQ2008-01426/BQU and CTQ2011-29549-C02-01) and
+“Generalitat de Catalunya” (Grant 2009SGR-1072). A.T.
+fellowship. The authors
+thanks MICINN for a predoctoral
+thank Genzyme Corporation for a generous
+supply of
+imiglucerase and R. Madsen for exchanging information.
+
+■ REFERENCES
+(1) Asano, N. Glycobiology 2003, 13, 93R−104R.
+(2) Mahmud, T. Nat. Prod. Rep. 2003, 20, 137−166.
+(3) Arjona, O.; Gomez, A. M.; Lopez, J. C.; Plumet, J. Chem. Rev.
+2007, 107, 1919−2036.
+
+(4) Chen, X.; Fan, Y.; Zheng, Y.; Shen, Y. Chem. Rev. 2003, 103,
+1955−1977.
+(5) Vértsey, L.; Fehlhaber, H.-W.; Schulz, A. Angew. Chem., Int. Ed.
+Engl. 1994, 33, 1844−1847.
+(6) Horii, S.; Iwasa, T.; Mizuta, E.; Kameda, Y. J. Antibiot. 1971, 24,
+59−63.
+(7) Horii, S.; Iwasa, T.; Kameda, Y. J. Antibiot. 1971, 24, 57−58.
+(8) Horii, S.; Fukase, H.; Matsuo, T.; Kameda, Y.; Asano, N.; Matsui,
+K. J. Med. Chem. 1986, 29, 1038−1046.
+(9) Kameda, Y.; Asano, N.; Yoshikawa, M.; Takeuchi, M.; Yamaguchi,
+T.; Matsui, K.; Horii, S.; Fukase, H. J. Antibiot. 1984, 37, 1301−1307.
+(10) Schmidt, D. D.; Frommer, W.; Junge, B.; Müller, L.; Wingender,
+W.; Truscheit, E.; Schafer, D. Naturwissenschaften 1977, 64, 535−536.
+(11) Suzuki, Y.; Ogawa, S.; Sakakibara, Y. Perspect. Med. Chem. 2009,
+3, 7−19.
+(12) Egido-Gabás, M.; Canals, D.; Casas, J.; Llebaria, A.; Delgado, A.
+ChemMedChem 2007, 2, 992−994.
+(13) Egido-Gabás, M.; Serrano, P.; Casas, J.; Llebaria, A.; Delgado, A.
+Org. Biomol. Chem. 2005, 3, 1195−1201.
+(14) Díaz, L.; Casas, J.; Bujons, J.; Llebaria, A.; Delgado, A. J. Med.
+Chem. 2011, 54, 2069−2079.
+(15) Trapero, A.; Egido-Gabás, M.; Llebaria, A. Med. Chem. Commun.
+2013, 4, 1584−1589.
+(16) Trapero, A.; González-Bulnes, P.; Butters, T. D.; Llebaria, A. J.
+Med. Chem. 2012, 55, 4479−4488.
+(17) Trapero, A.; Llebaria, A. Future Med. Chem. 2013, 5, 573−590.
+(18) Serrano, P.; Llebaria, A.; Vazquez, J.; de Pablo, J.; Anglada, J. M.;
+Delgado, A. Chem.Eur. J. 2005, 11, 4465−4472.
+(19) Trapero, A.; Llebaria, A. ACS Med. Chem. Lett. 2011, 2, 614−
+619.
+(20) Hoveyda, A. H. Chem. Rev. 1993, 93, 1307−1370.
+(21) Trost, B. M.; Patterson, D. E.; Hembre, E. J. Chem.Eur. J.
+2001, 7, 3768−3775.
+(22) Guo, Z.-X.; Haines, A. H.; Pyke, S. M.; Pyke, S. G.; Taylor, R. J.
+K. Carbohydr. Res. 1994, 264, 147−153.
+(23) González-Bulnes, P.; Casas,
+J.; Delgado, A.; Llebaria, A.
+Carbohydr. Res. 2007, 342, 1947−1952.
+(24) Trost, B. M.; Hembre, E. J. Tetrahedron Lett. 1999, 40, 219−
+222.
+(25) Ogoshi, S.; Yoshida, W.; Ohe, K.; Murai, S. Organometallics
+1993, 12, 578−579.
+(26) Hansen, F. G.; Bundgaard, E.; Madsen, R. J. Org. Chem. 2005,
+70, 10139−10142.
+(27) Toyokuni, T.; Ogawa, S.; Suami, T. Bull. Chem. Soc. 1983, 56,
+1161−1170.
+(28) Ogawa, S.; Miyamoto, Y.; Nose, T. J. Chem. Soc., Perkin Trans. 1
+1988, 9, 2675−2680.
+(29) Tatsuta, K.; Niwata, Y.; Umezawa, K.; Toshima, K.; Nakata, M.
+J. Antibiot. 1991, 44, 456−458.
+(30) Ohba, K.; Suzuki, K.; Nakata, M. Carbohydr. Lett. 1996, 2, 175−
+181.
+(31) Tatsuta, K.; Niwata, Y.; Umezawa, K.; Toshima, K.; Nakata, M.
+J. Antibiot. 1991, 44, 912−914.
+(32) Kireev, A. S.; Breithaupt, A. T.; Collins, W.; Nadein, O. N.;
+Kornienko, A. J. Org. Chem. 2005, 70, 742−745.
+(33) Ishikawa, T.; Shimizu, Y.; Kudoh, T.; Saito, S. Org. Lett. 2003, 5,
+3879−3882.
+(34) (a) Sato, K.; Bokura, M.; Moriyama, H.; Igarashi, T. Chem. Lett.
+1994, 23, 37−40. (b) Shing, T. K. M.; Tai, V. W. F. J. Chem. Soc.,
+Chem. Commun. 1994, 14, 2017−2025.
+(35) Marco-Contelles, J. Eur. J. Org. Chem. 2001, 2001, 1607−1618.
+(36) Ziegler, F. E.; Wang, Y. J. Org. Chem. 1998, 63, 426−427.
+(37) Fürst, A.; Plattner, P. A. Helv. Chim. Acta 1949, 32, 275−283.
+(38) Evans, S. V.; Fellows, L. E.; Shing, T. K. M.; Fleet, G. W. J.
+Phytochemistry 1985, 24, 1953−1955.
+(39) Kajimoto, T.; Liu, K. K. C.; Pederson, R. L.; Zhong, Z.;
+Ichikawa, Y.; Porco, J. A.; Wong, C. H. J. Am. Chem. Soc. 1991, 113,
+6187−6196.
+
+3528
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+Article
+
+The Journal of Organic Chemistry
+
+(40) Asano, N.; Oseki, K.; Kaneko, E.; Matsui, K. Carbohydr. Res.
+1994, 258, 255−266.
+(41) Overkleeft, H. S.; Renkema, G. H.; Neele, J.; Vianello, P.; Hung,
+I. O.; Strijland, A.; van der Burg, A. M.; Koomen, G. J.; Pandit, U. K.;
+Aerts, J. M. J. Biol. Chem. 1998, 273, 26522−26527.
+(42) Godin, G.; Compain, P.; Martin, O. R.; Ikeda, K.; Yu, L.; Asano,
+N. Bioorg. Med. Chem. Lett. 2004, 14, 5991−5995.
+(43) Brumshtein, B.; Greenblatt, H. M.; Butters, T. D.; Shaaltiel, Y.;
+Aviezer, D.; Silman, I.; Futerman, A. H.; Sussman, J. L. J. Biol. Chem.
+2007, 282, 29052−29058.
+(44) Lieberman, R. L.; Wustman, B. A.; Huertas, P.; Powe, A. C., Jr.;
+Pine, C. W.; Khanna, R.; Schlossmacher, M. G.; Ringe, D.; Petsko, G.
+A. Nat. Chem. Biol. 2007, 3, 101−107.
+(45) (a) Ogawa, S.; Kanto, M. Curr. Top. Med. Chem. 2009, 9, 58−
+75. (b) Borges de Melo, E.; da Silveira Gomes, A.; Carvalho, I.
+Tetrahedron 2006, 62, 10277−10302. (c) Dickson, L. G.; Leroy, E.;
+Reymond, J. L. Org. Biomol. Chem. 2004, 2, 1217−1226.
+(46) Brumshtein, B.; Wormald, M. R.; Silman, I.; Futerman, A. H.;
+Sussman, J. L. Acta Crystallogr., Sect. D: Biol. Crystallogr. 2006, 62,
+1458−1465.
+(47) Brumshtein, B.; Salinas, P.; Peterson, B.; Chan, V.; Silman, I.;
+Sussman, J. L.; Savickas, P. J.; Robinson, G. S.; Futerman, A. H.
+Glycobiology 2010, 20, 24−32.
+(48) Brumshtein, B.; Aguilar-Moncayo, M.; Benito, J. M.; Garcia
+Fernandez, J. M.; Silman, I.; Shaaltiel, Y.; Aviezer, D.; Sussman, J. L.;
+Futerman, A. H.; Ortiz Mellet, C. Org. Biomol. Chem. 2011, 9, 4160−
+4167.
+(49) Lieberman, R. L.; D’Aquino, J. A.; Ringe, D.; Petsko, G. A.
+Biochemistry 2009, 48, 4816−4827.
+(50) Orwig, S. D.; Tan, Y. L.; Grimster, N. P.; Yu, Z.; Powers, E. T.;
+Kelly, J. W.; Lieberman, R. L. Biochemistry 2011, 50, 10647−10657.
+(51) Díaz, L.; Bujons, J.; Casas, J.; Llebaria, A.; Delgado, A. J. Med.
+Chem. 2010, 53, 5248−5255.
+(52) Segel, I. H. Enzyme Kinetics: Behavior and Analysis of Rapid
+Equilibrium and Steady State Enzyme Systems; Wiley: New York, 1975.
+(53) Trapero, A.; Llebaria, A. Future Med. Chem. 2014, 6, 975−978.
+(54) Trapero, A.; Alfonso, I.; Butters, T. D.; Llebaria, A. J. Am. Chem.
+Soc. 2011, 133, 5474−5484.
+(55) Sawkar, A. R.; Cheng, W. C.; Beutler, E.; Wong, C. H.; Balch,
+W. E.; Kelly, J. W. Proc. Natl. Acad. Sci. U.S.A. 2002, 99, 15428−15433.
+(56) Suite 2014 Update 3; Schrödinger, LLC: New York, NY, 2014.
+(57) Maestro, version 9.9; Schrödinger, LLC: New York, NY, 2014.
+(58) MacroModel, version 10.5; Schrödinger, LLC: New York, NY,
+2014.
+(59) Jorgensen, W. L.; Maxwell, D. S.; Tirado-Rives, J. J. Am. Chem.
+Soc. 1996, 118, 11225−11236.
+(60) Still, W. C.; Tempczyk, A.; Hawley, R. C.; Hendrickson, T. J.
+Am. Chem. Soc. 1990, 112, 6127−6129.
+(61) Berman, H. M.; Westbrook, J.; Feng, Z.; Gilliland, G.; Bhat, T.
+N.; Weissig, H.; Shindyalov, I. N.; Bourne, P. E. Nucleic Acids Res.
+2000, 28, 235−242.
+(62) (a) Glide, version 6.4; Schrödinger, LLC: New York, NY, 2014.
+(b) Friesner, R. A.; Banks, J. L.; Murphy, R. B.; Halgren, T. A.; Klicic,
+J. J.; Mainz, D. T.; Repasky, M. P.; Knoll, E. H.; Shelley, M.; Perry, J.
+K.; Shaw, D. E.; Francis, P.; Shenkin, P. S. J. Med. Chem. 2004, 47,
+1739−1749. (c) Friesner, R. A.; Murphy, R. B.; Repasky, M. P.; Frye,
+L. L.; Greenwood, J. R.; Halgren, T. A.; Sanschagrin, P. C.; Mainz, D.
+T. J. Med. Chem. 2006, 49, 6177−6196. (d) Halgren, T. A.; Murphy, R.
+B.; Friesner, R. A.; Beard, H. S.; Frye, L. L.; Pollard, W. T.; Banks, J. L.
+J. Med. Chem. 2004, 47, 1750−1759.
+
+3529
+
+DOI: 10.1021/acs.joc.5b00133
+J. Org. Chem. 2015, 80, 3512−3529
+
+

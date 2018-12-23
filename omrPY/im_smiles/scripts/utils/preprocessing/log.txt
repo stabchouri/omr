@@ -1,0 +1,27 @@
+2018-06-13 10:17:32,441 root  INFO     Script being executed: generate_latex_vocab.py
+2018-06-13 10:17:32,615 root  INFO     #UNK's: 9
+2018-06-13 10:17:32,615 root  INFO     Jobs finished
+2018-12-03 21:05:24,034 root  INFO     Script being executed: preprocess_images.py
+2018-12-03 21:05:24,126 root  INFO     Creating pool with 8 threads
+2018-12-03 21:05:24,130 root  INFO     Jobs running...
+2018-12-03 21:05:58,739 root  INFO     Jobs finished
+2018-12-03 22:39:09,590 root  INFO     Script being executed: preprocess_filter.py
+2018-12-03 22:39:09,714 root  INFO     272.png discarded due to large image size!
+2018-12-03 22:39:09,779 root  INFO     1277.png discarded due to large image size!
+2018-12-03 22:39:09,921 root  INFO     3751.png discarded due to large image size!
+2018-12-03 22:39:09,960 root  INFO     4488.png discarded due to large image size!
+2018-12-03 22:43:41,536 root  INFO     Script being executed: preprocess_filter.py
+2018-12-03 22:44:30,901 root  INFO     Script being executed: preprocess_filter.py
+2018-12-03 22:44:30,931 root  INFO     272.png discarded due to large image size!
+2018-12-03 22:44:30,995 root  INFO     1277.png discarded due to large image size!
+2018-12-03 22:44:31,137 root  INFO     3751.png discarded due to large image size!
+2018-12-03 22:44:31,174 root  INFO     4488.png discarded due to large image size!
+2018-12-03 22:44:31,447 root  INFO     4 discarded. 0 not found in /scratch2/sophiat/chem-ie-TJS_omrPY/omr/data/processed/out1_flipped_processed/.
+2018-12-03 22:44:31,447 root  INFO     Jobs finished
+2018-12-03 22:54:33,329 root  INFO     Script being executed: preprocess_filter.py
+2018-12-03 22:54:33,353 root  INFO     272.png discarded due to large image size!
+2018-12-03 22:54:33,414 root  INFO     1277.png discarded due to large image size!
+2018-12-03 22:54:33,563 root  INFO     3751.png discarded due to large image size!
+2018-12-03 22:54:33,607 root  INFO     4488.png discarded due to large image size!
+2018-12-03 22:54:33,886 root  INFO     4 discarded. 0 not found in /scratch2/sophiat/chem-ie-TJS_omrPY/omr/data/processed/out1_flipped_processed/.
+2018-12-03 22:54:33,887 root  INFO     Jobs finished

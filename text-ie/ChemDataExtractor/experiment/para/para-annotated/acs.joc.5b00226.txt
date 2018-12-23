@@ -1,0 +1,1345 @@
+This is an open access article published under an ACS AuthorChoice License, which permits
+copying and redistribution of the article or any adaptations for non-commercial purposes.
+
+Article
+
+pubs.acs.org/joc
+
+Modular Assembly of Furotropones and Benzofurotropones, and
+Study of Their Physicochemical Properties
+Rajendra P. Shirke and S. S. V. Ramasastry*
+
+Department of Chemical Sciences, Indian Institute of Science Education and Research (IISER) Mohali, Sector 81, SAS Nagar,
+Manuali, Punjab 140 306, India
+*S Supporting Information
+
+in one step, access
+
+ABSTRACT: A rapid and straightforward synthesis of a novel
+series of furo[2,3-d]tropones (or cyclohepta[b]furan-6-ones)
+has been developed starting from readily and commercially
+available materials. Directed α-lithiation of
+furan-3-carbox-
+aldehydes and subsequent reaction with a variety of aldehydes
+eﬃciently provide,
+to 3-formyl-2-
+furylcarbinols, which are otherwise only accessible with
+diﬃculty. The 3-formyl-2-furylcarbinols are further elaborated
+in two steps to the synthesis of furo[2,3-d]tropones in good
+yields via sequential bismuth(III)chloride-catalyzed furfuryla-
+tion and an unusual base promoted cyclization strategy. Thus,
+diverse polysubstituted furotropones and benzofurotropones can be rapidly assembled. This methodology thereby oﬀers a
+potential approach for the synthesis of several bioactive natural products containing cyclohepta[b]furan core and also for the
+buildup of complex molecular architectures through higher order cycloaddition reactions of tropones. Further, the new
+chromophores have been found to possess promising ﬂuorescence properties. Selective ﬂuorogenic sensing behavior of
+furotropones toward Fe3+ ions has also been elucidated.
+
+■ INTRODUCTION
+
+from synthetic and theoretical
+
+Among nonbenzenoid aromatics, tropones have been studied in
+standpoint.1
+great detail
+Occurrence of several troponoid natural products possessing
+interesting biological activities spurred several studies directed
+toward understanding structure activity relationships as well as
+their physicochemical properties.2 Tropones traditionally have
+been employed in several higher order cycloaddition reactions3
+and quite often as synthons in natural product synthesis.4
+Among annulated tropone derivatives, aryl-annulated tropones
+are well-studied, while heteroaryl-annulated tropones are
+mostly unfamiliar.5 A detailed literature review exposes lack
+of synthetically ﬂexible methods for the synthesis of heteroaryl-
+annulated tropones and also a general understanding about
+their physical and biological properties is particularly missing.
+Toward this, we have initiated research to establish a short,
+eﬃcient and scalable approach for the synthesis of previously
+unknown furo[2,3-d]tropones from readily available starting
+materials. Known methods for
+furo[2,3-
+d]tropones are depicted in Scheme 1.6 The key step in El-Borai
+and Shaﬁee’s approach (method-1, Scheme 1) for tropones
+furan or benzofuran-2,3-
+involved the cyclocondensation of
+I and ketones
+II under
+dicarboxaldehydes
+strong basic
+conditions.6a,b On the other hand, Takeshita’s Claisen
+rearrangement of (E/Z)-4-(3-chloro-2-propenyloxy)tropones
+III under thermal conditions furnished furo[2,3-d]tropones
+(method-2, Scheme 1).6c Evidently,
+these methods are
+associated with the drawbacks such as (i) diﬃcult-to-access
+
+the synthesis of
+
+starting compounds, (ii) harsh reaction conditions, (iii) poor
+yields, (iv) limited substrate scope (that hinders diversiﬁca-
+tion). Herein we describe general synthesis of a variety of furo-
+and benzofuro[2,3-d]tropones, study of their physicochemical
+properties, and especially their ability in cation sensing.
+
+■ RESULTS AND DISCUSSION
+<para sub="scope">
+Synthesis and Characterization of Tropones. A general
+approach toward the synthesis of furotropones is depicted in
+Scheme 2. To begin with, commercially available 3-
+the type A are converted to 3-
+furancarboxaldehydes of
+formyl-2-furylcarbinols B in a single step via regioselective
+directed α-lithiation-alkylation strategy published earlier by our
+research group.7 Following this strategy, aldehyde functionality
+in 3-furancarboxaldehydes A can be masked by treatment with
+lithium N-methylpiperazide [LNMP, obtained by the reaction
+of N-methylpiperazine (NMP) and n-BuLi]. Chelation
+controlled lithiation of the resulting adduct at the C-2 position
+with n-BuLi generates 2-lithiofurans in highly selective manner.
+Reaction of 2-lithiofurans with aldehydes (or ketones) and
+subsequent hydrolysis generates conveniently 3-formyl-2-
+furylcarbinols B. Bismuth(III) catalyzed reaction of furylcarbi-
+nols B and 1,3-dicarbonyls C generate the tricarbonyls D in
+very good yields via intermolecular Friedel−Crafts-type
+reaction.8 Base mediated intramolecular aldol condensation of
+</para>
+Received:
+Published: April 20, 2015
+
+January 31, 2015
+
+© 2015 American Chemical Society
+
+4893
+
+DOI: 10.1021/acs.joc.5b00226
+J. Org. Chem. 2015, 80, 4893−4903
+
+The Journal of Organic Chemistry
+
+Scheme 1. Known Methods for the Synthesis of Furo[2,3-d]tropones
+
+Article
+
+Scheme 2. One-Step Synthesis of 3-Formyl-2-furyl Carbinols (B) and a Two-Step Synthesis of Furotropones and
+Benzofurotropones (E)
+<para sub="scope">
+diketoaldehydes D delivers furotropones E in good to excellent
+yields via cyclization of the dienolates F on to the appropriately
+positioned aldehyde functionality and subsequent aerobic
+oxidative aromatization of G.7 This method thus constitutes a
+general, short, eﬃcient and straightforward approach for the
+synthesis of cyclohepta[b]furan-6-ones (commonly referred to
+as furotropones). Some advantages of furan-based strategies are
+the ready availability of starting materials, ease of manipulation
+and high degree of synthetic ﬂexibility.
+</para>
+<para sub="scope">
+Since the general synthetic approach described in Scheme 2
+permits diversity across the aldehydes A and H, and the
+dicarbonyls C, a variety of highly functionalized furotropones
+and benzofurotropones (3a−3n) could be rapidly synthesized,
+Table 1. All the new compounds were fully characterized by
+these heteroaryl-
+comprehensive spectroscopic data. All of
+annulated tropones exhibited good solubility proﬁles
+in
+common organic solvents such as toluene, DCM, THF,
+
+DMSO, DMF, ethanol, ACN, etc., at room temperature itself.
+Most of the tropones were isolated as colorless to pale yellow
+solids.
+</para>
+<para sub="scope">
+Tropones possessing both aliphatic and aromatic β-ketone
+functionality (at C-7) could be accessed eﬃciently via this
+methodology (Table 1, entries 1−9), in addition to a diverse
+range of aryls and heteroaryls at C-8. More interestingly,
+tropones with β,β′-diketones are of particular interest from
+synthesis point of view (Table 1, entries 10−12). This novel
+class of tropones can be accessed by the reaction of triketones
+such as 2d and 3-formyl-2-furylcarbinols under standard
+conditions. This methodology is found to be particularly
+eﬃcient in establishing a short and scalable method for the
+synthesis of new benzofurotropones in good yields (Table 1,
+entries 13 and 14).
+</para>
+<para sub="scope">
+By virtue of the inherent restrictions the mechanism involves,
+there exist certain structural limitations for 1,3-dicarbonyls. For
+</para>
+4894
+
+DOI: 10.1021/acs.joc.5b00226
+J. Org. Chem. 2015, 80, 4893−4903
+
+The Journal of Organic Chemistry
+
+Article
+
+Table 1. Scope of Various Aldehydes and 1,3-Dicarbonyls for the Synthesis of a Variety of Furotropones and Benzofurotropones
+<para sub="scope">
+example, cyclic diketones (such as 1,3-cyclohexanedione 2f or
+the β-ketoester 2g) cannot form tropones obviously because of
+the inaccessibility of dienolate intermediates
+toward the
+aldehydic carbonyl, even otherwise also would lead to highly
+energetic bridged structures. Likewise, the diketones of the type
+1,3-diphenyl-1,3-propanedione 2h (not possessing α-acidic
+protons and thus dienolate formation is hindered) or 2i cannot
+
+generate tropones. Indeed we prepared respective tricarbonyls
+with the general structure D with aforementioned dicarbonyls,
+attempted base mediated intramolecular aldol reaction was
+unsuccessful and yielded no meaningful product. In addition,
+step-III failed to deliver tropones in cases where R1 is aliphatic.
+</para>
+<para sub="scope">
+Interestingly, reaction of 3-formyl-2-furylcarbinols 3a1 and
+3c1, and 3-methylpentane-2,4-dione 2e under bismuth(III)
+</para>
+4895
+
+DOI: 10.1021/acs.joc.5b00226
+J. Org. Chem. 2015, 80, 4893−4903
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 3. Synthesis of C-7 and C-8 Disubstituted Furotropones via Retro-Claisen Condensation
+
+Scheme 4. Synthesis of Mono (C-8) Substituted Furotropones via in Situ Ethoxy Decarbonylation
+
+Scheme 5. Synthesis of 2,3′-Bifuran Derivatives
+<para sub="scope">
+catalysis generated expectedly the diketoaldehyde 3o2 and 3p2.
+Reaction of 3o2 and 3p2 under base mediated reaction
+furnished, surprisingly, 7,8-disubstituted furotropones 3o and
+3p, respectively, in good yields, presumably via a retro-Claisen-
+aromatization sequence as shown in Scheme 3. After the initial
+aldol condensation, in order to attain aromaticity, the 7,7,8-
+trisubstituted cyclohepta[b]furan-6-ones 3o3 and 3p3 undergo
+base-mediated retro-Claisen cleavage followed by aromatization
+to form furotropones 3o and 3p, respectively.
+</para>
+<para sub="scope">
+Further, reaction of the tricarbonyls 3q2, 3r2 and 3s2, which
+were obtained by the reaction of 3-formyl-2-furylcarbinols 3a1,
+3c1 and 3s1, and ethyl acetoacetate 2c, respectively,
+in the
+
+presence of a catalytic amount of bismuth(III)chloride, under
+standard reaction conditions not only furnished the β-
+ketoesters 3q3, 3r3 and 3s3, but subsequently underwent in
+situ ethoxy decarbonylation, generating mono (C-8) sub-
+stituted furotropones 3q, 3r and 3s, respectively, in good yields,
+the reaction can be interrupted
+Scheme 4. However,
+prematurely to isolate the β-ketoesters, but
+the case of
+furotropone 3i may be an exception where formation of ethoxy
+decarbonylation product was not observed even after prolonged
+reaction times.
+</para>
+<para sub="scope">
+Of particular interest, reaction of the diketoaldehyde 3t2,
+possessing a pendent alkyne functionality, under standard base
+</para>
+4896
+
+DOI: 10.1021/acs.joc.5b00226
+J. Org. Chem. 2015, 80, 4893−4903
+
+The Journal of Organic Chemistry
+<para sub="scope">
+mediated conditions failed to generate the expected furotro-
+it yielded a 2,3′-bifuran
+pone 3t; however, to our surprise,
+derivative 4 in 78% yield in a mechanism described in Scheme
+5. Subtle variations across the alkynes and/or diketones can
+functionalized 2,3′-bifuran
+potentially generate an array of
+derivatives.9 This method thus can be a general approach for
+the synthesis of otherwise diﬃcult to access, functionalized and
+highly substituted bifuran derivatives.
+</para>
+
+Several natural products possessing cyclohepta[b]furan core
+are known in the literature, some of the representative examples
+are depicted in Figure 1. This methodology can be very much
+
+Article
+
+Figure 1. Some natural products possessing cyclohepta[b]furan core.
+
+convenient for developing short synthesis of several of these
+bioactive compounds. For example, frondosin B, liphagal and
+other natural products are synthetic challenges with their wide
+structural diversity and stereochemical features coupled with
+their interesting biological activity proﬁles.10
+
+<para sub=“props”>
+Crystal Structure of the Furotropone 3j. Molecular
+structure of the tropone 3j was conﬁrmed by single crystal X-
+ray diﬀraction analysis and the molecular packing arrangement
+in the solid state were further analyzed (see Supporting
+Information for details), Figure 2.
+</para>
+<para sub=“props”>
+Photophysical Properties. In order to better understand
+the newly synthesized
+the photophysical properties of
+furotropones in detail, initially UV−vis absorption spectra of
+the furotropone 3q under various solvent systems were
+recorded and the results are summarized in Figure 3a. A
+</para>
+Figure 2. ORTEP diagram of 3j (CCDC 1046548) with 50%
+ellipsoidal probability.
+
+Figure 3. (a) UV−vis absorption spectra of 3q (10 μM) in diﬀerent
+solvents, and (b) ﬂuorescence emission spectra of 3q (10 μM) in
+diﬀerent solvents.
+<para sub=“props”>
+striking impact of solvents on the UV absorption pattern was
+witnessed. Among the solvents screened, a nonpolar solvent
+such as toluene at 10 μM concentration exhibited an absorption
+maximum at 332 nm (due to n−π* transition) while in a polar
+solvent DMSO at the same concentration, 3q displayed an
+absorption maximum at 338 nm, essentially indicating a
+bathochromic shift (red shift) of about 6 nm. On the other
+hand, a hypsochromic shift (blue shift) of about 18 nm was
+observed in case of π−π* transitions for furotropone 3q from
+toluene to DMSO. Further, UV−vis absorption spectra of few
+other di- and triketofurotropones (3b, 3c, 3e, 3g, 3h, 3j, 3k)
+were also recorded (see Supporting Information for details).
+</para>
+<para sub=“props”>
+Subsequently,
+
+the ﬂuorescence emission spectra of
+
+furo-
+tropne 3q were also recorded in diﬀerent solvents at 10 μM
+concentration and the results are summarized in Figure 3b and
+Table 2. Fluorescence emission patterns were found to be
+strongly solvent dependent. Solvent eﬀect was more
+pronounced in n−π* transition when excited the molecule at
+340 nm. Interestingly, maximum Stokes shift (97 nm) was
+observed in DMSO and also in ethanol (94 nm) while
+minimum Stokes shift was realized in acetone (41 nm).
+Fluorescence life expectancy (τ
+f) was found to be maximum in
+THF (5.89 ns) and it was found to be least in ethanol (1.34
+ns). These results perhaps indicate inherently rigid electronic
+nature and thus
+solvent polarity dependency of
+
+least
+</para>
+4897
+
+DOI: 10.1021/acs.joc.5b00226
+J. Org. Chem. 2015, 80, 4893−4903
+
+The Journal of Organic Chemistry
+
+Table 2. Photophysical Data of 3q in Diﬀerent Solvents
+
+solventa
+THF
+ACN
+toluene
+DMSO
+acetone
+EtOAc
+ethanol
+
+λ
+abs (nm)b
+256, 330
+260, 334
+284, 332
+266, 338
+210, 334
+256, 332
+244, 337
+
+ε
+
+10.84
+8.722
+4.17
+5.09
+8.34
+7.9
+9.485
+
+log ε
+1.0350
+0.940
+0.620
+0.7067
+0.921
+0.8976
+0.977
+
+λ
+emi (nm)
+
+Δλ
+
+stokes (nm)c
+
+τ
+
+402
+410
+406
+435
+375
+376
+431
+
+72
+76
+74
+97
+41
+44
+94
+
+Article
+
+Φ
+f
+
+0.0048
+0.0145
+0.0011
+0.0017
+0.0036
+0.0083
+0.0081
+
+f (ns)d
+5.89
+3.13
+2.38
+3.31
+1.41
+1.47
+1.34
+
+aTHF: tetrahydrofuran; ACN: acetonitrile; DMSO: dimethyl sulfoxide; EtOAc: ethyl acetate. bπ−π* and n−π* absorption maxima. cStokes shift =
+λ
+
+emi − λ
+
+max
+
+abs. dFluorescent lifetime.
+
+max
+<para sub=“props”>
+furotropones. These results further point
+to their strong
+nonpolar character and also possible absence of push−pull
+electronic eﬀects in the excited state. From Table 2, it can also
+be noted that the molar absorptivity (ε) for 3q in toluene
+solution is found to be minimum (4.17) and in THF solvent, it
+is maximum (10.84). Fluorescence emission spectra of
+few
+other furotropones (3b, 3c, 3e, 3g, 3h, 3j, 3k) were recorded
+and their ﬂuorescence lifetimes were also measured in ethanol,
+which indicated that the lifetimes lie within 1.08 to 1.44 ns (see
+Supporting Information for details).
+</para>
+<para sub=“props”>
+Interesting electronic and spectroscopic properties, along
+with the presence of the 1,3- di- and 1,3,5-triketo groups in
+unique molecular environment
+inspired us to explore the
+application of furotropones as ﬂuorescent chemosensors for
+cations with the potential to coordinate to these functionalities.
+Furotropone 3b was chosen as a model substrate and exposed
+to the aqueous solutions of diﬀerent metal salts11 in ethanol.
+Almost no change in the ﬂuorescence intensity was observed
+when solutions of other metal ions such as Hg2+, Pb2+, Cr2+,
+Cd2+, Ag+, Zn2+, Cu2+, Co2+, Fe2+, Ni2+ were tested.
+Furotropone 3b was found to exhibit an interesting and highly
+selective ﬂuorescent molecular sensing property for Fe3+, Figure
+4.12 We surmised that the 1,3-dicarbonyl moiety in 3b could
+</para>
+Figure 4. Selective sensing of Fe3+ by 3b in ethanol solvent with
+diﬀerent concentrations of Fe3+.
+<para sub=“props”>
+serve as a suitable bidentate ligand for Fe3+ while the fused ring
+system could enhance the structural rigidity and change the π-
+electron distribution. In other words, the hard cation such as
+Fe3+ interacts with the hard oxygen atoms of the carbonyls
+present in the furoptopone 3b. The possibility of cation-π
+interactions are less favored since the hard cations will not
+</para>
+<para sub=“props”>
+prefer interaction with the soft π-surfaces. Decreasing the metal
+ion concentration (up to 10 μM), signiﬁcant inﬂuence on the
+ﬂuorescence intensity was observed. From this study we have
+realized that furotropone 3b (and potentially other analogues)
+could function as a probe for the detection of Fe3+ up to 10 μM
+concentration.
+</para>
+■ CONCLUSIONS
+
+In summary, we have developed a modular approach to rapidly
+access functionalized and polysubstituted furotropones and
+benzofurotropones starting from readily accessible materials.
+The three-step protocol features directed α-alkylation of 3-
+furancarboxaldehydes, Bi(III)-mediated furfurylation and an
+unusual base-mediated intramolecular aldol condensation
+reaction. Mono substituted (C-8) furotropones could be
+accessed via in situ alkoxy decarbonylation of furotropone β-
+ketoesters, disubstituted (C-7 and 8) furotropones could be
+synthesized in a retro-Claisen-aromatization strategy, and
+trisubstituted (C-5, 7 and 8) furotropones were conveniently
+prepared by means of a base-mediated intramolecular aldol
+reaction of 1,3,5-triketones. Moreover, studies directed at
+understanding the physicochemical properties of furotropones
+yielded interesting results. We have identiﬁed that these new
+chromophores, with their unique structural
+features, have
+potential to be highly sensitive and selective sensors for the
+detection of hard cations such as Fe3+, and the detection limit
+could be as low as 10 μM. We believe that our results could
+provide guidance for the design and synthesis of new tropone-
+based polycyclic aromatic heterocycles. Further
+synthetic
+modiﬁcations of
+furotropones for chemosensor applications
+are planned.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Experimental Methods. n-BuLi, 3-methyl benzofuran,
+all
+the aldehydes, N-methylpiperazine, N,O-dimethylhydroxylamine
+hydrochloride and solvents were purchased from commercial sources
+and were used without further puriﬁcation. For thin-layer chromatog-
+raphy (TLC), silica aluminum foils with a ﬂuorescent indicator (254
+nm) were used and compounds were visualized by irradiation with UV
+light and/or by treatment with a solution of p-anisaldehyde (23 mL),
+concentrated H2SO4 (35 mL), and acetic acid (10 mL) in ethanol (900
+mL) followed by heating. Column chromatography was performed
+using silica gel 100−200 mesh (approximately 15−20 g per 1 g of the
+crude product). Dry THF was obtained by distillation over sodium
+and stored over sodium wire. IR spectra were recorded on a FT-IR
+system as thin ﬁlms or KBr pellets, as indicated, with ν
+max values given
+in reciprocal centimeters. Melting points were recorded on a digital
+melting point apparatus and were uncorrected. 1H NMR and 13C
+NMR spectra were recorded on a 400 MHz FT-NMR spectrometer.
+NMR shifts are reported as delta (δ) units in parts per million (ppm),
+and coupling constants (J) are reported in hertz (Hz). The following
+abbreviations are utilized to describe peak patterns when appropriate:
+</para>
+4898
+
+DOI: 10.1021/acs.joc.5b00226
+J. Org. Chem. 2015, 80, 4893−4903
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+br = broad, s = singlet, d = doublet, t = triplet, q = quartet, and m =
+shifts are given in δ relative to
+multiplet. Proton chemical
+tetramethylsilane (δ 0.00 ppm) in CDCl3. Carbon chemical shifts
+are internally referenced to the deuterated solvent signals in CDCl3 (δ
+77.1 ppm). High-resolution mass spectra were recorded on a Q-TOF
+mass spectrometer.
+
+General Procedure for Step-I, Scheme 2 (Synthesis of 3-
+Formyl-2-furylcarbinols Starting from 3-Furancarboxalde-
+hyes). To a solution of N-methylpiperazine (NMP, 0.07 mL, 0.66
+mmol) in THF (2 mL) at −78 °C was added n-BuLi (2 M in
+cyclohexane, 0.33 mL, 0.66 mmol). After 15 min, 3-furaldehyde (50
+mg, 0.045 mL, 0.52 mmol) was added, and then the reaction mixture
+was stirred for an additional 30 min. A cyclohexane solution of n-BuLi
+(0.66 mL, 1.32 mmol) was added, and the mixture was stirred for an
+additional 15 min, and then the mixture was warmed to −30 °C in 2 h.
+The solution was again cooled to −78 °C and an aldehyde (1.02
+mmol) was added dropwise over 5 min. The mixture was warmed to
+room temperature over 30 min. The reaction progress was monitored
+by TLC. Reaction mixture was quenched with saturated aq.
+ammonium chloride solution and extracted with ethyl acetate. The
+organic extracts were combined, dried (Na2SO4), ﬁltered, and
+concentrated. The crude product was puriﬁed by column chromatog-
+raphy on silica gel (ethyl acetate−hexanes) to aﬀord 3-formyl-2-
+furylcarbinols in 60−80% yields.
+
+Spectral Data of Newly Synthesized Alcohols. Some of the 3-
+formyl-2-furylcarbinols prepared during this study are already known
+in the literature.7,8 Complete characterization data of newly
+synthesized compounds is given below.
+
+2-(Hydroxy(thiophen-2-yl)methyl)furan-3-carbaldehyde (3g1).
+This compound was isolated as colorless liquid: Rf = 0.4 (EtOAc/
+max/cm−1 3372, 2872, 1672, 1580,
+Hexane = 3/7); IR (thin ﬁlm, neat) ν
+1516, 1422, 1237, 1127, 1024, 805; 1H NMR (400 MHz, CDCl3) δ
+9.98 (s, 1H), 7.42 (d, J = 1.9 Hz, 1H), 7.32 (m, 1H), 6.98 (m, 2H),
+6.83 (d, J = 1.9 Hz, 1H), 6.30 (d, J = 7.0 Hz, 1H), 4.69 (d, J = 7.0 Hz,
+1H); 13C NMR (100 MHz, CDCl3) δ 187.0, 162.1, 143.7, 142.5,
+126.9, 126.1, 125.2, 122.5, 110.2, 66.6; HRMS (ESI) m/z calcd for
+C10H9O3S (M + H)+ 209.0272, found 209.0277.
+2-([1,1′-Biphenyl]-4-yl(hydroxy)methyl)furan-3-carbaldehyde
+(3i1). This compound was isolated as colorless liquid: Rf = 0.4
+max/cm−1 3370, 2870,
+(EtOAc/Hexane = 3/7); IR (thin ﬁlm, neat) ν
+1670, 1578, 1514, 1418, 1235, 1022, 703; 1H NMR (400 MHz,
+CDCl3) δ 10.0 (s, 1H), 7.63−7.58 (m, 4H), 7.51−7.44 (m, 4H), 7.42
+(d, J = 2.0 Hz, 1H), 7.37 (tt, J = 8.5 and 1.2 Hz, 1H), 6.83 (d, J = 2.0
+Hz, 1H), 6.15 (d, J = 7.3 Hz, 1H), 4.49 (d, J = 7.3 Hz, 1H); 13C NMR
+(100 MHz, CDCl3) δ 187.2, 163.2, 142.4, 141.3, 140.5, 139.1, 128.8
+(2CH), 127.5 (2CH), 127.3, 127.1 (2CH), 126.6 (2CH), 122.6, 110.2,
+70.3; HRMS (ESI) m/z calcd for C18H15O3 (M + H)+ 279.1021, found
+279.1026.
+
+2-(Hydroxy(phenyl)methyl)benzofuran-3-carbaldehyde (3m1).
+This compound was isolated as colorless liquid: Rf = 0.4 (EtOAc/
+max/cm−1 3313, 3031, 1661, 1575,
+Hexane = 3/7); IR (thin ﬁlm, neat) ν
+1495, 1479, 1452, 1176, 1011, 748; 1H NMR (400 MHz, CDCl3) δ
+10.48 (s, 1H), 8.12 (dd, J = 6.8 and 3.3 Hz, 1H), 7.53−7.51 (m, 3H),
+7.43−7.36 (m, 5H), 6.29 (d, J = 5.5 Hz, 1H), 4.03 (d, J = 5.6 Hz, 1H);
+13C NMR (100 MHz, CDCl3) δ 186.6, 166.7, 139.6, 128.9 (2CH),
+128.7, 126.4 (2CH), 125.8, 125.0, 124.8, 121.4, 117.5, 111.5, 101.9,
+65.4; HRMS (ESI) m/z calcd for C16H13O3 (M + H)+ 253.0865, found
+253.0839.
+
+2-((3-Fluorophenyl)(hydroxy)methyl)furan-3-carbaldehyde (3s1).
+This compound was isolated as colorless liquid: Rf = 0.4 (EtOAc/
+max/cm−1 3363, 2927, 1673, 1615,
+Hexane = 3/7); IR (thin ﬁlm, neat) ν
+1592, 1488, 1451, 1250, 1129, 1024, 787; 1H NMR (400 MHz,
+CDCl3) δ 9.96 (s, 1H), 7.41 (d, J = 1.8 Hz, 1H), 7.37−7.34 (m, 1H),
+7.18 (dd, J = 13.2 and 8.9, 2H), 7.02 (td, J = 8.4 and 2.5 Hz, 1H), 6.82
+(d, J = 2.0 Hz, 1H), 6.08 (d, J = 5.3 Hz, 1H), 4.73 (d, J = 6.8 Hz,1H);
+13C NMR (100 MHz, CDCl3) δ 187.3, 162.9 (d, J = 245.06 Hz),
+162.6, 142.6, 142.5, 130.1 (d, J = 8.05 Hz), 122.6, 121.7, 115.2 (d, J =
+20.9 Hz), 113.2 (d, J = 22.51 Hz), 110.4, 69.8; 19F NMR (376.4 MHz,
+CDCl3) δ −112.15; HRMS (ESI) m/z calcd for C12H8FO2 (M −
+OH)+ 203.0509, found 203.0498.
+
+General Procedure for Step-II, Scheme 2 (Reaction of 3-
+Formyl-2-furylcarbinols with Various 1,3-Dicarbonyls). To a
+solution of furfuryl alcohol (0.1 mmol, 1 equiv) in nitromethane (1
+mL), were added acetylacetone (0.11 mmol, 1.1 equiv) followed by
+BiCl3 (0.02 mmol, 0.2 equiv) at room temperature. The reaction was
+stirred at room temperature until
+the alcohol was consumed as
+monitored by TLC, and the reaction mixture was quenched with
+aqueous saturated sodium bicarbonate solution (1−2 mL). The
+reaction mixture was diluted with ethyl acetate (1−2 mL), and the
+layers were separated. The aqueous layer was further extracted with
+ethyl acetate (1−2 mL). The organic layers were combined, dried over
+Na2SO4, concentrated, and puriﬁed by silica gel column chromatog-
+raphy (ethyl acetate−hexanes) to aﬀord 1,3-dicarbonyl adducts in 60−
+95% yields.
+
+Spectral Data of 1,3-Dicarbonyl Adducts. Some of the 1,3-
+dicarbonyl adducts prepared during study are already known in the
+literature.7,8 Complete characterization data of newly synthesized
+compounds is given below.
+
+2-(2-Benzoyl-3-oxo-1-phenylbutyl)furan-3-carbaldehyde (3b2).
+This compound was isolated as colorless liquid starting from 40 mg
+of 3a1 and obtained 66 mg in 97% yield: Rf = 0.4 (EtOAc/Hexane =
+max/cm−1 2925, 1722, 1673, 1600, 1546,
+3/7); IR (thin ﬁlm, neat) ν
+1443, 1325, 752; 1H NMR (400 MHz, CDCl3) δ 10.10 (s, 1H), 8.05−
+8.02 (m, 2H), 7.62 (tt, J = 7.4 and 1.7 Hz, 1H), 7.52−7.47 (m, 4H),
+7.38−7.35 (m, 2H), 7.31−7.27 (m, 1H), 7.18 (d, J = 1.9 Hz, 1H), 6.59
+(d, J = 2.0 Hz, 1H), 5.78 (d, J = 11.5 Hz, 1H), 5.63 (d, J = 11.6 Hz,
+1H), 2.02 (s, 3H); 13C NMR (100 MHz, CDCl3) δ 200.9, 193.1,
+184.7, 161.9, 142.4, 137.1, 135.9, 134.1, 129.2 (2CH), 128.9 (2CH),
+128.8 (2CH), 128.4 (2CH), 128.1, 122.3, 108.7, 66.3, 43.6, 29.1;
+HRMS (ESI) m/z calcd for C22H18O4Na (M + Na)+ 369.1103, found
+369.1104.
+
+2-(2-Acetyl-1-(4-ethylphenyl)-3-oxobutyl)furan-3-carbaldehyde
+(3c2). This compound was isolated as colorless liquid starting from 50
+mg of 3c1 and obtained 67 mg in 95% yield: Rf = 0.4 (EtOAc/Hexane
+max/cm−1 2965, 1733, 1702, 1681, 1574,
+= 3/7); IR (thin ﬁlm, neat) ν
+1514, 1471, 1358, 1124, 746. 1H NMR (400 MHz, CDCl3) δ 10.05 (s,
+1H), 7.34 (d, J = 2.0 Hz, 1H), 7.27 (m, 2H), 7.15 (d, J = 8.3 Hz, 2H),
+6.68 (d, J = 2.0 Hz, 1H), 5.38 (d, J = 11.8 Hz, 1H), 4.92 (d, J = 12.0
+Hz, 1H), 2.60 (q, J = 7.0 Hz, 2H), 2.17 (s, 3H), 2.03 (s, 3H), 1.20 (t, J
+= 7.7 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 200.1, 200.9, 184.7,
+161.9, 144.0, 142.5, 134.2, 128.7 (2CH), 128.0 (2CH), 122.0, 109.7,
+71.7, 42.8, 30.2, 29.4, 28.3, 15.2; HRMS (ESI) m/z calcd for
+C19H20O4Li (M + Li)+ 319.1522, found 319.1565.
+
+2-(2-Benzoyl-1-(4-ethylphenyl)-3-oxobutyl)furan-3-carbaldehyde
+(3d2). This compound was isolated as colorless liquid starting from 50
+mg of 3c1 and obtained 76 mg in 94% yield: Rf = 0.4 (EtOAc/Hexane
+max /cm−1 2922, 1725, 1680, 1448, 1358,
+= 3/7); IR (thin ﬁlm, neat) ν
+1267, 1125, 1023, 748; 1H NMR (400 MHz, CDCl3) δ 10.12 (s, 1H),
+8.03 (dd, J = 8.5 and 1.3 Hz, 2H), 7.62 (tt, J = 7.4 and 1.3 Hz, 1H),
+7.51−7.48 (m, 2H), 7.39 (tt, J = 10.1 and 1.7 Hz, 2H), 7.20−7.147 (m,
+3H), 6.58 (d, J = 2.0 Hz, 1H), 5.76 (d, J = 11.5 Hz, 1H), 5.60 (d, J =
+11.5 Hz, 1H), 2.63 (q, J = 7.6 Hz, 2H), 2.04 (s, 3H), 1.22 (t, J = 7.6
+Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 201.1, 193.2, 184.7, 162.3,
+144.1, 142.3, 135.9, 134.1, 134.0, 128.9 (2CH), 128.8 (2CH), 128.7
+(2CH), 128.3 (2CH), 122.2, 66.4, 43.2, 29.0, 28.4, 18.6, 15.3; HRMS
+(ESI) m/z calcd for C24H22O4Na (M + Na)+ 397.1416,
+found
+397.1432.
+
+2-(2-Benzoyl-1-(furan-2-yl)-3-oxobutyl)furan-3-carbaldehyde
+(3e2). This compound isolated as colorless liquid starting from 40 mg
+of 3e1 and obtained 49 mg in 71% yield: Rf = 0.4 (EtOAc/Hexane =
+max/cm−1 2922, 1725, 1680, 1594, 1417,
+3/7); IR (thin ﬁlm, neat) ν
+1269, 1012, 744; 1H NMR (400 MHz, CDCl3) δ 10.11 (s, 1H), 8.05−
+8.02 (m, 2H), 7.54−7.47 (m, 4H), 7.40 (d, J = 2.0 Hz, 1H), 7.16 (dd, J
+= 1.8 and 0.7 Hz, 1H), 6.75 (d, J = 2.0 Hz, 1H), 6.14 (dd, J = 3.0 and
+1.8 Hz, 1H), 6.11 (d, J = 3.2 Hz, 1H), 5.81 (d, J = 10.3 Hz, 1H), 2.11
+(s, 3H); 13C NMR (100 MHz, CDCl3) δ 199.7, 192.9, 184.8, 159.6,
+149.7, 142.8, 142.4, 136.1, 134.1, 128.9 (2CH), 128.8 (2CH), 122.9,
+110.6, 108.9, 108.0, 63.2, 37.3, 29.0; HRMS (ESI) m/z calcd for
+C20H16O5Na (M + Na)+ 359.0895, found 359.0898.
+</para>
+4899
+
+DOI: 10.1021/acs.joc.5b00226
+J. Org. Chem. 2015, 80, 4893−4903
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+2-(2-Benzoyl-1-(5-methylfuran-2-yl)-3-oxobutyl)furan-3-carbal-
+dehyde (3f2). This compound was isolated as colorless liquid starting
+from 40 mg of 3f1 and obtained 50 mg in 74% yield: Rf = 0.4 (EtOAc/
+max/cm−1 2922, 1725, 1680, 1448,
+Hexane = 3/7); IR (thin ﬁlm, neat) ν
+1358, 1267, 1125, 1023, 748, 695; 1H NMR (400 MHz, CDCl3) δ
+10.11 (s, 1H), 8.06−8.04 (m, 2H), 7.54−7.47 (m, 4H), 7.39 (d, J = 1.9
+Hz, 1H), 6.75 (d, J = 2.0 Hz, 1H), 5.97 (d, J = 11.3 Hz, 1H), 5.94 (d, J
+= 3.0 Hz, 1H), 5.79 (d, J = 11.3 Hz, 1H), 2.12 (s, 3H), 2.04 (d, J = 0.8
+Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 199.9, 192.7, 184.8, 159.8,
+152.5, 147.7, 142.6, 136.6, 134.1, 128.9 (2CH), 128.8 (2CH), 122.8,
+109.1, 108.8, 106.7, 64.3, 37.3, 28.4, 13.5; HRMS (ESI) m/z calcd for
+C21H18O5Na (M + Na)+ 373.1052, found 373.1073.
+
+2-(2-Acetyl-3-oxo-1-(thiophen-2-yl)butyl)furan-3-carbaldehyde
+(3g2). This compound was isolated as colorless liquid starting from 40
+mg of 3g1 and obtained 42 mg in 75% yield: Rf = 0.4 (EtOAc/Hexane
+max/cm−1 2997, 2866, 1721, 1698, 1680,
+= 3/7); IR (thin ﬁlm, neat) ν
+1610, 1512, 1394, 1360, 1250, 1182, 1088, 1045, 744; 1H NMR (400
+MHz, CDCl3) δ 10.07 (s, 1H), 7.36 (d, J = 2.0 Hz, 1H), 7.22 (dd, J =
+5.2 and 1.0 Hz, 1H), 7.01 (dd, J = 3.5 and 0.6 Hz, 1H), 6.94−6.92 (m,
+1H), 6.70 (d, J = 2.0 Hz, 1H), 5.75 (d, J = 5.8 Hz, 1H), 4.91 (d, J = 5.8
+Hz, 1H), 2.16 (s, 3H), 2.14 (s, 3H); 13C NMR (100 MHz, CDCl3) δ
+200.7, 200.2, 184.7, 160.2, 142.6, 139.3, 127.1, 126.5, 125.7, 122.1,
+109.1, 72.3, 38.1, 30.1, 29.4; HRMS (ESI) m/z calcd for C15H14O4SNa
+(M + Na)+ 313.0510, found 313.0520.
+
+2-(2-Benzoyl-3-oxo-1-(thiophen-2-yl)butyl)furan-3-carbaldehyde
+(3h2). This compound was isolated as colorless liquid starting from 40
+mg of 3g1 and obtained 63 mg in 94% yield: Rf = 0.4 (EtOAc/Hexane
+max/cm−1 2956, 2870, 1721, 1698, 1682,
+= 3/7); IR (thin ﬁlm, neat) ν
+1573, 1519, 1418, 1366, 1124, 759; 1H NMR (400 MHz, CDCl3) δ
+10.13 (s, 1H), 8.01 (dd, J = 0.9 Hz, 3H), 7.51−7.47 (m, 2H), 7.43 (d, J
+= 2.0 Hz, 1H), 7.07 (d, J = 1.0 Hz, 1H), 6.95−6.93 (m, 1H), 6.79−
+6.77 (m, 1H), 6.74 (d, J = 2.0 Hz, 1H), 6.02 (d, J = 11.3 Hz, 1H), 5.79
+(d, J = 11.3 Hz, 1H), 2.10 (s, 3H); 13C NMR (100 MHz, CDCl3) δ
+199.9, 192.7, 184.7, 160.8, 142.7, 139.6, 136.4, 134.1, 128.9 (2CH),
+128.8 (2CH), 126.9, 126.6, 125.3, 122.3, 109.1, 66.6, 38.6, 28.8;
+HRMS (ESI) m/z calcd for C20H16O4SNa (M + Na)+ 375.0667, found
+375.0663.
+Ethyl 2-([1,1′-biphenyl]-4-yl(3-formylfuran-2-yl)methyl)-3-oxobu-
+tanoate (3i2). This compound was isolated as colorless liquid starting
+from 55 mg of 3i1 and obtained 61 mg in 80% yield: Rf = 0.4 (EtOAc/
+max/cm−1 2957, 2870, 1722, 1697,
+Hexane = 3/7); IR (thin ﬁlm, neat) ν
+1680, 1570, 1514, 1413, 1370, 1124, 766; 1H NMR (400 MHz,
+CDCl3) δ 10.11 (s, 1H), 7.62−7.61 (m, 1H), 7.54−7.53 (m, 3H),
+7.44−7.42 (m, 4H), 7.39 (d, J = 2.0 Hz, 1H), 7.36−7.35 (m, 1H), 6.71
+(d, J = 2.0 Hz, 1H), 5.38 (d, J = 5.3 Hz, 1H), 4.76 (d, J = 3.3 Hz, 1H),
+4.04 (qd, J = 7.1 and 1.8 Hz, 2H), 2.29 (s, 3H), 1.06 (t, J = 7.2 Hz,
+3H); 13C NMR (100 MHz, CDCl3) δ 200.0, 184.5, 166.7, 161.9,
+142.6, 140.7, 140.2, 139.8, 136.4, 128.8 (2CH), 128.7 (2CH), 127.7
+(2CH), 127.5 (2CH), 127.3, 109.6, 64.1, 63.1, 61.9, 42.3, 29.0; HRMS
+(ESI) m/z calcd for C24H22O5Na (M + Na)+ 413.1365,
+found
+413.1373.
+
+2-(2-Benzoyl-3,5-dioxo-1,5-diphenylpentyl)furan-3-carbaldehyde
+(3j2). This compound was isolated as colorless liquid starting from 40
+mg of 3a1 and obtained 70 mg in 73% yield: Rf = 0.4 (EtOAc/Hexane
+max /cm−1 2924, 2852, 1681, 1597, 1493,
+= 3/7); IR (thin ﬁlm, neat) ν
+1448, 1278, 1026, 744, 695; 1H NMR (400 MHz, CDCl3) δ 10.10 (s,
+1H), 8.03−8.00 (m, 2H), 7.80−7.78 (m, 1H), 7.63−7.62 (m, 1H),
+7.61−7.60 (m, 2H), 7.54−7.53 (m, 1H), 7.52−7.51 (m, 1H), 7.50−
+7.49 (m, 2H), 7.48−7.47 (m, 2H), 7.34−7.32 (m, 1H), 7.21 (s, 2H),
+7.17−7.16 (m, 1H), 7.13−7.11 (m, 1H), 6.38−6.36 (m, 1H), 5.65 (d, J
+= 11.5 Hz, 1H), 5.55 (d, J = 11.5 Hz, 1H), 5.03 (dd, J = 10.7 and 4.7
+Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 193.6, 193.6, 193.0, 182.0,
+159.0, 142.4, 137.9, 137.3, 135.9, 133.9, 133.5, 132.4, 129.3 (2CH),
+128.9 (2CH), 128.8 (2CH), 128.7 (2CH), 128.1 (2CH), 127.1
+(2CH), 122.2, 112.6, 62.3, 53.4, 44.4; HRMS (ESI) m/z calcd for
+C29H22O5Na (M + Na)+ 473.1365, found 473.1384.
+
+2-(2-Benzoyl-1-(furan-2-yl)-3,5-dioxo-5-phenylpentyl)furan-3-
+carbaldehyde (3k2). This compound isolated as colorless liquid
+starting from 45 mg of 3e1 and obtained 77 mg in 75% yield: Rf = 0.4
+max /cm−1 2926, 1682,
+(EtOAc/Hexane = 3/7); IR (thin ﬁlm, neat) ν
+
+1597, 1448, 1274, 1250, 1181, 1013, 742; 1H NMR (400 MHz,
+CDCl3) δ 10.10 (s, 1H), 8.07−8.05 (m, 2H), 7.82−7.80 (m, 2H),
+7.55−7.53 (m, 2H), 7.51−7.50 (m, 2H), 7.45 (s, 1H), 7.49−7.47 (m,
+2H), 7.43−7.43 (m, 1H), 7.37 (dd, J = 1.7 and 0.6 Hz, 1H), 7.24 (d, J
+= 1.9 Hz, 1H), 6.67 (d, J = 1.9 Hz, 1H), 6.36 (d, J = 3.1 Hz, 1H),
+6.30−6.28 (m, 1H), 5.79 (d, J = 11.4 Hz, 1H), 5.60 (d, J = 11.4 Hz,
+1H); 13C NMR (100 MHz, CDCl3) δ 193.0, 190.5, 184.8, 182.1,
+159.9, 156.2, 149.7, 143.0, 142.7, 142.6, 134.1, 132.9, 129.0, 128.95,
+128.91 (2CH), 128.7 (2CH), 127.1 (2CH), 122.7, 110.8, 108.4, 107.8,
+96.2, 60.2, 37.9; HRMS (ESI) m/z calcd for C27H20O6Na (M + Na)+
+463.1168, found 463.1158.
+2-(1-([1,1′-Biphenyl]-4-yl)-2-benzoyl-3,5-dioxo-5-phenylpentyl)-
+furan-3-carbaldehyde (3l2). This compound was isolated as colorless
+liquid starting from 40 mg of 3i1 and obtained 52 mg in 70% yield: Rf
+max /cm−1 2925,
+= 0.4 (EtOAc/Hexane = 3/7); IR (thin ﬁlm, neat) ν
+2853, 1734, 1681, 1597, 1487, 1448, 1123, 1077, 821, 738; 1H NMR
+(400 MHz, CDCl3) δ 10.18 (s, 1H), 8.07−8.05 (m, 2H), 7.82−7.80
+(m, 2H), 7.51−7.47 (m, 7H), 7.45−7.43 (m, 6H), 7.37−7.36 (m, 1H),
+7.24 (d, J = 1.9 Hz, 1H), 6.67 (d, J = 2.0 Hz, 1H), 6.35 (d, J = 3.6 Hz,
+1H), 6.31 (s, 1H), 6.30−6.29 (m, 1H), 6.20 (d, J = 3.6 Hz, 1H), 5.60
+(d, J = 11.4 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 193.0, 190.5,
+184.9, 182.1, 159.8, 149.7, 142.7, 142.3, 135.7, 135.7, 134.0, 134.6,
+134.0, 133.5, 132.9, 129.0 (2CH), 128.9 (2CH), 128.8 (3CH), 128.7
+(3CH), 128.1, 127.1 (2CH), 122.7, 110.8, 108.6, 108.4, 96.2, 60.2,
+37.9; HRMS (ESI) m/z calcd for C35H26O5Na (M + Na)+ 549.1678,
+found 549.1661.
+
+2-(2-Acetyl-3-oxo-1-phenylbutyl)benzofuran-3-carbaldehyde
+(3m2). This compound was isolated as colorless liquid starting from
+30 mg of 3m1 and obtained 23 mg in 60% yield: Rf = 0.4 (EtOAc/
+max/cm−1 2947, 2868, 1720, 1697,
+Hexane = 3/7); IR (thin ﬁlm, neat) ν
+1681, 1487, 1451, 1124, 760; 1H NMR (400 MHz, CDCl3) δ 10.45 (s,
+1H), 8.11−8.09 (m, 1H), 7.52−7.49 (m, 1H), 7.46−7.44 (m, 2H),
+7.40 (d, J = 4.8 Hz, 1H), 7.37−7.33 (m, 3H), 5.55 (d, J = 11.8 Hz,
+1H), 5.10 (q, J = 11.8 Hz, 2H), 2.23 (s, 3H), 2.08 (s, 3H); 13C NMR
+(100 MHz, CDCl3) δ 200.9, 200.3, 184.7, 166.0, 153.8, 136.6, 129.4
+(2CH), 128.6, 128.2 (2CH), 125.6, 124.9, 124.6, 121.9, 117.1, 111.0,
+71.2, 43.2, 30.3, 29.7; HRMS (ESI) m/z calcd for C21H18O4Na (M +
+Na)+ 357.1103, found 357.1103.
+
+2-(2-Benzoyl-3-oxo-1-phenylbutyl)benzofuran-3-carbaldehyde
+(3n2). This compound was isolated as colorless liquid starting from 45
+mg of 3m1 and obtained 45 mg in 65% yield: Rf = 0.4 (EtOAc/Hexane
+max/cm−1 2962, 2929, 1738, 1704, 1681,
+= 3/7); IR (thin ﬁlm, neat) ν
+1575, 1487, 1125, 765, 747; 1H NMR (400 MHz, CDCl3) δ 10.49 (s,
+1H), 8.06−8.04 (m, 2H), 7.97−7.95 (m, 2H), 7.49−7.45 (m, 2H),
+7.42−7.40 (m, 3H), 7.38−7.35 (m, 3H), 7.22−7.18 (m, 2H), 5.97 (d, J
+= 11.5 Hz, 1H), 5.80 (d, J = 11.3 Hz, 1H), 2.18 (s, 3H); 13C NMR
+(100 MHz, CDCl3) δ 200.0, 193.1, 184.8, 166.7, 153.9, 137.0, 134.1,
+129.0 (2CH), 128.9 (2CH), 128.8 (2CH), 128.5, 128.3 (2CH), 127.0,
+125.5, 124.9, 124.6, 122.07, 117.2, 110.0, 65.3, 43.7, 29.3; HRMS
+(ESI) m/z calcd for C26H20O4Na (M + Na)+ 419.1259,
+found
+419.1250.
+
+2-(2-Acetyl-2-methyl-3-oxo-1-phenylbutyl)furan-3-carbaldehyde
+(3o2). This compound was isolated as colorless liquid starting from 30
+mg of 3a1 and obtained 35 mg in 80% yield: Rf = 0.4 (EtOAc/Hexane
+max/cm−1 2925, 1738, 1716, 1682, 1580,
+= 3/7); IR (thin ﬁlm, neat) ν
+1494, 1454, 1369, 1246, 1145, 1045, 758; 1H NMR (400 MHz,
+CDCl3) δ 10.0 (s, 1H), 7.40 (d, J = 1.9 Hz, 1H), 7.29−7.27 (m, 5H),
+6.7 (d, J = 1.9 Hz, 1H), 5.98 (s, 1H), 2.05 (s, 3H), 2.06 (s, 3H), 1.74
+(s, 3H); 13C NMR (100 MHz, CDCl3) δ 205.2, 204.0, 185.0, 162.2,
+142.2, 136.8, 129.8 (2CH), 128.6 (2CH), 127.8, 122.9, 108.8, 71.4,
+45.5, 27.2, 26.5, 16.5; HRMS (ESI) m/z calcd for C18H19O4 (M + H)+
+299.1283, found 299.1249.
+
+2-(2-Acetyl-1-(4-ethylphenyl)-2-methyl-3-oxobutyl)furan-3-car-
+baldehyde (3p2). This compound was isolated as colorless liquid
+starting from 47 mg of 3c1 and obtained 59 mg in 90% yield: Rf = 0.4
+max/cm−1 3363, 1673,
+(EtOAc/Hexane = 3/7); IR (thin ﬁlm, neat) ν
+1583, 1503, 1418, 1274, 1145, 1128, 1012; 1H NMR (400 MHz,
+CDCl3) δ 9.99 (s, 1H), 7.39 (d, J = 1.9 Hz, 1H), 7.20 (d, J = 8.2 Hz,
+2H), 7.11 (d, J = 8.2 Hz, 2H), 6.72 (d, J = 1.9 Hz, 1H), 5.90 (s, 1H),
+2.60 (q, J = 7.6 Hz, 2H), 2.04 (s, 3H), 2.01 (s, 3H), 1.73 (s, 3H), 1.20
+</para>
+4900
+
+DOI: 10.1021/acs.joc.5b00226
+J. Org. Chem. 2015, 80, 4893−4903
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+(t, J = 7.6 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 205.2, 204.2,
+185.1, 162.5, 143.8, 142.5, 133.9, 129.7 (2CH), 128.1 (2CH), 122.9,
+108.7, 71.5, 45.2, 28.3, 27.2, 26.6, 16.5, 15.2; HRMS (ESI) m/z calcd
+for C20H22O4Na (M + Na)+ 349.1416, found 349.1417.
+
+Ethyl 2-((4-ethylphenyl)(3-formylfuran-2-yl)methyl)-3-oxobuta-
+noate (3r2) major. This compound was isolated as colorless liquid
+starting from 20 mg of 3c1 and obtained 19 mg in 65% yield: Rf = 0.4
+max /cm−1 2966, 1743,
+(EtOAc/Hexane = 3/7); IR (thin ﬁlm, neat) ν
+1720, 1681, 1514, 1245, 1124, 750; 1H NMR (400 MHz, CDCl3) δ
+10.01 (s, 1H), 7.36 (d, J = 2.0 Hz, 1H), 7.30−7.28 (m, 2H), 7.16−7.14
+(m, 2H), 6.69 (d, J = 2.0 Hz, 1H), 5.32 (d, J = 4.0 Hz, 1H), 4.70 (d, J
+= 3.7 Hz, 1H), 4.10−4.07 (m, 2H), 2.60 (q, J = 7.5 Hz, 2H), 2.26 (s,
+3H), 1.20 (td, J = 7.6 and 2.6 Hz, 3H), 1.14 (t, J = 7.1 Hz, 3H); 13C
+NMR (100 MHz, CDCl3) δ 200.5, 184.7, 166.6, 162.5, 143.9, 142.5,
+134.6, 128.6 (2CH), 128.3 (2CH), 122.1, 108.8, 82.6, 61.9, 42.2, 29.4,
+28.4, 15.4, 13.7; HRMS (ESI) m/z calcd for C20H22O5Na (M + Na)+
+365.1365, found 365.1356.
+
+Ethyl 2-((3-ﬂuorophenyl)(3-formylfuran-2-yl)methyl)-3-oxobuta-
+noate (3s2). This compound was isolated as colorless liquid starting
+from 30 mg of 3s1 and obtained 31 mg in 69% yield: Rf = 0.4 (EtOAc/
+max /cm−1 2958, 2927, 1733,
+Hexane = 3/7); IR (thin ﬁlm, neat) ν
+1681, 1521, 1418, 1359, 1131, 1046, 888; 1H NMR (400 MHz,
+CDCl3) δ 10.07 (s, 1H), 7.35 (d, J = 2.0 Hz, 1H), 7.19−7.16 (m, 2H),
+6.99−6.94 (m, 2H), 6.70 (d, J = 2.0 Hz, 1H), 5.37 (d, J = 6.3 Hz, 1H),
+5.34 (d, J = 6.3 Hz, 1H), 4.00−4.10 (m, 2H), 2.28 (s, 3H), 1.14 (t, J =
+7.1 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 199.9, 184.6, 166.4,
+162.8 (d, J = 245.86 Hz), 161.4, 142.7, 139.8 (d, J = 7.00 Hz), 130.6
+(d, J = 8.15 Hz), 124.1, 122.5, 115.3 (d, J = 22.23 Hz), 115.0 (d, J =
+20.7 Hz), 109.2, 62.9, 62.1, 42.2, 30.9, 13.9; 19F NMR (376.4 MHz,
+CDCl3) δ −111.8; HRMS (ESI) m/z calcd for C18H17O5FNa (M +
+Na)+ 355.0958, found 355.0967.
+
+2-(1-Phenyloct-2-yn-1-yl)furan-3-carbaldehyde (3t2). This com-
+pound was isolated as a colorless liquid starting from 30 mg of 3t1 and
+obtained 42 mg in 85% yield: Rf = 0.4 (EtOAc/Hexane = 3/7); IR
+max/cm−1 3363, 2123, 1705, 1673, 1583, 1503, 1418,
+(thin ﬁlm, neat) ν
+1274, 1145, 1128, 1012, 896, 785; 1H NMR (400 MHz, CDCl3) δ
+10.20 (s, 1H), 7.94 (dd, J = 8.5 and 1.3 Hz, 2H), 7.60 (m, 3H), 7.23
+(dd, J = 2.0 and 0.5 Hz, 1H), 6.62 (d, J = 2.0 Hz, 1H), 5.40 (d, J = 10.4
+Hz, 1H), 5.23 (td, J = 10.4 and 2.3 Hz, 1H), 2.35 (s, 3H) 2.19 (td, J =
+7.2 and 1.8 Hz, 2H), 1.35−1.29 (m, 4H), 1.11−1.06 (s, 2H), 0.77 (t, J
+= 6.4 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 200.0, 192.3, 184.4,
+158.6, 142.7, 135.6, 134.2, 129.1 (2CH), 128.9 (2CH), 122.8, 108.3,
+86.6, 74.4, 66.3, 30.9, 29.9, 28.3, 28.0, 22.1, 18.6, 13.9; HRMS (ESI)
+m/z calcd for C23H25O4 (M + H)+ 365.1753, found 365.1755.
+
+General Procedure for Step-III, Scheme 2 (Base Mediated
+Intramolecular Aldol Condensation of the 1,3-Dicarbonyl
+Adducts for the Synthesis of Furotropones). To a solution of
+the 1,3-dicarbonyl adduct (0.06 mmol, 1 equiv) in 1 mL DMF, sodium
+carbonate (5 mg, 1 equiv) was added under nitrogen atmosphere. The
+ﬂask was placed in an oil bath (80 °C) and stirring was continued for 3
+h. The reaction mixture was washed with water and extracted with
+ethyl acetate. The organic extracts were combined, dried (Na2SO4),
+ﬁltered, and concentrated. The crude product was puriﬁed by column
+chromatography on silica gel (ethyl acetate−hexanes) to aﬀord
+furotropone.
+
+Spectral Data of Furotropones. Some of
+
+the furotropones
+prepared during study are already known in the literature.7,8 Complete
+characterization data of newly synthesized compounds is given below.
+7-Benzoyl-8-phenyl-6H-cyclohepta[b]furan-6-one (3b). This
+compound was isolated as a pale yellow solid (22 mg, 75%): mp =
+266−269 °C; Rf = 0.4 (EtOAc/Hexane= 2/3); IR (thin ﬁlm, neat)
+max/cm−1 2923, 1711, 1673, 1535, 1497, 1454, 1343, 1260, 1096, 734;
+ν
+1H NMR (400 MHz, CDCl3) δ 7.73−7.70 (m, 2H), 7.62 (d, J = 11.8
+Hz, 1H), 7.60 (d, J = 1.9 Hz, 1H), 7.46 (tt, J = 7.3 and 1.2 Hz, 1H),
+7.34−7.30 (m, 3H), 7.30−7.20 (m, 4H), 7.14 (d, J = 11.8 Hz, 1H),
+6.90 (d, J = 1.9 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 195.3, 185.6,
+153.6, 145.8, 144.1, 138.4, 137.4, 136.7, 133.7, 133.0, 131.5, 129.4,
+129.3, 129.3, 128.7 (2CH), 128.7, 128.6, 128.3 (2CH), 127.8, 113.0;
+HRMS (ESI) m/z calcd for C22H15O3 (M + H)+ 327.1000, found
+327.0990.
+
+7-Acetyl-8-(4-ethylphenyl)-6H-cyclohepta[b]furan-6-one (3c).
+This compound was isolated as a pale yellow solid (28 mg, 74%):
+mp = 250−253 °C; Rf = 0.4 (EtOAc/Hexane = 2/3); IR (thin ﬁlm,
+max/cm−1 2963, 2925, 2854, 1711, 1621, 1578, 1538, 1496,
+neat) ν
+1454, 1340, 1136, 1091, 816; 1H NMR (400 MHz, CDCl3) δ 7.61 (d, J
+= 1.8 Hz, 1H), 7.55 (d, J = 11.8 Hz, 1H), 7.28 (m, 4H), 7.10 (d, J =
+11.8 Hz, 1H), 6.85 (d, J = 1.8 Hz, 1H), 2.73 (q, J = 7.6 Hz, 2H), 2.10
+(s, 3H), 1.30 (t, J = 7.6 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ
+203.2, 185.1, 153.7, 146.3, 145.7, 145.2, 137.5, 136.8, 131.6, 131.0,
+129.2 (2CH), 128.3, 127.8 (2CH), 113.0, 31.0, 28.6, 15.1; HRMS
+(ESI) m/z calcd for C19H17O3 (M + H)+ 293.1178, found 293.1176.
+7-Benzoyl-8-(4-ethylphenyl)-6H-cyclohepta[b]furan-6-one (3d).
+This compound was isolated as a pale yellow solid (23 mg, 62%):
+mp = 260−262 °C; Rf = 0.4 (EtOAc/Hexane = 2/3); IR (thin ﬁlm,
+max /cm−1 2960, 2926, 1671, 1636, 1536, 1494, 813; 1H NMR
+neat) ν
+(400 MHz, CDCl3) δ 7.72 (dd, J = 6.4 and 1.3 Hz, 2H), 7.63 (d, J =
+2.0 Hz, 1H), 7.61 (d, J = 11.8, 1H), 7.46 (tt, J = 8.6, 2.4, and 1.2 Hz,
+1H), 7.32 (t, J = 7.8 Hz, 2H), 7.14 (d, J = 11.8 Hz, 2H), 7.08 (brs,
+3H), 6.90 (d, J = 2.0 Hz, 1H), 2.60 (q, J = 7.5 Hz, 2H), 1.19 (t, J = 7.7
+Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 195.5, 185.6, 153.7, 145.7,
+145.7, 144.7, 144.2, 138.7, 137.4, 136.8, 132.9, 131.5, 130.9, 128.7
+(2CH), 128.6, 128.3 (2CH), 127.4, 127.3, 127.3, 113.0, 28.5, 15.0;
+HRMS (ESI) m/z calcd for C24H19O3 (M + H)+ 355.1334, found
+355.1337.
+
+7-Benzoyl-8-(furan-2-yl)-6H-cyclohepta[b]furan-6-one (3e). This
+compound was isolated as a pale yellow solid (34 mg, 91%): mp =
+252−255 °C; Rf = 0.4 (EtOAc/Hexane = 2/3); IR (thin ﬁlm, neat)
+max/cm−1 3145, 2924, 2853, 1675, 1574, 1544, 1498, 1449, 1336,
+ν
+1255, 831, 693; 1H NMR (400 MHz, CDCl3) δ 7.90−7.87 (m, 2H),
+7.75 (d, J = 1.9 Hz, 1H), 7.55−7.49 (m, 2H), 7.42−7.38 (m, 2H), 7.32
+(dd, J = 1.7 and 0.7, 1H), 7.05 (d, J = 11.7 Hz, 1H), 6.93 (dd, J = 3.4
+and 0.6 Hz, 1H), 6.90 (d, J = 1.9 Hz, 1H). 6.42 (q, J = 1.8 Hz, 1H);
+13C NMR (100 MHz, CDCl3) δ 195.3, 185.5, 151.8, 145.4, 145.2,
+144.2, 142.5, 137.2, 136.7, 132.9, 131.1, 128.7, 128.6 (2CH), 128.4
+(2CH), 127.4, 116.8, 113.1, 111.8; HRMS (ESI) m/z calcd for
+C20H13O4 (M + H)+ 317.0814, found 317.0823.
+
+7-Benzoyl-8-(5-methylfuran-2-yl)-6H-cyclohepta[b]furan-6-one
+(3f). This compound was isolated as a pale yellow solid (30 mg, 74%):
+mp = 255−258 °C; Rf = 0.4 (EtOAc/Hexane = 2/3); IR (thin ﬁlm,
+max/cm−1 2923, 2852, 1678, 1623, 1535, 1497, 1448, 1361,
+neat) ν
+1249, 1096, 833; 1H NMR (400 MHz, CDCl3) δ 7.95−7.92 (m, 2H),
+7.74 (d, J = 1.9 Hz, 1H), 7.53−7.49 (m, 2H), 7.44−7.40 (m, 2H),
+7.04−7.00 (m, 2H), 6.88 (d, J = 1.9 Hz, 1H), 6.06−6.04 (m, 1H), 1.96
+(s, 3H); 13C NMR (100 MHz, CDCl3) δ 195.6, 185.8, 155.0, 151.5,
+144.9, 143.7, 141.1, 137.3, 137.2, 132.6, 130.8, 128.5 (3CH), 128.3
+(2CH), 127.2, 119.0, 113.1, 108.6, 13.1; HRMS (ESI) m/z calcd for
+C21H15O4 (M + H)+ 331.0970, found 331.0953.
+
+7-Acetyl-8-(thiophen-2-yl)-6H-cyclohepta[b]furan-6-one (3g).
+This compound was isolated as a pale yellow solid (13 mg, 70%):
+mp = 250−253 °C; Rf = 0.4 (EtOAc/Hexane = 2/3); IR (thin ﬁlm,
+max/cm−1 3132, 2922, 1708, 1616, 1573, 1537, 1496, 1452,
+neat) ν
+1325, 1165, 1089, 830, 794; 1H NMR (400 MHz, CDCl3) δ 7.66 (d, J
+= 1.9 Hz, 1H), 7.57 (dd, J = 4.9 and 1.4 Hz, 1H), 7.57 (d, J = 11.8 Hz,
+1H), 7.14 (m, 2H), 7.08 (d, J = 11.8 Hz, 1H), 6.87 (d, J = 1.9 Hz, 1H),
+2.17 (s, 3H); 13C NMR (100 MHz, CDCl3) δ 202.7, 184.6, 147.2,
+145.6, 137.4, 137.1, 132.9, 131.6, 131.3, 130.1, 128.5, 128.1, 127.0,
+113.1, 30.6; HRMS (ESI) m/z calcd for C15H11O3S (M + H)+
+271.0429, found 271.0440.
+
+7-Benzoyl-8-(thiophen-2-yl)-6H-cyclohepta[b]furan-6-one (3h).
+This compound was isolated as a pale yellow solid (18 mg, 95%):
+mp = 260−263 °C; Rf = 0.4 (EtOAc/Hexane = 2/3); IR (thin ﬁlm,
+max/cm−1 3112, 2954, 2853, 1673, 1537, 1494, 1452, 1356,
+neat) ν
+1328, 1258, 1092, 823; 1H NMR (400 MHz, CDCl3) δ 7.77−7.76 (m,
+2H), 7.68 (d, J = 1.9 Hz, 1H), 7.59 (d, J = 11.8 Hz, 1H), 7.48 (tt, J =
+7.4 and 1.7 Hz, 1H), 7.35 (m, 3H), 7.11 (d, J = 11.8 Hz, 1H), 7.01
+(dd, J = 3.6 and 1.2 Hz, 1H), 6.91 (m, 2H); 13C NMR (100 MHz,
+CDCl3) δ 195.0, 185.1, 153.2, 145.7, 145.2, 137.3, 136.3, 133.2, 133.1,
+132.1, 131.5, 131.2, 128.8 (2CH), 128.5, 128.4 (2CH), 128.41, 126.5,
+113.2. HRMS (ESI) m/z calcd for C20H13O3S (M + H)+ 333.0585,
+found 333.0598.
+</para>
+4901
+
+DOI: 10.1021/acs.joc.5b00226
+J. Org. Chem. 2015, 80, 4893−4903
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+Ethyl 8-([1,1′-biphenyl]-4-yl)-6-oxo-6H-cyclohepta[b]furan-7-car-
+boxylate (3i). This compound was isolated as a pale yellow solid (21
+mg, 75%): mp = 273−276 °C; Rf = 0.4 (EtOAc/Hexane = 2/3); IR
+max/cm−1 3031, 2925, 2854, 1730, 1620, 1590, 1539,
+(thin ﬁlm, neat) ν
+1496, 1043, 758; 1H NMR (400 MHz, CDCl3) δ 7.73 (tt, J = 5.3 and
+1.9 Hz, 1H), 7.69 (t, J = 1.9 Hz, 1H), 7.67−7.66 (m, 1H), 7.65−7.64
+(m, 2H), 7.55 (d, J = 11.9 Hz, 1H), 7.51−7.48 (m, 4H), 7.43−7.39
+(m, 1H), 7.15 (d, J = 11.9 Hz, 1H), 6.87 (d, J = 1.8 Hz, 1H), 4.05 (q, J
+= 7.1 Hz, 2H), 0.97 (t, J = 7.1 Hz, 3H); 13C NMR (100 MHz, CDCl3)
+δ 183.8, 166.6, 146.0, 141.8, 140.2, 137.4, 133.4, 131.3, 129.6, 129.4
+(2CH), 128.9 (2CH), 128.8 (2CH), 127.7, 127.2, 127.17 (2CH),
+127.11, 126.7, 113.1, 61.3, 13.6; HRMS (ESI) m/z calcd for C24H19O4
+(M + H)+ 371.1283, found 371.1287.
+
+6-Oxo-8- ph enyl-6H-cyclohepta[b]furan-5,7-diyl)bis-
+(phenylmethanone) (3j). This compound was isolated as a pale yellow
+solid (15 mg, 76%): mp = 290−293 °C; Rf = 0.4 (EtOAc/Hexane = 2/
+max/cm−1 3060, 2924, 2853, 1674, 1597, 1540,
+3); IR (thin ﬁlm, neat) ν
+1448, 1286, 1208, 872; 1H NMR (400 MHz, CDCl3) δ 7.94−7.93 (m,
+1H), 7.92 (t, J = 4.0 and 2.0 Hz, 2H), 7.71 (m, 1H), 7.69 (t, J = 4.0 Hz,
+2H), 7.54 (tt, J = 8.0 and 4.0 Hz, 1H), 7.46−7.40 (m, 3H), 7.32−7.26
+(m, 7H), 6.98 (d, J = 4.0 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ
+195.8, 194.7, 183.9, 154.0, 146.6, 146.2, 145.3, 138.4, 136.7, 135.8,
+133.4, 133.2, 133.2, 131.7, 129.3, 129.2 (2CH), 128.9 (2CH), 128.8
+(2CH), 128.5 (2CH), 128.3 (2CH), 128.0 (2CH), 127.7, 113.7;
+HRMS (ESI) m/z calcd for C29H19O4 (M + H)+ 431.1283, found
+431.1267.
+
+8-(Furan-2-yl)-6-oxo-6H-cyclohepta[b]furan-5,7-diyl)bis-
+(phenylmethanone) (3k). This compound was isolated as a pale
+yellow solid (23 mg, 70%): mp = 285−288 °C; Rf = 0.4 (EtOAc/
+max/cm−1 2923, 2853, 1690, 1674,
+Hexane = 2/3); IR (thin ﬁlm, neat) ν
+1542, 1498, 1261, 835; 1H NMR (400 MHz, CDCl3) δ 7.89−7.86 (m,
+4H), 7.83 (d, J = 2.0 Hz, 1H), 7.50 (tt, J = 8.0 and 1.2 Hz, 2H), 7.42−
+7.37 (m, 4H), 7.35 (dd, J = 2.0 and 0.8 Hz, 1H), 7.07 (dd, J = 3.6 and
+0.6 Hz, 2H), 6.99 (d, J = 2.0 Hz, 1H), 6.47 (dd, J = 2.0 and 1.3 Hz,
+1H); 13C NMR (100 MHz, CDCl3) δ 195.4, 184.0, 180.5, 152.1,
+146.3, 145.5, 144.6, 143.1, 136.9, 135.7, 133.3, 133.0, 131.2, 129.2
+(2CH), 128.7 (2CH), 128.56, 128.54 (2CH), 128.50, 128.4 (2CH),
+127.6, 117.5, 113.8, 112.1; HRMS (ESI) m/z calcd for C27H17O5 (M +
+H)+ 421.1076, found 421.1072.
+8-([1,1′-Biphenyl]-4-yl)-6-oxo-6H-cyclohepta[b]furan-5,7-diyl)bis-
+(phenylmethanone) (3l). This compound was isolated as a pale yellow
+solid (32 mg, 84%): mp = 297−300 °C; Rf = 0.4 (EtOAc/Hexane = 2/
+max/cm−1 3059, 2925, 1673, 1597, 1579, 1538,
+3); IR (thin ﬁlm, neat) ν
+1494, 1337, 1286, 1006; 1H NMR (400 MHz, CDCl3) δ 7.95 (d, J =
+1.0 Hz, 1H), 7.93−7.92 (m, 2H), 7.73 (d, J = 1.0 Hz, 1H), 7.72−7.71
+(m, 2H), 7.57−7.55 (m, 1H), 7.54 (s, 2H), 7.52 (t, J = 1.2 Hz, 1H),
+7.50 (s, 1H), 7.45 (d, J = 1.8 Hz, 1H), 7.44−7.43 (m, 2H), 7.42−7.41
+(m, 2H), 7.38 (t, J = 1.2 Hz, 1H), 7.36 (t, J = 2.2 Hz, 1H), 7.35 (t, J =
+1.2 Hz, 1H), 7.32 (s, 1H), 7.30 (s, 1H), 6.99 (d, J = 1.8 Hz, 1H); 13C
+NMR (100 MHz, CDCl3) δ 195.8, 194.8, 183.9, 154.0, 146.7, 146.2,
+145.4, 141.6, 140.0, 138.2, 136.8, 135.8, 133.4, 133.2, 132.1, 131.7,
+129.8, 129.8, 129.2 (2CH), 128.9 (2CH), 128.8 (2CH), 128.6 (2CH),
+128.3 (2CH), 127.78, 127.74, 127.1 (2CH), 126.6 (2CH), 113.7;
+HRMS (ESI) m/z calcd for C35H23O4 (M + H)+ 507.1596, found
+507.1608.
+
+7-Acetyl-6-phenyl-8H-cyclohepta[b]benzofuran-8-one (3m). This
+compound was isolated as a pale yellow solid (12 mg, 61%): mp =
+201−202 °C; Rf = 0.4 (EtOAc/Hexane = 2/3); IR (thin ﬁlm, neat)
+max/cm−1 2919, 2852, 1716, 1668, 1635, 1480, 1385, 1284, 819; 1H
+ν
+NMR (400 MHz, CDCl3) δ 7.98 (d, J = 11.9 Hz, 1H), 7.96−7.94 (m,
+1H), 7.53−7.50 (m, 3H), 7.49−7.47 (m, 2H), 7.47−7.39 (m, 2H),
+7.28 (d, J = 7.4 Hz, 1H), 6.70 (s, 1H), 2.14 (s, 3H); 13C NMR (100
+MHz, CDCl3) δ 202.8, 185.0, 154.5, 149.2, 137.6, 133.8, 129.4 (2CH),
+129.3, 129.1, 128.5, 128.4, 128.4 (2CH), 125.8, 124.5, 123.5, 120.1,
+116.1, 112.3, 30.9; HRMS (ESI) m/z calcd for C21H15O3 (M + H)+
+315.1021, found 315.1026.
+
+7-Benzoyl-6-phenyl-8H-cyclohepta[b]benzofuran-8-one (3n).
+This compound was isolated as a pale yellow solid (15 mg, 65%):
+mp = 207−210 °C; Rf = 0.4 (EtOAc/Hexane = 2/3); IR (thin ﬁlm,
+max/cm−1 2922, 2852, 1709, 1668, 1635, 1557, 1480, 1446,
+neat) ν
+
+1281, 883, 819; 1H NMR (400 MHz, CDCl3) δ 8.03 (d, J = 11.8 Hz,
+1H), 7.99−7.97 (m, 1H), 7.74−7.71 (m, 2H), 7.54−7.51 (m, 1H),
+7.50−7.45 (m, 4H), 7.35 (t, J = 1.5 Hz, 1H), 7.33−7.28 (m, 6H); 13C
+NMR (100 MHz, CDCl3) δ 195.1, 185.4, 155.1, 154.5, 147.6, 147.3,
+146.3, 139.0, 137.5, 136.5, 133.7, 133.1, 129.1, 128.7 (2CH), 128.6,
+128.5, 128.4 (2CH), 127.9, 127.9, 125.9, 124.5, 123.7, 120.1, 112.3;
+HRMS (ESI) m/z calcd for C26H17O3 (M + H)+ 377.1178, found
+377.1179.
+7-Methyl-8-phenyl-6H-cyclohepta[b]furan-6-one (3o). This com-
+pound was isolated as a pale yellow solid (14 mg, 60%): mp = 261−
+263 °C; Rf = 0.4 (EtOAc/Hexane = 1/1); IR (thin ﬁlm, neat) ν
+max/
+cm−1 2928, 1710, 1620, 1575, 1536, 1452, 1356, 1352, 1326, 830, 716;
+1H NMR (400 MHz, CDCl3) δ 7.55−7.47 (m, 5H), 7.26−7.24 (m,
+2H), 7.10 (d, J = 11.9 Hz, 1H), 6.79 (d, J = 1.9 Hz, 1H), 2.03 (s, 3H);
+13C NMR (100 MHz, CDCl3) δ 187.3, 154.2, 144.3, 142.3, 139.1,
+138.3, 134.5, 129.8, 128.5 (2CH), 128.2 (2CH), 127.9, 126.6, 112.0,
+19.5; HRMS (ESI) m/z calcd for C16H13O2 (M + H)+ 237.0900, found
+237.0909.
+
+7-Benzoyl-8-(4-ethylphenyl)-6H-cyclohepta[b]furan-6-one (3p).
+This compound was isolated as a pale yellow solid (14 mg, 62%):
+mp = 268−271 °C; Rf = 0.4 (EtOAc/Hexane = 2/3); IR (thin ﬁlm,
+max/cm−1 2900, 1715, 1690, 1620, 1470, 1430, 1356, 1351,
+neat) ν
+1315, 1270, 830; 1H NMR (400 MHz, CDCl3) δ 7.50 (d, J = 1.9 Hz,
+1H), 7.47 (d, J = 11.8 Hz, 1H), 7.36 (d, J = 8.0 Hz, 2H), 7.17 (d, J =
+8.0 Hz, 2H), 7.09 (d, J = 11.8 Hz, 1H), 6.78 (d, J = 1.9 Hz, 1H), 2.78
+(q, J = 7.6 Hz, 2H), 2.04 (s, 3H), 1.34 (t, J = 7.6 Hz, 3H) .13C NMR
+(100 MHz, CDCl3) δ 187.3, 144.3, 143.8, 142.9, 139.3, 135.5, 134.5,
+130.2, 129.8, 128.1 (2CH), 128.0 (2CH), 126.5, 112.0, 28.6, 19.6,
+15.3; HRMS (ESI) m/z calcd for C18H17O2 (M + H)+ 265.1229, found
+265.1227.
+
+8-(4-Ethylphenyl)-6H-cyclohepta[b]furan-6-one (3r). This com-
+pound was isolated as a pale yellow liquid (12 mg, 60%): Rf = 0.4
+max/cm−1 2963, 2926,
+(EtOAc/Hexane = 1/1); IR (thin ﬁlm, neat) ν
+2854, 1710, 1620, 1590, 1540, 1496, 1460, 1350, 1090, 847; 1H NMR
+(400 MHz, CDCl3) δ 7.64 (d, J = 2.0 Hz, 1H), 7.52−7.48 (m, 3H),
+7.36−7.33 (m, 2H), 7.06−7.02 (m, 2H), 6.85 (d, J = 1.8 Hz, 1H), 2.76
+(q, J = 7.7 Hz, 2H), 1.33 (t, J = 7.5 Hz, 3H); 13C NMR (100 MHz,
+CDCl3) δ 186.9, 153.4, 145.5, 144.6, 140.7, 136.3, 136.0, 134.8, 131.4,
+129.1 (2CH), 128.4, 127.9 (2CH), 113.0, 28.6, 15.3; HRMS (ESI) m/
+z calcd for C17H15O2 (M + H)+ 251.1072, found 251.1071.
+
+8-(3-Fluorophenyl)-6H-cyclohepta[b]furan-6-one (3s). This com-
+pound was isolated as a pale yellow liquid (12 mg, 55%): Rf = 0.4
+max/cm−1 2924, 2853,
+(EtOAc/Hexane = 1/1); IR (thin ﬁlm, neat) ν
+1730, 1621, 1545, 1498, 1455, 1343, 1259, 1092, 1041, 867, 789; 1H
+NMR (400 MHz, CDCl3) δ 7.65 (d, J = 2.0 Hz, 1H), 7.53 (d, J = 11.5
+Hz, 1H), 7.49−7.45 (m, 1H), 7.34−7.29 (m, 2H), 7.21 (dt, J = 8.4 and
+1.9, 1H), 7.04 (dd, J = 11.7 and 2.3 Hz, 2H), 6.87 (d, J = 2.0 Hz, 1H);
+13C NMR (100 MHz, CDCl3) δ 186.7, 156.2 (d, J = 226.96 Hz),
+144.8, 139.4, 136.5, 136.1, 131.5, 130.9, 130.0 (d, J = 8.16 Hz), 128.6,
+126.3, 124.8, 116.4 (d, J = 22.77 Hz), 116.1 (d, J = 20.71 Hz), 113.1;
+19F NMR (376.4 MHz, CDCl3) δ −112.6; HRMS (ESI) m/z calcd for
+C15H10FO2 (M + H)+ 241.0665, found 241.0667.
+4′-Acetyl-2′-hexyl-5′-methyl-[2,3′-bifuran]-3-carbaldehyde (4).
+This compound was isolated as a colorless liquid (27 mg, 78%): Rf
+max/cm−1 3059,
+= 0.3 (EtOAc/Hexane = 1/5); IR (thin ﬁlm, neat) ν
+2925, 1673, 1597, 1579, 1538, 1494, 1337, 1286, 1006, 739; 1H NMR
+(400 MHz, CDCl3) δ 9.74 (s, 1H), 7.66−7.64 (m, 2H), 7.46 (tt, J =
+7.4 and 1.2 Hz, 1H), 7.34−7.30 (m, 2H), 7.23 (dd, J = 2.0 and 0.5 Hz,
+1H), 6.63 (d, J = 2.0 Hz, 1H), 2.67 (t, J = 7.7 Hz, 2H), 2.42 (s, 3H),
+1.71−1.66 (m, 2H), 1.32−1.26 (m, 6H), 0.87 (t, J = 6.8 Hz, 3H); 13C
+NMR (100 MHz, CDCl3) δ 191.0, 184.9, 156.6, 155.8, 155.0, 143.2,
+138.2, 132.5, 128.8 (2CH), 128.2 (2CH), 124.1, 121.3, 109.8, 108.0,
+31.3, 28.7, 27.9, 26.7, 22.4, 14.0, 13.8; HRMS (ESI) m/z calcd for
+C23H25O4 (M + H)+ 365.1753, found 365.1766.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Figures giving 1H and 13C NMR of all new compounds, some
+physicochemical data and ﬁgures, tables, and CIF ﬁles giving
+
+4902
+
+DOI: 10.1021/acs.joc.5b00226
+J. Org. Chem. 2015, 80, 4893−4903
+
+The Journal of Organic Chemistry
+
+single crystal X-ray diﬀraction analysis data of compound 3j.
+The Supporting Information is available free of charge on the
+ACS Publications website at DOI: 10.1021/acs.joc.5b00226.
+
+■ AUTHOR INFORMATION
+
+Corresponding Author
+*Tel: (+91) 172 2293169. Fax: (+91) 172 2240266. E-mail:
+ramsastry@iisermohali.ac.in.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We thank the Department of Science and Technology (DST),
+New Delhi for ﬁnancial support through Fast Track Scheme
+(SR/FT/CS-156/2011) and Indian Institute of Science
+Education and Research (IISER) Mohali
+for funding. We
+thank NMR and X-ray facilities of IISER-Mohali. We thank
+DCS colleagues for their help in recording and analyzing UV−
+vis and ﬂuorescence data. R.S. thanks IISER-Mohali
+for a
+research fellowship.
+
+■ REFERENCES
+
+(1) (a) Pauson, P. L. Chem. Rev. 1955, 55, 9. (b) Pietra, F. Chem. Rev.
+1973, 73, 293. (c) Pietra, F. Acc. Chem. Res. 1979, 12, 132. (d) Asao,
+T.; Ito, S.; Murata, I. Eur. J. Org. Chem. 2004, 899. (e) Liu, N.; Song,
+W.; Schienebeck, C. M.; Zhang, M.; Tang, W. Tetrahedron 2014, 70,
+9281.
+(2) (a) Funk, R. L.; Bolton, G. L. J. Org. Chem. 1987, 52, 3173.
+(b) Feldman, K. S.; Come, J. H.; Kosmider, B. J.; Smith, P. M.; Rotella,
+D. P.; Wu, M. J. J. Org. Chem. 1989, 54, 592. (c) Feldman, K. S.; Wu,
+M. J.; Rotella, D. P. J. Am. Chem. Soc. 1989, 111, 6457. (d) Rigby, J. H.;
+Ateeq, H. S. J. Am. Chem. Soc. 1990, 112, 6442. (e) Graening, T.;
+Bette, V.; Neudörfl, J.; Lex, J.; Schmalz, H.-G. Org. Lett. 2005, 7, 4317.
+(f) Li, P.; Yamamoto, H. Chem. Commun. 2010, 46, 6294.
+(3) Several inspiring studies were reported in this ﬁeld, some selected
+references: (a) Nair, V.; Poonoth, M.; Vellalath, S.; Suresh, E.;
+Thirumalai, R. J. Org. Chem. 2006, 71, 8964. (b) Nair, V.; Abhilash, K.
+G. Top. Heterocycl. Chem. 2008, 13, 173. (c) Thangaraj, M.; Bhojgude,
+S. S.; Bisht, R. H.; Gonnade, R. G.; Biju, A. T. J. Org. Chem. 2014, 79,
+4757. (d) Kumar, P.; Thakur, A.; Hong, X.; Houk, K. N.; Louie, J. J.
+Am. Chem. Soc. 2014, 136, 17844. (e) Liu, H.; Wu, Y.; Zhao, Y.; Li, Z.;
+Zhang, L.; Yang, W.; Jiang, H.; Jing, C.; Yu, H.; Wang, B.; Xiao, Y.;
+Guo, H. J. Am. Chem. Soc. 2014, 136, 2625 and references cited
+therein.
+(4) (a) Boye, O.; Brossi, A. In The Alkaloids; Brossi, A., Cordell, G.
+A., Eds.; Academic Press: San Diego, 1992; Vol. 41, p 125. (b) Le
+Hello, C. In The Alkaloids; Cordell, G. A., Ed.; Academic Press: San
+Diego, 2000; Vol. 53, Chapter 5. (c) Nozoe, T. Bull. Chem. Soc. Jpn.
+1936, 11, 295. (d) Teng, H.-L.; Yao, L.; Wang, C.-J. J. Am. Chem. Soc.
+2014, 136, 4075.
+(5) For aryl-annulated tropones, see: (a) Kudoh, M.; Satoh, T.;
+Ikeda, H.; Nakazawa, T.; Miyashi, T.; Katagiri, S.; Sudoh, S. Bull.
+Chem. Soc. Jpn. 2009, 82, 70. (b) Ohkita, M.; Nishida, S.; Tsuji, T. J.
+Am. Chem. Soc. 1999, 121, 4589. (c) Arican, D.; Bruckner, R. Org. Lett.
+2013, 15, 2582. For heteroaryl-annulated tropones, see: (d) Etaiw, S.
+H.; El-Borai, M.; Ismail, M. I. Can. J. Chem. 1980, 58, 2358. (e) Kudoh,
+M.; Sudoh, S.; Katagiri, S.; Nakazawa, T.; Ishihara, M.; Jinguji, M.;
+Higashi, M.; Yamaguchi, H.; Miyatake, R.; Sugihara, Y.; Kabuto, C.
+Bull. Chem. Soc. Jpn. 2006, 79, 1240.
+(6) (a) El-Borai, M.; Guilard, R.; Fournari, P. Bull. Soc. Chim. Fr.
+1974, 7, 1383. (b) Shafiee, A. J. Heterocycl. Chem. 1975, 12, 177.
+(c) Nakamura, A.; Kubo, K.; Ikeda, Y.; Mori, A.; Takeshita, H. Bull.
+Chem. Soc. Jpn. 1994, 67, 2803.
+(7) Dhiman, S.; Ramasastry, S. S. V. Indian J. Chem., Sect. A 2013, 52,
+1103.
+
+Article
+
+(8) Dhiman, S.; Ramasastry, S. S. V. Org. Biomol. Chem. 2013, 11,
+4299.
+(9) 2,3′-Bifurans traditionally have been synthesized by employing
+typical Pd-mediated coupling strategy. Few miscellaneous methods,
+though not general
+in nature, are reported. For example, see:
+(a) Pennanen, S. I. J. Heterocycl. Chem. 1977, 14, 745. (b) Liu, Z.;
+Yu, W.; Yang, L.; Liu, Z.-L. Tetrahedron Lett. 2007, 48, 5321.
+(c) Kumar, T.; Mobin, S. M.; Namboothiri, I. N. N. Tetrahedron 2013,
+69, 4964.
+(10) For frondosin B, see: (a) Patil, A. D.; Freyer, A. J.; Kilmer, L.;
+Offen, P.; Carte, B.; Jurewicz, A. J.; Johnson, R. K. Tetrahedron 1997,
+53, 5047. For liphagal, see: (b) Marion, F.; Williams, D. E.; Patrick, B.
+O.; Hollander, I.; Mallon, R.; Kim, S. C.; Roll, D. M.; Feldberg, L.;
+Soest, R. V.; Andersen, R.
+For
+salvixalapoxide, see: (c) Esquivel, B.; Tello, R.; Sanchez, A. A. J. Nat.
+Prod. 2005, 68, 787.
+For languidulane, see: (d) Maldonado, E.;
+Ortega, A. Phytochemistry 1997, 45, 1461.
+For spiniferin-2, see:
+(e) Fontana, A.; Trivellone, E.; Mollo, E.; Cimino, G. J. Nat. Prod.
+1994, 57, 510. For gnididione, see: (f) Jacobi, P. A.; Selnick, H. G. J.
+Org. Chem. 1990, 55, 202.
+(11) Test solutions containing Zn2+, Mg2+, Ni2+, Cu2+, Hg2+, Sn2+,
+Co2+, In2+, Sn2+, Cd2+, Cr2+, Fe2+ were prepared by using their halides,
+and Pb2+ solution was prepared by using its nitrate.
+(12) Sahoo, S. K.; Sharma, D.; Bera, R. K.; Crisponi, G.; Callan, J. F.
+Chem. Soc. Rev. 2012, 41, 7195.
+
+J. Org. Lett. 2006, 8, 321.
+
+4903
+
+DOI: 10.1021/acs.joc.5b00226
+J. Org. Chem. 2015, 80, 4893−4903
+
+

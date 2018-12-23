@@ -1,0 +1,1178 @@
+Note
+
+pubs.acs.org/joc
+
+Synthesis of 1,2,3-Substituted Pyrroles from Propargylamines via a
+One-Pot Tandem Enyne Cross Metathesis−Cyclization Reaction
+Helene Chachignon,
+†
+Department of Applied Sciences, Northumbria University Newcastle, Ellison Building, Ellison Place, NE1 8ST Newcastle upon
+Tyne, United Kingdom
+‡
+Dipartimento di Biotecnologie, Chimica e Farmacia, University of Siena, Via A. Moro 2, 53100 Siena, Italy
+*S Supporting Information
+
+and Daniele Castagnolo*,†
+
+Elena Petricci,
+
+‡
+
+†,#
+
+Nicolò Scalacci,
+
+†,#
+
+ABSTRACT: Enyne cross metathesis of propargylamines with
+ethyl vinyl ether enables the one-pot synthesis of substituted
+pyrroles. A series of substituted pyrroles, bearing alkyl, aryl, and
+heteroaryl substituents, has been synthesized in good yields under
+microwave irradiation. The reactions are rapid and procedurally
+simple and also represent a facile entry to the synthetically
+challenging 1,2,3-substituted pyrroles. The value of the method-
+ology is further corroborated by the conversion of pyrroles into 3-
+methyl-pyrrolines and the derivatization of the 3-methyl-substituent arising from the metathesis reaction.
+
+toward this
+
+T he occurrence of the pyrrole nucleus in many natural and
+
+synthetic biologically active compounds represents an
+incentive toward the development of new synthetic method-
+important heterocycle.1 Metathesis
+ologies
+reactions have been established as a powerful and eﬀective
+method for the construction of many functionalized hetero-
+from acyclic unsaturated precursors.1b Pioneering
+cycles
+approaches to the synthesis of substituted pyrroles through
+ring closing metathesis (RCM) were reported by Donohoe2
+and Rutjes.3 These studies are based on the oleﬁn RCM
+synthesis of 3-pyrrolines starting from appropriate allylamines,
+followed by an elimination step catalyzed by acids. An evolution
+of this approach has been the development of one-pot RCM-
+aromatization sequences using RuCl3,4 Pd/C,5a FeCl3,5b or
+tBuOOH6 to promote the dehydrogenative step. More recently,
+Donohoe7 and Grela8 described an oleﬁn cross-metathesis
+(CM) approach for the synthesis of pyrroles. The alkyne-alkene
+(enyne) metathesis reaction oﬀers advantages over the oleﬁn
+version in terms of atom economy and it has found large
+application in the synthesis of heterocyclic compounds as
+well.9,10 However, to the best of our knowledge only one paper
+by Stevens and co-workers11 describes the synthesis of pyrroles
+via a ring-closing enyne metathesis−aromatization sequence,
+while no examples to access pyrroles via the enyne CM have
+been reported so far. Herein, we describe the ﬁrst approach to
+substituted pyrroles through a one-pot tandem enyne CM
+cyclization reaction starting from appropriate propargylamines
+and the cheap ethyl vinyl ether (EVE) (Figure 1). In our early
+work, we demonstrated that EVE can be used as the oleﬁn
+synthetic equivalent of
+the acetaldehyde in enyne CM
+reactions, leading to the formation of crotonaldehydes when
+reacted with terminal alkynes in the presence of the weak Lewis
+acid CuSO4.12 Herein, we demonstrate that an analogous
+strategy is applicable to the synthesis of pyrroles when
+
+Figure 1. Examples of pyrrole syntheses and the one-pot tandem
+enyne cross metathesis−cyclization reaction.
+
+propargylamines are used as substrates. Moreover, our CM-
+cyclization protocol oﬀers an easy approach to the synthetically
+challenging pyrroles 3 unsubstituted at positions C4 and C5.
+Only a few examples for the synthesis of 4,5-unsubstituted
+pyrroles have been reported so far, most of them relying on
+multistep synthetic sequences.13
+<para sub=“opt”>
+Our initial studies focused on the identiﬁcation of the best
+reaction conditions (Table 1). The Boc-protected propargyl
+</para>
+Received: February 10, 2015
+Published: April 21, 2015
+
+© 2015 American Chemical Society
+
+5287
+
+DOI: 10.1021/acs.joc.5b00222
+J. Org. Chem. 2015, 80, 5287−5295
+
+The Journal of Organic Chemistry
+
+Note
+
+Table 1. Optimization of the Reaction Conditions
+
+Table 2. Synthesis of Pyrroles 6b−e
+
+entry
+
+solvent
+
+G-II
+mol %
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+H2O/tBuOH
+H2O/tBuOH
+toluene
+toluene
+toluene
+toluene
+toluene
+toluene
+
+5
+10
+5
+5
+5
+5
+10
+5
+
+CuSO4
+2 equiv
+2 equiv
+2 equiv
+2 equiv
+--
+1 equiv
+2 equiv
+c
+
+T °C/time
+80 °C/20 min
+80 °C/20 min
+80 °C/30 min
+120 °C/30 min
+120 °C/30 min
+120 °C/30 min
+120 °C/30 min
+120 °C/30 min
+
+yielda %
+29%
+25%
+36%
+56%
+0%b
+18%
+55%
+56%
+
+aIsolated yields. b41% diene 5 isolated. c2 equiv of Cu(OTf)2 was
+used.
+<para sub=“opt”>
+amine 4a was ﬁrst reacted with EVE in the presence of Grubbs’
+catalyst G-II under microwave irradiation according to our
+previous method.12 When the reaction was carried out at 80 °C
+in an aqueous solution the desired pyrrole 6a was obtained in
+25−29% yield (entries 1−2), while a slightly higher amount
+(36%, entry 3) was isolated when the reaction was run in
+degassed toluene. The use of a higher catalyst loading (entry 2)
+did not lead to any improvement of the yield. Increasing the
+temperature to 120 °C and the reaction time to 30 min proved
+to be beneﬁcial and the yield rose to 56% (entry 4). When the
+reaction was performed under the same conditions and without
+CuSO4 the pyrrole 6a was not detected and the corresponding
+diene 5 was recovered in 41% yield (entry 5).On the other
+hand, the use of a stoichiometric amount of CuSO4 led to 6a in
+only 18% yield (entry 6). It is noteworthy that heating the
+diene intermediate 5 in reﬂuxing toluene led to pyrrole 6a in 24
+h, while in the presence of CuSO4 the reaction was completed
+in 6 h. We hypothesize that CuSO4 plays a crucial role in
+increasing the rate of the cyclization reaction presumably by
+coordinating the ethoxy group.14
+</para>
+<para sub=“opt”>
+It is reported that, contrary to the electron poorer anilines
+and tertiary hindered amines,
+the aliphatic primary and
+secondary amines poison the Ru-catalysts thus preventing the
+metathesis reactions.15 The addition of a Brønsted acid to
+secondary amines makes the lone pair unable to bind the
+ruthenium, allowing the metathesis reaction to occur.16 Amine
+4e was treated with a stoichiometric amount of p-toluensulfonic
+acid (PTSA) and then reacted with EVE under standard
+</para>
+<para sub=“opt”>
+in the yield of
+
+No signiﬁcant diﬀerences were observed when the reaction
+was carried out with 5 mol % or 10 mol % catalyst loading
+(entries 4 and 7). Finally, the use of a diﬀerent copper source,
+the stronger Lewis acid Cu(OTf)2, did not
+lead to any
+improvement
+the reaction (entry 8). The
+inﬂuence of diﬀerent amine group substituents on the outcome
+of the reaction was then explored. A set of propargylamines
+4b−e was synthesized according to Table 2. The treatment of
+the tosyl derivative 4b with 10 mol % of G-II led to desired 6b
+in 53% yield, while a lower amount of 6b (25%) was recovered
+when 5 mol % of catalyst was used (entry 1). The benzoyl
+compound 4d aﬀorded the pyrrole 6d in moderate yield (entry
+3). On the other hand, the propargylaniline 4c aﬀorded the
+phenylpyrrole 6c in good yield (entry 2), while the benzyl-
+derivative 4e was recovered unreacted from the reaction
+mixture and no pyrrole 6e was observed (entry 4).
+</para>
+aIsolated yields were reported. bProduct 6e was not observed.
+<para sub=“opt”>
+conditions. No pyrrole was observed and a mixture of side
+products was recovered. The possibility to synthesize 1,2,3-
+trisubstituted pyrroles
+starting from the appropriate 1-
+substituted propargylamines and using this tandem meta-
+thesis−cyclization protocol was explored. A ﬁrst batch of aryl-
+propargylacetamides 8a−e was synthesized in high yields from
+the appropriate propargylic alcohols (Scheme 1, Path a).17
+</para>
+<para sub="scope">
+Hydrolysis of 8a−b followed by Boc-, Bz-, and Ts-
+protections led to substrates 8f−h. Propargyl alcohol 7 was
+acetylated to give 9 and in turn converted into the phenyl
+substrate 10 through a copper mediated amination reaction18
+(Scheme 1, Path a). A multicomponent strategy19 was used for
+the synthesis of aliphatic and heteroaryl derivatives 15a−d. The
+appropriate aldehydes 11a−d were reﬂuxed in toluene in the
+presence of p-toluenesulfonamide 12, TIPS-acetylene 13, and
+Cu(OTf)2 aﬀording, after silyl-deprotection with TBAF, the
+terminal alkynes 15a−d (Scheme 1, path b). The alkynes 8, 10,
+and 15 were then converted into pyrroles 6. Results are
+reported in Table 3. Acetamides 8a−e were ﬁrst reacted with
+EVE and G-II leading to the desired pyrroles 6f−j in high yields
+(59−76%). Only pyrrole 6i bearing a dichloro-phenyl group
+was obtained in lower yield (38%) probably due to a
+combination of steric and electronic factors. The pyrroles 6l
+and 6m, bearing the bulky groups Boc and Bz, were obtained in
+lower yields than the acetyl analogue 6g. Similarly,
+the
+tosylpyrrole 6k was isolated in lower yield than 6f. Reactions
+were performed using both a 5 mol % and 10 mol % Grubbs’
+catalyst
+in the case of 1-susbtituted
+propargylamines a lower catalyst loading resulted into poorer
+yields. On the other hand, the aliphatic and the furyl N-tosyl-
+propargylamides 15a−d were converted into pyrroles 6o−r in
+excellent yields with the only exception the bulky cyclohexyl
+derivative 6p. Finally, treatment of the substrate 10 with EVE
+
+loading. However,
+</para>
+5288
+
+DOI: 10.1021/acs.joc.5b00222
+J. Org. Chem. 2015, 80, 5287−5295
+
+The Journal of Organic Chemistry
+
+Scheme 1. Synthesis of Propargylamine Substrates
+
+Note
+<para sub="scope">
+C4−C5, which could be in turn further functionalized as
+described in Scheme 2. As an example, pyrrole 6f was
+hydrolyzed aﬀording the disubstituted 16 which was further
+functionalized at C5 by Vilsmeir-Haack reaction leading to
+aldehyde 17.
+</para>
+Scheme 2. Derivatization of Pyrroles and Synthesis of 3-
+Methyl-pyrrolines
+<para sub="scope">
+and Grubbs’ catalyst did not lead to the desired pyrrole 6n in
+any signiﬁcant amount. Traces of 6n were detected only by
+GC-MS analysis of the crude reaction mixture. Attempts to
+react
+the propargylamines with 2-methoxypropene, a sub-
+stituted EVE analogue, proved to be unsuccessful. Methoxy-
+propene proved to be unreactive toward CM due to its steric
+hindrance, and propargylamines were recovered unreacted from
+the reaction mixtures. The present methodology allows the
+synthesis in one synthetic step of pyrroles unsubstituted on
+</para>
+Table 3. Synthesis of 1,2,3-Substituted Pyrroles
+<para sub="scope">
+All the pyrroles 6 have a methyl group at C3 deriving from
+the diene intermediate 5 of the enyne metathesis reaction.
+Attempts to derivatize the methyl group through NBS-
+mediated bromination20 or KMnO4 oxidation21 of 6 were
+unsuccessful due to the presence of
+the reactive CH at
+positions C4 and C5,
+leading to a complex mixture of
+polymeric derivatives. Nevertheless, pyrroles can be easily
+converted into 3-pyrrolines, compounds endowed with
+pharmaceutical properties and precursors in the synthesis of
+natural alkaloids.22,23 The pyrroles 6r and 6b were treated with
+NaCNBH3 in TFA leading, respectively, to pyrrolines 18−20
+which were in turn oxidized at the methyl group with SeO2
+aﬀording the aldehydes 19 and 21 in 65−56% yield (over two
+</para>
+aIsolated yields were reported. bObserved by GC-MS.
+
+5289
+
+DOI: 10.1021/acs.joc.5b00222
+J. Org. Chem. 2015, 80, 5287−5295
+
+The Journal of Organic Chemistry
+<para sub="scope">
+steps), respectively (Scheme 2). The aldehyde 21 can be
+converted in a few steps into the alkaloid 22.22
+</para>
+In conclusion, a new approach for the synthesis of pyrroles
+based on an enyne cross metathesis−cyclization cascade has
+been described. The present methodology represents the ﬁrst
+example of one-pot synthesis of pyrroles via enyne cross-
+metathesis reaction and it constitutes a facile approach to the
+synthetically challenging 1,2,3-substituted pyrroles. Finally, the
+versatility of the method was shown through the synthesis of
+pyrroline analogues as well as the derivatization of the methyl
+substituent at C3.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Methods. NMR spectra were recorded on a 400 MHz
+spectrometer. 1H and 13C spectra were referenced relative to the
+solvent residual peaks and chemical shifts (δ) reported in ppm
+δ H: 7.26 ppm, δ C: 77.0 ppm).
+downﬁeld of trimethylsilane (CDCl3
+Coupling constants (J) are reported in Hertz and rounded to 0.5 Hz.
+Splitting patterns are abbreviated as follows: singlet (s), doublet (d),
+triplet (t), quartet (q), multiplet (m), broad (br), or
+some
+combination of these. Positive and negative electrospray ionization
+spectrometry (ESI-MS) were conducted by direct injection. GC-MS
+analyses were performed using aliquots of the compound dissolved in
+DCM (5 μL) and injected onto a DB-5MS (30 mm × 0.25 mm i.d. ×
+0.15 μm ﬁlm thickness) column at 250 °C. The oven temperature was
+set at 40 °C for 4 min and raised at 15 °C/min to 135 °C, then at 5
+°C/min to 250 °C and held at 250 °C for 5 min. The carrier gas ﬂow
+was 1.0 mL/min. The mass spectrometer was operated in the full scan
+mode. The transfer line and ion source temperatures were 250 and 200
+°C, respectively. A LTQ Orbitrap XL instrument was used for the
+HRMS measurements. Thin layer chromatography (TLC) was
+performed using commercially available precoated plates and
+visualized with UV light at 254 nm; KMnO4 or Ninhydrin dips were
+used to reveal the products. Flash column chromatography was carried
+out using Fluorochem Davisil 40−63u 60 Å. All reactions were
+conducted under a nitrogen atmosphere in oven-dried glassware unless
+stated otherwise. Tetrahydrofuran was distilled under nitrogen from
+sodium using a benzophenone indicator. Dichloromethane, toluene,
+and diethyl ether were obtained by distillation over calcium hydride
+under a nitrogen atmosphere. Petrol refers to the fraction of light
+petroleum ether boiling between 40 and 65 °C. All other solvents and
+commercially available reagents were used as received. All chemicals
+and solvents were used as supplied, unless noted otherwise.
+
+Microwave Irradiation Experiments. Microwave irradiations
+were conducted using a CEM Discover Synthesis Unit. The machine
+consists of a continuous focused microwave power delivery system
+with operator, selectable power output
+from 0 to 300 W. The
+temperature of the contents of the vessels was monitored using a
+calibrated infrared temperature control mounted under the reaction
+vessel. All the experiments were performed using a stirring option
+whereby the contents of the vessel are stirred by means of rotating
+magnetic plate located below the ﬂoor of the microwave cavity and a
+Teﬂon, coated magnetic stirring bar in the vessel.
+
+Synthesis of Monosubstituted Propargylic Amines. t-Butyl-prop-
+2-ynylcarbamate 4a. Lit.24 A solution of (Boc)2O (436 mg, 2.00
+mmol, 1.1 equiv) in DCM (5 mL) was added dropwise to a solution of
+propargylamine (100 mg, 1.81 mmol, 1 equiv) in DCM (5 mL), at 0
+°C. The reaction mixture was then allowed to stir at room temperature
+for 30 min. The solution was concentrated under reduced pressure.
+The product (275 mg, 1.77 mmol) was obtained as a yellow oil.
+
+Yield: 98%. 1H NMR (400 MHz CDCl3) δ 4.78 (bs, 1H), 3.88 (s,
+2H), 2.18 (t, J = 2.8 Hz, 1H), 1.42 (s, 9H) ppm. LRMS m/z (ES+) m/
+z: 156 [M + H]+.
+
+4-Methyl-N-2-propyn-1-yl-benzenesulfonamide 4b. Lit.25 Prop-
+argyl amine (0.17 mL, 2.69 mmol, 1 equiv), and triethylamine (0.45
+mL, 3.23 mmol, 1.2 equiv) were added to a solution of p-
+toluenesulfonyl chloride (564 mg, 2.96 mmol, 1.1 equiv) in anhydrous
+DCM at 0 °C, under N2 atmosphere. The reaction mixture was
+</para>
+Note
+<para sub=“exp”>
+allowed to stir at room temperature for 6 h, and then it was quenched
+with a saturated NH4Cl solution. The aqueous layer was extracted with
+DCM. The combined organic layers were dried over Na2SO4 and
+concentrated under reduced pressure, giving the pure product (539
+mg, 2.57 mmol) as yellow oil.
+
+Yield: 96%. 1H NMR (400 MHz CDCl3) δ 7.69 (d, J = 8.2 Hz, 2H),
+7.19 (d, J = 8.4 Hz, 2H), 3.69 (d, J = 2.8 Hz, 2H), 2.31 (s, 3H), 2.03 (t,
+J = 2.2 Hz, H) ppm.
+
+N-2-Propyn-1-yl-benzenamine 4c. Lit.26 Aniline (0.46 mL, 5
+mmol, 5 equiv) was added to a solution of propargyl bromide (0.11
+mL, 1 mmol, 1 equiv) in ethanol. The reaction mixture was stirred at
+room temperature for 2 days, and then concentrated under reduced
+pressure. The crude product was puriﬁed by chromatography on silica
+gel, using hexane/EtOAc (9:1) as eluent. The pure product (84 mg,
+0.64 mmol) was obtained as a yellow oil.
+
+Yield: 64%. 1H NMR (400 MHz CDCl3) δ 7.21 (t, J = 7.6 Hz, 2H),
+6.78 (t, J = 7.2 Hz, 1H), 6.68 (d, J = 7.6 Hz, 2H), 3.93 (s, 2H), 3.96
+(bs, 1H), 2.20 (t, J = 2.4 Hz, 1H) ppm.
+
+N-Prop-2-ynylbenzamide 4d. Lit.27 Benzoyl chloride (257 mg, 1.83
+mmol, 1.01 equiv) and triethylamine (0.30 mL, 2.21 mmol, 1.2 equiv)
+were added to a solution of propargylamine (100 mg, 1.82 mmol, 1
+equiv) in DCM (20 mL) at 0 °C. The reaction mixture was allowed to
+stir at room temperature for 1 h, then it was quenched with 20 mL of 1
+M HCl solution, and extracted with DCM. The combined organic
+layers were washed with brine, dried over Na2SO4, and concentrated
+under
+reduced pressure. The crude mixture was puriﬁed by
+chromatography on silica gel, using hexane/EtOAc (4:1) as eluent,
+aﬀording 254 mg (1.60 mmol) of 4d.
+
+Yield: 88%. 1H NMR (400 MHz CDCl3) δ 7.77 (d, J = 7.6 Hz, 2H),
+7.48 (t, J = 7.2 Hz, 2H), 7.39 (t, J = 7.6 Hz, 2H), 6.64 (bs, 1H), 4.22
+(dd, J = 2.8, 5.6 Hz, 2H), 2.25 (t, J = 2.8 Hz, 1H) ppm.
+
+3.85 (s, 2H), 3.40 (d, 2H), 2.25 (s, 1H) ppm.
+
+N-Benzyl-propargylamine 4e. Lit.28 Benzylamine (1.1 mL, 10.08
+mmol, 6 equiv) was added to a solution of propargyl bromide (100
+mg, 1.68 mmol, 1 equiv) in 1 mL of DCM. The reaction mixture was
+stirred at room temperature for 2 days, and then concentrated under
+reduced pressure. The crude product was puriﬁed by chromatography
+on silica gel, using hexane/EtOAc (9:1) as eluent. Compound 4e (136
+mg, 0.94 mmol) was obtained as a tan oil.
+Yield: 56%. 1H NMR (400 MHz CDCl3) δ 7.35−7.25 (m, 5H),
+Synthesis of Propargylamides 8a−e: General Procedure. A
+solution of 96% H2SO4 (490 mg, 5 mmol) in dry acetonitrile (2
+mL) was added to a stirred mixture of
+the appropriate
+propargylalcohol17a (1 mmol) and anhydrous Na2SO4 (142 mg, 1
+mmol) in dry acetonitrile (3.1 mL) at 20 °C. The mixture was allowed
+to reach room temperature, and stirring was continued for the required
+time. The mixture was concentrated, poured on ice, and extracted with
+ether and dichloromethane. The combined organic layers were dried
+over Na2SO4, ﬁltered, and concentrated. Flash chromatography, using
+ethyl acetate/petroleum ether (1:1) as eluent, aﬀorded pure
+propargylamides 8a−e.
+Propragylamide 8d. Yield: 76% (183 mg, 0.76 mmol). 1H NMR
+(400 MHz CDCl3) δ 7.57−7.55 (d, 1H, J = 8.2 Hz), 7.40 (s, 1H),
+7.22−7.24 (m, 1H), 6.09 (br s, 1H), 6.08 (s, 1H), 2.46 (d, 1H, J = 1.8
+Hz), 1.99 (s, 3H) ppm. 13C NMR (100 MHz CDCl3) δ 168.7, 135.0,
+134.2, 134.1, 130.1, 127.5, 80.5, 73.3, 42.8, 23.0 ppm. IR ν max (ﬁlm)/
+cm−1 1676, 1497. LRMS m/z (ES+) m/z: 242 [M + H]+, 264 [M +
+Na]+. HRMS (ESI): calcd for C11H10Cl2NO (M + H+) 242.0139,
+found 242.0137.
+Propragylamide 8e. Yield: 75% (186 mg, 0.74 mmol). 1H NMR
+(400 MHz CDCl3) δ 7.57−7.55 (m, 6H), 7.45−7.41 (m, 2H), 7.36−
+7.33 (m, 1H), 6.06−6.04 (d, 1H), 6.00 (br d, 1H), 2.51 (s, 1H), 2.03
+(s, 3H) ppm. 13C NMR (100 MHz CDCl3) δ 168.8, 141.4, 140.5,
+137.3, 128.9, 127.6, 127.2, 81.7, 73.2, 44.3, 23.3 ppm. IR ν max (ﬁlm)/
+cm−1 1674, 1486. LRMS m/z (ES+) m/z: 250 [M + H]+, 272 [M +
+Na]+. HRMS (ESI): calcd for C17H16NO (M + H+) 250.1232, found
+250.1227.
+Spectroscopy data of propargylamides 8a−c were identical to those
+
+previously reported.16
+</para>
+5290
+
+DOI: 10.1021/acs.joc.5b00222
+J. Org. Chem. 2015, 80, 5287−5295
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+Synthesis of propargylacetate 9.32 Acetic anhydride (0.19 mL,
+1.96 mmol, 1.3 equiv), triethylamine (0.42 mL, 3.02 mmol, 2 equiv),
+and a catalytic amount of DMAP were added to a solution of 1-phenyl-
+2-propynol (200 mg, 1.51 mmol, 1 equiv) in DCM. The reaction
+mixture was stirred at room temperature for the indicated time, and
+then concentrated under reduced pressure. The crude product was
+puriﬁed by chromatography on silica gel, using hexane/EtOAc (9:1) as
+eluent.
+
+Yield: 77% (201 mg, 1.15 mmol). 1H NMR (400 MHz CDCl3) δ
+7.53 (d, J = 6.8 Hz, 2H), 7.39 (m, 3H), 6.45 (d, J = 2.4 Hz, 1H), 2.66
+(d, J = 2.4 Hz, 1H), 2.10 (s, 3H) ppm. LRMS m/z (ES+) m/z: 197 [M
++ Na]+.
+
+Synthesis of 1-Phenyl-2-propynylamine S8.17a A suspension of N-
+(1-phenyl-2-propynyl)acetamide (0,76 mmol, 1 equiv) and 1.2 M HCl
+(5 mL) was heated to 90 °C for 18 h. The reaction mixture was then
+cooled at room temperature, quenched with 20 mL of saturated
+NaHCO3 solution, and diluted with Et2O (10 mL). The aqueous layer
+was extracted twice with Et2O (20 mL). The combined organic layers
+were washed with brine, dried over Na2SO4 and concentrated under
+reduced pressure. The crude 1-phenyl-2-propynylamine was puriﬁed
+by ﬂash column chromatography (SiO2) using 1:1 EtOAc/hexanes as
+the eluent to yield the desired 1-phenyl-2-propynylamine as an oil.
+Yield: 72% (71 mg, 0.54 mmol). 1H NMR (400 MHz CDCl3) δ
+7.75 (d, J = 8.4 Hz, 2H), 7.43 (d, J = 8.4 Hz, 2H), 7.32−7.22 (m, 5H),
+5.30 (d, J = 4.0 Hz, 1H), 5.06 (d, J = 4.0 Hz, 1H), 2.41 (s, 3H), 2.29
+(d, J = 2.4 Hz, 1H) ppm. LRMS m/z (ES+) m/z: 132 [M + H]+.
+
+Synthesis of 4-Meth yl-N-(1-phenylprop-2-yn-1-yl)-
+benzenesulfonamide 8f.33 1-Phenyl-2-propynylamine S8 (0.35
+mmol, 1 equiv) was added to a round-bottom ﬂask containing
+pyridine (5 mL). Then p-toluenesulfonic chloride (0.62 mmol, 1.77
+equiv) was added at 0 °C to the solution previously obtained. The
+solution was allowed to stir at 100 °C for 18 h. The reaction mixture
+was then quenched with 10 mL of 1 M HCl solution and washed with
+10 mL of DCM. Then, 20 mL of saturated NaHCO3 solution were
+added to the aqueous layer and this was extracted twice with DCM.
+The combined organic layers were washed with brine, dried over
+Na2SO4, and concentrated under
+reduced pressure. The crude
+compound was puriﬁed by ﬂash column chromatography (SiO2)
+using 1:4 EtOAc/hexanes as the eluent to yield the desired 8f as an oil.
+Yield: 62% (62 mg, 0.21 mmol). 1H NMR (400 MHz CDCl3) δ 7.65
+(d, J = 8.4 Hz, 2H), 7.25 (d, J = 8.4 Hz, 2H), 4.78 (s,1H), 4.32 (d, J =
+1.6 Hz, 2H), 2.38 (s, 3H), 1.92−1.85 (m, 1H), 1.56 (s, 3H), 1.48 (d, J
+= 1.8 Hz, 2H), 1.01 (d, J = 6.8 Hz, 3H), 0.88 (d, J = 6.8 Hz, 3H) ppm.
+13C NMR (100 MHz CDCl3) δ 143.7, 137.3, 137.0, 129.6, 128.8,
+128.6, 127.5, 127.2, 80.5, 74.8, 49.0, 21.6 ppm. LRMS m/z (ES+) m/z:
+308 [M + Na]+.
+
+N-[1-(4-Chlorophenyl)-2-propyn-1-yl]-1,1-dimethylethyl Ester
+Carbamic Acid 8g. A solution of (Boc)2O (183 mg, 0.84 mmol, 1
+equiv) in DCM (5 mL) was added dropwise to a solution of propargyl
+amine S8 (150 mg, 0.84 mmol, 1 equiv) in DCM (5 mL) and
+saturated NaHCO3 solution (5 mL), at 0 °C. The reaction mixture was
+then allowed to stir at room temperature for 2 h. The solution was
+quenched with DCM. The aqueous layer was extracted with DCM and
+EtOAc. The combined organic layers were dried over MgSO4 and
+concentrated under reduced pressure. The obtained product was
+puriﬁed by silica gel chromatography, using hexane/EtOAc (4:1) as
+eluent.
+
+Yield: 60% (132 mg, 0.5 mmol). 1H NMR (400 MHz CDCl3) δ
+7.45 (d, J = 8.8 Hz, 2H), 7.33 (d, J = 8.8 Hz, 2H), 5.64 (d, J = 7.4 Hz,
+1H), 5.06 (bs, 1H), 2.51 (d, J = 2.2 Hz, 1H), 1.46 (s, 6H) ppm. 13C
+NMR (100 MHz CDCl3) δ 154.7, 137.4, 134.0, 128.8, 128.3, 81.6,
+80.6, 73.4, 45.6, 28.3 ppm. LRMS m/z (ES+) m/z: 288 [M + Na]+.
+HRMS (ESI): calcd for C14H16ClNNaO2 (M + Na+) 288.0767, found
+288.0765.
+
+N-[1-(4-chlorophenyl)-2-propyn-1-yl]-benzamide 8h. Benzoyl
+chloride (0.07 mL, 0.57 mmol, 1.01 equiv) and triethylamine (0.09
+mL, 0.67 mmol, 1.2 equiv) were added to a solution of propargylic
+amine 5 (100 mg, 0.56 mmol, 1 equiv) in DCM (20 mL) at 0 °C. The
+reaction mixture was allowed to stir at room temperature for 1 h, and
+then quenched with 20 mL of 1 M HCl solution, and extracted with
+
+DCM and EtOAc. The combined organic layers were washed with
+brine, dried over Na2SO4, and concentrated under reduced pressure.
+The obtained product was puriﬁed by chromatography on silica gel,
+using hexane/EtOAc (4:1) as eluent.
+
+Yield: 65% (98 mg, 0.36 mmol). 1H NMR (400 MHz CDCl3) δ
+7.79 (d, J = 7.2 Hz, 2H), 7.51 (d, J = 6.4 Hz, 3H), 7.43 (t, J = 7.8 Hz,
+2H), 7.33 (d, J = 8.2 Hz, 2H), 6.72 (d, J = 8.2 Hz, 1H), 6.21 (dd, J =
+2.2, 8.4 Hz, 1H), 2.55 (d, J = 2.4 Hz, 1H) ppm. 13C NMR (100 MHz
+CDCl3) δ 166.4, 136.9, 134.2, 133.4, 132.1, 128.9, 128.7, 128.6, 127.2,
+81.2, 73.8, 44.4 ppm. LRMS m/z (ES+) m/z: 270 [M + H]+. HRMS
+(ESI): calcd for C16H13ClNO (M + H+) 270.0686, found 270.0683.
+Synthesis of N-phenyl-propargylamine 10. Lit.29 Copper iodide
+(25 mg, 0.13 mg, 0.5 equiv) was added to a solution of propargylic
+acetate 9 (45 mg, 0.26 mmol, 1 equiv) in MeOH at 0 °C, under N2
+atmosphere. The reaction mixture was allowed to stir for 10 min
+before the addition of aniline (0.05 mL, 0.52 mmol, 2 equiv) and
+triethylamine (0.15 mL, 1.04 mmol, 4 equiv). The mixture was then
+stirred at 0 °C, and allowed to reach room temperature overnight. The
+reaction mixture was quenched with EtOAc and ammonia solution.
+The aqueous layer extracted with EtOAc. The combined organic layers
+were dried over MgSO4 and concentrated under reduced pressure.
+The crude product was puriﬁed by chromatography on silica gel, using
+hexane as eluent. The pure product was obtained as a tan oil (32 mg,
+0.15 mmol).
+Yield: 59%. 1H NMR (400 MHz CDCl3) δ 7.61 (d, J = 7.2 Hz, 2H),
+7.43−7.35 (m, 3H), 7.21 (t, J = 7.2 Hz, 2H), 6.79 (t, J = 7.6 Hz, 1H),
+6.74 (d, J = 7.8 Hz, 2H), 5.29 (s, 1H), 4.06 (bs, 1H), 2.47 (d, J = 2.4
+Hz, 1H) ppm. LRMS m/z (ES+) m/z: 230 [M + Na]+.
+Synthesis of Silylpropargylamines 14a−d: General Procedure.
+The appropriate aldehyde (1.1 equiv) and triisopropylsilyl acetylene
+(1.5 equiv) were added to a solution of p-toluenesulfonamide (200
+mg, 1.17 mmol, 1 equiv), sodium sulfate (1 equiv), cesium carbonate
+(0.1 equiv), and copper triﬂate (0.1 equiv) in anhydrous toluene under
+N2 atmosphere. The reaction mixture was allowed to stir at 120 °C for
+48 h. The reaction mixture was then quenched with EtOAc and
+washed with a saturated NaHCO3 solution. The combined organic
+layers were dried over MgSO4 and concentrated under reduced
+pressure. The crude product was puriﬁed by chromatography on silica
+gel, using hexane/EtOAc (4:1) as eluent.
+
+N-[1-(2-Furanyl)-3-(triisopropylsilyl)-2-propyn-1-yl]-4-methyl-
+benzenesulfonamide 14a. Yield: 48% (242 mg, 0.56 mmol). 1H
+NMR (400 MHz CDCl3) δ 7.77 (d, J = 8.4 Hz, 2H), 7.31 (s, 1H), 7.25
+(d, J = 8.4 Hz, 2H), 6.35 (d, J = 3.2 Hz, 1H), 6.27 (t, J = 2.2 Hz, 1H),
+5.41 (d, J = 9.2 Hz, 1H), 5.21 (d, J = 8.4 Hz, 1H), 2.39 (s, 3H), 0.96
+(m, 18H), 0.93−0.82 (m, 3H) ppm. 13C NMR (100 MHz CDCl3) δ
+150.1, 143.5, 143.2, 137.5, 129.7, 127.2, 110.4, 108.4, 101.4, 87.0, 44.1,
+21.6, 18.5, 11.0 ppm. LRMS m/z (ES+) m/z: 432 [M + H]+. HRMS
+(ESI): calcd for C23H37SSiN2O3 (M + NH4
+found
+449.2284.
+
++) 449.2294,
+
+N-[1-Cyclohexyl-3-[tris(1-methylethyl)silyl]-2-propyn-1-yl]-4-
+methyl-benzenesulfonamide 14b.19 Yield: 45% (235 mg, 0.52
+mmol). 1H NMR (400 MHz CDCl3) δ 7.74 (d, J = 8.4 Hz, 2H),
+7.25 (d, J = 8.4 Hz, 2H), 4.55 (d, J = 9.6 Hz, 1H), 3.92 (dd, J = 5.6, 9.8
+Hz, 1H), 2.38 (s, 3H), 1.84−1.68 (m, 5H), 1.68−1.50 (m, 4H), 1.30−
+0.97 (m, 2H), 0.91 (d, J = 5.0 Hz, 18H), 0.88−0.81 (m, 3H) ppm.
+LRMS m/z (ES+) m/z: 448 [M + H]+.
+
+N-[1-Isobutyl-3-[tris(1-methylethyl)silyl]-2-propyn-1-yl]-4-methyl-
+benzenesulfonamide 14c. Yield: 22% (105 mg, 0.25 mmol). 1H
+NMR (400 MHz CDCl3) δ 7.77 (d, J = 8.8 Hz, 2H), 7.28 (d, J = 8.8
+Hz, 2H), 4.63 (d, J = 9.2 Hz, 1H), 3.95 (dd, J = 5.6, 9.6 Hz, 1H), 2.40
+(s, 3H), 2.00−1.88 (m, 1H), 1.00 (d, J = 6.8 Hz, 6H), 0.92 (d, J = 5.0
+Hz, 18H), 0.95−0.84 (m, 3H) ppm. 13C NMR (100 MHz CDCl3) δ
+143.4, 137.5, 129.7, 127.2, 104.0, 86.0, 52.3, 34.3, 21.5, 18.7, 18.5, 17.4,
+11.0 ppm. LRMS m/z (ES+) m/z: 408 [M + H]+. HRMS (ESI): calcd
+for C22H41SSiN2O2 (M + NH4
+
++) 425.2658, found 425.2645.
+
+N-[1-(3-Methylbutyl)-3-[tris(1-methylethyl)silyl]-2-propyn-1-yl]-4-
+methyl-benzenesulfonamide 14d. Yield: 56% (276 mg, 0.65 mmol).
+1H NMR (400 MHz CDCl3) δ 7.77 (d, J = 8.4 Hz, 2H), 7.27 (d, J =
+8.4 Hz, 2H), 4.49 (d, J = 9.6 Hz, 1H), 4.13 (q, J = 7.8 Hz, 1H), 2.40 (s,
+3H), 1.96−1.83 (m, 1H), 1.60−1.44 (m, 2H), 0.93−0.79 (m, 27H)
+</para>
+5291
+
+DOI: 10.1021/acs.joc.5b00222
+J. Org. Chem. 2015, 80, 5287−5295
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+ppm. 13C NMR (100 MHz CDCl3) δ 143.4, 137.6, 129.7, 127.2, 85.0,
+46.6, 45.0, 24.8, 22.3, 22.0, 21.5, 18.5, 11.0 ppm. LRMS m/z (ES+) m/
++)
+z: 422 [M + H]+. HRMS (ESI): calcd for C23H43SSiN2O2 (M + NH4
+439.2815, found 439.2804.
+General Procedure for the Synthesis of Propargylamides 15a−d.
+A TBAF solution 1 M in THF (1.1 equiv) was added to a solution of
+compound 14 (0.25 mmol, 1 equiv) in THF at 0 °C. The reaction
+mixture was stirred at room temperature for 1 h 30 min, then
+quenched with a saturated NaHCO3 solution and extracted with
+EtOAc. The combined organic layers were washed with brine, dried
+over MgSO4, and concentrated under reduced pressure. The crude
+product was puriﬁed by chromatography on silica gel, using hexane/
+EtOAc (4:1) as eluent.
+
+N-[1-(2-Furanyl)-2-propyn-1-yl]-4-methyl-benzenesulfonamide
+15a.34 Yield: 82% (56 mg, 0.20 mmol). 1H NMR (400 MHz CDCl3)
+δ 7.75 (d, J = 8.2 Hz, 2H), 7.30 (d, J = 1.2 Hz, 1H), 7.28 (d, J = 8.0
+Hz, 2H), 6.33 (d, J = 3.2 Hz, 1H), 6.27 (t, J = 2.4 Hz, 1H), 5.37 (d, J =
+2.4 Hz, 1H), 2.42 (s, 3H), 2.30 (d, J = 2.4 Hz, 1H) ppm. 13C NMR
+(100 MHz CDCl3) δ 149.0, 143.6, 143.1, 137.1, 129.4, 127.3, 110.4,
+108.4, 78.3, 73.6, 43.1, 21.5 ppm. LRMS m/z (ES+) m/z: 298 [M +
+Na]+.
+
+N-(1-Cyclohexyl-2-propyn-1-yl)-4-methyl-benzenesulfonamide
+15b.34 Yield: 99% (72 mg, 0.24 mmol). 1H NMR (400 MHz CDCl3)
+δ 7.75 (d, J = 6.8 Hz, 2H), 7.27 (d, J = 7.2 Hz, 2H), 4.69 (d, J = 7.4
+Hz, 1H), 3.86 (m, 1H), 2.40 (s, 3H), 2.01 (s, 1H), 1.84−1.67 (m, 5H),
+1.66−146 (m, 4H), 1.33−0.99 (m, 2H). 13C NMR (100 MHz CDCl3)
+δ 143.4,132.2, 129.4, 127.3, 80.7, 73.1, 50.6, 42.8, 28.8, 25.7, 25.6, 21.5,
+14.1 ppm. LRMS m/z (ES+) m/z: 314 [M + Na]+.
+
+N-(1-Isobutyl-2-propyn-1-yl)-4-methyl-benzenesulfonami-
+de15c.35 Yield: 95% (60 mg, 0.24 mmol). 1H NMR (400 MHz
+CDCl3) δ 7.78 (d, J = 8.2 Hz, 2H), 7.30 (d, J = 7.8 Hz, 2H), 4.71 (d, J
+= 9.6 Hz, 1H), 3.90 (ddd, J = 2.2, 5.4, 10.0 Hz, 1H), 2.43 (s, 3H), 2.04
+(d, J = 2.8 Hz, 1H), 1.91 (sex, J = 6.8 Hz, 1H), 0.98 (d, J = 6.8 Hz,
+6H) ppm. 13C NMR (100 MHz CDCl3) δ 143.5, 137.2, 129.5, 127.3,
+80.4, 73.1, 51.3, 33.5, 21.5, 18.5, 17.3 ppm. LRMS m/z (ES+) m/z:
+274 [M + Na]+.
+
+N-(1-Methylbutyl-2-propyn-1-yl)-4-methyl-benzenesulfonamide
+15d. Yield: 93% (66 mg, 0.23 mmol). 1H NMR (400 MHz CDCl3) δ
+7.79 (d, J = 8.4 Hz, 2H), 7.30 (d, J = 8.6 Hz, 2H), 4.71 (d, J = 9.2 Hz,
+1H), 4.15−4.04 (m, 1H), 2.43 (s, 3H), 2.03 (d, J = 2.2 Hz, 1H), 1.89−
+1.77 (m, 1H), 1.53 (td, J = 7.6, 3.2 Hz, 2H), 0.89 (dd, J = 6.4, 3.0 Hz,
+6H) ppm. 13C NMR (100 MHz CDCl3) δ 143.6, 137.3, 129.5, 127.5,
+82.2, 72.4, 45.6, 44.0, 24.6, 22.2, 22.0, 21.6 ppm. LRMS m/z (ES+) m/
+z: 288 [M + Na]+. HRMS (ESI): calcd for C14H19NNaO2S (M + H+)
+288.1034, found 288.1008.
+
+General Procedure for the Synthesis of 3-Methyl-Pyrroles 6. Ethyl
+vinyl ether (9 equiv), CuSO4 (2 equiv) and Grubbs’ catalyst second
+generation (5−10 mol %) were added to a microwave vial containing a
+solution of the appropriate propargylamine derivative (50 mg, 1 equiv)
+in 3 mL of degassed toluene. The reaction mixture was heated at 120
+°C under microwave irradiation (300 W) for 2 × 10 min. The
+maximum internal pressure observed during the reaction was 44 psi.
+The reaction mixture was then quenched with 10 mL of saturated
+NH4Cl solution, 0.5 mL of NH4OH solution, and 10 mL of Et2O. The
+aqueous layer was extracted twice with Et2O. The combined organic
+layers were washed with brine, dried over Na2SO4, and concentrated
+under reduced pressure. All the crude products were puriﬁed by ﬂash
+column chromatography (SiO2) using 1:4 Et2O/hexanes as the eluent
+to yield the desired pyrroles 6 as tan oils.
+
+t-Butyl 3-Methyl-1H-pyrrole-1-carboxylate 6a. Yield: 56% (33 mg,
+0.18 mmol). 1H NMR (400 MHz CDCl3) δ 7.12 (s, 1H), 6.95 (s, 1H),
+6.04 (s, 1H), 2.04 (s, 3H), 1.56 (s, 9H) ppm. 13C NMR (100 MHz
+CDCl3) δ 149.0, 122.6, 120.0, 117.2, 114.1, 83.2, 28.1, 12.0 ppm. IR ν
+max (ﬁlm)/cm−1 2924, 1730. GC-MS m/z (ES+) m/z: 181 [M]+,
+HRMS (ESI): calcd for C10H16NO2 (M + H+) 182.1181,
+found
+182.1173.
+
+(E/Z)-tert-Butyl-(4-ethoxy-2-methylenebut-3-en-1-yl)carbamate
+5. Yield: 41% (30 mg, 0.13 mmol). Obtained as a 2:1 mixture of E/Z
+isomers as revealed by GC-MS. 1H NMR (400 MHz CDCl3) major
+isomer E δ 6.63 (d, 1H, J = 12.8 Hz), 5.53 (d, 1H, J = 12.8 Hz), 4.85
+</para>
+Note
+<para sub=“exp”>
+(s, 1H), 4.80 (s, 1H), 4.59 (br s, 1H), 3.84−3.76 (m, 4H), 1.43 (s,
+9H), 1.27 (t, 3H, J = 4.0 Hz) ppm; peaks from minor isomer Z δ 5.96
+(d, 1H, J = 6.9 Hz), 5.09 (s, 1H), 4.96 (s, 1H) ppm. 13C NMR (100
+MHz CDCl3) δ 155.8, 148.2, 140.9, 111.0, 106.2, 79.4, 65.8, 42.8, 28.4,
+14.9 ppm; peaks from minor isomer δ 146.0, 113.6, 105.2, 69.0, 45.5,
+27.4, 15.3 ppm. GC-MS m/z (ES+) m/z: 227 [M]+, 171 [M-tBu]+,
+154 [M-tBuOH]+. HRMS (ESI): calcd for C12H21NO3 (M +)
+227.1516, found 227.1553.
+
+3-Methyl-1-[(4-methylphenyl)sulfonyl]-1H-pyrrole 6b. Yield: 53%
+(30 mg, 0.13 mmol). 1H NMR (400 MHz CDCl3) δ 7.70 (d, 2H, J =
+7.6 Hz), 7.25 (d, 2H, J = 7.6 Hz), 7.03 (s, 1H), 6.86 (s, 1H), 6.10 (s,
+1H), 2.38 (s, 3H), 2.00 (s, 3H) ppm. 13C NMR (100 MHz CDCl3) δ
+144.6, 136.2, 129.8, 126.7, 124.5, 120.8, 117.7, 115.7, 21.6, 11.8 ppm.
+IR ν max (ﬁlm)/cm−1 1364, 1179. GC-MS m/z (ES+) m/z: 235 [M]+,
+HRMS (ESI): calcd for C12H14NO2S (M + H+) 236.0745, found
+236.0738.
+3-Methyl-1-phenyl-1H-pyrrole 6c. Lit.30 Yield: 54% (32 mg, 0.2
+mmol). 1H NMR (400 MHz CDCl3) δ 7.40−7.35 (m, 4H), 7.19−7.18
+(m, 1H), 6.98 (s, 1H), 6.86 (m, 1H), 6.16 (m, 1H), 2.16 (s, 3H) ppm.
+13C NMR (100 MHz CDCl3) δ 140.8, 129.5, 125.1, 121.2, 120.0,
+119.0, 117.2, 112.0, 12.0 ppm. GC-MS m/z (ES+) m/z: 157 [M]+,
+HRMS (ESI): calcd for C11H12N (M + H+) 158.0970, found 158.0960.
+3-Methyl-1-benzoyl-1H-pyrrole 6d. Yield: 39% (23 mg, 0.12
+mmol). 1H NMR (400 MHz CDCl3) δ 7.71−7.70 (d, 2H, J = 7.3
+Hz), 7.57−7.55 (m, 1H), 7.50−7.46 (m, 2H), 7.16 (s, 1H), 7.03 (s,
+1H), 6.18 (s, 1H), 2.08 (s, 3H) ppm. 13C NMR (100 MHz CDCl3) δ
+165.5, 132.0, 129.4, 128.4, 124.1, 121.4, 118.5, 115.6, 12.1 ppm. IR ν
+max (ﬁlm)/cm−1 1682, 1394, 1335. GC-MS m/z (ES+) m/z: 185
+[M]+, HRMS (ESI): calcd for C12H12NO (M + H+) 186.0919, found
+186.0906.
+
+3-Methyl-2-phenyl-1-acetyl-1H-pyrrole 6f. Lit.31 Compound 6f
+was synthesized starting from 200 mg (1.15 mmol) of 8a. Yield: 70%
+(160 mg). 1H NMR (400 MHz CDCl3) δ 7.42−7.30 (m, 3H), 7.28 (d,
+1H, J = 3.6 Hz), 7.27−7.23 (m, 2H), 6.16 (d, 1H, J = 3.6 Hz,), 1.90 (s,
+3H), 1.55 (s, 3H) ppm. 13C NMR (100 MHz CDCl3) δ 169.1, 133.7,
+130.5, 130.2, 128.1, 126.8, 124.5, 120.2, 113.9, 25.0, 11.4 ppm. GC-MS
+m/z (ES+) m/z: 199 [M + H]+.
+
+3-Methyl-2-(4-chlorophenyl)-1-acetyl-1H-pyrrole 6g. Yield: 72%
+(40 mg, 0.17 mmol). 1H NMR (400 MHz CDCl3) δ 7.35 (d, 2H, J =
+8.4 Hz), 7.21 (d, 1H, J = 3.2 Hz), 7.17 (d, 2H, J = 8.4 Hz), 6.16 (d,
+1H, J = 3.2 Hz), 2.29 (s, 3H), 1.89 (s, 3H) ppm. 13C NMR (100 MHz
+CDCl3) δ 168.4, 133.5, 132.1, 131.5, 129.4, 128.3, 123.9, 120.7, 114.3,
+24.6, 11.4 ppm. IR ν max (ﬁlm)/cm−1 2925, 1721, 1305. GC-MS m/z
+(ES+) m/z: 233 [M]+, HRMS (ESI): calcd for C13H13ClNO (M +
+H+) 234.0686, found 234.0677.
+3-Methyl-2-(3-ﬂuorophenyl)-1-acetyl-1H-pyrrole 6h. Yield: 76%
+(43 mg, 0.2 mmol). 1H NMR (400 MHz CDCl3) δ 7.36−7.29 (m,
+1H), 7.21 (d, 1H, J = 3.2 Hz), 7.06−6.91 (m, 3H), 6.15 (d, J = 3.2
+Hz), 2.27 (s, 3H), 1.90 (s, 3H) ppm. 13C NMR (100 MHz CDCl3) δ
+168.4, 163.7, 161.2, 135.8, 135.7, 129.5, 129.4, 126.0, 124.1, 120.7,
+117.2, 117.0, 114.6, 114.4, 114.3, 22.7, 14.2 ppm. IR ν max (ﬁlm)/
+cm−1 2924, 1730, 1367. GC-MS m/z (ES+) m/z: 217 [M]+, HRMS
+(ESI): calcd for C13H13FNO (M + H+) 218.0981, found 218.0975.
+3-Methyl-2-(2,4-dichlorophenyl)-1-acetyl-1H-pyrrole 6i. Yield:
+38% (21 mg, 0.08 mmol). 1H NMR (400 MHz CDCl3) δ 7.47−
+7.40 (m, 1H), 7.30−7.25 (m, 1H), 7.20 (d, 1H, J = 3.6 Hz), 6.20 (d,
+1H, J = 3.6 Hz), 2.35 (s, 3H) 1.85 (s, 3H) ppm. 13C NMR (100 MHz
+CDCl3) δ 168.6, 136.0, 134.4, 132.6, 131.9, 129.3, 127.0, 126.4, 124.3,
+102.6, 114.3, 23.6, 11.1 ppm. IR ν max (ﬁlm)/cm−1 2926, 1725, 1474.
+GC-MS m/z (ES+) m/z: 267 [M]+, HRMS (ESI): calcd for
+C13H12Cl2NO (M + H+) 268.0296, found 268.0285.
+3-Methyl-2-(4-phenyl-phenyl)-1-acetyl-1H-pyrrole 6j. Yield: 59%
+(32 mg, 0.11 mmol). 1H NMR (400 MHz CDCl3) δ 7.67−7.59 (m,
+4H), 7.48−7.40 (m, 2H), 7.37−7.30 (m, 3H), 7.28 (d, 1H, J = 3.2
+Hz), 6.18 (d, 1H, J = 3.2 Hz), 2.26 (s, 3H), 1.96 (s, 3H) ppm. 13C
+NMR (100 MHz CDCl3) δ 168.9, 140.7, 140.2, 132.6, 130.6, 130.2,
+128.8, 127.4, 127.1, 126.8, 123.8, 120.5, 114.2, 25.0, 11.6 ppm. IR ν
+max (ﬁlm)/cm−1 2925, 1726, 1305. GC-MS m/z (ES+) m/z: 275
+[M]+, HRMS (ESI): calcd for C19H18NO (M + H+) 276.1388, found
+276.1380.
+</para>
+5292
+
+DOI: 10.1021/acs.joc.5b00222
+J. Org. Chem. 2015, 80, 5287−5295
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+3-Methyl-2-phenyl-1-[(4-methylphenyl)sulfonyl]-1H-pyrrole 6k.
+Yield: 38% (21 mg, 0.07 mmol). 1H NMR (400 MHz CDCl3) δ
+7.38−7.18 (m, 7H), 7.08−7.05 (m, 3H), 6.18 (d, 1H, J = 3.2 Hz), 2.34
+(s, 3H), 1.80 (s, 1H) ppm. 13C NMR (100 MHz CDCl3) δ 144.4,
+135.9, 131.9, 131.2, 130.7, 129.3, 128.1, 127.4, 127.2, 123.8, 122.4,
+114.2, 21.6, 11,6 ppm. IR ν max (ﬁlm)/cm−1 1344, 1160. GC-MS m/z
+(ES+) m/z: 311 [M]+, HRMS (ESI): calcd for C18H18NO2S (M + H+)
+312.1058, found 312.1047.
+
+tert-Butyl 2-(4-Chlorophenyl)-3-methyl-1H-pyrrole-1-carboxylate
+6l. Yield: 50% (27 mg, 0.093 mmol). 1H NMR (400 MHz CDCl3) δ
+7.34 (t, J = 2.3 Hz, 1H), 7.32 (t, J = 2.3 Hz, 1H), 7.27 (d, J = 3.2 Hz,
+1H), 7.17 (t, J = 1.6 Hz, 1H), 7.15 (t, J = 2.3 Hz, 1H), 6.10 (d, J = 3.7
+Hz, 1H), 1.89 (s, 3H), 1.30 (s, 9H) ppm. 13C NMR (100 MHz
+CDCl3) δ 149.2, 133.0, 132.5, 131.6, 129.1, 127.2, 122.6, 121.3, 113.0,
+83.3, 27.6, 11.6 ppm. IR ν max (ﬁlm)/cm−1 2922, 2357, 1739, 1458.
+GC-MS m/z (ES+) m/z: 291 [M]+, HRMS (ESI): calcd for
+C16H19ClNO2 (M + H+) 292.1104, found 292.1098.
+
+3-Methyl-2-(4-chlorophenyl)-1-benzoyl-1H-pyrrole 6m. Yield:
+64% (35 mg, 0.19 mmol). 1H NMR (400 MHz CDCl3) δ 7.74 (d, J
+= 6.8 Hz, 2H), 7.56 (t, J = 7.2 Hz, 1H), 7.43 (t, J = 7.8 Hz, 2H), 7.29
+(d, J = 8.4 Hz, 2H), 7.18 (d, J = 8.8 Hz), 6.96 (d, J = 3.2 Hz, 1H), 6.18
+(d, J = 3.2 Hz, 1H), 2.08 (s, 3H) ppm. 13C NMR (100 MHz CDCl3) δ
+168.2, 133.6, 132.7, 131.4, 130.7, 130.2, 128.8, 128.4, 128.2, 128.0,
+123.9, 123.7, 113.9, 11.6 ppm. IR ν max (ﬁlm)/cm−1 1681, 1330. GC-
+MS m/z (ES+) m/z: 295 [M]+, HRMS (ESI): calcd for C18H15ClNO
+(M + H+) 296.0842, found 296.0836.
+
+3-Methyl-1-[(4-methylphenyl)sulfonyl]-2-(propan-2-yl)-1H-pyr-
+role 6q. Yield: 71% (31 mg, 0.11 mmol). 1H NMR (400 MHz CDCl3)
+δ 7.60 (d, J = 8.3 Hz, 2H), 7.28 (d, J = 8.3 Hz, 2H), 7.21 (d, J = 3.3
+Hz, 1H), 6.03 (d, J = 2.9 Hz, 1H), 3.49 (s, J = 7.2 Hz, 1H), 2.41 (s,
+3H), 2.04 (s, 3H), 1.04 (d, J = 6.7 Hz, 6H) ppm. 13C NMR (100 MHz
+CDCl3) δ 144.5, 137.1, 135.3, 129.9, 126.7, 120.6, 120.5, 114.9, 29.7,
+25.4, 21.6, 21.2, 12.9 ppm. IR ν max (ﬁlm)/cm−1 2359, 1362, 1166.
+GC-MS m/z (ES+) m/z: 277 [M]+, HRMS (ESI): calcd for
+C15H20NO2S (M + H+) 278.1215, found 278.1207.
+
+3-Methyl-1-[(4-methylphenyl)sulfonyl]-2-(2-methylpropyl)-1H-
+pyrrole 6r. Yield: 69% (36 mg, 0.12 mmol). 1H NMR (400 MHz
+CDCl3) δ 7.58 (d, J = 8.2 Hz, 2H), 7.26 (d, J = 8.8 Hz, 2H), 7.20 (d, J
+= 3.2 Hz, 1H), 6.09 (d, J = 3.2 Hz, 1H), 2.46 (d, J = 7.3 Hz, 2H), 2.40
+(s, 3H), 2.03−1.93 (m, 1H), 1.92 (s, 3H), 0.86 (d, J = 6.4 Hz, 6H)
+ppm. 13C NMR (100 MHz CDCl3) δ 144.4, 137.0, 130.9, 129.8, 126.4,
+122,5, 121.8, 114.5, 34.1, 29.9, 22.7, 22.3, 21.6, 12.0 ppm. IR ν max
+(ﬁlm)/cm−1 2170, 1371, 1170. GC-MS m/z (ES+) m/z: 291 [M]+,
+HRMS (ESI): calcd for C16H22NO2S (M + H+) 292.1371, found
+292.1364.
+
+Synthesis of 3-Methyl-2-phenyl-1H-pyrrole 16. The pyrrole 6f (90
+mg, 0.452 mmol) was added to a round-bottom ﬂask containing 2.5 M
+NaOH solution (2 mL). The reaction mixture was allowed to stir at r.t.
+for 3 h. The reaction mixture was then diluted with 10 mL of water,
+and 10 mL of DCM was added. The aqueous layer was extracted twice
+
+2-(Furan-2-yl)-3-methyl-1-[(4-methylphenyl)sulfonyl]-1H-pyrrole
+6o. Yield: 76% (41 mg, 0.13 mmol). 1H NMR (400 MHz CDCl3) δ
+7.49 (d, J = 8.3 Hz, 2H), 7.46 (dd, J = 1.8, 0.9 Hz, 1H), 7.39 (d, J = 3.1
+Hz, 1H), 7.22 (d, J = 8.2 Hz, 2H), 6.47 (dd, J = 3.1, 1.8 Hz, 1H), 6.38
+(d, J = 3.2 Hz, 1H), 6.19 (d, J = 3.2 Hz, 1H), 2.39 (s, 3H), 1.93 (s,
+3H) ppm. 13C NMR (100 MHz CDCl3) δ 144.6, 143.1, 142.9, 136.0,
+129.5, 127.7, 127.3, 123.5, 120.9, 113.9, 113.1, 110.7, 21.7, 11.8 ppm.
+IR ν max (ﬁlm)/cm−1 2917, 1368, 1172. GC-MS m/z (ES+) m/z: 301
+[M]+, HRMS (ESI): calcd for C16H16NO3S (M + H+) 302.0851, found
+302.0846.
+
+2-Cyclohexyl-3-methyl-1-[(4-methylphenyl)sulfonyl]-1H-pyrrole
+6p. Yield: 43% (23 mg, 0.07 mmol). 1H NMR (400 MHz CDCl3) δ
+7.64 (d, J = 8.4 Hz, 2H), 7.29 (d, J = 8.1 Hz, 2H), 7.23 (d, J = 3.3 Hz,
+1H), 6.03 (d, J = 3.0 Hz, 1H), 3.10 (dt, J = 11.9, 3.3 Hz, 1H), 2.42 (s,
+3H), 2.06 (s, 3H), 1.69−1.58 (m, 4H), 1.51−1.44 (m,4H), 1.34−1.27
+(m, 2H) ppm. 13C NMR (100 MHz CDCl3) δ 144.5, 137.1, 134.4,
+129.8, 126.8, 120.6, 120.3, 114.7, 36.0, 31.1, 29.7, 27.0, 26.0, 21.7, 13.2
+ppm. IR ν max (ﬁlm)/cm−1 2222, 1368, 1145. GC-MS m/z (ES+) m/
+z: 317 [M]+, HRMS (ESI): calcd for C18H24NO2S (M + H+)
+318.1528, found 318.1516.
+
+with DCM. The combined organic layers were washed with brine,
+dried over Na2SO4, and concentrated under reduced pressure. The
+crude pyrrole 16 was puriﬁed by ﬂash column chromatography (SiO2)
+using 2:3 EtOAc/hexanes as the eluent.
+Yield: 90% (64 mg, 0.4 mmol). 1H NMR (400 MHz CDCl3) δ 8.13
+(brs, 1H), 7.45−7.37 (m, 4H), 7.25−7.21 (m, 1H), 6.76 (t, J = 2.7 Hz,
+1H), 6.14 (t, J = 2.7 Hz, 1H), 2.27 (s, 3H) ppm. 13C NMR (100 MHz
+CDCl3) δ 133.7, 128.7, 128.6, 128.3, 128.0, 126.4, 126.0, 117.3, 116.1,
+112.2, 14.2 ppm. GC-MS m/z (ES+) m/z: 157 [M]+.
+
+Synthesis of Pyrrole 17. DMF (0.11 mmol) and phosphorus
+oxychloride (0.10 mmol) were added to a round-bottom ﬂask
+containing DCM (2 mL). The solution was allowed to stir for 15
+min at room temperature. Then the solution was cooled down at 0 °C
+and 3-methyl-2-phenyl-1H-pyrrole 16 (16 mg, 0.10 mmol) in 1 mL of
+DCM was added to the solution previously obtained. The solution was
+allowed to stir at room temperature for 1 h. The reaction mixture was
+then quenched with 10 mL of 1 M Na2CO3 solution. The aqueous
+layer was extracted twice with DCM. The combined organic layers
+were washed with a NaHCO3 saturated solution, brine, and dried over
+Na2SO4 and concentrated under reduced pressure. The crude pyrrole
+was puriﬁed by ﬂash column chromatography (SiO2) using 1:4
+EtOAc/hexanes as the eluent to yield the 17 as an oil.
+Yield: 86% (16 mg, 0.08 mmol). 1H NMR (400 MHz CDCl3) δ
+9.44 (s, 1H), 9.22 (bs, 1H), 7.51−7.43 (m, 4H), 7.38−7.34 (m, 1H),
+6.84 (d, J = 2.29 Hz 1H), 2.27 (s, 3H) ppm. 13C NMR (100 MHz
+CDCl3) δ 178.6, 136.9, 131.6, 131.4, 129.0, 128.3, 127.2, 123.7, 119.5,
+12.5 ppm. IR ν max (ﬁlm)/cm−1 1634, 1418, 1261. GC-MS m/z (ES
++) m/z: 185 [M] +, HRMS (ESI): calcd for C12H12NO (M + H+)
+186.0919, found 186.0912.
+
+General Procedure for the Synthesis of Pyrroles 18 and 20.
+Sodium cyanoborohydride (0.38 mmol, 3 equiv) was added to a
+round-bottom ﬂask containing triﬂuoroacetic acid (2 mL). The
+solution was allowed to stir for 20 min at room temperature. Then the
+appropriate pyrrole 6b or 6r (0.127 mmol, 1 equiv) was added to the
+solution previously obtained. The solution was allowed to stir at room
+temperature for 1 h. The reaction mixture was then quenched with 10
+mL of water and 10 mL of DCM. The aqueous layer was extracted
+twice with DCM. The combined organic layers were washed with a
+saturated solution, brine, dried over Na2SO4, and
+NaHCO3
+concentrated under reduced pressure. The crude pyrrolines 18 and
+20 proved to be pure enough to be used in the next synthetic step
+without any further puriﬁcation.
+
+2-Isobutyl-3-methyl-1-[(4-methylphenyl)sulfonyl]-2,5-dihydro-
+1H-pyrrole 18. 1H NMR (400 MHz CDCl3) δ 7.65 (d, J = 8.4 Hz,
+2H), 7.25 (d, J = 8.4 Hz, 2H), 4.78 (s,1H), 4.32 (d, J = 1.6 Hz, 2H),
+2.38 (s, 3H), 1.92−1.85 (m, 1H), 1,56 (s, 3H), 1.48 (d, J = 1.8 Hz,
+2H), 1.01 (d, J = 6.8 Hz, 3H), 0.88 (d, J = 6.8 Hz, 3H) ppm. 13C NMR
+(100 MHz CDCl3) δ 149.4, 138.6, 137.5, 129.6, 127.5, 118.9, 68.4,
+42.4, 33.9, 24.3, 23.8, 23.2, 14.1 ppm. LRMS m/z (ES+) m/z: 294.
+
+3-Methyl-1-[(4-methylphenyl)sulfonyl]-2,5-dihydro-1H-pyrrole
+20. 1H NMR (400 MHz CDCl3) δ 7.69 (d, J = 8.4 Hz, 2H), 7.30 (d, J
+= 8.4 Hz, 2H), 5.22 (s, 1H), 4.04 (d, J = 4.0 Hz, 2H), 3.94 (s,2H), 2.40
+(s, 3H), 1.63 (s, 3H) ppm. 13C NMR (100 MHz CDCl3) δ 143.4,
+135.1, 134.2, 129.8, 127.5, 119.1, 57.7, 55.2, 21.5, 14.1 ppm. LRMS m/
+z (ES+) m/z: 238.
+
+General Procedure for the Synthesis of Aldehydes 19 and 21.
+The appropriate pyrroline 18 or 20 (0.076 mmol, 1 equiv) was added
+to a round-bottom ﬂask containing anhydrous dioxane (2 mL). Then
+SeO2 (0.076 mmol, 1 equiv) was added to the solution previously
+obtained. The solution was allowed to stir at reﬂux for 1 h under N2
+atmosphere. The reaction mixture was
+room
+temperature, quenched with 10 mL of water, and 10 mL of DCM
+was added. The aqueous layer was extracted twice with DCM. The
+combined organic layers were washed with a NaHCO3 saturated
+solution and brine, dried over Na2SO4, and concentrated under
+reduced pressure. The crude aldehydes were puriﬁed by ﬂash column
+chromatography (SiO2) using 2:3 EtOAc/hexanes as the eluent to
+yield the desired 19 and 21 as an oils.
+
+then cooled at
+
+1-(2-Isobutyl-1-[(4-methylphenyl)sulfonyl]-2,5-dihydro-1H-pyr-
+rol-3-yl)ethanone 19. Yield: 65% (25 mg, 0.08 mmol). 1H NMR (400
+</para>
+5293
+
+DOI: 10.1021/acs.joc.5b00222
+J. Org. Chem. 2015, 80, 5287−5295
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+MHz CDCl3) δ 9.53 (s, 1H), 7.65 (d, J = 8.4 Hz, 2H), 7.25 (d, J = 8.2
+Hz, 2H), 6.53 (s, 1H), 4.78 (d, J = 1.3 Hz, 1H), 4.34−4.32 (m, 2H),
+2.41 (s, 3H), 1.92−1.85 (m, 1H) 1.48 (d, J = 2.0 Hz, 2H), 1.01 (d, J =
+6.8 Hz, 3H), 0.88 (d, J = 6.8 Hz, 3H) ppm. 13C NMR (100 MHz
+CDCl3) δ 186.5, 146.1, 143.9, 143.4, 134.3, 129.5, 127.5, 63.7, 54.9,
+43.1, 28.3, 28.1, 24.4, 23.8, 22.4, 21.6 ppm. IR ν max (ﬁlm)/cm−1
+1682, 1165. LRMS m/z (ES+) m/z: 308 [M + H]+, HRMS (ESI):
+calcd for C16H22NO3S (M + H+) 308.1320, found 308.1308.
+
+1-[(4-Methylphenyl)sulfonyl]-2,5-dihydro-1H-pyrrole-3-carbalde-
+hyde 21. Yield: 56% (18 mg, 0.07 mmol). 1H NMR (400 MHz
+CDCl3) δ 9.53 (s, 1H), 7.65 (d, J = 8.4 Hz, 2H), 7.25 (d, J = 8.4 Hz,
+2H), 4.78 (s,1H), 4.32 (d, J = 1.6 Hz, 2H), 2.38 (s, 3H), 1.92−1.85
+(m, 1H), 1.48 (d, J = 1.8 Hz, 2H), 1.01 (d, J = 6.8 Hz, 3H), 0.88 (d, J
+= 6.8 Hz, 3H), ppm. 13C NMR (100 MHz CDCl3) δ 186.5, 144.1,
+142.4, 141.7, 130.0, 127.5, 55.5, 51.9, 21.6 ppm. IR ν max (ﬁlm)/cm−1
+1681, 1344, 1163. LRMS m/z (ES+) m/z: 252 [M + H]+, HRMS
+(ESI): calcd for C12H14NO3S (M + H+) 252.0694, found 252.0686.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Copies of 1H and 13C NMR spectra. Conversion of 5 into 6a.
+The Supporting Information is available free of charge on the
+ACS Publications website at DOI: 10.1021/acs.joc.5b00222.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: daniele.castagnolo@northumbria.ac.uk.
+Author Contributions
+#Helene Chachignon and Nicolò Scalacci equally contributed
+to this work.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We gratefully acknowledge the EPSRC UK National Mass
+Spectrometry Facility (Swansea) for providing the mass
+spectrometry data. H. C.
+thanks the European School of
+Chemistry, Polymers and Materials Science (ECPM) of
+Strasbourg for her Placement Leave.
+
+■ REFERENCES
+
+J.;
+
+Janosik, T. Five-Membered Heterocycles:
+(1) (a) Bergman,
+Pyrrole and Related Systems,
+In Modern Heterocyclic Chemistry;
+J., Ed.; Wiley-VCH: Weinheim, 2011; Chapter 4.
+Alvarez-Builla,
+(b) Estévez, V.; Villacampa, M.; Menéndez, J. C. Chem. Soc. Rev. 2010,
+39, 4402−4421. (c) Estévez, V.; Villacampa, M.; Menéndez, J. C.
+Chem. Soc. Rev. 2014, 43, 4633−4657.
+(2) (a) Donohoe, T. J.; Orr, A. J.; Gosby, K.; Bingham, M. Eur. J. Org.
+Chem. 2005, 1969−1971. (b) Donohoe, T. J.; Kershaw, N. M.; Orr, A.
+J.; Wheelhouse, K. M. P.; Fishlock, L. P.; Lacy, A. R.; Bingham, M.;
+Procopiou, P. A. Tetrahedron 2008, 64, 809.
+(3) De Matteis, V.; Dufay, O.; Waalboer, D. C. J.; van Delft, F. L.;
+Tiebes, J.; Rutjes, F. P. J. T. Eur. J. Org. Chem. 2007, 2667−2675.
+(4) (a) Dieltiens, N.; Stevens, C. V.; De Vos, D.; Allaert, B.;
+Drozdzak, R.; Verpoort, F. Tetrahedron Lett. 2004, 45, 8995−8998.
+(b) Dieltiens, N.; Stevens, C. V.; Allaert, B.; Verpoort, F. ARKIVOC
+2005, i, 92−97. (c) Moonen, K.; Dieltiens, N.; Stevens, C. V. J. Org.
+Chem. 2006, 71, 4006−4009.
+I.; Pujol, M. D. Synthesis 2006, 1823−1828.
+(5) (a) Sánchez,
+(b) Chen, W.; Wang. J. Organometallics 2013, 32, 1958−1963.
+(6) Schmidt, B.; Khrel, S.; Jablowski, E. Org. Biomol. Chem. 2012, 10,
+5119.
+(7) Donohoe, T. J.; Race, N. J.; Bower, J. F.; Callens, C. K. A. Org.
+Lett. 2010, 12, 4094−4097.
+(8) Shafi, S.; Kędziorek, M.; Grela, K. Synlett 2011, 124−128.
+
+Note
+
+(9) For reviews on enyne metathesis see: (a) Diver, S. T.; Giessert, A.
+J. Chem. Rev. 2004, 104, 1317−1382. (b) Villar, H.; Frings, M.; Bolm,
+C. Chem. Soc. Rev. 2007, 36, 55−66. (c) Mori, M. Materials 2010, 3,
+2087−2140. (d) Fischmeister, C.; Bruneau, C. Beilstein J. Org.Chem.
+2011, 7, 156−166.
+(10) For recent examples see: (a) Boeda, F.; Clavier, H.; Jor-daan,
+M.; Meyer, W. H.; Nolan, S. P. J. Org. Chem. 2008, 73, 259−263.
+(b) Yang, Q.; Alper, H.; Xiao, W.-J. Org. Lett. 2007, 9, 769−771.
+(c) Kotha, S.; Meshram, M.; Tiwari, A. Chem. Soc. Rev. 2009, 38,
+2065−2092. (d) Castagnolo, D.; Botta, L.; Botta, M. Tetrahedron Lett.
+2009, 14, 1526−1528.
+(11) Dieltiens, N.; Moonen, K.; Stevens, C. V. Chem.Eur. J. 2007,
+13, 203−221.
+(12) Castagnolo, D.; Botta, L.; Botta, M. J. Org. Chem. 2009, 74,
+3172−3174.
+(13) (a) Taguchi, K.; Sakaguchi, S.; Ishii, Y. Tetrahedron Lett. 2005,
+46, 4539−4542. (b) Yagi, T.; Aoyama, T.; Shioiri, T. Synlett 1997, 9,
+1063−1064. (c) Aelterman, W.; De Kimpe, N.; Tyvorskii, V.;
+Kulinkovich, O. J. Org. Chem. 2001, 66, 53−58. (d) Chandrasekhar,
+S.; Patroa, V.; Chavana, L. N.; Chegondia, R.; Gréeb, R. Tetrahedron
+Lett. 2014, 55, 5932−5935. (e) Thies, N.; Gerlach, M.; Haak, E. Eur. J.
+Org. Chem. 2013, 7354−7365. (f) Martín, R.; Larsen, C. H.; Cuenca,
+A.; Buchwald, S. L. Org. Lett. 2007, 9, 3379−3382. (g) Zhang, M.;
+Fang, X.; Neumann, H.; Beller, M. J. Am. Chem. Soc. 2013, 135,
+11384−11388.
+(14) It is possible that both [Ru] and Cu2+ contribute to the
+cyclization of the diene intermediate. See Supporting Information for
+additional details.
+(15) (a) Slugovc, C.; Demel, S.; Riegler, S.; Hobisch, J.; Stelzer, F. J.
+Mol. Catal. A: Chem. 2004, 213 (1), 107−113. (b) Compain, P. Adv.
+Synth. Catal. 2007, 349, 1829.
+(16) Woodward, C. P.; Spiccia, N. D.; Jackson, W. R.; Robin-son, A.
+J. Chem. Commun. 2011, 47, 779−781.
+(17) (a) Castagnolo, D.; Armaroli, S.; Corelli, F.; Botta, M.
+Tetrahedron: Asymmetry 2004, 15, 941−949. (b) Castagnolo, D.;
+Renzulli, M. L.; Galletti, E.; Corelli, F.; Botta, M. Tetrahedron:
+Asymmetry 2005, 16, 2893−2896. (c) Castagnolo, D.; Dessì, F.; Radi,
+M.; Botta, M. Tetrahedron: Asymmetry 2007, 11, 1345−1350.
+(18) Detz, R.
+Maarseveen, J. H. Chem.Eur. J. 2011, 17, 5921−5930.
+(19) Meyet, C. E.; Pierce, C. J.; Larsen, C. H. Org. Lett. 2012, 14,
+964−967.
+(20) Lee, S. H.; Seo, H. J.; Kim, M. J.; Kang, S. Y.; Song, K.-S.; Lee,
+S.-H.; Jung, M. E.; Kim, J.; Lee, J. Bioorg. Med. Chem. Lett. 2009, 19,
+1899−1902.
+(21) Wang, J.-G.; Yang, Y.; Huang, Z.-H.; Kang, F. J. Mater. Chem.
+2012, 22, 16943−16949.
+(22) (a) Carballo, R. M.; Purino, M.; Ramírez, M. A.; Martín, V. S.;
+Padrón, J. Org. Lett. 2010, 12, 5334−5337. (b) Aramini, A.; Brinchi, L.;
+Germani, R.; Savelli, G. Eur. J. Org. Chem. 2000, 9, 1793−1797. (c)
+The aldehyde 21 was converted into the corresponding [1-(toluene-4-
+sulfonyl)-pyrrolidin-3-yl]-methanol described in ref 22a by treatment
+with NaBH4-CoCl2 following the procedure described in ref 22b.
+Details on the reduction step are reported in the Supporting
+Information..
+(23) Anderson, W. K.; Milowsky, A. S. J. Med. Chem. 1987, 30,
+2144−2147.
+(24) Molander, G. A.; Cadoret, F. Tetrahedron Lett. 2011, 52, 2199−
+2202.
+(25) Campolo, D.; Arif, T.; Borie, C.; Mouysset, D.; Vanthuyne, N.;
+Naubron, J.-V.; Bertrand, M. P.; Nechab, M. Angew. Chem., Int. Ed.
+2014, 53, 3227−3231.
+(26) Dinges, J.; Albert, D. H.; Arnold, L. D.; Ashworth, K. L.;
+Akritopoulou-Zanze, I.; Bousquet, P. F.; Bouska, J. J.; Cunha, G. A.;
+Davidsen, S. K.; Diaz, G. J.; Djuric, S. W.; Gasiecki, A. F.; Gintant, G.
+A.; Gracias, V. J.; Harris, C. M.; Houseman, K. A.; Hutchins, C. W.;
+Johnson, E. F.; Li, H.; Marcotte, P. A.; Martin, R. L.; Michaelides, M.
+R.; Nyein, M.; Sowin, T. J.; Su, Z.; Tapang, P. H.; Xia, Z.; Zhang, H. Q.
+J. Med. Chem. 2007, 50, 2011−2029.
+
+J.; Abiri, Z.; Le Griel, R.; Hiemstra, H.; Van
+
+5294
+
+DOI: 10.1021/acs.joc.5b00222
+J. Org. Chem. 2015, 80, 5287−5295
+
+Note
+
+The Journal of Organic Chemistry
+(27) Wipf, P.; Aoyama, Y.; Benedum, T. E. Org. Lett. 2004, 6, 3593−
+3595.
+(28) Iafe, R. G.; Kuo, J. L.; Hochstatter, D. G.; Saga, T.; Turner, J.
+W.; Merlic, C. A. Org. Lett. 2013, 15, 582−585.
+(29) Hattori, G.; Matsuzawa, H.; Miyake, Y.; Nishibayashi, Y. Angew.
+Chem., Int. Ed. 2008, 47, 3781−3783.
+(30) Chen, W.; Wang, J. Organometallics 2013, 32, 1958−1963.
+(31) Castagnolo, D.; Giorgi, G.; Spinosa, R.; Corelli, F.; Botta, M.
+Eur. J. Org. Chem. 2007, 22, 3676−3686.
+(32) Detz, R. J.; Delville, M.M. E.; Hiemstra, H.; Van Maarseveen, J.
+H. Angew. Chem., Int. Ed. 2008, 47, 3777−3780.
+(33) Nishibayashi, Y.; Milton, M. D.; Inada, Y.; Yoshikawa, M.;
+Wakiji, I.; Hidai, M.; Uemura, S. Chem.Eur. J. 2005, 11, 1433−1451.
+(34) Labonne, A.; Zani, L.; Hintermann, L.; Bolm, C. J. Org. Chem.
+2007, 72, 5704−5708.
+(35) Shin, Y. H.; Maheswara, M.; Hwang, J. Y.; Kang, E. J. Eur. J. Org.
+Chem. 2014, 11, 2305−2311.
+
+5295
+
+DOI: 10.1021/acs.joc.5b00222
+J. Org. Chem. 2015, 80, 5287−5295
+
+

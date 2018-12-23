@@ -1,0 +1,1574 @@
+Article
+
+pubs.acs.org/joc
+
+α‑Hydroxyallylsilanes as Propionaldehyde Enolate Equivalents and
+Their Use toward Iterative Aldol Reactions
+Johal Ruiz,† Akondi Srirama Murthy,†,‡ Thierry Roisnel,† Srivari Chandrasekhar,‡ and René Grée*,†
+†
+Université de Rennes 1, Institut des Sciences Chimiques de Rennes, CNRS UMR 6226, Avenue du Général Leclerc, 35042 Rennes
+Cedex, France
+‡
+CSIR-Indian Institute of Chemical Technology, Division of Natural Product Chemistry, Hyderabad 500007, India
+*S Supporting Information
+
+ABSTRACT: Smooth and eﬃcient reaction conditions have been
+found for the transformation of protected β-hydroxyacylsilanes into
+the corresponding aldehydes. This opens a new route to iterative
+aldol reactions, and it has been used for the synthesis of fragments
+of several bioactive natural products.
+
+■ INTRODUCTION
+
+strategies
+
+such as
+
+The polypropionate skeleton, naturally synthesized by
+enzymatic systems, is a widespread structure in natural products
+and bioactive molecules.1 A privileged method for
+the
+preparation of this framework is the aldol reaction,2 although
+the direct aldol cross-coupling of two aldehydes has been a
+synthetic challenge for a long time. Recently, organocatalytic3
+and Lewis acid catalyzed4 direct aldol reactions have provided
+elegant solutions to circumvent to a large extent this problem.
+Powerful methods employing “supersilyl” enol ethers5 and
+isomerization−aldolization of
+indirect
+allylborates6 have also been described. Classical methods for
+iterative synthesis still usually rely on the use of various
+carboxylic acid derivatives as nucleophilic partners, allowing
+high levels of stereocontrol by the choice of appropriate
+reagents, chiral auxiliaries, catalysts, and reaction conditions.2
+However, further transformation to the aldehyde requires step-
+consuming redox adjustments. We have recently developed a
+transition-metal-mediated tandem isomerization−aldol reaction
+of α-hydroxyallylsilanes,7 aﬀording syn β-hydroxyacylsilanes
+which have already demonstrated good synthetic potential.8−10
+It appeared to us that a new strategy could be developed in
+iterative aldol reactions toward polypropionate-derived mole-
+cules, provided that appropriate conditions could be found for
+transformations of β-hydroxyacylsilanes into aldols
+eﬃcient
+(Scheme 1). In this publication, we ﬁrst establish that two
+diﬀerent
+this
+transformation, depending upon the nature of the substituents
+on silicon. The ﬁrst one (method A, for trialkylsilanes) uses
+especially designed photolytic reaction conditions, while the
+second (method B,
+for arylalkylsilanes) employs hydro-
+
+reaction conditions can be employed for
+
+Scheme 1. Design of a New Iterative Strategy toward
+Polypropionates, Using Acylsilanes as Key Intermediates
+
+genolysis. We also show that various R′ substituents and
+protective groups (PG) can be introduced in the starting aldol
+products and, further, demonstrate that the process can be
+repeated to stereotetrads with syn−anti derivatives as the major
+isomers. Finally, this strategy has been successfully applied to
+fragments of several bioactive natural
+the preparation of
+products,
+tylonolide, panamycin 607,
+including arenamides,
+gephyronic acid, and pironetine.
+
+■ RESULTS AND DISCUSSION
+<para sub="scope">
+As models, we selected three α-hydroxyallylsilanes 1−3 with
+diﬀerent substituents on silicon (TES, TIPS, and TBDPS).
+</para>
+Received:
+Published:
+
+January 6, 2015
+January 30, 2015
+
+© 2015 American Chemical Society
+
+2364
+
+DOI: 10.1021/acs.joc.5b00031
+J. Org. Chem. 2015, 80, 2364−2375
+
+The Journal of Organic Chemistry
+<para sub="scope">
+Starting from derivative 1 and using ﬁve diﬀerent aldehydes, we
+prepared the corresponding β-hydroxyacylsilanes 4a/5a−4e/5e
+by an isomerization−aldol sequence (Scheme 2, Table 1).
+</para>
+Scheme 2. Preparation of Protected β-Hydroxyacylsilane
+Derivatives
+
+Article
+Table 2. Preparation of Protected β-Hydroxyacylsilanesa
+
+R′
+
+−
+
+−
+
+79
+85
+71
+76
+87
+
+time (h)
+
+yieldb (%)
+
+entry
+1d
+2
+3
+4
+5e
+
+Ph−
+4-F-C6H4
+−
+C6H11
+3-Py−
+3,5-(MeO)2C6H3
+
+Table 1. Preparation of the Selected β-Hydroxyacylsilanesa
+d.r.c
+83:17
+84:16
+87:13
+85:15
+73:27
+aReactions performed at 2 mmol scale with 20 mol % catalyst. bYields
+given for the mixture of both diastereoisomers. csyn/anti ratio as
+determined by 1H NMR. dReaction performed at 11.6 mmol scale
+with 10 mol % catalyst. eReaction performed at 1 mmol scale with 20
+mol % catalyst.
+
+product
+4a−5a
+4b−5b
+4c−5c
+4d−5d
+4e−5e
+
+67
+21
+24
+72
+72
+<para sub="scope">
+Further, we used the previously described compounds 4f/5f
+and 4g/5g bearing, respectively, TIPS and TBDPS substitu-
+ents.7 We selected four classical protecting groups with
+diﬀerent steric/electronic properties, acetate, benzoate, MOM,
+and TBS, to aﬀord the corresponding derivatives (Table 2). A
+screening of these protecting groups with the compounds 4a/
+5a gave products 6a−13a in fair to excellent yields. Acetylation
+and benzoylation proved to be more attractive since they allow,
+in each case, separation of the major syn diastereoisomer.
+</para>
+<para sub="scope">
+The minor anti diastereoisomers could not be separated,
+except in the case of compound 9a, which was isolated in a pure
+form. Derivatives 4f/5f gave acetates 14f and 15f in slightly
+lower yields, probably due to a higher steric hindrance, while
+intermediate 16g has been described earlier.8a
+</para>
+<para sub=“opt”>
+In a second step, we studied the transformation of acylsilanes
+into aldehydes to allow further synthetic transformations,
+including iterative aldol reactions. A survey of the literature
+including base-11 or ﬂuoride-
+indicated several options,
+induced12 protodesilylations, hydrogenolysis (provided the
+silane bears at least one aryl group),13 LiAlH4 reduction,14
+hydrolysis,15 or photolytic C−Si cleavage in a protic solvent.16
+Among those, catalytic hydrogenation appeared interesting and
+was applied to 16g, while base- or ﬂuoride-induced
+protodesilylations were incompatible with our substrates. The
+photochemical transformation of acylsilanes into aldehydes as
+depicted in Scheme 3 appeared highly desirable,
+though
+challenging in the case of our protected β-hydroxyacylsilane
+moieties. Indeed, a labile α proton and a potential leaving group
+in the β position could result
+in competitive elimination
+reactions. To the best of our knowledge, a single example of
+photolytic cleavage of β-alkoxyacylsilane has been reported to
+date, as part of the synthesis of thymidine analogues.16c Thus,
+
+aThe yield and d.r. (syn/anti ratio) refer to isolated products, either
+pure or as diastereoisomeric mixtures.
+</para>
+Scheme 3. Preparation of Protected β-Hydroxyaldehydes
+under Photolytic Conditions
+<para sub=“opt”>
+by using 6a and 8a as models, extensive optimization studies
+(solvent, temperature,
+lamp, and concentration) have been
+performed in order to deﬁne the best conditions. In particular,
+solvents were found to play key roles in this process. By using
+methanol or isopropanol alone, or as mixtures with water, the
+intermediate acetals could be characterized by 1H NMR, but
+their hydrolysis to the aldehyde proved to be challenging with
+sensitive molecules. Therefore,
+it was found that reactions
+starting from 6a or 8a at 5.10−2 M in 1:2 to 1:4 mixtures of
+acetone and water, combined with the use of a routine UV
+lamp at 365 nm,17,18 aﬀorded directly the desired protected β-
+hydroxyaldehydes 17a and 18a in excellent yields with a very
+isomer 9a
+good purity (Scheme 3 and Table 3). The anti
+aﬀorded derivative 19a only, establishing that no epimerization
+was observed during this process.
+</para>
+<para sub="scope">
+This method was extended to the substrates 6b−6e, as well
+as the compounds with other protecting groups such as 10
+(TBS) and 12 (MOM). The intermediate 14f, with the bulkier
+TIPS group, was also easily transformed by this route into the
+desired aldehyde 17a. All of
+these aldehydes have been
+characterized by NMR and mass spectral analysis. However,
+</para>
+2365
+
+DOI: 10.1021/acs.joc.5b00031
+J. Org. Chem. 2015, 80, 2364−2375
+
+The Journal of Organic Chemistry
+
+Table 3. Preparation of Protected β-Hydroxyaldehydes by
+Photolysis
+
+Article
+<para sub="scope">
+crystallographic analysis (see the Supporting Information).19
+In order to investigate the scope and limitations of
+this
+procedure, we repeated the previously described sequence.
+Compound 24 was acetylated under standard conditions,
+aﬀording diacetate 25 in pure form, and then the acylsilane
+moiety was transformed to the aldehyde 26 in very good yield,
+showing that the used procedure was compatible with more
+complex structures.
+</para>
+<para sub="scope">
+these sensitive compounds showed limited stability; thus, they
+have to be used quickly after isolation.
+</para>
+<para sub="scope">
+Next, we intended to demonstrate the feasibility of an
+iterative process toward stereotetrads1 on two representative
+examples (Scheme 4). Starting from pure syn aldehyde 17a, the
+tandem reaction aﬀorded a 76:13:9:2 mixture of products (1H
+NMR analysis of the crude reaction mixture). After puriﬁcation
+by chromatography and fractional crystallization, the major
+syn−anti−syn derivative 24 was obtained in pure form. The
+structure of 24 was established unambiguously by X-ray
+</para>
+Scheme 4. Examples of Stereotetrads Prepared by Iterative
+Strategy
+<para sub="scope">
+In parallel, we checked the possible use of this iterative
+strategy with acylsilanes bearing an aryl substituent on silicon.
+Starting from previously described MOM protected β-
+hydroxyacylsilane 16g,7,8 hydrogenolysis by the procedure
+pioneered in Panek’s group13 aﬀorded in high yield the syn
+aldehyde 22a. A second tandem process with α-hydroxyallylsi-
+lane 3 gave a 57:28:12:3 mixture of products (1H NMR analysis
+of
+the crude reaction mixture). After puriﬁcation by
+chromatography and fractional crystallization, the major syn−
+anti−syn derivative 27 was obtained in pure form and its syn−
+anti−syn structure was also established by X-ray analysis.19
+Thus, in both cases, the aldol process occurred preferentially
+through an anti-Felkin mode, in agreement with our previous
+results,7 and with reported use of syn aldols as acceptors.20
+
+</para>
+<para sub="scope">
+We ﬁnally applied our strategy to the synthesis of known
+intermediates for natural products synthesis (Scheme 5).
+Compound 31 is a common fragment for the synthesis of
+arenamides21 and the C1-C9 subunit of tylonolide.22 By using
+our method, it has been synthesized in three steps and 48%
+overall yield from α-hydroxyallylsilane 1. The tandem isomer-
+ization−aldol reaction with aldehyde 28 gave 29, as a 83:17
+mixture of syn and anti aldols. After protection as its TBS ether,
+the major syn isomer 30 was isolated by chromatography.
+Under the previously described photolytic conditions,
+the
+transformation into aldehyde occurred smoothly, aﬀording in
+excellent yield derivative 31, whose spectral data are in full
+agreement with those in the literature.21,22
+</para>
+<para sub="scope">
+We also used this strategy to the preparation of the C5-C11
+fragment of pironetine, a natural product with immunosup-
+pressant activities.23 Several syntheses of this molecule have
+been already reported,24 while our method is described in
+Scheme 5. Starting from aldehyde 32,25 a ﬁrst
+tandem
+isomerization−aldol sequence aﬀorded syn aldol 33 as the
+major isomer puriﬁed by chromatography. After protection as
+its TBS ether, the transformation of acylsilane 34 into aldehyde
+35 was successfully performed using the same photolytic
+conditions. This derivative is already a known intermediate for
+the total synthesis of Panamycin 607,26a and Gephyronic
+acid.26b A second tandem aldol reaction gave, after separation
+of
+the diastereoisomers by silica gel chromatography,
+intermediate 36 as the major isomer. The transformation into
+the diol 37 was performed in a two-step, one-pot sequence.
+the intermediate aldehyde was obtained from the
+First,
+acylsilane unit under
+the same photolytic conditions as
+previously. This was followed immediately by in situ reduction
+with NaBH4 and aqueous workup to aﬀord diol 37 in 70% yield
+from 36. The spectroscopical data of 37 were matching with
+those already reported for a known intermediate of pironetine
+synthesis.25a Diol 37 was obtained in 23% overall yield and six
+steps, including two tandem isomerization−aldol reactions and
+two photolytic transformations of acylsilanes into aldehydes.
+The last example is noteworthy since it establishes that this
+photolytic transformation can be performed, albeit in lower
+yield, on a nonprotected β-hydroxyacylsilane to aﬀord the
+corresponding β-hydroxyaldehyde.
+</para>
+2366
+
+DOI: 10.1021/acs.joc.5b00031
+J. Org. Chem. 2015, 80, 2364−2375
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 5. Application to the Synthesis of Fragments for Three Natural Products
+
+■ CONCLUSION
+
+In summary, we have demonstrated a new strategy toward
+iterative aldol processes based on the use of α-hydroxyallylsi-
+lanes as propionaldehyde enolates equivalents. It is based on
+two key steps, the ﬁrst is the tandem isomerization−aldol
+reaction, allowing the preparation of β-alkoxyacylsilanes, and
+the second is an easy and eﬃcient transformation of
+the
+acylsilane unit into the aldehyde required for the next iteration.
+Such a strategy could ﬁnd applications in the preparation of
+selected polypropionate-type molecules, as already demon-
+strated by the synthesis of fragments for ﬁve natural products.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+Representative Procedure for the Synthesis of the α-
+Hydroxyallylsilane (1). A 100 mL round-bottom ﬂask equipped
+with a magnetic stir bar is sealed with a septum, and allyl alcohol
+(1.994 g, 34.4 mmol) is introduced under nitrogen ﬂush. Then, 34 mL
+of freshly distilled THF is introduced, and the solution cooled in an
+acetone/liquid nitrogen bath at −50 °C. Then, n-BuLi (24 mL, 37.8
+mmol) is added with a syringe. The reaction mixture is stirred during
+approximately 30 min, warming up to −20 °C. Next, TESCl (5.004 g,
+33.2 mmol) is added with a syringe, and the reaction mixture is stirred
+overnight, warming up to room temperature. The reaction is
+monitored by TLC with a 95:5 pentane/Et2O mixture. The solution
+is cooled to −78 °C under nitrogen ﬂush, and then s-BuLi (27 mL,
+37.8 mmol) is added dropwise with a syringe pump. After addition, the
+reaction mixture is stirred during 45 min, allowing to warm to −60 °C.
+The reaction is monitored by TLC with a 95:5 pentane/Et2O mixture.
+When the silylated allyl alcohol
+is consumed, the cold solution is
+transferred via a cannula by nitrogen overpressure in a 500 mL
+Erlenmeyer ﬂask containing pentane and a saturated solution of
+
+ammonium chloride at 0 °C under stirring. The pH is constantly
+monitored and neutralized when necessary with a HCl 37% solution.
+The solution is introduced in a separatory funnel, and the organic layer
+is washed 6 times with 100 mL H2O to remove the remaining THF.
+The organic layer is dried with MgSO4, ﬁltered, and concentrated at
+reduced pressure (40 °C, 700 mbar) and then at high vacuum (2−4
+min) to remove the residual hexanes. The product appeared as a
+colorless oil (4.950 g, 28.7 mmol, 86%).
+General Procedure for the Synthesis of β-Hydroxyacylsi-
+lanes (4a−4g/5a−5g). A round-bottom ﬂask or Schlenk tube
+equipped with a magnetic stir bar is charged with NiCl2(dppe), and
+then sealed with a septum and ﬂushed alternatively with argon or
+nitrogen and vacuum. Then, freshly distilled THF is introduced under
+argon or nitrogen ﬂush, and the solution is stirred. A fresh lithium
+triethylborohydride solution is added via a syringe, and the red
+solution turns immediately into a deep seal brown, as a result of
+NiHCl(dppe) formation. The solution is stirred at 30 °C during 10
+min. A second round-bottom ﬂask is charged with MgBr2 and a
+magnetic stir bar, and then dried with a heat gun under high vacuum.
+Next, the ﬂask is ﬂushed with nitrogen or argon and the NiHCl(dppe)
+solution is introduced via a cannula and cooled to −35 °C with a
+chiller under nitrogen or argon ﬂush. Then, the aldehyde and the α-
+hydroxyallylsilane as pure material or in solution in THF are added
+with a syringe in the solution. The inert gas ﬂush is stopped, and the
+reaction is monitored by TLC.
+(±)-3-Hydroxy-2-methyl-3-phenyl-1-(triethylsilyl)propan-1-one
+(4a−5a). Following the general procedure described above, a 50 mL
+round-bottom ﬂask was charged with 1.297 g (7.04 mmol, 61 mol %)
+of MgBr2 and 1.16 mmol (10 mol %) of
+freshly prepared
+NiHCl(dppe) in 22 mL of THF. The solution was cooled to −35
+°C, and then benzaldehyde (1.231 g, 11.6 mmol) and 1 (2.003 g, 11.6
+mmol) were introduced into the solution under argon ﬂush. The
+solution was stirred at −35 °C for 67 h, and the reaction was
+</para>
+2367
+
+DOI: 10.1021/acs.joc.5b00031
+J. Org. Chem. 2015, 80, 2364−2375
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+monitored by TLC using a 95:5 pentane/AcOEt mixture. The reaction
+was quenched by a saturated NH4Cl solution, the mixture was diluted
+with Et2O and ﬁltered through a small pad of Celite, and the phases
+were separated. The separated aqueous phase was extracted with Et2O,
+and the combined organic layers were dried over MgSO4 and
+concentrated under reduced pressure, aﬀording 2.954 g of a crude
+mixture. The latter was puriﬁed by chromatography using 121 g of
+silica gel (pentane/AcOEt gradient, 98.5:1.5 to 96:4), aﬀording 2.566 g
+of 4a/5a (9.21 mmol, 79%, colorless oil) as a 83:17 mixture of
+diastereoisomers. 4a: 1H NMR (300 MHz, CDCl3) syn: δ 7.38−7.20
+(m, 5H), 5.08 (dd, J = 3.4, 1.8 Hz, 1H), 3.20 (d, J = 1.9 Hz 1H), 3.16
+(dq, J = 7.2, 3.7 Hz, 1H), 0.99−0.91 (m, 12H), 0.79−0.66 (m, 6H).
+The characteristic peaks for anti isomer 5a were observed at δ 4.79
+(dd, J = 7.8, 4.5 Hz, 1H), 3.32 (q, J = 7.4 Hz, 1H), 2.92 (d, J = 4.8 Hz,
+1H), 0.83 (d, J = 7.3 Hz, 3H) in the 1H NMR spectrum. For
+complementary data, see ref 7.
+(±)-3-Hydroxy-2-methyl-3-(4-ﬂuorophenyl)-1-(triethylsilyl)-
+propan-1-one (4b−5b). Following the general procedure described
+above, a 10 mL round-bottom ﬂask was charged with 219 mg (1.19
+mmol, 62 mol %) of MgBr2 and 0.40 mmol (20 mol %) of freshly
+prepared NiHCl(dppe) in 4 mL of THF. The solution was cooled to
+−35 °C, and then 4-ﬂuorobenzaldehyde (0.205 mL, 1.9 mmol) and 1
+(352 mg, 2.04 mmol) were introduced into the solution under
+nitrogen ﬂush. The solution was stirred for 21 h at −35 °C, and the
+reaction was monitored by TLC using a 95:5 pentane/AcOEt mixture.
+The reaction was quenched by a saturated NH4Cl solution, the
+mixture was diluted with Et2O and ﬁltered through a small pad of
+Celite, and the phases were separated. The separated aqueous phase
+was extracted with Et2O, and the combined organic layers were dried
+over MgSO4 and concentrated under reduced pressure, aﬀording 670
+mg of a crude mixture. The latter was puriﬁed by chromatography with
+19 g of silica gel (pentane/AcOEt gradient, 98.5:1.5 to 97:3). After
+puriﬁcation, 479 mg (1.62 mmol, 85%, colorless oil) of 4b/5b was
+obtained as an 83:17 mixture of diastereomers. 4b: 1H NMR (300
+MHz, CDCl3) syn: δ 7.33−7.21 (m, 2H), 7.07−6.97 (m, 2H), 5.05
+(dd, J = 3.3, 1.4 Hz, 1H), 3.28 (d, J = 2.0 Hz, 1H), 3.11 (qd, J = 7.3,
+3.3 Hz, 1H), 0.99−0.90 (m, 12H), 0.78−0.67 (m, 6H). 13C NMR (75
+MHz, CDCl3) δ 254.2, 163.7, 160.5, 138.05, 138.01, 127.7, 127.6,
+115.2, 115.0, 71.4, 56.7, 8.0, 7.3, 2.4. HRMS (ESI +ve) Exact mass
+calculated for C16H25O2FNaSi [M + Na]+: 319.15056,
+found:
+319.1507. The characteristic peaks for anti isomer 5b were observed
+at 4.77 (dd, J = 7.8, 4.3 Hz, 1H), 3.33−3.19 (m, 1H), 2.98 (d, J = 4.7
+Hz, 1H), 0.82 (d, J = 7.3 Hz, 3H), in the 1H NMR spectrum and at
+254.6, 164.0, 160.7, 138.7, 138.7, 128.3, 128.2, 115.4, 115.1, 75.9, 57.0,
+12.5, 7.3, 2.3 in the 13C NMR spectrum.
+(±)-3-Hydroxy-2-methyl-3-(cyclohexyl)-1-(triethylsilyl)propan-1-
+one (4c−5c). Following the general procedure described above, a 10
+mL Schlenk tube was charged with 212 mg (1.15 mmol, 61 mol %) of
+MgBr2 and 0.4 mmol (20 mol %) of NiHCl(dppe) in 4 mL of THF.
+The solution was cooled to −35 °C, and then cyclohexanecarbox-
+aldehyde (213 mg, 1.90 mmol) and 1 (335 mg, 1.94 mmol) were
+introduced into the solution under nitrogen ﬂush. The solution was
+stirred at −35 °C for 45 h, and the reaction was monitored by TLC
+using a 95:5 pentane/Et2O mixture. The reaction was quenched by a
+saturated NH4Cl solution, the mixture was diluted with Et2O and
+ﬁltered through a small pad of Celite, and the phases were separated.
+The separated aqueous phase was extracted with Et2O, and the
+combined organic layers were dried over MgSO4 and concentrated
+under reduced pressure, aﬀording 631 mg of a crude mixture. The
+latter was puriﬁed by chromatography with 33 g of silica gel (pentane/
+Et2O gradient, 98:2 to 90:10). After puriﬁcation, 385 mg (1.35 mmol,
+71%, colorless oil) of 4c/5c was obtained as an 85:15 mixture of
+diastereomers. 4c: 1H NMR (300 MHz, CDCl3) syn: δ 3.54 (dt, J =
+8.7, 2.2 Hz, 1H), 3.10 (qd, J = 7.2, 2.3 Hz, 1H), 2.82 (d, J = 2.5 Hz,
+1H), 2.09 (d, J = 14.4 Hz, 1H), 1.81−1.54 (m, 4H), 1.42−1.09 (m,
+6H), 1.02−0.92 (m, 12H), 0.81−0.70 (m, 6H). 13C NMR (75 MHz,
+CDCl3) δ 254.3, 73.5, 51.0, 40.1, 29.6, 29.0, 26.4, 26.1, 25.9, 7.3, 7.1,
+2.5. HRMS (ESI +ve) Exact mass calculated for C16H32O2NaSi [M +
+Na]+: 307.20693, found: 307.2071. The characteristic peaks for anti
+isomer 5c were observed at 3.42 (q, J = 6.2 Hz, 1H), 3.24−3.14 (m,
+</para>
+Article
+<para sub=“exp”>
+1H), 2.61 (d, J = 7.4 Hz, 1H), in the 1H NMR spectrum and at 255.9,
+78.5, 51.4, 41.1, 30.4, 27.2, 26.5, 26.2, 12.3, 7.3, 2.4 in the 13C NMR
+spectrum.
+(±)-3-Hydroxy-2-methyl-3-(3-pyridyl)-1-(triethylsilyl)propan-1-
+one (4d−5d). Following the general procedure described above, a 5
+mL round-bottom ﬂask was charged with 110 mg (0.60 mmol, 60 mol
+%) of MgBr2 and 0.2 mmol (20 mol %) of
+freshly prepared
+NiHCl(dppe) in 2 mL of THF. The solution was cooled to −35 °C,
+and then 3-pyridinecarboxaldehyde (107 mg, 1.00 mmol) and 1 (185
+mg, 1.07 mmol) were introduced under argon ﬂush. The solution was
+stirred at −35 °C for 84 h, and the reaction was monitored by TLC
+using a 75:25 pentane/acetone mixture. The reaction was quenched by
+a saturated NaCl solution, the mixture was diluted with Et2O and
+ﬁltered through a small pad of Celite, and the phases were separated.
+The separated aqueous phase was extracted with Et2O, and the
+combined organic layers were dried over MgSO4 and concentrated
+under reduced pressure, aﬀording 331 mg of a crude mixture. The
+latter was puriﬁed by chromatography with 17 g of silica gel (pentane/
+Et2O gradient, 60:40 to 40:60). After puriﬁcation, 212 mg (0.76 mmol,
+76%, pale yellow solid) of 4d/5d was obtained as an 86:14 mixture of
+diastereomers. 4d: 1H NMR (300 MHz, CDCl3) syn: δ 8.48−8.55 (m,
+2H), 7.72−7.65 (m, 1H), 7.31−7.26 (m, 1H), 5.14 (d, J = 2.8 Hz,
+1H), 3.50 (brs, 1H), 3.11 (qd, J = 7.3, 2.9 Hz, 1H), 1.01−0.90 (m,
+12H), 0.80−0.69 (m, 6H). 13C NMR (75 MHz, CDCl3) δ 253.0,
+148.0, 147.6, 138.4, 134.3, 123.2, 70.0, 56.9, 8.7, 7.2, 2.2. HRMS (ESI
++ve) Exact mass calculated for C15H25NO2NaSi [M + Na]+:
+302.15523, found: 302.1552. The characteristic peaks for anti isomer
+5d were observed at 4.85 (d, J = 7.8 Hz, 1H), 3.27 (m, 2H), 0.88 (d, J
+= 7.3 Hz, 3H) in the 1H NMR spectrum and at 253.5, 148.5, 138.8,
+134.5, 123.5, 73.7, 56.5, 30.3, 12.2 for the 13C NMR spectrum.
+(±)-3-Hydroxy-2-methyl-3-(2,5-dimethoxyphenyl)-1-(triethyl-
+silyl)propan-1-one (4e−5e). Following the general procedure
+described above, a 10 mL round-bottom ﬂask was charged with 221
+mg (1.20 mmol, 60 mol %) of MgBr2 and 0.4 mmol (20 mol %) of
+freshly prepared NiHCl(dppe) in 4 mL of THF. The solution was
+cooled to −35 °C, and then 3,5-dimethoxybenzaldehyde (353 mg,
+2.10 mmol) and 1 (345 mg, 2.00 mmol) were introduced into the
+solution under argon ﬂush. The solution was stirred at −35 °C for 72
+h, and the reaction was monitored by TLC using a 90:10 pentane/
+AcOEt mixture. The reaction was quenched by a saturated NH4Cl
+solution, the mixture was diluted with Et2O and ﬁltered through a
+small pad of Celite, and the phases were separated. The separated
+aqueous phase was extracted with Et2O, and the combined organic
+layers were dried over MgSO4 and concentrated under reduced
+pressure, aﬀording 773 mg of a crude mixture. The latter was puriﬁed
+by chromatography with 36 g of silica gel (pentane/AcOEt gradient,
+97:3 to 94:6). After puriﬁcation, the reaction aﬀorded 586 mg (1.73
+mmol, 87%, colorless oil) of 4e/5e as a 73:27 mixture of diastereomers
+contaminated with around 5% of starting aldehyde. 4e: 1H NMR (300
+MHz, CDCl3) syn: δ 6.49−6.46 (m, 2H), 6.38−6.34 (m, 1H) 5.01 (t, J
+= 2.5 Hz, 1H), 3.79 (s, 6H), 3.25 (d, J = 2.0 Hz, 1H), 3.14 (qd, J = 7.2,
+3.0 Hz, 1H), 1.01−0.91 (m, 12H), 0.79−0.69 (m, 6H). 13C NMR (75
+MHz, CDCl3) δ 254.3, 160.9, 144.8, 104.2, 99.2, 71.8, 56.6, 55.5, 8.0,
+7.4, 2.5. HRMS (ESI +ve) Exact mass calculated for C18H30O4NaSi [M
++ Na]+: 361.18111, found: 361.1808. The characteristic peaks for anti
+isomer 5e were observed at 4.72 (dd, J = 7.8, 4.6 Hz, 1H), 3.85 (m,
+1H), 2.89 (d, J = 4.8, 1H), 0.84 (d, J = 7.3 Hz, 3H), in the 1H NMR
+spectrum and at 254.6, 161.0, 145.4, 104.7, 99.7, 56.7, 12.7, 7.3, 2.4.
+(±)-3-Hydroxy-2-methyl-3-phenyl-1-(triisopropylsilyl)propan-1-
+one (4f−5f). Following the general procedure described above, a 10
+mL round-bottom ﬂask was charged with 110 mg (0.597 mmol, 60
+mol %) of MgBr2 and 0.20 mmol (20 mol %) of freshly prepared
+NiHCl(dppe) in 2 mL of THF. The solution was cooled to −35 °C,
+and then benzaldehyde (101 mg, 0.95 mmol) and 2 (214 mg, 1.00
+mmol) were introduced into the solution under argon ﬂush. The
+solution was stirred at −35 °C for 96 h, and the reaction was
+monitored by TLC using a 95:5 pentane/AcOEt mixture. The reaction
+was quenched by a saturated NH4Cl solution, the mixture was diluted
+with Et2O and ﬁltered through a small pad of Celite, and the phases
+were separated. The separated aqueous phase was extracted with Et2O,
+</para>
+2368
+
+DOI: 10.1021/acs.joc.5b00031
+J. Org. Chem. 2015, 80, 2364−2375
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+and the combined organic layers were dried over MgSO4 and
+concentrated under reduced pressure, aﬀording 270 mg of a crude
+mixture. The latter was puriﬁed by chromatography with 15 g of silica
+gel (pentane/AcOEt gradient, 98.5 to 96:4). After puriﬁcation, the
+reaction aﬀorded 176 mg (0.549 mmol, 58%, colorless oil) of 4f/5f as
+a 97:3 mixture of diastereoisomers. 4f: 1H NMR (400 MHz, CDCl3)
+syn: δ 7.36−7.30 (m, 4H), 7.25−7.22 (m, 1H), 5.07 (dd, J = 2.8, 1.4
+Hz, 1H), 3.53 (d, J = 1.5 Hz, 1H), 3.23 (qd, J = 7.2, 2.7 Hz, 1H),
+1.35−1.25 (m, 3H), 1.11 (m, 18H), 0.91 (d, J = 7.2 Hz, 3H). The
+characteristic peaks for anti isomer 5f were observed at 4.83 (dd, J =
+7.9, 4.6 Hz, 1H), 3.42−3.38 (m, 1H), 2.79 (d, J = 4.7 Hz, 1H), 0.82 (d,
+J = 7.2 Hz, 3H). For complementary data, see ref 7.
+
+General Procedure for the Esteriﬁcation of β-Hydroxyacyl-
+silanes. A round-bottom ﬂask was charged with the β-hydroxyacylsi-
+lane, the acid anhydride, and a magnetic stir bar. The round-bottom
+ﬂask was sealed with a septum and ﬂushed with nitrogen. Freshly
+distilled CH2Cl2 and then NEt3 were added through the septum with a
+syringe. DMAP was quickly added to the solution, and then the round-
+bottom ﬂask was ﬂushed with nitrogen for 2 min. The nitrogen ﬂush
+was then stopped, and the reaction was stirred at room temperature
+unless otherwise mentioned. After completion of the reaction, the
+solution was quenched with a saturated solution of ammonium
+chloride, introduced in a separatory funnel, and the aqueous phase was
+extracted twice with CH2Cl2. The combined organic phases were dried
+with MgSO4, ﬁltered, and concentrated under reduced pressure. The
+crude mixture was puriﬁed by silica gel chromatography.
+(±)-syn-3-Acetoxy-2-methyl-3-phenyl-1-(triethylsilyl)propan-1-
+one (6a). Following the general procedure mentioned above, a 50 mL
+round-bottom ﬂask was charged with 4a/5a (1.000 g, 3.59 mmol) and
+acetic anhydride (784 mg, 7.68 mmol). Next, 18 mL of freshly distilled
+CH2Cl2 and 1.5 mL (10.8 mmol) of NEt3 were introduced into the
+round-bottom ﬂask. Finally, DMAP (61 mg, 0.050 mmol) was added
+to the solution, and the latter was stirred at room temperature (∼20
+°C) for 1 h. The reaction progress was monitored by TLC (pentane/
+AcOEt 95:5). After aqueous workup and concentration, the reaction
+aﬀorded 1.249 g of a crude mixture. The latter was puriﬁed by
+chromatography with 66 g of silica gel (pentane/AcOEt gradient,
+99.5:0.5 to 99:1). The less polar syn diastereomer 6a was separated
+from the minor anti diastereomer 7a after careful chromatography on
+silica gel. After puriﬁcation, the reaction aﬀorded 6a as a single isomer
+(802 mg, 2.50 mmol, 70%, colorless oil). 6a: 1H NMR (300 MHz,
+CDCl3) δ 7.34−7.16 (m, 5H), 6.01 (d, J = 8.2 Hz, 1H), 3.47 (dq, J =
+8.2, 6.9 Hz, 1H), 2.04 (s, 3H), 1.02 (d, J = 7.0 Hz, 3H), 0.82−0.76 (m,
+9H), 0.60−0.48 (m, 6H). 13C NMR (75 MHz, CDCl3) δ 248.4, 169.8,
+139.8, 128.3, 127.8, 127.1, 75.2, 56.1, 21.1, 11.5, 7.0, 2.0. HRMS (ESI
++ve) Exact mass calculated for C18H28O3NaSi [M + Na]+: 343.17054,
+found: 343.1708.
+(±)-syn-3-Acetoxy-2-methyl-3-(4-ﬂuorophenyl)-1-(triethylsilyl)-
+propan-1-one (6b). Following the general procedure mentioned
+above, a 10 mL round-bottom ﬂask was charged with 5a/5b (148 mg,
+0.499 mmol) and acetic anhydride (103 mg, 1.00 mmol). Then, 2.5
+mL of freshly distilled CH2Cl2 and 0.2 mL (1.44 mmol) of NEt3 were
+introduced in the round-bottom ﬂask. Finally, DMAP (11 mg, 0.09
+mmol) was added to the solution, and the latter was stirred at room
+temperature for 1 h. After aqueous workup and concentration, the
+reaction aﬀorded 181 mg of a crude mixture. The latter was puriﬁed by
+chromatography with 10 g of silica gel (pentane/Et2O gradient, 99:1
+to 97:3). The less polar syn diastereomer 6b was separated from the
+minor anti diastereomer 7b after careful chromatography on silica gel.
+After puriﬁcation, the reaction aﬀorded 6b as a single isomer (98 mg,
+0.29 mmol, 58%, white solid, mp < 40 °C). 6b: 1H NMR (300 MHz,
+CDCl3) δ 7.31−7.19 (m, 2H), 7.05−6.89 (m, 2H), 5.97 (d, J = 8.7 Hz,
+1H), 3.47 (dq, J = 8.8, 7.0 Hz, 1H), 2.04 (s, 3H), 1.04 (d, J = 7.0 Hz,
+3H), 0.80 (m, 9H), 0.63−0.48 (m, 6H). 13C NMR (75 MHz, CDCl3)
+δ 248.3, 169.8, 164.0, 160.8, 135.91, 135.87, 129.1, 129.0, 115.4, 115.1,
+74.9, 56.2, 21.1, 11.8, 7.0, 2.1. HRMS (ESI +ve) Exact mass calculated
+for C18H27O3FNaSi [M + Na]+: 361.16112, found: 361.1613.
+
+(±)-syn-3-Acetoxy-2-methyl-3-cyclohexyl-1-(triethylsilyl)propan-
+1-one (6c). Following the general procedure mentioned above, a 25
+mL round-bottom ﬂask was charged with 4c/5c (200 mg, 0.703
+
+mmol) and acetic anhydride (144 mg, 1.41 mmol). Next, 3.5 mL of
+freshly distilled CH2Cl2 and 0.3 mL (2.11 mmol) of NEt3 were
+introduced into the round-bottom ﬂask. Finally, DMAP (14 mg, 0.11
+mmol) was added to the solution, and the latter was stirred at room
+temperature (∼20 °C) for 2 h. The reaction progress was monitored
+by TLC (pentane/Et2O 95:5). After aqueous workup and concen-
+tration, the reaction aﬀorded 225 mg of a crude mixture. The latter was
+puriﬁed by chromatography with 12 g of silica gel (pentane/Et2O
+gradient, 99:1 to 96:4). The less polar syn diastereomer 6c was easily
+separated from the minor anti diastereomer 7c. After puriﬁcation, the
+reaction aﬀorded 6c as a single isomer (178 mg, 0.545 mmol 78%, pale
+yellow solid, mp < 40 °C). 6c: 1H NMR (300 MHz, CDCl3) δ 5.13
+(dd, J = 6.8, 5.5 Hz, 1H), 3.21 (qd, J = 7.0, 5.5 Hz, 1H), 2.00 (s, 3H),
+1.80−1.62 (m, 4H), 1.45 (m, 1H), 1.32−1.03 (m, 4H), 1.01−0.90 (m,
+14H), 0.80−0.71 (m, 6H).13C NMR (75 MHz, CDCl3) δ 247.8, 170.5,
+75.1, 51.6, 39.6, 29.8, 28.2, 26.2, 26.1, 25.9, 20.8, 9.1, 7.3, 2.6. HRMS
+(ESI +ve) Exact mass calculated for C18H34O3NaSi [M + Na]+:
+349.21749, found: 349.2177.
+(±)-syn-3-Acetoxy-2-methyl-3-(3-pyridyl)-1-(triethylsilyl)propan-
+1-one (6d). Following the general procedure mentioned above, a 10
+mL round-bottom ﬂask was charged with 5d/5e (140 mg, 0.500
+mmol) and acetic anhydride (102 mg, 1.00 mmol). Next, 2.5 mL of
+freshly distilled CH2Cl2 and 0.21 mL (1.50 mmol) of NEt3 were
+introduced into the round-bottom ﬂask. Finally, DMAP (12 mg, 0.10
+mmol) was added to the solution, and the latter was stirred at room
+temperature (∼20 °C) for 45 min. After aqueous workup and
+concentration, the reaction aﬀorded 233 mg of a crude mixture. The
+latter was puriﬁed by chromatography with 11 g of silica gel (pentane/
+Et2O gradient, 80:20 to 40:60). After puriﬁcation, the reaction aﬀorded
+pure the less polar syn diastereomer 6d (88 mg, 27 mmol, 55%, yellow
+solid), but around 2% of the anti diastereomer was detected by 1H
+NMR at δ 5.85, 1.92. 6d: 1H NMR (300 MHz, CDCl3) δ 8.56 (d, J =
+2.2 Hz, 1H), 8.48 (dd, J = 4.9, 1.7 Hz, 1H), 7.59 (dt, J = 7.9, 2.0 Hz,
+1H), 7.21 (dd, J = 7.9, 4.8, 1H), 6.01 (d, J = 8.7 Hz, 1H), 5.85 (d, J =
+10.3 Hz, 1H), 3.50 (dq, J = 8.6, 7.0 Hz, 1H), 2.06 (s, 3H), 1.08 (d, J =
+7.0 Hz, 3H), 0.86−0.74 (m, 9H), 0.64−0.53 (m, 6H). 13C NMR (75
+MHz, CDCl3) δ 247.8, 169.7, 149.1, 148.6, 135.6, 135.2, 123.1, 73.6,
+56.0, 20.9, 11.7, 7.0, 2.1. HRMS (ESI +ve) Exact mass calculated for
+C17H27NO3NaSi [M + Na]+: 344.16579, found: 344.1658.
+
+(±)-syn-3-Acetoxy-2-methyl-3-(2,5-dimethoxyphenyl)-1-(triethyl-
+silyl)propan-1-one (6e). Following the general procedure mentioned
+above, a 5 mL round-bottom ﬂask was charged with 4e/5e (0.169 g,
+0.5 mmol) and acetic anhydride (128 mg, 1.25 mmol). Next, 2.5 mL of
+freshly distilled CH2Cl2 and NEt3 (0.2 mL, 1.5 mmol) were introduced
+into the round-bottom ﬂask. Finally, DMAP (11 mg, 0.09 mmol) was
+added to the solution, and the latter was stirred for 1 h. The reaction
+was monitored by TLC using an 80:20 pentane/Et2O mixture. After
+aqueous workup and concentration, the reaction aﬀorded 219 mg of a
+crude mixture. The latter was puriﬁed by silica gel chromatography
+with 14 g of silica gel (pentane/Et2O gradient, 96:4 to 90:10). After
+puriﬁcation, 113 mg (0.29 mmol, 59%, colorless oil) of the compound
+6e was obtained as pure syn product. 6e: 1H NMR (300 MHz, CDCl3)
+δ 6.42 (d, J = 2.4, 2H), 6.33 (t, J = 2.3 Hz, 1H), 5.96 (d, J = 7.8 Hz,
+1H), 3.76 (s, 6H), 3.43 (dq, J = 7.8, 7.0 Hz, 1H), 2.06 (s, 3H), 1.02 (d,
+J = 7.0 Hz, 3H), 0.88−0.80 (m, 9H), 0.69−0.50 (m, 6H). 13C NMR
+(75 MHz, CDCl3) δ 248.1, 160.8, 142.2, 105.2, 99.8, 75.0, 56.1, 55.4,
+21.1, 11.3, 7.12, 7.10, 2.2. HRMS (ESI +ve) Exact mass calculated for
+C20H32O5NaSi [M + Na]+: 403.19167, found: 403.1916.
+
+(±)-syn-3-Benzoyloxy-2-methyl-3-phenyl-1-(triethylsilyl)propan-
+1-one (8a). Following the general procedure mentioned above, a 25
+mL round-bottom ﬂask was charged with 4a/5a (279 mg, 1.00 mmol)
+and benzoic anhydride (306 mg, 1.35 mmol). Next, 5 mL of freshly
+distilled CH2Cl2 and NEt3 (0.200 mL, 1.44 mmol) were introduced
+into the round-bottom ﬂask. Finally, DMAP (38 mg, 0.311 mmol) was
+added to the solution, and the latter was stirred for 15 h at 30 °C. The
+reaction was monitored by TLC using a 95:5 pentane/AcOEt mixture.
+After aqueous workup and concentration, the reaction aﬀorded 430
+mg of a crude mixture. The latter was puriﬁed by silica gel
+chromatography with 23 g of silica gel (pentane/Et2O gradient,
+99.25:0.75 to 98:2). After puriﬁcation, 278 mg (0.727 mmol, 73%,
+</para>
+2369
+
+DOI: 10.1021/acs.joc.5b00031
+J. Org. Chem. 2015, 80, 2364−2375
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+white solid, mp: 46−48 °C) of the compound 8a was obtained as pure
+syn product and 57 mg (0.149 mmol, 15%) of the compound 9a as a
+pure anti product (vide infra). 8a: 1H NMR (300 MHz, CDCl3) δ
+8.08−8.03 (m, 2H), 7.59−7.52 (m, 1H), 7.47−7.40 (m, 2H), 7.39−
+7.34 (m, 2H), 7.33−7.19 (m, 3H), 6.28 (d, J = 8.1 Hz, 1H), 3.64 (dq, J
+= 8.1, 7.0 Hz, 1H), 1.14 (d, J = 6.9 Hz, 3H), 0.85−0.78 (m, 9H),
+0.65−0.53 (m, 6H).13C NMR (75 MHz, CDCl3) δ 248.2, 165.5, 140.0,
+133.1, 130.5, 129.8, 128.5, 128.0, 127.1, 75.9, 56.6, 11.6, 7.2, 2.2.
+HRMS (ESI +ve) Exact mass calculated for C23H30O3NaSi [M + Na]+:
+405.18619, found: 405.1860.
+(±)-anti-3-Benzoyloxy-2-methyl-3-phenyl-1-(triethylsilyl)propan-
+1-one (9a). The product 9a appeared as a colorless, highly viscous oil.
+9a: 1H NMR (300 MHz, CDCl3) δ 7.99−7.91 (m, 2H), 7.55−7.46
+(m, 1H), 7.45−7.27 (m, 7H), 6.16 (d, J = 10.1 Hz, 1H), 3.64 (dq, J =
+10.1, 7.2 Hz, 1H), 1.00−0.93 (m, 9H), 0.83−0.73 (m, 9H). 13C NMR
+(75 MHz, CDCl3) δ 248.0, 165.1, 139.0, 132. 9, 130.4, 129.6, 128.6,
+128.3, 128.2, 127.4, 54.88, 12.2, 7.3, 2.4. HRMS (ESI +ve) Exact mass
+calculated for C23H30O3NaSi [M + Na]+: 405.18619, found: 405.1858.
+General Procedure for the Silylation of β-Hydroxyacylsi-
+lanes. A round-bottom ﬂask was charged with the 3-hydroxy-2-
+methyl-1-trialkylsilylpropan-1-one, 2,6-lutidine, and a magnetic stir bar.
+The round-bottom ﬂask was sealed with a septum and ﬂushed with
+nitrogen. Freshly distilled CH2Cl2 was added through the septum with
+a syringe, the solution was cooled to 0 °C, and then TBSOTf was
+added through the septum with a syringe. The nitrogen ﬂush was then
+stopped, and the reaction was stirred at 0 °C. The solution was
+quenched with a saturated solution of ammonium chloride, introduced
+in a separatory funnel, and the aqueous phase was extracted twice with
+CH2Cl2. The combined organic phases were dried with MgSO4,
+ﬁltered, and concentrated under reduced pressure. The crude mixture
+was puriﬁed by silica gel chromatography.
+3-(tert-Butyldimethylsilyl)oxy-2-methyl-3-phenyl-1-(triethylsilyl)-
+propan-1-one (10a−11a). Following the general procedure men-
+tioned above, a 5 mL round-bottom ﬂask was charged with 4a/5a (37
+mg, 0.133 mmol), 2,6-lutidine (29 mg, 0.266 mmol), and a magnetic
+stir bar. The round-bottom ﬂask was then sealed with a septum, and
+1.5 mL of freshly distilled CH2Cl2 was added under nitrogen ﬂush.
+The solution was cooled to 0 °C, and TBSOTf (0.050 mL, 0.217
+mmol) was added with a syringe. The nitrogen ﬂush was then stopped,
+and the reaction was stirred at 0 °C for 2 h, and monitored by TLC
+with a 98:2 pentane/Et2O mixture. After aqueous workup and
+concentration, the reaction aﬀorded 55 mg of a crude mixture. The
+latter was puriﬁed by chromatography using 3 g of silica gel (pentane
+Et2O gradient, 99.5:0.5 to 98:2), aﬀording 10a/11a (49 mg, 0.125
+mmol, 94%, white solid) as a 83:17 mixture of diastereomers. 10a: 1H
+NMR (300 MHz, CDCl3) δ 7.31−7.12 (m, 5H), 4.75 (d, J = 8.9 Hz,
+1H), 3.37 (dq, J = 9.0, 7.0 Hz, 1H), 1.08 (d, J = 6.9 Hz, 3H), 0.84 (s,
+9H), 0.77−0.71 (m, 9H), 0.53−0.33 (m, 6H), 0.00 (s, 3H), −0.26 (s,
+3H). 13C NMR (75 MHz, CDCl3) δ 252.4, 144.6, 128.0, 127.31,
+127.26, 75.3, 59.7, 25.6, 18.3, 13.3, 7.1, 1.8, −4.4, −4.8. HRMS (ESI
++ve) Exact mass calculated for C22H40O2NaSi2 [M + Na]+: 415.24646,
+found: 415.2466. The characteristic peaks for anti isomer 11a were
+observed at 4.84 (d, J = 9.4 Hz, 1H), 1.06−0.99 (m, 9H), −0.09 (s,
+3H), −0.29 (s, 3H) for 1H NMR and 250.9, 143.7, 128.1, 127.5, 76.4,
+58.0, 18.1, 12.7, 7.5, 2.3, −4.6, −4.8 for 13C NMR.
+(±)-3-(Methoxymethyl)oxy-2-methyl-3-phenyl-1-(triethylsilyl)-
+propan-1-one (12a−13a). A 5 mL round-bottom ﬂask was charged
+with 4a/5a (100 mg, 0.359 mmol) and a magnetic stir bar. The ﬂask
+was sealed with a septum, and then 1.8 mL of freshly distilled CH2Cl2
+was introduced with a syringe under nitrogen ﬂush. Next, DIPEA
+(0.190 mL, 1.08 mmol) and MOMCl (0.080 mL, 1.06 mmol) were
+introduced in the reaction mixture. The solution was stirred at room
+temperature (∼20 °C) for 20 h and monitored by TLC (pentane/
+AcOEt mixture, 95:5). The solution was treated by a saturated NH4Cl
+solution and extracted twice with CH2Cl2. The combined organic
+fractions were dried with MgSO4, ﬁltered, and concentrated under
+reduced pressure, aﬀording 123 mg of a crude mixture. The latter was
+puriﬁed by column chromatography using 7 g of silica gel (pentane/
+AcOEt gradient, 99:1 to 97:3), aﬀording 12a/13a (85 mg, 0.264
+mmol, 73%, colorless oil) as an 83:17 mixture of diastereoisomers.
+</para>
+Article
+<para sub=“exp”>
+12a: 1H NMR (300 MHz, CDCl3) δ 7.35−7.17 (m, 5H), 4.76 (d, J =
+8.9 Hz, 1H), 4.47 (s, 2H), 3.47 (dq, J = 9.0, 6.9 Hz, 1H), 3.32 (s, 3H),
+1.14 (d, J = 6.9 Hz, 3H), 0.79−0.73 (m, 9H), 0.54−0.44 (m, 6H). 13C
+NMR (75 MHz, CDCl3) δ 250.4, 140.9, 128.9, 129.0, 128.0, 94.1, 77.7,
+57.4, 55.8, 12.6, 7.1, 1.9. HRMS (ESI +ve) Exact mass calculated for
+C18H30O3NaSi [M + Na]+: 345.18619,
+found: 345.1864. The
+isomer 13a were observed at 4.71 (d,
+characteristic peaks for anti
+1H), 4.33 (d, J = 0.8 Hz, 2H), 3.18 (s, 3H), 1.06−0.99 (m, 9H) for 1H
+NMR and at 251.6, 139.8, 128.4, 127.9, 93.8, 79.9, 54.8, 12.3, 7.3, 2.2
+for 13C NMR.
+
+(±)-syn-3-Acetoxy-2-methyl-3-phenyl-1-(triisopropylsilyl)propan-
+1-one (14f). Following the general procedure for acetylation of β-
+hydroxyacylsilanes, a 10 mL round-bottom ﬂask was charged with 4f/
+5f (97:3 mixture, 111 mg, 0.346 mmol), acetic anhydride (80 mg,
+0.784 mmol), and a magnetic stir bar. The round-bottom ﬂask was
+then sealed with a septum, and 3.5 mL of freshly distilled CH2Cl2 and
+NEt3 (0.150 mL, 1.08 mmol) were added under nitrogen ﬂush. Finally,
+DMAP (9 mg, 0.074 mmol) was added to the solution, and the latter
+was stirred for 18 h at room temperature (∼20 °C) and monitored by
+TLC using a pentane/AcOEt 95:5 mixture. After aqueous workup and
+concentration, the reaction aﬀorded 142 mg of a crude mixture. The
+latter was puriﬁed by column chromatography with 8 g of silica gel
+(pentane/AcOEt 99:1). After puriﬁcation, 79 mg (0.218 mmol, 63%,
+colorless oil) of the compound 14f was obtained as pure syn product.
+The minor anti isomer 15f was not isolated. 14f: 1H NMR (300 MHz,
+CDCl3) δ 7.33−7.16 (m, 5H), 6.03 (d, J = 8.6 Hz, 1H), 3.56 (dq, J =
+8.6, 7.0 Hz, 1H), 2.05 (s, 3H), 1.10 (m, 6H), 0.94 (d, J = 7.0 Hz,
+18H). 13C NMR (75 MHz, CDCl3) δ 248.6, 169.9, 140.0, 128.3, 127.9,
+127.5, 75.5, 56.9, 21.2, 18.5, 18.5, 12.1, 10.9. HRMS (ESI +ve) Exact
+mass calculated for C21H34O3NaSi [M + Na]+: 385.21749, found:
+385.2176.
+
+see pictures
+
+General Procedure for the Photolysis/Hydrolysis of Pro-
+tected β-Hydroxyacylsilanes. The protected β-hydroxyacylsilane
+was introduced in a Pyrex round-bottom ﬂask or a Schlenk tube
+equipped with a magnetic stir bar. Distilled water was added so that
+the substrate concentration was equal to 0.05 M respective to water.
+Then, 1−4 equiv in volume of acetone were added until obtaining a
+clear solution, and the solution was degassed by the freeze pump thaw
+procedure. Degassing showed to be useful as residual oxygen may
+cause overoxidation of the aldehyde or the acylsilane. After degassing,
+the round-bottom ﬂask or Schlenk tube was covered with a septum
+and cooled to −15 °C in an ethanol bath using a chiller unless
+otherwise noted. The solution was stirred and enlightened at 365 nm
+using a routine UV lamp kept as close as possible from the round-
+bottom ﬂask (i.e., <15 cm;
+in the Supporting
+Information). The reaction was monitored by TLC. In addition, the
+reaction progress could be qualitatively evaluated by the disappearance
+of the solution luminescence. After completion, the solution was
+poured in a separatory funnel, and then brine and Et2O were added
+until separation of the organic and aqueous layer. The latter was
+extracted three times by Et2O, and then the combined organic phases
+were dried with MgSO4 and concentrated in vacuo using a rotary
+evaporator and then a high vacuum pump (2−3 h) to remove the
+trialkylsilanol byproduct. Note: the α-alkoxyaldehydes obtained by this
+procedure from the corresponding acylsilanes were not puriﬁed and
+were used directly for the next step.
+
+(±)-syn-3-Acetoxy-2-methyl-3-phenylpropanal
+
+(17a). Following
+the general procedure for the photolysis/hydrolysis of protected β-
+hydroxyacylsilanes, a 500 mL round-bottom ﬂask was charged with 6a
+(499 mg, 1.56 mmol), H2O (32 mL) and acetone (64 mL). The
+solution was degassed and cooled to −15 °C, and then enlightened at
+365 nm under stirring for 24 h at −15 °C. The reaction was monitored
+by TLC using a 90:10 pentane/AcOEt mixture. After aqueous workup
+and concentration by reduced pressure, the reaction aﬀorded 17a (305
+mg, 1.48 mmol, 95%, colorless oil). The product was used in the next
+step without further puriﬁcation. 17a: 1H NMR (400 MHz, CDCl3) δ
+9.72 (d, J = 1.2 Hz, 1H), 7.38−7.27 (m, 5H), 6.19 (d, J = 5.2 Hz, 1H),
+2.85 (qdd, J = 7.0, 5.3, 1.2 Hz, 1H), 2.11 (s, 3H), 1.11 (d, J = 7.0 Hz,
+3H). 13C NMR (101 MHz, CDCl3) δ 201.6, 169.8, 138.0, 128.6, 128.2,
+</para>
+2370
+
+DOI: 10.1021/acs.joc.5b00031
+J. Org. Chem. 2015, 80, 2364−2375
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+126.3, 74.3, 52.0, 20.9, 8.7. HRMS (ESI +ve) Exact mass calculated for
+C12H14O3Na [M + Na]+: 229.08406, found: 229.0841.
+
+Additionally, Compound 17a Was Obtained by the Same
+Procedure Starting from 14f. A 25 mL round-bottom ﬂask was
+charged with 14f (77 mg, 0.212 mmol), H2O (4 mL) and acetone (16
+mL). The solution was degassed and cooled to −15 °C, and then
+enlightened at 365 nm under stirring for 6 h at −15 °C. The reaction
+was monitored by TLC using a 90:10 pentane/AcOEt mixture. After
+aqueous workup and concentration by reduced pressure, the reaction
+aﬀorded 17a (42 mg, 0.203 mmol, 96%) identical by NMR to the
+compound described above.
+
+(±)-syn-3-Acetoxy-2-methyl-3-(4-ﬂuorophenyl)propanal
+
+(17b).
+Following the general procedure for the photolysis/hydrolysis of
+protected β-hydroxyacylsilanes, a 25 mL round-bottom ﬂask was
+charged with 6b (85 mg, 0.250 mmol), H2O (5 mL) and acetone (10
+mL). The solution was degassed and cooled to −15 °C, and then
+enlightened at 365 nm under stirring for 9 h at −15 °C. The reaction
+was monitored by TLC using a 90:10 pentane/AcOEt mixture. After
+aqueous workup and concentration by reduced pressure, the reaction
+aﬀorded 17b (55 mg, 0.245 mmol, 98%, colorless oil). 17b: 1H NMR
+(300 MHz, C6D6) δ 9.32 (d, J = 0.9 Hz, 1H), 6.79 (m, 2H), 6.71 (m,
+2H), 6.05 (d, J = 5.1 Hz, 1H), 2.19−2.08 (m, 1H), 1.54 (s, 3H), 0.79
+(d, J = 7.1 Hz, 3H). 13C NMR (75 MHz, C6D6) δ 200.2, 169.1, 164.4,
+161.1, 134.65, 134.61, 128.57, 128.46, 115.73, 115.45, 73.5, 52.0, 20.3,
+8.5. HRMS (ESI +ve) Exact mass calculated for C12H13FO3Na [M +
+Na]+: 247.07464, found: 247.0745.
+(±)-syn-3-Acetoxy-2-methyl-3-cyclohexylpropanal (17c). Follow-
+ing the general procedure for the photolysis/hydrolysis of protected β-
+hydroxyacylsilanes, a 50 mL round-bottom ﬂask was charged with 6c
+(163 mg, 0.500 mmol), H2O (10 mL), and acetone (30 mL). The
+solution was degassed and cooled to −15 °C, and then enlightened at
+365 nm under stirring for 9 h at −15 °C. The reaction was monitored
+by TLC using a 90:10 pentane/Et2O mixture. After aqueous workup
+and concentration by reduced pressure, the reaction aﬀorded 17c (105
+mg, 0.495 mmol, 99%, colorless oil). 17c: 1H NMR (300 MHz,
+CDCl3) δ 9.66 (d, J = 0.8 Hz, 1H), 5.19 (dd, J = 8.3, 3.5 Hz, 1H), 2.68
+(qd, J = 6.9, 3.4 Hz, 1H), 2.02 (s, 3H), 1.95−1.45 (m, 4H), 1.35−0.50
+(m, 10H). 13C NMR (75 MHz, CDCl3) δ 202.5, 170.7, 75.5, 48.2,
+39.1, 29.3, 28.8, 26.1, 25.9, 25.7, 20.7, 7.3. HRMS (ESI +ve) Exact
+mass calculated for C12H20O3Na [M + Na]+: 235.13101,
+found:
+235.1307.
+
+the pyridyl moiety.
+
+(±)-syn-3-Acetoxy-2-methyl-3-(3-pyridyl)propanal (17d). Follow-
+ing the general procedure for the photolysis/hydrolysis of protected β-
+hydroxyacylsilanes, a 25 mL round-bottom ﬂask was charged with 6d
+(80 mg, 0.250 mmol), H2O (5 mL), and acetone (5 mL). The solution
+was degassed and cooled to −15 °C, and then enlightened at 365 nm
+under stirring for 9 h at −15 °C. The reaction was monitored by TLC
+using Et2O. After aqueous workup and concentration by reduced
+pressure, the reaction aﬀorded 17d (49 mg, 0.236 mmol, 95%, pale
+yellow oil). Partial elimination (∼5%) into the conjugated enal could
+be observed by 1H NMR, probably due to the presence of a slightly
+basic functionality, e.g.,
+fast
+degradation has been observed in CDCl3. 17d: 1H NMR (300
+MHz, C6D6) δ 9.25 (d, J = 0.7 Hz, 1H), 8.57 (d, J = 2.3 Hz, 1H),
+8.44−8.39 (m, 1H), 7.08−7.00 (m, 1H), 6.64 (dd, J = 7.8, 4.8 Hz,
+1H), 6.08 (d, J = 4.8 Hz, 1H), 2.07 (qdd, J = 7.0, 4.8, 0.8 Hz, 1H), 1.50
+(s, 3H), 0.73 (d, J = 7.2 Hz, 3H). 13C NMR (101 MHz, C6D6) δ 199.7,
+169.0, 149.7, 148.5, 134.3, 133.9, 123.2, 72.1, 51.7, 20.1, 8.2, 7.0, 6.4.
+HRMS (ESI +ve) Exact mass calculated for C11H14NO3 [M + H]+:
+208.09737, found: 208.0973.
+(±)-syn-3-Acetoxy-2-methyl-3-(3,5-dimethoxyphenyl)propanal
+(17e). Following the general procedure for the photolysis/hydrolysis
+of protected β-hydroxyacylsilanes, a 25 mL round-bottom ﬂask was
+charged with 6d (95 mg, 0.250 mmol), H2O (5 mL), and acetone (15
+mL). The solution was degassed and cooled to −15 °C, and then
+enlightened at 365 nm and stirred for 7 h at −15 °C. The reaction was
+monitored by TLC using a 85:15 pentane/AcOEt mixture. After
+aqueous workup and concentration by reduced pressure, the reaction
+aﬀorded 17e (67 mg, 0.250 mmol, quantitative, colorless oil). 17e: 1H
+NMR (300 MHz, CDCl3) δ 9.71 (d, J = 1.1 Hz, 1H), 6.43 (d, J = 2.3
+
+In addition,
+
+Hz, 2H), 6.38 (d, J = 2.3 Hz, 1H), 6.11 (d, J = 5.0 Hz, 1H), 3.78 (s,
+6H), 2.81 (qdd, J = 7.0, 5.0, 1.1 Hz, 1H), 1.11 (d, J = 7.1 Hz, 3H). 13C
+NMR (75 MHz, CDCl3) δ 201.6, 169.8, 161.1, 140.5, 104.6, 99.8, 74.3,
+55.4, 51.9, 21.0, 8.8. HRMS (ESI +ve) Exact mass calculated for
+C14H18O5Na [M + Na]+: 289.10519, found: 289.1048.
+
+(±)-syn-3-Benzoyloxy-2-methyl-3-phenyl-propan-1-al (18a). Fol-
+lowing the general procedure for
+the photolysis/hydrolysis of
+protected β-hydroxyacylsilanes, a 50 mL round-bottom ﬂask was
+charged with 8a (96 mg, 0.250 mmol), H2O (5 mL), and acetone (20
+mL). The solution was degassed and cooled to −15 °C, and then
+enlightened at 365 nm under stirring for 14 h at −15 °C. The reaction
+was monitored by TLC using a 90:10 pentane/AcOEt mixture. After
+aqueous workup and concentration by reduced pressure, the reaction
+aﬀorded 18a (67 mg, 0.250 mmol, quantitative, colorless oil). 18a: 1H
+NMR (300 MHz, C6D6) δ 9.44 (d, J = 0.9 Hz, 1H), 8.12−8.03 (m,
+2H), 7.18−6.95 (m, 8H), 6.42 (d, J = 4.7 Hz, 1H), 2.34 (qdd, J = 7.0,
+4.7, 0.9 Hz, 1H), 0.93 (d, J = 7.0 Hz, 3H). 13C NMR (75 MHz, C6D6)
+δ 200.3, 165.2, 138.8, 133.2, 130.5, 130.0, 128.79, 128.71, 128.2, 126.6,
+75.0, 52.3, 8.6. HRMS (ESI +ve) Exact mass calculated for
+C17H16O3Na [M + Na]+: 291.09971, found: 291.0997.
+
+(±)-anti-3-Benzoyloxy-2-methyl-3-phenyl-propan-1-al
+
+(19a).
+Following the general procedure for the photolysis/hydrolysis of
+protected β-hydroxyacylsilanes, a 10 mL round-bottom ﬂask was
+charged with 9a (28 mg, 0.073 mmol), H2O (1.5 mL), and acetone
+(4.5 mL). The solution was degassed and cooled to −15 °C, and then
+enlightened at 365 nm under stirring for 14 h at −15 °C. The reaction
+was monitored by TLC using a 90:10 pentane/AcOEt mixture. After
+aqueous workup and concentration by reduced pressure, the reaction
+aﬀorded 19a (19 mg, 0.071 mmol, 97%, colorless oil). 19a: 1H NMR
+(300 MHz, C6D6) δ 9.45 (d, J = 2.5 Hz, 1H), 8.11−8.04 (m, 2H),
+7.09−6.94 (m, 8H), 6.13 (d, J = 8.2 Hz, 1H), 2.64 (dqd, J = 8.1, 7.1,
+2.5 Hz, 1H), 0.64 (d, J = 7.1 Hz, 3H). 13C NMR (75 MHz, C6D6) δ
+200.7, 165.2, 138.4, 133.2, 130.4, 130.0, 128.8, 128.7, 128.5, 127.2,
+76.5, 51.7, 10.7. HRMS (ESI +ve) Exact mass calculated for
+C17H16O3Na [M + Na]+: 291.09971, found: 291.0996.
+
+(±)-3-(tert-Butyldimethylsilyl)oxy-2-methyl-3-phenyl-propan-1-al
+(20a/21a). Following the general procedure for the photolysis/
+hydrolysis of protected β-hydroxyacylsilanes, a 25 mL round-bottom
+ﬂask was charged with 10a/11a (49 mg, 0.125 mmol), H2O (2.5 mL),
+and acetone (10 mL). The solution was degassed and cooled to −15
+°C, and then enlightened at 365 nm under stirring for 15 h at −15 °C.
+The reaction was monitored by TLC using a 90:10 pentane/Et2O
+mixture. After aqueous workup and concentration by reduced pressure,
+the reaction aﬀorded 20a/21a (31 mg, 0.111 mmol, 89%, colorless
+oil). 20a: 1H NMR (300 MHz, CDCl3) δ 9.77 (d, J = 1.3 Hz, 1H),
+7.36−7.22 (m, 5H), 5.16 (d, J = 4.2 Hz, 1H), 2.59 (qdd, J = 7.0, 4.2,
+1.3 Hz, 1H), 1.04 (d, J = 7.0 Hz, 3H), 0.89 (s, 9H), 0.03 (s, 3H),
+−0.18 (s, 3H). 13C NMR (75 MHz, CDCl3) δ 204.3, 142.5, 128.3,
+127.6, 126.4, 74.5, 54.9, 25.9, 18.3, 8.2, −4.4, −5.1. HRMS (ESI +ve)
+Exact mass calculated for C16H26O2NaSi [M + Na]+: 301.15998,
+found: 301.1602. The characteristic peaks for anti isomer 21a were
+observed at 9.81 (d, J = 2.7 Hz, 1H), 4.77 (d, J = 7.6 Hz, 1H), 2.75−
+2.64 (m, 1H), 0.85 (s, 9H), 0.01 (s, 3H), −0.25 (s, 3H) for 1H NMR
+and at 204.5, 142.4, 128.4, 128.0, 126.9, 77.0, 54.8, 25.9, 18.2, 11.2 for
+13C NMR.
+
+(±)-3-(Methoxymethyl)oxy-2-methyl-3-phenyl-propan-1-al (22a/
+23a). Following the general procedure for the photolysis/hydrolysis of
+protected β-hydroxyacylsilanes, a 25 mL round-bottom ﬂask was
+charged with 12a/13a (83 mg, 0.257 mmol), H2O (5 mL), and
+acetone (10 mL). The solution was degassed and cooled to −15 °C,
+and then enlightened at 365 nm and stirred for 5.5 h at −15 °C. The
+reaction was monitored by TLC using a 90:10 pentane/AcOEt
+mixture. After aqueous workup and concentration by reduced pressure,
+the reaction aﬀorded 22a/23a (50 mg, 0.240 mmol, 93%, colorless
+oil). Partial oxidation of the aldehyde was detected by 1H NMR (∼5−
+6%) and mass spectroscopy. 22a: 1H NMR (300 MHz, CDCl3) δ 9.77
+(d, J = 1.1 Hz, 1H), 7.40−7.27 (m, 5H), 5.11 (d, J = 4.9 Hz, 1H),
+4.59−4.52 (m, 2H), 3.35 (s, 3H), 2.70 (qdd, J = 7.0, 5.0, 1.2 Hz, 1H),
+1.10 (d, J = 7.0 Hz, 3H). 13C NMR (75 MHz, CDCl3) δ 203.4, 139.0,
+128.6, 128.0, 127.1, 94.4, 76.8, 56.0, 53.0, 8.5. HRMS (ESI +ve) Exact
+</para>
+2371
+
+DOI: 10.1021/acs.joc.5b00031
+J. Org. Chem. 2015, 80, 2364−2375
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+mass calculated for C12H16O3Na [M + Na]+: 231.09971,
+found:
+231.0998. The characteristic peaks for anti isomer 23a were observed
+at 9.84 (d, J = 3.1 Hz, 1H), 4.76 (d, J = 9.1 Hz, 1H), 4.50−4.44 (m,
+2H), 2.79 (m, 1H), 0.87 (d, J = 7.1 Hz, 3H) for 1H NMR and 203.8,
+138.5, 128.7, 128.5, 127.8, 93.9, 78.7, 52.5, 11.2 for 13C NMR.
+
+Additionally, Compound 22a Was Obtained by a Complemen-
+tary Procedure Starting from 16g. A 10 mL round-bottom ﬂask was
+charged with 16g (200 mg, 0.448 mmol) and a magnetic stir bar.
+Then, 6 mL of absolute ethanol and 20 mg of 10% Pd on activated
+charcoal were introduced, and the solution was stirred under 1 atm of
+hydrogen gas for 1 h. The suspension was then ﬁltered through Celite
+to aﬀord 208 mg of a crude mixture. The latter was puriﬁed by column
+chromatography with 8 g of silica gel (pentane/AcOEt gradient, 95:5
+to 80:20). Compound 22a was obtained as a pure syn isomer (85 mg,
+0.408 mmol, 91%) with the same NMR data as above.
+
+(±)-5-Acetoxy-3-hydroxy-2,4-dimethyl-5-phenyl-1-(triethylsilyl)-
+pentan-1-one (24). Following the general procedure for the synthesis
+of β-hydroxyacylsilanes, a 5 mL round-bottom ﬂask was charged with
+45 mg (0.244 mmol, 60 mol %) of MgBr2 and 0.081 mmol (20 mol %)
+of freshly prepared NiHCl(dppe) in 1 mL of THF. The solution was
+cooled to −35 °C, and then 17a (84 mg, 0.407 mmol) and 1 (74 mg,
+0.428 mmol) were introduced into the solution under argon ﬂush. The
+solution was stirred at −35 °C for 96 h, and the reaction was
+monitored by TLC using a 90:10 pentane/AcOEt mixture. The
+reaction was quenched by a saturated NH4Cl solution, the mixture was
+diluted with Et2O and ﬁltered through a small pad of Celite, and the
+phases were separated. The separated aqueous phase was extracted
+with Et2O, and the combined organic layers were dried over MgSO4
+and concentrated under reduced pressure, aﬀording 142 mg of a crude
+mixture. The latter was puriﬁed by chromatography using 8 g of silica
+gel (pentane/AcOEt gradient, 98:2 to 80:20), aﬀording 79 mg (0.209
+mmol, 51%) of adduct as a 86:14 mixture of diastereoisomers. The
+major diastereomer 24 could be obtained by fractional crystallization
+as a white solid, mp: 62−64 °C. 24: 1H NMR (300 MHz, C6D6) δ
+7.24−7.18 (m, 2H), 7.18−7.10 (m, 2H), 7.09−7.02 (m, 1H), 6.73 (d, J
+= 2.1 Hz, 1H), 4.12 (ddd, J = 9.9, 3.1, 2.0 Hz, 1H), 3.51 (d, J = 3.1 Hz,
+1H), 2.81 (qd, J = 7.1, 2.0 Hz, 1H), 2.00−1.88 (m, 1H), 1.70 (s, 3H),
+1.01 (d, J = 7.2 Hz, 3H), 0.94−0.86 (m, 9H), 0.73 (d, J = 7.0 Hz, 3H),
+0.68−0.58 (m, 6H). 13C NMR (75 MHz, C6D6) δ 250.1, 169.9, 141.1,
+128.5, 127.3, 126.1, 74.3, 69.9, 52.5, 43.3, 20.5, 9.3, 7.5, 6.3, 3.0. HRMS
+(ESI +ve) Exact mass calculated for C21H34O4NaSi [M + Na]+:
+401.21241, found: 401.2126.
+(±)-3,5-Diacetoxy-2,4-dimethyl-5-phenyl-1-(triethylsilyl)pentan-
+1-one (25). Following the general procedure mentioned above, a 10
+mL round-bottom ﬂask was charged with 24 (as the mixture of
+diastereoisomers, 134 mg, 0.354 mmol) and acetic anhydride (81 mg,
+0.793 mmol). Next, 3.5 mL of freshly distilled CH2Cl2 and NEt3
+(0.150 mL, 1.08 mmol) were introduced into the round-bottom ﬂask.
+Finally, DMAP (12 mg, 0.10 mmol) was added to the solution, and the
+latter was stirred at room temperature (∼20 °C) for 2 h. The reaction
+progress was monitored by TLC (pentane/AcOEt 95:5). After
+aqueous workup and concentration, the reaction aﬀorded 142 mg of
+a crude mixture. The latter was puriﬁed by chromatography with 8 g of
+silica gel (pentane/AcOEt gradient, 98:2 to 93:7) to aﬀord 25 (97 mg,
+0.231 mmol, 65%, pale yellow oil). 25: 1H NMR (400 MHz, CDCl3) δ
+7.37−7.29 (m, 2H), 7.30−7.21 (m, 1H), 7.19 (ddd, J = 8.3, 1.4, 0.7
+Hz, 2H), 5.90 (d, J = 2.7 Hz, 1H), 5.36 (dd, J = 9.7, 2.9 Hz, 1H), 3.16
+(qd, J = 6.9, 2.9 Hz, 1H), 2.17−2.08 (m, 4H), 1.99 (s, 3H), 1.02−0.97
+(m, 9H), 0.95 (d, J = 6.9 Hz, 3H), 0.87 (d, J = 7.0 Hz, 3H), 0.79 (m,
+6H). 13C NMR (101 MHz, CDCl3) δ 246.4, 170.3, 170.0, 139.6, 128.4,
+127.4, 125.5, 73.3, 70.6, 52.0, 40.9, 20.9, 20.8, 10.2, 7.4, 7.1, 2.6. HRMS
+(ESI +ve) Exact mass calculated for C23H36O5NaSi [M + Na]+:
+443.22297, found: 443.2235.
+(±)-3,5-Diacetoxy-2,4-dimethyl-5-phenyl-pentanal (26). Follow-
+ing the general procedure for the photolysis/hydrolysis of protected β-
+hydroxyacylsilanes, a 50 mL round-bottom ﬂask was charged with 25
+(97 mg, 0.231 mmol), H2O (5 mL), acetone (10 mL), and a magnetic
+stir bar. The solution was degassed and cooled to −15 °C, and then
+enlightened at 365 nm and stirred for 7 h at −15 °C. The reaction was
+monitored by TLC using a 90:10 pentane/AcOEt mixture. After
+
+aqueous workup and concentration by reduced pressure, the reaction
+aﬀorded 26 (63 mg, 0.206 mmol, 89%, colorless solid, which
+decomposed under heating). 26: 1H NMR (300 MHz, CDCl3) δ
+9.71 (d, J = 0.5 Hz, 1H), 7.38−7.19 (m, 5H), 5.99 (d, J = 2.7 Hz, 1H),
+5.47 (dd, J = 10.2, 2.4 Hz, 1H), 2.69 (qd, J = 6.9, 2.4 Hz, 1H), 2.26−
+2.17 (m, 1H), 2.15 (s, 3H), 2.04 (s, 3H), 1.10 (d, J = 6.9 Hz, 3H), 0.87
+(d, J = 7.0 Hz, 3H). 13C NMR (75 MHz, CDCl3) δ 201.9, 170.6,
+170.2, 139.3, 128.4, 127.5, 125.6, 73.0, 71.7, 48.7, 40.5, 21.0, 20.8, 9.9,
+6.2. HRMS (ESI +ve) Exact mass calculated for C17H22O5Na [M +
+Na]+: 329.13649, found: 329.1366.
+
+(±)-3-Hydroxy-5-(methoxymethyl)oxy-2,4-dimethyl-5-phenyl-1-
+(tert-butyldiphenyl-silylpentan-1-one (27). Following the general
+procedure for the synthesis of β-hydroxyacylsilanes, a 5 mL round-
+bottom ﬂask was charged with MgBr2 (42 mg, 0.230 mmol, 60 mol %)
+and a freshly prepared solution of NiHCl(BINAP) (0.04 mmol, 10
+mol %) in 0.8 mL of THF. The solution was cooled at −35 °C, and
+then aldehyde 22a (80 mg, 0.384 mmol) and 3 (145 mg, 0.49 mmol)
+were added into the solution. The solution was stirred at −35 °C for
+72 h, and the reaction was monitored by TLC with a 90:10 pentane/
+AcOEt mixture. The reaction was quenched by a saturated NH4Cl
+solution, the mixture was diluted with Et2O and ﬁltered through a
+small pad of Celite, and the phases were separated. The separated
+aqueous phase was extracted with Et2O, and the combined organic
+layers were dried over MgSO4 and concentrated under reduced
+pressure, aﬀording 235 mg of a crude mixture. The latter was puriﬁed
+by chromatography with 11 g of silica gel (pentane/AcOEt gradient,
+95:5 to 80:20). After puriﬁcation, 143 mg (0.284 mmol, 74%) of
+adducts was obtained as a 73:27 mixture of diastereomers. A single
+crystal of the major diastereoisomer 27 could be obtained by fractional
+crystallization. The product 27 appeared as a colorless solid, which
+decomposed under heating. 27: 1H NMR (300 MHz, CDCl3) δ 7.65−
+7.59 (m, 2H), 7.57−7.52 (m, 2H), 7.47−7.19 (m, 9H), 7.11 (dd, J =
+6.7, 3.0 Hz, 2H), 4.93 (d, J = 2.6 Hz, 1H), 4.53 (d, J = 6.4 Hz, 1H),
+4.46 (d, J = 6.4 Hz, 1H), 3.86 (d, J = 9.5 Hz, 1H), 3.26 (s, 3H), 3.00−
+2.91 (m, 1H), 1.67 (m, 1H), 1.13 (s, 9H), 0.83 (d, J = 6.9 Hz, 3H),
+0.14 (d, J = 7.0 Hz, 3H). 13C NMR (75 MHz, CDCl3) δ 248.8, 140.1,
+136.5, 136.4, 134.9, 132.2, 131.8, 129.99, 129.94, 128.12, 128.08,
+127.9, 127.2, 95.3, 78.8, 68.9, 56.0, 52.7, 42.0, 27.9, 19.0, 9.7, 6.2.
+HRMS (ESI +ve) Exact mass calculated for C31H40O4NaSi [M + Na]+:
+527.2594, found: 527.2596.
+
+(±)-syn-5-Benzyloxy-3-hydroxy-2-methyl-1-(triethylsilyl)pentan-
+1-one (29). Following the general procedure for the synthesis of β-
+hydroxyacylsilanes, a round-bottom ﬂask was charged with MgBr2
+(222 mg, 1.20 mmol, 60 mol %) and a freshly prepared solution of
+NiHCl(dppe) (0.4 mmol, 20 mol %) in 4 mL of THF. The solution
+was cooled at −35 °C, and then 3-benzyloxypropionaldehyde 28 (312
+mg, 1.9 mmol) and 1 (338 mg, 1.96 mmol) were added into the
+solution. The solution was stirred at −35 °C for 40 h, and the reaction
+was monitored by TLC with a 90:10 pentane/AcOEt mixture. The
+reaction was quenched by a saturated NH4Cl solution, the mixture was
+diluted with Et2O and ﬁltered through a small pad of Celite, and the
+phases were separated. The separated aqueous phase was extracted
+with Et2O, and the combined organic layers were dried over MgSO4
+and concentrated under reduced pressure, aﬀording 705 mg of a crude
+mixture. The latter was puriﬁed by chromatography with 39 g of silica
+gel (pentane/AcOEt gradient, 97:3 to 85:15). After puriﬁcation, the
+adducts were obtained as an 84:16 mixture of diastereoisomers (494
+mg, 1.47 mmol, 77%, pale yellow oil). 29: 1H NMR (300 MHz,
+CDCl3) δ 7.38−7.27 (m, 5H), 4.51 (s, 2H), 4.12 (dtd, J = 9.3, 3.6, 2.2
+Hz, 1H), 3.72−3.57 (m, 2H), 3.16 (d, J = 2.2 Hz, 1H), 2.94 (qd, J =
+7.2, 3.9 Hz, 1H), 1.83−1.68 (m, 1H), 1.68−1.60 (m, 1H), 1.03 (d, J =
+7.2 Hz, 3H), 1.00−0.92 (m, 9H), 0.79−0.69 (m, 6H). 13C NMR (75
+MHz, CDCl3) δ 252.9, 138.1, 128.2, 127.5, 127.5, 73.1, 68.7, 68.2,
+55.1, 34.2, 8.3, 7.1, 2.3. HRMS (ESI +ve) Exact mass calculated for
+C19H32O3NaSi [M + Na]+: 359.20184,
+found: 359.2016. The
+characteristic peaks for the minor anti
+isomer were observed at
+4.01−3.92 (m, 1H), 3.14 (d, J = 4.8 Hz, 1H), 3.05 (quint, J = 7.2 Hz,
+1H) for 1H NMR and at 253.4, 138.0, 127.5, 73.1, 71.7, 68.3, 55.5,
+11.1, 2.3 for 13C NMR.
+</para>
+2372
+
+DOI: 10.1021/acs.joc.5b00031
+J. Org. Chem. 2015, 80, 2364−2375
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+(±)-syn-5-Benzyloxy-3-(tert-butyldimethylsilyl)oxy-2-methyl-1-
+(triethylsilyl)pentan-1-one (30). Following the general procedure for
+the silylation of β-hydroxyacylsilanes, a 25 mL round-bottom ﬂask was
+charged with 29 (316 mg, 0.939 mmol) and 2,6-lutidine (201 mg, 1.88
+mmol). Then, 9 mL of freshly distilled CH2Cl2 was introduced into
+the round-bottom ﬂask under argon ﬂush. The solution was cooled to
+0 °C, and TBSOTf (0.320 mL, 1.40 mmol) was added to the solution.
+Next, the argon ﬂush was stopped and the reaction was stirred at 0 °C
+for 2 h. The reaction was monitored by TLC using a 95:5 pentane/
+Et2O mixture. After aqueous workup and concentration, the reaction
+aﬀorded 458 mg of a crude mixture. The latter was puriﬁed by
+chromatography with 25 g of silica gel (pentane/Et2O gradient,
+99.5:0.5 to 98.5:1.5). After puriﬁcation, the major syn isomer 30 (266
+mg, 0.590 mmol, 63%, colorless oil) was separated from the more
+polar anti isomer. 30: 1H NMR (300 MHz, CDCl3) δ 7.37−7.23 (m,
+5H), 4.47 (s, 2H), 4.13 (dt, J = 7.0, 5.1 Hz, 1H), 3.50 (td, J = 6.8, 4.1
+Hz, 2H), 3.04 (p, J = 7.1 Hz, 1H), 1.73 (tdd, J = 6.9, 5.1, 2.2 Hz, 2H),
+0.99−0.90 (m, 12H), 0.86 (s, 9H), 0.75−0.66 (m, 6H), 0.03 (s, 3H),
+0.01 (s, 3H). 13C NMR (101 MHz, CDCl3) δ 250.3, 138.6, 128.4,
+127.7, 127.6, 73.1, 69.1, 66.6, 56.5, 36.1, 26.0, 18.2, 11.5, 7.4, 2.6,
+−4.16, −4.20. HRMS (ESI +ve) Exact mass calculated for
+C25H46O3NaSi2 [M + Na]+: 473.28832, found: 473.2877.
+
+(±)-syn-5-Benzyloxy-3-(tert-butyldimethylsilyl)oxy-2-methyl-
+pentanal (31). Following the general procedure for the photolysis/
+hydrolysis of protected β-hydroxyacylsilanes, a 100 mL round-bottom
+ﬂask was charged with 30 (263 mg, 0.583 mmol), H2O (12 mL), and
+acetone (48 mL). The solution was degassed and cooled to −15 °C,
+and then enlightened at 365 nm under stirring for 14 h at −15 °C. The
+reaction was monitored by 1H NMR. After aqueous workup and
+concentration under reduced pressure, the reaction aﬀorded 31 (194
+mg, 0.576 mmol, 99%, colorless oil). 31: 1H NMR (300 MHz, CDCl3)
+δ 9.78 (d, J = 0.9 Hz, 1H), 7.33 (d, J = 1.4 Hz, 4H), 4.48 (d, J = 8.3
+Hz, 2H), 4.32 (ddd, J = 7.3, 5.6, 3.6 Hz, 1H), 3.56−3.48 (m, 2H), 2.48
+(qdd, J = 6.9, 3.7, 0.9 Hz, 1H), 1.91−1.70 (m, 2H), 1.05 (d, J = 7.0 Hz,
+3H), 0.86 (s, 9H), 0.06 (s, 3H), 0.04 (s, 3H). 13C NMR (75 MHz,
+CDCl3) δ 205.2, 138.3, 128.5, 127.73, 127.71, 73.1, 69.4, 66.6, 51.7,
+34.6, 25.8, 18.1, 8.0, −4.4, −4.5. HRMS (ESI +ve) Exact mass
+calculated for C19H32O3NaSi [M + Na]+: 359.20184, found: 359.2020.
+(±)-syn-5-(4-Methoxy)benzyloxy-3-hydroxy-2-methyl-1-(triethyl-
+silyl)pentan-1-one (33). Following the general procedure for the
+synthesis of β-hydroxyacylsilanes, a Schlenk tube was charged with
+MgBr2 (558 mg, 3.03 mmol, 60 mol %) and a freshly prepared solution
+of NiHCl(dppe) (0.5 mmol, 10 mol %) in 10 mL of THF. The
+Schlenk tube was cooled at −35 °C, and then 3-(4-methoxybenzyl)-
+oxy-propanal 3223 (979 mg, 5.04 mmol) and 1 (948 mg, 5.50 mmol)
+were added into the solution. The solution was stirred at −35 °C for
+18 h, and the reaction was monitored by TLC with an 85:15 pentane/
+AcOEt mixture. The reaction was quenched by a saturated NH4Cl
+solution, the mixture was diluted with Et2O and ﬁltered through a
+small pad of Celite, and the phases were separated. The separated
+aqueous phase was extracted with Et2O, and the combined organic
+layers were dried over MgSO4 and concentrated under reduced
+pressure, aﬀording 1.869 g of a crude mixture. The latter was puriﬁed
+by chromatography with 55 g of silica gel (pentane/AcOEt gradient,
+98:2 to 85:15). After puriﬁcation, 1.435 g (3.91 mmol, 78%, pale
+yellow oil) of adducts was obtained as an 85:15 mixture of
+diastereomers. 33: 1H NMR (300 MHz, CDCl3) δ 7.26−7.22 (m,
+2H), 6.90−6.84 (m, 2H), 4.44 (s, 2H), 4.09 (dtd, J = 9.4, 3.7, 2.2 Hz,
+1H), 3.80 (s, 3H), 3.65−3.55 (m, 2H), 3.16 (d, J = 2.3 Hz, 1H), 2.93
+(qd, J = 7.2, 4.0 Hz, 1H), 1.74 (m, 1H), 1.61 (m, 1H), 1.02 (d, J = 7.2
+Hz, 3H), 0.99−0.92 (m, 9H), 0.78−0.69 (m, 6H). 13C NMR (75
+MHz, CDCl3) δ 253.5, 159.3, 130.3, 129.3, 113.9, 73.0, 69.0, 68.2,
+55.3, 55.1, 34.3, 8.5, 7.3, 2.5. HRMS (ESI +ve) Exact mass calculated
+for C20H34O4NaSi [M + Na]+: 389.21241,
+found: 389.2124. The
+characteristic peaks for the minor anti isomer were observed at 3.97
+(m, 1H), 3.15 (d, J = 4.9 Hz, 1H), 3.05 (p, J = 7.2 Hz, 1H) for 1H
+NMR and at 254.0, 159.32, 130.2, 129.4, 113.8, 73.0, 72.2, 68.3, 55.7,
+34.2, 11.4, 7.5, 3.6, 2.4 for 13C NMR.
+
+(±)-syn-5-(4-Methoxybenzyl)oxy-3-(tert-butyldimethylsilyl)oxy-2-
+methyl-1-(triethylsilyl)pentan-1-one (34). Following the general
+
+procedure for the silylation of β-hydroxyacylsilanes, a 50 mL round-
+bottom ﬂask was charged with 33 (1.284 g, 3.50 mmol) and 2,6-
+lutidine (745 mg, 6.95 mmol). Then, 18 mL of freshly distilled CH2Cl2
+was introduced into the round-bottom ﬂask under argon ﬂush. The
+solution was cooled to 0 °C, and TBSOTf (1.2 mL, 5.22 mmol) was
+added to the solution. Next, the argon ﬂush was stopped and the
+reaction was stirred at 0 °C for 1 h 30 min. The reaction was
+monitored by TLC using a 90:10 pentane/AcOEt mixture. After
+aqueous workup and concentration, the reaction aﬀorded 1.825 g of a
+crude mixture. The latter was puriﬁed by chromatography with 99 g of
+silica gel (pentane/Et2O gradient, 97.5:2.5 to 97:3). After puriﬁcation,
+the major syn isomer 34 (1.142 g, 2.38 mmol, 68%, colorless oil) was
+separated from the more polar anti isomer. 34: 1H NMR (300 MHz,
+CDCl3) δ 7.25−7.21 (m, 2H), 6.88−6.84 (m, 2H), 4.39 (s, 2H), 4.11
+(dt, J = 7.0, 5.1 Hz, 1H), 3.80 (s, 3H), 3.46 (td, J = 6.8, 4.4 Hz, 2H),
+3.03 (quint, J = 7.1 Hz, 1H), 1.71 (tdd, J = 7.0, 5.1, 2.1 Hz, 2H), 0.98−
+0.90 (m, 12H), 0.85 (s, 9H), 0.75−0.66 (m, 6H), 0.03 (s, 3H), 0.01 (s,
+3H). 13C NMR (75 MHz, CDCl3) δ 250.5, 159.2, 130.7, 129.4, 113.8,
+72.7, 69.1, 66.3, 56.4, 55.3, 36.1, 26.0, 18.2, 11.6, 7.4, 2.6, −4.17, −4.21.
+HRMS (ESI +ve) Exact mass calculated for C26H48O4NaSi2 [M +
+Na]+: 503.29889, found: 503.2992.
+
+(35). Following the general procedure for
+
+(±)-syn-5-(4-Methoxybenzyl)oxy-3-(tert-butyldimethylsilyl)oxy-2-
+methylpentanal
+the
+photolysis/hydrolysis of protected β-hydroxyacylsilanes, a 500 mL
+round-bottom ﬂask was charged with 34 (1.140 g, 2.37 mmol), H2O
+(47 mL), acetone (190 mL), and a magnetic stir bar. The solution was
+degassed and cooled to −15 °C, and then enlightened at 365 nm and
+stirred for 25 h at −15 °C. The reaction was monitored by 1H NMR.
+After aqueous workup and concentration under reduced pressure, the
+reaction aﬀorded 35 (866 mg, 2.36 mmol, quantitative, colorless oil).
+It was used in the next step without further puriﬁcation. 35: 1H NMR
+(300 MHz, CDCl3) δ 9.77 (d, J = 0.9 Hz, 1H), 7.27−7.22 (m, 2H),
+6.90−6.85 (m, 2H), 4.47−4.35 (m, 2H), 4.30 (ddd, J = 7.3, 5.7, 3.6
+Hz, 1H), 3.80 (s, 3H), 3.48 (td, J = 6.0, 1.3 Hz, 2H), 2.47 (qdd, J =
+6.9, 3.6, 0.9 Hz, 1H), 1.89−1.68 (m, 2H), 1.04 (d, J = 7.0 Hz, 3H),
+0.85 (s, 9H), 0.06 (s, 3H), 0.04 (s, 3H). 13C NMR (75 MHz, CDCl3)
+δ 205.0, 159.2, 130.3, 129.3, 113.8, 72.7, 69.3, 66.2, 55.2, 51.6, 34.6,
+25.8, 18.0, 7.8, −4.4, −4.6. HRMS (ESI +ve) Exact mass calculated for
+C20H34O4NaSi [M + Na]+: 389.21241, found: 389.2122.
+
+(±)-7-(4-Methoxybenzyl)oxy-3-hydroxy-5-(tert-butyldimethyl-
+silyl)oxy-2,4-dimethyl-1-(triethylsilyl)heptan-1-one (36). Following
+the general procedure for the synthesis of β-hydroxyacylsilanes, a
+Schlenk tube was charged with MgBr2 (261 mg, 1.42 mmol, 60 mol %)
+and a freshly prepared solution of NiHCl(dppe) (0.24 mmol, 10 mol
+%) in 5 mL of THF. The Schlenk tube was cooled at −35 °C, and then
+35 (864 mg, 2.36 mmol) and 1 (478 mg, 2.77 mmol) were added into
+the solution. The solution was stirred at −35 °C for 135 h, and the
+reaction was monitored by TLC with a 90:10 pentane/Et2O mixture.
+The reaction was quenched by a saturated NH4Cl solution, the
+mixture was diluted with Et2O and ﬁltered through a small pad of
+Celite, and the phases were separated. The separated aqueous phase
+was extracted with Et2O, and the combined organic layers were dried
+over MgSO4 and concentrated under reduced pressure, aﬀording 1.392
+g of a crude mixture. The latter was puriﬁed by chromatography with
+39 g of silica gel (pentane/Et2O gradient, 96:4 to 80:20). After careful
+puriﬁcation by chromatography, 803 mg (1.49 mmol, 63%, pale yellow
+oil) of 36 was obtained as an 86:14 mixture of diastereomers. 36: 1H
+NMR (300 MHz, CDCl3) δ 7.28−7.24 (m, 2H), 6.90−6.84 (m, 2H),
+4.48−4.36 (m, 2H), 4.12 (ddd, J = 7.7, 5.6, 2.2 Hz, 1H), 4.05 (dt, J =
+10.0, 1.8 Hz, 1H), 3.80 (s, 3H), 3.64 (d, J = 1.4 Hz, 1H), 3.56−3.40
+(m, 2H), 2.85 (qd, J = 6.9, 1.8 Hz, 1H), 1.88−1.79 (m, 2H), 1.69 (m,
+1H), 0.95 (m, 12H), 0.85 (s, 9H), 0.81−0.71 (m, 9H), 0.07 (s, 3H),
+0.04 (s, 3H). 13C NMR (75 MHz, CDCl3) δ 251.2, 159.2, 130.6,
+129.2, 113.7, 72.6, 71.1, 70.0, 66.9, 55.1, 52.8, 39.9, 33.6, 25.9, 18.0,
+11.1, 7.3, 5.9, 2.7, −4.59, −4.65. HRMS (ESI +ve) Exact mass
+calculated for C29H54O5NaSi2 [M + Na]+: 561.34075,
+found:
+561.3409. The characteristic peaks for the minor anti
+isomer were
+observed at 4.00−3.94 (m, 1H), 3.94−3.86 (m, 1H), 3.80 (s, 3H), 3.06
+(m, 1H), 2.73 (d, J = 3.6 Hz, 1H) for 1H NMR and at δ 253.5, 131.5,
+</para>
+2373
+
+DOI: 10.1021/acs.joc.5b00031
+J. Org. Chem. 2015, 80, 2364−2375
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+130.5, 75.2, 74.3, 66.5, 53.3, 38.5, 34.5, 30.3, 11.5, 3.0, 2.5, 2.3, −4.0,
+−4.5 for 13C NMR.
+
+(±)-7-(4-Methoxybenzyl)oxy-3-hydroxy-2,4-dimethyl-5-(tert-
+butyldimethylsilyl)oxy-1-heptan-1,3-diol (37). Following the general
+procedure for the photolysis/hydrolysis of protected β-hydroxyacylsi-
+lanes, a 10 mL round-bottom ﬂask was charged with 36 (27 mg, 0.050
+mmol), H2O (1 mL), freshly distilled THF (4 mL), and a magnetic stir
+bar. The solution was degassed and cooled at 0 °C, and the reaction
+mixture was then enlightened at 365 nm and stirred for 2 h. The
+reaction was monitored by TLC using a 90:10 pentane/acetone
+mixture. Once the starting material was consumed, NaBH4 (7 mg,
+0.016 mmol) was added to the reaction mixture and the reaction was
+stirred for 30 min. This second step reaction was monitored by TLC
+using an 80:20 pentane/acetone mixture. Then, brine was added, and
+the solution was poured in a separatory funnel. The aqueous phase was
+extracted three times with Et2O, and the combined organic phases
+were dried with MgSO4, ﬁltered, and concentrated under reduced
+pressure, aﬀording 24 mg of a crude mixture. The latter was puriﬁed by
+chromatography with 3 g of silica gel (pentane/Et2O mixture, 80:20 to
+40:60). After puriﬁcation, 15 mg (0.035 mmol, 70% over two steps
+pale yellow oil) of 37 (containing around 6−7% of
+the minor
+diastereoisomer by 1H and 13C NMR) was obtained. 37: 1H NMR
+(300 MHz, CDCl3) δ 7.25 (d, J = 8.8 Hz, 2H), 6.88 (d, J = 8.7 Hz,
+2H), 4.56 (brs, 1H), 4.47−4.36 (m, 2H), 3.95 (m, 2H), 3.80 (s, 3H),
+3.77 (d, J = 3.7 Hz, 1H), 3.67 (dd, J = 10.6, 5.5 Hz, 1H), 3.58−3.47
+(m, 2H), 2.78 (brs, 1H), 1.98−1.80 (m, 3H), 0.95 (d, J = 7.0 Hz, 3H),
+0.89 (s, 9H), 0.73 (d, J = 7.1 Hz, 3H), 0.12 (s, 3H), 0.07 (s, 3H). 13C
+NMR (75 MHz, CDCl3) δ 159.4, 130.7, 129.4, 114.0, 76.4, 75.22, 72.7,
+68.2, 66.9, 55.4, 40.0, 36.5, 31.4, 25.9, 18.0, 13.6, 8.5, −4.3, −4.9.
+HRMS (ESI +ve) Exact mass calculated for C23H42O5NaSi [M + Na]+:
+449.26992, found: 449.2702.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+General information and representative setup for photolysis of
+acylsilanes, crystal structure reports for compounds 24 and 27,
+and copies of all the 1H and 13C NMR spectra. This material is
+available free of charge via the Internet at http://pubs.acs.org.
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: rene.gree@univ-rennes1.fr (R.G.).
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+This research has been performed as part of the Indo-French
+“Joint Laboratory for Sustainable Chemistry at Interfaces”. We
+thank CNRS, CSIR, and University of Rennes 1 for support of
+this research. A.S.M. thanks CSIR for ﬁnancial assistance. We
+thank P. Reddy, S. Reddy, O. Tasseau, and P. Mosset for fruitful
+discussions and CRMPO (Rennes) for MS analyses.
+
+■ REFERENCES
+
+(1) See, for instance: Koskinen, A. M. P.; Karisalmi, K. Chem. Soc.
+Rev. 2005, 34, 677 and references cited therein.
+(2) (a) Mahrwald, R., Ed. Enolates, Organocatalysis, Biocatalysis and
+Natural Products Synthesis. In Modern Aldol Reactions; Wiley VCH:
+Weinheim, Germany, 2004; Vol. 1. (b) Mahrwald, R., Ed. Metal
+Catalysis.
+In Modern Aldol Reactions; Wiley VCH: Weinheim,
+Germany, 2004; Vol. 2, and references cited therein.
+(3) Northrup, A. B.; MacMillan, D. W. C. J. Am. Chem. Soc. 2002,
+124, 6798.
+(4) For selected references, see: (a) Mahrwald, R. Chem. Ber. 1995,
+128, 919. (b) Mahrwald, R.; Costisella, B.; Gündogan, B. Tetrahedron
+Lett. 1997, 38, 4543. (c) Mahrwald, R.; Ziemer, B.; Troyanov, S.
+Tetrahedron Lett. 2001, 42, 4543. (d) Tanabe, Y.; Matsumoto, N.;
+
+Article
+
+J.; Das, S.; Roisnel, T.; Yadav,
+
+Higashi, T.; Misaki, T.; Itoh, T.; Yamamoto, M.; Mitatai, K.; Nishii, Y.
+Tetrahedron 2002, 58, 8269 and references cited therein.
+(5) (a) Albert, B. J.; Yamaoka, Y.; Yamamoto, H. Angew. Chem., Int.
+Ed. 2011, 50, 2610. (b) Brady, P. B.; Yamamoto, H. Angew. Chem., Int.
+Ed. 2012, 51, 1942. (c) Brady, P. B.; Oda, S.; Yamamoto, H. Org. Lett.
+2014, 16, 3864. (d) Izumiseki, A.; Yamamoto, H. J. Am. Chem. Soc.
+2014, 136, 1308.
+(6) (a) Lin, L.; Yamamoto, K.; Matsunaga, S.; Kanai, M. Angew.
+Int. Ed. 2012, 51, 10275. (b) Lin, L.; Yamamoto, K.;
+Chem.,
+Matsunaga, S.; Kanai, M. Chem.Asian J. 2013, 8, 2974.
+(7) PavanKumar Reddy, G.; Satyanarayana Reddy,
+J.; Das, S.;
+Roisnel, T.; Yadav, J. S.; Chandrasekhar, S.; Grée, R. Org. Lett. 2013,
+15, 1524.
+(8) (a) Srirama Murthy, A.; Roisnel, T.; Chandrasekhar, S.; Grée, R.
+Synlett 2013, 24, 2216. (b) PavanKumar Reddy, G.; Srirama Murthy,
+A.; Satyanarayana Reddy,
+J. S.;
+Chandrasekhar, S.; Grée, R. Tetrahedron Lett. 2014, 55, 365. For
+complementary synthesis of β-hydroxyacylsilanes, see: (c) Schinzer, D.
+Synthesis 1989, 179. (d) Marri, G.; Reddy, J. S.; Ruiz, J.; Das, S.; Grée,
+R. Eur. J. Org. Chem. 2015, No. 4, 840.
+(9) For excellent reviews on the chemistry of acylsilanes, see:
+(a) Patrocinio, A. F.; Moran, P. J. S. J. Braz. Chem. Soc. 2001, 12, 7.
+(b) Page, P. C. B.; McKenzie, M. J. Product Subclass 25: Acylsilanes.
+In Science of Synthesis; Fleming, I., Ed.; Thieme: Stuttgart, 2001; Vol. 4,
+pp 513−568. (c) Garrett, M. N.; Johnson, J. S. Product Subclass 4:
+Silicon Compound. In Science of Synthesis; Fleming, I., Ed.; Thieme:
+Stuttgart, Knowledge update 2012/2; Vol. 4, pp 1−85. (d) Boyce, G.
+R.; Grezler, S. N.; Johnson, J. S.; Linghu, X.; Malinovski, J. T.;
+Nicewicz, D. A.; Satterfield, A. D.; Schmitt, D. C.; Steward, K. M. J.
+Org. Chem. 2012, 77, 4503. (e) Zhang, H.-J.; Pribbenow, D. L.; Bolm,
+C. Chem. Soc. Rev. 2013, 42, 8540 and references cited therein.
+(10) (a)
+For reviews on Brook rearrangement and synthetic
+applications, see: (a) Brook, A. G. Acc. Chem. Res. 1974, 7, 77.
+(b) Moser, W. H. Tetrahedron 2001, 57, 2065 and references cited
+therein.
+(11) (a) Sato, T.; Arai, M.; Kuwajima, I. J. Am. Chem. Soc. 1977, 89,
+5827. (b) Sharma, H. K.; Vincenti, S. P.; Vicari, R.; Cervantes, F.;
+Pannell, K. H. Organometallics 1990, 9, 2109.
+(12) (a) Schinzer, D.; Heathcock, C. H. Tetrahedron Lett. 1981, 22,
+1881. (b) Miller, J. A.; Zweifel, G. J. Am. Chem. Soc. 1981, 103, 6217.
+(c) Bulman Page, P. C.; Rosenthal, S. Tetrahedron Lett. 1986, 27, 2527.
+(13) (a) Cirillo, P. F.; Panek, J. S. Tetrahedron Lett. 1991, 457.
+(b) Panek, J. S.; Cirillo, P. F. J. Org. Chem. 1994, 59, 3055.
+(14) Bonini, B. F.; Comes-Francini, M.; Fochi, M.; Mazzanti, G.;
+Ricci, A.; Alberti, A.; Macciantelli, D.; Marcaccio, M.; Roffia, S. Eur. J.
+Org. Chem. 2002, 543.
+(15) Patrocinio, A. F.; Moran, P. J. S. J. Chem. Res., Synop. 2000, 404.
+(16) (a) Bourque, R. A.; Davis, P. D.; Dalton, J. C. J. Am. Chem. Soc.
+1981, 103, 697. (b) Svarovski, S. A.; Taraban, M. B.; Barchi, J. J. Org.
+Biomol. Chem. 2004, 2, 3155. (c) Wegert, A.; Behr, J.-B.; Hoffmann,
+N.; Mietchen, A.; Portella, C.; Plantier-Royon, R. Synthesis 2006, 2343.
+(d) Denmark, S.; Xie, M. J. Org. Chem. 2007, 72, 7050.
+(17) It is known that alkyl acylsilanes exhibit UV absorption around
+370 nm. We employed a very simple equipment with a classical UV
+lamp (generally used for visualisation of TLC plates), and common
+Pyrex glassware. This near visible method was used eﬃciently, even on
+gram scale reactions (see the Supporting Information).
+(18) For elegant uses of sunlight
+lamps with acylsilanes, see:
+(a) Zhang, H.-J.; Becker, P.; Huang, H.; Pirwerdjan, R.; Pan, F.-F.;
+Bolm, C. J. Org. Chem. 2014, 79, 814. (b) Becker, P.; Priebbenow, D.
+L.; Zhang, H.-J.; Pirwerdjan, R.; Bolm, C. Adv. Synth. Catal. 2012, 354,
+2157.
+(19) CCDC 1031842 contains the supplementary crystallographic
+data for compound 24. CCDC 1031843 contains the supplementary
+crystallographic data for compound 27. These data can be obtained
+free of charge from the Cambridge Crystallographic Data Centre via
+www.ccdc.cam.ac.uk/data_request/cif.
+(20) Evans, D. A.; Dart, M. J.; Duffy, J. L.; Yang, M. J. J. Am. Chem.
+Soc. 1996, 118, 4322.
+
+2374
+
+DOI: 10.1021/acs.joc.5b00031
+J. Org. Chem. 2015, 80, 2364−2375
+
+Article
+
+The Journal of Organic Chemistry
+
+(21) (a) Reddy, V. J.; Pradahan, T. K.; Ghosh, S. Tetrahedron Lett.
+2012, 53, 6148. (b) Chandrasekhar, S.; Sathish, K.; PavanKumar
+Reddy, G.; Mainkar, P. S. Tetrahedron: Asymmetry 2014, 25, 348.
+(22) Marshall, J. A.; Yashunsky, D. V. J. Org. Chem. 1991, 56, 5493.
+(23) (a) Kobayashi, S.; Tsuchiya, K.; Harada, T.; Nishide, M.;
+Kurokawa, T.; Nakagawa, T.; Shimada, N.; Kobayashi, K. J. Antibiot.
+1994, 47, 697. (b) Kobayashi, S.; Tsuchiya, K.; Harada, T.; Nishide,
+M.; Kurokawa, T.; Nakagawa, T.; Shimada, N.; Iitaka, T. J. Antibiot.
+1994, 47, 703. (c) Yasui, K.; Tamura, Y.; Nakatani, T.; Kawada, K.;
+Ohtani, M. J. Org. Chem. 1995, 60, 7567.
+(24) For selected references, see: (a) Dias, L. C.; de Oliveira, L. G.;
+de Souza, M. A. Org. Lett. 2003, 5, 265. (b) Bressy, C.; Vors, J.-P.;
+Hillebrand, S.; Arseniyadis, S.; Cossy, J. Angew. Chem., Int. Ed. 2008,
+47, 10137. (c) Crimmins, M. T.; Dechert, A-M. R. Org. Lett. 2009, 11,
+1635 and references cited therein.
+(25) Arikan, F.; Li, J.; Menche, D. Org. Lett. 2008, 10, 3521.
+(26) (a) Jeong, E. J.; Kang, E. J.; Sung, L. T.; Hong, S. K.; Lee, E. J.
+Am. Chem. Soc. 2002, 124, 14655. (b) Anderl, T.; Nicolas, L.;
+Muenkemer, J.; Baro, A.; Sasse, F.; Steinmetz, H.; Jansen, R.; Hoefle,
+G.; Taylor, R. E.; Laschat, S. Angew. Chem., Int. Ed. 2011, 50, 942.
+
+2375
+
+DOI: 10.1021/acs.joc.5b00031
+J. Org. Chem. 2015, 80, 2364−2375
+
+

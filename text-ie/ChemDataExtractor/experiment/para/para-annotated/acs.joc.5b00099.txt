@@ -1,0 +1,986 @@
+Article
+
+pubs.acs.org/joc
+
+Hybrid [n]Arenes through Thermodynamically Driven
+Macrocyclization Reactions
+Tomasz Boinski, Artur Cieszkowski, Bartłomiej Rosa, and Agnieszka Szumna*
+Institute of Organic Chemistry, Polish Academy of Science, Kasprzaka 44/52, Warsaw 01-244, Poland
+
+*S Supporting Information
+
+ABSTRACT: Hybrid [n]arenes, the class of medium-sized
+macrocyclic compounds consisting of diﬀerent alkoxybenzene
+units, were obtained by a simple, one-pot, direct condensation
+of two diﬀerent alkoxybenzenes with formaldehyde catalyzed
+by a Brønsted acid (triﬂuoroacetic acid). We have shown that,
+under Brønsted acid catalysis, this reaction is reversible and
+therefore governed by the relative stability of the products.
+The main macrocyclic products are hybrid [n]arenes
+consisting of four alkoxybenzene units of [2 + 2] or [3 + 1]
+stoichiometry. However, an unusual [3 + 2] hybrid macrocycle
+was also obtained as a main product of the condensation
+between 1,4-dimethoxybenzene, 1,3,5-trimethoxybenzene, and
+formaldehyde. The stability of the hybrid products and the reversibility of the reaction were further conﬁrmed by a scrambling
+experiment,
+involving pillar[5]arene and per-O-methylated resorcin[4]arene. The scrambling experiment has given hybrid
+macrocycles in yields comparable with those obtained in condensation reactions. NMR spectra and X-ray structures of hybrid
+[n]arenes indicate that 1,2- and 1,3-dialkoxybenzene units are ﬂexible parts of macrocyclic rings. However,
+the 1,4-
+dialkoxybenzene units present considerable steric hindrance, resulting in the formation of
+isomers and inherently chiral
+macrocycles due to inhibited rotation. The recognition properties toward various organic cations were also determined. Highly
+selective recognition of the N-methylpyridinium cation was observed for the [3 + 2] hybrid macrocycle.
+
+for
+
+the milestones
+
+■ INTRODUCTION
+The discovery1−4 and realization of the potential5,6 of cyclic
+phenolic oligomeric compounds called calix[n]arenes was
+undoubtedly one of
+supramolecular
+chemistry. On the basis of their skeleton, many supramolecular
+functional architectures have been constructed.7−10 As it
+seemed the pool of basic macrocyclic skeletons was complete,
+surprisingly,
+in 2008, a new, very simple macrocylic
+polyphenolic building block was discovered. Ogoshi et al.
+presented the pillar[5]arene, a simple macrocylic product of the
+reaction between 1,4-dimethoxybenzene and formaldehyde.11
+More recently, Schneebeli et al. obtained the family of
+asar[n]arenes,12 and Chen et al. obtained biphen[n]arenes.13
+During a very short period of time, many groups reported
+numerous applications of these new macrocycles including
+sensing,14−17 construction of rotaxanes,18−20 supramolecular
+polymers,21−24 switches,25−27 or artiﬁcial channels.28 Such a
+great
+indicates that new semirigid supramolecular
+scaﬀolds having cavities that may serve as binding pockets are
+still sought after.
+
+interest
+
+Cyclic oligomers of phenols are commonly obtained by
+condensation between alkoxybenzenes or hydroxybenzenes
+with aldehydes. Calix[n]arenes and resorcin[4]arenes, featuring
+free OH groups, are readily prepared from the corresponding
+phenolic monomers by a condensation of
+the respective
+hydroxybenzenes with a large range of aldehydes using
+
+(cid:129) Et2O,29 SnCl4,30 or Sc(OTF)3
+
+Brønsted acid or Brønsted base catalysis. Other macrocycles,
+for example, cyclotricatechylenes or pillar[5]arenes, cannot be
+obtained directly from phenolic precursors. Instead, they have
+to be obtained through their O-alkylated derivatives by Lewis
+acid catalyzed condensation of alkoxybenzenes with aldehydes
+31,32). Brønsted acids
+(e.g., BF3
+can also be successfully used as catalysts for the formation of
+cyclic products from alkoxybenzenes and aldehydes as shown
+by the work of Moravcová and co-workers,33 Moore et al.,34 as
+well as Weinelt and Schneider.35 A strategy utilizing benzyl
+alcohols as surrogates of aldehyde functions has also been
+reported for synthesis of O-alkylated derivatives, for example,
+octamethoxyresorcin[4]arenes36 or phlouroglucinols,37 using
+triﬂuoroacetic acid (TFA) as a catalyst. Recently, we have also
+found out that pillar[5]arenes can be synthesized by a Brønsted
+acid mediated direct reaction of alkoxybenzene and form-
+aldehyde.38 The important ﬁnding was that the reaction is
+reversible under Brønsted acid catalysis (TFA in that case).
+Therefore, thermodynamic stability of the products is of crucial
+importance for the reaction outcome. In the case of deca-O-
+alkylpillar[5]arenes, solvent molecules (dichloromethane or
+1,2-dichloroethane but not CHCl3) eﬀectively template the
+synthesis of pillar[5]arenes by a combination of hydrogen···π
+
+Received:
+January 14, 2015
+Published: February 27, 2015
+
+© 2015 American Chemical Society
+
+3488
+
+DOI: 10.1021/acs.joc.5b00099
+J. Org. Chem. 2015, 80, 3488−3495
+
+The Journal of Organic Chemistry
+and halogen···π bonds. Other reports have also suggested that,
+under highly acidic conditions, the reaction of alkoxybenzenes
+with aldehydes is thermodynamically controlled.39 For example,
+Urbaniak and Iwanek have shown that octa-O-alkylresorcin-
+[4]arenes can be postsynthetically isomerized in the presence
+of TFA.40 It should be noted that these observations have only
+been applied to the synthesis of known macrocycles (also
+available by other condensation methods) and have not been
+used thus far for obtaining new macrocyclic scaﬀolds. In the
+current paper, we show that thermodynamically controlled
+reactions of various alkoxybenzenes with formaldehyde can be
+used for eﬀective formation of new hybrid macrocycles.
+
+■ RESULTS AND DISCUSSION
+<para sub=“opt”>
+Synthesis. In the current approach, we have combined two
+diﬀerent alkoxybenzenes (1−4, Figure 1) with formaldehyde in
+one-pot
+two diﬀerent
+polyalkoxybenzenes were mixed in 0.1 M/0.1 M ratio with an
+equimolar amount of paraformaldehyde (0.2 M) in TFA/
+chloroform (5−20% v/v). By applying this procedure, [2 + 2]
+hybrid macrocycles 5−9 and 13 were obtained as the main
+products in 26 ÷ 53% yields (Table 1 and Figure 2). It should
+</para>
+In a typical experiment,
+
+reactions.
+
+Figure 1. (a) Synthesis of hybrid macrocycles; (b) substrates used in
+macrocyclization reactions.
+Table 1. Synthesis of Macrocycles 5−12 Using Two
+Diﬀerent Substrates with Yields Given in Parentheses
+
+substrate
+1
+
+1
+
+10 (85%)
+
+2
+
+3a/3b
+
+aNo deﬁned products detected.
+
+2
+
+8 (40%)
+9 (47%)
+11 (85%)
+
+3a/3b
+
+−a
+
+(5 + 6) (53%)
+7 (26%)
+12 (85%)
+<para sub=“opt”>
+be noted that the current yields can be considered quite high
+for macrocyclization reactions. For comparison, asar[n]arenes12
+were obtained in yields up to 12%, and biphen[n]arenes13 were
+obtained in yields up to 22%.
+In the case of 1,3-
+dimethoxybenzene and 1,4-dihexoxybenzene, a mixture of two
+[2 + 2] products (5 and 6) was obtained in 53% total yield. The
+products proved to be diastereoisomers (for the structural
+explanation,
+initial
+approach concentrated on macrocycles having the same
+number of units of each type, in some cases, in addition to
+the expected [2 + 2] products, we observed formation of
+considerable amounts of less symmetrical macrocycles. In order
+to improve the yields of their formation, the stoichiometry of
+
+section). Although our
+
+see the next
+</para>
+Article
+
+Figure 2. Hybrid [n]arenes obtained by one-pot macrocyclization
+reactions.
+<para sub=“opt”>
+reagents was modiﬁed accordingly. In this way, the [3 + 1]
+macrocycle 9, consisting of three 1,3-dimethoxybenzene units
+and one 1,2-dimethoxybenzene, was obtained in 47% yield, and
+macrocycle 7 containing three 1,3-dimethoxybenzene units and
+one 1,4-dihexoxybenzene unit was obtained in 26% yield.
+Interestingly, an unusual [3 + 2] stoichiometry was observed
+for the condensation of 1,3,5-trialkoxybenzene 4 and 1,4-
+dimethoxybenzene 3a yielding macrocycle 13 as a main
+product (35% yield). It should also be noted that nonhybrid
+macrocyclic products, containing only one type of alkoxyben-
+zene unit, like knowns 10, 11, and 12, are also obtained in high
+yields (85%) using this procedure.
+</para>
+<para sub="scope">
+The synthetic approach described assumes that the macro-
+cyclization reaction is reversible under the current conditions
+and the hybrid products are thermodynamically preferred. To
+prove the reversibility of the reaction, we performed a control
+</para>
+3489
+
+DOI: 10.1021/acs.joc.5b00099
+J. Org. Chem. 2015, 80, 3488−3495
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 3. Scrambling experiment.
+
+it
+<para sub="scope">
+“scrambling” experiment (Figure 3). Two macrocyclic products,
+pillar[5]arene (15) and methoxyresorcin[4]arene (11), were
+used as substrates. In the presence of TFA and formaldehyde,
+the reaction between 11 and 15 yielded the hybrid
+diastereoisomeric products 5 and 6 in 53% yield (isolated
+product), while the initial macrocycles were completely used
+up. This result proves that the reaction is reversible and the
+distribution of the products is thermodynamically controlled.
+is the ﬁrst example of scrambling between
+Moreover,
+1H NMR
+alkoxybenzene-type macrocycles. Additionally,
+spectra of the crude reaction mixtures (containing all products)
+in the diagnostic ranges (7−5.8 ppm,
+range of aromatic
+protons; 4.40−3.40 range of methylene and alkoxy protons) are
+highly similar (Figure S36, Supporting Information). It
+is
+important to note that addition of a portion of formaldehyde is
+required for the scrambling reaction to proceed. This result
+indicates that the presence of a suitable amount of “free”
+formaldehyde is crucial for the eﬀective equilibration of the ﬁrst
+step of the reversible Friedel−Crafts reaction. Therefore, it may
+be supposed that, under the current conditions, equilibration is
+reasonably fast only at the early stages of the macrocyclization
+reaction. However, after the free formaldehyde is used up,
+equilibration may be too slow to be eﬀective.
+</para>
+substrates
+<para sub="scope">
+The wide range of substrates successfully converted into
+macrocycles shows that the current conditions are applicable
+for obtaining various O-alkylated hybrid [n]arenes in a direct
+way. We have also tested if the current procedure can be
+applied for
+featuring free OH groups. Such
+macrocycles are highly desirable, since they can be readily
+functionalized. The reactions of 1,2-, 1,3- or 1,4-dihydrox-
+ybenzene or phlorogluocinol with formaldehyde under our
+standard conditions (CHCl3, TFA) or under
+literature
+conditions (MeOH/H2O/HCl) failed to give macrocyclic
+products. These results show that hybrid macrocycles featuring
+free OH groups cannot be synthesized directly but only via the
+respective alkoxy derivatives.
+</para>
+<para sub=“props”>
+Conformational Features. The hybrid approach can be a
+powerful method for obtaining macrocycles with modulated
+shapes.41−46 In the current case, the macrocyclic rings obtained
+by the hybrid approach have medium sizes (14÷23-membered
+rings). Such rings exhibit various degrees of ﬂexibility resulting
+in diverse conformational and even conﬁgurational features. A
+spectacular manifestation of inhibited ring rotation is observed
+in the case of macrocyles 5 and 6 that were synthesized in the
+reaction between 2, 3a, and formaldehyde. The isomers were
+chromatographically separated (1:2 ratio) and analyzed by
+NMR and X-ray crystallography. Isomers 5 and 6 proved to
+have the same number of signals in the NMR spectra in
+
+agreement with either D2 or C2h symmetry. Considering the
+size of the macrocyclic ring (18-membered) and its relative
+rigidity, we assumed that the observed isomerism comes from
+inhibited rotation of 1,4-dialkoxy units through the macrocyclic
+ring (Figure 4a).
+</para>
+<para sub=“props”>
+Our hypothesis was conﬁrmed through analysis of splitting in
+1H NMR spectra and X-ray crystallography. Two separate
+signals were observed for hydrogen atoms of methylene bridges
+with characteristic geminal coupling constants (Figures S1 and
+S4, Supporting Information). X-ray analyses indicate that, for
+both 5 and 6, 1,3-dialkoxy units (green, Figure 4b, c) are
+coplanar and parallel to the main macrocyclic plane (deﬁned by
+four methylene bridges), while 1,4-dialkoxy units (blue, Figure
+4b, c) are perpendicular to the main macrocyclic planes. Van
+der Waals representation of molecules of 5 and 6 shows that
+there is almost no room inside the macrocyclic rings of 5 and 6
+(Figure 4b). Even assuming that 1,3-dialkoxy units can rotate
+out of the plane of the macroring, the short distance between
+1,4-dialkoxy units (5.0 Å) ﬁxes their relative positions. The
+stability of the isomers has been experimentally conﬁrmed by
+their successful chromatographic separation and the fact that
+they do not interconvert in CDCl3 solution even after a few
+weeks. It is also interesting to note that 5, which has D2
+symmetry,
+inherently chiral (although currently only
+obtained as a mixture of enantiomers).
+</para>
+
+<para sub=“props”>
+For 7, the presence of only a single 1,4-dialkoxybenzene unit
+(Figure 5) results in a partially averaged geometry (as seen in
+the NMR spectra, Figure S6, Supporting Information).
+Hydrogen atoms of the methylene bridges positioned next to
+1,4-dihexoxybenzene are diﬀerentiated and exhibit a geminal
+coupling (J = 15.9 Hz). On the other hand, signals of
+methylene hydrogen atoms that are positioned between 1,3-
+dimethoxybenzene units appear as a singlet in the 1H NMR
+spectrum. The X-ray structure of 7 shows a distorted “boat”
+conformation of
+the macrocyclic ring (Figure 5b). The
+molecule of 7, even in the idealized boat conformation,
+is
+devoid of symmetry elements, rendering all methylene protons
+diastereotopic. Thus, averaging of some signals of methylene
+protons can be explained by fast ﬂipping of 1,3-dimethox-
+ybenzene units. However, the splitting of the signals of the two
+other methylene groups units at room temperature indicates a
+lack of rotation and suggests chirality of 7.
+</para>
+<para sub=“props”>
+For the compounds that do not contain 1,4-dialkoxybenzene
+units, for example, 8 and 9 (Figure 3), the ﬂexibility of the
+macrocyclic rings is much higher. In the case of 8 and 9, their
+1H and 13C NMR spectra contain a reduced number of signals,
+and the methylene bridges appear as singlets (for 9) or as a
+broad singlet (for 8) (Figures S11−S13, S15, and S16,
+</para>
+3490
+
+DOI: 10.1021/acs.joc.5b00099
+J. Org. Chem. 2015, 80, 3488−3495
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 5. (a) Conformational features of 7; (b) X-ray structure of 7.
+
+Figure 6. X-ray structures of (a) 8 and (b) 9 (green: 1,3-
+dimethoxybenzene units; gray: 1,2-dimethoxybenzene units).
+
+distances of 3.7, 3.6, and 3.7 Å. A short C−H···N intra-
+molecular distance is also observed between N (MeCN) and
+the OCH3 group of the symmetry-related molecule (N···C 3.2
+Å).
+
+features of
+<para sub=“props”>
+Summing up the conformational
+
+the new
+macrocycles, it can be noticed that 1,2- and 1,3-dialkoxy units
+can easily ﬂip even across relatively small macrocyclic rings.
+However, the 1,4-dialkoxy unit presents considerable steric
+hindrance. For some macrocyclic rings, rotation of this unit is
+not possible. Therefore, formation of various isomers can be
+observed, and symmetry features of this unit may even generate
+inherent chirality of the macrocycles.
+</para>
+
+Recognition Properties. The recognition properties of the
+synthesized macrocycles were tested using guests 16−19
+containing imidazolium- and pyridinium-type ions (Figure 8).
+The guest molecules were chosen using the criterion of
+importance (based on the extensive presence of imidazolium
+and pyridinium fragments in bioactive substances and in
+structural motifs of mechanically bound molecules) and
+
+3491
+
+DOI: 10.1021/acs.joc.5b00099
+J. Org. Chem. 2015, 80, 3488−3495
+
+Figure 4. (a) Conformational features of 5 and 6; (b) van der Waals
+representations of macrocyclic rings of 5 and 6 (X-ray structures;
+atoms of n-hexyl groups were removed for clarity); (c) X-ray structures
+of 5 and 6 in stick representations (green: 1,3-dimethoxybenzene
+units; blue: 1,4-dihexoxybenzene units).
+<para sub=“props”>
+Supporting Information). The X-ray structures indicate that
+both macrocyclic rings exhibit boat conformations in the solid
+state (Figure 6). Analysis of the ring distances suggests that a
+full rotation of any of the aromatic rings through the macroring
+is not possible. However, partial ﬂipping of all aromatic rings is
+probable, resulting in averaging of the NMR signals. Similar
+dynamic behavior was also observed for [3 + 2] macrocycle 13
+being the largest macrocycle obtained. In this case, all signals
+for protons of the methylene bridges are singlets (Figure S18,
+Supporting Information). The halving of the number of signals
+(1/2) is in agreement with dynamically averaged C2v symmetry.
+</para>
+<para sub=“props”>
+The X-ray structure of 13 shows the presence of a molecular
+cavity that is ﬁlled with a solvent guest molecule (MeCN in this
+case, Figure 7). The mode of interaction between the host and
+the guest is typical for electron-rich cavitands and involves
+complexation of hydrophobic CH3 groups inside the aromatic
+cavity. Three out of ﬁve neighboring aromatic rings form a
+···centroidring
+</para>
+pocket
+
+for guest binding with short CMeCN
+
+The Journal of Organic Chemistry
+
+Article
+detectable interaction with guests 16−18 was observed. On the
+other hand, 13 interacts selectively with N-methylpyridinium
+iodide 19 (Figure 9). N-Methylpyridinium iodide 19 has a very
+
+Figure 7. X-ray structure of 13 with MeCN inside the cavity (blue:
+1,4-dimethoxybenzene units; gold: 1,3,5-trimethoxybenzene units;
+MeCN in van der Waals representation).
+
+Figure 8. Guest molecules.
+
+favorable noncovalent
+interactions between electron-rich
+alkoxybenzene walls of the host molecules with guests being
+organic cations.
+<para sub=“props”>
+Association constants were determined by 1H NMR titration
+followed by nonlinear curve ﬁtting as
+implemented in
+HYPNMR.47 All signals that exhibited detectable changes of
+chemical shifts were ﬁtted simultaneously. The reasonable ﬁts
+have only been obtained by assuming formation of 1:1 and 1:2
+(H/G) complexes. The results indicate that,
+in all cases,
+macrocycles 5−9 exhibited high binding constants of positively
+charged organic ions (Table 2), albeit with low selectivity. A
+notable exception is the largest macrocycle 13. For 13, no
+</para>
+Table 2. Association Constants between Hosts (5−9) and
+Guests (16−18)a
+
+
+5
+
+6
+
+7
+
+8
+
+9
+
+host
+
+logβ
+logβ
+logβ
+logβ
+logβ
+logβ
+logβ
+logβ
+logβ
+logβ
+
+1
+
+2
+
+1
+
+2
+
+1
+
+2
+
+1
+
+2
+
+1
+
+2
+
+an.d.: not detectable.
+
+16
+2.48
+4.95
+2.60
+4.79
+2.56
+5.02
+1.82
+n.d.
+2.33
+4.62
+
+guest
+
+17
+2.78
+5.58
+2.92
+5.59
+2.76
+4.92
+1.73
+n.d.
+2.67
+4.73
+
+18
+2.44
+4.70
+2.29
+4.69
+2.27
+4.66
+n.d.
+n.d.
+n.d.
+n.d.
+
+Figure 9. Complexation of 19 by 13. 1H NMR spectra of (a) 13, (b)
+saturated solution of 19, (c) 13 + 19 (0.25 equiv), (d) 13 + 19 (0.5
+equiv), (e) 13 + 19 (0.75 equiv), (f) 13 + 19 (1 equiv), (g) 13 + 19
+(excess) in CDCl3 at 298 K.
+<para sub=“props”>
+limited solubility in CDCl3. However, upon gradual addition of
+19 to the solution of macrocycle 13, dissolution up to 1 equiv
+of guest 19 was observed, and substantial changes in the 1H
+NMR spectra were recorded. Upon further addition of 19, the
+excess amount of guest remained undissolved. Analysis of
+complexation induced shifts indicated that
+the signals of
+hydrogen atoms positioned ortho to the nitrogen atom were
+substantially upﬁeld shifted (>−2.8 ppm) in agreement with
+deep inclusion of this part in the aromatic cavity (Figure S51,
+Supporting Information). On the contrary,
+the signals of
+hydrogen atoms positioned para were only slightly aﬀected by
+complexation indicating that this part of the molecule is not
+surrounded by the aromatic walls. Considerable changes were
+also observed for the signals of the macrocycle, suggesting a
+conformational change upon complexation.
+</para>
+■ CONCLUSIONS
+
+It
+is commonly perceived that even simple macrocyclic
+products can present a considerable synthetic challenge due
+to the numerous complications in their synthesis and often low
+cyclization yields. Therefore, the number of easy-to-prepare
+macrocyclic scaﬀolds is quite limited. On the other hand, there
+is a continuing need for new semirigid macrocyclic compounds
+for the construction of new supramolecular systems. In this
+paper, we have shown that construction of new cyclic phenolic
+oligomers can be eﬀectively achieved by a hybrid approach. It
+
+3492
+
+DOI: 10.1021/acs.joc.5b00099
+J. Org. Chem. 2015, 80, 3488−3495
+
+The Journal of Organic Chemistry
+
+would seem that such an approach has much less chance of
+success than the synthesis macrocycles consisting of identical
+units. However, we have proven that, by using thermodynami-
+cally driven acid-catalyzed condensations,
+it can be very
+eﬀective. The obtained products extend the pool of relatively
+easy available macrocycles for various applications in supra-
+molecular chemistry. We predict that the rich chemistry of the
+phenolic group,
+including O-substitution, allows for easy
+functionalization of the currently obtained skeletons for their
+further modiﬁcations. Presence of two diﬀerent types of units in
+one macrocycle allows for potential applications as “biased”
+supramolecular structures,48,49 and diﬀerentiation of reactivity
+enables
+selective introduction of orthogonal or multiple
+functions.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Procedures. Procedure A. To a solution of polyalkox-
+ybenzene A (10 mmol) in CHCl3 (50 mL), paraformaldehyde (10
+mmol) and TFA (5 mL) were added. The reaction was reﬂuxed for 2
+h. During the reaction, the color of the mixture changed from colorless
+to dark purple, dark blue, or dark green (depending on a speciﬁc
+substrate). The reaction was cooled down to room temperature (rt),
+and excess of Na2CO3 was added to neutralize the TFA. The mixture
+was ﬁltered oﬀ and evaporated to dryness. The products were isolated
+by chromatography (30 g of silica gel, CHCl3/ethyl acetate or hexane).
+Procedure B. To a solution of polyalkoxybenzene A (5 mmol) and
+B (5 mmol) in CHCl3 (50 mL), paraformaldehyde (10 mmol) and
+TFA (5 or 20 mL) were added. The reaction was reﬂuxed (2 h to 4
+days), and the progress was monitored by thin-layer chromatography
+(TLC). During the reaction, the color of the mixture changed from
+colorless to dark purple, dark blue, or dark green (depending on a
+speciﬁc set of substrates and conditions). The reaction was cooled
+down to rt, and an excess of Na2CO3 was added to neutralize the TFA.
+The mixture was ﬁltered oﬀ and evaporated to dryness. The products
+were isolated by chromatography (50−200 g of silica gel, CHCl3/ethyl
+acetate or hexane). After chromatography, some products were
+recrystallized from acetone or MeCN.
+
+Procedure C. To a solution of polyalkoxybenzene A (7.5 mmol)
+and B (2.5 mmol) in CHCl3 (50 mL), paraformaldehyde (10 mmol)
+and TFA (2.5 or 10 mL) were added. The reaction was reﬂuxed (2 h
+to 4 days), and the progress was monitored by TLC. During the
+reaction, the color changed from colorless to dark purple, dark blue, or
+dark green (depending on speciﬁc substrates). The reaction was
+cooled down to rt, and an excess of Na2CO3 was added to neutralize
+the TFA. The mixture was ﬁltered oﬀ and evaporated to dryness. The
+products were isolated by chromatography (silica gel, CHCl3/ethyl
+acetate or hexane). After chromatography, some products were
+recrystallized from acetone or MeCN.
+
+Scrambling Procedure. To a solution of per-hexoxypillar[5]arene
+15, (0.584 g, 0.4 mmol) and per-methoxylresorcin[4]arene 11 (0.300
+g, 0.5 mmol) in CHCl3 (50 mL) and TFA (10 mL), paraformaldehyde
+(20 mg) was added. The reaction was reﬂuxed for 1 day, and the
+progress was monitored by TLC and NMR. During the reaction, the
+color changed from colorless to dark purple. After 1 day, the reaction
+was cooled down to rt, and an excess of Na2CO3 was added to
+neutralize the TFA. The mixture was ﬁltered oﬀ and evaporated to
+dryness. The products (5 and 6) were isolated by chromatography as a
+mixture of diastereoisomers (silica gel, ﬁrst hexane/CHCl3 1:1, next
+gradient CHCl3
+
+−CHCl3/ethyl acetate 100:1). Yield: 42%, 0.371 g.
+
+Compounds 5 and 6: Obtained from 3b (0.69 g) and 2 (1.39 g) by
+procedure B (5 mL of TFA; 2 h). Puriﬁed by chromatography (200 g
+−
+of silica gel; eluent: ﬁrst, hexane/CHCl3 1:1, next gradient, CHCl3
+CHCl3/ethyl acetate (100:1)). Yields: 5: 0.39 g (36%); 6: 0.78 g
+(17%).
+
+Compound 5: 1H NMR (400 MHz, CDCl3-d): 6.52 (4H, s); 6.49
+(2H, s); 6.03 (2H, s); 6.15 (4H, d, J = 16 Hz); 3.91 (12H, s); 3.74
+(4H, q); 3.50 (4H, q); 3.43 (4H, d, J = 16 Hz); 1.48 (24H, m); 0.84
+(6H, t). 13C NMR (100 MHz, CDCl3-d): 155.5; 151.5; 127.4; 127.2;
+
+Article
+
+121.2; 116.6; 94.3; 69.4; 55.7; 31.5; 29.7; 29.4; 28.9; 25.6; 22.6; 14.0.
+ESI q-TOF MS: C56H81O8 calcd.: 881.5931, found: 881.5940.
+
+Compound 6: 1H NMR (400 MHz, CDCl3-d): 6.54 (4H, s);
+6.51(2H, s); 6.02 (2H, s); 4.13 (4H, d, J = 15.9 Hz); 3.91 (12H, s);
+3.71 (4H, q); 3.46 (8H, m); 1.48 (8H, m); 1.18 (24H, m); 0.84 (12H,
+t). 13C NMR (100 MHz, CDCl3-d): 155.5; 151.6; 127.4; 127.0; 121.2;
+116.5; 94.2; 69.4; 55.7; 31.7; 29.6; 28.8; 25.6; 22.6; 14.0. ESI q-TOF
+MS: C56H81O8 calcd.: 881.5931, found: 881.5928.
+
+Compound 7: Obtained from 2 (1.02 g) and 3b (compound B,
+0.696 g) by procedure B (5 mL of TFA; 2 h). Puriﬁed by
+chromatography (200 g of silica gel; eluent: ﬁrst, hexane/CHCl3 1:1,
+−CHCl3/ethyl acetate (100:2)). Yield: 0.57 g
+next gradient CHCl3
+(26%). 1H NMR (500 MHz, CDCl3-d): 6.76 (1H, s); 6.51 (2H, s);
+6.50 (2H, s); 6.40 (1H, s); 6.00 (2H, s); 4.17 (2H, d, J = 15.9 Hz);
+3.914 (6H, s); 3.906 (6H, s); 3.71 (6H, m); 3.70 (6H, s); 3.52 (2H,
+m); 3.44 (2H, d J = 15.9 Hz); 1.52 (4H, m); 1.23 (12H, m); 0.86 (6H,
+m). 13C NMR (125 MHz, CDCl3-d): 157.6; 155.4; 151.3; 134.4;
+127.8; 127.6; 121.8; 121.7; 120.3; 116.4; 96.5; 94.8; 69.2; 56.0; 55.9;
+55.8; 31.6; 29.5; 29.1; 28.2; 25.6; 22.6; 14.0. ESI q-TOF MS:
+C46H60O8Na calcd.: 763.4183, found: 763.4183.
+
+Compound 8: Obtained from 1,3-dimethoxybenzene (compound A,
+1.02 g) and 1,2-dimethoxybenzene (compound B, 0.34 g) by
+procedure B (20 mL of TFA; 2 h; 50 g of silica gel; eluent: gradient
+−CHCl3/ethyl acetate (100:3)). Yield: 0.544 g (40%). 1H
+CHCl3
+NMR (400 MHz, CDCl3): 6.57 (4H, s); 5.99 (2H, s); 5.34 (2H, s);
+3.78 (12H, s); 3.73 (12H, s). 1H NMR (400 MHz, CDCl3-d, 233 K):
+6.57 (4H, s); 5.99 (2H, s); 5.34 (2H, s); 3.89 (4H, d, J = 15.5 Hz);
+3.78 (12H, s); 3.73 (12H, s); 3.30 (4H, d, J = 15.5 Hz). 13C NMR
+(100 MHz, CDCl3, 233 K): 154.6; 147.3; 131.4; 130.50; 130.47;
+120.09; 115.60; 115.58; 93.1; 56.3; 55.3; 31.2. ESI q-TOF MS:
+C36H41O8 calcd.: 601.2801, found: 601.2809.
+
+Compound 9: Obtained from 1,3-dimethoxybenzene (compound A,
+1.02 g) and 1,2-dimethoxybenzene (compound B, 0.34 g) by
+procedure C (20 mL of TFA; 2 h; 50 g of silica gel; eluent: gradient
+−CHCl3/ethyl acetate (100:3)). Yield: 0.64 g (47%). 1H NMR
+CHCl3
+(400 MHz, CDCl3-d): 6.47 (2H, s); 6.30 (2H, s); 6.37 (1H, s); 6.34
+(1H, s); 5.75 (2H, s); 3.87 (6H, s); 3.81 (6H, s); 3.79 (4H, s); 3.74
+(6H, s); 3.72 (6H, s); 3.69 (4H, s). 13C NMR (100 MHz, CDCl3-d):
+157.0; 155.8; 155.7; 146.9; 133.5; 131.0; 129.8; 121.6; 120.3; 113.6;
+95.3; 94.2; 55.71; 55.65; 29.9; 26.8. ESI q-TOF MS: C36H40O8Na
+calcd.: 623.2608, found: 623.2621.
+
+Compound 10 (CTV): Obtained from 1,2-dimethoxybenzene (1.38
+g, 10 mmol) by procedure A (30 g of silica gel, eluent: CHCl3/ethyl
+acetate (100:2)). Yield: 1.28 g (80%). NMR and MS spectra are in
+agreement with literature data.26
+
+Compound 11 (per-methoxyresorcin[4]arene): Obtained from 1,3-
+dimethoxybenzene (1.38 g, 10 mmol) by procedure A (30 g of silica
+gel, eluent: CHCl3/ethyl acetate (100:2)). Yield: 1.28 g (80%). NMR
+and MS spectra are in agreement with literature data.26
+
+Compound 12 (per-methoxypillar[5]arene): Obtained from 1,4-
+dimethoxybenzene (1.38 g, 10 mmol) by procedure A (30 g of silica
+−CHCl3/MeOH (100:2)). Yield: 1.20 g
+gel, eluent: gradient CHCl3
+(80%). NMR and MS spectra are in agreement with literature data.26
+Compound 13: To a solution of 1,4-dimethoxybenzene (0.828 g, 6
+mmol) and 1,3,5-trimethoxybenzene (0.672 g, 4 mmol) in CHCl3 (50
+mL), paraformaldehyde (0.300 g, 10 mmol) and TFA (10 mL) were
+added. The reaction was reﬂuxed for 3 days, and the progress was
+monitored by TLC (CHCl3/ethyl acetate 100:5). During the reaction,
+the color changed from colorless to dark purple. The reaction was
+cooled down to rt, and an excess of Na2CO3 was added to neutralize
+the TFA. The mixture was ﬁltered oﬀ and evaporated to dryness. The
+products were isolated by chromatography (75 g of silica gel, eluent:
+−CHCl3/ethyl acetate (100:6)). After chromatogra-
+gradient CHCl3
+phy, the product was recrystallized from MeCN to obtain 13 as white
+crystals. Yield: 0.567 g, 3.5 mmol (35%). 1H NMR (400 MHz,
+CDCl3): 6.89 (2H, s); 6.36 (2H, s); 6.29 (2H, s); 6.16 (2H, s); 3.90
+(4H, s); 3.89 (6H, s); 3.79 (6H, s); 3.71 (6H, s); 3.70 (4 + 2H, s);
+3.49 (6H, s); 3.39 (6H, s); 2.90 (6H, s). 13C NMR (100 MHz,
+CDCl3): 158.8; 157.3; 156.9; 151.5; 151.3; 150.2; 129.1; 127.7; 126.8;
+116.3; 115.0; 113.6; 111.7; 91.7; 61.0; 56.7; 55.8; 55.5; 55.1; 32.3;
+</para>
+3493
+
+DOI: 10.1021/acs.joc.5b00099
+J. Org. Chem. 2015, 80, 3488−3495
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+22.7; 21.2. ESI q-TOF MS: C47H58NO12 calcd.: 828.3959, found:
+828.3962.
+
+Compound 14: Obtained from 1,3,5-trimethoxybenzene (1.68 g) by
+procedure A (30 g of silica gel, eluent: CH2Cl2). Yield: 1.428 g (80%).
+NMR and MS spectra are in agreement with literature data.29
+Crystallographic Part. CCDC 1024332−1024337 contain the
+supplementary crystallographic data for this paper. These data can be
+obtained free of charge from the Cambridge Crystallographic Data
+Centre via www.ccdc.cam.ac.uk/data_request/cif.
+Crystal Data for 5. C56H80O8, M = 881.20, 0.33 × 0.17 × 0.07
+mm3,
+triclinic, space group P-1 (No. 2), a = 8.7786(3), b =
+13.1685(4), c = 23.0265(7) Å, α = 78.201(2), β = 88.483(2), γ =
+81.806(2)°, V = 2579.03(14) Å3, Z = 2, Dc = 1.135 g/cm3, F000 = 960,
+max = 133.2°, 20176
+CuKα radiation, λ = 1.54178 Å, T = 173(2)K, 2θ
+reﬂections collected, 8776 unique (Rint = 0.0418). Final GooF = 1.036,
+R1 = 0.0525, wR2 = 0.1415, R indices based on 6307 reﬂections with I
+>2sigma(I) (reﬁnement on F2), 586 parameters, 0 restraints. Lp and
+absorption corrections applied, μ = 0.583 mm−1.
+
+Crystal Data for 6. C56H76O8, M = 877.17, 0.37 × 0.32 × 0.23
+mm3, monoclinic, space group C2/c (no. 15), a = 25.712(5), b =
+23.741(5), c = 16.888(3) Å, α = β = γ = 90.00(3)°, V = 10309(4) Å3, Z
+= 8, Dc = 1.130 g/cm3, F000 = 3808, Cu Kα radiation, λ = 1.54178 Å, T
+max = 135.5°, 32 442 reﬂections collected, 8827 unique
+= 173(2) K, 2θ
+(Rint = 0.0334). Final GooF = 1.090, R1 = 0.1173, wR2 = 0.3285, R
+indices based on 7306 reﬂections with I > 2σ(I) (reﬁnement on F2),
+577 parameters, 19 restraints. Lp and absorption corrections applied, μ
+= 0.583 mm−1.
+Crystal Data for 7. C92.54H120.54Cl1.63O16, M = 1546.63, 0.36 × 0.35
+× 0.33 mm3, orthorhombic, space group P212121 (no. 19), a =
+15.0680(4), b = 23.3472(6), c = 24.7931(6), V = 8722.1(4) Å3, Z = 4,
+Dc = 1.176 g/cm3, F000 = 3317, Cu Kα radiation, λ = 1.54178 Å, T =
+max = 131.9°, 44 842 reﬂections collected, 14 544 unique
+173(2) K, 2θ
+(Rint = 0.0340). Final GooF = 1.030, R1 = 0.1021, wR2 = 0.2677, R
+indices based on 12 528 reﬂections with I > 2σ(I) (reﬁnement on F2),
+1082 parameters, 97 restraints. Lp and absorption corrections applied,
+μ = 1.070 mm−1.
+Crystal Data for 8. C72H80N0O16, M = 1201.36, 0.25 × 0.25 × 0.07
+mm3, monoclinic, space group P21/c (no. 14), a = 8.5228(2), b =
+33.0695(8), c = 11.6141(3) Å, β = 108.023(3)°, V = 3112.76(13) Å3,
+Z = 2, Dc = 1.282 g/cm3, F000 = 1280, Cu Kα radiation, λ = 1.5418 Å,
+max = 138.9°, 11 621 reﬂections collected, 5746
+T = 100.01(10) K, 2θ
+unique (Rint = 0.0368). Final GooF = 1.164, R1 = 0.0790, wR2 =
+0.1994, R indices based on 5096 reﬂections with I >2σ(I) (reﬁnement
+on F2), 405 parameters, 0 restraints. Lp and absorption corrections
+applied, μ = 0.732 mm−1.
+
+Crystal Data for 9. C36H40O8, M = 600.68, 0.636 × 0.403 × 0.254
+mm3, monoclinic, space group P21/n (no. 14), a = 8.72160(10), b =
+22.4584(4), c = 15.5439(3) Å, β = 100.1410(10)°, V = 2997.07(9) Å3,
+Z = 4, Dc = 1.331 g/cm3, F000 = 1280, Cu Kα radiation, λ = 1.54178 Å,
+max = 135.3°, 28 780 reﬂections collected, 5358
+T = 100(2) K, 2θ
+unique (Rint = 0.0289). Final GooF = 1.076, R1 = 0.0359, wR2 =
+0.0873, R indices based on 5299 reﬂections with I >2σ(I) (reﬁnement
+on F2), 405 parameters, 0 restraints. Lp and absorption corrections
+applied, μ = 0.760 mm−1.
+Crystal Data for 13. C49H57NO12, M = 851.96, 0.12 × 0.12 × 0.07
+mm3,
+triclinic, space group P-1 (no. 2), a = 11.6028(2), b =
+13.7155(2), c = 15.4868(3) Å, α = 74.8980(10), β = 72.6060(10), γ =
+70.8830(10)°, V = 2185.69(7) Å3, Z = 2, Dc = 1.295 g/cm3, F000 = 908,
+max = 133.2°, 25 445
+Cu Kα radiation, λ = 1.54178 Å, T = 100(2) K, 2θ
+reﬂections collected, 7606 unique (Rint = 0.0293). Final GooF = 1.016,
+R1 = 0.0385, wR2 = 0.0997, R indices based on 7429 reﬂections with I
+>2σ(I) (reﬁnement on F2), 572 parameters, 0 restraints. Lp and
+absorption corrections applied, μ = 0.756 mm−1.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+NMR spectra of all new macrocylic products (including two-
+dimensional spectra), ESI-MS spectra, details of the scrambling
+experiments, titration results, curve ﬁtting with all parameters
+
+retrieved, and CIF ﬁles for the crystal structures. This material
+is available free of charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: agnieszka.szumna@icho.edu.pl.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was supported by National Science Center (grant
+UMO-2013/09/N/ST5/00907).
+
+■ REFERENCES
+(1) Bayer, A. Ber. Dtsch. Chem. Ges. 1872, 5, 25−26.
+(2) Zinke, A.; Ziegler, E. Chem. Ber. 1944, 77, 264−272.
+(3) Cornforth, J. W.; D’Arcy Hart, P.; Nicholls, G. A.; Rees, R. J. W.;
+Stock, J. A. Br. J. Pharmacol. 1955, 10, 73−86.
+(4) Hayes, B. T.; Hunter, R. F. J. Appl. Chem. 1958, 8, 743−748.
+(5) Gutsche, C. D.; Dhawan, B.; No, K. H.; Muthukrishnan, R. J. Am.
+Chem. Soc. 1981, 103, 3782−3792.
+(6) Gutsche, C. D.; Muthukrishnan, R. J. Org. Chem. 1978, 43, 4905−
+4906.
+(7) Berryman, O. B.; Sather, A. C.; Rebek, J., Jr. Org. Lett. 2011, 13,
+5232−5235.
+(8) Pasquale, S.; Sattin, S.; Escudero-Adán, E. C.; Martínez-
+Belmonte, M.; de Mendoza, J. Nat. Commun. 2012, 3, 785.
+(9) Atwood, J. L.; Barbour, L. J.; Jerga, A. Science 2002, 296, 2367−
+2369.
+(10) Restorp, P.; Rebek, J., Jr. J. Am. Chem. Soc. 2008, 130, 11850−
+11851.
+(11) Ogoshi, T.; Kanai, S.; Fujunami, S.; Yamagishi, T.; Nakamoto, Y.
+J. Am. Chem. Soc. 2008, 130, 5022−5023.
+(12) Schneebeli, S. T.; Cheng, C.; Hartlieb, K. J.; Strutt, N. L.;
+Sarjeant, A. A.; Stern, Ch. L.; Stoddart, J. F. Chem.Eur. J. 2013, 19,
+3860−3868.
+(13) Chen, H.; Fan, J.; Hu, X.; Ma, J.; Wang, S.; Li, J.; Yu, Y.; Jia, X.;
+Li, C. Chem. Sci. 2015, 6, 197−202.
+(14) Kou, Y.; Tao, H.; Cao, D.; Fu, Z.; Schollmeyer, D.; Meier, H.
+Eur. J. Org. Chem. 2010, 6464−6470.
+(15) Zhang, Z. B.; Xia, B. Y.; Han, C. Y.; Yu, Y. H.; Huang, F. H. Org.
+Lett. 2010, 12, 3285−3287.
+(16) Strutt, N. L.; Forgan, R. S.; Spruell, J. M.; Botros, Y. Y.;
+Stoddart, J. F. J. Am. Chem. Soc. 2011, 133, 5668−5671.
+(17) Li, C. J.; Xu, Q. Q.; Li, J.; Yao, F. N.; Jia, X. S. Org. Biomol.
+Chem. 2010, 8, 1568−1576.
+(18) Li, C. J.; Zhao, L.; Li, J. A.; Ding, X.; Chen, S. H.; Zhang, Q. L.;
+Yu, Y. H.; Jia, X. S. Chem. Commun. 2010, 46, 9016−9018.
+(19) Ogoshi, T.; Nishida, Y.; Yamagishi, T.; Nakamoto, Y.
+Macromolecules 2010, 43, 3145−3147.
+(20) Hu, X. B.; Chen, L.; Si, W.; Yu, Y.; Hou, J. L. Chem. Commun.
+2011, 47, 4694−4696.
+(21) Zhang, Z. B.; Luo, Y.; Chen, J. Z.; Dong, S. Y.; Yu, Y. H.; Ma, Z.;
+Huang, F. H. Angew. Chem., Int. Ed. 2011, 50, 1397−1401.
+(22) Strutt, N. L.; Zhang, H.; Giesener, M. A.; Lei, J.; Stoddart, J. F.
+Chem. Commun. 2012, 48, 1647−1649.
+(23) Ogoshi, T.; Shiga, R.; Yamagishi, T. J. Am. Chem. Soc. 2012, 134,
+4577−4580.
+(24) Si, W.; Hu, X. B.; Liu, X. H.; Fan, R. H.; Chen, Z. X.; Weng, L.
+H.; Hou, J. L. Tetrahedron Lett. 2011, 52, 2484−2487.
+(25) Zhang, H.; Strutt, N. L.; Stoll, R. S.; Li, H.; Zhu, Z.; Stoddart, J.
+F. Chem. Commun. 2011, 47, 11420−11422.
+(26) Yu, G.; Han, C.; Zhang, Z.; Chen, J.; Yan, X.; Zheng, B.; Liu, S.;
+Huang, F. J. Am. Chem. Soc. 2012, 134, 8711−8717.
+(27) Ogoshi, T.; Yamafuji, D.; Aoki, T.; Yamagishi, T. J. Org. Chem.
+2011, 76, 9497−9503.
+
+3494
+
+DOI: 10.1021/acs.joc.5b00099
+J. Org. Chem. 2015, 80, 3488−3495
+
+Article
+
+The Journal of Organic Chemistry
+
+(28) Si, W.; Chen, L.; Hu, X.; Tang, G.; Chen, Z.; Hou, J.; Li, Z.
+Angew. Chem., Int. Ed. 2011, 50, 12564−12568.
+(29) Ogoshi, T.; Kitajima, K.; Umeda, K.; Hiramitsu, S.; Kanai, S.;
+Fujinami, S.; Yamagishi, T.; Nakamoto, Y. Tetrahedron 2009, 51,
+10644−10649.
+(30) (a) Iwanek, W. Tetrahedron 1998, 54, 14089−14094.
+(b) Iwanek, W.; Syzdol, B. Synth. Commun. 1999, 29, 1209−1216.
+(31) Morikawa, O.; Nagamatsu, Y.; Nishimura, A.; Kobayashi, K.;
+Hisatoshi, K. Tetrahedron Lett. 2006, 24, 3991−3994.
+(32) (a) Iwanek, W.; Urbaniak, M.; Bocheńska, M. Tetrahedron 2002,
+58, 2239−2243. (b) Mclldowie, M. J.; Mocerino, M.; Skelton, B. W.;
+White, A. H. Org. Lett. 2000, 2, 3869−3871. (c) Brotin, T.; Roy, V.;
+Dutasta, J. P. J. Org. Chem. 2005, 70, 6187−6195. (d) Darzac, M.;
+Brotin, T.; Bouchu, D.; Dutasta, J. P. Chem. Commun. 2002, 48−49.
+(e) Gautier, A.; Mulatier, J. C.; Crassous, J.; Dutasta, J. P. Org. Lett.
+2005, 7, 1207−1210. (f) Bew, S. P.; Sharma, S. V. Chem. Commun.
+2007, 975−977. (g) Botta, B.; Iacomacci, P.; Di Giovanni, M. C.; Delle
+Monache, G.; Gacs-Baitz, E.; Botta, M.; Tafi, A.; Corelli, F.; Misiti, D.
+J. Org. Chem. 1992, 57, 3259−3261. (h) Botta, B.; Di Giovanni, M. C.;
+Delle Monache, G.; De Rosa, M. C.; Gacs-Baitz, E.; Botta, M.; Corelli,
+F.; Tafi, A.; Santini, A.; Benedetti, E.; Pedone, C.; Misiti, D. J. Org.
+Chem. 1994, 59, 1532−1541. (i) Sartori, G.; Bigi, F.; Porta, C.; Maggi,
+R.; Mora, R. Tetrahedron Lett. 1995, 36, 2311−2314.
+(33) (a) Stursa, J.; Dvorakova, H.; Smirdrkal, J.; Petricková, H.;
+Moravcova, J. Tetrahedron Lett. 2004, 45, 2043−2046. (b) Dvorakova,
+H.; Stursa, J.; Cajan, M.; Moravcová, J. Eur. J. Org. Chem. 2006, 4519−
+4527.
+(34) Moore, D.; Watson, G. W.; Gunnlaugsson, T.; Matthews, S. E.
+New J. Chem. 2008, 32, 994−1002.
+(35) Weinelt, F.; Schneider, H. J. J. Org. Chem. 1991, 56, 5527−5535.
+(36) Falana, O. M.; Al-Farhan, E.; Keehn, P. M.; Stevenson, R.
+Tetrahedron Lett. 1994, 1, 65−68.
+(37) Falana, O. M.; Keehn, P. M.; Stevenson, R. Org. Biomol. Chem.
+2011, 9, 8147−8154.
+(38) Boinski, T.; Szumna, A. Tetrahedron 2012, 68, 9419−9422.
+(39) (a) Ogoshi, T.; Ueshima, N.; Akutsu, T.; Yamafuji, D.; Furuta,
+T.; Sakakibara, F.; Yamagishi, T. Chem. Commun. 2014, 50, 5774−
+5777. (b) Holler, M.; Allenbach, N.; Sonet, J.; Nierengarten, J. F.
+Chem. Commun. 2012, 48, 2576−2578.
+(40) Urbaniak, M.; Iwanek, W. Tetrahedron 2004, 60, 8265−8273.
+(41) Zhang, Z.; Lim, J. M.; Ishida, M.; Roznyatovskiy, V. V.; Lynch,
+V. M.; Gong, H. Y.; Yang, X.; Kim, D.; Sessler, J. L. J. Am. Chem. Soc.
+2012, 134, 4076−4079.
+(42) Sessler, J. L.; Cho, W. S.; Lynch, V.; Kral, V. Chem.Eur. J.
+2002, 8, 1134−1143.
+(43) Cafeo, G.; Kohnke, F. H.; La Torre, G. L.; Parisi, M. F.;
+Nascone, R. P.; White, A. J. P.; Williams, D. J. Chem.Eur. J. 2002, 8,
+3148−3156.
+(44) Song, M. Y.; Na, H. K.; Kim, E. Y.; Lee, S. J.; Kim, K. I.; Baek, E.
+M.; Kim, H. S.; Ana, D. K.; Lee, C. H. Tetrahedron Lett. 2004, 45,
+299−301.
+(45) Cho, J.; Lee, S.; Hwang, S.; Kim, S. H.; Kim, J. S.; Kim, S. Eur. J.
+Org. Chem. 2013, 4614−4623.
+(46) Troisi, F.; Mogavero, L.; Gaeta, C.; Gavuzzo, E.; Neri, P. Org.
+Lett. 2007, 9, 915−918.
+(47) Frassineti, C.; Alderighi, L.; Gans, P.; Sabatini, A.; Vacca, A.;
+Ghelli, S. Anal. Bioanal. Chem. 2003, 376, 1041−1052.
+(48) Atwood, J. L.; Barbour, L. J.; Jerga, A. Proc. Natl. Acad. Sci. U.S.A.
+2002, 99, 4837−4841.
+(49) Fowler, D. A.; Rathnayake, A. S.; Kennedy, S.; Kumari, H.;
+Beavers, C. M.; Teat, S. J.; Atwood, J. L. J. Am. Chem. Soc. 2013, 135,
+12184−12187.
+
+3495
+
+DOI: 10.1021/acs.joc.5b00099
+J. Org. Chem. 2015, 80, 3488−3495
+
+

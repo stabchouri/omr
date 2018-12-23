@@ -1,0 +1,916 @@
+Article
+
+pubs.acs.org/joc
+
+Iridium-Catalyzed Direct Synthesis of Tryptamine Derivatives from
+Indoles: Exploiting N‑Protected β‑Amino Alcohols as Alkylating
+Agents
+Silvia Bartolucci, Michele Mari, Annalida Bedini, Giovanni Piersanti,* and Gilberto Spadoni
+
+Department of Biomolecular Sciences, University of Urbino “Carlo Bo”, Piazza del Rinascimento 6, 61029 Urbino (PU), Italy
+
+*S Supporting Information
+
+ABSTRACT: The selective C3-alkylation of indoles with N-
+protected ethanolamines involving the “borrowing hydrogen”
+strategy is described. This method provides convenient and
+sustainable access to several tryptamine derivatives.
+
+■ INTRODUCTION
+
+The tryptamine moiety is found in a number of drugs and is a
+common motif in countless naturally occurring compounds that
+use L-tryptophan as a biosynthetic precursor.1 The direct and
+selective construction of tryptamine derivatives from simple
+and sustainable starting materials using a catalytic system
+provides convenient access to a range of structurally diverse
+natural products, pharmaceutical compounds, potential building
+blocks for indole alkaloid chemistry, and other polynitro-
+genated compounds.2 Although methods accessing these
+bioactive molecules have been reported, there are few one-
+step transformations that provide access
+to tryptamines.
+Classical methods involve the C-3 Friedel−Crafts alkylation
+indoles3 with either nitroalkenes4 or aziridines5 as the
+of
+electrophilic partner, promoted by Lewis acids and/or
+organocatalysts. However, due to the toxicity and instability
+of these strongly electrophilic reactants6 as well as selectivity
+issues during the required extra reduction step of the nitro
+group and/or aziridine ring opening, a more sustainable and
+eﬃcient method is highly desired.7 In the search for new
+suitable two-carbon nitrogen-containing electrophiles, we
+recently described the eﬃcient use of N-protected aminoethyl
+acetals for the reductive alkylation of indoles,8 giving access to
+tryptamine derivatives in a single step. During the course of this
+study, we found that acyl protection of the amine side chain
+was necessary to achieve acceptable levels of
+reactivity.
+Although this approach employs safe and inexpensive reagents,
+proceeds under mild conditions, and tolerates several functional
+groups, the shortcomings associated with completely unsub-
+stituted indoles as well as a large excess of the reducing agent
+and TFA prompted us to investigate a novel catalytic and less
+wasteful method encompassing a wider
+indoles
+without the need for an external reductant.
+
+The so-called “borrowing hydrogen” methodology (also
+named as “hydrogen autotransfer”), in which dehydrogenation
+of poorly reactive alcohols is followed by in situ consumption of
+the generated hydrogen equivalents, has gained acceptance as
+an eﬃcient synthetic strategy in organic synthesis. Seminal
+work by Grigg and Watanabe9 as well as extensive studies by
+many other groups10 have shown that in the presence of
+
+range of
+
+transition-metal catalysts (usually ruthenium or
+iridium
+complexes), poorly reactive alcohols are useful electrophilic
+partners for N-alkylation and C−C bond formation in which
+amines and methylene carbon acids are typically used as
+nucleophiles.11 The use of a neutral electron-rich aromatic
+system with alcohols in the direct transition-metal-catalyzed
+alkylation has also been reported. However, to the best of our
+there are no examples using the “borrowing
+knowledge,
+hydrogen” strategy for the synthesis of tryptamine derivatives,
+despite the synthetic advantages of such an approach.12 Herein,
+we report the development of an eﬀective protocol for the
+direct
+indoles with N-protected
+ethanolamines to aﬀord tryptamine derivatives. This strategy
+could open attractive possibilities for the total synthesis of
+tryptamine-based alkaloids.
+
+Ir-catalyzed alkylation of
+
+■ RESULTS AND DISCUSSION
+<para sub=“opt”>
+Preliminary studies were carried out at 150 °C in a sealed tube,
+using commercially available N-acetylethanolamine (2a) and
+unsubstituted indole (1a) in the presence of substoichiometric
+amounts of KOH (20%). A variety of transition-metal catalysts
+well-known to be highly active in hydrogen autotransfer
+including Pd/C, RuCl2(PPh3)3, [Ir(cod)Cl]2, [Ir-
+reactions,
+(coe)2Cl]2, [Ir(OMe)(cod)]2, and RuHCl(CO)(PPh3)3, were
+screened. We found that the iridium dimer [Cp*IrCl2]2
+13 was
+the most eﬃcient catalyst. After 48 h, we observed complete
+consumption of the indole and selective formation of the
+desired N-acetyltryptamine (35% yield; Table 1, entry 9),
+without traces of the N1-alkylated product. The discrepancy
+between conversion and yield (Table 1) is mainly explained by
+the formation of two side products: the bis(3-indolyl)methane
+species 4 and tryptophol (5). The bis(indole) 4, arising from
+indole to the transient azafulvene,14 did not
+addition of
+undergo conversion to 3a under the reaction conditions, but
+some degradation of 4 did take place, suggesting that 4 is not a
+the
+plausible intermediate of
+
+the reaction.
+
+In contrast,
+</para>
+Received:
+January 28, 2015
+Published: February 20, 2015
+
+© 2015 American Chemical Society
+
+3217
+
+DOI: 10.1021/acs.joc.5b00195
+J. Org. Chem. 2015, 80, 3217−3222
+
+The Journal of Organic Chemistry
+Table 1. Optimization of Reaction Conditionsa
+
+Article
+
+5
+
+6
+5
+5
+7
+5
+6
+7
+9
+8
+8
+9
+10
+8
+6
+8
+5
+9
+
+conversn (%)b
+
+0
+0
+41
+55
+47
+52
+54
+42
+66
+68
+62
+66
+63
+64
+62
+>95
+52
+35
+>95
+23
+0
+
+3a
+
+11
+30
+18
+27
+33
+12
+35
+39
+30
+30
+14
+12
+16
+60
+10
+14
+56
+5
+
+yield (%)c
+
+4
+
+12
+10
+12
+9
+8
+12
+12
+10
+12
+14
+20
+21
+19
+9
+17
+8
+10
+9
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18d
+19e
+20
+21
+
+catalyst/ligand
+
+Pd/C
+RuCl2(PPh3)3
+[Cp*RhCl2]2
+[Ir(coe)2Cl]2
+[Ir(OMe)(cod)]2
+[Cp*Ir(bpy)Cl]
+[Cp*Ir(Pro)Cl]
+[IrCl(cod)]2
+[Cp*IrCl2]2
+[Cp*IrCl2]2
+[Cp*IrCl2]2
+[Cp*IrCl2]2
+[Cp*IrCl2]2
+[Cp*IrCl2]2
+[Cp*IrCl2]2
+[Cp*IrCl2]2
+[Cp*IrCl2]2
+[Cp*IrCl2]2
+[Cp*IrCl2]2
+[Cp*IrCl2]2
+
+base
+KOHf
+KOHf
+KOHf
+KOHf
+KOHf
+KOHf
+KOHf
+KOHf
+KOHf
+KOH
+tBuOK
+tBuONa
+NaHCO3
+KOAc
+K3PO4
+Cs2CO3
+Cs2CO3
+Cs2CO3
+Cs2CO3
+
+f
+
+Cs2CO3
+
+aConditions: indole (1 equiv), N-acetylethanolamine (3 equiv), catalyst (2.5 mol %), and base (1.1 equiv) at 150 °C for 48 h. bDetermined by 1H
+NMR analysis of the crude reaction mixture. cIsolated yield. d1 equiv of N-acetylethanolamine was used. e10 equiv of N-acetylethanolamine was
+used. fBase (0.2 equiv).
+
+<para sub=“opt”>
+the byproduct 5 could be explained by the
+formation of
+formation of the intermediate amido aldehyde, which is in
+equilibrium/tautomerization with the reactive N-acetyliminium
+species that undergoes amidoalkylation with the incoming
+indole, prior to return of hydrogen. This sequence accounts for
+the diﬀerent regioselectivities in the alkylation process, without
+a less direct C−N oxidation step.15 Although to obtain pure 3a
+ﬂash chromatography on silica gel was necessary, the removal of
+side products was simple due to their small amount and high
+lipophilicity in comparison to tryptamines.
+</para>
+<para sub=“opt”>
+Next, we investigated the inﬂuence of the base on the model
+reaction. Increasing the quantity of base to a stoichiometric
+amount slightly improved the yield of the reaction (Table 1,
+entry 10). Most
+importantly, we discovered that when
+powdered Cs2CO3 was used as the base,
+the desired N-
+acetyltryptamine was obtained in a synthetically useful yield
+(Table 1, entry 16). Lower conversions were generally observed
+when stronger bases such as t-BuOK and t-BuONa were
+employed (Table 1, entries 11 and 12), presumably due to
+partial hydrolysis of the ethanolamide used as the electrophile.
+A very low amount of the desired N-acetyltryptamine was also
+obtained by using solid NaHCO3 or K3PO4 as the base (Table
+1, entries 13 and 15), highlighting the importance of Cs2CO3 in
+this reaction. As expected, the reaction without the use of
+catalyst failed to provide the desired product, and the starting
+material was recovered (Table 1, entry 21). On comparison of
+the amounts of electrophile used, the best results were obtained
+
+by applying 3 equiv of N-acetylethanolamine (Table 1, entries
+16, 18, and 19). Interestingly, no overalkylation products were
+ever observed.
+</para>
+<para sub="scope">
+With the optimal reaction conditions established, we sought
+to probe the scope of the amine protecting groups that are
+amenable to this procedure. We investigated the use of
+alternative protecting groups that not only would allow eﬃcient
+alkylation but also would be removed easily under relatively
+mild conditions. We tried to replace N-Ac with a traditional,
+easily removable amino protecting group such N-COCF3, N-
+Cbz, or N-Ts. Unfortunately, N-COCF3 and N-Cbz were very
+unstable and decomposed quickly under the basic reaction
+conditions.
+Interestingly, using N-Cbz-ethanolamine, we
+obtained only 3-benzylindole, which probably formed by the
+borrowing hydrogen reaction of indole with benzyl alcohol
+generated by an intramolecular cyclization to the corresponding
+oxazolidinone. Accordingly, N-benzylethanolamine (2c) selec-
+tively furnished the desired N-benzyltryptamine, though in a
+yield lower than that for N-acetylethanolamine (2a) (Scheme
+1). In sharp contrast, the reaction of N-Ts-ethanolamine failed
+to provide the expected product, and the starting material was
+recovered almost quantitatively. We believe that a stable
+sulfonamido-iridium complex is formed, blocking the metal
+from participating productively in the catalytic cycle. Finally,
+when the phthalimido group was used as a protecting group, a
+complex mixture of products was obtained (probably because it
+was partially reduced), precluding its use in our protocol. When
+</para>
+3218
+
+DOI: 10.1021/acs.joc.5b00195
+J. Org. Chem. 2015, 80, 3217−3222
+
+The Journal of Organic Chemistry
+
+Scheme 1. Alkylation of Indole with N-Alkylethanolamines
+<para sub="scope">
+simple unprotected 2-aminoethanol was used, no reaction
+occurred, whereas using N,N-dimethylethanolamine resulted in
+a gratifying 42% yield (Scheme 1).16
+</para>
+<para sub="scope">
+Next, we examined a spectrum of substituted indoles to
+this novel reaction. A range of
+explore the generality of
+diﬀerently substituted indoles (1a−l), with electron-donating
+or -withdrawing groups in all possible positions, gave moderate
+to good yields (36−78%) of the corresponding tryptamine
+derivative, although diﬀerent reactivities were observed. For
+example, the electron-rich 5-methoxyindole was converted in a
+very good yield and selectivity to give melatonin (3b) as the
+desired product (Table 2), whereas lower than normal yields
+</para>
+Table 2. Alkylation of Substituted Indoles with N-
+Acetylethanolamine using [Cp*IrCl2]2 and Cs2CO3
+
+a
+
+Article
+<para sub="scope">
+amines in 45−51% yields (Table 2). We also examined the
+eﬃcacy of unsubstituted 7-azaindole 1k in undergoing C3-
+alkylation under the above reaction conditions. Treatment of
+1k with N-acetylethanolamine (2a) furnished, selectively, the
+desired 7-azatryptamine (3k), although only in poor yield. In
+sharp contrast, N-methylindole (1l) proved to be inert,
+the indole N−H in a key
+suggesting the involvement of
+interaction with the base during the rate-determining step. It is
+noteworthy that the present method is a step-eﬃcient and
+atom-economical route to the pineal hormone melatonin (3b),
+which has known sleep-inducing, antioxidant, and antiapoptotic
+properties,17 as well as to the reference MT2 melatonin receptor
+ligand luzindole (3j), which is employed in pharmacological
+tests to evaluate and discriminate the roles of melatonin
+receptor subtypes.18
+</para>
+<para sub="scope">
+However, nearly complete recovery of the starting material
+was observed when a C3-substituted indole, such as 3-methyl-
+and 3-benzylindoles, were allowed to react with N-acetyletha-
+nolamine (2a) under the reaction conditions reported above.
+Neither indole annulations with dearomatization of the indole
+nucleus to pyrroloindolines products nor C3-
+to C2-alkyl
+migration and rearomatization to aﬀord 2-substituted trypt-
+amines were detected, in spite of recent reports.19
+</para>
+<para sub="scope">
+the removal of
+
+
+As mentioned previously, a major concern regarding N-
+protected ethanolamine reactions is
+the
+protecting group following successful functionalization/alkyla-
+tion. To demonstrate the advantages of utilizing the N-acetyl
+protecting group, we sought to deprotect melatonin (3b) and
+N-acetyl-2-methyltryptamine (3h). To our delight, by treating
+3b,h with a combination of ammonium bromide and
+ethylenediamine under microwave irradiation,20 we were able
+to isolate the free 5-methoxytryptamine (7b) and 2-
+methyltryptamine (7h)21 in 89% and 78% yields, respectively,
+avoiding the use of strong acids or bases (Scheme 2).
+</para>
+Scheme 2. Removal of the N-Acetyl Protecting Group
+
+aReactions were carried out in a sealed vial at 150 °C for 48 h with
+indole (0.25 mmol), N-acetylethanolamine (0.75 mmol), [Cp*IrCl2]2
+(2.5 mol %), and Cs2CO3 (0.275 mmol). Isolated yields are given.
+<para sub="scope">
+were recorded for the reaction with 7-methylindole (3c). The
+4-MeO-, 5-Cl-, 6-OMe-, and 6-F-tryptamine derivatives (Table
+2) were also obtained in decent yields, although the yields were
+lower than those of
+the
+presence of a substituent at C-2 did not impair the reaction,
+despite the potential steric crowding around the reaction site.
+Thus, the 2-Me-, 2-Ph-, and 2-Bn-indoles reacted eﬃciently
+with N-acetylethanolamine to give the corresponding trypt-
+
+the 5-OMe analogue. Pleasingly,
+</para>
+■ CONCLUSION
+
+In summary, the direct synthesis of diversely functionalized N-
+acetyltryptamines, including melatonin and luzindole, via the
+modern “borrowing hydrogen” strategy is presented. The new
+iridium-catalyzed C3-indole dehydration/alkylation protocol
+utilizes N-acetylethanolamine as a simple aminoethylene
+alkylating agent and source of hydrogen, avoiding the use of
+an external reducing agent. The experimental procedure for this
+metal-catalyzed direct alkylation of diﬀerent indoles is simple
+and removal of side products is not a problem. This highly
+atom economical and environmentally benign process requires
+only inexpensive reagents, tolerates a range of functionalities,
+and may have applications in natural product synthesis and
+medicinal chemistry. The identiﬁcation of more eﬃcient
+catalytic systems to access a wider range of nitrogen-containing
+alcohols beyond ethanolamine as well as milder
+reaction
+conditions is the focus of current eﬀorts in our laboratories.
+
+3219
+
+DOI: 10.1021/acs.joc.5b00195
+J. Org. Chem. 2015, 80, 3217−3222
+
+The Journal of Organic Chemistry
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Methods. All reactions were performed in a glass vial,
+under a nitrogen atmosphere. Column chromatographic puriﬁcations
+were performed under ﬂash conditions using 230−400 mesh silica gel.
+Analytical thin-layer chromatography (TLC) was carried out on silica
+gel plates (silica gel 60 F254), which were visualized by exposure to
+ultraviolet
+light and an aqueous solution of cerium ammonium
+molybdate (CAM) or p-anisaldehyde. 1H NMR and 13C NMR spectra
+are provided in the Supporting Information. 1H NMR and 13C NMR
+were recorded on a 200/50 or 400/100 spectrometer, using CDCl3 as
+solvent. Chemical shifts (δ scale) are reported in parts per million
+(ppm) relative to the central peak of the solvent. Coupling constants
+(J values) are given in hertz (Hz). Molecular ions (M + 1) are given
+for ESI-MS analysis. Optical absorbances are reported in cm−1 for the
+IR analyses. Melting points were determined on a capillary melting
+point apparatus and are uncorrected. Microwave-assisted reactions
+were carried out in a CEM Discover SP microwave reactor. Elemental
+analyses are within ±0.4 of the theoretical values (C, H, N). 2-Benzyl-
+1H-indole,22 2,2,2-triﬂuoro-N-(2-hydroxyethyl)acetamide,23 benzyl 2-
+hydroxyethylcarbamate,24 2-(2-hydroxyethyl)isoindoline-1,3-dione,25
+and N-(2-hydroxyethyl)-4-methylbenzenesulfonamide26 were synthe-
+sized according to the literature procedures. Other chemicals were
+purchased from commercial suppliers and were used without further
+puriﬁcation.
+the Synthesis of N-Protected
+Tryptamines. A mixture of the suitable indole 1a−h (0.25 mmol),
+Cs2CO3 (90 mg, 0.275 mmol), [Cp*IrCl2]2 (5 mg, 0.00625 mmol),
+and the appropriate N-protected ethanolamine 2a−c (0.75 mmol) was
+stirred under an N2 atmosphere at 150 °C for 48 h in a sealed vial.
+After it was cooled to room temperature, the reaction mixture was
+dissolved in 1 mL of EtOAc/MeOH 9/1 and the solution ﬁltered
+through a silica gel pad. The ﬁltrate was concentrated in vacuo, and the
+residue was puriﬁed by ﬂash column chromatography on silica gel.
+
+General Procedure for
+
+N-(2-(1H-Indol-3-yl)ethyl)acetamide (3a). This compound was
+prepared according to the general procedure from 1H-indole and N-
+(2-hydroxyethyl)acetamide. Flash chromatography (EtOAc) gave 3a
+as a gray solid (30 mg, 0.15 mmol). Yield: 60%. Mp: 74−76 °C
+(CH2Cl2/petroleum ether). MS (ESI): 203 [M + H]+. 1H NMR (200
+MHz, CDCl3): δ 1.92 (s, 3H), 2.98 (t, 2H, J = 6.6 Hz), 3.60 (dt, 2H, J1
+≈ J2 = 6.6 Hz), 5.71 (br s, 1H), 7.05−7.27 (m, 3H), 7.39 (d, 1H, J = 8
+Hz), 7.61 (d, 1H, J = 7.6 Hz), 8.51 (br s, 1H). The chemical and
+physical data are in accord with those in the literature.27
+
+N-(2-(5-Methoxy-1H-indol-3-yl)ethyl)acetamide (3b). This com-
+pound was prepared according to the general procedure from 5-
+methoxy-1H-indole and N-(2-hydroxyethyl)acetamide. Flash chroma-
+tography (EtOAc) gave 3b as a white solid (45 mg, 0.19 mmol). Yield:
+78%. Mp: 114−116 °C (EtOAc). MS (ESI): 233 [M + H]+. 1H NMR
+(200 MHz, CDCl3): δ 1.94 (s, 3H), 2.94 (t, 2H, J = 6.6 Hz), 3.59 (dt,
+≈ J2 = 6.6 Hz), 3.86 (s, 3H), 5.74 (br s, 1H), 6.87 (dd, 1H, J =
+2H, J1
+2.4 and J = 8.8 Hz), 7.00−7.05 (m, 2H), 7.27 (d, 1H, J = 8.8 Hz), 8.33
+(br s, 1H). The chemical and physical data are in accord with those in
+the literature.28
+
+N-(2-(7-Methyl-1H-indol-3-yl)ethyl)acetamide (3c). This com-
+pound was prepared according to the general procedure from 7-
+methyl-1H-indole and N-(2-hydroxyethyl)acetamide. Flash chroma-
+tography (EtOAc) gave 3c as a brown oil (23 mg, 0.11 mmol). Yield:
+43%. Rf = 0.28 (EtOAc). MS (ESI): 217 [M + H]+. 1H NMR (200
+MHz, CDCl3): δ 1.93 (s, 3H), 2.51 (s, 3H), 2.98 (t, 2H, J = 6.5 Hz),
+≈ J2 = 6.5 Hz), 5.64 (br s, 1H), 7.01−7.12 (m, 3H),
+3.61 (dt, 2H, J1
+7.45−7.48 (m, 1H), 8.28 (br s, 1H). 13C NMR (50 MHz, CDCl3): δ
+16.7, 23.4, 25.4, 39.9, 113.4, 116.4, 119.7, 120.6, 121.9, 122.7, 126.9,
+136.0, 170.2. FTIR (ﬁlm, cm−1): 3399, 3285, 1646. Anal. Calcd for
+C13H16N2O (216.13): C, 72.19; H, 7.46; N, 12.95. Found: C, 72.28;
+H, 7.39; N, 12.90.
+
+N-(2-(4-Methoxy-1H-indol-3-yl)ethyl)acetamide (3d). This com-
+pound was prepared according to the general procedure from 4-
+methoxy-1H-indole and N-(2-hydroxyethyl)acetamide. Flash chroma-
+tography (cyclohexane/EtOAc 1/1 to EtOAc) gave 3d as a brown oil
+(25 mg, 0.11 mmol). Yield: 42%. MS (ESI): 233 [M + H]+. 1H NMR
+</para>
+Article
+<para sub=“exp”>
+(200 MHz, CDCl3): δ 1.89 (s, 3H), 3.08 (t, 2H, J = 6.2 Hz), 3.58 (dt,
+≈ J2 = 6.2 Hz), 3.96 (s. 3H), 6.05 (br s, 1H), 6.52 (d, 1H, J =
+2H, J1
+7.6 Hz), 6.88−7.27 (m, 3H), 8.35 (br s, 1H). The chemical and
+physical data are in accord with those in the literature.29
+
+N-(2-(5-Chloro-1H-indol-3-yl)ethyl)acetamide (3e). This com-
+pound was prepared according to the general procedure from 5-
+chloro-1H-indole and N-(2-hydroxyethyl)acetamide. Flash chromatog-
+raphy (EtOAc/cyclohexane 9/1) gave 3e as a gray solid (29 mg, 0.12
+mmol). Yield: 49%. Mp: 149−151 °C (EtOAc/petroleum ether). MS
+(ESI): 237 [M + H]+. 1H NMR (200 MHz, CDCl3): δ 1.95 (s, 3H),
+≈ J2 = 6.8 Hz), 5.78 (br s,
+2.91 (t, 2H, J = 6.8 Hz), 3.55 (dt, 2H, J1
+1H), 7.03−7.04 (m, 1H), 7.11−7.31 (m, 2H), 7.53−7.54 (m, 1H),
+8.72 (br s, 1H). The chemical and physical data are in accord with
+those in the literature.30
+
+N-(2-(6-Methoxy-1H-indol-3-yl)ethyl)acetamide (3f). This com-
+pound was prepared according to the general procedure from 6-
+methoxy-1H-indole and N-(2-hydroxyethyl)acetamide. Flash chroma-
+tography (EtOAc) gave 3f (35 mg, 0.15 mmol). Yield: 61%. Mp: 136−
+137 °C. MS (ESI): 233 [M + H]+. 1H NMR (400 MHz, CDCl3): δ
+≈ J2 = 6.6 Hz),
+1.93 (s, 3H), 2.94 (t, 2H, J = 6.6 Hz), 3.59 (dt, 2H, J1
+3.86 (s, 3H), 5.57 (br s, 1H), 6.81 (dd, 1H, J = 2.2 e J = 8.6 Hz), 6.88
+(d, 1H, J = 2.2), 6.93 (d, 1H, J = 2.0), 7.47 (d, 1H J = 8.6 Hz), 8.04 (br
+s, 1H). The chemical and physical data are in accord with those in the
+literature.30
+
+N-(2-(6-Fluoro-1H-indol-3-yl)ethyl)acetamide (3g). This com-
+pound was prepared according to the general procedure from 6-
+ﬂuoro-1H-indole and N-(2-hydroxyethyl)acetamide. Flash chromatog-
+raphy (EtOAc) gave 3g as a brown oil (20 mg, 0.09 mmol). Yield:
+37%. MS (ESI): 221 [M + H]+. 1H NMR (200 MHz, CDCl3): δ 1.95
+≈ J2 = 6.7 Hz), 5.67
+(s, 3H), 2.95 (t, 2H, J = 6.7 Hz), 3.59 (dt, 2H, J1
+(br s, 1H), 6.84−6.94 (m, 1H), 7.01−7.09 (m, 2H), 7.46−7.53 (m,
+1H), 8.43 (br s, 1H). The chemical and physical data are in accord
+with those in the literature.31
+
+N-(2-(2-Methyl-1H-indol-3-yl)ethyl)acetamide (3h). This com-
+pound was prepared according to the general procedure from 2-
+methyl-1H-indole and N-(2-hydroxyethyl)acetamide. Flash chroma-
+tography (EtOAc) gave 3h as a yellow solid (24 mg, 0.11 mmol).
+Yield: 45%. Mp: 83−85 °C (CH2Cl2/petroleum ether). MS (ESI): 217
+[M + H]+. 1H NMR (200 MHz, CDCl3): δ 1.90 (s, 3H), 2.39 (s, 3H),
+≈ J2 = 6.5 Hz), 5.59 (br s,
+2.92 (t, 2H, J = 6.5 Hz), 3.50 (dt, 2H, J1
+1H), 7.08−7.15 (m, 2H) 7.27−7.32 (m, 1H), 7.48−7.52 (m, 1H), 8.08
+(br s, 1H). The chemical and physical data are in accord with those in
+the literature.8a
+
+N-(2-(2-Phenyl-1H-indol-3-yl)ethyl)acetamide (3i). This com-
+pound was prepared according to the general procedure from 2-
+phenyl-1H-indole and N-(2-hydroxyethyl)acetamide. Flash chroma-
+tography (EtOAc/cyclohexane 6/4 to 9/1) gave 3i as a yellow solid
+(32 mg, 0.12 mmol). Yield: 46%. Mp: 114−116 °C (CH2Cl2/
+petroleum ether). MS (ESI): 279 [M + H]+. 1H NMR (200 MHz,
+≈ J2
+CDCl3): δ 1.77 (s, 3H), 3.14 (t, 2H, J = 6.6 Hz), 3.56 (dt, 2H, J1
+= 6.6 Hz), 5.51 (br s, 1H), 7.13−7.29 (m, 2H), 7.35−7.68 (m, 7H),
+8.31 (br s, 1H). The chemical and physical data are in accord with
+those in the literature.8a
+
+N-(2-(2-Benzyl-1H-indol-3-yl)ethyl)acetamide (3j). This com-
+pound was prepared according to the general procedure from 2-
+benzyl-1H-indole and N-(2-hydroxyethyl)acetamide. Flash chromatog-
+raphy (EtOAc/cyclohexane 1/1 to EtOAc) gave 3j as a light oil (37
+mg, 0.13 mmol). Yield: 51%. MS (ESI): 293 [M + H]+. 1H NMR (200
+MHz, CDCl3): δ 1.76 (s, 3H), 2.98 (t, 2H, J = 6.5 Hz), 3.51 (dt, 2H, J1
+≈ J2= 6.5 Hz), 4.10 (s, 2H), 5.51 (br s, 1H), 7.09−7.31 (m, 8H),
+7.51−7.60 (m, 1H) 7.99 (br s, 1H). The chemical and physical data
+are in accord with those in the literature.8a
+
+N-(2-(1H-Pyrrolo[2,3-b]pyridin-3-yl)ethyl)acetamide (3k). This
+compound was prepared according to the general procedure from
+1H-pyrrolo[2,3-b]pyridine and N-(2-hydroxyethyl)acetamide. Flash
+chromatography (EtOAc/MeOH 95/5 to 9/1) gave 3k as a white
+solid (18 mg, 0.09 mmol). Yield: 36%. Mp: 175−177 °C (EtOAc). Rf
+= 0.23 (EtOAc/MeOH 95/5). MS (ESI): 204 [M + H]+. 1H NMR
+(400 MHz, CDCl3): δ 1.95 (s, 3H), 2.98 (t, 2H, J = 6.7 Hz), 3.60 (dt,
+≈ J2 = 6.7 Hz), 5.58 (br s, 1H), 7.11 (dd, 1H, J = 4.7 Hz and J =
+2H, J1
+</para>
+3220
+
+DOI: 10.1021/acs.joc.5b00195
+J. Org. Chem. 2015, 80, 3217−3222
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+7.8 Hz), 7.19 (s, 1H), 7.96 (d, 1H, J = 7.8 Hz), 8.33 (d, 1H, J = 3.6
+Hz), 10.03 (br s, 1H). 13C NMR (100 MHz, CDCl3): δ 23.3, 25.5,
+39.8, 111.6, 115.6, 120.0, 122.5, 127.3, 142.9, 148.7, 170.1. FTIR (ﬁlm,
+cm−1): 3285, 1630. Anal. Calcd for C11H13N3O (203.11): C, 65.01; H,
+6.45; N, 20.68. Found: C, 65.09; H, 6.39; N, 20.71.
+
+N-(2,2-Bis(1H-indol-3-yl)ethyl)acetamide (4). This compound was
+obtained and isolated as a reaction byproduct under the conditions
+reported in the general procedure employing 1H-indole and N-(2-
+hydroxyethyl)acetamide. Yield: 9% (7 mg, 0.02 mmol). MS (ESI): 318
+[M + H]+. 1H NMR (200 MHz, CDCl3): δ 1.90 (s, 3H), 4.07 (m,
+2H), 4.75 (t, 1H, J = 7.1 Hz), 5.60 (br s, 1H), 7.04−7.11 (m, 4H),
+7.16−7.24 (m, 2H), 7.37−7.41 (m, 2H), 7.60−7.64 (m, 2H), 8.07 (br
+s, 2H). The chemical and physical data are in accord with those in the
+literature.32
+
+2-(1H-Indol-3-yl)ethanol (5). This compound was obtained and
+isolated as a reaction byproduct under the conditions reported in the
+general procedure employing 1H-indole and N-(2-hydroxyethyl)-
+acetamide. Yield: 6% (2 mg, 0.015 mmol). MS (ESI): 162 [M + H]+.
+1H NMR (400 MHz, CDCl3): δ 3.03 (dt, 2H, J = 0.5 Hz and J = 6.3
+Hz), 3.91 (t, 2H, J = 6.3 Hz), 7.07−7.26 (m, 3H), 7.38 (d, 1H, J = 8.0
+Hz), 7.62 (d, 1H, J = 8.0 Hz), 8.07 (br s, 1H). The chemical and
+physical data are in accord with those in the literature.33
+
+N-Benzyl-2-(1H-indol-3-yl)ethanamine (6c). This compound was
+prepared according to the general procedure from 1H-indole and 2-
+(benzylamino)ethanol. Flash column chromatography (EtOAc to
+EtOAc/MeOH 9/1) gave the compound as a brown oil (25 mg, 0.1
+mmol). Yield: 40%. MS (ESI): 251 [M + H]+. 1H NMR (200 MHz,
+CDCl3): δ 3.00 (app. s, 4H), 3.81 (s, 2H), 6.99−7.35 (m, 10H), 7.60
+(d, 1H J = 7.5 Hz), 8.15 (br s, 1H). The chemical and physical data are
+in accord with those in the literature.34
+
+2-(1H-Indol-3-yl)-N,N-dimethylethanamine (6d). This compound
+was prepared according to the general procedure from 1H-indole and
+2-(dimethylamino)ethanol. Flash chromatography (CH2Cl2/MeOH/
+TEA 93/6/1) gave 6d as a brown oil (20 mg, 0.11 mmol). Yield: 42%.
+MS (ESI): 189 [M + H]+. 1H NMR (400 MHz, CDCl3): δ 2.36 (s,
+6H), 2.64−2.68 (m, 2H), 2.94−2.98 (m, 2H), 7.03 (s, 1H), 7.11−7.15
+(m, 1H), 7.18−7.22 (m. 1H), 7.36 (d, J = 8.0 Hz, 1H), 7.63 (d, J = 8.0
+Hz, 1H), 8.11 (br s, 1H). The chemical and physical data are in accord
+with those in the literature.35
+
+General Procedure for the N-Deacetylation. Ammonium
+bromide (49 mg, 0.5 mmol), ethylenediamine (0.135 mL, 2 mmol),
+and N-acetyltryptamine derivative (0.5 mmol) were mixed in a suitable
+vial ﬁtted with a magnetic stirrer. The mixture was then heated to 100
+°C in a microwave apparatus (250 W) for 7 h. After it was cooled to
+room temperature,
+the crude reaction mixture was diluted with
+CH2Cl2 and the desired tryptamine was extracted with an aqueous
+solution of 1 M HCl. The aqueous layer was then made basic by
+addition of aqueous NaOH (1 M) and then extracted with CH2Cl2.
+The combined organic phases were washed with brine, dried over
+Na2SO4, and concentrated by distillation at reduced pressure, giving a
+crude residue which was puriﬁed by ﬁltration on a ﬂash chromato-
+graphic column of silica gel (CH2Cl2/MeOH/TEA 90/9/1).
+
+2-(5-Methoxy-1H-indol-3-yl)ethanamine (7b). This compound
+was obtained as a colorless oil (85 mg, 0.45 mmol). Yield: 89%. MS
+(ESI): 191 [M + H]+. 1H NMR (200 MHz, CDCl3): δ 1.98 (br s, 2H),
+2.85−2.91 (m, 2H), 2.99−3.06 (m, 2H), 3.87 (s, 3H), 6.83−6.89 (m,
+1H), 7.0 (s, 1H), 7.04−7.05 (m, 1H), 7.22−7.27 (m, 1H), 8.46 (br s,
+1H). The chemical and physical data are in accord with those in the
+literature.36
+
+2-(2-Methyl-1H-indol-3-yl)ethanamine (7h). This compound was
+obtained as a pale yellow amorphous solid (68 mg, 0.39 mmol). Yield:
+78%. MS (ESI): 175 [M + H]+. 1H NMR (400 MHz, CDCl3): δ 1.76
+(br s, 2H), 2.38 (s, 3H), 2.83−2.87 (m, 2H), 2.95−2.99 (m, 2H),
+7.05−7.13 (m, 2H), 7.26 (d, J = 7.5 Hz, 1H), 7.50 (d, J = 7.5 Hz, 1H),
+8.00 (br s, 1H). The chemical and physical data are in accord with
+those in the literature.8a
+</para>
+Article
+
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Figures giving 1H and 13C NMR spectra for all new
+compounds. This material is available free of charge via the
+Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail for G.P.: giovanni.piersanti@uniurb.it.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+This work was partially supported by the Italian MIUR
+(Ministero dell’Istruzione, dell’Università della Ricerca) and
+University of Urbino “Carlo Bo”.
+■ REFERENCES
+(1) (a) Mizoguchi, H.; Oikawa, H.; Oguri, H. Nat. Chem. 2014, 6, 57.
+(b) Runguphan, W.; O’Connor, S. E. Org. Lett. 2013, 15, 2850.
+(c) Dewick, P. M.; Medicinal Natural Products: A Biosynthetic Approach,
+3rd ed.; Wiley: Chichester, U.K., 2009.
+(2) (a) Inman, M.; Moody, C. J. Chem. Sci. 2013, 4, 29. (b) Zhang,
+D.; Song, H.; Qin, Y. Acc. Chem. Res. 2011, 44, 447. (c) Kochanowska-
+Karamyan, A. J.; Hamann, M. T. Chem. Rev. 2010, 110, 4489. (d) Cao,
+R.; Peng, W.; Wang, Z.; Xu, A. Curr. Med. Chem. 2007, 14, 479.
+(e) Czarnocki, Z.; Siwicka, A.; Szawkało, J. Curr. Org. Synth. 2005, 2,
+301. (f) Barceloux, D. G. Tryptamine Designer Drugs. In Medical
+Toxicology of Drug Abuse; Wiley: Hoboken, NJ, 2012; p 193.
+(3) (a) Bartoli, G.; Bencivenni, G.; Dalpozzo, R. Chem. Soc. Rev.
+2010, 39, 4449. (b) Zeng, M.; You, S.-L. Synlett 2010, 9, 1289.
+(c) Bandini, M.; Eichholzer, A. Angew. Chem., Int. Ed. 2009, 48, 9608.
+(d) Bandini, M.; Melloni, A.; Tommasi, S.; Umani-Ronchi, A. Synlett
+2005, 8, 1199.
+(4) (a) Harrington, P. E.; Kerr, M. A. Synlett 1996, 11, 1047.
+(b) Bandini, M.; Melchiorre, P.; Melloni, A.; Umani-Ronchi, A.
+Synthesis 2002, 8, 1110. (c) Bandini, M.; Garelli, A.; Rovinetti, M.;
+Tommasi, S.; Umani-Ronchi, A. Chirality 2005, 17, 522. (d) Yokoha-
+ma, N.; Arai, T. Chem. Commun. 2009, 22, 3285. (e) Ara, T.; Wasai,
+M.; Yokohama, N. J. Org. Chem. 2011, 76, 2909. (f) Jia, Y.; Yang, W.;
+Du, D. M. Org. Biomol. Chem. 2012, 10, 4739. (g) Zhang, W.; Hazell,
+R. G.; Jorgensen, K. A. Org. Biomol. Chem. 2005, 3, 2566. (h) Dessole,
+G.; Herrera, R. P.; Ricci, A. Synlett 2004, 13, 2374. (i) Wu, P.; Wan, Y.;
+Cai, J. Synlett 2008, 8, 1193.
+(5) For selected examples, see: (a) Wang, S.; Chai, Z.; Zhou, S.;
+Wang, S.; Zhu, X.; Wei, Y. Org. Lett. 2013, 15, 2628. (b) Ghorai, M.
+K.; Tiwari, D. P.; Jain, N. J. Org. Chem. 2013, 78, 7121. (c) Kaiser, H.
+M.; Lo, W.; Riahi, A. M.; Spannenberg, A.; Beller, M.; Tse, M. K. Org.
+Lett. 2006, 8, 5761. (d) Ezquerra,
+J.; Pedregal, C.; Lamas, C.
+Tetrahedron Lett. 1996, 37, 683. For selected examples of ring-opening
+reactions of enantioenriched aziridines with indoles, see: (e) Hudlicky,
+T.; Rinner, U.; Finn, K. J.; Ghiviriga, I. J. Org. Chem. 2005, 70, 3490.
+(f) Rinner, U.; Hudlicky, T.; Gordon, H.; Pettit, G. R. Angew. Chem.,
+Int. Ed. 2004, 43, 5342; Angew. Chem. 2004, 116, 5456. (g) Tirotta, I.;
+Fifer, N. L.; Eakins, J.; Hutton, C. A. Tetrahedron Lett. 2013, 54, 618.
+(h) Li, Y.; Haymanb, E.; Plesescua, M.; Prakash, S. R. Tetrahedron Lett.
+2008, 49, 1480. (i) Menguy, L.; Lo, C.; Marrot, J.; Couty, F.
+Tetrahedron 2014, 70, 4512. For an elegant highly regioselective and
+enantiospecific ring-opening reaction of enantioenriched aziridines
+with indoles, see: (j) Cockrell, J.; Wilhelmsen, C.; Rubin, H.; Martin,
+A.; Morgan, J. B. Angew. Chem., Int. Ed. 2012, 51, 9842; Angew. Chem.
+2012, 124, 9980.
+(6) (a) Woo, Y.; Lai, D. Y.; Argus, M. F.; Arcos, J. C. Toxicol. Lett.
+1995, 79, 219. (b) Talalay, P.; De Long, M. J.; Prochaska, H. J. Proc.
+Natl. Acad. Sci. U.S.A. 1988, 85, 8261.
+
+3221
+
+DOI: 10.1021/acs.joc.5b00195
+J. Org. Chem. 2015, 80, 3217−3222
+
+The Journal of Organic Chemistry
+
+recent
+
+(7) Lancianesi, S.; Palmieri, A.; Petrini, M. Chem. Rev. 2014, 114,
+7108.
+(8) (a) Righi, M.; Topi, F.; Bartolucci, S.; Bedini, A.; Piersanti, G.;
+Spadoni, G. J. Org. Chem. 2012, 77, 6351. For other uses of α-
+amidoacetals, see: (b) Righi, M.; Bedini, A.; Piersanti, G.; Romagnoli,
+F.; Spadoni, G. J. Org. Chem. 2011, 76, 704.
+(9) (a) Grigg, R.; Mitchell, T. R. B.; Sutthivaiyakit, S.; Tongpenyai,
+N. Tetrahedron Lett. 1981, 22, 4107. (b) Tsuji, T.; Huh, K.-T.; Ohsugi,
+Y.; Watanabe, Y. J. Org. Chem. 1985, 50, 1365.
+(10) For selected reviews, see: (a) Gunanathan, C.; Milstein, D.
+Science 2013, 341, 249. (b) Bähn, S.; Imm, S.; Neubert, L.; Zhang, M.;
+Neumann, H.; Beller, M. ChemCatChem. 2011, 3, 1853. (c) Watson, A.
+J. A.; Williams, J. M. J. Science 2010, 329, 635. (d) Dobereiner, G. E.;
+Crabtree, R. H. Chem. Rev. 2010, 110, 681. (e) Guillena, G.; Ramón,
+D. J.; Yus, M. Chem. Rev. 2010, 110, 1611.
+reviews with regard to C−C couplings, see:
+(11) For
+(a) Obora, Y. ACS Catal. 2014, 4, 3972. (b) Pan, S.; Shibata, T. ACS
+Catal. 2013, 3, 704.
+(12) For an example of a tandem oxidative cyclization/alkylation of
+2-aminophenyl ethyl alcohol and N,N-dimethylethanolamine, for the
+synthesis of N,N-dimethyltryptamine, see: (a) Whitney, S.; Grigg, R.;
+Derrick, A.; Keep, A. Org. Lett. 2007, 9, 3299. For other coupling
+reactions of indoles with simple benzylic alcohols or aliphatic alcohols,
+see: (b) Bahn, S.; Imm, S.; Mevius, K.; Neubert, L.; Tillack, A.;
+Williams, J. M. J.; Beller, M. Chem. Eur. J. 2010, 16, 3590. (c) Putra, A.
+E.; Takigawa, K.; Tanaka, H.; Ito, Y.; Oe, Y.; Ohta, T. Eur. J. Org.
+Chem. 2013, 28, 6344. (d) Hakim Siddiki, S. M. A.; Kon, K.; Shimizu,
+K. Chem. Eur. J. 2013, 43, 14416. (e) Cano, R.; Yus, M.; Ramón, D. J.
+Tetrahedron Lett. 2013, 54, 3394.
+(13) For other uses of the catalyst [Cp*IrCl2]2 for C−C couplings
+with borrowing hydrogen methodologies, see: (a) Löfberg, C.; Grigg,
+R.; Whittaker, M. A.; Keep, A.; Derrick, A. J. Org. Chem. 2006, 71,
+8023. (b) Anxionnat, B.; Pardo, D. G.; Ricci, G.; Cossy, J. Org. Lett.
+2011, 13, 4084. (c) Anxionnat, B.; Domingo, G. P.; Ricci, G.; Cossy, J.
+Eur. J. Org. Chem. 2012, 24, 4453. (d) Anxionnat, B.; Pardo, D. G.;
+Ricci, G.; Rossen, K.; Cossy, J. Org. Lett. 2013, 15, 3876.
+(14) (a) Mari, M.; Tassoni, A.; Lucarini, S.; Fanelli, M.; Piersanti, G.;
+Spadoni, G. Eur. J. Org. Chem. 2014, 18, 3822. (b) For a good review,
+see: Palmieri, A.; Petrini, M.; Shaikh, R. R. Org. Biomol. Chem. 2010, 8,
+1259.
+(15) Hamid, M. H. S. A.; Allen, C. L.; Lamb, G. W.; Maxwell, A. C.;
+Maytum, H. C.; Watson, A. J. A.; Williams, J. M. J J. Am. Chem. Soc.
+2009, 131, 1766.
+(16) For alkylations of indole using amines, see: (a) Imm, S.; Bhan,
+S.; Tillack, A.; Mevius, K.; Neubert, L.; Beller, M. Chem. Eur. J. 2010,
+16, 2705. (b) Lerch, S.; Unkel, L.-N.; Brasholz, M. Angew. Chem., Int.
+Ed. 2014, 53, 6558.
+(17) (a) Tan, D.-X.; Manchester, L. C.; Terron, M. P.; Flores, L. J.;
+Reiter, R. J. J. Pineal Res. 2007, 42, 28. (b) Spadoni, G.; Bedini, A.;
+Rivara, S.; Mor, M. CNS Neurosci. Ther. 2011, 17, 733.
+(18) Dubocovich, M. L.; Yun, K.; Al-Ghoul, W. M.; Benloucif, S.;
+Masana, M. I. FASEB J. 1998, 12, 1211.
+(19) (a) Mari, M.; Lucarini, S.; Bartoccini, F.; Piersanti, G.; Spadoni,
+G. Beilstein J. Org. Chem. 2014, 10, 1991. (b) Wang, H.; Reisman, S. E.
+Angew. Chem., Int. Ed. 2014, 53, 6206. (c) Wang, L.; Yang, D.; Han, F.;
+D. Li, D.; D. Zhao, D.; R.Wang, R. Org. Lett. 2015, 17, 176.
+(d) Kandukuri, S. R.; Bahamonde, A.; Chatterjee, I.; Jurberg, I. D.;
+Escudero-Adàn, E. C.; Melchiorre, P. Angew. Chem., Int. Ed. 2015, 54,
+1485.
+(20) Shimizu, Y.; Morimoto, H.; Zhang, M.; Ohshima, T. Angew.
+Chem., Int. Ed. 2012, 51, 8564.
+(21) For
+the importance of 2-methyltryptamine in medicinal
+chemistry, see: (a) Slade, J.; Parker, D.; Girgis, M.; Wu, R.; Joseph,
+S.; Repič, O. Org. Process Res. Dev. 2007, 11, 721. (b) René, O.; Fauber,
+B. P. Tetrahedron Lett. 2014, 55, 830.
+(22) Wiedenau, P.; Blechert, S. Synth. Commun. 1997, 27, 2033.
+(23) Khuizen, E. C.; Kiessling, L. L. Org. Lett. 2009, 11, 193.
+(24) De Cola, C.; Manicardi, A.; Corradini, R.; Izzo, I.; De Riccardis,
+F. Tetrahedron 2012, 68, 499.
+
+Article
+
+J.; Lehn,
+
+(25) Kolomiets, E.; Buhler, E.; Candau, S.
+J.-M.
+Macromolecules 2006, 39, 1173.
+(26) Balaji, P. V.; Chandrasekaran, S. Chem. Commun. 2014, 50, 70−
+72.
+(27) Schuck, D. C.; Jordao, A. K.; Nakabashi, M.; Cunha, A. C.;
+Ferreira, V. F.; Garcia, C. R. S. Eur. J. Med. Chem. 2014, 78, 375.
+(28) Hwang, K. J.; Lee, T. S. Synth. Commun. 1999, 29, 2099.
+(29) Yamada, F.; Saida, Y.; Somei, M. Heterocycles 1986, 24, 2619.
+(30) Mor, M.; Rivara, S.; Silva, C.; Bordi, F.; Palazzi, P. V.; Spadoni,
+G.; Diamantini, G.; Tarzia, G.; Fraschini, F.; Lucini, V.; Nonno, R.;
+Stankov, B. M. J. Med. Chem. 1998, 41, 3831.
+(31) Yang, S.-W.; Cordell, G. A. J. Nat. Prod. 1997, 60, 44.
+(32) Chakrabarty, M.; Ghosh, N.; Basak, R.; Harigaya, Y. Synth.
+Commun. 2004, 34, 421−434.
+(33) Du, Y.; Huang, H.-Y.; Liu, H.; Ruan, Y.-P.; Huang, P.-Q. Synlett
+2011, 4, 565.
+(34) Cho, C. S.; Kim, B. T.; Kim, T.-J.; Shim, S. C. J. Org. Chem.
+2001, 66, 9020.
+(35) Shi-Jin, Q.; Wang, G.-F.; Duan, W.-H.; Yao, S.-Y.; Zuo, J.-P.;
+Tan, C.-H.; Zhu, D.-Y. Bioorg. Med. Chem. 2011, 19, 3120.
+(36) Revial, G.; Jabin, I.; Lim, S.; Pfau, M. J. Org. Chem. 2002, 67,
+2252.
+
+3222
+
+DOI: 10.1021/acs.joc.5b00195
+J. Org. Chem. 2015, 80, 3217−3222
+
+

@@ -1,0 +1,1836 @@
+Article
+
+pubs.acs.org/joc
+
+Synthesis of Unusual N‑Acylated Aminosugar Fragments of
+Mycobacterium marinum Lipooligosaccharide IV
+Lei Wang, Mengyao Dong, and Todd L. Lowary*
+Alberta Glycomics Centre and Department of Chemistry, University of Alberta, Gunning−Lemieux Chemistry Centre, Edmonton,
+AB T6G 2G2, Canada
+*S Supporting Information
+
+ABSTRACT: A convergent strategy was developed for the stereoselective synthesis of four unusual N-acylated monosaccharides
+(5−8), which are fragments of lipooligosaccharide IV (LOS-IV) from Mycobacterium marinum. A critical substrate-controlled
+asymmetric cyclization of an amino acid derived oxazolidine provided a key lactam intermediate 11, which was successfully
+converted to targets 5−7. The key step in the synthesis of 8 was a one-pot cascade oxidation−cyclization−oxidation reaction of a
+Boc-protected amino alcohol, prepared from 3-butynol, which led to the formation of lactam 15. The ﬁve-membered ring lactam
+intermediates in these synthetic routes were sensitive to elimination side reactions, but careful manipulation of the reaction
+sequence allowed for the stereoselective synthesis of the targets. This work represents the ﬁrst synthesis of these unusual motifs,
+which have been shown to be essential to the bioactivity of LOS-IV.
+
+■ INTRODUCTION
+
+Lipooligosaccharides (LOSs) are antigenic cell surface glyco-
+lipids found in the cell wall complex of mycobacteria.1 They are
+produced by a range of mycobacteria, including Mycobacterium
+smegmatis,3 M. gastri,4−6 M. malmoense,7 M.
+kansasii,2 M.
+marinum,8−10 and the Canetti strain of M. tuberculosis.11 Recent
+investigations12 support a role for LOSs in important biological
+events,
+including sliding motility, bioﬁlm formation, and
+infection of host macrophages; however, their precise role in
+mycobacterial virulence remains unclear.13
+M. marinum produces four LOSs (LOS-I−IV, Figure 1).
+Similar to all LOSs reported to date, these molecules contain an
+acylated trehalose core, which is functionalized with a species-
+speciﬁc glycan. The glycan in M. marinum LOS-IV is
+terminated with a family of N-acylated 4-amino-4,6-dideoxy-
+galactopyranose residues.10 These unusual N-acylated mono-
+saccharides share a common lactam core, diﬀerentiated by
+substitutions at C-2 (CO2H or H) or C-4 (MeO or H). This
+heterogeneity generates two acidic (1 and 2, Figure 2) and two
+neutral (3 and 4) compounds. Compounds 1 and 2, substituted
+by both carboxy (C-2) and methoxy (C-4) groups, account for
+95% of the total LOS-IV derivatives.10 The absolute stereo-
+chemistry of the substituents in the lactam ring of 1−3 have
+been determined using 1H NMR spectroscopy,
+in particular
+through NOE experiments. However, this was not possible for
+4, and it was proposed that its lactam structure was either that
+shown in Figure 2 or its enantiomer.
+Recent studies by Guérardel and co-workers showed that
+LOS-IV induces the expression of both Intercellular Adhesion
+Molecule 1(ICAM-1) and CD40 on macrophages. In addition,
+LOS-IV stimulates Interleukin-8 (IL-8) secretion from THP-1
+
+cells. However, LOS-III did not show these activities,10 thus
+indicating that
+these terminal N-acylated monosaccharides
+confer important biological functions to LOS-IV. The biological
+activity of these motifs,
+in conjunction with their intriguing
+structure, motivated us to develop a synthetic route that would
+provide these compounds in a form that could be used for
+future investigations of their function. In this paper, we describe
+the ﬁrst stereoselective synthesis of these unusual N-acylated
+monosaccharides (5−8). These molecules were synthesized
+bearing an aminooctyl aglycone, a group that provides a
+convenient handle for conjugation, for example, to proteins for
+the generation of monoclonal antibodies.
+
+■ RESULTS AND DISCUSSION
+<para sub=“ques”>
+The targets feature a structure consisting of a highly substituted
+γ-lactam connected through an amide bond to a 4-amino-4,6-
+dideoxy-α-D-galactopyranoside moiety. Retrosynthetic analysis
+of 5−8 is outlined in Scheme 1. The disconnection of the
+amide bond in 5−7 aﬀords protected 4-amino-4,6-dideoxy-
+galactose derivative 9 and three γ-lactams, which could be
+accessed from the same key intermediate 10. Compound 10
+could be produced from the fused bicyclic oxazolidine−
+pyrrolinone 11 through a series of
+functional group trans-
+formations. In turn, 11 could be accessed by stereoselective
+cyclization of 12, which is accessible from D-serine (13). With
+regard to the synthesis of 8, disconnection of the amide bond
+leads to amine 9 and N-methyl lactam 14. Following a series of
+functional group manipulations, Boc-protected lactam 15 could
+</para>
+Received:
+January 9, 2015
+Published: February 2, 2015
+
+© 2015 American Chemical Society
+
+2767
+
+DOI: 10.1021/acs.joc.5b00064
+J. Org. Chem. 2015, 80, 2767−2780
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 1. Structures of M. marinum LOSs.
+
+Figure 2. Structures of unusual N-acylated monosaccharides present in M. marinum LOS-IV (1−4) and synthetic targets (5−8).
+Scheme 1. Retrosynthetic Analysis of 5−8
+
+Scheme 2. Synthesis of 8-Azidooctyl 4-Amino-4,6-dideoxy-α-D-galactopyranoside (9)
+
+<para sub=“ques”>
+lactam 14. The key step is the
+be converted to N-methyl
+conversion of the highly functionalized α-amino acid ester 1614
+to lactam 15.
+</para>
+<para sub="scope">
+Synthesis of Monosaccharide 9. With a plan in place, the
+synthesis began with the preparation of galactopyranoside
+
+derivative 9 (Scheme 2). Glucopyranoside 1815 was treated
+with tosyl chloride, leading to regioselective tosylation of the C-
+6 hydroxyl group to form 19 in 95% yield. Subsequent
+reduction of 19 by LiAlH4 provided 6-deoxysugar 20 in 85%
+yield. Triﬂation of 20, followed by azide substitution at room
+</para>
+2768
+
+DOI: 10.1021/acs.joc.5b00064
+J. Org. Chem. 2015, 80, 2767−2780
+
+The Journal of Organic Chemistry
+
+Article
+<para sub="scope">
+temperature, provided, in 85% overall yield, azide 21. Azide
+reduction by the Staudinger reaction and triﬂuoroacetylation of
+the resulting amine gave the corresponding triﬂuoroacetamide
+derivative 23 in 79% yield over the two steps. The anomeric
+allyl group in 23 was then removed by treatment with a
+catalytic amount of PdCl2 in a solution of methanol and
+CH2Cl2 to aﬀord the hemiacetal, which, upon exposure to
+trichloroacetonitrile, Cs2CO3, and 4 Å molecular sieves in
+anhydrous CH2Cl2, gave the desired trichloroacetimidate
+donor. Glycosylation of the trichloroacetimidate donor with
+8-azido-octanol in the presence of TMSOTf was α-selective,
+aﬀording 24 in 68% overall yield from 23. Finally,
+the
+triﬂuoroacetyl protecting group was removed under basic
+conditions to aﬀord 8-azidooctyl 4-amino-4,6-dideoxy-galacto-
+pyranoside (9) in 96% yield.
+</para>
+<para sub="scope">
+Synthesis of Key Lactam Precursor 11. After
+
+the
+successful synthesis of 9, we turned our attention to the
+preparation of the protected lactam derivative 11. The key issue
+was to introduce stereocenters at α and β positions of the
+lactam. In previous work, Ling and co-workers (Scheme 3)16
+treated α-alkyl-β-keto amide 25 with DBU at 110 °C, which led
+to a cyclization−dehydration sequence forming α,β-unsaturated
+lactam 27.
+</para>
+Scheme 3. Reference Method for Synthesis of α,β-
+Unsaturated Lactam 27
+<para sub="scope">
+Inspired by this reaction, we hypothesized that, if α-methoxy-
+β-keto amide 12 (Scheme 4) was reacted with DBU, a product
+with the hydroxyl group cis to ester would be formed because of
+H-bonding with the carbonyl group. In addition, we anticipated
+that the methoxy group would be trans to the hydroxy group
+due to a dipole eﬀect. With this plan in mind, we started our
+synthetic work from D-serine methylester hydrochloride (13).
+This α-amino ester was condensed with pivaldehyde to aﬀord
+an oxazolidine intermediate that was directly coupled with
+acetoacetic acid in the presence of EDC and DMAP, giving β-
+keto amide 28 in 77% overall yield. Iodosobenzenediacetate-
+mediated oxidation of 28 in methanol provided the α-methoxy-
+β-keto amide 12 in 90% yield. DBU-promoted cyclization of 12
+was carried out as reported by Ling and co-workers; however,
+</para>
+Scheme 4. Synthesis of Oxazolidine 11
+<para sub="scope">
+in our hands, it was necessary to use a lower temperature (60
+°C) to avoid the dehydration following cyclization. After 12 h,
+two diastereomeric cyclized products were formed (ratio 9:1
+from the 1H NMR spectrum of the crude product), which
+could be separated by chromatography. Pleasingly, NOESY
+experiments (see the Supporting Information) showed that the
+major product (70% isolated yield) was
+the desired
+intermediate 11 and the minor product (8% isolated yield)
+was the undesired stereoisomer (29) where the hydroxyl and
+methoxy groups are cis. X-ray crystallographic analysis of 11
+further conﬁrmed the structure of the major product (see
+Figure S1 and Tables S1 and S2 in the Supporting
+Information).
+</para>
+<para sub=“opt”>
+The next step was to protect the tertiary alcohol in 11 as a
+benzyl ether. Mindful of the anticipated base-sensitivity of 11,
+initial attempts to benzylate this tertiary alcohol were carried
+out under acidic conditions (TMSOTf and benzyl trichlor-
+oacetimidate). However, these attempts were unsuccessful, and
+so we turned our attention to base-promoted alkylation.
+Treatment of alcohol 11 with NaH and benzyl bromide (2
+equiv) led to the formation of two benzylated compounds
+(ratio 24:71) and a trace amount of elimination byproduct 35
+(Table 1). Disappointingly, NOESY experiments (see the
+Supporting Information) conﬁrmed that the major product was
+34, in which the substituents α and β to carbonyl group were
+cis. Presumably, upon deprotonation of alcohol with base, the
+resulting anion undergoes a reversible retro-aldol reaction
+(Scheme 5).17 Although, upon recyclization, both stereo-
+isomers can be formed in this process, the cis intermediate
+32 would be expected to react faster with benzyl bromide given
+dipolar eﬀects, leading to a majority of 34. We imagined that
+using a higher concentration of benzyl bromide would allow the
+trapping of alkoxide 30 before ring opening. Gratifyingly, as
+outlined in Table 1, increasing the ratio of BnBr to DMF to 1:2,
+led to a 3:2 ratio of the desired (33) to undesired (34)
+stereoisomers. Further increasing the ratio of BnBr to DMF to
+3:1 and decreasing the temperature to −15 °C gave a 9:1
+mixture of 33 and 34.
+</para>
+<para sub="scope">
+Synthesis of Target 5. After the successful alkylation of the
+tertiary alcohol, a series of
+functional group manipulations
+converted 33 into the key intermediate 10 (Scheme 6). Acidic
+conditions were used to cleave the oxazolidine ring in 81%
+yield. The primary alcohol product of this reaction, 36, was
+then converted to TBS ether 37 and then N-methyl amide 38
+in 83% yield over the two steps. Finally, n-Bu4NF deprotection
+of the TBS ether provided 10 in 89% yield. With 10 in hand,
+we examined a number of diﬀerent oxidation conditions (Jones,
+</para>
+2769
+
+DOI: 10.1021/acs.joc.5b00064
+J. Org. Chem. 2015, 80, 2767−2780
+
+The Journal of Organic Chemistry
+Table 1. Protection of Tertiary Alcohol in Bicyclic Intermediate 11a
+
+Article
+
+entry
+
+1
+2
+3
+4
+
+T (°C)
+0
+0
+0
+−15
+
+BnBr:DMF
+
+2 equiv of BnBr
+1:2
+3:1
+3:1
+
+products distribution (NMR yieldb)
+
+33 (%)
+
+34 (%)
+
+24
+60
+80
+90
+
+71
+40
+20
+10
+
+35 (%)
+
+5
+
+aReaction conditions: 11 (1 equiv), NaH (1.5equiv), n-Bu4NI (1.2 equiv). bYields were obtained by integration of CO2CH3 protons of the products
+observed in the crude 1H NMR spectrum.
+<para sub="scope">
+debenzylation and reduction of 42 was achieved in a mixture
+of methanol, water, and acetic acid (10:1:0.1) under a H2
+atmosphere with 10% Pd/C as the catalyst to give an 89% yield
+of 5.
+</para>
+Scheme 5. Proposed Mechanism for the Formation of
+Byproduct 34
+<para sub="scope">
+PDC in wet DMF, RuCl3 and NaIO4, TEMPO and NaClO/
+NaClO2) in an attempt to oxidize the primary alcohol to the
+corresponding carboxylic acid. Unfortunately, none of these
+methods aﬀorded the desired product, and therefore, a two-step
+approach was explored. Ley oxidation (TPAP/NMO) aﬀorded
+aldehyde 39 in 84% yield; subsequent Pinnick oxidation easily
+oxidized 39 to carboxylic acid 40 in 92% yield. With the acid 40
+in hand, amidation with the amine 9 led to 41 in 76% yield.
+The methyl ester was then hydrolyzed by treatment with LiOH
+to furnish 42 (96% yield). Global
+in THF and water
+</para>
+Scheme 6. Synthesis of Target 5
+<para sub=“props”>
+When 5, which was homogeneous based on HRMS analysis,
+was dissolved in CD3OD, the 1H NMR spectrum showed a
+mixture of two species in a 4:3 ratio. When the solvent was
+changed to DMSO-d6, the ratio for these two isomers was still
+4:3; however, it changed to 10:1 after 2 days. Finally, when
+AcOH-d4 was used as solvent, the ratio changed to 2:3 after 1
+day and did not change further (see the Supporting
+Information). Recovery of the samples dissolved in DMSO-d6
+and AcOH-d4 and redissolution in CD3OD resulted in a 4:3
+mixture of isomers. These experiments suggest that, following
+deprotection, N-acylated monosaccharide 5 exists as a mixture
+of two atropisomers about the C-4 amide bond, with solvent-
+dependent populations. Attempts to resolve the atropisomers
+into a single species using elevated temperature (60 °C) NMR
+experiments in CD3OD did not result in signiﬁcant changes in
+the distributions of
+in the
+report10 detailing with the structure of these LOSs from M.
+marinum, atropoisomerism was not reported. In these synthetic
+compounds, restricted rotation about this bond may arise from
+the presence of the aminooctyl aglyone, which would lead to
+these compounds existing at zwitterions at neutral pH. We
+
+the two species.
+
+Interestingly,
+</para>
+2770
+
+DOI: 10.1021/acs.joc.5b00064
+J. Org. Chem. 2015, 80, 2767−2780
+
+The Journal of Organic Chemistry
+<para sub=“props”>
+note, however, that the use of AcOH-d4, which would be
+expected to protonate the molecule, did not lead to a single
+species in the 1H NMR spectrum. Unfortunately, direct
+comparison of the NMR data from 5 with those reported for
+the natural product was not possible. The NMR spectra of the
+natural glycolipids were measured in D2O, a solvent in which 5
+(as well as 6−8) is insoluble.
+</para>
+<para sub="scope">
+Synthesis of Target 6. To synthesize 6, an inverted order
+for the oxidation and amidation sequence was used. The initial
+plan was to hydrolyze the ester in 38 to aﬀord an acid 43 that
+could be coupled to amine 9 (Scheme 7). Unfortunately,
+</para>
+Scheme 7. Attempts to Hydrolyze the Ester in 38
+<para sub="scope">
+presumably due to steric eﬀects arising from the TBS protecting
+group, a number of diﬀerent conditions (e.g., LiOH in THF/
+to 50 °C), NaOH in
+H2O, LiOH in CH3OH/H2O (r.t.
+CH3OH/H2O) only aﬀorded trace amounts of desired product.
+Thus, we decided to hydrolyze the key intermediate 10, which
+possesses a free hydroxyl group (Scheme 8). Compound 10
+was easily hydrolyzed by treatment with LiOH in THF and
+water at room temperature to aﬀord acid 44 in 92% yield.
+TBTU-promoted amidation of 44 with amine 9 led to a 67%
+yield of 45. Late-stage Ley oxidation (TPAP/NMO) and then
+Pinnick oxidation straightforwardly aﬀorded acid precursor 47
+in 80% yield over two steps. Finally, global debenzylation and
+azide reduction provided 6 in 88% yield. Like 5, compound 6
+demonstrated atropisomerism in CD3OD with a ratio about 5:1
+(see the Supporting Information).
+</para>
+<para sub="scope">
+Synthesis of Target 7. To synthesize 7, dicarboxylic acid
+monoester 40 (Scheme 9) was used as the starting material.
+Decarboxylation of 40 in toluene at reﬂux aﬀorded ester 48 as a
+1:1 mixture of diastereoisomers
+in 78% yield. These
+compounds were inseparable using silica gel column
+chromatography and were,
+therefore, carried forward as a
+mixture. Hydroylsis of 48 by treatment with LiOH in THF and
+water aﬀorded the corresponding carboxylic acids 49 (also as an
+inseparable mixture of diastereomers), which were coupled with
+amine 9. The resulting two amidation products, 50 and 51,
+were separated by column chromatography to give major and
+minor products in a 4:1 ratio. NOESY experiments (see the
+</para>
+Scheme 8. Synthesis of Target 6
+
+Article
+<para sub="scope">
+Supporting Information) showed that the interaction between
+the CH3 (δ1.52 ppm) and H-2′(δ3.90 ppm) in the major
+product was stronger than the interaction between the CH3
+(δ1.38 ppm) and H-2′ (δ4.03 ppm) in the minor product.
+These results suggest that 50, with a cis relationship between
+the benzyl ether and amide groups, was formed as the major
+product (64% yield calculated based on amine 9). Compound
+51 was formed as a minor product in 16% yield. Unreacted 49
+was also isolated at the end of the reaction. These yields
+presumably arise from diﬀerences in reactivities between the
+two stereoisomeric acids in the amidation reaction. After
+deprotection in a mixture of methanol, water, and acetic acid
+(10:1:0.1) under a H2 atmosphere with 10% Pd/C as the
+catalyst, 7 was obtained in 87% yield. Unlike the 5 and 6, N-
+acylated monosaccharide 7 did not show any atropisomeric
+eﬀects in CD3OD, which we attribute to more eﬃcient amide
+bond rotation due to the lack of an adjacent carboxylic acid
+group.
+</para>
+<para sub="scope">
+Synthesis of Target 8. The synthesis of 8 (Scheme 10)
+began with 3-butynol (17), which was converted to α-amino
+acid ester 16 following the route reported by Qin and co-
+workers.14 Treatment of 16 with NaIO4 and RuCl3 led to a
+cascade oxidation−cyclization−oxidation sequence, which
+produced N-Boc-protected lactam 15 in 69% yield. Protecting
+the tertiary alcohol of 15 with an acetyl group and removing the
+Boc group aﬀorded lactam 55 in 82% yield over two steps.
+Because lactam 55 was anticipated to be unstable in basic
+solution, milder conditions were chosen for the N-methylation
+step. Thus, N-hydroxymethylation of lactam 55 was achieved
+using paraformaldehyde in acetone in the presence of K2CO3
+and water with sonication. To reduce the hemiaminal 56 to an
+N-methyl group (i.e., compound 57), we initially explored the
+use of Pd/C-catalyzed hydrogenation at atmospheric pressure
+in the presence of triﬂuoroacetic acid. However, this reaction
+was very slow and only a trace amount of product was formed.
+We found, however, that the hemiaminal 56 could be converted
+to 57 by treatment with triethylsilane and triﬂuoroacetic acid at
+room temperature. N-Methylamide 57 was obtained in 81%
+yield over two steps from 55. Hydrolysis of methyl and acetate
+esters in 57 failed when LiOH was used in THF and water; the
+major product formed was elimination of the acetate to give the
+α,β unsaturated carboxylic acid. Fortunately, the use of milder
+conditions (1:2:2 TEA−H2O−CH3OH) led to the desired
+compound 14 in 82% yield. Amidation of the carboxylic acid 14
+with the amine 9 was sluggish and led to 58 in modest 52%
+yield. Given the ease with which the amidations leading to 5−7
+</para>
+2771
+
+DOI: 10.1021/acs.joc.5b00064
+J. Org. Chem. 2015, 80, 2767−2780
+
+The Journal of Organic Chemistry
+
+Scheme 9. Synthesis of Target 7
+
+Article
+
+Scheme 10. Synthesis of Target 8
+<para sub="scope">
+were carried out, the relatively low yield and sluggishness of the
+reaction were surprising. However, attempts to improve the
+yield of the product by changing the reaction conditions (e.g.,
+use of EDC and DIEA) were unsuccessful. Debenzylation and
+reduction of 58 was achieved in a mixture of methanol, water,
+and acetic acid (10:1:0.1) under a H2 atmosphere with 10%
+Pd/C as the catalyst to aﬀord 8. The 1H NMR spectrum of 8,
+similar to that obtained for 7, did not show evidence of
+atropisomerism.
+</para>
+<para sub=“props”>
+As was the case for 5, comparison of the NMR data for 8
+with that reported for the polysaccharide was prohibited by the
+insolubility of 8 in D2O, the solvent used for NMR studies of
+the naturally occurring glycan. In this context,
+it should be
+noted that the synthesis of the enantiomer of 16, which could
+also be prepared from 3-butynol using the route described
+previously,14 would enable the production of a lactam that
+could be used to prepare a derivative 8 with the opposite
+stereochemistry in this side-chain appendage.
+</para>
+■ CONCLUSION
+In summary, an eﬃcient convergent strategy was developed for
+the synthesis of four unusual N-acylated monosaccharides (5−
+8) fragments present in LOS-IV from M. marinum. The general
+
+the synthesis of 5−7 was
+
+approach to the targets involved the formation of
+lactam
+intermediates (40, 44, 49, and 14), which were coupled to
+aminosugar 9 and then deprotection of the resulting product.
+Monosaccharide 9 was prepared via a conventional route. The
+lactam moieties required for the targets were assembled via two
+approaches. A key feature of the sequence leading to the lactam
+precursors needed for
+the
+construction of highly substituted oxazolidine−pyrrolinone
+bicyclic ring system 11 through a substrate controlled
+stereoselective cyclization of α-methoxy-β-keto amide 12.
+This reaction installed the two key stereocenters of the lactam
+moiety in a single step. A diﬀerent approach was developed to
+synthesize the lactam needed for the preparation of target 8. A
+cascade oxidation−cyclization−oxidation sequence of amino
+acid 16 was used to construct the core lactam 15. Due to the
+decomposition under strongly basic conditions, a milder
+approach (hemiaminal formation with paraformaldehyde and
+K2CO3, followed by reaction with triethylsilane and triﬂuoro-
+acetic acid), was used to furnish the N-methyl lactam 14. The
+routes developed here will be useful in preparation of building
+blocks needed for the synthesis of
+the complete LOS-IV
+molecule. In addition, 5−8 have been synthesized in a form for
+
+2772
+
+DOI: 10.1021/acs.joc.5b00064
+J. Org. Chem. 2015, 80, 2767−2780
+
+The Journal of Organic Chemistry
+
+conjugation to appropriate proteins and/or probes and hence
+represent useful biochemical tools.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Experimental Methods. All reagents were purchased
+from commercial sources and were used without further puriﬁcation
+unless noted. All reactions were monitored by TLC on silica gel 60-
+F254 (0.25 mm). Visualization of
+the reaction components was
+achieved using UV ﬂuorescence (254 nm) and/or by charring with
+acidiﬁed anisaldehyde solution in ethanol or KMnO4 in water or
+cerium ammonium molybdate stain. Organic solvents were evaporated
+under reduced pressure, and the products were puriﬁed by column
+chromatography on silica gel (230−400 mesh). Optical rotations were
+measured in a microcell (1 cm, 1 mL) at ambient temperature and are
+in units of degree·mL/(g·dm). 1H NMR spectra were recorded at 400
+MHz, 500 MHz, 600 MHz or 700 Mz, and chemical shifts are
+referenced to residual CHCl3 (7.26 ppm, CDCl3), CHD2OD (3.30
+ppm, CD3OD), or DMSO-d5 (2.50 ppm, DMSO-d6). 13C NMR
+spectra were recorded at 125 MHz, and chemical shifts are referenced
+to CDCl3 (77.0 ppm) or CD3OD (49.3 ppm). Reported splitting
+patterns are abbreviated as s = singlet, d = doublet, t = triplet, m =
+multiplet, br = broad, app = apparent. Assignments of NMR spectra
+were based on two-dimensional experiments (1H−1H COSY, HSQC
+and HMBC), and stereochemistry of the anomeric centers of the
+pyranose rings was conﬁrmed by measuring 1JC‑1,H‑1 via coupled
+HSQC experiments. ESI/TOF-HRMS spectra were recorded on
+samples suspended in THF or CH3OH and added NaCl.
+8-Azidooctyl 4-[(2′R,3′S,4′R)-3′-(Hydroxy)-4′-methoxy-2′-
+carboxyl-1′,3′-dimethyl-5′-oxopyrrolidine-2′-carboxamido]-
+4,6-dideoxy-α-D-galactopyranoside (5). A solution of 42 (30 mg,
+0.037 mmol) in CH3OH (5 mL), water (0.5 mL), and acetic acid (0.1
+mL) was treated with palladium on charcoal (10%, 10 mg) and
+subjected to a hydrogen atmosphere for 20 h. The mixture was ﬁltered
+through Celite, and the ﬁltrate was concentrated. The residue was
+subjected to ﬂash chromatography (C18 column, gradient 0 → 50%
+CH3OH−H2O) to yield 5 (17 mg, 89% yield) as a white amorphous
+solid. [α]D = +28.6 (c 0.3, CH3OH). The NMR data showed that there
+were two atropisomers in CD3OD in a 4:3 ratio. 1H NMR (500 MHz,
+CD3OD, δ
+H) 4.80 (d, 1 H, J = 3.5 Hz, H-1 (major)), 4.78 (d, 1 H, J =
+3.5 Hz, H-1 (minor)), 4.22−4.13 (m, 2H, H-4 and H-5), 3.95 (s, 1 H,
+CH3OCH (major)), 3.96−3.90 (m, 1 H, H-3), 3.85 (s, 1 H, CH3OCH
+(minor)), 3.69−3.66 (m, 2 H, octyl OCH2 and H-2), 3.66 (s, 3 H,
+OCH3 (minor)), 3.55−3.59 (m, 1 H, H-2), 3.49−3.44 (m, 1 H, octyl
+OCH2), 2.91−2.88 (m, 2 H, CH2NH2), 2.90 (s, 3 H, NCH3 (major)),
+2.80 (s, 3 H, NCH3 (minor)), 1.68−1.60 (m, 4 H, CH2
+× 2), 1.55 (s, 3
+H, CCH3 (minor)), 1.44−1.32 (m, 8 H, CH2
+× 4), 1.21 (d, 3 H, J =
+6.5 Hz, H-6 (major)), 1.18 (d, 3 H, J = 6.5 Hz, H-6 (minor)), 1.17 (s,
+3 H, CCH3 (major)); 13C NMR (125 MHz, CD3OD, δ
+C) for major
+atropisomer 173.3 (CH3NCO), 167.9 (HNCO), 99.0 (C-1), 85.2
+(CH3OCH), 78.9 (CH3COH), 72.5 (CCO2H), 70.1 (C-3), 69.1 (C-
+2), 68.0 (OCH2CH2), 64.5 (C-5), 58.8 (OCH3), 54.8 (C-4), 39.3
+× 6), 17.7 (CCH3), 16.3
+(CH2NH2), 29.2 to 28.5 (NCH3 and CH2
+(C-6); 13C NMR (125 MHz, CD3OD, δ
+C) for minor atropisomer
+174.2 (CH3NCO), 168.6 (HNCO), 99.0 (C-1), 83.2
+(CH3OCH), 75.7 (CH3COH), 69.9 (C-3), 69.2 (C-2), 68.1
+(CCO2H), 67.9 (OCH2CH2), 64.9 (C-5), 59.6 (OCH3), 54.7 (C-4),
+× 6), 22.0 (CCH3),
+39.3 (CH2NH2), 29.2 to 28.5 (NCH3 and CH2
+16.1 (C-6); HRMS (ESI) calcd for (M + Na) C23H41N3NaO10:
+542.2684. Found: 542.2678.
+8-Azidooctyl 4-[(2′S,3′S,4′R)-3′-(Hydroxy)-4′-methoxy-2′-
+carboxyl-1′,3′-dimethyl-5′-oxopyrrolidine-2′-carboxamido]-
+4,6-dideoxy-α-D-galactopyranoside (6). To a solution of 47 (15
+mg, 0.018 mmol) in CH3OH (5 mL), water (0.5 mL), and acetic acid
+(0.1 mL) was added palladium on charcoal (10%, 7 mg), and the
+mixture was subjected to a hydrogen atmosphere for 20 h. The mixture
+was ﬁltered through Celite, and the ﬁltrate was concentrated. The
+residue was subjected to ﬂash chromatography (C18 column, 0 →
+50% CH3OH−H2O) to yield 6 (8 mg, 88% yield) as a white soild.
+[α]D = +117.8 (c 0.3, CH3OH). The NMR data showed that there
+were two atropisomers in CD3OD in a 5:1 ratio. 1H NMR for major
+</para>
+Article
+
+<para sub=“exp”>
+× 2), 1.42−1.36 (m, 8 H, CH2
+
+atropisomer: 1H NMR (500 MHz, CD3OD, δ
+H) 4.77 (d, 1 H, J1,2 = 4.0
+Hz, H-1), 4.26 (dd, 1 H, J3,4 = 4.5 Hz, J4,5 = 1.5 Hz, H-4), 4.15 (qd, 1
+H, J5,6 = 6.5 Hz, J4,5 = 1.5 Hz, H-5), 3.96 (s, 1 H, CH3OCH), 3.84 (dd,
+1 H, J2,3 = 10.0 Hz, J3,4 = 4.5 Hz, H-3), 3.67−3.62 (m, 2 H, octyl
+OCH2 and H-2), 3.56 (s, 3 H, OCH3), 3.46 (dt, 1 H, J = 10.0, 6.5 Hz,
+octyl OCH2), 2.91 (t, J = 8.0 Hz, 2 H, CH2NH2), 2.85 (s, 3 H, NCH3),
+1.67−1.60 (m, 4 H, CH2
+× 4), 1.31 (s,
+3 H, CCH3), 1.07 (d, 3 H, J5,6 = 6.5 Hz, H-6); 13C NMR for major
+C) 173.7 (CH3NC
+atropisomer: 13C NMR (125 MHz, CD3OD, δ
+O), 169.1 (HNCO), 99.0 (C-1), 84.3 (CH3OCH), 79.1
+(CH3COH), 70.3 (C-2), 69.8 (C-3), 67.9 (octyl OCH2), 64.3 (C-
+5), 58.9 (OCH3), 55.0 (C-4), 39.3 (CH2NH2), 29.0 (CH2), 28.8
+(CH2), 28.7 (CH2), 28.6 (NCH3), 27.2 (CH2), 25.9 (CH2), 25.7
+(CH2), 17.8 (CCH3), 15.7 (C-6); HRMS (ESI) calcd for (M + Na)
+C23H41N3NaO10: 542.2684. Found: 542.2677.
+8-Azidooctyl 4-[(2′S,3′S,4′R)-3′-(Hydroxy)-4′-methoxy-1′,3′-
+dimethyl-5′-oxopyrrolidine-2′-carboxamido]-4,6-dideoxy-α-D-
+galactopyranoside (7). A solution of 50 (15.0 mg, 0.019 mmol) in
+CH3OH (5 mL), water (0.5 mL), and acetic acid (0.1 mL) was treated
+with palladium on charcoal (10%, 8 mg) and subjected to a hydrogen
+atmosphere for 20 h. The mixture was ﬁltered through Celite, and the
+ﬁltrate was concentrated. The residue was triturated with CH2Cl2 to
+yield 7 (8.1 mg, 0.016 mmol, 87% yield) as a white amorphous solid.
+[α]D = +118.3 (c 0.3, CH3OH); 1H NMR (600 MHz, CD3OD,, δ
+H)
+4.78 (d, 1 H, J1,2 = 4.0 Hz, H-1), 4.34 (dd, 1 H, J3,4 = 4.5 Hz, J4,5 = 1.5
+Hz, H-4), 4.15 (qd, 1 H, J5,6 = 6.5 Hz, J4,5 = 1.5 Hz, H-5), 4.06 (s, 1 H,
+CH3OCH), 4.01 (s, 1 H, CHCONH), 3.87 (dd, 1 H, J2,3 = 10.5 Hz,
+J3,4 = 4.5 Hz, H-3), 3.67 (dt, 1 H, J = 9.5, 7.0 Hz, octyl OCH2), 3.62
+(dd, 1 H, J2,3 = 10.5 Hz, J1,2 = 4.0 Hz, H-2), 3.59 (s, 3 H, OCH3), 3.45
+(dt, 1 H, J = 9.5, 6.5 Hz, octyl OCH2), 2.90 (t, 2 H, J = 7.5 Hz,
+CH2NH2), 2.75 (s, 3 H, NCH3), 1.68−1.62 (m, 4 H, CH2
+× 2), 1.43−
+× 4), 1.37 (s, 3 H, CCH3), 1.11 (d, 3 H, J5,6 = 6.5
+1.38 (m, 8 H, CH2
+C) 172.8 (CH3NCO),
+Hz, H-6); 13C NMR (125 MHz, CD3OD, δ
+170.0 (HNCO), 98.9 (C-1), 84.1 (CH3OCH), 76.1 (CH3COH),
+70.1 (CHCONH), 69.4 (C-3), 69.2 (C-2), 67.9 (octyl OCH2), 64.1
+(C-5), 58.9 (OCH3), 54.7 (C-4), 39.2 (CH2NH2), 29.0 (CH2), 28.8
+(CH2), 28.7 (CH2), 27.8 (NCH3), 27.2 (CH2), 25.9 (CH2), 25.7
+(CH2), 20.5 (CCH3), 15.6 (C-6); HRMS (ESI) calcd for (M + H)
+C22H42N3O8: 476.2966. Found: 476.2961.
+8-Azidooctyl 4-[(2′S,3′R)-3′-(Hydroxy)-1′,3′-dimethyl-5′-
+oxopyrrolidine-2′- carboxamido]-4,6-dideoxy-α-D-galacto-
+pyranoside (8). A solution of 58 (5.1 mg, 0.0077 mmol) in
+CH3OH (5 mL), water (0.5 mL), and acetic acid (0.1 mL) was treated
+with palladium on charcoal (10%, 5 mg) and subjected to a hydrogen
+atmosphere for 8 h. The mixture was ﬁltered through Celite, and the
+ﬁltrate was concentrated. The residue was triturated with CH2Cl2 to
+aﬀord 8 (2.8 mg, 81% yield) as a white amorphous solid. [α]D = +89.0
+(c 0.1, CH3OH); 1H NMR (700 MHz, CD3OD, δ
+H) 8.02 (d, 1 H, J =
+10.5 Hz, NH), 4.77 (d, 1 H, J1,2 = 4.0 Hz, H-1), 4.33−4.35 (m, 1 H, H-
+4), 4.14 (q, 1 H, J5,6 = 6.5 Hz, H-5), 4.09 (s, 1 H, CHCONH), 3.85
+(dd, 1 H, J2,3 = 10.5 Hz, J3,4 = 4.5 Hz, H-3), 3.66 (dt, 1 H, J = 10.0, 7.0
+Hz, octyl OCH2), 3.59 (dd, 1 H, J2,3 = 10.5 Hz, J1,2 = 4.0 Hz, H-2),
+3.44 (dt, 1 H, J = 10.0, 6.5 Hz, octyl OCH2), 2.90 (t, 2 H, J = 7.5 Hz,
+CH2NH2), 2.76 (s, 3 H, NCH3), 2.61 (d, 1 H, J = 16.5 Hz, CH2C
+O), 1.31 (d, 1 H, J = 16.5 Hz, CH2CO), 1.68−1.60 (m, 4 H, CH2
+×
+2), 1.49 (s, 3 H, CCH3), 1.44−1.36 (m, 8 H, CH2
+× 4), 1.12 (d, 3 H,
+J5,6 = 6.5 Hz, H-6); 13C NMR (125 MHz, CD3OD, δ
+C) 176.4
+(CH3NCO), 171.5 (HNCO), 100.5 (C-1), 74.3 (CHCONH),
+73.2 (CH3COH), 70.9 (C-3 or C-2), 70.8 (C-3 or C-2), 69.4 (octyl
+OCH2), 65.2 (C-5), 56.0 (C-4), 46.2 (CH2CO), 40.8 (CH2NH2),
+30.5 (CH2), 30.3 (CH2), 30.2 (CH2), 29.1 (NCH3), 28.9 (CCH3),
+28.6 (CH2), 27.4 (CH2), 27.2 (CH2), 17.1 (C-6); HRMS (ESI) calcd
+for (M + H) C21H40N3O7: 446.2861. Found: 446.2860.
+
+8-Azidooctyl 4-Amino-2,3-di-O-benzyl-4,6-dideoxy-α-D-
+galactopyranoside (9). To a solution of 24 (350 mg, 0.59 mmol)
+in CH3OH (16 mL) at room temperature was added NaOH (aq.) (4
+mL, 1 N, 4 mmol). The mixture was heated at reﬂux for 4 days, before
+being cooled, diluted with water, and extracted with CH2Cl2. The
+combined organic phases were washed with brine, dried over Na2SO4,
+and concentrated to aﬀord 9 (281 mg, 96% yield) as a colorless oil. Rf
+</para>
+2773
+
+DOI: 10.1021/acs.joc.5b00064
+J. Org. Chem. 2015, 80, 2767−2780
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+0.17 (2:3 hexane−EtOAc); [α]D = +42.3 (c 0.4, CH2Cl2); 1H NMR
+H) δ 7.42−7.30 (m, 10 H, ArH), 4.83 (d, 1 H, J =
+(500 MHz, CDCl3, δ
+12.0 Hz, PhCH2, C-2), 4.79 (d, 1 H, J = 11.5 Hz, PhCH2, C-3), 4.77
+(d, 1 H, J1,2 = 4.0 Hz, H-1), 4.72 (d, 1 H, J = 11.5 Hz, PhCH2, C-3),
+4.69 (d, 1 H, J = 12.0 Hz, PhCH2, C-2), 4.05 (qd, 1 H, J5,6 = 6.5 Hz,
+J4,5 = 1.5 Hz, H-5), 3.89 (dd, 1 H, J2,3 = 10.0 Hz, J3,4 = 4.0 Hz, H-3),
+3.78 (dd, 1 H, J2,3 = 10.0 Hz, J1,2 = 4.0 Hz, H-2), 3.65 (dt, 1 H, J =
+10.0, 7.0 Hz, octyl OCH2), 3.47 (dt, 1 H, J = 10.0, 7.0 Hz, octyl
+OCH2), 3.29 (t, 2 H, J = 7.0 Hz, CH2N3), 3.20 (dd, 1 H, J3,4 = 4.0 Hz,
+J4,5 = 1.5 Hz, H-4), 1.68−1.60 (m, 4H, CH2
+× 2), 1.48 (br, 2H, NH2),
+1.42−1.37 (m, 8H, CH2
+× 4), 1.26 (d, 3 H, J5,6 = 6.5 Hz, H-6); 13C
+NMR (125 MHz, CDCl3, δ
+C) δ 138.8 (Ar), 128.4 (Ar), 128.3 (Ar),
+127.8 (Ar), 127.6 (Ar), 127.63 (Ar), 127.61 (Ar), 97.4 (C-1), 78.6 (C-
+3), 75.5 (C-2), 73.1 (PhCH2, C-2), 72.3 (PhCH2, C-3), 68.1
+(OCH2CH2), 65.1 (C-5), 53.4 (C-4), 51.5 (CH2N3), 29.4 (CH2),
+29.3 (CH2), 29.1 (CH2), 28.8 (CH2), 26.7 (CH2), 26.1 (CH2), 16.8
+(C-6); HRMS (ESI) calcd for (M + H) C28H41N4O4: 497.3122.
+Found: 497.3113.
+
+(2S,4R)-Methyl 2-(tert-Butyl)-3-(2-methoxy-3-oxobutanoyl)-
+oxazolidine-4-carboxylate (12). To a stirred suspension of
+PhI(OAc)2 (1.3 g, 7.2 mmol) in anhydrous CH3OH (25 mL) at
+·OEt2 (0.9 mL, 7.2 mmol). After the
+room temperature was added BF3
+solution became clear, compound 28 (1.5 g, 5.5 mmol) in CH3OH (3
+mL) was added dropwise and the mixture was stirred at room
+temperature for 16 h. At that point, half of the solvent was removed
+·OEt2 was quenched by the addition of a satd aq solution
+and the BF3
+of NaHCO3. The mixture was then extracted with EtOAc. The organic
+phases were washed with brine, dried over Na2SO4, and concentrated,
+and the residue was puriﬁed by ﬂash column chromatography (silica
+
+(2S,3S,4R)-Methyl 3-(Benzyloxy)-2-(hydroxymethyl)-4-me-
+thoxy-1,3-dimethyl-5-oxopyrrolidine-2-carboxylate (10). To a
+solution of 38 (46 mg, 0.10 mmol) in THF (5 mL) was added n-
+Bu4NF solution (0.5 mL, 1.0 M, 0.50 mmol) dropwise at room
+temperature. The mixture was stirred for 3 h. Then water was added,
+and the mixture was extracted with EtOAc. The organic phases were
+washed with brine, dried over Na2SO4, and concentrated. The crude
+residue was puriﬁed by ﬂash column chromatography (silica gel,
+gradient 30 → 50% EtOAc−hexane) to aﬀord 10 (30 mg, 89% yield)
+as a white amorphous solid. Rf 0.32 (2:3 hexane−EtOAc); [α]D =
+H) δ 7.36−7.26
++82.1 (c 0.1, CH2Cl2); 1H NMR (500 MHz, CDCl3, δ
+(m, 5 H, ArH), 4.67 (d, 1 H, J = 11.5 Hz, PhCH2), 4.53 (d, 1 H, J =
+11.5 Hz, PhCH2), 4.13 (d, 1 H, J = 12.5 Hz, CH2OH), 4.10 (s, 1 H,
+CH3OCH), 4.02 (d, 1 H, J = 12.5 Hz, CH2OH), 3.75 (s, 3 H,
+CO2CH3), 3.73 (s, 3 H, OCH3), 2.92 (s, 3 H, NCH3), 1.48 (s, 3 H,
+C) 172.3 (NCO), 170.9
+CCH3); 13C NMR (125 MHz, CDCl3, δ
+(CO2CH3), 138.1 (Ar), 128.3 (Ar), 127.5 (Ar), 126.8 (Ar), 83.4
+(PhCH2OC), 82.2 (CH3OCH), 74.5 (CCO2CH3), 66.0 (PhCH2),
+62.5 (CH2OH), 59.3 (OCH3), 52.7 (CO2CH3), 27.7 (NCH3), 12.8
+(CCH3); HRMS (ESI) calcd for (M + Na) C17H23NNaO6: 360.1418.
+Found: 360.1420.
+
+(3S,6R,7S,7aS)-Methyl 3-(tert-Butyl)-7-hydroxy-6-methoxy-
+7-methyl-5-oxohexahydropyrrolo[1,2-c]oxazole-7a-carboxy-
+late (11). To a solution of 12 (1.50 g, 5.0 mmol) in dry toluene (100
+mL) was added 1,8 diazabicyclo[5.4.0]undec-7-ene (DBU, 0.38 g, 2.5
+mmol), and the mixture was heated at 60 °C for 12 h and then cooled
+to room temperature. The mixture was concentrated, and the crude
+product was puriﬁed by ﬂash column chromatography (silica gel,
+gradient 9 → 13% EtOAc−hexane) to aﬀord 11 (1.12 g, 70% yield) as
+a white amorphous solid. Rf 0.52 (2:3 hexane−EtOAc); [α]D = +35.8
+(c 0.2, CH2Cl2); a sample was recrystallized from hexane and EtOAc,
+mp 136−137 °C; 1H NMR (500 MHz, CDCl3, δ
+H) 4.95 (s, 1 H,
+CH(CH3)3), 4.69 (d, 1 H, J = 9.5 Hz, OCHRHSC), 4.61 (s, 1 H,
+CH3OCH), 3.95 (d, 1 H, J = 9.5 Hz, OCHRHSC), 3.85 (s, 3 H,
+CO2CH3), 3.70 (s, 3 H, OCH3), 2.12 (s, 1 H, OH), 1.33 (s, 3 H,
+CCH3), 0.91 (s, 9 H, C(CH3)3); 13C NMR (125 MHz, CDCl3, δ
+C)
+173.0 (NCO), 171.2 (CO2CH3), 96.1 (CH(CH3)3), 85.6
+(CH3OCH), 81.2 (HOCCH3), 75.8 (CCO2CH3), 69.0 (OCHRHSC),
+59.8 (OCH3), 52.8 (CO2CH3), 36.4 (C(CH3)3), 24.9 (C(CH3)3), 18.6
+(CCH3); HRMS (ESI) calcd for (M + Na) C14H23NNaO6: 324.1418.
+Found: 324.1419.
+</para>
+Article
+<para sub=“exp”>
+gel, gradient 0 → 25% EtOAc−hexane) to yield 12 (1.5 g, 90% yield,
+96:4 = keto−enol tautomers, 3:1 for two inseparable diastereoisomeric
+α-methoxy-β-keto amides) as a colorless oil; Rf 0.20 (3:1 hexane−
+EtOAc); NMR data for major isomer: 1H NMR (500 MHz, CDCl3,
+δ
+H) 5.31 (s, 1 H, CH(CH3)3), 5.30 (dd, 1 H, J = 7.0, 1.5 Hz,
+CHCO2CH3), 4.73 (s, 1 H, CHOCH3), 4.60 (dd, 1 H, J = 8.5, 1.5 Hz,
+OCH2), 3.98 (dd, 1 H, J = 8.5, 7.0 Hz, OCH2), 3.82 (s, 3 H,
+CO2CH3), 3.51 (s, 3 H, CHOCH3), 2.34 (s, 3 H, CH3CO), 0.94 (s,
+C) 207.0 (CH3CO),
+9 H, C(CH3)3); 13C NMR (125 MHz, CDCl3, δ
+170.1 (CO2CH3), 167.9 (NCO), 97.1 (CH(CH3)3), 86.8
+(CHOCH3), 67.7 (OCH2), 58.2 (CHCO2CH3), 57.5 (OCH3), 52.7
+(CO2CH3), 37.2 (C(CH3)3), 26.8 (CH3CO), 25.7 (C(CH3)3);
+NMR data for minor isomer: 1H NMR (500 MHz, CDCl3, δ
+H) 5.34 (s,
+1 H, CH(CH3)3), 4.79 (dd, 1 H, J = 7.0, 2.0 Hz, CHCO2CH3), 4.63 (s,
+1 H, CHOCH3), 4.46 (dd, 1 H, J = 8.5, 2.0 Hz, OCH2), 3.94 (dd, 1 H,
+J = 8.5, 7.0 Hz, OCH2), 3.81 (s, 3 H, CO2CH3), 3.49 (s, 3 H,
+CHOCH3), 2.31 (s, 3 H, CH3CO), 0.99 (s, 9 H, C(CH3)3); 13C
+C) 202.5.0 (CH3CO), 170.0 (CO2CH3),
+NMR (125 MHz, CDCl3, δ
+168.6 (NCO), 97.6 (CH(CH3)3), 88.8 (CHOCH3), 68.8 (OCH2),
+59.3 (CHCO2CH3), 58.6 (OCH3), 52.5 (CO2CH3), 37.1 (C(CH3)3),
+27.0 (CH3CO), 26.0 (C(CH3)3); HRMS (ESI) calcd for (M + H)
+C14H24NO6: 302.1598. Found: 302.1597.
+(2S,3R)-3-Hydroxy-1,3-dimethyl-5-oxopyrrolidine-2-carbox-
+ylic Acid (14). Compound 57 (80 mg, 0.35 mmol) was dissolved in
+TEA (5 mL), CH3OH (10 mL), and water (10 mL), and the mixture
+was stirred at room temperature overnight. Then the solution was
+concentrated, and the resulting residue was subjected to ﬂash column
+chromatography (latrobeads 6RS-8060, gradient 10% → 50%
+CH3OH−CH2Cl2) to yield 14 (49 mg, 82% yield) as a white
+−CH3OH); [α]D = +11.6 (c 0.3,
+amorphous solid; Rf 0.2 (2:1 CH2Cl2
+CH2Cl2); 1H NMR (500 MHz, CD3OD, δ
+H) 3.98 (s, 1 H, NCH), 2.83
+(s, 3 H, NCH3), 2.56 (d, 1 H, J = 17.0 Hz, CH2CO), 2.41 (d, 1 H, J
+= 17.0 Hz, CH2CO), 1.50 (s, 3 H, CCH3); 13C NMR (125 MHz,
+C) 176.1 (NCO), 170.0 (CO2H), 75.0 (NCH), 73.0
+CDCl3, δ
+(CH3COH), 46.6 (CH2CO), 29.4 (NCH3), 28.1 (CCH3); HRMS
+(ESI) (M − H) calcd for C7H10NO4: 172.0615. Found: 172.0618.
+(2S,3R)-1-tert-Butyl 2-Methyl 3-hydroxy-3-methyl-5-oxopyr-
+rolidine-1,2-dicarboxylate (15). Compound 1614 (0.91g, 3.31
+mmol) was dissolved in CCl4 (15 mL), CH3CN (15 mL), and
+water (18 mL). With vigorous stirring, NaIO4 (2.12 g, 9.9 mmol) and
+·H2O (30 mg) were added at 0 °C. The mixture was stirred at
+RuCl3
+room temperature for 1 h, and then EtOAc (30 mL) was added. The
+mixture was washed with a satd aq solution of NaHCO3, and brine,
+dried over Na2SO4, and concentrated. The residue was puriﬁed by
+ﬂash chromatography (silica gel, gradient 50 → 150% EtOAc−hexane)
+to give 15 as a colorless liquid (0.61 g, 69% yield). Rf 0.3 (4:3 EtOAc−
+Hexane); [α]D = +0.19 (c 0.5, CH2Cl2); 1H NMR (500 MHz, CDCl3,
+δ
+H) 4.34 (s, 1 H, NCH), 3.84 (s, 3 H, OCH3), 2.90 (d, 1 H, J = 17.0
+Hz, COCH2), 2.60 (d, 1 H, J = 17.0 Hz, COCH2), 2.26 (br, 1 H, OH),
+1.52 (s, 9 H, C(CH3)3), 1.45 (s, 3 H, CCH3); 13C NMR (125 MHz,
+C) 170.6 (NCO), 169.1 (CO2CH3), 149.0 (CO2C(CH3)3),
+CDCl3, δ
+84.1 (OC(CH3)3), 70.8 (CH3COH), 69.6 (NCH), 52.5 (OCH3), 46.4
+(CH2), 28.2 (CCH3), 27.9 (C(CH3)3); HRMS (ESI) calcd for (M +
+Na) C12H19NNaO6: 296.1105. Found: 296.1105.
+
+Allyl 2,3-Di-O-benzyl-6-O-tosyl-α-D-glucopyranoside (19).
+To a solution of allyl 2,3-di-O-benzyl-α-D-glucopyranoside (18,15
+1.60 g, 4.07 mmol) in anhydrous pyridine (10 mL) was added TsCl
+(1.16 g, 6.10 mmol) at 0 °C. After being stirred for 12 h at room
+temperature, the mixture was diluted with EtOAc (30 mL), washed
+with 1 N HCl, a satd aq solution of NaHCO3, and brine, dried over
+Na2SO4, and concentrated. The crude residue was puriﬁed by ﬂash
+column chromatography (silica gel, gradient 20 → 25% EtOAc−
+hexane) to aﬀord 19 (2.14 g, 95% yield) as a colorless oil. Rf 0.45 (2:1
+hexane−EtOAc); [α]D = +38.1 (c 0.7, CH2Cl2); 1H NMR (500 MHz,
+H) 7.80 (d, 2 H, J = 8.5 Hz, ArH), 7.39−7.22 (m, 12 H, ArH),
+CDCl3, δ
+CH), 5.32 (app dq,
+5.92 (dddd, 1 H, J = 17.0, 10.0, 6.5, 5.0 Hz, CH2
+CH), 5.24 (app dq, 1 H, J = 10.0, 1.0 Hz,
+1 H, J = 17.0, 1.5 Hz, CH2
+CH), 5.02 (d, 1 H, J = 12.0 Hz, PhCH2, C-3), 4.79 (d, 1 H, J1,2
+CH2
+= 3.5 Hz, H-1), 4.74 (d, 1 H, J = 12.0 Hz, PhCH2, C-2), 4.71 (d, 1 H, J
+= 12.0 Hz, PhCH2, C-3), 4.65 (d, 1 H, J = 12.0 Hz, PhCH2, C-2),
+</para>
+2774
+
+DOI: 10.1021/acs.joc.5b00064
+J. Org. Chem. 2015, 80, 2767−2780
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+4.28−4.22 (m, 2 H, H-4 and H-5), 4.13 (app ddt, 1 H, J = 13.0, 5.0,
+CHCH2), 3.97 (app ddt, 1 H, J = 13.0, 6.5, 1.0 Hz,
+1.5 Hz, CH2
+CHCH2), 3.79 (app t, 1 H, J2,3 = J3,4 = 9.5 Hz, H-3), 3.79 (dd, 1
+CH2
+H, J6R,6S = 10.0 Hz, J5,6 = 2.5 Hz, H-6), 3.49 (dd, 1 H, J2,3 = 9.5 Hz, J1,2
+= 3.5 Hz, H-2), 3.45 (dd, 1 H, J6R,6S = 10.0 Hz, J5,6 = 3.0 Hz, H-6), 2.45
+(s, 3 H, PhCH3), 2.23 (d, 1 H, J = 3.0 Hz, OH); 13C NMR (125 MHz,
+C) 144.8 (Ar), 138.7 (Ar), 137.9 (Ar), 133.5 (CHCH2),
+CDCl3, δ
+133.0 (Ar), 129.8 (Ar), 128.6 (Ar), 128.5 (Ar), 128.1 (Ar), 128.0 (Ar),
+127.9 (Ar), 118.5 (CHCH2), 95.6 (C-1), 81.1 (C-3), 79.5 (C-2),
+75.4 (PhCH2, C-3), 73.0 (PhCH2, C-2), 69.5 (C-6), 69.2 and 68.9 (C-
+4 and C-5), 68.4 (CH2CHCH2), 21.7 (CH3PhSO2); HRMS (ESI)
+calcd for (M + Na) C30H34NaO8S: 577.1867. Found: 577.1864.
+Allyl 2,3-Di-O-benzyl-6-deoxy-α-D-glucopyranoside (20). To-
+sylate 19 (2.10 g, 3.79 mmol) was dissolved in THF (30 mL), and
+LiAlH4 (288 mg, 7.58 mmol) was added. The reaction mixture was
+heated at reﬂux for 3 h. After completion of the reaction, the LiAlH4
+was quenched by slowly adding the mixture to ice; then the mixture
+was ﬁltered through Celite. The ﬁlter cake was washed with EtOAc,
+and the resulting cloudy solution was ﬁltered again through Celite.
+The combined organic layers were washed with 1 N HCl, a satd aq
+solution of NaHCO3, and brine, dried over Na2SO4, and concentrated.
+The crude residue was puriﬁed by ﬂash column chromatography (silica
+gel, gradient 10 → 15% EtOAc−hexane) to aﬀord 20 (1.25 g, 85%
+yield) as a colorless oil. Rf 0.39 (4:1 hexane−EtOAc); [α]D = +70.4 (c
+H) 7.41−7.29 (m, 10 H,
+0.2, CH2Cl2); 1H NMR (500 MHz, CDCl3, δ
+CH), 5.37
+ArH), 5.98 (dddd, 1 H, J = 17.0, 10.0, 6.5, 5.0 Hz, CH2
+CH), 5.27 (app dq, 1 H, J =
+(app dq, 1 H, J = 17.0, 1.0 Hz, CH2
+CH), 5.08 (d, 1 H, J = 11.5 Hz, PhCH2, C-3), 4.81
+10.0, 1.0 Hz, CH2
+(d, 1 H, J1,2 = 3.5 Hz, H-1), 4.76 (d, 1 H, J = 12.0 Hz, PhCH2, C-2),
+4.73 (d, 1 H, J = 11.5 Hz, PhCH2, C-3), 4.70 (d, 1 H, J = 12.0 Hz,
+
+PhCH2, C-2), 4.20 (app ddt, 1 H, J = 13.0, 5.0, 1.0 Hz, CH2
+CHCH2),
+CHCH2), 4.05 (app ddt, 1 H, J = 13.0, 6.5, 1.0 Hz, CH2
+3.81 (app t, 1 H, J2,3 = J3,4 = 9.5 Hz, H-3), 3.75 (dq, 1 H, J4,5 = 9.5 Hz,
+J5,6 = 6.0 Hz, H-5), 3.57 (dd, 1 H, J2,3 = 9.5 Hz, J1,2 = 3.5 Hz, H-2),
+3.21 (app td, 1 H, J4,5 = J3,4 = 9.5 Hz, J4,OH = 2.0 Hz, H-4), 2.19 (d, 1
+H, J = 2.0 Hz, OH), 1.27 (d, 3 H, J5,6 = 6.0 Hz, H-6); 13C NMR (125
+C) 138.8 (Ar), 138.1 (Ar), 133.9 (CHCH2), 128.7
+MHz, CDCl3, δ
+(Ar), 128.5 (Ar), 128.1 (Ar), 128.0 (Ar), 127.92 (Ar), 127.91 (Ar),
+118.1 (CHCH2), 95.5 (C-1), 81.3 (C-3), 80.1 (C-2), 75.4 (C-4),
+75.3 (PhCH2, C-3), 72.8 (PhCH2, C-2), 68.2 (CH2CHCH2), 67.1
+(C-5), 17.7 (C-6); HRMS (ESI) calcd for (M + Na) C23H28NaO5:
+407.1829. Found: 407.1825.
+
+Allyl 4-Azido-2,3-di-O-benzyl-4,6-dideoxy-α-D-galacto-
+pyranoside (21). To a solution of 20 (1.25 g, 3.25 mmol) and
+pyridine (3 mL) in anhydrous CH2Cl2 at 0 °C was added Tf2O (1.37
+g, 4.88 mmol) slowly. After being stirred for 1 h, the mixture was
+diluted with CH2Cl2, washed with water, a satd aq solution of
+NaHCO3, and brine, dried over Na2SO4, and concentrated to obtain
+the crude triﬂate, which was dissolved into DMF (15 mL). Excess
+NaN3 (845 mg, 13 mmol) was added, and the mixture was stirred
+overnight at room temperature. After completion of the reaction, the
+mixture was ﬁltered through Celite and the residue was washed with
+EtOAc. The combined solutions were concentrated, and the resulting
+residue was puriﬁed by ﬂash column chromatography (silica gel,
+gradient 4 → 6% EtOAc−hexane) to aﬀord 21 (1.13 g, 85% yield) as a
+colorless oil. Rf 0.61 (4:1 hexane−EtOAc); [α]D = +85.1 (c 0.4,
+H) 7.44−7.29 (m, 10 H,
+CH2Cl2); 1H NMR (500 MHz, CDCl3, δ
+CH), 5.34
+ArH), 5.95 (dddd, 1 H, J = 17.0, 10.0, 6.0, 5.0 Hz, CH2
+
+CH), 5.25 (d, 1 H, J = 10.0 Hz, CH2
+(d, 1 H, J = 17.0 Hz, CH2
+CH), 4.89 (d, 1 H, J = 12.0 Hz, PhCH2, C-3), 4.84 (d, 1 H, J = 12.0
+Hz, PhCH2, C-2), 4.80 (d, 1 H, J1,2 = 3.5 Hz, H-1), 4.79 (d, 1 H, J =
+12.0 Hz, PhCH2, C-3), 4.68 (d, 1 H, J = 12.0 Hz, PhCH2, C-2), 4.12
+CHCH2), 4.10 (dd, 1 H, J2,3 = 9.5
+(dd, 1 H, J = 12.5, 5.0 Hz, CH2
+
+Hz, J3,4 = 3.5 Hz, H-3), 4.03 (dd, 1 H, J = 12.5, 6.0 Hz, CH2
+CHCH2), 4.01 (q, 1 H, J5,6 = 6.5 Hz, H-5), 3.89 (dd, 1 H, J2,3 = 9.5 Hz,
+J1,2 = 3.5 Hz, H-2), 3.75 (d, 1 H, J3,4 = 3.5 Hz, H-4), 1.26 (d, 3 H, J5,6 =
+6.5 Hz, H-6); 13C NMR (125 MHz, CDCl3, δ
+C) 138.4 (Ar), 138.3
+(Ar), 133.9 (CHCH2), 128.5 (Ar), 128.4 (Ar), 128.0 (Ar), 127.8
+(Ar), 127.7 (Ar), 127.6 (Ar), 118.1 (CHCH2), 96.3 (C-1), 78.1 (C-
+3), 76.0 (C-2), 73.6 (PhCH2, C-2), 73.2 (PhCH2, C-3), 68.5
+</para>
+Article
+<para sub=“exp”>
+(CH2CHCH2), 65.2 (C-4), 64.5 (C-5), 17.3 (C-6); HRMS (ESI)
+calcd for (M + Na) C23H27N3NaO4: 432.1894. Found: 432.1893.
+Allyl 4-Amino-2,3-di-O-benzyl-4,6-dideoxy-α-D-galacto-
+pyranoside (22). To a solution of 21 (1.05 g, 2.56 mmol) in THF
+(40 mL) at room temperature was added NaOH (1 M, 10 mL). Then
+a solution of PMe3 (10.0 mL, 1 M in THF, 10.0 mmol) was added
+dropwise. The mixture was stirred at room temperature for 10 h. After
+completion of the reaction, the mixture was diluted with water, and
+extracted with CH2Cl2. The combined organic phases were washed
+with brine, dried over Na2SO4, and concentrated. The crude residue
+was puriﬁed by ﬂash column chromatography (silica gel, gradient 0 →
+2% CH3OH−EtOAc) to aﬀord 22 (0.91 g, 92% yield) as a colorless
+oil. Rf 0.17 (2:3 hexane−EtOAc); [α]D = +98.3 (c 0.5, CH2Cl2); 1H
+H) 7.42−7.29 (m, 10 H, ArH), 5.97 (dddd,
+NMR (500 MHz, CDCl3, δ
+CH), 5.36 (apt dq, 1 H, J =
+1 H, J = 17.0, 10.0, 6.5, 5.0 Hz, CH2
+
+CH), 5.25 (apt dq, 1 H, J = 10.0, 1.0 Hz, CH2
+17.0, 1.5 Hz, CH2
+CH), 4.83 (d, 1 H, J1,2 = 4.0 Hz, H-1), 4.81 (d, 1 H, J = 12.0 Hz,
+PhCH2, C-2), 4.79 (d, 1 H, J = 11.5 Hz, PhCH2, C-3), 4.72 (d, 1 H, J =
+11.5 Hz, PhCH2, C-2), 4.68 (d, 1 H, J = 12.0 Hz, PhCH2, C-3), 4.17
+CHCH2), 4.06 (q, 1 H, J5,6
+(apt ddt, 1 H, J = 13.0, 5.0, 1.0 Hz, CH2
+
+= 6.5 Hz, H-5), 4.05 (apt ddt, J = 13.0, 6.5, 1.5 Hz, 1H, CH2
+CHCH2), 3.92 (dd, 1 H, J2,3 = 10.0 Hz, J3,4 = 4.0 Hz, H-3), 3.78 (dd, 1
+H, J2,3 = 10.0 Hz, J1,2 = 4.0 Hz, H-2), 3.22 (d, 1 H, J3,4 = 4.0 Hz, H-4),
+2.06 (br, 2 H, NH2), 1.26 (d, 3 H, J5,6 = 6.5 Hz, H-6); 13C NMR (125
+C) 138.7 (Ar), 138.6 (Ar), 134.1 (CHCH2), 128.4
+MHz, CDCl3, δ
+(Ar), 128.3 (Ar), 127.9 (Ar), 127.7 (Ar), 127.6 (Ar), 117.9 (CH
+CH2), 96.2 (C-1), 78.3 (C-3), 75.3 (C-2), 73.2 (PhCH2, C-2), 72.4
+(PhCH2, C-3), 68.3 (CH2CHCH2), 65.2 (C-5), 53.5 (C-4), 16.7
+(C-6); HRMS (ESI) calcd for (M + H) C23H30NO4: 384.2169. Found:
+384.2165.
+
+CH), 5.37 (apt dq, 1 H, J = 17.0, 1.5 Hz, CH2
+
+Allyl 4-Triﬂuoroacetamido-2,3-di-O-benzyl-4,6-dideoxy-α-D-
+galactopyranoside (23). To a solution of 22 (590 mg, 1.5 mmol) in
+anhydrous pyridine (15 mL) at 0 °C was added triﬂuoroacetic
+anhydride (594 mg, 3.0 mol) dropwise. The mixture was slowly
+warmed to room temperature and stirred for 6 h. After completion of
+the reaction, the mixture was concentrated under vacuum and diluted
+with CH2Cl2. The organic solution was washed with 1 N HCl and
+brine, dried over Na2SO4, and concentrated. The crude residue was
+puriﬁed by ﬂash column chromatography (silica gel, gradient 10 →
+15% EtOAc−hexane) to aﬀord 23 (634 mg, 86% yield) as a colorless
+oil. Rf 0.48 (4:1 hexane−EtOAc); [α]D = +71.1 (c 0.3, CH2Cl2); 1H
+H) 7.40−7.30 (m, 10 H, ArH), 6.32 (d, 1
+NMR (500 MHz, CDCl3, δ
+H, J = 10.0 Hz, NH), 5.96 (dddd, 1 H, J = 17.0, 10.0, 6.5, 5.0 Hz,
+CH), 5.28 (apt
+CH2
+CH), 4.84 (d, 1 H, J = 12.0 Hz,
+dq, 1 H, J = 10.0, 1.0 Hz, CH2
+PhCH2, C-2), 4.83 (d, 1 H, J1,2 = 4.0 Hz, H-1), 4.83 (d, 1 H, J = 11.0
+Hz, PhCH2, C-3), 4.68 (d, 1 H, J = 12.0 Hz, PhCH2, C-2), 4.60 (d, 1
+H, J = 11.0 Hz, PhCH2, C-3), 4.57 (dd, 1 H, J4,NH = 10.0 Hz, J3,4 = 4.0
+Hz, H-4), 4.23 (qd, 1 H, J5,6 = 6.5 Hz, J4,5 = 1.5 Hz, H-5), 4.19 (apt
+CHCH2), 4.07 (dd, 1 H, J2,3 =
+ddt, 1 H, J = 13.0, 5.0, 1.5 Hz, CH2
+10.0 Hz, J3,4 = 4.0 Hz, H-3), 4.06 (apt ddt, 1 H, J = 13.0, 6.5, 1.0 Hz,
+CHCH2), 3.47 (dd, 1 H, J2,3 = 10.0 Hz, J1,2 = 4.0 Hz, H-2), 1.18
+CH2
+(d, 3 H, J5,6 = 6.5 Hz, H-6); 13C NMR (125 MHz, CDCl3, δ
+C) 158.0
+(q, 2JC,F = 37.5 Hz, CO), 138.1 (Ar), 137.9 (Ar), 133.5 (CH
+CH2), 128.4 (Ar), 128.3 (Ar), 128.0 (Ar), 127.9 (Ar), 127.7 (Ar),
+118.4 (CHCH2), 115.9 (q, 1JC,F = 287.5 Hz, CF3), 96.3 (C-1), 76.2
+(C-3), 75.1 (C-2), 73.4 (PhCH2, C-2), 72.1 (PhCH2, C-3), 68.8
+(CH2CHCH2), 63.8 (C-5), 52.1 (C-4), 16.4 (C-6); HRMS (ESI)
+calcd for (M + Na) C25H28F3NNaO5: 502.1812. Found: 502.1808.
+8-Azidooctyl 4-Triﬂuoroacetamido-2,3-di-O-benzyl-4,6-di-
+deoxy-α-D-galactopyranoside (24). To a solution of 23 (500 mg,
+1.04 mmol) in CH3OH (10 mL) and CH2Cl2 (10 mL) at room
+temperature was added PdCl2 (18 mg, 0.10 mol, 0.1 equiv). The
+mixture was stirred at room temperature for 16 h. After completion of
+the reaction, the mixture was ﬁltered through a plug of Celite and the
+ﬁltrate was concentrated to obtain crude 4-triﬂuoroacetamido-2,3-di-
+O-benzyl-4,6-dideoxy-D-galactopyranoside, which was carried forward
+without further puriﬁcation. This crude product was dissolved in
+anhydrous CH2Cl2 (20 mL) with 4 Å molecular sieves, and this
+mixture was treated with trichloroacetonitrile (1.5 g, 10.4 mmol) and
+</para>
+2775
+
+DOI: 10.1021/acs.joc.5b00064
+J. Org. Chem. 2015, 80, 2767−2780
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+Cs2CO3 (676 mg, 2.08 mmol). The mixture was stirred at room
+temperature for 6 h and then ﬁltered through Celite. The ﬁltrate was
+concentrated to obtain the corresponding glycosyl trichloroacetimi-
+date, which was dissolved in Et2O (5 mL) and added to a mixture of 8-
+azidooctanol (355 mg, 2.08 mmol) and 4 Å molecular sieves in Et2O
+(5 mL). The mixture was cooled to 0 °C, TMSOTf (15 μL) was
+added, and the solution was stirred at 0 °C for 1 h. The TMSOTf was
+quenched by the addition of Et3N (1 mL), and the solution was
+concentrated. The residue was puriﬁed by ﬂash column chromatog-
+raphy (silica gel, gradient 10 → 15% EtOAc−hexane) to aﬀord 24
+(415 mg, 68% yield) as a colorless oil. Rf 0.58 (4:1 hexane−EtOAc);
+H) 7.39−
+[α]D = +66.3 (c 0.5, CH2Cl2); 1H NMR (500 MHz, CDCl3, δ
+7.30 (m, 10 H, ArH), 6.33 (d, 1 H, J = 10.0 Hz, NH), 4.84 (d, 1 H, J =
+12.0 Hz, PhCH2, C-2), 4.83 (d, 1 H, J = 11.0 Hz, PhCH2, C-3), 4.76
+(d, 1 H, J1,2 = 4.0 Hz, H-1), 4.67 (d, 1 H, J = 12.0 Hz, PhCH2, C-2),
+4.60 (d, 1 H, J = 11.0 Hz, PhCH2, C-3), 4.57 (ddd, 1 H, J4,NH = 10.0
+Hz, J3,4 = 4.5 Hz, J4,5 = 1.5 Hz, H-4), 4.21 (qd, 1 H, J5,6 = 6.5 Hz, J4,5 =
+1.5 Hz, H-5), 4.05 (dd, 1 H, J2,3 = 10.0 Hz, J3,4 = 4.5 Hz, H-3), 3.65
+(dt, 1 H, J = 10.0, 7.0 Hz, octyl OCH2), 3.47 (dt, 1 H, J = 10.0, 7.0 Hz,
+octyl OCH2), 3.46 (dd, 1 H, J2,3 = 10.0 Hz, J1,2 = 4.0 Hz, H-2), 3.29 (t,
+2 H, J = 7.0 Hz, CH2N3), 1.70−1.60 (m, 4H, CH2
+× 2), 1.43−1.34 (m,
+× 4), 1.18 (d, 3 H, J5,6 = 6.5 Hz, H-6); 13C NMR (125 MHz,
+8H, CH2
+C) 158.0 (q, 2JC,F = 37.5 Hz, CO), 138.3 (Ar), 137.9 (Ar),
+CDCl3, δ
+128.4 (Ar), 128.3 (Ar), 128.0 (Ar), 127.9 (Ar), 127.8 (Ar), 127.7 (Ar),
+115.9 (q, 1JC,F = 287.5 Hz, CF3), 97.5 (C-1), 76.2 (C-3), 75.3 (C-2),
+73.3 (PhCH2, C-2), 72.1 (PhCH2, C-3), 68.7 (OCH2CH2), 63.6 (C-5),
+52.1 (C-4), 51.5 (CH2N3), 29.4 (CH2), 29.3 (CH2), 29.1 (CH2), 28.8
+(CH2), 26.7 (CH2), 26.1 (CH2), 16.5 (C-6); HRMS (ESI) calcd for
+(M + Na) C30H39F3N4NaO5: 615.2765. Found: 615.2754.
+
+(2S,4R)-Methyl 2-(tert-Butyl)-3-(3-oxobutanoyl)oxazolidine-
+4-carboxylate (28). To a stirred suspension of D-serine methyl
+ester hydrochloride (3.23 g, 20.8 mmol) in pentane (100 mL) were
+added t-butyl aldehyde (2.32 g, 27.0 mmol) and Et3N (2.73 g, 27.0
+mmol) at room temperature. The mixture was heated at reﬂux for 15 h
+using a Dean−Stark apparatus. The resulting mixture was cooled to
+room temperature, and ﬁltered, and the cake was washed with pentane
+(2 × 50 mL). The combined ﬁltrate was concentrated to aﬀord crude
+product as clear oil, which was used in the next step without further
+puriﬁcation. To a solution of the crude product in dry CH2Cl2 (100
+mL) at 0 °C were added acetoacetic acid (2.55 g, 25.0 mmol), EDC
+hydrochloride (4.8 g, 25.0 mmol), and DMAP (0.25 g, 2.1 mmol). The
+mixture was warmed to room temperature and stirred for 16 h, before
+being diluted with water and extracted with CH2Cl2. The organic
+phases were washed with brine, dried over Na2SO4, and concentrated.
+The crude residue was puriﬁed by ﬂash column chromatography (silica
+gel, gradient 20 → 50% EtOAc−hexane) to aﬀord 25 (4.3 g, 77%
+yield) as a mixture of keto−enol tautomers (1.7:1 ratio). Rf 0.16 (3:1
+hexane−EtOAc); [α]D = +46.3 (c 0.4, CH2Cl2); NMR data for keto
+form: 1H NMR (500 MHz, CDCl3, δ
+H) 5.35 (s, 1 H, CH(CH3)3), 4.66
+(d, 1 H, J = 6.0 Hz, CHCO2CH3), 4.56 (d, 1 H, J = 8.0 Hz, OCH2),
+4.08−4.03 (m, 1H, OCH2), 3.82 (s, 3 H, CO2CH3), 3.73 (s, 2 H,
+CH2CON), 2.34 (s, 3 H, CH3CO), 0.93 (s, 9 H, C(CH3)3); 13C
+C) 202.6 (CH3CO), 170.0 (CO2CH3),
+NMR (125 MHz, CDCl3, δ
+168.0 (NCO), 96.7 (CH(CH3)3), 67.8 (OCH2), 59.4
+(CHCO2CH3), 52.7 (CO2CH3), 51.9 (CH2CON), 37.4
+(C(CH3)3), 30.7 (CH3CO), 25.8 (C(CH3)3); NMR data for enol
+form: 1H NMR (500 MHz, CDCl3, δ
+H) 5.13 (s, 1 H, CH(CH3)3), 4.50
+(d, 1 H, J = 8.5 Hz, OCH2), 4.08−4.03 (m, 1 H, OCH2), 3.83 (s, 3 H,
+CO2CH3), 2.01 (s, 3 H, CH3CO), 0.97 (s, 9 H, C(CH3)3); 13C
+C) 176.5 (NCO), 170.4 (CO2CH3), 89.6
+NMR (125 MHz, CDCl3, δ
+(CH(CH3)3), 67.9 (OCH2), 52.8 (CO2CH3), 37.7 (C(CH3)3), 25.9
+(C(CH3)3), 22.0 (CH3CO); HRMS (ESI) calcd for (M + H)
+C13H22NO5: 272.1492. Found: 272.1487.
+(3S,6R,7S,7aS)-Methyl 7-(Benzyloxy)-3-(tert-butyl)-6-me-
+thoxy-7-methyl-5-oxohexahydropyrrolo[1,2-c]oxazole-7a-
+carboxylate (33). To a solution of 11 (222 mg, 0.73 mmol) in DMF
+(1 mL) and benzyl bromide (3 mL) was added n-Bu4NI (323 mg, 0.87
+mmol). The mixture was cooled to −15 °C, and NaH (44 mg, 60% in
+mineral oil, 1.09 mmol) was added in two portions. After 1 h, the
+mixture was slowly warmed to 0 °C and a satd aq solution of NH4Cl
+</para>
+Article
+<para sub=“exp”>
+(5 mL) was added dropwise. Thereafter, the mixture was extracted
+with EtOAc. The organic phases were washed with brine, dried over
+Na2SO4, and concentrated. The crude residue was puriﬁed by ﬂash
+column chromatography (silica gel, gradient 9 → 14% EtOAc−
+hexane) to aﬀord 33 (245 mg, 85% yield) as a white amorphous solid
+and the byproduct 34 (25 mg, 9% yield) as a white amorphous solid.
+Data for 33: Rf 0.50 (3:1 hexane−EtOAc); [α]D = +36.6 (c 0.3,
+H) δ 7.37−7.29 (m, 5 H,
+CH2Cl2); 1H NMR (500 MHz, CDCl3, δ
+ArH), 4.96 (s, 1 H, CH(CH3)3), 4.78 (d, 1 H, J = 9.5 Hz, OCHRHSC),
+4.77 (s, 1 H, CH3OCH), 4.59 (d, 1 H, J = 11.0 Hz, PhCH2), 4.52 (d, 1
+H, J = 11.0 Hz, PhCH2), 4.05 (d, 1 H, J = 9.5 Hz, OCHRHSC), 3.71 (s,
+3 H, CO2CH3), 3.70 (s, 3 H, OCH3), 1.59 (s, 3 H, CCH3), 0.91 (s, 9
+C) 173.3 (NCO),
+H, C(CH3)3); 13C NMR (125 MHz, CDCl3, δ
+171.0 (CO2CH3), 137.8 (Ar), 128.3 (Ar), 127.6 (Ar), 127.1 (Ar), 95.9
+(CH(CH3)3), 85.9 (PhCH2OC), 85.5 (CH3OCH), 75.7 (CCO2CH3),
+69.1 (OCHRHSC), 67.0 (PhCH2), 59.2 (OCH3), 52.7 (CO2CH3), 36.5
+(C(CH3)3), 24.9 (C(CH3)3), 13.9 (CCH3); HRMS (ESI) calcd for (M
++ Na) C21H29NNaO6: 414.1887. Found: 414.1885. Data for 34: Rf
+0.47 (3:1 hexane−EtOAc); [α]D = +40.3 (c 0.6, CH2Cl2); 1H NMR
+H) δ 7.33−7.26 (m, 5 H, ArH), 4.96 (s, 1 H,
+(500 MHz, CDCl3, δ
+CH(CH3)3), 4.92 (d, 1 H, J = 11.5 Hz, PhCH2), 4.62 (d, 1 H, J = 11.5
+Hz, PhCH2), 4.59 (d, 1 H, J = 8.5 Hz, OCHRHSC), 4.42 (s, 1 H,
+CH3OCH), 4.31 (d, 1 H, J = 8.5 Hz, OCHRHSC), 3.83 (s, 3 H,
+CO2CH3), 3.75 (s, 3 H, OCH3), 1.48 (s, 3 H, CCH3), 0.91 (s, 9 H,
+C) 175.0 (NCO), 171.5
+C(CH3)3); 13C NMR (125 MHz, CDCl3, δ
+(CO2CH3), 138.6 (Ar), 128.3 (Ar), 127.3 (Ar), 127.1 (Ar), 96.4
+(CH(CH3)3), 86.6 (CH3OCH), 82.5 (PhCH2OC), 77.5 (CCO2CH3),
+68.4 (OCHRHSC), 67.8 (PhCH2), 60.3 (OCH3), 52.8 (CO2CH3), 36.3
+(C(CH3)3), 24.9 (C(CH3)3), 17.6 (CCH3); HRMS (ESI) calcd for (M
++ Na) C21H29NNaO6: 414.1887. Found: 414.1883.
+
+(2S,3S,4R)-Methyl 3-(Benzyloxy)-2-(hydroxymethyl)-4-me-
+thoxy-3-methyl-5-oxopyrrolidine-2-carboxylate (36). To a
+solution of 33 (620 mg, 1.58 mmol) in CF3CH2OH (4.0 mL) were
+added 1,3-propanedithiol (4.0 mL) and HCl (12 N, 60 μL). The
+mixture was stirred at 60 °C for 2 h, cooled, and concentrated, and the
+resulting crude product was puriﬁed by ﬂash chromatography (silica
+gel, gradient 75 → 100% EtOAc−hexane) to aﬀord 36 (414 mg, 81%
+yield) as a white amorphous solid; Rf 0.18 (2:3 hexane−EtOAc); [α]D
+H) δ 7.36−
+= +61.7 (c 0.1, CH2Cl2); 1H NMR (500 MHz, CDCl3, δ
+7.23 (m, 5 H, ArH), 6.27 (br, 1 H, NH), 4.60 (d, 1 H, J = 11.5 Hz,
+PhCH2), 4.50 (d, 1 H, J = 11.5 Hz, PhCH2), 4.25 (dd, 1 H, J = 11.0,
+5.5 Hz, CCH2OH), 4.04 (s, 1 H, CH3OCH), 3.78 (dd, 1 H, J = 11.0,
+5.5 Hz, CCH2OH), 3.75 (s, 3 H, CO2CH3), 3.67 (s, 3 H, OCH3), 2.25
+(t, 1 H, J = 5.5 Hz, OH), 1.45 (s, 3 H, CCH3); 13C NMR (125 MHz,
+C) 172.9 (NCO), 171.0 (CO2CH3), 137.9 (Ar), 128.3
+CDCl3, δ
+(Ar), 127.6 (Ar), 126.8 (Ar), 84.4 (PhCH2OC), 82.3 (CH3OCH),
+72.1 (CCO2CH3), 65.8 (PhCH2), 64.6 (CCH2OH), 59.3 (OCH3),
+52.8 (CO2CH3), 12.7 (CCH3); HRMS (ESI) calcd for (M + Na)
+C16H21NNaO6: 346.1261. Found: 346.1259.
+
+(2S,3S,4R)-Methyl 3-(Benzyloxy)-2-(((tert-butyldimethyl-
+silyl)oxy)methyl)-4-methoxy-3-methyl-5-oxopyrrolidine-2-
+carboxylate (37). To a solution of 36 (60.0 mg, 0.19 mmol) in
+CH2Cl2 (5.0 mL) were added imidazole (19.4 mg, 0.28 mmol) and
+TBSCl (42 mg, 0.28 mmol). The mixture was stirred at room
+temperature for 12 h. Thereafter, the organic phase was washed with
+brine, dried over Na2SO4, concentrated, and subjected to ﬂash column
+chromatography (silica gel, gradient 20 → 25% EtOAc−hexane) to
+yield 37 (73.6 mg, 92% yield) as a colorless oil; Rf 0.26 (3:1 hexane−
+EtOAc); [α]D = +26.9 (c 0.6, CH2Cl2); 1H NMR (400 MHz, CDCl3,
+H) δ 7.31−7.21 (m, 5 H, ArH), 6.20 (br, 1 H, NH), 4.57 (d, 1 H, J =
+δ
+11.4 Hz, PhCH2), 4.47 (d, 1 H, J = 11.4 Hz, PhCH2), 4.23 (d, 1 H, J =
+8.8 Hz, CCH2OTBS), 3.87 (s, 1 H, CH3OCH), 3.69 (d, 1 H, J = 8.8
+Hz, CCH2OTBS), 3.76 (s, 3 H, CO2CH3), 3.63 (s, 3 H, OCH3), 1.41
+(s, 3 H, CCH3), 0.85 (s, 9 H, SiC(CH3)3), 0.05 (s, 3 H, SiCH3),
+C) 172.5 (NC
+0.04(s, 3 H, SiCH3); 13C NMR (125 MHz, CDCl3, δ
+O), 170.5 (CO2CH3), 138.0 (Ar), 128.3 (Ar), 127.5 (Ar), 126.8 (Ar),
+83.8 (PhCH2OC), 82.2 (CH3OCH), 73.0 (CCO2CH3), 65.49
+(PhCH2), 65.48 (CCH2OTBS), 59.2 (OCH3), 52.4 (CO2CH3), 25.6
+(SiC(CH3)3), 18.1 (SiC(CH3)3), 12.7 (CCH3), −5.5 (SiCH3),
+</para>
+2776
+
+DOI: 10.1021/acs.joc.5b00064
+J. Org. Chem. 2015, 80, 2767−2780
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+−5.7(SiCH3); HRMS (ESI) calcd for (M + Na) C22H35NNaO6Si:
+460.2126. Found: 460.2125.
+(2S,3S,4R)-Methyl 3-(Benzyloxy)-2-(((tert-butyldimethyl-
+silyl)oxy)methyl)-4-methoxy-1,3-dimethyl-5-oxopyrrolidine-2-
+carboxylate (38). To a solution of 37 (50 mg, 0.11 mmol) in DMF
+(3 mL) was added CH3I (162 mg, 1.14 mmol). Then the mixture was
+cooled to 0 °C and NaH (11 mg, 60% in mineral oil, 0.28 mmol) was
+added. After 1 h, a satd aq solution of NH4Cl (5 mL) was added
+dropwise and the mixture was extracted with EtOAc. The organic
+phases were washed with brine, dried over Na2SO4, and concentrated.
+The crude residue was puriﬁed by ﬂash column chromatography (silica
+gel, gradient 20 → 25% EtOAc−hexane) to aﬀord 38 (46 mg, 90%
+yield) as a colorless oil. Rf 0.33 (3:1 hexane−EtOAc); [α]D = +31.3 (c
+H) 7.35−7.25 (m, 5 H,
+0.3, CH2Cl2); 1H NMR (500 MHz, CDCl3, δ
+ArH), 4.64 (d, 1 H, J = 11.5 Hz, PhCH2), 4.52 (d, 1 H, J = 11.5 Hz,
+PhCH2), 4.23 (d, 1 H, J = 11.0 Hz, CCH2OTBS), 4.01 (s, 1 H,
+CH3OCH), 3.98 (d, 1 H, J = 11.0 Hz, CCH2OTBS), 3.69 (s, 3 H,
+OCH3), 3.68 (s, 3 H, CO2CH3), 2.94 (s, 3 H, NCH3), 1.41 (s, 3 H,
+CCH3), 0.89 (s, 9 H, SiC(CH3)3), 0.105 (s, 3 H, SiCH3), 0.098(s, 3 H,
+C) 172.5 (NCO), 170.1
+SiCH3); 13C NMR (125 MHz, CDCl3, δ
+(CO2CH3), 138.3 (Ar), 128.3 (Ar), 127.4 (Ar), 126.8 (Ar), 83.2
+(PhCH2OC), 82.4 (CH3OCH), 75.2 (CCO2CH3), 65.8 (PhCH2),
+63.1 (CCH2OTBS), 59.3 (OCH3), 52.2 (CO2CH3), 28.4 (NCH3),
+25.6 (SiC(CH3)3), 18.0 (SiC(CH3)3), 13.3 (CCH3), −5.7 (SiCH3),
+−5.9(SiCH3); HRMS (ESI) calcd for (M + Na) C23H37NNaO6Si:
+474.2282. Found: 474.2283.
+(2R,3S,4R)-Methyl 3-(Benzyloxy)-2-formyl-4-methoxy-1,3-di-
+methyl-5-oxopyrrolidine-2-carboxylate (39). To a mixture of 10
+(90 mg, 0.27 mmol) and 4 Å molecular sieves in dry CH2Cl2 (8 mL)
+were added NMO (47 mg, 0.40 mmol) and TPAP (4.9 mg, 0.014
+mmol) at room temperature. The mixture was stirred for 6 h and then
+concentrated. The crude product was puriﬁed by ﬂash column
+chromatography (silica gel, gradient 20 → 25% EtOAc−hexane) to
+aﬀord 39 (76 mg, 84% yield) as a colorless oil. Rf 0.65 (3:1 hexane−
+EtOAc); [α]D = +89.2 (c 0.4, CH2Cl2); 1H NMR (500 MHz, CDCl3,
+H) 10.08 (s, 1 H, CHO), 7.38−7.27 (m, 5 H, ArH), 4.64 (d, 1 H, J =
+δ
+14.5 Hz, PhCH2), 4.56 (d, 1 H, J = 14.5 Hz, PhCH2), 4.18 (s, 1 H,
+CH3OCH), 3.79 (s, 3 H, CO2CH3), 3.68 (s, 3 H, OCH3), 2.84 (s, 3 H,
+NCH3), 1.34 (s, 3 H, CCH3); 13C NMR (125 MHz, CDCl3, δ
+C) 194.3
+(CHO), 172.5 (NCO), 167.8 (CO2CH3), 137.5 (Ar), 128.5 (Ar),
+127.8 (Ar), 127.0 (Ar), 84.4 (PhCH2OC), 82.3 (CH3OCH), 80.2
+(CCO2CH3), 66.9 (PhCH2), 59.4 (OCH3), 53.2 (CO2CH3), 28.9
+(NCH3), 14.3 (CCH3); HRMS (ESI) calcd for (M + Na)
+C17H21NNaO6: 358.1261. Found: 358.1260.
+
+(2R,3S,4R)-3-(Benzyloxy)-4-methoxy-2-(methoxycarbonyl)-
+1,3-dimethyl-5-oxopyrrolidine-2-carboxylic Acid (40). A solu-
+tion of 39 (155 mg, 0.44 mmol) in t-BuOH (5 mL) and 2-methyl-2-
+butene (3 mL) was treated with a freshly prepared solution of NaClO2
+(396 mg, 4.4 mmol, 10 equiv) in 20% aqueous NaH2PO4 (3 mL) at
+room temperature. The mixture was stirred for 2 h, and then water was
+added and the aqueous phase was extracted with EtOAc. The
+combined organic phases were washed with brine, dried over Na2SO4,
+and concentrated to aﬀord 40 (149 mg, 92% yield) as a white
+−CH3OH); [α]D = +46.6 (c 0.1,
+amorphous solid. Rf 0.55 (3:1 CH2Cl2
+H) δ 7.41−7.27 (m, 5 H,
+CH2Cl2); 1H NMR (500 MHz, CDCl3, δ
+ArH), 4.74 (d, 1 H, J = 11.5 Hz, PhCH2), 4.58 (d, 1 H, J = 11.5 Hz,
+PhCH2), 4.11 (s, 1 H, CH3OCH), 3.88 (s, 3 H, CO2CH3), 3.74 (s, 3
+H, OCH3), 2.90 (s, 3 H, NCH3), 1.52 (s, 3 H, CCH3); 13C NMR (125
+C) 172.1 (NCO), 171.2 (CO2CH3), 164.6 (CO2H),
+MHz, CDCl3, δ
+137.3 (Ar), 128.5 (Ar), 127.9 (Ar), 127.0 (Ar), 84.3 (PhCH2OC), 82.5
+(CH3OCH), 78.0 (CCO2CH3), 66.8 (PhCH2), 59.5 (OCH3), 54.5
+(CO2CH3), 28.8 (NCH3), 15.2 (CCH3); HRMS (ESI) calcd for (M +
+Na) C17H21NNaO7: 374.1210. Found: 374.1212.
+8-Azidooctyl 4-[(2′R,3′S,4′R)-3′-(Benzyloxy)-4′-methoxy-2′-
+(methoxycarbonyl)-1′,3′-dimethyl-5′-oxopyrrolidine-2′-
+carboxamido]-2,3-di-O-benzyl-4,6-dideoxy-α-D-galacto-
+pyranoside (41). To a solution of 9 (40 mg, 0.08 mmol) in DMF (5
+mL) were added 40 (35 mg, 0.10 mmol), TBTU (35 mg, 0.11 mmol),
+and DIEA (16 mg, 0.12 mmol). The mixture was stirred at room
+temperature overnight, and then water was added and the mixture was
+</para>
+Article
+<para sub=“exp”>
+extracted with EtOAc. The combined organic phases were washed
+with brine, dried over Na2SO4, and concentrated. The resulting residue
+was puriﬁed by ﬂash column chromatography (silica gel, gradient 30
+→ 50% EtOAc−hexane) to aﬀord 41 (50 mg, 76% yield) as a colorless
+oil. Rf 0.52 (1:1 hexane−EtOAc); [α]D = +128.3 (c 0.2, CH2Cl2); 1H
+H) 8.20 (d, 1 H, J = 10.0 Hz, NH), 7.41−
+NMR (500 MHz, CDCl3, δ
+7.25 (m, 15 H, ArH), 4.88 (d, 1 H, J = 11.0 Hz, PhCH2, C-3), 4.85 (d,
+1 H, J = 12.0 Hz, PhCH2, C-2), 4.83 (d, 1 H, J1,2 = 4.0 Hz, H-1), 4.69
+(d, 1 H, J = 12.0 Hz, PhCH2, C-2), 4.69 (d, 1 H, J = 11.5 Hz, PhCH2O
+lactam), 4.61 (dd, 1 H, JNH,4 = 10.0 Hz, J3,4 = 4.0 Hz, H-4), 4.59 (d, 1
+H, J = 11.0 Hz, PhCH2, C-3), 4.53 (d, 1 H, J = 11.5 Hz, PhCH2O
+lactam), 4.21 (qd, 1 H, J5,6 = 6.5 Hz, J4,5 = 1.5 Hz, H-5), 4.03 (dd, J2,3 =
+10.0 Hz, J3,4 = 4.0 Hz, 1H, H-3), 3.95 (s, 1 H, CH3OCH), 3.72 (s, 3 H,
+CO2CH3), 3.67 (dt, 1 H, J = 10.0, 6.5 Hz, octyl OCH2), 3.65 (s, 3 H,
+OCH3), 3.61 (dd, 1 H, J2,3 =10.0 Hz, J1,2 = 4.0 Hz, H-2), 3.50 (dt, 1 H,
+J = 10.0, 6.5 Hz, octyl OCH2), 3.29 (t, 2 H, J = 7.0 Hz, CH2N3), 2.69
+(s, 3 H, NCH3), 1.69−1.62 (m, 4 H, CH2
+× 2), 1.51 (s, 3 H, CCH3),
+1.43−1.34 (m, 8 H, CH2
+× 4), 1.20 (d, 3 H, J5,6 = 6.5 Hz, H-6); 13C
+C) 172.3 (CH3NCO), 169.5 (CO2CH3),
+NMR (125 MHz, CDCl3, δ
+164.7 (HNCO), 138.7 (Ar), 138.6 (Ar), 137.8 (Ar), 128.4 (Ar),
+128.2 (Ar), 128.1 (Ar), 127.8 (Ar), 127.6 (Ar), 127.4 (Ar), 126.9 (Ar),
+97.5 (C-1), 83.7 (PhCH2OCCH3), 82.3 (CH3OCH), 79.3
+(CCO2CH3), 77.5 (C-3), 75.5 (C-2), 73.1 (PhCH2, C-2), 71.8
+(PhCH2, C-3), 68.4 (octyl OCH2), 66.2 (PhCH2O lactam), 64.0 (C-
+5), 59.3 (OCH3), 53.1 (CO2CH3), 51.9 (C-4), 51.5 (CH2N3), 29.4
+(CH2), 29.3 (CH2), 29.1 (CH2), 29.0 (NCH3), 28.8 (CH2), 26.7
+(CH2), 26.1 (CH2), 17.3 (C-6), 14.8 (CCH3); HRMS (ESI) calcd for
+(M + Na) C45H59N5NaO10: 852.4154. Found: 852.4138.
+8-Azidooctyl 4-[(2′R,3′S,4′R)-3′-(Benzyloxy)-4′-methoxy-2′-
+carboxyl-1′,3′-dimethyl-5′-oxopyrrolidine-2′-carboxamido]-
+2,3-di-O-benzyl-4,6-dideoxy-α-D-galactopyranoside (42). To a
+solution of 41 (45 mg, 0.054 mmol) in THF (5 mL) and water (5 mL)
+was added LiOH monohydrate (34 mg, 0.81 mmol) at
+room
+temperature. The mixture was stirred at room temperature for 16 h.
+Then 1 M HCl was added to adjust the pH to 1. The mixture was
+diluted with water (5 mL) and extracted with EtOAc. The combined
+organic phases were washed with brine, dried over Na2SO4, and
+concentrated to aﬀord 42 (42 mg, 96% yield) as a colorless oil. Rf 0.65
+−CH3OH); [α]D = +106.7 (c 0.2, CH2Cl2); 1H NMR
+(10:1 CH2Cl2
+H) 7.38−7.20 (m, 15 H, ArH), 6.61 (d, 1 H, J =
+(500 MHz, CDCl3, δ
+10.0 Hz, NH), 4.87 (d, 1 H, J = 10.5 Hz, PhCH2, C-3), 4.84 (d, 1 H,
+J1,2 = 4.0 Hz, H-1), 4.79 (d, 1 H, J = 12.0 Hz, PhCH2, C-2), 4.66 (d, 1
+H, J = 12.0 Hz, PhCH2, C-2), 4.65 (d, 1 H, J = 10.5 Hz, PhCH2, C-3),
+4.64 (dd, 1 H, JNH,4 = 10.0 Hz, J3,4 = 4.0 Hz, H-4), 4.48 (d, 1 H, J =
+11.5 Hz, PhCH2O lactam), 4.29 (d, 1 H, J = 11.5 Hz, PhCH2O
+lactam), 4.26 (qd, 1 H, J5,6 = 6.5 Hz, J4,5 = 1.0 Hz, H-5), 4.21 (s, 1 H,
+CH3OCH), 4.05 (dd, 1 H, J2,3 = 10.0 Hz, J3,4 = 4.0 Hz, H-3), 3.67 (dt,
+1 H, J = 10.0, 6.5 Hz, octyl OCH2), 3.61 (s, 3 H, OCH3), 3.50 (dt, 1
+H, J = 10.0, 6.5 Hz, octyl OCH2), 3.43 (dd, 1 H, J2,3 =10.0 Hz, J1,2 =
+4.0 Hz, H-2), 3.29 (t, 2 H, J = 7.0 Hz, CH2N3), 2.91 (s, 3 H, NCH3),
+1.70−1.61 (m, 4 H, CH2
+× 4), 1.32 (s,
+3 H, CCH3), 1.19 (d, 3 H, J5,6 = 6.5 Hz, H-6); 13C NMR (125 MHz,
+C) 172.3 (CH3NCO), 170.9 (HNCO), 167.0 (CO2H),
+CDCl3, δ
+138.0 (Ar), 137.7 (Ar), 137.6 (Ar), 128.4 (Ar), 128.32 (Ar), 128.31
+(Ar), 128.2 (Ar), 127.9 (Ar), 127.8 (Ar), 127.7 (Ar), 127.5 (Ar), 126.9
+(Ar), 97.2 (C-1), 84.5 (CH3OCH), 82.6 (PhCH2OCCH3), 77.4 (C-3),
+77.2 (CCO2CH3), 75.8 (C-2), 73.3 (PhCH2, C-2), 72.9 (PhCH2, C-3),
+68.8 (octyl OCH2), 66.4 (PhCH2O lactam), 63.6 (C-5), 59.6 (OCH3),
+53.3 (C-4), 51.5 (CH2N3), 31.0 (NCH3), 29.4 (CH2), 29.3 (CH2),
+29.1 (CH2), 28.8 (CH2), 26.7 (CH2), 26.1 (CH2), 17.2 (C-6), 15.7
+(CCH3); HRMS (ESI) calcd for (M − H) C44H56N5O10: 814.4033.
+Found: 814.4029.
+(2S,3S,4R)-3-(Benzyloxy)-2-(hydroxymethyl)-4-methoxy-1,3-
+dimethyl-5-oxopyrrolidine-2-carboxylic Acid (44). To a solution
+of 10 (200 mg, 0.59 mmol) in THF (8 mL) and water (8 mL) was
+added LiOH monohydrate (124 mg, 2.95 mmol) at room temperature.
+The mixture was stirred at room temperature for 16 h. Then 1 M HCl
+was added to adjust the pH to 1. The mixture was diluted by water and
+extracted with EtOAc. The combined organic phases were washed
+with brine, dried over Na2SO4, and concentrated to aﬀord 44 (175 mg,
+
+× 2), 1.45−1.34 (m, 8 H, CH2
+</para>
+2777
+
+DOI: 10.1021/acs.joc.5b00064
+J. Org. Chem. 2015, 80, 2767−2780
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+0.54 mmol, 92% yield) as a white amorphous solid. Rf 0.63 (3:1
+−CH3OH); [α]D = +58.2 (c 0.2, CH2Cl2); 1H NMR (500
+CH2Cl2
+H) δ 7.27−7.21 (m, 5 H, ArH), 4.63 (d, 1 H, J = 11.5
+MHz, CDCl3, δ
+Hz, PhCH2), 4.49 (d, 1 H, J = 11.5 Hz, PhCH2), 4.10 (s, 1 H,
+CH3OCH), 4.09 (d, 1 H, J = 12.5 Hz, CH2OH), 3.99 (d, 1 H, J = 12.5
+Hz, CH2OH), 3.65 (s, 3 H, OCH3), 2.89 (s, 3 H, NCH3), 1.44 (s, 3 H,
+CCH3); 13C NMR (125 MHz, CDCl3, δ
+C) 173.4 (CO2H), 172.6
+(NCO), 138.0 (Ar), 128.3 (Ar), 127.5 (Ar), 126.7 (Ar), 83.4
+(PhCH2OC), 81.9 (CH3OCH), 74.6 (CCO2CH3), 66.0 (PhCH2),
+62.2 (CH2OH), 59.4 (OCH3), 27.8 (NCH3), 12.8 (CCH3); HRMS
+(ESI) (M + Na) calcd for C16H21NNaO6: 346.1261. Found: 346.1256.
+8-Azidooctyl 4-[(2′S,3′S,4′R)-3′-(Benzyloxy)-4′-methoxy-2′-
+hydroxymethyl-1′,3′-dimethyl-5′-oxopyrrolidine-2′-carbox-
+amido]-2,3-di-O-benzyl-4,6-dideoxy-α-D-galactopyranoside
+(45). To a solution of 44 (60 mg, 0.12 mmol) in DMF (5 mL) were
+added compound 9 (39 mg, 0.12 mmol), TBTU (51 mg, 0.16 mmol),
+and DIEA (23 mg, 0.18 mmol). The mixture was stirred at room
+temperature overnight. Then water was added, and the mixture was
+extracted with EtOAc. The combined organic phases were washed
+with brine, dried over Na2SO4, and concentrated. The residue was
+puriﬁed by ﬂash column chromatography (silica gel, gradient 30 →
+70% EtOAc−hexane) to aﬀord 45 (64 mg, 67% yield) as a colorless
+oil. Rf 0.39 (2:3 hexane−EtOAc); [α]D = +121.1 (c 0.5, CH2Cl2,); 1H
+H) δ 7.40−7.23 (m, 15 H, ArH), 6.01 (d, 1
+NMR (500 MHz, CDCl3, δ
+H, J = 10.0 Hz, NH), 4.78 (d, 1 H, J = 10.5 Hz, PhCH2, C-3), 4.72 (d,
+1 H, J = 12.5 Hz, PhCH2, C-2), 4.69 (d, 1 H, J1,2 = 4.0 Hz, H-1), 4.66
+(d, 1 H, J = 12.5 Hz, PhCH2, C-2), 4.62 (d, 1 H, J = 12.0 Hz, PhCH2O
+lactam), 4.59 (d, 1 H, J = 10.5 Hz, PhCH2, C-3), 4.57 (ddd, 1 H, JNH,4
+= 10.0 Hz, J3,4 = 4.5 Hz, J4,5 = 1.5 Hz, H-4), 4.50 (d, 1 H, J = 12.0 Hz,
+PhCH2O lactam), 4.02 (qd, 1 H, J5,6 = 6.5 Hz, J4,5 = 1.5 Hz, H-5), 4.01
+(dd, 1 H, J = 12.5, 3.0 Hz, CH2OH), 3.94 (dd, 1 H, J2,3 = 10.0 Hz, J3,4
+= 4.5 Hz, H-3), 3.85 (s, 1 H, CH3OCH), 3.82 (dd, 1 H, J = 12.5, 8.0
+Hz, CH2OH), 3.66 (s, 3 H, OCH3), 3.58 (dt, 1 H, J = 13.5, 6.5 Hz,
+octyl OCH2), 3.44 (dt, 1 H, J = 13.5, 6.5 Hz, octyl OCH2), 3.29 (t, 2
+H, J = 7.0 Hz, CH2N3), 3.28 (dd, 1 H, J2,3 = 10.0 Hz, J1,2 = 4.0 Hz, H-
+2), 2.71 (s, 3 H, NCH3), 1.64−1.60 (m, 4 H, CH2
+× 2), 1.52 (s, 3 H,
+CCH3), 1.42−1.32 (m, 8 H, CH2
+× 4), 0.73 (d, 3 H, J5,6 = 6.5 Hz, H-
+C) 172.5 (CH3NCO), 169.7
+6); 13C NMR (125 MHz, CDCl3, δ
+(HNCO), 138.3 (Ar), 138.1 (Ar), 137.9 (Ar), 128.4 (Ar), 128.327
+(Ar), 128.321 (Ar), 127.9 (Ar), 127.8 (Ar), 127.7 (Ar), 127.6 (Ar),
+127.5 (Ar), 127.4 (Ar), 97.0 (C-1), 82.9 (CH3OCH), 81.3
+(PhCH2OCCH3), 77.2 (C-3), 75.7 (CCH2OH), 74.9 (C-2), 72.6
+(PhCH2, C-2), 71.9 (PhCH2, C-3), 68.4 (octyl OCH2), 66.2 (PhCH2O
+lactam), 63.9 (C-5), 62.9 (CH2OH), 59.4 (OCH3), 51.5 (CH2N3),
+51.0 (C-4), 29.4 (CH2), 29.3 (CH2), 29.1 (CH2), 28.8 (CH2), 28.3
+(NCH3), 26.7 (CH2), 26.1 (CH2), 16.4 (C-6), 13.2 (CCH3); HRMS
+(ESI) calcd for (M + H) C44H60N5O9: 802.4386. Found: 802.4376.
+8-Azidooctyl 4-[(2′R,3′S,4′R)-3′-(Benzyloxy)-4′-methoxy-2′-
+formyl-1′,3′-dimethyl-5′-oxopyrrolidine-2′-carboxamido]-2,3-
+di-O-benzyl-4,6-dideoxy-α-D-galactopyranoside (46). To a
+mixture of 45 (60 mg, 0.075 mmol) and 4 Å molecular sieves in dry
+CH2Cl2 (8 mL) were added NMO (18 mg, 0.15 mmol) and TPAP
+(2.6 mg, 0.0075 mmol) at room temperature. The mixture was stirred
+for 6 h, and then the mixture was concentrated and the crude product
+was puriﬁed by ﬂash column chromatography (silica gel, gradient 30
+→ 50% EtOAc−hexane) to aﬀord 46 (51 mg, 0.064 mmol, 85% yield)
+as a colorless oil. Rf 0.76 (1:1 hexane−EtOAc); [α]D = +124.3 (c 0.2,
+CH2Cl2); 1H NMR (500 MHz, CDCl3, δ
+H) 10.09 (s, 1 H, CHO),
+7.32−7.22 (m, 15 H, ArH), 6.43 (d, 1 H, J = 10.0 Hz, NH), 4.75 (d, 1
+H, J = 10.5 Hz, PhCH2, C-3), 4.67 (d, 1 H, J1,2 = 4.0 Hz, H-1), 4.65 (d,
+1 H, J = 11.5 Hz, PhCH2O lactam), 4.62 (d, 1 H, J = 12.0 Hz, PhCH2,
+C-2), 4.60 (ddd, 1 H, JNH,4 = 10.0 Hz, J3,4 = 4.5 Hz, J4,5 = 1.5 Hz, H-4),
+4.54 (d, 1 H, J = 10.5 Hz, PhCH2, C-3), 4.53 (d, 1 H, J = 12.0 Hz,
+PhCH2, C-2), 4.47 (d, 1 H, J = 11.5 Hz, PhCH2O lactam), 4.06 (qd, 1
+H, J5,6 = 6.5 Hz, J4,5 = 1.5 Hz, H-5), 3.94 (dd, 1 H, J2,3 = 10.0 Hz, J3,4 =
+4.5 Hz, H-3), 3.91 (s, 1 H, CH3OCH), 3.60 (dt, 1 H, J = 10.7, 7.0 Hz,
+octyl OCH2), 3.56 (s, 3 H, OCH3), 3.44 (dt, 1 H, J = 10.0, 6.5 Hz,
+octyl OCH2), 3.29 (t, 2 H, J = 7.0 Hz, CH2N3), 3.25 (dd, 1 H, J2,3 =
+10.0 Hz, J1,2 = 4.0 Hz, H-2), 2.75 (s, 3 H, NCH3), 1.66−1.60 (m, 4 H,
+× 4), 0.87
+CH2
+
+× 2), 1.46 (s, 3 H, CCH3), 1.42−1.32 (m, 8 H, CH2
+</para>
+Article
+<para sub=“exp”>
+(d, 3 H, J5,6 = 6.5 Hz, H-6); 13C NMR (125 MHz, CDCl3, δ
+C) 197.8
+(CHO), 172.5 (CH3NCO), 165.7 (HNCO), 138.3 (Ar), 138.2
+
+(Ar), 137.6 (Ar), 128.4 (Ar), 128.3 (Ar), 128.2 (Ar), 127.9 (Ar), 127.8
+(Ar), 127.7 (Ar), 127.6 (Ar), 127.5 (Ar), 127.4 (Ar), 97.0 (C-1), 84.2
+(PhCH2OCCH3), 81.5 (CH3OCH), 80.6 (CCHO), 76.5 (C-3), 75.2
+(C-2), 72.7 (PhCH2, C-2), 71.8 (PhCH2, C-3), 68.5 (octyl OCH2),
+66.3 (PhCH2O lactam), 63.8 (C-5), 59.1 (OCH3), 51.5 (CH2N3), 51.4
+(C-4), 29.4 (NCH3), 29.3 (CH2), 29.2 (CH2), 29.1 (CH2), 28.8
+(CH2), 26.7 (CH2), 26.1 (CH2), 16.5 (C-6), 14.4 (CCH3); HRMS
+(ESI) calcd for (M + H) C44H58N5O9: 800.4229. Found: 800.4214.
+8-Azidooctyl 4-[(2′S,3′S,4′R)-3′-(Benzyloxy)-4′-methoxy-2′-
+carboxyl-1′,3′-dimethyl-5′-oxopyrrolidine-2′-carboxamido]-
+2,3-di-O-benzyl-4,6-dideoxy-α-D-galactopyranoside (47). A sol-
+ution of 46 (45 mg, 0.056 mmol) in t-BuOH (5 mL) and 2-methyl-2-
+butene (3 mL) was treated with a freshly prepared solution of NaClO2
+(99 mg, 1.1 mmol, 20 equiv) in 20% aqueous NaH2PO4 (3 mL) at
+room temperature. The mixture was stirred for 2 h, and then water was
+added and the aqueous phase was extracted with EtOAc. The
+combined organic phases were washed with brine, dried over Na2SO4,
+and concentrated to aﬀord 47 (43 mg, 95% yield) as a colorless oil. Rf
+−CH3OH); [α]D = +80.8 (c 0.4, CH2Cl2); 1H
+0.38 (10:1 CH2Cl2
+H) δ 7.36−7.21 (m, 15 H, ArH), 4.78 (d,
+NMR (500 MHz, CD3OD, δ
+1 H, J = 10.5 Hz, PhCH2, C-3), 4.72 (d, 1 H, J = 13.0 Hz, PhCH2O
+lactam), 4.68 (d, 1 H, J1,2 = 3.5 Hz, H-1), 4.54 (d, 1 H, J3,4 = 4.0 Hz,
+H-4), 4.49 (d, 1 H, J = 11.5 Hz, PhCH2O lactam), 4.42 (d, 1 H, J =
+10.5 Hz, PhCH2, C-3), 4.29 (d, 1 H, J = 11.5 Hz, PhCH2, C-2), 4.21
+(d, 1 H, J = 11.5 Hz, PhCH2, C-2), 4.13 (q, 1 H, J5,6 = 6.5 Hz, H-5),
+4.11 (s, 1 H, CH3OCH), 3.91 (dd, 1 H, J2,3 = 10.0 Hz, J3,4 = 4.5 Hz, H-
+3), 3.63 (dt, 1 H, J = 13.0, 6.5 Hz, octyl OCH2), 3.44 (s, 3 H, OCH3),
+3.40−3.36 (m, 2 H, octyl OCH2 and H-2), 3.24 (t, 2 H, J = 7.0 Hz,
+CH2N3), 2.89 (s, 3 H, NCH3), 1.63−1.52 (m, 4 H, CH2
+× 2), 1.41−
+× 4), 1.30 (s, 3 H, CCH3), 1.08 (d, 3 H, J5,6 = 6.5
+1.28 (m, 8 H, CH2
+C) 172.6 (CH3NCO),
+Hz, H-6); 13C NMR (125 MHz, CD3OD, δ
+168.1 (HNCO), 141.6 (Ar), 141.0 (Ar), 140.8 (Ar), 130.4 (Ar),
+130.2 (Ar), 130.1 (Ar), 130.0 (Ar), 129.5 (Ar), 129.4 (Ar), 129.0 (Ar),
+128.6 (Ar), 99.4 (C-1), 86.1 (PhCH2OCCH3), 85.5 (CH3OCH), 79.0
+(C-3), 78.7 (C-2), 74.8 (PhCH2, C-2), 73.6 (PhCH2, C-3), 70.2 (octyl
+OCH2), 68.0 (PhCH2O lactam), 66.5 (C-5), 61.0 (OCH3), 54.8 (C-
+4), 53.3 (CH2N3), 31.3 (CH2), 31.2 (NCH3), 31.1 (CH2), 30.8 (CH2),
+28.6 (CH2), 28.1 (CH2), 18.0 (CCH3), 16.6 (C-6); HRMS (ESI) calcd
+for (M − H) C44H56N5O10: 814.4033. Found: 814.4027.
+(3S,4R)-Methyl 3-(Benzyloxy)-4-methoxy-1,3-dimethyl-5-
+oxopyrrolidine-2-carboxylate (48). A solution of 40 (250 mg,
+0.71 mmol) in toluene (25 mL) was heated at reﬂux for 24 h. Then the
+mixture was concentrated and the crude product was puriﬁed by ﬂash
+column chromatography (silica gel, gradient 10 → 25% EtOAc−
+hexane) to aﬀord 48 (170 mg, 0.55 mmol, 78% yield) as a 1:1 mixture
+of inseparable diastereomers. These are deﬁned below as cis and trans,
+to describe the relationship between the carboxymethyl and benzyloxy
+groups. Rf 0.35 (2:3 hexane−EtOAc); 1H NMR (500 MHz, CDCl3,
+H) 7.38−7.29 (m, 10 H, ArH (cis and trans)), 4.69−4.60 (m, 4 H,
+δ
+PhCH2O(cis and trans)), 4.25 (s, 1 H, CH3OCH(cis)), 4.22 (s, 1 H,
+CHCO2CH3(trans)), 3.99 (s, 1 H, CHCO2CH3(cis)), 3.86 (s, 1 H,
+CH3OCH(trans)), 3.85 (s, 3 H, CO2CH3(trans)), 3.72 (s, 3 H,
+OCH3(cis)), 3.71 (s, 3 H, CO2CH3(cis)), 3.68 (s, 3 H, OCH3(trans)),
+2.88 (s, 3 H, NCH3(trans)), 2.85 (s, 3 H, NCH3(cis)), 1.55 (s, 3 H,
+CCH3(cis)), 1.38 (s, 3 H, CCH3(trans)); 13C NMR (125 MHz,
+C) 171.8 (NCO(cis)), 171.4 (NCO(trans)), 169.6
+CDCl3, δ
+(CO2CH3(cis)), 168.9 (CO2CH3(trans)), 138.1 (Ar), 138.0 (Ar),
+128.5 (Ar), 128.3 (Ar), 127.7 (Ar), 127.5 (Ar), 127.1 (Ar), 126.8(Ar),
+83.5 (CH3OCH(trans)), 82.5 (CH3OCH(cis)), 81.6 (PhCH2OC),
+8 1 . 4 ( P h C H 2 O C ) ,
+( C H C O 2 C H 3 ( t r a n s ) ) , 6 8 . 8
+(CHCO2CH3(cis)), 66.3 (PhCH2), 65.7 (PhCH2), 59.4 (OCH3),
+59.3 (OCH3), 52.5 (CO2CH3), 52.4 (CO2CH3), 29.2 (NCH3(cis)),
+28.9 (NCH3(trans)), 18.0 (CCH3(cis)), 14.8 (CCH3(trans)); HRMS
+(ESI) calcd for (M + Na) C16H21NNaO5: 330.1312. Found: 330.1307.
+8-Azidooctyl 4-[(2′S,3′S,4′R)-3′-(Benzyloxy)-4′-methoxy-
+1′,3′-dimethyl-5′-oxopyrrolidine-2′-carboxamido]-2,3-di-O-
+benzyl-4,6-dideoxy-α-D-galactopyranoside (50). To a solution of
+48 (47 mg, 0.16 mmol) in THF (10 mL) and water (10 mL) was
+
+7 0 . 1
+</para>
+2778
+
+DOI: 10.1021/acs.joc.5b00064
+J. Org. Chem. 2015, 80, 2767−2780
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+added LiOH monohydrate (67 mg, 1.6 mmol) at room temperature.
+The mixture was stirred at room temperature for 16 h. Then 1 M HCl
+was added to adjust the pH to 1. The mixture was diluted with water
+and extracted with EtOAc. The combined organic phases were washed
+with brine, dried over Na2SO4, and concentrated to aﬀord crude acid
+49. Then, to a solution of 9 (40 mg, 0.080 mmol) in DMF (5 mL)
+were added the above crude acid, TBTU (38 mg, 0.12 mmol), and
+DIEA (16 mg, 0.12 mmol). The mixture was stirred at room
+temperature overnight. Water was then added, and the mixture was
+extracted with EtOAc. The combined organic phases were washed
+with brine, dried over Na2SO4, and concentrated. The residue was
+puriﬁed by ﬂash column chromatography (silica gel, gradient 30 →
+70% EtOAc−hexane) to aﬀord 50 (39.8 mg, 64% yield) and 51 (9.8
+mg, 16% yield). Data for 50: Rf 0.45 (2:3 hexane−EtOAc); [α]D =
+H) 7.36−7.21
++124.2 (c 0.4, CH2Cl2,); 1H NMR (600 MHz, CDCl3, δ
+(m, 15 H, ArH), 5.85 (d, 1 H, J = 10.5 Hz, NH), 4.75 (d, 1 H, J = 11.0
+Hz, PhCH2, C-3), 4.69 (d, 1 H, J = 11.5 Hz, PhCH2O lactam), 4.68 (d,
+1 H, J1,2 = 3.5 Hz, H-1), 4.67 (d, 1 H, J = 12.0 Hz, PhCH2, C-2), 4.60
+(ddd, 1 H, J4,NH = 10.5 Hz, J3,4 = 4.5 Hz, J4,5 = 1.5 Hz, H-4), 4.56 (d, 1
+H, J = 12.0 Hz, PhCH2, C-2), 4.52 (d, 1 H, J = 11.0 Hz, PhCH2, C-3),
+4.50 (d, 1 H, J = 11.5 Hz, PhCH2O lactam), 4.05 (s, 1 H, CH3OCH),
+4.04 (qd, 1 H, J5,6 = 6.5 Hz, J4,5 = 1.5 Hz, H-5), 3.94 (dd, 1 H, J2,3 =
+10.0 Hz, J3,4 = 4.5 Hz, H-3), 3.90 (s, 1 H, CHCONH), 3.63 (s, 3 H,
+OCH3), 3.58 (dt, 1 H, J = 10.0, 7.0 Hz, octyl OCH2), 3.42 (dt, 1 H, J =
+10.0, 6.5 Hz, octyl OCH2), 3.27 (t, 2 H, J = 7.0 Hz, CH2N3), 3.26 (dd,
+1 H, J2,3 = 10.0 Hz, J1,2 = 3.5 Hz, H-2), 2.70 (s, 3 H, NCH3), 1.63−
+× 2), 1.52 (s, 3 H, CCH3), 1.39−1.28 (m, 8 H,
+1.58 (m, 4 H, CH2
+× 4), 0.90 (d, 3 H, J5,6 = 6.5 Hz, H-6); 13C NMR (150 MHz,
+CH2
+C) 171.8 (CH3NCO), 167.9 (HNCO), 138.4 (Ar),
+CDCl3, δ
+138.3 (Ar), 138.2 (Ar), 128.3 (Ar), 128.2 (Ar), 128.18 (Ar), 128.0
+(Ar), 127.7 (Ar), 127.6 (Ar), 127.5 (Ar), 127.4 (Ar), 97.1 (C-1), 82.7
+(CH3OCH), 80.9 (PhCH2OCCH3), 76.2 (C-3), 75.5 (C-2), 72.8
+(PhCH2, C-2), 72.4 (CHCONH), 71.5 (PhCH2, C-3), 68.4 (octyl
+OCH2), 66.5 (PhCH2O lactam), 64.0 (C-5), 59.3 (OCH3), 51.5
+(CH2N3), 51.0 (C-4), 29.4 (NCH3), 29.3 (CH2), 29.2 (CH2), 29.1
+(CH2), 28.8 (CH2), 26.7 (CH2), 26.1 (CH2), 18.3 (CCH3), 16.6 (C-
+6); HRMS (ESI) calcd for (M + H) C43H58N5O8: 772.4280. Found:
+772.4279. Data for 51: Rf 0.49 (1:1 hexane−EtOAc); [α]D = +118.3 (c
+H) δ 7.44−7.26 (m, 15 H,
+0.1, CH2Cl2); 1H NMR (500 MHz, CDCl3, δ
+ArH), 6.62 (d, 1 H, J = 10.0 Hz, NH), 4.92 (d, 1 H, J = 11.0 Hz,
+PhCH2, C-3), 4.85 (d, 1 H, J = 12.5 Hz, PhCH2, C-2), 4.79 (d, 1 H, J1,2
+= 4.0 Hz, H-1), 4.70 (d, 1 H, J = 12.5 Hz, PhCH2, C-2), 4.67 (d, 1 H, J
+= 11.0 Hz, PhCH2, C-3), 4.57 (d, 1 H, J = 11.5 Hz, PhCH2O lactam),
+4.54 (ddd, 1 H, J4,NH = 10.5 Hz, J3,4 = 4.0 Hz, J4,5 = 1.5 Hz, H-4), 4.53
+(d, 1 H, J = 11.5 Hz, PhCH2O lactam), 4.15 (qd, 1 H, J5,6 = 6.5 Hz, J4,5
+= 1.5 Hz, H-5), 4.03 (s, 1 H, CHCONH), 4.01 (dd, 1 H, J2,3 = 10.0
+Hz, J3,4 = 4.0 Hz, H-3), 3.66 (dt, 1 H, J = 10.0, 7.0 Hz, octyl OCH2),
+3.57 (s, 1 H, CH3OCH), 3.50 (dt, 1 H, J = 10.0, 6.5 Hz, octyl OCH2),
+3.47 (dd, 1 H, J2,3 = 10.0 Hz, J1,2 = 4.0 Hz, H-2), 3.42 (s, 3 H, OCH3),
+3.29 (t, 2 H, J = 7.0 Hz, CH2N3), 2.87 (s, 3 H, NCH3), 1.69−1.61 (m,
+× 4),
+4H, CH2
+1.12 (d, 3 H, J5,6 = 6.5 Hz, H-6); 13C NMR (125 MHz, CDCl3, δ
+C)
+172.1 (CH3NCO), 168.8 (HNCO), 138.7 (Ar), 138.5 (Ar),
+
+× 2), 1.38 (s, 3 H, CCH3), 1.42−1.33 (m, 8 H, CH2
+
+137.9 (Ar), 128.5 (Ar), 128.4 (Ar), 128.1 (Ar), 128.0 (Ar), 127.8 (Ar),
+127.7 (Ar), 127.5 (Ar), 127.4 (Ar), 127.1 (Ar), 97.5 (C-1), 83.7
+(CH3OCH), 80.4 (PhCH2OCCH3), 77.6 (C-3), 75.4 (C-2), 73.0
+(PhCH2, C-2), 72.8 (CHCONH), 71.9 (PhCH2, C-3), 68.5 (octyl
+OCH2), 65.4 (PhCH2O lactam), 64.0 (C-5), 59.3 (OCH3), 51.5
+(CH2N3), 51.2 (C-4), 29.4 (CH2), 29.3 (CH2), 29.1 (NCH3), 29.1
+(CH2), 28.8 (CH2), 26.7 (CH2), 26.1 (CH2), 16.9 (C-6), 14.1
+(CCH3),; HRMS (ESI) calcd for (M + H) C43H58N5O8: 772.4280.
+Found: 772.4270.
+
+(2S,3R)-1-tert-Butyl 2-Methyl 3-acetoxy-3-methyl-5-oxopyr-
+rolidine-1,2-dicarboxylate (54). To a solution of 15 (0.46 g, 1.7
+mmol) in pyridine (15.0 mL) and Ac2O (15.0 mL) was added DMAP
+(21 mg, 0.17 mmol). The mixture was stirred at room temperature for
+12 h. After completion of the reaction, the mixture was concentrated
+and diluted with CH2Cl2 (30 mL). The organic phase was washed with
+1 N HCl, and brine, dried over Na2SO4, and concentrated. The crude
+residue was puriﬁed by ﬂash column chromatography (silica gel,
+
+338.1210. Found: 338.1208.
+
+room temperature for 2 h. Then,
+</para>
+Article
+<para sub=“exp”>
+gradient 20 → 40% EtOAc−hexane) to yield 54 (472 mg, 89% yield)
+as a white amorphous solid; Rf 0.65 (4:3 EtOAc−hexane); [α]D =
+−18.9 (c 0.5, CH2Cl2); 1H NMR (500 MHz, CDCl3, δ
+H) 4.56 (s, 1 H,
+NCH), 3.83 (s, 3 H, OCH3), 3.11 (d, 1 H, J = 17.5 Hz, COCH2), 2.98
+(d, 1 H, J = 17.5 Hz, COCH2), 2.02 (s, 3 H, CH3CO), 1.78 (s, 3 H,
+CCH3), 1.52 (s, 9 H, C(CH3)3); 13C NMR (125 MHz, CDCl3, δ
+C)
+169.8 (NCO), 169.0 (CH3CO), 168.8 (CO2CH3), 148.9
+(CO2C(CH3)3), 84.4 (OC(CH3)3), 77.1 (CH3COAc), 68.6 (NCH),
+52.5 (OCH3), 44.3 (CH2), 27.9 (C(CH3)3), 24.8 (CCH3), 21.4
+(CH3CO); HRMS (ESI) calcd for (M + Na) C14H21NNaO7:
+(2S,3R)-Methyl 3-Acetoxy-3-methyl-5-oxopyrrolidine-2-
+carboxylate (55). To a solution of 54 (0.36 g, 1.7 mmol) in
+CH2Cl2 (30.0 mL) was added TFA (5.0 mL) at 0 °C. The mixture was
+stirred at
+the mixture was
+concentrated, diluted with CH2Cl2 (40 mL), washed with a satd aq
+solution of NaHCO3 and brine, dried over Na2SO4, and concentrated.
+The crude residue was puriﬁed by ﬂash column chromatography (silica
+gel, gradient 100 → 300% EtOAc−hexane) to yield 55 (227 mg, 93%
+yield) as a white amorphous solid; Rf 0.15 (4:3 EtOAc−Hexane); [α]D
+= +5.7 (c 0.7, CH2Cl2); 1H NMR (500 MHz, CDCl3, δ
+H) 6.52 (br s, 1
+H, NH), 4.21 (s, 1 H, NCH), 3.82 (s, 3 H, OCH3), 3.09 (d, 1 H, J =
+18.0 Hz, COCH2), 2.65 (d, 1 H, J = 18.0 Hz, COCH2), 2.00 (s, 3 H,
+CH3CO), 1.85 (s, 3 H, CCH3); 13C NMR (125 MHz, CDCl3, δ
+C)
+174.7 (NCO), 169.5 (CH3CO), 169.0 (CO2CH3), 82.9
+(CH3COAc), 66.1 (NCH), 52.5 (OCH3), 42.2 (CH2), 23.6
+(CCH3), 21.7 (CH3CO); HRMS (ESI) calcd for (M + Na)
+C9H13NNaO5: 238.0686. Found: 238.0686.
+(2S,3R)-Methyl 3-Acetoxy-1,3-dimethyl-5-oxopyrrolidine-2-
+carboxylate (57). To a solution of 55 (0.2 g, 0.93 mmol) in acetone
+(25 mL) were added paraformaldehyde (0.1 g, 4.4 mmol), potassium
+carbonate (20 mg), and water (0.2 mL) at room temperature. The
+mixture was placed in a sonication bath. After 3 h, the solution was
+ﬁltered, and concentrated, and the residue was puriﬁed by ﬂash
+chromatography on silica gel (gradient 50 → 25% hexane−EtOAc) to
+aﬀord hemiaminal 56 (190 mg). To this hemiaminal in CHCl3 (25
+mL) were added TFA (2.0 mL) and Et3SiH (2.0 mL). This mixture
+was stirred at room temperature overnight. Thereafter, the organic
+phase was washed with a satd aq solution of NaHCO3 and brine, dried
+over Na2SO4, and concentrated. The crude residue was puriﬁed by
+ﬂash column chromatography (silica gel, gradient 50 → 25% hexane−
+EtOAc) to yield 57 (172 mg, 81% yield over two steps) as a white
+amorphous solid; Rf 0.25 (4:3 EtOAc−hexane); [α]D = −5.1 (c 0.5,
+CH2Cl2); 1H NMR (500 MHz, CDCl3, δ
+H) 4.09 (s, 1 H, NCH), 3.82
+(s, 3 H, OCH3), 2.97 (d, 1 H, J = 17.0 Hz, COCH2), 2.85 (s, 3 H,
+NCH3), 2.79 (d, 1 H, J = 17.0 Hz, COCH2), 2.00 (s, 3 H, CH3CO),
+C) 172.2 (NC
+1.76 (s, 3 H, CCH3); 13C NMR (125 MHz, CDCl3, δ
+O), 169.2 (CH3CO), 168.8 (CO2CH3), 79.1 (CH3COAc), 72.3
+(NCH), 52.5 (OCH3), 42.8 (CH2), 28.8 (NCH3), 25.1 (CCH3), 21.5
+(CH3CO); HRMS (ESI) calcd for (M + Na) C10H15NNaO5:
+252.0842. Found: 252.0840.
+8-Azidooctyl 4-[(2′S,3′R)-3′-(Hydroxy)-1′,3′-dimethyl-5′-
+oxopyrrolidine-2′-carboxamido]-2,3-di-O-benzyl-4,6-dideoxy-
+α-D-galactopyranoside (58). To a solution of 9 (6.0 mg, 0.012
+mmol) in DMF (2 mL) were added the 14 (4.1 mg, 0.024 mmol),
+TBTU (9.6 mg, 0.030 mmol), and DIEA (3.9 mg, 0.030 mmol). The
+mixture was stirred at room temperature overnight. Then water was
+added, and the mixture was extracted with EtOAc. The combined
+organic phases were washed with brine, dried over Na2SO4, and
+concentrated. The residue was puriﬁed by ﬂash column chromatog-
+raphy (silica gel saturated with TEA, gradient 50−16% hexane/
+EtOAc) to aﬀord 58 (4.0 mg, 52% yield) as a colorless oil. Rf 0.21 (2:3
+hexane−EtOAc); [α]D = +129.3 (c 0.1, CH2Cl2); 1H NMR (700
+H) 7.39−7.27 (m, 10 H, ArH), 5.75 (d, 1 H, J = 10.5
+MHz, CDCl3, δ
+Hz, NH), 4.84 (d, 1 H, J = 12.0 Hz, PhCH2, C-2), 4.79 (d, 1 H, J =
+10.0 Hz, PhCH2, C-3), 4.65 (dd, 1 H, JNH,4 = 10.5 Hz, J3,4 = 4.5 Hz, H-
+4), 4.64 (d, 1 H, J1,2 = 4.0 Hz, H-1), 4.62 (d, 1 H, J = 10.0 Hz, PhCH2,
+C-3), 4.62 (d, 1 H, J = 12.0 Hz, PhCH2, C-2), 4.19 (q, 1 H, J5,6 = 6.5,
+Hz, H-5), 4.00 (dd, 1 H, J2,3 = 10.0 Hz, J3,4 = 4.5 Hz, H-3), 3.65 (s, 1
+H, CHCONH), 3.62 (dt, 1 H, J = 10.0, 7.0 Hz, octyl OCH2), 3.50
+</para>
+2779
+
+DOI: 10.1021/acs.joc.5b00064
+J. Org. Chem. 2015, 80, 2767−2780
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+(17) A reviewer suggested another possible mechanism: attack of
+benzylate anion, generated by elimination of 33, onto alkene 35. We
+view this unlikely, however, as such a mechanism would be expected to
+generate products with scrambling of the stereochemistry α to the
+lactam carbonyl group. Such products were not isolated.
+
+(dd, 1 H, J2,3 = 10.0 Hz, J1,2 = 4.0 Hz, H-2), 3.45 (dt, 1 H, J = 10.0, 6.5
+Hz, octyl OCH2), 3.27 (t, 2 H, J = 7.0 Hz, CH2N3), 3.07 (br s, 1 H,
+OH), 2.78 (s, 3 H, NCH3), 2.11 (d, 1 H, J = 16.5 Hz, CH2CO),
+1.95 (d, 1 H, J = 16.5 Hz, CH2CO), 1.66−1.55 (m, 4 H, CH2
+× 2),
+1.42 (s, 3 H, CCH3), 1.39−1.24 (m, 8 H, CH2
+× 4), 1.18 (d, 3 H, J5,6 =
+C) 173.4 (CH3NCO),
+6.5 Hz, H-6); 13C NMR (125 MHz, CDCl3, δ
+168.8 (HNCO), 138.2 (Ar), 137.2 (Ar), 128.5 (Ar), 128.4 (Ar),
+128.2 (Ar), 128.1 (Ar), 127.9 (Ar), 97.6 (C-1), 77.7 (C-3), 74.8 (C-2),
+73.7 (CHCONH), 73.5 (PhCH2, C-2), 72.8 (PhCH2, C-3), 68.6
+(octyl OCH2), 63.7 (C-5), 51.7 (C-4), 51.5 (CH2N3), 44.5 (CH2C
+O), 29.7 (CH2), 29.4 (CH2), 29.3 (CH2), 29.1 (NCH3), 28.9 (CCH3),
+28.7 (CH2), 26.7 (CH2), 26.0 (CH2), 16.8 (C-6); HRMS (ESI) calcd
+for (M + H) C35H50N5O7: 652.3705. Found: 652.3695.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+NMR spectra for compounds 5−58 and X-ray crystallographic
+data for 11. This material is available free of charge via the
+Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: tlowary@ualberta.ca (T.L.L.).
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was supported by the Alberta Glycomics Centre and
+the Department of Chemistry, University of Alberta. L.W.
+thanks Alberta Innovates Technology Futures for a Studentship
+Award. We thank Dr. Robert McDonald (X-ray Crystallography
+Laboratory, University of Alberta Department of Chemistry)
+for obtaining the structure of 11.
+
+■ REFERENCES
+
+(1) Bing, B.; Chu, C.-J.; Lowary, T. L. Israel. J. Chem. Accepted.
+(2) Hunter, S. W.; Murphy, R. C.; Clay, K.; Goren, M. B.; Brennan,
+P. J. J. Biol. Chem. 1983, 258, 10481−10487.
+(3) Saadat, S.; Ballou, C. E. J. Biol. Chem. 1983, 258, 1813−1818.
+(4) Gilleron, M.; Puzo, G. Glycoconjugate J. 1995, 12, 298−308.
+(5) Gilleron, M.; Vercauteren, J.; Puzo, G. J. Biol. Chem. 1993, 268,
+3168−3179.
+(6) Gilleron, M.; Vercauteren, J.; Puzo, G. Biochemistry 1994, 33,
+1930−1937.
+(7) McNeil, M.; Tsang, A. Y.; McClatchy, J. K.; Stewart, C.; Jardine,
+I.; Brennan, P. J. J. Bacteriol. 1987, 169, 3312−3320.
+(8) Burguiere, A.; Hitchen, P.; Dover, L.; Kremer, L.; Ridell, M.;
+Alexander, D.; Liu, J.; Morris, H.; Minnikin, D.; Dell, A.; Besra, G. J.
+Biol. Chem. 2005, 280, 42124−42133.
+(9) Rombouts, Y.; Burguière, A.; Maes, E.; Coddeville, B.; Elass, E.;
+Guérardel, Y.; Kremer, L. J. Biol. Chem. 2009, 284, 20975−20988.
+(10) Rombouts, Y.; Elass, E.; Biot, C.; Maes, E.; Coddeville, B.;
+Burguière, A.; Tokarski, C.; Buisine, E.; Trivelli, X.; Kremer, L. J. Am.
+Chem. Soc. 2010, 132, 16073−16084.
+(11) Daffe, M.; McNeil, M.; Brennan, P. J. Biochemistry 1991, 30,
+378−388.
+(12) Ren, H.; Dover, L. G.; Islam, S. T.; Alexander, D. C.; Chen, J.
+M.; Besra, G. S.; Liu, J. Mol. Microbiol. 2007, 63, 1345−1359.
+(13) Rombouts, Y.; Alibaud, L.; Carrère-Kremer, S.; Maes, E.;
+Tokarski, C.; Elass, E.; Kremer, L.; Guérardel, Y. J. Biol. Chem. 2011,
+286, 33678−33688.
+(14) Qin, D.; Zha, H.; Yao, Z. J. Org. Chem. 2002, 67, 1038−1040.
+(15) Petitou, M.; Duchaussoy, P.; Lederman, I.; Choay, J. Carbohydr.
+Res. 1986, 147, 221−236.
+(16) Ling, T.; Potts, B. C.; Macherla, V. R. J. Org. Chem. 2010, 75,
+3882−3885.
+
+2780
+
+DOI: 10.1021/acs.joc.5b00064
+J. Org. Chem. 2015, 80, 2767−2780
+
+

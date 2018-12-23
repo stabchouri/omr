@@ -1,0 +1,861 @@
+Note
+
+pubs.acs.org/joc
+
+†
+
+Synthesis of Vinyl Triﬂuoromethyl Thioethers via Copper-Mediated
+Triﬂuoromethylthiolation of Vinyl Bromides
+Huidong Zheng,*,†
+Yangjie Huang,
+†
+Department of Chemistry, Fuzhou University, Fuzhou, Fujian 350108, P. R. China
+‡
+State Key Laboratory of Structural Chemistry, Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences,
+Fuzhou, Fujian 350002, P. R. China
+*S Supporting Information
+
+and Zhiqiang Weng*,†,‡
+
+Jianping Ding,
+
+Chuyi Wu,
+
+†
+
+†
+
+ABSTRACT: A copper-mediated triﬂuoromethylthiolation of
+vinyl bromides has been developed. This method provides
+ready access to vinyl triﬂuoromethyl thioethers in good to high
+yields from simple,
+inexpensive starting materials. A broad
+substrate scope is achieved, and the reaction is compatible with
+various functional groups,
+triﬂuor-
+omethyl, alkoxy, amino, halide, and heterocyclic groups.
+
+including cyano, nitro,
+
+F luorine containing compounds are ubiquitous in pharma-
+ceuticals, agrochemicals, and advanced materials.1,2 Their
+ﬂuorine moieties oﬀer unusual chemical and physical properties,
+which can profoundly enhance the biological activity and
+metabolic stability.3,4 The triﬂuoromethylthio group (CF3S−)
+interest, as it has one of the highest Hansch
+is of special
+hydrophobicity parameter values (π
+R = 1.44).5 As a consequence,
+great synthetic eﬀorts have been exerted to develop eﬃcient
+methods for the incorporation of the CF3S− group into organic
+molecules.6−11 In particular,
+transition-metal-catalyzed or
+-mediated triﬂuoromethylthiolation have experienced impressive
+progress and growth in recent years. For instance, Cu-catalyzed
+and -mediated triﬂuoromethylthiolation of aryl12−14 and alkyl
+boronic acids,15 aryl halides,16 and arenediazonium salts,17
+related Cu-18−20 and Pd-promoted21 triﬂuoromethylthiolation
+through the direct functionalization of C−H bonds, Ag-catalyzed
+decarboxylative triﬂuoromethylthiolation of aliphatic carboxylic
+acids,22 and Pd-23 and Ni-catalyzed triﬂuoromethylthiolation of
+aryl halides24 have provided attractive access to compounds
+−SCF3 bonds.
+bearing Csp2
+However, synthetic processes for the direct construction of
+−SCF3 bonds via transition-metal-catalyzed or -mediated
+Cvinyl
+triﬂuoromethylthiolation have not been well developed (Scheme
+1). The Vicic,13 Shen,25 and Rueping14 groups independently
+reported Cu-mediated and -catalyzed triﬂuoromethylthiolation
+of vinyl boronic acids to form vinyl triﬂuoromethyl thioethers.
+Most recently, Rueping and co-workers also developed a Cu-
+catalyzed triﬂuoromethylthiolation of vinyl iodides.26 However,
+many of these procedures often require vinylboron compounds
+or vinyl iodides as substrates and/or the use of an electrophilic
+type triﬂuoromethylthiolation reagent.
+
+−SCF3 as well as Csp
+
+−SCF3 and Csp3
+
+We have therefore sought to develop a highly facile and cost-
+eﬀective route to vinyl triﬂuoromethyl thioethers via copper-
+mediated triﬂuoromethylthiolation of vinyl bromides.
+
+Copper-promoted coupling of vinyl bromides or iodides with
+S-nucleophiles has proven to be a powerful method for the
+
+Scheme 1. Methods for Preparation of Vinyl Triﬂuoromethyl
+Thioethers
+
+synthesis of vinyl sulﬁdes.27−32 However, the coupling of vinyl
+− to give vinyl triﬂuoromethyl thioether
+bromides with SCF3
+products is a challenging task because of
+the reduced
+nucleophilicity of the SCF3 anion.26
+As part of our continuing studies on copper-mediated
+triﬂuoromethylthiolation,33−38 we recently developed a novel
+−SCF3 bond formation mediated by a copper(I) triﬂuoro-
+Caryl
+methylthiolate complex (bpy)Cu(SCF3) (2; bpy = 2,2′-
+bipyridine).33 This complex reacted with various aryl iodides
+or activated aryl bromides to aﬀord aryl
+triﬂuoromethyl
+thioethers in modest to excellent yields. These results encourage
+us to probe the feasibility of performing the triﬂuoromethyl-
+thiolation of more challenging substrates, such as vinyl bromides,
+using the copper reagent 2.
+<para sub=“opt”>
+Initially,
+
+triﬂuoromethylthiolation of phenylvinyl bromide
+(1a) with 2 to form styrenyl triﬂuoromethyl thioethers (3a)
+was investigated. The reaction ﬁrst was conducted in CH3CN at
+100 °C for 16 h providing the desired product 3a in 23% yield
+(Table 1, entry 1). Next, we examined the possible inﬂuence of
+</para>
+Received:
+January 20, 2015
+Published: February 12, 2015
+
+© 2015 American Chemical Society
+
+2912
+
+DOI: 10.1021/acs.joc.5b00144
+J. Org. Chem. 2015, 80, 2912−2917
+
+The Journal of Organic Chemistry
+
+Table 1. Optimization of the Triﬂuoromethylthiolation of
+Phenylvinyl Bromidea
+
+Table 2. Comparison of Copper-Mediated/-Catalyzed
+Triﬂuoromethylthiolation of Phenylvinyl Bromide
+
+Note
+
+yield
+(%)a
+92
+55
+30
+
+entry
+
+1
+2
+3
+
+conditions
+
+(bpy)Cu(SCF3) (2) (1.2 equiv)
+(phen)Cu(SCF3) (1.2 equiv)
+[Bu4N][SCF3] (2 equiv), CuI (20 mol %), phen
+
+(20 mol %)
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+additive (equiv)
+
+LiF (2)
+NaF (2)
+KF (2)
+CsF (2)
+AgF (2)
+n-Bu4NF (2)
+KF (4)
+KF (4)
+KF (4)
+
+solvent
+CH3CN
+DMF
+DMSO
+toluene
+THF
+dioxane
+diglyme
+diglyme
+diglyme
+diglyme
+diglyme
+diglyme
+diglyme
+diglyme
+diglyme
+diglyme
+
+temp (°C)
+
+time (h)
+
+yield (%)b
+
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+80
+
+16
+16
+16
+16
+16
+16
+16
+16
+16
+16
+16
+16
+16
+16
+24
+24
+
+23
+28
+41
+50
+59
+35
+64
+63
+57
+74
+69
+52
+13
+80
+92
+71
+
+aReaction conditions: 1a (0.050 mmol), 2 (0.060 mmol), solvent (1.0
+mL), N2. bThe yield was determined by 19F NMR spectroscopy with
+PhOCF3 as internal standard.
+<para sub=“opt”>
+some parameters such as the solvent and additive on the outcome
+of the reaction. Other solvents, such as DMF, DMSO, and
+dioxane, were also ineﬀective (Table 1, entries 2, 3, and 6). When
+the solvent was changed to toluene and THF, the desired
+product 3a was obtained in yields of 50% and 59%, respectively
+(Table 1, entries 4, and 5). It was found that diglyme was an
+optimal solvent, aﬀording 3a in 64% yield (Table 1, entry 7).
+Thus, diglyme was chosen as a solvent of choice for further
+studies. Since the addition of alkali metal ﬂuorides could
+signiﬁcantly enhance the reaction eﬃciency probably by
+facilitating the formation of an active intermediate,36,37 various
+ﬂuorides were screened in the reaction (Table 1, entries 8−13). It
+was found that KF was superior to all other screened additives for
+the reaction (Table 1, entry 10). Increasing the quantity of KF
+from 2 to 4 equiv resulted in a higher yield of 80% (Table 1, entry
+14). The reaction time was also examined. The results indicated
+that the yield of 3a increased from 80% to 92% when the reaction
+time was prolonged from 16 to 24 h (Table 1, entry 15).
+lowering the reaction temperature to 80 °C
+Furthermore,
+resulted in a decreased yield of 71% (Table 1, entry 16).
+</para>
+<para sub=“opt”>
+Subsequently, a comparison with other triﬂuoromethyl-
+thiolation reagents was performed (Table 2). Reaction with
+(phen)Cu(SCF3) (phen = phenanthroline) generated product
+3a in moderate yield (55%; Table 2, entry 2). Similar behaviors
+were also observed in the previously reported triﬂuoromethyl-
+thiolation of aryl iodides.33 Moreover in the case of the Cu(I)
+catalyzed triﬂuoromethylthiolation using the [Bu4N][SCF3]
+reagent, the reaction produced a lower yield of 3a (30%; Table
+2, entry 3). This result shows a higher reactivity of (bpy)Cu-
+(SCF3) (2) compared to other reagents (Table 2, entry 1).
+</para>
+<para sub="scope">
+The generality of the reaction conditions was next tested on a
+variety of alkenyl bromides as illustrated in Table 3. A structurally
+diverse series of substituted β-bromostyrene underwent
+triﬂuoromethylthiolation with 2 by this procedure to produce
+the corresponding styrenyl triﬂuoromethyl thioethers in good to
+excellent yields. Moreover, no aryl acetylenes or homocoupled
+</para>
+aThe yield was determined by 19F NMR spectroscopy with PhOCF3 as
+internal standard.
+<para sub="scope">
+side products were observed. The products were characterized by
+IR, 1H NMR, 13C NMR, 19F NMR, MS, and HRMS spectra. The
+stereochemistry, easily assignable by the 1H NMR coupling
+constant value of the oleﬁnic protons (trans conﬁguration: J =
+15.0−15.4 Hz; cis conﬁguration: J = 10.6−10.7 Hz),
+is in
+accordance with the results obtained in closely related
+molecules.13,25,26 It also is worth noting that
+the E/Z
+stereochemistry of the styrenyl triﬂuoromethyl thioether bond
+corresponds to the starting vinyl bromide (Table 3, entries 1−
+16).
+</para>
+<para sub="scope">
+For example, phenylvinyl bromides 1a and 1b aﬀorded the
+corresponding products 3a and 3b in 90% and 92% yields,
+respectively (Table 3, entries 1 and 2). β-Bromostyrene having
+electron-donating groups on the phenyl ring were successfully
+converted to the desired products 3c−3f in good to high yields
+(75%−93%; Table 3, entries 3−6). Furthermore, the introduc-
+tion of electron-withdrawing substituents,
+including cyano,
+triﬂuoromethyl, and nitro groups, were well tolerated to give
+3g−3j in good yields (76−81%; Table 3, entries 7−10). This
+observation is consistent with our previous studies on triﬂuoro-
+methylthiolation of α-halo-α,β-unsaturated carbonyl sub-
+strates.36 Interestingly, the ﬂuoro and chloro groups at the
+ortho-, meta-, or para-position of aromatic rings were also
+tolerated and the respective products 3k−3o were aﬀorded in
+62−85% yields (Table 3, entries 11−15). This method can be
+further extended to the heteroarylvinyl bromide systems. The
+reactions of (Z)-2-(2-bromovinyl)pyridine (1p) with 2 gave 3p
+in 78% yield (Table 3, entry 16). Likewise, α-bromostyrene (1q)
+could also be reactive under the standard reaction conditions,
+leading to the desired product 3q in 73% yield (Table 3, entry
+17). Moreover, even 2-bromo-1,1,2-triphenylethylene (1r), a
+sterically highly demanding arylvinyl bromide, was a suitable
+substrate providing good yield of product 3r (72%; Table 3, entry
+18). Unfortunately, triﬂuoromethylthiolation of a cyclic vinyl
+bromide 1s under the standard conditions was less eﬃcient,
+producting a low yield of product 3s (23% of 19F NMR yield;
+Table 3, entry 19), along with dehalogenated and other
+unidentiﬁed side products. In addition to vinyl bromides,
+nonconjugated vinyl iodides are also suitable for the reaction.
+(1-Iodovinyl)cyclohexane (1t) and 2-iodooct-1-ene (1u) reacted
+with 2 to deliver good yields of the desired products 3t and 3u
+(70% and 61% of 19F NMR yields, respectively; Table 3, entries
+20 and 21).
+</para>
+<para sub="scope">
+To demonstrate the scalability and practicability of our
+synthesis, the triﬂuoromethylthiolation was conducted on a gram
+scale. Using 1.0 g of 1a as the substrate, the triﬂuoromethyl-
+thiolated product 3a was obtained in 86% yield (Scheme 2).
+</para>
+2913
+
+DOI: 10.1021/acs.joc.5b00144
+J. Org. Chem. 2015, 80, 2912−2917
+
+The Journal of Organic Chemistry
+Table 3. Substrate Scope of Triﬂuoromethylthiolation of Vinyl Bromidesa
+
+Note
+
+aReaction conditions: 1 (0.50 mmol), 2 (0.60 mmol), KF (2.0 mmol), diglyme (5.0 mL), N2. bThe E/Z isomer ratio was determined from the 19F
+NMR analysis. cThe yield was determined by 19F NMR spectroscopy with PhOCF3 as internal standard.
+
+Scheme 2. Scalability of the Triﬂuoromethylthiolation of 1a
+
+Table 4. Inhibition Experiment on the
+Triﬂuoromethylthiolation of 1aa
+<para sub="scope">
+A series of experiments were conducted to probe whether any
+radical intermediates are involved in this transformation (Table
+4). The reaction proceeds cleanly in the presence of the radical
+inhibitor 2,6-bis(1,1-dimethylethyl)-4-methylphenol (BHT, 1.0
+equiv) to aﬀord the desired product 3a in 93% yield. Similarly,
+carrying out the reaction in the presence of 2,2,6,6-tetramethyl-1-
+piperidinyloxy (TEMPO), a radical scavenger, gave 3a in 88%
+yield. Taken together, these two results and the complete
+retention of the double-bond stereochemistry after reaction
+</para>
+entry
+
+1
+2
+
+additive (equiv)
+BHT (1.0)
+TEMPO (1.0)
+
+yield (%)b
+
+93
+88
+
+aReaction conditions: 1a (0.050 mmol), 2 (0.060 mmol), KF (0.20
+mmol), diglyme (1.0 mL), N2. bThe yield was determined by 19F
+NMR spectroscopy with PhOCF3 as internal standard.
+<para sub="scope">
+appear inconsistent with a radical chain mechanism.39 Thus, it is
+likely that the reaction proceeds via an oxidative addition−
+reductive elimination pathway.26,33
+</para>
+2914
+
+DOI: 10.1021/acs.joc.5b00144
+J. Org. Chem. 2015, 80, 2912−2917
+
+The Journal of Organic Chemistry
+
+In conclusion, we have demonstrated a copper-mediated
+triﬂuoromethylthiolation of vinyl bromides that gives vinyl
+triﬂuoromethyl thioethers in good to excellent yields. The
+reaction demonstrates a broad substrate scope and a variety of
+functional groups, including cyano, nitro, triﬂuoromethyl, alkoxy,
+amino, halide, and heterocyclic groups that are tolerated. The
+complete retention of the oleﬁn geometry, functional group
+tolerance, and scalability of this reaction make it an attractive
+protocol for the practical synthesis of these potentially important
+molecules.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Methods. All manipulations were carried out under an
+inert atmosphere using a nitrogen-ﬁlled glovebox or standard Schlenk
+techniques. All glassware was oven or ﬂame-dried immediately prior to
+use. Solvents were freshly dried and degassed according to the
+procedures in Puriﬁcation of Laboratory Chemicals prior to use.
+Deuterated solvents were purchased commercially and were degassed
+and stored over activated 4 Å molecular sieves. β-Bromostyrene 1b−
+iodides 1t−u,43 (bpy)Cu(SCF3), (phen)Cu-
+o,40,41 1p,42 alkenyl
+(SCF3),33 and [Bu4N][SCF3]44 were prepared according to the
+published procedures. All other reagents were obtained from
+commercial sources and used without further puriﬁcation. The 1H,
+19F, and 13C{1H}NMR spectra were recorded at 400, 376, and 101 MHz,
+respectively. 19F NMR chemical shifts were determined relative to
+CFCl3 as the outside standard and low ﬁeld is positive. Mass
+spectrometry was performed on a GC/MS spectrometer with the
+electron impact (EI) ionization technique. HRMS data were recorded
+on a GC-TOF instrument using the EI technique.
+
+General Procedure for Triﬂuoromethylthiolation of Phenyl-
+vinyl Bromide with (bpy)Cu(SCF3). Phenylvinyl bromide 1 (0.50
+mmol), [(bpy)Cu(SCF3)] 2 (192 mg, 0.60 mmol, 1.2 equiv), KF (116
+mg, 2.0 mmol), and diglyme (5.0 mL) were added to a reaction tube
+with a Teﬂon screw cap equipped with a stir bar. The mixture was stirred
+at 100 °C for 24 h. The reaction mixture was ﬁltered through a pad of
+Celite. The ﬁltrate was added to water (10 mL) at 0 °C. The resulting
+mixture was extracted with Et2O (3 × 15 mL), and the combined organic
+layers was washed with water and then dried over MgSO4. The solvent
+was removed by rotary evaporation in an ice bath, and the resulting
+product was puriﬁed by column chromatography on silica gel with
+pentane/Et2O.
+
+Styryl(triﬂuoromethyl)sulfane14 (3a). Obtained as a yellow oil in
+90% yield (91 mg) with an E/Z ratio of 94:6. Rf (n-pentane/diethyl ether
+10:1) = 0.87. NMR of the major isomer: 1H NMR (400 MHz, CDCl3) δ
+7.61−7.29 (m, 5H), 7.02 (d, J = 15.3 Hz, 1H), 6.75 (d, J = 15.3 Hz, 1H).
+19F NMR (376 MHz, CDCl3) δ −42.7 (s, 3F). 13C{1H} NMR (101
+MHz, CDCl3) δ 141.2 (q, J = 1.2 Hz), 135.1 (s), 129.6 (q, J = 307.9 Hz),
+129.2 (s), 128.9 (s), 126.8 (s), 111.7 (q, J = 3.3 Hz). IR(KBr): ν 1716,
+1652, 1541, 1497, 1447, 1109, 953, 739, 757, 698, 590, 467 cm−1. GC-
+MS m/z 204 (M+), 135 (M+−CF3). HRMS (EI): calcd for C9H7F3S,
+204.0221; found, 204.0217.
+(4-Methylstyryl)(triﬂuoromethyl)sulfane26 (3b). Obtained as a
+yellow oil in 92% yield (100 mg) with an E/Z ratio of 95:5. Rf (n-
+pentane/diethyl ether 10:1) = 0.87. NMR of the major isomer: 1H NMR
+(400 MHz, CDCl3) δ 7.28 (d, J = 8.1 Hz, 2H), 7.16 (d, J = 8.1 Hz, 2H),
+6.98 (d, J = 15.3 Hz, 1H), 6.66 (d, J = 15.3 Hz, 1H), 2.35 (s, 3H). 19F
+NMR (376 MHz, CDCl3) δ −42.9 (s, 3F). 13C{1H} NMR (101 MHz,
+CDCl3) δ 141.8 (q, J = 1.3 Hz), 139.4 (s), 132.4 (s), 129.7 (q, J = 307.9
+Hz), 129.6 (s), 126.8 (s), 110.3 (q, J = 3.2 Hz), 21.3 (s). IR(KBr): ν
+2926, 2359, 1512, 1157, 1110, 958, 824, 787, 755, 505 cm−1. GC-MS m/
+z 218 (M+), 149 (M+−CF3). HRMS (EI): calcd for C10H9F3S, 218.0377;
+found, 218.0379.
+(E)-(4-Methoxystyryl)(triﬂuoromethyl)sulfane25 (3c). Ob-
+tained as a yellow oil in 89% yield (104 mg). Rf (n-pentane/diethyl
+ether 10:1) = 0.74. 1H NMR (400 MHz, CDCl3) δ 7.35 (d, J = 8.8 Hz,
+2H), 6.99 (d, J = 15.2 Hz, 1H), 6.89 (d, J = 8.8 Hz, 2H), 6.57 (d, J = 15.2
+Hz, 1H), 3.83 (s, 3H). 19F NMR (376 MHz, CDCl3) δ −43.1 (s, 3F).
+13C{1H} NMR (101 MHz, CDCl3) δ 160.5 (s), 142.2 (q, J = 1.1 Hz),
+</para>
+Note
+<para sub=“exp”>
+129.7 (q, J = 307.9 Hz), 128.4 (s), 127.9 (s), 114.3 (s), 108.4 (q, J = 3.0
+Hz), 55.3 (s). IR(KBr): ν 2961, 2839, 2359, 1607, 1511, 1305, 1258,
+1240, 1107, 1033, 959, 837, 796, 754 cm−1. GC-MS m/z 234 (M+), 165
+(M+−CF3). HRMS (EI): calcd for C10H9F3OS, 234.0326;
+found,
+234.0323.
+
+(E)-(2-Methoxystyryl)(triﬂuoromethyl)sulfane (3d). Obtained
+as a yellow oil in 91% yield (106 mg). Rf (n-pentane/diethyl ether 10:1)
+= 0.65. 1H NMR (400 MHz, CDCl3) δ 7.42 (dd, J = 7.6, 1.6 Hz, 1H),
+7.37−7.26 (m, 2H), 7.01−6.92 (m, 2H), 6.87 (d, J = 15.4 Hz, 1H), 3.91
+(s, 3H). 19F NMR (376 MHz, CDCl3) δ −42.9 (s, 3F). 13C{1H} NMR
+(101 MHz, CDCl3) δ 157.1 (s), 136.8 (q, J = 1.2 Hz), 130.3 (s), 129.8
+(q, J = 307.7 Hz), 128.0 (s), 124.0 (s), 120.7 (s), 112.3 (q, J = 3.1 Hz),
+111.0 (s), 55.5 (s). IR(KBr): ν 2965, 2840, 2360, 2341, 1487, 1250,
+1106, 1027, 959, 749 cm−1. GC-MS m/z 234 (M+), 165 (M+−CF3).
+HRMS (EI): calcd for C10H9F3OS, 234.0326; found, 234.0327.
+(E)-(Triﬂuoromethyl)(3,4,5-trimethoxystyryl)sulfane (3e). Ob-
+tained as a yellow oil in 75% yield (110 mg). Rf (n-pentane/diethyl ether
+10:1) = 0.34. 1H NMR (400 MHz, CDCl3) δ 6.94 (d, J = 15.3 Hz, 1H),
+6.63 (d, J = 15.3 Hz, 1H), 6.61 (s, 2H), 3.88 (s, 6H), 3.86 (s, 3H). 19F
+NMR (376 MHz, CDCl3) δ −42.8 (s, 3F). 13C{1H} NMR (101 MHz,
+CDCl3) δ 153.5 (s), 141.7 (q, J = 1.1 Hz), 139.2 (s), 130.7 (s), 129.6 (q, J
+= 308.1 Hz), 110.7 (q, J = 3.2 Hz), 104.0 (s), 61.0 (s), 56.2 (s). IR(KBr):
+ν 2941, 1576, 1541, 1507, 1457, 1417, 1334, 1242, 1125, 1005, 953, 799,
+755 cm−1. GC-MS m/z 294 (M+), 225 (M+−CF3). HRMS (EI): calcd
+for C12H13F3O3S, 294.0537; found, 294.0532.
+N,N-Dimethyl-4-(2-(triﬂuoromethylthio)vinyl)aniline (3f). Ob-
+tained as a yellow oil in 93% yield (114 mg) with an E/Z ratio of 95:5. Rf
+(n-pentane/diethyl ether 10:1) = 0.69. NMR of the major isomer: 1H
+NMR (400 MHz, CDCl3) δ 7.29 (d, J = 8.4 Hz, 2H), 6.97 (d, J = 15.0 Hz,
+1H), 6.65 (d, J = 8.4 Hz, 2H), 6.43 (d, J = 15.0 Hz, 1H), 2.99 (s, 6H). 19F
+NMR (376 MHz, CDCl3) δ −43.6 (s, 3F). 13C{1H} NMR (101 MHz,
+CDCl3) δ 151.1 (s), 144.3 (s), 129.8 (q, J = 308.0 Hz), 128.3 (s), 127.2
+(s), 123.2 (d, J = 0.9 Hz), 112.0 (s), 40.3 (s). IR(KBr): ν 2925, 2854,
+1608, 1522, 1446, 1362, 1185, 1153, 1110, 792 cm−1. GC-MS m/z 247
+(M+), 178 (M+−CF3). HRMS (EI): calcd for C11H12F3NS, 247.0643;
+found, 247.0642.
+
+4-(2-(Triﬂuoromethylthio)vinyl)benzonitrile (3g). Obtained as
+a yellow oil in 80% yield (91 mg) with an E/Z ratio of 55:45. Rf (n-
+pentane/diethyl ether 10:1) = 0.58. 1H NMR (400 MHz, CDCl3) E + Z:
+δ 7.67 (d, J = 7.2 Hz, 2H), 7.64 (d, J = 7.2 Hz, 2H), 7.47 (d, J = 7.2 Hz,
+2H), 7.42 (d, J = 7.2 Hz, 2H), 6.92 (s, 2H), 6.83 (d, J = 10.7 Hz, 1H),
+6.59 (d, J = 10.7 Hz, 1H). 19F NMR (376 MHz, CDCl3) E + Z: δ −42.2
+(s, 3F) −42.9 (s, 3F). 13C{1H} NMR (101 MHz, CDCl3) E + Z: δ
+139.3/139.2 (s), 136.4 (q, J = 1.2 Hz), 132.7 (s), 132.4 (s), 129.12/
+129.11 (q, J = 308.0 Hz), 129.12 (s), 127.1 (s), 117.9/117.0 (q, J = 3.8
+Hz). IR(KBr): ν 2977, 2916, 2848, 2230, 1463, 1114, 734 cm−1. GC-MS
+m/z 229 (M+), 160 (M+−CF3). HRMS (EI): calcd for C10H6F3NS,
+229.0173; found, 229.0169.
+(Triﬂuoromethyl)(4-(triﬂuoromethyl)styryl)sulfane26 (3h).
+Obtained as a yellow oil in 79% yield (107 mg) with an E/Z ratio of
+70:30. Rf (n-pentane/diethyl ether 10:1) = 0.83. NMR of the major
+isomer: 1H NMR (400 MHz, CDCl3) δ 7.62 (d, J = 8.0 Hz, 2H), 7.49 (d,
+J = 8.0 Hz, 2H), 6.98 (d, J = 15.0 Hz, 1H), 6.86 (d, J = 15.0 Hz, 1H). 19F
+NMR (376 MHz, CDCl3) δ −42.4 (s, 3F), −62.8 (s, 3F). 13C{1H} NMR
+(101 MHz, CDCl3) δ 138.3 (q, J = 1.3 Hz), 137.8 (s), 130.6 (s), 129.4
+(q, J = 308.1 Hz), 128.8 (s), 126.9 (s), 125.9 (q, J = 3.8 Hz), 115.4 (q, J =
+3.1 Hz). IR(KBr): ν 2955, 2924, 2854, 1457, 1326, 1168, 1135, 1110,
+1068 cm−1. GC-MS m/z 272 (M+), 203 (M+−CF3). HRMS (EI): calcd
+for C10H6F6S, 272.0094; found, 272.0095.
+
+(3-Nitrostyryl)(triﬂuoromethyl)sulfane (3i). Obtained as a
+yellow oil in 81% yield (100 mg) with an E/Z ratio of 40:60. Rf (n-
+pentane/diethyl ether 10:1) = 0.64. 1H NMR (400 MHz, CDCl3) E + Z:
+δ 8.26−8.14 (m, 4H), 7.73−7.64 (m, 2H), 7.63−7.53 (m, 2H), 7.04−
+6.87 (m, 2H), 6.61 (d, J = 10.6 Hz, 2H). 19F NMR (376 MHz, CDCl3) δ
+−42.2 (s) (E/Z), −42.8 (s) (E/Z). 13C{1H} NMR (101 MHz, CDCl3) E
++ Z: δ 134.2 (s), 132.4 (s), 129.9 (s), 129.6 (s), 129.3/129.1 (q, J = 308.2
+Hz), 123.4/123.3 (s), 122.8 (s), 121.2 (s), 117.5/116.3 (q, J = 3.8 Hz).
+IR(KBr): ν 2926, 2855, 1609, 1532, 1458, 1351, 1111, 940, 806, 750,
+737, 669 cm−1. GC-MS m/z 249 (M+), 180 (M+−CF3). HRMS (EI):
+calcd for C9H6F3NO2S, 249.0071; found, 249.0066.
+</para>
+2915
+
+DOI: 10.1021/acs.joc.5b00144
+J. Org. Chem. 2015, 80, 2912−2917
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(4-Nitrostyryl)(triﬂuoromethyl)sulfane (3j). Obtained as a
+yellow solid in 76% yield (94 mg) with an E/Z ratio 80:20. Rf (n-
+pentane/diethyl ether 10:1) = 0.67. NMR of the major isomer: 1H NMR
+(400 MHz, CDCl3) δ 8.21 (d, J = 8.8 Hz, 2H), 7.53 (d, J = 8.8 Hz, 2H),
+6.97 (s, 2H). 19F NMR (376 MHz, CDCl3) δ −42.0 (s, 3F). 13C{1H}
+NMR (101 MHz, CDCl3) δ 135.6 (q, J = 1.3 Hz), 129.3 (s), 129.2 (q, J =
+308.2 Hz), 127.2 (s), 124.3 (s), 123.9 (s), 118.1 (q, J = 3.4 Hz).
+IR(KBr): ν 2955, 2924, 2854, 1457, 1326, 1168, 1135, 1110, 1068 cm−1.
+GC-MS m/z 249 (M+), 180 (M+−CF3). HRMS (EI): calcd for
+C9H6F3NO2S, 249.0071; found, 249.0073.
+
+(3-Fluorostyryl)(triﬂuoromethyl)sulfane (3k). Obtained as a
+yellow oil in 77% yield (85 mg) with E/Z ratio 80:20. Rf (n-pentane/
+diethyl ether 10:1) = 0.82. NMR of the major isomer: 1H NMR (400
+MHz, CDCl3) δ 7.45−7.28 (m, 1H), 7.20−6.99 (m, 3H), 6.94 (d, J =
+15.4 Hz, 1H), 6.77 (d, J = 15.4 Hz, 1H). 19F NMR (376 MHz, CDCl3) δ
+−42.6 (s, 3F), −112.5 to −112.6 (m, 1F). 13C{1H} NMR (101 MHz,
+CDCl3) δ 164.3 (s), 161.8 (s), 138.9 (q, J = 1.2 Hz), 130.5 (s), 130.4 (s),
+129.5 (q, J = 308.0 Hz), 122.7 (s), 115.9 (s), 113.4 (s). IR(KBr): ν 1715,
+1683, 1652, 1614, 1580, 1557, 1557, 1540, 1506, 1488, 1446, 1223,
+1111, 949, 775, 757, 680 cm−1. GC-MS m/z 222 (M+), 153 (M+−CF3).
+HRMS (EI): calcd for C9H6F4S, 222.0126; found, 222.0123.
+
+(4-Fluorostyryl)(triﬂuoromethyl)sulfane (3l). Obtained as a
+yellow oil in 85% yield (94 mg) with E/Z ratio 93:7. Rf (n-pentane/
+diethyl ether 10:1) = 0.85. NMR of the major isomer: 1H NMR (400
+MHz, CDCl3) δ 7.58−7.28 (m, 2H), 7.05 (t, J = 8.6 Hz, 2H), 6.96 (d, J =
+15.3 Hz, 1H), 6.65 (d, J = 15.3 Hz, 1H). 19F NMR (376 MHz, CDCl3) δ
+−42.8 (s), −111.4 to −111.5 (m, 1F). 13C{1H} NMR (101 MHz,
+CDCl3) δ 164.4 (s), 162.0 (s), 140.1−140.0 (m), 129.6 (q, J = 307.8
+Hz), 128.6 (s), 116.1 (s), 111.6−111.2 (m). IR(KBr): ν 2926, 2856,
+1602, 1508, 1457, 1234, 1159, 1111, 956, 933, 839, 798, 756, 527, 515
+cm−1. GC-MS m/z 222 (M+), 153 (M+−CF3). HRMS (EI): calcd for
+C9H6F4S, 222.0126; found, 222.0128.
+
+(3-Chlorostyryl)(triﬂuoromethyl)sulfane (3m). Obtained as a
+yellow oil in 79% yield (94 mg) with an E/Z ratio of 70:30. Rf (n-
+pentane/diethyl ether 10:1) = 0.83. NMR of the major isomer: 1H NMR
+(400 MHz, CDCl3) δ 7.40 (s, 1H), 7.37−7.21 (m, 3H), 6.93 (d, J = 15.2
+Hz, 1H), 6.80 (d, J = 15.2 Hz, 1H). 19F NMR (376 MHz, CDCl3) δ
+−42.5 (s, 3F). 13C{1H} NMR (101 MHz, CDCl3) δ 138.6 (q, J = 1.2
+Hz), 136.8 (s), 134.9 (s), 130.1 (s), 129.4 (q, J = 307.9 Hz), 129.0 (s),
+126.6 (s), 124.9 (d, J = 18.3 Hz), 113.8 (q, J = 3.2 Hz). IR(KBr): ν 1716,
+1683, 1647, 1594, 1560, 1541, 1507, 1473, 1418, 1237, 1111, 950, 881,
+792, 773, 756, 692, 679 cm−1. GC-MS m/z 237 (M+), 168 (M+−CF3).
+HRMS (EI): calcd for C9H6ClF3S, 237.9831; found, 237.9834.
+(4-Chlorostyryl)(triﬂuoromethyl)sulfane13 (3n). Obtained as a
+yellow oil in 83% yield (98 mg) with an E/Z ratio of 85:15. Rf (n-
+pentane/diethyl ether 10:1) = 0.82. NMR of the major isomer: 1H NMR
+(400 MHz, CDCl3) δ 7.30−7.27 (m, 4H), 6.89 (d, J = 15.4 Hz, 1H), 6.70
+(d, J = 15.4 Hz, 1H). 19F NMR (376 MHz, CDCl3) δ −42.6 (s, 3F).
+13C{1H} NMR (101 MHz, CDCl3) δ 139.3 (s), 135.0 (s), 133.6 (s),
+129.6 (q, J = 307.6 Hz), 129.1 (s), 128.0 (s), 112.6 (q, J = 3.2 Hz).
+IR(KBr): ν 2956, 2925, 2854, 1541, 1508, 1490, 1457, 1260, 1163, 1111,
+1094, 1013, 792, 794 cm−1. GC-MS m/z 237 (M+), 168 (M+−CF3).
+HRMS (EI): calcd for C9H6ClF3S, 237.9831; found, 237.9829.
+(E)-(2,6-Dichlorostyryl)(triﬂuoromethyl)sulfane (3o). Obtained
+as a yellow oil in 62% yield (84 mg). Rf (n-pentane/diethyl ether 10:1) =
+0.83. 1H NMR (400 MHz, CDCl3) δ 7.34 (d, J = 8.1 Hz, 2H), 7.22−7.09
+(m, 1H), 7.05−6.88 (m, 2H). 19F NMR (376 MHz, CDCl3) δ −42.1 (s,
+3F). 13C{1H} NMR (101 MHz, CDCl3) δ 134.4 (s), 132.3 (q, J = 1.6
+Hz), 129.4 (d, J = 308.1 Hz), 129.3 (s), 128.7 (s), 121.8 (q, J = 3.4 Hz).
+IR(KBr): ν 1647, 1557, 1541, 1508, 1487, 1428, 1163, 1109, 946, 774,
+757, 708 cm−1. GC-MS m/z 271 (M+), 202 (M+−CF3). HRMS (EI):
+calcd for C9H5Cl2F3S, 271.9441; found, 271.9445.
+(Z)-2-(2-(Triﬂuoromethylthio)vinyl)pyridine (3p). Obtained as a
+yellow solid in 78% yield (79 mg). Rf (n-pentane/diethyl ether 10:1) =
+0.68. 1H NMR (400 MHz, CDCl3) δ 8.65 (d, J = 4.5 Hz, 1H), 7.67 (td, J
+= 7.7, 1.7 Hz, 1H), 7.23 (d, J = 7.8 Hz, 1H), 7.17−7.10 (m, 1H), 6.73 (s,
+2H). 19F NMR (376 MHz, CDCl3) δ −46.6 (s, 3F). 13C{1H} NMR (101
+MHz, CDCl3) δ 154.3 (s), 148.0 (s), 136.5 (s), 130.1 (q, J = 310.9 Hz),
+124.6 (q, J = 1.2 Hz), 123.6 (s), 121.5 (s), 121.4 (s). IR(KBr): ν 1716,
+1605, 1586, 1557, 1541, 1507, 1473, 1457, 1430, 1119, 997, 868, 795,
+</para>
+Note
+<para sub=“exp”>
+743, 688, 625, 541 cm−1. GC-MS m/z 205 (M+), 136 (M+-CF3). HRMS
+(EI): calcd for C8H6F3NS, 205.0173; found, 205.0175.
+
+(1-Phenylvinyl)(triﬂuoromethyl)sulfane (3q). Obtained as a
+yellow oil in 73% yield (74 mg). Rf (n-pentane/diethyl ether 10:1) =
+0.83. 1H NMR (400 MHz, CDCl3) δ 7.65−7.61 (m, 2H), 7.41−7.36 (m,
+3H), 6.08 (s, 1H), 5.99 (s, 1H). 19F NMR (376 MHz, CDCl3) δ −41.2
+(s, 3F). 13C{1H} NMR (101 MHz, CDCl3) δ 135.5 (q, J = 1.9 Hz), 129.4
+(q, J = 309.1 Hz), 129.1 (s), 128.5 (s), 127.4 (q, J = 1.8 Hz), 127.2 (s),
+117.7 (s). IR(KBr): ν 1868, 1748, 1734, 1716, 1697, 1683, 1541, 1507,
+1121, 771, 701 cm−1. GC-MS m/z 204 (M+), 135 (M+−CF3). HRMS
+(EI): calcd for C9H7F3S, 204.0221; found, 204.0222.
+
+(Triﬂuoromethyl)(1,2,2-triphenylvinyl)sulfane (3r). Obtained
+as a white solid in 72% yield (128 mg). Rf (n-pentane/diethyl ether 10:1)
+= 0.79. 1H NMR (400 MHz, CDCl3) δ 7.45−7.29 (m, 7H), 7.22−7.15
+(m, 3H), 7.11−7.01 (m, 3H), 6.98−6.88 (m, 2H). 19F NMR (376 MHz,
+CDCl3) δ −39.5 (s, 3F). 13C{1H} NMR (101 MHz, CDCl3) δ 152.4 (q,
+J = 1.5 Hz), 142.6 (s), 141.5 (s), 139.4 (s), 130.5 (s), 130.4 (s), 129.6 (s),
+129.4 (q, J = 311.8 Hz), 128.3 (s), 128.0 (s), 127.9 (s), 127.8 (s), 127.7
+(s), 127.4 (s), 126.1 (q, J = 1.5 Hz). IR(KBr): ν 1868, 1791, 1772, 1748,
+1716, 1692, 1683, 1558, 1541, 1507, 1489, 1444, 1126, 1108, 1075, 755,
+745, 696 cm−1. GC-MS m/z 356 (M+), 287 (M+−CF3). HRMS (EI):
+calcd for C21H15F3S, 356.0847; found, 356.0843.
+(1H-Inden-2-yl)(triﬂuoromethyl)sulfane (3s). 19F NMR analysis
+of the ﬁltrate indicated that 3s was produced in 23% yield. 1H NMR (400
+MHz, CD3CN) δ 7.55−7.39 (m, 2H), 7.37−7.25 (m, 3H), 3.70 (s, 2H).
+19F NMR (376 MHz, CD3CN) δ −42.6 (s). 13C NMR (101 MHz,
+CD3CN) δ 144.8 (s), 142.8 (s), 142.2 (q, J = 1.5 Hz), 129.6 (q, J = 307.9
+Hz), 128.2 (q, J = 2.0 Hz), 126.9 (s), 123.8 (s), 121.8 (s), 117.3 (s), 43.8
+(q, J = 1.0 Hz). HRMS (EI): calcd for C10H7F3S, 216.0221; found,
+216.0225.
+
+(1-Cyclohexylvinyl)(triﬂuoromethyl)sulfane (3t). Obtained as a
+yellow oil in 70% yield (73 mg). Rf (n-pentane) = 0.85. 1H NMR (400
+MHz, CDCl3) δ 5.66 (s, 1H), 5.64 (s, 1H), 2.18 (t, J = 11.4 Hz, 1H), 1.91
+(dd, J = 58.1, 12.5 Hz, 4H), 1.43−1.09 (m, 6H). 19F NMR (376 MHz,
+CDCl3) δ −41.0 (s). 13C{1H} NMR (101 MHz, CDCl3) δ 141.8 (q, J =
+1.0 Hz), 129.9 (q, J = 307.7 Hz), 124.0 (q, J = 1.2 Hz), 46.2 (d, J = 0.9
+Hz), 32.0 (s), 26.2 (s), 26.0 (s). IR(KBr): ν 2932, 2856, 2360, 1615,
+1451, 1261, 1125, 1101, 929, 892, 806, 757, 606 cm−1. GC-MS m/z 210
+(M+), 141 (M+−CF3). HRMS (EI): calcd for C9H13F3S, 210.0690;
+found, 210.0692.
+
+Oct-1-en-2-yl(triﬂuoromethyl)sulfane (3u). 19F NMR analysis of
+the ﬁltrate indicated that 3u was produced in 61% yield. This volatile
+compound was inevitably contaminated with a small amount of
+unidentiﬁed products. 1H NMR (400 MHz, CDCl3) δ 5.61 (s, 1H),
+5.59 (s, 1H), 2.36 (t, J = 7.2 Hz, 2H), 1.37−1.22 (m, 8H), 0.89 (s, 3H).
+19F NMR (376 MHz, CDCl3) δ −41.4 (s). 13C{1H} NMR (101 MHz,
+CDCl3) δ 142.9 (q, J = 1.2 Hz), 129.8 (q, J = 308.1 Hz), 125.7 (q, J = 1.3
+Hz), 38.4 (s), 31.5 (s), 28.4 (s), 27.6 (s), 22.6 (s), 14.0 (s). GC-MS m/z
+212 (M+), 143 (M+−CF3). HRMS (EI): calcd for C9H15F3S, 212.0847;
+found, 212.0852.
+
+Gram Scale Reactions for Synthesis of Styrenyl Triﬂuor-
+omethyl Thioethers (3a). Phenylvinyl bromide 1 (1.0 g, 5.5 mmol),
+[(bpy)Cu(SCF3)] 2 (2.1 g, 6.6 mmol, 1.2 equiv), KF (1.28 g, 22.0
+mmol), and diglyme (20.0 mL) were added to a reaction tube with a
+Teﬂon screw cap equipped with a stir bar. The mixture was stirred at 100
+°C for 24 h. The reaction mixture was ﬁltered through a pad of Celite.
+The ﬁltrate was added to water (60 mL) at 0 °C. The resulting mixture
+was extracted with Et2O (3 × 30 mL), and the combined organic layers
+were washed with water and then dried over MgSO4. The solvent was
+removed by rotary evaporation in an ice bath, and the resulting product
+was puriﬁed by column chromatography on silica gel with pentane/
+Et2O. 3a was obtained as a yellow oil in 86% yield (0.96 g).
+
+Procedure for the Reaction of Phenylvinyl Bromide 1 with 2
+in the Presence of 1.0 equiv of BHT. Phenylvinyl bromide 1 (0.050
+mmol), [(bpy)Cu(SCF3)] 2 (19.2 mg, 0.060 mmol, 1.2 equiv), KF (11.6
+mg, 0.20 mmol), BHT (11.0 mg, 0.050 mmol, 1.0 equiv), and diglyme
+(1.0 mL) were added to a oven-dried 5 mL test tube with a Teﬂon screw
+cap. The tube was sealed, and the reaction solution was placed into a
+preheated 100 °C oil bath for 24 h. The tube was removed from the oil
+bath and cooled to room temperature, and then 10 μL (triﬂuoro-
+</para>
+2916
+
+DOI: 10.1021/acs.joc.5b00144
+J. Org. Chem. 2015, 80, 2912−2917
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+methoxy)benzene were added as an internal standard. The resulting
+mixture was ﬁltered through a layer of Celite. The ﬁltrate was analyzed
+by 19F NMR and GC-MS. The yield of the styrenyl triﬂuoromethyl
+thioethers (3a) was calculated to be 93%.
+
+Procedure for the Reaction of Phenylvinyl Bromide 1 with 2
+in the Presence of 1.0 equiv of TEMPO. Phenylvinyl bromide 1
+(0.050 mmol), [(bpy)Cu(SCF3)] 2 (19.2 mg, 0.060 mmol, 1.2 equiv),
+KF (11.6 mg, 0.20 mmol), TEMPO (7.80 mg, 0.050 mmol, 1.0 equiv),
+and diglyme (1.0 mL) were added to a oven-dried 5 mL test tube with a
+Teﬂon screw cap. The tube was sealed, and the reaction solution was
+placed into a preheated 100 °C oil bath for 24 h. The tube was removed
+from the oil bath and cooled to room temperature, and then 10 μL
+(triﬂuoromethoxy)benzene were added as an internal standard. The
+resulting mixture was ﬁltered through a layer of Celite. The ﬁltrate was
+analyzed by 19F NMR and GC-MS. The yield of
+the styrenyl
+triﬂuoromethyl thioethers (3a) was calculated to be 88%.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Full NMR spectra of new compounds. This material is available
+free of charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Authors
+*E-mail: youngman@fzu.edu.cn (H.Z.).
+*E-mail: zweng@fzu.edu.cn (Z.W.).
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+Financial support from National Natural Science Foundation of
+China (21372044), Research Fund for the Doctoral Program of
+Higher Education of China (No. 20123514110003), the SRF for
+ROCS, SEM, China (2012-1707), the Science Foundation of the
+Fujian Province, China (2013J01040), and Fuzhou University
+(022318, 022494) is gratefully acknowledged.
+
+■ REFERENCES
+
+(1) Kirsch, P. Modern ﬂuoroorganic chemistry: synthesis, reactivity,
+applications; Wiley-VCH: Weinheim, 2004.
+(2) Ojima, I., Ed. Fluorine in Medicinal Chemistry and Chemical Biology;
+John Wiley & Sons Ltd.: 2009.
+(3) Wang, J.; Sánchez-Roselló, M.; Aceña, J. L.; del Pozo, C.;
+Sorochinsky, A. E.; Fustero, S.; Soloshonok, V. A.; Liu, H. Chem. Rev.
+2014, 114, 2432.
+(4) Zhu, W.; Wang, J.; Wang, S.; Gu, Z.; Aceña, J. L.; Izawa, K.; Liu, H.;
+Soloshonok, V. A. J. Fluorine Chem. 2014, 167, 37.
+(5) Hansch, C.; Leo, A.; Taft, R. W. Chem. Rev. 1991, 91, 165.
+(6) Tlili, A.; Billard, T. Angew. Chem., Int. Ed. 2013, 52, 6818.
+(7) Toulgoat, F.; Alazet, S.; Billard, T. Eur. J. Org. Chem. 2014, 2415.
+(8) Chu, L.; Qing, F.-L. Acc. Chem. Res. 2014, 47, 1513.
+(9) Wang, H.; Vicic, D. A. Synlett 2013, 24, 1887.
+(10) He, W.; Weng, Z. Prog. Chem. 2013, 25, 1071.
+(11) Xu, X.-H.; Matsuzaki, K.; Shibata, N. Chem. Rev. 2015, 115, 731.
+(12) Chen, C.; Xie, Y.; Chu, L.; Wang, R.-W.; Zhang, X.; Qing, F.-L.
+Angew. Chem., Int. Ed. 2012, 51, 2492.
+(13) Zhang, C.-P.; Vicic, D. A. Chem.Asian J. 2012, 7, 1756.
+(14) Pluta, R.; Nikolaienko, P.; Rueping, M. Angew. Chem., Int. Ed.
+2014, 53, 1650.
+(15) Shao, X.; Liu, T.; Lu, L.; Shen, Q. Org. Lett. 2014, 16, 4738.
+(16) Xu, J.; Mu, X.; Chen, P.; Ye, J.; Liu, G. Org. Lett. 2014, 16, 3942.
+(17) Danoun, G.; Bayarmagnai, B.; Gruenberg, M. F.; Goossen, L. J.
+Chem. Sci. 2014, 5, 1312.
+(18) Tran, L. D.; Popov, I.; Daugulis, O. J. Am. Chem. Soc. 2012, 134,
+18237.
+(19) Xu, C.; Ma, B.; Shen, Q. Angew. Chem., Int. Ed. 2014, 53, 9316.
+
+(20) Chen, C.; Xu, X.-H.; Yang, B.; Qing, F.-L. Org. Lett. 2014, 16,
+3372.
+(21) Xu, C.; Shen, Q. Org. Lett. 2014, 16, 2046.
+(22) Hu, F.; Shao, X.; Zhu, D.; Lu, L.; Shen, Q. Angew. Chem., Int. Ed.
+2014, 53, 6105.
+(23) Teverovskiy, G.; Surry, D. S.; Buchwald, S. L. Angew. Chem., Int.
+Ed. 2011, 50, 7312.
+(24) Zhang, C.-P.; Vicic, D. A. J. Am. Chem. Soc. 2012, 134, 183.
+(25) Shao, X.; Wang, X.; Yang, T.; Lu, L.; Shen, Q. Angew. Chem., Int.
+Ed. 2013, 52, 3457.
+(26) Rueping, M.; Tolstoluzhsky, N.; Nikolaienko, P. Chem.Eur. J.
+2013, 19, 14043.
+(27) Bates, C. G.; Saejueng, P.; Doherty, M. Q.; Venkataraman, D. Org.
+Lett. 2004, 6, 5005.
+(28) Zheng, Y.; Du, X.; Bao, W. Tetrahedron Lett. 2006, 47, 1217.
+(29) Kabir, M. S.; Van Linn, M. L.; Monte, A.; Cook, J. M. Org. Lett.
+2008, 10, 3363.
+(30) Kabir, M. S.; Lorenz, M.; Van Linn, M. L.; Namjoshi, O. A.; Ara,
+S.; Cook, J. M. J. Org. Chem. 2010, 75, 3626.
+(31) Kao, H.-L.; Lee, C.-F. Org. Lett. 2011, 13, 5204.
+(32) Xu, R.-S.; Yue, L.; Pan, Y.-J. Tetrahedron 2012, 68, 5046.
+(33) Weng, Z.; He, W.; Chen, C.; Lee, R.; Tan, D.; Lai, Z.; Kong, D.;
+Yuan, Y.; Huang, K.-W. Angew. Chem., Int. Ed. 2013, 52, 1548.
+(34) Kong, D.; Jiang, Z.; Xin, S.; Bai, Z.; Yuan, Y.; Weng, Z. Tetrahedron
+2013, 69, 6046.
+(35) Tan, J.; Zhang, G.; Ou, Y.; Yuan, Y.; Weng, Z. Chin. J. Chem. 2013,
+31, 921.
+(36) Zhu, P.; He, X.; Chen, X.; You, Y.; Yuan, Y.; Weng, Z. Tetrahedron
+2014, 70, 672.
+(37) Lin, Q.; Chen, L.; Huang, Y.; Rong, M.; Yuan, Y.; Weng, Z. Org.
+Biomol. Chem. 2014, 12, 5500.
+(38) Hou, C.; Lin, X.; Huang, Y.; Chen, Z.; Weng, Z. Synthesis 2015,
+47, doi: 10.1055/s-0034-1379972.
+(39) Cohen, T.; Cristea, I. J. Am. Chem. Soc. 1976, 98, 748.
+(40) Telvekar, V. N.; Arote, N. D.; Herlekar, O. P. Synlett 2005, 2495.
+(41) Fursule, R. A.; Patil, P. O.; Shewale, B. D.; Kosalge, S. B.;
+Deshmukh, P. K.; Patil, D. A. Chem. Pharm. Bull. 2009, 57, 1243.
+(42) Kaloko, J.; Hayford, A. Org. Lett. 2005, 7, 4305.
+(43) Cheung, L. L. W.; Yudin, A. K. Org. Lett. 2009, 11, 1281.
+(44) Adams, D. J.; Clark, J. H. J. Org. Chem. 2000, 65, 1456.
+
+2917
+
+DOI: 10.1021/acs.joc.5b00144
+J. Org. Chem. 2015, 80, 2912−2917
+
+

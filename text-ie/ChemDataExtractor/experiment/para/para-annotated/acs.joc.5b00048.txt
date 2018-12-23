@@ -1,0 +1,1700 @@
+Article
+
+pubs.acs.org/joc
+
+Eﬀects of Thionation and Fluorination on Cis−Trans Isomerization in
+Tertiary Amides: An Investigation of N‑Alkylglycine (Peptoid)
+Rotamers
+Jens Engel-Andreasen,
+and Christian A. Olsen*,†,‡,§
+†
+Department of Chemistry, Technical University of Denmark, Kemitorvet 207, DK-2800 Kongens Lyngby, Denmark
+‡
+Center for Biopharmaceuticals and Department of Drug Design & Pharmacology, University of Copenhagen, Universitetsparken 2,
+DK-2100 Copenhagen, Denmark
+*S Supporting Information
+
+Jonas S. Laursen,
+
+Kathrine Wich,
+
+‡,#
+
+†,#
+
+‡
+
+Pernille Harris,
+
+†
+
+ABSTRACT: Peptoids constitute a class of peptidomimetics
+with potential as protease resistant, biologically active ligands.
+To harness the full potential of such compounds, however,
+detailed predictive insight into their propensity to adopt well-
+deﬁned secondary structures is highly desirable. In this work
+we present an investigation of the eﬀects of thioamides and/or
+ﬂuorides in peptoid monomer model systems using chemical
+synthesis, NMR spectroscopy, and X-ray crystallography. We
+ﬁnd that the steric environment surrounding the tertiary amide
+bonds is the key promoter of conformational preference, and X-ray crystallographic interrogation of our model systems did not
+suggest the presence of stabilizing n → π* interactions unless the carbonyls were altered electronically by α-halogenation or
+thioamide formation. In addition to the function as an investigative tool, these two types of modiﬁcation may thus be utilized as
+stabilizers of secondary structure in future oligomer designs, such as the cis-amide-based polypeptoid helices that resemble the
+polyproline type-I helix.
+
+■ INTRODUCTION
+
+Development of biopharmaceutical drugs and their approval by
+governing agencies such as the Food and Drug Administration
+in the United States has ﬂourished immensely in recent years.1
+Monoclonal antibodies, proteins, and naturally occurring
+peptides often exhibit highly potent and selective activities
+with possible therapeutic beneﬁt, but
+they are inherently
+susceptible to proteolytic degradation, which causes a reduction
+in half-life and eﬃcacy and hence increases the required dosage.
+For these reasons, the ability to mimic or modify natural
+peptide-based compounds has become highly desirable, and
+one of
+the many approaches pursued in the area of
+peptidomimetics entails modiﬁcation of the peptide backbone
+architecture to achieve resistance to proteases.2 Two prominent
+examples of abiotic designs that exhibit high stability are the β-
+peptides3 and peptoids4 (Chart 1), and both of these have
+received considerable attention during the last two decades.
+Both designs have been investigated as homooligomeric
+constructs as well as in hybrid backbones containing canonical
+α-amino acids or other residues,2c−e and recently β-amino acids
+have been site-speciﬁcally incorporated in a therapeutic
+polypeptide to increase pharmacokinetic properties in vivo,
+demonstrating improvement of biopharmaceuticals through
+backbone modiﬁcation.5
+
+Access to structurally diverse peptoids through chemical
+synthesis is inexpensive and highly eﬃcient,6 and since the ﬁrst
+
+Chart 1. Generic Structures of the Backbone Architectures
+of Peptides, Peptoids (α-peptoids), β3-Peptides (β2- and
+disubstituted β-peptides are not shown), and β-Peptoids
+
+in 1992,7 these compounds have been studied in
+report
+including antimicrobials,8 antifouling
+numerous contexts
+agents,9 nanomaterials,10 and ligands for protein−protein
+interactions.11 Still, limited success has been achieved in design
+and characterization of secondary structures by high-resolution
+X-ray diﬀraction structure determination12,13 or NMR spec-
+troscopy,14,15 except for macrocyclic constructs in which the
+inherently ﬂexible peptoid backbones are locked into well-
+
+Received:
+January 8, 2015
+Published: March 4, 2015
+
+© 2015 American Chemical Society
+
+5415
+
+DOI: 10.1021/acs.joc.5b00048
+J. Org. Chem. 2015, 80, 5415−5427
+
+The Journal of Organic Chemistry
+Scheme 1. Synthesis of Peptoid Model Compounds Under Investigationa
+
+Article
+
+aReagents and conditions: (a) For aromatic side chains H2N−R (2 equiv), Et3N (2 equiv), THF, 16 h and for aliphatic side chains H2N−R (3
+equiv), Et3N (2 equiv), EtOAc, 0 °C → rt, 16 h; (b) Ac2O (2 equiv) or AcCl (2 equiv), Et3N (2 equiv), CH2Cl2, 0 °C → rt, 16 h; (c) triﬂuoroacetic
+anhydride (2 equiv), pyridine (2 equiv), DMF, 0 °C → rt, 2−16 h; (d) 5,5-dimethyl-2-sulﬁdo-1,3,2-dioxaphosphinan-2-yl ethanedithioate (9; 1.1
+equiv), pyridine (1.1 equiv) CH2Cl2, rt, 1 h; (e) Lawesson’s reagent (1.5 equiv), THF, reﬂux, 2 h. Nonstandard abbreviations for N-alkyl side chains
+are used as follows: spe = (S)-1-phenylethyl,14 s1npe = (S)-1-(1-naphthyl)ethyl,18 bnz = benzhydryl.
+
+Table 1. Rotamer Equilibrium Constants (K
+kcal mol
+
+1)b
+
+cis/trans)a in Selected Solvents and Associated Diﬀerences in Free Energy (ΔG, in
+
+aDetermined by integration of 1H NMR spectra of 12 mM compound solutions at ambient temperature. bΔG = −RT × ln (Kcis/trans). cNot soluble.
+dLow solubility resulting in <12 mM NMR sample concentration. eSynthesis of the thioacetylated version of the hindered tert-butyl-containing
+compound was not successful in our hands and was left out of the study.
+
+deﬁned conformations.16 Compared to peptides and β-
+peptides, peptoids lack the ability to stabilize folding through
+intramolecular hydrogen-bond networks and are also endowed
+with an additional degree of ﬂexibility due to the low energy
+barrier between cis and trans amide conformations of tertiary
+amide bonds (Chart 1), as observed for proline residues in
+native proteins.
+Control of the cis−trans isomerization in peptoids has been
+demonstrated by introduction of certain N-alkyl side chains that
+
+direct
+this equilibrium toward either the cis or the trans
+conformation.17−19 Due to interest in a backbone design called
+β-peptoids20 (Chart 1), we reported a similar study of the eﬀect
+of side chain structure in this system and furthermore included
+thioamide and triﬂuoroacetyl modiﬁcations21 inspired by model
+studies22,23 of proline behavior.24 Thionation and ﬂuorination
+permutations may report on the nature of putative stereo-
+electronic interactions and may also stabilize desired cis−trans
+equilibria of tertiary amide bonds. A recent study provided
+
+5416
+
+DOI: 10.1021/acs.joc.5b00048
+J. Org. Chem. 2015, 80, 5415−5427
+
+The Journal of Organic Chemistry
+
+Article
+
+detailed insight into the eﬀect of thioacetylation in a range of
+structurally diverse tertiary amides containing peptoid-derived
+side chains,25 and the eﬀect on rotamer preference of tertiary
+amides has been investigated by altering the acyl moiety as well,
+including halogenation of the α-position of the acyl group.26
+However, C-terminal amide groups were not included in these
+studies, which prohibited interrogation of putative carbonyl−
+carbonyl interactions. In the present work, we thus disclose the
+ﬁrst systematic investigation of the eﬀects of thioamidation
+and/or haloacetylation on cis−trans isomerism in α-peptoid
+model
+systems by using NMR spectroscopy and X-ray
+crystallography.
+
+■ RESULTS
+<para sub="scope">
+Design and Synthesis. An initial compound collection was
+designed to mimic the environment of a single peptoid residue
+within an oligomer in a minimalistic manner. The C-termini
+were therefore chosen to be dimethylamides, and the amide
+bonds to be probed for cis−trans isomerism were based on
+acetyl (3), triﬂuoroacetyl (4), or thioacetyl (5 prepared using
+reagent 927) as outlined in Scheme 1. To examine putative
+carbonyl−carbonyl interactions in both N → C and C → N
+directions, we also included thioamides in the C-termini (7 and
+8). These series were prepared from common intermediates
+2a−e by thionation using Lawesson’s reagent28 to give 6a−e,
+which were subsequently acylated (Scheme 1). Previous studies
+of rotamer isomerism in proline model systems have primarily
+focused on identifying the nature of trans carbonyl−carbonyl
+interactions in the N → C direction (COi
+···COi+1)22,23
+due to the stabilizing eﬀect on protein folding.29 However,
+since the two available X-ray crystal structures of oligomeric
+peptoids revealed helical arrangements similar to the all-cis
+polyproline type-I helix,12,13 we found it relevant to include
+strongly cis-directing side chains such as (S)-1-(1-naphthyl)-
+ethyl (s1npe; b) and tert-butyl (e) in our series. The full matrix
+of compounds was prepared according to Scheme 1, except
+compound 5e, for which several strategies failed to deliver the
+target compound, presumably due to steric congestion.
+</para>
+Cis−Trans Equilibrium Constants Determined by 1H
+NMR Spectroscopy. Measuring the cis−trans amide equili-
+brium constants by NMR spectroscopy is straightforward as
+integration of peaks from each conformation report quantita-
+tively on their
+relative concentrations. Because previous
+evaluation of thioamide-containing peptoids revealed signiﬁcant
+solvent eﬀects on cis−trans equilibria,21 it was decided to
+record NMR spectra in four diﬀerent deuterated solvents of
+varying polarities (Table 1). Rotating frame Overhauser eﬀect
+spectroscopy (ROESY) and 1H−19F heteronuclear Overhauser
+eﬀect spectroscopy (HOESY) experiments were performed in
+order to assign the signals to the correct conformations (Figure
+1).
+<para sub=“props”>
+First, compound 3a containing the (S)-1-phenylethyl (spe)
+side chain, a well-studied moiety with respect to the folding
+behavior of peptoids,14,30 showed data that were fully in
+agreement with previously published studies.18 Furthermore,
+the more sterically demanding s1npe-containing side chain in
+compound 3b showed trends that were in accordance with
+previously reported data obtained for similar compounds based
+on both peptoids18 and β-peptoids.21 There was a signiﬁcant
+preference for
+four solvents,
+increasing in the order CDCl3 < D2O < CD3OD < CD3CN.
+</para>
+<para sub=“props”>
+Increasing the bulk of the N-alkyl side chain relative to spe by
+introduction of a benzhydryl (bnz) group (3c) also led to an
+
+the cis conformation in all
+</para>
+Figure 1. Example of a HOESY spectrum recorded in CD3OD
+(compound 4a) applied for signal assignment. Highlighted signals
+correspond to correlations involving the ﬂuorine atoms. In blue boxes
+are shown the correlations with the side chain methine, methyl, and
+aromatic protons in the trans conformation. In magenta, correlation to
+the backbone methylene protons conﬁrms the cis conformation.
+<para sub=“props”>
+increase in Kcis/trans
+in all solvents, albeit to a lesser extent.
+Interestingly, when comparing spe and bnz groups in β-peptoid
+model systems, similar Kcis/trans values were observed.21 This
+indicates that the increased population of the cis conformation
+in bnz-containing α-peptoids is due to steric rather than
+electronic eﬀects. Moreover, when we replaced the phenyl
+groups of 3c with methyl groups (3d) we observed a change of
+preference to the trans rotamer, which supports the notion that
+the main driving force is of a steric nature. Finally, introduction
+of the bulky tert-butyl N-alkyl group (3e) gave exclusively the
+cis conformation (Kcis/trans > 20) at our level of detection, which
+is also in agreement with previously published data.19
+</para>
+<para sub=“props”>
+Introduction of a triﬂuoroacetyl group should make the
+carbonyl carbon more electron deﬁcient due to the inductive
+eﬀect of the ﬂuorines. It is furthermore known that the ﬂuorine
+lone pairs can donate electron density into the π* orbital of the
+adjacent carbonyl group if ideally positioned.31 On the other
+hand, the triﬂuoromethyl group resembles an isobutyl group in
+size,23 giving rise to simultaneous steric and electronic eﬀects
+that may complicate the interpretation of the driving forces
+behind the conformational changes. Since compound 4b
+showed an increase in Kcis/trans value compared to 3b, while
+compounds 4a, 4c, and 4d showed a decrease, we indeed
+suspect that there are diﬀerential forces at play depending on
+the speciﬁc structures of the model systems.
+</para>
+<para sub=“props”>
+Raines and co-workers studied carbonyl−carbonyl
+
+inter-
+actions in proline model systems by substituting oxygen atoms
+with sulfur to increase the nucleophilicity of
+the putative
+carbonyl donor.22 Inspired by these studies, we investigated
+both N- and C-terminal thioamide-containing model systems
+individually. The thioacetylated compounds 5a−e displayed
+roughly the same trends as their acetylated counterparts (3a−
+e). This indicates that there are negligible contributions from
+the n → π* interaction in the N → C direction in this series.
+The C-terminal thioamide series (7a−e), on the other hand,
+displayed slightly higher Kcis/trans values compared to the C-
+terminal oxoamide series as well as the (O,O)-series (3), except
+for the s1npe-containing compounds 5b and 7b, where the
+trend was opposite (Table 1). The latter would agree with a
+stabilizing eﬀect between the sulfur and a C(sp2)−H on the
+naphthyl ring in 5b as previously indicated for β-peptoids.21
+The diﬀerence in 1H NMR chemical shifts of the aromatic
+in the 3b−8b
+hydrogen atom in proximity to the carbonyl
+</para>
+5417
+
+DOI: 10.1021/acs.joc.5b00048
+J. Org. Chem. 2015, 80, 5415−5427
+
+The Journal of Organic Chemistry
+
+Table 2. Torsion Angles and Distances in Crystal Structures
+
+Article
+
+aMeasured from the methine proton in the N-alkyl side chains. bCS···CO direction. cCO...CS direction. dPyramidalization away from
+donor carbonyl. eMeasurements from the X-ray diﬀraction crystal structure of a peptoid pentamer reported by Barron and co-workers.12 The sign of
+χ-angles in achiral compounds 3c−8c were assigned according to the crystallized form of the compounds.
+
+Figure 2. X-ray diﬀraction crystal structures of s1npe-containing compounds 3b (A), 5b (B), and 7b (C). Stick representations showing the CO/
+O/S distance in green and distances between N-terminal carbonyls and their two closest hydrogen atoms in magenta. Atom-coloring
+Si+1
+scheme: gray, carbon; white, hydrogen; red, oxygen; blue, nitrogen; and yellow, sulfur. Hydrogen atoms in methyl and methylene groups have been
+removed for clarity.
+
+···Ci
+<para sub=“props”>
+series supports the existence of such an interaction (Supporting
+Information Figure S1).
+</para>
+<para sub=“props”>
+The attenuated hydrogen-bond acceptor capability of the
+triﬂuoroacetyl group correlates with an upﬁeld shift of this
+proton (Supporting Information Figure S1). On the other
+hand, the thioacetyl group gave rise to a slight downﬁeld shift as
+previously rationalized by NBO calculations of similar β-
+peptoids to arise from increased orbital overlap.21 Furthermore,
+Kcis/trans values of 3a−e determined in CDCl3 were generally
+higher than those of both 5a−e and 7a−e and were lower or
+similar when recorded in CD3OD and CD3CN, except for 7b in
+CD3CN. Overall,
+solvent eﬀects between
+compound series results in diﬃculty in deriving truly general
+trends regarding the Kcis/trans values across all compounds in all
+solvents (Table 1). Fortunately, however, a number of model
+compounds were crystallized in X-ray diﬀraction quality, which
+
+the extent of
+
+into the various features aﬀecting
+
+provided further insight
+conformational preference (vide infra).
+</para>
+<para sub=“props”>
+Finally, the series containing a combination of N-terminal
+triﬂuoroacetylation and C-terminal thionation (8a−e) exhibited
+similar Kcis/trans values as
+triﬂuoroacetylated
+compounds (4a−e), thus, exhibiting lower overall resemblance
+thioamide series (7a−e), which
+to the other C-terminal
+qualitatively may indicate a stronger cis-directing eﬀect of the
+sterically demanding triﬂuoroacetyl group compared to the
+eﬀect of the thioamide donor capability in a C → N terminal
+carbonyl−carbonyl interaction.
+
+found for
+</para>
+X-ray Crystallography. A number of the model com-
+pounds were obtained in diﬀraction quality crystal forms, and
+their high-resolution solid-state structures were solved by
+single-crystal X-ray diﬀraction structure determination. Crystal
+structures can provide useful, atomic resolution information
+about potential interactions that may stabilize certain cis−trans
+
+5418
+
+DOI: 10.1021/acs.joc.5b00048
+J. Org. Chem. 2015, 80, 5415−5427
+
+The Journal of Organic Chemistry
+
+Article
+
+shown in partial space-ﬁlling representation (F). Stick representations showing the CO/Si+1
+
+Figure 3. X-ray diﬀraction crystal structures of bnz-containing compounds (A) 3c, (B) 4c, (C) 5c, (D) 7c, and (E) 8c, as well as compound 8c
+
+O distance in yellow. Atom-coloring scheme: gray, carbon; white, hydrogen; red, oxygen; blue, nitrogen; cyan, ﬂuorine; and yellow, sulfur. Hydrogen
+atoms in methyl and methylene groups have been removed for clarity.
+
+···Ci+1
+
+O/S distances in green and the CSi
+
+···Ci
+
+amide bond conformations; in particular, the angle between
+interacting carbonyls as well as
+the acceptor carbonyl
+pyramidalization can report on the probability of possible n
+→ π* interactions.32
+<para sub=“props”>
+Three X-ray diﬀraction structures of
+
+s1npe-containing
+compounds were solved, and all
+showed a cis amide
+conformation consistent with the obtained Kcis/trans values in
+solution (Figure 1).
+</para>
+<para sub=“props”>
+The distances between the C-terminal carbonyl heteroatoms
+and the carbon of the N-terminal carbonyls were consistent
+with an orbital overlap in all cases, but the angles were 14−19°
+higher than the optimal Bürgi−Dunitz trajectory of 107°, and
+the degree of pyramidalization (Δ) was relatively low (Table 2)
+compared to values found in proline model systems.32 In
+agreement with our previous studies,21 the distance between
+the hydrogen atom in the 8 position of the naphthyl group and
+the thiocarbonyl in compound 5b (Figure 2B) was consistent
+with an aromatic C−H···Samide
+interaction. This potential
+interaction is also observed in the two other compounds
+(Figure 2A and 2C). Notably, the longer interaction distances
+of the sulfur of 0.2−0.3 Å compared to oxygen is in agreement
+with the larger van der Waals radius (1.80 and 1.52 Å,
+respectively). The close proximity of the side chain methine
+hydrogen and the carbonyl in the crystal structures are also
+consistent with the chemical shifts in 1H NMR discussed above.
+</para>
+<para sub=“props”>
+Gratifyingly, we were also able to obtain X-ray diﬀraction
+quality crystals of the entire bnz series, 3c−8c (Figure 3A−E).
+Compounds 3c, 4c, 7c, and 8c crystallized in the cis
+conformation, while the X-ray diﬀraction crystal structure of
+5c was in the trans conformation. Comparing the acetylated
+compounds (3c and 7c) with their triﬂuoroacetylated analogues
+(4c and 8c),
+the triﬂuoroacetylated compounds displayed
+
+trajectory angles closer to the Bürgi−Dunitz angle and also
+showed signiﬁcantly increased pyramidalization (Table 2).
+</para>
+<para sub=“props”>
+This correlates with an improved acceptor character of the
+triﬂuoroacetyl group compared to acetyl. Interestingly, ω angles
+of the triﬂuoroacetylated model compounds deviated signiﬁ-
+cantly from planarity compared to their acetylated analogues,
+which indicates a steric inﬂuence of the triﬂuoromethyl group
+in the cis conformation as well. Thus, common for the four
+crystal structures that exhibit cis conformation (Figure 3A, B,
+D, and E) is packing of the backbone with one of the phenyl
+rings of the bnz group, which reduces its ﬂexibility and ability to
+point away from the bulk of the triﬂuoromethyl group in
+compounds 4c and 8c (see, Figure 3F for example).
+Furthermore, the distribution of steric bulk across the two
+side chains in bnz results in altered χ angles in all examples
+where increased bulk (ﬂuorination and/or
+thionation) is
+introduced into the backbone (Table 2). Finally, in agreement
+with the presence of n → π* interactions with C → N
+directionality, the C-terminal thioamide-containing compounds
+exhibited angles closer to 107° and stronger pyramidalization
+than their C-terminal oxoamide analogues (Table 2).
+</para>
+<para sub=“props”>
+The trans amide conformation of compound 5c showed
+distances indicating possible carbonyl−carbonyl interactions in
+both N → C and C → N directions, which could help explain
+its preferred crystallization in this conformation. However,
+inspection of the geometry in this crystal structure revealed
+trajectory angles and pyramidalization in poor agreement with n
+→ π* interactions (Table 2). Nevertheless, since 5c was
+crystallized by vapor diﬀusion from chloroform it could be
+reasoned that the trans conformation in the crystal is due to its
+conformational preference in this solvent as indicated by the
+NMR analyses above (Table 1).
+</para>
+5419
+
+DOI: 10.1021/acs.joc.5b00048
+J. Org. Chem. 2015, 80, 5415−5427
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 4. (A) Chemical structures of dihaloacetylated monomers. (B) Kcis/trans values determined by 1H NMR. “All cis” refers to ratios above 20. (C)
+X-ray diﬀraction crystal structures of compounds 10, 11, and 12. (D) Newman projection showing the τ angle. Atom-coloring scheme: gray, carbon;
+white, hydrogen; red, oxygen; blue, nitrogen; cyan, ﬂuorine; green, chlorine; and yellow, sulfur. Hydrogen atoms in methyl and methylene groups
+have been removed for clarity.
+Table 3. Torsion Angles and Distances in Crystal Structures of Compounds 10−14
+
+torsion angles
+
+τ
+
+trajectory, θ
+
+distance, d (Å)
+
+pyramidalization, Δ (Å)
+
+compd
+
+10
+11
+12
+13
+14
+
+ϕ
+74.5°
+75.3°
+−80.3°
+83.7°
+−84.5°
+
+ψ
+151.2°
+152.9°
+−156.9°
+144.2°
+−142.9°
+
+ω
+4.8°
+10.2°
+−18.2°
+−5.4°
+−13.6°
+
+χa
+−7.0°
+−34.8°
+47.9°
+−24.8°
+−12.6°
+
+−176.1°
+−152.5°
+133.9°
+−139.8°
+140.9°
+
+132.4°
+128.5°
+115.9°
+133.3°
+122.5°
+
+2.99
+2.95
+3.21
+3.11
+3.29
+
+0.010
+0.024
+0.033
+0.030
+0.033
+
+aMeasured from the methine proton in the N-alkyl side chains. The sign of the χ angle of achiral compounds 10−12 was assigned according to the
+single-crystal X-ray diﬀraction structures.
+<para sub=“props”>
+We also acquired two crystal structures with the spe side
+chain (4a and 8a), which both crystallized in the trans
+conformation as would be expected based on their Kcis/trans
+values. Notably, even though compound 8a contains the
+donor−acceptor pair identiﬁed above to be most likely to
+engage in an n → π* interaction, the trajectory angle and
+pyramidalization do not indicate the presence of a particularly
+strong interaction (Table 2; please consult the Supporting
+these
+Information Figure S2 for ORTEP illustrations of
+structures).
+</para>
+Dihalogenated Acyl Compounds (10−15). To further
+investigate stereoelectronic versus steric eﬀects in haloacety-
+lated compounds, we prepared a selection of dihaloacetylated
+peptoid model compounds shown in Figure 4A. In a study by
+Raines and co-workers,23,33 the donor capability of the carbonyl
+in mono-, di-, and triﬂuoroacetyl groups was investigated,
+whereas the acceptor capacity is under scrutiny here. We chose
+benzhydryl (10−12) and s1npe (13 and 14) as side chains and
+also included compound 15 with an isopropyl side chain to test
+if these backbone modiﬁcations would be able to shift the
+preference from trans to cis conformation.
+<para sub=“props”>
+Interestingly, the diﬂuoroacetylated compounds (10 and 12−
+15) all showed higher Kcis/trans values than their triﬂuoroacety-
+lated counterparts (Figure 4B). When introducing the
+dichloroacetyl group, preference for the cis conformation was
+even more pronounced than diﬂuoro- or triﬂuoroacetyl (11 vs
+
+4c and 10). This strongly suggests a predominant steric eﬀect
+of the two chlorine atoms since the inductive potency should
+be lower than that of ﬂuorine and should therefore give rise to
+lower Kcis/trans.
+</para>
+<para sub=“props”>
+The steric eﬀect is further supported by the X-ray diﬀraction
+crystal structure of 11 where the CH of the dichloromethyl
+group is close to antiperiplanar in relation to the carbonyl (τ
+angle in Table 3), pointing the chlorines away from the
+backbone (Figure 4C). This will also disfavor the donation of
+chlorine lone pairs into the π* orbital of the adjacent carbonyl
+to attenuate its acceptor capacity for possible carbonyl−
+carbonyl n → π* interactions.31,33,34 The same was observed in
+both crystal structures of diﬂuoroacetylated compounds 10 and
+12 (Figure 4C and Table 3). Compound 12 exhibited the
+highest degree of pyramidalization as well as a trajectory angle
+that was closer to 107° than the other two compounds, thus
+adhering to the same trend as observed for 4c vs 8c.
+</para>
+<para sub=“props”>
+Compounds 13 and 14 also exhibited increased Kcis/trans
+values in all solvents compared to their triﬂuoroacetylated
+homologues 3b and 7b, respectively (Figure 4B). Although the
+backbone would not be as rotationally restricted as in the
+benzhydryl case discussed above, this observation correlates
+with favorable accommodation of the diﬂuoromethyl group
+compared to the triﬂuoromethyl group toward the backbone
+face. Interestingly, however, the ϕ and ψ angles of compound
+13 showed opposite signs compared to all other
+s1npe-
+</para>
+5420
+
+DOI: 10.1021/acs.joc.5b00048
+J. Org. Chem. 2015, 80, 5415−5427
+
+The Journal of Organic Chemistry
+<para sub=“props”>
+containing compounds, thus giving rise to a packing of the
+backbone similar to that observed in the benzhydryl-containing
+compounds (Figure 5A). Furthermore, compound 14 contains
+</para>
+···Ci
+
+Figure 5. X-ray diﬀraction crystal structures of diﬂuoroacetylated
+compounds 13 and 14. Stick representations showing the CO/
+O distance in green and distances between N-terminal
+Si+1
+carbonyls and their two closest hydrogen atoms in magenta. Atom-
+coloring scheme: gray, carbon; white, hydrogen; red, oxygen; blue,
+nitrogen; cyan, ﬂuorine; green, chlorine; and yellow, sulfur. Hydrogen
+atoms in methyl and methylene groups have been removed for clarity.
+<para sub=“props”>
+both haloacetylation and C-terminal
+thioamide, which is
+indicated above to promote a carbonyl−carbonyl n → π*
+interaction in the C → N direction. The increase in Kcis/trans
+observed for 14 compared to 13 is also in agreement with such
+an interaction. The X-ray diﬀraction crystal structures revealed
+carbonyl−carbonyl distances in agreement with orbital overlap
+and pyramidalization indicative of n → π* interaction in the C
+→ N direction in both cases. However, the angles in compound
+13 and 14 diﬀered by 26° and 15° from the ideal Bürgi−Dunitz
+trajectory, respectively.
+</para>
+<para sub=“props”>
+Finally, compound 15 revealed an increased fraction of cis
+conformation in comparison to the entire iPr series (3d−8d).
+Triﬂuoroacetylation (4d and 8d) resulted in a slight decrease in
+Kcis/trans values, while diﬂuoroacetylation furnished an increase
+in Kcis/trans, which again is
+in agreement with favorable
+accommodation of
+the less hindered diﬂuoromethyl group
+toward the backbone in the cis conformation. Moreover, a
+carbonyl−carbonyl interaction as observed for compound 12
+may add to the stabilization of this conformation, but we do not
+have X-ray diﬀraction data to support this.
+
+the molecules.
+</para>
+■ DISCUSSION
+<para sub=“props”>
+Overall, the observed changes in Kcis/trans values in response to
+structural changes in our model system series demonstrate that
+interactions work in concert to
+a complex combination of
+determine conformational preference of
+In
+general, the steric demand of the side chain appears to be the
+prime determinant of conformational preference. Not surpris-
+ingly, the bulky s1npe side chain repels the sterically demanding
+methyl or halomethyl groups, giving rise to high Kcis/trans values,
+albeit with subtle eﬀects of altering carbonyls by thioamide
+substitution. However, the less bulky bnz side chain, which
+more readily adopts both conformations in a solvent-dependent
+manner, allowed for a more detailed inspection of the eﬀect of
+the electronic properties of the carbonyl groups (3c−8c and
+10−12). In particular, the X-ray diﬀraction structures of the N-
+terminally haloacetylated model systems with a C-terminal
+thioamide, which should provide a strong acceptor−donor pair,
+showed pyramidalization and trajectory angles in agreement
+with n → π* interactions. The X-ray diﬀraction crystal
+</para>
+Article
+<para sub=“props”>
+triﬂuoroacetylated compounds (4c and 8c)
+structures of
+obtained in the cis conformation showed clear evidence of
+steric eﬀects as the amides were twisted out of the planarity
+preferred for amide bonds. In addition, the data obtained for
+dihaloacetylated model systems (10, 11, and 12) support the
+argument of steric congestion between the backbone and the
+haloacetyl group by displaying higher Kcis/trans values. This could
+be explained by conformations where the single hydrogen of
+the dihalomethyl groups faces the backbone, which is indeed
+the case in the crystal structures of 10−12 where the
+dihaloacetyl groups adopt near antiperiplanar conformations.
+The data thus suggest that when the steric environment allows
+for it, carbonyl−carbonyl interactions can be optimized to aﬀect
+conformational space.
+</para>
+<para sub=“props”>
+The steric eﬀect of
+
+the side chain in response to
+triﬂuoroacetylation becomes less prominent in the spe and iPr
+series, where the cis−trans equilibrium is signiﬁcantly shifted
+toward the trans conformation. Interestingly, the diﬂuoroacety-
+lated compound 15 displays opposite conformational prefer-
+ence than its triﬂuoroacetylated analog (8d) in MeOH and
+MeCN. Since there is no steric argument for a cis preference of
+15, this also supports that, when sterically allowed, stereo-
+the carbonyl−carbonyl
+electronic eﬀects in the form of
+interactions may aﬀect conformational preference in peptoids.
+On the basis of the qualitative relationship between the
+strength of a potential n → π* interaction and the degree of
+pyramidalization of the carbonyl acceptor, the crystal structures
+of the bnz series provide insight into the stereoelectronic eﬀects
+of our various modiﬁcations. Improving the carbonyl acceptor
+by triﬂuorination (4c) signiﬁcantly enhances the character of a
+putative n → π* interaction, while enhanced carbonyl donor
+capacity in a thioamide (7c) results in an improved trajectory
+angle but modest pyramidalization. Combination of the two
+modiﬁcations (8c), however, gives rise to a trajectory close to
+the Bürgi−Dunitz angle as well as the highest degree of
+acceptor pyramidalization observed in all our X-ray diﬀraction
+crystal structures.
+</para>
+In summary, we systematically investigated the conforma-
+tional preference in an array of structurally diverse α-peptoid
+(N-alkylglycine) model systems using NMR spectroscopy as
+well as X-ray crystallography of more than a dozen of the model
+compounds. Collectively, our data show no evidence for a
+general stabilizing eﬀect of trans amide bonds by n → π*
+interactions
+in peptoids, which, compared to proline
+systems,22,23,29 may arise from the increased ﬂexibility of the
+acyclic peptoids under investigation herein. Nevertheless, we
+see strong evidence for the ability to promote such interactions
+in the C → N direction in cis-conﬁgured peptoids by altering
+the electronic properties of the donor and acceptor carbonyls,
+respectively. Whereas compelling evidence for an n → π*
+aryl
+interaction between a carbonyl
+lone pair and a positively
+charged triazolium side chain has been reported for peptoids,19
+the present work provides the ﬁrst demonstration of subtle
+backbone modiﬁcations (α-ﬂuorination and thioamidation)
+that may stabilize certain peptoid conformations. On the basis
+of the complete body of data, we therefore propose a model for
+the factors aﬀecting conformational space in peptoids that is
+ﬁrst and foremost dependent on sterics but may include
+stabilizing eﬀects of carbonyl−carbonyl
+interactions in elec-
+tronically altered systems.
+
+Thioamide substitution has been shown to aﬀect
+
+the
+equilibrium between α- and 310-helices in peptides,35 and we
+thus envision that the insights provided herein may be utilized
+
+5421
+
+DOI: 10.1021/acs.joc.5b00048
+J. Org. Chem. 2015, 80, 5415−5427
+
+The Journal of Organic Chemistry
+
+for stabilization of peptoid secondary structures, such as those
+resembling polyproline type-I helix.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General. All chemicals were analytical grade and used without
+further puriﬁcation. All reactions were performed in dry solvents and
+under argon atmosphere. Dichloromethane, N,N-dimethylformamide
+(DMF), tetrahydrofuran (THF), and toluene were retrieved from a
+solvent puriﬁcation system, and EtOAc was dried over molecular
+sieves (4 Å). Vacuum liquid chromatography (VLC) puriﬁcation was
+performed on silica gel 60 (particle size 0.015−0.040 μm). UPLC−MS
+analyses were performed using an ultra-high-performance liquid
+chromatography system. A gradient with eluent I (0.1% HCOOH in
+water) and eluent II (0.1% HCOOH in MeCN) rising linearly from
+0% to 95% of II during t = 0.00−2.50 min was applied at a ﬂow rate of
+0.6 mL/min (gradient A) or during t = 0.00−5.20 min (gradient B).
+Compounds, which were not obtained in suﬃcient purity by VLC,
+were puriﬁed by preparative HPLC performed on a 250 mm × 20 mm,
+C18 column (5 μm, 100 Å) using a diode array UV detector. A
+gradient C with eluent III [95:5:0.1, water−MeCN−triﬂuoroacetic
+acid (TFA)] and eluent IV (0.1% TFA in MeCN) rising linearly from
+0% to 95% of IV during t = 5−45 min was applied at a ﬂow rate of 20
+mL/min. All ﬁnal compounds were determined by analytical HPLC
+analysis to be >95% pure on a 150 mm × 4.6 mm, C18 column (3 μm)
+using a multiwavelength UV detector. The gradient consisted of eluent
+III (95:5:0.1, water−MeCN−TFA) and eluent IV (0.1% TFA in
+MeCN) rising linearly from 0% to 95% of IV during t = 2−20 min at a
+ﬂow rate of 1 mL/min (gradient D; data not shown). NMR chemical
+shifts are reported in ppm relative to deuterated solvent peaks as
+internal standards (δH, D2O 4.79 ppm; δH, CD3OD 3.31 ppm; δH,
+CD3CN 1.94 ppm; δH, CDCl3 7.26 ppm; δC, CDCl3 77.16 ppm).
+Coupling constants (J) are given in hertz (Hz). Multiplicities of NMR
+signals are reported as follows: s, singlet; br s, broad singlet; d, doublet;
+t, triplet; q, quartet; sept, septet; m, multiplet. Signals in the NMR data
+marked with an asterisk correspond to peaks assigned to the minor
+rotamer conformation and (*) denotes peaks where both rotamers
+overlap. The HRMS spectra were recorded using either matrix-assisted
+laser desorption/ionization (MALDI) or electrospray ionization (ESI)
+as indicated for each compound with Fourier transform ion cyclotron
+resonance (FT-ICR) as mass analyzer.
+
+2-Bromo-N,N-dimethylacetamide (1). Bromoacetyl bromide
+(7.32 mL, 84 mmol) was dissolved in CH2Cl2 (80 mL), and
+dimethylammonium chloride (5.7 g, 70 mmol) was added. The
+suspension was cooled to 0 °C, and a solution of triethylamine (Et3N)
+(22.3 mL, 160 mmol) in CH2Cl2 (20 mL) was added dropwise over 15
+min. The reaction was stirred overnight, where the temperature
+reached room temperature (rt). The mixture was washed with 10% w/
+v aq. citric acid (100 mL) and saturated aqueous NaHCO3 (100 mL),
+and the organic phase was dried (MgSO4), ﬁltered, and concentrated
+in vacuo. The crude product was puriﬁed by VLC (60% EtOAc in
+hexane) to give 1 as a yellow oil (5.09 g, 44%).
+General Procedure for Synthesis of Compounds 2a−c. 2-
+Bromo-N,N-dimethylacetamide (1 equiv) was dissolved in THF to
+give a 0.4 M solution, and the desired primary amine (2 equiv) was
+added at 0 °C. Then, Et3N (2 equiv, 1 M in THF) was added by
+syringe, and the reaction was stirred at rt overnight. The formed
+precipitate was ﬁltered oﬀ, and the organic solvent was removed in
+vacuo. The resulting crude products were puriﬁed by VLC.
+
+(S)-N,N-Dimethyl-2-((1-phenylethyl)amino)acetamide (2a). Yield:
+1.74 g (79%) as oil. VLC eluent: 5% EtOH in EtOAc. 1H NMR (400
+MHz, CDCl3) δ 7.36−7.27 (m, 4H), 7.25−7.17 (m, 1H), 3.76 (q, J =
+6.4 Hz, 1H), 3.23 (s, 2H), 2.92 (s, 3H), 2.79 (s, 3H), 2.55 (s, 1H),
+1.38 (d, J = 6.4 Hz, 3H). 13C NMR (101 MHz, CDCl3) δ 171.1, 145.2,
+128.5, 127.1, 126.9, 58.4, 48.4, 36.0, 35.6, 24.8. UPLC-MS gradient B,
+tR = 0.75 min, m/z 207.2 ([M + H]+, C12H19N2O+ calcd 207.2).
+[α]589.3: −73° (c = 0.11, 293 K, MeOH).
+(S)-N,N-Dimethyl-2-((1-(naphthalen-1-yl)ethyl)amino)acetamide
+(2b). Yield: 1.26 g (82%) as oil. VLC eluent: 1−5% EtOH in EtOAc.
+1H NMR (400 MHz, CDCl3) δ 8.20 (d, J = 7.5 Hz, 1H), 7.88−7.82
+
+Article
+(m, 1H), 7.74 (d, J = 7.5 Hz, 2H), 7.53−7.40 (m, 3H), 4.65 (q, J = 6.5
+Hz, 1H), 3.35 (d, J = 16.1 Hz, 1H), 3.24 (d, J = 16.1 Hz, 1H), 2.93 (s,
+3H), 2.69 (s, 3H), 2.62 (s, 1H), 1.53 (d, J = 6.5 Hz, 3H). 13C NMR
+(101 MHz, CDCl3) δ 171.2, 140.7, 134.0, 131.4, 128.9, 127.2, 125.8,
+125.8, 125.3, 123.0, 53.8, 48.6, 35.8, 35.5, 24.2. UPLC-MS gradient B,
+tR = 1.08 min, m/z 257.2 ([M + H]+, C16H21N2O+ calcd 257.2).
+[α]589.3: −11° (c = 0.14, 293 K, MeOH).
+2-(Benzhydrylamino)-N,N-dimethylacetamide (2c). Yield: 1.05 g
+(66%) as amorphous substance. VLC eluent: hexane−EtOAc−EtOH
+(70:28:2). 1H NMR (400 MHz, CDCl3) δ 7.47−7.41 (m, 4H), 7.32−
+7.28 (m, 4H), 7.24−7.18 (m, 2H), 4.89 (s, 1H), 3.39 (s, 2H), 3.08 (s,
+1H), 2.96 (s, 3H), 2.81 (s, 3H). 13C NMR (101 MHz, CDCl3) δ
+170.8, 143.3, 128.7, 127.6, 127.3, 67.3, 48.7, 36.1, 35.7. UPLC-MS
+gradient B, tR = 1.05 min, m/z 269.2 ([M + H]+, C17H21N2O+ calcd
+269.2).
+General Procedure for Synthesis of Compounds 2d−e. 2-
+Bromo-N,N-dimethylacetamide (1 equiv) was dissolved in EtOAc to
+give a 0.5 M solution, and Et3N (2 equiv) was added. The solution was
+cooled to 0 °C before addition of the desired primary amine (4 equiv,
+1.5 M in EtOAc). The reaction mixture was allowed to reach rt and
+stirred overnight. The solvent was removed in vacuo, and the crude
+−water (1:1). The aqueous phase was
+material was taken up in CH2Cl2
+extracted with CH2Cl2 (3×), and the combined organic layers were
+washed with water (2×) and brine, dried (Na2SO4), ﬁltered, and
+concentrated in vacuo. The products were elaborated without further
+puriﬁcation.
+(47%) as oil, which solidiﬁed upon storage at −18 °C.
+(76%) as oil, which solidiﬁed upon storage at −18 °C.
+
+2-(tert-Butylamino)-N,N-dimethylacetamide (2e). Yield: 1.44 g
+General Procedure for Synthesis of Compounds 6a−e.
+Lawesson’s reagent (1.5 equiv) was suspended in THF (0.15 M)
+and heated to reﬂux. Then, 2a−e in THF (2 M) was added, and
+stirring was continued under reﬂux for 1 h. The reaction mixture was
+cooled to rt, and the solvent was removed in vacuo. Most thionation
+byproducts were removed by VLC to give the crude product, which
+was used without further puriﬁcation.
+(S)-N,N-Dimethyl-2-((1-phenylethyl)amino)ethanethioamide
+−MeOH−
+(6a). Crude amount: 402 mg as oil. VLC eluent: CH2Cl2
+NH4OHaq (100:0:0−95:4.5:0.5). UPLC-MS gradient B, tR = 1.05 min,
+m/z 223.1 ([M + H]+, C17H21N2S+ calcd 223.1).
+(S)-N,N-Dimethyl-2-((1-(naphthalen-1-yl)ethyl)amino)-
+ethanethioamide (6b). Crude amount: 363 mg as oil. VLC eluent:
+−MeOH−NH4OHaq (98:1.8:0.2). UPLC-MS gradient B, tR =
+CH2Cl2
+1.22 min, m/z 273.2 ([M + H]+, C16H21N2S+ calcd 273.1).
+2-(Benzhydrylamino)-N,N-dimethylethanethioamide (6c). Crude
+amount: 114 mg as oil. VLC eluent: hexane−EtOAc−EtOH (90:9:1−
+60:36:4). UPLC-MS gradient B, tR = 1.30 min, m/z 285.2 ([M + H]+,
+C17H21N2S+ calcd 285.1).
+
+2-(Isopropylamino)-N,N-dimethylacetamide (2d). Yield: 612 mg
+
+2-(Isopropylamino)-N,N-dimethylethanethioamide (6d). Crude
+−
+amount: 580 mg as amorphous substance. VLC eluent: CH2Cl2
+MeOH−NH4OHaq (100:0:0−90:9:1). UPLC-MS gradient B, tR = 0.40
+min, m/z 161.1 ([M + H]+, C7H17N2S+ calcd 161.1).
+2-(tert-Butylamino)-N,N-dimethylethanethioamide (6e). Crude
+−
+amount: 240 mg as amorphous substance. VLC eluent: CH2Cl2
+MeOH−NH4OHaq (100:0:0−90:9:1). UPLC-MS gradient B, tR = 0.26
+min, m/z 175.1 ([M + H]+, C7H17N2S+ calcd 175.1).
+General Procedure for Acetylation. Acetic anhydride or acetyl
+chloride (3 equiv) was added dropwise at 0 °C to a solution of
+secondary amine (2 or 6; 1 equiv) and pyridine (2 equiv) in CH2Cl2
+to give a 0.4 M solution with respect to the amine. The reaction
+mixture was then stirred at rt for 16 h, after which it was poured into
+saturated aqueous NaHCO3 and extracted with EtOAc (3×). The
+combined organic phases were dried (NaSO4), ﬁltered, and
+concentrated in vacuo. The crude products were puriﬁed by VLC.
+(S)-N,N-Dimethyl-2-(N-(1-phenylethyl)acetamido)acetamide
+(3a). Crude amount: 91 mg (60%) as oil. VLC eluent: 0−1.75%
+MeOH in CH2Cl2. 1H NMR (400 MHz, CDCl3) δ 7.40−7.28 (m, 5H,
+Ar-H), 6.11*/5.19 (2 × q, J = 7.1 Hz, 1H, NCHCH3), 4.39/3.35 (2 ×
+d, J = 16.0 Hz, 2H, COCH2), 3.84*/3.65* (2 × d, J = 17.7 Hz, 2H,
+</para>
+5422
+
+DOI: 10.1021/acs.joc.5b00048
+J. Org. Chem. 2015, 80, 5415−5427
+
++ 321.1573; found 321.1578.
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+COCH2), 2.96/2.94/2.90*/2.86* (4 × s, 6H, N(CH3)2), 2.26/2.08*
+(2 × s, 3H, COCH3), 1.66/1.44* (2 × d, J = 7.1 Hz, 3H, NCHCH3).
+13C NMR (101 MHz, CDCl3) δ 171.9*, 171.1, 168.1, 168.0*, 141.2,
+140.9*, 128.9, 128.5*, 127.8, 127.7*, 127.5*, 126.6, 56.5, 51.0*, 45.3*,
+43.9, 36.6, 36.3*, 36.1*, 36.0, 22.2*, 21.8, 18.4, 16.1*. UPLC-MS
++ calcd
+gradient B, tR = 1.44 min, m/z 249.2 ([M + H]+, C14H20N2O2
+249.2). [α]589.3: −29° (c = 0.13, 293 K, CHCl3). HRMS (MALDI) m/
++ 271.1417; found 271.1422.
+z calcd for [M + Na]+, C14H20N2NaO2
+(S)-N,N-Dimethyl-2-(N-(1-(naphthalen-1-yl)ethyl)acetamido)-
+acetamide (3b). Yield: 143 mg (70%) as colorless solid. Mp: 153−155
+°C. VLC eluent: 0−1% MeOH in CH2Cl2. 1H NMR (400 MHz,
+CDCl3) δ 8.07−7.43 (m, 7H, Ar-H), 6.70/5.79* (2 × q, J = 6.9 Hz,
+1H, NCHCH3), 4.46*/3.35* (2 × d, J = 16.0 Hz, 2H, COCH2), 3.65/
+3.52 (2 × d, J = 17.8 Hz, 2H, COCH2), 2.91*/2.87*/2.82/2.67 (4 × s,
+6H, N(CH3)2), 2.32*/2.05 (2 × s, 3H, COCH3), 1.80*/1.58 (2 × d, J
+= 7.0 Hz, 3H, NCHCH3). 13C NMR (101 MHz, CDCl3) δ 171.5,
+171.4*, 168.5*, 168.0, 137.0*, 136.5, 134.1*, 134.0, 132.2, 131.1*,
+129.3*, 129.0, 128.9*, 128.6, 127.0*, 127.0, 126.2, 126.1*, 125.5*,
+124.9, 124.8, 124.4, 124.2*, 122.7*, 54.1*, 48.4, 44.8, 44.1*, 36.7*,
+36.3, 36.0, 22.3, 21.8*, 19.6*, 16.7. UPLC-MS gradient B, tR = 1.65
++ calcd 299.2). [α]589.3: −88°
+min, m/z 299.2 ([M + H]+, C18H24N2O2
+(c = 0.16, 293 K, CHCl3). HRMS (MALDI) m/z calcd for [M + Na]+,
+C18H22N2NaO2
+2-(N-Benzhydrylacetamido)-N,N-dimethylacetamide (3c). Yield:
+182 mg (90%) as oil. VLC eluent: 0−1.5% MeOH in CH2Cl2. 1H
+NMR (400 MHz, CDCl3) δ 7.36−7.18 (m, 10H, Ar-H), 7.09*/6.30 (2
+× s, 1H, NCH(C6H5)2), 4.07/4.04* (2 × s, 2H, COCH2), 2.74/2.73/
+2.61*/2.57* (4 × s, 6H, N(CH3)2), 2.21*/2.12 (2 × s, 3H, COCH3).
+13C NMR (101 MHz, CDCl3) δ 172.4*, 172.3, 167.3, 167.1*, 139.4(*),
+129.2(*), 129.0(*), 128.6(*), 128.3(*), 128.0, 127.5*, 66.4, 61.4*, 46.8*,
+45.6, 36.2, 35.7*, 22.5(*). UPLC-MS gradient B, tR = 1.82 min, m/z
++ calcd 311.2). HRMS (MALDI) m/z
+311.2 ([M + H]+, C19H23N2O2
++ m/z 333.1573; found 333.1579.
+calcd for [M + Na]+, C19H22N2NaO2
+2-(N-Isopropylacetamido)-N,N-dimethylacetamide (3d). Yield:
+118 mg (57%) as oil. VLC eluent: 0−2.25% MeOH in CH2Cl2. 1H
+NMR (400 MHz, CDCl3) δ 4.85*/4.09 (2 × sept, J = 6.8 Hz, 1H,
+NCH(CH3)2), 3.93/3.91* (2 × s, 2H, COCH2), 3.04(*)/2.97*/2.93
+(4 × s, 6H, N(CH3)2), 2.15/1.95* (2 × s, 3H, COCH3), 1.17/1.03*
+(2 × d, J = 6.8 Hz, 6H, NCH(CH3)2). 13C NMR (101 MHz, CDCl3) δ
+171.3*, 170.3, 168.4, 168.2*, 49.3, 44.6*, 44.2*, 41.6, 36.6, 36.4*,
+36.2*, 36.0, 22.3*, 21.6, 21.2, 20.1*. HRMS (ESI) m/z calcd for [M +
+Na]+, C9H18N2NaO2
+2-(N-(tert-Butyl)acetamido)-N,N-dimethylacetamide (3e). Yield:
+99 mg (49%) as oil. VLC eluent: 0−1.25% MeOH in CH2Cl2. 1H
+NMR (400 MHz, CDCl3) δ 4.09 (s, 2H, COCH2), 3.01/2.97 (2 × s,
+6H, N(CH3)2), 1.98 (s, 3H, COCH3), 1.41 (s, 9H, NC(CH3)3). 13C
+NMR (101 MHz, CDCl3) δ 171.9, 169.0, 57.2, 47.8, 36.4, 36.1, 28.7,
+25.2. UPLC-MS gradient B, tR = 1.09 min, m/z 201.1 ([M + H]+,
+C10H21N2O2S+ calcd 201.2). HRMS (ESI) m/z calcd for [M + Na]+,
+C10H20N2NaO2
+(S)-N-(2-(Dimethylamino)-2-thioxoethyl)-N-(1-phenylethyl)-
+acetamide (7a). Yield: 82 mg (78%) as oil, obtained over two steps
+from 2a. VLC eluent: 20−80% EtOAc in hexane. 1H NMR (400 MHz,
+CDCl3) δ 7.30−7.16 (m, 5H, Ar-H), 6.01*/5.23 (2 × q, J = 6.9 Hz,
+1H, CHCH3), 4.74/3.84 (2 × d, J = 16.1 Hz, 2H, CSCH2), 4.06*/
+3.91*(2 × d, J = 16.1 Hz, 2H, CSCH2), 3.43(*)/3.28/3.12* (4 × s, 6H,
+N(CH3)2), 2.16(*) (2 × s, 3H, COCH3), 1.72/1.50* (2 × d, J = 7.0
+Hz, 3H, NCHCH3). 13C NMR (101 MHz, CDCl3) δ 199.0, 198.6*,
+172.6*, 171.8, 142.1, 141.3*, 128.9, 128.5*, 127.8*, 127.6, 126.3, 57.0,
+52.4*, 52.3*, 51.4, 45.5*, 45.4, 41.2, 40.6*, 23.2*, 22.5, 19.6, 17.09*.
+tR = 1.57 min, m/z 265.2 ([M + H]+,
+UPLC-MS gradient B,
+C14H21N2OS+ calcd 265.1). [α]589.3: −11° (c = 0.14, 293 K, CHCl3).
+HRMS (ESI) m/z calcd for [M + Na]+, C14H20N2NaOS+ 287.1189;
+found 287.1190.
+
++ 209.1260; found 209.1261.
+
++ 223.1417; found 223.1421.
+
+(S)-N-(2-(Dimethylamino)-2-thioxoethyl)-N-(1-(naphthylen-1-yl)-
+ethyl)acetamide (7b). Yield: 222 mg (64%) as colorless solid,
+obtained over two steps from 2b. Mp: 123−125 °C. VLC eluent: 0−
+75% EtOAc in hexane. 1H NMR (400 MHz, CDCl3) δ 8.07−7.39 (m,
+7H, Ar-H), 6.72/5.91* (2 × q, J = 7.0 Hz, 1H, NCHCH3), 4.97*/
+3.93* (2 × d, J = 16.2 Hz, 2H, CSCH2), 3.84/3.78 (2 × d, 2H,
+</para>
+Article
+<para sub=“exp”>
+COCH2), 3.45*/3.39/3.29*/2.93 (4 × s, 6H, N(CH3)2), 2.15/2.12*
+(2 × s, 3H, COCH3), 1.84*/1.66 (2 × d, J = 7.0 Hz, 3H, NCHCH3).
+13C NMR (101 MHz, CDCl3) δ 199.7*, 198.9, 172.4*, 172.2, 139.1*,
+136.8, 134.0, 134.0*, 132.1, 130.4*, 129.3*, 129.0, 128.7, 128.5*,
+127.0, 126.9*, 126.2, 126.1*, 125.7*, 124.9, 124.8, 124.3, 123.4*,
+122.3*, 54.5*, 51.9, 51.3*, 49.1, 45.5(*), 41.1*, 40.4, 23.3, 22.4*, 20.8*,
+17.8. UPLC-MS gradient B, tR = 1.89 min, m/z 315.1 ([M + H]+,
+C18H23N2OS+ calcd 315.2). [α]589.3: −69° (c = 0.17, 293 K, CHCl3).
+HRMS (ESI) m/z calcd for [M + Na]+, C18H22N2NaOS+ 337.1345;
+found 337.1346.
+
+N-Benzhydryl-N-(2-(dimethylamino)-2-thioxoethyl)acetamide
+(7c). Yield: 44 mg (43%) as colorless solid, obtained over two steps
+from 2c. Mp: 174−176 °C. VLC eluent: 0−1.25% MeOH in CH2Cl2.
+1H NMR (400 MHz, CDCl3) δ 7.33−7.18 (m, 10H, Ar-H), 6.87*/
+6.42 (2 × s, 1H, NCH(C6H5)2), 4.48/4.32* (2 × s, 2H, CSCH2),
+3.25/3.14*/3.03/2.84* (4 × s, 6H, N(CH3)2), 2.31*/2.03 (2 × s, 3H,
+COCH3). 13C NMR (101 MHz, CDCl3) δ 198.2, 197.7*, 172.9,
+172.8*, 139.8*, 139.7, 129.5*, 129.2, 128.6, 128.2*, 128.0, 127.4*,
+66.6, 62.6*, 53.2*, 52.6, 45.1(*), 40.8, 40.2*, 23.8*, 23.5. UPLC-MS
+gradient B, tR = 1.90 min, m/z 327.2 ([M + H]+, C19H23N2OS+ calcd
+327.2). HRMS (ESI) m/z calcd for [M + Na]+, C19H22N2NaOS+
+349.1345; found 349.1346.
+
+N-(2-(Dimethylamino)-2-thioxoethyl)-N-isopropylacetamide
+(7d). Yield: 43 mg (23%) as oil, obtained over two steps from 2d. VLC
+eluent: 0−2% MeOH in CH2Cl2. 1H NMR (400 MHz, CDCl3) δ
+4.72*/4.12 (2 × sept, J = 6.8 Hz, 1H, NCH(CH3)2), 4.26/4.09* (2 ×
+s, 2H, CSCH2), 3.49*/3.44/3.34*/3.32 (4 × s, 6H, N(CH3)2), 2.16/
+2.01* (2 × s, 3H, COCH3), 1.24/1.08* (2 × d, J = 6.8 Hz, 6H,
+NCH(CH3)2). 13C NMR (101 MHz, CDCl3) δ 199.4, 199.0*, 172.0*,
+170.6, 51.4*, 49.9, 49.2, 45.9*, 45.6*, 45.4, 41.3, 40.6*, 23.3*, 22.0,
+21.4, 20.4*. UPLC-MS gradient B, tR = 1.13 min, m/z 203.1 ([M +
+H]+, C9H19N2OS+ calcd 203.1). HRMS (ESI) m/z calcd for [M +
+Na]+, C9H18N2NaOS+ 225.1032; found 225.1035.
+N-(tert-Butyl)-N-(2-(dimethylamino)-2-thioxoethyl)acetamide
+(7e). Yield: 9 mg (2%) as oil, obtained over two steps from 2e. VLC
+eluent: 0−40% EtOAc in hexane. 1H NMR (400 MHz, CDCl3) δ 4.27
+(s, 2H, CSCH2), 3.53/3.34 (2 × s, 6H, N(CH3)2), 2.07 (s, 3H,
+COCH3), 1.47 (s, 9H, NC(CH3)3). 13C NMR (101 MHz, CDCl3) δ
+200.2, 172.4, 57.8, 54.3, 45.7, 40.5, 29.0, 25.7. UPLC-MS gradient B, tR
+= 1.39 min, m/z 217.2 ([M + H]+, C10H21N2OS+ calcd 217.1). HRMS
+(ESI) m/z calcd for [M + Na]+, C10H20N2NaOS+ 239.1189; found
+239.1191.
+
+General Procedure for Di- and Triﬂuoroacetylation. Di- or
+triﬂuoroacetic anhydride (3 equiv) was added dropwise to a solution of
+secondary amine (2 or 6; 1 equiv) and Et3N (3 equiv) in CH2Cl2 (to
+give a 0.4 M solution with respect to the amine) at 0 °C. The reaction
+mixture was then stirred for 2−18 h (monitored by TLC) at rt, poured
+into saturated aqueous NaHCO3, and extracted with EtOAc (3×). The
+combined organic phases were dried (NaSO4), ﬁltered, and
+concentrated in vacuo. The crude products were puriﬁed by VLC.
+
+(S)-N-(2-(Dimethylamino)-2-oxoethyl)-2,2,2-triﬂuoro-N-(1-
+phenylethyl)acetamide (4a). Yield: 162 mg (79%) as oil. VLC eluent:
+0−2% MeOH in CH2Cl2. 1H NMR (400 MHz, CDCl3) δ 7.42−7.31
+(m, 5H, Ar-H), 5.84*/5.40 (2 × q, J = 6.9 Hz, 1H, NCHCH3), 4.13/
+3.36 (2 × d, J = 16.0 Hz, 2H, COCH2), 4.05*/3.72* (2 × d, J = 18.0
+Hz, 2H, COCH2), 2.92(*)/2.89/2.80* (4 × s, 6H, N(CH3)2), 1.68/
+1.57* (2 × d, J = 7.0 Hz, 3H, NCHCH3).13C NMR (101 MHz,
+CDCl3) δ 167.0*, 165.9, 157.3 (q, J = 36.4 Hz), 139.0*, 138.6, 129.0,
+128.9*, 128.4, 128.3*, 127.9*, 127.3, 116.9 (q, J = 288.2 Hz), 55.5 (q,
+J = 3.0 Hz), 55.0*, 45.2*, 44.6, 36.6, 36.2 (2C)*, 36.0, 17.3, 16.1*.
+tR = 1.81 min, m/z 303.2 ([M + H]+,
+UPLC-MS gradient B,
++ calcd 303.1). [α]589.3: −38° (c = 0.16, 293 K, CHCl3).
+C14H18F3N2O2
++ 325.1134;
+HRMS (ESI) m/z calcd for [M + Na]+, C14H17F3N2NaO2
+found 325.1137.
+
+(S)-N-(2-(Dimethylamino)-2-oxoethyl)-2,2,2-triﬂuoro-N-(1-(naph-
+thalen-1-yl)ethyl)acetamide (4b). Yield: 77 mg (75%) as colorless
+solid. Mp: 113−115 °C. VLC eluent: 0−40% EtOAc in hexane. 1H
+NMR (400 MHz, CDCl3) δ 7.90−7.47 (m, 7H, Ar-H), 6.52/6.04* (2
+× q, J = 6.7 Hz, 1H, NCHCH3), 4.19*/3.41* (2 × d, J = 16.0 Hz, 2H,
+COCH2), 3.89/3.52 (2 × d, J = 18.0 Hz, 2H, COCH2), 2.90*/2.88/
+</para>
+5423
+
+DOI: 10.1021/acs.joc.5b00048
+J. Org. Chem. 2015, 80, 5415−5427
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+2.80*/2.64 (4 × s, 6H, N(CH3)2), 1.90*/1.72 (2 × d, J = 6.8 Hz, 3H,
+NCHCH3).13C NMR (101 MHz, CDCl3) δ 167.1(*), 158.5 (q, J =
+36.4 Hz), 134.2, 134.1*, 131.9*, 131.3*, 129.8, 129.3*, 129.0, 127.4,
+127.3*, 126.5, 126.3*, 125.7, 125.3*, 125.2*, 125.0, 123.3, 116.7 (q, J
+= 289.9 Hz), 53.7*, 51.8, 45.3*, 44.7 (q, J = 3.4 Hz), 36.6*, 36.2,
+19.7*, 16.4. UPLC-MS gradient B, tR = 2.12 min, m/z 353.2 ([M +
++ calcd 353.1). [α]589.3: −47° (c = 0.19, 293 K,
+H]+, C18H20F3N2O2
++
+CHCl3). HRMS (ESI) m/z calcd for [M + Na]+, C18H19F3N2NaO2
+375.1291; found 375.1292.
+N-Benzhydryl-N-(2-(dimethylamino)-2-oxoethyl)-2,2,2-triﬂuoroa-
+cetamide (4c). Yield: 76 mg (75%) as colorless solid. Mp: 137−139
+°C. VLC eluent: 0−30% EtOAc in hexane. 1H NMR (400 MHz,
+CDCl3) δ 7.36−7.22 (m, 10H, Ar-H), 6.78*/6.58 (2 × s, 1H,
+NCH(C6H5)2), 4.18*/4.14 (2 × s, 2H, COCH2), 2.73*/2.66/2.56* (3
+× s, 6H, N(CH3)2). 13C NMR (101 MHz, CDCl3) δ 166.2*, 164.5,
+158.5 (q, J = 38.4 Hz), 137.9*, 137.7, 134.7, 129.7, 129.7*, 129.2,
+128.9, 128.7, 128.5*, 128.4*, 128.2*, 128.1(*), 116.8* (q, J = 288.9
+Hz), 116.6 (q, J = 289.9 Hz), 67.5*, 64.5, 46.7*, 45.9, 36.4*, 36.1*,
+35.8, 35.8. UPLC-MS gradient B, tR = 2.09 min, m/z 365.2 ([M + H]+,
++ calcd 365.1). HRMS (ESI) m/z calcd for [M + Na]+,
+C19H20F3N2O2
+C19H19F3N2NaO2
+N-(2-(Dimethylamino)-2-oxoethyl)-2,2,2-triﬂuoro-N-isopropyla-
+cetamide (4d). Yield: 58 mg (54%) as oil. VLC eluent: 0−2.25%
+MeOH in CH2Cl2. 1H NMR (400 MHz, CDCl3) δ 4.49*/4.33 (2 ×
+sept, J = 6.6 Hz, 1H, NCH(CH3)2), 4.08*/4.00 (2 × s, 2H, COCH2),
+3.06/3.02*/2.98*/2.97 (4 × s, 6H, N(CH3)2), 1.23/1.21* (2 × d, J =
+6.8 Hz, 6H, NCH(CH3)2). 13C NMR (101 MHz, CDCl3) δ 167.1*,
+166.1, 157.0 (q, J = 36.0 Hz), 116.7 (q, J = 287.9 Hz), 49.8*, 48.9 (q, J
+= 3.7 Hz), 44.8*(q, J = 3.7 Hz), 42.6, 36.6, 36.3*, 36.2*, 36.1, 21.0,
+19.4*. HRMS (ESI) m/z calcd for [M + Na]+, C9H15F3N2NaO2
++
+263.0978; found 263.0983.
+N-(tert-Butyl)-N-(2-(dimethylamino)-2-oxoethyl)-2,2,2-triﬂuoroa-
+cetamide (4e). Yield: 24 mg (23%) as oil. VLC eluent: 0−40% EtOAc
+in hexane. 1H NMR (400 MHz, CDCl3) δ 4.23 (s, 2H, COCH2),
+3.00/2.98 (2 × s, 6H, N(CH3)2), 1.48 (s, 9H, NC(CH3)3). 13C NMR
+(101 MHz, CDCl3) δ 168.0, 157.2 (q, J = 34.3 Hz), 116.5 (q, J = 291.2
+Hz), 60.3, 46.1 (q, J = 3.7 Hz), 36.4, 36.2, 27.6. UPLC-MS gradient B,
++ calcd 255.1).
+tR = 1.53 min, m/z 255.2 ([M + H]+, C10H18F3N2O2
++ 277.1134;
+HRMS (ESI) m/z calcd for [M + Na]+, C10H17F3N2NaO2
+found 277.1139.
+
++ 387.1291; found 387.1299.
+
+(S)-N-(2-(Dimethylamino)-2-thioxoethyl)-2,2,2-triﬂuoro-N-(1-
+phenylethyl)acetamide (8a). Yield: 35 mg (28%) as oil, obtained over
+two steps from 2a. VLC eluent: 0−30% EtOAc in hexane. 1H NMR
+(400 MHz, CDCl3) δ 7.41−7.30 (m, 5H, Ar-H), 5.61*/5.44 (2 × q, J
+= 6.5 Hz, 1H, NCHCH3), 4.36/3.55 (2 × d, J = 16.2 Hz, 2H, CSCH2),
+4.26*/4.20* (2 × d, J = 16.2 Hz, 2H, CSCH2), 3.43(*)/3.19/3.11* (4
+× s, 6H, N(CH3)2), 1.79/1.67* (2 × d, J = 6.9 Hz, 3H, NCHCH3).
+13C NMR (101 MHz, CDCl3) δ 195.7, 157.7 (q, J = 36.4 Hz), 138.9,
+129.0, 128.8*, 128.4, 128.2*, 127.8*, 127.3, 116.9 (q, J = 287.3 Hz),
+57.2*, 56.0 (q, J = 3.0 Hz), 52.5*, 51.2, 45.6*, 45.4, 41.0, 40.5*,
+17.8(*). UPLC-MS gradient B, tR = 2.12 min, m/z 341.1 ([M + Na]+,
+C14H17F3N2NaOS+ calcd 341.1). [α]589.3: −8° (c = 0.17, 293 K,
+CHCl3). HRMS (ESI) m/z calcd for [M + Na] +, C14H17F3N2NaOS+
+341.0906; found 341.0908.
+
+(S)-N-(2-(Dimethylamino)-2-thioxoethyl)-2,2,2-triﬂuoro-N-(1-
+(naphthalen-1-yl)ethyl)acetamide (8b). Yield: 54 mg (40%) as
+colorless solid, obtained over two steps from 2b. Mp: 50−61 °C. VLC
+eluent: 0−25% EtOAc in hexane. 1H NMR (400 MHz, CDCl3) δ
+7.90−7.46 (m, 7H, Ar-H), 6.47/6.11* (2 × q, J = 6.7 Hz, 1H,
+NCHCH3), 4.50*/3.77* (2 × d, J = 16.1 Hz, 2H, CSCH2), 4.07/3.88
+(2 × d, J = 18.2 Hz, 2H, CSCH2), 3.42(*)/3.15/2.94 (4× s, 6H,
+N(CH3)2), 1.99*/1.78 (2 × d, J = 6.9 HZ, 3H, NCHCH3).13C NMR
+(101 MHz, CDCl3) δ 197.9, 196.2*, 159.3 (q, J = 35.7 Hz), 135.7*,
+135.1, 134.1, 131.8*, 130.9*, 129.6, 129.3*, 129.0, 127.3, 127.3*,
+126.5, 126.3*, 125.3, 125.2*, 125.0, 124.8*, 123.4, 122.5*, 116.7 (q, J
+= 289.5 Hz) 54.1*, 52.9, 52.0*, 51.6, 45.7, 45.5*, 41.1*, 40.4, 20.3*,
+17.5. UPLC-MS gradient B, tR = 2.36 min, m/z 369.3 ([M + H]+,
+C18H20F3N2OS+ calcd 369.1). [α]589.3: −39° (c = 0.20, 293 K, CHCl3).
+HRMS (ESI) m/z calcd for [M + Na]+, C18H19F3N2NaOS+ 391.1062;
+found 391.1064.
+</para>
+Article
+<para sub=“exp”>
+N-Benzhydryl-N-(2-(dimethylamino)-2-thioxoethyl)acetamide
+(8c). Yield: 66 mg (49%) as colorless solid, obtained over two steps
+from 2c. Mp: 194−196 °C. VLC eluent: 0−25% EtOAc in hexane. 1H
+NMR (400 MHz, CDCl3) δ 7.33−7.20 (m, 10H, Ar-H), 6.64*/6.57 (2
+× s, 1H, NCH(C6H5)2), 4.47*/4.40 (2 × s, 2H, CSCH2), 3.21/3.17*/
+3.05*2.76 (4 × s, 6H, N(CH3)3). 13C NMR (101 MHz, CDCl3) δ
+197.0, 193.9*, 159.3 (q, J = 35.7 Hz), 158.5* (q, J = 34.3 Hz), 138.4,
+137.8*, 129.3*, 129.3, 128.7*, 128.5, 128.5, 128.4*, 128.0, 116.7* (q, J
+= 288.9 Hz), 116.5 (q, J = 289.5 Hz), 65.5, 65.0* (q, J = 3.0 Hz), 52.9
+(q, J = 3.0 Hz), 51.5*, 45.3, 45.0*, 40.5*, 40.2. UPLC-MS gradient B,
+tR = 2.32 min, m/z 381.1 ([M + H]+, C19H20F3N2OS+ calcd 381.1).
+HRMS (ESI) m/z calcd for [M + Na]+, C19H19F3N2NaOS+ 403.1062;
+found 403.1064.
+
+N-(2-(Dimethylamino)-2-thioxoethyl)-2,2,2-triﬂuoro-N-isopropy-
+lacetamide (8d). Yield: 65 mg (14%) as oil, obtained over two steps
+from 2d. VLC eluent: 0−30% EtOAc in hexane. 1H NMR (400 MHz,
+CDCl3) δ 4.37/3.39* (2 × sept, J = 6.6 Hz, 1H, NCH(CH3)2), 4.27*/
+4.23 (2 × s, 2H, CSCH2), 3.49*/3.37 (2 × s, 6H, N(CH3)2), 1.30(*)
+(d, J = 6.6 Hz, 6H, NCH(CH3)2). 13C NMR (101 MHz, CDCl3) δ
+196.2(*), 157.2 (q, J = 36.0 Hz), 116.7 (q, J = 288.2 Hz), 52.4*, 49.5
+(q, J = 3.7 Hz), 49.2, 45.5, 41.2, 40.6*, 21.3, 19.7*. UPLC-MS gradient
+B, tR = 1.76 min, m/z 257.1 ([M + H]+, C9H16F3N2OS+ calcd 257.1).
+HRMS (ESI) m/z calcd for [M + Na]+, C9H15F3N2NaOS+ 279.0749;
+found 279.0751.
+
+N-(tert-Butyl)-N-(2-(dimethylamino)-2-thioxoethyl)-2,2,2-triﬂuor-
+oacetamide (8e). Yield: 29 mg (5%) as oil, obtained over two steps
+from 2e. VLC eluent: 0−45% EtOAc in hexane. 1H NMR (400 MHz,
+CDCl3) δ 4.38 (s, 2H, CSCH2), 3.51/3.32 (2 × s, 6H, N(CH3)2), 1.52
+(s, 9H, NC(CH3)3). 13C NMR (101 MHz, CDCl3) δ 198.8, 157.5 (q, J
+= 34.3 Hz), 116.4 (q, J = 291.6 Hz), 61.1, 52.3 (q, J = 3.7 Hz), 45.6,
+40.6, 27.9. UPLC-MS gradient B, tR = 1.92 min, m/z 271.2 ([M + H]+,
+C10H18F3N2OS+ calcd 271.1). HRMS (ESI) m/z calcd for [M + Na]+,
+C10H17F3N2NaOS+ 293.0906; found 293.0907.
+N-Benzhydryl-N-(2-(dimethylamino)-2-oxoethyl)-2,2-diﬂuoroace-
+tamide (10). Yield: 46 mg (36%) as colorless solid. Mp: 159−161 °C.
+VLC eluent: 0−100% of EtOAc in hexane. 1H NMR (400 MHz,
+CDCl3) δ 7.38−7.18 (m, 6H, Ar−H), 7.04/6.59* (2 × s, 1H,
+NCH(C6H5)2), 6.32/6.09* (2 × t, J = 53.5 Hz, 1H, COCF2H), 4.16/
+4.11* (2 × s, 2H, COCH2), 2.77*/2.73*/2.62/2.52 (4 × s, 6H,
+N(CH3)2). 13C (101 MHz, CDCl3) δ 166.8, 165.6*, 164.2 (t, J = 24.4
+Hz), 137.9*, 137.8, 129.0, 128.9*, 128.7*, 128.5, 128.3*, 128.0, 109.3/
+108.3* (2 × t, J = 246.5 Hz), 64.2*, 62.2, 45.7*, 44.7, 44.1, 37.7*,
+36.4*, 36.2, 36.1*, 35.7. UPLC-MS gradient B, tR = 1.93 min, m/z
++ calcd 347.2). HRMS (ESI) m/z
+347.2 ([M + H]+, C19H21F2N2O2
++ 369.1385; found 369.1387.
+calcd for [M + Na]+, C19H20F2N2NaO2
+N-Benzhydryl-N-(2-(dimethylamino)-2-thioxoethyl)-2,2-diﬂuor-
+oacetamide (12). Yield: 57 mg (89%) as colorless solid. Mp: 192−194
+°C. VLC eluent: 0−0.5% MeOH in CH2Cl2. 1H NMR (400 MHz,
+CDCl3) δ 7.33−7.19 (m, 10H, Ar-H), 6.84/6.67* (2 × s, 1H,
+NCH(C6H5)2), 6.56/5.87* (2 × t, J = 53.7 Hz, 1H, COCHF2), 4.45*/
+4.38 (2 × s, 2H, CSCH2), 3.25*/3.14/3.09*/2.77 (4 × s, 6H,
+N(CH3)2). 13C NMR (101 MHz, CDCl3) δ 196.8*, 196.7, 164.6 (q, J
+= 26.6 Hz), 138.2, 138.1*, 129.4, 129.3*, 128.7*, 128.4(*), 128.0,
+108.5 (t, J = 246.4 Hz), 65.2*, 63.1, 52.5*, 50.5, 45.3, 40.3. UPLC-MS
+gradient B, tR = 2.13 min, m/z 363.2 ([M + H]+, C19H21F2N2OS+
+[M + Na]+,
+calcd 363.1). HRMS (ESI) m/z calcd for
+C19H20F2N2NaOS+ 385.1157; found 385.1162.
+(S)-N-(2-(Dimethylamino)-2-oxoethyl)-2,2-diﬂuoro-N-(1-(naph-
+thalen-1-yl)ethyl)acetamide (13). Yield: 75 mg (60%) as colorless
+solid. Mp: 123−125 °C. VLC eluent: 0−1% MeOH in CH2Cl2. 1H
+NMR (400 MHz, CDCl3) δ 7.95−7.46 (m, 7H, Ar-H), 6.61 (q, J = 6.9
+Hz, 1H, NCHCH3), 6.19 (t, J = 53.8 Hz, 1H, COCHF2), 3.83/3.64 (2
+× d, J = 18.0 Hz, 2H, COCH2), 2.73/2.62 (2 × s, 6H, N(CH3)2), 1.63
+(d, J = 6.9 Hz, 3H, CHCH3). 13C NMR (101 MHz, CDCl3) δ 167.4,
+163.5 (t, J = 24.7 Hz), 134.6, 134.0, 132.0, 129.6, 128.6, 127.3, 126.6,
+125.2, 124.8, 124.0, 108.6 (t, J = 248.0 Hz), 50.1, 42.8 (t, J = 3.0 Hz),
+36.3, 36.0, 16.3. UPLC-MS gradient B, tR = 1.87 min, m/z 335.2 ([M +
++ calcd 335.2). [α]589.3: −118° (c = 0.18, 293 K,
+H]+, C18H21F2N2O2
+CHCl3). HRMS (ESI) m/z calcd for [M + Na]+, C18H20F2N2NaO2
+357.1385; found 357.1387.
+
++
+</para>
+5424
+
+DOI: 10.1021/acs.joc.5b00048
+J. Org. Chem. 2015, 80, 5415−5427
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+N-Benzhydryl-2,2-dichloro-N-(2-(dimethylamino)-2-oxoethyl)-
+acetamide (11). Dichloroacetyl chloride (3 equiv) was added to a
+solution of 2c (1 equiv) and Et3N (3 equiv) in CH2Cl2 (20 mL) at 0
+°C. The reaction was stirred for 2 h. The reaction mixture was poured
+into satd aq NaHCO3 (50 mL) and extracted with EtOAc (3 × 50
+mL). The combined organic phases were dried (MgSO4), ﬁltered, and
+concentrated in vacuo. The product was isolated as a colorless solid,
+after preparative HPLC (gradient C). Yield: 12 mg (9%). Mp: 122−
+134 °C. 1H NMR (400 MHz, CDCl3) δ 7.38−7.18 (m, 10H, Ar−H),
+7.06/6.53* (2 × s, 1H, NCH(C6H5)2), 6.42/6.17* (2 × s, 1H,
+COCCl2H), 4.12/4.07* (2 × s, 2H, COCH2), 2.77*/2.74*/2.62/2.48
+(4 × s, 6H, N(CH3)2). 13C NMR (101 MHz, CDCl3) δ 166.62,
+165.47, 138.01, 128.9, 128.8*, 128.4, 128.0*, 127.9, 127.3, 66.4, 62.5,
+45.4, 36.2, 35.7. UPLC-MS gradient B, tR = 2.06 min, m/z 379.1 ([M +
++ calcd 379.1). HRMS (ESI) m/z calcd for [M +
+H]+, C19H21Cl2N2O2
+Na]+, C19H20Cl2N2NaO2
+
++ m/z 401.0794; found 401.0798.
+
+(S)-N-(2-(Dimethylamino)-2-thioxoethyl)-2,2-diﬂuoro-N-(1-
+(naphthalen-1-yl)ethyl)acetamide (14). Yield: 46 mg (79%) as
+colorless solid. Mp: 127−129 °C. VLC eluent: 0−0.5% MeOH in
+CH2Cl2. 1H NMR (400 MHz, CDCl3) δ 7.96−7.45 (m, 7H, Ar-H),
+6.62 (q, J = 6.9 Hz, 1H, NCHCH3), 6.41 (t, J = 53.8 Hz, 1H,
+COCHF2), 3.92 (d, J = 4.2 Hz, 2H, CSCH2), 3.35/2.94 (2 × s, 6H,
+N(CH3)2), 1.66 (d, J = 7.0 Hz, 3H, CHCH3). 13C NMR (101 MHz,
+CDCl3) δ 197.5, 164.0 (t, J = 25.8 Hz), 135.0, 134.1, 132.0, 129.6,
+128.7, 127.3, 126.6, 125.1, 124.7, 124.0, 108.1 (t, J = 246.9 Hz), 50.5,
+49.3, 49.2, 45.7, 40.6, 17.0. UPLC-MS gradient B, tR = 2.11 min, m/z
+351.2 ([M + H]+, C18H21F2N2OS+ calcd 351.1). [α]589.3: −147° (c =
+0.19, 293 K, CHCl3). HRMS (ESI) m/z calcd for [M + Na]+,
+C18H20F2N2NaOS+ 373.1157; found 373.1160.
+N-(2-(Dimethylamino)-2-thioxoethyl)-2,2-diﬂuoro-N-isopropyla-
+cetamide (15). Yield: 45 mg (16%) as oil. VLC eluent: 0−30% EtOAc
+in heptane. 1H NMR (400 MHz, CDCl3) δ 6.21*/6.18 (2 × t, J = 54
+Hz, 1H, COCF2H), 4.64*/4.40 (2 × sept,
+J = 6.7 Hz, 1H,
+NCH(CH3)2), 4.27/4.24* (2 × s, 2H, COCH2), 3.52*/3.49/3.38*/
+3.36 (4 × s, 6H, N(CH3)2), 1.31/1.16* (2 × d, J = 6.6 Hz, 6H,
+NCH(CH3)2). 13C NMR (101 MHz, CDCl3) δ 197.8*, 197.0, 162.2
+(t, J = 25.3 Hz), 110.3/108.2* (2 × t, J = 251.0 Hz), 49.1*, 49.1, 48.6
+(t, J = 4.0 Hz), 47.7*, 45.7*, 45.4, 41.1, 40.6*, 21.3, 19.8*. UPLC-MS
+gradient B, tR = 1.36 min, m/z 239.1 ([M + H]+, C9H17F2N2OS+ calcd
+239.3). HRMS (ESI) m/z calcd for [M + Na]+, C9H16F2N2NaOS+
+261.0844; found 261.0848.
+
+Procedure for Synthesis of Thioacetylation Reagent 9. The
+synthesis was adapted from the reported procedure by Doszczak and
+Rachon.27 P2S5 (11.2 g, 25 mmol) was suspended in toluene (70 mL),
+2,2-dimethylpropane-1,3-diol (10.4 g, 100 mmol) was added, and the
+mixture was heated to 80 °C overnight. The reaction was cooled to rt
+and ﬁltered. The ﬁltrate was concentrated, and the crude was
+recrystallized from CCl4 (25 mL). After
+letting the compound
+precipitate in the freezer (−18 °C) for 6 h, the solvent was removed by
+ﬁltration and the colorless crystals were dried in vacuo to give 16 (13.0
+g, 66%). Compound 16 (1.98 g, 10 mmol) was dissolved in CH2Cl2
+(30 mL), and acetyl chloride (710 μL, 10 mmol) was added at rt. The
+mixture was cooled to 0 °C, and Et3N (1.4 mL, 10 mmol) was added
+dropwise. The reaction was stirred at 0 °C for 15 min followed by 15
+min at rt. The mixture was then ﬁltered through a pad of silica gel, and
+the ﬁltrate was concentrated in vacuo to give 17 (1.75 g, 73%).
+Compounds 16 (2.78 g, 14 mmol) and 17 (1.7 g, 7 mmol) were then
+dissolved in toluene (50 mL) and heated to 90 °C for 2.5 h, at which
+point the solution turned red. The solution was allowed to cool to rt,
+and the solvent was removed in vacuo. The crude was dissolved in
+CH2Cl2 (50 mL), washed with satd aq NaHCO3 and water. The
+organic phase was dried (MgSO4), ﬁltered, and concentrated in vacuo
+to give 9 (1.52 g, 85%), which was used without further puriﬁcation.
+General Procedure for Thioacetylation. A solution of 2a−e (1
+equiv) and pyridine (1 equiv) in CH2Cl2 (0.7 M) was added dropwise
+to thioacetylation reagent 9 (0.9 equiv) in CH2Cl2 (0.2 M) at rt. After
+stirring for 1 h the reaction mixture was washed with satd aq NaHCO3
+and water. The organic phase was dried (MgSO4), ﬁltered, and
+concentrated in vacuo. The crude product was puriﬁed by VLC.
+
+(S)-N,N-Dimethyl-2-(N-(1-phenylethyl)ethanethioamido)-
+acetamide (5a). Yield: 87 mg (22%) as oil. VLC eluent: 0−80%
+EtOAc in hexane. 1H NMR (400 MHz, CDCl3) δ 7.41−7.22 (m, 5H,
+Ar-H), 7.30*/5.63 (2 × q, J = 6.9 Hz, 1H, NCHCH3), 5.02/3.70 (2 ×
+d, J = 15.6 Hz, 2H COCH2), 4.13*/3.90* (2 × d, J = 15.6 Hz, 2H
+COCH2), 3.00/2.95/2.88*/2.81* (4 × s, 6H, N(CH3)2), 2.86/2.64*
+(2 × s, 3H, CSCH3), 1.76/1.53* (2 × d, J = 7.0 Hz, 3H, NCHCH3).
+13C NMR (101 MHz, CDCl3) δ 203.2*, 201.0, 166.3, 166.0*, 139.5,
+139.3*, 129.2, 128.7*, 128.2, 128.1*, 127.8*, 126.6, 60.6, 59.0*, 50.7,
+48.1*, 36.9, 36.5*, 36.1, 35.0*, 33.2*, 32.4, 17.8, 14.8*. UPLC-MS
+gradient B, tR = 1.58 min, m/z 287.1 ([M + Na]+, C14H20N2NaOS
+calcd 287.1). [α]589.3: −48° (c = 0.14, 293 K, CHCl3). HRMS (ESI)
+m/z calcd for [M + Na]+, C14H20N2NaOS+ 287.1189; found 287.1191.
+(S)-N,N-Dimethyl-2-(N-(1-(naphthalen-1-yl)ethyl)ethanethio-
+amido)acetamide (5b). Yield: 75 mg (38%) as amorphous substance.
+VLC eluent: 0−50% EtOAc in hexane. 1H NMR (400 MHz, CDCl3) δ
+8.08−7.43 (m, 7H, Ar-H), 7.55/6.12* (2 × q, J = 6.9 Hz, 1H,
+NCHCH3), 5.05*/3.75* (2 × d, J = 15.5 Hz, 2H, COCH2), 3.96/3.79
+(2 × d, J = 15.5 Hz, 2H, COCH2), 2.96*/2.60 (2 × s, 3H, CSCH3),
+2.94*/2.91*/2.75/2.62 (4 × s, 6H, N(CH3)2), 1.93*/1.70 (2 × d, J =
+6.9 Hz, 3H, NCHCH3). 13C NMR (101 MHz, CDCl3) δ 202.0,
+201.2*, 166.7*, 165.8, 135.8, 135.6*, 134.1*, 133.9, 132.4, 131.1*,
+129.5, 129.5*, 129.4*, 128.5, 127.5*, 127.3, 126.5, 126.3*, 125.6*,
+125.4, 125.0, 124.9, 124.5*, 122.3*, 58.5*, 57.2, 51.0*, 47.9, 36.9*,
+36.3*, 36.1, 36.0, 33.2, 32.2*, 19.0*, 14.8. UPLC-MS gradient B, tR =
+1.93 min, m/z 315.2 ([M + H]+, C18H23N2OS+ calcd 315.2). [α]589.3:
+−189° (c = 0.17, 293 K, CHCl3). HRMS (ESI) m/z calcd for [M +
+Na]+, C18H22N2NaOS+: 337.1345; found 337.1347.
+2-(N-Benzhydrylethanethioamido)-N,N-dimethylacetamide (5c).
+Yield: 75 mg (15%) as amorphous substance. VLC eluent: 0−0.8%
+MeOH in CH2Cl2. 1H NMR (400 MHz, CDCl3) δ 8.24*/6.66 (2 × s,
+1H, NCH(C6H5)2), 7.38−7.18 (m, 10H, Ar-H), 4.72/4.34* (2 × s,
+2H, COCH2), 2.79*/2.71 (2 × s, 3H, CSCH3), 2.78/2.74/2.57(*) (4
+× s, 6H, N(CH3)2). 13C NMR (101 MHz, CDCl3) δ 204.5*, 203.6,
+165.3, 165.1*, 138.3, 137.8*, 129.4*, 129.2, 128.9, 128.5, 128.4*,
+128.0*, 70.4, 68.7*, 52.8, 49.8*, 36.5*, 36.3, 35.8*, 35.6, 33.6*, 33.4.
+tR = 1.92 min, m/z 327.2 ([M + H]+,
+UPLC-MS gradient B,
+C19H23N2OS+ calcd 327.2). HRMS (ESI) m/z calcd for [M + Na]+,
+C19H22N2NaOS+: 349.1351; found 349.1346.
+2-(N-Isopropylethanethioamido)-N,N-dimethylacetamide (5d).
+Yield: 30 mg (6%) as oil. VLC eluent: 0−1% MeOH in CH2Cl2. 1H
+NMR (400 MHz, CDCl3) δ 5.96*/4.56 (2 × sept, J = 6.8 Hz, 1H,
+NCH(CH3)2), 4.51/4.19* (2 × s, 2H, COCH2), 3.12/3.07*/3.01*/
+2.98 (4 × s, 6H, N(CH3)2), 2.75/2.55* (2 × s, 3H, CSCH3), 1.29/
+1.15* (2 × d, J = 6.7 Hz, 6H, NCH(CH3)2). 13C NMR (101 MHz,
+CDCl3) δ 199.9, 166.4, 53.7, 48.4, 36.9, 36.7*, 36.3*, 36.1, 31.9, 20.8,
+19.3*. UPLC-MS gradient B, tR = 1.05 min, m/z 225.2 ([M + Na]+,
+C9H19N2NaOS+ calcd 225.1). HRMS (ESI) m/z calcd for [M + Na]+,
+C9H18N2NaOS+: 225.1032; found 225.1033.
+
+NMR Spectroscopy. 1D and 2D NMR spectra were recorded at
+298 K. Spectra were recorded at 400 MHz for 1H and 100 MHz for
+13C. The correlation spectroscopy (COSY) spectra were recorded with
+a relaxation delay of 1.5 s before each scan, a spectral width of 3 k × 3
+k, collecting 4 FIDs and 1 k × 128 data points. The heteronuclear
+single quantum coherence (HSQC) spectra were recorded with a
+relaxation delay of 1.5 s before each scan, a spectral width of 4.8 k ×
+16.6 k, collecting 4 FIDs and 1 k × 256 data points. Heteronuclear
+multiple-bond correlation (HMBC) spectra were recorded with a
+relaxation delay of 1.34 s before each scan, a spectral width of 3.5 k ×
+22.3 k, collecting 32 FIDs and 2k × 256 data points. Rotating frame
+Overhauser eﬀect (ROESY) spectra were recorded with a relaxation
+</para>
+5425
+
+DOI: 10.1021/acs.joc.5b00048
+J. Org. Chem. 2015, 80, 5415−5427
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+delay of 2 s before each scan, a spectral width of 3.5 k × 3.5 k,
+collecting 8 FIDs at 295 K, 1 k × 256 data points, and a mixing time of
+100 ms. Heteronuclear Overhauser eﬀect (HOESY) spectra36 were
+recorded with a relaxation delay of 1.5 s before each scan, a spectral
+width of 5 × 19 kHz, collecting 64 FIDs at 300 K, 2 k × 256 data
+points, and a mixing time of 50 ms. The gradient augmented pulse
+sequence was ‘hoesyetgp.2′.
+
+X-ray Crystallography. All ﬁnal compounds were subjected to
+vapor diﬀusion crystallization with chloroform as solvent and pentane
+as precipitant. Compounds unsuccessful
+to this method were
+attempted crystallized by slow evaporation from solubility compatible
+solvents (e.g., chloroform, EtOAc, CH2Cl2, or acetone). Compounds
+7c and 10 were crystallized by slow evaporation from acetone and 12
+by slow evaporation from chloroform. X-ray diﬀraction proﬁle data
+from ω scans were collected on using Cu Kα radiation. Data was
+processed and scaled using the CrysAlisPro software [Version
+1.171.36.28 (released Jan 02, 2013 CrysAlis171.NET)]. Details of
+the data collection are found in the supplementary CIF ﬁles. All crystal
+structures were solved using SHELXS and reﬁned using SHELXL37,38
+in the OLEX2 interface.38 Hydrogen atoms were observed and
+included on ideal positions using riding coordinates.
+Crystal Data from Single-Crystal Diﬀraction Studies for
+Compound 3b. C22H22N2O2, Mr = 298.38, orthorhombic, space
+group P212121, colorless, a = 9.37265(13) Å, b = 9.64096(14) Å, c =
+17.45640(2) Å, T = 120 K, Z = 4, Rint = 0.0222, GOF = 1.052, R1[F0 >
+4s(F0)] = 0.0337, wR2[all data] = 0.0876.
+Crystal Data from Single-Crystal Diﬀraction Studies for
+Compound 3c. C19H22N2O2, Mr = 310.39, orthorhombic, space
+group Pna21, colorless, a = 10.88660(16) Å, b = 14.8755(2) Å, c =
+10.23202(14) Å, T = 120 K, Z = 4, Rint = 0.0264, GOF = 1.024, R1[F0
+> 4s(F0)] = 0.0323, wR2[all data] = 0.0865.
+Crystal Data from Single-Crystal Diﬀraction Studies for
+Compound 4a. C14H17F3N2O2, Mr = 302.30, hexagonal, space
+group P61, colorless, a = 15.74885(18) Å, c = 11.05787(17) Å, T =
+120 K, Z = 6, Rint = 0.0453, GOF = 1.090, R1[F0 > 4s(F0)] = 0.0756,
+wR2[all data] = 0.2306.
+Crystal Data from Single-Crystal Diﬀraction Studies for
+Compound 4c. C19H19F3N2O2, Mr = 364.36, orthorhombic, space
+group P212121, colorless, a = 9.46505(10) Å, b = 10.52840(11) Å, c =
+18.0621(2) Å, T = 120 K, Z = 4, Rint = 0.0235, GOF = 1.096, R1[F0 >
+4s(F0)] = 0.0368, wR2[all data] = 0.0941.
+Crystal Data from Single-Crystal Diﬀraction Studies for
+Compound 5b. C18H22N2OS, Mr = 314.44, orthorhombic, space
+group P212121, colorless, a = 9.42849(13) Å, b = 10.19836(14) Å, c =
+17.3158(3) Å, T = 120 K, Z = 4, Rint = 0.0287, GOF = 1.053, R1[F0 >
+4s(F0)] = 0.0339, wR2[all data] = 0.0908.
+Crystal Data from Single-Crystal Diﬀraction Studies for
+Compound 5c. C19H22N2OS, Mr = 326.45, triclinic, space group P1̅,
+colorless, a = 8.6606(3) Å, b = 8.8909(2) Å, c = 11.7871(4) Å, T = 120
+K, Z = 4, Rint = 0.0275, GOF = 1.087, R1[F0 > 4s(F0)] = 0.0391,
+wR2[all data] = 0.1072.
+Crystal Data from Single-Crystal Diﬀraction Studies for
+Compound 7b. C18H22N2OS, Mr = 314.44, orthorhombic, space
+group P212121, colorless, a = 9.53269(13) Å, b = 9.99519(13) Å, c =
+17.7400(3) Å, T = 120 K, Z = 4, Rint = 0.0267, GOF = 1.042, R1[F0 >
+4s(F0)] = 0.0318, wR2[all data] = 0.0824.
+Crystal Data from Single-Crystal Diﬀraction Studies for
+Compound 7c. C19H22N2OS, Mr = 326.45, monoclinic, space group
+P21/c, colorless, a = 14.2453(4) Å, b = 6.3820(2) Å, c = 19.0726(6) Å,
+T = 120 K, Z = 4, Rint = 0.0515, GOF = 1.292, R1[F0 > 4s(F0)] =
+0.1146, wR2[all data] = 0.2848.
+Crystal Data from Single-Crystal Diﬀraction Studies for
+Compound 8a. C14H17F3N2OS, Mr = 318.36, orthorhombic, space
+group P212121, colorless, a = 5.78072(13) Å, b = 9.29719(17) Å, c =
+27.6640(5) Å, T = 120 K, Z = 4, Rint = 0.0656, GOF = 1.059, R1[F0 >
+4s(F0)] = 0.0464, wR2[all data] = 0.1257.
+Crystal Data from Single-Crystal Diﬀraction Studies for
+Compound 8c. C19H19F3N2OS, Mr = 380.42, orthorhombic, space
+group P212121, colorless, a = 9.42268(11) Å, b = 10.66811(13) Å, c =
+18.2399(2) Å, T = 120 K, Z = 4, Rint = 0.0253, GOF = 1.025, R1[F0 >
+4s(F0)] = 0.0297, wR2[all data] = 0.0794.
+</para>
+Article
+<para sub=“exp”>
+Crystal Data from Single-Crystal Diﬀraction Studies for
+Compound 10. C19H20F2N2O2, Mr = 346.37, orthorhombic, space
+group Pna21, colorless, a = 11.35582(11) Å, b = 15.33727(14) Å, c =
+9.60241(9) Å, T = 120 K, Z = 4, Rint = 0.0255, GOF = 1.033, R1[F0 >
+4s(F0)] = 0.0301, wR2[all data] = 0.0799.
+Crystal Data from Single-Crystal Diﬀraction Studies for
+Compound 11. C19H20Cl2N2O2, Mr = 379.27, orthorhombic, space
+group Pbca, colorless, a = 17.97160(18) Å, b = 10.96238(11) Å, c =
+19.1950(2) Å, T = 120 K, Z = 8, Rint = 0.0362, GOF = 1.053, R1[F0 >
+4s(F0)] = 0.0452, wR2[all data] = 0.1269.
+Crystal Data from Single-Crystal Diﬀraction Studies for
+Compound 12. C19H20F2N2OS, Mr = 362.43, orthorhombic, space
+group P212121, colorless, a = 9.31801(6) Å, b = 10.65613(7) Å, c =
+18.11473(12) Å, T = 120 K, Z = 4, Rint = 0.0392, GOF = 1.088, R1[F0
+> 4s(F0)] = 0.0240, wR2[all data] = 0.0635.
+Crystal Data from Single-Crystal Diﬀraction Studies for
+Compound 13. C18H20F2N2O2, Mr = 334.36, triclinic, space group
+P1, colorless, a = 7.3111(4) Å, b = 8.9012(5) Å, c = 14.1362(8) Å, T=
+120 K, Z = 2, Rint = 0.0279, GOF = 1.011, R1[F0 > 4s(F0)] = 0.0522,
+wR2[all data] = 0.1508.
+Crystal Data from Single-Crystal Diﬀraction Studies for
+Compound 14. C18H20F2N2OS, CHCl3, Mr = 469.79, orthorhombic,
+space group P212121, colorless, a = 8.1156(6) Å, b = 19.8520(12) Å, c
+= 12.9765(9) Å, T= 120 K, Z = 4, Rint = 0.0343, GOF = 1.101, R1[F0 >
+4s(F0)] = 0.0609, wR2[all data] = 0.1851.
+
+CIF ﬁles for the X-ray diﬀraction crystal structures have been
+deposited at the Cambridge Crystallographic Data Centre (CCDC)
+under accession codes 1041654−1041666.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Supplementary ﬁgures and tables and copies of 1H and 13C
+NMR spectra; X-ray crystallographic data ﬁles (CIF). This
+material is available free of charge via the Internet at http://
+pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: cao@sund.ku.dk.
+Present Address
+§
+Christian A. Olsen: Center
+for Biopharmaceuticals and
+Department of Drug Design & Pharmacology, University of
+Copenhagen, Universitetsparken 2, DK-2100, Copenhagen,
+Denmark.
+Author Contributions
+#
+Jens Engel-Andreasen and Kathrine Wich contributed equally
+to the experimental work.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We thank Dr. Charlotte H. Gotfredsen and Ms. Anne Hector
+(DTU Chemistry) for assistance with NMR spectroscopy, Dr.
+Niels T. Nyberg (University of Copenhagen) for setting up the
+HOESY experiments, and Ms. Tina Gustafsson (DTU
+Chemistry) for
+technical assistance with UPLC-MS. This
+work was supported by the Danish Independent Research
+Council/Natural Sciences (Steno Grant No. 10-080907;
+C.A.O.), Lundbeck Foundation (Young Group Leader Fellow-
+ship; C.A.O.), Carlsberg Foundation (equipment; C.A.O.), and
+University of Copenhagen. The NMR equipment used at the
+University of Copenhagen was purchased via a grant from the
+Lundbeck Foundation (R77-A6742). We thank DTU Chem-
+istry for a Ph.D. Fellowship to J.E.-A.
+
+5426
+
+DOI: 10.1021/acs.joc.5b00048
+J. Org. Chem. 2015, 80, 5415−5427
+
+The Journal of Organic Chemistry
+
+■ REFERENCES
+(1) Rader, R. A. Nat. Biotechnol. 2008, 26, 743−751.
+(2) (a) Gellman, S. H. Acc. Chem. Res. 1998, 31, 173−180.
+(b) Goodman, C. M.; Choi, S.; Shandler, S.; DeGrado, W. F. Nat.
+Chem. Biol. 2007, 3, 252−262. (c) Horne, W. S.; Gellman, S. H. Acc.
+Chem. Res. 2008, 41, 1399−1408. (d) Olsen, C. A. ChemBioChem
+2010, 11, 152−160. (e) Horne, W. S. Expert Opin. Drug Discovery
+2011, 6, 1247−1262.
+(3) (a) Seebach, D.; Beck, A. K.; Bierbaum, D. J. Chem. Biodivers.
+2004, 1, 1111−1239. (b) Seebach, D.; Gardiner, J. Acc. Chem. Res.
+2008, 41, 1366−1375. (c) Cheng, R. P.; Gellman, S. H.; DeGrado, W.
+F. Chem. Rev. 2001, 101, 3219−3232.
+(4) (a) Zuckermann, R. N.; Kodadek, T. Curr. Opin. Mol. Ther. 2009,
+11, 299−307. (b) Zuckermann, R. N. Biopolymers 2011, 96, 545−555.
+(5) Cheloha, R. W.; Maeda, A.; Dean, T.; Gardella, T. J.; Gellman, S.
+H. Nat. Biotechnol. 2014, 32, 653−655.
+(6) (a) Zuckermann, R. N.; Kerr, J. M.; Kent, S. B. H.; Moos, W. H. J.
+Am. Chem. Soc. 1992, 114, 10646−10647. (b) Burkoth, T. S.;
+Fafarman, A. T.; Charych, D. H.; Connolly, M. D.; Zuckermann, R. N.
+J. Am. Chem. Soc. 2003, 125, 8841−8845.
+(7) Simon, R. J.; Kania, R. S.; Zuckermann, R. N.; Huebner, V. D.;
+Jewell, D. A.; Banville, S.; Ng, S.; Wang, L.; Rosenberg, S.; Marlowe, C.
+K.; Spellmeyer, D. C.; Tan, R.; Frankel, A. D.; Santi, D. V.; Cohen, F.
+E.; Bartlett, P. A. Proc. Natl. Acad. Sci. U.S.A. 1992, 89, 9367−9371.
+(8) Patch, J. A.; Barron, A. E. J. Am. Chem. Soc. 2003, 125, 12092−
+12093.
+(9) Statz, A. R.; Meagher, R. J.; Barron, A. E.; Messersmith, P. B. J.
+Am. Chem. Soc. 2005, 127, 7972−7973.
+(10) Nam, K. T.; Shelby, S. A.; Choi, P. H.; Marciel, A. B.; Chen, R.;
+Tan, L.; Chu, T. K.; Mesch, R. A.; Lee, B. C.; Connolly, M. D.;
+Kisielowski, C.; Zuckermann, R. N. Nat. Mater. 2010, 9, 454−460.
+(11) (a) Nguyen, J. T.; Turck, C. W.; Cohen, F. E.; Zuckermann, R.
+N.; Lim, W. A. Science 1998, 282, 2088−2092. (b) Hara, T.; Durell, S.
+R.; Myers, M. C.; Appella, D. H. J. Am. Chem. Soc. 2006, 128, 1995−
+2004. (c) Udugamasooriya, D. G.; Dineen, S. P.; Brekken, R. A.;
+Kodadek, T. J. Am. Chem. Soc. 2008, 130, 5744−5752.
+(12) Wu, C. W.; Kirshenbaum, K.; Sanborn, T. J.; Patch, J. A.; Huang,
+K.; Dill, K. A.; Zuckermann, R. N.; Barron, A. E. J. Am. Chem. Soc.
+2003, 125, 13525−13530.
+(13) Stringer, J. R.; Crapster, J. A.; Guzei, I. A.; Blackwell, H. E. J. Am.
+Chem. Soc. 2011, 133, 15559−15567.
+(14) Armand, P.; Kirshenbaum, K.; Goldsmith, R. A.; Farr-Jones, S.;
+Barron, A. E.; Truong, K. T. V.; Dill, K. A.; Mierke, D. F.; Cohen, F.
+E.; Zuckermann, R. N.; Bradley, E. K. Proc. Natl. Acad. Sci. U.S.A. 1998,
+95, 4309−4314.
+(15) (a) Huang, K.; Wu, C. W.; Sanborn, T. J.; Patch, J. A.;
+Kirshenbaum, K.; Zuckermann, R. N.; Barron, A. E.; Radhakrishnan, I.
+J. Am. Chem. Soc. 2006, 128, 1733−1738. (b) Crapster, J. A.; Guzei, I.
+A.; Blackwell, H. E. Angew. Chem., Int. Ed. 2013, 52, 5079−5084.
+(16) Shin, S. B.; Yoo, B.; Todaro, L. J.; Kirshenbaum, K. J. Am. Chem.
+Soc. 2007, 129, 3218−3225.
+(17) (a) Sui, Q.; Borchardt, D.; Rabenstein, D. L. J. Am. Chem. Soc.
+2007, 129, 12042−12048. (b) Gorske, B. C.; Bastian, B. L.; Geske, G.
+D.; Blackwell, H. E. J. Am. Chem. Soc. 2007, 129, 8928−8929.
+(18) Gorske, B. C.; Stringer, J. R.; Bastian, B. L.; Fowler, S. A.;
+Blackwell, H. E. J. Am. Chem. Soc. 2009, 131, 16555−16567.
+(19) Caumes, C.; Roy, O.; Faure, S.; Taillefumier, C. J. Am. Chem.
+Soc. 2012, 134, 9553−9556.
+(20) (a) Hamper, B. C.; Kolodziej, S. A.; Scates, A. M.; Smith, R. G.;
+Cortez, E. J. Org. Chem. 1998, 63, 708−718. (b) Olsen, C. A.; Bonke,
+G.; Vedel, L.; Adsersen, A.; Witt, M.; Franzyk, H.; Jaroszewski, J. W.
+Org. Lett. 2007, 9, 1549−1552. (c) Vedel, L.; Bonke, G.; Foged, C.;
+Ziegler, H.; Franzyk, H.;
+J. W.; Olsen, C. A.
+ChemBioChem 2007, 8, 1781−1784. (d) Bonke, G.; Vedel, L.; Witt,
+M.; Jaroszewski, J. W.; Olsen, C. A.; Franzyk, H. Synthesis 2008, 2381−
+2390. (e) Foged, C.; Franzyk, H.; Bahrami, S.; Frokjaer, S.;
+Jaroszewski, J. W.; Nielsen, H. M.; Olsen, C. A. Biochim. Biophys.
+Acta: Biomembr. 2008, 1778, 2487−2495. (f) Olsen, C. A.; Ziegler, H.
+L.; Nielsen, H. M.; Frimodt-Møller, N.; Jaroszewski, J. W.; Franzyk, H.
+
+Jaroszewski,
+
+Article
+ChemBioChem 2010, 11, 1356−1360. (g) Olsen, C. A. Biopolymers
+2011, 96, 561−566.
+(21) Laursen, J. S.; Engel-Andreasen, J.; Fristrup, P.; Harris, P.;
+Olsen, C. A. J. Am. Chem. Soc. 2013, 135, 2835−2844.
+(22) (a) Choudhary, A.; Gandla, D.; Krow, G. R.; Raines, R. T. J. Am.
+Chem. Soc. 2009, 131, 7244−7246. (b) Newberry, R. W.; VanVeller,
+B.; Guzei, I. A.; Raines, R. T. J. Am. Chem. Soc. 2013, 135, 7843−7846.
+(23) Choudhary, A.; Fry, C. G.; Raines, R. T. ARKIVOC 2010, 2010,
+251−262.
+(24) (a) Pal, D.; Chakrabarti, P. J. Mol. Biol. 1999, 294, 271−288.
+(b) Zondlo, N. J. Acc. Chem. Res. 2013, 46, 1039−49.
+(25) Gorske, B. C.; Nelson, R. C.; Bowden, Z. S.; Kufe, T. A.; Childs,
+A. M. J. Org. Chem. 2013, 78, 11172−11183.
+(26) Bonacorso, H. G.; Caro, M. S. B.; Zanatta, N.; Martins, M. A. P.
+Magn. Reson. Chem. 1993, 31, 451−454.
+(27) Doszczak, L.; Rachon, J. J. Chem. Soc., Perkin Trans. 1 2002,
+1271−1279.
+(28) Scheibye, S.; Pedersen, B. S.; Lawesson, S. O. Bull. Soc. Chim.
+Belg. 1978, 87, 229−238.
+(29) Bartlett, G. J.; Choudhary, A.; Raines, R. T.; Woolfson, D. N.
+Nat. Chem. Biol. 2010, 6, 615−620.
+(30) Kirshenbaum, K.; Barron, A. E.; Goldsmith, R. A.; Armand, P.;
+Bradley, E. K.; Truong, K. T. V.; Dill, K. A.; Cohen, F. E.;
+Zuckermann, R. N. Proc. Natl. Acad. Sci. U.S.A. 1998, 95, 4303−4308.
+(31) Olivato, P. R.; Guerrero, S. A.; Yreijo, M. H.; Rittner, R.;
+Tormena, C. F. J. Mol. Struct. 2002, 607, 87−99.
+(32) Bartlett, G. J.; Newberry, R. W.; VanVeller, B.; Raines, R. T.;
+Woolfson, D. N. J. Am. Chem. Soc. 2013, 135, 18682−18688.
+(33) Eisenstein, O.; Anh, N. T.; Jean, Y.; Devaquet, A.; Cantacuzen,
+J.; Salem, L. Tetrahedron 1974, 30, 1717−1723.
+(34) Basso, E. A.; Kaiser, C.; Rittner, R.; Lambert, J. B. J. Org. Chem.
+1993, 58, 7865−7869.
+(35) (a) Tran, T. T.; Zeng, J.; Treutlein, H.; Burgess, A. W. J. Am.
+Chem. Soc. 2002, 124, 5222−5230. (b) Reiner, A.; Wildemann, D.;
+Fischer, G.; Kiefhaber, T. J. Am. Chem. Soc. 2008, 130, 8079−8084.
+(36) Yu, C.; Levy, G. C. J. Am. Chem. Soc. 1984, 106, 6533−6537.
+(37) Sheldrick, G. M. Acta Crystallogr., Sect. A 2008, 64, 112−122.
+(38) Dolomanov, O. V.; Bourhis, L. J.; Gildea, R. J.; Howard, J. A. K.;
+Puschmann, H. J. Appl. Crystallogr. 2009, 42, 339−341.
+
+5427
+
+DOI: 10.1021/acs.joc.5b00048
+J. Org. Chem. 2015, 80, 5415−5427
+
+

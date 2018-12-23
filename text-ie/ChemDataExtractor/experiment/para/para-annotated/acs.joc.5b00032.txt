@@ -1,0 +1,995 @@
+Note
+
+pubs.acs.org/joc
+
+One-Pot Synthesis of Functionalized Benzo[b]thiophenes and Their
+Hetero-Fused Analogues via Intramolecular Copper-Catalyzed
+S‑Arylation of In Situ Generated Enethiolates
+Anand Acharya, S. Vijay Kumar, B. Saraiah, and H. Ila*
+
+New Chemistry Unit, Jawaharlal Nehru Centre for Advanced Scientiﬁc Research, Jakkur, Bangalore 560064, India
+
+*S Supporting Information
+
+such as
+
+ABSTRACT: An eﬃcient one-pot
+synthesis of highly
+functionalized multisubstituted benzo[b]thiophenes and their
+hetero-fused analogues,
+thieno[2,3-b]thiophenes,
+indolo[2,3-b]thiophenes, and pyrazolo[3,2-c]thiophenes, has
+been reported. The overall strategy involves sequential base-
+mediated condensation of 2-bromohet(aryl)acetonitrile pre-
+cursors with (het)aryl/alkyl dithioesters or other thiocarbonyl
+species such as dimethyl trithiocarbonate, S-methyl xanthates, methyl N-imidazolyl dithioate, N-alkyl dithiocarbamate, and
+phenyl isothiocyanate, followed by intramolecular copper-catalyzed arylthiolation of in situ generated enethiolates, furnishing a
+broad range of 2-functionalized 3-cyanobenzo[b]- and/hetero-fused thiophenes in high yields.
+
+B enzo[b]thiophene and its derivatives represent an important
+
+heterocyclic core because of their frequent occurrence in
+nature and the wide range of biological activity displayed by
+this class of compounds.1 Several marketed drugs contain the
+benzothiophene core, such as zileuton,1,2 a potent and selective
+inhibitor of 5-lipoxygenase, whereas raloxifene and arzoxifene
+are selective estrogen receptor modulators.1,3,4 Also, benzo[b]-
+thiophene and its condensed analogues are important structural
+components in the development of optoelectronic materials,
+including organic photovoltaics and ﬁeld eﬀect transistors.1b,5
+Therefore, research directed toward a concise new synthesis of
+multisubstituted benzo[b]thiophenes has been actively pursued
+in recent years,1,6 and many eﬃcient methods have been
+developed.
+
+Among recent syntheses, the most common approach for
+benzo[b]thiophenes involves intramolecular 5-endo-dig cycliza-
+tion of o-alkynyl arylthioethers or their surrogates, employing
+electrophilic reagents such as iodine, bromine, NBS, PhSCl, or
+PhSeCl.5b,e,f,6a,7−9 The methodology has also been extended to
+transition-metal-catalyzed cyclization of these analogues, such
+as Pd-,1b Cu-,10a or gold-catalyzed anulations.10b,c 2-Substituted
+benzothiophenes have also been accessed via tandem intra-
+molecular palladium- or copper-catalyzed S-vinylation and an
+intermolecular cross-coupling reaction of o-(gem-dibromovinyl)-
+thiophenols.10e−g The crucial bond-forming event
+in these
+reactions is intramolecular attack of the nucleophilic sulfur atom
+on the activated C−C multiple bond, leading to the formation
+of the S(1)−C(2) bond of the benzothiophene core. These
+reactions, although selective and eﬃcient, however, require prior
+synthesis of diﬃcult to access prefunctionalized thiophenol pre-
+cursors.9 Recently, copper-catalyzed (or Pd-catalyzed) double
+thiolation of o-(2-halovinyl)halobenzenes11a or 2-bromoalkynyl-
+benzenes11b with metal sulﬁdes or its surrogates,11c−11d leading
+to 2-substituted benzo[b]thiophenes, has also been reported.12
+
+These methods involve concomitant formation of S(1)−C(7a)
+and S(1)−C(2) bonds of benzo[b]thiophenes. On the other
+hand, synthetic approaches to benzothiophenes involving the
+S(1)−C(7a) bond formation via intramolecular C−S coupling/
+cyclization of α-arylthioenol/enolate precursors are scarce in
+the literature. One of the oldest syntheses, which falls under
+this category, involves iodine-13 or chlorine-mediated14 oxidative
+cyclization of β-aryl-α-mercaptoacrylic acids furnishing benzo-
+[b]thiophene-2-carboxylic acids in good yields.15 Recently,
+Willis and co-workers described the synthesis of 2,3-annulated
+benzo[b]thiophenes in moderate to good yields via palladium-
+catalyzed intramolecular cyclization of o-(haloaryl)-substituted
+cyclic thioketones.16a A palladium-catalyzed intramolecular
+C−H thiolation approach for the direct synthesis of 2,3-
+diarylbenzo[b]thiophenes via Pd chloride oxidative cyclization
+of 1,2,2-triarylethenethiols was recently reported by Inamoto
+and co-workers.17 However, the scope of these reactions in
+terms of functional group/substituent diversity has not been
+much explored, probably because of the limited accessibility and
+instability of the requisite thioketone (or thioenol) precursors.
+During the course of our continued studies directed toward
+the development of new and eﬃcient methods for ﬁve- and
+six-membered heterocycles employing novel organosulfur
+synthons,18 we previously reported a novel approach to 2,3-
+substituted benzo[b]thiophenes 4 via intramolecular radical
+cyclization of 3-(methylthio)-3-(het)aryl/alkyl-1-[2-bromo-
+(het)aryl]acrylonitriles 3 (Scheme 1).1a,19 These precursors 3
+are prepared by base-induced condensation of the correspond-
+ing 2-bromo(het)aryl acetonitriles 1 with (het)aryl dithioesters
+2 followed by in situ S-methylation of the resulting enethiolate
+intermediates (Scheme 1).
+
+Received:
+January 6, 2015
+Published: February 6, 2015
+
+© 2015 American Chemical Society
+
+2884
+
+DOI: 10.1021/acs.joc.5b00032
+J. Org. Chem. 2015, 80, 2884−2892
+
+The Journal of Organic Chemistry
+
+Note
+
+Scheme 1. Intramolecular Radical-Mediated Synthesis of Benzo[b]thiophenes
+
+Scheme 2. Proposed Strategy for the Synthesis of Benzo[b]thiophenes
+
+Table 1. Optimization of Reaction Conditions for the Formation of 4a from 5a
+
+entry
+1a
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16b
+17c
+18d
+
+Cu catalyst (10 mol %)
+
+base (1 equiv)
+
+ligand (20 mol %)
+
+CuCl
+CuBr
+CuI
+Cu2O
+CuI
+CuI
+CuI
+CuI
+CuI
+CuI
+CuI
+CuI
+CuI
+CuI
+CuI
+CuI
+
+NaH
+NaH
+
+K2CO3
+Cs2CO3
+K3PO4
+NaH
+KOtBu
+NaH
+NaH
+NaH
+NaH
+NaH
+NaH
+NaH
+
+L-proline
+1,10-phen
+DMEDA
+L-proline
+L-proline
+L-proline
+L-proline
+
+temp/time
+110 °C/25 h
+120 °C/28 h
+120 °C/18 h
+120 °C/18 h
+120 °C/14 h
+120 °C/16 h
+120 °C/11 h
+120 °C/10 h
+120 °C/12 h
+120 °C/5 h
+120 °C/6 h
+90 °C/3 h
+90 °C/5 h
+90 °C/5 h
+50 °C/8 h
+90 °C/7 h
+50 °C/10 h
+50 °C/8 h
+
+% yield
+
+25
+30
+73
+71
+82
+72
+83
+81
+79
+90
+84
+92
+85
+85
+91
+83
+87
+88
+
+aDMSO was used as solvent. bWith 5 mol % of CuI. cWith 1:1 CuI/L-proline ratio. dWith 1:5 CuI/L-proline ratio.
+<para sub=“ques”>
+During the course of these studies, we conceived of a direct
+synthesis of benzo[b]thiophenes by trapping the corresponding
+enethiolate intermediates 5 from 1 and 2 and subjecting them
+to copper (or palladium) metal-catalyzed intramolecular C−S
+bond formation cyclization in a cascade process (Scheme 2).
+We have successfully achieved this goal and report in this paper
+an eﬃcient one-pot synthesis of multisubstituted benzo[b]-
+thiophenes and their hetero-fused analogues via intramolecular
+copper-catalyzed C−S arylation of in situ generated enethiolate
+salts 5 involving formation of C(2)−C(3) and S(1)−C(7a)
+bonds of benzothiophenes in a tandem fashion.
+</para>
+<para sub=“opt”>
+Initially, 2-bromo-5-methoxyphenylacetonitrile (1a) and
+4-methoxyphenyl dithioester (2a) were chosen as model sub-
+strates to examine the feasibility and eﬃciency of the proposed
+tandem protocol. We ﬁrst focused on optimization of reaction
+conditions for a two-step process via intramolecular Cu-
+catalzyed (or Pd-catalyzed) cyclization of enethiol intermediate
+
+5a, which was obtained in 95% yield by condensation of 1a
+with 2a in the presence of a base such as sodium hydride in
+DMF as solvent (Table 1). On the other hand, 5a was obtained
+in lower yields (20−30%) in the presence of weaker bases such
+as Cs2CO3, K2CO3, or K3PO4 under identical conditions. We
+ﬁrst attempted cyclization of 5a in the absence of any catalyst,20
+which aﬀorded benzo[b]thiophene 4a in 25−30% yields after
+prolonged heating (Table 1, entries 1 and 2). Intramolecular
+thiolation/cross-coupling of 5a to 4a was next examined under
+the inﬂuence of various copper catalysts, bases, and ligands with
+a view to explore the optimal reaction conditions (Table 1).
+Thus, our study revealed that benzothiophene 4a was formed
+with practically all Cu catalysts in varying yields with heating
+for a prolonged time at 120 °C (Table 1, entries 3−6), with
+CuI displaying the best results (entry 5). Screening of various
+bases and ligands (entries 7−14) revealed that optimal results
+were obtained with 10 mol % of CuI, L-proline (20 mol %) as
+</para>
+2885
+
+DOI: 10.1021/acs.joc.5b00032
+J. Org. Chem. 2015, 80, 2884−2892
+
+The Journal of Organic Chemistry
+<para sub=“opt”>
+ligand, and NaH as base in DMF as solvent when the reaction
+was complete within 3 h at 90 °C, furnishing the benzothio-
+phene 4a in 92% yield (entry 12). Decreasing the reaction
+temperature (entry 15) or catalytic loading (entry 16) or
+changing the CuI/ligand ratio (entries 17 and 18) required
+longer time for completion of the reaction without much
+aﬀecting the yield of 4a (Table 1).
+</para>
+in hand,
+<para sub=“opt”>
+Having accomplished the optimal conditions for
+
+intra-
+molecular cyclization of 5a to benzothiophene 4a, we next
+aimed to combine the synthesis of enethiol 5a, along with
+carbon−sulfur bond-forming process in a one-pot reaction.
+Thus, in situ generated enethiolate 5a (from 1a and dithioester
+2a in the presence of sodium hydride and DMF) was subjected
+to intramolecular arylthiolation by adding CuI (10 mol %) and
+L-proline (20 mol %) to the reaction mixture and further heating
+at 90 °C. Monitoring of the reaction mixture revealed that the
+reaction was complete within 3 h, providing benzothiophene 4a
+in comparable yield of 90% (Table 2, entry 1).
+</para>
+<para sub="scope">
+With the optimized reaction conditions
+
+the
+generality and scope of the present one-pot protocol was
+explored, and the results are summarized in Table 2. Thus, an
+aryl group of 1 bearing either the electron-donating or electron-
+withdrawing groups on the phenyl ring has little eﬀect on the
+cyclization reaction (entries 1−5). Similarly, a range of (het)aryl
+dithioesters 2 bearing either electron-donating/withdrawing/
+sterically encumbering aryl or hetaryl groups are well-tolerated,
+yielding benzothiophenes 4a−f
+in good yields (Table 2,
+entries 1−6). Attempted cyclization/coupling of 1b with
+2-hydroxyphenyl dithioester 2g under identical conditions did
+not aﬀord the desired 2-(2-hydroxyphenyl)benzothiophene 4g.
+However, 4g could be obtained in good yield by a two-step
+process via condensation/cyclization of 1b with 2-(4-methoxy-
+benzyloxy)phenyl dithioester 2h, furnishing the corresponding
+2-[2-(4-methoxybenzyloxy)phenyl]benzothiophene 4h and its
+subsequent deprotection with triﬂuoroacetic acid (Table 2,
+entries 7 and 8 and also 17 and 18). Similarly, using n-butyl
+dithioester 2i, the corresponding 2-(n-butyl)benzothiophene 4i
+was obtained in 75% yield (entry 9). The reaction was found to
+be equally eﬃcient for the synthesis of hetero-fused thiophenes,
+as shown in the entries 10−18 (Table 2). Thus, 2,3-substituted
+thieno[2,3-b]thiophenes 4j and 4n,
+indolo[2,3-b]thiophenes
+4k,l, and pyrazolo[3,2-c]thiophene 4m could be readily
+accessed in good yields by subjecting the corresponding
+2-bromo-substituted thieno-, indolo-, or pyrazolo acetonitriles
+1d−f to a two-step, base-mediated condensation/Cu-catalyzed
+intramolecular thiolation process, with various dithioesters 2j−n
+under optimized conditions (entries 10−14). The reaction
+could also be extended for the synthesis of 7-azabenzo[b]-
+thiophenes 4o−r by employing (2-bromopyridyl)-3-acetonitrile
+1g and relevant dithioesters (2o,p and 2h) as coupling partners
+(Table 2, entries 15−18). Further diversity at the 2-position
+of benzothiophene was introduced by employing a variety of
+thiocarbonyl substrates such as dimethyl trithiocarbonate 2q,
+O-alkyl (S)-methyl dithiocarbonate 2r,s, N-imidazolyl dithioate
+2t, and N-alkyl (S)-methyl dithiocarbamate 2u, furnishing the
+corresponding 2-(methylthio)-, 2-(alkoxy)-, 2-(N-imidazolyl)-,
+and 2-(Ar)alkylaminobenzo/hetero-fused thiophenes 4s−w,
+respectively,
+the
+2-(anilino)benzo[o]thiophene 4x or the indolo-fused analogue
+4y could also be synthesized in good yields by using phenyl
+isothiocyanate as thiocarbonyl component (Table 2, entries 24
+and 25).
+
+in high yields (entries 19−23). Similarly,
+</para>
+Note
+
+In summary, we have developed an eﬃcient and practical
+route to diversely functionalized 2,3-substituted benzo[b]-
+thiophenes and hetero-fused thiophenes from readily available
+2-bromo-(het)arylacetonitriles and (het)aryl/alkyldithioesters
+and other thiocarbonyl precursors. The overall protocol involves
+a tandem base-mediated condensation of (het)arylacetonitriles
+with dithioesters [intermolecular C(2)−C(3) bond formation]
+followed by a Cu-catalyzed intramolecular arylthiolation of the
+in situ generated thioenolate intermediates [S(1)−C(7a) bond
+formation] in a one-pot sequence. The new methodology allows
+direct access to a broad range of benzo/hetero-fused thiophenes
+with a variety of substitution patterns, making it a useful process
+for structure−activity relationship studies. The substrate scope is
+large, and many products have the potential for further synthetic
+transformations.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General
+
+Information. All
+
+reagents were purchased from
+commercial suppliers and used without further puriﬁcation. Solvents
+were dried according to the standard procedures. All the reactions
+were monitored by thin layer chromatography using standard TLC
+silica gel plates and visualized with UV light. Column chromatography
+was performed using silica gel (100−200 mesh). Nuclear magnetic
+resonance spectra were recorded on (400 MHz) an FT NMR
+spectrometer with CDCl3 (or) DMSO-d6 as solvent. Chemical shifts
+were reported in δ parts per million using residual solvent protons as
+internal standard (δ 7.26 for CDCl3 and δ 2.50 for DMSO-d6 in 1H
+NMR, δ 77.16 for CDCl3 and δ 39.52 for DMSO-d6 in 13C NMR).
+Coupling constants were reported as J values in Hertz (Hz). Splitting
+patterns are designated as s (singlet), d (doublet),
+t (triplet),
+q (quartet), quint (quintet), sext (sextet), dd (double of doublet),
+dt (doublet of triplet), td (triplet of doublet), ddd (doublet of doublet
+of doublet), m (multiplet), and br (broad). Infrared spectra of neat
+samples were recorded in ATR (attenuated total reﬂectance) mode
+using an FT-IR instrument and HRMS on a Q-TOF spectrometer.
+Melting points were recorded using an electrothermal capillary melting
+point apparatus and are uncorrected.
+All 2-bromo(het)aryl acetonitriles 1a−h were prepared according to
+the reported procedures.1a,19 All the known dithioesters 2a−e, 2i−m,
+and 2o,p and the unknown dithioesters 2f−h and 2n,21a dimethyl
+trithiocarbonate 2q,21b O-alkyl S-methyl dithiocarbonates 2r,s,21c
+methyl N-imidazolyl dithioate 2t,21d [N-(3,4-dimethoxphenethyl)]
+S-methyl dithiocarbamate 2u,21d and phenyl
+isothiocyanate 2v21e
+were also prepared according to the literature procedure. The spectral
+and analytical data of the new dithioesters 2f−h and 2n are given
+below.
+Methyl 2-Methoxybenzodithioate (2f): Dark red liquid
+(906 mg, 78%); Rf 0.86 (1:9 EtOAc/hexane); IR (neat, cm−1) 1592,
+1483, 1250, 1040, 882; 1H NMR (400 MHz, CDCl3) δ 7.39 (dd, J =
+7.6 Hz, 1.6 Hz, 1H), 7.37−7.32 (m, 1H), 6.95 (dd, J = 7.6 Hz, 1.2 Hz,
+1H), 6.94−6.92 (m, 1H), 3.82 (s, 3H), 2.74 (s, 3H); 13C NMR
+(100 MHz, CDCl3) δ 229.6, 154.8, 136.6, 131.3, 129.0, 120.4, 112.0,
+56.1, 21.0; HRMS (ESI) m/z calcd for C9H11OS2 [M + H]+ 199.0251,
+found 199.0248.
+Methyl 2-Hydroxybenzodithioate (2g): Red liquid (944 mg,
+71%); Rf 0.75 (2:8 EtOAc/hexane); IR (neat, cm−1) 3300−2450,
+1607, 1459, 1198, 804; 1H NMR (400 MHz, CDCl3) δ 12.15 (s, 1H),
+8.11 (dd, J = 8.4 Hz, 1.6 Hz, 1H), 7.42−7.38 (m, 1H), 7.05 (dd, J =
+8.4 Hz, 1.2 Hz, 1H), 6.90−6.85 (m, 1H), 2.70 (s, 3H); 13C NMR
+(100 MHz, CDCl3) δ 226.9, 158.8, 135.1, 127.0, 126.5, 119.9, 119.1,
+19.2; HRMS (ESI) m/z calcd for C8H9OS2 [M + H]+ 185.0095, found
+185.0099.
+Methyl 2-(4-Methoxybenzyloxy)benzodithioate (2h): Red
+solid (908 mg, 86%); mp 60−62 °C; Rf 0.92 (1:9 EtOAc/hexane);
+IR (neat, cm−1) 1611, 1512, 1378, 1243, 1030, 749; 1H NMR
+(400 MHz, CDCl3) δ 7.41 (dd, J = 8.0 Hz, 1.6 Hz, 1H), 7.31−7.27 (m,
+3H), 6.96−6.92 (m, 2H), 6.86 (d, J = 8.8 Hz, 2H), 5.05 (s, 2H), 3.77
+(s, 3H), 2.72 (s, 3H); 13C NMR (100 MHz, CDCl3) δ 229.5, 159.4,
+</para>
+2886
+
+DOI: 10.1021/acs.joc.5b00032
+J. Org. Chem. 2015, 80, 2884−2892
+
+The Journal of Organic Chemistry
+Table 2. Syntheses of 2,3-Substituted Benzo[b]- and Hetero-Fused Thiophenes 4
+
+Note
+
+2887
+
+DOI: 10.1021/acs.joc.5b00032
+J. Org. Chem. 2015, 80, 2884−2892
+
+The Journal of Organic Chemistry
+
+Table 2. continued
+
+Note
+<para sub=“exp”>
+aReaction conditions: 1 (1.0 mmol), 2 (1.0 mmol), and NaH (2.0 mmol) in DMF (6 mL), stirred for 1 h; CuI (10 mol %), L-proline (20 mol %)
+added and heated to 90 °C for 3−5 h. bYield with 2g. cYield with 4h
+
+153.9, 137.2, 131.2, 129.0, 128.9, 128.8, 120.7, 114.0, 113.8, 70.7, 55.3,
+21.0; HRMS (ESI) m/z calcd for C16H17O2S2 [M + H]+ 305.0670,
+found 305.0668.
+Methyl Octanedithioate (2n): Yellow liquid (1.2 g, 95%); Rf 0.89
+(hexane); IR (neat, cm−1) 2922, 2853, 1457, 1197, 954, 890; 1H NMR
+(400 MHz, CDCl3) δ 3.04 (t, J = 7.6 Hz, 2H), 2.61 (s, 3H), 1.83
+(quint, J = 7.6 Hz, 2H), 1.37−1.28 (m, 8H), 0.88 (t, J = 6.8 Hz, 3H);
+13C NMR (100 MHz, CDCl3) δ 240.3, 52.1, 31.8, 31.5, 29.1, 28.9,
+22.7, 20.1, 14.2; HRMS (ESI) m/z calcd for C9H19S2 [M + H]+
+191.0928, found 191.0919.
+
+Procedure for the Synthesis of 2-(2-bromo-5-methoxy-
+phenyl)-3-mercapto-3-(4-methoxyphenyl)acrylonitrile (5a). A
+solution of 1a (226 mg, 1.0 mmol) in dry DMF (5 mL) was added to
+a stirred suspension of NaH (60% suspension in mineral oil) (80 mg,
+2.0 mmol) in DMF (5 mL) at 0 °C. After being further stirred for
+10 min, a solution of 4-methoxyphenyl dithioester (2a) was added
+at 0 °C. The reaction mixture was stirred for 1 h at room temperature
+(monitored by TLC). It was then diluted with saturated NH4Cl
+solution (25 mL) and extracted with EtOAc (3 × 25 mL), and the
+combined organic layer was washed with water (3 × 25 mL) and brine
+</para>
+2888
+
+DOI: 10.1021/acs.joc.5b00032
+J. Org. Chem. 2015, 80, 2884−2892
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(2 × 25 mL), dried (Na2SO4), and concentrated under reduced
+pressure. The crude products were puriﬁed by silica gel column
+chromatography using EtOAc/hexane as eluent to give pure 5a: brown
+semisolid (158 mg, 95%); Rf 0.2 (1:4 EtOAc/hexane); IR (neat, cm−1)
+2589, 2221, 1610, 1251, 841; 1H NMR (400 MHz, CDCl3) δ 7.65 (d,
+J = 8.8 Hz, 2H), 7.57 (d, J = 9.2 Hz, 1H), 7.53 (d, J = 9.2 Hz, 1H),
+6.98−6.95 (m, 3H), 3.81 (s, 3H), 3.80 (s, 3H), 3.79 (s, 1H); 13C NMR
+(100 MHz, CDCl3) δ 158.6, 135.4, 134.5, 129.9, 129.0, 119.8, 117.3,
+117.0, 116.5, 114.5, 114.2, 113.8, 104.9, 55.7, 55.5; HRMS (ESI) m/z
+calcd for C17H15BrNO2S [M + H]+ 376.0007 and 377.9986, found
+376.0010 and 377.9990.
+
+Procedure for Copper-Catalyzed Intramolecular Cyclization
+of Enethiol 5a to 5-Methoxy-2-(4-methoxyphenyl)benzo[b]-
+thiophene-3-carbonitrile (4a). To a stirred solution of enethiol
+5a (188 mg, 0.5 mmol) in DMF (5 mL) were added CuI (9 mg,
+0.05 mmol), L-proline (12 mg, 1.0 mmol), and NaH (60% suspension
+in mineral oil) (18 mg, 0.5 mmol), and the reaction mixture was
+heated at 90 °C with constant stirring for 3 h (monitored by TLC).
+It was then diluted with saturated NH4Cl solution (25 mL) and
+extracted with EtOAc (3 × 25 mL), and the combined organic layer
+was washed with water (3 × 25 mL) and brine (2 × 25 mL), dried
+(Na2SO4), and concentrated under reduced pressure. The crude
+products were puriﬁed by silica gel column chromatography using
+EtOAc/hexane as eluent to give pure 4a: oﬀ-white solid (117 mg,
+90%); mp 113−115 °C; Rf 0.6 (1:9 EtOAc/hexane); IR (neat, cm−1)
+2214, 1597, 1457, 1257, 1036, 823; 1H NMR (400 MHz, CDCl3) δ
+7.84 (d, J = 8.8 Hz, 2H), 7.66 (d, J = 8.8 Hz, 1H), 7.33 (d, J = 2.4 Hz,
+1H), 7.05 (dd, J = 8.8 Hz, 2.4 Hz, 1H), 7.02 (d, J = 8.8 Hz, 2H), 3.92
+(s, 3H), 3.88 (s, 3H); 13C NMR (100 MHz, CDCl3) δ 161.5, 158.9,
+156.2, 140.8, 129.7, 129.3, 124.3, 123.1, 116.7, 115.8, 114.8, 104.0,
+100.6, 55.8, 55.6; HRMS (ESI) m/z calcd for C17H14NO2S [M + H]+
+296.0745, found 296.0750.
+General Procedure for the Two-Step One-Pot Synthesis of
+Substituted Benzo[b]- and Hetero-Fused Thiophenes 4a−y. To
+a stirring suspension of NaH (60% suspension in mineral oil) (80 mg,
+2.0 mmol) in 2 mL of DMF at 0 °C was added dropwise the cor-
+responding 2-bromo(het)arylacetonitrile (1a−h) (1.0 mmol) in DMF
+(2 mL). After being further stirred for 10 min, a solution of either
+respective dithioester (2a−p) or thiocarbonyl compound (2q−v)
+(1.0 mmol) in DMF (2 mL) was added to the reaction mixture at
+0 °C, followed by further stirring for 1 h at ambient temperature.
+After complete consumption of the starting materials (monitored by
+TLC), CuI (2 mg, 0.1 mmol) and L-proline (2.5 mg, 0.25 mmol) were
+added and the reaction mixture was heated at 90 °C with continuous
+stirring (monitored by TLC). It was then diluted with saturated
+NH4Cl solution (25 mL) and extracted with EtOAc (3 × 25 mL), and
+the combined organic layer was washed with water (3 × 25 mL) and
+brine (2 × 25 mL), dried (Na2SO4), and concentrated under reduced
+pressure. The crude products were puriﬁed by silica gel column
+chromatography using EtOAc/hexane as eluent.
+
+5-Methoxy-2-(thiophen-2-yl)benzo[b]thiophene-3-carboni-
+trile (4b): Obtained from acetonitrile 1a and dithioester 2b, oﬀ-white
+solid (103 mg, 86%); mp 150−152 °C; Rf 0.7 (2:8 EtOAc/hexane); IR
+(neat, cm−1) 2212, 1601, 1456, 1211, 1028, 830; 1H NMR (400 MHz,
+CDCl3) δ 7.75 (dd, J = 3.6 Hz, 1.2 Hz, 1H), 7.64 (d, J = 8.8 Hz, 1H),
+7.50 (dd, J = 5.0 Hz, 1.2 Hz, 1H), 7.31 (d, J = 2.4 Hz, 1H), 7.17 (dd,
+J = 5.0 Hz, 3.6 Hz, 1H), 7.06 (dd, J = 8.8 Hz, 2.4 Hz, 1H), 3.92
+(s, 3H); 13C NMR (100 MHz, CDCl3) δ 159.2, 148.7, 140.4, 133.9,
+132.5, 132.4, 129.0, 128.8, 128.6, 128.5, 123.1, 117.1, 104.2, 55.9;
+HRMS (ESI) m/z calcd for C14H10NOS2 [M + H]+ 272.0204, found
+272.0198.
+
+2-(Benzo[d][1,3]dioxol-5-yl)-5,6-dimethoxybenzo[b]-
+thiophene-3-carbonitrile (4c): Obtained from acetonitrile 1b and
+dithioester 2c, oﬀ-white solid (96 mg, 73%); mp 188−190 °C; Rf 0.8
+(1:9 EtOAc/hexane); IR (neat, cm−1) 2217, 1480, 1257, 1207, 1030,
+796; 1H NMR (400 MHz, CDCl3) δ 7.35 (dd, J = 8.0 Hz, 2.0 Hz, 1H),
+7.31 (d, J = 2.0 Hz, 1H), 7.29 (s, 1H), 7.22 (s, 1H), 6.92 (d, J =
+8.0 Hz, 1H), 6.06 (s, 2H), 4.0 (s, 3H), 3.97 (s, 3H); 13C NMR
+(100 MHz, CDCl3) δ 152.7, 149.8, 149.6, 149.4, 148.6, 133.1, 129.9,
+125.9, 122.7, 115.8, 109.1, 108.3, 103.8, 103.5, 101.9, 101.0, 56.5, 56.4;
+</para>
+Note
+<para sub=“exp”>
+HRMS (ESI) m/z calcd for C18H13NNaO4S [M + Na]+ 362.0463,
+found 362.0449.
+
+6-Fluoro-2-(4-ﬂuorophenyl)benzo[b]thiophene-3-carboni-
+trile (4d): Obtained from acetonitrile 1c and dithioester 2d, white
+solid (96 mg, 76%); mp 140−142 °C; Rf 0.8 (2:8 EtOAc/hexane);
+IR (neat, cm−1) 2210, 1604, 1471, 1242, 834; 1H NMR (400 MHz,
+DMSO-d6) δ 7.91 (dd, J = 8.4 Hz, 5.2 Hz, 1H), 7.88−7.83 (m, 2H),
+7.55 (dd, J = 8.4 Hz, 2.0 Hz, 1H), 7.29 (td, J = 8.4 Hz, 2.0 Hz, 1H),
+7.25−7.20 (m, 2H); 13C NMR (100 MHz, CDCl3) δ 165.4, 162.9,
+162.7, 160.3, 153.68, 153.65, 138.4, 138.3, 135.6, 130.4, 130.3, 127.61,
+127.58, 124.1, 124.0, 116.9, 116.7, 115.7, 115.5, 114.9, 109.1, 108.8,
+102.0; HRMS (ESI) m/z calcd for C15H8F2NS [M + H]+ 272.0346,
+found 272.0351.
+
+2-(4-(Dimethylamino)phenyl)-6-ﬂuorobenzo[b]thiophene-3-
+carbonitrile (4e): Obtained from acetonitrile 1c and dithioester 2e,
+pale yellow solid (125 mg, 90%); mp 167−169 °C; Rf 0.6 (2:8 EtOAc/
+hexane); IR (neat, cm−1) 2212, 1609, 1467, 1202, 813; 1H NMR
+(400 MHz, CDCl3) δ 7.83−7.79 (m, 3H), 7.46 (dd, J = 8.4 Hz, 2.4 Hz,
+1H), 7.21 (td, J = 9.2 Hz, 2.4 Hz, 1H), 6.76 (d, J = 9.2 Hz, 2H),
+3.06 (s, 6H); 13C NMR (100 MHz, CDCl3) δ 162.2, 159.8, 156.22,
+156.19, 151.8, 137.5, 137.4, 136.2, 129.2, 123.2, 123.1, 118.9, 116.0,
+114.9, 114.7, 112.2, 108.8, 108.5, 98.1, 40.2; HRMS (ESI) m/z calcd
+for C17H14FN2S [M + H]+ 297.0862, found 297.0853.
+
+6-Fluoro-2-(2-methoxyphenyl)benzo[b]thiophene-3-car-
+bonitrile (4f): Obtained from acetonitrile 1c and dithioester 2f, white
+solid (94 mg, 71%); mp 110−112 °C; Rf 0.7 (2:8 EtOAc/hexane);
+IR (neat, cm−1) 2219, 1464, 1253, 1027, 746; 1H NMR (400 MHz,
+CDCl3) δ 7.90 (dd, J = 8.8 Hz, 4.8 Hz, 1H), 7.67 (dd, J = 7.6 Hz, 1.6
+Hz, 1H), 7.52 (dd, J = 8.8 Hz, 2.4 Hz, 1H), 7.49−7.44 (m, 1H), 7.25
+(td, J = 8.8 Hz, 2.4 Hz, 1H), 7.09 (td, J = 7.6 Hz, 1.6 Hz, 1H), 7.05
+(d, J = 8.0 Hz, 1H), 3.93 (s, 3H); 13C NMR (100 MHz, CDCl3) δ
+162.4, 160.0, 156.6, 151.2, 151.1, 139.5, 139.4, 134.9, 132.0, 131.2,
+123.8, 123.7, 121.2, 120.2, 115.1, 114.9, 114.8, 111.8, 108.6, 108.4,
+104.4, 55.7; HRMS (ESI) m/z calcd for C16H11FNOS [M + H]+
+284.0545, found 284.0535.
+
+2-(2-(4-Methoxybenzyloxy)phenyl)-5,6-dimethoxybenzo[b]-
+thiophene-3-carbonitrile (4h): Obtained from acetonitrile 1b and
+dithioester 2h, oﬀ-white solid (115 mg, 68%); mp 165−167 °C; Rf 0.6
+(1:1 EtOAc/hexane); IR (neat, cm−1) 2927, 2212, 1513, 1246, 1003,
+757; 1H NMR (400 MHz, CDCl3) δ 7.73 (dd, J = 7.2 Hz, 1.6 Hz, 1H),
+7.42−7.38 (m, 1H), 7.34 (d, J = 8.4 Hz, 2H), 7.32 (s, 1H), 7.22 (s,
+1H), 7.11−7.07 (m, 2H), 6.87 (d, J = 8.4 Hz, 2H), 5.13 (s, 2H), 4.00
+(s, 3H), 3.96 (s, 3H), 3.79 (s, 3H); 13C NMR (100 MHz, CDCl3)
+δ 159.5, 155.8, 149.44, 149.40, 149.1, 132.2, 131.6, 131.4, 131.3, 129.3,
+128.5, 121.4, 121.2, 115.8, 114.1, 113.4, 104.0, 103.5, 103.3, 70.8,
+56.41, 56.37, 55.4; HRMS (ESI) m/z calcd for C25H22NO4S [M + H]+
+432.1270, found 432.1258.
+
+Deprotection of 4h with TFA: Synthesis of 2-(2-Hydrox-
+yphenyl)-5,6-dimethoxybenzo[b]thiophene-3-carbonitrile
+(4g). 2-(2-(4-Methoxybenzyloxy)phenyl)-5,6-dimethoxybenzo[b]-
+thiophene-3-carbonitrile (4h) (100 mg, 0.2 mmol) was dissolved in
+triﬂuoroacetic acid (5 mL) and reﬂuxed for 5 h (monitored by TLC).
+Reaction mixture was poured in ice cold water and extracted with
+DCM (3 × 25 mL), and the combined organic layer was washed with
+water (3 × 25 mL) and brine (2 × 25 mL), dried (Na2SO4), and con-
+centrated under reduced pressure. The crude products were puriﬁed
+by silica gel column chromatography using EtOAc/hexane as eluent
+to give pure 4g: yellow solid (60 mg, 82%); mp 152−154 °C; Rf 0.2
+(8:2 EtOAc/hexane); IR (neat, cm−1) 3480−2740, 2219, 1609, 1467,
+1202, 813; 1H NMR (400 MHz, DMSO-d6) δ 9.07 (br s, 1H), 8.25 (s,
+1H), 7.75 (d, J = 4.8 Hz, 2H), 7.53−7.49 (m, 1H), 7.36−7.30 (m,
+2H), 3.88 (s, 3H), 3.87 (s, 3H); 13C NMR (100 MHz, DMSO-d6)
+δ 152.6, 150.5, 149.0, 148.6, 130.6, 130.3, 129.1, 125.0, 124.0, 123.7,
+119.4, 117.0, 115.6, 106.5, 104.9, 55.8, 55.5; HRMS (ESI) m/z calcd
+for C17H14NO3S [M + H]+ 312.0694, found 312.0690.
+
+2-Butyl-5-methoxybenzo[b]thiophene-3-carbonitrile (4i):
+Obtained from acetonitrile 1a and dithioester 2i, yellow liquid (81 mg,
+75%); Rf 0.5 (hexane); IR (neat, cm−1) 2927, 2218, 1601, 1459,
+1224, 835; 1H NMR (400 MHz, CDCl3) δ 7.62 (d, J = 9.2 Hz, 1H),
+7.26 (d, J = 2.4 Hz, 1H), 7.02 (dd, J = 9.2 Hz, 2.4 Hz, 1H), 3.90 (s, 3H),
+</para>
+2889
+
+DOI: 10.1021/acs.joc.5b00032
+J. Org. Chem. 2015, 80, 2884−2892
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+
+3.11 (t, J = 7.6 Hz, 2H), 1.78 (quint, J = 7.2 Hz, 2H), 1.45 (sext, J =
+7.2 Hz, 2H), 0.98 (t, J = 7.2 Hz, 3H); 13C NMR (100 MHz, DMSO-d6)
+δ 161.0, 158.8, 139.3, 129.6, 123.3, 116.2, 114.7, 104.3, 103.9, 55.8, 33.3,
+30.3, 22.3, 13.8; HRMS (ESI) m/z calcd for C14H16NOS [M + H]+
+246.0953, found 246.0948.
+
+2-(4-(Piperidin-1-yl)phenyl)thieno[2,3-b]thiophene-3-car-
+bonitrile (4j): Obtained from acetonitrile 1d and dithioester 2j,
+brown solid (120 mg, 75%); mp 108−110 °C; Rf 0.6 (3:7 EtOAc/
+hexane); IR (neat, cm−1) 2932, 2217, 1599, 1235, 764; 1H NMR
+(400 MHz, CDCl3) δ 7.69 (d, J = 9.2 Hz, 2H), 7.44 (d, J = 5.2 Hz,
+1H), 7.32 (d, J = 5.2 Hz, 1H), 6.96 (d, J = 9.2 Hz, 2H), 3.30 (t, J =
+5.6 Hz, 4H), 1.72−1.68 (m, 4H), 1.66 (1.62 (m, 2H); 13C NMR
+(100 MHz, CDCl3) δ 158.5, 152.7, 146.6, 133.8, 129.3, 128.8, 121.5,
+119.2, 116.1, 115.4, 96.8, 49.3, 25.6, 24.5; HRMS (ESI) m/z calcd for
+C18H17N2S2 [M + H]+ 325.0833, found 325.0828.
+2-(5-(Dimethylamino)thiophen-2-yl)-8-methyl-8H-thieno-
+[2,3-b]indole-3-carbonitrile (4k): Obtained from acetonitrile 1e
+and dithioester 2k, orange solid (110 mg, 80%); mp 154−156 °C;
+Rf 0.3 (1:1 EtOAc/hexane); IR (neat, cm−1) 2196, 1549, 1492, 1408,
+1055, 735; 1H NMR (400 MHz, DMSO-d6) δ 7.77 (d, J = 8.0 Hz,
+1H), 7.60 (d, J = 8.4 Hz, 1H), 7.33 (td, J = 8.0 Hz, 1.0 Hz, 1H), 7.29
+(d, J = 4.4 Hz, 1H), 7.22 (td, J = 8.0 Hz, 1.0 Hz, 1H), 5.98 (d, J =
+4.4 Hz, 1H), 3.86 (s, 3H), 2.97 (s, 6H); 13C NMR (100 MHz,
+DMSO-d6) δ 160.1, 141.4, 140.8, 138.2, 127.7, 122.8, 120.0, 119.8,
+119.6, 117.5, 116.3, 116.2, 110.4, 102.5, 90.8; HRMS (ESI) m/z calcd
+for C18H16N3S2 [M + H]+ 338.0786, found 338.0782.
+
+8-Methyl-2-(1-methyl-1H-pyrrol-2-yl)-8H-thieno[2,3-b]-
+indole-3-carbonitrile (4l): Obtained from acetonitrile 1e and
+dithioester 2l, oﬀ-white solid (98 mg, 84%); mp 191−193 °C; Rf 0.5
+(6:4 EtOAc/hexane); IR (neat, cm−1) 2214, 1489, 1302, 1054, 749;
+1H NMR (400 MHz, CDCl3) δ 8.07 (d, J = 8.0 Hz, 1H), 7.40−7.39
+(m, 2H), 7.31−7.27 (m, 1H), 6.83 (dd, J = 2.4 Hz, 1.6 Hz, 1H), 6.55
+(dd, J = 3.6 Hz, 1.6 Hz, 1H), 6.26 (dd, J = 3.6 Hz, 2.4 Hz, 1H), 3.88
+(s, 3H), 3.79 (s, 3H); 13C NMR (100 MHz, CDCl3) δ 142.1, 141.9,
+135.8, 125.9, 124.0, 123.6, 121.5, 120.8, 120.5, 119.4, 115.8, 113.5,
+109.5, 108.9, 100.4, 35.3, 32.5; HRMS (ESI) m/z calcd for C17H14N3S
+[M + H]+ 292.0908, found 292.0897.
+
+5-(1-Methyl-1H-imidazol-2-yl)-1,3-diphenyl-1H-thieno[3,2-
+c]pyrazole-6-carbonitrile (4m): Obtained from acetonitrile 1f and
+dithioester 2m, oﬀ-white solid (98 mg, 87%); mp 259−261 °C; Rf 0.6
+(4:6 EtOAc/hexane); IR (neat, cm−1) 2223, 1518, 1498, 1277, 909,
+758; 1H NMR (400 MHz, CDCl3) δ 7.96−7.94 (m, 2H), 7.79−7.77
+(m, 2H), 7.59 (t, J = 8.0 Hz, 2H), 7.54−7.41 (m, 4H), 7.29 (s, 1H),
+7.15 (s, 1H), 3.93 (s, 3H); 13C NMR (100 MHz, CDCl3) δ 149.1,
+144.2, 143.9, 138.6, 131.1, 131.0, 129.5, 129.2, 129.1, 128.7, 126.2,
+124.1, 120.5, 113.2, 94.2, 35.2; HRMS (ESI) m/z calcd for C22H16N5S
+[M + H]+ 382.1126, found 382.1121.
+
+2-Heptylthieno[2,3-b]thiophene-3-carbonitrile (4n): Ob-
+tained from acetonitrile 1e and dithioester 2n, pale yellow liquid
+(91 mg, 70%); Rf 0.9 (hexane); IR (neat, cm−1) 2205, 1612, 1460,
+1201, 840; 1H NMR (400 MHz, CDCl3) δ 7.43 (d, J = 5.2 Hz, 1H),
+7.27 (d, J = 5.2 Hz, 1H), 3.07 (t, J = 7.6 Hz, 2H), 1.77 (p, J = 7.6 Hz,
+2H), 1.42−1.26 (m, 8H), 0.89 (t, J = 7.2 Hz, 3H); 13C NMR
+(100 MHz, DMSO-d6) δ 161.6, 144.9, 134.5, 129.5, 118.8, 114.6,
+101.4, 31.8, 31.6, 30.9, 29.05, 29.01, 22.7, 14.2; HRMS (ESI) m/z
+calcd for C14H18NS2 [M + H]+ 264.0881, found 264.0867.
+
+2-(1-Methyl-1H-indol-3-yl)thieno[2,3-b]pyridine-3-carboni-
+trile (4o): Obtained from acetonitrile 1g and dithioester 2o, brown
+solid (132 mg, 90%); mp 180−182 °C; Rf 0.3 (1:1 EtOAc/hexane); IR
+(neat, cm−1) 2204, 1524, 1378, 1233, 750; 1H NMR (400 MHz,
+DMSO-d6) δ 8.63 (dd, J = 4.8 Hz, 1.6 Hz, 1H), 8.31 (s, 1H), 8.21 (dd,
+J = 8.0 Hz, 1.6 Hz, 1H), 8.03−8.01 (m, 1H), 7.66−7.64 (m, 1H), 7.61
+(dd, J = 8.0 Hz, 4.8 Hz, 1H), 7.38 (td, J = 8.0 Hz, 1.6 Hz, 1H), 7.32
+(td, J = 6.8 Hz, 1.2 Hz, 1H), 3.96 (s, 3H); 13C NMR (100 MHz,
+DMSO-d6) δ 157.0, 149.5, 147.2, 137.0, 131.8, 131.4, 128.8, 124.7,
+123.1, 121.6, 119.4, 115.1, 111.2, 105.8, 94.7, 33.2; HRMS (ESI) m/z
+calcd for C17H12N3S [M + H]+ 290.0752, found 290.0750.
+
+2-(Pyridin-3-yl)thieno[2,3-b]pyridine-3-carbonitrile (4p): Ob-
+tained from acetonitrile 1g and dithioester 1g, gray solid (97 mg,
+81%); mp 182−184 °C; Rf 0.32 (4:6 EtOAc/hexane); IR (neat, cm−1)
+
+2218, 1533, 1385, 1267, 798, 746; 1H NMR (400 MHz, CDCl3) δ 9.12
+(br s, 1H), 8.80 (br s, 1H), 8.70 (dd, J = 4.8 Hz, 1.6 Hz, 1H), 8.26 (dd,
+J = 8.0 Hz, 1.6 Hz, 2H), 7.52 (dd, J = 8.0 Hz, 4.8 Hz, 2H); 13C NMR
+(100 MHz, DMSO-d6) δ 158.3, 151.8, 151.0, 149.1, 148.4, 136.0,
+131.9, 130.8, 122.1, 113.7, 101.1; HRMS (ESI) m/z calcd for
+C13H8N3S [M + H]+ 238.0439, found 238.0439.
+
+2-(2-(4-Methoxyphenethyl)phenyl)thieno[2,3-b]pyridine-3-
+carbonitrile (4q): Obtained from acetonitrile 1g and dithioester 2h,
+pale brown solid (128 mg, 68%); mp 112−114 °C; Rf 0.4 (1:1 EtOAc/
+hexane); IR (neat, cm−1) 2219, 1514, 1242, 984, 748; 1H NMR
+(400 MHz, CDCl3) δ 8.63 (dd, J = 4.4 Hz, 1.6 Hz, 1H), 8.20 (dd, J =
+8.0 Hz, 1.6 Hz, 1H), 7.76 (dd, J = 8.0 Hz, 1.6 Hz, 1H), 7.50−7.45 (m,
+1H), 7.44 (dd, J = 8.0 Hz, 4.45 Hz, 1H), 7.35 (d, J = 8.8 Hz, 2H), 7.14
+(d, J = 8.0 Hz, 2H), 6.87 (d, J = 8.8 Hz, 2H), 5.15 (s, 2H), 3.79 (s,
+3H); 13C NMR (100 MHz, DMSO-d6) δ 160.1, 160.0, 156.0, 152.2,
+148.0, 132.4, 132.1, 131.4, 130.0, 129.5, 128.1, 121.5, 120.8, 114.6,
+114.2, 113.4, 102.2, 71.0, 55.4; HRMS (ESI) m/z calcd for
+C22H17N2O2S [M + H]+ 373.1011, found 373.0985.
+
+2-(2-Hydroxyphenyl)thieno[2,3-b]pyridine-3-carbonitrile
+(4r): Obtained from benzothiophene 4q by treatment with TFA as for
+4g, brown solid (55 mg, 79%); mp 265−267 °C; Rf 0.2 (9:1 EtOAc/
+hexane); IR (neat, cm−1) 3490−2850, 2212, 1609, 1459, 1241, 831;
+1H NMR (400 MHz, DMSO-d6) δ 8.77 (dd, J = 8.0 Hz, 1.6 Hz, 1H),
+8.74 (d, J = 3.6 Hz, 1H), 8.03 (d, J = 8.0 Hz, 1H), 7.73 (t, J = 7.2 Hz,
+1H), 7.69 (dd, J = 8.0 Hz, 4.8 Hz, 1H), 7.60 (d, J = 8.4 Hz, 1H),
+7.50 (t, J = 7.2 Hz, 1H), ; 13C NMR (100 MHz, DMSO-d6) δ 159.3,
+155.5, 151.3, 150.0, 148.5, 132.5, 131.7, 129.5, 125.2, 125.0, 121.8,
+117.2, 116.1, 115.9; HRMS (ESI) m/z calcd for C14H9N2OS [M + H]+
+253.0436, found 253.0447.
+
+2-(Methylthio)benzo[b]thiophene-3-carbonitrile (4s): Ob-
+tained from acetonitrile 1h and trithiocarbonate 2q, oﬀ-white solid
+(92 mg, 88%); mp 73−75 °C; Rf 0.7 (1:9 EtOAc/hexane); IR (neat,
+cm−1) 2922, 2852, 2210, 1420, 744; 1H NMR (400 MHz, CDCl3) δ
+7.79 (d, J = 8.0 Hz, 1H), 7.74 (d, J = 8.0 Hz, 1H), 7.46 (td, J = 7.2 Hz,
+1.2 Hz, 1H), 7.40−7.36 (m, 1H), 2.73 (s, 3H); 13C NMR (100 MHz,
+DMSO-d6) δ 154.5, 138.5, 137.8, 126.3, 125.5, 122.0, 121.6, 113.8,
+105.2, 19.1; HRMS (ESI) m/z calcd for C10H8NS2 [M + H]+
+206.0098, found 206.0084.
+
+2-(n-Butoxy)-5-methoxybenzo[b]thiophene-3-carbonitrile
+(4t): Obtained from acetonitrile 1a and xanthate 2r, white waxy solid
+(133 mg, 93%); Rf 0.8 (2:8 EtOAc/hexane); IR (neat, cm−1) 2921,
+2932, 2213, 1539, 1464, 1278, 1034; 1H NMR (400 MHz, CDCl3) δ
+7.47 (d, J = 8.8 Hz, 1H), 7.13 (d, J = 2.4 Hz, 1H), 6.90 (dd, J = 8.8 Hz,
+1H), 4.31 (t, J = 6.8 Hz, 2H), 3.86 (s, 3H), 1.87 (quint, J = 6.4 Hz,
+2H), 1.53 (sext, J = 7.2 Hz, 2H), 1.00 (t, J = 7.6 Hz, 3H); 13C NMR
+(100 MHz, CDCl3) δ 175.2, 159.1, 136.9, 123.3, 120.7, 114.3, 113.9,
+103.8, 86.2, 76.0, 55.7, 31.2, 19.0, 13.8; HRMS (ESI) m/z calcd for
+C14H16NO2S [M + H]+ 262.0902, found 262.0913.
+
+6-Fluoro-2-(octyloxy)benzo[b]thiophene-3-carbonitrile (4u):
+Obtained from acetonitrile 1c and xanthate 2s, white solid (128 mg,
+90%); Rf 0.8 (2:8 EtOAc/hexane); IR (neat, cm−1) 2925, 2215, 1542,
+1470, 1238, 818; 1H NMR (400 MHz, CDCl3) δ 7.63 (dd, J = 8.8 Hz,
+4.8 Hz 1H), 7.35 (dd, J = 4.8 Hz, 2.4 Hz, 1H), 7.18 (td, J = 8.8 Hz,
+2.4 Hz, 1H), 4.34 (t, J = 6.8 Hz, 2H), 1.90 (p, J = 6.8 Hz, 2H), 1.49
+(p, J = 7.6 Hz, 2H), 1.33−1.29 (m, 8H), 0.89 (t, J = 6.8 Hz, 3H);
+13C NMR (100 MHz, CDCl3) δ 173.5, 173.5, 161.5, 159.0, 131.87,
+131.85, 129.9, 129.8, 122.3, 122.2, 115.1, 114.9, 113.5, 109.3, 109.0,
+85.7, 76.59, 31.8, 29.24, 29.21, 25.7, 22.7, 14.2; HRMS (ESI) m/z
+calcd for C17H21FNOS [M + H]+ 306.1328, found 306.1330.
+
+2-(1H-Imidazol-1-yl)thieno[2,3-b]thiophene-3-carbonitrile
+(4v): Obtained from acetonitrile 1e and carbamate 2t, brown solid
+(96 mg, 84%); mp 110−112 °C; Rf 0.8 (3:7 EtOAc/hexane); IR (neat,
+cm−1) 2218, 1543, 1308, 1079, 749; 1H NMR (400 MHz, CDCl3) δ
+8.24 (br s, 1H), 7.88 (d, J = 5.2 Hz, 1H), 7.75 (br s, 1H), 7.48 (d, J =
+5.2 Hz, 1H), 7.24 (br s, 1H) ; 13C NMR (100 MHz, CDCl3) δ 149.2,
+140.9, 140.0, 132.9, 132.3, 122.1, 118.6, 116.7, 113.0, 96.1; HRMS
+(ESI) m/z calcd for C10H6N3S2 [M + H]+ 232.0003, found 231.9997.
+2-(3,4-Dimethoxyphenethylamino)-6-ﬂuorobenzo[b]-
+thiophene-3-carbonitrile (4w): Obtained from acetonitrile 1b and
+carbamate 2v, oﬀ-white solid (140 mg, 84%); mp 161−163 °C;
+</para>
+2890
+
+DOI: 10.1021/acs.joc.5b00032
+J. Org. Chem. 2015, 80, 2884−2892
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+Rf 0.3 (3:7 EtOAc/hexane); IR (neat, cm−1) 3309, 2202, 1560, 1468,
+1259, 1235, 810; 1H NMR (400 MHz, DMSO-d6) δ 8.39 (t, J =
+5.6 Hz, 1H), 7.70 (dd, J = 8.8 Hz, 2.4 Hz, 1H), 7.31 (dd, J = 7.2 Hz,
+5.2 Hz, 1H), 7.20 (td, J = 8.8 Hz, 2.4 Hz, 1H), 6.91 (d, J = 1.6 Hz,
+1H), 6.89 (d, J = 8.0 Hz, 1H), 6.80 (dd, J = 8.0 Hz, 1.6 Hz, 1H), 3.76
+(s, 3H), 3.73 (s, 3H), 3.57 (q, J = 6.4 Hz, 2H), 2.89 (t, J = 6.4 Hz,
+2H); 13C NMR (100 MHz, CDCl3) δ 164.5, 160.5, 158.1, 149.5,
+148.4, 134.00, 133.99, 130.0, 129.4, 129.3, 126.8, 120.9, 120.3, 120.2,
+115.6, 114.6, 114.3, 112.1, 111.9, 109.0, 109.7, 56.1, 49.2, 35.5; HRMS
+(ESI) m/z calcd for C19H18FN2O2S [M + H]+ 357.1073,
+found
+357.1059.
+
+5-Methoxy-2-(phenylamino)benzo[b]thiophene-3-carboni-
+trile (4x): Obtained from acetonitrile 1a and isothiocyanate 2u, pale
+orange solid (100 mg, 80%); mp 181−183 °C; Rf 0.5 (3:7 EtOAc/
+hexane); IR (neat, cm−1) 3251, 2198, 1545, 1451, 1293, 758; 1H NMR
+(400 MHz, CDCl3) δ 7.43−7.39 (m, 3H), 7.35−7.33 (m, 2H), 7.27
+(br s, 1H), 7.22−7.18 (m, 1H), 7.08 (d, J = 2.4 Hz, 1H), 6.84 (dd, J =
+4.8 Hz, 2.4 Hz, 1H), 3.88 (s, 3H); 13C NMR (100 MHz, CDCl3)
+δ 161.6, 159.1, 140.1, 137.9, 129.9, 125.1, 122.8, 120.9, 120.2, 115.5,
+113.1, 103.1, 84.0, 55.8; HRMS (ESI) m/z calcd for C16H13N2OS
+[M + H]+ 281.0749, found 281.0745.
+
+8-Methyl-2-(phenylamino)-8H-thieno[2,3-b]indole-3-car-
+bonitrile (4y): Obtained from acetonitrile 1e and isothiocyanate 2u,
+brown solid (95 mg, 78%); mp 193−195 °C; Rf 0.4 (1:1 EtOAc/
+hexane); IR (neat, cm−1) 3361, 2224, 1600, 1497, 1276, 745; 1H NMR
+(400 MHz, DMSO-d6) δ 9.28 (s, 1H), 7.76 (d, J = 8.0 Hz, 1H),
+7.61 (d, J = 8.0 Hz, 1H), 7.34−7.27 (m, 3H), 7.24−7.20 (m, 1H),
+7.10−7.08 (m, 2H), 6.31 (t, J = 8.0 Hz, 1H), 3.86 (s, 3H); 13C NMR
+(100 MHz, CDCl3) δ 149.6, 143.7, 141.1, 135.3, 129.7, 122.9, 122.2,
+121.0, 120.3, 119.2, 116.3, 116.1, 115.0, 109.5, 92.8, 32.4; HRMS
+(ESI) m/z calcd for C18H14N3S [M + H]+ 304.0908, found 304.0902.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Thirty ﬁgures showing scanned copies of 1H NMR and 13C
+NMR spectra for compounds 2f−h, 2n, 5a, and 4a−y. This
+material is available free of charge via the Internet at http://
+pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: hila@jncasr.ac.in.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We thank Professor C.N.R. Rao, FRS, for encouragement and
+support of our research; JNCASR, and the Council of Scientiﬁc
+and Industrial Research (CSIR, New Delhi) for ﬁnancial
+assistance; and CSIR−SRF (to A.A., B.S., and S.V.K.) and
+Indian National Science Academy, New Delhi, for INSA Senior
+Scientist position (to H.I.).
+
+■ DEDICATION
+This paper is dedicated to Dr. Nitya Anand on his 90th birthday.
+■ REFERENCES
+
+(1) (a) Singh, P. P.; Yadav, A. K.; Ila, H.; Junjappa, H. J. Org. Chem.
+2009, 74, 5496 and references cited therein. (b) Gabriele, B.;
+Mancuso, R.; Lupinacci, E.; Veltri, L.; Salerno, G.; Carfagna, C. J. Org.
+Chem. 2011, 76, 8277 and references cited therein.
+(2) (a) Hsiao, C.-N.; Kolasa, T. Tetrahedron Lett. 1992, 33, 2629.
+(b) Rossi, A.; Pergola, C.; Koeberle, A.; Hoffmann, M.; Dehm, F.;
+Bramanti, P.; Cuzzocrea, S.; Werz, O.; Sautebin, L. Br. J. Pharmacol.
+2010, 161, 555.
+
+Note
+
+J. Comb. Chem. 2006, 8, 163.
+
+(3) (a) Qin, Z.; Kastrati, I.; Chandrasena, R. E. P.; Liu, H.; Yao, P.;
+Petukhov, P. A.; Bolton, J. L.; Thatcher, G. R. J. J. Med. Chem. 2007,
+50, 2682. (b) Schopfer, U.; Schoeffter, P.; Bischoff, S. F.; Nozulak, J.;
+Feuerbach, D.; Floersheim, P. J. Med. Chem. 2002, 45, 1399.
+(4) (a) Liu, H.; Liu, J.; van Breeman, R. B.; Thatcher, G. R. J.; Bolton,
+J. L. Chem. Res. Toxicol. 2005, 18, 162. (b) Flynn, B. L.; Hamel, E.;
+Jung, M. K. J. Med. Chem. 2002, 45, 2670.
+(5) (a) Ohshita, J.; Lee, K.-H.; Kimura, K.; Kunai, A. Organometallics
+2004, 23, 5622. (b) Ebata, H.; Miyazaki, E.; Yamamoto, T.; Takimiya,
+K. Org. Lett. 2007, 9, 4499. (c) Hari, D. P.; Hering, T.; Konig, B. Org.
+Lett. 2012, 14, 5334 and references cited therein. (d) Ota, S.; Minami,
+S.; Hirano, K.; Satoh, T.; Le, Y.; Seki, S.; Aso, Y.; Miura, M. RSC Adv.
+2013, 3, 12356 and references cited therein. (e) Mori, T.; Nishimura,
+T.; Yamamoto, T.; Doi, I.; Miyazaki, E.; Osaka, I.; Takimiya, K. J. Am.
+Chem. Soc. 2013, 135, 13900 and references cited therein. (f) Ruzie,
+C.; Karpinska, J.; Kennedy, A. R.; Geerts, Y. H. J. Org. Chem. 2013, 78,
+7741.
+(6) Reviews: (a) Godoi, B.; Schumacher, R. F.; Zeni, G. Chem. Rev.
+2011, 111, 2937. (b) Alberico, D.; Scott, M. E.; Lautens, M. Chem. Rev.
+2007, 107, 174. For selected examples, see: (c) Wang, Z.; Geng, W.;
+Wang, H.; Zhang, S.; Zhang, W.-X.; Xi, Z. Tetrahedron Lett. 2011, 52,
+6997 and references cited therein.
+(7) (a) Flynn, B. L.; Verdier-Pinard, P.; Hamel, E. Org. Lett. 2001, 3,
+651. (b) Hessian, K. O.; Flynn, B. L. Org. Lett. 2003, 5, 4377. (c) Bui,
+C. T.; Flynn, B. L.
+See also:
+(d) Danilkina, N. A.; Kulyashova, A. E.; Khlebnikova, A. E.; Brase, S.;
+Balova, I. A. J. Org. Chem. 2014, 79, 9018. (e) Sheng, J.; Fan, C.; Wu, J.
+Chem. Commun. 2014, 50, 5494.
+(8) (a) Yue, D.; Larock, R. C. J. Org. Chem. 2002, 67, 1905.
+(b) Mehta, S.; Larock, R. C. J. Org. Chem. 2010, 75, 1652.
+(9) Sanz, R.; Guilarte, V.; Hernando, E.; Sanjuan, A. M. J. Org. Chem.
+2010, 75, 7443.
+(10) (a) Lu, W.-D.; Wu, M.-J. Tetrahedron 2007, 63, 356.
+(b) Nakamura, I.; Sato, T.; Yamamoto, Y. Angew. Chem., Int. Ed.
+2006, 45, 4473. (c) Nakamura, I.; Sato, T.; Terada, M.; Yamamoto, Y.
+Org. Lett. 2008, 10, 2649. (d) Newman, S. G.; Aureggi, V.; Bryan, C.
+S.; Lautens, M. Chem. Commun. 2009, 5236. (e) Bryan, C. S.;
+Braunger, J. A.; Lautens, M. Angew. Chem., Int. Ed. 2009, 48, 7064.
+(f) Zhou, W.; Chen, W.; Wang, L. Org. Biomol. Chem. 2012, 10, 4172.
+(g) Zeng, F.; Alper, H. Org. Lett. 2011, 13, 2868.
+(11) (a) Li, C.-L.; Zhang, X.-G.; Tang, R.-Y.; Zhong, P.; Li, J.-H. J.
+Org. Chem. 2010, 75, 7037. (b) Sun, L.-L.; Deng, C.-L.; Tang, R.-Y.;
+Zhang, X.-G. J. Org. Chem. 2011, 76, 7546. (c) Guilarte, V.; Fernandez-
+Rodriguez, M. A.; Garcia-Garcia, P.; Hernando, E.; Sanz, R. Org. Lett.
+2011, 13, 5100. (d) Prasad, D. J. C.; Sekar, G. Org. Biomol. Chem.
+2013, 11, 1659. See also: (e) Shinamura, S.; Osaka, I.; Miyazaki, E.;
+Nakao, A.; Yamagishi, M.; Takeya, J.; Takimiya, K. J. Am. Chem. Soc.
+2011, 133, 5024 and references cited therein.
+(12) For other recent synthesis, see: (a) Kunz, T.; Knochel, P. Angew.
+Chem., Int. Ed. 2012, 51, 1958. (b) Duan, Z.; Ranjit, S.; Liu, X. Org.
+Lett. 2010, 12, 2430. (c) Liu, K.; Jia, F.; Xi, H.; Li, Y.; Zheng, X.; Guo,
+Q.; Shen, B.; Li, Z. Org. Lett. 2013, 15, 2026. (d) Yang, D.; Yan, K.;
+Wei, W.; Tian, L.; Li, Q.; You, J.; Wang, H. RSC Adv. 2014, 4, 48547.
+(e) Kinfe, H. H.; Makolo, F. L.; Adokoh, C. K. J. Org. Chem. 2014, 79,
+7718. (f) Reddy, C. R.; Dilipkumar, U.; Reddy, M. D. Org. Lett. 2014,
+16, 3792.
+(13) (a) Campaigne, E.; Cline, R. E. J. Org. Chem. 1956, 21, 39.
+(b) Campaigne, E.; Kreighbaum, W. E. J. Org. Chem. 1961, 26, 1326.
+(14) (a) Chakrabarti, P. M.; Chapman, N. B.; Clarke, K. Tetrahedron
+1969, 25, 2781. (b) Chakrabarti, P. M.; Chapman, N. B. J. Chem. Soc.
+C 1970, 914.
+(15) Allen, D.; Callaghan, O.; Cordier, F. L.; Dobson, D. R.; Harris, J.
+R.; Hotten, T. M.; Owton, W. M.; Rathmell, R. E.; Wood, V. A.
+Tetrahedron Lett. 2004, 45, 9645.
+(16) (a) Willis, M. C.; Taylor, D.; Gillmore, A. T. Tetrahedron 2006,
+62, 11513. See also: (b) Yoshida, S.; Yorimitsu, H.; Oshima, K. Org.
+Lett. 2007, 9, 5573.
+(17) Inamoto, K.; Arai, Y.; Hiroya, K.; Doi, T. Chem. Commun. 2008,
+5529.
+
+2891
+
+DOI: 10.1021/acs.joc.5b00032
+J. Org. Chem. 2015, 80, 2884−2892
+
+Note
+
+The Journal of Organic Chemistry
+
+Ila, H. Eur.
+
+(18) Review: (a) Ila, H.; Junjappa, H. Chimia 2013, 67, 17. Recent
+papers: (b) Acharya, A.; Vijay Kumar, S.; Saraiah, B.; Ila, H. J. Org.
+Chem. 2015, 80, 414. (c) Vijay Kumar, S.; Saraiah, B.;
+Parameshwarappa, G.; Ila, H.; Verma, G. K. J. Org. Chem. 2014, 79,
+7961. (d) Raghava, B.; Parameshwarappa, G.; Acharya, A.; Swaroop, T.
+J. Org. Chem. 2014, 1882.
+R.; Rangappa, K. S.;
+(e) Yugandar, S.; Acharya, A.; Ila, H. J. Org. Chem. 2013, 78, 4960.
+(f) Yugandar, S.; Misra, N. C.; Parameshwarappa, G.; Panda, K.; Ila, H.
+Org. Lett. 2013, 15, 5250. (g) Vijay Kumar, S.; Parameshwarappa, G.;
+Ila, H. J. Org. Chem. 2013, 78, 7362. (h) Vijay Kumar, S.; Yadav, S. K.;
+Raghava, B.; Saraiah, B.; Ila, H.; Rangappa, K. S.; Hazra, A. J. Org.
+Chem. 2013, 78, 4960. (i) Vijay Kumar, S.; Saraiah, B.; Misra, N. C.;
+Ila, H. J. Org. Chem. 2012, 77, 10752.
+(19) Singh, P. P.; Yadav, A. K.; Ila, H.; Junjappa, H. Eur. J. Org. Chem.
+2010, 338.
+(20) Rudorf, W.-D.; Schierhorn, A.; Augustin, M. J. Prakt. Chem.
+1979, 321, 1021.
+(21) (a) Ramadas, S. R.; Srinivasan, P. S.; Ramachandran, J.; Sastry,
+V. V. S. K. Synthesis 1983, 605. (b) Singh, G.; Bhattacharjee, S. S.; Ila,
+H.; Junjappa, H. Synthesis 1982, 693. (c) Furniss, B. S.; Hannaford, A.
+J.; Smith, P. W. G.; Tatchell, A. R. In Vogel’s Textbook of Practical
+Organic Chemistry; Vogel, A. I., Ed.; Wiley: New York, 1989; Chapter
+5, pp 792−794. (d) Mohanta, P. K.; Dhar, S.; Samal, S. K.; Ila, H.;
+Junjappa, H. Tetrahedron 2000, 56, 629. (e) Hodgkins, J. E.; Reeves,
+W. B. J. Org. Chem. 1964, 29, 3098.
+
+2892
+
+DOI: 10.1021/acs.joc.5b00032
+J. Org. Chem. 2015, 80, 2884−2892
+
+

@@ -1,0 +1,5 @@
+/scratch2/sophiat/chem-ie-TJS_omrPY/omrPY/im_smiles/src/model/attention.py:35: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return F.softmax(attn_energies).unsqueeze(1) # normalize with softmax
+/scratch2/sophiat/chem-ie-TJS_omrPY/omrPY/im_smiles/src/model/attention.py:35: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return F.softmax(attn_energies).unsqueeze(1) # normalize with softmax
+python: can't open file 'preprocess_filter.py': [Errno 2] No such file or directory

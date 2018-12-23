@@ -1,0 +1,809 @@
+Note
+
+pubs.acs.org/joc
+
+†
+
+Zhi-Hao Zhou,
+
+Adedamola Shoberu,
+
+†
+
+Xiangqiang Pan,*,†
+
+Air Oxidative Radical Hydroxysulfurization of Styrenes Leading to
+β‑Hydroxysulﬁdes
+Shao-Fang Zhou,
+†
+Key Laboratory of Organic Synthesis of Jiangsu Province, College of Chemistry and Chemical Engineering, Soochow University, 199
+Renai Street, Suzhou, Jiangsu 215123, China
+‡
+Key Laboratory of Synthetic Chemistry of Natural Substances, Shanghai Institute of Organic Chemistry, Chinese Academy of
+Sciences, Shanghai 200032, China
+*S Supporting Information
+
+and Jian-Ping Zou*,†,‡
+
+†
+
+ABSTRACT: Air oxidative radical hydroxysulfurization of styrenes initiated by 0.5 mol
+% of
+tert-butyl hydroperoxide with arylthiols is described, and a new type of
+difunctionalization of alkenes was achieved.
+
+D ifunctionalization has become a powerful tool in modern
+
+synthetic chemistry.1 The radical difunctionalization
+reaction has attracted more attention in recent years because
+of its mild conditions, high selectivity, and convenient workup.2
+Thiol−oxygen co-oxidation (TOCO) of oleﬁns ﬁrst reported
+by Kharasch in 19513 is a well-known difunctionalization
+reaction, usually initiated by UV irradiation or excess peroxides.
+It has been widely applied to the synthesis of TOCO products
+such as β-hydroperoxysulﬁdes and β-hydroxysulfoxides but not
+β-hydroxysulﬁdes unless a reductant is added to the resultant
+compound in situ (Scheme 1a).4 Hence, it is still a challenge to
+prepare β-hydroxysulﬁdes directly by the TOCO reaction.
+
+Scheme 1. Protocols for the Synthesis of β-Hydroxysulﬁdes
+
+β-Hydroxysulﬁdes are important starting materials for the
+synthesis of higher functionalized organic molecules,5 pharma-
+ceuticals,6 and natural products.7 One of the most straightfor-
+ward synthetic route to β-hydroxysulﬁdes is the reaction of
+epoxides, commonly derived from alkenes, with thiols in the
+presence of promoters and/or catalysts (Scheme 1b).5,8 These
+methods are useful but suﬀer from some drawbacks, such as
+drastic reaction conditions, poor regioselectivity, lower yields,
+and undesirable byproducts.9 Recently, methods for synthesiz-
+ing β-hydroxysulﬁdes via the reaction of alkenes with thiols
+were developed by the groups of Rao and Kamal, and these
+
+reactions were conducted in β-cyclodextrin/H2O10 or ionic
+liquid [bmim][BF4]/H2O11 medium through a nonradical
+process (Scheme 1c,d). Yadav et al. performed the same
+reaction utilizing eosin Y as an organo-photo-redox catalyst in
+the visible light region to aﬀord the exclusive β-ketosulfoxides.
+The experiment conﬁrmed that the reaction proceeds via a
+radical pathway.12 To the best of our knowledge, no work on
+the direct one-pot synthesis of β-hydroxysulﬁdes via the TOCO
+reaction has been reported. In continuation of our eﬀort on the
+difunctionalization of alkenes,13 herein, we report a new radical
+hydroxysulfurization of styrenes for the direct synthesis of β-
+hydroxysulﬁdes based on the reaction of alkenes and arylthiols
+initiated by 0.5 mol % of tert-butyl hydroperoxide (TBHP)
+(Scheme 1e).
+<para sub=“opt”>
+At the initial stage, the reaction of styrene 1a with thiophenol
+2a in the presence of 0.5 mol % of TBHP was used as a model
+reaction. Solvent screening indicated that
+the reaction in
+dimethylformamide (DMF) aﬀorded β-hydroxysulﬁde 3a as a
+major product in 70% yield, accompanied by byproducts β-
+oxosulﬁde 4a, benzaldehyde, and diphenyldisulﬁde (Table 1,
+entry 5). Thus, using DMF as solvent, the ratio of 1a/2a,
+TBHP loading, temperature, and time were screened (Table 1,
+entries 10−21); optimum reaction conditions were determined
+to be styrene (1a, 1.0 equiv) and thiophenol (2a, 2 equiv) in
+DMF at 25 °C for 48 h (Table 1, entry 15) to aﬀord the
+selective β-hydroxysulﬁde 3a in 74% yield.
+</para>
+<para sub="scope">
+Under the optimized reaction conditions, the reactions of a
+variety of substituted styrenes 1 with thiophenol 2a were
+carried out. Styrenes bearing Me, F, and Cl groups on the
+ring were tolerated to aﬀord the selective β-
+phenyl
+hydroxysulﬁdes
+in good yields although with prolonged
+reaction time (Table 2, 3b,c and 3e,h). It is noteworthy that
+the reaction of 4-methoxystyrene 1d gave the desired product
+3d in slightly low yield; this may be attributed to some of 1d
+being oxidized in the reaction. The reactions of styrenes bearing
+</para>
+Received:
+January 18, 2015
+Published: March 10, 2015
+
+© 2015 American Chemical Society
+
+3682
+
+DOI: 10.1021/acs.joc.5b00123
+J. Org. Chem. 2015, 80, 3682−3687
+
+The Journal of Organic Chemistry
+Table 1. Optimization of the Reaction Conditionsa
+
+Table 2. Reactions of Styrenes 1 and Thiophenol 2aa
+
+Note
+
+entry
+
+1
+2
+3
+4
+5c
+6
+7
+8
+9
+10
+11
+12d
+13e,f
+14
+15
+16
+17
+18
+19
+20
+21
+
+1a/2a
+1:2
+1:2
+1:2
+1:2
+1:2
+1:2
+1:2
+1:2
+1:2
+1:1
+1:3
+1:2
+1:2
+1:2
+1:2
+1:2
+1:2
+1:2
+1:2
+1:2
+1:2
+
+solvent
+
+THF
+CH3CN
+1,4-dioxane
+CH3OH
+DMF
+CH2Cl2
+benzene
+toluene
+n-hexane
+DMF
+DMF
+DMF
+DMF
+DMF
+DMF
+DMF
+DMF
+DMF
+DMF
+DMF
+DMF
+
+temp (°C)
+
+time (h)
+
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+0
+25
+40
+80
+120
+25
+25
+25
+
+48
+48
+48
+48
+48
+48
+48
+48
+48
+48
+48
+48
+48
+48
+48
+48
+48
+48
+24
+72
+96
+
+yieldb (%)
+4a
+3a
+33
+13
+trace
+trace
+trace
+<5
+trace
+<5
+70
+<5
+trace
+trace
+trace
+30
+39
+trace
+17
+28
+73
+58
+0
+38
+74
+70
+44
+61
+52
+71
+70
+
+6
+<5
+<5
+<5
+13
+<5
+<5
+<5
+<5
+<5
+9
+17
+<5
+
+aUsing 0.5% mol of TBHP as initiator in all of the reactions unless
+otherwise noted. bIsolated yield. cBenzaldehyde (15% yield) and
+diphenyldisulﬁde (50% yield calculated based on the thiophenol 2a)
+were isolated. dUsing 5% mol of TBHP. eNo TBHP. fThe eﬀect of
+temperature on the reaction for 24 h and the eﬀect of time on the
+reaction at 13 °C; please refer to the Supporting Information.
+<para sub="scope">
+strong electron-withdrawing groups such as CF3, COOCH3,
+and CN with 2a gave low yield of β-hydroxysulﬁdes (Table 2,
+3k, 3l, and 3m), while no reaction was observed with the NO2
+derivative (Table 2, 3n).
+</para>
+<para sub="scope">
+To evaluate the eﬀect of α- or β-substituents of styrene on
+the reaction, CH3-, Br-, and Ph-substituted styrenes were
+utilized for this purpose. The reactions of α-methylstyrene 1o
+and β-methylstyrene 1p with 2a aﬀorded the expected β-
+hydroxysulﬁdes 3o and 3p in 57 and 41% yield, respectively
+(Table 3, entries 1 and 2). It was noted that the methyl
+substituent located at the α- or β-position of styrene has a steric
+eﬀect on the reaction,
+leading to the decreased yield of
+products. Then the reaction of α-bromostyrene 1q with 2a was
+carried out, and β-oxosulﬁde 4q was isolated in 44% yield
+(Table 3, entry 3), while the reaction of β-bromostyrene 1r
+with 2a gave the β-oxythioacetal 4r in 15% yield (Table 3, entry
+4). Also, the reaction of α-phenylstyrene 1s with 2a was
+performed, and the corresponding β-hydroxysulﬁde 3s was
+isolated in 71% yield (Table 3, entry 5). On the contrary, no
+reaction was observed for β-phenylstyrene 1t (Table 3, entry
+6). On the basis of the results aforementioned, using α- or β-
+substituted (CH3, Br, and Ph) styrenes as substrates, diﬀerent
+products or yields were obtained, which depended on both the
+type of substituents and their location. Finally, nonconjugated
+terminal alkenes 1u,v were used in place of styrene, but no
+reactions were observed (Table 3, entries 7 and 8).
+</para>
+aReaction conditions: styrenes (1 mmol) and PhSH (2 mmol) in
+DMF at 25 °C for 48 h. bAt 25 °C for 96 h. Yield represents isolated
+yield.
+<para sub="scope">
+With the promising results in hand,
+
+the reaction was
+extended to other arylthiols. The results indicated that the
+type of substituents and their location had an eﬀect on the
+outcome of the reaction. The reaction of o-tolylthiol 2b with
+styrene 1a gave the desired β-hydroxysulﬁde 3ab in 92% yield,
+while the o-methoxybenzenethiol 2c aﬀorded the β-oxosulﬁde
+4ac in 16% yield. p-Methoxybenzenethiol 2e and o-amino-
+benzenethiol 2f gave no desired β-hydroxysulﬁdes 3ae and 3af
+(Table 4). The arylthiols bearing F and Cl groups reacted with
+1a to aﬀord the expected β-hydroxysulﬁdes 3ag, 3ah, and 3ai in
+moderate yields (Table 4), while the NO2 derivative did not
+react (Table 4, 3aj). Also, no reactions were observed with
+pyridylthiol and furylthiol (Table 4, 3ak and 3al).
+</para>
+<para sub="scope">
+Finally, the scale-up reaction of 1a (10.4 g, 0.1 mol) with 2a
+(22.0 g, 0.2 mol) in DMF at room temperature for 48 h in the
+presence of 0.5 mol % of TBHP was performed, and the
+expected product 3a was obtained in 64% yield (14.7 g).
+</para>
+<para sub="scope">
+To conﬁrm that the reaction proceeded via a radical pathway,
+TEMPO was added to the reaction mixture of styrene 1a with
+thiophenol 2a, and only product 5 was isolated, which was
+conﬁrmed to be 2,2,6,6-tetramethyl-1-((phenylthio)oxy)-
+piperidine formed from the reaction of TEMPO and a
+radical; however, no β-hydroxysulﬁde 3a was
+thiophenyl
+formed (Scheme 2). This result strongly supported the free
+radical mechanism. On the basis of the results obtained, a
+mechanism for the reaction of styrenes 1 with thiophenol 2a
+was proposed in Scheme 2. Thiyl radical 6 initiated by TBHP
+selectively adds to the terminal CC double bond of 1 to form
+intermediate radical 7. It reacts with O2 to form peroxy radical
+8, followed by reacting with 2a to form hydroperoxide 9, and
+thiyl radical 6 is regenerated. 9 reacts with thiophenol 2a to give
+radical 10, which then obtains a hydrogen atom from 2a to
+aﬀord product 3 and to regenerate thiyl radical 6, which
+continues to drive the reaction further.
+</para>
+3683
+
+DOI: 10.1021/acs.joc.5b00123
+J. Org. Chem. 2015, 80, 3682−3687
+
+The Journal of Organic Chemistry
+
+Table 3. Reactions of α- and β-Substituted Styrenes 1 with
+Thiophenol 2aa
+
+Table 4. Reactions of Styrene 1a with Arylthiols 2a,b
+
+Note
+
+aReaction conditions: styrene (1 mmol) and ArSH (2 mmol) in DMF
+at 25 °C for 96 h. bIsolated yield. cN.R. indicates that the styrene is not
+consumed and the desired β-hydroxysulﬁde was not isolated (0%
+yield).
+<para sub=“exp”>
+obtained commercially unless otherwise noted. All alkenes were
+puriﬁed by ﬂash column chromatography (Al2O3) before use.
+
+Preparation of 1-Aryl-2-(arylthio)ethan-1-ol 3. Typical
+Procedure for the Preparation of 1-Phenyl-2-(phenylthio)ethan-1-
+ol (3a). To a solution of DMF (10 mL), styrene (0.104 g, 1 mmol),
+and benzenethiol (0.22 g, 2 mmol) was added t-butyl hydroperoxide
+(70% aqueous solution, 0.7 μL, 0.005 mmol), and the mixture was
+stirred at room temperature in air for 48 h. After the completion of the
+reaction, water (10 mL) was added to the reaction mixture and
+extracted with ethyl acetate (10 mL × 3). The combined organic
+fractions were dried over anhydrous Na2SO4 and concentrated under
+vacuum to yield the crude product, which was puriﬁed by column
+chromatography (silica gel, petroleum ether/EtOAc = 40:1) to give 1-
+phenyl-2-(phenylthio)ethan-1-ol (3a) .
+
+Scale-Up Procedure for
+
+the Preparation of 1-Phenyl-2-
+(3a). To a solution of DMF (200 mL),
+(phenylthio)ethan-1-ol
+styrene (10.4 g, 0.1 mol), and benzenethiol (22.0 g, 0.2 mol) was
+added t-butyl hydroperoxide (70% aqueous solution, 0.05 g, 0.5
+mmol), and the mixture was stirred at room temperature for 48 h.
+Then, water (100 mL) was added into the reaction mixture and
+extracted with ethyl acetate (100 mL × 3). The combined organic
+fractions were dried over anhydrous Na2SO4 and vaporized under
+vacuum to give a concentrated solution, which was cooled to 0 °C, and
+diphenyldisulﬁde (PhSSPh) precipitated. The solid was ﬁltered, and
+the ﬁltrate was concentrated and puriﬁed with chromatography (silica
+gel, petroleum ether/EtOAc = 40:1) to aﬀord 3a (yellow oil, 14.7 g,
+64% yield).
+1-Phenyl-2-(phenylthio)ethan-1-ol (3a):10 Yellow oil, 70% yield
+(161 mg); 1H NMR (400 MHz, CDCl3) δ 7.33−7.10 (m, 10H), 4.62
+(dd, J = 9.4, 3.5 Hz, 1H), 3.22 (dd, J = 13.8, 3.5 Hz, 1H), 3.00 (dd, J =
+13.8, 9.4 Hz, 1H), 2.73 (s, 1H); 13C NMR (101 MHz, CDCl3) δ
+142.2, 135.0, 130.2, 129.2, 128.6, 128.0, 126.8, 125.9, 71.7, 44.0; MS
+(ESI-TOF) m/z (M − OH)+ calcd for C14H13S 213.1, found 213.1.
+2-(Phenylthio)-1-(p-tolyl)ethan-1-ol (3b):10 Yellow oil, 80% yield
+(195 mg); 1H NMR (400 MHz, CDCl3) δ 7.50−7.46 (m, 2H), 7.40−
+7.36 (m, 2H), 7.34−7.27 (m, 3H), 7.22 (d, J = 8.0 Hz, 2H), 4.76 (dd, J
+= 9.1, 3.9 Hz, 1H), 3.35 (dd, J = 13.7, 3.9 Hz, 1H), 3.18 (dd, J = 13.7,
+9.1 Hz, 1H), 3.09 (s, 1H), 2.42 (s, 3H); 13C NMR (101 MHz, CDCl3)
+δ 139.4, 137.7, 135.4, 130.1, 129.3, 129.2, 126.7, 126.0, 71.7, 43.8, 21.3;
+HRMS (CI-TOF) m/z M+ calcd for C15H16OS 244.0922,
+found
+244.0933.
+</para>
+3684
+
+DOI: 10.1021/acs.joc.5b00123
+J. Org. Chem. 2015, 80, 3682−3687
+
+aReaction conditions: oleﬁn (1 mmol) and PhSH (2 mmol) in DMF
+at 25 °C for 48 h. bIsolated yield. cFor 96 h. dCombined yield of two
+diastereomers. eDetermined by 1H NMR.
+indicates that the
+alkene is not consumed and the desired β-hydroxysulﬁde was not
+isolated (0% yield).
+
+fN.R.
+
+In conclusion, a new type of difunctionalization of alkenes via
+the reaction of arylthiols with styrenes has been developed. The
+reaction was initiated by 0.5 mol % of TBHP at room
+temperature, with air (O2) as the sole oxidant to aﬀord the
+hydroxysulfurization products in moderate to good yields. The
+reaction can be eﬀectively scaled up and the product
+conveniently obtained in a one-pot process. This method is
+straightforward, requires no additives or other oxidant, and
+involves simple manipulations. The β-hydroxysulﬁdes obtained
+can be directly applied in the syntheses of organic and
+medicinal compounds and can also be transformed into a
+variety of other useful functionalized compounds.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Methods. 1H NMR (400 MHz) and 13C NMR (101
+MHz) spectra were determined with CDCl3 or DMSO-d6 as solvent
+and tetramethylsilane (TMS) as the internal standard. Chemical shifts
+were reported in parts per million (ppm) from internal TMS (δ); all
+coupling constants (J values) were reported in hertz (Hz). High-
+resolution mass spectra were recorded on a TOF machine (ESI).
+Column chromatography was performed with 300−400 mesh silica gel
+using ﬂash column techniques. All of the reagents were used directly as
+
+</para>The Journal of Organic Chemistry
+
+Note
+
+Scheme 2. Proposed Mechanism for the Reaction of Styrenes with Thiophenol
+<para sub=“exp”>
+2-(Phenylthio)-1-(o-tolyl)ethan-1-ol
+
+(3c): Yellow oil, 76% yield
+(185 mg); 1H NMR (400 MHz, CDCl3) δ 7.59 (d, J = 7.4 Hz, 1H),
+7.52−7.48 (m, 2H), 7.41−7.20 (m, 5H), 7.16 (d, J = 7.5 Hz, 1H), 4.97
+(dd, J = 9.6, 3.1 Hz, 1H), 3.32 (dd, J = 13.9, 3.1 Hz, 1H), 3.07 (dd, J =
+13.9, 9.6 Hz, 1H), 2.97 (s, 1H), 2.22 (s, 3H); 13C NMR (101 MHz,
+CDCl3) δ 140.2, 135.0, 134.5, 130.7, 130.5, 129.16, 127.7, 127.0,
+126.5, 125.4, 68.3, 43.1, 18.9; HRMS (CI-TOF) m/z M+ calcd for
+C15H16OS 244.0922, found 244.0925.
+1-(4-Methoxyphenyl)-2-(phenylthio)ethan-1-ol (3d):10 Yellow oil,
+62% yield (161 mg); 1H NMR (400 MHz, CDCl3) δ 7.46−7.42 (m,
+2H), 7.38−7.22 (m, 5H), 6.91 (d, J = 8.7 Hz, 2H), 4.72 (dd, J = 9.2,
+3.8 Hz, 1H), 3.82 (s, 3H), 3.31 (dd, J = 13.7, 3.9 Hz, 1H), 3.14 (dd, J
+= 13.7, 9.2 Hz, 1H), 2.94 (s, 1H); 13C NMR (101 MHz, CDCl3) δ
+159.4, 135.1, 134.4, 130.1, 129.1, 127.2, 126.7, 114.0, 71.4, 55.3, 43.8;
+MS (ESI-TOF) m/z (M − OH)+ calcd for C15H15OS 243.1, found
+243.1.
+1-(4-Fluorophenyl)-2-(phenylthio)ethan-1-ol (3e): Yellow oil, 71%
+yield (176 mg); 1H NMR (400 MHz, CDCl3) δ 7.46−7.42 (m, 2H),
+7.39−7.23 (m, 5H), 7.15−6.99 (m, 2H), 4.72 (dd, J = 9.1, 3.8 Hz,
+1H), 3.30 (dd, J = 13.8, 3.9 Hz, 1H), 3.20−2.95 (m, 2H, −OH,
+−CH−); 13C NMR (101 MHz, CDCl3) δ 162.4 (d, J = 264.0 Hz),
+138.0 (d, J = 3.1 Hz), 134.8, 130.3, 129.2, 127.7 (d, J = 8.1 Hz), 126.9,
+115.4 (d, J = 21.5 Hz), 71.2, 44.0; HRMS (CI-TOF) m/z M+ calcd for
+C14H13FOS 248.0671, found 248.0679.
+(3f):10 Yellow oil,
+79% yield (208 mg); 1H NMR (400 MHz, CDCl3) δ 7.48−7.40 (m,
+2H), 7.39−7.15 (m, 7H), 4.71 (dd, J = 9.3, 3.6 Hz, 1H), 3.30 (dd, J =
+13.8, 3.7 Hz, 1H), 3.07 (dd, J = 13.8, 9.3 Hz, 1H), 2.94 (s, 1H); 13C
+NMR (101 MHz, CDCl3) δ 140.6, 134.6, 133.6, 130.4, 129.2, 128.7,
+127.2, 127.0, 71.0, 44.0; MS (ESI-TOF) m/z (M − OH)+ calcd for
+C14H12ClS 247.0, found 247.0.
+(3g): Yellow oil,
+83% yield (219 mg); 1H NMR (400 MHz, CDCl3) δ 7.70−7.66 (m,
+1H), 7.48−7.52 (m, 2H), 7.38−7.28 (m, 4H), 7.29−7.21 (m, 2H),
+5.13 (dd, J = 9.7, 2.7 Hz, 1H), 3.55 (dd, J = 14.0, 2.7 Hz, 1H), 3.03 (s,
+1H), 2.92 (dd, J = 14.0, 9.7 Hz, 1H); 13C NMR (101 MHz, CDCl3) δ
+139.5, 134.3, 131.6, 130.4, 129.4, 129.1, 128.9, 127.2, 127.1, 126.9,
+68.1, 42.2; HRMS (CI-TOF) m/z M+ calcd for C14H13ClOS 264.0376,
+found 264.0379.
+
+1-(2-Chlorophenyl)-2-(phenylthio)ethan-1-ol
+
+1-(4-Chlorophenyl)-2-(phenylthio)ethan-1-ol
+
+1-(3-Chlorophenyl)-2-(phenylthio)ethan-1-ol
+
+(3h): Yellow oil,
+83% yield (219 mg); 1H NMR (400 MHz, CDCl3) δ 7.34−7.27 (m,
+2H), 7.24−7.18 (m, 3H), 7.17−7.03 (m, 4H), 4.55 (dd, J = 9.3, 3.6
+Hz, 1H), 3.17 (dd, J = 13.8, 3.6 Hz, 1H), 3.01 (s, 1H), 2.93 (dd, J =
+13.8, 9.3 Hz, 1H); 13C NMR (101 MHz, CDCl3) δ 144.3, 134.6, 134.5,
+130.4, 129.8, 129.2, 128.1, 127.0, 126.1, 124.1, 71.1, 44.0; HRMS (CI-
+TOF) m/z M+ calcd for C14H13ClOS 264.0376, found 264.0384.
+
+1-(2-Bromophenyl)-2-(phenylthio)ethan-1-ol (3i): Yellow oil, 60%
+yield (185 mg); 1H NMR (400 MHz, CDCl3) δ 7.67 (dd, J = 7.8, 1.6
+Hz, 1H), 7.56−7.48 (m, 3H), 7.42−7.31 (m, 3H), 7.31−7.24 (m, 1H),
+7.16 (td, J = 7.7, 1.7 Hz, 1H), 5.08 (dd, J = 9.7, 2.6 Hz, 1H), 3.53 (dd,
+J = 14.0, 2.8 Hz, 1H), 3.15 (s, 1H), 2.90 (dd, J = 14.0, 9.7 Hz, 1H);
+13C NMR (101 MHz, CDCl3) δ 141.1, 134.3, 132.8, 130.7, 129.3,
+129.1, 127.9, 127.5, 127.0, 121.8, 70.4, 42.4; HRMS (CI-TOF) m/z
+(M + H)+ calcd for C14H14BrOS 308.9949, found 308.9936.
+(3j):10 Yellow oil,
+65% yield (201 mg); 1H NMR (400 MHz, CDCl3) δ 7.50−7.45 (m,
+2H), 7.44−7.40 (m, 2H), 7.39−7.30 (m, 2H), 7.24−7.30 (m, 1H),
+7.24−7.17 (m, 2H), 4.68 (dd, J = 9.0, 3.8 Hz, 1H), 3.30 (s, 1H), 3.27
+(dd, J = 13.8, 3.9 Hz, 1H), 3.08 (dd, J = 13.8, 9.1 Hz, 1H); 13C NMR
+(101 MHz, CDCl3) δ 141.3, 134.8, 131.7, 130.3, 129.3, 127.7, 127.0,
+121.8, 71.2, 43.8; MS (ESI-TOF) m/z (M − OH)+ calcd for
+C14H12BrS 291.0, found 291.0.
+
+1-(4-Bromophenyl)-2-(phenylthio)ethan-1-ol
+
+2-(Phenylthio)-1-(3-(triﬂuoromethyl)phenyl)ethan-1-ol (3k): Yel-
+low oil, 54% yield (161 mg); 1H NMR (400 MHz, CDCl3) δ 7.66 (s,
+1H), 7.58−7.52 (m, 2H), 7.50−7.41 (m, 3H), 7.39−7.32 (m, 2H),
+7.31−7.26 (m, 1H), 4.79 (dd, J = 9.2, 3.7 Hz, 1H), 3.34 (dd, J = 13.9,
+3.8 Hz, 1H), 3.30 (s, 1H), 3.11 (dd, J = 13.9, 9.2 Hz, 1H); 13C NMR
+(101 MHz, CDCl3) δ 143.2, 134.4, 130.8 (q, J = 32.3 Hz), 130.5,
+129.3, 129.3, 129.3, 129.0, 127.1, 124.8 (q, J = 3.8 Hz), 122.8 (q, J =
+3.8 Hz), 71.2, 44.0; HRMS (CI-TOF) m/z M+ calcd for C15H13F3OS
+298.0639, found 298.0652.
+Methyl-4-(1-hydroxy-2-(phenylthio)ethyl)benzoate (3l): Yellow
+oil, 52% yield (150 mg); 1H NMR (400 MHz, CDCl3) δ 7.46−7.42
+(m, 2H), 7.41−7.32 (m, 4H), 7.30−7.30 (m, 1H), 7.08−7.10 (m, 2H),
+4.74 (dd, J = 9.5, 3.3 Hz, 1H), 3.33 (dd, J = 13.9, 3.5 Hz, 1H), 3.09
+(dd, J = 13.9, 9.5 Hz, 1H), 2.93 (s, 1H), 2.32 (s, 3H); 13C NMR (101
+MHz, CDCl3) δ 169.6, 150.2, 140.0, 135.1, 130.1, 129.2, 127.1, 126.8,
+121.7, 71.3, 43.7, 21.2; HRMS (CI-TOF) m/z M+ calcd for C16H16O3S
+288.0820, found 288.0826.
+</para>
+3685
+
+DOI: 10.1021/acs.joc.5b00123
+J. Org. Chem. 2015, 80, 3682−3687
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+4-(1-Hydroxy-2-(phenylthio)ethyl)benzonitrile (3m):14 Yellow oil,
+56% yield (143 mg); 1H NMR (400 MHz, DMSO-d6) δ 7.79 (d, J =
+8.2 Hz, 2H), 7.58 (d, J = 8.2 Hz, 2H), 7.43−7.23 (m, 4H), 7.21−7.11
+(m, 1H), 5.93 (d, J = 4.7 Hz, 1H), 4.82 (dd, J = 11.1, 6.0 Hz, 1H), 3.25
+(d, J = 6.2 Hz, 2H); 13C NMR (101 MHz, DMSO-d6) δ 154.7, 141.5,
+137.2, 134.2, 133.3, 132.5, 130.9, 124.2, 115.1, 75.9, 46.2; MS (ESI-
+TOF) m/z (M + H)+ calcd for C15H14NOS 256.1, found 256.1.
+
+2-Phenyl-1-(phenylthio)propan-2-ol (3o):15 Yellow oil, 57% yield
+(139 mg); 1H NMR (400 MHz, CDCl3) δ 7.53 (d, J = 7.4 Hz, 2H),
+7.42−7.28 (m, 4H), 7.35−7.26 (m, 3H), 7.26−7.20 (m, 1H), 3.60 (d, J
+= 13.3 Hz, 1H), 3.42 (d, J = 13.3 Hz, 1H), 3.06 (s, 1H), 1.69 (s, 3H);
+13C NMR (101 MHz, CDCl3) δ 146.3, 136.6, 130.0, 129.0, 128.3,
+127.2, 126.5, 124.9, 74.1, 49.6, 29.4; MS (ESI-TOF) m/z (M − OH)+
+calcd for C15H15S 227.1, found 227.1.
+
+1-Phenyl-2-(phenylthio)propan-1-ol (3p):16 Yellow oil, 41% yield
+(combined yield of two diastereomers) (dr = 86/14, determined by 1H
+NMR) (100 mg). Major diastereomer of 3p: 1H NMR (400 MHz,
+CDCl3) δ 7.42−7.24 (m, 10H), 4.81 (s, 1H), 3.60 (qd, J = 7.0, 3.0 Hz,
+1H), 2.88 (s, 1H), 1.21−1.18 (m, 3H); 13C NMR (101 MHz, CDCl3)
+δ 141.0, 133.8, 132.4, 129.2, 128.2, 127.6, 127.4, 126.0, 73.3, 51.4, 13.2.
+Minor diastereomer of 3p: 1H NMR (400 MHz, CDCl3) δ 7.56−7.52
+(m, 10H), 4.44 (d, J = 8.6 Hz, 1H), 3.49 (s, 1H), 3.41−3.29 (m, 1H),
+1.13 (d, J = 6.9 Hz, 3H); 13C NMR (101 MHz, CDCl3) δ 140.9, 134.2,
+133.7, 129.1 128.4, 128.1, 127.9, 127.1, 73.3, 52.7, 18; MS (ESI-TOF)
+m/z (M − OH)+ calcd for C15H15S 227.1, found 227.1.
+1-Phenyl-2-(phenylthio)ethan-1-ol (4q): White solid, mp 58−60
+°C; 1H NMR (400 MHz, CDCl3) δ 8.02−7.92 (m, 2H), 7.69−7.59
+(m, 1H), 7.53−7.46 (m, 2H), 7.44−7.38 (m, 2H), 7.40−7.21 (m, 3H),
+4.31 (s, 2H); MS (ESI-TOF) m/z (M + H)+ calcd for C14H13 OS
+229.1, found 229.1.
+
+1-Phenyl-2-(o-tolylthio)ethan-1-ol
+
+1,1-Diphenyl-2-(phenylthio)ethan-1-ol
+
+1-Phenyl-2,2-bis(phenylthio)ethan-1-ol (4r): Yellow oil, 15% yield
+(50 mg); 1H NMR (400 MHz, DMSO-d6) δ 8.07 (d, J = 7.2 Hz, 2H),
+7.79−7.63 (m, 1H), 7.54 (t, J = 7.7 Hz, 2H), 7.48−7.40 (m, 4H),
+7.38−7.34 (m, 6H), 6.68 (s, 1H); 13C NMR (101 MHz, DMSO-d6) δ
+191.8, 134.8, 134.2, 133.6, 132.0, 129.5, 129.2, 128.9, 60.3; HRMS
+(CI-TOF) m/z M+ calcd for C20H16OS2 336.0643, found 336.0660.
+(3s):15 Yellow oil, 78%
+yield (240 mg); 1H NMR (400 MHz, CDCl3) δ 7.48−7.41 (m,
+4H), 7.40−7.36 (m, 2H), 7.34−7.30 (m, 4H), 7.28−7.11 (m, 5H),
+3.87 (s, 2H), 3.55 (s, 1H); 13C NMR (101 MHz, CDCl3) δ 145.2,
+136.5, 130.3, 129.1, 128.3, 127.4, 126.7, 126.2, 77.7, 49.1; MS (ESI-
+TOF) m/z (M − OH)+ calcd for C20H17S 289.1, found 289.1.
+(3ab): Yellow oil, 92% yield
+(230 mg); 1H NMR (400 MHz, CDCl3) δ 7.47−7.33 (m, 6H), 7.27−
+7.18 (m, 3H), 4.79 (dd, J = 9.3, 3.6 Hz, 1H), 3.33 (dd, J = 13.6, 3.6 Hz,
+1H), 3.16 (dd, J = 13.6, 9.3 Hz, 1H), 3.05 (s, 1H), 2.49 (s, 3H); 13C
+NMR (101 MHz, CDCl3) δ 142.4, 138.5, 134.4, 130.5, 129.3, 128.7,
+128.6, 128.1, 126.7, 126.6, 126.0, 71.9, 43.1, 20.7; MS (ESI-TOF) m/z
+(M − OH)+ calcd for C15H15S 227.1, found 227.1.
+2-((2-Methoxyphenyl)thio)-1-phenylethan-1-ol (4ac): Yellow oil,
+16% yield (40 mg); 1H NMR (400 MHz, CDCl3) δ 7.98−7.94 (m,
+2H), 7.62−7.56 (m, 1H), 7.50−7.44 (m, 2H), 7.37 (dd, J = 7.6, 1.6
+Hz, 1H), 7.30−7.24 (m, 1H), 6.90−6.86 (m, 2H), 4.25 (s, 2H), 3.87
+(s, 3H); 13C NMR (101 MHz, CDCl3) δ 194.5, 158.4, 135.7, 133.3,
+132.7, 129.1, 128.7, 128.6, 122.1, 121.1, 110.8, 55.7, 39.6; HRMS (CI-
+TOF) m/z (M + H)+ calcd for C15H15O2S 259.0793, found 259.0786.
+(3ad): Yellow
+oil, 66% yield (160 mg); 1H NMR (400 MHz, CDCl3) δ 7.41−7.30
+(m, 5H), 7.23−7.16 (m, 3H), 4.66 (dd, J = 9.4, 3.6 Hz, 1H), 3.10−
+−, OH), 2.97 (dd, J = 13.3, 9.4 Hz, 1H), 2.63 (s,
+3.04 (m, 2H, −CH2
+6H); 13C NMR (101 MHz, CDCl3) δ 142.4, 142.0, 132.4, 128.1,
+127.9, 127.4, 125.5, 72.2, 44.7, 21.7; MS (ESI-TOF) m/z (M − OH)+
+calcd for C16H17S 241.1, found 241.1.
+
+2-((2,6-Dimethylphenyl)thio)-1-phenylethan-1-ol
+
+2-((2-Fluorophenyl)thio)-1-phenylethan-1-ol
+
+(3ag): Yellow oil,
+48% yield (120 mg); 1H NMR (400 MHz, CDCl3) δ 7.49 (td, J =
+7.8, 1.8 Hz, 1H), 7.39−7.25 (m, 6H), 7.16−7.05 (m, 2H), 4.72 (dd, J
+= 9.3, 3.4 Hz, 1H), 3.33 (dd, J = 13.7, 3.6 Hz, 1H), 3.10 (dd, J = 13.7,
+9.3 Hz, 1H), 3.06 (s, 1H); 13C NMR (101 MHz, CDCl3) δ 161.5 (d, J
+= 245.6 Hz), 141.6, 132.9 (d, J = 1.4 Hz), 128.9 (d, J = 8.0 Hz), 128.1,
+127.5, 125.4, 124.2 (d, J = 3.7 Hz), 121.2 (d, J = 17.7 Hz), 115.5 (d, J
+
+2-((2-Chlorophenyl)thio)-1-phenylethan-1-ol
+
+= 22.7 Hz), 71.5, 43.1 (d, J = 2.3 Hz); HRMS (CI-TOF) m/z M+
+calcd for C14H13FOS 248.0671, found 248.0670.
+(3ah): Yellow oil,
+2-((4-Fluorophenyl)thio)-1-phenylethan-1-ol
+51% yield (130 mg); 1H NMR (400 MHz, CDCl3) δ 7.49−7.44 (m,
+2H), 7.41−7.31 (m, 5H), 7.11−7.04 (m, 2H), 4.74 (dd, J = 9.2, 3.7
+Hz, 1H), 3.36−3.25 (m, 1H), 3.13 (dd, J = 13.7, 9.2 Hz, 1H), 3.06 (s,
+1H); 13C NMR (101 MHz, CDCl3) δ 162.1 (d, J = 247.3 Hz), 142.1,
+133.2 (d, J = 8.1 Hz), 130.0 (d, J = 3.4 Hz), 128.6, 128.1, 125.9, 116.3
+(d, J = 21.9 Hz), 71.8, 45.1; MS (ESI-TOF) m/z (M − OH)+ calcd for
+C14H12FS 231.1, found 231.0.
+(3ai): Yellow oil,
+38% yield (100 mg); 1H NMR (400 MHz, CDCl3) δ 7.48−7.32 (m,
+7H), 7.29−7.22 (m, 1H), 7.20−7.14 (m, 1H), 4.79 (dd, J = 9.1, 3.7
+Hz, 1H), 3.36 (dd, J = 13.5, 3.7 Hz, 1H), 3.18 (dd, J = 13.5, 9.2 Hz,
+1H), 3.09 (s, 1H); 13C NMR (101 MHz, CDCl3) δ 141.7, 134.3,
+134.0, 129.8, 129.5, 128.2, 127.6, 127.0, 126.8, 125.4, 71.4, 42.3;
+HRMS (CI-TOF) m/z M+ calcd for C14H13ClOS 264.0376, found
+264.0377.
+2,2,6,6-Tetramethyl-1-((phenylthio)oxy)piperidine (5): 1H NMR
+(400 MHz, CDCl3) δ 7.69 (d, J = 6.4 Hz, 2H), 7.44−7.42 (m, 2H),
+7.40−7.36 (m, 1H), 1.95−1.75 (m, 1H), 1.74−1.30 (m, 15H), 1.00−
+0.80 (m, 2H); MS (ESI-TOF) m/z (M + H)+ calcd for C15H24NOS
+266.2, found 266.2.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Discussion and mechanism for the reactions of α-bromostyrene
+1q, β-bromostyrene 1r, and alkenes 1t−v with thiophenol, as
+well as the reactions of o-methoxythiophenol 2c, 4-methox-
+yphenylthiol 2e, 2-aminophenylthiol 2f, 4-nitrophenylthiol 2j,
+2-pyridylthiol 2k, and 2-furylthiol 2l with styrene; 1H and 13C
+NMR spectra for compounds 3, 4, and 5. This material
+is
+available free of charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Authors
+*E-mail: panxq@suda.edu.cn.
+*E-mail: jpzou@suda.edu.cn.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+J.-P.Z. thanks the grant support by the National Natural Science
+Foundation of China (Nos. 20772088, 21172163, and
+21472133) and the Priority Academic Program Development
+of Jiangsu Higher Education Institutions for ﬁnancial support.
+
+■ REFERENCES
+
+(1) (a) Egami, H.; Sodeoka, M. Angew. Chem., Int. Ed. 2014, 53,
+8294. (b) Chemler, S. R.; Bovino, M. T. ACS Catal. 2013, 3, 1076.
+(c) Muñiz, K.; Martínez, C. J. Org. Chem. 2013, 78, 2168. (d) Huang,
+S.-X.; Ding, K.-L. Angew. Chem., Int. Ed. 2011, 50, 7734. (e) Bataille, C.
+J. R.; Donohoe, T. J. Chem. Soc. Rev. 2011, 40, 114. (f) Minatti, A.;
+Muñiz, K. Chem. Soc. Rev. 2007, 36, 1142. (g) Chen, D. J.; Timmons,
+C.; Wei, H. X.; Li, G. G. J. Org. Chem. 2003, 68, 5742. (h) Wei, H. X.;
+Siruta, S.; Li, G. G. Tetrahedron Lett. 2002, 43, 3809. (i) Kolb, H. C.;
+VanNieuwenhze, M. S.; Sharpless, K. B. Chem. Rev. 1994, 94, 2483.
+(2) (a) Carboni, A.; Dagousset, G.; Magnier, E.; Masson, G. Chem.
+Commun. 2014, 50, 14197. (b) Xu, F.; Zhu, L.; Zhu, S.-B.; Yan, X.-M.;
+Xu, H.-C. Chem.Eur. J. 2014, 20, 12740. (c) Dagousset, G.; Carboni,
+A.; Magnier, E.; Masson, G. Org. Lett. 2014, 16, 4340. (d) Kong, W.-
+Q.; Merino, E.; Nevado, C. Angew. Chem., Int. Ed. 2014, 53, 5078.
+(e) Oh, S. H.; Malpani, Y. R.; Ha, N.; Jung, Y.-S.; Han, S. B. Org. Lett.
+2014, 16, 1310. (f) Peng, X.-X.; Deng, Y.-J.; Yang, X.-L.; Zhang, L.; Yu,
+W.; Han, B. Org. Lett. 2014, 16, 4650. (g) Lu, Q.-Q.; Liu, C.; Huang,
+Z.-Y.; Ma, Y.-Y.; Zhang, J.; Lei, A.-W. Chem. Commun. 2014, 50,
+
+3686
+
+DOI: 10.1021/acs.joc.5b00123
+J. Org. Chem. 2015, 80, 3682−3687
+
+Note
+
+The Journal of Organic Chemistry
+
+14101. (h) Wang, F.; Wang, D.-H.; Mu, X.; Chen, P.-H.; Liu, G.-S. J.
+Am. Chem. Soc. 2014, 136, 10202. (i) Deb, A.; Manna, S.; Modak, A.;
+Patra, T.; Maity, S.; Maiti, D. Angew. Chem., Int. Ed. 2013, 52, 9747.
+(j) Lu, Q.-Q.; Zhang, J.; Wei, F.-L.; Qi, Y.; Wang, H.-M.; Liu, Z.-L.;
+Lei, A.-W. Angew. Chem., Int. Ed. 2013, 52, 7156. (k) Su, Y.-J.; Sun, X.;
+Wu, G.-L.; Jiao, N. Angew. Chem., Int. Ed. 2013, 52, 9808. (l) Zhang,
+H.-W.; Pu, W.-Y.; Xiong, T.; Li, Y.; Zhou, X.; Sun, K.; Liu, Q.; Zhang,
+Q. Angew. Chem., Int. Ed. 2013, 52, 2529. (m) Zhang, C.-W.; Li, Z.-D.;
+Zhu, L.; Yu, L.-M.; Wang, Z.-T.; Li, C.-Z. J. Am. Chem. Soc. 2013, 135,
+14082. (n) Wang, Y.; Zhang, L.; Yang, Y.-H.; Zhang, P.; Du, Z.-T.;
+Wang, C.-Y. J. Am. Chem. Soc. 2013, 135, 18048. (o) Zhou, M.-B.;
+Wang, C.-Y.; Song, R.-J.; Liu, Y.; Wei, W.-T.; Li, J.-H. Chem. Commun.
+2013, 49, 10817. (p) Zhu, R.; Buchwald, S. L. Angew. Chem., Int. Ed.
+2013, 52, 12655. (q) Duan, X.-Y.; Yang, X.-L.; Fang, R.; Peng, X.-X.;
+Yu, W.; Han, B. J. Org. Chem. 2013, 78, 10692.
+(3) Kharasch, M. S.; Nudenberg, W.; Mantell, G. J. J. Org. Chem.
+1951, 16, 524.
+(4) (a) Beckwith, A. L. J.; Wagner, R. D. J. Org. Chem. 1981, 46,
+3638. (b) Chung, M. I.; D’Souza, V. T.; Szmant, H. H. J. Org. Chem.
+1987, 52, 1741. (c) D’Souza, V. T.; Iyer, V. K.; Szmant, H. H. J. Org.
+Chem. 1987, 52, 1725. (d) D’Souza, V. T.; Nanjundiah, R.; Baeza, H.
+J.; Szmant, H. H. J. Org. Chem. 1987, 52, 1720. (e) D’Souza, V. T.;
+Nanjundiah, R.; Baeza, H. J.; Szmant, H. H. J. Org. Chem. 1987, 52,
+1729.
+(5) Francesco, F.; Ferdinando, P.; Simone, T.; Luigi, V. J. Org. Chem.
+2003, 68, 8248 and references therein.
+(6) Luly, J. R.; Yi, N.; Soderquist, J.; Stein, H.; Cohen, J.; Perun, T. J.;
+Plattner, J. J. J. Med. Chem. 1987, 30, 1609.
+(7) Corey, E. J.; Clark, D. A.; Goto, G.; Marfat, A.; Mioskowski, C.;
+Samuelsson, B.; Hammarstrom, S. J. Am. Chem. Soc. 1980, 102, 1436.
+(8) (a) Peach, M. E. In The Chemistry of the Thiol Group; Patai, S.,
+Ed.; John Wiley: New York, 1974; p 771 (Part 3). (b) Iida, T.;
+Yamamoto, N.; Sasai, H.; Shibasaki, M. J. Am. Chem. Soc. 1997, 119,
+4783. (c) Fringuelli, F.; Pizzo, F.; Tortoioli, S.; Vassaro, L. J. Org.
+Chem. 2004, 69, 8780. (d) Pironti, V.; Colonna, S. Green Chem. 2005,
+7, 43.
+(9) Yadav, J. S.; Reddy, B. V. S.; Gakul, B. Chem. Lett. 2002, 906 and
+references therein.
+(10) Surendra, K.; Krishnaveni, N. S.; Sridhar, R.; Rao, K. R. J. Org.
+Chem. 2006, 71, 5819.
+(11) Ahmed Kamal, D.; Rajasekhar Reddy, R. J. Mol. Catal. A 2007,
+272, 26.
+(12) Keshari, T.; Yadav, V. K.; Srivastava, V. P.; Yadav, L. D. S. Green
+Chem. 2014, 16, 3986.
+(13) Zhou, S.-F.; Li, D.-P.; Liu, K.; Zou, J.-P.; Asekun, O. T. J. Org.
+Chem. 2015, 80, 1214.
+(14) Hosomi, A.; Ogata, K.; Hoashi, K.; Kohra, S.; Tominaga, Y.
+Chem. Pharm. Bull. 1988, 36, 3736.
+(15) Kitteringham, J.; Mitchell, M. B. Tetrahedron Lett. 1988, 29,
+3319.
+(16) Anciaux, A.; Eman, A.; Dumont, W.; Krief, A. Tetrahedron Lett.
+1973, 14, 1617.
+
+3687
+
+DOI: 10.1021/acs.joc.5b00123
+J. Org. Chem. 2015, 80, 3682−3687
+
+

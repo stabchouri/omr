@@ -1,0 +1,791 @@
+Note
+
+pubs.acs.org/joc
+
+Metal-Free Difunctionalization of Alkynes with 2‑Chlorodithiane for
+Synthesis of β‑Ketodithianes
+Junshan Lai,
+†
+School of Pharmacy and
+Republic of China
+*S Supporting Information
+
+State Key Laboratory of Applied Organic Chemistry, Lanzhou University, Lanzhou 730000, People’s
+
+and Shouchu Tang*,†,‡
+
+Lixia Tian,
+
+Xing Huo,
+
+Yuan Zhang,
+
+Xingang Xie,
+
+‡
+
+‡
+
+†
+
+†
+
+†
+
+‡
+
+ABSTRACT: Dithianes are versatile umpolung intermediates
+in organic synthesis but have rarely been employed in radical
+cross-coupling reactions. Here we describe the oxidative
+coupling method for alkyne difunctionalization under metal-
+catalyst-free conditions. The eﬃcient protocol directly aﬀords
+a variety of β-ketodithianes in good to excellent yields with
+high regioselectivities. It provides a general pathway for accessing valuable dithianes with controlled formation of a new C−C
+bond and a C−O bond via a radical coupling pathway.
+
+R adical addition of unactivated alkynes is believed to be the
+
+most convenient procedure to generate reactive vinyl
+radicals, which could be trapped via subsequent transformation
+and thus appear in many diverse applications in organic
+chemistry.1 Among various strategies for alkyne difunctionaliza-
+tion, radical oxidative coupling (ROC)2 reactions have played
+important
+roles in synthetic organic chemistry for bond
+formations, and those processes can oﬀer many complementary
+methods to eﬃciently increase molecular complexity (Scheme
+1). Recently, several remarkable advances of ROC catalyzed by
+nonprecious metals (Fe, Cu, Ni) and metal-catalyst-free mild
+conditions for bond construction in the presence of a green
+oxidant such as oxygen have been developed.3−7 In particular,
+Lei and co-workers elegantly reported a pioneering metal-
+catalyst-free aerobic oxysulfonylation of terminal alkynes (eq
+
+Scheme 1. Novel Strategies for Alkyne Difunctionalization
+
+1).5 More recently, Lipshutz6 and Loh7
+independently
+developed this ROC of aryl alkynes using a hydrocarbon
+nanomicelle (eq 2) and DMSO (eq 3) in a number of C−S
+bond-forming transformations. Despite the remarkable exten-
+sions and developments of alkyne difunctionalization,
+the
+discovery of new atom-economical protocols toward advanced
+intermediates is still highly worthwhile.
+
+Dithiane compounds serve as valuable synthetic intermedi-
+ates (umpolung synthons) in the ﬁeld of natural product
+synthesis and can participate in a range of useful
+trans-
+formations.8 However, dithiane anion chemistry applied in
+various synthetic sequences requires either lithiation or the use
+of anhydrous and anaerobic technology.8a,b Access to β-
+ketodithianes by radical cross-coupling would have advantages
+over traditional dithiane anion strategies, and the ability to form
+dithiane derivatives directly would improve the eﬃciency of
+synthetic routes. In this regard, our group has a long-standing
+interest
+in the novel and versatile protocols to construct
+dithiane derivatives.9 Recently, our group introduced the ﬁrst
+protocol for the direct cross-coupling of alkene involving a
+novel dithianyl radical coupling mechanism.9a,c On this basis,
+we postulated that an oxidative dithiane radical strategy10 could
+serve as a platform for the difunctionalization of unactivated
+alkynes (Scheme 1, eq 4). Mechanistically, we expected that
+radical addition of alkyne with the dithianyl radical should give
+the dithiane vinyl
+intermediate, where subsequent
+interaction with molecular oxygen would be highly favored
+and ultimately lead to β-ketodithiane, which is known to be a
+key intermediate for useful transformations.11 To the best of
+our knowledge, the alkyne difunctionalization with a dithianyl
+radical for tandem C−C and C−O bond formations has not yet
+been reported. In this paper, we report our recent progress on
+for alkyne
+the ﬁrst metal-free oxidative coupling protocol
+
+radical
+
+Received:
+Published: May 20, 2015
+
+January 27, 2015
+
+© 2015 American Chemical Society
+
+5894
+
+DOI: 10.1021/acs.joc.5b00187
+J. Org. Chem. 2015, 80, 5894−5899
+
+Note
+Table 2. Substrate Scope of Alkyne Difunctionalizationa,b
+
+The Journal of Organic Chemistry
+
+difunctionalization to give β-ketodithianes, which aﬀords a
+marked improvement over
+functionalization with anion-
+initiated dithiane chemistry developed previously.8,12
+<para sub=“opt”>
+We began our study via a model reaction to investigate the
+coupling reaction of phenylacetylene 1a with easily accessible 2-
+chlorodithiane 2 (Table 1). To identify conditions for the
+</para>
+Table 1. Reaction Conditions for the Coupling of
+Phenylacetylenea
+
+entry
+1
+2
+3
+4
+5b
+6b
+7
+8
+9
+10
+11
+
+acid (equiv)
+
+time (h)
+
+3a (%)b
+
+·Et2O (0.15)
+·6H2O (0.15)
+·4H2O (0.15)
+
+FeCl3 (0.15)
+FeCl3 (1.2)
+BF3
+FeCl3
+FeCl2
+MsOH (1.2)
+TsOH (1.2)
+H2SO4 (1.2)
+HCl (1.2)c
+MsOH (0.15)
+
+48
+48
+24
+24
+24
+24
+6
+12
+24
+24
+24
+
+trace
+trace
+12
+12
+18
+32
+79
+65
+trace
+trace
+trace
+
+aReaction conditions: phenylacetylene (1a, 0.225 mmol), 2-chloro-
+1,3-dithiane (2, 0.25 mmol), acid (x equiv), DCE (2 mL), 50 °C, air,
+6−48 h. bIsolated yields. c12 mol/L.
+<para sub=“opt”>
+·6H2O, and BF3
+
+reaction systems,5,7
+
+·Et2O gave 3a, albeit
+
+the factors that
+coupling reaction, we hypothesized that
+inﬂuence the reactivity of
+the reaction would exhibit a
+dependence on various parameters, such as metal sources,
+acids, solvents, and reaction temperature. Initially, the coupling
+of 1a with 2 employing Lewis acid sources such as FeCl3, FeCl2,
+FeCl3
+in low yields.
+However, these results indicated that the process involving the
+C−C coupling and the subsequent transformation was indeed
+possible (Table 1, entries 1−6). A number of commercially
+available protic acids was examined. To our delight, further
+optimization showed that the combination of a stoichiometric
+amount of methanesulfonic acid (MsOH) at 50 °C under an
+atmosphere of air5−7,13 served as the best condition, providing a
+good yield of β-ketodithiane product 3a (Table 1, entry 7). It is
+important to note that when the reactions were employed by
+Lei and Loh’s
+the reactions were
+unsuccessful and trace amounts of product 3a were obtained.
+</para>
+<para sub="scope">
+With optimized reaction conditions established (Table 1,
+entry 7), we next turned our attention to a variety of aryl and
+aliphatic alkynes that can participate in this novel process. As
+shown in Table 2, the standard reaction system using 1.2 equiv
+of MsOH in the presence of air was highly eﬀective with
+terminal aryl alkynes, aﬀording the desired β-ketodithiane
+products 3a−3n in moderate to good yields and excellent
+chemoselectivities. Substrates with ortho (1j−1l), meta (1h),
+and para (1b−1g) substituents provided good yields of coupled
+products regardless of the electronic nature of the substituents.
+Furthermore, the internal alkynes ranging from aryl to aliphatic
+substituents (1o, 1p, 1r−1t) could also be eﬀectively coupled in
+12 h, although the steric crowding of alkynes lowered the yield
+slightly. For example, using 2 equiv of MsOH in DCE for 12−
+</para>
+aReaction conditions: alkynes (1a−1t, 0.225 mmol), 2-chloro-1,3-
+dithiane (2, 0.25 mmol), MsOH (1.2 equiv), DCE (2 mL), 50 °C, air,
+4−48 h. bIsolated yield after column chromatography. c17% 1q
+recovery. d2 equiv of MsOH was used. eRegioselectivities by 1H NMR
+(>95:5).
+<para sub="scope">
+24 h at 50 °C, the hindered 1,2-diarylalkynes 1r−1t aﬀorded
+the desired products 3r−3t and high regioselectivities (>95:5)
+for 3s and 3t, as determined by 1H NMR analysis. Importantly,
+1-heptyne also proved to be a suitable substrate and gave the
+corresponding dithiane 3q in satisfactory yield based on the
+recovered starting material.
+</para>
+<para sub="scope">
+In order to aid our interpretation of the mechanism, radical-
+trapping experiments were conducted. The addition of 2,2,6,6-
+tetramethyl-1-piperidinyloxy (TEMPO)14 and butylated hy-
+droxytoluene (BHT)15 as radical scavenger under the standard
+reaction conditions completely quenched the coupling reaction
+and provided trace cross-coupled product, demonstrating that a
+radical process might take place (Scheme 2). Meanwhile, we
+also performed oxygen-labeling experiments to understand the
+origin of the new C−O bond in the target molecule. In the
+18O/air, product 3a was obtained in 72% yield
+presence of H2
+</para>
+5895
+
+DOI: 10.1021/acs.joc.5b00187
+J. Org. Chem. 2015, 80, 5894−5899
+
+The Journal of Organic Chemistry
+
+Note
+
+Scheme 2. Radical-Trapping Experiments and H2
+Labeling Experiment
+
+18O Isotope
+
+without the requirement of organolithium reagents or metal
+catalysts.
+
+General
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+Information. Flash chromatography columns were
+generally performed on silica gel (200−300 mesh) in petroleum (bp
+60−90 °C), and reactions were monitored by thin layer chromatog-
+raphy (TLC) using silica gel GF254 plates with UV light to visualize
+the course of the reaction. All new compounds were characterized by
+1H NMR, 13C NMR, IR, MS, and HRMS. 1H and 13C NMR spectra
+were run with tetramethylsilane as an internal standard at 300 and 75
+MHz, respectively. All chemical shifts (δ) are reported in parts per
+million and coupling constants (J) in hertz. IR spectra were obtained
+with neat thin ﬁlms on a sodium chloride disk and were recorded on
+an Fourier transform infrared spectrometer.
+
+Materials. Analytical grade solvents and commercially available
+reagents were used as received. Unless otherwise noted, materials were
+obtained from commercial
+further
+puriﬁcation. Alkynes 1a−e, 1n, and 1q−1t were purchased and used
+as received. 2-Chloro-1,3-dithiane 2 and alkynes 1f−1m, 1o, and 1p
+were prepared according to the reported procedure.18,19
+
+suppliers and used without
+
+General Procedure for the Alkyne Difunctionalization. To a
+ﬂame-dried 10 mL ﬂask were added 2-chloro-1,3-dithiane 2 (34 mg,
+0.25 mmol), 1a−1t (0.225 mmol), and methanesulfonic acid (1.2−2.0
+equiv) in 2 mL of DCE. The reaction mixture was stirred at 50 °C for
+4−24 h and then cooled to rt. The reaction solution was diluted with
+ethyl acetate (5 mL) and saturated aqueous NaHCO3 (5 mL). The
+organic layer was separated, and the aqueous phase was re-extracted
+with ethyl acetate (3 × 3 mL). The combined organic extracts were
+washed with brine (10 mL) and dried over anhydrous Na2SO4. The
+solvent was concentrated under reduced pressure and puriﬁed by
+column chromatography on silica gel with petroleum/ethyl acetate
+(EA/PE = 1:50) to yield products 3a−3t.
+
+Radical-Trapping Experiments. To a ﬂame-dried 10 mL ﬂask
+were added 2-chloro-1,3-dithiane 2 (34 mg, 0.25 mmol), 1a (25 mg,
+0.25 mmol), methanesulfonic acid (25 mg, 0.25 mmol), and TEMPO
+(150 mg, 0.75 mmol) or BHT (165 mg, 0.75 mmol) in 2 mL of DCE.
+The reaction mixture was stirred at 50 °C for 24 h. The reaction
+mixture was diluted with ethyl acetate (10 mL) and H2O (5 mL). The
+organic layer was separated, and the aqueous phase was re-extracted
+with ethyl acetate (3 × 3 mL). The combined organic extracts were
+washed with H2O (10 mL) and dried over anhydrous Na2SO4.
+
+18O-Labeling Experiment. To a ﬂame-dried 10 mL ﬂask were
+18O (7 mg,
+added methanesulfonic acid (25 mg, 0.25 mmol) and H2
+0.38 mmol) in 2 mL of DCE and stirred for a while (methanesulfonic
+acid and DCE in this experiment had been dried), then 2-chloro-1,3-
+dithiane 2 (34 mg, 0.25 mmol) and 1a (25 mg, 0.25 mmol) were
+added. The reaction mixture was stirred at 50 °C for 6 h. The reaction
+solution was diluted with ethyl acetate (5 mL) and saturated aqueous
+NaHCO3 (5 mL). The organic layer was separated, and the aqueous
+
+H2
+</para>
+<para sub="scope">
+and no isotope-labeled product was formed. The 18O-labeling
+result suggested that water was not involved in the reaction
+process,16 and the oxygen molecule was the possible source of
+the carbonyl oxygen atom of the β-ketodithiane.5,6,13
+</para>
+<para sub="scope">
+the vinyl
+
+formation of
+
+On the basis of previous works in our group,9 we anticipated
+that the dithianyl radical was generated via the homolysis of 2-
+chlorodithiane under air and heating. The generated dithianyl
+radical would be highly nucleophilic and thereby readily
+facilitate conjugate addition with alkyne to forge a new C−C
+bond with concomitant
+radical
+intermediate (II). Subsequently, the generated vinyl radical
+species are further oxidized by air to give a peroxyl radical (III),
+which may stabilize to a hydroperoxide intermediate (IV) by
+hydrogen abstraction from DCE.17 The hydroperoxide could
+intermediate (V), thus
+undergo heterolysis to generate enol
+completing the ROC reaction to form the desired β-
+ketodithiane. It was worthy to note that one possible diﬃculty
+may be the issue of C−O versus C−Cl bond formation;
+however, the appropriate choice of acid can block the C−Cl
+bond formation toward the desired β-keto product (Scheme 3).
+</para>
+In summary, we have described the direct alkyne
+the eﬃcient construction of β-
+difunctionalization for
+ketodithianes. We have demonstrated that the versatile method
+tolerates broad substrate scope and good functional group
+compatibility. More importantly, this novel process provides an
+alternative to generate highly substituted dithiane derivatives
+
+Scheme 3. Proposed Mechanism
+
+5896
+
+DOI: 10.1021/acs.joc.5b00187
+J. Org. Chem. 2015, 80, 5894−5899
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+phase was re-extracted with ethyl acetate (3 × 3 mL). The combined
+organic extracts were washed with brine (10 mL) and dried over
+anhydrous Na2SO4. The solvent was concentrated under reduced
+pressure and puriﬁed by column chromatography on silica gel with
+petroleum/ethyl acetate (EA/PE = 1:50) to yield the product 3a.
+2-(1,3-Dithian-2-yl)-1-phenylethanone (3a): White solid; Rf = 0.47
+(EA/PE = 1:10); mp (°C) 58−59; isolated yield 79% (42 mg); 1H
+NMR (300 MHz, CDCl3) δ 8.04−7.87 (m, 2H), 7.62−7.55 (m, 1H),
+7.55−7.40 (m, 2H), 4.70 (t, J = 6.7 Hz, 1H), 3.36 (d, J = 6.8 Hz, 2H),
+3.03−2.94 (m, 2H), 2.94−2.82 (m, 2H), 2.17−2.08 (m, 1H), 1.97−
+1.83 (m, 1H); 13C NMR (75 MHz, CDCl3) δ 195.0, 136.1, 133.1,
+128.3, 127.8, 43.5, 41.1, 29.8, 24.9; MS (EI, 70 eV) m/z = 238 (M+).
+This known compound had been characterized previously.20
+2-(1,3-Dithian-2-yl)-1-(p-tolyl)ethanone (3b): White solid; Rf =
+0.49 (EA/PE = 1:10); mp (°C) 105−106; isolated yield 76% (43 mg);
+1H NMR (300 MHz, CDCl3) δ 7.87 (d, J = 9 Hz, 2H), 7.27 (d, J = 9
+Hz, 2H), 4.69 (t, J = 6.9 Hz, 1H), 3.33 (d, J = 6.9 Hz, 2H), 2.97 (t, J =
+14.2, 2H), 2.85 (t, J = 14.2 Hz, 2H), 2.41 (s, 3H), 2.21−2.05 (m, 1H),
+1.94−1.82 (m, 1H); 13C NMR (75 MHz, CDCl3) δ 194.4, 143.7,
+133.5, 128.8, 128.4, 127.8, 43.2, 41.2, 29.7, 24.8, 21.2; IR (neat, cm−1)
+2920 (w), 2890 (w), 1688 (s), 1606 (m), 1412 (m), 1344 (m), 1227
+(m), 1180 (m), 1043 (m), 978 (m), 818 (m), 724 (w), 679 (w), 589
+(m), 559 (m); MS (EI, 70 eV) m/z = 252 (M+); HRMS (ESI) m/z
+[M + Na]+ (C13H16OS2Na) calcd 275.0540, found 275.0542.
+2-(1,3-Dithian-2-yl)-1-(4-methoxyphenyl)ethanone (3c): Yellow
+solid; Rf = 0.42 (EA/PE = 1:10); mp (°C) 75−76; isolated yield
+80% (48 mg); 1H NMR (300 MHz, CDCl3) δ 7.93 (d, J = 8.7 Hz,
+2H), 6.92 (d, J = 8.7 Hz, 2H), 4.67 (t, J = 6.9 Hz, 1H), 3.83 (s, 3H),
+3.29 (d, J = 6.9 Hz, 2H), 2.94 (t, J = 12.5 Hz, 2H), 2.88−2.74 (m, 2H),
+2.15−2.03 (m, 1H), 1.91−1.79 (m, 1H); 13C NMR (75 MHz, CDCl3)
+δ 193.5, 163.4, 130.1, 129.2, 113.5, 55.2, 43.1, 41.5, 29.9, 25.0; MS (EI,
+70 eV) m/z = 268 (M+). This known compound had been
+characterized previously.21
+2-(1,3-Dithian-2-yl)-1-(4-ﬂuorophenyl)ethanone (3d): White
+solid; Rf = 0.45 (EA/PE = 1:10); mp (°C) 88−89; isolated yield
+75% (43 mg); 1H NMR (300 MHz, CDCl3) δ 8.16−7.88 (m, 2H),
+7.27−6.97 (m, 2H), 4.68 (t, J = 6.8 Hz, 1H), 3.33 (d, J = 6.9 Hz, 2H),
+3.03−2.92 (m, 2H), 2.90−2.82 (m, 2H), 2.18−2.08 (m, 1H), 1.95−
+1.84 (m, 1H); 13C NMR (75 MHz, CDCl3) δ 193.7, 167.4, 164.0,
+130.8, 130.6, 115.8, 115.5, 43.6, 41.4, 30.1, 25.1; IR (neat, cm−1) 3072
+(w), 2977 (w), 2903 (w), 1688 (m), 1599 (m), 1506 (m), 1402 (m),
+1352 (m), 1220 (m), 1093 (m), 1050 (m), 980 (m), 841 (m), 584
+(m), 562 (m); MS (EI, 70 eV) m/z = 256 (M+); HRMS (ESI) m/z
+[M + Na]+ (C12H13FOS2Na) calcd 279.0290, found 279.0293.
+1-(4-Chlorophenyl)-2-(1,3-dithian-2-yl)ethanone (3e): White
+solid; Rf = 0.45 (EA/PE = 1:10); mp (°C) 97−98; isolated yield
+73% (45 mg); 1H NMR (300 MHz, CDCl3) δ 7.89 (d, J = 8.9 Hz,
+2H), 7.43 (d, J = 8.9 Hz, 2H), 4.65 (t, J = 6.9 Hz, 1H), 3.33 (d, J = 6.9
+Hz, 2H), 2.95 (dt, J = 11.2, 7.0 Hz, 2H), 2.89−2.77 (m, 2H), 2.18−
+2.04 (m, 1H), 1.95−1.80 (m, 1H); 13C NMR (75 MHz, CDCl3) δ
+194.4, 140.0, 134.9, 129.7, 129.1, 43.9, 41.6, 30.3, 25.3; IR (neat, cm−1)
+2970 (w), 2900 (w), 1683 (m), 1589 (m), 1404 (m), 1347 (m), 1277
+(m), 1170 (m), 1085 (m), 1050 (m), 1005 (m), 826(m), 754 (w), 562
+(m), 527 (m); MS (EI, 70 eV) m/z = 272 (M+); HRMS (ESI) m/z
+[M + Na]+ (C12H13ClOS2Na) calcd 294.9994, found 294.9998.
+1-(4-Bromophenyl)-2-(1,3-dithian-2-yl)ethanone (3f): White
+solid; Rf = 0.45 (EA/PE = 1:10); mp (°C) 119−120; isolated yield
+52% (37 mg); 1H NMR (300 MHz, CDCl3) δ 7.77 (d, J = 8.6 Hz,
+2H), 7.55 (d, J = 8.6 Hz, 2H), 4.61 (t, J = 6.9 Hz, 1H), 3.27 (d, J = 6.9
+Hz, 2H), 2.98−2.86 (m, 2H), 2.85−2.73 (m, 2H), 2.14−1.98 (m, 1H),
+1.94−1.77 (m, 1H); 13C NMR (75 MHz, CDCl3) δ 194.3, 135.0,
+131.8, 129.5, 128.5, 43.6, 41.3, 30.0, 25.0; IR (neat, cm−1) 3080 (w),
+2908 (w), 1681 (m), 1576 (m), 1417 (m),1277 (m), 1176 (m), 1068
+(m), 985 (m), 818 (m), 746 (m), 664 (m), 564 (m), 452 (m); MS
+(EI, 70 eV) m/z = 318 (M+); HRMS (ESI) m/z [M + Na]+
+(C12H13BrOS2Na) calcd 338.9489, found 338.9492.
+2-(1,3-Dithian-2-yl)-1-(4-nitrophenyl)ethanone (3g): White solid;
+Rf = 0.36 (EA/PE = 1:10); mp (°C) 129−130; isolated yield 82% (52
+mg); 1H NMR (300 MHz, CDCl3) δ 8.26 (d, J = 8.5 Hz, 2H), 8.18−
+7.97 (m, 2H), 4.60 (t, J = 6.9 Hz, 1H), 3.34 (d, J = 6.9 Hz, 2H), 3.00−
+</para>
+Note
+<para sub=“exp”>
+2.86 (m, 2H), 2.85−2.75 (m, 2H), 2.14−2.00 (m, 1H), 1.91−1.77 (m,
+1H); 13C NMR (75 MHz, CDCl3) δ 194.2, 150.4, 140.8, 129.2, 123.9,
+44.4, 41.2, 30.2, 29.6, 25.1; IR (neat, cm−1) 3109 (w), 2975 (m), 2905
+(m), 1694 (s), 1599 (w), 1519 (s), 1339 (s), 1215 (m), 1053 (m), 980
+(w), 854 (m), 751 (m), 671 (w), 554 (w), 504 (w); MS (EI, 70 eV)
+m/z = 283 (M+); HRMS (ESI) m/z [M + Na]+ (C12H13NO3S2Na)
+calcd 306.0235, found 306.0239.
+1-(3-Bromophenyl)-2-(1,3-dithian-2-yl)ethanone (3h): White
+solid; Rf = 0.37 (EA/PE = 1:10); mp (°C) 116−117; isolated yield
+69% (49 mg); 1H NMR (300 MHz, CDCl3) δ 8.09 (s, 1H), 7.89 (d, J
+= 7.8 Hz, 1H), 7.69 (d, J = 7.9 Hz, 1H), 7.38 (t, J = 7.9 Hz, 1H), 4.69
+(t, J = 6.8 Hz, 1H), 3.37 (d, J = 6.9 Hz, 2H), 3.03−2.93 (m, 2H),
+2.91−2.76 (m, 2H), 2.19−2.07 (m, 1H), 1.98−1.81 (m, 1H); 13C
+NMR (75 MHz, CDCl3) δ 193.9, 137.9, 136.0, 130.9, 130.0, 126.5,
+122.8, 43.7, 41.1, 29.9, 25.0; IR (neat, cm−1) 3077 (w), 2935 (w), 2890
+(w), 1686 (s), 1561 (m), 1419 (s), 1344 (m), 1275 (m), 1215 (s),
+1065 (w), 898 (m), 798 (s), 706 (m), 684 (m), 619 (m), 447 (m); MS
+(EI, 70 eV) m/z = 318 (M+); HRMS (ESI) m/z [M + Na]+
+(C12H13BrOS2Na) calcd 338.9489, found 338.9493.
+2-(1,3-Dithian-2-yl)-1-(o-tolyl)ethanone (3i): White solid; Rf =
+0.45 (EA/PE = 1:10); mp (°C) 84−85; isolated yield 76% (43 mg);
+1H NMR (300 MHz, CDCl3) δ 7.62 (d, J = 7.7 Hz, 1H), 7.38 (t, J =
+7.6 Hz, 1H), 7.27 (d, J = 15.3 Hz, 2H), 4.63 (t, J = 7.0 Hz, 1H), 3.30
+(d, J = 7.0 Hz, 2H), 2.95−2.85 (m, 4H), 2.51 (s, 3H), 2.14−2.03 (m,
+1H), 1.93−1.82 (m, 1H); 13C NMR (75 MHz, CDCl3) δ 199.0, 138.4,
+137.0, 131.9, 131.5, 128.3, 125.6, 46.5, 41.6, 29.9, 25.1, 21.2; IR (neat,
+cm−1) 3062 (w), 2977 (w), 2895 (w), 1683 (m), 1459 (m), 1409 (m),
+1272 (m), 1220 (m), 1170 (m), 1048 (s), 973 (m), 881 (m), 766 (m),
+724 (m), 629 (m), 462 (m); MS (EI, 70 eV) m/z = 252 (M+); HRMS
+(ESI) m/z [M + Na]+ (C13H16OS2Na) calcd 275.0540,
+found
+275.0542.
+
+2-(1,3-Dithian-2-yl)-1-(2-methoxyphenyl)ethanone (3j): Yellow
+oil; Rf = 0.40 (EA/PE = 1:10); isolated yield 78% (47 mg); 1H
+NMR (300 MHz, CDCl3) δ 7.74 (dd, J = 7.7, 1.8 Hz, 1H), 7.58−7.42
+(m, 1H), 7.08−6.85 (m, 2H), 4.69 (t, J = 6.9 Hz, 1H), 3.91 (s, 3H),
+3.41 (d, J = 6.9 Hz, 2H), 3.00−2.90 (m, 2H), 2.89−2.78 (m, 2H),
+2.16−2.04 (m, 1H), 1.92−1.80 (m, 1H); 13C NMR (75 MHz, CDCl3)
+δ 197.2, 158.6, 133.9, 130.6, 127.3, 120.6, 111.4, 55.4, 48.9, 41.7, 30.1,
+25.3; IR (neat, cm−1) 3072 (w), 2942 (w), 2908 (w), 2828 (w), 1671
+(s), 1596 (s), 1481 (s), 1457 (m), 1432 (m), 1282 (s), 1247 (s), 1160
+(m), 1028 (m), 980 (w), 936 (w), 911 (w), 763 (s), 621 (m); MS (EI,
+70 eV) m/z = 268 (M+); HRMS (ESI) m/z [M + Na]+
+(C13H16O2S2Na) calcd 291.0489, found 291.0493.
+1-(2-Bromophenyl)-2-(1,3-dithian-2-yl)ethanone (3k): White
+solid; Rf = 0.45 (EA/PE = 1:10); mp (°C) 71−72; isolated yield
+69% (49 mg); 1H NMR (300 MHz, CDCl3) δ 7.69−7.56 (m, 1H),
+7.49−7.27 (m, 3H), 4.62 (t, J = 7.1 Hz, 1H), 3.39 (d, J = 7.1 Hz, 2H),
+2.96−2.86 (m, 4H), 2.17−2.07 (m, 1H), 1.94−1.84 (m, 1H); 13C
+NMR (75 MHz, CDCl3) δ 199.3, 140.9, 133.6, 131.9, 128.9, 127.5,
+118.7, 47.8, 41.4, 29.9, 25.2; IR (neat, cm−1) 2948 (w), 2885 (w), 1700
+(s), 1584 (m), 1429 (m), 1344 (m), 1275 (m), 1212 (m), 1028 (m),
+978 (m), 943 (w), 766 (s), 671 (w), 624 (w), 459 (m); MS (EI, 70
+eV) m/z = 318 (M+); HRMS (ESI) m/z [M + Na] +
+(C12H13BrOS2Na) calcd 338.9489, found 338.9490.
+2-(1,3-Dithian-2-yl)-1-(2-ﬂuorophenyl)ethanone (3l): White solid;
+Rf = 0.44 (EA/PE = 1:10); mp (°C) 31−32; isolated yield 75% (43
+mg); 1H NMR (300 MHz, CDCl3) δ 7.86 (dd, J = 10.6, 4.6 Hz, 1H),
+7.52 (ddd, J = 7.1, 6.2, 4.1 Hz, 1H), 7.19 (ddd, J = 19.6, 15.0, 9.8 Hz,
+2H), 4.67 (t, J = 6.8 Hz, 1H), 3.40 (dd, J = 6.8, 2.7 Hz, 2H), 2.99−2.80
+(m, 4H), 2.17−2.03 (m, 1H), 1.96−1.84 (m, 1H); 13C NMR (75
+MHz, CDCl3) δ 193.6, 163.4, 160.0, 134.9, 130.7, 124.5, 116.7, 116.4,
+48.6, 40.8, 29.8, 25.2; IR (neat, cm−1) 3084 (w), 2967 (w), 2890 (w),
+1634 (m), 1543 (m), 1472 (m), 1390 (m), 1332 (m), 1201 (m), 1068
+(m), 1023 (m), 943 (m), 770 (m), 598 (m), 469 (m); MS (EI, 70 eV)
+m/z = 256 (M+); HRMS (ESI) m/z [M + Na]+ (C12H13FOS2Na)
+calcd 279.0290, found 279.0294.
+1-(3,4-Dimethylphenyl)-2-(1,3-dithian-2-yl)ethanone (3m): White
+solid; Rf = 0.47 (EA/PE = 1:10); mp (°C) 83−84; isolated yield 72%
+(43 mg); 1H NMR (300 MHz, CDCl3) δ 7.73 (s, 1H), 7.69 (d, J = 7.8
+1H), 7.22 (d, J = 7.6 Hz, 1H), 4.69 (t, J = 6.9 Hz, 1H), 3.32 (d, J = 6.9
+</para>
+5897
+
+DOI: 10.1021/acs.joc.5b00187
+J. Org. Chem. 2015, 80, 5894−5899
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+Hz, 2H), 3.02−2.91 (m, 2H), 2.89−2.80 (m, 2H), 2.31 (s, 6H), 2.18−
+2.07 (m, 1H), 1.98−1.83 (m, 1H); 13C NMR (75 MHz, CDCl3) δ
+195.3, 143.0, 136.9, 134.4, 129.8, 129.2, 125.9, 43.5, 41.8, 30.2, 25.2,
+20.0, 19.7; IR (neat, cm−1) 3047 (w), 2982 (w), 2942 (w), 2888 (w),
+1686 (s), 1606 (m), 1449 (m), 1402 (m), 1339 (m), 1247 (m), 1125
+(m), 1053 (m), 988 (m), 901 (m), 826 (m), 726 (m), 606 (m), 534
+(w), 432 (m); MS (EI, 70 eV) m/z = 266 (M+); HRMS (ESI) m/z
+[M + Na]+ (C14H18OS2Na) calcd 289.0697, found 289.0700.
+2-(1,3-Dithian-2-yl)-1-(thiophen-3-yl)ethanone (3n): White solid;
+Rf = 0.40 (EA/PE = 1:10); mp (°C) 56−57; isolated yield 84% (46
+mg); 1H NMR (300 MHz, CDCl3) δ 8.08 (d, J = 2.9 Hz, 1H), 7.56 (d,
+J = 5.1 Hz, 1H), 7.39−7.25 (m, 1H), 4.67 (t, J = 6.9 Hz, 1H), 3.25 (d,
+J = 6.9 Hz, 2H), 3.00−2.90 (m, 2H), 2.88−2.81 (m, 2H), 2.16−2.08
+(m, 1H), 1.91−1.83 (m, 1H); 13C NMR (75 MHz, CDCl3) δ 189.7,
+141.9, 132.6, 126.9, 126.6, 45.0, 41.7, 30.4, 25.3; IR (neat, cm−1) 3077
+(w), 2928 (w), 2890 (w), 1678 (s), 1507 (m), 1412 (m), 1392 (m),
+1337 (w), 1232(m), 1185 (m), 1155 (m), 1078 (w), 874 (w), 808 (s),
+709 (m), 619 (m); MS (EI, 70 eV) m/z = 244 (M+); HRMS (ESI) m/
+z [M + Na]+ (C10H12OS3Na) calcd 266.9948, found 266.9952.
+
+2-(1,3-Dithian-2-yl)-1-(2-methoxyphenyl)propan-1-one (3o):
+Colorless oil; Rf = 0.38 (EA/PE = 1:10); isolated yield 63% (40
+mg); 1H NMR (300 MHz, CDCl3) δ 7.63 (dd, J = 7.7, 1.8 Hz, 1H),
+7.52−7.40 (m, 1H), 7.06−6.92 (m, 2H), 4.44 (d, J = 8.1 Hz, 1H), 3.90
+(s, 3H), 3.89−3.87 (m, 1H), 2.90−2.75 (m, 4H), 2.11−2.04 (m, 1H),
+1.89−1.78 (m, 1H), 1.33 (d, J = 6.9 Hz, 3H); 13C NMR (75 MHz,
+CDCl3) δ 203.7, 157.9, 133.3, 130.8, 120.8, 111.3, 55.5, 50.2, 49.3,
+30.4, 29.9, 25.8, 14.5; IR (neat, cm−1) 3077 (w), 2978 (w), 2932 (w),
+2912 (w), 2851 (w), 1683 (m), 1624 (s), 1523 (m), 1455 (w), 1350
+(m), 1247 (s), 1145 (s), 1053 (m), 973 (m), 886 (m), 765 (m), 624
+(m); MS (EI, 70 eV) m/z = 282 (M+); HRMS (ESI) m/z [M + Na]+
+(C14H18O2S2Na), calcd 305.0646, found 305.0650.
+
+2-(1,3-Dithian-2-yl)-1-(4-methoxyphenyl)propan-1-one (3p):
+Colorless oil; Rf = 0.37 (EA/PE = 1:10); isolated yield 65% (41
+mg); 1H NMR (300 MHz, CDCl3) δ 7.99 (d, J = 9.0 Hz, 2H), 6.97 (d,
+J = 9.0 Hz, 2H), 4.44 (d, J = 9.1 Hz, 1H), 3.88 (s, 3H), 3.87−3.85 (m,
+1H), 2.92−2.80 (m, 4H), 2.16−2.05 (m, 1H), 1.99−1.81 (m, 1H),
+1.35 (d, J = 6.9 Hz, 3H); 13C NMR (75 MHz, CDCl3) δ 199.4, 163.7,
+130.6, 129.4, 113.8, 55.4, 49.8, 44.0, 30.2, 29.8, 25.7, 15.7; IR (neat,
+cm−1) 3067 (w), 2972 (w), 2927 (w), 2903 (w), 2840 (w), 1673 (m),
+1604 (s), 1514 (m), 1454 (w), 1422 (m), 1237 (s), 1170 (s), 1033
+(m), 975 (m), 846 (m), 796 (m), 601 (m); MS (EI, 70 eV) m/z = 282
+(M+); HRMS (ESI) m/z [M + Na]+ (C14H18O2S2Na), calcd
+305.0646, found 305.0651.
+
+1-(1,3-Dithian-2-yl)heptan-2-one (3q): Colorless oil; Rf = 0.52
+(EA/PE = 1:10); isolated yield 45% (23 mg); 1H NMR (300 MHz,
+CDCl3) δ 4.51 (t, J = 7.0 Hz, 1H), 2.96−2.82 (m, 4H), 2.79 (d, J = 7.0
+Hz, 2H), 2.44 (t, J = 7.4 Hz, 2H), 2.15−2.07 (m, 1H), 1.86 (dt, J =
+12.6, 2.4 Hz, 1H), 1.59 (dt, J = 14.5, 7.3 Hz, 2H), 1.33−1.24 (m, 4H),
+0.89 (t, J = 7.5 Hz, 3H); 13C NMR (75 MHz, CDCl3) δ 206.1, 47.6,
+43.5, 41.1, 41.1, 31.1, 30.1, 25.2, 23.1, 22.3, 13.8; IR (neat, cm−1) 2962
+(m), 2930 (m), 2900 (m), 2865 (m), 2853 (w), 1719 (s), 1676 (w),
+1472 (w), 1427 (m), 1364 (m), 1277(m), 1080 (m), 1038 (m), 911
+(m), 873 (w), 776 (w), 726 (w), 661 (w), 619 (w); MS (EI, 70 eV)
+m/z = 232 (M+); HRMS (ESI) m/z [M + Na]+ (C11H20OS2Na),
+calcd 255.0853, found 255.0857.
+2-(1,3-Dithian-2-yl)-1,2-diphenylethanone (3r): White solid; Rf =
+0.38 (EA/PE = 1:10); mp (°C) 136−137; isolated yield 52% (37 mg);
+1H NMR (300 MHz, CDCl3) δ 7.99 (dd, J = 8.4, 1.2 Hz, 2H), 7.49 (d,
+J = 7.2 Hz, 1H), 7.40 (dd, J = 8.1, 7.0 Hz, 4H), 7.30 (td, J = 8.5, 4.1
+Hz, 3H), 5.05−4.90 (m, 2H), 2.98−2.76 (m, 4H), 2.13−2.01 (m, 1H),
+1.91−1.79 (m, 1H); 13C NMR (75 MHz, CDCl3) δ 196.8, 136.5,
+134.7, 133.2, 128.7, 128.6, 128.5, 128.4, 128.0, 57.0, 48.6, 29.7, 25.4; IR
+(neat, cm−1) 3087 (w), 3062 (w), 3027 (w), 2950 (w), 2937 (w),
+2843 (w), 1663 (s), 1581(m), 1452 (m), 1429 (m), 1329 (m), 1260
+(m), 1212 (m), 1182 (m), 973 (m), 756 (m), 691 (m), 636 (m), 537
+(m); MS (EI, 70 eV) m/z = 314 (M+); HRMS (ESI) m/z [M + Na]+
+(C18H18OS2Na), calcd 337.0697, found 337.0701.
+2-(1,3-Dithian-2-yl)-1-(4-methoxyphenyl)-2-phenylethanone
+(3s): White solid; Rf = 0.35 (EA/PE = 1:10); mp (°C) 93−94; isolated
+yield 48% (37 mg); 1H NMR (300 MHz, CDCl3) δ 7.91 (d, J = 8.8
+</para>
+Note
+<para sub=“exp”>
+Hz, 2H), 7.34 (d, J = 6.8 Hz, 2H), 7.28−7.09 (m, 3H), 6.79 (d, J = 8.8
+Hz, 2H), 4.88 (d, J = 11.1 Hz, 1H), 4.79 (d, J = 11.1 Hz, 1H), 3.70 (s,
+3H), 2.88−2.64 (m, 4H), 1.97 (d, J = 13.6 Hz, 1H), 1.83−1.69 (m,
+1H); 13C NMR (75 MHz, CDCl3) δ 195.2, 163.6, 135.1, 130.9, 129.5,
+128.7, 128.6, 127.9, 113.7, 56.7, 55.3, 48.8, 30.0, 29.9, 25.5; IR (neat,
+cm−1) 3092 (w), 3055 (w), 3040 (w), 2960 (w), 2939 (w), 2853 (w),
+1660 (s), 1595(m), 1472 (m), 1440 (m), 1350 (m), 1290 (m), 1233
+(m), 1200 (m), 1104 (m), 983 (m), 767 (m), 690 (m), 630 (m), 570
+(m), 534 (m); MS (EI, 70 eV) m/z = 344 (M+); HRMS (ESI) m/z
+[M + Na]+ (C19H20O2S2Na), calcd 367.0802, found 367.0805.
+2-(1,3-Dithian-2-yl)-2-phenyl-1-(p-tolyl)ethanone (3t): White
+solid; Rf = 0.37 (EA/PE = 1:10); mp (°C) 122−123; isolated yield
+49% (36 mg); 1H NMR (300 MHz, CDCl3) δ 7.90 (d, J = 8.2 Hz,
+2H), 7.41 (dd, J = 8.0, 1.4 Hz, 2H), 7.36−7.21 (m, 3H), 7.18 (t, J = 7.7
+Hz, 2H), 5.02−4.86 (m, 2H), 2.94−2.72 (m, 4H), 2.30 (s, 3H), 2.08−
+1.97 (m, 1H), 1.86−1.76 (m, 1H); 13C NMR (75 MHz, CDCl3) δ
+196.0, 143.8, 134.8, 133.7, 128.9, 128.5, 128.3, 127.6, 56.5, 48.4, 29.5,
+25.2, 21.2; IR (neat, cm−1) 3060 (w), 3035 (w), 2977 (w), 2932 (w),
+2898 (w), 2838 (w), 1666(s), 1604 (m), 1457 (m), 1427 (m), 1327
+(m), 1267 (m), 1177 (m), 1048 (m), 975 (m), 811 (m), 701 (s), 599
+(m), 529 (m); MS (EI, 70 eV) m/z = 328 (M+); HRMS (ESI) m/z
+[M + Na]+ (C19H20OS2Na), calcd 351.0853, found 351.0856.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+1H NMR and 13C NMR spectra of all products. The Supporting
+Information is available free of charge on the ACS Publications
+website at DOI: 10.1021/acs.joc.5b00187.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: tangshch@lzu.edu.cn.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We thank the National Natural Science Foundation of China
+for ﬁnancial support of
+this project (Nos. 21102064 and
+21102066) and a grant to X.H. (lanzhoukeji2013-4-116). We
+thank Dr. Yinpeng Su (Northwest Normal University) for help
+discussions.
+
+■ REFERENCES
+
+(1) (a) Kerr, J. A.; Parsonage, M. J. Evaluated Kinetic Data on Gas
+Phase Addition Reactions: Reactions of Atoms and Radicals with Alkenes,
+Alkynes and Aromatic Compounds; Butterworths: London, 1972.
+(b) Jasperse, C. P.; Curran, D. P.; Fevig, T. L. Chem. Rev. 1991, 91,
+1237−1286. (c) Trost, B. M.; Fleming, I. Comprehensive Organic
+Synthesis: Reduction; Elsevier: Amsterdam, 1991; Vol. 8. (d) Snider, B.
+B. Chem. Rev. 1996, 96, 339−364. (e) Parsons, A. F. An Introduction to
+Free Radical Chemistry; Blackwell Publishing: Cambridge, MA, 2000.
+(f) Wille, U. Chem. Rev. 2013, 113, 813−853.
+(2) (a) Liu, Q.; Jackstell, R.; Beller, M. Angew. Chem., Int. Ed. 2013,
+52, 13871−13873. (b) Morimoto, K.; Hirano, K.; Satoh, T.; Miura, M.
+Org. Lett. 2010, 12, 2068−2071. (c) Song, G.; Chen, D.; Pan, C. L.;
+Crabtree, R. H.; Li, X. J. Org. Chem. 2010, 75, 7487−7490. (d) Zhang,
+C.; Jiao, N. J. Am. Chem. Soc. 2010, 132, 28−29. (e) Morimoto, K.;
+Hirano, K.; Satoh, T.; Miura, M. J. Org. Chem. 2011, 76, 9548−9551.
+(f) Li, X.; Shi, X.; Fang, M.; Xu, X. J. Org. Chem. 2013, 78, 9499−9504.
+(g) Li, X.; Xu, X.; Shi, X. Tetrahedron Lett. 2013, 54, 3071−3074.
+(3) (a) Wille, U.; Heuger, G.; Jargstorff, C. J. Org. Chem. 2008, 73,
+1413−1421. (b) Chen, L.; Shi, E.; Liu, Z.; Chen, S.; Wei, W.; Li, H.;
+Xu, K.; Wan, X. Chem.Eur. J. 2011, 17, 4085−4089. (c) Guo, F.;
+Clift, M. D.; Thomson, R. J. Eur. J. Org. Chem. 2012, 4881−4896.
+(d) Wang, J.; Liu, C.; Yuan, J.; Lei, A. Angew. Chem., Int. Ed. 2013, 52,
+2256−2259. (e) Morimoto, K.; Sakamoto, K.; Ohnishi, Y.; Miyamoto,
+
+5898
+
+DOI: 10.1021/acs.joc.5b00187
+J. Org. Chem. 2015, 80, 5894−5899
+
+The Journal of Organic Chemistry
+T.; Ito, M.; Dohi, T.; Kita, Y. Chem.Eur. J. 2013, 19, 8726−8731.
+(f) Maji, A.; Hazra, A.; Maiti, D. Org. Lett. 2014, 16, 4524−4527.
+(4) (a) Lu, Q.; Zhang, J.; Wei, F.; Qi, Y.; Wang, H.; Liu, Z.; Lei, A.
+Angew. Chem., Int. Ed. 2013, 52, 7156−7159. (b) Lu, Q.; Liu, C.;
+Huang, Z.; Ma, Y.; Zhang, J.; Lei, A. Chem. Commun. 2014, 50,
+14101−14104. (c) Zhang, P.; Xiao, T.; Xiong, S.; Dong, X.; Zhou, L.
+Org. Lett. 2014, 16, 3264−3267. (d) Huo, C.; Yuan, Y.; Wu, M.; Jia, X.;
+Wang, X.; Chen, F.; Tang, J. Angew. Chem., Int. Ed. 2014, 53, 13544−
+13547.
+(5) Lu, Q.; Zhang, J.; Zhao, G.; Qi, Y.; Wang, H.; Lei, A. J. Am. Chem.
+Soc. 2013, 135, 11481−11484.
+(6) Handa, S.; Fennewald, J. C.; Lipshutz, B. H. Angew. Chem., Int.
+Ed. 2014, 53, 3432−3435.
+(7) Jiang, Y.; Loh, T. P. Chem. Sci. 2014, 5, 4939−4943.
+(8) (a) Yus, M.; Nájera, C.; Foubelo, F. Tetrahedron 2003, 59, 6147−
+6212. (b) Smith, A. B., III; Adams, C. M. Acc. Chem. Res. 2004, 37,
+365−377. (c) Wang, X.; Wang, W.; Zheng, H.; Su, Y.; Jiang, T.; He,
+Y.; She, X. Org. Lett. 2009, 11, 3136−3138. (d) Henrot, M.; Richter,
+M. E. A.; Maddaluno, J.; Herweck, C.; De Paolis, M. Angew. Chem., Int.
+Ed. 2012, 51, 9587−9591. (e) Melillo, B.; Smith, A. B., III. Org. Lett.
+2013, 15, 2282−2285. (f) Mahapatra, S.; Cater, R. G. J. Am. Chem. Soc.
+2013, 135, 10792−10803.
+(9) (a) Du, W.; Tian, L.; Lai, J.; Huo, X.; Xie, X.; She, X.; Tang, S.
+Org. Lett. 2014, 16, 2470−2473. (b) Lai, J.; Du, W.; Tian, L.; Zhao, C.;
+She, X.; Tang, S. Org. Lett. 2014, 16, 4396−4399. (c) Du, W.; Lai, J.;
+Tian, L.; Xie, X.; She, X.; Tang, S. Chem. Commun. 2014, 50, 14017−
+14020.
+(10) (a) Narasaka, K.; Arai, N.; Okauchi, T. Bull. Chem. Soc. Jpn.
+1993, 66, 2995−3003. (b) Kohno, Y.; Narasaka, K. Bull. Chem. Soc.
+Jpn. 1995, 68, 322−329. (c) Byers, J. H.; Whitehead, C. C.; Duff, M. E.
+Tetrahedron Lett. 1996, 37, 2743−2744. (d) Narasaka, K.; Okauchi, T.;
+Arai, N. Chem. Lett. 1992, 1229−1232. (e) De Greef, M.; Zard, S. Z.
+Tetrahedron 2004, 60, 7781−7791.
+(11) (a) Gaunt, M. J.; Jessiman, A. S.; Orsini, P.; Tanner, H. R.;
+Hook, D. F.; Ley, S. V. Org. Lett. 2003, 5, 4819−4822. (b) Ball, M.;
+Gaunt, M. J.; Hook, D. F.; Jessiman, A. S.; Kawahara, S.; Orsini, P.;
+Scolaro, A.; Talbot, A. C.; Tanner, H. R.; Yamanoi, S.; Ley, S. V.
+Angew. Chem. 2005, 117, 5569−5574; Angew. Chem., Int. Ed. 2005, 44,
+5433−5438. (c) Kang, J.; Liang, F.; Sun, S. G.; Liu, Q.; Bi, X. H. Org.
+Lett. 2006, 8, 2547−2550. (d) Sneddon, H. F.; van den Heuvel, A.;
+Hirsch, A. K.; Booth, R. A.; Shaw, M.; Gaunt, M. J.; Ley, S. V. J. Org.
+Chem. 2006, 71, 2715−2725. (e) Ley, S. V. Tetrahedron 2010, 66,
+6270−6292. (f) Wang, Y.; Bi, X.; Li, W. Q.; Li, D.; Zhang, Q.; Liu, Q.;
+Ondon, B. S. Org. Lett. 2011, 13, 1722−1725.
+(12) (a) Xie, X.; Yue, G.; Tang, S.; Huo, X.; Liang, Q.; She, X.; Pan,
+X. Org. Lett. 2005, 7, 4057−4059. (b) Smith, A. B., III; Xian, M.; Kim,
+W.-S. J. Am. Chem. Soc. 2006, 128, 12368−12369. (c) Tang, S.; Han,
+J.; He, J.; Zheng, J.; He, Y.; Pan, X.; She, X. Tetrahedron Lett. 2008, 49,
+1348−1351. (d) Chen, M. Z.; Gutierrez, O.; Smith, A. B., III. Angew.
+Chem., Int. Ed. 2014, 53, 1279−1282.
+(13) (a) Chudasama, V.; Fitzmaurice, R. J.; Caddick, S. Nat. Chem.
+2010, 2, 592−596. (b) Hofmann, J.; Jasch, H.; Heinrich, M. R. J. Org.
+Chem. 2014, 79, 2314−2320. (c) Nobuta, T.; Hirashima, S. I.; Tada,
+N.; Miura, T.; Itoh, A. Tetrahedron Lett. 2010, 51, 4576−4578.
+(d) Ling, F.; Li, Z.; Zheng, C.; Liu, X.; Ma, C. J. Am. Chem. Soc. 2014,
+136, 10914−10917.
+(14) (a) Herrera, A. J.; Studer, A. Synthesis 2005, 1389−1396.
+(b) Yan, H.; Rong, G.; Liu, D.; Zheng, Y.; Chen, J.; Mao, J. Org. Lett.
+2014, 16, 6306−6309. (c) Porter, T. R.; James, M. M. Chem. Sci. 2014,
+5, 372−380.
+(15) (a) Mitchell, L. J.; Moody, C. J. J. Org. Chem. 2014, 79, 11091−
+11100. (b) Fruchey, E. R.; Monks, B. M.; Cook, S. P. J. Am. Chem. Soc.
+2014, 136, 13130−13133.
+(16) (a) Jana, U.; Biswas, S.; Maiti, S. Eur. J. Org. Chem. 2008, 5798−
+5804. (b) Marion, N.; Ramon, R. S.; Nolan, S. P. J. Am. Chem. Soc.
+2008, 131, 448−449. (c) Miura, T.; Biyajima, T.; Fujii, T.; Murakami,
+M. J. Am. Chem. Soc. 2011, 134, 194−196. (d) Stopka, T.; Niggemann,
+M. Org. Lett. 2015, 17, 1437−1440.
+
+Note
+
+(17) (a) Sumiyoshi, T.; Sugita, N.; Watanabe, K.; Katayama, M. Bull.
+Chem. Soc. Jpn. 1988, 61, 3055−3059. (b) Bravo, A.; Bjorsvik, H. R.;
+Fontana, F.; Minisci, F.; Serri, A. J. Org. Chem. 1996, 61, 9409−9416.
+(18) (a) Arai, K.; Oki, M. Tetrahedron Lett. 1975, 2183−2186.
+(b) Arai, K.; Oki, M. Bull. Chem. Soc. Jpn. 1976, 49, 553−558.
+(19) (a) Jørgensen, M.; Krebs, F. C. J. Org. Chem. 2005, 70, 6004−
+6017. (b) Reddy, M. V. R.; Mallireddigari, M. R.; Pallela, V. R.;
+Venkatapuram, P.; Boominathan, R.; Bell, S. C.; Reddy, E. P. Bioorg.
+Med. Chem. 2005, 13, 1715−1723.
+(20) (a) Gammill, R. B.; Sobieray, D. M.; Gold, P. M. J. Org. Chem.
+1981, 46, 3555−3558. (b) Stahl, I. Chem. Ber. 1985, 118, 1798−1808.
+(21) (a) Stossel, D.; Chan, T. H. J. Org. Chem. 1988, 53, 4901−4908.
+(b) Ranu, B. C.; Bhar, S.; Chakraborti, R. J. Org. Chem. 1992, 57,
+7349−7352.
+
+5899
+
+DOI: 10.1021/acs.joc.5b00187
+J. Org. Chem. 2015, 80, 5894−5899
+
+

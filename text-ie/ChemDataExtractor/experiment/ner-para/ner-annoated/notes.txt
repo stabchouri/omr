@@ -1,0 +1,54 @@
+How to count:
+
+chemical entities labeled with <cem> and </cem>
+
+1) do nothing to ones that are correctly labeled
+2) incorrectly labeled replace tag with <incorrect> </incorrect>
+   - includes when entity is not a chemical but a name/compound number etc...
+3) incorrect but still a chemical <inc_new> and </inc_new>
+   - chemicals that are tagged but too inclusive (ie have more than one chemical name wrapped in <cem>)
+   - includes when two chemicals are not tagged together but is one compound.
+ 
+4) Chemicals not recognized by the extractor but manually use <newcem> and </newcem>
+   - many times they are abbreviations
+
+
+How calculations were performed:
+1) there are 2 files. 1 that is annotated and one that is the reference that has nothing changed. This will allow us to get the reference number of compounds that were extracted by the program.
+2) open all files in python, concatenate the texts into text and text_reference, count the instances:
+
+	if paragraphs in text == reference: (to help ensure they are from the same manuscripts and there are not extra paragraphs in the reference text that have chemical annotations which will mess up the calculation)
+		a) #paragarphs = count('<para')
+		b) #Total extracted entites that are correct = count('<cem>')
+		c) #Total extracted entites = reference text count('<cem>')
+		d) # total correct entites = count('<cem>') + count('<newcem>') + count('<inc_new>') 
+
+		precision = #extracted entites which are correct / #extracted entities
+		recall = #extracted entites which are correct / #correct entities
+		F1 = 2 * precision * recall / (precision + recall)
+
+
+
+
+### personal notes that may not make sense###
+
+Generally, the missed chemical entities are abbreviations and will miss the same one multiple times in a manuscript. 
+
+Ha Hb describing hydrogens? it does not find the carbons like C5 so i am changing them to incorrect
+
+aryl? yes no or does it need to contain the whole description? aryl-substituted
+
+general descriptors like ligand? - yes
+
+does not get continuations such as: quin-
+oline
+
+Lewis acidic character - no but - Lewis acidic salts -yes
+<chem>hydrogen</cem> bond - not a chemical (198 has ~three instances)
+
+Hard example: because it should be SnCl2•H20:
+•2H2O/<cem>MeOH</cem> indicated the initial formation
+spectra of <cem>SnCl2
+
+
+

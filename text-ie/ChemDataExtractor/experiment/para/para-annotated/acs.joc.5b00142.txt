@@ -1,0 +1,817 @@
+Note
+
+pubs.acs.org/joc
+
+Rhodium Catalyzed C2-Selective Cyanation of Indoles and Pyrroles
+Manthena Chaitanya and Pazhamalai Anbarasan*
+
+Department of Chemistry, Indian Institute of Technology Madras, Chennai - 600036, India
+
+*S Supporting Information
+
+ABSTRACT: An eﬃcient and general rhodium(III) catalyzed C2-selective cyanation of indoles and pyrroles was accomplished
+employing easily accessible and environmentally friendly cyanating reagent, NCTS. This methodology tolerates various
+functional groups, uses readily removable directing groups and allows the synthesis of various 2-cyanoindoles and pyrroles in
+good to excellent yield.
+
+pyrroles, are important
+
+structural motifs present
+
+C yano heteroarenes, particularly 2-cyanoindoles and
+
+in
+various therapeutically important natural products.1 Also, they
+are widely used as building blocks for construction of various
+pharmaceuticals, agrochemicals (Figure 1), and dyes;
+in
+addition, incorporation of these moieties in polymers provides
+them with unique physical properties.2 Thus, eﬃcient and
+selective synthesis of 2-cyanoindoles and pyrroles is highly
+desirable in both organic and medicinal chemistry.
+
+the past
+
+Although traditionally cyano(hetero)arenes were synthe-
+sized from corresponding aldehydes and their derivatives or
+halides,3 over
+few decades, selective and direct
+cyanation4 of highly abundant C−H bonds of (hetero)arenes
+has emerged as a powerful tool to achieve atom- and step-
+economy in organic synthesis.5 In this context,
+the most
+documented direct cyanation of indoles is the transition metal
+mediated/catalyzed C3-selective cyanation,6 which is probably
+due to the inherent property of indoles (Scheme 1). Typically,
+indoles can be achieved using isocyanato-
+C3-cyanation of
+phosphoric
+triphenylthiocyanogen
+(TPPT)8 as the cyanating reagent. Recently, these strategies
+were replaced with transition metal catalyzed cyanation of
+indoles employing tBuNC,9 TMEDA/NH3,10 DMF,11 DMF/
+NH4I,12 DMSO/NH4HCO3,13 metal cyanides,14 BnCN,15 3,5-
+(CF3)2C6H3I(OTf)CN,16 and N-cyano-N-phenyl-p-toluenesul-
+fonamide (NCTS).17 However,
+the closely related C2-
+selective cyanation of
+indoles and related heteroarenes is
+rather limited.
+
+acid dichloride7 or
+
+The known C2-selective cyanation of
+
+indoles (pyrroles)
+the directing group assisted palladium-catalyzed
+includes
+isocyanide9,18 as “CN” source in
+cyanation using tert-butyl
+combination with 3 equiv of copper
+salt and the sub-
+stoichiometric copper catalyzed cyanation employing acetoni-
+trile19 as “CN” source along with additives such as AgOAc or
+(Me3Si)2 (Scheme 2). These reactions suﬀer from the use of
+high catalyst
+super-stoichiometric amounts of
+expensive additives, harsh reaction conditions, and limited
+substrate scope. Thus,
+the eﬃcient catalytic C2-selective
+
+loading,
+
+cyanation of indoles (pyrroles) is highly warranted. Based on
+the need for catalytic cyanation and our interest in C−H
+functionalization20 and cyanation employing readily accessible
+and environmentally benign NCTS as a cyanating reagent,21
+we herein reveal
+the general rhodium catalyzed chelation
+assisted selective C2-cyanation of indoles and pyrroles with
+NCTS.
+<para sub=“opt”>
+Initially, we investigated the C2-cyanation of
+
+indole
+derivatives. The C2-cyanation of N-(2-pyridyl)indole 1a with
+NCTS (2 equiv) was performed in the presence of
+[Cp*RhCl2]2 (1 mol %) as a catalyst and AgSbF6 (10 mol
+%) as an additive in toluene at 100 °C for 36 h.21 To our
+delight, 2-cyano-N-(2-pyridyl)indole 3a was observed in 20%
+isolated yield (Table 1, entry1). No reaction was observed in
+the absence of either [Cp*RhCl2]2 or AgSbF6, which shows
+that cyanation is catalyzed and promoted by rhodium and
+silver complex, respectively.22 Next, a slight improvement in
+yield was observed with the temperature increasing to 120 °C
+(Table 1, entry 2). Increasing the ratio of rhodium to silver
+complex by adding 2 mol % of rhodium complex gave better
+conversion with 56% isolated yield of 3a, but the opposite
+eﬀect was observed when the silver complex was reduced to 5
+mol % to increase the ratio of Rh(III)/Ag(I) (Table 1, entries
+3 and 4).
+</para>
+<para sub=“opt”>
+Although cyanation in solvents like chlorobenzene and 1,2-
+tAmOH gave the
+DCE was inferior to cyanation in toluene,
+formation of product 3a in 82% isolated yield with complete
+conversion of 1a in 18 h (Table 1, entres 5−7). Interestingly,
+decreasing the catalyst loading to 1 mol % in tAmOH did not
+aﬀect
+importantly, a similar eﬀect was
+observed when the equivalents of cyanating reagent were
+reduced to 1 equiv and the product 3a was isolated in
+comparable yield (Table 1, entries 8−10). Finally, using 1
+equiv of NCTS and 1.2 equiv of 1a in tAmOH at 120 °C with
+
+the reaction. Most
+</para>
+Received:
+January 20, 2015
+Published: March 12, 2015
+
+© 2015 American Chemical Society
+
+3695
+
+DOI: 10.1021/acs.joc.5b00142
+J. Org. Chem. 2015, 80, 3695−3700
+
+The Journal of Organic Chemistry
+
+Note
+
+Figure 1. Examples of bioactive molecules synthesized from 2-cyanoindole.
+
+Scheme 1. Direct Cyanation of Indoles and Pyrroles
+
+Table 1. Rhodium Catalyzed C2-Selective Cyanation of N-
+(2-Pyridyl)indole 1a: Optimizationa
+
+Y
+1
+1
+2
+2
+2
+2
+2
+1
+1
+1
+1
+
+36
+36
+36
+36
+36
+36
+18
+18
+18
+18
+18
+
+time (h)
+
+conversionb (%)
+
+yieldc (%)
+
+X
+2
+2
+2
+2
+2
+2
+2
+2
+1.5
+1.2
+1
+
+solvent
+toluene
+toluene
+toluene
+toluene
+C6H5Cl
+1,2-DCE
+tAmOH
+tAmOH
+tAmOH
+tAmOH
+tAmOH
+
+entry
+1d
+2
+3
+4e
+5
+6
+7
+8
+9
+10
+11f
+aReaction conditions: N-(2-pyridyl)indole 1a (1 equiv), NCTS 2 (X
+equiv), [Cp*RhCl2]2 (Y mol %), AgSbF6 (10 mol %), solvent (1.5
+mL), 120 °C, time. bBased on the recovered starting material. cIsolated
+yield. d100 °C. e5 mol % of AgSbF6. f1.2 equiv of 1a and the yield is
+based on cyanating reagent.
+
+20
+32
+56
+<10
+33
+18
+82
+84
+82
+82
+92
+
+-
+60
+81
+35
+72
+62
+100
+100
+100
+100
+100
+<para sub=“opt”>
+1 mol % of [Cp*RhCl2]2 and 10 mol % of AgSbF6 aﬀorded
+the product 3a in the best isolated yield of 92%.
+</para>
+<para sub="scope">
+substituted indoles. As
+
+After identifying the optimal reaction conditions, we studied
+the Rh(III)-catalyzed C2-
+the scope and generality of
+cyanation with various
+shown in
+Scheme 2, the optimized conditions tolerate functional groups
+at various position (C3, C4, and C5) of N-(2-pyridyl)indoles
+to aﬀord the corresponding product in good to excellent yield.
+Simple aryl and readily functionalizable bromo-substituted
+cyanoindoles (3b and 3c) were achieved in 76% and 77%
+yield, respectively. Interestingly, the reaction tolerates both
+electron donating (methoxy and benzyloxy) and electron-
+
+withdrawing groups (tosyloxy and cyano) on the indole
+moiety and led to the formation of corresponding 2-
+cyanoindoles (3d−3h) in good yields. Sterically demanding
+C−H possessing 3-methyl and 3-(carbomethoxy)methyl
+substituted indoles were also readily converted to correspond-
+ing cyanated product (3i and 3j) in 96% and 82% yield,
+respectively. Similarly, substitutions on the directing group
+were also examined. All the pyridine derivatives that were
+examined helped the chelation-assisted cyanation and led to
+the formation of cyanated product (3k−3m) in good yield.
+Instead of pyridine, other chelating groups like quinoline and
+pyrimidine were also studied. N-(2-Quinolyl)indole and N-(2-
+pyrimidyl)indole underwent smooth reaction to aﬀord the
+products 3n and 3o in 71% and 46% yield, respectively.
+However, substrate with an additional coordination site gave
+comparatively lower yields.
+</para>
+<para sub="scope">
+Subsequently, we extended the optimized conditions to
+pyrrole-based derivatives. Initial attempts with N-(pyridyl)-
+pyrrole 4a aﬀorded only moderate yield of 2-cyano-N-
+(pyridyl)pyrrole 5a. By changing the catalyst
+the
+reaction conditions were optimized to aﬀord the product 5a
+in 81% yield, with 3 mol % of rhodium catalyst and 10 mol %
+of AgSbF6 in tert-amyl alcohol at 120 °C (Scheme 3 and see
+Supporting Information).
+
+loading,
+
+the optimized conditions
+</para>
+<para sub="scope">
+Next, diverse pyrrole derivatives 4 were examined for C2-
+selective cyanation under the optimized conditions (Scheme
+4). Simple alkyl and aryl-substituted pyrrole derivatives were
+readily converted under
+to
+corresponding cyanated product (5c and 5d) in good yield.
+2-Methyl and 2,3-fused pyrroles, sterically demanding pyrrole
+derivatives, underwent smooth reaction to give the product 5a
+and 5e in 67% and 76% yield, respectively. Interestingly, the
+optimized reaction tolerates various functional groups,
+like
+benzoyl, acetyl, and ester,
+to aﬀord the corresponding
+products (5f−5h) in moderate yield. Furthermore, cyanation
+of pyrrole containing various chelating pyridines derivatives
+also furnished the product (5i−5l) in good to excellent yield.
+</para>
+3696
+
+DOI: 10.1021/acs.joc.5b00142
+J. Org. Chem. 2015, 80, 3695−3700
+
+The Journal of Organic Chemistry
+Scheme 2. Rhodium Catalyzed C2-Selective Cyanation of Indolesa
+
+Note
+
+a[a] 2 mol % [Cp*RhCl2]2; [b] 3 mol % [Cp*RhCl2]2.
+
+Scheme 3. Rhodium Catalyzed C2-Selective Cyanation of
+N-Pyridylpyrrole 4a
+<para sub="scope">
+After the successful development of rhodium catalyzed C2-
+selective cyanation of indoles and pyrroles, the utility of the
+synthesized 2-cyanoheteroarenes was demonstrated through
+the conversion into synthetically useful building blocks. First,
+we envisioned the removal of directing group form the 2-
+cyanoindole moiety. Thus, the reaction of 3o and sodium
+methoxide in DMSO at 110 °C furnished the simple 2-
+cyanoindole 7, an important building block for the synthesis
+</para>
+Scheme 4. Rhodium Catalyzed C2-Selective Cyanation of Pyrroles.†
+
+†1H NMR yield.
+
+3697
+
+DOI: 10.1021/acs.joc.5b00142
+J. Org. Chem. 2015, 80, 3695−3700
+
+The Journal of Organic Chemistry
+<para sub="scope">
+of bioactive molecules shown in Scheme 1,
+in 81% yield.
+Similarly, the treatment of 3a with sodium methoxide aﬀorded
+the hydrolyzed product 6 in good yield. The combined
+deprotection and hydrolysis of cyano compound 3a to indole-
+2-carboxylic acid 8 was achieved through the initial reaction
+with methyltriﬂate followed by treatment with sodium
+hydroxide.
+</para>
+Scheme 5. Representative Reaction of 2-Cyanoindoles 3
+
+In conclusion, we have developed an eﬃcient and direct
+rhodium catalyzed C2-cyanation of
+indoles and pyrroles
+employing readily available and environmentally benign N-
+cyano-N-phenyl-p-toluenesulfonamide (NCTS, 2) as a cyanat-
+ing reagent. The developed reaction tolerated various
+functional groups and allowed the synthesis of diverse 2-
+in good to excellent yield.
+cyanoindoles and pyrroles
+Additionally,
+the readily modiﬁable
+chelating groups like pyridine, pyrimidine, and quinoline.
+Furthermore,
+the synthesized cyano
+compounds was
+successfully demonstrated by converting
+into highly important building blocks.
+
+the reaction utilizes
+
+the potential of
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Procedure for Rhodium Catalyzed C2 Cyanation N-
+Pyridyl Indole (3). A dry reaction tube (10 mL) was charged with
+heteroarene 1 (0.24 mmol), N-cyano-N-phenyl-p-toluenesulfonamide
+2 (54 mg, 0.2 mmol), [Cp*RhCl2]2 (1.2 mg, 0.002 mmol, 1 mol %),
+AgSbF6 (6.8 mg, 0.02 mmol, 10 mol %), and dry tAmOH (1.5 mL)
+under nitrogen atmosphere. The reaction tube was sealed under
+nitrogen atmosphere and the reaction mixture was stirred at 120 °C
+for 18 h. After the completion of the reaction, as monitored by TLC
+analysis, the reaction mixture was cooled to room temperature and
+puriﬁed by column chromatography using a mixture of hexane and
+ethyl acetate as eluent to aﬀord the pure cyanated product 3.
+3a:9 49 mg, 92% yield; colorless liquid; 1H NMR (400 MHz,
+CDCl3, 24 °C): δ 8.69−8.67 (m, 1H), 7.96−7.91 (m, 1H), 7.76 (dd,
+1H, J = 8.72, 0.64 Hz), 7.70 (d, 1H, J = 8.0 Hz), 7.58 (d, 1H, J = 8.2
+Hz), 7.43−7.35 (m, 3H), 7.29−7.25 (m, 1H); 13C{1H} NMR (100
+MHz, CDCl3, 24 °C): δ 149.7 (CH), 149.6 (C), 138.9 (CH), 137.1
+(C), 127.0 (CH), 126.9 (C), 122.9 (CH), 122.8 (CH), 124.4 (CH),
+118.8 (CH), 117.4 (CH), 113.8 (C), 112.3 (CH), 109.1 (C);
+HRMS: calcd. for C14H9N3+H: 220.0875; found: 220.0886.
+3b: 54 mg, 76% yield; white solid; 1H NMR (400 MHz, CDCl3,
+24 °C): δ 8.72−8.70 (m, 1H), 7.99−7.94 (m, 1H), 7.90 (d, 1H, J =
+1.09 Hz), 7.85 (d, 1H, J = 8.76 Hz), 7.69−7.62 (m, 4H), 7.48−7.45
+(m, 3H), 7.41−7.34 (m, 2H); 13C{1H} NMR (100 MHz, CDCl3, 24
+°C): δ 149.8 (CH), 141.1 (C), 139 (CH), 136.6 (C), 136.4 (C), 129
+(C), 128.9 (CH), 127.5 (C), 127.4 (CH), 127.2 (CH), 126 0.9
+(CH), 122.9 (CH), 120.5 (CH), 118.7 (CH), 117.7 (CH), 113.7
+for C20H13N3+H:
+(C), 112.7 (CH), 109.7 (C); HRMS: calcd.
+296.1188; found: 296.1199.
+3c:9 55 mg, 77% yield; colorless liquid; 1H NMR (400 MHz,
+CDCl3, 24 °C): δ 8.69−8.67 (m, 1H), 7.96 (m, 1H), 7.84 (d, 1H, J
+= 1.57 Hz), 7.67 (d, 1H, J = 8.8 Hz), 7.57 (d, 1H, J = 8.18 Hz),
+</para>
+Note
+<para sub=“exp”>
+7.49−7.47 (m, 1H), 7.42−7.38 (m, 1H), 7.32 (s, 1H); 13C{1H}
+NMR (100 MHz, CDCl3, 24 °C): δ 149.8 (CH), 149.4 (C), 139.1
+(CH), 135.7 (C),129.9 (CH), 128.4 (C), 124.7 (CH), 123.2 (CH),
+118.8 (CH), 116.3 (CH), 116 (C), 114.1 (CH), 113.2 (C), 110 (C);
+HRMS: calcd. for C14H8N3Br+H: 297.9980; found: 297.9969.
+3d:9 38 mg, 64% yield; white solid; 1H NMR (400 MHz, CDCl3,
+24 °C): δ 8.67−8.66 (m, 1H), 7.95−7.91 (m, 1H), 7.70 (dd, 1H, J =
+9.88, 0.54 Hz), 7.58 (m, 1H), 7.34 (ddd, 1H, J = 7.50, 4.88, 0.89
+Hz), 7.31 (d, 1H, J = 0.6 Hz), 7.08−7.05 (m, 2H), 3.86 (s, 3H);
+13C{1H} NMR (100 MHz, CDCl3, 24 °C): δ 156.0 (C), 149.8 (C),
+149.6 (CH), 139 (CH),132.4 (C), 127.5 (C), 122.7 (CH), 118.5
+(CH), 118.2 (CH), 117 (CH), 113.9 (C), 113.5 (CH), 109 (C),
+102.3 (CH), 55.8 (CH3); HRMS: calcd.
+for C15H11N3O+H:
+250.0980; found: 250.0981.
+3e: 57 mg, 73% yield; colorless liquid; 1H NMR (400 MHz,
+CDCl3, 24 °C): δ 8.67−8.65 (m, 1H), 7.94−7.90 (m, 1H), 7.71 (d,
+1H, J = 9.97 Hz), 7.7 (d, 1H, J = 8.04 Hz), 7.45 (d, 2H, J = 7.07
+Hz), 7.40−7.32 (m, 4H), 7.29 (s, 1H), 7.17−7.14 (m, 2H), 5.1 (s,
+2H); 13C{1H} NMR (100 MHz, CDCl3, 24 °C): δ 155.1 (C), 149.8
+(C), 149.6 (CH), 139 (CH),136.9 (C), 132.5 (C), 128.7 (CH),
+128.1 (CH), 127.6 (CH), 127.4 (C), 122.7 (CH), 118.7 (CH),
+118.5 (CH), 117 (CH), 113.9 (C), 113.5 (CH), 109 (C), 103.9
+(CH), 70.6 (OCH2); HRMS: calcd. for C21H15N3O+H: 326.1293;
+found: 326.1279.
+3f: 54 mg, 58% yield; colorless liquid; 1H NMR (400 MHz,
+CDCl3, 24 °C): δ 8.59 (d, 1H, J = 4.58 Hz), 7.90−7.86 (m, 1H),
+7.64−7.60 (m, 3H), 7.49 (d, 1H, J = 7.95 Hz), 7.34−7.31 (m, 1H),
+7.26−7.18 (m, 4H), 6.97 (d, 1H, J = 9.15 Hz), 2.36 (s, 3H);
+13C{1H} NMR (100 MHz, CDCl3, 24 °C): δ 149.8 (CH), 149.4
+(C), 145.5 (C), 145.3 (CH), 139.2 (CH),135.4 (C), 132.3 (C),
+130.9 (C), 129.9 (CH), 128.7 (CH), 126.9 (C), 123.3 (CH), 121.9
+(CH), 118.9 (CH), 117.1 (CH), 115.5 (CH), 113.1 (C), 110.7 (C),
+21.8 (CH3); HRMS: calcd. for C21H15N3O3S+H: 390.0912; found:
+390.0926.
+3g:9 23 mg, 39% yield; white solid; 1H NMR (400 MHz, CDCl3,
+24 °C): δ 8.72−8.71 (m, 1H), 8.10−8.09 (m, 1H), 8.03−7.99 (m,
+1H), 7.88−7.86 (m, 1H), 7.64−7.60 (m, 2H), 7.48−7.45 (m, 2H);
+13C{1H} NMR (100 MHz, CDCl3, 24 °C): δ 150.0 (CH), 148.9
+(C), 139.4 (CH), 138.4 (C), 129.2 (CH), 128.0 (CH), 126.6 (C),
+123.8 (CH), 119.2 (C), 119.2 (CH), 117.1 (CH), 113.9 (CH),
+112.6 (C), 111.8 (C), 106.6 (C); HRMS: calcd. for C15H8N4+H:
+245.0827; found: 245.0832.
+3h: 18 mg, 30% yield; white solid; 1H NMR (400 MHz, CDCl3,
+24 °C): δ 8.72−8.71 (m, 1H), 8.06−7.99 (m, 2H), 7.66 (dd, 1H, J =
+7.28, 0.72 Hz), 7.63−7.61 (m, 1H), 7.59 (d, 1H, J = 0.72 Hz), 7.51−
+7.45 (m, 2H); 13C{1H} NMR (100 MHz, CDCl3, 24 °C): δ 150.0
+(CH), 149.0 (C), 139.4 (CH), 136.7 (C), 128.3 (CH), 127.7 (C),
+126.6 (CH), 123.8 (CH), 119.2 (CH), 117.7 (CH), 117.2 (C),
+114.9 (CH), 112.6 (C), 111.6 (C), 105.4 (C); HRMS: calcd. for
+C15H8N4+H: 245.0827; found: 245.0836.
+3i:9 54 mg, 96% yield; white solid; 1H NMR (400 MHz, CDCl3,
+24 °C): δ 8.56 (s, 1H), 7.83−7.80 (m, 1H), 7.70 (d, 1H, J = 8.34
+Hz), 7.56 (d, 1H, J = 7.94 Hz), 7.47 (d, 1H, J = 7.94 Hz), 7.32−7.31
+(m, 1H), 7.23−7.16 (m, 2H), 2.48 (s, 3H); 13C{1H} NMR (100
+MHz, CDCl3, 24 °C): δ 150.0 (C), 149.5 (CH), 138.8 (CH), 137.0
+(C), 128.6 (C), 127.5 (C), 127.2 (CH), 122.3 (CH), 122.1 (CH),
+120.6 (CH), 118.3 (CH), 113.7 (C), 112.3 (CH), 107.6 (C), 9.9
+(CH3); HRMS: calcd. for C15H11N3+H: 234.1031; found: 234.1033.
+3j: 57 mg, 82% yield; colorless liquid; 1H NMR (400 MHz,
+CDCl3, 24 °C): δ 8.69−8.67 (m, 1H), 7.96−7.92 (m, 1H), 7.79−
+7.76 (m, 1H), 7.71−7.69 (m, 1H), 7.61−7.59 (m, 1H), 7.45−7.41
+(m, 1H), 7.37 (ddd, 1H, J = 7.49, 4.88, 0.95 Hz), 7.31−7.27 (m,
+1H), 4.02 (s, 2H), 3.74 (s, 3H); 13C{1H} NMR (100 MHz, CDCl3,
+24 °C): δ 170.1 (C), 149.7 (CH), 139.0 (CH), 137.0 (C), 127.4
+(CH), 126.8 (C), 124.0 (C), 122.8 (CH), 122.7 (CH), 120.9 (C),
+120.8 (CH), 118.7 (CH), 113.0 (C), 112.4 (CH), 108.9 (C), 52.5
+(OCH3), 31.1 (CH2); HRMS: calcd. for C17H13N3O2+H: 292.1086;
+found: 292.1079.
+
+3k: 40 mg, 72% yield; colorless liquid; 1H NMR (400 MHz,
+CDCl3, 24 °C): δ 8.45 (d, 1H, J = 5.17 Hz), 7.66 (dd, 1H, J = 8.61,
+</para>
+3698
+
+DOI: 10.1021/acs.joc.5b00142
+J. Org. Chem. 2015, 80, 3695−3700
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+0.86 Hz), 7.63−7.61 (m, 1H), 7.35−7.30 (m, 3H), 7.20−7.16 (m,
+1H), 7.12−7.11 (m, 1H), 2.41 (s, 3H); 13C{1H} NMR (100 MHz,
+CDCl3, 24 °C): δ 150.7 (C), 149.8 (C), 149.3 (CH), 137.2 (C),
+128.5 (C), 126.9 (CH), 124.0 (CH), 122.7 (CH), 122.3 (CH),
+119.7 (CH), 117.2 (CH), 113.8 (C), 112.4 (CH), 109.2 (C), 21.34
+(CH3); HRMS: calcd. for C15H11N3+H: 234.1031; found: 234.1029.
+3l: 53 mg, 95% yield; colorless liquid; 1H NMR (400 MHz,
+CDCl3, 24 °C): δ 8.40 (m, 1H), 7.65−7.59 (m, 3H), 7.38−7.36 (m,
+1H), 7.33−7.28 (m, 2H), 7.18−7.14 (m, 1H), 2.34 (s, 3H); 13C{1H}
+NMR (100 MHz, CDCl3, 24 °C): δ 149.9 (CH), 147.4 (C), 139.4
+(CH), 137.2 (C), 132.9 (C), 128.4 (C), 126.8 (CH), 122.5 (CH),
+122.3 (CH), 118.5 (CH), 116.8 (CH), 113.8 (C), 112.2 (CH),
+109.1 (C), 18.13 (CH3); HRMS: calcd. for C15H11N3+H: 234.1031;
+found: 234.1041.
+3m: 49 mg, 82% yield; colorless liquid; 1H NMR (400 MHz,
+CDCl3, 24 °C): δ 7.79−7.75 (m, 2H), 7.71−7.69 (m, 1H), 7.43−
+7.38 (m, 2H,), 7.29−7.25 (m, 1H), 7.13 (d, 1H, J = 7.44 Hz), 6.78
+(d, 1H, J = 8.33 Hz), 4.05 (s, 3H); 13C{1H} NMR (100 MHz,
+CDCl3, 24 °C): δ 164.0 (C), 147.1 (C), 140.7 (CH), 136.7 (C),
+127.0 (C), 126.8 (CH), 122.6 (CH), 122.4 (CH), 117.3 (CH),
+114.1 (C), 112.2 (CH), 112.2 (CH), 109.9 (CH), 109.3 (C), 54.3
+(OCH3); HRMS: calcd.
+found:
+250.0983.
+
+for C15H11N3O+H: 250.0980;
+
+3n: 46 mg, 71% yield; white solid; 1H NMR (400 MHz, CDCl3,
+24 °C): δ 8.40 (d, 1H, J = 8.68 Hz), 8.17 (d, 1H, J = 8.35 Hz),
+7.96−7.91 (m, 2H), 7.83−7.79 (m, 1H), 7.76−7.73 (m, 2H), 7.64−
+7.60 (m, 1H), 7.48−7.44 (m, 2H), 7.33−7.29 (m, 1H); 13C{1H}
+NMR (100 MHz, CDCl3, 24 °C): δ 148.6 (C), 147.4 (C), 139.5
+(CH), 137.2 (C), 130.9 (CH), 129.1 (CH), 127.8 (CH), 127.3
+(CH), 127.2 (C), 127.2 (CH), 127.2 (C), 123 (CH), 122.5 (CH),
+118.0 (CH), 117.0 (CH), 113.9 (C), 112.7 (CH), 109.2 (C);
+HRMS: calcd. for C18H11N3+H: 270.1031; found: 270.1033.
+3o:9 24 mg, 46% yield; white solid; 1H NMR (400 MHz, CDCl3,
+24 °C): δ 8.83 (d, 2H, J = 4.67 Hz), 8.69 (d, 1H, J = 8.57 Hz), 7.68
+(d, 1H, J = 8.01 Hz), 7.52−7.47 (m, 2H), 7.34−7.31 (m, 1H), 7.23
+(t, 1H, J = 4.8 Hz); 13C{1H} NMR (100 MHz, CDCl3, 24 °C): δ
+158.4 (CH), 156.7 (C), 136.7 (C), 127.9 (C), 127.6 (CH), 123.6
+(CH), 122.1 (CH), 121.1 (CH), 118.1 (CH), 116.2 (CH), 114.3
+(C), 109.1 (C); HRMS: calcd. for C13H8N4+H: 221.0827; found:
+221.0830.
+
+General Procedure for Rhodium Catalyzed C2 Cyanation of
+N-Pyridyl Pyrrole (5). A dry reaction tube (10 mL) was charged
+with heteroarene 4 (0.24 mmol), N-cyano-N-phenyl-p-toluenesulfo-
+namide 2 (54 mg, 0.2 mmol), [Cp*RhCl2]2 (3.7 mg, 0.006 mmol, 3
+mol %), AgSbF6 (6.8 mg, 0.02 mmol, 10 mol %), and dry tAmOH
+(1.5 mL) under nitrogen atmosphere. The reaction tube was sealed
+under nitrogen atmosphere and the reaction mixture was stirred at
+120 °C for 18 h. After the completion of the reaction, as monitored
+by TLC analysis,
+the reaction mixture was cooled to room
+temperature and puriﬁed by column chromatography using mixture
+of hexane and ethyl acetate as eluent to aﬀord the pure cyanated
+product 5.
+5a:9 33 mg, 81% yield, colorless liquid; 1H NMR (400 MHz,
+CDCl3, 24 °C): δ 8.46−8.44 (m, 1H), 7.79−7.75 (m, 1H), 7.54−
+7.52 (m, 1H), 7.50 (dd, 1H, J = 2.95, 1.65 Hz), 7.22−7.19 (m, 1H),
+6.96 (dd, 1H, J = 3.79, 1.64 Hz), 6.29−6.28 (m, 1H); 13C{1H} NMR
+(100 MHz, CDCl3, 24 °C): δ 149.8 (C), 149.2 (CH), 139.1 (CH),
+125.5 (CH), 124.4 (CH), 122.6 (CH), 114.9 (CH), 114.2 (C),
+111.2 (CH), 102.4 (C); HRMS: calcd. for C10H7N3+H: 170.0718;
+found: 170.0720.
+5b: 30 mg, 67% yield; colorless liquid; 1H NMR (400 MHz,
+CDCl3, 24 °C): δ 8.56−8.54 (m, 1H), 7.83 (td, 1H, J = 7.81, 1.89
+Hz), 7.35−7.30 (m, 2H), 6.83 (d, 1H, J = 3.84 Hz), 6.01 (dd, 1H, J
+= 3.78, 0.73 Hz), 2.22 (s, 3H); 13C{1H} NMR (100 MHz, CDCl3,
+24 °C): δ 149.7 (C), 149.5 (CH), 138.8 (CH), 136.4 (C), 123.7
+(CH), 121.8 (CH), 120.7 (CH), 114.3 (C), 110.1 (CH), 103.4 (C),
+13.59 (CH3); HRMS: calcd.
+found:
+184.0871.
+5e: 49 mg, 76% yield; colorless liquid; 1H NMR (400 MHz,
+CDCl3, 24 °C): δ 8.64−8.62 (m, 1H), 7.94−7.90 (m, 1H), 7.46 (dt,
+
+for C11H9N3+H: 184.0875;
+</para>
+Note
+<para sub="scope">
+1H, J = 7.99, 0.79 Hz), 7.43−7.37 (m, 2H), 7.26 (s, 1H), 7.25−7.19
+(m, 2H), 7.16−7.12 (m, 1H), 3.02−2.93 (m, 4H); 13C{1H} NMR
+(100 MHz, CDCl3, 24 °C): δ 149.5 (CH), 149.2 (C), 138.9 (CH),
+136.5 (C), 133.5 (C), 130.8 (C), 128.2 (CH), 127.1 (CH), 126.4
+(CH), 123.5 (CH), 122.4 (CH), 121.3 (C), 119.6 (CH), 117.1
+(CH), 114.4 (C), 103.6 (C), 29.1 (CH2), 22.0 (CH2); HRMS: calcd.
+for C18H13N3+H: 272.1188; found: 272.1178.
+5f: 27 mg, 41% yield; colorless liquid; 1H NMR (400 MHz,
+CDCl3, 24 °C): δ 8.60−8.58 (m, 1H), 8.12 (d, 1H, J = 1.81 Hz),
+7.95−7.91 (m, 1H), 7.88−7.86 (m, 2H), 7.72−7.70 (m, 1H), 7.62−
+7.58 (m, 1H), 7.53−7.49 (m, 3H), 7.41−7.38 (m, 1H); 13C{1H}
+NMR (100 MHz, CDCl3, 24 °C): δ 189.1 (C), 149.6 (CH), 149.1
+(C), 139.5 (CH), 138.4 (C), 132.6 (CH), 130.0 (CH), 129.1 (CH),
+128.7 (CH), 125.8 (C), 125.1 (CH), 123.8 (CH), 115.5 (CH),
+113.0 (C), 104.3 (C); HRMS: calcd. for C17H11N3O+H: 274.0980;
+found: 274.0989.
+5g: 12 mg, 22% yield; white solid; 1H NMR (400 MHz, CDCl3,
+24 °C): δ 8.69−8.67 (m, 1H), 7.99−7.94 (m, 1H), 7.49 (ddd, 1H, J
+= 7.56, 4.91, 0.88 Hz), 7.40 (d, 1H, J = 7.96 Hz), 7.31 (s, 1H), 2.53
+(s, 3H), 2.47 (s, 3H); 13C{1H} NMR (100 MHz, CDCl3, 24 °C): δ
+193.9 (C), 150.1 (CH), 148.6 (C), 141.0 (C), 139.1 (CH), 124.8
+(CH), 122.6 (CH), 122.5 (C), 121.5 (CH), 112.9 (C), 103.8 (C),
+28.8 (CH3), 13.3 (CH3); HRMS: calcd.
+for C13H11N3O+H:
+226.0980; found: 226.0989.
+5h: 26 mg, 42% yield; colorless liquid; 1H NMR (400 MHz,
+CDCl3, 24 °C): δ 8.68−8.66 (m, 1H), 7.95 (td, 1H, J = 7.72, 2.01
+Hz), 7.48−7.45 (m, 1H), 7.40 (m, 1H), 7.36 (s, 1H), 4.31 (q, 2H, J
+= 7.11 Hz), 2.53 (s, 3H), 1.36 (t, 3H, J = 7.22 Hz); 13C{1H} NMR
+(100 MHz, CDCl3, 24 °C): δ 163.7 (C), 150.0 (CH), 148.9 (C),
+141.6 (C), 139.1 (CH), 124.6 (CH), 122.8 (CH), 121.4 (C), 114.8
+(CH), 113.0 (C), 103.9 (C), 60.3 (CH2), 14.5 (CH3), 12.7 (CH3);
+HRMS: calcd. for C14H13N3O2+H: 256.1086; found: 256.1075.
+5i: 40 mg, 84% yield; colorless liquid; 1H NMR (400 MHz,
+CDCl3, 24 °C): δ 8.43−8.42 (m, 1H), 7.70−7.67 (m, 1H), 7.28 (d,
+1H, J = 8.17 Hz), 6.87 (d, 1H, J = 3.83 Hz), 6.06 (dd, 1H, J = 3.84,
+0.77 Hz), 2.41 (s, 3H), 2.26 (s, 3H); 13C{1H} NMR (100 MHz,
+CDCl3, 24 °C): δ 149.8 (CH), 147.5 (C), 139.2 (CH), 136.3 (C),
+133.7 (C), 121.4 (CH), 120.2 (CH), 114.4 (C), 109.8 (CH), 103.5
+(C), 18.1 (CH3), 13.4 (CH3); HRMS: calcd.
+for C12H11N3+H:
+198.1031; found: 198.1025.
+5j: 27 mg, 62% yield; colorless liquid; 1H NMR (400 MHz,
+CDCl3, 24 °C): δ 8.352−8.350 (m, 1H), 7.67−7.64 (m, 1H), 7.53−
+7.49 (m, 2H), 7.03−7.02 (m, 1H), 6.35 (dd, 1H, J = 3.77, 3.02 Hz),
+2.38 (s, 3H); 13C{1H} NMR (100 MHz, CDCl3, 24 °C): δ 149.3
+(CH), 147.9 (C), 139.5 (CH), 132.6 (C), 125.6 (CH), 124.0 (CH),
+114.8 (CH), 114.3 (C), 111.0 (CH), 102.5 (C), 18.0 (CH3);
+HRMS: calcd. for C11H9N3+H: 184.0875; found: 184.0877.
+5k: 31 mg, 71% yield; colorless liquid; 1H NMR (400 MHz,
+CDCl3, 24 °C): δ 8.37 (d, 1H, J = 5.01 Hz), 7.54−7.53 (m, 1H),
+7.40 (s, 1H), 7.10 (d, 1H, J = 5.01 Hz), 7.03−7.01 (m, 1H), 6.35−
+6.33 (m, 1H), 2.43 (s, 3H); 13C{1H} NMR (100 MHz, CDCl3, 24
+°C): δ 150.8 (C), 150.0 (C), 148.8 (CH), 125.6 (CH), 124.2 (CH),
+123.8 (CH), 115.7 (CH), 114.3 (C), 111.0 (CH), 102.4 (C), 21.3
+(CH3); HRMS: calcd. for C11H9N3+H: 184.0875; found: 184.0880.
+5l: 34 mg, 65% yield; colorless liquid; 1H NMR (400 MHz,
+CDCl3, 24 °C): δ 8.32 (d, 1H, J = 8.75 Hz), 8.10 (d, 1H, J = 8.53
+Hz), 7.87−7.85 (m, 1H), 7.79−7.72 (m, 3H), 7.59−7.55 (m, 1H),
+7.10 (dd, 1H, J = 3.79, 1.63 Hz), 6.43 (dd, 1H, J = 3.73, 3.06 Hz);
+13C{1H} NMR (100 MHz, CDCl3, 24 °C): δ 148.4 (C), 147.0 (C),
+139.8 (CH), 130.9 (CH), 129.0 (CH), 127.7 (CH), 127.2 (C),
+127.0 (CH), 125.6 (CH), 124.8 (CH), 114.3 (C), 113.5 (CH),
+111.5 (CH), 102.9 (C); HRMS: calcd. for C14H9N3+H: 220.0875;
+found: 220.0877.
+
+Synthesis of 6. A mixture of 1-(pyridin-2-yl)-1H-indole-2-
+carbonitrile 3a (45 mg, 0.2 mmol) and NaOMe (43 mg, 0.8
+mmol) in DMSO (3 mL) was stirred at 110 °C for 24 h. After
+completion of
+the
+reaction mixture was cooled to room temperature, diluted with
+EtOAc (10 mL), and extracted with water. The aqueous layer was
+washed with EtOAc (3 × 10 mL). The combined organic layer was
+
+the reaction as monitored by TLC analysis,
+</para>
+3699
+
+DOI: 10.1021/acs.joc.5b00142
+J. Org. Chem. 2015, 80, 3695−3700
+
+The Journal of Organic Chemistry
+<para sub="scope">
+dried over Na2SO4. After ﬁltration and concentration in vacuo, the
+crude product was puriﬁed by column chromatography using a
+mixture of hexane/ethyl acetate (85:15) as an eluent to aﬀord the
+pure product 6 as colorless liquid. 32 mg, 66% yield; 1H NMR (400
+MHz, CDCl3, 24 °C): δ 9.93 (s, 1H), 9.19 (s, 1H), 8.43−8.35 (m,
+2H), 7.76−7.73 (m, 1H), 7.65 (d, 1H, J = 8.03 Hz), 7.45−7.43 (m,
+1H), 7.31 (t, 1H, J = 7.42 Hz), 7.25−7.22 (m, 1H), 7.17−7.09 (m,
+2H); 13C{1H} NMR (100 MHz, CDCl3, 24 °C): δ 160.1 (C), 151.4
+(C), 147.8 (CH), 138.8 (CH), 137.0 (C), 130.4 (C), 127.7 (C),
+125.3 (CH), 122.5 (CH), 121.0 (CH), 120.1 (CH), 114.6 (CH),
+for C14H10N2O2+H:
+112.1 (CH), 104.6 (CH); HRMS: calcd.
+239.0821; found: 239.0824.
+
+Synthesis of 7.9 A mixture of 1-(pyrimidin-2-yl)-1H-indole-2-
+carbonitrile 3o (43 mg, 0.2 mmol) and NaOMe (43 mg, 0.8 mmol)
+in DMSO (3 mL) was stirred at 110 °C for 24 h. After completion
+of the reaction as monitored by TLC analysis, the reaction mixture
+was cooled to room temperature, diluted with EtOAc (10 mL), and
+washed with water. The aqueous layer was extracted with EtOAc (3
+× 10 mL). The combined organic layer was dried over Na2SO4. After
+ﬁltration and concentration in vacuo, the crude product was puriﬁed
+by column chromatography using a mixture of hexane/ethyl acetate
+(95:5) as an eluent to aﬀord the pure product 7 as white solid: 23
+mg, 81% yield; 1H NMR (400 MHz, CDCl3, 24 °C): δ 8.82 (br,
+1H), 7.68 (dd, 1H, J = 8.12, 0.87 Hz), 7.44−7.38 (m, 2H), 7.24−
+7.20 (m, 2H); 13C{1H} NMR (100 MHz, CDCl3, 24 °C): δ 137.0
+(C), 126.4 (CH), 126.3 (C), 122.2 (CH), 121.8 (CH), 114.5 (CH),
+for C9H6N2+H:
+114.4 (C), 111.9 (C), 106.3 (C); HRMS: calcd.
+143.0609; found: 143.0610.
+
+Synthesis of 8.23 Methyl triﬂuoromethanesulfonate (39 mg, 0.24
+mmol) was added dropwise to a solution of 1-(pyridin-2-yl)-1H-
+indole-2-carbonitrile 3a (45 mg, 0.2 mmol) in dry 1,2-dichloroethane
+(5 mL) at room temperature, and the reaction mixture was stirred at
+room temperature for 24 h. Then the solvent was removed under
+vacuum, and the residue was dissolved in MeOH (2.5 mL). 2 N
+NaOH (1.2 mL) was added and stirred at 60 °C for 12 h. The
+solvent was removed and the resulting mixture was extracted with
+EtOAc (3 × 10 mL). The combined organic layer was dried over
+Na2SO4. After ﬁltration and concentration in vacuo,
+the crude
+product was puriﬁed by column chromatography using a mixture of
+hexane/ethyl acetate (70:30) as an eluent to aﬀord the pure product
+8 as a white solid: 10 mg, 24% yield; 1H NMR (400 MHz, DMSO-
+d6, 24 °C): δ 12.9 (br, 1H), 11.7 (s, 1H), 7.67 (d, 1H, J = 7.93 Hz),
+7.48 (d, 1H, J = 8.26 Hz), 7.27 (t, 1H, J = 7.60 Hz), 7.13−7.07 (m,
+2H); 13C{1H} NMR (100 MHz, DMSO-d6, 24 °C): δ 163.7 (C),
+138.1 (C), 129.3 (C), 127.8 (C), 125.2 (CH), 122.8 (CH), 120.8
+for C9H7NO2+H:
+(C), 113.4 (C), 108.2 (C); HRMS: calcd.
+162.0555; found: 162.0557.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Optimization and spectral data. This material is available free
+of charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: anbarasansp@iitm.ac.in. FAX: +91-44-22574202
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We thank the Indian Institute of Technology Madras (Project
+No. CHY/11-12/569/NFSC/ANBA), and Board of Research
+in Nuclear Sciences (BRNS) through DAE Young Scientist
+Award (Project No. 2012/20/37C/14/BRNS) for ﬁnancial
+support. M.C.
+thanks Council of Scientiﬁc & Industrial
+Research (CSIR) for a fellowship.
+
+■ REFERENCES
+
+Note
+
+J. E.
+
+Indoles, The Chemistry of Heterocyclic
+(1) (a) Saxton,
+Compounds;
+John Wiley & Sons: New York, 1983; Vol. 25.
+(b) Jones, R. A. Pyrroles, Chemistry of Heterocyclic Compounds; John
+Wiley & Sons: New York, 1990; Vol. 48.
+(2) Kleemann, A.; Engel,
+J.; Kutscher, B.; Reichert, D.
+Pharmaceutical Substance: Synthesis, Patents, Applications, 4th ed.;
+Georg Thieme: Stuttgart, 2001.
+(3) (a) Ushijima, S.; Togo, H. Synlett 2010, 1562. (b) Nandi, G. C.;
+Laali, K. K. Tetrahedron Lett. 2013, 54, 2177. (c) Khan, T. A.;
+Peruncheralathan, S.; Ila, H.; Junjappa, H. Synlett 2004, 2019.
+(4) (a) Anbarasan, P.; Schareina, T.; Beller, M. Chem. Soc. Rev.
+2011, 40, 5049. (b) Sundermeier, M.; Zapf, A.; Beller, M. Eur. J.
+Inorg. Chem. 2003, 3513. (c) Wen, Q.; Jin, J.; Zhang, L.; Luo, Y.; Lu,
+P.; Wang, Y. Tetrahedron Lett. 2014, 55, 1271.
+(5) (a) Beck, E. M.; Gaunt, M. J. In C-H Activation; Yu, J.-Q., Shi,
+Z., Eds.; Springer: Berlin, 2010; Vol. 292, p 85. (b) Lyons, T. W.;
+Sanford, M. S. Chem. Rev. 2010, 110, 1147. (c) Colby, D. A.;
+J. A. Chem. Rev. 2009, 110, 624.
+Bergman, R. G.; Ellman,
+(d) Broggini, G.; Beccalli, E. M.; Fasana, A.; Gazzola, S. Beilstein J.
+Org. Chem. 2012, 8, 1730.
+(6) Ushijima, S.; Moriyama, K.; Togo, H. Tetrahedron 2012, 68,
+4588.
+(7) Smaliy, R. V.; Chaikovskaya, A. A.; Pinchuk, A. M.; Tolmachev,
+A. A. Synthesis 2002, 2416.
+(8) Tamura, Y.; Kawasaki, T.; Adachi, M.; Tanio, M.; Kita, Y.
+Tetrahedron Lett. 1977, 18, 4417.
+(9) Xu, S.; Huang, X.; Hong, X.; Xu, B. Org. Lett. 2012, 14, 4614.
+(10) Liu, B.; Wang, J.; Zhang, B.; Sun, Y.; Wang, L.; Chen, J.;
+Cheng, J. Chem. Commun. 2014, 50, 2315.
+(11) Ding, S.; Jiao, N. J. Am. Chem. Soc. 2011, 133, 12374.
+(12) Kim, J.; Kim, H.; Chang, S. Org. Lett. 2012, 14, 3924.
+(13) Ren, X.; Chen, J.; Chen, F.; Cheng, J. Chem. Commun. 2011,
+47, 6725.
+(14) (a) Zhang, G.; Lv, G.; Pan, C.; Cheng, J.; Chen, F. Synlett
+2011, 2991. (b) Reddy, B. V. S.; Begum, Z.; Reddy, Y. J.; Yadav, J. S.
+Tetrahedron Lett. 2010, 51, 3334. (c) Yan, G.; Kuang, C.; Zhang, Y.;
+Wang, J. Org. Lett. 2010, 12, 1052.
+(15) (a) Zhang, L.; Wen, Q.; Jin, J.; Wang, C.; Lu, P.; Wang, Y.
+Tetrahedron 2013, 69, 4236. (b) Yuen, O. Y.; Choy, P. Y.; Chow, W.
+K.; Wong, W. T.; Kwong, F. Y. J. Org. Chem. 2013, 78, 3374.
+(16) Shu, Z.; Ji, W.; Wang, X.; Zhou, Y.; Zhang, Y.; Wang, J.
+Angew. Chem., Int. Ed. 2014, 53, 2186.
+(17) (a) Yang, Y.; Zhang, Y.; Wang, J. Org. Lett. 2011, 13, 5608.
+(b) Liu, W.; Ackermann, L. Chem. Commun. 2014, 50, 1878.
+(18) Hong, X.; Wang, H.; Qian, G.; Tan, Q.; Xu, B. J. Org. Chem.
+2014, 79, 3228.
+(19) (a) Kou, X.; Zhao, M.; Qiao, X.; Zhu, Y.; Tong, X.; Shen, Z.
+Chem.Eur. J. 2013, 19, 16880. (b) Pan, C.; Jin, H.; Xu, P.; Liu, X.;
+Cheng, Y.; Zhu, C. J. Org. Chem. 2013, 78, 9494.
+(20) (a) Saravanan, P.; Anbarasan, P. Org. Lett. 2014, 16, 848.
+(b) Yadagiri, D.; Anbarasan, P. Org. Lett. 2014, 16, 2510.
+(21) Chaitanya, M.; Yadagiri, D.; Anbarasan, P. Org. Lett. 2013, 15,
+4960.
+(22) Cyanation of N-phenylindole under the reaction conditions
+did not aﬀord any cyanated product, which suggests the importance
+of pyridyl moiety as directing group in the present reaction.
+(23) Jones, C. D. J. Org. Chem. 1972, 37, 3624.
+
+3700
+
+DOI: 10.1021/acs.joc.5b00142
+J. Org. Chem. 2015, 80, 3695−3700
+
+

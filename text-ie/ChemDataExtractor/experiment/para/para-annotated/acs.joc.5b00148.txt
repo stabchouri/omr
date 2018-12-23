@@ -1,0 +1,993 @@
+This is an open access article published under an ACS AuthorChoice License, which permits
+copying and redistribution of the article or any adaptations for non-commercial purposes.
+
+Article
+
+pubs.acs.org/joc
+
+Preparation of Tetrasubstituted Oleﬁns Using Mono or Double
+Aerobic Direct C−H Functionalization Strategies: Importance of
+Steric Eﬀects
+Nicolas Gigant,*,†,‡
+†
+Department of Organic Chemistry, Arrhenius Laboratory, Stockholm University, SE-106 91 Stockholm, Sweden
+‡
+Equipe de Chimie des Substances Naturelles, Université Paris-Sud, UMR CNRS 8076 BioCIS, LabEx LERMIT, Faculté de
+Pharmacie, 5, rue Jean-Baptiste Clément, 92296 Châtenay-Malabry, France
+*S Supporting Information
+
+and Jan-E. Bäckvall*,†
+
+François Quintin,
+
+†
+
+ABSTRACT: A novel protocol for the synthesis of tetrasub-
+stituted oleﬁns through a biomimetic approach has been
+explored. Both mono- and diarylations were performed under
+ambient oxygen pressure, giving a range of highly hindered
+tetrasubstituted alkenes. For diarylation of disubstituted
+substrates, it was demonstrated that the second arylation is
+the rate-limiting step of the overall transformation.
+
+■ INTRODUCTION
+
+Tetrasubstituted oleﬁns constitute an important class of
+compounds since many of
+these oleﬁns show signiﬁcant
+biological activities (Figure 1). For example, (Z)-Tamoxifen
+displays eﬀects against breast cancer1 while Rofecoxib is a
+powerful nonsteroidal anti-inﬂammatory drug.2 Dibenzoxapin
+and related compounds have been evaluated as nuclear hormone
+receptor modulators,3 and ﬁnally, tetrasubstituted isocombre-
+tastatins A-4 have been recently identiﬁed as new tubulin
+inhibitors.4
+
+Reported eﬃcient methods for accessing such unsaturated
+structures are mainly based on the use of transition-metal
+catalysis via carbofunctionalization of alkynes,5 oleﬁn meta-
+thesis,6 or cross-coupling reactions.7 Among the latter, the
+oxidative Heck coupling has been frequently employed for the
+preparation of disubstituted alkenes.8 However, only a few
+examples of successful Heck arylation have been reported
+regarding the synthesis of tri- or tetrasubstituted oleﬁns.7b−e
+There are several problems associated with the oxidative Heck
+coupling between aromatic heterocycles and trisubstituted
+oleﬁns to give tetrasubstituted oleﬁns. The problems with the
+latter reaction can be rationalized by the low reactivity of the
+trisubstituted substrates. Due to steric hindrance around the
+unsaturated core, the latter alkenes are not reactive enough to
+undergo the required carbopalladation. Another problem is
+associated with the regeneration of the active catalyst. In general,
+the use of strong oxidants or additivessuch as TEMPO
+(2,2,6,6-tetramethylpiperidine-N-oxyl radical) derivatives7e and/
+or inorganic salts7c,dis required, thus reducing the applicability
+and sustainability of the reaction. In addition, in the dehydrogen-
+ative version of the Heck reactionthe Fujiwara−Moritani
+reaction9the challenging metal insertion into the aromatic C−
+H bond makes the synthetic task even more diﬃcult. Therefore,
+there is a demand for improvements of
+the synthesis of
+
+In the past
+
+tetrasubstituted alkenes via the dehydrogenative Heck reaction
+approach.
+few years, we have been involved in the
+development of new sustainable C−C couplings via C−H
+activations using a biomimetic approach.10 Following this
+concept,
+the high kinetic barrier preventing the catalyst
+regeneration is circumvented by the use of catalytic amounts of
+electron-transfer mediators (ETMs).11 In this way, the reduced
+catalyst can be reoxidized by O2 at atmospheric pressure,
+producing water as the sole byproduct of the reaction. On the
+basis of this strategy, we have previously established protocols for
+the dehydrogenative Heck reaction that have the following
+advantages: (i) relative low palladium and arene loadings, (ii)
+utilization of O2 under ambient pressure as the oxidant, and (iii)
+extension of the scope to nonbiased oleﬁns and heterocycles.
+Our continued interest in this ﬁeld prompted us to explore the
+preparation of tetrasubstituted oleﬁns via a biomimetic approach,
+and our contribution is reported herein.
+
+■ RESULTS AND DISCUSSION
+<para sub=“opt”>
+We ﬁrst planned to prepare a trisubstituted oleﬁn via a
+dehydrogenative Heck reaction that could be used as starting
+material for the synthesis of tetrasubstituted oleﬁns. In our
+previously reported arylation of nonbiased oleﬁns,10a we showed
+that acridine as a ligand dramatically enhances the reaction rate
+and totally controls the site selectivity in the coupling with
+veratrole. We initiated our studies with a 1:10 ratio of alkene 1a
+and veratrole (2a) using Pd(OAc)2 (5 mol %) as catalyst,
+acridine (5 mol %) as ligand, and benzoquinone (BQ) (10 mol
+%) and iron phthalocyanine Fe(Pc) (2.5 mol %) as electron-
+transfer mediators in a mixture of acetic acid:dioxane (1:1, v:v)
+</para>
+Received:
+January 20, 2015
+Published: February 5, 2015
+
+© 2015 American Chemical Society
+
+2796
+
+DOI: 10.1021/acs.joc.5b00148
+J. Org. Chem. 2015, 80, 2796−2803
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 1. Representative drugs containing tetrasubstituted oleﬁns.
+
+Table 1. Optimization of the Synthesis of Tetrasubstituted Oleﬁnsa
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+T (°C)
+90
+90
+100
+110
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+
+arene (equiv)
+
+variations from standard conditions (concerning solvent and catalysts)
+
+3aa (%)b
+
+4aa (%)b
+
+conditions
+
+10
+10
+10
+10
+10
+10
+10
+10
+15
+15
+15
+15
+15
+15
+
+none
+
+AcOH as solvent
+
+none
+none
+
+BQ (20 mol %) and Fe(Pc) (5 mol %)
+
+AcOH:dioxane (75:25) as solvent
+AcOH:dioxane (25:75) as solvent
+
+Pd(OAc)2 (7.5 mol %)
+
+none
+
+AcOH:CH3CN (8:2) as solvent
+PivOH:dioxane (1:1) as solvent
+
+C2H5COOH:dioxane (1:1) as solvent
+
+1,4-diOMeBQ (10 mol %) instead of BQ
+Cu(Pc) (2.5 mol %) instead of Fe(Pc)
+
+66
+59
+36
+42
+30
+57
+28
+24
+trace
+56
+33
+18
+51
+49
+
+27
+17
+35
+3
+39
+29
+9
+66
+66c
+9
+7
+6
+37
+37
+
+aReaction conditions: 1a (0.30 mmol), 2a (10 or 15 equiv) in the appropriate catalytic system for 24 h under O2 (balloon). bNMR yield using an
+internal standard. cYield after ﬂash chromatography.
+<para sub=“opt”>
+for 24 h at 90 °C under ambient oxygen pressure (Table 1, entry
+1). Interestingly, we found that formation of the trisubstituted
+alkene 3aa was accompanied by the tetrasubstituted alkene 4aa.
+This reaction shows that the biomimetic approach is a viable
+strategy for providing access to tetrasubstituted oleﬁns. Taking
+into account that there are not many examples in the literature
+for the diarylation of alkenes,10f,12 it was highly interesting to
+develop a one-pot double arylation of 1a.
+</para>
+<para sub=“opt”>
+Attempts to increase the rate of the reaction by the use of pure
+acetic acid as the solvent were unsuccessful and led to only 17%
+yield of 4aa (Table 1, entry 2). An increase of the reaction
+temperature to 100 °C under the standard conditions resulted in
+an improvement and gave oleﬁn 4aa in a 35% yield, (Table 1,
+entry 3). However, a further increase of the reaction temperature
+to 110 °C decreased the amount of 4aa to 3% (entry 4). The
+dramatic decrease of 4aa may be due to decomposition at 110 °C
+under the acidic conditions. An increase of the catalytic amount
+of ETMs did not signiﬁcantly aﬀect the yield of the coupling, and
+modiﬁcations of the solvent ratio led to decreased yields (entries
+5−7). We were pleased to ﬁnd that the use of a higher catalyst
+loading (entry 8) or an increase of the arene loading (entry 9)
+
+improved the yield of 4aa up to 66%. Considering the
+importance of the choice of solvent in the Fujiwara−Moritani
+reaction, we also evaluated the role of a range of cosolvents such
+as acetonitrile instead of dioxane,13 or pivalic acid or propionic
+acid instead of acetic acid, but none of these changes increased
+the yield of 4aa (entries 10−12). We chose to conclude our
+optimization studies with an additional screening of ETMs, but
+these alternative catalytic systems were not more eﬃcient than
+those used in the standard conditions (entries 13−14).
+</para>
+<para sub="scope">
+The double dehydrogenative sequence for the conversion of
+disubstituted alkene 1a into trisubstituted alkene 3aa and
+tetrasubstituted alkene 4aa was monitored by 1H NMR
+spectroscopy (Figure 2). The reaction proﬁle indicates that
+oleﬁn 1a is almost totally consumed after only 2 h, mostly giving
+3aa with only trace amounts of 4aa. Then, the concentration of
+3aa is decreasing slowly with concomitant formation of 4aa,
+demonstrating that the rate-limitating step of the sequence is the
+formation of the desired tetrasubstituted product. The steric
+hindrance around the double bond certainly slows down the
+carbopalladation.
+</para>
+2797
+
+DOI: 10.1021/acs.joc.5b00148
+J. Org. Chem. 2015, 80, 2796−2803
+
+The Journal of Organic Chemistry
+
+Article
+<para sub="scope">
+reactive sites, generating complicated mixtures of isomers after a
+double cross-coupling. Usually, the site selectivity is controlled
+by (i) electronic factors with a preference for the most electron-
+rich carbon, (ii) steric factors with a preference for the less-
+hindered carbon. First, the inﬂuence of the substituents in 1,1-
+disubstituted alkene substrates was examined by reaction with
+veratrole 2a as the aromatic coupling partner. We were pleased to
+ﬁnd that a range of esters smoothly underwent the diarylation,
+giving 4aa−4ca in good yields. An acetate and a ketone are both
+tolerated in the double dehydrogenative cross-coupling, albeit in
+lower yields (4da and 4ea). An oleﬁn substrate containing an
+isatin moiety underwent a smooth reaction, resulting in the
+formation of 4fa in 55% yield. To our satisfaction, the site
+selectivity of the reaction with 1,2-diethoxybenzene and o-xylene
+was complete, leading to two highly substituted scaﬀolds 4ab and
+4ac. However, no diarylated product was observed when 1,4-
+dimethoxybenzene 2d was employed as coupling partner, the
+reaction yielding only the trisubstituted oleﬁn 3ad in an 83%
+yield. The second arylation is apparently suppressed due to steric
+reasons. The lack of reactivity due to steric eﬀects was conﬁrmed
+by using 1,3-dimethoxybenzene 2e as coupling partner. Indeed, a
+63:37 mixture in favor of the ortho-isomer 3ae-α (the most
+reactive site) was isolated, accompanied by roughly 5% of a
+diarylated scaﬀold. In this example, due to its steric hindrance,
+</para>
+Figure 2. Reaction proﬁle of the biomimetic double dehydrogenative
+sequence between alkene 1a and arene 2a using the reaction conditions
+of entry 9, Table 1.
+<para sub="scope">
+We chose to continue our studies with a range of one-pot
+diarylations using the optimum conditions (Scheme 1). In most
+the introduction of directing groupssuch as acyl
+cases,
+groupscan only be employed to partially control the regio-
+and the stereoselectivity of tetrasubstituted alkenes.7d,14 Indeed,
+simple arenes can potentially undergo metalation at several
+</para>
+Scheme 1. Synthesis of Tetrasubstituted Oleﬁns via a Double Aerobic Direct C−H Activationa,b,c,d,e
+
+aFor reaction conditions, see Table 1. bPd(OAc)2 (5 mol %), acridine (5 mol %). cPd(OAc)2 (7.5 mol %), acridine (7.5 mol %). dReaction
+performed at 90 °C. eRatio of isomers (α:β) determined by NMR spectroscopy of isolated product.
+
+2798
+
+DOI: 10.1021/acs.joc.5b00148
+J. Org. Chem. 2015, 80, 2796−2803
+
+The Journal of Organic Chemistry
+Scheme 2. Synthesis of Tetrasubstituted Oleﬁns via a Mono Aerobic Direct C−H Activationa,b,c,d,e
+
+Article
+
+aFor reaction conditions, see Table 1. bPd(OAc)2 (5 mol %), acridine (5 mol %). cPd(OAc)2 (7.5 mol %), acridine (7.5 mol %). dRatio of isomers
+(α:β or o:m:p) determined by NMR spectroscopy of isolated product. eRatio of regioisomers, which could not be assigned and are thus given in no
+particular order (determined by NMR of isolated product).
+<para sub="scope">
+3ae-α is already too crowded to perform a second arylation with
+2e. In addition, 3ae-β can only react with the β position of 2e,
+which is unfortunately the less reactive carbon of the arene.
+</para>
+<para sub="scope">
+We also conﬁrmed the inﬂuence of steric hindrance starting
+from trisubstituted alkenes 1g and 1h (Scheme 2). Reaction of 1g
+with arene 2d did not deliver the desired product 5gd, the
+starting materials being mostly recovered and no identiﬁable
+byproduct being detected. Furthermore, with arene 2e, only one
+isomer 5ge was obtained in a 16% yield, whereas 57% of oleﬁn 1g
+remained intact. These systematic studies on these sterically
+hindered substrates led to some instructive results: ortho-C−H
+functionalization of simple arenes is very slow with trisubstituted
+oleﬁns, illustrating the inﬂuence of steric eﬀects on the rate. The
+reaction was also conducted with 1,3-benzodioxole (1f) as
+coupling partner, and surprisingly, the selectivity of the coupling
+was not complete. The desired alkenes 5gf were isolated as a
+mixture of isomers in a 18:82 ratio in favor of the β-alkenylated
+scaﬀold. In light of these results, it was of interest to establish the
+selectivity of anisole as coupling partner. Anisole is known to
+mainly undergo palladium insertion at (i) para, (ii) ortho, (iii)
+meta positions.10a−c,13As expected, no coupling occurred at the
+ortho position of anisole, and 5gg was isolated as a mixture of
+isomers in a 0:46:54 (o:m:p) ratio. Similarly, toluene and
+chlorobenzene were also successfully employed and only two
+regioisomers were detected in each case (5gh and 5gi). To
+
+further explore the scope of this transformation, the coupling
+reaction with 1g (or 1h) was conducted with difunctionalized
+arenes such as veratrole, naphtalene, or o-xylene, which furnished
+a range of densely substituted alkenes 5ga, 5gj, 5gc, and 5ha with
+synthetically useful yields and complete selectivity.15
+</para>
+■ CONCLUSION
+
+In summary, we have developed an operationally simple protocol
+for the synthesis of tetrasubstituted oleﬁns via mono or double
+aerobic dehydrogenative Heck couplings through a biomimetic
+approach. It was shown that the steric hindrance around the
+unsaturated core plays a key role in the selectivity of the reaction,
+and a range of highly substituted alkenes were isolated with
+complete chemoselectivity around the double bond and with
+partial to complete regioselectivity depending on the arene.
+Remarkably, the reaction involves readily available nonfunction-
+alized reagents and proceeds at ambient oxygen pressure.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Information. Reactions were monitored by thin-layer
+chromatography (TLC) analysis using silica gel (60 F254) plates.
+Compounds were visualized by UV irradiation and/or spraying with a
+solution of potassium permanganate, followed by charring at 150 °C.
+Flash column chromatography was performed on silica gel 60 (230−400
+mesh, 0.040−0.063 mm). 1H and 13C NMR spectra were recorded on a
+spectrometer at 400 MHz (13C, 100 MHz). Chemical shifts are given in
+</para>
+2799
+
+DOI: 10.1021/acs.joc.5b00148
+J. Org. Chem. 2015, 80, 2796−2803
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+parts per million from tetramethylsilane (TMS) as internal standard.
+The following abbreviations are used for the proton spectra multi-
+plicities: s: singulet, d: doublet, t: triplet, q: quartet, qu: quintuplet,
+sex:sextet, m: multiplet. Coupling constants (J) are reported in hertz
+(Hz). HRMS were recorded using ESI-TOF techniques. Dry solvents
+were obtained from a VAC solvent puriﬁer. All reagents were obtained
+from commercial suppliers unless otherwise stated.
+Protecting alkenes 1 were prepared following a two-step sequence
+Baylis−Hillman reaction (giving products 6)/Mitsunobu reaction as
+described below.
+tert-Butyl 2-(Hydroxymethyl)acrylate (6b). The title compound
+was prepared via Baylis−Hillman reaction according to a literature
+procedure.16 Experimental data were in accordance with those reported
+in the previous literature.16 1H NMR (CDCl3, 400 MHz): δ 6.15 (m,
+1H), 5.74 (m, 1H), 4.28 (m, 2H), 1.51 (s, 9H). 13C NMR (CDCl3, 100
+MHz): δ 165.8, 140.9, 125.0, 81.5, 63.0, 28.2.
+tert-Butyl 2-(Hydroxymethyl)acrylate (6c). The title compound
+was prepared via Baylis−Hillman reaction according to a literature
+procedure.16 Experimental data were in accordance with those reported
+in the previous literature.17 1H NMR (CDCl3, 400 MHz): δ 6.25 (q, J =
+1.3 Hz, 1H), 5.82 (q, J = 1.4 Hz, 1H), 4.33 (m, 2H), 4.20 (t, J = 6.6 Hz,
+2H), 1.67 (qu, J = 7.4 Hz, 2H), 1.40 (sex, J = 7.4 Hz, 2H), 0.95 (t, J = 7.4
+Hz, 3H). 13C NMR (CDCl3, 100 MHz): δ 166.5, 139.6, 125.7, 64.9,
+62.8, 30.7, 19.2, 13.8.
+Methyl 2-(Hydroxymethyl)acrylate (6d). The title compound
+was prepared via Baylis−Hillman reaction according to a literature
+procedure.16 Experimental data were in accordance with those reported
+in the previous literature.16 1H NMR (CDCl3, 400 MHz): δ 6.23 (q, J =
+0.9 Hz, 1H), 5.83 (q, J = 1.3 Hz, 1H), 4.36 (m, 2H), 3.80 (s, 3H). 13C
+NMR (CDCl3, 100 MHz): δ 166.8, 139.4, 125.9, 62.4, 52.0.
+3-(Hydroxymethyl)but-3-en-2-one (6e). The title compound
+was prepared via a Baylis−Hillman reaction according to a literature
+procedure.18 Experimental data were in accordance with those reported
+in the previous literature.18 1H NMR (CDCl3, 400 MHz): δ 6.11 (s,
+1H), 6.03 (t, J = 1.4 Hz, 1H), 4.29 (q, J = 0.8 Hz, 2H), 2.35 (s, 3H). 13C
+NMR (CDCl3, 100 MHz): δ 200.5, 147.3, 126.2, 62.3, 26.0.
+Methyl 2-(Hydroxy(phenyl)methyl)acrylate (6g). The title
+compound was prepared via Baylis−Hillman reaction according to a
+literature procedure.19 Experimental data were in accordance with those
+reported in the previous literature.19 1H NMR (CDCl3, 400 MHz): δ
+7.39−7.28 (m, 5H), 6.34 (q, J = 0.8 Hz, 1H), 5.83 (t, J = 1.2 Hz, 1H),
+5.57 (s, 1H), 3.73 (s, 3H). 13C NMR (CDCl3, 100 MHz): δ 166.9, 142.1,
+141.4, 128.6, 128.0, 126.7, 126.3, 73.4, 52.1.
+Methyl 2-((4-Chlorophenyl)(hydroxy)methyl)acrylate (6h).
+The title compound was prepared via Baylis−Hillman reaction
+according to a literature procedure.19 Experimental data were in
+accordance with those reported in the previous literature.19 1H NMR
+(CDCl3, 400 MHz): δ 7.30 (m, 4H), 6.33 (t, J = 0.8 Hz, 1H), 5.83 (t, J =
+1.2 Hz, 1H), 5.51 (m, 1H), 3.70 (s, 3H). 13C NMR (CDCl3, 100 MHz):
+δ 166.7, 141.7, 139.9, 133.6, 128.6, 128.1, 126.4, 72.7, 52.1.
+
+Ethyl 2-((1,3-Dioxoisoindolin-2-yl)methyl)acrylate (1a). Com-
+pound 1a was prepared via a Mitsunobu reaction according to a
+literature procedure.20 Experimental data were in accordance with those
+reported in the previous literature.21 1H NMR (CDCl3, 400 MHz): δ
+7.88 (dd, J = 5.5, 3.1 Hz, 2H), 7.74 (dd, J = 5.6, 3.1 Hz, 2H), 6.33 (t, J =
+1.4 Hz, 1H), 5.57 (t, J = 3.3 Hz, 1H), 4.57 (t, J = 3.1 Hz, 2H), 4.25 (q, J =
+7.1 Hz, 2H), 1.31 (t, J = 7.2 Hz, 3H). 13C NMR (CDCl3, 100 MHz): δ
+167.8, 165.4, 134.7, 134.2, 132.1, 125.9, 123.5, 61.2, 38.4, 14.2.
+tert-Butyl 2-((1,3-Dioxoisoindolin-2-yl)methyl)acrylate (1b).
+Compound 1b was prepared via a Mitsunobu reaction according to a
+literature procedure.20 Experimental data were in accordance with those
+reported in the previous literature.20 1H NMR (CDCl3, 400 MHz): δ
+7.88 (dd, J = 5.6, 3.1 Hz, 2H), 7.74 (dd, J = 5.5, 3.0 Hz, 2H), 6.21 (td, J =
+1.4, 0.5 Hz, 1H), 5.44 (t, J = 1.7, 0.5 Hz, 1H), 4.52 (t, J = 1.6 Hz, 2H),
+1.50 (s, 9H). 13C NMR (CDCl3, 100 MHz): δ 167.9, 164.6, 136.1, 134.2,
+132.1, 124.6, 123.6, 81.6, 38.5, 28.2.
+
+Butyl 2-((1,3-Dioxoisoindolin-2-yl)methyl)acrylate (1c). Com-
+pound 1c was prepared via a Mitsunobu reaction according to a
+literature procedure.20 1H NMR (CDCl3, 400 MHz): δ 7.87 (dd, J = 5.6,
+3.1 Hz, 2H), 7.74 (dd, J = 5.5, 3.0 Hz, 2H), 6.31 (td, J = 1.4, 0.4 Hz, 1H),
+
+5.56 (t, J = 1.7, 0.4 Hz, 1H), 4.56 (t, J = 1.5 Hz, 2H), 4.18 (t, J = 6.7 Hz,
+2H), 1.69−1.62 (m, 2H), 1.44−1.34 (m, 2H), 0.93 (t, J = 7.4 Hz, 3H).
+13C NMR (CDCl3, 100 MHz): δ 167.8, 165.5, 134.8, 134.3, 132.1, 125.9,
+123.6, 65.1, 38.4, 30.7, 19.3, 13.8.
+
+Methyl 2-(Acetoxymethyl)acrylate (1d). Compound 1d was
+prepared according to a literature procedure.22 1H NMR (CDCl3, 400
+MHz): δ 6.34 (q, J = 1.3 Hz, 1H), 5.83 (q, J = 1.3 Hz, 1H), 4.79 (t, J = 1.5
+Hz, 2H), 3.77 (s, 3H), 2.08 (s, 3H). 13C NMR (CDCl3, 100 MHz): δ
+170.4, 165.7, 135.3, 127.6, 62.5, 52.1, 20.9.
+
+2-(2-Methylene-3-oxobutyl)isoindoline-1,3-dione (1e). Com-
+pound 1e was prepared via a Mitsunobu reaction according to a
+literature procedure.20 Experimental data were in accordance with those
+reported in the previous literature. 1H NMR (CDCl3, 400 MHz): δ 7.87
+(dd, J = 5.6, 3.1 Hz, 2H), 7.74 (dd, J = 5.5, 3.1 Hz, 2H), 6.13 (m, 1H),
+5.70 (m, 1H), 4.54 (t, J = 1.5 Hz, 2H), 2.37 (s, 3H). 13C NMR (CDCl3,
+100 MHz): δ 198.2, 168.0, 142.6, 134.4, 134.3, 123.7, 123.6, 37.7, 26.0.
+Methyl 2-((2,3-Dioxoindolin-1-yl)methyl)acrylate (1f). To a
+solution of (hydroxymethyl)acrylate 6d (600 mg, 5.17 mmol, 1 equiv) in
+diethyl ether (25 mL) was added dropwise phosphorus tribromide (535
+μL, 5.68 mmol, 1.1 equiv) at 0 °C under argon. After 1 h at 25 °C,
+NaHCO3 was added and the reaction mixture was extracted with diethyl
+ether (3 × 30 mL). The combined organic layers were washed with brine
+(50 mL) and dried over MgSO4, ﬁltered, and concentrated under
+reduced pressure. The resulting allylic bromide (270 mg, 1.51 mmol,
+equiv) was dissolved in acetonitrile (15 mL) in the presence of indoline-
+2,3-dione (260 mg, 1.81 mol, 1.2 equiv) and K2CO3 (250 mg, 1.81
+mmol, 1.2 equiv). The resulting solution was stirred for 20 h at 25 °C.
+H2O was then added, and the mixture was extracted with ethyl acetate (3
+× 30 mL). The organic phase was washed with brine, dried over MgSO4,
+ﬁltered, and concentrated under reduced pressure. The desired product
+1f was puriﬁed by ﬂash chromatography (petroleum ether/ethyl acetate
+= 6:4 to 5:5) and isolated as an orange solid in 26% yield over two steps
+(327 mg). 1H NMR (CDCl3, 400 MHz): δ 7.58 (ddd, J = 7.5, 1.3, 0.6 Hz,
+1H), 7.54 (dd, J = 7.8, 1.4 Hz, 1H), 7.11 (td, J = 7.5, 0.7 Hz, 1H), 6.89 (d,
+J = 7.9 Hz, 1H), 6.35 (t, J = 1.3 Hz, 1H), 5.73 (t, J = 1.5 Hz, 1H), 4.58 (s,
+2H), 3.79 (s, 3H). 13C NMR (CDCl3, 100 MHz): δ 182.9, 165.9, 158.3,
+150.5, 138.6, 133.1, 127.5, 125.5, 124.1, 117.7, 111.1, 52.4, 40.7. HRMS
+(ESI) m/z: [M + Na]+ calcd for C13H11NNaO4 268.0586, found
+268.0589.
+
+(E)-Methyl 2-((1,3-Dioxoisoindolin-2-yl)methyl)-3-phenyl
+Acrylate (1g). Compound 1g was prepared via a Mitsunobu reaction
+according to a literature procedure.20 Experimental data were in
+accordance with those reported in the previous literature.21 Exper-
+imental data were in accordance with those reported in the previous
+literature. 1H NMR (CDCl3, 400 MHz): δ 7.95 (s, 1H), 7.78 (dd, J = 5.5,
+3.1 Hz, 2H), 7.67 (dd, J = 5.5, 3.0 Hz, 2H), 7.46 (d, J = 7.7 Hz, 2H), 7.35
+(t, J = 7.5 Hz, 2H), 7.27 (t, J = 7.5 Hz, 1H), 4.75 (s, 2H), 3.75 (s, 3H).
+13C NMR (CDCl3, 100 MHz): δ 168.0, 167.1, 143.4, 134.8, 133.9, 132.1,
+129.1, 128.8, 128.6, 126.5, 123.5, 52.1, 35.9.
+
+(E)-Methyl 3-(4-Chlorophenyl)-2-((1,3-dioxoisoindolin-2-yl)-
+methyl)acrylate (1h). Compound 1h was prepared via a Mitsunobu
+reaction according to a literature procedure.20 Experimental data were in
+accordance with those reported in the previous literature.21 1H NMR
+(CDCl3, 400 MHz): δ 7.90 (s, 1H) 7.81 (dd, J = 5.6, 3.1 Hz, 2H), 7.71
+(dd, J = 5.5, 3.0 Hz, 2H), 7.45 (d, J = 8.1 Hz, 2H), 7.35 (d, J = 8.0 Hz,
+2H), 4.74 (d, J = 1.1 Hz, 2H), 3.78 (s, 3H). 13C NMR (CDCl3, 100
+MHz): δ 168.0, 166.9, 142.0, 134.1, 133.2, 132.0, 130.4, 128.9, 127.1,
+123.7, 123.3, 52.4, 35.8.
+
+General Procedure for the Synthesis of Functionalized
+Oleﬁns 3, 4, or 5. Pd(OAc)2 (5 mol %), acridine (5 mol %), p-
+benzoquinone (10 mol %), iron phtalocyanine (2.5 mol %), oleﬁn 1 (1
+equiv), arene 2 (15 equiv), and AcOH:dioxane (1:1, 1.0 mL) were
+charged in a Schlenk tube. The resulting mixture was degassed three
+times under reduced pressure before introducing oxygen gas with a
+balloon. After vigorous stirring at 100 °C for 24 h, the reaction mixture
+was cooled to room temperature, diluted with AcOEt, ﬁltered through
+Celite, rinsed with AcOEt, and concentrated under vacuum. Products
+were puriﬁed by ﬂash chromatography with hexane/ethyl acetate to
+yield the desired functionalized oleﬁns 3, 4, or 5.
+</para>
+2800
+
+DOI: 10.1021/acs.joc.5b00148
+J. Org. Chem. 2015, 80, 2796−2803
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+Ethyl 3,3-Bis(3,4-dimethoxyphenyl)-2-((1,3-dioxoisoindolin-
+2-yl)methyl)acrylate (4aa). Prepared following the general proce-
+dure. Compound 4aa was obtained as a red solid in 62% yield (66 mg)
+after ﬂash chromatography (SiO2, petroleum ether/ethyl acetate, 7:3 to
+5:5). 1H NMR (CDCl3, 400 MHz): δ 7.79 (dd, J = 5.6, 3.0 Hz, 2H), 7.67
+(dd, J = 5.6, 3.0 Hz, 2H), 7.04 (d, J = 1.8 Hz, 1H), 6.87−6.80 (m, 2H),
+6.73 (d, J = 0.9 Hz, 2H), 6.67 (s, 1H), 4.68 (s, 2H), 3.88 (q, J = 7.2 Hz,
+2H), 3.85 (s, 6H), 3.84 (s, 3H), 3.75 (s, 3H), 0.85 (t, J = 7.1 Hz, 3H). 13C
+NMR (CDCl3, 100 MHz): δ 169.2, 167.9, 149.1, 149.0, 148.9, 148.7,
+148.4, 134.6, 133.9, 132.5, 132.1, 125.5, 123.2, 122.4, 121.7, 112.8, 112.1,
+110.9, 110.5, 60.8, 56.1, 55.9, 55.9, 55.9, 39.4, 13.7. HRMS (ESI) m/z:
+[M + Na]+ calcd for C30H29NNaO8 554.1785, found 554.1782 (0.6
+ppm).
+
+(E)-Ethyl 3-(3,4-Dimethoxyphenyl)-2-((1,3-dioxoisoindolin-2-
+yl)methyl)acrylate (3aa). 1H NMR (CDCl3, 400 MHz): δ 7.88 (s,
+1H), 7.77 (dd, J = 5.6, 3.1 Hz, 2H), 7.66 (dd, J = 5.5, 3.2 Hz, 2H), 7.14
+(d, J = 1.9 Hz, 1H), 7.06 (ddd, J = 8.3, 2.0, 0.7 Hz, 1H), 7.14 (d, J = 8.4
+Hz, 1H), 4.79 (d, J = 1.1 Hz, 2H), 4.18 (q, J = 7.1 Hz, 2H), 3.88 (s, 3H),
+3.84 (s, 3H), 1.23 (t, J = 7.0 Hz, 3H). 13C NMR (CDCl3, 100 MHz): δ
+168.0, 166.9, 149.6, 148.9, 143.0, 133.9, 132.1, 127.5, 125.2, 123.2, 122.7,
+112.4, 111.0, 61.1, 56.0, 55.9, 36.0, 14.2. HRMS (ESI) m/z: [M + Na]+
+calcd for C22H21NNaO6 418.1261, found 418.1241 (4.8 ppm).
+
+tert-Butyl 3,3-Bis(3,4-dimethoxyphenyl)-2-((1,3-dioxoiso-
+indolin-2-yl)methyl)acrylate (4ba). Prepared following the general
+procedure. Compound 4ba was obtained as a red solid in 53% yield (59
+mg) after ﬂash chromatography (SiO2, petroleum ether/ethyl acetate,
+7:3 to 6:4). 1H NMR (CDCl3, 400 MHz): δ 7.82 (dd, J = 5.5, 3.0 Hz,
+2H), 7.70 (dd, J = 5.5, 3.1 Hz, 2H), 7.11 (d, J = 1.9 Hz, 1H), 6.89 (dd, J =
+8.2, 2.0 Hz, 1H), 6.84−6.75 (m, 3H), 6.70 (d, J = 1.8 Hz, 1H), 4.68 (s,
+2H), 3.89 (s, 3H), 3.87 (s, 3H), 3.86 (s, 3H), 3.79 (s, 3H), 1.09 (s, 9H).
+13C NMR (CDCl3, 100 MHz): δ 167.9, 167.8, 148.8, 148.6, 148.6, 148.3,
+147.0, 134.8, 133.9, 132.6, 132.1, 127.3, 123.1, 122.2, 121.7, 112.6, 112.2,
+101.8, 110.4, 81.1, 56.0, 55.9, 55.8, 55.8, 39.3, 27.4. HRMS (ESI) m/z:
+[M + Na]+ calcd for C32H33NNaO8 582.2098, found 582.2122 (−4.0
+ppm).
+
+Butyl 3,3-Bis(3,4-dimethoxyphenyl)-2-((1,3-dioxoisoindolin-
+2-yl)methyl)acrylate (4ca). Prepared following the general proce-
+dure, except that Pd(OAc)2 (7.5 mol %) and acridine (7.5 mol %) were
+used. Compound 4ca was obtained as a red solid in 60% yield (67 mg)
+after ﬂash chromatography (SiO2, petroleum ether/ethyl acetate, 7:3 to
+5:5). 1H NMR (CDCl3, 400 MHz): δ 7.80 (dd, J = 5.6, 3.1 Hz, 2H), 7.68
+(dd, J = 5.5, 3.0 Hz, 2H), 7.03 (d, J = 1.8 Hz, 1H), 6.86 (dd, J = 8.2, 1.9
+Hz, 1H), 6.81 (d, J = 8.3 Hz, 1H), 6.74 (m, 2H), 6.67 (s, 1H), 4.68 (s,
+2H), 3.86 (s, 3H), 3.86 (s, 3H), 3.85 (s, 3H), 3.81 (t, J = 6.6 Hz, 2H),
+3.76 (s, 3H), 1.19 (m, 2H), 0.96 (m, 2H), 0.67 (t, J = 7.3 Hz, 3H). 13C
+NMR (CDCl3, 100 MHz): δ 169.5, 167.9, 149.1, 149.0, 148.9, 148.7,
+148.5, 134.7, 134.0, 132.5, 132.2, 125.5, 123.3, 122.5, 121.8, 112.8, 112.1,
+110.9, 110.5, 64.9, 56.1, 55.9, 55.9, 55.9, 39.5, 30.3, 18.9, 13.6. HRMS
+(ESI) m/z: [M + Na]+ calcd for C32H33NNaO8 582.2098,
+found
+582.2093 (0.8 ppm).
+
+Methyl 2-(Acetoxymethyl)-3,3-bis(3,4-dimethoxyphenyl)-
+acrylate (4da). Prepared following the general procedure, except that
+Pd(OAc)2 (7.5 mol %) and acridine (7.5 mol %) at 90 °C were used.
+Compound 4da was obtained as a red solid in 27% yield (23 mg) after
+ﬂash chromatography (SiO2, petroleum ether/ethyl acetate, 6:4 to 4:6).
+1H NMR (CDCl3, 400 MHz): δ 6.83−6.71 (m, 5H), 6.63 (d, J = 2.0 Hz,
+1H), 4.85 (s, 2H), 3.89 (s, 3H), 3.88 (s, 3H), 3.79 (s, 3H), 3.77 (s, 3H),
+3.54 (s, 3H), 2.09 (s, 3H). 13C NMR (CDCl3, 100 MHz): δ 170.7, 170.3,
+153.4, 150.0, 150.0, 148.6, 148.6, 134.2, 132.3, 125.0, 123.0, 122.1, 113.1,
+112.3, 110.8, 110.5, 60.0, 56.0, 56.0, 56.0, 55.9, 52.0, 21.1. HRMS (ESI)
+m/z: [M + Na]+ calcd for C23H26NaO8 453.1520, found 453.1524 (−0.9
+ppm).
+
+2-(2-(Bis(3,4-dimethoxyphenyl)methylene)-3-oxobutyl)-
+isoindoline-1,3-dione (4ea). Prepared following the general
+procedure, except that Pd(OAc)2 (7.5 mol %) and acridine (7.5 mol
+%) at 90 °C were used. Compound 4ea was obtained as a brown solid in
+41% yield (41 mg) after ﬂash chromatography (SiO2, petroleum ether/
+ethyl acetate, 5:5 to 4:6). 1H NMR (CDCl3, 400 MHz): δ 7.77 (dd, J =
+5.5, 3.1 Hz, 2H), 7.67 (dd, J = 5.5, 2.9 Hz, 2H), 7.01 (d, J = 2.0 Hz, 1H),
+6.84 (dd, J = 8.2, 2.0 Hz, 1H), 6.78 (m, 2H), 6.73 (dd, J = 8.2, 2.0 Hz,
+
+1H), 6.60 (d, J = 2.0 Hz, 1H), 4.66 (s, 2H), 3.88 (s, 3H), 3.85 (s, 3H),
+3.80 (s, 3H), 3.76 (s, 3H), 1.77 (s, 3H). 13C NMR (CDCl3, 100 MHz): δ
+205.3, 168.2, 150.1, 149.1, 149.0, 148.9, 148.8, 134.4, 134.1, 134.0, 132.9,
+132.1, 123.5, 123.3, 122.7, 112.9, 112.8, 111.0, 110.8, 56.1, 56.1, 56.0,
+56.0, 40.4, 30.6. HRMS (ESI) m/z: [M + Na]+ calcd for C29H27NNaO7
+524.1680, found 524.1682 (−0.5 ppm).
+
+Methyl 3,3-Bis(3,4-dimethoxyphenyl)-2-((2,3-dioxoindolin-
+1-yl)methyl)acrylate (4fa). Prepared following the general procedure,
+except that Pd(OAc)2 (7.5 mol %) and acridine (7.5 mol %) were used.
+Compound 4fa was obtained as a red solid in 55% yield (57 mg) after
+ﬂash chromatography (SiO2, petroleum ether/ethyl acetate, 6:4 to 4:6).
+1H NMR (CDCl3, 400 MHz): δ 7.53−7.49 (m, 2H), 7.06 (td, J = 7.5, 0.8
+Hz, 1H), 6.92 (m, 1H), 6.80 (d, J = 8.2 Hz, 1H), 6.73 (d, J = 8.4 Hz, 1H),
+6.70−6.76 (m, 3H), 6.55 (d, J = 2.0 Hz, 1H), 4.74 (s, 2H), 3.88 (s, 3H),
+3.85 (s, 3H), 3.75 (s, 3H), 3.73 (s, 3H), 3.44 (s, 3H). 13C NMR (CDCl3,
+100 MHz): δ 183.0, 170.2, 157.9, 150.8, 150.8, 149.6, 149.5, 148.9,
+148.6, 137.9. 134.2, 131.7, 125.1, 123.6, 123.1, 122.2, 121.7, 117.9, 112.3,
+112.0, 111.3, 111.2, 110.5, 56.1, 56.1, 55.9, 55.9, 52.3, 41.2. HRMS (ESI)
+m/z: [M + Na]+ calcd for C29H27NNaO8 540.1629, found 540.1637
+(−1.5 ppm).
+
+Ethyl 3,3-Bis(3,4-diethoxyphenyl)-2-((1,3-dioxoisoindolin-2-
+yl)methyl)acrylate (4ab). Prepared following the general procedure.
+Compound 4ab was obtained as a yellow solid in 42% yield (49 mg)
+after ﬂash chromatography (SiO2, petroleum ether/ethyl acetate, 7:3 to
+5:5). 1H NMR (CDCl3, 400 MHz): δ 7.80 (dd, J = 5.5, 3.1 Hz, 2H), 7.67
+(dd, J = 5.4, 3.1 Hz, 2H), 6.96 (d, J = 1.7 Hz, 1H), 6.83 (m, 2H), 6.71 (m,
+2H), 6.65 (d, J = 1.8 Hz, 1H), 4.67 (s, 2H), 4.10−4.01 (m, 6H), 3.94 (q, J
+= 7.0 Hz, 2H), 3.85 (q, J = 7.1 Hz, 2H), 1.45−1.34 (m, 12H), 0.83 (t, J =
+7.1 Hz, 3H). 13C NMR (CDCl3, 100 MHz): δ 169.4, 168.0, 149.5, 148.8,
+148.7, 148.3, 148.1, 134.8, 133.9, 132.6, 132.2, 125.0, 123.3, 122.6, 121.9,
+114.9, 114.3, 112.8, 112.5, 64.6, 64.6, 64.5, 64.5, 60.8, 39.5, 14.9, 14.9,
+14.9, 14.8, 13.7. HRMS (ESI) m/z: [M + Na]+ calcd for C34H37NNaO8
+610.2411, found 610.2438 (−4.4 ppm).
+
+Ethyl 3,3-Bis(3,4-dimethylphenyl)-2-((1,3-dioxoisoindolin-2-
+yl)methyl)acrylate (4ac). Prepared following the general procedure,
+except that Pd(OAc)2 (7.5 mol %) and acridine (7.5 mol %) were used.
+Compound 4ac was obtained as a yellow solid in 56% yield (52 mg) after
+ﬂash chromatography (SiO2, petroleum ether/ethyl acetate, 6:4). 1H
+NMR (CDCl3, 400 MHz): δ 7.80 (dd, J = 5.5, 3.0 Hz, 2H), 7.66 (dd, J =
+5.5, 3.0 Hz, 2H), 7.07 (m, 3H), 6.99 (d, J = 7.8 Hz, 1H), 6.96 (s, 1H),
+6.88 (dd, J = 7.7, 1.9 Hz, 1H), 4.64 (s, 2H), 3.87 (q, J = 7.1 Hz, 2H), 2.21
+(s, 6H), 2.20 (s, 3H), 2.17 (s, 3H), 0.81 (t, J = 7.2 Hz, 3H). 13C NMR
+(CDCl3, 100 MHz): δ 169.1, 167.9, 150.6, 139.6, 137.6, 136.6, 136.5,
+136.4, 136.0, 133.9, 132.3, 130.5, 129.8, 129.6, 129.3, 126.9, 126.2, 125.3,
+123.2, 60.7, 39.1, 19.8, 19.8, 19.7, 19.6, 13.5. HRMS (ESI) m/z: [M +
+Na]+ calcd for C30H29NNaO4 490.1989, found 490.1994 (−1.0 ppm).
+(E)-Ethyl 3-(2,5-Dimethoxyphenyl)-2-((1,3-dioxoisoindolin-2-
+yl)methyl)acrylate (3ad). Prepared following the general procedure.
+Compound 3ad was obtained as a brown solid in 83% yield (66 mg)
+after ﬂash chromatography (SiO2, petroleum ether/ethyl acetate, 7:3 to
+6:4). 1H NMR (CDCl3, 400 MHz): δ 7.95 (s, 1H), 7.75 (dd, J = 5.5, 3.0
+Hz, 2H), 7.65 (dd, J = 5.5, 3.2 Hz, 2H), 7.15 (m, 1H), 6.76 (m, 2H), 4.69
+(d, J = 1.2 Hz, 2H), 4.17 (q, J = 7.1 Hz, 2H), 3.78 (s, 3H), 3.74 (s, 3H),
+1.22 (t, J = 7.1 Hz, 3H). 13C NMR (CDCl3, 100 MHz): δ 167.9, 166.5,
+153.3, 151.6, 139.5, 133.8, 132.2, 127.3, 124.5, 123.2, 115.4, 115.3, 111.9,
+61.1, 56.2, 55.9, 36.1, 14.2. HRMS (ESI) m/z: [M + Na]+ calcd for
+C22H21NNaO6 418.1261, found 418.1254 (1.7 ppm).
+(E)-Ethyl 3-(3,5-Dimethoxyphenyl)-2-((1,3-dioxoisoindolin-2-
+yl)methyl)acrylate (3ae-β). Prepared following the general proce-
+dure. Compounds 3ae-α and 3ae-β were obtained and separated as
+brown solids in 82% yield (66 mg, α:β = 63:37) after ﬂash
+chromatography (SiO2, petroleum ether/ethyl acetate, 7:3 to 6:4). 1H
+NMR (CDCl3, 400 MHz): δ 7.87 (s, 1H), 7.76 (dd, J = 5.7, 3.0 Hz, 2H),
+7.66 (dd, J = 5.4, 3.0 Hz, 2H), 6.59 (dd, J = 2.3, 0.7 Hz, 2H), 6.28 (d, J =
+2.2 Hz, 1H), 4.74 (d, J = 1.3 Hz, 2H), 4.19 (q, J = 7.1 Hz, 2H), 3.75 (s,
+6H), 1.23 (t, J = 7.2 Hz, 3H). 13C NMR (CDCl3, 100 MHz): δ 167.9,
+166.5, 160.8, 142.8, 136.7, 134.4, 133.9, 132.1, 127.3, 123.7, 123.1, 106.6,
+100.8, 62.2, 55.5, 55.5, 36.0, 14.2. HRMS (ESI) m/z: [M + Na]+ calcd
+for C22H21NNaO6 418.1261, found 418.1256 (1.1 ppm).
+</para>
+2801
+
+DOI: 10.1021/acs.joc.5b00148
+J. Org. Chem. 2015, 80, 2796−2803
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(E)-Ethyl 3-(2,4-Dimethoxyphenyl)-2-((1,3-dioxoisoindolin-2-
+yl)methyl)acrylate (3ae-α). 1H NMR (CDCl3, 400 MHz): δ 7.98 (s,
+1H), 7.77 (dd, J = 5.6, 3.1 Hz, 2H), 7.65 (dd, J = 5.5, 2.9 Hz, 2H), 7.48
+(dd, J = 8.4, 0.6 Hz, 1H), 6.46 (dd, J = 8.4, 2.4 Hz, 1H), 6.42 (d, J = 2.5
+Hz, 1H), 4.70 (d, J = 1.1 Hz, 2H), (q, J = 7.1 Hz, 2H), 3.82 (s, 3H), 3.78
+(s, 3H), 1.20 (t, J = 7.1 Hz, 3H). 13C NMR (CDCl3, 100 MHz): δ 168.0,
+166.9, 161.8, 158.9, 139.4, 133.8, 132.2, 131.1, 125.2, 123.1, 116.7, 104.5,
+98.5, 60.9, 55.6, 55.5, 36.3, 14.2. HRMS (ESI) m/z: [M + Na]+ calcd for
+C22H21NNaO6 418.1261, found 418.1281 (−4.7 ppm).
+(E)-Methyl 3-(3,5-Dimethoxyphenyl)-2-((1,3-dioxoisoindolin-
+2-yl)methyl)-3-phenyl Acrylate (5ge). Prepared following the
+general procedure. Compound 5ge was obtained as an orange solid in
+16% yield (15 mg) after ﬂash chromatography (SiO2, petroleum ether/
+ethyl acetate/toluene, 5:3:2). 1H NMR (CDCl3, 400 MHz): δ 7.80 (dd,
+J = 5.6, 3.1 Hz, 2H), 7.68 (dd, J = 5.5, 3.0 Hz, 2H), 7.25 (m, 3H), 7.18
+(m, 2H), 6.52 (d, J = 2.3 Hz, 2H), 6.34 (t, J = 2.3 Hz, 1H), 4.66 (s, 2H),
+3.74 (s, 6H), 3.39 (s, 3H). 13C NMR (CDCl3, 100 MHz): δ 169.1, 167.8,
+160.8, 149.8, 141.5, 141.2, 134.4, 134.0, 132.1, 128.3, 128.1, 123.7, 123.3,
+107.2, 100.3, 55.5, 51.9, 39.2. HRMS (ESI) m/z: [M + Na]+ calcd for
+C27H23NNaO6 480.1418, found 480.1430 (−2.6 ppm).
+(E)-Methyl 3-(Benzo[d][1,3]dioxol-4-yl)-2-((1,3-dioxoiso-
+indolin-2-yl)methyl)-3-phenyl Acrylate (5gf-α) and (E)-Methyl
+3-(3,4-Dimethoxyphenyl)-2-((1,3-dioxoisoindolin-2-yl)methyl)-
+3-phenyl Acrylate (5gf-β). Prepared following the general procedure.
+Compounds 5gf-α and 5gf-β were obtained as an inseparable mixture of
+isomers as a red solid in 59% yield (52 mg, α:β = 18:82) after ﬂash
+chromatography (SiO2, petroleum ether/ethyl acetate, 75:25 to 6:4). 1H
+NMR (CDCl3, 400 MHz): δ 7.82 (m, 2.44H), 7.69 (m, 2.44H), 7.26 (m,
+3.66H), 7.14 (m, 2.44H), 6.86 (dd, J = 7.8, 2.0 Hz, 1H), 6.79 (m, 2H),
+6.74 (m, 0.44H), 6.65 (dd, J = 5.4, 3.7 Hz, 0.22H), 5.93 (s, 2H), 5.89 (s,
+0.44H), 4.67 (s, 2H), 4.62 (s, 0.44H), 3.41 (s, 0.66H), 3.36 (s, 3H). 13C
+NMR (CDCl3, 100 MHz): δ 169.2, 169.2, 167.9, 167.8, 150.2, 147.8,
+147.7, 147.6, 141.7, 140.5, 134.0, 133.9, 133.5, 132.2, 132.1, 129.2, 128.6,
+128.4, 128.2, 128.2, 128.1, 128.1, 127.8, 123.9, 123.4, 123.4, 123.3, 122.6,
+121.9, 121.2, 110.0, 109.8, 108.5, 108.3, 101.3, 101.2, 52.0, 51.8, 39.2,
+38.7. HRMS (ESI) m/z: [M + Na]+ calcd for C26H19NNaO6 464.1105,
+found 464.1102 (0.5 ppm).
+
+(E)-Methyl 2-((1,3-Dioxoisoindolin-2-yl)methyl)-3-(3-
+methoxyphenyl)-3-phenyl Acrylate (5gg-m) and (E)-Methyl 2-
+((1,3-Dioxoisoindolin-2-yl)methyl)-3-(4-methoxyphenyl)-3-
+phenyl Acrylate (5gg-p). Prepared following the general procedure,
+except that Pd(OAc)2 (7.5 mol %) and acridine (7.5 mol %) were used.
+Compounds 5gg-m and 5gg-p were obtained as an inseparable mixture
+of isomers as a yellow solid in 51% yield (44 mg, o:m:p = 0:46:54) after
+ﬂash chromatography (SiO2, petroleum ether/ethyl acetate, 75:25). 1H
+NMR (CDCl3, 400 MHz): δ 7.82 (m, 3.70H), 7.68 (m, 3.70H), 7.28−
+7.13 (m, 12.45H), 6.98 (dd, J = 2.6, 1.5 Hz, 0.85H), 6.90 (m, 2.85H),
+6.81 (ddd, J = 8.3, 2.6, 1.0 Hz, 0.85H), 4.67 (s, 2H), 4.64 (s, 1.7H), 3.79
+(s, 3H), 3.78 (s, 2.55H), 3.39 (s, 2.55H), 3.36 (s, 3H). 13C NMR
+(CDCl3, 100 MHz): δ 169.4, 169.1, 168.0, 167.8, 159.7, 159.6, 150.6,
+150.0, 142.1, 141.4, 141.0, 134.0, 134.0, 132.2, 132.2, 132.2, 131.0, 129.6,
+129.1, 128.7, 128.4, 128.1, 128.1, 128.1, 128.1, 126.4, 125.4, 123.3, 121.6,
+114.6, 114.0, 113.9, 55.4, 55.3, 51.9, 51.8, 39.3, 39.2. HRMS (ESI) m/z:
+[M + Na]+ calcd for C26H21NNaO5 450.1312, found 450.1331 (−4.9
+ppm).
+(E)-Methyl 2-((1,3-Dioxoisoindolin-2-yl)methyl)-3-phenyl-3-
+(m-tolyl)acrylate and (E)-Methyl 2-((1,3-Dioxoisoindolin-2-yl)-
+methyl)-3-phenyl-3-(p-tolyl)acrylate (5gh). Prepared following the
+general procedure, except that Pd(OAc)2 (7.5 mol %) and acridine (7.5
+mol %) were used. Compounds 5gh were obtained as an inseparable
+mixture of isomers as a yellow solid in 57% yield (47 mg, ratio that could
+not be assigned and is thus given in no particular order = 0:40:60) after
+ﬂash chromatography (SiO2, petroleum ether/ethyl acetate/toluene,
+5:3:2). 1H NMR (CDCl3, 400 MHz): δ 7.80 (m, 3.4H), 7.68 (m, 3.4H),
+7.27−7.07 (m, 14.3H), 4.65 (s, 1.4H), 4.63 (s, 2H), 3.39 (s, 3H), 3.38 (s,
+2.1H), 2.33 (s, 2.1H), 2.30 (s, 3H). 13C NMR (CDCl3, 100 MHz): δ
+169.3, 169.3, 167.9, 167.8, 150.7, 150.7, 141.9, 141.7, 139.7, 138.2, 138.2,
+136.9, 134.0, 132.2, 132.2, 129.8, 129.4, 129.2, 129.1, 129.0, 128.6, 128.5,
+128.4, 128.3, 128.1, 128.1, 126.3, 126.0, 125.7, 125.4, 123.3, 123.3, 51.9,
+51.9, 39.2, 39.1, 21.5, 21.4. HRMS (ESI) m/z: [M + Na]+ calcd for
+C26H21NNaO4 434.1363, found 434.1372 (−2.2 ppm).
+</para>
+Article
+<para sub=“exp”>
+(E)-Methyl 3-(3-Chlorophenyl)-2-((1,3-dioxoisoindolin-2-yl)-
+methyl)-3-phenyl Acrylate and (E)-Methyl 3-(4-Chlorophenyl)-
+2-((1,3-dioxoisoindolin-2-yl)methyl)-3-phenyl Acrylate (5gi).
+Prepared following the general procedure, except that Pd(OAc)2 (7.5
+mol %) and acridine (7.5 mol %) were used. Compounds 5gi were
+obtained as an inseparable mixture of isomers as a yellow solid in 36%
+yield (31 mg, ratio which could not be assigned and is thus given in no
+particular order = 0:63:37) after ﬂash chromatography (SiO2, petroleum
+ether/ethyl acetate/toluene, 5:3:2). 1H NMR (CDCl3, 400 MHz): δ
+7.81 (m, 3.16H), 7.69 (m, 3.16H), 7.35−7.11 (m, 14.22H), 4.61 (s, 2H),
+4.60 (s, 1.16H), 3.39 (s, 1.74 H), 3.38 (s, 3H). 13C NMR (CDCl3, 100
+MHz): δ 168.9, 168.8, 167.8, 167.8, 148.9, 148.5, 141.4, 141.2, 140.9,
+138.1, 134.5, 134.4, 134.1, 134.1, 132.1, 132.1, 130.8, 129.9, 129.3, 128.8,
+128.5, 128.5, 128.4, 128.4, 128.3, 128.3, 128.2, 127.5, 127.2, 126.7, 123.4,
+123.4, 52.0, 52.0, 39.0, 39.0. HRMS (ESI) m/z: [M + Na]+ calcd for
+C25H18ClNNaO4 454.0817, found 454.0827 (−2.2 ppm).
+(E)-Methyl 3-(3,4-Dimethoxyphenyl)-2-((1,3-dioxoisoindolin-
+2-yl)methyl)-3-phenyl Acrylate (5ga). Prepared following the
+general procedure. Compound 5ga was obtained as a red solid in 55%
+yield (50 mg) after ﬂash chromatography (SiO2, petroleum ether/ethyl
+acetate, 7:3). 1H NMR (CDCl3, 400 MHz): δ 7.80 (dd, J = 5.5, 3.1 Hz,
+2H), 7.68 (dd, J = 5.5, 3.0 Hz, 2H), 7.25 (m, 3H), 7.15 (m, 2H), 6.99 (d,
+J = 1.7 Hz, 1H), 6.82 (m, 2H), 4.69 (s, 2H), 3.84 (s, 3H), 3.84 (s, 3H),
+3.37 (s, 3H). 13C NMR (CDCl3, 100 MHz): δ 169.3, 167.9, 150.2, 149.0,
+148.7, 141.9, 134.0, 132.4, 132.1, 128.6, 128.1, 128.1, 125.8, 123.3, 122.2,
+112.7, 110.9, 56.1, 55.9, 51.8, 39.4. HRMS (ESI) m/z: [M + Na]+ calcd
+for C27H23NNaO6 480.1418, found 480.1433 (−3.3 ppm).
+(E)-Methyl 2-((1,3-Dioxoisoindolin-2-yl)methyl)-3-(naph-
+thalen-2-yl)-3-phenyl Acrylate (5gj). Prepared following the general
+procedure, except that Pd(OAc)2 (7.5 mol %) and acridine (7.5 mol %)
+were used. Compound 5gj was obtained as a brown solid in 83% yield
+(74 mg) after ﬂash chromatography (SiO2, petroleum ether/ethyl
+acetate/toluene, 7:3:2). 1H NMR (CDCl3, 400 MHz): δ 7.91 (d, J = 1.1
+Hz, 1H), 7.85−7.76 (m, 5H), 7.64 (dd, J = 5.5, 3.1 Hz, 2H), 7.48 (m,
+2H), 7.39 (dd, J = 8.5, 1.7 Hz, 1H), 7.28−7.16 (m, 5H), 4.70 (s, 2H),
+3.43 (s, 3H). 13C NMR (CDCl3, 100 MHz): δ 169.2, 167.9, 150.2, 141.6,
+137.1, 134.0, 133.1, 133.0, 132.1, 128.7, 128.7, 128.4, 128.3, 128.2, 128.2,
+127.8, 127.1, 126.6, 126.6, 126.5, 123.2, 51.9, 39.2. HRMS (ESI) m/z:
+[M + Na]+ calcd for C29H21NNaO4 470.1363, found 470.1343 (4.2
+ppm).
+
+(E)-Methyl 3-(3,4-Dimethylphenyl)-2-((1,3-dioxoisoindolin-2-
+yl)methyl)-3-phenyl Acrylate (5gc). Prepared following the general
+procedure, except that Pd(OAc)2 (7.5 mol %) and acridine (7.5 mol %)
+were used. Compound 5gc was obtained as a yellow solid in 60% yield
+(51 mg) after ﬂash chromatography (SiO2, petroleum ether/ethyl
+acetate/toluene, 7:3:2). 1H NMR (CDCl3, 400 MHz): δ 7.80 (dd, J =
+5.5, 3.0 Hz, 2H), 7.68 (dd, J = 5.5, 3.2 Hz, 2H), 7.25 (m, 3H), 7.16 (m,
+2H), 7.10−7.04 (m, 3H), 4.67 (s, 2H), 3.89 (s, 3H), 2.22 (s, 3H), 2.20
+(s, 3H). 13C NMR (CDCl3, 100 MHz): δ 169.4, 167.8, 150.8, 142.0,
+137.2, 136.8, 136.6, 133.9, 132.2, 130.4, 129.7, 128.5, 128.0, 127.9, 126.8,
+125.5, 123.2, 51.7, 39.2, 19.8, 19.8. HRMS (ESI) m/z: [M + Na]+ calcd
+for C27H23NNaO4 448.1519, found 448.1537 (−4.0 ppm).
+(Z)-Methyl 3-(4-Chlorophenyl)-3-(3,4-dimethoxyphenyl)-2-
+((1,3-dioxoisoindolin-2-yl)methyl)acrylate (5ha). Prepared fol-
+lowing the general procedure. Compound 5ha was obtained as a red
+solid in 55% yield (54 mg) after ﬂash chromatography (SiO2, petroleum
+ether/ethyl acetate, 7:3). 1H NMR (CDCl3, 400 MHz): δ 7.80 (dd, J =
+5.4, 2.9 Hz, 2H), 7.70 (dd, J = 5.4, 3.0 Hz, 2H), 7.23 (d, J = 8.6 Hz, 2H),
+7.09 (d, J = 8.7 Hz, 2H), 6.95 (m, 1H), 6.80 (m, 2H), 4.68 (s, 2H), 3.85
+(s, 3H), 3.84 (s, 3H), 3.41 (s, 3H). 13C NMR (CDCl3, 100 MHz): δ
+169.0, 167.9, 149.2, 149.0, 148.9, 140.4, 134.2, 134.1, 132.1, 132.0, 130.0,
+128.4, 126.3, 123.3, 122.3, 112.6, 111.0, 56.1, 56.0, 52.0, 39.4. HRMS
+(ESI) m/z: [M + Na]+ calcd for C27H22ClNNaO6 514.1028, found
+514.1021 (1.3 ppm).
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Copies of 1H and 13C NMR spectra of alkenes 1f, 3, 4, and 5. This
+material is available free of charge via the Internet at http://pubs.
+acs.org.
+
+2802
+
+DOI: 10.1021/acs.joc.5b00148
+J. Org. Chem. 2015, 80, 2796−2803
+
+The Journal of Organic Chemistry
+
+■ AUTHOR INFORMATION
+Corresponding Authors
+*E-mail: jeb@organ.su.se (J.-E.B.).
+*E-mail: nicolas.gigant@u-psud.fr (N.G.).
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+Financial support from the European Research Council (ERC
+AdG 247014), The Swedish Research Council, and The Knut
+and Alice Wallenberg Foundation is gratefully acknowledged.
+
+■ REFERENCES
+(1) Beer, M. L.; Lemon, J.; Valliant, J. F. J. Med. Chem. 2010, 53, 8012−
+8020.
+(2) Habeeb, A. G.; Praveen Rao, P. N.; Knaus, E. E. J. Med. Chem. 2001,
+44, 3039−3042.
+(3) Yu, H.; Richey, R. N.; Carson, M. W.; Coghlan, M. J. Org. Lett.
+2006, 8, 1685−1688.
+(4) Aziz, J.; Brachet, E.; Hamze, A.; Peyrat, J.-F.; Bernadat, G.; Morvan,
+E.; Bignon, J.; Wdzieczak-Bakala, J.; Desravines, D.; Dubois, J.; Tueni,
+M.; Yassine, A.; Brion, J.-D.; Alami, M. Org. Biomol. Chem. 2013, 11,
+430−442.
+(5) Among signiﬁcant examples, see: (a) Suero, M. G.; Bayle, E. D.;
+Collins, B. S. L.; Gaunt, M. J. J. Am. Chem. Soc. 2013, 135, 5332−5335.
+(b) Nishihara, Y.; Okada, Y.; Jiao, J.; Suetsugu, M.; Lan, M.-T.;
+Kinoshita, M.; Iwasaki, M.; Takagi, K. Angew. Chem., Int. Ed. 2011, 50,
+8660−8664. (c) Ishida, N.; Shimamoto, Y.; Murakami, M. Org. Lett.
+2009, 11, 5434−5437. (d) Itami, K.; Kamei, T.; Yoshida, J.-I J. Am.
+Chem. Soc. 2003, 125, 14670−14671.
+(6) For a review, see: Paek, S.-M. Molecules 2012, 17, 3348−3358.
+(7) Among recent examples, see: (a) Roche, M.; Bignon, J.; Brion, J.-
+D.; Hamze, A.; Alami, M. J. Org. Chem. 2014, 79, 7583−7592. (b) He, Z.;
+Wibbeling, B.; Studer, A. Adv. Synth. Catal. 2013, 355, 3639−3647.
+(c) Kim, K. H.; Lee, S.; Kim, S. H.; Lim, C. H.; Kim, J. N. Tetrahedron
+Lett. 2012, 55, 5088−5093. (d) Lee, H. S.; Kim, K. H.; Kim, S. H.; Kim, J.
+N. Adv. Synth. Catal. 2012, 354, 2419−2426. (e) He, Z.; Kirchberg, S.;
+Fröhlich, R.; Studer, A. Angew. Chem., Int. Ed. 2012, 51, 3699−3702.
+(f) Tan, Z.; Negishi, E.-I Angew. Chem., Int. Ed. 2006, 45, 762−765.
+(8) Among very recent examples, see: (a) Deng, Y.; Yu, J.-Q. Angew.
+Chem., Int. Ed. 2015, 54, 888−891. (b) Bera, M.; Modak, A.; Patra, T.;
+Maji, A.; Maiti, D. Org. Lett. 2014, 16, 5760−5763. (c) Wang, Q.; Han,
+J.; Wang, C.; Zhang, J.; Huang, Z.; Shi, D.; Zhao, Y. Chem. Sci. 2014, 5,
+4962−4967. (d) Fabry, D. C.; Zoller, J.; Raja, S.; Rueping, M. Angew.
+Chem., Int. Ed. 2014, 53, 10228−10231. (e) Ye, X.; Shi, X. Org. Lett.
+2014, 16, 4448−4451. (f) Sevov, C. S.; Hartwig, J. F. J. Am. Chem. Soc.
+2014, 136, 10625−10631. (g) Vora, H. U.; Silvestri, A. P.; Engelin, C. J.;
+Yu, J.-Q. Angew. Chem., Int. Ed. 2014, 53, 2683−2686. (h) Li, Z.; Zhang,
+Y.; Liu, Z.-Q. Org. Lett. 2012, 14, 74−77. (i) Zhang, Y.; Li, Z.; Liu, Z.-Q.
+Org. Lett. 2012, 14, 226−229. (j) Shang, X.; Xiong, Y.; Zhang, Y.; Zhang,
+L.; Liu, Z. Synlett 2002, 23, 259−262.
+(9) For selected reviews on dehydrogenative Heck reactions, see:
+(a) Zhou, L.; Lu, W. Chem.Eur. J. 2014, 20, 634−642. (b) Wu, Y.;
+Wang, J.; Mao, F.; Kwong, F. K. Chem.Asian. J. 2014, 9, 26−47.
+(c) Kozhushkov, S. I.; Ackermann, L. Chem. Sci. 2013, 4, 886−896.
+(d) Shang, X.; Liu, Z.-Q. Chem. Soc. Rev. 2013, 42, 3253−3260.
+(e) Yeung, C. S.; Dong, V. M. Chem. Rev. 2011, 111, 1215−1292. (f) Le
+Bras, J.; Muzart, J. Chem. Rev. 2011, 111, 1170−1214.
+(10) For selected examples, see: (a) Gigant, N.; Bäckvall, J.-E. Org. Lett.
+2014, 16, 4432−4435. (b) Gigant, N.; Bäckvall, J.-E. Org. Lett. 2014, 16,
+1664−1667. (c) Gigant, N.; Bäckvall, J.-E. Chem.Eur. J. 2014, 20,
+5890−5894. (d) Volla, C. M. R.; Bäckvall, J.-E. Angew. Chem., Int. Ed.
+2013, 52, 14209−14213. (e) Gigant, N.; Bäckvall, J.-E. Chem.Eur. J.
+2013, 19, 10799−10803. (f) Babu, B. P.; Meng, X.; Bäckvall, J.-E.
+Chem.Eur. J. 2013, 19, 4140−4145. (g) Persson, A. K. Å
+.; Bäckvall, J.-
+E. Angew. Chem., Int. Ed. 2010, 49, 4624−4627. (h) Piera, J.; Persson, A.;
+Caldentey, X.; Bäckvall, J.-E. J. Am. Chem. Soc. 2007, 129, 14120−14121.
+
+Article
+
+(11) A review: Piera, J.; Bäckvall, J.-E. Angew. Chem., Int. Ed. 2008, 47,
+3506−3523.
+(12) (a) Harada, S.; Yano, H.; Obora, Y. ChemCatChem 2013, 5, 121−
+125. (b) Pankajakshan, S.; Xu, Y.-H.; Cheng, J. K.; Low, M. T.; Loh, T.-
+P. Angew. Chem., Int. Ed. 2012, 51, 5701−5705. (c) Yamada, T.;
+Sakaguchi, S.; Ishii, Y. J. Org. Chem. 2005, 70, 5471−5474.
+(13) Acetonitrile can compete with BQ as a ligand, and this may lower
+the rate: Jones, R. C.; Galezowski, M.; O’Shea, D. F. J. Org. Chem. 2013,
+78, 8044−8053.
+(14) Pan, D.; Chen, A.; Su, Y.; Zhou, W.; Li, S.; Jia, W.; Xiao, J.; Liu, Q.;
+Zhang, L.; Jioa, N. Angew. Chem., Int. Ed. 2008, 47, 4729−4732.
+(15) The stereochemistry of 5ga was determined by 2D NOE
+experiment, which is in correlation with a typical syn β-H elimination.
+(16) Pautigny, C.; Jeulin, S.; Ayad, T.; Zhang, Z.; Genêt, J.-P.;
+Ratovelomanana-Vidal, V. Adv. Synth. Catal. 2008, 350, 2525−2532.
+(17) Peng, C.; Joy, A. Macromolecules 2014, 47, 1258−1268.
+(18) Graupner, P. R.; Gerwick, B. C.; Fields, S. C.; Schmitzer, P. R.;
+Brewster, W. K. Canadian Patent CA2527439C (Filing date:
+20051118), 2005.
+(19) Latorre, A.; Sáez, J. A.; Rodríguez, S.; González, F. V. Tetrahedron
+2014, 70, 97−102.
+(20) Sibi, M. P.; Tatamidani, H.; Patil, K. Org. Lett. 2005, 7, 2571−
+2573.
+(21) Huang, H.; liu, X.; Deng, J.; Qiu, M.; Zheng, Z. Org. Lett. 2006, 8,
+3359−3362.
+(22) Veeraraghavan Ramachandran, P.; Burghardt, T. E.; Bland-Berry,
+L. J. Org. Chem. 2005, 70, 7911−7918.
+
+2803
+
+DOI: 10.1021/acs.joc.5b00148
+J. Org. Chem. 2015, 80, 2796−2803
+
+́
+

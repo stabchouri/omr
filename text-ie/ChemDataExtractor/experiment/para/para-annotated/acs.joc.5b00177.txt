@@ -1,0 +1,884 @@
+Note
+
+pubs.acs.org/joc
+
+Ru-Catalyzed Asymmetric Transfer Hydrogenation of
+α‑Triﬂuoromethylimines
+Meng Wu, Tanyu Cheng, Min Ji, and Guohua Liu*
+Key Laboratory of Resource Chemistry of Ministry of Education, Shanghai Key Laboratory of Rare Earth Functional Materials,
+Shanghai Normal University, Shanghai 200234, P. R. China
+*S Supporting Information
+
+ABSTRACT: Enantioselective transformation of strong electron-withdrawing
+acyclic α-triﬂuoromethylimines to α-triﬂuoromethylamines through a ruthenium-
+catalyzed asymmetric transfer hydrogenation has been developed. The method
+described here is a facile catalytic process with sodium formate as a hydrogen
+resource and water−dimethylformamide as a cosolvent. The beneﬁt of this
+enantioselective transformation aﬀords a series of chiral α-triﬂuoromethylamines
+with high yields and excellent enantioselectivities (93−99% ee) under mild
+reaction conditions.
+
+S ince the pioneering works reported by Noyori, Ikariya, and
+
+co-workers on ruthenium(II)(diphosphine)(diamine) di-
+chloride complexes for asymmetric hydrogenation of ketones
+and imines,1 a large number of reviews and researches involving
+in N-sulfonylated 1,2-diamines as chiral
+ligands both in
+asymmetric hydrogenation and in asymmetric transfer hydro-
+genation of ketones and imines are well-documented
+theoretically and practically.2 Also, various catalytic reaction
+systems covering 2-propanol, formic acid−triethylamine, formic
+acid, and sodium formate as hydrogen resources have been
+explored in asymmetric transfer hydrogenation of ketones and
+imines.3 Most prominent examples employ chiral N-sulfony-
+lated diamine-based η5-Cp*−M complexes (η5-Cp* = pentam-
+ethyl cyclopentadiene series) and η6-arene−M complexes (η6-
+arene = aromatic ring series) (M = Ru, Rh, and Ir), which have
+been applied extensively to various asymmetric transfer
+hydrogenation of ketones and imine.4 Although these fruitful
+achievements have been obtained,
+in
+triﬂuoromethylimines re-
+enantioselective transformation of
+main an unmet challenge.
+
+their applications
+
+Optically pure α-triﬂuoromethylamine, as an important
+number of biologically active motifs, has been attracting
+much interest in medical and ﬂuorine chemistry.5 Recently,
+besides the methods of diastereoselective reductive aminations
+and asymmetric addition,6 the construction of chiral α-
+triﬂuoromethylamines through enantioselective reduction of
+achiral α-triﬂuoromethylimines had been explored by a few
+groups.7 The ﬁrst
+two successful examples utilized an
+asymmetric hydrogenation method reported by the Uneyama
+and Zhou groups,7b−d in which Pd-catalyzed asymmetric
+reactions could aﬀord chiral α-triﬂuoromethylamines with up
+to 94% enantioselectivity. However, high pressures of hydrogen
+and sensitive chiral diphosphine ligands still
+limited their
+practical applications. Interestingly, the latter three examples
+employed asymmetric transfer hydrogenation and asymmetric
+hydrosilylation methods to prepare chiral α-triﬂuoromethyla-
+mines.7e−g As shown in Scheme 1, the Akiyama group7e used an
+
+Scheme 1. Asymmetric Transfer Hydrogenation (ATH) and
+Asymmetric Hydrosilylation (AHS) of 4-Methoxy-N-(2,2,2-
+triﬂuoro-1-phenylethylidene)aniline
+
+asymmetric transfer hydrogenation method through the use of
+a chiral phosphoric acid as a catalyst and benzothiazoline as a
+hydrogen resource to provide chiral 4-methoxy-N-(2,2,2-
+triﬂuoro-1-phenylethyl)aniline with 96% ee, while the Benaglia
+group7f utilized an asymmetric hydrosilylation method through
+the use of a chiral organocatalyst (picolinamide) as a catalyst to
+
+Received:
+January 30, 2015
+Published: March 11, 2015
+
+© 2015 American Chemical Society
+
+3708
+
+DOI: 10.1021/acs.joc.5b00177
+J. Org. Chem. 2015, 80, 3708−3713
+
+The Journal of Organic Chemistry
+
+obtain 91% ee of chiral 4-methoxy-N-(2,2,2-triﬂuoro-1-
+phenylethyl)aniline. In particular, the Cahard group7g took
+advantage of the η6-arene−Ru complex (chiral aminoalcohol/
+[RuCl2(p-cymene)]2) as a catalyst and 2-propanol as a
+hydrogen resource to enable enantioselective reduction of
+achiral 4-methoxy-N-(2,2,2-triﬂuoro-1-phenylethylidene)aniline
+to chiral 4-methoxy-N-(2,2,2-triﬂuoro-1-phenylethyl)aniline
+(93% ee) through an asymmetric transfer hydrogenation
+method. Although the above three examples had been
+presented successfully, the ﬁrst two examples needed 10 mol
+% of catalyst to reach their enantioselective performances, while
+ee values in Ru-catalyzed asymmetric transfer hydrogenation
+with 5 mol % of catalyst in the last example needed to be
+further enhanced. Therefore, by utilizing chiral N-sulfonylated
+diamine-based catalysts, realization of highly eﬃcient asym-
+metric transfer hydrogenation of α-triﬂuoromethylimines with a
+low catalyst’s amount under mild reaction conditions is high
+desirable.
+
+As an eﬀort
+
+to develop highly eﬃcient catalysts
+
+for
+asymmetric transfer hydrogenation,8 we herein screen a series
+of N-(4-methyl)benzenesulfonylated 1,2-diphenylethylene-
+diamine (TsDPEN)-based η6-arene−M complexes to identify
+a TsDPEN-based η6-mesitylene−Ru complex as an optimal
+catalyst, realizing an eﬃciently ruthenium-catalyzed asymmetric
+transfer hydrogenation of achiral aryltriﬂuoromethylimines to
+chiral aryltriﬂuoromethylamines with 2 mol % of catalyst under
+mild reaction conditions.
+<para sub=“opt”>
+On the basis of the idea in further development of chiral N-
+sulfonylated diamine-based η6-arene−M complexes for asym-
+metric transfer hydrogenation of triﬂuoromethylimines, the η6-
+arene−Ru complex was investigated in asymmetric transfer
+hydrogenation of 4-methoxy-N-(2,2,2-triﬂuoro-1-phenyl-
+ethylidene)aniline under diﬀerent reaction conditions, respec-
+tively. According to four common hydrogen resources, formic
+acid−triethylamine,
+formic acid, 2-propanol, and sodium
+formate, we screened its catalytic performance at ﬁrst. As
+shown in Table 1, it was found that, in the case of HCOOH−
+NEt3 cosolvent as a hydrogen resource, poor yield and medium
+enantioselectivity were obtained because the decomposition of
+</para>
+Table 1. Optimization of H Resource and Catalysts for
+Asymmetric Transfer Hydrogenationa
+
+entry
+
+1
+2
+3
+4
+5
+6
+7
+
+cat.
+A
+A
+A
+A
+B
+C
+D
+
+solvent and/or H resource
+
+time (h)
+
+yield (%)
+
+ee (%)b
+
+HCOOH−NEt3
+HCOOH
+i-PrOH
+H2O−HCOONa
+H2O−HCOONa
+H2O−HCOONa
+H2O−HCOONa
+
+24
+24
+24
+24
+24
+24
+24
+
+49
+43
+38
+86
+83
+50
+10
+
+78
+68
+86
+89
+86
+70
+57
+
+aReactions were performed with 4.0 μmol of catalyst, 0.20 mmol of 4-
+methoxy-N-(2,2,2-triﬂuoro-1-phenylethylidene)aniline in 2.0 mL of
+solvent at 40 °C. bDetermined by HPLC.
+
+Note
+<para sub=“opt”>
+4-methoxy-N-(2,2,2-triﬂuoro-1-phenylethylidene)aniline pro-
+duced the side product of 2,2,2-triﬂuoro-1-phenylethanol
+(Table 1, entry 1).7g Similarly, the decomposition also existed
+in the case of HCOOH as a hydrogen resource (Table 1, entry
+2). Diﬀering from the above hydrogen resources,
+the
+asymmetric reaction with i-PrOH as a hydrogen resource had
+a high enantioselectivity (86% ee), but the yield was poor
+(Table 1, entry 3). To our delight, in the case of HCOONa as a
+hydrogen resource and water as a solvent that was inspired by
+the works of the Xiao and Deng groups on asymmetric transfer
+hydrogenation of quinolines and N-sulfonylimines,9 we found
+that catalyst A could produce the desirable (S)-4-methoxy-N-
+(2,2,2-triﬂuoro-1-phenylethyl)aniline with 86% yield and 89%
+ee (Table 1, entry 4).
+</para>
+<para sub=“opt”>
+On the basis of this ﬁnding, we further investigated the
+diﬀerent η6-arene−Ru complexes in the asymmetric transfer
+hydrogenation of 4-methoxy-N-(2,2,2-triﬂuoro-1-phenyl-
+ethylidene)aniline using HCOONa as a hydrogen resource
+and water as a solvent. As shown in entries 5−7 of Table 1, it
+was found that catalyst A aﬀorded the desirable products
+slightly higher than that of catalyst B (Table 1, entries 4−5),
+and markedly better than those of catalysts C and D (Table 1,
+entry 4 versus entries 6−7). Therefore, (S,S)-TsPDEN/
+[RuCl2(mesitylene)]2 (A) was identiﬁed as an optimal catalyst
+through the use of HCOONa as a hydrogen resource and water
+as a solvent.
+</para>
+<para sub=“opt”>
+solubility of
+
+Due to poor
+
+substrates, optimization of
+cosolvent using A as a catalyst was further attempted. As
+shown Table 2, it was found that the enantioselectivity of the
+</para>
+Table 2. Optimization of Cosolvent for Asymmetric Transfer
+Hydrogenationa
+
+entry
+
+1
+2
+3
+4
+5
+6
+
+cat.
+A
+A
+A
+A
+A
+A
+
+cosolvent
+
+time (h)
+
+yield (%)
+
+ee (%)b
+
+H2O/THF (1:1)
+H2O/dioxane (1:1)
+H2O/i-PrOH (1:1)
+H2O/DMA (1:1)
+H2O/DMSO (1:1)
+H2O/DMF (1:1)
+
+24
+24
+24
+8
+8
+8
+
+70
+88
+40
+91
+92
+93
+
+54
+nd
+96
+93
+96
+97
+
+aReactions were performed with 4.0 μmol of catalyst, 0.20 mmol of 4-
+methoxy-N-(2,2,2-triﬂuoro-1-phenylethylidene)aniline, 1.0 mmol of
+HCOONa in 2.0 mL of cosolvent at 40 °C. bDetermined by HPLC.
+<para sub=“opt”>
+asymmetric reaction with H2O/DMF (v/v = 1:1) as a cosolvent
+could further enhance from 89% to 97% ee, where the reaction
+time could be decreased to 8 h because of the good-solubility of
+the substrate in the mixed H2O/DMF cosolvent system (Table
+2, entry 6). As compared with the other cosolvents, such an ee
+value was obviously higher than those obtained with the mixed
+H2O/THF and H2O/dioxane as cosolvents (Table 2, entry 6
+versus entries 1−2), and slightly higher than those obtained
+with the others (Table 2, entry 6 versus entries 3−5).
+Therefore, the mixed H2O/DMF (v/v = 1:1) was identiﬁed
+as an optimal cosolvent. As a comprehensive result,
+the
+</para>
+3709
+
+DOI: 10.1021/acs.joc.5b00177
+J. Org. Chem. 2015, 80, 3708−3713
+
+The Journal of Organic Chemistry
+<para sub=“opt”>
+asymmetric reaction with 2.0 mmol % of A as a catalyst,
+HCOONa as a hydrogen resource, and H2O/DMF (v/v = 1:1)
+as a cosolvent at 40 °C was determined as the optimal reaction
+condition.
+</para>
+<para sub="scope">
+Having established that catalyst A enabled a highly eﬃcient
+asymmetric transfer hydrogenation of 4-methoxy-N-(2,2,2-
+triﬂuoro-1-phenylethylidene)aniline, we further investigated its
+general applicability to prepare chiral aryltriﬂuoromethylamines
+with a series of aryl-substituted substrates. As shown in Table 3,
+</para>
+Table 3. Substrate Scope for Ru-Catalyzed Asymmetric
+Transfer Hydrogenation of α-Triﬂuoromethyliminesa
+
+Note
+<para sub="scope">
+As mentioned in the part of the Introduction, chiral 2,2,2-
+triﬂuoro-1-phenylethanamine as an important synthetic motif
+could be converted to various optically pure biologically active
+molecules in medical and ﬂuorine chemistry.5 In this case, in
+order to obtain optically pure 2,2,2-triﬂuoro-1-phenylethan-
+amine, we attempted to remove the PMP protection group of
+the hydrogenated product (S)-4-methoxy-N-(2,2,2-triﬂuoro-1-
+phenylethyl)aniline. Among those reported methods,6c,7d,g,10 it
+was found that the use of an equivalent of HIO4 and H2SO4 in
+the cosolvent of MeCN/H2O (v:v = 1:1) as a reaction
+condition could aﬀord the best result,7g where the PMP
+protection group of (S)-4-methoxy-N-(2,2,2-triﬂuoro-1-
+phenylethyl)aniline could be removed readily to give (S)-
+2,2,2-triﬂuoro-1-phenylethanamine with the slightly decreased
+enantioselectivity in 72% isolated yield, as shown in Scheme 2.
+</para>
+Scheme 2. Removal of the PMP Protection Group
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+R1, R2
+
+PMP, Ph
+PMP, 4-FC6H4
+PMP, 4-ClC6H4
+PMP, 4-BrC6H4
+PMP, 3-BrC6H4
+PMP, 4-CF3C6H4
+PMP, 4-MeC6H4
+PMP, 4-MeOC6H4
+PMP, 2-MeOC6H4
+PMP, 2-thienyl
+4-MeC6H4, Ph
+4-MeC6H4, 4-FC6H4
+4-MeC6H4, 4-BrC6H4
+Ph, Ph
+4-ClPh, Ph
+1-naphthyl, Ph
+2-naphthyl, Ph
+
+2
+2a
+2b
+2c
+2d
+2e
+2f
+2g
+2h
+2i
+2j
+2k
+2l
+2m
+2n
+2o
+2p
+2q
+
+time (h)
+
+yield (%)
+
+ee (%)b
+
+8
+8
+8
+8
+8
+5
+17
+9
+8
+20
+8
+8
+8
+8
+8
+12
+9
+
+93
+91
+90
+88
+94
+93
+75
+87
+82
+70
+88
+93
+89
+94
+91
+89
+90
+
+97
+97
+99
+95
+95
+97
+96
+98
+93
+97
+95
+94
+95
+96
+95
+96
+99
+
+aReactions were performed with 4.0 μmol of catalyst D, 0.20 mmol of
+α-triﬂuoromethylimines, 1.0 mmol of HCOONa in 2.0 mL of water/
+DMF (v/v = 1/1) at 40 °C. bDetermined by HPLC.
+<para sub="scope">
+in general, high yields, no intermediate products, and excellent
+enantioselectivities were obtained under the optimal reaction
+conditions for all tested substrates. It is noteworthy that the
+structures and electronic properties of substituents in the
+aromatic ring at the R2 group did not aﬀect signiﬁcantly their
+enantioselectivities; that is, various electron-withdrawing and
+electron-donating substituents in the Ar moiety at the R2 group
+were equally eﬃcient (entries 2−9). However, the slight eﬀects
+on yields could be observed,
+in which electron-withdrawing
+substituents in the Ar moiety at the R2 group had slightly higher
+yields than those of electron-donating substituents (entries 2−6
+versus entries 7−9).
+the thienyl-substituted
+substrate could be also converted to the corresponding chiral
+products with excellent enantioselectivity (Table 2, entry 10).
+Moreover, besides
+the general p-methoxyphenyl (PMP)
+protection group, other protection groups, such as p-tolyl, Ph,
+and naphthyl, could also be expanded to the asymmetric
+transfer hydrogenation, providing the desirable chiral aryltri-
+ﬂuoromethylamines with high enantioselectivities (entries 11−
+17).
+</para>
+In addition,
+
+In conclusion, by the further
+
+investigation of Noyori’s
+catalysts, we ﬁnd that RuCl[(S,S)-TsDPEN)](mesitylene) is an
+eﬃcient catalyst in the asymmetric transfer hydrogenation of
+acyclic α-triﬂuoromethylimines with sodium formate as a
+hydrogen resource and water−dimethylformamide as a
+cosolvent, which produces various chiral aryl-substituted α-
+triﬂuoromethylamines in high yields and enantioselectivities
+(93−99% ee). Furthermore, the mild reaction conditions make
+this asymmetric reaction an attractive character
+the
+construction of valuable α-triﬂuoromethylamines through the
+transformations of strong electron-withdrawing α-triﬂuorome-
+thylimines.
+■ EXPERIMENTAL SECTION
+
+for
+<para sub=“exp”>
+General Methods. All manipulations were carried out under an
+inert atmosphere using a nitrogen-ﬁlled glovebox or Schlenk
+techniques. Deuterated solvents were purchased commercially and
+were degassed and stored over activated 4 Å molecular sieves. The α-
+triﬂuoromethylimines and (S)-2,2,2-triﬂuoro-1-phenylethanamine
+were prepared according to the published procedures.7d−g,11 All
+other reagents were obtained from commercial sources and used
+without further puriﬁcation. The 1H, 19F, and 13C{1H}NMR spectra
+were recorded at 400, 376, and 101 MHz, respectively. 19F NMR
+chemical shifts were determined relative to CFCl3 as the outside
+standard and low ﬁeld is positive. Mass spectrometry was performed
+on a GC/MS spectrometer with the electron impact (EI) ionization
+technique. HRMS data were recorded on a GC-TOF instrument using
+the EI technique. The enantiomeric excesses (ee) were determined by
+an HPLC analysis with a UV−vis detector using a Daicel OD-H or
+OB-H or AD-H Chiralcel column (Φ 0.46 × 25 cm).
+Typical Procedure for Asymmetric Transfer Hydrogenation
+of α-Triﬂuoromethylimines. The catalyst (2.49 mg, 4.0 μmol, 2.0
+mol %), α-triﬂuoromethylimines (0.20 mmol), HCOONa (68.0 mg,
+1.0 mmol, 5.0 equiv) and 2.0 mL of H2O/DMF (v/v = 1/1) were
+added sequentially to a 5.0 mL round−bottom ﬂask. The mixture was
+then stirred at 40 °C for 5−12 h. During this period, the reaction was
+monitored constantly by TLC. After completion of the reaction, the
+aqueous solution was extracted with ethyl ether (3 × 3.0 mL). The
+combined ethyl ether extracts were washed with NaHCO3 and brine,
+and then dehydrated with Na2SO4. After evaporation of ethyl ether,
+</para>
+3710
+
+DOI: 10.1021/acs.joc.5b00177
+J. Org. Chem. 2015, 80, 3708−3713
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+the residue was puriﬁed by silica gel ﬂash column chromatography to
+aﬀord the desired product. The yields were determined by 1H NMR,
+and the ee values were determined by a HPLC analysis using a UV−vis
+detector and a Daicel chiralcel column (Φ 0.46 × 25 cm).7d−g,10
+2a:.7d,e 52.266 mg, 0.186 mmol, 93% yield, 97% ee; 1H NMR (400
+MHz, CDCl3): δ 7.49−7.47 (m, 2H), 7.44−7.39 (m, 3H), 6.79−6.75
+(m, 2H), 6.66−6.62 (m, 2H), 4.87−4.81(m, 1H), 3.74 (s, 3H);
+13C{1H} NMR (101 MHz, CDCl3): δ 153.7, 139.9, 134.7, 129.4,
+129.2, 128.3, 125.6 (q, JC−F = 280 Hz), 118.3, 116.1, 115.2, 60.7 (q,
+JC−F = 30 Hz), 55.8; GC/MS (m/z): 281; HPLC (OD-H, elute:
+Hexanes/i-PrOH = 95/5, detector: 254 nm, ﬂow rate: 0.5 mL/min, 25
+°C), t1 = 16.5 min (major), t2 = 18.9 min.
+2b:7f 54.418 mg, 0.182 mmol, 91% yield, 97% ee; 1H NMR (400
+MHz, CDCl3): δ 7.47−7.43 (m, 2H), 7.12−7.07 (m, 2H), 6.77−6.74
+(m, 2H), 6.60−6.59 (m, 2H), 4.85−4.79(m, 1H), 4.07 (s, 1H), 3.74 (s,
+3H); 13C{1H} NMR (101 MHz, CDCl3): δ 164.6, 162.1, 153.7, 139.5,
+130.3, 130.0, 130.0, 125.3 (q, JC−F = 279 Hz), 116.0, 115.1, 61.3 (q,
+JC−F = 29 Hz), 55.8; GC/MS (m/z): 299; HPLC (OD-H, elute:
+Hexanes/i-PrOH = 95/5, detector: 254 nm, ﬂow rate: 0.5 mL/min, 25
+°C), t1 = 21.94 min (major), t2 = 26.1 min.
+2c:.7e,g 56.700 mg, 0.180 mmol, 90% yield, 99% ee; 1H NMR (400
+MHz, CDCl3): δ 7.39−7.33 (m, 4H), 6.75−6.71 (m, 2H), 6.58−6.54
+(m, 2H), 4.76−4.86 (m, 1H), 4.09 (s, 1H), 3.72 (s, 3H); 13C{1H}
+NMR (101 MHz, CDCl3): δ 153.7, 139.3, 135.3, 133.0, 129.6, 129.4,
+125.1 (q, JC−F = 280 Hz), 116.1, 115.1, 61.3 (q, JC−F = 29 Hz), 55.9.
+GC/MS (m/z): 315; HPLC (AD-H, elute: Hexanes/i-PrOH = 90/10,
+detector: 254 nm, ﬂow rate: 0.8 mL/min, 25 °C), t1 = 12.0 min
+(major), t2 = 14.9 min.
+
+2d:.7e,g 63.184 mg, 0.176 mmol, 88% yield, 95% ee; 1H NMR (400
+MHz, CDCl3): δ 7.52 (d, J = 8.8 Hz, 2H), 7.34 (d, J = 8.4 Hz, 2H),
+6.78−6.73 (m, 2H), 6.01−6.56 (m, 2 H), 4.82−4.77 (m, 1H), 3.73 (s,
+3H); 13C{1H} NMR (101 MHz, CDCl3): δ 153.7, 139.3, 133.5, 132.3,
+129.9, 125.0 (q, JC−F = 281 Hz), 123.5, 116.0, 115.1, 61.5 (q, JC−F = 30
+Hz), 55.9; GC/MS (m/z): 359; HPLC (OD-H, elute: Hexanes/i-
+PrOH = 95/5, detector: 254 nm, ﬂow rate: 0.5 mL/min, 25 °C), t1 =
+23.4 min (major), t2 = 30.2 min.
+2e: 67.492 mg, 0.188 mmol, 94% yield, 95% ee; 1H NMR (400
+MHz, CDCl3): δ 7.64 (s, 1H), 7.55−7.53 (m, 1H), 7.42 (d, J = 8.0 Hz,
+1H), 7.31−7.27 (m, 1H), 6.80−6.76 (m, 2H), 6.63−6.59 (m, 2H),
+4.85−4.79 (m 1H), 3.75 (s, 3H); 13C{1H} NMR (101 MHz, CDCl3):
+δ 153.8, 139.3, 136.9, 132.6, 131.3, 130.7, 126.9, 125.1 (q, JC−F = 281
+Hz), 123.5, 116.0, 115.2, 61.5 (q, JC−F = 30 Hz), 55.9; 19F NMR (376
+MHz, CDCl3): δ −72.80 (d, J = 7.5 Hz); GC/MS (m/z): 359; HR-MS
+(ESI) [M + H]+ (m/z): calcd for C15H13BrF3NO, 360.0205, found
+360.0196. HPLC (OD-H, elute: Hexanes/i-PrOH = 95/5, detector:
+254 nm, ﬂow rate: 0.5 mL/min, 25 °C), t1 = 24.5 min (major), t2 =
+29.9 min.
+
+2f:.7d,e,g 64.914 mg, 0.186 mmol, 93% yield, 97% ee; 1H NMR (400
+MHz, CDCl3): δ 7.67 (d, J = 8.4 Hz, 2H), 7.61 (d, J = 8.4 Hz, 2H),
+6.77−6.75 (m, 2H), 6.58 (d, J = 8.4 Hz, 2H), 4.94−4.88 (m, 1H), 3.74
+(s, 3H); 13C{1H} NMR (101 MHz, CDCl3): δ 153.9, 139.3, 138.6,
+131.7, 131.5, 128.7, 126.1, 125.0 (q, JC−F = 280 Hz), 116.1, 115.2, 61.6
+(q, JC−F = 30 Hz), 55.8; GC/MS (m/z): 349; HPLC (OB-H, elute:
+Hexanes/i-PrOH = 90/10, detector: 254 nm, ﬂow rate: 0.5 mL/min,
+25 °C), t1 = 26.7 min, t2 = 33.3 min (major).
+
+2g:.7d,e 44.250 mg, 0.150 mmol, 75% yield, 93% ee; 1H NMR (400
+MHz, CDCl3): δ 7.24 (d, J = 8.0 Hz, 2H), 7.10 (d, J = 8.0 Hz, 2H),
+6.66−6.63 (m, 3H), 6.54−6.50 (m, 2H), 4.72−7.66 (m, 1H), 3.62 (s,
+3H), 3.39 (s, 1H), 2.26 (s, 3H); 13C{1H} NMR (101 MHz, CDCl3): δ
+153.5, 139.8, 139.2, 131.5, 129.8, 128.0, 125.4 (q, JC−F = 280 Hz),
+116.0, 115.1, 61.7 (q, JC−F = 29 Hz), 55.9, 21.4; GC/MS (m/z): 295;
+HPLC (AD-H, elute: Hexanes/i-PrOH = 90/10, detector: 254 nm,
+ﬂow rate: 0.8 mL/min, 25 °C), t1 = 10.1 min (major), t2 = 14.2 min.
+2h:.7d,e 54.114 mg, 0.174 mmol, 87% yield, 98% ee; 1H NMR (400
+MHz, CDCl3): δ 7.39 (d, J = 8.4 Hz, 2H), 6.96−6.93 (m, 2H), 6.78−
+6.75 (m, 2H), 6.65−6.62 (m, 2H), 4.82−4.77 (m, 1H), 4.01 (bar, 1H),
+3.83 (s, 3H), 3.74 (s, 3H); 13C{1H} NMR (101 MHz, CDCl3): δ
+160.3, 153.5, 139.9, 129.3, 126.5, 125.5 (q, JC−F = 280 Hz), 116.0,
+115.1, 114.5, 61.4 (q, JC−F = 30 Hz), 55.9, 55.5; GC/MS (m/z): 311;
+
+HPLC (AD-H, elute: Hexanes/i-PrOH = 90/10, detector: 254 nm,
+ﬂow rate: 0.8 mL/min, 25 °C), t1 = 15.4 min (major), t2 = 22.8 min.
+2i: 51.004 mg, 0.164 mmol, 82% yield, 93% ee; 1H NMR (400 MHz,
+CDCl3): δ 7.37 (d, J = 7.6 Hz, 1H), 7.33−7.29 (m, 1H), 6.98−6.92
+(m, 2H), 6.76−6.71 (m, 2H), 6.64−6.60 (m, 2H), 5.45−5.39 (m, 1H),
+4.23 (bar, 1H), 3.88 (s, 3H), 3.70 (s, 3H); 13C{1H} NMR (101 MHz,
+CDCl3): δ 158.0, 153.5, 134.0, 130.4, 128.4, 126.0 (q, JC−F = 281 Hz),
+123.1, 121.3, 116.0, 115.8, 115.2, 111.5, 56.0, 55.8, 55.0(q, JC−F = 30
+Hz); GC/MS (m/z): 311; 19F NMR (376 MHz, CDCl3): δ −72.74 (d,
+J = 7.4 Hz); HR-MS (ESI) [M + H]+ (m/z): calcd for C16H16F3NO2,
+312.1206, found 312.1209. HPLC (AD-H, elute: Hexanes/i-PrOH =
+90/10, detector: 254 nm, ﬂow rate: 0.8 mL/min, 25 °C), t1 = 5.6 min
+(major), t2 = 11.2 min.
+2j:7e 40.180 mg, 0.140 mmol, 70% yield, 97% ee; 1H NMR (400
+MHz, CDCl3): δ 7.34 (dd, J = 1.2 Hz, 1.2 Hz, 2H), 7.19 (d, J = 3.2 Hz,
+2H), 7.05 (dd, J = 3.6, 3.6 Hz, 1H), 6.83−6.79 (m, 1H), 6.72−6.68
+(m, 1H), 5.16−5.11 (m, 1H), 3.94 (bar, 1H), 3.76 (s, 3H); 13C{1H}
+NMR (101 MHz, CDCl3): δ 154.0, 139.5, 137.6, 127.5, 127.3, 126.5,
+125.0 (q, JC−F = 280 Hz), 116.4, 115.2, 58.3 (q, JC−F = 29 Hz), 55.8;
+GC/MS (m/z): 287; HPLC (AD-H, elute: Hexanes/i-PrOH = 97/3,
+detector: 254 nm, ﬂow rate: 1.0 mL/min, 25 °C), t1 = 12.0 min
+(major), t2 = 14.6 min.
+2k:7d 46.640 mg, 0.176 mmol, 88% yield, 95% ee; 1H NMR (400
+MHz, CDCl3): δ 7.48 (d, J = 6.0 Hz, 2H), 7.44−7.38 (m, 3H), 6.99 (d,
+J = 8.4 Hz, 2H), 6.58 (d, J = 8.4 Hz, 2H), 4.93−4.86 (m, 1H), 4.23 (d,
+J = 7.2 Hz, 1H), 2.24 (s, 3H); 13C{1H} NMR (101 MHz, CDCl3): δ
+143.5, 134.6, 130.1, 129.3, 129.2, 128.9, 128.2, 125.5(q, JC−F = 280
+Hz), 114.5, 61.2 (q, JC−F = 30 Hz), 20.6; 19F NMR (376 MHz,
+CDCl3): δ −72.90 (d, J = 7.0 Hz); GC/MS (m/z): 265; HPLC (OD-
+H, elute: Hexanes/i-PrOH = 97/3, detector: 254 nm, ﬂow rate: 1.0
+mL/min, 25 °C), t1 = 8.5 min (major), t2 = 9.5 min.
+2l: 52.638 mg, 0.186 mmol, 93% yield, 94% ee; 1H NMR (400 MHz,
+CDCl3): δ 7.46 (dd, J = 6.4, 5.2 Hz, 2H), 7.13−7.07 (m, 2H), 7.00 (d,
+J = 8.4 Hz, 2H), 6.56 (d, J = 8.4 Hz, 2H), 4.93−4.86 (m, 1H), 4.22 (d,
+J = 6.8 Hz, 1H), 2.25 (s, 3H); 13C{1H} NMR (101 MHz, CDCl3): δ
+164.3, 162.06, 143.15, 130.1, 130.0, 129.0, 125.2(q, JC−F = 280 Hz),
+116.2, 116.0, 114.4, 60.5 (q, JC−F = 29 Hz), 20.6; GC/MS (m/z): 283;
+HR-MS (ESI) [M + H]+ (m/z): calcd for C15H13F4N, 284.1057, found
+284.1055. HPLC (OD-H, elute: Hexanes/i-PrOH = 97/3, detector:
+254 nm, ﬂow rate: 1.0 mL/min, 25 °C, t1 = 12.9 min (major), t2 = 17.6
+min.
+2m: 61.232 mg, 0.178 mmol, 89% yield, 95% ee; 1H NMR (400
+MHz, CDCl3): δ 7.56−7.53 (m, 2H), 7.36 (d, J = 8.4 Hz, 2H), 6.99 (d,
+J = 8.0 Hz, 2H), 6.54 (d, J = 7.6 Hz, 2H), 4.90−4.83 (m, 1H), 4.22 (d,
+J = 6.0 Hz, 1H), 2.24 (s, 3H).; 13C{1H} NMR (101 MHz, CDCl3): δ
+143.0, 133.5, 132.3, 130.1, 129.8, 129.1, 128.2, 125.0(q, JC−F = 280
+Hz), 114.4, 60.8 (q, JC−F = 30 Hz), 20.6; GC/MS (m/z): 343; HR-MS
+(ESI) [M + H]+ (m/z): calcd for C15H13BrF3N, 344.0256, found
+344.0254. HPLC (OD-H, elute: Hexanes/i-PrOH = 95/5, detector:
+254 nm, ﬂow rate: 1.0 mL/min, 25 °C), t1 = 14.0 min (major), t2 =
+19.8 min.
+2n:7d 47.188 mg, 0.188 mmol, 94% yield, 96% ee; 1H NMR (400
+MHz, CDCl3): δ 7.49−7.38 (m, 2H), 7.18 (t, J = 7.6 Hz, 2H), 6.80 (t,
+J = 7.6 Hz, 1H), 6.67 (d, J = 8.0 Hz, 2H), 4.97−4.91 (m, 1H);
+13C{1H} NMR (101 MHz, CDCl3): δ145.7, 134.3, 128.1, 129.6, 129.4,
+129.1, 128.1, 125.3 (q, JC−F = 280 Hz), 119.5, 114.2, 60.8 (q, JC−F = 30
+Hz); GC/MS (m/z): 251; HPLC (AD-H, elute: Hexanes/i-PrOH =
+95/5, detector: 254 nm, ﬂow rate: 1.0 mL/min, 25 °C), t1 = 7.7 min
+(major), t2 = 10.0 min.
+2o:10 51.870 mg, 0.182 mmol, 91% yield, 95% ee; 1H NMR (400
+MHz, CDCl3): δ 7.54−7.47 (m, 5H), 7.22−7.18 (m, 2H), 6.67−6.63
+(m, 2H), 5.00−4.93 (m, 1H), 4.47 (d, J = 5.6 Hz, 1H); 13C{1H} NMR
+(101 MHz, CDCl3): δ 144.4, 133.9, 129.6, 129.5, 129.3, 128.1,
+125.3(q, JC−F = 280 Hz), 124.3, 116.2, 116.0, 114.4, 61.0 (q, JC−F = 30
+Hz), 20.6; 19F NMR (376 MHz, CDCl3): δ −72.76 (d, J = 7.1 Hz);
+GC/MS (m/z): 285; HPLC (OD-H, elute: Hexanes/i-PrOH = 95/5,
+detector: 254 nm, ﬂow rate: 0.5 mL/min, 25 °C), t1 = 14.8 min
+(major), t2 = 18.3 min.
+
+2p:7g 53.578 mg, 0.178 mmol, 89% yield, 96% ee; 1H NMR (400
+MHz, CDCl3): δ 8.01 (d, J = 8.0 Hz, 1H), 7.86 (d, J = 7.6 Hz, 1H),
+</para>
+3711
+
+DOI: 10.1021/acs.joc.5b00177
+J. Org. Chem. 2015, 80, 3708−3713
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+7.59−7.52 (m, 4H), 7.47−7.43 (m, 3H), 7.36 (d, J = 8.4 Hz, 1H),
+7.29−7.25 (m, 1H), 6.56 (d, J = 7.2 Hz, 1H), 5.20−5.07 (m, 2H);
+13C{1H} NMR (101 MHz, CDCl3): δ 140.7, 134.6, 134.0, 129.5,
+129.2, 129.1, 128.2, 126.3, 125.7, 124.3, 125.4 (q, JC−F = 281 Hz),
+120.0, 119.9, 107.4, 60.8 (q, JC−F = 29 Hz); GC/MS (m/z): 301;
+HPLC (OD-H, elute: Hexanes/i-PrOH = 95/5, detector: 254 nm,
+ﬂow rate: 0.5 mL/min, 25 °C), t1 = 21.3 min, t2 = 30.6 min(major).
+2q:7g 54.180 mg, 0.180 mmol, 90% yield, 99% ee; 1H NMR (400
+MHz, CDCl3): δ 7.71−7.68(m, 2H), 7.59−7.53(m, 3H), 7.43−7.36
+(m, 4H), 7.28−7.24 (m, 1H), 6.99 (dd, J = 2.4, 2.4 Hz, 1H), 6.84 (d, J
+= 1.2 Hz, 1H), 5.12−5.07 (m, 1H); 13C{1H} NMR (101 MHz,
+CDCl3): δ 143.3, 134.9, 134.1, 129.5, 129.4, 129.2, 128.5, 128.1, 127.8,
+126.7, 126.5, 125.3 (q, JC−F = 281 Hz), 123.2, 118.0, 107.1, 60.6 (q,
+JC−F = 29 Hz); GC/MS (m/z): 301; HPLC (AD-H, elute: Hexanes/i-
+PrOH = 95/5, detector: 254 nm, ﬂow rate: 0.5 mL/min, 25 °C), t1 =
+19.0 min (major), t2 = 31.2 min.
+(S)-2,2,2-Triﬂuoro-1-phenylethanamine:7g 25.20 mg, 0.144 mmol,
+72% yield, 96% ee; 1H NMR (400 MHz, CDCl3) δ 7.40−7.33 (m,
+5H), 4.31 (q, J = 7.6 Hz, 1H), 1.84 (s, 2H); 13C NMR (CDCl3): δ
+135.6, 131.4, 129.1, 128.8, 125.8 (q, JC−F = 280 Hz), 58.1 (q, JC−F = 30
+Hz); HPLC (OD-H, elute: Hexanes/i-PrOH = 95/5, detector: 254
+nm, ﬂow rate: 0.5 mL/min, 25 °C), t1 = 20.5 min (major), t2 = 26.21
+min.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Characterizations and chiral HPLC analysis of the catalytic
+enantioselective reactions. This material
+is available free of
+charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*Tel: + 86 21 64321819. E-mail: ghliu@shnu.edu.cn (G.L.).
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+to the China National Natural Science
+We are grateful
+Foundation (21402120),
+the Shanghai Sciences and Tech-
+nologies Development Fund (13ZR1458700 and 12
+nm0500500), the Shanghai Municipal Education Commission
+(14YZ074, 13CG48, Young Teacher Training Project), and the
+Specialized Research Fund for the Doctoral Program of Higher
+Education (20133127120006).
+
+■ REFERENCES
+
+(1) (a) Hashiguchi, S.; Fujii, A.; Takehara, J.; Ikariya, T.; Noyori, R. J.
+Am. Chem. Soc. 1995, 117, 7562. (b) Uematsu, N.; Fujii, A.;
+Hashiguchi, S.; Ikariya, T.; Noyori, R. J. Am. Chem. Soc. 1996, 118,
+4916. (c) Gao, J. X.; Ikariya, T.; Noyori, R. Organometallics 1996, 5,
+1087. (d) Fujii, A.; Hashiguchi, S.; Uematsu, N.; Ikariya, T.; Noyori, R.
+J. Am. Chem. Soc. 1996, 118, 2521. (e) Hashiguchi, S.; Fujii, A.; Haack,
+K. J.; Matsumura, K.; Ikariya, T.; Noyori, R. Angew. Chem., Int. Ed.
+Engl. 1997, 36, 288. (f) Noyori, R.; Hashiguchi, S. Acc. Chem. Res.
+1997, 30, 97.
+(2) (a) Ikariy, T.; John, A. B. Acc. Chem. Res. 2007, 40, 1300. (b) Xie,
+J. H.; Zhu, S. F.; Zhou, Q. L. Chem. Rev. 2011, 111, 1713. (c) Ikariya,
+T.; Murata, K.; Noyori, R. Org. Biomol. Chem. 2006, 4, 393. (d) Wang,
+C.; Villa-Marcos, B.; Xiao, J. L. Chem. Commun. 2011, 47, 9773.
+(e) Nugent, T. C.; El-Shazly, M. Adv. Synth. Catal. 2010, 352, 753.
+(f) Wu, X.; Xiao, J. L. Chem. Commun. 2007, 2449. (g) Yu, Z. K.; Jin,
+W. W.; Jiang, Q. B. Angew. Chem., Int. Ed. 2012, 51, 6060. (h) Li, C.
+Q.; Xiao, J. L. J. Am. Chem. Soc. 2008, 130, 13208. (i) Chen, F.; Ding,
+Z. Y.; Qin, J.; Wang, T. L.; He, Y. M.; Fan, Q. H. Org. Lett. 2011, 13,
+4348. (j) Ding, Z. Y.; Chen, F.; Qin, J.; He, Y. M.; Fan, Q. H. Angew.
+
+Note
+
+Chem., Int. Ed. 2012, 51, 5706. (k) Chen, F.; Wang, T. L.; He, Y. M.;
+Ding, Z. Y.; Li, Z. W.; Fan, Q. H. Chem.Eur. J. 2011, 17, 1109.
+(3) (a) Murata, K.; Ikariya, T.; Noyori, R. J. Org. Chem. 1999, 64,
+2186. (b) Barron-Jaime, A.; Narvaez-Garayzar, O. F.; Gonzalez, J.;
+Ibarra-Galvan, V.; Aguirre, G.; Parra-Hake, M.; Chavez, D.;
+Somanathan, R. Chirality 2011, 23, 178. (c) Perryman, M. S.;
+Harris, M. E.; Foster, J. L.; Joshi, A.; Clarkson, G. J.; Fox, D. J. Chem.
+Commun. 2013, 49, 10022. (d) Zhang, H.; Lian, C.; Zhu, J.; Deng, J.
+Green Chem. 2007, 9, 23. (e) Wang, C.; Li, C.; Wu, X.; Pettman, A.;
+Xiao, J. Angew. Chem., Int. Ed. 2009, 48, 6524. (f) Han, J.; Kang, S.;
+Lee, H. K. Chem. Commun. 2011, 47, 4004.
+(4) (a) Wu, X.; Liu, J.; Li, X.; Zanotti-Gerosa, A.; Hancock, F.; Vinci,
+D.; Ruan, J.; Xiao, J. Angew. Chem. 2006, 45, 6718. (b) Zhou, H.; Li,
+Z.; Wang, Z.; Wang, T.; Xu, L.; He, Y.; Fan, Q. H.; Pan, J.; Gu, L.;
+Chan, A. S. Angew. Chem., Int. Ed. 2008, 47, 8464. (c) Kwak, S. H.;
+Lee, S. A.; Lee, K.-I. Tetrahedron: Asymmetry 2010, 21, 800. (d) Wang,
+T.; Zhuo, L. G.; Li, Z.; Chen, F.; Ding, Z.; He, Y.; Fan, Q. H.; Xiang, J.;
+Yu, Z. X.; Chan, A. S. J. Am. Chem. Soc. 2011, 133, 9878. (e) Mashima,
+K.; Abe, T.; Tani, K. Chem. Lett. 1998, 1199. (f) Murata, K.; Ikariya,
+T.; Noyori, R. J. Org. Chem. 1999, 64, 2186. (g) Wu, Z.; Perez, M.;
+Scalone, M.; Ayad, T.; Ratovelomanana-Vidal, V. Angew. Chem., Int. Ed.
+2013, 52, 4925.
+(5) (a) Nie, J.; Guo, H. C.; Cahard, D.; Ma, J. A. Chem. Rev. 2011,
+111, 455. (b) Lim, J.; Taoka, B.; Otte, R. D.; Spencer, K.; Marshall, C.
+G.; Young, J. R. J. Med. Chem. 2011, 54, 7334. (c) O’Shea, P. D.; Chen,
+C. Y.; Gauvreau, D.; Hughes, F.; Gosselin, G.; Nadeau, C.; Volante, R.
+P. J. Org. Chem. 2009, 74, 1605. (d) Zhang, N.; Ayral-Kaloustian, S.;
+Nguyen, T.; Afragola, J.; Hernandez, J.; Lucas, R.; Gibbons, J.; Beyer,
+C. J. Med. Chem. 2007, 50, 319. (e) Imamoto, T.; Iwadate, N.; Yoshida,
+K. Org. Lett. 2006, 8, 2289. (f) Goulioukina, N. S.; Bondarenko, G. N.;
+Lyubimov, S. E.; Davankov, V. A.; Gavrilov, K. N.; Beletskaya, I. P.
+Adv. Synth. Catal. 2008, 350, 482.
+(6) (a) Gosselin, F.; O’Shea, P. D.; Roy, S.; Reamer, R. A.; Chen, C.-
+Y.; Volante, R. P. Org. Lett. 2005, 7, 355. (b) Prakash, G. K. S.;
+Mandal, M.; Olah, G. A. Angew. Chem., Int. Ed. 2001, 40, 589.
+(c) Kawai, H.; Kusuda, A.; Nakamura, S.; Shiro, M.; Shibata, N. Angew.
+Chem., Int. Ed. 2009, 48, 6324. (d) Li, Y.; Hu, J. Angew. Chem,. Int. Ed.
+2005, 44, 5882. (e) Li, Y.; Hu, J. Angew. Chem., Int. Ed. 2007, 46, 2489.
+(f) Prakash, G. K. S.; Mandal, M.; Olah, G. A. Org. Lett. 2001, 3, 2847.
+(g) Truong, V. L.; Pfeiffer, J. Y. Tetrahedron Lett. 2009, 50, 1633.
+(h) Truong, V. L.; Ménard, M. S.; Dion, I. Org. Lett. 2007, 9, 683.
+(i) Gosselin, F.; Roy, A.; O’Shea, P. D.; Chen, C. Y.; Volante, R. P.
+Org. Lett. 2004, 6, 641. (j) Fries, S.; Pytkowicz, J.; Brigaud, T.
+Tetrahedron Lett. 2005, 46, 4761. (k) Fustero, S.; del Pozo, C.;
+Catalán, S.; Alemán, J.; Parra, A.; Marcos, V.; Ruano, J. L. G. Org. Lett.
+2009, 11, 641.
+(7) (a) Giacalone, F.; Gruttadauria, M.; Agrigento, P.; Noto, R.
+Chem. Soc. Rev. 2012, 41, 2406. (b) Abe, H.; Amii, H.; Uneyama, K.
+Org. Lett. 2001, 3, 313. (c) Suzuki, A.; Mae, M.; Amii, H.; Uneyama, K.
+J. Org. Chem. 2004, 69, 5132. (d) Chen, M. W.; Duan, Y.; Chen, Q. A.;
+Wang, D. S.; Yu, C. B.; Zhou, Y. G. Org. Lett. 2010, 12, 5075.
+(e) Henseler, A.; Kato, M.; Mori, K.; Akiyama, T. Angew. Chem., Int.
+Ed. 2011, 50, 8180. (f) Genoni, A.; Benaglia, M.; Massolo, E.; Rossi, S.
+Chem. Commun. 2013, 49, 8365. (g) Dai, X. Y.; Cahard, D. Adv. Synth.
+Catal. 2014, 356, 1317. (h) Mikami, K.; Murase, T.; Zhai, L.;
+Kawauchi, S.; Itoh, Y.; Ito, S. Tetrahedron Lett. 2010, 51, 1371.
+(8) (a) Zhang, D. C.; Cheng, T. Y.; Zhao, Q. K.; Xu, J. Y.; Liu, G. H.
+Org. Lett. 2014, 16, 5764. (b) Zhang, D. C.; Gao, X. S.; Cheng, T. Y.;
+Liu, G. H. Sci. Rep. 2014, 4, 5091. (c) Gao, X. S.; Liu, R.; Zhang, D. C.;
+Wu, M.; Cheng, T. Y.; Liu, G. H. Chem.Eur. J. 2014, 20, 1515.
+(d) Liu, R.; Cheng, T.; Kong, L. Y.; Chen, C.; Liu, G. H.; Li, H. X. J.
+Catal. 2013, 307, 55. (e) Zhang, H. S.; Jin, R. H.; Yao, H.; Tang, S.;
+Zhuang, J. L.; Liu, G. H.; Li, H. X. Chem. Commun. 2012, 48, 7874.
+(f) Gao, F.; Jin, R. H.; Zhang, D. C.; Liang, Q. X.; Ye, Q. Q.; Liu, G. H.
+Green Chem. 2013, 15, 2208. (g) Xia, D. Q.; Cheng, T. Y.; Xiao, W.;
+Liu, K. K.; Wang, Z. L.; Liu, G. H.; Li, H. L.; Wang, W. ChemCatChem
+2013, 5, 1784.
+
+3712
+
+DOI: 10.1021/acs.joc.5b00177
+J. Org. Chem. 2015, 80, 3708−3713
+
+The Journal of Organic Chemistry
+
+(9) (a) Wu, X.; Li, X.; Hems, W.; King, F.; Xiao, J. L. Org. Biomol.
+Chem. 2004, 2, 1818. (b) Wang, L.; Zhou, Q.; Qu, C.; Wang, Q.; Cun,
+L.; Zhu, J.; Deng, J. Tetrahedron 2013, 69, 6500.
+(10) (a) Johnson, T.; Lautens, M. Org. Lett. 2013, 15, 4043.
+(b) Allendörfer, N.; Sudau, A.; Bräse, S. Adv. Synth. Catal. 2010, 352,
+2815. (c) Fu, P.; Snapper, M. L.; Hoveyda, A. H. J. Am. Chem. Soc.
+2008, 130, 5530.
+(11) (a) Enders, D.; Gottfried, K.; Raabe, G. Adv. Synth. Catal. 2010,
+352, 3147. (b) Abid, M.; Savolainen, M.; Landge, S.; Hu, J. B.; Prakash,
+G. K. S.; Olah, G. A.; Török, B. J. Fluorine Chem. 2007, 128, 587.
+(c) Li, C. L.; Chen, M. W.; Zhang, X. G. J. Fluorine Chem. 2010, 131,
+856.
+
+Note
+
+3713
+
+DOI: 10.1021/acs.joc.5b00177
+J. Org. Chem. 2015, 80, 3708−3713
+
+

@@ -1,0 +1,120 @@
+<para sub=“opt”>
+To explore the possibility of an <cem>allene−phenol</cem> coupling,
+<cem>allenol</cem> 1a and <cem>phenol</cem> 2a were initially chosen. The <cem>AuCl3</cem>-
+catalyzed reaction of <cem>allenol</cem> 1a and <cem>4-methylphenol</cem> 2a aﬀorded
+the <cem>spirocyclic 2,5-dihydrofuran</cem> 3a (Scheme 1). Hence, the
+<cem>hydroxy</cem> group in <cem>allenol</cem> 1a exclusively suﬀers a 5-endo
+oxycyclization reaction,7 without the participation of the <cem>phenol</cem>
+moiety.
+</para>
+
+<para sub=“opt”>
+When a <cem>π acid</cem> such as <cem>AuCl3</cem> is used, it might coordinate
+with one of the <cem>allene</cem> double bonds via a monodentade mode.
+When a <cem>Lewis acid</cem> is employed, it might coordinate with the
+<cem>OH</cem> of the <cem>allenol</cem> moiety via mono- or bidentate modes. This
+activation might generate a <newcem>carbocation</newcem> intermediate. Con-
+sequently, we decided to use a main-group salt instead of a
+<cem>transition-metal</cem> derivative. Happily, after assessing various
+metal catalysts, we found that a catalytic amount of metal
+<cem>triﬂate</cem> speciﬁcally promoted the domino <inc_new>allenol−phenol</inc_new>
+coupling reaction (Table 1). The domino reaction took place
+</para>
+
+<para sub="scope">
+at 40 °C under <newcem>M(OTf)n</newcem> catalysis, which speciﬁcally promoted
+the generation of
+the desired <cem>dihydrobenzofuran</cem>-appended
+<cem>oxindole</cem> scaﬀold, and the domino addition−cyclization
+reaction took place readily.8 Diastereoselectivities were modest,
+in all cases giving rise to mixtures of adducts 4a and 5a. Based
+on conversion and isolated yields, <cem>gallium(III) triﬂate</cem> proved to
+be the most eﬃcient <cem>Lewis acid</cem> catalyst (Table 1, entry 12).9,10
+An experiment using <newcem>molecular sieves</newcem> as an additive led to
+comparable results, thus indicating that this transformation
+could be eﬃciently catalyzed by <newcem>metal triﬂates</newcem>. A screening of
+solvents (<cem>acetonitrile</cem>, <cem>tetrahydrofuran</cem>, <cem>toluene</cem>) revealed that
+the reaction is best performed in <cem>dichloromethane</cem>. A <cem>Brønsted
+acid</cem> such as <cem>triﬂuoromethanesulfonic acid</cem> (<cem>TfOH</cem>) was also
+tested. The corresponding rearranged <cem>α,β-unsaturated ketone</cem>
+was the major reaction product under stoichiometric <cem>TfOH</cem>
+conditions. However, the use of 10 mol % <cem>TfOH</cem> aﬀorded
+adducts 4a and 5a along with a minor rearranged <cem>ketone</cem>, but
+did not promote the reaction to completion, with some
+unreacted starting material remaining. Comparatively, the use
+of <cem>TfOH</cem> led to limited reactivity.
+</para>
+
+<para sub="scope">
+the <cem>phenol</cem> reactant was ﬁrst examined by submitting <cem>4-
+methoxyphenol</cem> 1d to various <newcem>allenols</newcem> 1. In the event, <cem>phenol</cem> 1e
+reacted well and the corresponding adducts 4d, 4l, 5d, and 5l
+were obtained. Unfortunately, a negative result was observed
+using either <cem>4-hydroxybenzonitrile</cem> or <cem>methyl 4-hydroxy-
+benzoate</cem>, which indicated that electron-withdrawing groups
+on the aromatic ring were not compatible with this catalytic
+arylation/oxycyclization reaction sequence. The Rf values of the
+two <cem>dihydrobenzofuran isomers 4a−l and 5a−l</cem> were very close
+to each other. Fortunately, the diastereomeric adducts 4 and 5
+could be separated by ﬂash chromatography,
+thus readily
+providing two structurally complex and valuable heterocyclic
+products. However, characterization of minor adducts 5c, 5d,
+5f−i, 5k, and 5l was performed on a mixture containing small
+amounts of their major counterparts 4. Because most of the
+reactions were conducted in a 50 mg scale, it was desirable to
+scale-up the procedure. Worthy of note, when we performed a
+4 mmol-scale reaction starting from <cem>allenol</cem> 1a and <cem>phenol</cem> 2a,
+adducts 4a and 5a were isolated in a combined yield of 59%,
+which is slightly higher than that achieved at a smaller scale
+during the scope study. The structure of <cem>dihydrobenzofuran</cem> 5a
+was unambiguously conﬁrmed with the help of an X-ray
+diﬀraction analysis on suitable crystals of
+this compound
+(Figure 1 in the Supporting Information).12
+</para>
+
+<para sub=“opt”>
+Next, the reaction of <cem>aryl-substituted allenol</cem> derivatives and
+<cem>phenols</cem> was examined. To test the reactivity of <cem>aryl allenes</cem> 6,
+we started the initial
+investigation on the <cem>gallium</cem>-catalyzed
+reaction of <cem>phenyl-substituted allene</cem> 6a under otherwise
+identical reaction conditions used for its <cem>methyl-counterpart</cem>
+1a. In the event, it was found that substrate 6a was exclusively
+transformed into the rearranged product 7a (Scheme 3).13
+</para>
+
+<para sub="scope">
+With the optimized reaction conditions in hand we then
+examined the scope and generality of the <cem>Ga</cem>-catalyzed method.
+Thus, various <cem>methyl-substituted allenols</cem> and <cem>phenols</cem> were
+reacted to give a range of <cem>dihydrobenzofuran</cem>-appended
+<cem>oxindoles</cem> 4 and 5 (Scheme 2).11 The two products obtained
+from the coupling reaction are not identical but rather stand in
+an epimeric relationship at the allylic position. Although the
+diastereoselectivity of the reaction between 1a and 2a is poor
+under the conditions (Table 1), eﬀorts for further improve-
+ments were not in vain. Interestingly, the use of both <inc_new>NH-free
+allenols</inc_new> 1b−d and <inc_new>phenols</inc_new> bearing bulkier substituents (such as
+<cem>Br</cem> or <cem>t-Bu</cem>) resulted in improved diastereoselectivities (Scheme
+2). The inﬂuence of the electronic nature of the substituents at
+</para>
+
+<para sub=“opt”>
+Noticeably, despite the above-mentioned ability (Schemes 1
+and 2) of metal <cem>triﬂate</cem> based catalysis for the coupling reaction
+of <inc_new>allenols<</inc_new> 1 and <inc_new>phenols</inc_new> into <cem>dihydrobenzofurans</cem> 4/5, no
+traces of <newcem>oxacycles</newcem> were detected using <cem>gallium(III) triﬂate</cem> as a
+promoter. Possibly, attempts to use <cem>aryl</cem>-substituted substrates 6
+proved to be unsuccessful
+the
+corresponding <cem>dihydrobenzofurans</cem> because of both unfavorable
+steric factors and a direct interaction of the π-aromatic system
+with the metal center from the catalyst.
+
+the construction of
+
+for
+</para>
+

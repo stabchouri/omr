@@ -1,0 +1,813 @@
+Note
+
+pubs.acs.org/joc
+
+DMF Dimethyl Acetal as Carbon Source for α‑Methylation of Ketones:
+A Hydrogenation−Hydrogenolysis Strategy of Enaminones
+Ashwini Borah, Limi Goswami, Kashmiri Neog, and Pranjal Gogoi*
+Medicinal Chemistry Division, CSIR-North East Institute of Science and Technology, Jorhat 785006, India
+
+*S Supporting Information
+
+ABSTRACT: A novel heterogeneous catalytic hydrogena-
+tion−hydrogenolysis strategy has been developed for the α-
+methylation of ketones via enaminones using DMF dimethyl
+acetal as carbon source. This strategy provides a very
+convenient route to α-methylated ketones using a variety of
+ketones without any base or oxidant.
+
+−BF3
+
+·Et2O,7 HCHO−basic zeolites,8 CH4
+
+M ethyl functionalization of a carbon center using a readily
+
+available catalyst and carbon source is a challenging task
+for chemists. Methylation is not only associated with biological
+processes but also has signiﬁcant value in synthetic chemistry
+for ﬁne chemical synthesis and functionalization of biologically
+active molecules.1 α-Methylation of ketones is one of the most
+important and frequently used methods in organic synthesis.2
+Alkylation of enolate is the classical method for this reaction,
+where the carbonyl compounds are intended to be an enolate
+nucleophile to attack an electrophilic alkylating agent.3 Most
+commonly, strong bases are used to ensure all the starting
+carbonyl converts into its corresponding enolate anion to avoid
+self-condensation of carbonyl compounds. Furthermore,
+low
+temperature (about −78 °C) is required for some reactive
+enolate species to survive. To improve this reaction, several
+methods have been developed such as the use of KH−BEt3
+with MeI,4 Et3GeNa−YCl3 with MeI,5 PhSeCH2Li−m-CPBA,6
+−MgO,9 and
+CH2N2
+N2CHCO2Et−LDA−Rh2(OAc)4.10 However,
+these methods
+use toxic or explosive reagents4−7,10 and require harsh reaction
+conditions.8−10 Recently, a few new catalytic methods have
+been developed using sustainable feedstock for the methyl
+reported Rh-catalyzed α-
+source. Xiao and co-workers
+methylation of ketones using DMF as carbon source; where
+strong oxidant persulfate was used to form an iminium
+intermediate of DMF for the enolate attack.11 Additionally
+Rh- and Ir-catalyzed α-methylation of ketones using methanol
+as methyl source have been reported independently by the
+Donohoe12 and Obora13 groups. However,
+in both cases,
+strong bases are required and double methylation occurs. In
+this context, there is a strong desire for the development of new
+synthetic strategy for the α-methylation of ketone using readily
+available reagent and catalyst without any base or oxidant.
+Recently, we have developed a Pd−graphene composite
+material as catalyst for C−C bond formation and reduction of
+C−C double bonds. While screening the reaction conditions,
+we were surprised to ﬁnd that hydrogenation of enaminone
+derived from acetophenone and dimethylformamide−dimethyl
+acetal (DMF−DMA) produced phenylpropanol. This ﬁnding
+prompted us to explore the possibility of developing a novel
+
+synthetic strategy for the α-methylation of carbonyl com-
+pounds. On the other hand, enaminones are versatile synthetic
+intermediates for the synthesis of various heterocycles14 and
+other valuable products.15 To the best of our knowledge,
+this intermediate has not been used for the α-
+however,
+methylation of ketone. Herein, we report a novel synthetic
+strategy for α-methylation of ketones. Our synthetic strategy
+consists of condensation of ketones with DMF−DMA followed
+by hydrogenation−hydrogenolysis of enaminones. The novel
+hydrogenation−hydrogenolysis step was catalyzed by Pd/C
+under H2 atmosphere (Scheme 1).
+
+Scheme 1. α-Methylation of Ketones via Enaminones
+<para sub=“opt”>
+Initially, acetophenone 1a was chosen as the model substrate
+the α-methylation via enaminone 2a with various
+for
+heterogeneous catalysts, and extensive investigations were
+carried out to optimize the reaction conditions (Table 1).
+The synthesis of enaminones from ketones and DMF−DMA is
+well precedente, and this intermediate was used for hydro-
+genation−hydrogenolysis reaction without chromatographic
+puriﬁcation.16 As a starting point, hydrogenation experiments
+were performed using 10 mol % of Pd/C in the presence of H2
+(balloon) for 12 h at rt, giving the phenylpropanol 4a. Under
+the same reaction conditions, other heterogeneous catalysts
+such as Pd/CaCO3, Pd/Al2O3, Pd/SiO2, and Ru/C gave a
+moderate yield of 4a along with 3a. As a control experiment,
+the reaction was performed in the absence of catalyst, and no
+product was observed. The catalyst Pd/C was considered and
+particularly chosen in this strategy for the α-methylation of
+ketones as it is commercially available and inexpensive. With
+the optimized reaction conditions in hand, we examined the
+scope of the reaction in order to establish the generality of our
+</para>
+Received:
+Published: April 7, 2015
+
+January 13, 2015
+
+© 2015 American Chemical Society
+
+4722
+
+DOI: 10.1021/acs.joc.5b00084
+J. Org. Chem. 2015, 80, 4722−4728
+
+The Journal of Organic Chemistry
+Table 1. Optimization of Conditions for the α-Methylation of Ketone 1aa
+
+Note
+
+entry
+
+catalyst (10 mol %)
+
+1
+2
+3
+4
+5
+6
+7
+
+Pd/C
+Pd/C
+Pd/CaCO3
+Pd/Al2O3
+Pd-rGO
+Rh/C
+no catalyst
+
+aReaction conditions: acetophenone (1 mmol), DMF−DMA (∼20 mmol), 120 °C, 24 h in an open ﬂask, workup and added ethanol (7 mL), Pd/C
+(10 mol %), H2 (balloon), rt. bAll yields are isolated yields. nd = not detected. rGO: reduced graphene oxide.
+Table 2. Scope of the α-Methylation of Ketonesa
+
+reaction conditions
+EtOH, rt, 12 h
+EtOH, 50 °C, 6 h
+EtOH, rt, 12 h
+EtOH, rt, 12 h
+EtOH, rt, 12 h
+EtOH, rt, 12 h
+EtOH, 50 °C, 24 h
+
+yieldb (%)
+
+3a
+
+traces
+traces
+12
+18
+traces
+10
+nd
+
+4a
+79
+77
+30
+35
+72
+49
+nd
+
+aReaction conditions: ketone (1 mmol), DMF−DMA (∼15−20 mmol), 120 °C, 24 h in an open ﬂask, workup; ethanol (7 mL), Pd/C (10 mol %),
+H2 (BP = balloon pressure or 2.5 bar pressure), rt. bAll yields are isolated yields.
+<para sub=“opt”>
+strategy. Various ketones 1a−t were α-methylated via
+enaminones 2a−t, and the results are summarized in Table 2.
+</para>
+<para sub="scope">
+(E/Z)-Aryl and (E/Z)-heteroaryl 3-(dimethylamino)-3-prop-
+2-enone (enaminones); are eﬃciently prepared by the
+condensation of respective aryl and heteroaryl methyl ketones
+
+with excess of DMF−DMA at 120 °C. In most of the cases,
+enaminones were isolated for this strategy after a simple
+workup without chromatographic puriﬁcation. Aryl and
+heteroaryl methyl ketones having neutral, electron-donating,
+and electron-withdrawing groups were smoothly converted to
+</para>
+4723
+
+DOI: 10.1021/acs.joc.5b00084
+J. Org. Chem. 2015, 80, 4722−4728
+
+The Journal of Organic Chemistry
+<para sub="scope">
+the corresponding α-methylated products 3 and 4 in 35−82%
+yields. The results show that the electronic eﬀect of substituents
+as well as ortho-, meta-, and para-substitution at the aryl ring
+play an important role in this reaction. Speciﬁcally, aryl methyl
+ketones having electron-withdrawing groups (F- and CF3-) at
+meta- and para-substitution sites gave phenylpropanol products
+4 in high yield (Table 2, entries 7 and 9).
+</para>
+Note
+<para sub="scope">
+enaminone followed by our synthetic strategy, and the PAPP
+was obtained with 43% overall yield (Scheme 3).
+</para>
+Scheme 3. . Synthesis of 4-Aminopropiophenone
+<para sub="scope">
+With a view toward economic and environmental concerns,
+the recyclability of the catalyst was explored. In this regard, the
+puriﬁed (E)-3-(dimethylamino)-1-phenylprop-2-en-1-one 2a
+was chosen and hydrogenated under H2 (balloon). Upon
+completion of the reaction, the catalyst was ﬁltered and washed
+with ethanol and reused at least three times. Although the
+catalytic activity gradually diminished (yield of 4a: ﬁrst reuse
+92%, second reuse 88%, third reuse 81%), the yield was still
+80% even after the third reuse (Scheme 4).
+</para>
+Scheme 4. Recyclability of Catalyst
+<para sub=“ques”>
+A plausible reaction mechanism for the α-methylation of
+ketone is proposed in Scheme 5. Ketone 1a undergoes
+</para>
+Scheme 5. Plausible Reaction Mechanism
+
+the para-position of
+<para sub="scope">
+Notably, substrates with a strong electron-donating group
+substituted at
+the aryl ring aﬀorded
+phenylpropanol 4 in only moderate yields along with the α-
+methylated keto product 3 (Table 2, entries 3, 6, and 8).
+However, an electron-donating group at the meta-position gave
+a good yield of alcohol 4 along with a trace of α-methylated
+keto product 3 (Table 2, entry 4). Surprisingly, the ortho-
+substituted aryl methyl ketones, regardless of their electronic
+nature as electron-donating or electron-withdrawing, exclusively
+gave the α-methylated keto products 3, which might be due to
+the steric eﬀect (Table 2, entries 12−15). N,N-Dimethylace-
+tophenone 1j exceptionally gave the corresponding phenyl-
+propanol 4j in high yield, which could be used as a raw material
+for the synthesis of the potent histone deacetylase inhibitor
+(±)-trichostatin A.17 The cyclic ketones were also investigated,
+and the α-methylated keto products were obtained in good
+yields (Table 2, entries 18 and 19). The yield of α-methylated
+keto products 3r and 3s also might be caused by the steric
+eﬀect of fused rings. Having succeeded in the α-methylation of
+aryl methyl ketones, we extended this
+the
+methylation of heteroaryl methyl ketones. Accordingly, N-
+protected indole derivative 1-(1-methyl-1H-indol-3-yl)-
+ethanone 1t was condensed with DMF−DMA followed by
+hydrogenation−hydrogenolysis over Pd/C under H2 (balloon).
+The α-methylated keto product 1-(1-methyl-1H-indol-3-yl)-
+propan-1-one 3t was obtained with 73% yield as the only
+the α-methylation of 3-
+isolable product. Additionally,
+acetylpyridine was attempted using the same reaction strategy;
+interestingly, 1-(pyridin-3-yl)propan-1-ol 4u along with another
+reduced product 1-(1,4,5,6-tetrahydropyridin-3-yl)propan-1-
+one 5u were obtained with 25% and 51% yield, respectively.
+This result encouraged us to further explore our strategy; in this
+regard, 2-acetylbenzofuran 1v was considered and transformed
+into the corresponding enaminone followed by hydrogenation
+Interestingly, an α-methylated over-reduced
+over Pd/C.
+product 5v was obtained in 80% yield as mixture of
+diastereomers in 1.2:1 ratio (Scheme 2).
+</para>
+strategy for
+
+Scheme 2. α-Methylation of Heteroaryl Methyl Ketone
+<para sub="scope">
+We planned to employ our synthetic method to prepare 4-
+aminopropiophenone (PAPP)18 5w, which is a biologically
+important molecule and a raw material for the synthesis of
+pharmaceutically important compounds.19 The desired com-
+pound 5w was derived from 4-nitroacetophenone via
+</para>
+<para sub=“ques”>
+condensation with DMF−DMA to aﬀord enaminone 2a,
+which undergoes hydrogenation followed by hydrogenolysis
+of intermediate I (Scheme 6). To elucidate the mechanism, the
+intermediate I20was independently synthesized from acetophe-
+none 1a and treated with Pd/C under hydrogen atmosphere at
+room temperature overnight. The expected phenylpropanol 4a
+was obtained in 88% yield, whereas the keto product 3a was not
+observed in this experiment. These results suggested that 3-
+(dimethylamino)propiophenone I is the key intermediate for
+phenylpropanol 4a. The formation of keto product 3a is not
+clear at present. However, it is proposed that it proceeds via
+intermediate II as shown in Scheme 5.21
+</para>
+In summary, we have developed a novel one-pot hydro-
+genation−hydrogenolysis strategy for the α-methylation of
+ketones via enaminones. This method oﬀers
+signiﬁcant
+advantages such as commercially available reagents and catalyst,
+an operationally simple procedure, high conversion, and use of
+recyclable catalysts. The present reaction will serve as an
+
+4724
+
+DOI: 10.1021/acs.joc.5b00084
+J. Org. Chem. 2015, 80, 4722−4728
+
+The Journal of Organic Chemistry
+
+Scheme 6. Independent Experiment for Mechanism
+
+Note
+
+alternative strategy for the α-methylation of ketones without
+any base or oxidant.
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Information. All chemicals were used as received without
+further puriﬁcation. 1H NMR and 13C NMR spectra were recorded at
+ambient temperature on a 300 or 500 MHz NMR spectrometer (75 or
+125 MHz for 13C). NMR chemical shifts are reported on the δ scale
+(ppm) downﬁeld from tetramethylsilane (δ = 0.0 ppm) using the
+residual solvent signal at δ = 7.26 ppm (1H) or δ = 77 ppm (13C) as
+internal standard. Data are reported as follows: chemical shift,
+multiplicity (s = singlet, d = doublet, t = triplet, q = quartet, m =
+multiplet, br = broad). IR spectra were recorded on a spectropho-
+tometer using CHCl3. Hydrogenation under pressure (2.5 bar) was
+carried out in hydrogenation apparatus. Column chromatography was
+performed with silica gel 60 (100−200 mesh).
+Experimental Procedure for the Synthesis of Enaminones
+2a−w (2a as an Example). Acetophenone 1a (1 mmol) and DMF−
+DMA (20 mmol) was stirred at 120 °C (oil bath) in an open ﬂask.
+After disappearance of the reactant (monitored by TLC), water was
+added to the mixture (50 mL), and the mixture was extracted with
+EtOAc (3 × 30 mL). The extract was dried over anhydrous Na2SO4
+and concentrated. The crude residue was used for the one-pot
+hydrogenation−hydrogenolysis reaction without chromatographic
+puriﬁcation [L-proline (5 mol %) was added during the synthesis of
+2p, 2q, 2t, and 2v].16
+Experimental Procedure for the Hydrogenation−Hydro-
+genolysis of Enaminones (4a as an Example). Crude enaminone
+2a as obtained from the previous step was dissolved in ethanol (20
+mL). 10% Pd/C (106 mg, 10 mol % of 1a) was added, and the
+heterogeneous mixture was vigorously stirred at room temperature
+under atmospheric hydrogen pressure (balloon) for 12 h. The reaction
+mixture was ﬁltered (using a Buchner funnel with sintered disk) and
+washed with ethanol (2 × 10 mL). The ﬁltrate and washings were
+combined and concentrated under
+the
+evaporation, the residue was puriﬁed by column chromatography on
+silica gel (ethyl acetate/hexanes, 1:10) to aﬀord the product 4a. (For
+crude substrates 2k,l,p,q,w, 2.5 bar hydrogen pressure was used instead
+of hydrogen balloon in a hydrogenation apparatus.)
+1-Phenylpropan-1-ol (4a).22−24 Flash column chromatography on
+silica gel (ethyl acetate/hexanes 1:10) gave 4a (107 mg, 79% yield) as
+a liquid: 1H NMR (300 MHz, CDCl3) δ 7.18−7.45 (m, 5H), 4.59 (t, J
+= 6.6 Hz, 1H), 1.9 (br s, 1H), 1.66−1.90 (m, 2H), 0.92 (t, J = 7.4 Hz,
+3H); 13C NMR (75 MHz, CDCl3) δ 144.6, 128.4, 127.5, 126.0, 75.9,
+31.8, 10.2; IR (CHCl3) 3368, 2964, 2932, 2876, 1453, 974 cm−1.
+
+reduced pressure. After
+
+1-p-Tolylpropan-1-ol (4b).23,24 Flash column chromatography on
+silica gel (ethyl acetate/hexanes 1:10) gave 4b (104 mg, 69% yield) as
+a liquid: 1H NMR (300 MHz, CDCl3) δ 7.22 (d, J = 7.9 Hz, 2H), 7.14
+(d, J = 7.8 Hz, 2H), 4.54 (t, J = 6.6 Hz, 1H), 2.34 (s, 3H), 1.99 (br s,
+1H), 1.61−1.9 (m, 2H), 0.90 (t, J = 7.4 Hz, 3H); 13C NMR (75 MHz,
+CDCl3) δ 141.6, 137.1, 129.1, 125.9, 75.9, 31.8, 21.1, 10.2; IR
+(CHCl3) 3367, 2962, 2927, 2875, 1456, 1098, 1040, 1014, 874 cm−1.
+1-(4-Methoxyphenyl)propan-1-one (3c).11 Flash column chroma-
+tography on silica gel (ethyl acetate/hexanes 1:12) gave 3c (30 mg,
+18% yield) as a liquid: 1H NMR (300 MHz, CDCl3) δ 7.95 (d, J = 8.8
+Hz, 2H), 6.94 (d, J = 8.8 Hz, 2H), 3.87 (s, 3H), 2.96 (q, J = 7.2 Hz,
+2H), 1.22 (t, J = 7.2 Hz, 3H); 13C NMR (75 MHz, CDCl3) δ 199.5,
+163.3, 130.2, 130.0, 113.6, 55.4, 31.4, 8.4; IR (CHCl3) 2974, 2936,
+1679, 1601, 1257, 1227, 1170 cm−1.
+
+1-(4-Methoxyphenyl)propan-1-ol (4c).23,25 Flash column chroma-
+tography on silica gel (ethyl acetate/hexanes 1:12) gave 4c (91 mg,
+55% yield) as a liquid: 1H NMR (300 MHz, CDCl3) δ 7.17 (d, J = 8.5
+
+Hz, 2H), 6.79 (d, J = 8.5 Hz, 2H), 4.44 (t, J = 6.7 Hz, 1H), 3.71 (s,
+3H), 1.99 (br s, 1H), 1.53−1.81 (m, 2H), 0.81 (t, J = 7.4 Hz, 3H); 13C
+NMR (75 MHz, CDCl3) δ 158.9, 136.8, 127.2, 113.6, 75.6, 55.3, 31.7,
+10.2; IR (CHCl3) 3391, 2962, 2933, 2876, 1612, 1513, 1248, 1175,
+1038 cm−1.
+
+1-(3-Methoxyphenyl)propan-1-ol (4d).24 Flash column chroma-
+tography on silica gel (ethyl acetate/hexanes 1:10) gave 4d (118 mg,
+71% yield) as a liquid: 1H NMR (300 MHz, CDCl3) δ 7.25 (t, J = 8
+Hz, 1H), 6.92 (s, 1H), 6.90 (s, 1H), 6.81 (d, J = 8.4 Hz, 3H), 4.56 (t, J
+= 6.5 Hz, 1H), 3.80 (s, 3H), 1.86 (br s, 1H), 1.68−1.84 (m, 2H), 0.92
+(t, J = 7.4 Hz, 3H); 13C NMR (75 MHz, CDCl3) δ 159.6, 146.5, 129.3,
+118.4, 118.0, 112.8, 111.5, 75.7, 55.1, 31.8, 10.1; IR (CHCl3) 3392,
+2964, 2935, 1602, 1586, 1487, 1455, 1261, 1042 cm−1.
+
+1-(Benzo[d][1,3]dioxol-5-yl)propan-1-ol
+
+(4e).23,25 Flash column
+chromatography on silica gel (ethyl acetate/hexanes 1:10) gave 4e
+(121 mg, 67% yield) as a liquid: 1H NMR (300 MHz, CDCl3) δ 6.83
+(s, 1H), 6.75 (s, 2H), 5.92 (s, 2H), 4.47 (t, J = 6.6 Hz, 1H), 2.08 (br s,
+1H), 1.58−1.86 (m, 2H), 0.87 (t, J = 7.4 Hz, 3H); 13C NMR (75
+MHz, CDCl3) δ 147.7, 146.8, 138.7, 119.4, 107.9, 106.4, 100.9, 75.8,
+31.8, 10.2; IR (CHCl3) 3379, 2965, 2932, 2877, 1504, 1487, 1441,
+1248, 1040, 931, 811 cm−1.
+
+1-(4-Cyclohexylphenyl)propan-1-one (3f).26 Flash column chro-
+matography on silica gel (ethyl acetate/hexanes 1:10) gave 3f (26 mg,
+12% yield) as a gummy liquid: 1H NMR (300 MHz, CDCl3) δ 7.89 (d,
+J = 8.2 Hz, 2H), 7.28 (d, J = 8.2 Hz, 2H), 2.98 (q, J = 7.2 Hz, 2H),
+2.56 (br s, 1H), 1.34−1.95 (m, 10H), 1.21 (t, J = 7.3 Hz, 3H); 13C
+NMR (75 MHz, CDCl3) δ 200.6, 153.5, 134.8, 128.2, 127.0, 44.6, 34.1,
+31.6, 26.7, 26.0, 8.3; IR (CHCl3) 2926, 2852, 1685, 1606, 1222 cm−1.
+1-(4-Cyclohexylphenyl)propan-1-ol (4f). Flash column chromatog-
+raphy on silica gel (ethyl acetate/hexanes 1:10) gave 4f (50 mg, 23%
+yield) as a liquid: 1H NMR (300 MHz, CDCl3) δ 7.23 (d, J = 8.1 Hz,
+2H), 7.16 (d, J = 8.1 Hz, 2H), 4.51 (t, J = 6.5 Hz, 1H), 2.48 (br s, 1H),
+1.98 (br s, 1H), 1.66−1.92 (m, 7H), 128−1.51 (m, 5H), 0.89 (t, J =
+7.7 Hz, 3H); 13C NMR (75 MHz, CDCl3) δ 147.3, 142.1, 126.8, 126.0,
+75.8, 44.3, 34.5, 31.9, 26.9, 26.2, 10.3; IR (CHCl3) 3367, 2925, 2851,
+1448, 826 cm−1; MS (EI) m/z 218.1 (M)+. Anal. Calcd for C15H22O:
+C, 82.52; H, 10.16. Found: C, 82.47; H, 10.22.
+(4g).25 Flash col-
+umn chromatography on silica gel (ethyl acetate/hexanes 1:10) gave
+4g (209 mg, 77% yield) as a liquid: 1H NMR (300 MHz, CDCl3) δ
+7.81 (s, 2H), 7.78 (s, 1H), 4.76 (t, J = 6.4 Hz, 1H), 2.00 (br s, 1H),
+1.73−1.86 (m, 2H), 0.96 (t, J = 7.4 Hz, 3H); 13C NMR (75 MHz,
+CDCl3) δ 147.1, 131.6 (q, J = 33.3 Hz), 126.1 (q, J = 2.8 Hz), 123.4
+(q, J = 272.6 Hz), 121.3 (q, J = 3.7 Hz), 74.6, 32.2, 9.7; IR (CHCl3)
+3199, 2979, 1463, 1383, 1291, 1116 cm−1.
+
+1-[3,5-Bis(triﬂuoromethyl)phenyl]propan-1-ol
+
+1-(4-Isobutylphenyl)propan-1-one (3h). Flash column chromatog-
+raphy on silica gel (ethyl acetate/hexanes 1:15) gave 3h (40 mg, 21%
+yield) as a liquid: 1H NMR (300 MHz, CDCl3) δ 7.88 (d, J = 8.1 Hz,
+2H), 7.22 (d, J = 8 Hz, 2H), 2.97 (q, J = 7.3 Hz, 2H), 2.52 (d, J = 7.2
+Hz, 2H), 1.68−1.99 (m, 1H), 1.21 (t, J = 7.3 Hz, 3H), 0.91 (d, J = 6.6
+Hz, 6H); 13C NMR (75 MHz, CDCl3) δ 200.5, 147.3, 134.7, 129.3,
+127.9, 45.4, 31.6, 30.1, 22.3, 8.3; IR (CHCl3) 2957, 2934, 2870, 1686,
+1608, 1465, 1415, 1225, 1182, 953 cm−1; MS (EI) m/z 190.1 (M)+.
+Anal. Calcd for C13H18O: C, 82.06; H, 9.53. Found: C, 82.17; H, 9.60.
+1-(4-Isobutylphenyl)propan-1-ol (4h). Flash column chromatog-
+raphy on silica gel (ethyl acetate/hexanes 1:15) gave 4h (85 mg, 44%
+yield) as a liquid: 1H NMR (500 MHz, CDCl3) δ 7.16 (d, J = 8.0 Hz,
+2H), 7.04 (d, J = 8.1 Hz, 2H), 4.48 (t, J = 6.6 Hz, 1H), 2.39 (d, J = 7.2
+Hz, 2H), 1.58−1.95 (m, 4H), 0.54−1.11 (m, 9H); 13C NMR (125
+MHz, CDCl3) δ 141.7, 140.9, 129.0, 125.6, 75.8, 45.0, 31.7, 30.1, 22.3,
+10.1; IR (CHCl3) 3393, 2957, 1464, 1383, 846, 893 cm−1; MS (EI) m/
+</para>
+4725
+
+DOI: 10.1021/acs.joc.5b00084
+J. Org. Chem. 2015, 80, 4722−4728
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+z 192.1 (M)+. Anal. Calcd for C13H20O: C, 81.20; H, 10.48. Found: C,
+81.11; H, 10.53.
+
+1-(4-Fluorophenyl)propan-1-ol (4i)..23,24 Flash column chromatog-
+raphy on silica gel (ethyl acetate/hexanes 1:10) gave 4i (116 mg, 75%
+yield) as a liquid: 1H NMR (500 MHz, CDCl3) δ 7.21−7.26 (m, 2H),
+6.96 (t, J = 8.6 Hz, 2H), 4.52 (t, J = 6.6 Hz, 1H) 1.57−1.80 (m, 3H),
+0.82 (t, J = 7.3 Hz, 3H); 13C NMR (75 MHz, CDCl3) δ 162.1 (d, J =
+245.1 Hz), 140.3 (d, J = 3.2 Hz), 127.6 (d, J = 8.0 Hz), 115.2 (d, J =
+21.3 Hz), 75.4, 32.0, 10.1; IR (CHCl3) 3367, 2963, 2930, 1605, 1509,
+1222, 1015, 834 cm−1.
+
+1-[4-(Dimethylamino)phenyl]propan-1-ol
+
+(4j).17 Flash column
+chromatography on neutral alumina (ethyl acetate/hexanes 1:12)
+gave 4j (147 mg, 82% yield as a gummy liquid: 1H NMR (300 MHz,
+CDCl3) δ 7.19 (d, J = 8.5 Hz, 2H), 6.70 (d, J = 8.5 Hz, 2H), 4.45 (t, J
+= 6.7 Hz, 1H), 2.92 (s, 6H), 2.14 (br s, 1H), 1.61−1.90 (m, 2H), 0.87
+(t, J = 7.4 Hz, 3H); 13C NMR (75 MHz, CDCl3) δ 150.2, 132.8, 127.0,
+112.67, 75.7, 40.7, 31.6, 10.4.
+
+1-(3-Fluoro-4-methoxyphenyl)propan-1-one (3k).27 Flash column
+chromatography on silica gel (ethyl acetate/hexanes 1:10) gave 3k (36
+mg, 20% yield) as a white solid: mp 76−80 °C; 1H NMR (500 MHz,
+CDCl3) δ 7.60−7.70 (m, 2H), 6.92 (t, J = 8.4 Hz, 1H), 3.87 (s, 3H),
+2.86 (q, J = 7.3 Hz, 2H), 1.14 (t, J = 7.3 Hz, 3H); 13C NMR (125
+MHz, CDCl3) δ 198.5, 151.9 (d, J = 247 Hz), 151.6 (d, J = 10.9 Hz),
+130.2 (d, J = 4.7 Hz), 125.1 (d, J = 3.2 Hz), 115.6 (d, J = 18.9 Hz),
+112.2, 56.1, 31.8, 8.2; IR (CHCl3) 2978, 1673, 1614, 1580, 1516, 1432,
+1285, 1140, 1017, 801 cm−1.
+
+1-(3-Fluoro-4-methoxyphenyl)propan-1-ol
+
+(4k). Flash column
+chromatography on silica gel (ethyl acetate/hexanes 1:10) gave 4k
+(92 mg, 50% yield) as a liquid: 1H NMR (500 MHz, CDCl3) δ 7.01
+(dd, J1 = 2 Hz, J2 = 12.2 Hz, 1H), 6.95 (d, J = 8.3 Hz, 1H), 6.84 (t, J =
+8.5 Hz, 1H), 4.45 (t, J = 6.6 Hz, 1H) 3.81 (s, 3H), 1.85 (br s, 1H),
+1.56−1.77 (m, 2H), 0.82 (t, J = 7.4 Hz, 3H); 13C NMR (125 MHz,
+CDCl3) δ 152.2 (d, J = 245 Hz), 146.7 (d, J = 10.8 Hz), 137.6 (d, J =
+5.3 Hz), 121.6 (d, J = 3.4 Hz), 113.6 (d, J = 18.5 Hz), 113.0, 74.9, 56.2,
+31.6, 9.9; IR (CHCl3) 3391, 2965, 2935, 1518, 1275, 1127, 1027 cm−1;
+MS (EI) m/z 184 (M)+. Anal. Calcd for C10H13FO2: C, 65.20; H, 7.11.
+Found: C, 65.27; H, 7.13.
+
+1-(2,5-Dimethoxyphenyl)propan-1-one (3l).28 Flash column chro-
+matography on silica gel (ethyl acetate/hexanes 1:10) gave 3l (161 mg,
+83% yield) as a gummy liquid: 1H NMR (300 MHz, CDCl3) δ 7.25 (d,
+J = 2.8 Hz, 1H), 7.01 (dd, J1 = 2.8 Hz, J2 = 8.9 Hz, 1H), 6.90 (d, J = 8.9
+Hz, 1H), 3.85 (s, 3H), 3.79 (s, 3H), 2.99 (q, J = 7.2 Hz, 2H), 1.16 (t, J
+= 7.2 Hz, 3H); 13C NMR (75 MHz, CDCl3) δ 203.0, 153.4, 153.0,
+128.7, 119.6, 113.9, 113.1, 56.0, 55.8, 36.9, 8.4; IR (CHCl3) 2973,
+2939, 2836, 1675, 1496, 1464, 1412, 1278, 1223, 1168, 1049, 1023,
+814 cm−1.
+
+1-(2,4-Diﬂuorophenyl)propan-1-one (3m). Flash column chroma-
+tography on silica gel (ethyl acetate/hexanes 1:10) gave 3m (110 mg,
+65% yield) as a liquid: 1H NMR (500 MHz, CDCl3) δ 7.87−8.03 (m,
+1H), 6.92−6.98 (m, 1H), 6.83−6.89 (m, 1H) 2.97 (q, J = 7.2 Hz, 2H),
+1.20 (t, J = 7.2 Hz, 3H); 13C NMR (125 MHz, CDCl3) δ 197.4 (d, J =
+4.7 Hz), 165.5 (dd, J1 = 12.2 Hz, J2 = 256 Hz), 162.6 (dd, J1 = 12.5 Hz,
+J2 = 257 Hz), 132.5 (dd, J1 = 4.4 Hz, J2 = 10.6 Hz), 122.0 (dd, J1 = 4
+Hz, J2 = 14 Hz), 111.9 (dd, J1 = 3.3 Hz, J2 = 21.3 Hz), 104.6 (dd, J1 =
+25 Hz, J2 = 27 Hz), 36.6 (d, J = 7.6 Hz), 7.8 (d, J = 2.2 Hz); IR
+(CHCl3) 2982, 2941, 1691, 1428, 1236, 973 cm−1; MS (EI) m/z 170
+(M)+. Anal. Calcd for C9H8F2O: C, 63.53; H, 4.74. Found: C, 63.39;
+H, 4.79.
+
+1-(2,6-Dimethoxyphenyl)propan-1-one (3n).29 Flash column
+chromatography on silica gel (ethyl acetate/hexanes 1:10) gave 3n
+(155 mg, 80% yield) as a white solid: 1H NMR (500 MHz, CDCl3) δ
+7.17 (t, J = 8.4 Hz, 1H), 6.47 (d, J = 8.4 Hz, 2H), 3.70 (s, 6H), 2.68 (q,
+J = 7.2 Hz, 2H), 1.07 (t, J = 7.2 Hz, 3H); 13C NMR (125 MHz,
+CDCl3) δ 205.9, 156.5, 130.3, 120.4, 103.8, 55.8, 37.8, 7.5; IR
+(CHCl3) 2988, 2943, 1702, 1595, 1474, 1260, 1113 cm−1.
+
+1-(2,3,5,6-Tetramethylphenyl)propan-1-one (3o).30 Flash column
+chromatography on silica gel (ethyl acetate/hexanes 1:10) gave 3o
+(135 mg, 71% yield) as a gummy liquid: 1H NMR (500 MHz, CDCl3)
+δ 6.87 (s, 1H), 2.62 (q, J = 7.2 Hz, 2H), 2.13 (s, 6H), 1.97 (s, 6H),
+1.13 (t, J = 7.2 Hz, 3H); 13C NMR (125 MHz, CDCl3) δ 212.5, 142.8,
+
+134.2, 131.3, 127.8, 38.4, 19.3, 15.8, 7.4; IR (CHCl3) 2970, 2938,
+1699, 1467, 1447, 1408, 1260, 1022, 1003 cm−1.
+
+1-(Naphthalen-1-yl)propan-1-one (3p).31 Flash column chroma-
+tography on silica gel (ethyl acetate/hexanes 1:10) gave 3n (88 mg,
+48% yield) as a liquid: 1H NMR (300 MHz, CDCl3) δ 8.55 (d, J = 8.4
+Hz, 1H), 7.97 (d, J = 8.2 Hz, 1H), 7.86 (t, J = 8 Hz, 2H), 7.42−7.63
+(m, 3H), 3.08 (q, J = 7.3 Hz, 2H), 1.28 (t, J = 7.3 Hz, 3H); 13C NMR
+(75 MHz, CDCl3) δ 205.3, 136.2, 133.9, 132.3, 130.2, 128.4, 127.8,
+127.2, 126.4, 125.8, 124.4, 35.4, 8.7; IR (CHCl3) 3049, 2977, 2937,
+1682, 1508, 1230, 1110, 932, 796 cm−1.
+
+1-(Naphthalen-1-yl)propan-1-ol (4p).23,25 Flash column chroma-
+tography on silica gel (ethyl acetate/hexanes 1:10) gave 4n (41 mg,
+22% yield) as a liquid: 1H NMR (500 MHz, CDCl3) δ 8.05 (d, J = 7.5
+Hz, 1H), 7.83 (dd, J1 = 2.5 Hz, J2 = 6.8 Hz, 1H), 7.73 (d, J = 8.2 Hz,
+1H), 7.56 (d, J = 7.1 Hz, 1H), 7.37−7.50 (m, 3H), 5.27−5.33 (m,
+1H), 2.2 (br s, 1H), 1.78−2.02 (m, 2H), 0.97 (t, J = 7.4 Hz, 3H); 13C
+NMR (125 MHz, CDCl3) δ 140.2, 133.7, 130.4, 128.8, 127.7, 125.8,
+125.4, 125.3, 123.2, 122.8, 72.4, 31.0, 10.4; IR (CHCl3) 3369, 2964,
+2931, 1510. 1460, 968, 798, 770 cm−1.
+
+1-(1-Methoxynaphthalen-2-yl)propan-1-one (3q). Flash column
+chromatography on silica gel (ethyl acetate/hexanes 1:10) gave 3o
+(165 mg, 77% yield) as a gummy liquid: 1H NMR (300 MHz, CDCl3)
+δ 8.22 (br s, 1H), 7.85 (br s, 1H), 7.52−7.67 (m, 4H), 3.98 (s, 3H),
+3.13 (q, J = 7.2 Hz, 2H), 1.24 (t, J = 7.3 Hz, 3H); 13C NMR (75 MHz,
+CDCl3) δ 203.8, 156.6, 136.6, 128.1, 128.0, 126.6, 125.5, 124.2, 123.3,
+63.8, 36.3, 8.6; IR (CHCl3) 3468, 3059, 2976, 2937, 1677, 1370, 1206,
+1102, 1078, 988 cm−1; MS (EI) m/z 214 (M)+. Anal. Calcd for
+C14H14O2: C, 78.48; H, 6.59. Found: C, 78.55; H, 6.66.
+
+6-Methoxy-2-methyl-3,4-dihydronaphthalen-1(2H)-one (3r).32
+Flash column chromatography on silica gel (ethyl acetate/hexanes
+1:10) gave 3p (135 mg, 71% yield) as a liquid: 1H NMR (300 MHz,
+CDCl3) δ 8.01 (d, J = 8.7 Hz, 1H), 6.82 (dd, J1 = 1.8 Hz, J2 = 8.7 Hz,
+1H), 6.68 (s, 1H), 3.85 (s, 3H), 2.86−3.08 (m, 2H), 2.46−2.62 (m,
+1H), 2.11−2.24 (m, 1H), 1.76−1.96 (m, 1H), 1.26 (d, J = 6.8 Hz,
+3H); 13C NMR (75 MHz, CDCl3) δ 199.6, 163.3, 146.6, 129.7, 126.0,
+113.0, 112.4, 55.4, 42.2, 31.4, 29.2, 15.5; IR (CHCl3) 2962, 2932,
+2859, 2839, 1675, 1599, 1494, 1458, 1358, 1252, 1134, 1032, 970
+cm−1.
+
+7-Methoxy-2-methyl-3,4-dihydronaphthalen-1(2H)-one (3s).32
+Flash column chromatography on silica gel (ethyl acetate/hexanes
+1:10) gave 3q (127 mg, 67% yield) as a liquid: 1H NMR (300 MHz,
+CDCl3) δ 7.43 (s, 1H), 7.05 (d, J = 8.4 Hz, 1H), 6.94 (dd, J1 = 2.2 Hz,
+J2 = 8.4 Hz, 1H), 3.73 (s, 3H), 2.16−2.94 (m, 2H), 2.39−2.54 (m,
+1H), 2.02−2.15 (m, 1H), 1.67−1.84 (m, 1H), 1.17 (d, J = 6.7 Hz,
+3H); 13C NMR (75 MHz, CDCl3) δ 200.6, 171.1, 158.3, 136.7, 133.1,
+129.9, 121.3, 109.4, 55.4, 42.4, 31.5, 27.9, 15.4; IR (CHCl3) 2961,
+2931, 1683, 1609, 1496, 1271, 1246 cm−1.
+
+1-(1-Methyl-1H-indol-3-yl)propan-1-one (3t).11 Flash column
+chromatography on neutral alumina (ethyl acetate/hexanes 1:15)
+gave 3r (137 mg, 73% yield) as brown solid: mp 69−77 °C; 1H NMR
+(300 MHz, CDCl3) δ 8.34−8.41 (m, 1H), 7.71 (s, 1H), 7.31 (s, 3H),
+3.85 (s, 3H), 2.87 (q, J = 7.4 Hz, 2H), 1.25 (t, J = 1.4 Hz, 3H); 13C
+NMR (75 MHz, CDCl3) δ 196.4, 137.5, 135.1, 126.3, 123.2, 122.5,
+122.4, 116.2, 109.6, 33.4, 32.9, 9.0; IR (CHCl3) 2974, 2935, 1645,
+1529, 1468, 1374, 1217, 1211, 7899 cm−1; MS (EI) m/z 187 (M)+.
+1-(Pyridin-3-yl)propan-1-ol (4u).23 Flash column chromatography
+on neutral alumina (ethyl acetate/hexanes 1:15) gave 4s (35 mg, 25%
+yield) as a liquid: 1H NMR (300 MHz, CDCl3) δ 8.44 (s, 1H), 8.40
+(d, J = 4.2 Hz, 1H), 7.71 (d, J = 7.8 Hz, 1H), 7.26 (dd, J1 = 5.0 Hz, J2 =
+7.7 Hz, 1H), 4.62 (t, J = 6.5 Hz, 1H), 3.49 (br s, 1H), 1.65−1.91 (m,
+2H), 10.92 (t, J = 7.4 Hz, 3H); 13C NMR (75 MHz, CDCl3) δ 148.2,
+147.6, 140.5, 133.9, 123.5, 73.1, 31.9, 9.9; IR (CHCl3) 3306, 2966,
+2932, 1580, 1427, 1097, 1046 cm−1.
+
+1-(1,4,5,6-Tetrahydropyridin-3-yl)propan-1-one (5u). Flash col-
+umn chromatography on neutral alumina (ethyl acetate/hexanes 1:15)
+gave 5s (71 mg, 51% yield) as a liquid: 1H NMR (300 MHz, CDCl3) δ
+7.51 (d, J = 5.7 Hz, 1H), 5.35 (br s, 1H), 3.23 (s, 2H), 2.46 (q, J = 7.5
+Hz, 2H), 2.34 (t, J = 6.2 Hz, 2H), 1.74−1.86 (m, 2H), 1.10 (t, J = 7.5
+Hz, 3H); 13C NMR (75 MHz, CDCl3) δ 197.7, 145.6, 106.7, 40.8,
+28.7, 20.6, 19.9, 10.6; IR (CHCl3) 3293, 2934, 1664, 1618, 1571, 1525,
+</para>
+4726
+
+DOI: 10.1021/acs.joc.5b00084
+J. Org. Chem. 2015, 80, 4722−4728
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+1354, 1239, 1193 cm−1; MS (EI) m/z 139.1 (M)+. Anal. Calcd (%) for
+C8H13NO: C, 69.03; H, 9.41; N, 10.06. Found: C, 69.11; H, 9.45; N,
+10.19.
+
+1-(2,3-Dihydrobenzofuran-2-yl)propan-1-ol
+
+(5v). Flash column
+chromatography on silica gel (ethyl acetate/hexanes 1:10) gave 5t
+(143 mg, 80% yield; 1.2:1 dr) as a liquid: 1H NMR (CDCl3, 500 MHz,
+mixture of two diastereomers) δ 7.13−7.18 (m, 1H), 7.07−7.13 (m,
+1H), 6.81−6.86 (m, 1H), 6.77 (t, J = 7.9 Hz, 1H), 4.70−4.76 (m,
+0.6H), 4.61−4.67 (m, 0.5H), 3.84−3.95 (m, 0.6H), 3.53−3.63 (m,
+0.5H), 3.16−3.30 (m, 1H), 2.99−3.12 (m, 1H), 1.87 (br s, 1H), 1.44−
+1.71 (m, 2H), 1.01−1.09 (m, 3H); 13C NMR (CDCl3, 125 MHz,
+mixture of two diastereomers) δ 159.3, 159.0, 127.9, 127.7, 126.9,
+126.6, 124.9, 124.8, 120.5, 120.4, 109.3, 109.0, 85.5, 85.4, 75.0, 73.4,
+31.8, 29.2, 25.8, 25.0, 10.1, 9.9; IR (CHCl3) 3428, 2964, 2933.5, 2878,
+1598, 1481, 1461, 1233, 975, 750 cm−1; MS (EI) m/z 179 (M)+. Anal.
+Calcd for C11H14O2: C, 74.13; H, 7.92. Found: C, 74.17; H, 7.98.
+
+1-(4-Aminophenyl)propan-1-one (5w).33 Flash column chroma-
+tography on silica gel (ethyl acetate/hexanes 1:10) gave 5u (64 mg,
+43% yield) as a brown solid: mp 141−144 °C; 1H NMR (500 MHz,
+CDCl3) δ 7.73 (d, J = 8.7 Hz, 2H), 6.56 (d, J = 8.7 Hz, 2H), 4.12 (br s,
+2H), 2.81 (q, J = 7.3 Hz, 2H), 1.11 (t, J = 7.3 Hz, 3H); 13C NMR (125
+MHz, CDCl3) δ 199.3, 150.9, 130.3, 127.3, 113.6, 31.8, 8.6.
+
+Independent Experiment for Mechanism. The intermediate 3-
+(dimethylamino)-1-phenylpropan-1-one (I) was synthesized according
+to the literature procedure20 with 75% yield as oil: 1H NMR (500
+MHz, CDCl3) δ 7.97 (d, J = 6.8 Hz, 2H), 7.56 (t, J = 7.4 Hz, 1H), 7.46
+(t, J = 7.7 Hz, 2H), 3.16 (t, J = 7.1 Hz, 2H), 2.76 (t, J = 7.3 Hz, 2H),
+2.29 (s, 6H); 13C NMR (125 MHz, CDCl3) δ 199.0, 136.8, 133.0,
+128.5, 127.9, 54.2, 45.4, 36.8; IR (CHCl3) 2973, 2944, 2819, 2769,
+1684, 1597, 1580, 1460, 1449, 1380, 1330, 1235, 1207 cm−1.
+
+3-(Dimethylamino)-1-phenylpropan-1-one (I) (177 mg, 1 mmol)
+as obtained from the previous step was dissolved in ethanol (20 mL).
+10% Pd/C (106 mg, 10 mol % of I) was added, and the heterogeneous
+mixture was vigorously stirred at room temperature under atmospheric
+hydrogen pressure (balloon) for 12 h. The reaction mixture was
+ﬁltered (using a Buchner funnel with sintered disk) and washed with
+ethanol (2 × 10 mL). The ﬁltrate and washings were combined and
+concentrated under reduced pressure. After the evaporation,
+the
+residue was puriﬁed by column chromatography on silica gel (ethyl
+acetate/hexanes, 1:10) to aﬀord 4a (120 mg; 88% Yield).
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Copies of 1H and 13C NMR spectra of all products). This
+material is available free of charge via the Internet at http://
+pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*Fax: +913762370011. E-mail: gogoipranj@yahoo.co.uk.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We acknowledge the CSIR, New Delhi,
+for their ﬁnancial
+support. We are grateful to the Director, CSIR-NEIST, Jorhat,
+for his keen interest.
+
+■ REFERENCES
+
+(1) Barreiro, E. J.; Kummerle, A. E.; Fraga, C. A. M. Chem. Rev. 2011,
+111, 5215.
+(2) (a) McNally, A.; Prier, C. K.; MacMillan, D. W. C. Science 2011,
+334, 1114. (b) Nagi, D. A.; MacMillan, D. W. C. Nature 2011, 480,
+224. (c) Pham, P. V.; Nagib, D. A.; MacMillan, D. W. C. Angew. Chem.,
+Int. Ed. 2011, 50, 6119. (d) Shih, H.-W.; Wal, M. N. V.; Grange, R. L.;
+MacMillan, D. W. C. J. Am. Chem. Soc. 2010, 132, 13600. (e) Nagib, D.
+
+Note
+
+A.; Scott, M. E.; MacMillan, D. W. C. J. Am. Chem. Soc. 2009, 131,
+10875. (f) Nicewicz, D. A.; MacMillan, D. W. C. Science 2008, 322, 77.
+(3) (a) Caine, D. In Comprehensive Organic Synthesis; Trost, B. M.,
+Fleming, I., Eds.; Pergamon: Oxford, 1991; Vol. 3, pp 1−63. (b)
+Modern Carbonyl Chemistry; Otera, J., Ed.; Wiley-VCH: Weinheim,
+2000.
+(4) Negishi, E.; Idacavage, M. J.; DiPasquale, F.; Silveira, A., Jr.
+Tetrahedron Lett. 1979, 20, 845.
+(5) Yokoyama, Y.; Mochida, K. J. Organomet. Chem. 1995, 499, C4.
+(6) Uemura, S.; Ohe, K.; Sugita, N. J. Chem. Soc., Chem. Commun.
+1988, 111.
+(7) House, H. O.; Grubbs, E. J.; Gannon, W. F. J. Am. Chem. Soc.
+1960, 82, 4099.
+(8) Kulkarni, S. J.; Madhavi, G.; Ramachander Rao, A.; Krishna
+Mohan, K. V. V Catal. Commun. 2007, 9, 532.
+(9) Reddy, B. M.; Ruckenstein, E. Appl. Catal., A 1995, 121, 159.
+(10) Nagao, K.; Chiba, M.; Kim, S.-W. Synthesis 1983, 1983, 197.
+(11) Li, Y.; Xue, D.; Lu, W.; Wang, C.; Liu, Z.-T.; Xiao, J. Org. Lett.
+2014, 16, 66.
+(12) Chan, L. K. M.; Poole, D. L.; Shen, D.; Healy, M. P.; Donohoe,
+T. J. Angew. Chem., Int. Ed. 2014, 53, 761.
+(13) Ogawa, S.; Obora, Y. Chem. Commun. 2014, 50, 2491.
+(14) (a) Huang, P.; Zhang, R.; Liang, Y.; Dong, D. Org. Lett. 2012,
+14, 5196. (b) Olivera, R.; SanMartin, R.; Domınguez, E.; Solans, X.;
+J. Org. Chem. 2000, 65, 6398.
+Urtiaga, M. K.; Arriortua, M. I.
+(c) Kantevari, S.; Patpi, S. R.; Addla, D.; Putapatri, S. R.; Sridhar, B.;
+Yogeeswari, P.; Sriram, D. ACS Comb. Sci. 2011, 13, 427. (d) Jiang, Y.;
+Khong, V. Z. Y.; Lourdusamy, E.; Park, C.-M. Chem. Commun. 2012,
+48, 3133. (e) Muthusaravanan, S.; Perumal, S.; Almansour, A. I.
+Tetrahedron Lett. 2012, 53, 1144. (f) Rossignol, E.; Youssef, A.;
+Moreau, P.; Prudhomme, M.; Anizon, F. Tetrahedron 2007, 63, 10169.
+(g) Kantevari, S.; Chary, M. V.; Vuppalapati, S. V. N. Tetrahedron
+2007, 63, 13024.
+(15) (a) Liu, Y.-F.; Wang, C.-L.; Bai, Y.-J.; Han, N.; Jiao, J.-P.; Qi, X.-
+L. Org. Process Res. Dev. 2008, 12, 490. (b) Hernandez, S.; Moreno, I.;
+SanMartin, R.; Gomez, G.; Herrero, M. T.; Domınguez, E. J. Org.
+Chem. 2010, 75, 434. (c) Anderson, L.; Zhou, M.; Sharma, V.;
+McLaughlin, J. M.; Santiago, D. N.; Fronczek, F. R.; Guida, W. C.;
+McLaughlin, M. L. J. Org. Chem. 2010, 75, 4288.
+(16) Kumar, D.; Kommi, D. N.; Chopra, P.; Ansari, I.; Chakraborti,
+A. K. Eur. J. Org. Chem. 2012, 6407 and references cited therein.
+(17) Cosner, C. C.; Helquist, P. Org. Lett. 2011, 13, 3564.
+(18) (a) DeFeo, F. G.; Fitzgerald, T. J.; Doull, J. J. Med. Chem. 1972,
+15, 1185. (b) Bauman, R. A.; Widholm, J. J. Pharmacol., Biochem.
+Behav. 2007, 87, 444. (c) Bright, J. E.; Marrs, T. C. Hum. Exp. Toxicol.
+1987, 6, 133.
+(19) (a) Rennison, D.; Conole, D.; Tingle, M. D.; Yang, J.; Eason, C.
+T.; Brimble, M. A. Bioorg. Med. Chem. Lett. 2013, 23, 6629.
+(b) Tetsuyoshi, M.; Mika, I.; Asuka, N.; Masakazu, H.; Hideo, T.;
+Shoichi, K.; Masanori, I.; Jun, H.; Tsuyoshi, S. Bioorg. Med. Chem. Lett.
+2012, 22, 5067. (c) Lapinsky, D. J.; Aggarwal, S.; Nolan, T. L.; Surratt,
+C. K.; Lever, J. R.; Acharya, R.; Vaughn, R. A.; Pandhare, A..; Blanton,
+M. P. Bioorg. Med. Chem. Lett. 2012, 22, 523.
+(20) Chung, F.; Tisne, C.; Lecourt, T.; Dardel, F.; Micouin, L. Angew.
+Chem., Int. Ed. 2007, 46, 4489.
+(21) SanMartin, R.; Marigorta, E. M.; Dominguez, E. Tetrahedron
+1994, 50, 2255.
+(22) Zhao, H.; Sun, H.; Li, X. Organometallics 2014, 33, 3535.
+(23) Hatano, M.; Miyamoto, T.; Ishihara, K. J. Org. Chem. 2006, 71,
+6474.
+(24) Osorio-Planes, L.; Rodríguez-Escrich, C.; Pericàs, M. A. Org.
+Lett. 2012, 14, 1816.
+(25) Aga, M. A.; Kumar, B.; Rouf, A.; Shah, B. A.; Taneja, S. C.
+Tetrahedron Lett. 2014, 55, 2639.
+(26) Szabo, G.; Varga, B.; Payer-Lengyel, D.; Szemzo, A.; Erdelyi, P.;
+Vukics, K.; Szikra, J.; Hegyi, E.; Vastag, M.; Kiss, B.; Laszy, J.;
+Gyertyan, I.; Fischer, J. J. Med. Chem. 2009, 52, 4329.
+
+4727
+
+DOI: 10.1021/acs.joc.5b00084
+J. Org. Chem. 2015, 80, 4722−4728
+
+The Journal of Organic Chemistry
+
+(27) Ochiai, K.; Takita, S.; Kojima, A.; Eiraku, T.; Iwase, K.; Kishi, T.;
+Ohinata, A.; Yageta, Y.; Yasue, T.; Adams, D. R.; Kohno, Y. Bioorg.
+Med. Chem. Lett. 2013, 23, 375.
+(28) Ducki, S.; Rennison, D.; Woo, M.; Kendall, A.; Chabert, J. F. D.;
+McGown, A. T.; Lawrence, N. J. Bioorg. Med. Chem. 2009, 17, 7698.
+(29) Lindh, J.; Sjoberg, P. J. R.; Larhed, M. Angew. Chem., Int. Ed.
+2010, 49, 7733.
+(30) El-Khawaga, A. M.; Roberts, R. M. J. Org. Chem. 1984, 49, 3832.
+(31) Baez-Santos, Y. M.; Barraza, S. J.; Wilson, M. W.; Agius, M. P.;
+Mielech, A. M.; Davis, N. M.; Baker, S. C.; Larsen, S. D.; Mesecar, A.
+D. J. Med. Chem. 2014, 57, 2393.
+(32) Yanagisawa, A.; Sugita, T.; Yoshida, K. Chem.Eur. J. 2013, 19,
+16200.
+(33) DeFeo, F. G.; Fitzgerald, T. J.; Doull, J. J. Med. Chem. 1972, 15,
+1185.
+
+Note
+
+4728
+
+DOI: 10.1021/acs.joc.5b00084
+J. Org. Chem. 2015, 80, 4722−4728
+
+

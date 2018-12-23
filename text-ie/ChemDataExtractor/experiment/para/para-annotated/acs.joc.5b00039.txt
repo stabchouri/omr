@@ -1,0 +1,989 @@
+Note
+
+pubs.acs.org/joc
+
+Chemoselective Synthesis of β‑Ketophosphonates Using Lithiated
+α‑(Trimethylsilyl)methylphosphonate
+Simon Specklin* and Janine Cossy*
+
+Laboratoire de Chimie Organique, Institute of Chemistry, Biology and Innovation (CBI)-UMR 8231-ESPCI ParisTech/CNRS/PSL
+Research University, 10 rue Vauquelin, 75231 Paris Cedex 05, France
+*S Supporting Information
+
+ABSTRACT: A highly chemoselective synthesis of β-keto-
+phosphonates from pentaﬂuorophenyl esters and lithiated methyl
+α-(trimethylsilyl)methylphosphonate has been developed. This
+mild lithiated phosphonate reagent allows the synthesis of
+functionalized β-ketophosphonates in the presence of unactivated
+esters with high yields. This method has been compared with the
+standard lithiated methylphosphonate reagent.
+
+T he Horner−Wadsworth−Emmons (HWE) reaction1 is a
+
+reliable and eﬃcient method to synthesize α,β-unsatu-
+rated ketones, which is often used in total synthesis as a key
+step to construct E-oleﬁns
+from functionalized reaction
+partners.2 This highly stereoselective transformation requires
+β-ketophosphonates as precursors, making them a strategic
+class of compounds. The synthesis of β-ketophosphonates is
+generally realized according to two synthetic routes:
+the
+Michaelis−Arbuzov reaction3 of an α-haloketone with a
+phosphite (Scheme 1, eq 1) or the addition of a lithiated
+methylphosphonate to esters, in order to directly access the
+β‑ketophosphonates,2c,d or aldehydes followed by oxidation of
+the resulting alcohols (Scheme 1, eq 2).2e,f The requirement of
+an α-haloketone for the Arbuzov reaction and the competitive
+Perkov reaction makes this strategy less attractive than the
+condensation of lithiated methylphosphonates, particularly in
+the case of elaborated substrates. Although this latter method is
+usually preferred, several equivalents of lithiated methylphos-
+phonate are often required to produce β-ketophosphonates in
+good yields. This is notably due to the latent instability of
+lithiated methylphosphonate toward self-condensation4 or alkyl
+transfer, which could be limited by the order of addition of the
+reagents used for their generation.5 Several other methods have
+also been developed to access β-ketophosphonates such as the
+Claisen condensation of several metalated methylphosphonates
+including copper,6 cerium,7 cobalt or magnesium derivatives,8
+practical procedures
+the lithiated
+methylphosphonate reagent,9 addition of the magnesium salt
+of diethyl phosphonoacetic acid to acid chlorides,10 oxy-
+phosphorylation of alkenes under oxidative conditions,11 or
+addition of diazomethylphosphonates to aldehydes mediated by
+tin(II) chloride.12 Besides the latter method, known as the
+Roskamp reaction which was very elegantly used on an
+advanced synthetic intermediate in a recent total synthesis of
+norhalichondrin B,13 most of the other procedures either lead
+to low to moderate yields or have a limited range of
+applications.
+
+for
+
+the generation of
+
+Scheme 1. Synthetic Routes to β-Ketophosphonates
+
+the α-eﬀect of
+
+Herein, we report an eﬃcient and chemoselective method for
+the generation of β-ketophosphonates based on the Claisen
+the lithiated α-(trimethylsilyl)methylphos-
+condensation of
+phonate with activated esters (Scheme 1, eq 3). By taking
+the silicon14 and the steric
+advantage of
+hindrance of the trimethylsilyl group, the reactivity of such
+phosphonate reagents could be modulated, thereby increasing
+the chemoselectivity and functional group tolerance in the
+substrates. α-(Trialkylsilyl)phosphonates have been extensively
+studied by Savignac et al.15 and are mainly used as precursors of
+vinylphosphonates through the Peterson oleﬁnation.16 How-
+ever, to the best of our knowledge, only two reports were
+dealing with the use of those reagents for the synthesis of
+α‑substituted β‑ketophosphonates.17,18 In one report,
+the
+to diethyl
+conjugate addition of organolithium reagents
+
+Received:
+Published: February 26, 2015
+
+January 7, 2015
+
+© 2015 American Chemical Society
+
+3302
+
+DOI: 10.1021/acs.joc.5b00039
+J. Org. Chem. 2015, 80, 3302−3308
+
+The Journal of Organic Chemistry
+
+1‑(trimethylsilyl)vinylphosphonate was achieved, and the
+resulting lithiated phosphonate intermediate was trapped with
+acyl chlorides to generate α-alkyl-β-ketophosphonates in good
+yields. However, only unfunctionalized organolithium reagents
+and acyl chlorides were used as partners.17 The second report is
+dealing with α-(trimethylsilyl)methylphosphonate 1, which
+produces β-ketophosphonates with acyl ﬂuorides as inter-
+mediates for the HWE reaction.18
+
+Table 1. Screening of Acyl Activating Groupsa
+
+aReaction conditions: n-BuLi (0.66 mmol) was added to phosphonate
+1 (0.69 mmol) in THF (1.5 mL) at −78 °C, and benzoic acid
+derivatives 3 (0.3 mmol) in THF (1.5 mL) were added after 30 min at
+the indicated temperature. bIsolated yields.
+<para sub=“opt”>
+Our investigations started with the study of the reactivity of
+the lithiated α-(trimethylsilyl)methylphosphonate 2 (Table 1).
+This latter reagent was generated from α-(trimethylsilyl)meth-
+ylphosphonate 1 by treatment with n-BuLi and then involved in
+a Claisen condensation with benzoic acid derivatives 3. The
+electrophilic character of these derivatives was modulated by
+several classical acyl activating groups. When methyl ester 3a
+was reacted with lithiated α-(trimethylsilyl)methylphosphonate
+2, no reaction occurred at −78 °C (Table 1, entry 1); however,
+raising the temperature to −40 or −20 °C aﬀorded
+β‑ketophosphonate 4 in 39% and 78% yield, respectively
+(Table 1, entries 2 and 3). It is also worth mentionning that
+β‑ketophosphonate 4 was directly obtained after an aqueous
+workup with a saturated solution of ammonium chloride and
+the α-trimethylsilyl-β-ketophosphonate
+that no traces of
+intermediate were observed. The lability of the trimethylsilyl
+group after the condensation was of interest as this avoids an
+</para>
+Note
+<para sub=“opt”>
+additional desilylation step to isolate the desired β-ketophosph-
+onate. With a phenyl ester such as 3b (Table 1, entry 4), a low
+conversion was noticed at −78 °C, suggesting that β‑ketophos-
+phonates could be obtained at that temperature if a better
+leaving group was used. To our delight, very high yields of
+β‑ketophosphonate 4 were obtained at −78 °C with classical
+activated acyl donors derived from imidazole, p-nitrophenol,
+and pentaﬂuorophenol (Table 1, entries 5 to 7). As the
+pentaﬂuorophenyl ester 3e led to a complete conversion and a
+quantitative yield of β‑ketophosphonate 4, this activating group
+was selected to generalize the reaction (Table 1, entry 7).
+</para>
+<para sub="scope">
+The substrate scope was evaluated with various pentaﬂuoro-
+phenyl esters 5, and the results are summarized in Table 2.
+These esters were easily prepared by a coupling reaction of the
+corresponding acid and the commercialy available pentaﬂuoro-
+phenol mediated by dicyclohexylcarbodiimide (DCC) or N-(3-
+(dimethylamino)propyl)-N′-ethylcarbodiimide hydrochloride
+(EDCI). A control experiment was systematically performed
+with lithiated methylphosphonate 7 to assess the beneﬁt of
+using the silylated phosphonate reagent 2 with activated esters.
+The amount of lithiated phosphonate reagent was set to 2.2
+equiv, as one equivalent is directly consumed by deprotonation
+of the generated β-ketophosphonate. As shown in the previous
+screening of the acyl activating groups (Table 1), methyl ester
+5a and benzyl ester 5b appeared to be fully compatible with
+reagent 2 at −78 °C, as well as methyl benzoates 5c, 5d and
+the corresponding β‑ketophos-
+lactone 5e. High yields of
+phonates 6a−6e were obtained. The use of lithiated methyl-
+phosphonate 7 with these substrates led to much lower yields
+due to incomplete conversion and formation of several
+unidentiﬁed byproducts (Table 2, entries 1−5). Similarly, the
+condensation of reagent 2 also occurred chemoselectively for
+substrates possessing an acetate or a benzoate (Table 2, entries
+6−7). Not surprisingly, there were no signiﬁcant diﬀerences
+between the lithiated phosphonates 2 and 7 for substrates
+bearing an epoxide (5h), a bromine (5i), or an alkyne (5j)
+(Table 2, entries 8−10). Since the formation of β‑ketophosph-
+onates from β-alkoxy esters could be diﬃcult, considering the
+competitive β-elimination,19 the less basic silyl phosphonate
+reagent 2 was tested with activated esters 5k and 5l. However,
+only a minor yield improvement was obtained with reagent 2 in
+comparison with lithium methylphosphonate 7 (Table 2,
+entries 11−12). One remarkable illustration of the chemo-
+selectivity of lithiated phosphonate 2 is the reaction involving
+the functionalized sugar derivative 5m. The corresponding
+β‑ketophosphonate 6m was obtained in 47% yield, whereas the
+reaction with lithiated methylphosphonate 7 gave rise to a
+complex mixture of compounds with no traces of 6m (Table 2,
+entry 13).
+</para>
+It has been demonstrated that
+
+In summary, we have described an eﬃcient and chemo-
+selective route to β-ketophosphonates from various penta-
+ﬂuorophenyl esters.
+the
+combination of these activated esters with the lithiated silyl
+phosphonate reagent 2 provides a highly chemoselective
+method compatible with substrates containing unactivated
+esters. Moreover, these transformations proceed in high yields
+and only require a minimum amount of the lithium reagent 2.
+This method constitutes an eﬃcient tool for the introduction of
+a β-ketophosphonate moiety in polyfunctionalized substrates
+that should ﬁnd applications in organic synthesis.
+
+3303
+
+DOI: 10.1021/acs.joc.5b00039
+J. Org. Chem. 2015, 80, 3302−3308
+
+The Journal of Organic Chemistry
+Table 2. Scope of the Reactiona
+
+■ EXPERIMENTAL SECTION
+
+Note
+<para sub=“exp”>
+General Information. 1H and 13C spectra were recorded with a
+400 MHz spectrometer in CDCl3 with TMS as internal standard. IR
+spectra were recorded on a ATX FT-IR spectrometer. High resolution
+mass spectra were obtained with an orbitrap mass analyzer by
+electrospray ionization. Low resolution mass spectra were recorded
+with a gas chromatography mass spectrometer with electronic impact
+(EI−MS). Dimethyl methylphosphonate was distilled from CaH2 prior
+to use. The Grubbs-Hoveyda second generation catalyst was
+purchased from a chemical supplier and used as received. Compound
+3c was prepared according to a reported procedure and directly used
+without puriﬁcation.20
+
+Pentaﬂuorophenyl Benzoate (3e)21 (Representative Proce-
+dure for Esteriﬁcation Mediated by EDCI). To a solution of
+benzoic acid (305 mg, 2.50 mmol) and pentaﬂuorophenol (506 mg,
+2.75 mmol, 1.1 equiv) in CH2Cl2 (12 mL) at 0 °C were added EDCI
+(719 mg, 3.75 mmol, 1.5 equiv) and DMAP (61 mg, 0.5 mmol, 0.2
+equiv). The mixture was stirred at rt for 1 h, and a saturated solution of
+NH4Cl was added. The mixture was extracted with EtOAc, and the
+combined organic extracts were dried over MgSO4, ﬁltered, and
+concentrated under reduced pressure. Puriﬁcation of the residue by
+ﬂash chromatography (petroleum ether/EtOAc = 98:2) aﬀorded 699
+mg (97%) of the desired ester 3e as a white solid. 1H NMR (400 MHz,
+CDCl3) δ 8.23−8.17 (m, 2H), 7.70 (br t, J = 7.4 Hz, 1H), 7.59−7.50
+(m, 2H); 13C NMR (100 MHz, CDCl3) δ 162.3, 141.4 (ddqapp, 1JC−F
+= 252 Hz, 2JC−F = 12.8 Hz and 3JC−F = 4.4 Hz, 2C), 139.5 (dtt, 1JC−F =
+∼ 254
+253 Hz, 2JC−F = 14.0 Hz and 3JC−F = 4.0 Hz), 138.0 (dm, 1JC−F
+Hz, 2C), 134.7, 130.7 (2C), 128.9 (2C), 126.9, 125.3.
+
+1-Methyl Pentaﬂuorophenyl Pentanedioate (5a) (Represen-
+tative Procedure for Esteriﬁcation Mediated by DCC). To a
+solution of 5-methoxy-5-oxopentanoic acid (600 mg, 4.11 mmol) and
+pentaﬂuorophenol (907 mg, 4.93 mmol, 1.5 equiv) in CH2Cl2 (10
+mL) at 0 °C were added DCC (1.27 g, 6.16 mmol, 1.5 equiv) and
+DMAP (50 mg, 0.41 mmol, 0.1 equiv). After 2.5 h stirring at rt, the
+resulting suspension was ﬁltered (Et2O) and the ﬁltrate concentrated
+under
+reduced pressure. The residue was puriﬁed by ﬂash
+chromatography (petroleum ether/EtOAc = 90:10 then 80:20) to
+aﬀord 1.23 g (96%) of ester 5a as a pale yellow oil. IR 1788, 1737,
+1517,1439, 1371, 1320, 1197, 1172, 1100 cm−1; 1H NMR (400 MHz,
+CDCl3) δ 3.71 (s, 3H), 2.77 (t, J = 7.2 Hz, 2H), 2.48 (t, J = 7.2 Hz,
+2H), 2.10 (quintet, J = 7.2 Hz, 2H); 13C NMR (100 MHz, CDCl3) δ
+∼ 253
+172.9, 168.8, 141.1 (dm, 1JC−F
+∼ 256 Hz, 2C), 125.0 (m), 51.7, 32.5, 32.2,
+Hz), 137.9 (dm, 1JC−F
+19.8; EI−MS m/z (relative intensity) 281 (M − MeO+, 7), 253 (M −
+CO2Me+, 4), 211 (7), 184 (3), 183 (4), 155 (8), 129 (M − C6F5O+,
+61), 101 (55), 97 (12), 69 (13), 59 (100), 55 (47). HRMS calcd for
+C12H9O4F5Na (M + Na+): 335.03132. Found: 335.03109.
+
+∼ 251 Hz, 2C), 139.5 (dm, 1JC−F
+
+1-Benzyl Pentaﬂuorophenyl Pentanedioate (5b). Esteriﬁcation of
+5-(benzyloxy)-5-oxopentanoic acid22 (1.00 g, 4.50 mmol) mediated by
+EDCI yielded 5b after puriﬁcation by ﬂash chromatography
+(petroleum ether/EtOAc = 95:5 then 85:15) as a colorless oil (1.53
+g, 88%). IR 1788, 1735, 1518, 1455, 1418, 1385, 1315, 1162, 1099,
+991, 890, 737, 697 cm−1; 1H NMR (400 MHz, CDCl3) δ 7.41−7.29
+(m, 5H), 5.15 (s, 2H), 2.76 (t, J = 7.3 Hz, 2H), 2.52 (t, J = 7.3 Hz,
+2H), 2.11 (quintet, J = 7.3 Hz, 2H); 13C NMR (100 MHz, CDCl3) δ
+∼ 253
+172.3, 168.8, 141.1 (dm, 1JC−F
+∼ 256 Hz, 2C), 135.7, 128.6 (2C), 128.3, 128.2
+Hz), 137.8 (dm, 1JC−F
+(2C), 124.9 (m), 66.4, 32.7, 32.2, 19.8; EI−MS m/z (relative
+intensity) 281 (M − BnO+, 1), 253 (M − CO2Bn+, 1), 205 (M −
+C6F5O+, 5), 91 (100). HRMS calcd for C18H13O4F5Na (M + Na+):
+411.06262. Found: 411.06276.
+
+∼ 252 Hz, 2C), 139.4 (dm, 1JC−F
+
+1-Methyl 4-Pentaﬂuorophenyl Benzene-1,4-dicarboxylate (5c).
+Esteriﬁcation of monomethyl terephthalate (540 mg, 3.00 mmol) in a
+mixture of CH2Cl2/THF 3:1 (20 mL) mediated by DCC yielded 5c
+after puriﬁcation by ﬂash chromatography (petroleum ether/EtOAc =
+98:2 then 95:5) as a colorless solid (1.021 g, 98%). mp 106−108 °C;
+IR 1758, 1719, 1576, 1517, 1472, 1450, 1434, 1409, 1281, 1265, 1242,
+1192, 1177, 1156, 1106, 1062, 1014, 993, 980 cm−1; 1H NMR (400
+MHz, CDCl3) δ 8.28 (br d, J = 8.7 Hz, 2H), 8.21 (br d, J = 8.7 Hz,
+2H), 4.00 (s, 3H); 13C NMR (100 MHz, CDCl3) δ 165.8, 161.9, 141.2
+</para>
+3304
+
+DOI: 10.1021/acs.joc.5b00039
+J. Org. Chem. 2015, 80, 3302−3308
+
+aReaction conditions: pentaﬂuorophenyl esters 5 (0.30 mmol in 1.5
+mL THF) were added to a solution of the corresponding lithiated
+methylphosphonate reagent 2 or 7 (0.66 mmol in 1.5 mL THF) at
+−78 °C. bIsolated yields.
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+∼ 252 Hz, 2C), 139.7 (dm, 1JC−F
+
+∼ 253 Hz), 137.9 (dm,
+(dm, 1JC−F
+∼ 252 Hz, 2C), 135.5, 130.7 (2C), 130.6, 129.9 (2C), 125.1 (m),
+1JC−F
+52.6; EI−MS m/z (relative intensity) 315 (M − MeO+, 4), 183 (2),
+163 (M − C6F5O+, 100), 135 (M − CO2C6F5
++, 29). Anal. Calcd for
+C15H7F5O4: C, 52.04; H, 2.04. Found: C, 52.44; H, 2.18.
+
+1-Methyl 3-Pentaﬂuorophenyl Benzene-1,3-dicarboxylate (5d).
+Esteriﬁcation of monomethyl isophthalate (360 mg, 2.00 mmol) in a
+mixture of CH2Cl2/THF 3:1 (12 mL) mediated by DCC yielded 5d
+after puriﬁcation by ﬂash chromatography (petroleum ether/EtOAc =
+98:2 then 95:5) as a colorless solid (640 mg, 92%). mp 97−99 °C; IR
+1764, 1725, 1606, 1518, 1472, 1435, 1302, 1286, 1219, 1171, 1155,
+1105, 1072, 1040, 1011, 989 cm−1; 1H NMR (400 MHz, CDCl3) δ
+8.86 (t, J = 1.8 Hz, 1H), 8.39 (m, 1H), 8.37 (m, 1H), 7.66 (t, J = 7.8
+Hz, 1H), 3.99 (s, 3H); 13C NMR (100 MHz, CDCl3) δ 165.7, 161.8,
+∼ 254 Hz), 137.9
+141.3 (dm, 1JC−F
+∼ 254 Hz, 2C), 135.5, 134.7, 131.7, 131.2, 129.2, 127.4,
+(dm, 1JC−F
+125.1 (m), 52.6; EI−MS m/z (relative intensity) 315 (M − MeO+, 6),
+183 (2), 163 (M − C6F5O+, 100), 135 (M − CO2C6F5
++, 37). Anal.
+Calcd for C15H7F5O4: C, 52.04; H, 2.04. Found: C, 51.93; H, 2.01.
+
+∼ 252 Hz, 2C), 139.7 (dm, 1JC−F
+
+Pentaﬂuorophenyl 3-(5-Oxotetrahydrofuran-2-yl)propanoate
+(5e). Esteriﬁcation of 3-(5-oxotetrahydrofuran-2-yl)propanoic acid23
+(186 mg, 1.18 mmol) mediated by EDCI yielded 5e after puriﬁcation
+by ﬂash chromatography (petroleum ether/Et2O 50:50 then 30:70) as
+a colorless solid (333 mg, 87%). mp 75−77 °C; IR 1796, 1767, 1518,
+1469, 1449, 1415, 1349, 1278, 1262, 1181, 1093, 1072, 1036, 989
+cm−1; 1H NMR (400 MHz, CDCl3) δ 4.60 (m, 1H), 2.99−2.82 (m,
+2H), 2.60 (dd, J = 9.5 Hz and J = 6.9 Hz, 2H), 2.43 (sextetapp, J = 6.9
+Hz, 1H), 2.22−2.02 (m, 2H), 1.94 (m, 1H); 13C NMR (100 MHz,
+∼ 252 Hz, 2C), 139.5 (dm,
+CDCl3) δ 176.4, 168.7, 141.0 (dm, 1JC−F
+∼ 256 Hz, 2C), 124.8 (m), 78.9,
+1JC−F
+30.5, 29.4, 28.6, 27.9; EI−MS m/z (relative intensity) 184 (8), 183
+(3), 167 (2), 155 (8), 141 (M − C6F5O+, 84), 136 (7), 113 (60), 95
+(20), 85 (100). HRMS calcd for C13H9O4F5Na (M + Na+):
+347.03132. Found: 347.03115.
+
+∼ 253 Hz), 137.8 (dm, 1JC−F
+
+Pentaﬂuorophenyl
+
+(2E)-7-(Acetoxy)hept-2-enoate (8,
+Scheme 2) (Representative Procedure for Cross-metathesis
+with Pentaﬂuorophenyl Acrylate). To a solution of pentaﬂuor-
+ophenyl acrylate24 (509 mg, 2.14 mmol, 1 equiv) and hex-5-en-1-yl
+acetate25 (304 mg, 2.14 mmol, 1 equiv) in CH2Cl2 (10 mL) was added
+the Grubbs-Hoveyda second generation catalyst (33 mg, 53 μmol,
+0.025 equiv). After 8 h at rt, more Grubbs-Hoveyda catalyst (33 mg,
+53 μmol, 0.025 equiv) was added. After a total of 23 h stirring at rt, the
+reaction mixture was concentrated under reduced pressure. The
+residue was puriﬁed by ﬂash chromatography (petroleum ether/EtOAc
+= 95:5 then 90:10) to aﬀord 612 mg (81%) of α,β-unsaturated ester 8
+(E/Z 96/4) as a pale brown oil. This compound is contaminated by
+the dimer of hex-5-en-1-yl acetate (4.5 wt %, calculated by 1H NMR)
+which could not be separated. IR 1761, 1738, 1649, 1518, 1471, 1366,
+1236, 1127, 1103, 1024, 994 cm−1; 1H NMR (400 MHz, CDCl3) δ
+7.29 (dt, J = 15.7 Hz and J = 6.8 Hz, 1H), 6.09 (dt, J = 15.7 Hz and J =
+1.6 Hz, 1H), 4.11 (t, J = 6.3 Hz, 2H), 2.38 (qdapp, J = 6.8 Hz and J =
+1.6 Hz, 2H), 2.07 (s, 3H), 1.76−1.67 (m, 2H), 1.67−1.58 (m, 2H);
+13C NMR (100 MHz, CDCl3) δ 171.1, 161.9, 154.3, 141.2 (ddqapp,
+1JC−F = 252 Hz, 2JC−F = 12.8 Hz and 3JC−F = 3.6 Hz, 2C), 139.4 (dtt,
+1JC−F = 253 Hz, 2JC−F = 13.6 Hz and 3JC−F = 4.0 Hz), 137.3 (dm, 1JC−F
+∼ 252 Hz, 2C), 125.1 (m), 118.3, 63.9, 32.1, 28.1, 24.2, 20.9; EI−MS
+m/z (relative intensity) 265(1), 252 (1), 237 (1), 183 (1), 169 (M −
+C6F5O+, 5), 155 (2), 127 (81), 109 (12), 81 (100). HRMS calcd for
+C15H13O4F5Na (M + Na+): 375.06262. Found: 375.06251.
+Pentaﬂuorophenyl 7-(Acetoxy)heptanoate (5f, Scheme 2)
+(Representative Procedure for the Hydrogenation of the α,β-
+Unsaturated Ester). To a degassed solution of α,β-unsaturated ester
+8 (306 mg, 0.87 mmol) in EtOAc (9 mL) was added palladium on
+carbon (10 wt %) (23 mg, 22 μmol, 0.025 equiv). The reaction
+mixture was stirred under an atmospheric pressure of hydrogen for 2 h
+at rt, the suspension was then ﬁltered through Celite (EtOAc), and the
+ﬁltrate was concentrated under reduced pressure. The residue was
+puriﬁed by ﬂash chromatography (petroleum ether/Et2O = 95:5 then
+90:10) to aﬀord 277 mg (90%) of ester 5f as a colorless oil. IR 1790,
+1738, 1518, 1469, 1366, 1235, 1082, 1025, 992 cm−1; 1H NMR (400
+</para>
+Scheme 2. Synthesis of 5f and 5g
+<para sub=“exp”>
+∼ 252 Hz, 2C), 139.4 (dm, 1JC−F
+
+MHz, CDCl3) δ 4.07 (t, J = 6.7 Hz, 2H), 2.68 (t, J = 7.4 Hz, 2H), 2.05
+(s, 3H), 1.79 (quintetapp, J = 7.5 Hz, 2H), 1.66 (quintetapp, J = 7.0 Hz,
+2H), 1.51−1.37 (m, 4H); 13C NMR (100 MHz, CDCl3) δ 171.2,
+∼ 253 Hz),
+169.4, 141.1 (dm, 1JC−F
+∼ 252 Hz, 2C), 125.1 (m), 64.3, 33.2, 28.44, 28.36,
+137.8 (dm, 1JC−F
+25.5, 24.6, 21.0; EI−MS m/z (relative intensity) 239 (1), 211 (1), 184
+(2), 183 (2), 171 (M − C6F5O+, 4), 155 (3), 129 (93), 127 (5),112
+(4), 111 (52), 110 (3), 83 (48), 81 (8), 69 (21), 55 (100). HRMS
+calcd for C15H15O4F5Na (M + Na+): 377.07827. Found: 377.07825.
+Pentaﬂuorophenyl (2E)-7-(Benzoyloxy)hept-2-enoate (9, Scheme
+2). Cross-metathesis between pentaﬂuorophenyl acrylate (596 mg,
+2.50 mmol) and hex-5-en-1-yl benzoate26 (511 mg, 2.50 mmol) using
+the Grubbs-Hoveyda second generation catalyst yielded 9 after
+puriﬁcation by ﬂash chromatography (petroleum ether/EtOAc = 95/
+5 then 90/10) as a colorless solid (796 mg, 77%). This compound is
+contaminated by the dimer of hex-5-en-1-yl benzoate (7.7 wt %,
+calculated by 1H NMR) which could not be separated. mp 37−39 °C;
+IR 1764, 1708, 1651, 1518, 1470, 1451, 1335, 1315, 1273, 1140, 1103,
+1071, 1051, 993, 961 cm−1; 1H NMR (400 MHz, CDCl3) δ 8.09−8.01
+(m, 2H), 7.60−7.54 (m, 1H), 7.48−7.42 (m, 2H), 7.31 (dt, J = 15.7
+Hz and J = 6.8 Hz, 1H), 6.10 (dt, J = 15.7 Hz and J = 1.6 Hz, 1H),
+4.37 (t, J = 6.3 Hz, 2H), 2.42 (qdapp, J = 6.8 Hz and J = 1.6 Hz, 2H),
+1.92−1.81 (m, 2H), 1.76−1.67 (m, 2H); 13C NMR (100 MHz,
+∼ 250 Hz, 2C), 139.3
+CDCl3) δ 166.6, 161.9, 154.3, 141.2 (dm, 1JC−F
+∼ 255 Hz, 2C), 132.9, 130.2,
+(dm, 1JC−F
+129.5 (2C), 128.4 (2C), 125.1 (m), 118.4, 64.3, 32.2, 28.3, 24.3.
+HRMS calcd for C20H15O4F5Na (M + Na+): 437.07827. Found:
+437.07830.
+
+∼ 253 Hz), 137.8 (dm, 1JC−F
+
+Pentaﬂuorophenyl 7-(Benzoyloxy)heptanoate (5g, Scheme 2).
+Hydrogenation of α,β-unsaturated ester 9 (400 mg, 0.97 mmol)
+yielded 5g after puriﬁcation by ﬂash chromatography (petroleum
+ether/Et2O = 95:5 then 90:10) as a pale yellow oil (322 mg, 80%). IR
+1789, 1718, 1518, 1469, 1452, 1315, 1272, 1177, 1112, 1082, 1025,
+992, 886, 711 cm−1; 1H NMR (400 MHz, CDCl3) δ 8.07−8.02 (m,
+2H), 7.58−7.53 (m, 1H), 7.47−7.40 (m, 2H), 4.34 (t, J = 6.6 Hz, 2H),
+2.68 (t, J = 7.3 Hz, 2H), 1.87−1.74 (m, 4H), 1.58−1.47 (m, 4H); 13C
+∼ 252 Hz,
+NMR (100 MHz, CDCl3) δ 169.4, 166.6, 141.1 (dm, 1JC−F
+∼ 253 Hz, 2C),
+2C), 139.4 (dm, 1JC−F
+132.8, 130.4, 129.5 (2C), 128.3 (2C), 125.1 (m), 64.8, 33.2, 28.5 (2C),
+25.7, 24.6. HRMS calcd for C20H17O4F5Na (M + Na+): 439.09392.
+Found: 439.09381.
+
+∼ 253 Hz), 137.8 (dm, 1JC−F
+
+Pentaﬂuorophenyl Hex-5-enoate (10). Esteriﬁcation of 5-hexenoic
+acid (685 mg, 6.00 mmol) mediated by EDCI yielded 10 after
+puriﬁcation by ﬂash chromatography (petroleum ether/EtOAc = 96:4)
+as a colorless oil (1.51 g, 90%). IR 1789, 1517, 1470, 1443, 1416, 1368,
+1205, 1087, 1024, 991, 874 cm−1; 1H NMR (400 MHz, CDCl3) δ 5.80
+(ddt, J = 17.1 Hz, J = 10.2 Hz and J = 6.8 Hz, 1H), 5.12−5.02 (m,
+2H), 2.68 (t, J = 7.3 Hz, 2H), 2.19 (qapp, J = 7.3 Hz, 2H), 1.88
+(quintetapp, J = 7.3 Hz, 2H); 13C NMR (100 MHz, CDCl3) δ 169.4,
+141.1 (ddqapp, 1JC−F = 252 Hz, 2JC−F = 12.4 Hz and 3JC−F = 3.6 Hz,
+2C), 139.4 (dtt, 1JC−F = 253 Hz, 2JC−F = 13.6 Hz and 3JC−F = 3.6 Hz),
+∼ 255 Hz, 2C), 136.9, 125.1 (m), 116.0, 32.7, 32.4,
+137.9 (dm, 1JC−F
+23.8; EI−MS m/z (relative intensity) 184 (5), 183 (4), 167 (2), 155
+(11), 136 (4), 117 (7), 97 (M − C6F5O+, 80), 69 (100). The
+molecular ion of this compound is not observed by HRMS due to a
+very low ionization sensitivity.
+
+Pentaﬂuorophenyl 4-(Oxiran-2-yl)butanoate (5h). To a solution
+of ester 10 (300 mg, 1.07 mmol) in CH2Cl2 (5 mL) at 0 °C was added
+</para>
+3305
+
+DOI: 10.1021/acs.joc.5b00039
+J. Org. Chem. 2015, 80, 3302−3308
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+m-CPBA (ca. 75 wt %, 360 mg, 1.61 mmol, 1.5 equiv). After 5 h at rt, a
+25% solution of Na2S2O3 and EtOAc was added. The layers were
+separated, and the organic phase was washed twice with a saturated
+solution of Na2CO3, dried over MgSO4, ﬁltered, and concentrated
+under
+reduced pressure. The residue was puriﬁed by ﬂash
+chromatography (pentane/EtOAc = 90:10 then 85:15) to aﬀord 286
+mg (90%) of epoxide 5h as a colorless oil. IR 1788, 1517, 1415, 1368,
+1204, 1119, 1079, 991 cm−1; 1H NMR (400 MHz, CDCl3) δ 2.97
+(dtdapp, J = 6.8 Hz, J = 4.3 Hz and J = 2.8 Hz, 1H), 2.83−2.70 (m,
+3H), 2.51 (dd, J = 4.9 Hz and J = 2.8 Hz, 1H), 2.05−1.88 (m, 2H),
+1.79 (m, 1H), 1.58 (ddt, J = 14.3 Hz, J = 8.3 Hz and J = 6.8 Hz, 1H);
+13C NMR (100 MHz, CDCl3) δ 169.1, 141.1 (ddqapp, 1JC−F = 251 Hz,
+2JC−F = 12.4 Hz and 3JC−F = 3.6 Hz, 2C), 139.4 (dtt, 1JC−F = 253 Hz,
+∼ 254 Hz, 2C),
+2JC−F = 13.6 Hz and 3JC−F = 4.0 Hz), 137.8 (dm, 1JC−F
+125.0 (m), 51.6, 46.7, 32.8, 31.4, 21.3; EI−MS m/z (relative intensity)
+211 (1), 184 (5), 155 (8), 136 (4), 117 (7), 113 (M − C6F5O+, 23),
+85 (6), 83 (15), 55 (100). HRMS calcd for C12H9O3F5Na (M + Na+):
+319.03641. Found: 319.03602.
+
+Pentaﬂuorophenyl 5-Bromopentanoate (5i). Esteriﬁcation of 5-
+bromopentanoic acid (362 mg, 2.00 mmol) mediated by EDCI yielded
+5i after puriﬁcation by ﬂash chromatography (petroleum ether/EtOAc
+= 95:5 then 90:10) as a colorless oil (587 mg, 85%). IR 1788, 1516,
+1471, 1416, 1362, 1256, 1238, 1142, 1094, 1027 cm−1; 1H NMR (400
+MHz, CDCl3) δ 3.46 (t, J = 6.2 Hz, 2H), 2.73 (t, J = 7.1 Hz, 2H),
+2.05−1.91 (m, 4H); 13C NMR (100 MHz, CDCl3) δ 169.9, 141.1
+(ddqapp, 1JC−F = 252 Hz, 2JC−F = 12.4 Hz and 3JC−F = 3.6 Hz, 2C),
+139.4 (dtt, 1JC−F = 253 Hz, 2JC−F = 13.2 Hz and 3JC−F = 4.0 Hz), 137.8
+∼ 255 Hz, 2C), 125.0 (m), 32.5, 32.3, 31.5, 23.2; EI−MS
+(dm, 1JC−F
+m/z (relative intensity) 267 (M − Br+, 1), 225 (1), 184 (2), 183 (2),
+165 (M81[Br] − C6F5O+, 10), 163 (M79[Br] − C6F5O+, 10), 155 (6),
+137 (8), 135 (9), 117 (4), 55 (100). Anal. Calcd for C11H8BrF5O2: C,
+38.07; H, 2.32. Found: C, 38.17; H, 2.32.
+
+Pentaﬂuorophenyl 5-Hexynoate (5j). Esteriﬁcation of 5-hexynoic
+acid (336 mg, 3.00 mmol) mediated with DCC yielded 5j after
+puriﬁcation by ﬂash chromatography (petroleum ether/EtOAc = 98:2
+then 95:5) as a colorless oil (790 mg, 95%). IR 3310, 1786, 1655,
+1516, 1471, 1370, 1308, 1196, 1099, 1069, 991 cm−1; 1H NMR (400
+MHz, CDCl3) δ 2.84 (t, J = 7.4 Hz, 2H), 2.36 (td, J = 6.9 Hz and J =
+2.6 Hz, 2H), 2.03 (t, J = 2.6 Hz, 1H), 2.00 (quintetapp, J = 7.2 Hz, 2H);
+∼ 252 Hz,
+13C NMR (100 MHz, CDCl3) δ 169.0, 141.1 (dm, 1JC−F
+∼ 254 Hz, 2C),
+2C), 139.4 (dm, 1JC−F
+125.0 (m), 82.4, 69.7, 31.8, 23.3, 17.6; EI−MS m/z (relative intensity)
+250 (1), 216 (1), 184 (4), 183 (3), 155 (6), 117 (4), 95 (M −
+C6F5O+, 100). Anal. Calcd for C12H7F5O2: C, 51.81; H, 2.54. Found:
+C, 51.62; H, 2.62.
+
+∼ 253 Hz), 137.8 (dm, 1JC−F
+
+Pentaﬂuorophenyl 3-(4-Methoxybenzyloxy)butanoate (5k). Es-
+teriﬁcation of 3-(4-methoxybenzyloxy)butanoic acid27 (1.12 g, 5.00
+mmol) mediated by EDCI yielded 5k after puriﬁcation by ﬂash
+chromatography (petroleum ether/EtOAc = 95:5 then 90:10) as a
+colorless solid (1.68 g, 86%). mp 49−51 °C; IR 1785, 1614, 1586,
+1519, 1470, 1459, 1415, 1377, 1367, 1342, 1295, 1246, 1176, 1129,
+1077, 1053, 1033 cm−1; 1H NMR (400 MHz, CDCl3) δ 7.26 (d, J =
+8.7 Hz, 2H), 6.87 (d, J = 8.7 Hz, 2H), 4.54 (d, J = 11.0 Hz, 1H), 4.48
+(d, J = 11.0 Hz, 1H), 4.11 (m, 1H), 3.80 (s, 3H), 2.95 (dd, J = 15.4 Hz
+and J = 7.7 Hz, 1H), 2.76 (dd, J = 15.4 Hz and J = 5.3 Hz, 1H), 1.34
+(d, J = 6.1 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 167.3, 159.2,
+∼ 254 Hz), 137.9
+141.1 (dm, 1JC−F
+∼ 257 Hz, 2C), 130.1, 129.3 (2C), 125.0 (m), 113.8 (2C),
+(dm, 1JC−F
+71.2, 70.8, 55.3, 41.1, 19.7. HRMS calcd for C18H15O4F5Na (M +
+Na+): 413.07827. Found: 413.07877.
+
+∼ 252 Hz, 2C), 139.5 (dm, 1JC−F
+
+1-Methyl Pentaﬂuorophenyl 3-(tert-Butyldimethylsilyloxy)-
+pentanedioate (5l). A solution of 3-(tert-butyldimethylsilyloxy)-
+glutaric anhydride (490 mg, 2.00 mmol) in MeOH (8 mL) was
+heated at reﬂux for 3.5 h. After cooling to rt, the solution was
+concentrated under reduced pressure, the crude acid was diluted in
+CH2Cl2 (10 mL), and pentaﬂuorophenol (443 mg, 2.41 mmol, 1.2
+equiv) was added. The solution was cooled to 0 °C, and EDCI (577
+mg, 3.01 mmol, 1.5 equiv) and DMAP (49 mg, 0.40 mmol, 0.2 equiv)
+were subsequently added. After 4.5 h of stirring at rt, a saturated
+solution of NH4Cl was added, and the mixture was extracted with
+
+EtOAc. The combined organic extracts were dried over MgSO4,
+ﬁltered, and concentrated under reduced pressure. The residue was
+puriﬁed by ﬂash chromatography (petroleum ether/EtOAc = 90:10)
+to aﬀord 724 mg (82%) of ester 5l as a colorless oil. IR 1791, 1740,
+1519, 1472, 1439, 1376, 1256, 1174, 1094, 994 cm−1; 1H NMR (400
+MHz, CDCl3) δ 4.63 (quintetapp, J = 6.2 Hz, 1H), 3.70 (s, 3H), 2.95
+(m, 2H), 2.66 (d, J = 6.2 Hz, 2H), 0.86 (s, 9H), 0.10 (s, 3H), 0.09 (s,
+∼
+3H); 13C NMR (100 MHz, CDCl3) δ 171.1, 168.9, 141.1 (dm, 1JC−F
+∼ 253 Hz,
+252 Hz, 2C), 139.5 (dm, 1JC−F
+2C), 124.9 (m), 65.6, 51.7, 41.8, 41.2, 25.5 (3C), 17.8, −4.97, −5.04.
+HRMS calcd for C18H23O5F5SiNa (M + Na+): 465.11271. Found:
+465.11262.
+
+∼ 254 Hz), 137.9 (dm, 1JC−F
+
+5-{[(3aR,4R,6aR)-2,2-dimethyl-6-oxo-tetrahydro-2H-furo[3,4-d]-
+[1,3]dioxol-4-yl]methoxy}-5-oxopentanoic Acid (5m). To a solution
+of 2,3-O-isopropylidene-D-ribono-1,4-lactone28 (720 mg, 3.83 mmol, 1
+equiv) and glutaric anhydride (873 mg, 7.65 mmol, 2 equiv) in
+CH2Cl2 (8 mL) were added Et3N (1.07 mL, 7.65 mmol, 2 equiv) and
+DMAP (47 mg, 0.38 mmol, 0.1 equiv). The mixture was stirred
+overnight at rt and acidiﬁed to pH 1−2 with a 1 M HCl solution, and
+CH2Cl2 was added. The layers were separated, and the aqueous phase
+was extracted with CH2Cl2. The combined organic extracts were dried
+over MgSO4, ﬁltered, and concentrated under reduced pressure. The
+crude acid was diluted with CH2Cl2 (20 mL), and pentaﬂuorophenol
+(1.41 g, 7.65 mmol, 2 equiv) was added. The solution was cooled to 0
+°C, and EDCI (1.47 g, 7.65 mmol, 2 equiv) and DMAP (93 mg, 0.77
+mmol, 0.2 equiv) were added. After 3 h of stirring at rt, a saturated
+solution of NH4Cl was added, and the mixture was extracted with
+EtOAc. The combined organic extracts were dried over MgSO4,
+ﬁltered, and concentrated under reduced pressure. The residue was
+puriﬁed by ﬂash chromatography (petroleum ether/Et2O 50:50 then
+petroleum ether/EtOAc = 60:40) to aﬀord 1.19 g (66%) of ester 5m
+−27.8 (c 1.88, CHCl3); IR
+as a white solid. mp 109−112 °C; [α]D
+1780, 1745, 1518, 1468, 1414, 1388, 1349, 1322, 1274, 1237, 1220,
+1192, 1152, 1103, 1081, 1058 cm−1; 1H NMR (400 MHz, CDCl3) δ
+4.83−4.75 (m, 2H), 4.72 (d, J = 5.7 Hz, 1H), 4.44 (dd, J = 12.4 Hz
+and J = 3.0 Hz, 1H), 4.26 (dd, J = 12.4 Hz and J = 2.5 Hz, 1H), 2.77
+(tapp, J = 7.1 Hz, 2H), 2.50 (t, J = 7.3 Hz, 2H), 2.09 (quintet, J = 7.3
+Hz, 2H), 1.49 (s, 3H), 1.40 (s, 3H); 13C NMR (100 MHz, CDCl3) δ
+∼ 250 Hz, 2C), 139.5 (dm, 1JC−F
+173.3, 171.4, 168.7, 141.0 (dm, 1JC−F
+∼ 255 Hz, 2C), 124.8 (m), 113.8, 79.4,
+∼ 254 Hz), 137.8 (dm, 1JC−F
+77.7, 75.1, 63.6, 32.2, 32.0, 26.6, 25.4, 19.5. HRMS calcd for
+C19H17O8F5Na (M + Na+): 491.07358. Found: 491.07298.
+Dimethyl (Trimethylsilyl)methylphosphonate (1).29 To a solution
+of diisopropylamine (15 mL, 0.10 mol) in THF (50 mL) at −20 °C
+was added a solution of n-BuLi (40 mL, 2.5 M in hexanes, 0.10 mol).
+The mixture was then cooled to −78 °C, and a solution of dimethyl
+methylphosphonate (6.20 g, 50.0 mmol) in THF (10 mL) was added.
+After 20 min at −78 °C, trimethylsilyl chloride (6.6 mL, 52 mmol) was
+added, and the mixture was warmed to 0 °C over 30 min. The mixture
+was then cooled to −20 °C and acidiﬁed to pH 1 by dropwise addition
+of a 4 M solution of HCl. The layers were separated, and the aqueous
+phase was extracted with Et2O. The combined organic extracts were
+dried over MgSO4, ﬁltered, and concentrated under reduced pressure.
+The residue was puriﬁed by distillation under reduced pressure (bp
+67−70 °C/1 mmHg) to aﬀord 6.51 g (66%) of phosphonate 1 as a
+colorless oil. 1H NMR (400 MHz, CDCl3) δ 3.70 (d, 3JH−P = 11.0 Hz,
+6H), 1.15 (d, 2JH−P = 22.0 Hz, 2H), 0.17 (s, 9H).
+
+General Procedure A: Synthesis of β-Ketophosphonates
+Using Lithiated Dimethyl (Trimethylsilyl)methylphosphonate
+Reagent 2. To a solution of dimethyl (trimethylsilyl)methylphos-
+phonate 1 (135 μL, 0.690 mmol, 2.3 equiv) in THF (1.5 mL) at −78
+°C was added n-BuLi (0.26 mL, 2.5 M in hexanes, 0.66 mmol, 2.2
+equiv). After 30 min of stirring at −78 °C, a solution of ester 5 (0.30
+mmol, 1 equiv) in THF (1.5 mL) was added dropwise. The reaction
+mixture was stirred at −78 °C for 30 min, and a saturated solution of
+NH4Cl was added. The mixture was extracted with EtOAc, and the
+combined organic extracts were dried over MgSO4, ﬁltered, and
+concentrated under reduced pressure. The residue was puriﬁed by
+ﬂash chromatography to aﬀord the desired phosphonate.
+</para>
+3306
+
+DOI: 10.1021/acs.joc.5b00039
+J. Org. Chem. 2015, 80, 3302−3308
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+General Procedure B: Synthesis of β-Ketophosphonates
+Using Lithiated Dimethyl Methylphosphonate Reagent 7. To a
+solution of n-BuLi (0.26 mL, 2.5 M in hexanes, 0.66 mmol, 2.2 equiv)
+in THF (1.5 mL) at −78 °C was added dimethyl methylphosphonate
+(75 μL, 0.69 mmol, 2.3 equiv). After 30 min at −78 °C, a solution of
+activated ester (0.30 mmol, 1 equiv) in THF (1.5 mL) was added
+dropwise. The reaction mixture was stirred for 30 min at −78 °C, and
+a saturated solution of NH4Cl was added. The mixture was extracted
+with EtOAc, and the combined organic extracts were dried over
+MgSO4, ﬁltered, and concentrated under reduced pressure. The
+residue was puriﬁed by ﬂash chromatography to aﬀord the desired
+phosphonate.
+
+Dimethyl (2-Oxo-2-phenylethyl)phosphonate (4).9a Yield 68.2 mg
+(99%) with procedure A (pentane/acetone = 75:25 then 60:40);
+yellow oil. 1H NMR (400 MHz, CDCl3) δ 8.04−7.98 (m, 2H), 7.64−
+7.57 (m, 1H), 7.53−7.46 (tapp, J = 7.4 Hz, 2H), 3.79 (d, 3JH−P = 11.2
+Hz, 6H), 3.65 (d, 2JH−P = 22.6 Hz, 2H).
+Methyl 6-(Dimethoxyphosphoryl)-5-oxohexanoate (6a).30 Yield
+73.6 mg (97%) with procedure A and 33.8 mg (45%) with procedure
+B (pentane/acetone = 60:40 then 40:60); pale yellow oil. 1H NMR
+(400 MHz, CDCl3) δ 3.79 (d, 3JH−P = 11.2 Hz, 6H), 3.67 (s, 3H), 3.09
+(d, 2JH−P = 22.7 Hz, 2H), 2.71 (t, J = 7.1 Hz, 2H), 2.35 (t, J = 7.1 Hz,
+2H), 1.91 (quintet, J = 7.1 Hz, 2H); 13C NMR (100 MHz, CDCl3) δ
+201.0 (d, 2JC−P = 6.4 Hz), 173.4, 53.0 (d, 2JC−P = 6.4 Hz, 2C), 51.5,
+42.8, 41.3 (d, 1JC−P = 128.2 Hz), 32.6, 18.5.
+
+Benzyl 6-(Dimethoxyphosphoryl)-5-oxohexanoate (6b). Yield
+90.8 mg (92%) with procedure A and 49.0 mg (50%) with procedure
+B (petroleum ether/acetone = 70:30 then 50:50); pale yellow oil. IR
+1714, 1497, 1455, 1386, 1253, 1168, 1022 cm−1; 1H NMR (400 MHz,
+CDCl3) δ 7.40−7.30 (m, 5H), 5.11 (s, 2H), 3.77 (d, 3JH−P = 11.3 Hz,
+6H), 3.07 (d, 2JH−P = 22.7 Hz, 2H), 2.69 (t, J = 7.2 Hz, 2H), 2.40 (t, J
+= 7.2 Hz, 2H), 1.93 (quintet, J = 7.2 Hz, 2H); 13C NMR (100 MHz,
+CDCl3) δ 201.0 (d, 2JC−P = 6.4 Hz), 172.8, 135.8, 128.5 (2C), 128.2
+(3C), 66.2, 53.0 (d, 2JC−P = 6.4 Hz, 2C), 42.8, 41.3 (d, 1JC−P = 128.2
+Hz), 32.8, 18.5; EI−MS m/z (relative intensity) 221 (M − BnO+, 31),
+194 (26), 179 (23), 166 (36), 151 (51), 91 (100). HRMS calcd for
+C15H21O6PNa (M + Na+): 351.09680. Found: 351.09624.
+
+Methyl 4-[2-(Dimethoxyphosphoryl)acetyl]benzoate (6c). Yield
+83.2 mg (97%) with procedure A and 34.3 mg (40%) with procedure
+B (petroleum ether/acetone = 70:30 then 60:40); colorless solid: mp
+57−60 °C; IR 2955, 2911, 2849, 1717, 1673, 1572, 1503, 1435, 1420,
+1405, 1260, 1209, 1189, 1140, 1109, 1043, 1019, 1002, 959 cm−1; 1H
+NMR (400 MHz, CDCl3) δ 8.15 (br d, J = 8.7 Hz, 2H), 8.06 (br d, J =
+8.7 Hz, 2H), 3.96 (s, 3H), 3.79 (d, 3JH−P = 11.3 Hz, 6H), 3.67 (d,
+2JH−P = 22.7 Hz, 2H); 13C NMR (100 MHz, CDCl3) δ 191.3 (d, 2JC−P
+= 6.4 Hz), 166.0, 139.4, 134.3, 129.8 (2C), 128.8 (2C), 53.2 (d, 2JC−P
+= 6.8 Hz, 2C), 52.5, 37.8 (d, 1JC−P = 131.4 Hz); EI−MS m/z (relative
+intensity) 286 (M+, 10), 255 (M − MeO+, 8), 226 (6), 198 (6), 190
+(7), 163 (100), 151 (19), 135 (23), 109 (18). HRMS calcd for
+C12H15O6PNa (M + Na+): 309.04985. Found: 309.04940.
+
+Methyl 3-[2-(Dimethoxyphosphoryl)acetyl]benzoate (6d). Yield
+78.1 mg (91%) with procedure A and 38.7 mg (45%) with procedure
+B (petroleum ether/acetone = 60:40); pale yellow oil. IR 2973, 2955,
+2926, 2854, 1722, 1679, 1602, 1467, 1434, 1417, 1287, 1238, 1216,
+1182, 1138, 1113, 1057, 1024, 978 cm−1; 1H NMR (400 MHz,
+CDCl3) δ 8.64 (t, J = 1.8 Hz, 1H), 8.27 (dt, J = 7.8 Hz and J = 1.8 Hz,
+1H), 8.21 (dt, J = 7.8 Hz and J = 1.8 Hz, 1H), 7.59 (t, J = 7.8 Hz, 1H),
+3.97 (s, 3H), 3.80 (d, 3JH−P = 11.3 Hz, 6H), 3.70 (d, 2JH−P = 22.7 Hz,
+2H); 13C NMR (100 MHz, CDCl3) δ 191.0 (d, 2JC−P = 6.8 Hz), 166.0,
+136.5, 134.5, 133.0, 130.8, 130.0, 129.0, 53.2 (d, 2JC−P = 6.8 Hz, 2C),
+52.4, 37.5 (d, 1JC−P = 131.4 Hz); EI−MS m/z (relative intensity) 255
+(M − MeO+, 3), 226 (13), 190 (3), 163 (100), 151 (12), 135 (26),
+119 (14), 109 (21). HRMS calcd for C12H15O6PNa (M + Na+):
+309.04985. Found: 309.04926.
+
+Dimethyl
+
+[2-Oxo-4-(5-oxotetrahydrofuran-2-yl)butyl]phos-
+phonate (6e). Yield 49.4 mg (62%) with procedure A and 22.5 mg
+(28%) with procedure B (petroleum ether/acetone = 70:30 then
+60:40); pale yellow oil. IR 2957, 2922, 2853, 1765, 1713, 1517, 1460,
+1409, 1350, 1250, 1178, 1018 cm−1; 1H NMR (400 MHz, CDCl3) δ
+4.51 (m, 1H), 3.80 (d, 3JH−P = 11.2 Hz, 6H), 3.12 (d, 2JH−P = 22.7 Hz,
+
+2H), 2.84 (t, J = 7.3 Hz, 2H), 2.58−2.51 (m, 2H), 2.42−2.32 (m, 1H),
+2.03 (m, 1H), 1.94−1.80 (m, 2H); 13C NMR (100 MHz, CDCl3) δ
+200.6 (d, 2JC−P = 6.4 Hz), 176.8, 79.5, 53.1 (d, 2JC−P = 6.8 Hz, 2C),
+37.5 (d, 1JC−P = 128.6 Hz), 39.8, 29.1, 28.7, 27.9; HRMS calcd for
+C10H17O6PNa (M + Na+): 287.06550. Found: 287.06531.
+
+8-(Dimethoxyphosphoryl)-7-oxooctyl Acetate (6f). Yield 71.5 mg
+(81%) with procedure A and 38.1 mg (43%) with procedure B
+(pentane/acetone = 65:35 then 50:50); yellow oil. IR 1733, 1715,
+1462, 1367, 1239, 1184, 1023 cm−1; 1H NMR (400 MHz, CDCl3) δ
+4.04 (t, J = 6.7 Hz, 2H), 3.79 (d, 3JH−P = 11.2 Hz, 6H), 3.09 (d, 2JH−P
+= 22.7 Hz, 2H), 2.63 (t, J = 7.2 Hz, 2H), 2.05 (s, 3H), 1.67−1.54 (m,
+4H), 1.41−127 (m, 4H); 13C NMR (100 MHz, CDCl3) δ 201.8 (d,
+2JC−P = 6.0 Hz), 171.1, 64.3, 53.0 (d, 2JC−P = 6.8 Hz, 2C), 43.9, 41.2 (d,
+1JC−P = 127.8 Hz), 28.4, 28.3, 25.6, 23.1, 20.9; EI−MS m/z (relative
+intensity) 235 (M − OAc+, 2), 234 (2), 221 (1), 207 (1), 193 (2), 179
++, 100), 151 (M −
+(M − C6H11O2
++, 79), 147 (8), 124 (100), 119 (9), 109 (43). HRMS calcd
+C8H15O2
+for C12H23O6PNa (M + Na+): 317.11245. Found: 317.11184.
+
++, 19), 166 (M − C7H12O2
+
+8-(Dimethoxyphosphoryl)-7-oxooctyl Benzoate (6g). Yield 101.3
+mg (95%) with procedure A and 74.4 mg (70%) with procedure B
+(petroleum ether/acetone = 60:40 then 50:50); yellow oil. IR 1713,
+1601, 1452, 1399, 1315, 1271, 1177, 1113, 1024 cm−1; 1H NMR (400
+MHz, CDCl3) δ 8.07−8.01 (m, 2H), 7.56 (m, 1H), 7.48−7.41 (br t, J
+= 7.3 Hz, 2H), 4.31 (t, J = 6.7 Hz, 2H), 3.79 (d, 3JH−P = 11.2 Hz, 6H),
+3.09 (d, 2JH−P = 22.7 Hz, 2H), 2.63 (t, J = 7.3 Hz, 2H), 1.77
+(quintetapp, J = 6.7 Hz, 2H), 1.62 (quintet, J = 7.3 Hz, 2H), 1.51−1.42
+(m, 2H), 1.41−1.32 (m, 2H); 13C NMR (100 MHz, CDCl3) δ 201.8
+(d, 2JC−P = 6.0 Hz), 166.6, 132.8, 130.4, 129.5 (2C), 128.3 (2C), 64.8,
+53.0 (d, 2JC−P = 6.4 Hz, 2C), 43.9, 41.2 (d, 1JC−P = 128.2 Hz), 28.5
+(2C), 25.8, 23.1. HRMS calcd for C17H25O6PNa (M + Na+):
+379.12810. Found: 379.12770.
+
+Dimethyl [5-(Oxiran-2-yl)-2-oxopentyl]phosphonate (6h). Yield
+68.0 mg (96%) with procedure A and 68.4 mg (98%) with procedure
+B (petroleum ether/acetone = 60:40 then 40:60); yellow oil. IR 1713,
+1457, 1406, 1374, 1253, 1020 cm−1; 1H NMR (400 MHz, CDCl3) δ
+3.79 (d, 3JH−P = 11.2 Hz, 6H), 3.10 (d, 2JH−P = 22.7 Hz, 2H), 2.91
+(dtd, J = 6.8 Hz, J = 4.3 Hz and J = 2.8 Hz, 1H), 2.75 (dd, J = 4.9 Hz
+and J = 4.3 Hz, 1H), 2.71 (t, J = 6.9 Hz, 2H), 2.47 (dd, J = 4.9 Hz and
+J = 2.8 Hz, 1H), 1.82−1.71 (m, 2H), 1.68−1.58 (m, 1H), 1.48
+(quintetapp, J = 6.9 Hz, 1H); 13C NMR (100 MHz, CDCl3) δ 201.3 (d,
+2JC−P = 6.4 Hz), 53.0 (d, 2JC−P = 6.4 Hz, 2C), 51.8, 46.7, 43.4, 41.3 (d,
+1JC−P = 128.2 Hz), 31.4, 19.7; EI−MS m/z (relative intensity) 166 (M
+− C4H6O+, 14), 151 (M − C5H9O+, 100), 124 (84), 109 (94). HRMS
+calcd for C9H17O5PNa (M + Na+): 259.07058. Found: 259.06989.
+
+Dimethyl (6-Bromo-2-oxohexyl)phosphonate (6i). Yield 79.7 mg
+(93%) with procedure A and 69.4 mg (81%) with procedure B
+(petroleum ether/acetone = 60:40 then 40:60); yellow oil. IR 1713,
+1449, 1403, 1373, 1253, 1183, 1021 cm−1; 1H NMR (400 MHz,
+CDCl3) δ 3.79 (d, 3JH−P = 11.2 Hz, 6H), 3.41 (t, J = 6.6 Hz, 2H), 3.10
+(d, 2JH−P = 22.9 Hz, 2H), 2.67 (t, J = 6.9 Hz, 2H), 1.91−1.83 (m, 2H),
+1.79−1.70 (m, 2H); 13C NMR (100 MHz, CDCl3) δ 201.2 (d, 2JC−P =
+6.0 Hz), 53.0 (d, 2JC−P = 6.4 Hz, 2C), 42.8, 41.3 (d, 1JC−P = 128.2 Hz),
+33.1, 31.6, 21.8; EI−MS m/z (relative intensity) 207 (M − Br+, 41),
+179 (26), 151 (M − C4H8Br+, 96), 124 (52), 119 (17), 109 (100), 94
+(64), 79 (69). HRMS calcd for C8H16O4BrPNa (M79[Br]+Na+):
+calcd for C8H16O4BrPNa
+308.98618. Found: 308.98630;
+(M81[Br]+Na+), 310.98413. Found: 310.98348.
+
+(2-Oxohept-6-yn-1-yl)phosphonate (6j).31 Yield 58.9
+mg (90%) with procedure A and 53.7 mg (82%) with procedure B
+(petroleum ether/acetone = 60:40); pale yellow oil. 1H NMR (400
+MHz, CDCl3) δ 3.80 (d, 3JH−P = 11.3 Hz, 6H), 3.11 (d, 2JH−P = 22.7
+Hz, 2H), 2.78 (t, J = 6.9 Hz, 2H), 2.24 (td, J = 6.9 Hz and J = 2.6 Hz,
+2H), 1.97 (t, J = 2.6 Hz, 1H), 1.81 (quintet, J = 6.9 Hz, 2H); 13C
+NMR (100 MHz, CDCl3) δ 201.2 (d, 2JC−P = 6.8 Hz), 83.4, 69.1, 53.1
+(d, 2JC−P = 6.4 Hz, 2C), 42.5, 41.4 (d, 1JC−P = 128.2 Hz), 22.0, 17.5.
+{4-[(4-Methoxyphenyl)methoxy]-2-oxopentyl}phos-
+phonate (6k). Yield 89.7 mg (91%) with procedure A and 84.0 mg
+(82%) with procedure B (petroleum ether/acetone = 70:30 then
+50:50); pale yellow oil. IR 1713, 1613, 1514, 1462, 1374, 1301, 1246,
+1177, 1137, 1111, 1022 cm−1; 1H NMR (400 MHz, CDCl3) δ 7.23 (br
+
+Dimethyl
+
+Dimethyl
+</para>
+3307
+
+DOI: 10.1021/acs.joc.5b00039
+J. Org. Chem. 2015, 80, 3302−3308
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+d, J = 8.6 Hz, 2H), 6.86 (br d, J = 8.6 Hz, 2H), 4.50 (d, J = 11.1 Hz,
+1H), 4.38 (d, J = 11.1 Hz, 1H), 4.02 (m, 1H), 3.79 (s, 3H), 3.77 (d,
+3JH−P = 11.2 Hz, 3H), 3.76 (d, 3JH−P = 11.2 Hz, 3H), 3.12 (dd, 2JH−P =
+22.6 Hz and J = 18.7 Hz, 1H), 3.09 (dd, 2JH−P = 22.6 Hz and J = 18.7
+Hz, 1H), 2.90 (dd, J = 16.2 Hz and J = 7.5 Hz, 1H), 2.69 (dd, J = 16.2
+Hz and J = 5.1 Hz, 1H), 1.23 (d, J = 6.2 Hz, 3H); 13C NMR (100
+MHz, CDCl3) δ 200.5 (d, 2JC−P = 6.4 Hz), 159.1, 130.4, 129.3 (2C),
+113.7 (2C), 71.0, 70.4, 55.2, 53.0 (d, 2JC−P = 6.4 Hz, 2C), 50.9, 42.1
+(d, 1JC−P = 127.8 Hz), 19.6. HRMS calcd for C15H23O6PNa (M +
+Na+): 353.11245. Found: 353.11161.
+
+Methyl 3-[(tert-Butyldimethylsilyl)oxy]-6-(dimethoxyphosphoryl)-
+5-oxohexanoate (6l). Yield 58.7 mg (51%) with procedure A and 46.9
+mg (41%) with procedure B (petroleum ether/acetone = 60:40 then
+50:50); yellow oil. IR 1737, 1717, 1463, 1438, 1373, 1253, 1184 cm−1;
+1H NMR (400 MHz, CDCl3) δ 4.56 (quintetapp, J = 6.1 Hz, 1H), 3.793
+(d, 3JH−P = 11.2 Hz, 3H), 3.789 (d, 3JH−P = 11.2 Hz, 3H), 3.67 (s, 3H),
+3.12 (d, 2JH−P = 22.6 Hz, 2H), 2.89 (d, J = 6.1 Hz, 2H), 2.55 (dd, J =
+15.0 Hz and J = 5.7 Hz, 1H), 2.47 (dd, J = 15.0 Hz and J = 6.3 Hz,
+1H), 0.84 (s, 9H), 0.07 (s, 3H), 0.06 (s, 3H); 13C NMR (100 MHz,
+CDCl3) δ 199.9 (d, 2JC−P = 6.4 Hz), 171.3, 65.3, 53.00 (d, 2JC−P = 6.0
+Hz), 52.95 (d, 2JC−P = 6.0 Hz), 51.5, 51.0, 42.3 (d, 1JC−P = 128.2 Hz),
+42.1, 25.6 (3C), 17.8, −4.9, −5.1. HRMS calcd for C15H31O7PSiNa (M
++ Na+): 405.14689. Found: 405.14676.
+
+[(3aR,4R,6aR)-2,2-Dimethyl-6-oxo-tetrahydro-2H-furo[3,4-d]-
+[1,3]dioxol-4-yl]methyl 6-(dimethoxyphosphoryl)-5-oxohexanoate
+(6m). Yield 57.0 mg (47%) with procedure A (petroleum ether/
+−34.3 (c 1.34, CHCl3);
+acetone = 60:40 then 50:50); yellow oil. [α]D
+IR 1786, 1741, 1714, 1456, 1378, 1242, 1176, 1152, 1081, 1023 cm−1;
+1H NMR (400 MHz, CDCl3) δ 4.81 (d, J = 5.7 Hz, 1H), 4.78 (tapp, J =
+2.7 Hz, 1H), 4.74 (d, J = 5.7 Hz, 1H), 4.40 (dd, J = 12.4 Hz and J = 2.8
+Hz, 1H), 4.23 (dd, J = 12.4 Hz and J = 2.4 Hz, 1H), 3.792 (d, 3JH−P =
+11.2 Hz, 3H), 3.788 (d, 3JH−P = 11.2 Hz, 3H), 3.10 (d, 2JH−P = 22.7
+Hz, 2H), 2.78−2.63 (m, 2H), 241−2.32 (m, 2H), 1.89 (quintetapp, J =
+7.1 Hz, 2H), 1.49 (s, 3H), 1.40 (s, 3H); 13C NMR (100 MHz, CDCl3)
+δ 200.9 (d, 2JC−P = 6.4 Hz), 173.5, 171.9, 113.7, 79.5, 77.7, 75.1, 63.4,
+53.1 (d, 2JC−P = 6.8 Hz), 53.0 (d, 2JC−P = 7.6 Hz), 42.4, 41.3 (d, 1JC−P
+= 127.4 Hz), 32.5, 26.6, 25.5, 18.2. HRMS calcd for C16H25O10PNa
+(M + Na+): 431.10775. Found: 431.10746.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Copies of 1H and 13C NMR spectra for all new compounds.
+This material
+is available free of charge via the Internet at
+http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Authors
+*(S.S.) E-mail: simon.specklin@espci.fr.
+*(J.C.) E-mail: janine.cossy@espci.fr.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ REFERENCES
+(1) (a) Horner, L.; Hoffmann, H.; Wippel, H. Chem. Ber. 1958, 91,
+61−63. (b) Wadsworth, W. S.; Emmons, W. D. J. Am. Chem. Soc.
+1961, 83, 1733−1738. (c) Boutagy, J.; Thomas, R. Chem. Rev. 1974,
+74, 87−99. (d) Maryanoff, B. E.; Reitz, A. B. Chem. Rev. 1989, 89,
+863−927. (e) Edmonds, M.; Abell, A. In Modern Carbonyl Olefination;
+Takeda, T., Ed.; Wiley-VCH Verlag GmbH & Co. KGaA: Weinheim,
+Germany, 2003; pp 1−17.
+(2) (a) Bisceglia, J. A.; Orelli, L. R. Curr. Org. Chem. 2012, 16, 2206−
+2230. (b) Nicolaou, K. C.; Härter, M. W.; Gunzner, J. L.; Nadin, A.
+Liebigs Ann./Recl. 1997, 1283−1301.
+For selected examples, see
+(c) Uenishi, J.; Iwamoto, T.; Tanaka, J. Org. Lett. 2009, 11, 3262−
+3265. (d) Shing, T. K. M.; Cheng, H. M. J. Org. Chem. 2007, 72,
+6610−6613. (e) Nicolaou, K. C.; Aversa, R. J.; Jin, J.; Rivas, F. J. Am.
+Chem. Soc. 2010, 132, 6855−6861. (f) Paterson, I.; Burton, P. M.;
+
+Note
+
+Cordier, C. J.; Housden, M. P.; Mühlthau, F. A.; Loiseleur, O. Org.
+Lett. 2009, 11, 693−696.
+(3) (a) Michaelis, A.; Kaehne, R. Chem. Ber. 1898, 31, 1048−1055.
+J. Russ. Phys. Chem. Soc. 1906, 38, 687.
+(b) Arbuzov, A. E.
+(c) Bhattacharya, A. K.; Thyagarajan, G. Chem. Rev. 1981, 81, 415−
+430. For recent exemples, see (d) Ho, S.; Bucher, C.; Leighton, J. L.
+Angew. Chem., Int. Ed. 2013, 52, 6757−6761. (e) Rajeshwaran, G. G.;
+Nandakumar, M.; Sureshbabu, R.; Mohanakrishnan, A. K. Org. Lett.
+2011, 13, 1270−1273. (f) Perumal, S. K.; Adediran, S. A.; Pratt, R. F.
+Bioorg. Med. Chem. 2008, 16, 6987−6994. (g) Mandal, M.; Yun, H.;
+Dudley, G. B.; Lin, S.; Tan, D. S.; Danishefsky, S. J. J. Org. Chem. 2005,
+70, 10619−10637.
+(4) Teulade, M. P.; Savignac, P.; Aboujaoude, E. E.; Collignon, N. J.
+Organomet. Chem. 1986, 312, 283−295.
+(5) Yasuda, N.; Hsiao, Y.; Jensen, M. S.; Rivera, N. R.; Yang, C.;
+Wells, K. M.; Yau, J.; Palucki, M.; Tan, L.; Dormer, P. G.; Volante, R.
+P.; Hughes, D. L.; Reider, P. J. J. Org. Chem. 2004, 69, 1959−1966.
+(6) Mathey, F.; Savignac, P. Tetrahedron 1978, 34, 649−654.
+(7) Blades, K.; Lequeux, T. P.; Percy, J. M. Tetrahedron 1997, 53,
+10623−10632.
+(8) Orsini, F.; Di Teodoro, E.; Ferrari, M. Synthesis 2002, 1683−
+1688.
+(9) (a) Maloney, K. M.; Chung, J. Y. L. J. Org. Chem. 2009, 74,
+7574−7576. (b) Milburn, R. R.; McRae, K.; Chan, J.; Tedrow, J.;
+Larsen, R.; Faul, M. Tetrahedron Lett. 2009, 50, 870−872.
+(10) Corbel, B.; L’hostis-Kervella, I.; Haelters, J.-P. Synth. Commun.
+2000, 30, 609−618.
+(11) Wei, W.; Ji, J. Angew. Chem., Int. Ed. 2011, 50, 9097−9099.
+(12) Holmquist, C. R.; Roskamp, E. J. Tetrahedron Lett. 1992, 33,
+1131−1134.
+(13) Jackson, K. L.; Henderson, J. A.; Motoyoshi, H.; Phillips, A. J.
+Angew. Chem., Int. Ed. 2009, 48, 2346−2350.
+(14) Wetzel, D. M.; Brauman, J. I. J. Am. Chem. Soc. 1988, 110,
+8333−8336.
+(15) (a) Iorga, B.; Savignac, P. Synlett 2001, 447−457.
+(b) Aboujaoude, E. E.; Liétjé, S.; Collignon, N.; Teulade, M. P.;
+Savignac, P. Synthesis 1986, 934−937. (c) Savignac, P.; Teulade, M.-P.;
+Collignon, N. J. Organomet. Chem. 1987, 323, 135−144.
+(16) Peterson, D. J. J. Org. Chem. 1968, 33, 780−784.
+(17) Hong, S.; Chang, K.; Ku, B.; Oh, D. Y. Tetrahedron Lett. 1989,
+30, 3307−3308.
+(18) Umezawa, T.; Seino, T.; Matsuda, F. Org. Lett. 2012, 14, 4206−
+4209.
+(19) Menche, D.; Hassfeld, J.; Li, J.; Mayer, K.; Rudolph, S. J. Org.
+Chem. 2009, 74, 7220−7229.
+(20) Zaramella, S.; Strömberg, R.; Yeheskiely, E. Eur. J. Org. Chem.
+2002, 2633−2639.
+(21) Babadzhanova, L. A.; Kirij, N. V.; Yagupolskii, Y. L.; Tyrra, W.;
+Naumann, D. Tetrahedron 2005, 61, 1813−1819.
+(22) Peng, L.; DeSousa, J.; Su, Z.; Novak, B. M.; Nevzorov, A. A.;
+Garland, E. R.; Melander, C. Chem. Commun. 2011, 47, 4896−4898.
+(23) Grayson, D. H.; McCarthy, Ú.; Roycroft, E. D. Org. Biomol.
+Chem. 2003, 1, 1930−1937.
+(24) Jochum, F. D.; Theato, P. Macromolecules 2009, 42, 5941−5945.
+(25) Vilaça, G.; Rubio, C.; Susperregui, J.; Latxague, L.; Déléris, G.
+Tetrahedron 2002, 58, 9249−9256.
+(26) Schleicher, K. D.; Jamison, T. F. Org. Lett. 2007, 9, 875−878.
+(27) Eh, M.; Schomburg, D.; Schicht, K.; Kalesse, M. Tetrahedron
+1995, 51, 8983−8992.
+(28) Bennis, K.; Calinaud, P.; Gelas, J.; Ghobsi, M. Carbohydr. Res.
+1994, 264, 33−44.
+(29) Hamada, A.; Braunstein, P. Organometallics 2009, 28, 1688−
+1696.
+(30) Wenkert, E.; Guo, M.; Lavilla, R.; Porter, B.; Ramachandran, K.;
+Sheu, J. H. J. Org. Chem. 1990, 55, 6203−6214.
+(31) Batsomboon, P.; Gold, B.; Alabugin, I.; Dudley, G. Synthesis
+2012, 1818−1824.
+
+3308
+
+DOI: 10.1021/acs.joc.5b00039
+J. Org. Chem. 2015, 80, 3302−3308
+
+

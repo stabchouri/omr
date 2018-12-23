@@ -1,0 +1,1474 @@
+Article
+
+pubs.acs.org/joc
+
+Intermolecular Reductive Coupling of Esters with Benzophenones by
+Low-Valent Titanium: Synthesis of Diarylmethyl Ketones Revisited
+Naoki Kise* and Toshihiko Sakurai
+
+Department of Chemistry and Biotechnology, Graduate School of Engineering, Tottori University, 4-101, Koyama-cho Minami,
+Tottori 680-8552, Japan
+*S Supporting Information
+
+ABSTRACT: The reductive coupling of aliphatic esters with
+benzophenones by Zn−TiCl4 in THF gave two- and four-electron
+reduced products, diaryl(hydroxy)methyl ketones, and diarylmethyl
+ketones selectively by controlling the reaction conditions. In the
+reaction of aromatic esters with benzophenones, diarylmethyl
+ketones were obtained as the sole products. N-(Alkoxycarbonyl)-(S)-α-amino acid methyl esters gave optically active
+diphenylmethyl ketones by reduction with benzophenone. The obtained diphenylmethyl ketones were transformed to 4,5-cis-
+disubstituted oxazolidin-2-ones stereoselectively.
+
+■ INTRODUCTION
+
+Reductive cross-coupling of carboxylic acid derivatives with
+ketones is a potent tool for the reductive acylation of ketones to
+synthesize larger ketones. Of the carboxylic acid derivatives,
+esters are the most convenient substrates since they are readily
+accessible and relatively inert. The reductive cross-coupling of
+esters with ketones have been realized using low-valent
+titanium as a reducing agent.1 In these cases, the products
+were four-electron reduced ketones (Scheme 1).2 On the other
+
+Scheme 1. Reductive Coupling of Esters with Ketones
+
+3 and
+hand, this type of coupling was also eﬀected with SmI2
+electroreduction4 to give two-electron reduced α-hydroxy
+ketones. Recently, we reported the reductive coupling of 1,3-
+dimethyluracils, N-methoxycarbonyl
+lactams, and aliphatic
+cyclic imides with benzophenones by low-valent
+titanium
+generated from Zn−TiCl4 and found that
+two- and four-
+electron reduced products were both obtained selectively by
+controlling the reaction conditions.5 These results prompted us
+to reinvestigate the reductive coupling of esters with
+benzophenones by low-valent
+In this paper, we
+the reductive coupling of aliphatic esters and
+report
+lactones with benzophenones by Zn−TiCl4 gave two- and four-
+electron reduced products, diaryl(hydroxy)methyl ketones, and
+diarylmethyl ketones selectively by controlling the reaction
+conditions; meanwhile,
+the reductive coupling of aromatic
+esters with benzophenones aﬀorded only four-electron reduced
+diarylmethyl ketones (Scheme 2).6−8 These results show that
+this reductive coupling provides a useful method for the
+preparation of diarylmethyl ketones. The synthesis of diary-
+lmethyl ketones still attracts much attention since these
+
+titanium.
+
+that
+
+Scheme 2. Reductive Coupling of Esters with
+Benzophenones by Zn−TiCl4
+
+compounds are found in various natural and artiﬁcial
+materials.9,10 In addition, we employed N-(methoxycarbonyl)-
+α-amino acid methyl esters as aliphatic esters to extend the
+scope of the reductive coupling of esters with benzophenones.
+From the obtained diphenylmethyl ketones, optically active 4,5-
+cis-disubstituted oxazolidin-2-ones11 were prepared by stereo-
+selective reduction and following cyclization of
+resulting
+alcohols (Scheme 3).
+
+■ RESULTS AND DISCUSSION
+<para sub=“opt”>
+1. Reductive Coupling of Aliphatic Esters with
+Benzophenones by Zn−TiCl4. The reaction conditions of
+</para>
+Scheme 3. Reductive Coupling of Amino Acid Methyl Esters
+with Benzophenone and Transformation to Optically Active
+4,5-Cis-Disubstituted Oxazolidin-2-ones
+
+Received:
+Published: March 6, 2015
+
+January 15, 2015
+
+© 2015 American Chemical Society
+
+3496
+
+DOI: 10.1021/acs.joc.5b00102
+J. Org. Chem. 2015, 80, 3496−3503
+
+The Journal of Organic Chemistry
+<para sub=“opt”>
+the reductive coupling were examined using methyl propionate
+(1a) and benzophenone (2a) as the substrates and the results
+are summarized in Table 1. Since 2a is more valuable than 1a,
+</para>
+Table 1. Reductive Coupling of 1a with 2a by Zn−TiCl4
+
+Article
+Table 2. Reductive Coupling of Aliphatic Esters 1b−f with 2a
+by Zn−TiCl4
+
+% yieldb
+
+run
+1
+2
+3
+4
+5
+6
+
+7
+
+1
+2
+3
+2
+2
+2
+
+2
+
+1a (mmol) TiCl4
+
+a (mmol)
+1
+1
+1
+2
+2
+2
+
+2
+
+temp (°C)
+
+time (h)
+
+25
+25
+25
+50
+25
+25
+50
+25
+50
+
+2
+2
+2
+2
+12
+2
+2
+2
+6
+
+% yieldb
+3a
+4a
+2
+64
+6
+72
+5
+70
+45
+5
+41
+28
+77
+6
+
+80
+
+aZn/TiCl4 = 2/1. bIsolated yields based on 2a.
+
+further
+<para sub=“opt”>
+the product yields based on 2a were optimized. In the previous
+reports,2 the reductions were performed with more than 2
+equiv of low-valent titanium in reﬂuxing THF. Therefore, we
+initially investigated the reductive coupling of 1a with 2a using
+equimolar amounts of low-valent titanium at ambient temper-
+ature. The molar ratio of Zn/TiCl4 was ﬁxed to 2/1 throughout
+this study. First, the reaction was carried out with a molar ratio
+of 1a/2a/TiCl4 of 1/1/1 in THF at 25 °C for 2 h, and then 1-
+hydroxy-1,1-diphenylbutan-2-one (3a) was obtained as the
+two-electron reduced product in 64% yield together with a
+small amount (2%) of
+reduced product 1,1-
+diphenylbutan-2-one (4a) (run 1). The yield of 3a increased
+to 72% and 70% with an increased molar ratio of 1a/2a from 1/
+1 to 2/1 and 3/1, respectively (runs 2 and 3). These results
+show that the 2/1 molar ratio of 1a/2a was suﬃcient to obtain
+3a. Next, to obtain 4a predominantly, the reaction was carried
+out with a molar ratio of 1a/2a/TiCl4 as 2/1/2 at 50 °C for 2 h
+(run 4). Although the yield of 4a (45%) was much higher than
+that of 3a (5%), a considerable amount (40%) of homocoupled
+product of 2a, 1,1,2,2-tetraphenylethene, was formed at this
+temperature. Nevertheless, the further reduction to 4a seemed
+to be slow at 25 °C (run 5). Thus, the reaction was performed
+at 25 °C for 2 h and then continued at 50 °C for 2 h (run 6).
+The desired 4a was produced in 77% yield with a small amount
+of 3a (6%). Furthermore, the prolonged reaction time (6 h) at
+50 °C completed the reduction of 3a to 4a (80%) (run 7).
+</para>
+<para sub="scope">
+The reductive coupling of aliphatic acid methyl esters 1b−f
+with 2a was carried out under the same conditions as runs 2
+and 7 (conditions a and b) in Table 1 (Table 2). In all cases,
+the two- and four-electron reduced products, 3b−f and 4b−f,
+were produced selectively by choosing between the conditions
+a and b.
+</para>
+<para sub="scope">
+In addition, the reductive coupling of γ-butyrolactone (1g)
+with 2a under conditions a mainly gave ring-opening γ-hydroxy
+ketone 3g, while the reduction under conditions b yielded
+cyclic enol ether 5 as the major product (Scheme 4). In these
+cases, the four-electron reduced product was obtained as 5
+probably due to the stability of ﬁve-membered cyclic enol ether.
+On the other hand, the reactions of δ-valerolactone (1h) and ε-
+</para>
+R
+
+3
+87
+
+73
+
+66
+
+71
+
+75
+
+conditionsa
+
+a
+b
+a
+b
+a
+b
+a
+b
+a
+b
+
+1
+1b
+1b
+1c
+1c
+1d
+1d
+1e
+1e
+1f
+1f
+
+run
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+CH3
+CH3
+n-C3H7
+n-C3H7
+(CH3)2CHCH2
+(CH3)2CHCH2
+i-C3H7
+i-C3H7
+PhCH2
+PhCH2
+
+4
+4
+77
+8
+67
+5
+70
+4
+68
+10
+82
+aConditions: (a) 2a/Zn/TiCl4 = 1/2/1, 25 °C (2 h), (b) 2a/Zn/TiCl4
+= 1/4/2, 25 °C (2 h) and then 50 °C (6 h). bIsolated yields based on
+2a.
+Scheme 4. Electroreductive Coupling of 1g with 2a by Zn−
+TiCl4
+
+b
+b
+c
+c
+d
+d
+e
+e
+f
+f
+<para sub="scope">
+caprolactone (1i) with 2a under conditions a and b aﬀorded
+ring-opening δ-hydroxy ketones 3h and 4h and ε-hydroxy
+ketones 3i and 4i, respectively (Table 3). Since 1h and 1i were
+reactive substrates for the reductive coupling with 2a, the
+reaction proceeded even at 0 °C to give 3h and 3i
+</para>
+Table 3. Reductive Coupling of Lactones 1h,i with 2a by
+Zn−TiCl4
+
+run
+1
+2
+3
+4
+5
+6
+
+1
+1h
+1h
+1h
+1i
+1i
+1i
+
+conditionsa
+
+a
+ac
+b
+a
+ac
+b
+
+% yieldb
+
+3
+57
+74
+
+69
+76
+
+4
+4
+
+52
+6
+
+58
+
+h
+h
+h
+i
+i
+i
+
+aConditions: (a) 2a/Zn/TiCl4 = 1/2/1, 25 °C (2 h); (b) 2a/Zn/
+TiCl4 = 1/4/2, 25 °C (2 h) and then 50 °C (6 h). bIsolated yields
+based on 2a. c0 °C (6 h).
+
+3497
+
+DOI: 10.1021/acs.joc.5b00102
+J. Org. Chem. 2015, 80, 3496−3503
+
+The Journal of Organic Chemistry
+<para sub="scope">
+predominantly in 74% and 76% yields, respectively (runs 2 and
+5).
+</para>
+<para sub="scope">
+In place of 2a, other benzophenones 2b−d also reacted with
+1a, and the results are summarized in Table 4. Under
+</para>
+Table 4. Reductive Coupling of 1a with Benzophenones 2b−
+d by Zn−TiCl4
+
+run
+1
+2
+3
+4
+5
+6
+7
+
+2
+2b
+2b
+2c
+2c
+2d
+2d
+2d
+
+conditionsa
+
+a
+b
+a
+b
+a
+ac
+b
+
+% yieldb
+
+3
+38
+
+57
+
+27
+29
+
+4
+10
+45
+4
+52
+40
+55
+63
+
+j
+j
+k
+k
+l
+l
+l
+
+aConditions: (a) 2/Zn/TiCl4 = 1/2/1, 25 °C (2 h); (b) 2/Zn/TiCl4 =
+1/4/2, 25 °C (2 h) and then 50 °C (6 h). bIsolated yields based on 2.
+c0 °C (12 h).
+<para sub="scope">
+conditions a, diaryl(hydroxy)methyl ketones 3j and 3k were
+mainly formed (runs 1 and 3), whereas 3l was the minor
+product and further reduced ketone 4l was the major product
+(run 5). Unexpectedly, the reaction at 0 °C also gave 4l as the
+major product (run 6). These results show that the further
+reduction of 3l to 4l proceeded even at 0 °C. Under conditions
+b, diarylmethyl ketones 4j−l were obtained selectively in
+moderate yields (runs 2, 4, and 7).
+</para>
+<para sub=“opt”>
+2. Reductive Coupling of Aromatic Esters with
+Benzophenones by Zn−TiCl4. Methyl benzoate (6a) was
+employed as an aromatic ester to survey the reaction conditions
+the reductive coupling with 2a and the results are
+for
+summarized in Table 5. The yields of the products were
+calculated on the basis of 6a, since aromatic esters are usually
+more valuable than benzophenones. First, the reaction was
+carried out with the molar ratio of 6a/2a/TiCl4 as 1/1/1 in
+</para>
+Table 5. Reductive Coupling of 6a with 2a by Zn−TiCl4
+
+run
+1
+2
+3
+4
+
+5
+6
+7
+
+2a (mmol) TiCl4
+
+1
+1
+2
+2
+
+2
+2
+2
+
+a (mmol)
+1
+2
+3
+3
+
+3
+4
+4
+
+temp (°C)
+
+time (h) % yieldb of 7a
+
+25
+25
+25
+25
+50
+50
+25
+25
+50
+
+6
+6
+6
+2
+2
+2
+6
+2
+2
+
+33
+54
+72
+75
+
+62
+67
+65
+
+aZn/TiCl4 = 2/1. bIsolated yields based on 6a.
+
+Article
+<para sub=“opt”>
+THF at 25 °C for 6 h, and 1,2,2-triphenylethanone (7a) was
+obtained as the four-electron reduced product in 33% yield
+(run 1). In this case, 6a and 2a were recovered in 65% and 35%
+recovery rates, respectively. To complete the reaction, the
+amount of reducing agent was doubled (6a/2a/TiCl4 = 1/1/2)
+(run 2). Although 2a was completely consumed (54% yield of
+7a), 33% of 6a was recovered unreacted. Therefore,
+the
+reaction was carried out with a molar ratio of 6a/2a/TiCl4 as 1/
+2/3 (run 3). As expected, almost all of 6a was consumed and 7a
+was obtained in 72% yield. When the reaction was performed at
+25 °C for 2 h and then continued at 50 °C for 2 h as run 6 in
+Table 1, the yield of 7a slightly increased to 75% (run 4).
+However, the yield of 7a somewhat decreased to 62% by the
+reaction at 50 °C from the start (run 5). Since small amounts of
+2a (<10%) were recovered in runs 3−5, the molar ratio of
+TiCl4 was increased (6a/2a/TiCl4 = 1/2/4) (runs 6 and 7).
+Almost all of 2a and 6a was consumed; however, the yields of
+7a were somewhat
+the reaction
+conditions, 7a was obtained as the sole coupled product, and
+the corresponding two-electron reduced product, 2-hydroxy-
+1,2,2-triphenylethanone, could not be detected at all.
+</para>
+<para sub="scope">
+The reductive coupling of a variety of aromatic acid methyl
+esters 6b−h with 2a was carried out under the same conditions
+as run 4 in Table 5 (Table 6). In all cases, diphenylmethyl
+</para>
+Table 6. Reductive Coupling of Aromatic Esters 6a−h with
+2a−d by Zn−TiCl4
+
+lowered. Regardless of
+
+run
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+2
+2a
+2a
+2a
+2a
+2a
+2a
+2a
+2b
+2c
+2d
+
+6
+6b
+6c
+6d
+6e
+6f
+6g
+6h
+6a
+6a
+6a
+
+Ar1
+
+CH
+
+p-MeOC6H4
+3,4-methylenedioxyphenyl
+2-naphthyl
+E-PhCH2
+2-furyl
+3-indolyl
+N-Moc-3-indolyl
+Ph
+Ph
+Ph
+
+7
+7b
+7c
+7d
+7e
+7f
+7g
+7h
+7i
+7j
+7k
+
+% yieldb
+
+83
+77
+60
+45
+63
+71
+80
+52
+31
+85
+
+a2/Zn/TiCl4 = 1/3/1.5, 25 °C (2 h) and then 50 °C (2 h). bIsolated
+yields based on 6.
+<para sub="scope">
+ketones 7b−h were obtained in moderate to good yields (runs
+1−7). The result obtained from 6h (run 7) is in contrast to the
+electroreduction of 6h with 2a, which aﬀorded the correspond-
+ing 1,4-adduct (Scheme 5).12 Other benzophenones 2b−d also
+reacted with 6a to give diarylmethyl ketones 7i−k, although the
+yield of 7j was low (runs 8−10).
+</para>
+<para sub=“ques”>
+3. Reaction Mechanism of the Reductive Coupling.
+The presumed reaction mechanism of the reductive coupling of
+</para>
+Scheme 5. Electroreductive Coupling of 6h with 2a
+
+3498
+
+DOI: 10.1021/acs.joc.5b00102
+J. Org. Chem. 2015, 80, 3496−3503
+
+The Journal of Organic Chemistry
+<para sub=“ques”>
+esters with benzophenone (2a) is exhibited in Scheme 6. The
+cyclic voltamograms of 2a in 0.03 M Bu4NClO4/DMF on a
+</para>
+Scheme 6. Presumed Reaction Mechanism of Reductive
+Coupling of Esters with 2a by Low-Valent Titanium
+
+Article
+Table 7. Reductive Coupling of 8a,b with 2a by Zn−TiCl4
+
+run
+1
+2
+3
+4
+
+5
+6
+
+8
+8a
+8a
+8a
+8a
+
+8b
+8b
+
+2a
+
+(mmol)
+
+a
+TiCl4
+(mmol)
+
+1
+2
+4
+4
+
+4
+4
+
+1
+3
+6
+6
+
+6
+6
+
+temp
+(°C)
+25
+25
+25
+25
+50
+25
+25
+50
+
+time
+(h)
+2
+2
+2
+2
+1
+6
+2
+1
+
+a
+a
+a
+a
+
+b
+b
+
+aZn/TiCl4 = 2/1. bIsolated yields based on 8.
+
+% yieldb
+
+9
+10
+8
+13
+
+8
+
+10
+14
+45
+58
+72
+
+57
+69
+
+8
+72
+38
+10
+
+12
+<para sub=“opt”>
+>99% ee from the results of transformation to oxazolidin-2-
+ones as described below.
+</para>
+<para sub="scope">
+Next, the reductive coupling of N-Moc-(S)-alanine methyl
+ester (8c) with 2a under the same conditions as run 4 in Table
+7 produced optically active diphenylmethyl ketone 10c in 55%
+yield with more than 20% recovery of 8c (Table 8, run 1).
+</para>
+Table 8. Reductive Coupling of 8c,d with 2a by Zn−TiCl4
+
+8
+8c
+8c
+8d
+
+4
+5
+5
+
+eec of 10 (%)
+
+2a (mmol) TiCl4
+
+run
+1
+2
+3
+aZn/TiCl4 = 2/1. bIsolated yields based on 8. cDetermined by 1H
+NMR spectra with Eu(hfc)3.
+
+a (mmol) % yieldb of 10
+6
+7.5
+7.5
+
+10c, 55
+10c, 68
+10d, 62
+
+>99
+>99
+>99
+<para sub="scope">
+Therefore, the molar ratio of 2a and TiCl4 against 8c was
+increased by 1.25 times (8c/2a/TiCl4 = 1/5/7.5). The yield of
+10c increased to 68%, and the recovery of 8c decreased to less
+than 10% (run 2). The reduction of N-Moc-(S)-valine methyl
+ester (8d) with 2a under the same conditions also gave the
+corresponding diphenylmethyl ketone 10d in 62% yield (run
+3). The optical purities of 10c and 10d could be both
+determined to be >99% ee by 1H NMR analyses with Eu(hfc)3.
+The obtained optically active diphenylmethyl ketones 10a
+and 10b were stereospeciﬁcally reduced with L-Selectride at
+−50 °C, and then the resultant β-amino alcohols were cyclized
+by reﬂuxing in K2CO3/MeOH to give oxazolidin-2-one 11a in
+63% and 67% yields, respectively (Scheme 7). The optical
+purities of these 11a obtained from 10a and 10b were both
+conﬁrmed to be >99% ee by 1H NMR analyses with Eu(hfc)3.
+These results suggested that the optical purities of 10a and 10b
+were also >99% ee. Although the single crystal of 11a could not
+be obtained, the stereoconﬁguration of 11a was fortunately
+conﬁrmed to be cis by X-ray crystallography of rac-11a
+prepared from rac-8c by the same procedure. The same
+transformation of 10c gave the corresponding
+sequential
+</para>
+3499
+
+DOI: 10.1021/acs.joc.5b00102
+J. Org. Chem. 2015, 80, 3496−3503
+
+further
+<para sub=“ques”>
+platinum cathode showed ﬁrst reduction peaks at −1.90 vs
+SCE, whereas those of 1a and 6a under the same conditions
+revealed no reduction peak from 0 to −2.5 V vs SCE. These
+results suggest that this reductive coupling is initiated by the
+reduction of 2a. Initially, 2a is reduced by two-electron transfer
+from low-valent titanium to give titanate A. The nucleophilic
+addition of A to an ester produces adduct B. When the ester is
+aliphatic (R = alkyl), the workup of B with water at 25 °C gives
+3 since the adduct B is stable at this temperature. On the other
+two-electron reduction of B by low-valent
+hand,
+titanium proceeds at 50 °C to aﬀord enolate C, which is
+hydrolyzed to diphenylmethyl ketone 4. When the ester is
+aromatic (R = aryl), adduct B is immediately reduced to C even
+at 25 °C since enolate C is additionally stabilized by the aryl
+group. Hence, diphenylmethyl aryl ketones 7 were the only
+products and diphenyl(hydroxy)methyl aryl ketones corre-
+sponding to 3 could not be detected as described above.
+</para>
+<para sub=“opt”>
+4. Reductive Coupling of N-Alkoxycarbonyl α-Amino
+Acid Methyl Esters with Benzophenone by Zn−TiCl4.
+The reduction with benzophenone (2a) was attempted by
+employing N-Cbz- and N-Moc-(S)-proline methyl esters (8a
+and 8b) as aliphatic esters
+to prepare optically active
+diphenylmethyl ketones, and the results are summarized in
+Table 7, in which the yields based on more valuable esters 8a,b
+were optimized. The reduction was carried out with the molar
+ratio of 8a/2a/TiCl4 as 1/1/1 at 25 °C for 2 h according as run
+1 in Table 1. The two- and four-electron reduced products 9a
+(10%) and 10a (14%) were obtained in poor yields, and a
+signiﬁcant amount (72%) of 8a was recovered since 8a was a
+sterically hindered ester (run 1). In addition, this result shows
+that it is diﬃcult to control the further reduction of 9a to 10a at
+25 °C. Therefore, the reaction was performed with a molar
+ratio of 8a/2a/TiCl4 of 1/2/3 under the same conditions as run
+3 in Table 5 to obtain 10a primarily (run 2). Since an
+unignorable amount of 8a (38%) and a small amount of 9a
+(8%) still remained, the molar ratio of 2a and TiCl4 against 8a
+increased twice (8a/2a/TiCl4 as 1/4/6) (run 3).
+was
+Moreover, the reaction was carried out at 25 °C for 2 h and
+subsequently at 50 °C for 1 h, and 10a was obtained in 72%
+yield (run 4). Similarly, the reaction of 8b with 2a under the
+same conditions as run 4 aﬀorded 10b in 69% yield (run 6).
+Although the optical purities of 10a and 10b obtained in runs 4
+and 6 could not be determined, they were both estimated to be
+</para>
+The Journal of Organic Chemistry
+Scheme 7. Transformation of 10a−d to 11a−c
+<para sub="scope">
+oxazolidin-2-one 11b in 64% yield with high stereoselectivity
+(94/6). Although the major isomer of 11b could be isolated by
+recrystallization,
+its single crystal could not be acquired.
+Similarly to 11a, the cis conﬁguration of the major isomer of
+11b was conﬁrmed by X-ray crystallography of that of rac-11b.
+The optical purity of cis-11b was determined to be 96% ee by
+1H NMR spectra with Eu(hfc)3. However, the reduction of 10d
+with L-Selectride did not proceed at all, probably due to the
+high bulkiness of 10d. Alternatively, the reduction of 10d with
+LiBHEt3 at −20 °C and following cyclization gave 11c in 74%
+yield with a 97/3 of cis/trans ratio. The major isomer of 11c
+was assigned to be cis by the correlation of 1H NMR spectra
+between 11b and 11c as shown in Table 9. The optical purity
+of cis-11c was determined to be 98% ee by 1H NMR spectra
+with Eu(hfc)3.
+</para>
+■ CONCLUSION
+The reductive coupling of aliphatic esters 1a−f with
+benzophenones 2a−d by Zn−TiCl4 gave two-electron reduced
+products, diaryl(hydroxy)methyl ketones 3a−f, and four-
+
+Table 9. 1N NMR Chemical Shifts (δ, ppm) and Coupling
+Constants (Hz) of 11b,c
+
+11
+cis-11b
+trans-11b
+cis-11c
+trans-11c
+
+chemical shift (multitude)
+
+4-H
+
+3.84 (m)
+3.66 (m)
+3.62 (dd)
+3.35 (t)
+
+5-H
+
+5.35 (dd)
+4.84 (dd)
+5.38 (dd)
+4.97 (dd)
+
+6-H
+
+4.21 (d)
+4.11 (d)
+4.36 (d)
+4.06 (d)
+
+J4,5
+6.8
+6.0
+6.8
+4.1
+
+J5,6
+11.5
+7.3
+11.5
+8.3
+
+Article
+electron reduced products, diarylmethyl ketones 4a−f. The
+both of two- and four-electron reduced products could be
+obtained selectively by controlling the amounts of Zn−TiCl4
+and reaction temperature. In the reaction of aliphatic lactones
+1g−i with benzophenone 2a, two-electron reduced products
+3g,h and four-electron reduced products 5 and 4h,i were also
+obtained selectively by controlling the reaction conditions. On
+the other hand, the reductive coupling of aromatic esters 6a−h
+with 2a−d aﬀorded four-electron reduced products, diary-
+lmethyl ketones 7a−k, as the sole products irrespective of the
+reaction conditions. In addition, optically active diphenylmethyl
+ketones 10a−d were prepared by the reductive coupling of N-
+(alkoxycarbonyl)-α-amino acid methyl esters 8a−d with 2a.
+From 8a−d, optically active 4,5-cis-disubstituted oxazolidin-2-
+ones 11a−c were synthesized by selective reduction and
+following cyclization.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Methods. Column chromatography was performed on
+silica gel 60. THF was distilled from sodium benzophenone ketyl
+radical.
+
+Typical Procedure of Reductive Coupling by Ti-ZnCl4. To a
+solution of 1a (0.20 mL, 2 mmol), 2a (182 mg, 1 mmol), and zinc
+powder (0.13 g, 2 mmol) in THF (5 mL) was added TiCl4 (0.11 mL,
+1 mmol) dropwise at 0 °C, and then the dark blue suspension was
+stirred for 2 h at 25 °C. To the mixture was added 1 M HCl (20 mL),
+and the mixture was stirred for 10 min at 25 °C. The mixture was
+extracted with ethyl acetate three times. The organic layer was washed
+with aqueous NaCl and dried over MgSO4. After the solvent was
+removed, the residue was puriﬁed by column chromatography on silica
+gel to give 3a in 72% yield (173 mg) with small amounts of 4a (11 mg,
+5%). Compounds 3a,7 3b,6,7 3c,3,7 3e,6,7 3f,6 4a,9f,10a 4b,13,14 4c,8a,15
+4e,9h,16 4f,8b,17,18 5,19 7a,8a,b,9a,d,15,17 7b,8a,b,9e,17 7d,9d 7f,9d 7i,9a,10b,20
+and 7j9a,b,j,10b,20 were known.
+1-Hydroxy-4-methyl-1,1-diphenylpentan-2-one (3d): colorless
+paste (177 mg, 66%); Rf 0.35 (hexanes−ethyl acetate, 10:1); IR
+(neat) 3447, 1705, 1599, 1491, 768, 745, 733, 696, 669 cm−1; 1H
+NMR (CDCl3) δ 0.77 (d, 6H, J = 6.7 Hz), 1.95−2.03 (m, 1H), 2.49
+(d, 2H, J = 6.6 Hz), 4.89 (s, 1H), 7.32−7.39 (m, 10H); 13C NMR
+(CDCl3) δ 22.2 (q), 24.6 (d), 46.6 (t), 85.5 (s), 128.0 (d), 128.1 (d),
+128.2 (d), 141.3 (s), 210.2 (s); HRMS (ESI,
+ion trap) calcd for
+C18H21O2 (M + H)+ 269.1542, found 269.1541.
+1,5-Dihydroxy-1,1-diphenylpentan-2-one (3g): colorless paste
+(143 mg, 53%); Rf 0.5 (hexanes−ethyl acetate, 1:1); IR (ATR)
+3401, 1707, 1599, 1491, 853, 770, 735, 696, 667 cm−1; 1H NMR
+(CDCl3) δ 1.63−1.69 (m, 2H), 2.45 (brs, 1H), 2.63 (t, 2H, J = 7.0
+Hz), 3.39 (t, 2H, J = 6.3 Hz), 5.04 (s, 1H), 7.26−7.34 (m, 10H); 13C
+NMR (CDCl3) δ 27.0 (t), 34.8 (t), 61.3 (t), 85.5 (s), 127.7 (d), 127.9
+(d), 128.2 (d), 141.4 (s), 211.5 (s); HRMS (ESI, ion trap) calcd for
+C17H19O3 (M + H)+ 271.1334, found 271.1333.
+1,6-Dihydroxy-1,1-diphenylhexan-2-one (3h): colorless paste (162
+mg, 57%); Rf 0.45 (hexanes−ethyl acetate, 1:1); IR (ATR) 3379, 1707,
+1599, 1491, 914, 764, 746, 733, 696, 667 cm−1; 1H NMR (CDCl3) δ
+1.35−1.42 (m, 2H), 1.50−1.58 (m, 2H), 1.94 (brs, 1H), 2.60 (t, 2H, J
+= 7.5 Hz), 3.42 (t, 2H, J = 6.3 Hz), 4.93 (brs, 1H), 7.31−7.38 (m,
+10H); 13C NMR (CDCl3) δ 20.2 (t), 31.5 (t), 37.7 (t), 61.8 (t), 85.4
+(s), 127.8 (d), 127.9 (d), 128.2 (d), 141.4 (s), 211.2 (s); HRMS (ESI,
+ion trap) calcd for C18H21O3 (M + H)+ 285.1491, found 285.1490.
+1,7-Dihydroxy-1,1-diphenylheptan-2-one (3i): colorless paste
+(226 mg, 76%); Rf 0.45 (hexanes−ethyl acetate, 5:1); IR (ATR)
+3420, 1709, 1600, 1493, 910, 762, 733, 698, 665 cm−1; 1H NMR
+(CDCl3) δ 1.14−1.22 (m, 2H), 1.35−1.50 (m, 4H), 1.93 (brs, 1H),
+2.57 (t, 2H, J = 7.5 Hz), 3.47 (t, 2H, J = 6.7 Hz), 4.97 (s, 1H), 7.30−
+7.36 (m, 5H); 13C NMR (CDCl3) δ 23.8 (t), 24.9 (t), 31.9 (t), 38.1
+(t), 62.0 (t), 54.4 (s), 127.8 (d), 127.9 (d), 128.2 (d), 141.4 (s), 211.2
+(s); HRMS (ESI, ion trap) calcd for C19H23O3 (M + H)+ 299.1647,
+found 299.1645.
+</para>
+3500
+
+DOI: 10.1021/acs.joc.5b00102
+J. Org. Chem. 2015, 80, 3496−3503
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+1,1-Bis(4-ﬂuorophenyl)-1-hydroxybutan-2-one (3j): colorless
+paste (105 mg, 38%); Rf 0.3 (hexanes−ethyl acetate, 10:1); IR
+(ATR) 3429, 1709, 1601, 1504, 982, 831, 812, 772, 727 cm−1; 1H
+NMR (CDCl3) δ 1.04 (t, 3H, J = 7.3 Hz), 2.55 (q, 2H, J = 7.3 Hz),
+4.82 (s, 1H), 7.03−7.09 (m, 4H), 7.28−7.33 (m, 4H); 13C NMR
+(CDCl3) δ 8.2 (q), 31.7 (t), 84.5 (s), 115.3 (d, JCCF = 20.7 Hz), 129.7
+(d, JCCCF = 8.4 Hz), 137.4 (s, JCCCCF = 2.4 Hz), 162.4 (s, JCF = 247.3
+Hz), 211.5 (s); HRMS (ESI, ion trap) calcd for C16H15F2O2 (M + H)+
+277.1040, found 277.1039.
+1-Hydroxy-1,1-bis(4-methoxyphenyl)butan-2-one (3k): colorless
+paste (171 mg, 57%); Rf 0.25 (hexanes−ethyl acetate, 5:1); IR (ATR)
+3456, 1703, 1655, 1605, 1578, 1506, 982, 964, 827, 800, 772, 733
+cm−1; 1H NMR (CDCl3) δ 1.01 (t, 3H, J = 7.5 Hz), 2.54 (q, 2H, J =
+7.5 Hz), 3.81 (s, 6H), 4.82 (s, 1H), 6.86−6.90 (m, 4H), 7.24−7.27 (m,
+4H); 13C NMR (CDCl3) δ 8.3 (q), 31.4 (t), 55.1 (q), 84.6 (s), 113.5
+(d), 129.1 (d), 133.8 (s), 159.1 (s), 212.2 (s); HRMS (ESI, ion trap)
+calcd for C18H21O4 (M + H)+ 301.1440, found 301.1438.
+1-(5-Hydroxy-10,11-dihydro-5H-dibenzo[a,d][7]annulen-5-yl)-
+propan-1-one (3l): white solid (77 mg, 29%); Rf 0.2 (hexanes−ethyl
+acetate,10:1); mp 109−111 °C; IR (ATR) 3433, 3389, 1703, 1483,
+972, 951, 926, 903, 880, 854, 812, 785, 752, 718, 696, 652 cm−1; 1H
+NMR (CDCl3) δ 0.89 (t, 3H, J = 7.3 Hz), 2.29 (q, 2H, J = 7.3 Hz),
+3.07−3.20 (m, 4H), 4.92 (s, 1H), 7.11−7.23 (m, 6H), 7.36−7.40 (m,
+2H); 13C NMR (CDCl3) δ 8.3 (q), 30.4 (t), 35.4 (t), 84.5 (s), 126.5
+(d), 127.9 (d), 128.6 (d), 130.3 (d), 138.4 (s), 140.8 (s), 210.3 (s);
+HRMS (ESI, ion trap) calcd for C18H19O2 (M + H)+ 267.1385, found
+267.1385.
+4-Methyl-1,1-diphenylpentan-2-one (4d): colorless paste (176 mg,
+70%); Rf 0.5 (hexanes−ethyl acetate, 10:1); IR (neat) 1715, 1597,
+1495, 770, 743, 696 cm−1; 1H NMR (CDCl3) δ 0.88 (d, 6H, J = 6.4
+Hz), 2.14−2.23 (m, 1H), 2.42 (d, 2H, J = 6.9 Hz), 5.09 (s, 1H), 7.20−
+7.27 (m, 6H), 7.29−7.34 (m, 4H); 13C NMR (CDCl3) δ 22.3 (q),
+24.3 (d), 51.6 (t), 64.3 (d), 127.0 (d), 128.5 (d), 128.8 (d), 138.3 (s),
+ion trap) calcd for C18H21O (M + H)+
+207.8 (s); HRMS (ESI,
+253.1592, found 253.1591.
+6-Hydroxy-1,1-diphenylhexan-2-one (4h): colorless paste (139
+mg, 52%); Rf 0.5 (hexanes−ethyl acetate, 1:1); IR (ATR) 3375, 1711,
+1597, 1584, 1493, 986, 932, 745, 696 cm−1; 1H NMR (CDCl3) δ
+1.46−1.53 (m, 2H), 1.63−1.71 (m, 2H), 2.61 (t, 2H, J = 7.2 Hz), 3.56
+(t, 2H, J = 6.3 Hz), 5.13 (s, 1H), 7.21−7.37 (m, 10 H); 13C NMR
+(CDCl3) δ 19.8 (t), 31.7 (t), 42.3 (t), 62.0 (t), 64.0 (d), 127.1 (d),
+128.6 (d), 128.8 (d), 138.2 (s), 208.8 (s); HRMS (ESI, ion trap) calcd
+for C18H21O2 (M + H)+ 269.1542, found 269.1541.
+7-Hydroxy-1,1-diphenylheptan-2-one (4i): colorless paste (164
+mg, 58%); Rf 0.55 (hexanes−ethyl acetate, 1:1); IR (ATR) 3375, 1713,
+1597, 1584, 1495, 962, 743, 696 cm−1; 1H NMR (CDCl3) δ 1.26−1.34
+(m, 2H), 1.47−1.54 (m, 2H), 1.57−1.65 (m, 2H), 2.57 (t, 2H, J = 7.5
+Hz), 3.54−3.65 (m, 2H), 5.12 (s, 1H), 7.20−7.37 (m, 10 H); 13C
+NMR (CDCl3) δ 23.3 (t), 24.9 (t), 32.0 (t), 42.5 (t), 62.0 (t), 63.8
+(d), 126.9 (d), 128.4 (d), 128.7 (d), 138.2 (s), 208.7 (s); HRMS (ESI,
+ion trap) calcd for C19H23O2 (M + H)+ 283.1698, found 283.1696.
+1,1-Bis(4-ﬂuorophenyl)butan-2-one (4j): colorless paste (117 mg,
+45%); Rf 0.3 (hexanes−ethyl acetate, 10:1); IR (ATR) 1717, 1601,
+1504, 864, 820, 768, 702 cm−1; 1H NMR (CDCl3) δ 1.06 (t, 3H, J =
+7.2 Hz), 2.57 (q, 2H, J = 7.2 Hz), 5.10 (s, 1H), 6.98−7.03 (m, 4H),
+7.15−7.20 (m, 4H); 13C NMR (CDCl3) δ 7.9 (q), 36.0 (t), 61.9 (d),
+115.5 (d, JCCF = 21.6 Hz), 130.3 (d, JCCCF = 8.4 Hz), 134.2 (s, JCCCCF =
+3.6 Hz), 161.9 (s, JCF = 245.9 Hz), 208.9 (s); HRMS (ESI, ion trap)
+calcd for C16H15F2O (M + H)+ 261.1091, found 261.1090.
+1,1-Bis(4-methoxyphenyl)butan-2-one (4k): colorless paste (148
+mg, 52%); Rf 0.35 (hexanes−ethyl acetate, 5:1); IR (ATR) 1715, 1607,
+1582, 1506, 814, 772 cm−1; 1H NMR (CDCl3) δ 1.05 (t, 3H, J = 7.3
+Hz), 2.55 (q, 2H, J = 7.3 Hz), 3.78 (s, 6H), 5.03 (s, 1H), 6.83−6.87
+(m, 4H), 7.11−7.15 (m, 4H); 13C NMR (CDCl3) δ 8.0 (q), 35.7 (t),
+55.0 (q), 62.0 (d), 113.8 (d), 129.7 (d), 130.9 (s), 158.4 (s), 209.6 (s);
+HRMS (ESI, ion trap) calcd for C18H21O3 (M + H)+ 285.1491, found
+285.1490
+1-(10,11-Dihydro-5H-dibenzo[a,d][7]annulen-5-yl)propan-1-one
+(4l): colorless paste (158 mg, 63%); Rf 0.3 (hexanes−ethyl
+acetate,10:1); IR (ATR) 1717, 1703, 993, 908, 851, 839, 768, 754,
+</para>
+Article
+<para sub=“exp”>
+741, 710, 702, 675 cm−1; 1H NMR (CDCl3) δ 0.98 (t, 3H, J = 7.2 Hz),
+2.36 (q, 2H, J = 7.2 Hz), 2.78−2.86 (m, 2H), 3.12−3.21 (m, 2H), 4.60
+(s, 1H), 7.11−7.24 (m, 8H); 13C NMR (CDCl3) δ 8.0 (q), 32.1 (t),
+33.8 (t), 67.6 (d), 126.2 (d), 127.6 (d), 130.3 (d), 131.4 (d), 136.5 (s),
+139.3 (s), 209.9 (s); HRMS (ESI, ion trap) calcd for C18H19O (M +
+H)+ 251.1436, found 251.1436.
+1-(Benzo[d][1,3]dioxol-5-yl)-2,2-diphenylethanone (7c): white
+solid (243 mg, 77%); Rf 0.4 (hexanes−ethyl acetate, 5:1); mp 141−
+143 °C; IR (neat) 1665, 1622, 1601, 1582, 1504, 1487, 997, 924, 903,
+887, 807, 800, 743, 729, 723, 694, 669 cm−1; 1H NMR (CDCl3) δ 5.94
+(s, 1H), 6.01 (s, 2H), 6.79 (d, 1H, J = 8.2 Hz), 7.22−7.27 (m, 6H),
+7.30−7.34 (m, 4H), 7.48 (d, 1H, J = 1.7 Hz), 7.62 (dd, 1H, J = 1.7, 8.2
+Hz); 13C NMR (CDCl3) δ 59.1 (d), 101.7 (t), 107.8 (d), 108.6 (d),
+125.2 (d), 127.0 (d), 128.6 (d), 129.0 (d), 131.4 (s), 139.2 (s), 148.0
+(s), 151.6 (s), 196.1 (s). Anal. Calcd for C21H16O3: C, 79.73; H, 5.10.
+Found: C, 79.69; H, 5.12.
+(E)-1,1,4-Triphenylbut-3-en-2-one (7e): colorless paste (134 mg,
+45%); Rf 0.55 (hexanes−ethyl acetate, 5:1); IR (neat) 1653, 1624,
+1597, 1576, 1493, 968, 908, 772, 752, 731, 694 cm−1; 1H NMR
+(CDCl3) δ 5.38 (s, 1H), 6.83 (d, 1H, J = 16.0 Hz), 7.23−7.40 (m,
+13H), 7.46−7.51 (m, 2H), 7.69 (d, 1H, J = 16.0 Hz); 13C NMR
+(CDCl3) δ 63.2 (d), 125.1 (d), 127.1 (d), 128.4 (d), 128.6 (d), 128.8
+(d), 129.2 (d), 130.4 (d), 134.3 (s), 138.4 (s), 143.2 (d), 197.2 (s);
+HRMS (ESI, ion trap) calcd for C22H19O (M + H)+ 299.1436, found
+299.1435.
+1-(1H-Indol-3-yl)-2,2-diphenylethanone (7g): white solid (221 mg,
+71%); Rf 0.5 (hexanes−ethyl acetate, 2:1); mp 195−197 °C; IR (neat)
+1607, 1580, 1520, 1495, 955, 804, 772, 752, 735, 721, 694 cm−1; 1H
+NMR (CDCl3) δ 5.82 (s, 1H), 7.20−7.36 (m, 12H), 7.75−7.77 (m,
+1H), 8.45−8.48 (m, 1H), 8.70 (brs, 1H); 13C NMR (CDCl3, DMSO-
+d6) δ 60.3 (d), 111.6 (d), 116.8 (s), 122.0 (d), 122.1 (d), 123.1 (d),
+125.9 (s), 126.5 (d), 128.2 (d), 128.8 (d), 132.8 (d), 136.5(s), 140.0
+(s). Anal. Calcd for C22H17NO: C, 84.86; H, 5.50; N, 4.50. Found: C,
+84.85; H, 5.53; N, 4.40.
+Methyl 3-(2,2-diphenylacetyl)-1H-indole-1-carboxylate (7h):
+white solid (296 mg, 80%); Rf 0.4 (hexanes−ethyl acetate, 5:1); mp
+157−158 °C; IR (ATR) 1757, 1674, 1604, 1597, 1545, 1497, 1476,
+957, 826, 799, 764, 748, 731, 716, 696, 681 cm−1; 1H NMR (CDCl3) δ
+4.08 (s, 3H), 5.84 (s, 1H), 7.22−7.29 (m, 2H), 7.30−7.41 (m, 10H),
+8.09−8.14 (m, 1H), 8.26 (brs, 1H), 8.44−8.47 (m, 1H); 13C NMR
+(CDCl3) δ 54.5 (q), 60.7 (d), 114.7 (d), 120.5 (s), 122.8 (d), 124.6
+(d), 125.8 (d), 127.0 (d), 127.6 (s), 128.6 (d), 128.9 (d), 132.0 (d),
+135.3 (s), 139.1 (s), 150.7 (s), 194.2 (s). Anal. Calcd for C24H19NO3:
+C, 78.03; H, 5.18; N, 3.79. Found: C, 77.96; H, 5.20; N, 3.73.
+(10,11-Dihydro-5H-dibenzo[a,d][7]annulen-5-yl)(phenyl)-
+methanone (7k): pale yellow solid (253 mg, 85%); Rf 0.55 (hexanes−
+ethyl acetate, 5:1); mp 129−131 °C; IR (neat) 1682, 1595, 1578,
+1489, 993, 858, 839, 770, 762, 745, 718, 691, 679 cm−1; 1H NMR
+(CDCl3) δ 2.75−2.84 (m, 2H), 3.32−3.41 (m, 2H), 5.52 (s, 1H),
+7.07−7.12 (m, 2H), 7.13−7.18 (m, 4H), 7.29−7.36 (m, 4H), 7.41−
+7.45 (m, 1H), 7.90−7.94 (m, 2H); 13C NMR (CDCl3) δ 31.6 (t), 63.7
+(d), 126.2 (d), 127.4 (d), 128.0 (d), 128.7 (d), 130.8 (d), 132.2 (d),
+136.6 (s), 139.8 (s), 198.9 (s); HRMS (ESI,
+ion trap) calcd for
+C22H19O (M + H)+ 299.1436, found 299.1435.
+(S)-Benzyl 2-(2-hydroxy-2,2-diphenylacetyl)pyrrolidine-1-carbox-
+ylate (9a): white solid (42 mg, 10%); Rf 0.25 (hexanes−ethyl acetate,
+−20.1 (c = 1.21, CHCl3); IR (ATR)
+5:1); mp 149−151 °C; [α]21
+3406, 3281, 1730, 1665, 1597, 1497, 1468, 982, 955, 918, 908, 851,
+768, 750, 698, 662 cm−1; 1H NMR (CDCl3) δ 1.53−1.62 (m, 1H),
+1.65−1.77 (m, 2H), 1.88−1.98 (m, 1H), 3.46−3.55 (m, 2H), 5.05−
+5.12 (m, 2H), 5.19 (d, 1H, J = 12.6 Hz), 6.10 (s, 1H), 7.14−7.42 (m,
+13H), 7.53−7.57 (m, 2H); 13C NMR (CDCl3) δ 25.0 (t), 31.5 (t),
+47.1 (t), 58.6 (d), 67.7 (t), 85.4 (s), 127.3 (d), 127.6 (d), 127.90 (d),
+127.94 (d), 127.98 (d), 128.01 (d), 128.1 (d), 128.3 (d), 128.5 (d),
+136.2 (s), 138.7 (s), 143.4 (s), 155.7 (s), 210.8 (s); HRMS (ESI, ion
+trap) calcd for C26H26NO4 (M + H)+ 416.1862, found 416.1860.
+(S)-Methyl 2-(2-hydroxy-2,2-diphenylacetyl)pyrrolidine-1-carbox-
+ylate (9b): white solid (41 mg, 12%); Rf 0.45 (hexanes−ethyl acetate,
+−172 (c = 1.03, CHCl3); IR (ATR) 3302,
+2:1); mp 182 °C; [α]21
+1724, 1665, 1495, 986, 961, 930, 906, 826, 768, 746, 712, 696, 665
+
+D
+
+D
+</para>
+3501
+
+DOI: 10.1021/acs.joc.5b00102
+J. Org. Chem. 2015, 80, 3496−3503
+
+D
+
+D
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+cm−1; 1H NMR (CDCl3) δ 1.51−1.97 (m, 4H), 3.41−3.59 (m, 2H),
+3.72 (s, 3H), 5.06 (t, 1H, J = 6.9 Hz), 6.06 (s, 1H), 7.23−7.43 (m,
+8H), 7.53−7.57 (m, 2H); 13C NMR (CDCl3) δ 20.5 (t), 31.5 (t), 47.0
+(t), 53.1 (q), 58.7 (d), 85.4 (s), 127.3 (d), 127.5 (d), 127.6 (d), 127.9
+(s), 128.0 (s), 128.2 (d), 138.8 (s), 143.3 (s), 156.3 (s), 210.8 (s).
+Anal. Calcd for C20H21NO4: C, 70.78; H, 6.24; N, 4.13. Found: C,
+70.74; H, 6.23; N, 4.04.
+
+(S)-Benzyl 2-(2,2-diphenylacetyl)pyrrolidine-1-carboxylate (10a:).
+white solid (288 mg, 72%); Rf 0.25 (hexanes-ethyl acetate, 5:1); mp
+−66.1 (c = 1.05, CHCl3); IR (ATR) 1724, 1699,
+122−123 °C; [α]25
+1495, 957, 920, 768, 748, 735, 714, 696 cm−1; 1H NMR (CDCl3) δ
+1.64−2.12 (m, 4H), 3.29−3.59 (m, 2H), 4.54 (dd, 0.5H, J = 4.4, 8.9
+Hz), 4.58 (dd, 0.5H, J = 6.0, 7.0 Hz), 4.81 (d, 0.5H, 12.2 Hz), 5.08 (d,
+0.5H, J = 12.2 Hz), 5.13−5.19 (m, 1H), 5.21 (s, 0.5H), 5.50 (s, 0.5H),
+7.13−7.40 (m, 15H); 13C NMR (CDCl3) δ 23.2 (t), 24.2 (t), 29.7 (t),
+30.2 (t), 44.6 (t), 47.2 (t), 60.2 (d), 61.5 (d), 65.2 (d), 66.90 (t), 66.94
+(t), 127.0 (d), 127.12 (d), 127.13 (d), 127.2 (d), 127.7 (d), 127.87
+(d), 127.92 (d), 128.1 (d), 128.32 (d), 128.34 (d), 128.4 (d), 128.47
+(d), 128.49 (d), 128.6 (d), 128.7 (d), 128.8 (d), 128.9 (d), 129.4 (d),
+136.3 (s), 136.6 (s), 137.4 (s), 137.6 (s), 137.8 (s), 138.0 (s), 154.2
+(s), 155.0 (s), 206.8 (s), 207.9 (s). Anal. Calcd for C26H25NO3: C,
+78.17; H, 6.31; N, 3.51. Found: C, 78.14; H, 6.31; N, 3.47.
+(S)-Methyl 2-(2,2-diphenylacetyl)pyrrolidine-1-carboxylate (10b):
+white solid (223 mg, 69%); Rf 0.4 (hexanes−ethyl acetate, 2:1); mp
+−55.4 (c = 1.20, CHCl3); IR (ATR) 1707, 1491,
+103−104 °C; [α]21
+962, 953, 768, 754, 735, 716, 702, 692, 669 cm−1; 1H NMR (CDCl3) δ
+1.67−1.94 (m, 3.5H), 2.08−2.17 (m, 0.5H), 3.28−3.34 (m, 0.5H),
+3.37−3.44 (m, 0.5H), 3.44 (s, 1.5H), 3.48−3.59 (m, 1H), 3.72 (s,
+1.5H), 4.48 (dd, 0.5H, J = 4.8, 8.8 Hz), 4.58 (t, 0.5H, J = 6.7 Hz), 5.29
+(s, 0.5H), 5.49 (s, 0.5H), 7.21−7.36 (m, 10H); 13C NMR (CDCl3) δ
+23.3 (t), 24.4 (t), 29.8 (t), 30.2 (t), 46.6 (t), 47.2 (t), 52.1 (q), 52.6
+(q), 60.0 (d), 61.7 (d), 65.1 (d), 65.4 (d), 127.0 (d), 127.2 (d), 127.26
+(d), 127.29 (d), 128.4 (d), 128.5 (d), 128.57 (d), 128.61 (d), 128.8
+(d), 128.9 (d), 129.0 (d), 129.4 (d), 137.5 (s), 137.6 (s), 137.9 (s),
+138.0 (s), 154.8 (s), 155.7 (s), 207.1 (s), 207.9 (s). Anal. Calcd for
+C20H21NO3: C, 74.28; H, 6.55; N, 4.33. Found: C, 74.22; H, 6.58; N,
+4.27.
+(S)-Methyl (3-oxo-4,4-diphenylbutan-2-yl)carbamate (10c): col-
+orless paste (202 mg, 68%); Rf 0.45 (hexanes−ethyl acetate, 2:1);
+[α]22
+D 32.6 (c = 2.06, CHCl3); >99% ee; IR (ATR) 3325, 1701, 1599,
+1508, 1495, 941, 920, 849, 773, 737, 696, 669 cm−1; 1H NMR
+(CDCl3) δ 1.36 (d, 3H, J = 6.9 Hz), 3.66 (s, 3H), 4.52−4.60 (m, 1H),
+5.34 (s, 1H), 5.41 (brs, 1H), 7.21−7.36 (m, 10H); 13C NMR (CDCl3)
+δ 17.8 (q), 52.0 (q), 55.4 (d), 60.3 (d), 127.2 (d), 127.3 (d), 128.5
+(d), 128.69 (d), 128.71 (d), 137.5 (s), 137.6 (s), 156.1 (s), 207.0 (s);
+ion trap) calcd for C18H20NO3 (M + H)+ 298.1443,
+HRMS (ESI,
+found 298.1442.
+(4-methyl-2-oxo-1,1-diphenylpentan-3-yl)carbamate
+(10d): white solid (202 mg, 62%); Rf 0.3 (hexanes−ethyl acetate,
+5:1); mp 132−133 °C; [α]23
+D 75.8 (c = 1.04, CHCl3); >99% ee; IR
+(ATR) 3250, 1724, 1701, 1672, 1599, 1497, 1468, 959, 943, 922, 833,
+789, 781, 750, 735, 721, 696 cm−1; 1H NMR (CDCl3) δ 0.69 (d, 3H, J
+= 6.9 Hz), 0.98 (d, 3H, J = 6.9 Hz), 2.19−2.36 (m, 1H), 3.65 (s, 3H),
+4.54 (d, 1H, J = 3.9, 9.1 Hz), 5.25 (d, 1H, J = 9.1 Hz), 5.31 (brs, 1H),
+7.22−7.36 (m, 10H); 13C NMR (CDCl3) δ 16.3 (q), 19.9 (q), 29.6
+(d), 52.1 (q), 61.0 (d), 64.6 (d), 127.2 (d), 127.3 (d), 128.4 (d), 128.6
+(d), 128.7 (d), 137.5 (s), 137.6 (s), 156.8 (s), 206.6 (s). Anal. Calcd
+for C20H23NO3: C, 73.82; H, 7.12; N, 4.30. Found: C, 73.80; H, 7.13;
+N, 4.23.
+
+(S)-Methyl
+
+Transformarion of 10a to 11a. To a solution of 10a (100 mg,
+0.25 mmol) in THF (5 mL) was added 1 M L-Selectride in THF (0.5
+mL, 0.5 mmol) at −50 °C. After being stirred at this temperature for 6
+h, the mixture was diluted with 0.5 M HCl (10 mL) and extracted with
+ethyl acetate three times. The organic layer was washed with aqueous
+NaCl and dried over MgSO4. After the solvent was removed, the
+residue was reﬂuxed in MeOH (5 mL) containing K2CO3 (35 mg, 0.25
+mmol) for 2 h. After the solvent was removed in vacuo, the residue
+was puriﬁed by column chromatography on silica gel to give 11a in
+63% yield (46 mg).
+</para>
+Article
+<para sub=“exp”>
+(1R,7aS)-1-Benzhydryltetrahydropyrrolo[1,2-c]oxazol-3(1H)-one
+(11a): white solid (136 mg, 67%); Rf 0.4 (hexanes−ethyl acetate, 2:1);
+mp 176−178 °C; [α]21
+D 38.3 (c = 1.01, CHCl3); >99% ee; IR (ATR)
+1734, 1599, 1497, 1476, 976, 772, 756, 743, 710, 698, 662 cm−1; 1H
+NMR (CDCl3) δ 1.33−1.39 (m, 1H), 1.51−1.60 (m, 1H), 1.66−1.76
+(m, 1H), 1.98−2.06 (m, 1H), 3.10−3.16 (m, 1H), 3.62−3.75 (m, 2H),
+4.18 (d, 1H, J = 11.0 Hz), 5.44 (dd, 1H, J = 6.9, 11.0 Hz), 7.17−7.21
+(m, 1H), 7.24−7.36 (m, 9H); 13C NMR (CDCl3) δ 24.8 (t), 25.1 (t),
+45.6 (t), 52.4 (d), 63.2 (d), 77.7 (d), 126.9 (d), 127.3 (d), 127.9 (d),
+128.0 (d), 128.6 (d), 129.0 (d), 139.9 (s), 140.9 (s), 161.6 (s). Anal.
+Calcd for C19H19NO2: C, 77.79; H, 6.53; N, 4.77. Found: C, 77.81; H,
+6.50; N, 4.71.
+
+(4S,5R)-5-Benzhydryl-4-methyloxazolidin-2-one (cis-11b).
+
+Iso-
+meric mixture (cis/trans = 94/6): white solid (112 mg, 61%); Rf 0.3
+(hexanes−ethyl acetate, 2:1); mp 147−148 °C; [α]21
+D 89.8 (c = 1.07,
+CHCl3); 96% ee (cis-form); IR (ATR) 3277, 1742, 1497, 988, 968,
+949, 773, 754, 743, 727, 702, 694, 669 cm−1; 1H NMR (CDCl3) δ 1.08
+(d, 3H, J = 6.4 Hz), 3.82−3.89 (m, 1H), 4.21 (d, 1H, J = 11.5 Hz),
+5.11 (brs, 1H), 5.35 (dd, 1H, J = 6.8, 11.5 Hz), 7.16−7.21 (m, 1H),
+7.22−7.36 (m, 9H); 13C NMR (CDCl3) δ 15.8 (q), 50.7 (d), 51.1 (d),
+81.3 (d), 126.8 (d), 127.2 (d), 127.7 (d), 128.0 (d), 128.5 (d), 129.1
+(d), 139.9 (s), 141.0 (s), 159.5 (s). Anal. Calcd for C17H17NO2: C,
+76.38; H, 6.41; N, 5.24. Found: C, 76.37; H, 6.44; N, 5.20.
+
+(4S,5R)-5-Benzhydryl-4-isopropyloxazolidin-2-one (cis-11c). Iso-
+meric mixture (cis/trans = 97/3): colorless paste (136 mg, 74%); Rf
+0.45 (hexanes−ethyl acetate, 1:1); [α]20
+D 68.8 (c = 1.28, CHCl3); 98%
+ee (cis-form); IR (ATR) 3265, 1740, 1491, 982, 964, 812, 772, 754,
+712, 700, 669 cm−1; 1H NMR (CDCl3) δ 0.75 (d, 3H, J = 6.9 Hz),
+1.06 (d, 3H, J = 6.9 Hz), 1.77−1.87 (m, 1H), 3.62 (dd, 1H, J = 2.1, 6.8
+Hz), 4.36 (d, 1H, J = 11.5 Hz), 5.38 (dd, 1H, J = 6.8, 11.5 Hz), 6.48
+(brs, 1H), 7.15−7.19 (m, 1H), 7.21−7.36 (m, 9H); 13C NMR
+(CDCl3) δ 16.2 (q), 20.5 (q), 27.4 (d), 50.2 (d), 60.2 (d), 82.0 (d),
+126.7 (d), 127.1 (d), 127.5 (d), 128.0 (d), 128.4 (d), 129.0 (d), 140.0
+(s), 141.0 (s), 160.6 (s). Anal. Calcd for C19H21NO2: C, 77.26; H,
+7.17; N, 4.74. Found: C, 77.20; H, 7.15; N, 4.67.
+Crystal data of 7g: C22H17NO, FW = 311.37, mp 195−197 °C,
+triclinic, P−1 (No. 2), colorless block, a = 7.3392(15) Å, b =
+10.293(2) Å, c = 12.030(3) Å, α = 101.890(12)°, β = 102.401(12)°, γ
+= 95.231(10)°, V = 859.7(3) Å3, T = 298 K, Z = 2, Dcalcd = 1.203 g/
+cm3, μ = 0.73 cm−1, GOF = 1.064.
+Crystal data of 9b: C20H21NO4, FW = 339.38, mp 182 °C,
+orthorhombic, P212121 (No. 19), colorless block, a = 8.2810(6) Å, b =
+14.3537(10) Å, c = 14.8094(12) Å, V = 1760.3(2) Å3, T = 298 K, Z =
+4, Dcalcd = 1.281 g/cm3, μ = 0.89 cm−1, GOF = 1.041.
+Crystal data of 10d: C20H23NO3, FW = 325.39, mp 131−132 °C,
+orthorhombic, P212121 (No. 19), colorless block, a = 8.9117(8) Å, b =
+14.0713(11) Å, c = 14.8382(12) Å, V = 1860.7(3) Å3, T = 298 K, Z =
+4, Dcalcd = 1.162 g/cm3, μ = 0.78 cm−1, GOF = 0.890.
+Crystal data of rac-11a: C19H19NO2, FW = 293.35, mp 212−213
+°C, monoclinic, Cc (no 9), colorless block, a = 9.402(3) Å, b =
+15.737(3) Å, c = 10.672(3) Å, β = 99.933(1), V = 1555.5(7) Å3, T =
+298 K, Z = 4, Dcalcd = 1.253 g/cm3, μ = 0.81 cm−1, GOF = 1.076.
+Crystal data of rac-cis-11b: C17H17NO2, FW = 267.32, mp 177−
+179 °C, triclinic, P-1 (No. 2), colorless block, a = 10.452(4) Å, b =
+10.453(4) Å, c = 17.077(7) Å, α = 104.04(4), β = 90.81(3), γ =
+116.56(3), V = 1602.7(11) Å3, T = 298 K, Z = 4, Dcalcd = 1.108 g/cm3,
+μ = 0.73 cm−1, GOF = 1.049.
+■ ASSOCIATED CONTENT
+*S Supporting Information
+1H and 13C NMR spectra of products, X-ray crystallographic
+data (ORTEP) of 7g, 9b, 10d, rac-11a, and rac-cis-11b. X-ray
+data for 7g, 9b, 10d, rac-11a, and rac-cis-11b (CIF). This
+material is available free of charge via the Internet at http://
+pubs.acs.org.
+</para>
+3502
+
+DOI: 10.1021/acs.joc.5b00102
+J. Org. Chem. 2015, 80, 3496−3503
+
+The Journal of Organic Chemistry
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: kise@bio.tottori-u.ac.jp.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ REFERENCES
+
+(20) Churruca, F.; Martin, R. S.; Tellitu,
+Tetrahedron Lett. 2006, 47, 3233.
+
+I.; Domínguez, E.
+
+Article
+
+(1) For reviews on the reductive coupling of carbonyl compounds by
+low-valent titanium, see: (a) McMurry, J. E. Chem. Rev. 1989, 89,
+1513. (b) Fürstner, A.; Bogdanović, B. Angew. Chem., Int. Ed. Engl.
+1996, 35, 2442. (c) Ladipo, F. T. Curr. Org. Chem. 2006, 10, 965.
+(d) Majid, M. H.; Zeinab, F. Curr. Org. Chem. 2012, 16, 2097.
+(2) For the intramolecular coupling, see: (a) McMurry, J. E.; Miller,
+D. D. J. Am. Chem. Soc. 1983, 105, 1660. (b) Fürstner, A.; Jumbam, D.
+N. Tetrahedron 1992, 48, 5991. For the intermolecular coupling, see
+(c) Shi, D.-Q.; Chen, J.-X.; Chai, W.-Y.; Chen, W.-X.; Kao, T.-Y.
+Tetrahedron Lett. 1993, 34, 2963.
+(3) Liu, Y.; Zhang, Y. Tetrahedron Lett. 2001, 42, 5745.
+(4) Kise, N.; Arimoto, K.; Ueda, N. Tetrahedron Lett. 2003, 44, 6281.
+(5) (a) Kise, N.; Akazai, S.; Sakurai, T. Tetrahedron Lett. 2011, 52,
+6627. (b) Kise, N.; Takenaga, Y.; Ishikawa, Y.; Morikami, Y.; Sakurai,
+T. Tetrahedron Lett. 2012, 53, 1940. (c) Kise, N.; Kinameri, S.; Sakurai,
+T. Tetrahedron Lett. 2013, 54, 6944.
+(6) For the reductive coupling of nitriles with benzophenones by
+ytterbium metal to give diaryl(hydroxy)methyl ketones, see: Hou, Z.;
+Takamine, K.; Aoki, O.; Shiraishi, H.; Fujiwara, Y.; Taniguchi, H. J.
+Org. Chem. 1988, 53, 6077.
+(7) For the reductive coupling of acyl imidazoles with benzophe-
+nones by electroreduction to give diaryl(hydroxy)methyl ketones, see:
+Kise, N.; Agui, S.; Morimoto, S.; Ueda, N. J. Org. Chem. 2005, 70,
+9407.
+(8) For the reductive coupling of nitriles with benzophenones by
+low-valent titanium to give diarylmethyl ketones, see: (a) Gao, J.; Hu,
+M.-Y.; Chen, J.-X.; Yuan, S.; Chen, W.-X. Tetrahedron Lett. 1993, 34,
+1617. (b) Zhou, L.; Zhang, Y. Tetrahedron 2000, 56, 2953.
+(9) For recent reports on the synthesis of diarylmethyl ketones, see:
+(a) Schmink, J. R.; Leadbeater, N. E. Org. Lett. 2009, 11, 2575.
+(b) Smith, A. G.; Johmson, J. S. Org. Lett. 2010, 12, 1784. (c) Cao, C.;
+Wang, L.; Cai, Z.; Zhang, L.; Guo, J.; Pang, G.; Shi, Y. Eur. J. Org.
+Chem. 2011, 1570. (d) Padmanaban, M.; Biju, A. T.; Glorius, F. Org.
+Lett. 2011, 13, 98. (e) Laloo, B. M.; Mecadon, H.; Rohman, Md. R.;
+Kharbangar,
+I.; Rajbangshi, M.; Nongkhlaw, R.;
+Myrboh, B. J. Org. Chem. 2012, 77, 707. (f) Miyoshi, T.; Sato, S.;
+Tanaka, H.; Hasegawa, C.; Ueda, M.; Miyata, O. Tetrahedron Lett.
+2012, 53, 4188. (g) Zhu, Y.-P.; Jia, F.-C.; Liu, M.-C.; Wu, L.-M.; Cai,
+Q.; Gao, Y.; Wu, A.-X. Org. Lett. 2012, 14, 5378. (h) Scheffler, U.;
+Mahrwald, R. Helv. Chim. Acta 2012, 95, 1970. (i) Danoun, G.; Tlili,
+A.; Monnier, F.; Taillefer, M. Angew. Chem., Int. Ed. 2012, 51, 12815.
+(j) More, N. Y.; Jeganmohan, M. Org. Lett. 2014, 16, 804.
+(10) For recent reports on the reaction of diarylmethyl ketones, see:
+(a) Tan, Y.; Hartwig, J. F. J. Am. Chem. Soc. 2010, 132, 3676.
+(b) Mehta, V. P.; García-López, J.-A.; Greaney, M. F. Angew. Chem.,
+Int. Ed. 2014, 53, 1529.
+(11) For a recent review on oxazolidin-2-ones as chiral auxiliaries,
+see: Heravi, M. M.; Zadsirjan, V. Tetrahedron: Asymmetry 2013, 24,
+1149.
+(12) Kise, N.; Sueyoshi, A.; Takeuchi, S.; Sakurai, T. Org. Lett. 2013,
+15, 2746.
+(13) Clennan, E. L.; Pan, G.-I. Org. Lett. 2003, 5, 4979.
+(14) Fernández-Mateos, A.; Madrazo, S. E.; Teijón, P. H.; González,
+R. R. Eur. J. Org. Chem. 2010, 856.
+(15) Chen, K.; Koser, G. F. J. Org. Chem. 1991, 56, 5764.
+(16) O’Hagan, D.; Royer, F.; Tavasli, M. Tetrahedron: Asymmetry
+2000, 11, 2033.
+(17) Shi, D.-Q.; Chen, J.-X.; Chai, W.-Y.; Chen, W.-X.; Kao, T.-Y.
+Tetrahedron Lett. 1993, 34, 2963.
+(18) Angle, S. R.; Neitzel, M. L. J. Org. Chem. 2000, 65, 6458.
+(19) Huffman, K. R.; Tarbell, D. S. J. Am. Chem. Soc. 1958, 80, 6341.
+
+I.; Kharkongor,
+
+3503
+
+DOI: 10.1021/acs.joc.5b00102
+J. Org. Chem. 2015, 80, 3496−3503
+
+

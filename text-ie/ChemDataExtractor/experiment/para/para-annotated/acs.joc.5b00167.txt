@@ -1,0 +1,673 @@
+Note
+
+pubs.acs.org/joc
+
+†
+
+Palladium-Catalyzed Aryl C(sp2)−H Bond Hydroxylation of
+2‑Arylpyridine Using TBHP as Oxidant
+Jiawei Dong,
+†
+Jiangsu Key Laboratory of Biofunctional Materials, Jiangsu Provincial Key Laboratory of Material Cycle Processes and Pollution
+Control, College of Chemistry and Materials Science, Nanjing Normal University, Nanjing 210097, China
+‡
+Jiangsu Collaborative Innovation Center of Biomedical Functional Materials, Nanjing Normal University, Nanjing 210023, China
+*S Supporting Information
+
+and Peipei Sun*,†,‡
+
+Ping Liu,
+
+†,‡
+
+ABSTRACT: An eﬃcient synthesis of phenols via Pd-catalyzed, pyridyl-directed
+homogeneous hydroxylation of the aryl C−H bond was developed, in which tert-
+butyl hydroperoxide was used as the sole oxidant. The method had a broad group
+tolerance and was available for both electron-rich and electron-deﬁcient substrates.
+The reaction of a series of 2-arylpyridine derivatives gave the ortho-hydroxylation
+products in moderate to good yields.
+
+A s a class of important compounds, phenols are naturally
+
+abundant. Besides their application in organic synthesis,
+phenols are major constituents of many biological and natural
+compounds and almost ubiquitously exist in the structural
+organization of plants and animals.1 Phenolic compounds were
+generally industrially synthesized by multistep procedures as
+represented by the cumene process.1b In view of green and
+sustainable chemistry as well as in economic terms, a direct
+C(sp2)−H bond hydroxylation for phenol synthesis with an
+inexpensive oxidant and without any sacriﬁcial reactant
+is
+desired. Transition-metal-catalyzed C(sp2)−H bond function-
+alization provided the possibility for this transformation.1a,2
+Though the transition-metal-catalyzed C−O bond formation is
+considered to be more diﬃcult compared with C−C and some
+other C−heteroatom bonds,3 there have been many successful
+examples in this regard. A range of palladium-catalyzed
+the C(sp2)−H bond were developed.4
+alkoxylations of
+Moreover, a series of encouraging progress on the direct
+oxidation of aryl C(sp2)−H bonds catalyzed by transition
+metals to form phenols have also been achieved in recent years.
+These hydroxylations regioselectively took place at the ortho-
+position of aromatic rings directed by the carbonyl,5 ester,6
+carbamyl,7 carbamate,8 carboxyl,9 acylamino,10 phosphate,11
+and some azacyclic groups.12 After the ortho-hydroxylation of
+the aryl moiety of 2-arylpyridines using Pd(OAc)2/oxone in
+PEG-3400/t-BuOH reported by Kim et al.,12a Jiao et al.12b
+developed a novel PdCl2 and NHPI (N-hydroxyphthalimide)-
+cocatalyzed aromatic C(sp2)−H bond hydroxylation of 2-
+phenylpyridines,
+in which molecular oxygen was used as a
+heterogeneous oxidant for this transformation. Patel et al.12e
+also obtained a hydroxylation product of 2-phenylpyridine by
+using tert-butyl hydroperoxide (TBHP) as the oxidant in their
+study on the palladium-catalyzed acylation of 2-phenyl-
+pyridines, but further study was not done. In our continuous
+study on the palladium-catalyzed oxidative coupling reaction,
+we found that the peroxide could be an eﬀective homogeneous
+
+oxidant for C−H bond functionalization.13 We herein present
+an eﬃcient method for the synthesis of phenols via Pd-
+catalyzed, pyridyl-directed homogeneous hydroxylation of the
+aryl C−H bond using TBHP as the sole oxidant.
+<para sub=“opt”>
+We initiated our study by employing 2-phenylpyridine (1a)
+as the reactant in the presence of catalyst and TBHP (Table 1).
+Without the palladium catalyst, the reaction could not take
+place at all (entry 1). Thus, Pd(OAc)2, PdCl2, Pd(PPh3)2Cl2,
+and Pd(CH3CN)2Cl2 were tested for this transformation,
+in
+which Pd(OAc)2 was proven to be the most eﬀective (entries 5
+and 14−16). The oxidation reaction could be catalyzed by 5
+mol % of Pd(OAc)2 to give the hydroxylation product 2-
+(pyridin-2-yl)phenol (2a) in 58% yield using 4.0 equiv of
+TBHP as the oxidant in DCE (1,2-dichloroethane) (entry 3).
+The amount of the oxidant had an evident eﬀect on this
+oxidation. In the absence of TBHP, no desired product was
+detected (entry 2). Increasing TBHP to 6.0 equiv led to a
+higher yield of 82% (entry 5); further increasing it to 7.0 equiv
+did not improve the yield (entry 6). Another inﬂuencing factor
+the reaction
+of
+proceeded smoothly and gave the highest yield;
+in TCE
+(1,1,2,2-tetrachloroethane), the hydroxylation product with a
+lower yield of 79% was obtained (entry 8). In CH3CN, dioxane,
+or DMF, however, only trace desired product was found
+(entries 9−11). The reaction temperature was also crucial. The
+appropriate temperature was proven to be 115 °C. Increasing
+the temperature to 125 °C failed to further increase the yield
+(entry 13), but at 100 °C, only 43% yield was obtained (entry
+12). It is noticeable that, when the reaction proceeded in
+nitrogen atmosphere, a result similar to that in air was obtained
+(entry 17).
+
+this reaction was the solvent.
+
+In DCE,
+</para>
+<para sub="scope">
+With the optimal conditions
+
+in hand, a series of 2-
+arylpyridines were tested, and the results are summarized in
+</para>
+Received:
+January 23, 2015
+Published: February 9, 2015
+
+© 2015 American Chemical Society
+
+2925
+
+DOI: 10.1021/acs.joc.5b00167
+J. Org. Chem. 2015, 80, 2925−2929
+
+The Journal of Organic Chemistry
+
+Table 1. Optimization of Reaction Conditionsa
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12b
+13c
+14
+15
+16
+17d
+
+catalyst (mol %)
+
+TBHP (equiv)
+
+Pd(OAc)2 (5)
+Pd(OAc)2 (5)
+Pd(OAc)2 (5)
+Pd(OAc)2 (5)
+Pd(OAc)2 (5)
+Pd(OAc)2 (10)
+Pd(OAc)2 (5)
+Pd(OAc)2 (5)
+Pd(OAc)2 (5)
+Pd(OAc)2 (5)
+Pd(OAc)2 (5)
+Pd(OAc)2 (5)
+PdCl2 (5)
+Pd(PPh3)2Cl2 (5)
+Pd(CH3CN)2Cl2 (5)
+Pd(OAc)2 (5)
+
+6.0
+
+4.0
+5.0
+6.0
+7.0
+6.0
+6.0
+6.0
+6.0
+6.0
+6.0
+6.0
+6.0
+6.0
+6.0
+6.0
+
+solvent
+DCE
+DCE
+DCE
+DCE
+DCE
+DCE
+DCE
+TCE
+CH3CN
+dioxane
+DMF
+DCE
+DCE
+DCE
+DCE
+DCE
+DCE
+
+yield (%)
+
+0
+0
+58
+77
+82
+83
+86
+79
+trace
+trace
+trace
+43
+80
+62
+45
+53
+85
+
+aUnless otherwise speciﬁed, the reactions were carried out in a sealed
+tube in the presence of 2-phenypyridine (1a, 0.3 mmol), solvent (1
+mL), catalyst, and TBHP under air atmosphere at 115 °C for 20 h. bAt
+100 °C. cAt 125 °C. dIn N2 atmosphere.
+<para sub="scope">
+Table 2. The meta- or para-halogenated substrates were
+compatible with the process and aﬀorded corresponding
+hydroxylated products in good yields (2c−2h). However, 2-
+(2-ﬂuorophenyl)pyridine gave the desired product
+in a
+relatively lower yield of 55% (2b), which might be because of
+the steric eﬀect. Arenes containing other electron-withdrawing
+groups also aﬀorded the expected product with good yields,
+except in the case of carbonyl or ester-containing compounds,
+which only gave moderate yields (2n, 2o). Interestingly, the
+reaction of 2-(naphthalen-2-yl)pyridine gave a β-hydroxylation
+product (2w), which might also be attributed to the less steric
+its β-position. The large conjugated reactant
+hindrance of
+benzo[h]quinolone also gave a 10-hydroxylated product in 79%
+yield (2x). Some substrates with electron-donating groups
+seemed to be disadvantageous to the reaction. For example,
+moderate yields were obtained from methoxy-, ethyl-, or n-
+pentyl-substituted 2-phenylpyridines (2p, 2s, 2t), and the exact
+reason is not clear. In general, formation of the dihydroxylation
+product was not observed, and for meta-substituted substrates,
+the hydroxylation proceeded at the less sterically hindered
+position with high regioselectivity. It must be pointed out that,
+when 7 mmol (1.09 g) 1a was used, product 2a was still
+achieved with a yield of 79%, which demonstrated the practical
+utility of the present method.
+</para>
+<para sub="scope">
+A control experiment was also carried out (Scheme 1). A
+radical-trapping reagent 2,2,6,6-tetramethyl-1-piperidinyloxy
+(TEMPO) was added in the reaction mixture of 1a under
+the established reaction conditions. The results showed that, in
+the presence of 2 equiv of TEMPO, the yield of 2a was reduced
+to 30%, and when the amount of TEMPO was increased to 4
+equiv, a yield lower than 10% was obtained (Scheme 1). The
+</para>
+Note
+<para sub="scope">
+obvious inhibitory eﬀect of TEMPO indicated that the radicals
+maybe existed in this transformation.
+</para>
+<para sub="scope">
+As mentioned in our optimization of reaction conditions,
+when the reaction proceeded in nitrogen atmosphere, a result
+similar to that in air was obtained (Table 1, entry 17), which
+revealed that TBHP was the sole hydroxyl source. On the basis
+of our experimental results and related reports,14 we proposed a
+possible mechanism for this direct hydroxylation of the aryl C−
+H bond (Scheme 2). Initially, the chelation-assisted C−H
+activation at the ortho-position of the directing group with
+Pd(OAc)2 formed a Pd(II) intermediate A. Homolysis of
+TBHP gave HO• and t-BuO•,13 which could abstract a
+hydrogen radical from HOAc, then release AcO•, followed by
+oxidative addition of HO• and AcO• to form Pd(IV)
+intermediate B. Finally, reductive elimination of B gave the
+product 2a and regenerated the Pd(II) species.
+In summary, a simple method for the synthesis of phenols by
+Pd(OAc)2-catalyzed, pyridyl-directed aryl sp2 C−H bond
+activation using TBHP as the sole oxidant and without any
+ligand has been explored. Various substituents on the aryl ring,
+including some coupling-reaction-sensitive groups (Cl, Br),
+tolerated the reaction and gave the hydroxylation products in
+moderate to good yields.
+</para>
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General. All
+
+reactions were run in air. All
+
+reagents were
+commercially available and were used without further puriﬁcation.
+NMR spectra were recorded at 400 MHz (1H) and 100 MHz
+(13C{1H}) using TMS as an internal standard. Chemical shifts are
+given relative to CDCl3 (7.28 ppm for 1H NMR, 77.16 ppm for
+13C{1H} NMR). The following abbreviations were used to describe
+peak splitting patterns when appropriate: s = singlet, d = doublet, t =
+triplet, q = quartet, m = multiplet, dd = doublet of doublets, dt =
+doublet of triplets, ddd = doublet of doublet of doublets, td = triplet of
+doublets, br s = broad singlet. Melting points are uncorrected. For the
+HRMS measurements, a Q-TOF analyzer was used.
+
+General Experimental Procedures for Palladium-Catalyzed
+ortho-Hydroxylation of 2-Arylpyridines and Characterizations.
+A mixture of 2-arylpyridines 1 (0.3 mmol), Pd(OAc)2 (3.4 mg, 5 mol
+%), and TBHP (0.25 mL, 6.0 equiv, 70% aqueous solution) combined
+in DCE (1 mL) was sealed in a 25 mL tube with a Teﬂon-lined cap.
+The tube was then placed in an oil bath, stirred, and heated at 115 °C
+for 20 h. After being cooled to room temperature, the reaction mixture
+was quenched with brine and extracted with dichloromethane (30 mL
+× 3). The combined organic layer was dried with anhydrous Na2SO4,
+and the solvent was removed under vacuum. The crude product was
+puriﬁed over a column of silica gel (eluant: hexane/ethyl acetate) to
+aﬀord the desired product 2.
+
+2-(Pyridin-2-yl)phenol (2a):12b Yellow oil (42.1 mg, 82% yield); 1H
+NMR (400 MHz, CDCl3) δ 14.34 (br s, 1H), 8.52 (d, J = 4.5 Hz, 1H),
+7.93 (d, J = 8.3 Hz, 1H), 7.89−7.76 (m, 2H), 7.35−7.28 (m, 1H),
+7.28−7.23 (m, 1H), 7.04 (dd, J = 8.2, 1.0 Hz, 1H), 6.95−6.87 (m,
+1H); 13C{1H} NMR (100 MHz, CDCl3) δ 160.0, 157.8, 145.8, 137.8,
+131.5, 126.2, 121.5, 119.1, 118.8, 118.6.
+3-Fluoro-2-(pyridin-2-yl)phenol (2b): Yellow solid (31.2 mg, 55%
+yield); mp 55−57 °C; 1H NMR (400 MHz, CDCl3) δ 14.86 (br s,
+1H), 8.61−8.53 (m, 1H), 8.19 (d, J = 8.4 Hz, 1H), 7.93−7.85 (m,
+1H), 7.32 (ddd, J = 7.5, 5.0, 1.0 Hz, 1H), 7.24 (td, J = 8.3, 6.4 Hz, 1H),
+6.86 (dt, J = 8.3, 1.0 Hz, 1H), 6.67 (ddd, J = 12.7, 8.2, 1.2 Hz, 1H);
+13C{1H} NMR (101 MHz, CDCl3) δ 162.0 (d, J = 251.2 Hz), 161.3
+(d, J = 5.6 Hz), 154.5, 145.4, 138.1, 130.9 (d, J = 12.7 Hz), 124.7 (d, J
+= 21.1 Hz), 122.0, 114.2 (d, J = 2.8 Hz), 108.7 (d, J = 11.4 Hz), 106.2
+(d, J = 25.0 Hz); HRMS-ESI (m/z) calcd for C11H8FNONa [M +
+Na]+ 212.0482, found 212.0484.
+(2c):12b Yellow solid (40.9 mg,
+72% yield); mp 76−77 °C; 1H NMR (400 MHz, CDCl3) δ 13.98 (br
+s, 1H), 8.61−8.50 (m, 1H), 7.87 (ddd, J = 13.4, 10.0, 4.9 Hz, 2H), 7.47
+
+4-Fluoro-2-(pyridin-2-yl)phenol
+</para>
+2926
+
+DOI: 10.1021/acs.joc.5b00167
+J. Org. Chem. 2015, 80, 2925−2929
+
+The Journal of Organic Chemistry
+
+Note
+
+Table 2. Palladium-Catalyzed Hydroxylation of 2-Arylpyridines with TBHPa
+
+aReaction conditions: 2-arylpyridine (1, 0.3 mmol), Pd(OAc)2 (5 mol %), and TBHP (6.0 equiv) in DCE (1 mL) under air atmosphere at 115 °C
+for 20 h. bThe reaction of 1a (7 mmol, 1.09 g) under the standard reaction conditions.
+<para sub=“exp”>
+(dd, J = 9.9, 2.9 Hz, 1H), 7.30 (ddd, J = 6.7, 5.0, 1.5 Hz, 1H), 7.11−
+6.93 (m, 2H); 13C{1H} NMR (100 MHz, CDCl3) δ 156.7 (d, J = 2.8
+Hz), 156.0 (d, J = 1.6 Hz), 155.7 (d, J = 236.3 Hz), 146.0, 138.1,
+122.1, 119.5 (d, J = 7.9 Hz), 119.3, 118.8 (d, J = 7.2 Hz), 118.4 (d, J =
+23.2 Hz), 111.8 (d, J = 24.3 Hz).
+5-Fluoro-2-(pyridin-2-yl)phenol (2d):12b Yellow solid (39.7 mg,
+70% yield); mp 109−111 °C; 1H NMR (400 MHz, CDCl3) δ 14.81
+(br s, 1H), 8.56−8.44 (m, 1H), 7.89−7.81 (m, 2H), 7.77 (dd, J = 8.9,
+
+6.5 Hz, 1H), 7.32−7.20 (m, 1H), 6.74 (dd, J = 10.6, 2.6 Hz, 1H), 6.64
+(ddd, J = 8.9, 8.0, 2.7 Hz, 1H); 13C{1H} NMR (100 MHz, CDCl3) δ
+164.6 (d, J = 250.3 Hz), 162.0 (d, J = 12.9 Hz), 157.2, 145.6, 137.9,
+127.5 (d, J = 10.8 Hz), 121.5, 118.8, 115.4 (d, J = 2.8 Hz), 106.3 (d, J
+= 22.4 Hz), 105.2 (d, J = 23.3 Hz).
+4-Chloro-2-(pyridin-2-yl)phenol (2e): Yellow solid (41.9 mg, 68%
+yield); mp 95−96 °C; 1H NMR (400 MHz, CDCl3) δ 14.34 (br s,
+1H), 8.54 (dt, J = 5.0, 1.5 Hz, 1H), 7.92−7.81 (m, 2H), 7.77 (d, J = 2.5
+</para>
+2927
+
+DOI: 10.1021/acs.joc.5b00167
+J. Org. Chem. 2015, 80, 2925−2929
+
+The Journal of Organic Chemistry
+
+Scheme 1. Eﬀect of TEMPO on the Reaction
+
+Scheme 2. Plausible Reaction Mechanism
+
+5-Chloro-2-(pyridin-2-yl)phenol
+<para sub=“exp”>
+Hz, 1H), 7.34−7.18 (m, 2H), 6.99 (d, J = 8.8 Hz, 1H); 13C{1H} NMR
+(100 MHz, CDCl3) δ 158.6, 156.6, 146.0, 138.1, 131.2, 125.7, 123.5,
+122.1, 120.0, 119.8, 119.2; HRMS-ESI (m/z) calcd for C11H9ClNO
+[M + H]+ 206.0367, found 206.0365.
+(2f):12b Yellow solid (51.8 mg,
+84% yield); mp 82−83 °C; 1H NMR (400 MHz, CDCl3) δ 14.70 (br
+s, 1H), 8.52 (dt, J = 5.0, 1.4 Hz, 1H), 7.91−7.80 (m, 2H), 7.72 (d, J =
+8.6 Hz, 1H), 7.33−7.21 (m, 1H), 7.05 (d, J = 2.2 Hz, 1H), 6.90 (dd, J
+= 8.6, 2.2 Hz, 1H); 13C{1H} NMR (100 MHz, CDCl3) δ 160.8, 157.0,
+145.8, 138.0, 136.7, 127.0, 121.8, 119.1, 119.0, 118.6, 117.4.
+4-Bromo-2-(pyridin-2-yl)phenol (2g): Yellow solid (57.0 mg, 76%
+yield); mp 111−114 °C; 1H NMR (400 MHz, CDCl3) δ 14.22 (br s,
+1H), 8.54 (dt, J = 5.0, 1.4 Hz, 1H), 7.92−7.86 (m, 3H), 7.39 (dd, J =
+8.8, 2.4 Hz, 1H), 7.34−7.29 (m, 1H), 6.94 (d, J = 8.8 Hz, 1H);
+13C{1H} NMR (100 MHz, CDCl3) δ 159.0, 156.4, 145.9, 138.1, 134.1,
+128.7, 122.2, 120.5, 120.4, 119.2, 110.6; HRMS-ESI (m/z) calcd for
+C11H8BrNONa [M + Na]+ 271.9681, found 271.9694.
+5-Bromo-2-(pyridin-2-yl)phenol (2h): Yellow solid (54.8 mg, 73%
+yield); mp 67−68 °C; 1H NMR (400 MHz, CDCl3) δ 14.64 (br s,
+1H), 8.51 (dt, J = 5.0, 1.4 Hz, 1H), 7.91−7.81 (m, 2H), 7.65 (d, J = 8.5
+Hz, 1H), 7.32−7.25 (m, 1H), 7.22 (d, J = 2.0 Hz, 1H), 7.04 (dd, J =
+8.5, 2.1 Hz, 1H); 13C{1H} NMR (100 MHz, CDCl3) δ 160.8, 157.0,
+145.8, 138.0, 127.1, 124.9, 122.0, 121.9, 121.6, 119.0, 117.7; HRMS-
+ESI (m/z) calcd for C11H8BrNONa [M + Na]+ 271.9681,
+found
+271.9691.
+(2i): Yellow solid
+(64.3 mg, 84% yield); mp 62−64 °C; 1H NMR (400 MHz, CDCl3)
+δ 14.26 (br s, 1H), 8.55 (dt, J = 5.0, 1.4 Hz, 1H), 7.94−7.82 (m, 2H),
+7.65 (d, J = 2.7 Hz, 1H), 7.35−7.29 (m, 1H), 7.22−7.17 (m, 1H), 7.04
+(d, J = 9.0 Hz, 1H); 13C{1H} NMR (100 MHz, CDCl3) δ 158.6, 156.5,
+145.9, 141.0 (d, J = 2.0 Hz), 138.1, 122.3, 120.7 (q, J = 257.0 Hz),
+119.6, 119.3, 119.0, 119.0; HRMS-ESI (m/z) calcd for C12H9F3NO2
+[M + H]+ 256.0580, found 256.0584.
+(2j): Yellow solid
+(67.4 mg, 88% yield); mp 68−70 °C; 1H NMR (400 MHz, CDCl3)
+δ 14.69 (br s, 1H), 8.51 (dt, J = 5.1, 1.4 Hz, 1H), 7.89−7.83 (m, 2H),
+7.80 (d, J = 8.8 Hz, 1H), 7.32−7.25 (m, 1H), 6.90 (dd, J = 2.4, 1.1 Hz,
+
+2-(Pyridin-2-yl)-4-(triﬂuoromethoxy)phenol
+
+2-(Pyridin-2-yl)-5-(triﬂuoromethoxy)phenol
+</para>
+Note
+<para sub=“exp”>
+2-(Pyridin-2-yl)-5-(triﬂuoromethyl)phenol
+
+1H), 6.77 (ddd, J = 8.8, 2.4, 1.1 Hz, 1H); 13C{1H} NMR (100 MHz,
+CDCl3) δ 161.4, 156.8, 151.2 (d, J = 1.7 Hz), 145.8, 138.0, 127.2,
+121.9, 120.4 (q, J = 257.7 Hz), 119.1, 117.3, 110.8, 110.4; HRMS-ESI
+(m/z) calcd for C12H9F3NO2 [M + H]+ 256.0580, found 256.0584.
+2-(Pyridin-2-yl)-4-(triﬂuoromethyl)phenol (2k): Yellow solid (60.1
+mg, 85% yield); mp 88−89 °C; 1H NMR (400 MHz, CDCl3) δ 14.77
+(br s, 1H), 8.56 (d, J = 4.7 Hz, 1H), 8.07 (d, J = 1.4 Hz, 1H), 7.99 (d, J
+= 8.3 Hz, 1H), 7.95−7.88 (m, 1H), 7.56 (dd, J = 8.6, 1.9 Hz, 1H), 7.35
+(ddd, J = 7.2, 5.1, 0.9 Hz, 1H), 7.12 (d, J = 8.6 Hz, 1H); 13C{1H}
+NMR (100 MHz, CDCl3) δ 162.7, 156.5, 145.8, 138.3, 128.2 (q, J =
+3.5 Hz), 124.5 (q, J = 272.1 Hz), 123.6 (q, J = 3.9 Hz), 122.4, 120.9 (q,
+J = 32.7 Hz), 119.3, 119.1, 118.4; HRMS-ESI (m/z) calcd for
+C12H9F3NO [M + H]+ 240.0631, found 240.0627.
+(2l):12b Yellow solid
+(60.1 mg, 85% yield); mp 107−108 °C; 1H NMR (400 MHz,
+CDCl3) δ 14.51 (br s, 1H), 8.57 (d, J = 4.8 Hz, 1H), 7.97 (d, J = 8.2
+Hz, 1H), 7.94−7.87 (m, 2H), 7.39−7.32 (m, 1H), 7.29 (s, 1H), 7.17−
+7.09 (m, 1H); 13C{1H} NMR (100 MHz, CDCl3) δ 160.1, 156.5,
+146.0, 138.2, 132.9 (q, J = 32.6 Hz), 126.6, 123.8 (q, J = 272.4 Hz),
+122.6, 121.5, 119.6, 115.8 (q, J = 3.9 Hz), 115.0 (q, J = 3.8 Hz).
+4-Nitro-2-(pyridin-2-yl)phenol (2m): Yellow solid (56.4 mg, 87%
+yield); mp 212−213 °C; 1H NMR (400 MHz, CDCl3) δ 15.65 (br s,
+1H), 8.82 (d, J = 2.7 Hz, 1H), 8.59 (ddd, J = 5.0, 1.7, 0.9 Hz, 1H), 8.22
+(dd, J = 9.1, 2.7 Hz, 1H), 8.09 (d, J = 8.3 Hz, 1H), 8.00 (ddd, J = 8.3,
+7.6, 1.8 Hz, 1H), 7.42 (ddd, J = 7.5, 5.1, 1.1 Hz, 1H), 7.10 (d, J = 9.1
+Hz, 1H); 13C{1H} NMR (100 MHz, CDCl3) δ 166.1, 155.8, 145.7,
+139.8, 138.7, 126.9, 123.0, 122.7, 119.5, 119.3, 118.1; HRMS-ESI (m/
+z) calcd for C11H8N2O3Na [M + Na]+ 239.0427, found 239.0429.
+1-(3-Hydroxy-4-(pyridin-2-yl)phenyl)ethanone (2n): Yellow solid
+(40.9 mg, 64% yield); mp 116−117 °C; 1H NMR (400 MHz, CDCl3)
+δ 14.48 (br s, 1H), 8.56 (ddd, J = 5.0, 1.7, 0.9 Hz, 1H), 7.98 (d, J = 8.3
+Hz, 1H), 7.94−7.84 (m, 2H), 7.58 (d, J = 1.8 Hz, 1H), 7.50 (dd, J =
+8.3, 1.8 Hz, 1H), 7.34 (ddd, J = 7.4, 5.0, 1.1 Hz, 1H), 2.62 (s, 3H);
+13C{1H} NMR (100 MHz, CDCl3) δ 197.8, 160.0, 156.7, 146.1, 139.2,
+138.1, 126.3, 122.6, 122.5, 119.8, 119.0, 118.0, 26.8; HRMS-ESI (m/z)
+calcd for C13H11NO2Na [M + Na]+ 236.0682, found 236.0687.
+Ethyl 3-Hydroxy-4-(pyridin-2-yl)benzoate (2o): Yellow solid (50.4
+mg, 69% yield); mp 94−95 °C; 1H NMR (400 MHz, CDCl3) δ 14.41
+(br s, 1H), 8.55 (d, J = 4.9 Hz, 1H), 7.97 (d, J = 8.3 Hz, 1H), 7.92−
+7.83 (m, 2H), 7.70 (d, J = 1.7 Hz, 1H), 7.57 (dd, J = 8.3, 1.7 Hz, 1H),
+7.32 (ddd, J = 7.4, 5.0, 0.9 Hz, 1H), 4.39 (q, J = 7.1 Hz, 2H), 1.41 (t, J
+= 7.1 Hz, 3H); 13C{1H} NMR (100 MHz, CDCl3) δ 166.2, 159.7,
+156.9, 146.0, 138.0, 132.9, 126.1, 122.4, 119.8, 119.8, 119.5, 61.1, 14.3;
+HRMS-ESI (m/z) calcd for C14H13NO3Na [M + Na]+ 266.0788,
+found 266.0793.
+
+5-Methoxy-2-(pyridin-2-yl)phenol (2p): Yellow oil (30.8 mg, 51%
+yield); 1H NMR (400 MHz, CDCl3) δ 14.66 (br s, 1H), 8.45 (d, J =
+5.0 Hz, 1H), 7.83−7.76 (m, 2H), 7.70 (d, J = 8.8 Hz, 1H), 7.21−7.13
+(m, 1H), 6.56 (d, J = 2.6 Hz, 1H), 6.49 (dd, J = 8.8, 2.6 Hz, 1H), 3.84
+(s, 3H); 13C{1H} NMR (100 MHz, CDCl3) δ 162.4, 161.9, 157.8,
+145.5, 137.6, 127.2, 120.5, 118.3, 112.1, 106.6, 102.2, 55.3; HRMS-ESI
+(m/z) calcd for C12H12NO2 [M + H]+ 202.0863, found 202.0860.
+4-Methyl-2-(pyridin-2-yl)phenol (2q): Yellow oil (44.4 mg, 80%
+yield); 1H NMR (400 MHz, CDCl3) δ 14.01 (br s, 1H), 8.55−8.48
+(m, 1H), 7.93 (d, J = 8.4 Hz, 1H), 7.88−7.79 (m, 1H), 7.61 (d, J = 1.7
+Hz, 1H), 7.25 (ddd, J = 7.4, 5.0, 1.0 Hz, 1H), 7.14 (dd, J = 8.2, 1.9 Hz,
+1H), 6.96 (d, J = 8.3 Hz, 1H), 2.36 (s, 3H); 13C{1H} NMR (100 MHz,
+CDCl3) δ 157.9, 157.7, 145.9, 137.7, 132.4, 127.7, 126.3, 121.4, 119.0,
+118.4, 20.8; HRMS-ESI (m/z) calcd for C12H11NONa [M + Na]+
+208.0733, found 208.0735.
+
+5-Methyl-2-(pyridin-2-yl)phenol (2r):12b Yellow oil (40.6 mg, 73%
+yield); 1H NMR (400 MHz, CDCl3) δ 14.19 (br s, 1H), 8.50 (d, J =
+4.8 Hz, 1H), 7.89 (d, J = 8.3 Hz, 1H), 7.86−7.79 (m, 1H), 7.68 (d, J =
+8.1 Hz, 1H), 7.25−7.19 (m, 1H), 6.87 (s, 1H), 6.73 (d, J = 8.1 Hz,
+1H), 2.34 (s, 3H); 13C{1H} NMR (100 MHz, CDCl3) δ 159.9, 158.0,
+145.8, 142.1, 137.7, 125.9, 121.1, 119.9, 118.9, 118.7, 116.2, 21.4.
+
+5-Ethyl-2-(pyridin-2-yl)phenol
+
+(2s): Yellow oil (35.3 mg, 59%
+yield); 1H NMR (400 MHz, CDCl3) δ 14.24 (br s, 1H), 8.52 (ddd, J =
+5.1, 1.8, 0.9 Hz, 1H), 7.91 (d, J = 8.4 Hz, 1H), 7.84 (ddd, J = 8.3, 7.4,
+1.8 Hz, 1H), 7.73 (d, J = 8.1 Hz, 1H), 7.24 (ddd, J = 7.3, 5.1, 1.1 Hz,
+</para>
+2928
+
+DOI: 10.1021/acs.joc.5b00167
+J. Org. Chem. 2015, 80, 2925−2929
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+1H), 6.95−6.88 (m, 1H), 6.78 (dd, J = 8.1, 1.8 Hz, 1H), 2.66 (q, J =
+7.6 Hz, 2H), 1.28 (t, J = 7.6 Hz, 3H); 13C{1H} NMR (100 MHz,
+CDCl3) δ 160.0, 157.9, 148.5, 145.7, 137.8, 126.1, 121.1, 118.9, 118.8,
+117.6, 116.4, 28.8, 15.1; HRMS-ESI (m/z) calcd for C13H14NO [M +
+H]+ 200.1070, found 200.1068.
+
+5-Pentyl-2-(pyridin-2-yl)phenol
+
+(2t): Yellow oil (44.9 mg, 62%
+yield); 1H NMR (400 MHz, CDCl3) δ 14.36 (br s, 1H), 8.51 (ddd, J =
+5.0, 1.8, 1.0 Hz, 1H), 7.93−7.86 (m, 1H), 7.82 (ddd, J = 8.4, 7.4, 1.8
+Hz, 1H), 7.72 (d, J = 8.2 Hz, 1H), 7.22 (ddd, J = 7.4, 5.0, 1.1 Hz, 1H),
+6.89 (d, J = 1.6 Hz, 1H), 6.76 (dd, J = 8.1, 1.7 Hz, 1H), 2.67−2.52 (m,
+2H), 1.74−1.61 (m, 2H), 1.41−1.32 (m, 4H), 0.92 (t, J = 7.0 Hz, 3H);
+13C{1H} NMR (100 MHz, CDCl3) δ 159.9, 158.0, 147.2, 145.8, 137.7,
+125.9, 121.1, 119.3, 118.8, 118.2, 116.4, 35.8, 31.5, 30.7, 22.6, 14.0;
+HRMS-ESI (m/z) calcd for C16H20NO [M + H]+ 242.1539, found
+242.1535.
+
+5-(tert-Butyl)-2-(pyridin-2-yl)phenol
+
+(2u): Yellow oil (56.6 mg,
+83% yield); 1H NMR (400 MHz, CDCl3) δ 14.30 (br s, 1H), 8.51
+(ddd, J = 5.0, 1.8, 0.9 Hz, 1H), 7.90 (d, J = 8.4 Hz, 1H), 7.82 (ddd, J =
+8.3, 7.4, 1.8 Hz, 1H), 7.75 (d, J = 8.4 Hz, 1H), 7.22 (ddd, J = 7.3, 5.0,
+1.1 Hz, 1H), 7.09 (d, J = 2.0 Hz, 1H), 6.98 (dd, J = 8.4, 2.0 Hz, 1H),
+1.36 (s, 9H); 13C{1H} NMR (100 MHz, CDCl3) δ 159.7, 157.8, 155.4,
+145.8, 137.7, 125.8, 121.1, 118.8, 116.3, 116.2, 115.5, 34.8, 31.1;
+HRMS-ESI (m/z) calcd for C15H17NONa [M + Na]+ 250.1202, found
+250.1202.
+4-(Pyridin-2-yl)-[1,1′-biphenyl]-3-ol (2v):12b Yellow solid (48.2 mg,
+65% yield); mp 156−157 °C; 1H NMR (400 MHz, CDCl3) δ 14.45
+(br s, 1H), 8.54 (ddd, J = 5.0, 1.8, 0.9 Hz, 1H), 7.95 (d, J = 8.3 Hz,
+1H), 7.91−7.80 (m, 2H), 7.70 (dq, J = 2.8, 1.7 Hz, 2H), 7.52−7.44
+(m, 2H), 7.43−7.37 (m, 1H), 7.34 (d, J = 1.9 Hz, 1H), 7.29−7.23 (m,
+1H), 7.20 (dd, J = 8.3, 1.9 Hz, 1H); 13C{1H} NMR (100 MHz,
+CDCl3) δ 160.3, 157.6, 145.9, 144.2, 140.2, 137.8, 128.8, 127.8, 127.0,
+126.6, 121.5, 119.1, 117.8, 117.7, 116.8.
+3-(Pyridin-2-yl)naphthalen-2-ol (2w): Yellow solid (40.5 mg, 61%
+yield); mp 150−151 °C; 1H NMR (400 MHz, CDCl3) δ 14.05 (br s,
+1H), 8.59 (d, J = 4.4 Hz, 1H), 8.35 (s, 1H), 8.18 (d, J = 8.1 Hz, 1H),
+7.94 (t, J = 7.4 Hz, 1H), 7.83 (d, J = 8.1 Hz, 1H), 7.69 (d, J = 8.3 Hz,
+1H), 7.45 (t, J = 7.2 Hz, 1H), 7.40 (s, 1H), 7.37−7.29 (m, 2H);
+13C{1H} NMR (100 MHz, CDCl3) δ 157.3, 156.6, 145.8, 138.4, 135.9,
+128.4, 127.5, 127.4, 127.2, 126.0, 123.3, 122.2, 121.3, 120.6, 112.3;
+HRMS-ESI (m/z) calcd for C15H11NONa [M + Na]+ 244.0733, found
+244.0735.
+Benzo[h]quinolin-10-ol (2x):4a Yellow solid (46.3 mg, 79% yield);
+mp 102−104 °C; 1H NMR (400 MHz, CDCl3) δ 14.96 (s, 1H), 8.85
+(dd, J = 4.7, 1.7 Hz, 1H), 8.27 (dd, J = 8.1, 1.7 Hz, 1H), 7.83 (d, J =
+8.9 Hz, 1H), 7.67−7.61 (m, 2H), 7.58 (dd, J = 8.0, 4.7 Hz, 1H), 7.44
+(dd, J = 7.9, 0.9 Hz, 1H), 7.30−7.26 (m, 1H); 13C{1H} NMR (100
+MHz, CDCl3) δ 159.4, 148.3, 145.0, 136.3, 135.0, 129.9, 129.2, 126.3,
+124.6, 120.8, 118.1, 115.9, 114.0.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Copies of 1H NMR and 13C NMR spectra for all products. This
+material is available free of charge via the Internet at http://
+pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: sunpeipei@njnu.edu.cn.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+Note
+
+■ REFERENCES
+(1) (a) Alonso, D. A.; Najera, C.; Pastor, I. M.; Yus, M. Chem.Eur.
+J. 2010, 16, 5274. (b) The Chemistry of Phenols; Rappoport, Z., Ed.;
+John Wiley & Sons Ltd.: Chichester, U.K., 2003. (c) Charisiadis, P.;
+Kontogianni, V. G.; Tsiafoulis, C. G.; Tzakos, A. G.; Siskos, M.;
+Gerothanassis, I. P. Molecules 2014, 19, 13643.
+(2) (a) Enthaler, S.; Company, A. Chem. Soc. Rev. 2011, 40, 4912.
+(b) Thirunavukkarasu, V. S.; Kozhushkov, S. I.; Ackermann, L. Chem.
+Commun. 2014, 50, 29. (c) Zhang, M.; Zhang, Y. F.; Jie, X. M.; Zhao,
+H. Q.; Li, G.; Su, W. P. Org. Chem. Front. 2014, 1, 843.
+(3) (a) Furuya, T.; Kamlet, A. S.; Ritter, T. Nature 2011, 473, 470.
+(b) Torraca, K. E.; Huang, X.; Parrich, C. A.; Buchwald, S. L. J. Am.
+Chem. Soc. 2001, 123, 10770. (c) Gowrisankar, S.; Sergeev, A. G.;
+Anbarasan, P.; Spannenberg, A.; Neumann, H.; Beller, M. J. Am. Chem.
+Soc. 2010, 132, 11592.
+(4) For partial examples of palladium-catalyzed alkoxylation of the
+C(sp2)−H bond, see: (a) Dick, A. R.; Hull, K. L.; Sanford, M. S. J. Am.
+Chem. Soc. 2004, 126, 2300. (b) Desai, L. V.; Malik, H. A.; Sanford, M.
+S. Org. Lett. 2006, 8, 1141. (c) Wang, G. W.; Yuan, T. T. J. Org. Chem.
+2010, 75, 476. (d) Jiang, T. S.; Wang, G. W. J. Org. Chem. 2012, 77,
+9504. (e) Zhang, S. Y.; He, G.; Zhao, Y. S.; Wright, K.; Nack, W. A.;
+Chen, G. J. Am. Chem. Soc. 2012, 134, 7313. (f) Li, W.; Sun, P. P. J.
+Org. Chem. 2012, 77, 8362. (g) Yin, Z. W.; Jiang, X. Q.; Sun, P. P. J.
+Org. Chem. 2013, 78, 10002. (h) Chen, F. J.; Zhao, S.; Hu, F.; Chen,
+K.; Zhang, Q.; Zhang, S. Q.; Shi, B. F. Chem. Sci. 2013, 4, 4187.
+(i) Zhang, C.; Sun, P. P. J. Org. Chem. 2014, 79, 8457. (j) Shi, S. P.;
+Kuang, C. X. J. Org. Chem. 2014, 79, 6105. (k) Gao, T. T.; Sun, P. P. J.
+Org. Chem. 2014, 79, 9888.
+(5) (a) Shan, G.; Yang, X. L.; Ma, L. L.; Rao, Y. Angew. Chem., Int. Ed.
+2012, 51, 13070. (b) Mo, F. Y.; Trzepkowski, L. J.; Dong, G. B. Angew.
+Chem., Int. Ed. 2012, 51, 13075. (c) Yang, F. Z.; Rauch, K.; Kettelhoit,
+Int. Ed. 2014, 53, 11285.
+K.; Ackermann, L. Angew. Chem.,
+(d) Thirunavukkarasu, V. S.; Ackermann, L. Org. Lett. 2012, 14,
+6206. (e) Choy, P. Y.; Kwong, F. Y. Org. Lett. 2013, 15, 270.
+(6) Yang, Y. Q.; Lin, Y.; Rao, Y. Org. Lett. 2012, 14, 2874.
+(7) (a) Thirunavukkarasu, V. S.; Hubrich, J.; Ackermann, L. Org. Lett.
+2012, 14, 4210. (b) Yang, F. Z.; Ackermann, L. Org. Lett. 2013, 15,
+718.
+(8) Liu, W. P.; Ackermann, L. Org. Lett. 2013, 15, 3484.
+(9) (a) Zhang, Y. H.; Yu, J. Q. J. Am. Chem. Soc. 2009, 131, 14654.
+(b) Gallardo-Donaire, J.; Martin, R. J. Am. Chem. Soc. 2013, 135, 9350.
+(10) Yang, X. L.; Shan, G.; Rao, Y. Org. Lett. 2013, 15, 2334.
+(11) (a) Eom, D.; Jeong, Y.; Kim, Y. R.; Lee, E.; Choi, W.; Lee, P. H.
+Org. Lett. 2013, 15, 5210. (b) Zhang, H. Y.; Yi, H. M.; Wang, G. W.;
+Yang, B.; Yang, S. D. Org. Lett. 2013, 15, 6186.
+(12) (a) Kim, S. H.; Lee, H. S.; Kim, S. H.; Kim, J. N. Tetrahedron
+Lett. 2008, 49, 5863. (b) Yan, Y. P.; Feng, P.; Zheng, Q. Z.; Liang, Y.
+F.; Lu, J. F.; Cui, Y. X.; Jiao, N. Angew. Chem., Int. Ed. 2013, 52, 5827.
+(c) Seth, K.; Nautiyal, M.; Purohit, P.; Parikh, N.; Chakraborti, A. K.
+Chem. Commun. 2015, 51, 191. (d) Banerjee, A.; Bera, A.; Guin, S.;
+Rout, S. K.; Patel, B. K. Tetrahedron 2013, 69, 2175. (e) Guin, S.;
+Rout, S. K.; Banerjee, A.; Nandi, S.; Patel, B. K. Org. Lett. 2012, 14,
+5294.
+(13) (a) Yin, Z. W.; Sun, P. P. J. Org. Chem. 2012, 77, 11339. (b) Xu,
+Z. P.; Xiang, B.; Sun, P. P. RSC Adv. 2013, 3, 1679. (c) Du, B. N.; Jin,
+B.; Sun, P. P. Org. Lett. 2014, 16, 3032.
+(14) (a) Whitfield, S. R.; Sanford, M. S. J. Am. Chem. Soc. 2007, 129,
+15142. (b) Deprez, N. R.; Sanford, M. S. J. Am. Chem. Soc. 2009, 131,
+11234. (c) Oloo, W.; Zavalij, P. Y.; Zhang, J.; Khaskin, E.; Vedernikov,
+A. N. J. Am. Chem. Soc. 2010, 132, 14400. (d) Powers, D. C.; Lee, E.;
+Ariafard, A.; Sanford, M. S.; Yates, B. F.; Canty, A. J.; Ritter, T. J. Am.
+Chem. Soc. 2012, 134, 12002. (e) Powers, D. C.; Ritter, T. Acc. Chem.
+Res. 2012, 45, 840.
+
+This work was supported by the National Natural Science
+Foundation of China (Project 21272117) and the Priority
+Academic Program Development of Jiangsu Higher Education
+Institutions. The authors also thank Mr. Zilie Liu for the
+determination of HRMS.
+
+2929
+
+DOI: 10.1021/acs.joc.5b00167
+J. Org. Chem. 2015, 80, 2925−2929
+
+

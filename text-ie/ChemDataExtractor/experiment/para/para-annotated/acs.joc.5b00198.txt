@@ -1,0 +1,1417 @@
+Article
+
+pubs.acs.org/joc
+
+Brønsted Acid Catalyzed Asymmetric Diels−Alder Reactions:
+Stereoselective Construction of Spiro[tetrahydrocarbazole-3,3′-
+oxindole] Framework
+Yang Wang,
+
+Lei Yin, Meng Sun, and Feng Shi*
+
+†
+
+Man-Su Tu,
+
+†
+
+Jiangsu Key Laboratory of Green Synthetic Chemistry for Functional Materials, School of Chemistry and Chemical Engineering,
+Jiangsu Normal University, Xuzhou, 221116, China
+*S Supporting Information
+
+ABSTRACT: The chiral phosphoric acid catalyzed asymmet-
+ric Diels−Alder reactions of 2-vinylindoles with methylenein-
+dolinones have been established, which eﬃciently construct
+the spiro[tetrahydrocarbazole-3,3′-oxindole] architecture with
+one quaternary and three contiguous stereogenic centers in
+high yields (up to 99%) and excellent stereoselectivities (up to
+>95:5 dr, 97% ee). This reaction not only provides an eﬃcient strategy to access enantioenriched spiro[tetrahydrocarbazole-3,3′-
+oxindoles] based on hydrogen-bonding activation mode but also supplies successful examples of catalytic asymmetric Diels−
+Alder reactions for constructing complex spiro-frameworks with optical purity.
+
+■ INTRODUCTION
+
+Chiral
+tetrahydrocarbazole and spirooxindole are privileged
+structural motifs, which constitute the core structures of many
+natural products and pharmacologically active compounds
+(Figure 1).1 For example, (R)-ramatroban is a promising drug
+
+tools to access structurally complex and diverse molecules with
+potential bioactivity.3j Therefore, these two intriguing frame-
+works of tetrahydrocarbazole and spirooxindole inspired us to
+integrate them into a complex spiro[tetrahydrocarbazole-3,3′-
+oxindole] scaﬀold bearing multiple substituents (Scheme 1),
+Scheme 1. Design of Chiral Spiro[tetrahydrocarbazole-3,3′-
+oxindole] Architecture
+
+Figure 1. Selected compounds containing chiral tetrahydrocarbazole
+and spirooxindole cores.
+
+for the treatment of coronary artery disease.1b Besides, chiral
+spirooxindoles showed versatile bioactivities such as antitumor-
+al,1e anti-HIV,1f antimalarial,1g and antidiabetic1h activities. The
+medicinal relevance of these two frameworks has incurred the
+rapid development of the catalytic asymmetric approaches to
+construct such enantioenriched scaﬀolds.2,3
+
+In medicinal chemistry, it is reported that the incorporation
+of two bioactive moieties into another unique and complex
+structure may provide good opportunities
+for obtaining
+improved or new bioactivities.4 Besides, structure-based design
+and diversity-oriented synthesis have proven to be powerful
+
+which would provide a collection of promising compounds with
+structural diversity for bioassay. Although elegant developments
+have been achieved in the catalytic asymmetric transformations
+leading to enantioselective spirooxindoles,3 the construction of
+this type of complex spiro-framework with multiple stereogenic
+centers has rarely been reported.5
+Survey of the literature revealed that Melchiorre and co-
+workers established a chiral amine-catalyzed asymmetric Diels−
+Alder reaction of methyleneindolinones with heterocyclic ortho-
+quinodimethanes (oQDMs) in situ generated from α,β-
+
+Received:
+January 28, 2015
+Published: February 18, 2015
+
+© 2015 American Chemical Society
+
+3223
+
+DOI: 10.1021/acs.joc.5b00198
+J. Org. Chem. 2015, 80, 3223−3232
+
+The Journal of Organic Chemistry
+Scheme 2. Previous Work on Catalytic Asymmetric Construction of Spiro[tetrahydrocarbazole-3,3′-oxindole] Framework
+
+Article
+
+unsaturated aldehydes, which constructed a chiral spiro-
+[tetrahydrocarbazole-3,3′-oxindole] scaﬀold in a highly stereo-
+selective fashion (Scheme 2).5a In this work, oQDMs were
+utilized as reactive diene species under aminocatalysis. In spite
+of this creative work, the construction of an optically pure
+spiro[tetrahydrocarbazole-3,3′-oxindole] architecture is still
+rather limited. Therefore,
+it is highly desirable to develop
+more strategies to construct this fascinating structure based on
+diﬀerent activation and disconnection modes.
+
+Chiral phosphoric acids (CPAs) belong to a class of
+privileged organocatalysts, which have enabled a variety of
+enantioselective transformations.6 Moreover, 2-vinylindoles
+have recently been utilized as dienes to participate in a number
+of catalytic asymmetric Diels−Alder reactions or formal [4 + 2]
+cycloadditions.7 However, this diene species has never been
+employed to the Diels−Alder reactions with methyleneindoli-
+nones8 to construct a spiro[tetrahydrocarbazole-3,3′-oxindole]
+motif. On the basis of our previous works on CPA-catalyzed
+enantioselective reactions,9 we envisioned that 2-vinylindoles
+and methyleneindolinones could be simultaneously activated by
+CPA via dual hydrogen-bonding activation to undergo
+stereoselective Diels−Alder reaction/isomerization, thus con-
+structing the desired enantioenriched spiro[tetrahydro-
+carbazole-3,3′-oxindole] framework in a single transformation
+(Scheme 3).
+Herein, we report the CPA-catalyzed asymmetric Diels−
+Alder reactions of 2-vinylindoles with methyleneindolinones,
+which eﬃciently construct the chiral spiro[tetrahydrocarbazole-
+3,3′-oxindole] architecture with three contiguous stereogenic
+centers in excellent stereoselectivities (up to >95:5 dr, 97% ee).
+■ RESULTS AND DISCUSSION
+<para sub=“opt”>
+Initially, the reaction of 2-vinylindole 1a and methyleneindo-
+linone 2a catalyzed by 10 mol % of CPA 4a in toluene at 50 °C
+was employed to testify our hypothesis (Table 1, entry 1),
+which smoothly underwent the Diels−Alder reaction to aﬀord
+the desired spiro[tetrahydrocarbazole-3,3′-oxindole] 3aa in a
+high yield of 80% and a considerable stereoselectivity of >95:5
+dr and 72% ee. Then, this reaction was utilized as a model
+reaction to screen a variety of CPAs 4a−4g, which revealed that
+catalysts 4e and 4g with bulky 3,3′-substituents on the BINOL
+backbone delivered the highest enantioselectivity of 94% ee
+(entries 5 and 7). Considering the higher yield of CPA 4g
+</para>
+Scheme 3. Design of CPA-Catalyzed Reaction to Construct
+Chiral Spiro[tetrahydrocarbazole-3,3′-oxindole]
+Architecture
+<para sub=“opt”>
+catalyzed reaction, this catalyst was selected as the optimal one
+for further condition optimization. The screening of solvents
+disclosed that no other types of solvents were better than
+toluene in terms of enantioselective control (entries 8−14 vs
+7). Then, variation of the reaction temperature (entries 15−17)
+found that 25 °C was the most suitable condition, which
+delivered the spiro-product 3aa in the highest yield of 96% and
+the best stereoselectivity of >95:5 dr and 97% ee (entry 16).
+Notably, when the catalyst loading was reduced to 5 mol %, the
+reaction could also proceed in an eﬃcient mode with a high
+yield and excellent stereoselectivity (entry 18).
+</para>
+<para sub="scope">
+With the optimal conditions in hand, we investigated the
+substrate scope of 2-vinylindoles 1 by the reactions with
+methyleneindolinone 2a (Table 2). As shown in entries 1−7, a
+variety of (E)-2-vinylindoles 1 linked with diﬀerent aryl groups
+were applicable to the designed Diels−Alder reactions, which
+generated the spiro[tetrahydrocarbazole-3,3′-oxindoles] 3
+bearing three contiguous stereogenic centers in high yields
+(87−96%) and excellent stereoselectivities (all >95:5 dr, 90−
+97% ee) without exception. It seemed that the position of the
+substituents linked to the phenyl ring imposed some eﬀect on
+the enantioselectivity since para-methyl substituted substrate
+1g oﬀered higher enantioselectivity than meta- and ortho-methyl
+</para>
+3224
+
+DOI: 10.1021/acs.joc.5b00198
+J. Org. Chem. 2015, 80, 3223−3232
+
+The Journal of Organic Chemistry
+
+Table 1. Screening of Catalysts and Optimization of
+Reaction Conditionsa
+
+entry
+
+solvent
+
+T (°C)
+
+yield (%)b
+
+ee (%)d
+
+cat.
+4a
+4b
+4c
+4d
+4e
+4f
+4g
+4g
+4g
+4g
+4g
+4g
+4g
+4g
+4g
+4g
+4g
+4g
+
+drc
+>95:5
+>95:5
+>95:5
+>95:5
+>95:5
+>95:5
+>95:5
+>95:5
+>95:5
+>95:5
+>95:5
+>95:5
+19:1
+12:1
+>95:5
+>95:5
+>95:5
+>95:5
+
+80
+68
+80
+77
+75
+52
+90
+82
+81
+82
+53
+88
+82
+85
+82
+96
+91
+87
+
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+70
+25
+0
+25
+
+toluene
+toluene
+toluene
+toluene
+toluene
+toluene
+toluene
+o-xylene
+m-xylene
+p-xylene
+ClCH2CH2Cl
+EtOAc
+CH3CN
+1,4-dioxane
+toluene
+toluene
+toluene
+toluene
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18e
+aUnless otherwise indicated, the reaction was carried out at the 0.05
+mmol scale and catalyzed by 10 mol % 4g in a solvent (0.2 mL) at T
+°C for 15 h. The molar ratio of 1a:2a was 1:1.5. bIsolated yield. cThe
+dr value was determined by 1H NMR and HPLC. dThe ee value was
+determined by HPLC. e5 mol % 4g was used.
+
+72
+76
+83
+90
+94
+88
+94
+92
+92
+92
+89
+80
+30
+49
+92
+97
+92
+94
+
+Article
+<para sub="scope">
+substituted counterparts 1e and 1c (entry 7 vs 5 and 3). In
+most cases, there was no obvious diﬀerence between electron-
+donating and electron-withdrawing groups
+in terms of
+stereoselectivity, because electronically diﬀerent substituents
+at the same position delivered the reactions in similar diastereo-
+and enantioselectivities (entry 4 vs 5, entry 6 vs 7). However, in
+some cases, a strong electron-withdrawing group aﬀorded
+higher enantioselectivity than an electron-donating group
+(entry 2 vs 3). Notably, 2-vinylindole 1h linked with an
+aliphatic methyl group could also be accommodated to the
+Diels−Alder reaction, oﬀering spiro[tetrahydrocarbazole-3,3′-
+oxindole] 3ha in a good yield of 82% and high
+enantioselectivity of 90% ee, albeit with a decreased
+diastereoselectivity of 80:20 dr (entry 8). However, the two
+diastereomers could be easily separated by column chromatog-
+raphy. Besides, substituted 2-vinylindoles as exempliﬁed by 5-
+ﬂuoro-substituted substrate 1i, which could be synthesized from
+commercially available starting materials, smoothly participated
+in the Diels−Alder reaction in a high yield of 87% and an
+excellent stereoselectivity of 92% ee and >95:5 dr (entry 9).
+</para>
+<para sub="scope">
+Next,
+
+the generality of
+
+reaction for
+methyleneindolinones 2 was studied by the reactions with 2-
+vinylindoles 1. As illustrated in Table 3, this protocol was
+amenable to a wide scope of methyleneindolinones 2 bearing
+various R/R1/R2 substituents at diﬀerent positions of
+the
+moiety, giving structurally diverse spiro[tetrahydrocarbazole-
+3,3′-oxindoles] 3 with one quaternary and three contiguous
+stereogenic centers in generally high yields (65−99%) and
+excellent diastereo- and enantioselectivities (all >95:5 dr, 81−
+97% ee). First, the inﬂuence of N-substituents of the indolinone
+motif was investigated by using substrates 2a−2e with N-alkyl,
+N-benzyl, N-benzoyl, and N-H groups (entries 1−5), which
+revealed that both N-protected and N-unprotected methyl-
+eneindolinones 2 could successfully take part in the Diels−
+Alder reactions to aﬀord the chiral spiro-products. Although N-
+benzoyl substituted and N-unsubstituted substrates 2d−2e
+were inferior to N-alkyl and N-benzyl substituted analogues
+2a−2c with regard to the reactivity and the enantioselectivity
+(entries 4−5 vs 1−3),
+these
+diﬀerent types of substrates greatly demonstrated the wide
+
+the successful utilization of
+
+the Diels−Alder
+</para>
+
+Table 2. Substrate Scope of 2-Vinylindoles 1a
+
+entry
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+3
+3aa
+3ba
+3ca
+3da
+3ea
+3fa
+3ga
+3ha
+3ia
+
+R/R1 (1)
+C6H5/H (1a)
+o-FC6H4/H (1b)
+o-MeC6H4/H (1c)
+m-ClC6H4/H (1d)
+m-MeC6H4/H (1e)
+p-BrC6H4/H (1f)
+p-MeC6H4/H (1g)
+Me/H (1h)f
+C6H5/F (1i)
+
+yield (%)b
+96 (87e)
+93
+89
+87
+90
+94
+90
+82
+87
+
+drc
+
+>95:5 (>95:5e)
+>95:5
+>95:5
+>95:5
+>95:5
+>95:5
+>95:5
+80:20
+>95:5
+
+ee (%)d
+97 (94e)
+96
+90
+92
+92
+96
+95
+90
+92
+
+aUnless otherwise indicated, the reaction was carried out at the 0.05 mmol scale and catalyzed by 10 mol % 4g in toluene (0.2 mL) at 25 °C for 15 h.
+The molar ratio of 1:2a was 1:1.5. bIsolated yield. cThe dr value was determined by 1H NMR. dThe ee value was determined by HPLC. eIn the
+presence of 5 mol % 4g. fThe mixture of E/Z isomers (E/Z = 10:1) was employed to the reaction.
+
+3225
+
+DOI: 10.1021/acs.joc.5b00198
+J. Org. Chem. 2015, 80, 3223−3232
+
+The Journal of Organic Chemistry
+Table 3. Substrate Scope of Methyleneindolinones 2a
+
+Article
+<para sub="scope">
+form the corresponding spiro-product 3ar in a high yield of
+93% and excellent stereoselectivity of >95:5 dr and 92% ee
+(entry 18). Besides, the R2 group could also be changed to a
+cyano group, and this substrate 2s smoothly participated in the
+reaction in a considerable diastereo- and enantioselectivity
+(entry 19).
+</para>
+<para sub=“props”>
+The absolute conﬁguration of spiro[tetrahydrocarbazole-3,3′-
+oxindole] 3ao (>99% ee after recrystallization) was unambig-
+uously determined to be (2S,3R,4R) by single-crystal X-ray
+diﬀraction analysis.10 The absolute conﬁguration of other spiro-
+products 3 were assigned by analogy.
+</para>
+<para sub="scope">
+In order to gain some insight into the activation mode of the
+reaction, some control experiments were carried out under the
+optimal conditions (Scheme 4). As shown in eq 1, N-methyl
+</para>
+Scheme 4. Control Experiments To Investigate the
+Activation Mode
+<para sub="scope">
+protected 2-vinylindole 1j was utilized as a substrate instead of
+N-unprotected substrate 1a, which could also aﬀord the
+corresponding spiro-product 3ja but in an obviously diminished
+yield and stereoselectivity. This result demonstrated that the N-
+H group of 2-vinylindoles was very important for both the
+reactivity and the stereoselectivity of the Diels−Alder reaction
+by forming a hydrogen bond with the PO group of catalyst
+4g. Furthermore, as mentioned above (Table 3, entries 1 and
+4−5), changing the N-methyl group of substrates 2 to an N-
+benzoyl or N-H group led to decreased enantioselectivities (eq
+2). This phenomenon indicated that the N-benzoyl group of 2d
+might compete with the amide group of the indolinone moiety
+to form a hydrogen bond with CPA, and the N-H group of 2e
+might also disturb the hydrogen-bonding interaction between
+the N-H group of 1a and the catalyst, thus resulting in the
+reduced enantioselectivities of spiro-products 3ad and 3ae.
+</para>
+<para sub="que">
+On the basis of the experimental results, a possible transition
+state illustrating the activation mode of
+the reaction was
+this chiral
+suggested to explain the stereochemistry of
+phosphoric acid catalyzed asymmetric Diels−Alder reaction.
+As exempliﬁed by the generation of spiro-product 3aa (Scheme
+5), CPA 4g acted as a Brønsted acid/Lewis base bifunctional
+catalyst to simultaneously activate both the amide group of
+methyleneindolinone and the N-H group of 2-vinylindole via
+dual hydrogen-bonding interaction,11 which facilitated the
+designed Diels−Alder reaction. The (R)-BINOL backbone of
+the catalyst and the steric hindrance of its 3,3′-substitutents
+created a chiral environment, which contributed greatly to the
+excellent enantioselectivity obtained. Besides,
+the terminal
+phenyl group of (E)-2-vinylindole was oriented to the opposite
+</para>
+3226
+
+DOI: 10.1021/acs.joc.5b00198
+J. Org. Chem. 2015, 80, 3223−3232
+
+aUnless otherwise indicated, the reaction was carried out at the 0.05
+mmol scale and catalyzed by 10 mol % 4g in toluene (0.2 mL) at 25
+°C for 15 h. The molar ratio of 1a:2 was 1:1.5. bIsolated yield. cThe dr
+value was determined by 1H NMR. dThe ee value was determined by
+HPLC. eIn the presence of 20 mol % 4g.
+
+the impact of
+
+this method. Second,
+<para sub="scope">
+applicability of
+the
+substituents R1 on the reaction was examined by employing a
+wide range of substrates 2f−2q bearing electronically distinct
+substituents at diﬀerent positions of the indolinone scaﬀold
+(entries 6−17). The results disclosed that the electronic nature
+and the position of the substituents at C5−C7 had no obvious
+eﬀect on the stereoselectivity, because all of these substrates
+uniformly aﬀorded the spiro[tetrahydrocarbazole-3,3′-oxin-
+doles] 3 with structural diversity in excellent diastereo- and
+enantioselectivities (entries 6−17, all >95:5 dr, 92−96% ee).
+Finally, the R2 group of methyleneindolinones 2 could be
+altered from an ester group to a ketone group, which also
+successfully underwent the desired Diels−Alder reaction to
+</para>
+The Journal of Organic Chemistry
+Scheme 5. Suggested Transition State of the Diels−Alder
+Reaction
+<para sub="scope">
+Moreover,
+
+some preliminary derivations of
+
+the spiro-
+products could be carried out. For example, the ester group
+of product 3aa was easily transformed into an alcohol hydroxyl
+functionality with retained diastereo- and enantioselectivity in a
+high yield (eq 3).
+</para>
+<para sub=“ques”>
+side of the benzene ring of the indolinone moiety, thus avoiding
+the steric repulsion between them and leading to the perfect
+diastereoselectivity experimentally observed. Therefore, an
+eﬃcient and stereoselective Diels−Alder reaction occurred
+under the catalysis of CPA 4g to aﬀord the spiro-product 3aa
+with (2S,3R,4R)-conﬁguration.
+</para>
+■ CONCLUSIONS
+In summary, we have established the chiral phosphoric acid
+catalyzed asymmetric Diels−Alder reactions of 2-vinylindoles
+with methyleneindolinones, which eﬃciently construct
+the
+spiro[tetrahydrocarbazole-3,3′-oxindole] architecture
+chiral
+with one quaternary and three contiguous stereogenic centers
+in high yields (up to 99%) and excellent stereoselectivities (up
+to >95:5 dr, 97% ee). This approach integrated biologically
+important tetrahydrocarbazole and spirooxindole frameworks
+into a new type of structurally complex spirooxindoles, which
+would oﬀer a collection of promising compounds with
+structural diversity for bioassay. This reaction not only provided
+an eﬃcient strategy to access enantioenriched spiro[tetrahydro-
+carbazole-3,3′-oxindoles] based on hydrogen-bonding activa-
+tion mode but also supplied successful examples of catalytic
+asymmetric Diels−Alder reactions for constructing complex
+spiro-frameworks with optical purity.
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Information. 1H and 13C NMR spectra were measured at
+400 and 100 MHz,
+respectively. The solvent used for NMR
+spectroscopy was CDCl3, using tetramethylsilane as the internal
+reference. HRMS (ESI) was determined by a HRMS/MS instrument.
+Enantiomeric excesses (ee) were determined by chiral high-perform-
+ance liquid chromatography (chiral HPLC). The chiral columns used
+for the determination of enantiomeric excesses by chiral HPLC were
+Chiralpak IC, OD-H and IA columns. Optical rotation values were
+measured with instruments operating at λ = 589 nm, corresponding to
+the sodium D line at the temperatures indicated. Analytic grade
+solvents for the chromatography and commercially available reagents
+were used as received. Substrates 1 and 2 were synthesized according
+to the literature methods.7d,8b Catalyst 4g was prepared according to
+the procedures reported in the literature.12
+Typical Procedure for Chiral Phosphoric Acid Catalyzed
+Asymmetric Diels−Alder Reactions. Toluene (0.2 mL) was added
+to the mixture of 2-vinylindoles 1 (0.05 mmol), methyleneindolinones
+2 (0.075 mol), and the catalyst 4g (0.005 mmol). After being stirred at
+25 °C for 15 h, the reaction mixture was concentrated under the
+</para>
+Article
+<para sub=“exp”>
+reduced pressure to give the residue, which was puriﬁed through
+preparative thin layer chromatography to aﬀord pure products 3.
+(2S,3R,4R)-Ethyl 1′-Methyl-2′-oxo-2-phenyl-1,2,4,9-tetra-
+hydrospiro[carbazole-3,3′-indoline]-4-carboxylate (3aa). Prep-
+arative thin layer chromatography: pure dichloromethane; Reaction
+time = 15 h; yield: 96% (21.7 mg); >95:5 dr; white solid; mp 215−216
+°C; [α]D
+20 = +56.5 (c 0.45, Acetone); 1H NMR (400 MHz, CDCl3) δ
+8.04 (s, 1H), 7.43−7.40 (m, 1H), 7.36−7.30 (m, 2H), 7.13−7.01 (m,
+8H), 6.94−7.89 (m, 1H), 6.56 (d, J = 8.0 Hz, 1H), 4.55−4.53 (m,
+1H), 4.17−4.10 (m, 1H), 4.11−4.01 (m, 2H), 3.81 (dd, J = 16.1, 11.3
+Hz, 1H), 3.15 (dd, J = 16.5, 5.6 Hz, 1H), 3.06 (s, 3H), 1.16 (t, J = 7.0
+Hz, 3H); 13C NMR (400 MHz, CDCl3) δ 176.5, 172.4, 143.3, 140.1,
+136.2, 135.6, 129.3, 128.6, 128.2, 127.7, 126.8, 126.8, 125.2, 121.8,
+121.4, 119.5, 117.8, 110.7, 107.6, 104.7, 60.8, 52.1, 45.5, 43.0, 27.2,
+25.9, 14.2; IR (KBr): 3647, 3056, 2963, 2925, 1706, 1710, 1493, 1458,
+1261, 1030, 798, 746, 700 cm−1; ESI FTMS exact mass calcd for
+− H)− requires m/z 449.1860, found m/z 449.1857;
+(C29H26N2O3
+Enantiomeric excess: 97%, determined by HPLC (Daicel Chirapak
+OD-H, hexane/isopropanol = 85/15, ﬂow rate 1.0 mL/min, T = 30
+°C, 254 nm): tR = 10.48 min (major), tR = 8.00 min (minor).
+(2R,3R,4R)-Ethyl 2-(2-Fluorophenyl)-1′-methyl-2′-oxo-
+1,2,4,9-tetrahydrospiro[carbazole-3,3′-indoline]-4-carboxylate
+(3ba). Preparative thin layer chromatography: pure dichloromethane;
+Reaction time = 15 h; yield: 93% (21.9 mg); >95:5 dr; white sticky oil;
+20 = +90.5 (c 0.42, Acetone); 1H NMR (400 MHz, CDCl3) δ 8.11
+[α]D
+(s, 1H), 7.44−7.36 (m, 2H), 7.31−7.26 (m, 1H), 7.18−7.09 (m, 3H),
+7.08−6.99 (m, 2H), 6.94−6.82 (m, 2H), 6.78 (t, J = 9.2 Hz, 1H), 6.60
+(d, J = 7.8 Hz, 1H), 5.00 (s, 1H), 4.18−3.99 (m, 3H), 3.68−3.62 (m,
+1H), 3.16−3.05 (m, 4H), 1.13 (t, J = 7.1 Hz, 3H); 13C NMR (100
+MHz, CDCl3) δ 176.6, 172.0, 143.2, 136.3, 135.1, 129.1, 128.4, 128.4,
+127.7, 127.6, 126.8, 125.1, 125.0, 123.8, 123.7, 122.1, 121.5, 119.5,
+118.1, 115.0, 114.8, 110.8, 107.5, 104.9, 60.8, 52.1, 45.5, 33.5, 26.7,
+26.0, 14.1; IR (KBr): 3677, 3649, 3630, 1670, 1522, 1288, 1262, 1177,
+1093, 1029, 817 cm−1; ESI FTMS exact mass calcd for (C29H25FN2O3
+− H)− requires m/z 467.1765, found m/z 467.1773; Enantiomeric
+excess: 96%, determined by HPLC (Daicel Chirapak IA, hexane/
+isopropanol = 70/30, ﬂow rate 1.0 mL/min, T = 30 °C, 254 nm): tR =
+15.16 min (major), tR = 13.85 min (minor).
+(2S,3R,4R)-Ethyl 1′-Methyl-2′-oxo-2-(o-tolyl)-1,2,4,9-tetra-
+hydrospiro[carbazole-3,3′-indoline]-4-carboxylate (3ca). Prep-
+arative thin layer chromatography: Toluene/ethyl acetate = 8/1;
+Reaction time = 15 h; yield: 89% (20.9 mg); >95:5 dr; white sticky oil;
+20 = +109.0 (c 0.50, Acetone); 1H NMR (400 MHz, CDCl3) δ 8.06
+[α]D
+(s, 1H), 7.43 (d, J = 8.0 Hz, 1H), 7.33 (d, J = 7.0 Hz, 1H), 7.29−7.27
+(m, 1H), 7.15−7.09 (m, 3H), 7.07−7.02 (m, 1H), 6.98−6.90 (m, 3H),
+6.89−6.82 (m, 1H), 6.63 (d, J = 8.0 Hz, 1H), 5.06−5.02 (m, 1H),
+4.19−4.12 (m, 1H), 4.11−4.01 (m, 2H), 3.64 (dd, J = 16.5, 10.9 Hz,
+1H), 3.16 (s, 3H), 3.05 (dd, J = 16.6, 5.6 Hz, 1H), 2.39 (s, 3H), 1.17
+(t, J = 7.2 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 177.0, 172.6,
+143.3, 139.4, 136.2, 136.2, 135.9, 130.2, 129.6, 128.3, 126.8, 126.5,
+125.8, 125.6, 124.3, 121.8, 121.4, 119.5, 117.9, 110.8, 107.7, 104.7,
+60.8, 52.1, 45.9, 37.2, 27.9, 26.1, 20.3, 14.2; IR (KBr): 3650, 1734,
+1717, 1672, 1648, 1542, 1508, 1364, 1339, 1262, 807 cm−1; ESI FTMS
+− H)− requires m/z 463.2016,
+exact mass calcd for (C30H28N2O3
+found m/z 463.2016; Enantiomeric excess: 90%, determined by HPLC
+(Daicel Chirapak IA, hexane/isopropanol = 70/30, ﬂow rate 1.0 mL/
+min, T = 30 °C, 254 nm): tR = 16.69 min (major), tR = 13.91 min
+(minor).
+(2S,3R,4R)-Ethyl 2-(3-Chlorophenyl)-1′-methyl-2′-oxo-
+1,2,4,9-tetrahydrospiro[carbazole-3,3′-indoline]-4-carboxylate
+(3da). Preparative thin layer chromatography: pure dichloromethane;
+Reaction time = 15 h; yield: 87% (21.2 mg); >95:5 dr; white sticky oil;
+20 = +21.0 (c 0.38, Acetone); 1H NMR (400 MHz, CDCl3) δ 8.03
+[α]D
+(s, 1H), 7.41 (d, J = 8.0 Hz, 1H), 7.32 (d, J = 8.0 Hz, 2H), 7.16−7.04
+(m, 4H), 7.02−6.91 (m, 4H), 6.59 (d, J = 8.0 Hz, 1H), 4.59−4.52 (m,
+1H), 4.20−4.13 (m, 1H), 4.10−4.01 (m, 2H), 3.77 (dd, J = 16.4, 11.2
+Hz, 1H), 3.16−3.06 (m, 4H), 1.16 (t, J = 7.2 Hz, 3H); 13C NMR (100
+MHz, CDCl3) δ 176.2, 172.4, 143.2, 142.3, 136.2, 135.1, 133.6, 129.0,
+128.9, 128.6, 128.5, 127.0, 126.9, 126.8, 125.2, 122.1, 121.5, 119.6,
+117.9, 110.8, 107.9, 104.7, 60.9, 51.9, 45.5, 42.8, 27.1, 25.9, 14.2; IR
+</para>
+3227
+
+DOI: 10.1021/acs.joc.5b00198
+J. Org. Chem. 2015, 80, 3223−3232
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+(KBr): 3691, 3677, 3650, 1801, 1718, 1700, 1508, 1458, 1262, 795
+− H)− requires
+cm−1; ESI FTMS exact mass calcd for (C29H25ClN2O3
+m/z 483.1470,
+found m/z 483.1469; Enantiomeric excess: 92%,
+determined by HPLC (Daicel Chirapak OD-H, hexane/isopropanol =
+85/15, ﬂow rate 1.0 mL/min, T = 30 °C, 254 nm): tR = 10.46 min
+(major), tR = 7.85 min (minor).
+(2S,3R,4R)-Ethyl 1′-Methyl-2′-oxo-2-(m-tolyl)-1,2,4,9-tetra-
+hydrospiro[carbazole-3,3′-indoline]-4-carboxylate (3ea). Prep-
+arative thin layer chromatography: pure dichloromethane; Reaction
+time = 15 h; yield: 90% (20.9 mg); >95:5 dr; white sticky oil; [α]D
+20 =
++56.2 (c 0.42, Acetone); 1H NMR (400 MHz, CDCl3) δ 8.05 (s, 1H),
+7.41 (d, J = 8.0 Hz, 1H), 7.31 (dd, J = 15.0, 8.0 Hz, 2H), 7.12−7.02
+(m, 3H), 6.94−6.80 (m, 5H), 6.56 (d, J = 8.0 Hz, 1H), 4.54−4.50 (m,
+1H), 4.16−4.13 (m, 1H), 4.11−4.00 (m, 2H), 3.80 (dd, J = 16.5, 11.2
+Hz, 1H), 3.18−3.07 (m, 1H), 3.07 (s, 3H), 2.14 (s, 3H), 1.16 (t, J =
+7.2 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 176.6, 172.5, 143.3,
+140.0, 137.3, 136.2, 135.7, 129.5, 129.3, 128.2, 127.6, 127.5, 126.9,
+125.6, 125.3, 121.8, 121.3, 119.4, 117.8, 110.8, 107.6, 104.7, 60.8, 52.1,
+45.6, 43.0, 27.2, 25.9, 21.3, 14.2; IR (KBr): 3677, 3650, 1734, 1685,
+1654, 1508, 1318, 1265, 1156, 1090, 1029, 744 cm−1; ESI FTMS exact
+− H)− requires m/z 463.2016, found m/z
+mass calcd for (C30H28N2O3
+463.2014; Enantiomeric excess: 92%, determined by HPLC (Daicel
+Chirapak OD-H, hexane/isopropanol = 85/15, ﬂow rate 1.0 mL/min,
+T = 30 °C, 254 nm): tR = 9.77 min (major), tR = 7.20 min (minor).
+(2S,3R,4R)-Ethyl 2-(4-Bromophenyl)-1′-methyl-2′-oxo-
+1,2,4,9-tetrahydrospiro[carbazole-3,3′-indoline]-4-carboxylate
+(3fa). Preparative thin layer chromatography: pure dichloromethane;
+Reaction time = 15 h; yield: 94% (24.8 mg); >95:5 dr; yellow sticky
+20 = +12.8 (c 0.47, Acetone); 1H NMR (400 MHz, CDCl3) δ
+oil; [α]D
+8.01 (s, 1H), 7.41 (d, J = 8.0 Hz, 1H), 7.32 (d, J = 8.0 Hz, 2H), 7.19−
+7.11 (m, 4H), 7.08−7.02 (m, 1H), 6.98−6.90 (m, 3H), 6.61 (d, J = 8.0
+Hz, 1H), 4.55−4.51 (m, 1H), 4.16−4.14 (m, 1H), 4.07−3.99 (m, 2H),
+3.75 (dd, J = 16.5, 11.0 Hz, 1H), 3.17−3.10 (m, 1H), 3.08 (s, 3H),
+1.15 (t, J = 7.2 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 176.3, 172.4,
+143.2, 139.3, 136.2, 135.1, 130.9, 130.3, 129.0, 128.5, 126.8, 125.1,
+122.0, 121.6, 120.7, 119.6, 117.9, 110.8, 108.0, 104.7, 60.8, 52.0, 45.5,
+42.4, 27.2, 26.0, 14.2; IR (KBr): 3677, 3649, 3628, 1799, 1728, 1687,
+1524, 1163, 1109, 745 cm−1; ESI FTMS exact mass calcd for
+− H)− requires m/z 527.0965, found m/z 527.0969;
+(C29H25BrN2O3
+Enantiomeric excess: 96%, determined by HPLC (Daicel Chirapak
+OD-H, hexane/isopropanol = 85/15, ﬂow rate 1.0 mL/min, T = 30
+°C, 254 nm): tR = 12.22 min (major), tR = 9.36 min (minor).
+(2S,3R,4R)-Ethyl 1′-Methyl-2′-oxo-2-(p-tolyl)-1,2,4,9-tetra-
+hydrospiro[carbazole-3,3′-indoline]-4-carboxylate (3ga). Prep-
+arative thin layer chromatography: pure dichloromethane; Reaction
+time = 15 h; yield: 90% (21.0 mg); >95:5 dr; white sticky oil; [α]D
+20 =
++102.1 (c 0.28, Acetone); 1H NMR (400 MHz, CDCl3) δ 8.06 (s,
+1H), 7.41 (d, J = 8.0 Hz, 1H), 7.33 (d, J = 7.6 Hz, 1H), 7.30−7.27 (m,
+1H), 7.13−7.09 (m, 2H), 7.07−7.03 (m, 1H), 6.98−6.89 (m, 3H),
+6.90−6.83 (m, 2H), 6.59 (d, J = 8.0 Hz, 1H), 4.50−4.46 (m, 1H),
+4.20−4.10 (m, 1H), 4.10−3.99 (m, 2H), 3.76 (dd, J = 16.5, 10.9 Hz,
+1H), 3.16−3.02 (m, 4H), 2.17 (s, 3H), 1.15 (t, J = 7.0 Hz, 3H); 13C
+NMR (100 MHz, CDCl3) δ 176.7, 172.5, 143.3, 137.1, 136.3, 136.2,
+135.7, 129.5, 128.5, 128.4, 128.1, 126.9, 125.2, 121.8, 121.4, 119.4,
+117.9, 110.8, 107.7, 104.7, 60.8, 52.2, 45.6, 42.6, 27.5, 25.9, 20.9, 14.2;
+IR (KBr): 3677, 3650, 3630, 1733, 1670, 1648, 1569, 1261, 1236,
+1091, 1029, 802, 743 cm−1; ESI FTMS exact mass calcd for
+− H)− requires m/z 463.2016, found m/z 463.2016;
+(C30H28N2O3
+Enantiomeric excess: 95%, determined by HPLC (Daicel Chirapak
+OD-H, hexane/isopropanol = 85/15, ﬂow rate 1.0 mL/min, T = 30
+°C, 254 nm): tR = 10.88 min (major), tR = 7.75 min (minor).
+(2R,3R,4R)-Ethyl 1′,2-Dimethyl-2′-oxo-1,2,4,9-tetrahydro-
+spiro[carbazole-3,3′-indoline]-4-carboxylate (3ha). Preparative
+thin layer chromatography: pure dichloromethane; Reaction time = 15
+h; yield: 82% (16.1 mg); 80:20 dr; white sticky oil; [α]D
+20 = +19.1 (c
+0.88, Acetone); 1H NMR (400 MHz, CDCl3) δ 8.07 (s, 1H), 7.37 (d, J
+= 8.0 Hz, 1H), 7.32−7.28 (m, 2H), 7.22 (d, J = 7.6 Hz, 1H), 7.10−
+7.06 (m, 1H), 7.05−6.95 (m, 2H), 6.87 (d, J = 8.0 Hz, 1H), 4.17 (s,
+1H), 3.97−3.92 (m, 2H), 3.21 (s, 3H), 3.07−2.84 (m, 3H), 1.00 (t, J =
+7.2 Hz, 3H), 0.92−0.89 (m, 3H); 13C NMR (100 MHz, CDCl3) δ
+</para>
+Article
+<para sub=“exp”>
+177.2, 171.9, 143.9, 136.2, 134.6, 130.3, 128.4, 127.0, 124.8, 122.2,
+121.3, 119.4, 118.4, 110.7, 107.9, 104.7, 60.6, 52.5, 44.4, 32.1, 28.2,
+26.2, 16.0, 14.0; IR (KBr): 3677, 3650, 3079, 3050, 2930, 1734, 1699,
+1647, 1457, 1094, 1023, 800, 746 cm−1; ESI FTMS exact mass calcd
+− H)− requires m/z 387.1703, found m/z 387.1713;
+for (C24H24N2O3
+Enantiomeric excess: 90%, determined by HPLC (Daicel Chirapak IA,
+hexane/isopropanol = 70/30, ﬂow rate 1.0 mL/min, T = 30 °C, 254
+nm): tR = 9.85 min (major), tR = 7.73 min (minor).
+(2S,3R,4R)-Ethyl 6-Fluoro-1′-methyl-2′-oxo-2-phenyl-
+1,2,4,9-tetrahydrospiro[carbazole-3,3′-indoline]-4-carboxylate
+(3ia). Preparative thin layer chromatography: petroleum ether/ethyl
+acetate = 3/1; Reaction time = 15 h; yield: 87% (20.5 mg); >95:5 dr;
+white sticky oil; [α]D
+20 = +56.9 (c 0.43, Acetone); 1H NMR (400 MHz,
+CDCl3) δ 8.18 (s, 1H), 7.34 (d, J = 7.6 Hz, 1H), 7.17−6.97 (m, 8H),
+6.94−6.84 (m, 1H), 6.82−6.77 (m, 1H), 6.56 (d, J = 8.0 Hz, 1H),
+4.57−4.53 (m, 1H), 4.23−4.06 (m, 2H), 4.01 (s, 1H), 3.80 (dd, J =
+16.4, 11.2 Hz, 1H), 3.17−3.02 (m, 4H), 1.17 (t, J = 7.2 Hz, 3H); 13C
+NMR (100 MHz, CDCl3) δ 176.6, 172.4, 143.2, 139.9, 137.6, 132.6,
+129.1, 128.6, 128.3, 127.8, 126.9, 125.3, 122.0, 111.4, 109.4, 109.2,
+107.8, 104.8, 103.1, 60.9, 52.1, 45.4, 42.9, 27.3, 26.0, 14.2; IR (KBr):
+3675 3651, 3309, 3100, 1763, 1652, 1311, 1099, 1011, 749, 677 cm−1;
+− H)− requires m/z
+ESI FTMS exact mass calcd for (C29H25FN2O3
+467.1766, found m/z 467.1768; Enantiomeric excess: 92%, determined
+by HPLC (Daicel Chirapak IC, hexane/isopropanol = 70/30, ﬂow rate
+1.0 mL/min, T = 30 °C, 254 nm): tR = 7.69 min (major), tR = 4.33
+min (minor).
+(2S,3R,4R)-Ethyl 1′-Ethyl-2′-oxo-2-phenyl-1,2,4,9-tetra-
+hydrospiro[carbazole-3,3′-indoline]-4-carboxylate (3ab). Prep-
+arative thin layer chromatography: pure dichloromethane; Reaction
+time = 15 h; yield: 95% (22.2 mg); >95:5 dr; white solid; mp 200−202
+°C; [α]D
+20 = +92.7 (c 0.42, Acetone); 1H NMR (400 MHz, CDCl3) δ
+8.12 (s, 1H), 7.42 (d, J = 8.0 Hz, 1H), 7.35 (d, J = 7.6 Hz, 1H), 7.29−
+7.27 (m, 1H), 7.22−6.99 (m, 8H), 6.96−6.87 (m, 1H), 6.59 (d, J = 8.0
+Hz, 1H), 4.55−4.51 (m, 1H), 4.17−4.11 (m, 1H), 4.09−3.98 (m, 2H),
+3.77−3.68 (m, 2H), 3.57−3.50 (m, 1H), 3.12 (dd, J = 16.6, 5.8 Hz,
+1H), 1.19−1.11 (m, 6H); 13C NMR (100 MHz, CDCl3) δ 176.2,
+172.5, 142.4, 140.1, 136.2, 135.7, 129.5, 128.9, 128.1, 127.8, 126.8,
+126.8, 125.5, 121.6, 121.4, 119.4, 117.8, 110.8, 107.8, 104.6, 60.8, 52.0,
+45.7, 42.9, 34.4, 27.2, 14.2, 12.2; IR (KBr): 3650, 3057, 2964, 2929,
+1734, 1717, 1647, 1430, 1262, 801, 745, 702 cm−1; ESI FTMS exact
+− H)− requires m/z 463.2016, found m/z
+mass calcd for (C30H28N2O3
+463.2015; Enantiomeric excess: 90%, determined by HPLC (Daicel
+Chirapak OD-H, hexane/isopropanol = 85/15, ﬂow rate 1.0 mL/min,
+T = 30 °C, 254 nm): tR = 9.41 min (major), tR = 6.78 min (minor).
+(2S,3R,4R)-Ethyl 1′-Benzyl-2′-oxo-2-phenyl-1,2,4,9-tetra-
+hydrospiro[carbazole-3,3′-indoline]-4-carboxylate (3ac). Prep-
+arative thin layer chromatography: pure dichloromethane; Reaction
+time = 15 h; yield: 93% (24.6 mg); >95:5 dr; yellow sticky oil; [α]D
+20 =
++48.3 (c 0.59, Acetone); 1H NMR (400 MHz, CDCl3) δ 8.12 (s, 1H),
+7.46−7.34 (m, 3H), 7.29−7.27 (m, 2H), 7.20−6.96 (m, 11H), 6.92−
+6.88 (m, 1H), 6.54 (d, J = 8.0 Hz, 1H), 4.87 (d, J = 15.6 Hz, 1H), 4.73
+(d, J = 15.6 Hz, 1H), 4.62−4.58 (m, 1H), 4.22−4.10 (m, 2H), 4.07−
+3.98 (m, 1H), 3.83 (dd, J = 16.4, 11.0 Hz, 1H), 3.13 (dd, J = 16.6, 5.8
+Hz, 1H), 1.14 (t, J = 7.2 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ
+176.7, 172.4, 142.6, 140.1, 136.2, 135.7, 135.7, 129.3, 128.9, 128.6,
+128.2, 128.0, 127.6, 127.5, 126.8, 125.5, 121.9, 121.4, 119.5, 117.9,
+110.9, 108.8, 104.5, 60.9, 52.3, 46.2, 43.7, 42.7, 27.3, 14.2; IR (KBr):
+3650, 3057, 3032, 2963, 2917, 2849, 1732, 1700, 1686, 1019, 801, 748,
+− H)−
+701 cm−1; ESI FTMS exact mass calcd for (C35H30N2O3
+requires m/z 525.2173, found m/z 525.2183; Enantiomeric excess:
+92%, determined by HPLC (Daicel Chirapak OD-H, hexane/
+isopropanol = 85/15, ﬂow rate 1.0 mL/min, T = 30 °C, 254 nm):
+tR = 10.07 min (major), tR = 13.74 min (minor).
+(2S,3R,4R)-Ethyl 1′-Benzoyl-2′-oxo-2-phenyl-1,2,4,9-tetra-
+hydrospiro[carbazole-3,3′-indoline]-4-carboxylate (3ad). Prep-
+arative thin layer chromatography: pure dichloromethane; Reaction
+time = 15 h; yield: 65% (17.7 mg); >95:5 dr; pale yellow sticky oil;
+20 = +57.9 (c 0.44, Acetone); 1H NMR (400 MHz, CDCl3) δ 8.00
+[α]D
+(s, 1H), 7.66 (d, J = 7.6 Hz, 2H), 7.57 (d, J = 8.0 Hz, 1H), 7.52−7.48
+(m, 1H), 7.46−7.35 (m, 4H), 7.28−7.26 (m, 1H), 7.23−7.18 (m, 2H),
+</para>
+3228
+
+DOI: 10.1021/acs.joc.5b00198
+J. Org. Chem. 2015, 80, 3223−3232
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+7.17−7.06 (m, 7H), 4.51−4.47 (m, 1H), 4.34−4.32 (m, 1H), 4.19−
+4.10 (m, 1H), 4.08−3.92 (m, 1H), 3.64−3.59 (m, 1H), 3.19 (dd, J =
+16.8, 6.0 Hz, 1H), 1.12 (t, J = 7.2 Hz, 3H); 13C NMR (100 MHz,
+CDCl3) δ 175.8, 171.7, 169.4, 139.8, 139.7, 136.2, 135.2, 134.3, 132.8,
+129.2, 129.0, 128.7, 128.6, 128.3, 128.2, 127.4, 126.7, 125.4, 124.2,
+121.6, 119.6, 117.9, 114.6, 110.9, 104.3, 61.1, 53.1, 46.6, 43.3, 27.2,
+14.1; IR (KBr): 3650, 2962, 2901, 1717, 1654, 1262, 1024, 801, 743,
+− H)−
+669 cm−1; ESI FTMS exact mass calcd for (C35H28N2O4
+requires m/z 539.1965, found m/z 539.1977; Enantiomeric excess:
+80%, determined by HPLC (Daicel Chirapak IC, hexane/isopropanol
+= 70/30, ﬂow rate 1.0 mL/min, T = 30 °C, 254 nm): tR = 5.13 min
+(minor), tR = 6.08 min (major).
+(2S,3R,4R)-Ethyl 2′-Oxo-2-phenyl-1,2,4,9-tetrahydrospiro-
+[carbazole-3,3′-indoline]-4-carboxylate (3ae). Preparative thin
+layer chromatography: Toluene/ethyl acetate = 8/1; Reaction time =
+15 h; yield: 88% (19.3 mg); >95:5 dr; white sticky oil; [α]D
+20 = +63.0 (c
+0.42, Acetone); 1H NMR (400 MHz, CDCl3) δ 8.02 (s, 1H), 7.86−
+7.79 (m, 1H), 7.42 (d, J = 7.6 Hz, 1H), 7.31−7.28 (m, 2H), 7.25−6.94
+(m, 8H), 6.89−6.85 (m, 1H), 6.51 (d, J = 8.0 Hz, 1H), 4.52−4.47 (m,
+1H), 4.19−4.08 (m, 2H), 4.08−3.98 (m, 1H), 3.78−3.72 (m, 1H),
+3.15 (dd, J = 16.6, 5.6 Hz, 1H), 1.12 (t, J = 7.2 Hz, 3H); 13C NMR
+(100 MHz, CDCl3) δ 178.6, 172.3, 140.2, 136.2, 135.4, 129.8, 128.7,
+128.2, 128.0, 126.9, 126.9, 125.7, 121.8, 121.5, 119.5, 118.0, 110.9,
+109.4, 104.6, 60.8, 52.7, 45.6, 43.0, 27.3, 14.1; IR (KBr): 3647, 3031,
+2961, 2920, 1721, 1715, 1688, 1605, 1207, 1117, 803, 745, 702 cm−1;
+− H)− requires m/z
+ESI FTMS exact mass calcd for (C28H24N2O3
+435.1703, found m/z 435.1712; Enantiomeric excess: 82%, determined
+by HPLC (Daicel Chirapak IA, hexane/isopropanol = 70/30, ﬂow rate
+1.0 mL/min, T = 30 °C, 254 nm): tR = 25.17 min (major), tR = 16.55
+min (minor).
+(2S,3R,4R)-Ethyl 5′-Fluoro-1′-methyl-2′-oxo-2-phenyl-
+1,2,4,9-tetrahydrospiro[carbazole-3,3′-indoline]-4-carboxylate
+(3af). Preparative thin layer chromatography: pure dichloromethane;
+Reaction time = 15 h; yield: 83% (19.6 mg); >95:5 dr; white sticky oil;
+20 = +72.2 (c 0.47, Acetone); 1H NMR (400 MHz, CDCl3) δ 8.05
+[α]D
+(s, 1H), 7.42 (d, J = 8.0 Hz, 1H), 7.32 (d, J = 8.0 Hz, 1H), 7.20−6.96
+(m, 8H), 6.88−6.75 (m, 1H), 6.46 (dd, J = 8.4, 4.2 Hz, 1H), 4.57−
+4.53 (m, 1H), 4.23−4.04 (m, 3H), 3.81−3.77 (m, 1H), 3.14 (dd, J =
+16.6, 5.8 Hz, 1H), 3.08−2.98 (m, 3H), 1.19 (t, J = 7.2 Hz, 3H); 13C
+NMR (100 MHz, CDCl3) δ 176.0, 172.3, 139.7, 139.3, 136.2, 135.5,
+128.6, 127.9, 127.0, 126.7, 121.5, 119.6, 117.9, 114.5, 114.3, 113.7,
+113.4, 110.8, 108.1, 104.4, 61.0, 52.6, 45.5, 43.0, 27.2, 26.0, 14.2; IR
+(KBr): 3651, 3049, 2971, 2963, 1665, 1272, 1015, 804, 749, 700 cm−1;
+− H)− requires m/z
+ESI FTMS exact mass calcd for (C29H25FN2O3
+467.1765, found m/z 467.1765; Enantiomeric excess: 96%, determined
+by HPLC (Daicel Chirapak OD-H, hexane/isopropanol = 85/15, ﬂow
+rate 1.0 mL/min, T = 30 °C, 254 nm): tR = 11.58 min (major), tR =
+8.40 min (minor).
+(2S,3R,4R)-Ethyl 5′-Chloro-1′-methyl-2′-oxo-2-phenyl-
+1,2,4,9-tetrahydrospiro[carbazole-3,3′-indoline]-4-carboxylate
+(3ag). Preparative thin layer chromatography: pure dichloromethane;
+Reaction time = 15 h; yield: 95% (23.0 mg); >95:5 dr; white solid; mp
+296−298 °C; [α]D
+20 = +112.7 (c 0.43, Acetone); 1H NMR (400 MHz,
+CDCl3) δ 8.06 (s, 1H), 7.42−7.38 (m, 1H), 7.36−7.33 (m, 1H), 7.31
+(d, J = 8.0 Hz, 1H), 7.17−6.99 (m, 8H), 6.47 (d, J = 8.4 Hz, 1H),
+4.55−4.48 (m, 1H), 4.25−4.12 (m, 2H), 4.06 (s, 1H), 3.82−3.75 (m,
+1H), 3.14 (dd, J = 16.6, 5.8 Hz, 1H), 3.04 (s, 3H), 1.20 (t, J = 7.2 Hz,
+3H); 13C NMR (100 MHz, CDCl3) δ 176.0, 172.3, 141.9, 139.6,
+136.2, 135.5, 131.0, 128.6, 128.1, 128.0, 127.4, 127.0, 126.7, 125.7,
+121.5, 119.6, 117.8, 110.8, 108.6, 104.3, 61.1, 52.4, 45.4, 43.0, 27.1,
+26.0, 14.2; IR (KBr): 3649, 3599, 2962, 1685, 1647, 1261, 1151, 1095,
+1019, 799, 741, 705 cm−1; ESI FTMS exact mass calcd for
+(C29H25ClN2O3
+found m/z
+483.1474; Enantiomeric excess: 95%, determined by HPLC (Daicel
+Chirapak OD-H, hexane/isopropanol = 85/15, ﬂow rate 1.0 mL/min,
+T = 30 °C, 254 nm): tR = 12.01 min (major), tR = 8.78 min (minor).
+(2S,3R,4R)-Ethyl 5′-Bromo-1′-methyl-2′-oxo-2-phenyl-
+1,2,4,9-tetrahydrospiro[carbazole-3,3′-indoline]-4-carboxylate
+(3ah). Preparative thin layer chromatography: pure dichloromethane;
+Reaction time = 15 h; yield: 93% (24.7 mg); >95:5 dr; pale yellow
+
+− H)− requires m/z 483.1470,
+</para>
+Article
+<para sub=“exp”>
+solid; mp 285−286 °C; [α]D
+20 = +99.3 (c 0.43, Acetone); 1H NMR
+(400 MHz, CDCl3) δ 8.07 (s, 1H), 7.49−7.46 (m, 1H), 7.40 (d, J =
+8.0 Hz, 1H), 7.30 (d, J = 8.0 Hz, 1H), 7.25−7.20 (m, 1H), 7.16−7.03
+(m, 7H), 6.42 (d, J = 8.4 Hz, 1H), 4.53−4.48 (m, 1H), 4.20−4.12 (m,
+2H), 4.06 (s, 1H), 3.79 (dd, J = 16.4, 11.0 Hz, 1H), 3.13 (dd, J = 16.4,
+5.8 Hz, 1H), 3.03 (s, 3H), 1.21 (t, J = 7.2 Hz, 3H); 13C NMR (100
+MHz, CDCl3) δ 175.9, 172.3, 142.3, 139.6, 136.2, 135.5, 131.4, 131.0,
+128.6, 128.4, 128.0, 127.0, 126.7, 121.5, 119.6, 117.7, 114.6, 110.9,
+109.1, 104.3, 61.1, 52.4, 45.4, 43.0, 27.1, 26.0, 14.3; IR (KBr): 3691,
+3651, 2963, 1699, 1686, 1340, 1263, 1098, 1022, 806, 743, 703 cm−1;
+− H)− requires m/z
+ESI FTMS exact mass calcd for (C29H25BrN2O3
+527.0965, found m/z 527.0967; Enantiomeric excess: 96%, determined
+by HPLC (Daicel Chirapak OD-H, hexane/isopropanol = 85/15, ﬂow
+rate 1.0 mL/min, T = 30 °C, 254 nm): tR = 12.08 min (major), tR =
+8.45 min (minor).
+(2S,3R,4R)-Ethyl 1′,5′-Dimethyl-2′-oxo-2-phenyl-1,2,4,9-
+tetrahydrospiro[carbazole-3,3′-indoline]-4-carboxylate (3ai).
+Preparative thin layer chromatography: pure dichloromethane;
+Reaction time = 15 h; yield: 96% (22.4 mg); >95:5 dr; white solid;
+mp 289−291 °C; [α]D
+20 = +112.7 (c 0.44, Acetone); 1H NMR (400
+MHz, CDCl3) δ 8.11 (s, 1H), 7.41 (d, J = 7.6 Hz, 1H), 7.28 (d, J = 7.2
+Hz, 1H), 7.12−7.02 (m, 8H), 6.90 (d, J = 8.0 Hz, 1H), 6.45 (d, J = 8.0
+Hz, 1H), 4.52−4.44 (m, 1H), 4.22−4.01 (m, 3H), 3.79−3.73 (m, 1H),
+3.11 (dd, J = 16.4, 5.6 Hz, 1H), 3.05 (s, 3H), 2.26 (s, 3H), 1.16 (t, J =
+7.2 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 176.5, 172.6, 140.9,
+140.3, 136.2, 135.6, 131.2, 129.3, 128.6, 128.4, 127.8, 126.9, 126.8,
+126.0, 121.4, 119.4, 117.8, 110.8, 107.4, 104.7, 60.7, 52.2, 45.6, 43.1,
+27.3, 26.0, 21.2, 14.2; IR (KBr): 3691, 3677, 3651, 2962, 1685, 1559,
+1263, 1176, 1024, 817, 753, 709 cm−1; ESI FTMS exact mass calcd for
+− H)− requires m/z 463.2016, found m/z 463.2009;
+(C30H28N2O3
+Enantiomeric excess: 96%, determined by HPLC (Daicel Chirapak
+OD-H, hexane/isopropanol = 85/15, ﬂow rate 1.0 mL/min, T = 30
+°C, 254 nm): tR = 9.33 min (major), tR = 7.11 min (minor).
+(2S,3R,4R)-Ethyl 5′-Methoxy-1′-methyl-2′-oxo-2-phenyl-
+1,2,4,9-tetrahydrospiro[carbazole-3,3′-indoline]-4-carboxylate
+(3aj). Preparative thin layer chromatography: petroleum ether/ethyl
+acetate = 3/1; Reaction time = 15 h; yield: 86% (20.6 mg); >95:5 dr;
+white sticky oil; [α]D
+20 = +96.9 (c 0.29, Acetone); 1H NMR (400 MHz,
+CDCl3) δ 8.09 (s, 1H), 7.42 (d, J = 8.0 Hz, 1H), 7.31−7.27 (m, 1H),
+7.14−6.97 (m, 8H), 6.67−6.60 (m, 1H), 6.45 (d, J = 8.4 Hz, 1H),
+4.55−4.50 (m, 1H), 4.24−4.13 (m, 1H), 4.10−3.92 (m, 2H), 3.80 (dd,
+J = 16.4, 11.2 Hz, 1H), 3.74 (s, 3H), 3.11 (dd, J = 16.4, 6.0 Hz, 1H),
+3.04 (s, 3H), 1.18 (t, J = 7.2 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ
+176.3, 172.5, 155.5, 140.2, 137.0, 136.2, 135.6, 130.6, 128.6, 127.8,
+126.8, 121.4, 119.4, 117.8, 112.9, 112.8, 110.8, 107.9, 104.6, 60.8, 56.0,
+52.5, 45.7, 43.0, 27.4, 26.0, 14.2; IR (KBr): 3648, 3566, 3347, 2963,
+1730, 1700, 1654, 1625, 1497, 1458, 1261, 1031, 809, 737, 705 cm−1;
+− H)− requires m/z
+ESI FTMS exact mass calcd for (C30H28N2O4
+479.1965 found m/z 479.1972; Enantiomeric excess: 96%, determined
+by HPLC (Daicel Chirapak IC, hexane/isopropanol = 70/30, ﬂow rate
+1.0 mL/min, T = 30 °C, 254 nm): tR = 24.65 min (major), tR = 6.30
+min (minor).
+(2S,3R,4R)-Ethyl 6′-Chloro-1′-methyl-2′-oxo-2-phenyl-
+1,2,4,9-tetrahydrospiro[carbazole-3,3′-indoline]-4-carboxylate
+(3ak). Preparative thin layer chromatography: pure dichloromethane;
+Reaction time = 15 h; yield: 92% (22.4 mg); >95:5 dr; white solid; mp
+281−283 °C; [α]D
+20 = +73.9 (c 0.36, Acetone); 1H NMR (400 MHz,
+CDCl3) δ 8.07 (s, 1H), 7.44−7.39 (m, 1H), 7.29−7.27 (m, 1H),
+7.14−7.02 (m, 8H), 6.92−6.86 (m, 1H), 6.58−6.54 (m, 1H), 4.58−
+4.50 (m, 1H), 4.22−4.16 (m, 1H), 4.08−4.00 (m, 2H), 3.80−3.72 (m,
+1H), 3.12 (dd, J = 16.8, 6.0 Hz, 1H), 3.04 (s, 3H), 1.18 (t, J = 7.2 Hz,
+3H); 13C NMR (100 MHz, CDCl3) δ 176.5, 172.4, 144.6, 139.8,
+136.2, 135.5, 134.0, 128.5, 128.0, 127.8, 127.3, 127.1, 126.7, 126.4,
+123.4, 121.7, 121.5, 121.3, 119.6, 117.8, 114.7, 112.4, 110.8, 108.5,
+104.3, 61.0, 52.0, 45.5, 42.9, 27.2, 26.0, 14.2; IR (KBr): 3650, 3630,
+2963, 1717, 1685, 1543, 1374, 1262, 1076, 1019, 800, 745, 697 cm−1;
+− H)− requires m/z
+ESI FTMS exact mass calcd for (C29H25ClN2O3
+483.1470, found m/z 483.1470; Enantiomeric excess: 94%, determined
+by HPLC (Daicel Chirapak OD-H, hexane/isopropanol = 85/15, ﬂow
+</para>
+3229
+
+DOI: 10.1021/acs.joc.5b00198
+J. Org. Chem. 2015, 80, 3223−3232
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+rate 1.0 mL/min, T = 30 °C, 254 nm): tR = 11.02 min (major), tR =
+8.41 min (minor).
+(2S,3R,4R)-Ethyl 6′-Methoxy-1′-methyl-2′-oxo-2-phenyl-
+1,2,4,9-tetrahydrospiro[carbazole-3,3′-indoline]-4-carboxylate
+(3al). Preparative thin layer chromatography: pure dichloromethane;
+Reaction time = 15 h; yield: 71% (17.1 mg); >95:5 dr; white sticky oil;
+20 = +68.1 (c 0.43, Acetone); 1H NMR (400 MHz, CDCl3) δ 8.06
+[α]D
+(s, 1H), 7.42 (d, J = 8.0 Hz, 1H), 7.30−7.27 (m, 1H), 7.22 (d, J = 8.4
+Hz, 1H), 7.15−7.00 (m, 7H), 6.43−6.38 (m, 1H), 6.18−6.10 (m, 1H),
+4.55−4.47 (m, 1H), 4.21−4.13 (m, 1H), 4.10−4.00 (m, 2H), 3.83−
+3.70 (m, 4H), 3.11 (dd, J = 16.4, 5.6 Hz, 1H), 3.04 (s, 3H), 1.18 (t, J =
+7.2 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 177.1, 172.6, 160.0,
+144.6, 140.3, 136.2, 135.6, 128.6, 127.8, 126.8, 126.8, 126.0, 121.4,
+121.2, 119.4, 117.9, 110.8, 105.8, 104.8, 95.5, 60.8, 55.3, 51.8, 45.8,
+43.2, 27.3, 25.9, 14.3; IR (KBr): 3691, 3650, 3630, 1718, 1685, 1489,
+1265, 1093, 1019, 743, 701 cm−1; ESI FTMS exact mass calcd for
+− H)− requires m/z 479.1965, found m/z 479.1967;
+(C30H28N2O4
+Enantiomeric excess: 92%, determined by HPLC (Daicel Chirapak
+OD-H, hexane/isopropanol = 85/15, ﬂow rate 1.0 mL/min, T = 30
+°C, 254 nm): tR = 12.37 min (major), tR = 9.92 min (minor).
+(2S,3R,4R)-Ethyl 7′-Fluoro-1′-methyl-2′-oxo-2-phenyl-
+1,2,4,9-tetrahydrospiro[carbazole-3,3′-indoline]-4-carboxylate
+(3am). Preparative thin layer chromatography: pure dichloromethane;
+Reaction time = 15 h; yield: 99% (23.1 mg); >95:5 dr; white solid; mp
+241−243 °C; [α]D
+20 = +100.9 (c 0.33, Acetone); 1H NMR (400 MHz,
+CDCl3) δ 8.08 (s, 1H), 7.44−7.38 (m, 1H), 7.30−7.27 (m, 1H),
+7.17−7.02 (m, 8H), 6.87−6.80 (m, 2H), 4.56−4.48 (m, 1H), 4.20−
+4.14 (m, 1H), 4.09−3.98 (m, 2H), 3.78 (dd, J = 16.4, 11.2 Hz, 1H),
+3.31−3.28 (m, 3H), 3.12 (dd, J = 16.4, 6.0 Hz, 1H), 1.17 (t, J = 7.2 Hz,
+3H); 13C NMR (100 MHz, CDCl3) δ 176.2, 172.3, 148.5, 146.1,
+139.8, 136.2, 135.5, 132.2, 130.2, 130.1, 128.5, 127.9, 127.3, 127.1,
+126.7, 123.4, 122.3, 122.2, 121.5, 121.3, 121.2, 121.1, 119.5, 117.8,
+116.3, 116.1, 114.7, 112.4, 110.8, 104.3, 60.9, 52.5, 45.7, 43.1, 28.4,
+28.4, 27.2, 14.2; IR (KBr): 3649, 3619, 1685, 1558, 1240, 1176, 1017,
+802, 744, 703, 669 cm−1; ESI FTMS exact mass calcd for
+− H)− requires m/z 467.1765, found m/z 467.1767;
+(C29H25FN2O3
+Enantiomeric excess: 92%, determined by HPLC (Daicel Chirapak
+OD-H, hexane/isopropanol = 85/15, ﬂow rate 1.0 mL/min, T = 30
+°C, 254 nm): tR = 7.96 min (major), tR = 6.32 min (minor).
+(2S,3R,4R)-Ethyl 7′-Chloro-1′-methyl-2′-oxo-2-phenyl-
+1,2,4,9-tetrahydrospiro[carbazole-3,3′-indoline]-4-carboxylate
+(3an). Preparative thin layer chromatography: pure dichloromethane;
+Reaction time = 15 h; yield: 90% (21.7 mg); >95:5 dr; white sticky oil;
+20 = +72.8 (c 0.55, Acetone); 1H NMR (400 MHz, CDCl3) δ 8.10
+[α]D
+(s, 1H), 7.40 (d, J = 8.0 Hz, 1H), 7.30−7.27 (m, 1H), 7.25−7.22 (m,
+1H), 7.17−7.00 (m, 8H), 6.82 (t, J = 8.0 Hz, 1H), 4.54−4.42 (m, 1H),
+4.19−4.13 (m, 1H), 4.09−3.99 (m, 2H), 3.76 (dd, J = 16.4, 11.2 Hz,
+1H), 3.47 (s, 3H), 3.12 (dd, J = 16.4, 6.0 Hz, 1H), 1.16 (t, J = 7.2 Hz,
+3H); 13C NMR (100 MHz, CDCl3) δ 176.8, 172.3, 139.8, 139.3,
+136.2, 135.5, 132.1, 130.6, 128.5, 128.0, 127.1, 126.7, 123.8, 122.5,
+121.5, 119.5, 117.8, 115.1, 110.9, 104.4, 60.9, 51.9, 45.9, 43.1, 29.4,
+27.4, 14.2; IR (KBr): 3676, 3650, 1717, 1639, 1508, 1155, 1094, 837,
+− H)−
+744, 672 cm−1; ESI FTMS exact mass calcd for (C29H25ClN2O3
+requires m/z 483.1470, found m/z 483.1462; Enantiomeric excess:
+96%, determined by HPLC (Daicel Chirapak OD-H, hexane/
+isopropanol = 85/15, ﬂow rate 1.0 mL/min, T = 30 °C, 254 nm):
+tR = 8.07 min (major), tR = 6.78 min (minor).
+(2S,3R,4R)-Ethyl 7′-Bromo-1′-methyl-2′-oxo-2-phenyl-
+1,2,4,9-tetrahydrospiro[carbazole-3,3′-indoline]-4-carboxylate
+(3ao). Preparative thin layer chromatography: pure dichloromethane;
+Reaction time = 15 h; yield: 88% (23.4 mg); >95:5 dr; white solid; mp
+226−228 °C; [α]D
+20 = +67.4 (c 0.47, Acetone); 1H NMR (400 MHz,
+CDCl3) δ 8.09 (s, 1H), 7.40 (d, J = 8.0 Hz, 1H), 7.31−7.27 (m, 2H),
+7.24−7.20 (m, 1H), 7.15−7.03 (m, 7H), 6.75 (t, J = 8.0 Hz, 1H),
+4.51−4.43 (m, 1H), 4.16−4.11 (m, 1H), 4.09−3.98 (m, 2H), 3.75−
+3.71 (m, 1H), 3.48 (s, 3H), 3.13 (dd, J = 16.4, 6.0 Hz, 1H), 1.15 (t, J =
+7.2 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 177.0, 172.3, 140.7,
+139.8, 136.2, 135.4, 134.0, 132.4, 128.5, 128.0, 127.1, 126.7, 124.3,
+122.9, 121.5, 119.6, 117.8, 110.9, 104.4, 102.0, 60.9, 51.9, 45.9, 43.1,
+27.5, 14.2; IR (KBr): 3691, 3650, 3057, 3032, 1717, 1686, 1458, 1339,
+1264, 1019, 744, 689 cm−1; ESI FTMS exact mass calcd for
+</para>
+Article
+<para sub=“exp”>
+− H)− requires m/z 527.0965,
+
+(C29H25BrN2O3
+found m/z
+527.0975; Enantiomeric excess: 92%, determined by HPLC (Daicel
+Chirapak OD-H, hexane/isopropanol = 85/15, ﬂow rate 1.0 mL/min,
+T = 30 °C, 254 nm): tR = 8.37 min (major), tR = 7.15 min (minor).
+(2S,3R,4R)-Ethyl 1′-Methyl-2′-oxo-2-phenyl-7′-(triﬂuoro-
+methyl)-1,2,4,9-tetrahydrospiro[carbazole-3,3′-indoline]-4-
+carboxylate (3ap). Preparative thin layer chromatography: pure
+dichloromethane; Reaction time = 15 h; yield: 90% (23.2 mg); >95:5
+dr; pale yellow sticky oil; [α]D
+20 = +110.9 (c 0.37, Acetone); 1H NMR
+(400 MHz, CDCl3) δ 8.10 (s, 1H), 7.55 (d, J = 7.6 Hz, 1H), 7.41 (d, J
+= 8.0 Hz, 2H), 7.30 (d, J = 8.0 Hz, 1H), 7.17−7.10 (m, 1H), 7.09−
+6.95 (m, 7H), 4.52−4.44 (m, 1H), 4.19−4.12 (m, 1H), 4.11−3.98 (m,
+2H), 3.76−3.70 (m, 1H), 3.33−3.28 (m, 3H), 3.15 (dd, J = 16.8, 6.0
+Hz, 1H), 1.15 (t, J = 7.2 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ
+177.2, 172.3, 141.4, 139.5, 136.2, 135.3, 131.9, 128.6, 128.4, 128.0,
+127.2, 126.7, 126.3, 126.2, 124.8, 122.1, 121.6, 121.1, 119.6, 117.8,
+112.1, 111.8, 110.9, 104.4, 61.0, 50.6, 45.6, 43.4, 28.7, 28.6, 27.2, 14.2;
+IR (KBr): 3677, 3650, 3032, 1717, 1672, 1437, 1339, 1175, 1023 745
+− H)− requires
+cm−1; ESI FTMS exact mass calcd for (C30H25F3N2O3
+m/z 517.1734,
+found m/z 517.1747; Enantiomeric excess: 92%,
+determined by HPLC (Daicel Chirapak IA, hexane/isopropanol = 70/
+30, ﬂow rate 1.0 mL/min, T = 30 °C, 254 nm): tR = 12.45 min
+(major), tR = 16.45 min (minor).
+(2S,3R,4R)-Ethyl 1′,7′-Dimethyl-2′-oxo-2-phenyl-1,2,4,9-
+tetrahydrospiro[carbazole-3,3′-indoline]-4-carboxylate (3aq).
+Preparative thin layer chromatography: petroleum ether/ethyl acetate
+= 3/1; Reaction time = 15 h; yield: 89% (20.8 mg); >95:5 dr; white
+sticky oil; [α]D
+20 = +88.7 (c 0.44, Acetone); 1H NMR (400 MHz,
+CDCl3) δ 8.10 (s, 1H), 7.39 (d, J = 8.0 Hz, 1H), 7.27−7.24 (m, 1H),
+7.20−7.16 (m, 1H), 7.13−7.01 (m, 7H), 6.85−6.76 (m, 2H), 4.52−
+4.42 (m, 1H), 4.25−4.11 (m, 1H), 4.10−3.95 (m, 2H), 3.79−3.72 (m,
+1H), 3.37 (s, 3H), 3.11 (dd, J = 16.4, 6.0 Hz, 1H), 2.38 (s, 3H), 1.15
+(t, J = 7.2 Hz, 3H); 13C NMR (100 MHz, CDCl3) δ 177.4, 172.5,
+141.1, 140.4, 136.2, 135.6, 132.0, 129.8, 128.7, 127.8, 126.8, 126.8,
+123.0, 121.7, 121.3, 119.4, 119.1, 117.7, 110.8, 104.8, 60.8, 51.4, 46.0,
+43.1, 27.5, 19.1, 14.2; IR (KBr): 3677, 3650, 3032, 1734, 1718, 1658,
+1339, 1175, 1023, 745 719 cm−1; ESI FTMS exact mass calcd for
+− H)− requires m/z 463.2016, found m/z 463.2015;
+(C30H28N2O3
+Enantiomeric excess: 94%, determined by HPLC (Daicel Chirapak
+OD-H, hexane/isopropanol = 85/15, ﬂow rate 1.0 mL/min, T = 30
+°C, 254 nm): tR = 11.14 min (major), tR = 8.44 min (minor).
+(2S,3R,4R)-4-Benzoyl-1′-methyl-2-phenyl-1,2,4,9-tetra-
+hydrospiro[carbazole-3,3′-indolin]-2′-one (3ar). Preparative thin
+layer chromatography: pure dichloromethane; Reaction time = 15 h;
+20 = −58.0 (c 0.47,
+yield: 93% (22.5 mg); >95:5 dr; white sticky oil; [α]D
+Acetone); 1H NMR (400 MHz, CDCl3) δ 8.14 (s, 1H), 7.68−7.61 (m,
+2H), 7.52−7.44 (m, 1H), 7.36−7.30 (m, 2H), 7.27−7.24 (m, 1H),
+7.12−7.07 (m, 2H), 7.04−7.00 (m, 5H), 6.97−6.90 (m, 1H), 6.85−
+6.78 (m, 2H), 6.66−6.59 (m, 1H), 6.51 (d, J = 8.0 Hz, 1H), 5.21 (s,
+1H), 4.64−4.56 (m, 1H), 3.87 (dd, J = 16.4, 11.2 Hz, 1H), 3.19 (dd, J
+= 16.4, 6.0 Hz, 1H), 3.11 (s, 3H); 13C NMR (100 MHz, cdcl3) δ
+201.5, 177.0, 143.0, 140.0, 138.6, 136.1, 135.9, 132.9, 128.7, 128.5,
+128.3, 127.9, 127.7, 126.8, 126.5, 126.2, 121.8, 121.2, 119.2, 117.5,
+110.8, 107.5, 105.8, 52.8, 44.6, 43.3, 27.2, 26.0; IR (KBr): 3676, 3650,
+3055, 1717, 1699, 1686, 1263, 1207, 1088, 1014, 746 cm−1; ESI FTMS
+− H)− requires m/z 481.1911,
+exact mass calcd for (C33H26N2O2
+found m/z 481.1912; Enantiomeric excess: 92%, determined by HPLC
+(Daicel Chirapak OD-H, hexane/isopropanol = 85/15, ﬂow rate 1.0
+mL/min, T = 30 °C, 254 nm): tR = 31.95 min (major), tR = 14.02 min
+(minor).
+(2S,3R,4R)-1′-Methyl-2′-oxo-2-phenyl-1,2,4,9-tetrahydro-
+spiro[carbazole-3,3′-indoline]-4-carbonitrile (3as). Preparative
+thin layer chromatography: petroleum ether/ethyl acetate = 2/1;
+Reaction time = 15 h; yield: 79% (16.0 mg); >95:5 dr; white sticky oil;
+20 = +44.8 (c 0.19, Acetone); 1H NMR (400 MHz, CDCl3) δ 8.14
+[α]D
+(s, 1H), 7.66 (d, J = 7.6 Hz, 1H), 7.54 (d, J = 8.0 Hz, 1H), 7.36 (d, J =
+8.0 Hz, 1H), 7.25−7.19 (m, 2H), 7.18−7.14 (m, 1H), 7.11−7.02 (m,
+6H), 6.64 (d, J = 8.0 Hz, 1H), 4.32 (s, 1H), 3.88−3.86 (m, 1H), 3.85−
+3.70 (m, 1H), 3.18 (dd, J = 16.4, 5.6 Hz, 1H), 3.11 (s, 3H); 13C NMR
+(100 MHz, CDCl3) δ 175., 143.0, 138.9, 136.2, 135.0, 129.0, 128.2,
+</para>
+3230
+
+DOI: 10.1021/acs.joc.5b00198
+J. Org. Chem. 2015, 80, 3223−3232
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+128.1, 128.0, 127.4, 125.9, 125.9, 122.5, 122.3, 120.3, 118.4, 117.6,
+111.0, 108.0, 101.4, 51.0, 45.0, 32.3, 27.2, 26.2; IR (KBr): 3650, 3301,
+3123, 2197, 2015, 1711, 1642, 1333, 1143, 1013, 983 cm−1; ESI FTMS
+exact mass calcd for (C27H21N3O − H)− requires m/z 402.1602, found
+m/z 402.1611; Enantiomeric excess: 84%, determined by HPLC
+(Daicel Chirapak IA, hexane/isopropanol = 70/30, ﬂow rate 1.0 mL/
+min, T = 30 °C, 254 nm): tR = 22.14 min (major), tR = 13.11 min
+(minor).
+(2S,3R,4R)-Ethyl 1′,9-Dimethyl-2′-oxo-2-phenyl-1,2,4,9-
+tetrahydrospiro[carbazole-3,3′-indoline]-4-carboxylate (3ja).
+Preparative thin layer chromatography: petroleum ether/ethyl acetate
+= 3/1; Reaction time = 15 h; yield: 42% (9.9 mg); 80:20 dr; pale
+yellow sticky oil; [α]D
+20 = +91.8 (c 0.16, Acetone); 1H NMR (400
+MHz, CDCl3) δ 7.43 (d, J = 8.0 Hz, 1H), 7.35 (d, J = 7.2 Hz, 1H),
+7.30 (d, J = 8.0 Hz, 1H), 7.20−7.13 (m, 1H), 7.13−6.98 (m, 7H),
+6.94−6.88 (m, 1H), 6.56 (d, J = 8.0 Hz, 1H), 4.62−4.56 (m, 1H),
+4.24−4.15 (m, 1H), 4.11−3.98 (m, 2H), 3.83−3.67 (m, 4H), 3.25−
+3.15 (m, 1H), 3.06 (s, 3H), 1.17 (t, J = 7.2 Hz, 3H); 13C NMR (100
+MHz, CDCl3) δ 176.5, 172.7, 143.3, 140.3, 137.4, 137.1, 129.3, 128.6,
+128.2, 127.8, 126.8, 126.4, 125.3, 121.9, 120.8, 119.0, 117.8, 108.9,
+107.7, 103.4, 65.9, 60.8, 52.0, 45.7, 43.0, 26.6, 25.9, 15.3, 14.2; IR
+(KBr): 3652, 3321, 3027, 1715, 1655, 1321, 1109, 1011, 745 cm−1; ESI
+− H)− requires m/z
+FTMS exact mass calcd for (C30H28N2O3
+463.2016, found m/z 463.2018; Enantiomeric excess: 72%, determined
+by HPLC (Daicel Chirapak IA, hexane/isopropanol = 95/5, ﬂow rate
+1.0 mL/min, T = 30 °C, 254 nm): tR = 20.89 min (major), tR = 13.18
+min (minor).
+
+Procedure and Characterization Data for the Synthesis of
+Product 5. LiAlH4 (0.15 mmol) was added to the solution of
+compound 3aa (0.1 mmol) in THF (1.5 mL) at room temperature.
+Then, this reaction mixture was reﬂuxed at 80 °C overnight. After the
+completion of the reaction indicated by TLC, NaOH aqueous (1 M)
+was added to the reaction mixture, which was further extracted by
+AcOEt to give the organic layer. Then, the organic layer was dried by
+anhydrous Na2SO4 and was concentrated under the reduced pressure
+to give the residue, which was puriﬁed through ﬂash column
+chromatography to aﬀord pure product 5.
+(2S,3R,4R)-4-(Hydroxymethyl)-1′-methyl-2-phenyl-1,2,4,9-
+tetrahydrospiro[carbazole-3,3′-indolin]-2′-one (5). Flash col-
+umn chromatography eluent, petroleum ether/ethyl acetate = 5/1;
+Reaction time = 15 h; yield: 92% (37.4 mg); >95:5 dr; white sticky oil;
+20 = −12.5 (c 0.61, Acetone); 1H NMR (400 MHz, CDCl3) δ 8.05
+[α]D
+(s, 1H), 7.66 (d, J = 8.0 Hz, 1H), 7.36 (d, J = 8.0 Hz, 1H), 7.25−7.23
+(m, 3H), 7.22−7.16 (m, 3H), 7.16−7.12 (m, 2H), 7.11−7.06 (m, 1H),
+6.63 (t, J = 7.6 Hz, 1H), 6.50 (d, J = 7.6 Hz, 1H), 4.26−4.20 (m, 1H),
+4.09−3.93 (m, 1H), 3.89−3.77 (m, 1H), 3.55−3.48 (m, 1H), 3.28−
+3.22 (m, 1H), 3.06 (dd, J = 17.2, 7.6 Hz, 1H), 2.71 (s, 3H), 2.28−2.24
+(m, 1H); 13C NMR (100 MHz, CDCl3) δ 152.9, 142.2, 136.7, 134.7,
+132.6, 129.7, 128.2, 127.4, 126.7, 125.9, 121.6, 119.6, 119.2, 118.0,
+110.8, 109.2, 108.1, 64.1, 63.7, 51.8, 44.9, 43.8, 35.9, 28.2; IR (KBr):
+3673, 3651, 3542, 3317, 3234, 2928, 1647, 1628, 1435, 1175, 1016,
+− H)−
+749, 699 cm−1; ESI FTMS exact mass calcd for (C27H24N2O2
+requires m/z 407.1754, found m/z 407.1762; Enantiomeric excess:
+94%, determined by HPLC (Daicel Chirapak IA, hexane/isopropanol
+= 70/30, ﬂow rate 1.0 mL/min, T = 30 °C, 254 nm): tR = 8.66 min
+(major), tR = 8.08 min (minor).
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Characterization data (including 1H, 13C NMR and HPLC
+spectra) for all products, single-crystal data of product 3ao.
+This material
+is available free of charge via the Internet at
+http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+
+Corresponding Author
+*E-mail: fshi@jsnu.edu.cn (F.S.).
+
+Article
+
+Author Contributions
+†
+The two authors contributed equally to the work.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We are grateful for ﬁnancial support from NSFC (21372002
+and 21232007),
+Jiangsu Key
+Laboratory (K201314), PAPD of Jiangsu province, and the
+QingLan Project.
+
+the Open Foundation of
+
+■ REFERENCES
+(1) (a) Feng, Y.; Majireck, M. M.; Weinreb, S. M. J. Org. Chem. 2014,
+79, 7−24. (b) Busto, E.; Gotor-Fernandez, V.; Gotor, V. J. Org. Chem.
+2012, 77, 4842−4848. (c) Guo, K.; Fang, T.-T.; Wang, J.-Y.; Wu, A.-
+A.; Wang, Y.-Z.; Jiang, J.; Wu, X.-R.; Song, S.-Y.; Su, W.-J.; Xu, Q.-Y.;
+Deng, X.-M. Bioorg. Med. Chem. Lett. 2014, 24, 4995−4998. (d) Patir,
+S.; Erturk, E. J. Org. Chem. 2011, 76, 335−338. (e) Tripathy, R.;
+Reiboldt, A.; Messina, P. A.; Iqbal, M.; Singh, J.; Bacon, E. R.; Angeles,
+T. S.; Yang, S. X.; Albom, M. S.; Robinson, C.; Chang, H.; Ruggeri, B.
+A.; Mallamo, J. P. Bioorg. Med. Chem. Lett. 2006, 16, 2158−2162.
+(f) Kumari, G.; Nutan; Modi, M.; Gupta, S. K.; Singh, R. K. Eur. J.
+Med. Chem. 2011, 46, 1181−1188. (g) Yeung, B. K. S.; Zou, B.;
+Rottmann, M.; Lakshminarayana, S. B.; Ang, S. H.; Leong, S. Y.; Tan,
+J.; Wong, J.; Keller-Maerki, S.; Fischli, C.; Goh, A.; Schmitt, E. K.;
+Krastel, P.; Francotte, E.; Kuhen, K.; Plouffe, D.; Henson, K.; Wagner,
+T.; Winzeler, E. A.; Petersen, F.; Brun, R.; Dartois, V.; Diagana, T. T.;
+Keller, T. H. J. Med. Chem. 2010, 53, 5155−5164. (h) Murugan, R.;
+Anbazhagan, S.; Narayanan, S. S. Eur. J. Med. Chem. 2009, 44, 3272−
+3279.
+(2) For some examples of enantioselective synthesis of tetrahy-
+drocarbazoles: (a) Zhou, S.-L.; Li, J.-L.; Dong, L.; Chen, Y.-C. Org.
+Lett. 2011, 13, 5874−5877. (b) Xiao, Y.-C.; Zhou, Q.-Q.; Dong, L.;
+Liu, T.-Y.; Chen, Y.-C. Org. Lett. 2012, 14, 5940−5943. (c) Wu, Q.-F.;
+Zheng, C.; You, S.-L. Angew. Chem., Int. Ed. 2012, 51, 1680−1683.
+(d) Zheng, C.; Wu, Q.-F.; You, S.-L. J. Org. Chem. 2013, 78, 4357−
+4365. (e) Xiao, Y.-C.; Yue, C.-Z.; Chen, P.-Q.; Chen, Y.-C. Org. Lett.
+2014, 16, 3208−3211. (f) Zhao, R.-R.; Sun, Z.-W.; Mo, M.-J.; Peng, F.-
+Z.; Shao, Z.-H. Org. Lett. 2014, 16, 4178−4181.
+(3) For some reviews on enantioselective synthesis of spirooxindoles:
+(a) Zhou, F.; Liu, Y.-L.; Zhou, J. Adv. Synth. Catal. 2010, 352, 1381−
+1407. (b) Klein, J. E. M. N.; Taylor, R. J. K. Eur. J. Org. Chem. 2011,
+6821−6841. (c) Shen, K.; Liu, X.; Lin, L.; Feng, X. Chem. Sci. 2012, 3,
+327−334. (d) Dou, X.-W.; Lu, Y.-X. Chem.Eur. J. 2012, 18, 8315−
+8319. (e) Rios, R. Chem. Soc. Rev. 2012, 41, 1060−1074. (f) Singh, G.
+S.; Desta, Z. Y. Chem. Rev. 2012, 112, 6104−6155. (g) Hong, L.;
+Wang, R. Adv. Synth. Catal. 2013, 355, 1023−1052. (h) Cheng, D.;
+Ishihara, Y.; Tan, B.; Barbas, C. F., III ACS Catal. 2014, 4, 743−762.
+(i) Chen, L.; Yin, X.-P.; Wang, C.-H.; Zhou, J. Org. Biomol. Chem.
+2014, 12, 6033−6048. (j)
+For a prominent example: Tan, B.;
+Candeias, N. R.; Barbas, C. F., III Nat. Chem. 2011, 3, 473−477.
+(4) (a) Zhu, S.-L.; Ji, S.-J.; Yong, Z. Tetrahedron 2007, 63, 9365−
+9372. (b) Abdel-Rahman, A. H.; Keshk, E. M.; Hanna, M. A.; El-Bady,
+S. M. Bioorg. Med. Chem. 2004, 12, 2483−2488. (c) Shi, F.; Dai, A.-X.;
+Zhang, X.-H.; Jiang, B.; Tu, S.-J. ACS Comb. Sci. 2011, 13, 147−153.
+(5) (a) Liu, Y.-K.; Arceo, M. N. E.; Vera, S.; Melchiorre, P. J. Am.
+Chem. Soc. 2011, 133, 15212−15218.
+For an enantioselective
+synthesis of spiro[tetrahydrocarbazole-2,3′-oxindoles]: (b) Tan, B.;
+Hernández-Torres, G.; Barbas, C. F., III J. Am. Chem. Soc. 2011, 133,
+12354−12357.
+(6) For some reviews: (a) Akiyama, T. Chem. Rev. 2007, 107, 5744−
+5758. (b) Terada, M. Chem. Commun. 2008, 4097−4112. (c) Terada,
+M. Synthesis 2010, 1929−1982. (d) Yu, J.; Shi, F.; Gong, L.-Z. Acc.
+Chem. Res. 2011, 44, 1156−1171. (e) Parmar, D.; Sugiono, E.; Raja, S.;
+Rueping, M. Chem. Rev. 2014, 114, 9047−9153.
+(7) (a) Jones, S. B.; Simmons, B.; MacMillan, D. W. C. J. Am. Chem.
+Soc. 2009, 131, 13606−13607. (b) Gioia, C.; Bernardi, L.; Ricci, A.
+
+3231
+
+DOI: 10.1021/acs.joc.5b00198
+J. Org. Chem. 2015, 80, 3223−3232
+
+Article
+
+The Journal of Organic Chemistry
+Synthesis 2010, 161−170. (c) Wang, X.-F.; Chen, J.-R.; Cao, Y.-J.;
+Cheng, H.-G.; Xiao, W.-J. Org. Lett. 2010, 12, 1140−1143. (d) Zheng,
+C.-W.; Lu, Y.-P.; Zhang, J.-K.; Chen, X.-K.; Chai, Z.; Ma, W.-Y.; Zhao,
+G. Chem.Eur. J. 2010, 16, 5853−5857. (e) Cao, Y.-J.; Cheng, H.-G.;
+Lu, L.-Q.; Zhang, J.-J.; Cheng, Y.; Chen, J.-R.; Xiao, W.-J. Adv. Synth.
+Catal. 2011, 353, 617−623. (f) Wang, X.-F.; Peng, L.; An, J.; Li, C.;
+Yang, Q.-Q.; Lu, L.-Q.; Gu, F.-L.; Xiao, W.-J. Chem.Eur. J. 2011, 17,
+6484−6491. (g) Tan, F.; Xiao, C.; Cheng, H.-G.; Wu, W.; Ding, K.-R.;
+Xiao, W.-J. Chem.Asian J. 2012, 7, 493−497. (h) Tian, X.; Hofmann,
+N.; Melchiorre, P. Angew. Chem., Int. Ed. 2014, 53, 2997−3000.
+(i) Ouyang, B.-L.; Yu, T.-T.; Luo, R.-S.; Lu, G. Org. Biomol. Chem.
+2014, 12, 4172−4176.
+(8) For some examples: (a) Chen, X.-H.; Wei, Q.; Xiao, H.; Luo, S.-
+W.; Gong, L.-Z. J. Am. Chem. Soc. 2009, 131, 13819−13825. (b) Wei,
+Q.; Gong, L.-Z. Org. Lett. 2010, 12, 1008−1011. (c) Bencivenni, G.;
+Wu, L.-Y.; Mazzanti, A.; Giannichi, B.; Pesciaioli, F.; Song, M.-P.;
+Bartoli, G.; Melchiorre, P. Angew. Chem., Int. Ed. 2009, 48, 7200−7203.
+(d) Cao, Y.-M.; Jiang, X.-X.; Liu, L.-P.; Shen, F.-F.; Zhang, F.-T.;
+Wang, R. Angew. Chem., Int. Ed. 2011, 50, 9124−9127. (e) Tan, B.;
+Candeias, N. R.; Barbas, C. F., III J. Am. Chem. Soc. 2011, 133, 4672−
+4675. (f) Halskov, K. S.; Johansen, T. K.; Davis, R. L.; Steurer, M.;
+Jensen, F.; Jøergensen, K. A. J. Am. Chem. Soc. 2012, 134, 12943−
+12946. (g) Zeng, X.-F.; Ni, Q.-J.; Raabe, G.; Enders, D. Angew. Chem.,
+Int. Ed. 2013, 52, 2977−2980. (h) Shen, L.-T.; Jia, W.-Q.; Ye, S.
+Angew. Chem., Int. Ed. 2013, 52, 585−588.
+(9) (a) Shi, F.; Xing, G.-J.; Zhu, R.-Y.; Tan, W.; Tu, S.-J. Org. Lett.
+2013, 15, 128−131. (b) Shi, F.; Zhu, R.-Y.; Dai, W.; Wang, C.-S.; Tu,
+S.-J. Chem.Eur. J. 2014, 20, 2597−2604. (c) Tan, W.; Li, X.; Gong,
+Y.-X.; Ge, M.-D.; Shi, F. Chem. Commun. 2014, 50, 15901−15904.
+(d) Zhang, Y.-C.; Zhao, J.-J.; Jiang, F.; Sun, S.-B.; Shi, F. Angew. Chem.,
+Int. Ed. 2014, 53, 13912−13915.
+(10) CCDC 1044162 for 3ao; see the Supporting Information for
+details.
+(11) For seminal papers: (a) Jia, Y.-X.; Zhong, J.; Zhu, S.-F.; Zhang,
+C.-M.; Zhou, Q.-L. Angew. Chem., Int. Ed. 2007, 46, 5565−5567.
+(b) Itoh, J.; Fuchibe, K.; Akiyama, T. Angew. Chem., Int. Ed. 2008, 47,
+4016−4018.
+(12) Storer, R. I.; Carrera, D. E.; Ni, Y.; MacMillan, D. W. C. J. Am.
+Chem. Soc. 2006, 128, 84−86.
+
+3232
+
+DOI: 10.1021/acs.joc.5b00198
+J. Org. Chem. 2015, 80, 3223−3232
+
+

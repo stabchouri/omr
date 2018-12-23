@@ -1,0 +1,909 @@
+Note
+
+pubs.acs.org/joc
+
+Regioselective Synthesis of Highly Substituted Imidazoles via the
+Sequential Reaction of Allenyl Sulfonamides and Amines
+Lian Yu, Yuan Deng, and Jian Cao*
+Key Laboratory of Organosilicon Chemistry and Material Technology of the Ministry of Education, Hangzhou Normal University,
+Wenyi Road 222, Hangzhou 310012, People’s Republic of China
+*S Supporting Information
+
+ABSTRACT: A novel synthesis of imidazoles from electron-
+withdrawing group-substituted allenyl
+sulfonamides with
+amines was developed. The 4- and 5-functionalized imidazoles
+were constructed regioselectively, which depended on the
+substituents on the nitrogen atoms.
+
+I midazoles are an important class of heterocyclic compounds
+
+that are not only a fundamental motif found in various
+natural products but also a key structural unit in pharmaceutical
+compounds.1 For example, Olmesartan 1, an angiotensin II
+receptor antagonist,2 consists of an imidazole-5-carboxylate unit
+Imidazole-4-carboxamide compound 2 was
+(Figure 1).
+
+Figure 1. Several
+biologically active compounds and pharmaceutical products.
+
+imidazole derivatives that have been reported as
+
+discovered to be a potent and highly selective CB2 receptor
+antagonist,3 and imidazolo-nectrisine-phosphono acid deriva-
+tive 3 was found to be a potential glycosyltranferase inhibitor.4
+Recently,
+imidazoles have also been used as precursors to
+environmentally friendly ionic solvents5 and carbene ligands.6
+Thus, the synthesis of functionalized imidazoles has attracted
+considerable attention, and many methods have been
+developed for their synthesis.7 However, the reported methods
+for their synthesis can be limited with respect to the type and
+location of functional group substituents and regioselectivity.
+Therefore,
+it is still highly desirable to develop direct and
+eﬃcient strategies that aﬀord imidazoles derivatives.
+
+Allenamides and ynamides, special classes of functionalized
+allenes and alkynes, have recently received much attention in
+the synthetic community.8,9 Various nitrogen-containing
+building blocks, including nitrogen heterocycles, were success-
+fully synthesized from allenamides and ynamides.10,11 Recently,
+Rabasso and co-workers reported a simple and eﬃcient
+synthesis of α-amino allenephosphonates by the [2,3]-
+sigmatropic rearrangement of ynamido-alcohols12 and selective
+reduction of amino allenephosphonates for the preparation of
+α-amino vinylphosphonates.13 These α-amino allenephospho-
+nates represent a kind of allene substituted with both electron-
+withdrawing and -donating groups;
+they show some
+special reactivity. In the continuation of our investigation of
+allenamides14 and ynamides,15 we recently found a novel
+synthesis of
+imidazoles from electron-withdrawing group-
+substituted allenyl sulfonamides with amines. Herein, we report
+the regioselective synthesis of highly substituted imidazoles.
+
+thus,
+<para sub=“opt”>
+We initiated our studies by examining the reaction of allenyl
+sulfonamide 4a with propylamine 5a. Imidazole 6a was not
+detected when 4a and 5a were reacted in CH3CN at room
+temperature (Table 1, entry 1). Fortunately, in the presence of
+a base (K2CO3),
+the reaction in reﬂuxing CH3CN gave
+imidazole 6a in 39% yield (entry 2). Addition of 2 equiv of 5a
+gave a better yield (entry 3). Subsequent screening of solvent
+and base showed that DMF proved to be the most suitable
+solvent (entries 4−7), whereas K2CO3 was the best base
+(entries 8−10). Thus, we concluded that K2CO3 as base in
+DMF at 100 °C under air provided the sole product imidazole
+6a in the highest yield (87%, entry 5).
+</para>
+<para sub="scope">
+amines
+
+i-BuNH 2,
+
+Under the optimized conditions, the scope of this reaction
+was further investigated. A variety of amines, including primary
+and
+alkyl
+PhCH2CH2NH2),
+secondary alkyl amines (i-PrNH2 and
+C6H11NH2), and aryl amines (p-MeOC6H4NH2 and PhNH2),
+were all eﬃciently coupled to furnish the corresponding
+product imidazoles (Table 2, entries 1−8 and 11). Both α-
+
+(n-PrNH 2, n-BuNH 2,
+</para>
+Received:
+Published: April 8, 2015
+
+January 20, 2015
+
+© 2015 American Chemical Society
+
+4729
+
+DOI: 10.1021/acs.joc.5b00141
+J. Org. Chem. 2015, 80, 4729−4735
+
+The Journal of Organic Chemistry
+Table 1. Optimization of the Reaction Conditionsa
+
+base
+
+temp (°C)
+
+time (h)
+
+yield of 6a (%)
+
+no
+K2CO3
+K2CO3
+K2CO3
+K2CO3
+K2CO3
+K2CO3
+i-Pr2EtN
+K3PO4
+Cs2CO3
+
+solvent
+CH3CN
+CH3CN
+CH3CN
+1,4-dioxane
+DMF
+toluene
+DMSO
+DMF
+DMF
+DMF
+
+entry
+1
+2
+3b
+4b
+5b
+6b
+7b
+8b
+9b
+10b
+aUnless otherwise speciﬁed, the reaction was carried out using 4a (0.2
+mmol), 5a (0.2 mmol), and base (0.6 mmol) in solvent (2 mL) under
+air. b5a (0.4 mmol) was used.
+
+rt
+reﬂux
+reﬂux
+100
+100
+100
+100
+100
+100
+100
+
+0
+39
+54
+66
+87
+41
+75
+50
+72
+80
+
+12
+8
+8
+2
+2
+2
+2
+2
+2
+2
+<para sub="scope">
+amino allenephosphonates and allenephosphine oxides worked
+well to aﬀord corresponding imidazol-4-ylphosphonates and
+imidazol-4-ylphosphine oxides, respectively. R1 and R2 groups
+on the allene moiety could be H, alkyl, and aryl, although bulky
+groups resulted in lower yields (entries 9−13). The R3 group of
+4 could be a substituted by a phenyl group (entries 1 and 12).
+α-Amino allenoates could also undergo this reaction under
+modiﬁed conditions (entries 14−17). In all reactions in Table
+2, the 4-functionalized imidazole was obtained as the sole
+regioisomer, and the structure was revealed by X-ray diﬀraction
+of 6c.16
+</para>
+<para sub="scope">
+The reaction of allenyl sulfonamide 4g with BnNH2 5i under
+standard conditions aﬀorded the expected imidazole-4-carbox-
+ylate 6q. Interestingly, a regioisomer, imidazole-5-carboxylate
+7a, was also found (Scheme 1).17 The corresponding
+regioisomer was not detected in the 1H NMR spectra of the
+crude reaction mixtures when other alkyl amines were
+employed (Table 2).
+</para>
+<para sub="scope">
+Realizing that the substituents on the nitrogen atoms could
+play an important role in the regioselectivity, we conducted
+reactions of various amines with allenyl sulfonamides in which
+R3 was an alkyl group. As shown in Table 3, N-propyl allenyl
+sulfonamides 4i and 4j reacted with substituted benzyl amines
+5i−5k to produce imidazole-5-carboxylates 7b−7d and
+imidazol-5-ylphosphine oxide 7g. 2-Picolylamine 5l and
+allylamine 5m also gave the imidazoles products, albeit in
+lower yields (entries 4 and 5). The structure of 7g was revealed
+by X-ray diﬀraction.18 In these cases, regioisomers of the 4-
+functionalized imidazoles were not detected in the 1H NMR
+spectra of the crude reaction mixtures. Thus, this reaction could
+regioselectively construct two regioisomers (e.g., 6a and 7g; 6m
+and 7b) just by exchanging the substituents on the two
+nitrogen atoms. However, the reaction of allenyl sulfonamide 4i
+with an alkyl amine, such as n-PrNH2 5a, resulted in an
+unidentiﬁed mixture (entry 7), indicating that at least one Bn or
+allyl group on the nitrogen atoms was necessary for this
+transformation.
+</para>
+<para sub="scope">
+To gain more insight
+
+into the reaction mechanism, we
+attempted to isolate the intermediate addition product of
+allenyl sulfonamides 4g and 4i with amines 5i and 5c (Scheme
+2). Without a base, the reaction at room temperature gave the
+</para>
+Note
+<para sub="scope">
+addition products 8a−8c19 (the structure was revealed by X-ray
+diﬀraction of 8a20) in high yield, and no imidazole was found.
+Under the standard conditions, 8a−8c were converted to
+imidazoles 6 and/or 7. The regioselectivity was consistent with
+the results of the one-pot reactions, indicating that 8 was the
+intermediate of this sequential reaction.
+</para>
+<para sub=“ques”>
+On the basis of the above experimental observations, the
+following plausible mechanism was proposed for this reaction,
+as shown in Scheme 3. Initially, the addition reaction of allenyl
+sulfonamide 4 with amine 5 aﬀords intermediate A. In the
+presence of K2CO3, elimination of one molecule of 4-
+methylbenzenesulﬁnic acid21 provides an unstable diimine, B.
+Depending on the nature of substitutents at R3 and R5, B could
+be further converted to either C or D via a 1,5-H shift followed
+by concomitant ring closure.22 Imidazoles 6 or 7 are thus
+forged through oxidative aromatization under open air
+conditions. Substituents R3 and R5 have extremely important
+roles in the product distribution. (i) When either R3 or R5 is an
+aryl or vinyl group, a benzylic or allylic proton may facilitate a
+1,5-H shift, leading to intermediate C or D, respectively. (ii)
+Paths a and b coexist if both R3 and R5 are aryl groups,
+generating two sets of
+imidazoles. However, due to the
+electron-withdrawing eﬀect of the attached ester group, the
+proton adjacent to R3 shows stronger acidity, resulting in the
+predominance of intermediate C. (iii) In the case that neither
+R3 nor R5 is an aryl group, a 1,5-H shift process may be
+inhibited without an activated proton; therefore, no imidazole is
+produced.
+</para>
+In conclusion, we have described a novel regioselective
+synthesis of highly substituted imidazoles from electron-
+withdrawing group-substituted allenyl
+sulfonamides with
+amines. The imidazol-4- or imidazol-5-ylphosphonates, phos-
+phine oxides, and carboxylates were constructed regioselec-
+tively, which depended on the substituents on the nitrogen
+atoms.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General. All commercially available chemicals and reagents were
+used without any further puriﬁcation. NMR spectra were recorded on
+a 400 or 500 MHz NMR spectrometer using tetramethylsilane as the
+internal standard and CDCl3 as solvent. Chemical shifts are expressed
+in ppm, and J values are given in Hz. High-resolution mass
+spectrometry (HRMS) was obtained using the ESI− or EI- or APCI-
+TOF method. Melting points were measured on a microscopic
+apparatus and were uncorrected.
+
+Preparation of the α-amino allenephosphonates and phosphine
+oxides was done according to Rabasso’s method.12 Characterization of
+unreported α-amino allene phosphine oxide is listed below.
+
+N-(1-(Diphenylphosphoryl)propa-1,2-dienyl)-4-methyl-N-
+propylbenzenesulfonamide (4j). Colorless solid (556.6 mg, 56%).
+mp 146−148 °C. 1H NMR (400 MHz, CDCl3): δ 7.81−7.85 (m, 4H),
+7.59−7.61 (m, 2H), 7.44−7.51 (m, 6H), 7.17−7.19 (m, 2H), 5.07 (s,
+1H), 5.05 (s, 1H), 3.33 (t, J = 8.0 Hz, 2H), 2.34 (s, 3H), 1.45−1.55
+(m, 2H), 0.73 (t, J = 8.0 Hz, 3H); 13C NMR (100 MHz, CDCl3): δ
+214.0 (d, J = 22.0 Hz), 143.6, 135.7, 132.1, 131.9, 130.8, 129.3, 128.3,
+128.0, 103.9 (d, J = 124.0 Hz), 84.0 (d, J = 9.6 Hz), 52.2, 21.5, 21.2,
+11.0; IR (KBr): ν (cm−1) 3060, 2980, 1384, 1197, 1157, 555, 524;
+HRMS (EI-TOF) m/z: M+ calcd for C25H26NO3PS, 451.1371; found,
+451.1363.
+
+Propyl 2-(N-Benzyl-4-methylphenylsulfonamido)buta-2,3-
+
+dienoate (4g). Typical Procedure.
+</para>
+4730
+
+DOI: 10.1021/acs.joc.5b00141
+J. Org. Chem. 2015, 80, 4729−4735
+
+The Journal of Organic Chemistry
+Table 2. Synthesis of 4-Functionalized Imidazoles 6a
+
+Note
+<para sub=“exp”>
+aUnless otherwise speciﬁed, the reaction was carried out using 4 (1.0 equiv), 5 (2.0 equiv), and K2CO3 (3.0 equiv) in DMF at 100 °C under air for
+2−9 h. bYield of a gram-scale reaction (4a 5.0 mmol, 2.498 g). cThe reaction was carried out under air at rt for 1 h and then at 125 °C for 4−9 h.
+
+To a ﬂame-dried Schlenk ﬂask were added 3-(N-benzyl-4-
+methylphenylsulfonamido)prop-2-ynyl propyl carbonate14 (200.8 mg,
+0.5 mmol) and Pd(PPh3)4 (28.9 mg, 0.025 mmol). After addition of
+each chemical, the ﬂask was degassed and reﬁlled with CO by a
+balloon of CO (about 1 L) three times. Then, PrOH (1 mL) was
+
+added, and the resulting mixture was stirred at rt for 24 h. After that,
+the resulting mixture was ﬁltered through a short pad of silica gel,
+eluted with EtOAc (20 mL), and concentrated. The residue was
+puriﬁed by column chromatography on silica gel with hexane/EtOAc
+(9:1, v/v) as the eluent to obtain 4g (48.0 mg, 25%) as a yellow oil. 1H
+</para>
+4731
+
+DOI: 10.1021/acs.joc.5b00141
+J. Org. Chem. 2015, 80, 4729−4735
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+Scheme 1. Synthesis of Imidazoles 6q and 7a
+
+Scheme 3. Possible Mechanism
+
+Table 3. Synthesis of 5-Functionalized Imidazoles 7a
+
+R5
+
+yield of 7 (%)
+
+entry
+1
+2
+3
+4
+5
+6b
+7
+
+4
+4i
+4i
+4i
+4i
+4i
+4j
+4i
+
+5
+5i
+5j
+5k
+5l
+5m
+5i
+5a
+
+EWG
+CO2Pr
+CO2Pr
+CO2Pr
+CO2Pr
+CO2Pr
+P(O)Ph2
+CO2Pr
+
+Ph
+4-ClC6H4
+3-MeOC6H4
+2-pyridinyl
+vinyl
+Ph
+Et
+
+7b, 57
+7c, 53
+7d, 47
+7e, 37
+7f, 20
+7g, 36
+unidentiﬁed mixture
+aUnless otherwise speciﬁed, the reaction was carried out using 4 (1.0
+equiv), 5 (2.0 equiv), and K2CO3 (3.0 equiv) in DMF under air at rt
+for 1 h and then at 125 °C for 6−9 h. bThe reaction was carried out at
+100 °C for 3 h.
+
+NMR (400 MHz, CDCl3): δ 7.80 (d, J = 8.4 Hz, 2H), 7.32 (d, J = 8.4
+Hz, 2H), 7.24−7.26 (m, 5H), 5.21 (s, 2H), 4.44 (s, 2H), 4.03 (t, J =
+6.8 Hz, 2H), 2.44 (s, 3H), 1.57−1.62 (m, 2H), 0.89 (t, J = 7.2 Hz,
+3H); 13C NMR (100 MHz, CDCl3): δ 214.8, 163.9, 143.8, 135.5,
+135.4, 129.5, 128.6, 128.4, 128.0, 127.8, 104.6, 84.5, 67.1, 53.2, 21.9,
+21.6, 10.3; IR (neat): ν (cm−1) 2968, 1719, 1349, 1268, 1161, 1090,
+666; HRMS (ESI-TOF) m/z: [M + H]+ calcd for C21H24NO4S,
+386.1421; found, 386.1420.
+
+Propyl 2-(N-Benzyl-4-methylphenylsulfonamido)penta-2,3-
+dienoate (4h). Yellow oil (61.9 mg, 33%). 1H NMR (400 MHz,
+CDCl3): δ 7.79 (d, J = 8.0 Hz, 2H), 7.22−7.33 (m, 7H), 5.59 (q, J =
+7.6 Hz, 1H), 4.44 (s, 2H), 4.02 (t, J = 6.8 Hz, 2H), 2.43 (s, 3H), 1.58−
+1.62 (m, 2H), 1.50 (d, J = 7.6 Hz, 3H), 0.89 (t, J = 7.6 Hz, 3H); 13C
+NMR (100 MHz, CDCl3): δ 211.1, 164.3, 143.7, 135.7, 135.6, 129.5,
+128.5, 128.3, 128.0, 127.7, 103.3, 96.0, 66.9, 52.9, 21.9, 21.6, 12.9, 10.3;
+IR (neat): ν (cm−1) 2967, 1718, 1349, 1270, 1161, 1091, 665; HRMS
+(ESI-TOF) m/z: [M + H]+ calcd for C22H26NO4S, 400.1577; found,
+400.1573.
+
+Propyl 2-(4-Methyl-N-propylphenylsulfonamido)buta-2,3-
+dienoate (4i). Yellow oil (37.7 mg, 22%). 1H NMR (400 MHz,
+CDCl3): δ 7.73 (d, J = 8.0 Hz, 2H), 7.29 (d, J = 8.0 Hz, 2H), 5.35 (s,
+2H), 4.11 (t, J = 6.8 Hz, 2H), 3.21 (t, J = 7.2 Hz, 2H), 2.42 (s, 3H),
+1.49−1.68 (m, 4H), 0.87−0.96 (m, 6H); 13C NMR (125 MHz,
+CDCl3): δ 214.4, 164.2, 143.5, 135.5, 129.3, 127.9, 104.7, 84.4, 67.2,
+51.2, 21.9, 21.5, 21.4; IR (neat): ν (cm−1) 2967, 1722, 1347, 1267,
+
+Scheme 2. Isolation of the Intermediate 8
+
+1154, 1088, 1010; HRMS (APCI-TOF) m/z: [M + H]+ calcd for
+C17H24NO4S, 338.1421; found, 338.1434.
+4-(Diphenylphosphoryl)-5-methyl-2-phenyl-1-propyl-1H-
+imidazole (6a). Typical Procedure. To a solution of α-amino
+allenephosphine oxides 4a (99.9 mg, 0.2 mmol) in DMF (2 mL) were
+added amine 5a (23.6 mg, 0.4 mmol) and K2CO3 (82.8 mg, 0.6
+mmol), and the solution was stirred at 100 °C under air. Upon
+reaction completion (2 h, TLC, eluent: hexane/EtOAc 1:1), the
+mixture was ﬁltered over a plug of silica gel (washed with 50 mL of
+EtOAc), and the ﬁltrate was washed with brine, dried over Na2SO4,
+ﬁltered, and concentrated. The residue was puriﬁed by column
+chromatography on silica gel with hexane/EtOAc (1:1−1:2, v/v) as
+the eluent to obtain 6a (69.7 mg, 87%) as a colorless solid. mp 142−
+144 °C. 1H NMR (400 MHz, CDCl3): δ 7.94−7.98 (m, 4H), 7.51−
+7.52 (m, 2H), 7.35−7.46 (m, 9H), 3.84 (t, J = 7.6 Hz, 2H), 2.64 (s,
+3H), 1.61−1.63 (m, 2H), 0.80 (t, J = 7.2 Hz, 3H); 13C NMR (100
+MHz, CDCl3): δ 149.0 (d, J = 18.5 Hz), 139.7 (d, J = 27.2 Hz), 134.6
+(d, J = 106.5 Hz), 131.7 (d, J = 9.7 Hz), 131.3, 131.0, 129.11, 129.07,
+128.6, 128.1 (d, J = 12.1 Hz), 126.7, 46.0, 23.9, 11.1, 10.2; IR (KBr): ν
+(cm−1) 2969, 1438, 1176, 699, 568, 529; HRMS (EI-TOF) m/z: M+
+calcd for C25H25N2OP, 400.1705; found, 400.1709.
+1-Butyl-4-(diphenylphosphoryl)-5-methyl-2-phenyl-1H-imi-
+dazole (6b). Colorless solid (81.5 mg, 79%). mp 155−157 °C. 1H
+NMR (400 MHz, CDCl3): δ 7.93−7.98 (m, 4H), 7.51−7.53 (m, 2H),
+7.38−7.45 (m, 9H), 3.89 (t, J = 8.0 Hz, 2H), 2.64 (s, 3H), 1.58−1.62
+(m, 2H), 1.19−1.25 (m, 2H), 0.83 (t, J = 7.2 Hz, 3H); 13C NMR (100
+MHz, CDCl3): δ 148.9 (d, J = 18.6 Hz), 139.6 (d, J = 27.0 Hz), 134.9
+(d, J = 106.5 Hz), 131.7 (d, J = 9.9 Hz), 131.2 (d, J = 2.7 Hz), 131.1,
+129.1, 129.0, 128.6, 128.1 (d, J = 12.0 Hz), 127.7 (d, J = 157.9 Hz),
+44.2, 32.5, 19.8, 13.5, 10.2; IR (KBr): ν (cm−1) 2967, 1541, 1436,
+1366, 1171, 1117, 697; HRMS (ESI-TOF) m/z: [M + H]+ calcd for
+C26H28N2OP, 415.1934; found, 415.1924.
+4-(Diphenylphosphoryl)-1-isobutyl-5-methyl-2-phenyl-1H-
+imidazole (6c). Colorless solid (88.6 mg, 86%). mp 161−163 °C. 1H
+NMR (400 MHz, CDCl3): δ 7.91−7.97 (m, 4H), 7.50−7.52 (m, 2H),
+7.38−7.44 (m, 9H), 3.81 (d, J = 7.6 Hz, 2H), 2.63 (s, 3H), 1.77−1.81
+(m, 1H), 0.68 (d, J = 6.8 Hz, 6H); 13C NMR (100 MHz, CDCl3): δ
+149.2 (d, J = 18.3 Hz), 139.9 (d, J = 26.9 Hz), 134.9 (d, J = 106.4 Hz),
+131.7 (d, J = 9.7 Hz), 131.6, 131.2 (d, J = 2.5 Hz), 129.3, 128.9, 128.5,
+</para>
+4732
+
+DOI: 10.1021/acs.joc.5b00141
+J. Org. Chem. 2015, 80, 4729−4735
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+128.1 (d, J = 12.2 Hz), 127.7 (d, J = 148.3 Hz), 51.3, 29.1, 19.7, 10.6;
+IR (KBr): ν (cm−1) 2970, 1542, 1436, 1261, 1181, 1117, 780, 698;
+HRMS (ESI-TOF) m/z: [M + H]+ calcd for C26H28N2OP, 415.1934;
+found, 415.1927.
+4-(Diphenylphosphoryl)-1-isopropyl-5-methyl-2-phenyl-1H-
+imidazole (6d). Colorless solid (51.3 mg, 30%). mp 193−195 °C. 1H
+NMR (500 MHz, CDCl3): δ 7.95−7.99 (m, 4H), 7.41−7.48 (m,
+11H), 4.57−4.61 (m, 1H), 2.79 (s, 3H), 1.48 (d, J = 7.0 Hz, 6H); 13C
+NMR (125 MHz, CDCl3): δ 149.3 (d, J = 18.9 Hz), 139.1 (d, J = 27.5
+Hz), 134.9 (d, J = 106.4 Hz), 131.8, 131.7, 131.2, 129.8, 129.1, 128.4,
+128.5 (d, J = 147.2 Hz), 128.1 (d, J = 11.9 Hz), 48.9, 22.0, 11.8; IR
+(KBr): ν (cm−1) 3049, 2967, 1368, 1166, 1135, 703, 535; HRMS (EI-
+TOF) m/z: M+ calcd for C25H25N2OP, 400.1705; found, 400.1697.
+1-Cyclohexyl-4-(diphenylphosphoryl)-5-methyl-2-phenyl-
+1H-imidazole (6e). Yellow oil (70.0 mg, 53%). 1H NMR (400 MHz,
+CDCl3): δ 7.82−7.88 (m, 4H), 7.28−7.33 (m, 11H), 4.00−4.02 (m,
+1H), 2.68 (s, 3H), 1.71−1.84 (m, 6H), 1.53−1.56 (m, 1H), 1.03−1.12
+(m, 3H); 13C NMR (100 MHz, CDCl3): δ 149.5 (d, J = 18.8 Hz),
+139.2 (d, J = 27.1 Hz), 134.8 (d, J = 106.3 Hz), 131.8, 131.7, 131.2 (d,
+J = 2.7 Hz), 129.7, 129.1, 128.4, 128.3 (d, J = 151.0 Hz), 128.1 (d, J =
+12.0 Hz), 57.8, 32.1, 26.1, 25.1, 12.1; IR (neat): ν (cm−1) 3051, 2965,
+1344, 1159, 1130, 704; HRMS (ESI-TOF) m/z: [M + H]+ calcd for
+C28H30N2OP, 441.2090; found, 441.2091.
+4-(Diphenylphosphoryl)-1-(4-methoxyphenyl)-5-methyl-2-
+phenyl-1H-imidazole (6f). Yellow oil (65.9 mg, 47%). 1H NMR
+(400 MHz, CDCl3): δ 8.02−8.07 (m, 4H), 7.43−7.46 (m, 6H), 7.34−
+7.36 (m, 2H), 7.18−7.20 (m, 3H), 7.08 (d, J = 8.8 Hz, 2H), 6.93 (d, J
+= 8.8 Hz, 2H), 3.81 (s, 3H), 2.38 (s, 3H); 13C NMR (125 MHz,
+CDCl3): δ 159.9, 148.3 (d, J = 17.7 Hz), 141.5 (d, J = 26.9 Hz), 134.7
+(d, J = 106.5 Hz), 131.8, 131.7, 131.3 (d, J = 2.4 Hz), 130.3, 129.2,
+129.0, 128.4, 128.2, 128.1 (d, J = 3.7 Hz), 128.0 (d, J = 147.9 Hz),
+114.9, 55.5, 10.7; IR (neat): ν (cm−1) 3029, 1513, 1437, 1250, 1170,
+1120, 692; HRMS (ESI-TOF) m/z: [M + H]+ calcd for C29H26N2O2P,
+465.1726; found, 465.1730.
+
+4-(Diphenylphosphoryl)-5-methyl-1,2-diphenyl-1H-imida-
+zole (6g). Yellow oil (51.9 mg, 40%). 1H NMR (400 MHz, CDCl3): δ
+7.94−8.00 (m, 4H), 7.36−7.41 (m, 9H), 7.22−7.25 (m, 2H), 7.09−
+7.14 (m, 5H), 2.32 (s, 3H); 13C NMR (100 MHz, CDCl3): δ 148.1 (d,
+J = 17.8 Hz), 141.1 (d, J = 26.9 Hz), 136.7, 134.7 (d, J = 106.6 Hz),
+131.8, 131.7, 131.3 (d, J = 2.6 Hz), 130.2, 129.8, 129.2, 128.4, 128.3,
+128.2 (d, J = 147.4 Hz), 128.1, 128.0 (d, J = 13.1 Hz), 10.7; IR (neat):
+ν (cm−1) 3027, 1510, 1435, 1244, 1169, 690; HRMS (ESI-TOF) m/z:
+[M + H]+ calcd for C28H24N2OP, 435.1621; found, 435.1614.
+
+Diethyl 5-Methyl-2-phenyl-1-propyl-1H-imidazol-4-yl-
+phosphonate (6h). Yellow oil (52.0 mg, 62%). 1H NMR (400
+MHz, CDCl3): δ 7.52−7.54 (m, 2H), 7.43−7.45 (m, 3H), 4.15−4.23
+(m, 4H), 3.87 (t, J = 7.6 Hz, 2H), 2.58 (s, 3H), 1.61−1.67 (m, 2H),
+1.35 (t, J = 7.5 Hz, 6H), 0.82 (t, J = 7.2 Hz, 3H); 13C NMR (100
+MHz, CDCl3): δ 149.1 (d, J = 22.1 Hz), 138.8 (d, J = 38.7 Hz), 130.8,
+129.1, 129.0, 128.5, 125.2 (d, J = 243.8 Hz), 62.0 (d, J = 5.6 Hz), 46.1,
+23.7, 16.2 (d, J = 6.5 Hz), 10.9, 10.1; IR (neat): ν (cm−1) 3010, 1470,
+1277, 1235, 1023, 957, 784; HRMS (ESI-TOF) m/z: [M + H]+ calcd
+for C17H26N2O3P, 337.1676; found, 337.1657.
+
+Diethyl 5-Ethyl-2-phenyl-1-propyl-1H-imidazol-4-ylphosph-
+onate (6i). Yellow oil (201.5 mg, 58%). 1H NMR (400 MHz,
+CDCl3): δ 7.54−7.56 (m, 2H), 7.41−7.45 (m, 3H), 4.14−4.25 (m,
+4H), 3.90 (t, J = 8.0 Hz, 2H), 3.01 (q, J = 7.6 Hz, 2H), 1.57−1.63 (m,
+2H), 1.26−1.36 (m, 9H), 0.80 (t, J = 7.6 Hz, 3H); 13C NMR (100
+MHz, CDCl3): δ 148.8 (d, J = 22.2 Hz), 144.6 (d, J = 39.0 Hz), 130.9,
+129.0, 128.9, 128.4, 124.5 (d, J = 243.1 Hz), 61.8 (d, J = 5.6 Hz), 45.9,
+24.1, 17.4, 16.2 (d, J = 6.4 Hz), 15.1, 10.8; IR (neat): ν (cm−1) 2968,
+1476, 1237, 1025, 948, 762; HRMS (ESI-TOF) m/z: [M + H]+ calcd
+for C18H28N2O3P, 351.1832; found, 351.1839.
+Diethyl 5-Isopropyl-1-phenethyl-2-phenyl-1H-imidazol-4-yl-
+phosphonate (6j). Colorless solid (59.2 mg, 28%). mp 230−232 °C.
+1H NMR (500 MHz, CDCl3): δ 7.44−7.48 (m, 5H), 7,21−7.22 (m,
+3H), 6.87 (d, J = 10.0 Hz, 2H), 4.15−4.24 (m, 6H), 3.55−3.58 (m,
+1H), 2.78 (t, J = 8.0 Hz, 2H), 1.50 (d, J = 7.5 Hz, 6H), 1.36 (t, J = 7.0
+Hz, 6H); 13C NMR (125 MHz, CDCl3): δ 148.6 (d, J = 22.4 Hz),
+147.6 (d, J = 39.5 Hz), 136.9, 131.0, 129.4, 129.2, 128.2, 128.5, 128.4,
+
+127.0, 124.6 (d, J = 242.5 Hz), 62.1 (d, J = 5.5 Hz), 46.4, 37.2, 25.3,
+21.9, 16.4 (d, J = 6.5 Hz); IR (KBr): ν (cm−1) 3031, 2927, 1263, 1227,
+1055, 1027, 973; HRMS (EI-TOF) m/z: M+ calcd for C24H31N2O3P,
+426.2072; found, 426.2068.
+
+Diethyl 5-Isopropyl-2-(4-methoxyphenyl)-1-propyl-1H-imi-
+dazol-4-ylphosphonate (6k). Yellow oil (144.3 mg, 48%). 1H
+NMR (500 MHz, CDCl3): δ 7.45 (d, J = 8.5 Hz, 2H), 6.96 (d, J = 8.5
+Hz, 2H), 4.13−4.22 (m, 4H), 3.85−3.89 (m, 5H), 3.42−3.46 (m, 1H),
+1.58−1.63 (m, 2H), 1.50 (d, J = 9.5 Hz, 6H), 1.35 (t, J = 7.0 Hz, 6H),
+0.83 (t, J = 7.5 Hz, 3H); 13C NMR (125 MHz, CDCl3): δ 160.2, 148.3
+(d, J = 22.1 Hz), 147.6 (d, J = 39.0 Hz), 130.7, 124.1 (d, J = 243.1 Hz),
+123.6, 113.9, 62.0 (d, J = 5.5 Hz), 55.3, 46.5, 25.2, 24.4, 21.8, 16.3 (d, J
+= 6.5 Hz), 11.0; IR (neat): ν (cm−1) 2926, 1456, 1266, 1050, 1022,
+966; HRMS (EI-TOF) m/z: M+ calcd for C20H31N2O4P, 394.2021;
+found, 394.2014.
+
+Diethyl 2-Phenyl-5-(1-phenylethyl)-1-propyl-1H-imidazol-4-
+ylphosphonate (6l). Yellow oil (47.7 mg, 45%). 1H NMR (500
+MHz, CDCl3): δ 7.51 (d, J = 4.0 Hz, 2H), 7.28−7.39 (m, 7H), 7.19−
+7.22 (m, 1H), 5.42 (q, J = 7.5 Hz, 1H), 4.18−4.29 (4H, m), 3.63 (t, J =
+8.5 Hz, 2H), 1.80 (d, J = 7.5 Hz, 3H), 1.34−1.40 (m, 6H), 1.03−1.07
+(m, 1H), 0.62−0.66 (m, 1H), 0.37 (t, J = 7.5 Hz, 3H); 13C NMR (100
+MHz, CDCl3): δ 149.6 (d, J = 22.2 Hz), 145.3 (d, J = 38.9 Hz), 141.9,
+131.0, 129.1, 128.9, 128.5, 127.3, 124.6, 125.7 (d, J = 242.3 Hz), 62.2,
+46.8, 33.6, 23.0, 18.3, 16.4, 10.8; IR (neat): ν (cm−1) 2973, 1226, 1023,
+961, 779, 762, 699; HRMS (EI-TOF) m/z: M+ calcd for
+C24H31N2O3P, 426.2072; found, 426.2068.
+5-(Diphenylphosphoryl)-4-methyl-2-phenyl-1-propyl-1H-
+imidazole (7g). Colorless solid (36.0 mg, 36%). mp 152−154 °C. 1H
+NMR (500 MHz, CDCl3): δ 7.68−7.73 (m, 4H), 7.42−7.57 (m,
+11H), 4.24 (t, J = 7.0 Hz, 2H), 1.60 (s, 3H), 1.38−1.42 (m, 2H), 0.52
+(t, J = 7.0 Hz, 3H); 13C NMR (125 MHz, CDCl3): δ 152.1 (d, J = 11.1
+Hz), 147.6 (d, J = 15.2 Hz), 133.0 (d, J = 110.1 Hz), 132.3 (d, J = 2.6
+Hz), 131.9 (d, J = 10.5 Hz), 130.5, 129.3, 129.1, 128.8 (d, J = 12.4
+Hz), 128.6, 117.6 (d, J = 123.0 Hz), 48.1, 24.6, 15.4, 10.7; IR (KBr): ν
+(cm−1) 2981, 2870, 1245, 724, 700, 559, 530; HRMS (EI-TOF) m/z:
+M+ calcd for C25H25N2OP, 400.1705; found, 400.1702.
+
+Propyl 5-Methyl-2-phenyl-1-propyl-1H-imidazole-4-carbox-
+ylate (6m). Typical Procedure. To the solution of α-amino allene
+carboxylate 4g (119.3 mg, 0.3 mmol) in DMF (2 mL) were added
+amine 5a (35.5 mg, 0.6 mmol) and K2CO3 (124.4 mg, 0.9 mmol), and
+the solution was stirred at room temperature for 1 h and then at 125
+°C under air. Upon reaction completion (7 h, TLC, eluent: hexane/
+EtOAc 1:1), the mixture was ﬁltered over a plug of silica gel (washed
+with 50 mL of EtOAc), and the ﬁltrate was washed with brine, dried
+over Na2SO4, ﬁltered, and concentrated. The residue was puriﬁed by
+column chromatography on silica gel with hexane/EtOAc (1:1−1:2, v/
+v) as the eluent to obtain 6m (51.6 mg, 60%) as a yellow oil. 1H NMR
+(400 MHz, CDCl3): δ 7.44−7.46 (m, 2H), 7.33−7.35 (m, 3H), 4.20
+(t, J = 6.8 Hz, 2H), 3.79 (t, J = 7.6 Hz, 2H), 2.52 (s, 3H), 1.69−1.75
+(m, 2H), 1.51−1.56 (m, 2H), 0.91 (t, J = 7.2 Hz, 3H), 0.72 (t, J = 7.6
+Hz, 3H); 13C NMR (100 MHz, CDCl3): δ 164.1, 147.4, 136.3, 130.7,
+129.3, 129.1, 128.8, 128.4, 65.8, 46.0, 23.7, 22.2, 10.9, 10.5, 10.4; IR
+(neat): ν (cm−1) 2950, 1699, 1570, 1199, 1153, 1066, 711; HRMS
+(ESI-TOF) m/z: [M + H]+ calcd for C17H23N2O2, 287.1754; found,
+287.1745.
+Propyl 1-Isobutyl-5-methyl-2-phenyl-1H-imidazole-4-car-
+boxylate (6n). Colorless solid (92.0 mg, 65%). mp 112−114 °C.
+1H NMR (400 MHz, CDCl3): δ 7.52−7.54 (m, 2H), 7.41−7.42 (m,
+3H), 4.29 (t, J = 7.2 Hz, 2H), 3.80 (d, J = 7.6 Hz, 2H), 2.60 (s, 3H),
+1.78−1.84 (m, 3H), 0.99 (t, J = 7.2 Hz, 3H), 0.69 (d, J = 6.4 Hz, 6H);
+13C NMR (125 MHz, CDCl3): δ 164.2, 147.7, 136.6, 131.1, 129.5,
+129.0, 128.7, 128.4, 65.8, 51.4, 29.1, 22.2, 19.6, 10.8, 10.4; IR (KBr): ν
+(cm−1) 2972, 1689, 1332, 1205, 1070, 785; HRMS (ESI-TOF) m/z:
+[M + H]+ calcd for C18H25N2O2, 301.1911; found, 301.1900.
+Propyl 5-Methyl-1-phenethyl-2-phenyl-1H-imidazole-4-car-
+boxylate (6o). Colorless solid (59.5 mg, 57%). mp 94−96 °C. 1H
+NMR (400 MHz, CDCl3): δ 7.40−7.45 (m, 5H), 7.19−7.20 (m, 3H),
+6.86−6.88 (m, 2H), 4.28 (t, J = 7.2 Hz, 2H), 4.13 (t, J = 7.6 Hz, 2H),
+2.79 (t, J = 7.2 Hz, 2H), 2.49 (s, 3H), 1.78−1.83 (m, 2H), 0.99 (d, J =
+7.6 Hz, 3H); 13C NMR (125 MHz, CDCl3): δ 164.1, 147.4, 136.8,
+</para>
+4733
+
+DOI: 10.1021/acs.joc.5b00141
+J. Org. Chem. 2015, 80, 4729−4735
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+136.4, 130.6, 129.3, 129.2, 128.8, 128.7, 128.6, 128.4, 127.0, 65.8, 45.8,
+36.6, 22.2, 10.5, 10.4; IR (KBr): ν (cm−1) 2969, 1710, 1405, 1335,
+1166, 1104, 1074; HRMS (ESI-TOF) m/z: [M + H]+ calcd for
+C22H25N2O2, 349.1911; found, 349.1907.
+Propyl 5-Ethyl-1-isobutyl-2-phenyl-1H-imidazole-4-carbox-
+ylate (6p). Colorless solid (115.0 mg, 73%). mp 71−73 °C. 1H
+NMR (400 MHz, CDCl3): δ 7.45−7.46 (m, 2H), 7.30−7.36 (m, 3H),
+4.21 (t, J = 6.8 Hz, 2H), 3.73 (d, J = 7.2 Hz, 2H), 2.95 (q, J = 7.6 Hz,
+2H), 1.71−1.74 (m, 3H), 1.18 (t, J = 7.2 Hz, 3H), 0.92 (t, J = 7.2 Hz,
+3H), 0.60 (d, J = 6.0 Hz, 6H); 13C NMR (100 MHz, CDCl3): δ 163.9,
+147.6, 142.5, 131.2, 129.4, 129.0, 128.4, 128.1, 65.8, 51.4, 29.4, 22.2,
+19.6, 18.0, 14.0, 10.4; IR (KBr): ν (cm−1) 2971, 1692, 1336, 1199,
+1090, 1009, 784; HRMS (ESI-TOF) m/z: [M + H]+ calcd for
+C19H27N2O2, 315.2067; found, 315.2060.
+Propyl 1-Benzyl-5-methyl-2-phenyl-1H-imidazole-4-carbox-
+ylate (6q). Colorless solid (138.1 mg, 65%). mp 96−98 °C. 1H NMR
+(400 MHz, CDCl3): δ 7.49−7.52 (m, 2H), 7.28−7.36 (m, 6H), 6.96
+(d, J = 7.2 Hz, 2H), 5.18 (s, 2H), 4.30 (t, J = 6.8 Hz, 2H), 2.45 (s,
+3H), 1.78−1.84 (m, 2H), 1.00 (t, J = 7.6 Hz, 3H); 13C NMR (125
+MHz, CDCl3): δ 164.1, 148.1, 136.9, 136.0, 130.0, 129.27, 129.24,
+129.1, 128.5, 127.8, 125.5, 65.9, 48.0, 22.2, 10.5, 10.4; IR (KBr): ν
+(cm−1) 2960, 1692, 1572, 1404, 1326, 1206, 1068; HRMS (ESI-TOF)
+m/z: [M + H]+ calcd for C21H23N2O2, 335.1754; found, 335.1750.
+Propyl 1-Benzyl-4-methyl-2-phenyl-1H-imidazole-5-carbox-
+ylate (7a). Yellow oil (19.8 mg, 9%). 1H NMR (400 MHz, CDCl3): δ
+7.49−7.52 (m, 2H), 7.23−7.41 (m, 6H), 6.95 (d, J = 7.2 Hz, 2H), 5.58
+(s, 2H), 4.14 (t, J = 6.4 Hz, 2H), 2.60 (s, 3H), 1.62−1.68 (m, 2H),
+0.94 (t, J = 7.2 Hz, 3H); 13C NMR (125 MHz, CDCl3): δ 161.1, 151.4,
+148.2, 138.1, 129.8, 129.6, 129.2, 128.7, 128.6, 127.2, 125.6, 119.6,
+65.9, 49.7, 22.0, 16.1, 10.6; IR (neat): ν (cm−1) 2957, 1697, 1452,
+1416, 1274, 1163, 1098; HRMS (ESI-TOF) m/z: [M + H]+ calcd for
+C21H23N2O2, 335.1754; found, 335.1757.
+
+Propyl 4-Methyl-2-phenyl-1-propyl-1H-imidazole-5-carbox-
+ylate (7b). Yellow oil (83.0 mg, 57%). 1H NMR (400 MHz, CDCl3):
+δ 7.53−7.55 (m, 2H), 7.46−7.48 (m, 3H), 4.23−4.28 (m, 4H), 2.55 (s,
+3H), 1.68−1.83 (m, 4H), 1.05 (t, J = 7.6 Hz, 3H), 0.78 (t, J = 7.6 Hz,
+3H); 13C NMR (100 MHz, CDCl3): δ 161.5, 150.9, 148.0, 130.4,
+129.4, 129.3, 128.6, 119.1, 65.9, 47.9, 24.7, 22.2, 16.1, 10.9, 10.7; IR
+(neat): ν (cm−1) 2965, 1696, 1420, 1268, 1189, 1118, 1093; HRMS
+(ESI-TOF) m/z: [M + H]+ calcd for C17H23N2O2, 287.1754; found,
+287.1737.
+Propyl 2-(4-Chlorophenyl)-4-methyl-1-propyl-1H-imidazole-
+5-carboxylate (7c). Colorless solid (68.4 mg, 53%). mp 57−59 °C.
+1H NMR (400 MHz, CDCl3): δ 7.44−7.51 (m, 4H), 4.21−4.28 (m,
+4H), 2.54 (s, 3H), 1.67−1.83 (m, 4H), 1.05 (t, J = 7.6 Hz, 3H), 0.79
+(t, J = 7.2 Hz, 3H); 13C NMR (100 MHz, CDCl3): δ 161.3, 149.7,
+148.0, 135.6, 130.6, 128.9, 119.4, 66.0, 47.9, 24.7, 22.1, 16.1, 10.9, 10.7;
+IR (KBr): ν (cm−1) 2970, 1698, 1468, 1407, 1267, 1189, 1127, 842;
+HRMS (ESI-TOF) m/z: [M + H]+ calcd for C17H22ClN2O2,
+321.1364; found, 321.1355.
+
+Propyl 2-(3-Methoxyphenyl)-4-methyl-1-propyl-1H-imida-
+zole-5-carboxylate (7d). Yellow oil (60.0 mg, 47%). 1H NMR
+(400 MHz, CDCl3): δ 7.27−7.31 (m, 1H), 7.01−7.03 (m, 2H), 6.92
+(d, J = 8.4 Hz, 1H), 4.15−4.20 (m, 4H), 3.77 (s, 3H), 2.47 (s, 3H),
+1.60−1.75 (m, 4H), 0.97 (t, J = 7.2 Hz, 3H), 0.71 (t, J = 7.6 Hz, 3H);
+13C NMR (100 MHz, CDCl3): δ 161.4, 159.2, 150.7, 147.9, 131.5,
+129.6, 121.5, 119.1, 115.5, 114.6, 65.9, 55.4, 47.9, 24.8, 22.1, 16.2, 10.9,
+10.7; IR (neat): ν (cm−1) 2965, 1679, 1472, 1414, 1268, 1168, 1119;
+HRMS (ESI-TOF) m/z: [M + H]+ calcd for C18H25N2O3, 317.1860;
+found, 317.1855.
+Propyl 4-Methyl-1-propyl-2-(pyridin-2-yl)-1H-imidazole-5-
+carboxylate (7e). Colorless solid (43.0 mg, 37%). mp 44−46 °C.
+1H NMR (400 MHz, CDCl3): δ 8.55 (d, J = 4.4 Hz, 1H), 8.02 (d, J =
+8.0 Hz, 1H), 7.67−7.71 (m, 1H), 7.18−7.21 (m, 1H), 4.79 (t, J = 7.6
+Hz, 2H), 4.19 (t, J = 6.4 Hz, 2H), 2.47 (s, 3H), 1.69−1.75 (m, 4H),
+0.97 (t, J = 7.6 Hz, 3H), 0.78 (t, J = 7.6 Hz, 3H); 13C NMR (100
+MHz, CDCl3): δ 161.3, 150.2, 148.6, 147.5, 147.1, 136.6, 124.5, 123.2,
+120.5, 65.9, 48.0, 24.6, 22.1, 16.3, 10.9, 10.7; IR (KBr): ν (cm−1) 2964,
+1697, 1586, 1410, 1267, 1203, 1124; HRMS (ESI-TOF) m/z: [M +
+H]+ calcd for C16H22N3O2, 288.1707; found, 288.1700.
+
+Propyl 4-Methyl-1-propyl-2-vinyl-1H-imidazole-5-carboxy-
+late (7f). Yellow oil (18.7 mg, 20%). 1H NMR (400 MHz, CDCl3):
+δ 6.52 (dd, J1 = 16.8 Hz, J2 = 11.2 Hz, 1H), 6.28 (d, J = 16.8 Hz, 1H),
+5.49 (t, J = 11.2 Hz, 1H), 4.14−4.21 (m, 4H), 2.43 (s, 3H), 1.65−1.71
+(m, 4H), 0.96 (t, J = 7.2 Hz, 3H), 0.85 (t, J = 7.6 Hz, 3H); 13C NMR
+(100 MHz, CDCl3): δ 161.3, 148.0, 147.5, 122.1, 121.5, 118.7, 65.9,
+46.3, 24.6, 22.1, 16.2, 11.0, 10.7; IR (neat): ν (cm−1) 2966, 1696, 1405,
+1270, 1156, 1119, 759; HRMS (ESI-TOF) m/z: [M + H]+ calcd for
+C13H21N2O2, 237.1598; found, 237.1590.
+
+(E)-Propyl 2-(N-Benzyl-4-methylphenylsulfonamido)-3-
+(benzylamino)but-2-enoate (8a). Typical Procedure. To the
+solution of α-amino allene carboxylate 4g (242.9 mg, 0.63 mmol) in
+DMF (2 mL) was added amine 5g (135.0 mg, 1.26 mmol), and the
+solution was stirred at room temperature. Upon reaction completion
+(1 h, TLC, eluent: hexane/EtOAc 1:1), the mixture was diluted with
+50 mL of EtOAc and washed with brine, dried over Na2SO4, ﬁltered,
+and concentrated. The residue was puriﬁed by column chromatog-
+raphy on silica gel with hexane/EtOAc (1:1−1:2, v/v) as the eluent to
+obtain 8a (268.4 mg, 86%) as a colorless solid. mp 115−117 °C. 1H
+NMR (400 MHz, CDCl3): δ 9.76 (br, 1H), 7.72 (d, J = 8.4 Hz, 2H),
+7.23−7.32 (m, 10H), 7.06 (d, J = 7.2 Hz, 2H), 5.04 (d, J = 13.2 Hz,
+1H), 4.29−4.32 (m, 2H), 4.09 (d, J = 13.2 Hz, 1H), 3.90−3.93 (m,
+1H), 3.10−3.13 (m, 1H), 2.42 (s, 3H), 1.56 (s, 3H), 1.11−1.17 (m,
+2H), 0.73 (t, J = 7.6 Hz, 3H); 13C NMR (125 MHz, CDCl3): δ 168.5,
+168.2, 142.5, 138.3, 137.8, 136.3, 130.4, 129.1, 128.8, 128.2, 127.70,
+127.68, 127.4, 126.6, 93.7, 64.5, 53.6, 47.2, 21.6, 21.4, 15.6, 10.6; IR
+(KBr): ν (cm−1) 2949, 1636, 1594, 1452, 1276, 1236, 1152, 1073;
+HRMS (ESI-TOF) m/z: [M + H]+ calcd for C28H33N2O4S, 493.2156;
+found, 493.2155.
+
+(E)-Propyl 2-(N-Benzyl-4-methylphenylsulfonamido)-3-
+(isobutylamino)but-2-enoate (8b). Colorless solid (217.4 mg,
+79%). mp 80−82 °C. 1H NMR (400 MHz, CDCl3): δ 9.54 (br, 1H),
+7.70 (d, J = 8.4 Hz, 2H), 7.25−7.31 (m, 7H), 5.02 (d, J = 13.2 Hz,
+1H), 4.06 (d, J = 13.2 Hz, 1H), 3.88−3.94 (m, 1H), 3.05−3.11 (m,
+1H), 2.84−2.91 (m, 2H), 2.41 (s, 3H), 1.67−1.71 (m, 1H), 1.51 (s,
+3H), 1.09−1.15 (m, 2H), 0.87 (t, J = 6.4 Hz, 6H), 0.73 (t, J = 7.2 Hz,
+3H); 13C NMR (100 MHz, CDCl3): δ 168.5, 168.2, 142.4, 138.3,
+136.5, 130.4, 129.0, 128.1, 127.6, 92.7, 64.3, 53.7, 51.1, 29.0, 21.6, 21.4,
+20.0, 15.6, 10.6; IR (KBr): ν (cm−1) 2951, 1634, 1590, 1449, 1269,
+1155; HRMS (ESI-TOF) m/z: [M + H]+ calcd for C25H35N2O4S,
+459.2312; found, 459.2311.
+
+( E ) - P r o p y l 3 - ( B e n z y l a m i n o ) - 2 - ( 4 - m e t h y l - N -
+propylphenylsulfonamido)but-2-enoate (8c). Colorless solid
+(261.4 mg, 84%). mp 60−62 °C. 1H NMR (400 MHz, CDCl3): δ
+9.81 (br, 1H), 7.65 (d, J = 8.4 Hz, 2H), 7.22−7.38 (m, 7H), 4.47−4.49
+(m, 2H), 3.79−3.85 (m, 1H), 3.60−3.67 (m, 1H), 3.00−3.09 (m, 2H),
+2.39 (s, 3H), 2.24 (s, 3H), 1.47−1.61 (m, 2H), 1.04−1.07 (m, 2H),
+0.88 (t, J = 7.2 Hz, 3H), 0.66 (t, J = 7.2 Hz, 3H); 13C NMR (100
+MHz, CDCl3): δ 168.7, 167.0, 142.3, 137.9, 137.7, 129.0, 128.9, 127.7,
+127.6, 127.0, 95.0, 64.4, 52.3, 47.7, 22.0, 21.5, 21.4, 16.5, 11.4, 10.4; IR
+(KBr): ν (cm−1) 2968, 1650, 1329, 1273, 1155, 662; HRMS (ESI-
+TOF) m/z: [M + H]+ calcd for C24H33N2O4S, 445.2156;
+found,
+445.2163.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+1H and 13C NMR spectra of all new compounds and crystal
+structure and data (in CIF format) for 6c, 7g, and 8a. This
+material is available free of charge via the Internet at http://
+pubs.acs.org.
+
+■ AUTHOR INFORMATION
+
+Corresponding Author
+*E-mail: caojian@hznu.edu.cn.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+4734
+
+DOI: 10.1021/acs.joc.5b00141
+J. Org. Chem. 2015, 80, 4729−4735
+
+The Journal of Organic Chemistry
+
+■ ACKNOWLEDGMENTS
+
+We are grateful to the National Natural Science Foundation of
+China (project no. 21102029) and Zhejiang Provincial Natural
+Science Foundation of China (project no. LY14B020013) for
+ﬁnancial support.
+
+■ REFERENCES
+(1) (a) Grimmett, M. R. In Science of Synthesis; Neier, R., Ed.; Georg
+Thieme Verlag: Stuttgart, Germany, 2002; Vol. 12, pp 325−528.
+(b) Iinuma, Y.; Kozawa, S.; Ishiyama, H.; Tsuda, M.; Fukushi, E.;
+Kawabata, J.; Fromont, J.; Kobayashi, J. J. Nat. Prod. 2005, 68, 1109.
+(c) Zhang, L.; Peng, X.; Damu, G. L. V.; Geng, R.; Zhou, C. Med. Res.
+Rev. 2014, 34, 340.
+(2) Baumann, M.; Baxendale, I. R.; Ley, S. V.; Nikbin, N. Beilstein J.
+Org. Chem. 2011, 7, 442.
+(3) Lange, J. H. M.; Van der Neut, M. A. W.; Wals, H. C.; Kuil, G. D.;
+Borst, A. J. M.; Mulder, A.; den Hartog, A. P.; Zilaout, H.; Goutier, W.;
+Van Stuivenberg, H. H.; Van Vliet, B. J. Bioorg. Med. Chem. Lett. 2010,
+20, 1084.
+(4) Tschamber, T.; Gessier, F.; Neuburger, M.; Gurcha, S. S.; Besra,
+G. S.; Streith, J. Eur. J. Org. Chem. 2003, 2792.
+(5) (a) Dupont, J.; de Souza, R. F.; Suarez, P. A. Z. Chem. Rev. 2002,
+102, 3667. (b) Smith, T. W.; Zhao, M.; Yang, F.; Smith, D.; Cebe, P.
+Macromolecules 2013, 46, 1133.
+(6) (a) Herrmann, W. A. Angew. Chem., Int. Ed. 2002, 41, 1290.
+(b) Gupta, S. K.; Ghorai, D.; Choudhury, J. Organometallics 2014, 33,
+3215. (c) Cardoso, F. S. P.; Abboud, K. A.; Aponick, A. J. Am. Chem.
+Soc. 2013, 135, 14548.
+(7) For examples, see: (a) Pusch, S.; Opatz, T. Org. Lett. 2014, 16,
+5430. (b) Pooi, B.; Lee, J.; Choi, K.; Hirao, H.; Hong, S. H. J. Org.
+Chem. 2014, 79, 9231. (c) Yamauchi, T.; Shibahara, F.; Murai, T. J.
+Org. Chem. 2014, 79, 7185. (d) Chen, C.; Hu, W.; Yan, P.; Senadi, G.
+C.; Wang, J. Org. Lett. 2013, 15, 6116.
+(8) For recent reviews on the chemistry of allenamides, see: (a) Wei,
+L.-L.; Xiong, H.; Hsung, R. P. Acc. Chem. Res. 2003, 36, 773. (b) Lu,
+T.; Lu, Z.; Ma, Z.; Zhang, Y.; Hsung, R. P. Chem. Rev. 2013, 113, 4862.
+(9) For
+see:
+(a) DeKorver, K. A.; Li, H.; Lohse, A. G.; Hayashi, R.; Lu, Z.;
+Zhang, Y.; Hsung, R. P. Chem. Rev. 2010, 110, 5064. (b) Evano, G.;
+Coste, A.; Jouvin, K. Angew. Chem., Int. Ed. 2010, 49, 2840. (c) Evano,
+G.; Jouvin, K.; Coste, A. Synthesis 2013, 45, 17. (d) Wang, X.; Yeom,
+H.; Fang, L.; He, S.; Ma, Z.; Kedrowski, B. L.; Hsung, R. P. Acc. Chem.
+Res. 2014, 47, 560.
+(10) For examples on allenamides, see: (a) Lohse, A. G.; Hsung, R. P.
+Org. Lett. 2009, 11, 3430. (b) Persson, A. K. Å.; Bäckvall, J. E. Angew.
+Chem., Int. Ed. 2010, 49, 4624. (c) Skucas, E.; Zbieg, J. R.; Krische, M.
+J. J. Am. Chem. Soc. 2009, 131, 5054. (d) Feltenberger, J. B.; Hsung, R.
+P. Org. Lett. 2011, 13, 3114. (e) Krenske, E. H.; He, S.; Huang, J.; Du,
+Y.; Houk, K. N.; Hsung, R. P. J. Am. Chem. Soc. 2013, 135, 5242.
+(11) For examples on ynamides, see: (a) Fadel, A.; Legrand, F.;
+Evano, G.; Rabasso, N. Adv. Synth. Catal. 2011, 353, 263. (b) Gati, W.;
+Rammah, M. M.; Rammah, M. B.; Couty, F.; Evano, G. J. Am. Chem.
+Soc. 2012, 134, 9078. (c) Gati, W.; Couty, F.; Boubaker, T.; Rammah,
+M. M.; Rammah, M. B.; Evano, G. Org. Lett. 2013, 15, 3122.
+(d) Brioche, J.; Meyer, C.; Cossy, J. Org. Lett. 2013, 15, 1626. (e) Yao,
+P.-Y.; Zhang, Y.; Hsung, R. P.; Zhao, K. Org. Lett. 2008, 10, 4275.
+(12) Gomes, F.; Fadel, A.; Rabasso, N. J. Org. Chem. 2012, 77, 5439.
+(13) Adler, P.; Gomes, F.; Fadel, A.; Rabasso, N. Eur. J. Org. Chem.
+2013, 7546.
+(14) Cao, J.; Kong, Y.; Deng, Y.; Lai, G.; Cui, Y.; Hu, Z.; Wang, G.
+Org. Biomol. Chem. 2012, 10, 9556.
+(15) (a) Kong, Y.; Jiang, K.; Cao, J.; Fu, L.; Yu, L.; Lai, G.; Cui, Y.;
+Hu, Z.; Wang, G. Org. Lett. 2013, 15, 422. (b) Kong, Y.; Yu, L.; Fu, L.;
+Cao, J.; Lai, G.; Cui, Y.; Hu, Z.; Wang, G. Synthesis 2013, 45, 1975.
+(c) Kong, Y.; Yu, L.; Cui, Y.; Cao, J. Synthesis 2014, 46, 183. (d) Yu,
+L.; Cao, J. Org. Biomol. Chem. 2014, 12, 3986. (e) Yu, L.; Deng, Y.;
+Cao, J. Synthesis 2015, 47, 783.
+(16) CCDC 1043496.
+
+reviews on the chemistry of ynamides,
+
+recent
+
+Note
+
+(17) 7a was transferred to corresponding ethyl ester with NaOEt/
+EtOH, and its 1H NMR data was in accordance to reported data; see:
+Preti, L.; Attanasi, O. A.; Caselli, E.; Favi, G.; Ori, C.; Davoli, P.;
+Felluga, F.; Prati, F. Eur. J. Org. Chem. 2010, 4312.
+(18) CCDC 1043494.
+(19) 1H NMR spectra of
+the crude reaction mixtures showed
+mixtures of Z/E (about 1:2) stereoisomers. The Z-isomer was
+converted to E-isomer spontaneously during the course of ﬂash
+chromatography on silica gel.
+(20) CCDC 1043495.
+(21) Similar elimination reaction of 4-methylbenzenesulﬁnic acid was
+observed in ours previous work; see: Cao, J.; Xu, Y.; Kong, Y.; Cui, Y.;
+Hu, Z.; Wang, G.; Deng, Y.; Lai, G. Org. Lett. 2012, 14, 38.
+(22) (a) Cao, J.; Yang, X.; Hua, X.; Deng, Y.; Lai, G. Org. Lett. 2011,
+13, 478. (b) Murarka, S.; Deb, I.; Zhang, C.; Seidel, D. J. Am. Chem.
+Soc. 2009, 131, 13226. (c) Barluenga, J.; Fananas-Mastral, M.; Aznar,
+F.; Valdes, C. Angew. Chem., Int. Ed. 2008, 47, 6594. (d) Mori, K.;
+Kawasaki, T.; Sueoka, S.; Akiyama, T. Org. Lett. 2010, 12, 1732.
+
+4735
+
+DOI: 10.1021/acs.joc.5b00141
+J. Org. Chem. 2015, 80, 4729−4735
+
+

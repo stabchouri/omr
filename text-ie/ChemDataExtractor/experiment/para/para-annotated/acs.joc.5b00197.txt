@@ -1,0 +1,1342 @@
+Article
+
+pubs.acs.org/joc
+
+†
+
+†
+
+§
+
+†
+
+Laxman Makthala,
+
+†
+
+Vilas Hareshwar Dahanukar,
+
+Srinivas Oruganti,
+
+Saravanan Mohanarangam,
+‡
+
+An Enantioselective Formal Synthesis of Montelukast Sodium
+Satyanarayana Bollikonda,
+Venkata Kiran Kumar Kandirelli,
+Thomas Mahoney,
+†
+Integrated Product Development Organization, Dr. Reddy’s Laboratories Ltd., Bachupally, Qutabullapur, Hyderabad 500 072,
+Telangana, India
+‡
+Center for Process Research & Innovation, Dr. Reddy’s Institute of Life Sciences, University of Hyderabad Campus, Gachibowli,
+Hyderabad 500 046, Telangana, India
+§
+Chirotech Technology Centre, Dr. Reddy’s Laboratories (EU) Limited, 410 Cambridge Science Park, Cambridge, CB4 0PE, United
+Kingdom
+*S Supporting Information
+
+and Martin E. Fox*,§
+
+David A. Chaplin,
+
+Richard C. Lloyd,
+
+Rajender Reddy Jinna,
+
+‡
+Saikat Sen,
+
+‡
+
+†
+
+§
+
+§
+
+ABSTRACT: A formal synthesis of
+the antiasthma drug
+montelukast sodium is described, wherein the key chiral diol
+intermediate was accessed with greater convergence of the C−
+C bond-forming steps as compared to previous routes.
+Improved synthetic eﬃciency was achieved by deploying
+homogeneous metal-based catalysis in two pivotal steps. In the
+ﬁrst, a tandem Mizoroki−Heck reaction and double-bond
+isomerization between a previously known allyl alcohol
+intermediate and a hindered 2-(2-halophenyl)propan-2-ol secured direct access to the 3-(2-(2-hydroxypropan-2-yl)phenyl)-1-
+phenylpropan-1-one moiety in the product. In the second step, asymmetric hydrogenation of the ketone functionality in the
+Mizoroki−Heck reaction product provided a convenient method to introduce the benzylic alcohol chiral center and obtain the
+desired chiral diol precursor of montelukast sodium. A detailed catalyst screening led to the identiﬁcation of ((R)-Xyl-
+BINAP)((R,R)-DPEN)RuCl2 as a catalyst that aﬀorded an enantioselectivity of 99% ee in the hydrogenation step on a multigram
+lab scale at a molar substrate:catalyst loading of 5000:1.
+
+■ INTRODUCTION
+
+Developed by Merck Frosst Canada in the 1990s as a part of a
+drug discovery program to elucidate a selective LTD4
+antagonist, montelukast sodium 1 (Singulair) (Figure 1) is
+
+Figure 1. Structure of montelukast sodium 1.
+
+today a widely prescribed medication for the treatment of
+asthma and symptoms of seasonal allergies.1 The eﬀorts of
+Merck Frosst,
+leading to the discovery and eventual
+commercialization of Singulair (a once $4.5 billion-a-year
+drug before the expiry of its patent in 2012), has often been
+cited as a “case
+study in modern drug discovery and
+development”.1a However, there remains scope both to hone
+existing strategies and to develop novel ones which address
+shortcomings in known synthetic routes to 1.
+
+A synthetic route generally representative of processes used
+for 1 is shown in Scheme 1. This employs a Mizoroki−Heck
+reaction of allylic alcohol 3 with methyl 2-iodobenzoate in a key
+C−C bond-forming step, followed by asymmetric reduction of
+ketone 4. A signiﬁcant drawback of this approach is the methyl
+Grignard reagent addition to the aryl ester 5 that leads to the
+dimethyl aryl carbinol 6. This requires the use of anhydrous
+cerium chloride and a large excess of reagent and involves a
+tedious workup procedure on account of emulsion formation
+during the solvent extraction process.2
+<para sub=“ques”>
+We reasoned that the methyl Grignard addition step could be
+avoided, and additionally a more streamlined overall route
+realized by employing a halide 10 bearing a preformed dimethyl
+aryl carbinol moiety in the Mizoroki−Heck reaction step, to
+provide the key intermediate 9, from which the diol 6 could be
+accessed via asymmetric reduction of the ketone functionality
+(Scheme 2).3 This reordering, while superﬁcially straightfor-
+ward, poses signiﬁcant challenges in both key steps involved.
+First, the Mizoroki−Heck reaction employs, in place of reactive
+methyl 2-iodobenzoate, the hindered and less reactive 2-(2-
+halophenyl)propan-2-ol 10. Second, a highly enantioselective
+</para>
+Received:
+January 28, 2015
+Published: March 25, 2015
+
+© 2015 American Chemical Society
+
+3891
+
+DOI: 10.1021/acs.joc.5b00197
+J. Org. Chem. 2015, 80, 3891−3901
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 1. Known Process Chemistry Route to Montelukast Sodium 11a
+
+Scheme 2. Proposed Formal Synthesis of 1 from the Allyl Alcohol 3 via the Keto-carbinol 9
+
+Scheme 3. Preparation of 2-(2-Halophenyl)propan-2-ols 10 and Acetate 12 from 2-Halobenzoic Acids
+<para sub=“ques”>
+and preferably catalytic method of asymmetric reduction of the
+hindered and functionalized ketone 9 is required.
+</para>
+■ RESULTS AND DISCUSSION
+<para sub="scope">
+As outlined, while providing a shorter synthetic route to the
+keto-carbinol 9, a direct Mizoroki−Heck coupling4 between the
+
+allyl alcohol 3 and a 2-(2-halophenyl)propan-2-ol 10 presents,
+as compared to the reaction between 3 and methyl 2-
+iodobenzoate in the conventional synthesis of 1, a number of
+mechanistic hurdles. These are, namely: (a) the presence of the
+bulky dimethyl carbinol moiety ortho to the halogen
+functionality in the electron-rich halide 10 aﬀecting the rate
+</para>
+3892
+
+DOI: 10.1021/acs.joc.5b00197
+J. Org. Chem. 2015, 80, 3891−3901
+
+The Journal of Organic Chemistry
+Scheme 4. Mizoroki−Heck Reactions between Allyl Alcohol 3 and Halo-carbinols 10
+
+entry
+
+1
+2
+3
+4
+
+Table 1. Mizoroki−Heck Reaction between the Acetate 12 and the Allyl Alcohol 3
+temp. (°C)
+85
+75−80
+100−110
+120−130
+
+NR
+19
+79
+81
+aThe percentages indicate the proportions of 3, 13, and 14 present in the crude reaction mixture, as determined by LC-MS.
+Scheme 5. Mizoroki−Heck Reaction between the Acetate 12 and the Allyl Alcohol 3
+
+Pd(OAc)2, LiOAc, TBAB, LiBr, 12 h
+Pd(OAc)2, (o-tolyl)3P, Et3N, 1.5 days
+Pd(OAc)2, (o-tolyl)3P, DIPEA, 1.5 days
+Pd(OAc)2, (o-tolyl)3P, DIPEA, 1.5 days
+
+solvent
+DMA
+MeCN
+DMA
+DMA
+
+conditions
+
+product ratio (3:13:14)a
+
+52
+3
+3
+
+Article
+
+29
+19
+16
+<para sub="scope">
+of oxidative addition; (b) the use of electron-rich phosphine
+ligands [such as P(o-tol)3 or P(t-Bu)3] to accelerate the
+oxidative addition step could slow down the subsequent oleﬁn
+insertion and reductive elimination steps; and (c) participation
+functionality in 10 in alternate reaction
+of the tert-alcohol
+pathways involving Pd insertion across the Ar-(C(CH3)2OH)
+C−C bond.5−7
+</para>
+<para sub="scope">
+The requisite tertiary carbinols 10b and 10c were
+conveniently prepared by Fischer−Speier esteriﬁcation of the
+2-halobenzoic acid in the presence of methanol, followed by the
+addition of excess methyl Grignard reagent to the methyl ester
+11, in the case of 10b, MeMgBr or MeMgCl, and for 10c,
+following a known protocol, MeMgI (Scheme 3).
+</para>
+<para sub=“opt”>
+Eﬀorts to realize the desired Mizoroki−Heck reaction
+between 3 and bromide 10b (Scheme 4) met with no success
+under a variety of conditions, with and without ligands and
+employing a range of bases and solvents; indeed, no reaction of
+10b was observed even with ethyl acrylate. The bromocarbinol
+10b remained largely unreacted under the conditions tried.
+With the iodocarbinol 10c, no reaction occurred using
+Pd(OAc)2/Et3N in reﬂuxing acetonitrile (conditions used
+commercially for the Mizoroki−Heck reaction between methyl
+2-iodobenzoate and 3). However, the reaction was successful
+under Jeﬀery conditions (Pd(OAc)2, LiOAc, n-Bu4NCl, LiCl,
+DMA). Under these conditions, a loading of down to 0.3 mol %
+
+palladium without prior thorough degassing of the reaction
+solvent was achievable, with an isolated yield of 73%. Use of
+phosphine ligands in the reaction employing 10c led to
+formation of high levels of side products with only partial
+consumption of 3. The self-reaction of (2-halophenyl) tertiary
+carbinols under palladium catalysis is well-documented in the
+literature,5−7 and this was not investigated further.
+</para>
+<para sub="scope">
+While the use of the iodide 10c in the Heck−Mizoroki
+reaction with 3 met our primary objectives, the use of the
+cheaper bromide remained desirable. With conditions for the
+free alcohol 10b proving elusive, we recognized that protection
+of the 3° hydroxyl group was likely to be necessary, and
+identiﬁed acetate as a group which combined compatibility with
+the reaction, ease of introduction, and a variety of options for
+cleavage. Tertiary carbinol 10b could be esteriﬁed with acetic
+·
+anhydride in the presence of a catalytic amount of either BF3
+Et2O8 or more conveniently, DMAP9 (Scheme 3). The acetate
+12 proved to be a reactive partner in the Mizoroki−Heck
+reaction with allyl alcohol 3, and in the presence of Pd(OAc)2
+and P(o-tol)3, the desired acetate-protected keto-carbinol 13
+was obtained, albeit with varying amounts of an isomeric
+impurity (Table 1). Although unstable, making isolation and
+full characterization problematic, from the crude 1H NMR and
+previous literature precedence, a tentative structural assignment
+as the allylic alcohol 14 was made.10
+</para>
+3893
+
+DOI: 10.1021/acs.joc.5b00197
+J. Org. Chem. 2015, 80, 3891−3901
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 2. Structures of catalysts and ligands employed in this work.
+<para sub=“opt”>
+With subsequent optimization of the reaction conditions
+using the best ligand/solvent/base combination (Table 1, entry
+4) to achieve complete consumption of 3 while minimizing
+formation of 14, the Mizoroki−Heck reaction between 3 and
+12 provided an isolated yield of 70−76% for the acetate
+protected keto-carbinol 13. Warming 13 with KOH in a solvent
+mixture of THF and MeOH conveniently disengaged the
+acetate protecting group to furnish the keto-carbinol 9 (Scheme
+5).
+
+reduction of
+</para>
+<para sub=“opt”>
+With the keto-carbinol 9 in hand, we focused our attention
+toward developing an eﬃcient method for the enantioselective
+reduction of the ketone group in 9. Keto-carbinol 9 contains
+several reducible functionalities, including a disubstituted CC
+double bond, an aromatic heterocycle, and an aryl chloride.
+Hence, in addition to high enantioselectivity, chemoselectivity
+is required in the asymmetric reduction of 9. Reported methods
+the related ester-containing keto-ester 4
+for
+(Scheme 1) include stoichiometric (−)-chlorodiisopinocam-
+pheylborane ((−)-DIP-Cl),1a,11,12 and catalytic methods
+employing borane with catalytic CBS,1a,13 ketoreductase
+enzymes,14 asymmetric transfer hydrogenation,2,15 and asym-
+metric hydrogenation.16 Despite providing excellent enantiose-
+lectivity, CBS reduction of 4 can lead to a signiﬁcant over-
+reduction of the CHCH to a CH2-CH2 linkage in the
+presence of traces of palladium carried over from the preceding
+Mizoroki−Heck reaction step.11 The use of stoichiometric
+(−)-chlorodiisopinocampheylborane as an alternate chiral
+reducing agent for this step lowers the possibility of over-
+reduction, but at increased cost, both of reagents and waste
+management, and presents additional diﬃculties
+such as
+moisture sensitivity and complex workup.2 The alcohol
+functionality in keto-carbinol 9 is also likely to react with the
+boron-based reagents, resulting in incompatibility or large
+excesses of reagent being required. We considered enzymatic
+reduction and catalytic hydrogenation3,17,18 to be the most
+attractive methods for asymmetric reduction from the point of
+view of the use of an economically advantageous reductant
+isopropanol, or hydrogen), achieving economic
+(glucose,
+catalyst
+In
+addition, high chemoselectivity is generally achievable with
+both methods.
+
+loadings and minimization of waste products.
+</para>
+<para sub=“opt”>
+Enzymatic reduction of keto-carbinol 9 (Scheme 2)14 was
+relatively diﬃcult, with most ADH enzymes screened being
+inactive. Of commercially available enzymes, KRED-NADH-
+12919 was the most active and gave very high enantioselectivity
+(>99%) in favor of the desired (S)-enantiomer. Using glucose
+as the reductant and GDH for cofactor recycling, a conversion
+of up to 40% was achievable in aqueous buﬀer with 5% DMSO
+cosolvent at a substrate loading of 2.5 g/L. However, with this
+enzyme, higher conversions were not possible, whether
+employing higher enzyme concentration,
+substrate
+concentration or with added cosolvents. In addition to low
+substrate solubility in the reaction medium, product inhibition
+of
+factor in the
+incomplete conversion.
+
+the enzyme is likely to be a signiﬁcant
+
+lower
+</para>
+<para sub=“opt”>
+Asymmetric hydrogenation of keto-ester 4 has been reported
+using ruthenium(diamine)(diphosphine) catalysts.16 However,
+keto-ester 4 is not stable toward base, which is required for
+activation of the precatalysts. An approach to minimize the
+arising detrimental eﬀects of substrate degradation and catalyst
+deactivation is
+system
+(chlorobenzene−isopropanol−water) in which base and
+substrate are partitioned into diﬀerent phases. An additional
+beneﬁt of this solvent system is that alcohol 3 forms a stable
+hemihydrate,14a which precipitates from the reaction, protecting
+it
+such as
+lactonization.20 However, a drawback of this approach is that
+it requires the use of undesirable chlorobenzene.
+
+from further base-promoted side reactions
+
+to employ a biphasic solvent
+</para>
+<para sub=“opt”>
+Illustrative of the constraint of base-instability of keto-ester 4,
+if the asymmetric hydrogenation of this compound with [((R)-
+Xyl-BINAP)((R)-DAIPEN)RuCl2] (Figure 2) is carried out
+under conventional reaction conditions with isopropanol as
+solvent and potassium tert-butoxide as base, even at a relatively
+high catalyst loading (s/c 500:1), the reaction proceeds rapidly,
+then stops abruptly within 15 min, with 40% conversion being
+reached in this example (Figure 3). A signiﬁcant proportion of
+the reaction occurred before the 2 min equilibration time of the
+Biotage Endeavor reactor system used for the experiment.
+Likewise, base sensitivity of the acetate group in ketone 13,
+which was labile in the presence of base and isopropanol, ruled
+out asymmetric hydrogenation at this stage using ruthenium-
+(diamine)(diphosphine) catalysts, followed by later removal of
+the acetate group.
+</para>
+3894
+
+DOI: 10.1021/acs.joc.5b00197
+J. Org. Chem. 2015, 80, 3891−3901
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“opt”>
+Comparison between these catalysts in asymmetric hydro-
+genation of keto-carbinol 9 was undertaken at lower catalyst
+loadings, moving toward those required for an economic
+process. Reactions were carried out in which the reaction
+proﬁle for uptake of hydrogen with time was determined at s/c
+1000:1 and 2000:1. With [((R)-Xyl-BINAP)((R)-DAIPEN)-
+RuCl2], as with ester-containing keto-ester 4, rapid initial
+reaction occurred with no detectable induction period (Figure
+4). Unlike the reaction with keto-ester 4, where, under these
+</para>
+Figure 3. Hydrogen uptake curve for asymmetric hydrogenation of
+keto-ester 4 with [((R)-Xyl-BINAP)((R)-DAIPEN)RuCl2] in iPrOH
+with KOtBu as base. Conditions: [((R)-Xyl-BINAP)((R)-DAIPEN)-
+RuCl2], 0.55 mmol of substrate, 0.1 equiv of KOtBu, 4 mL of iPrOH,
+25 °C, 8 bar H2, s/c molar 500:1, reaction carried out using Biotage
+Endeavor.
+<para sub=“opt”>
+From the high yield obtained in the ﬁnal acetate-removal
+step (Scheme 5), it was clear that keto-carbinol 9, unlike keto-
+ester 4, was stable toward base, providing an advantage in
+ketone hydrogenation. Keto-carbinol 9 was screened against a
+range of hydrogenation catalysts (Figure 2, Table 2) under
+standard reaction conditions employing isopropanol as solvent
+and potassium tert-butoxide as base. Complete conversion was
+achieved with ﬁve catalysts, with the other three giving 50% or
+higher conversion. Ketone 9 is sparingly soluble in isopropanol,
+and the reaction proceeds from a slurry to a solution. The
+complete conversion obtained with keto-carbinol 9 with [((R)-
+Xyl-BINAP)((R)-DAIPEN)RuCl2] (entry 5) contrasts with the
+40% conversion obtained with keto-ester 4 under
+these
+conditions. Three catalysts gave high enantiomeric excesses
+close to or surpassing 98%, with two, [((R)-Xyl-BINAP)-
+((R,R)-DPEN)RuCl2] (entry 5) and [((R)-Xyl-SEGPHPOS)-
+((R)-DAIPEN)RuCl2] (entry 8), giving over 98.5% enantio-
+meric excess. With some catalysts, such as [((S)-PhanePhos)-
+((R,R)-DACH)RuCl 2]
+and [((R)-Xyl-
+SEGPHOS)((R,R)-DPEN)RuCl2 (entry 7), chemical purity
+was lower, with signiﬁcant levels of side reactions occurring.
+Overall, [((R)-Xyl-BINAP)((R)-DAIPEN)RuCl2] (entry 5),
+[((R)-Xyl-BINAP)((R,R)-DPEN)RuCl2] (entry 6), and ((R)-
+Xyl-SEGPHOS)((R)-DAIPEN)RuCl2] (entry 8) gave encour-
+aging performance in terms of enantioselectivity, reactivity, and
+product purity. For this reason, combined with commercial
+availability, these catalysts were selected for further optimiza-
+tion studies.
+
+(entry 2)
+</para>
+Figure 4. Gas uptake curves for hydrogenation of keto-carbinol 9 with
+[((R)-Xyl-BINAP)((R)-DAIPEN)RuCl2] at molar s/c 1000:1 and
+2000:1. Conditions: 1.1 mmol of substrate, 0.1 equiv of KOtBu, 4.8
+mL of iPrOH, 8 bar H2, 25 °C 18 h, reactions carried out using Biotage
+Endeavor.
+<para sub=“opt”>
+conditions, abrupt termination of the reaction occurred after a
+short time, the reaction with keto-carbinol 9 slowed gradually
+over time, an eﬀect which became more pronounced at lower
+catalyst loading.
+</para>
+<para sub=“opt”>
+With [((R)-Xyl-BINAP)((R,R)-DPEN)RuCl2], a diﬀerent
+reaction proﬁle was obtained (Figure 5) with a pronounced
+induction period of up to 2 h at 25 °C being apparent. Once
+the maximum rate was achieved, uptake remained nearly linear
+until close to the end of the reaction. At 40 °C, the induction
+period was reduced to 10−15 min. Similar proﬁles to those
+shown in Figure 4 were obtained with the other catalysts
+combining biaryldiphosphine ligands (HexaPHEMP and Xyl-
+SEGPHOS) and DPEN diamine ligands. The corresponding
+curves
+shown in Table 3 with
+incomplete conversions indicated that these resulted from the
+reactions being stopped after only 100 min, shortly after the
+end of the induction period. These biaryldiphosphine/DPEN
+catalysts, all of which exhibit signiﬁcant induction periods with
+keto-carbinol 9, gave zero conversion when tested against keto-
+
+screening reactions
+
+for
+</para>
+Table 2. Screening of [(Diphosphine)(diamine)RuCl2] Catalysts for Asymmetric Hydrogenation of Keto-carbinol 9a,b,c,d
+
+entry
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+diphosphine
+
+(R)-HexaPHEMP
+(S)-PhanePhos
+(R)-PhanePhos
+(S)-Xyl-PhanePhos
+(R)-Xyl-BINAP
+(R)-Xyl-BINAP
+(R)-Xyl-SEGPHOS
+(R)-Xyl-SEGPHOS
+
+diamine
+
+(R,R)-DPEN
+(R,R)-DACH
+(S,S)-DPEN
+(R,R)-DPEN
+(R,R)-DPEN
+(R)-DAIPEN
+(R,R)-DPEN
+(R)-DAIPEN
+
+conversion (%)b
+
+50
+100
+100
+100
+75
+100
+50
+100
+
+ee (%)c
+97.0 (S)
+89.6 (S)
+90.7 (R)
+71.6 (S)
+98.9 (S)
+97.9 (S)
+92.2 (S)
+98.9 (S)
+
+aConditions: 0.55 mmol of substrate, 0.1 equiv of KOtBu, 4 mL of iPrOH, 8 bar H2, 25 °C, molar s/c 500:1. bDetermined by 1H NMR. cDetermined
+by Chiral SFC. For conditions, see the Supporting Information. dCatalysts are commercially available from Strem Chemicals, except for entries 1,17d
+2,17c and 3.17c
+
+3895
+
+DOI: 10.1021/acs.joc.5b00197
+J. Org. Chem. 2015, 80, 3891−3901
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 5. Gas uptake curves for hydrogenation of ketone 9 with ((R)-
+Xyl-BINAP)((R,R)-DPEN)RuCl2 at 25 and 40 °C. Conditions: 1.9
+mmol of substrate, 0.1 equiv of KOtBu, 4.8 mL of iPrOH, 8 bar H2,
+molar s/c 1000:1, 18 h, reactions carried out using Biotage Endeavor.
+<para sub=“opt”>
+ester 4 under the iPrOH/KOtBu conditions; this may be due to
+consumption of the base occurring before activation of the
+catalyst.
+</para>
+<para sub=“opt”>
+Further comparison to determine the optimum catalyst
+focused on lowering the catalyst loading (Table 3) at higher
+substrate concentration (200 g/L). With ((R)-Xyl-BINAP)-
+((R)-DAIPEN)RuCl2, complete conversion at 25 °C and at 40
+°C was achievable down to a loading of 2000:1 with no
+reduction in enantiomeric excess. Below 2000:1, an erosion in
+enantiomeric excess was observed, and below 2500:1,
+conversion was incomplete. The gradual reduction in reaction
+rate with time and erosion in enantiomeric excess at reduced
+catalyst loading point to degradation of the catalyst over the
+course of the reaction, thus limiting the loading achievable with
+this catalyst. A less pronounced reduction in reaction rate with
+time and erosion of enantiomeric excess at reduced catalyst
+loading was apparent with [((R)-Xyl-SEGPHOS)((R,R)-
+DPEN)RuCl2] (Figure 6). This catalyst also exhibited an
+induction period, but shorter than that for [((R)-Xyl-BINAP)-
+((R,R)-DPEN)RuCl2]. A reduction of rate with reaction time
+and a reduction of enantiomeric excess at lower catalyst loading
+were not apparent with [((R)-Xyl-BINAP)((R,R)-DPEN)-
+RuCl2], and this catalyst was selected for laboratory scale-up.
+The asymmetric hydrogenation of keto-carbinol 9 with
+[((R)-Xyl-BINAP)((R,R)-DPEN)RuCl2] scaled up well, with a
+catalyst loading of 5000:1 and enantiomeric excess of 99%
+</para>
+Figure 6. Gas uptake curves for hydrogenation of keto-carbinol 9 with
+[((R)-Xyl-SEGPHOS)((R)-DAIPEN)RuCl2] at
+s/c 2500:1 and
+5000:1. Conditions: 1.1 mmol of substrate, 0.1 equiv of KOtBu, 4.4
+mL of iPrOH, 8 bar H2, 40 °C, s/c 1000:1, 18 h, reaction carried out
+using Biotage Endeavor.
+<para sub=“opt”>
+being reproducible on a 10−50 g scale. After completion of the
+reaction, the base was quenched with acetic acid prior to
+opening the reaction to the atmosphere,
+in order to avoid
+formation of strongly colored oxidative catalyst decomposition
+products which otherwise tended to contaminate the product.
+The inorganic salts were removed by partitioning between
+toluene and aqueous sodium carbonate. The crystallization
+properties of diol 6 were favorable; after recrystallization from
+isopropanol−heptane or toluene−heptane, the enantiomeric
+excess of the product increased to 99.6−99.8% in 78−86% yield
+and a product purity of 99.4−99.6%, the largest impurity being
+unconverted ketone 9 (0.2−0.3%). The diol 6 was converted to
+montelukast sodium by known methods.21 The overall route
+encapsulating both options for the Mizoroki−Heck reaction is
+summarized in Scheme 6.
+</para>
+■ CONCLUSIONS
+
+We describe a concise enantioselective formal synthesis of
+montelukast sodium 1 via the key chiral diol intermediate 6,
+which addresses some of the shortcomings in the conventional
+synthesis of 1, most signiﬁcantly, the late-stage methyl Grignard
+addition to the methyl ester group, while also achieving a higher
+degree of convergence. This was achieved by employing metal-
+based catalysis in two key steps. The ﬁrst of these, namely, the
+C−C bond formation in the construction of 9, was a palladium-
+
+Table 3. Eﬀect of Catalyst Loading in Hydrogenation of Substrate 9 with Three Selected Catalystsa
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+diphosphine
+(R)-Xyl-BINAP
+(R)-Xyl-BINAP
+(R)-Xyl-BINAP
+(R)-Xyl-BINAP
+(R)-Xyl-BINAP
+(R)-Xyl-SEGPHOS
+(R)-Xyl-SEGPHOS
+(R)-Xyl-BINAP
+(R)-Xyl-BINAP
+(R)-Xyl-BINAP
+(R)-Xyl-BINAP
+(R)-Xyl-BINAP
+
+diamine
+
+(R)-DAIPEN
+(R)-DAIPEN
+(R)-DAIPEN
+(R)-DAIPEN
+(R)-DAIPEN
+(R)-DAIPEN
+(R)-DAIPEN
+(R)-DPEN
+(R)-DPEN
+(R)-DPEN
+(R)-DPEN
+(R)-DPEN
+
+s/c
+
+1000:1
+2000:1
+2000:1
+2500:1
+5000:1
+2500:1
+5000:1
+1000:1
+1000:1
+2000:1
+2500:1
+5000:1
+
+conc. (g/L)
+
+T (°C)
+
+conversion (%)b
+
+ee (%)c
+
+100
+100
+100
+200
+200
+200
+200
+100
+100
+100
+200
+200
+
+25
+25
+40
+40
+40
+40
+40
+25
+40
+40
+40
+40
+
+100
+100
+100
+100
+60
+100
+95
+100
+100
+99
+100
+100
+
+98.8
+98.5
+98.5
+96.9
+97.2
+98.6
+98.5
+98.9
+98.5
+98.9
+98.6
+99.0
+
+aConditions 1.9 mmol of substrate, 0.1 equiv of KOtBu, 4.8 mL of iPrOH, 8 bar H2, 18 h, reactions carried out using Biotage Endeavor.
+bDetermined by 1H NMR. cDetermined by chiral SFC. For conditions, see the Supporting Information.
+
+3896
+
+DOI: 10.1021/acs.joc.5b00197
+J. Org. Chem. 2015, 80, 3891−3901
+
+The Journal of Organic Chemistry
+
+Scheme 6. Overall Scheme for Key Diol Intermediate 6
+
+Article
+
+catalyzed tandem Mizoroki−Heck reaction and double bond
+isomerization between the allyl alcohol 3 and a sterically
+hindered dimethyl o-halophenyl carbinol, either the free alcohol
+10c in the case of the iodide, or the acetate derivative 11 in the
+case of the bromide, to furnish the keto-carbinol 9. With
+unprotected 2-(2-iodophenyl)propan-2-ol 10c, the Mizoroki−
+Heck coupling could be carried out successfully with a
+palladium loading as low as 0.3 mol % without the need of a
+phosphine ligand and stringent oxygen-free conditions.
+Ruthenium-catalyzed asymmetric hydrogenation was employed
+in the ﬁnal enantioselective step. Though several of the Ru
+catalysts screened gave high enantioselectivity and activity
+under standard monophasic basic reaction conditions, diﬀer-
+ences in performance between these catalysts became apparent
+at reduced catalyst loading. With [((R)-Xyl-BINAP)((R,R)-
+DPEN)RuCl2], it was possible to achieve an enantioselectivity
+of 99% ee in the reduction of 9 to 6 at a catalyst loading of
+5000:1 on a laboratory scale.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+Methyl 2-Bromobenzoate (11). The title compound was
+prepared following a modiﬁcation of a literature protocol.22 Thus, 2-
+bromobenzoic acid (50 g, 0.25 mol) was taken in a dry 500 mL three-
+neck round-bottom ﬂask, equipped with a stir bar, a reﬂux condenser,
+and a calcium chloride guard tube. Methanol (250 mL) was added into
+the reaction ﬂask, and the mixture thus obtained was stirred at room
+temperature for 15 min in order to dissolve all solids and obtain a pale
+yellow clear solution. The reaction mixture was now cooled to 0 °C.
+Concentrated H2SO4 (7.94 mL, 0.15 mol) was added dropwise into
+the cooled reaction mixture, which was then allowed to reﬂux for 20 h.
+Thereafter, the reaction mass was cooled to room temperature and
+methanol was evaporated completely from the reaction mixture under
+vacuum. The residue, thus obtained, was neutralized carefully with
+saturated NaHCO3 solution (100 mL) at 0 °C and then extracted with
+hexanes (2 × 250 mL). The organic layers were combined, dried over
+anhydrous sodium sulfate, and passed through a short silica gel, which
+was then washed with EtOAc. The eluates were concentrated under
+vacuum to obtain methyl 2-bromobenzoate (51 g, 96% yield, 99%
+purity from HPLC analysis) as a clear pale yellow liquid, which was
+pure enough to be employed directly for the next step. 1H NMR (400
+
+MHz, CDCl3, 18 °C) δ = 7.78 (dd, J = 7.6, 1.9 Hz, 1H), 7.66 (dd, J =
+7.6, 1.4 Hz, 1H), 7.38−7.30 (m, 2H), 3.93 (s, 1H) ppm.
+
+2-(2-Bromophenyl)propan-2-ol (10b).23 (a) Preparation using
+MeMgBr. Methyl 2-bromobenzoate (31 g, 0.144 mol) was taken in a
+dry 1 L three-neck round-bottom ﬂask, equipped with a stir bar, 500
+mL dropping funnel, and a nitrogen inlet. The reaction vessel was
+cooled to 0 °C on an ice bath. MeMgBr (366 mL, 1.18 M solution in
+THF, 0.432 mol) was added dropwise at 0 °C under nitrogen over a
+period of 1 h into the stirred reaction mixture. (The actual
+concentration of the stored MeMgBr reagent (originally purchased
+as a 1.4 M solution in THF) was estimated by titration against
+menthol using 1,10−phenanthroline as the end point
+indicator.)
+During the course of addition of the Grignard reagent, the reaction
+mass turned into a clear pale yellow solution. After the addition of the
+Grignard reagent was complete, the reaction mixture was allowed to
+stir at 0 °C for an additional 3 h. The reaction mixture gradually
+turned into a brown colored suspension during this time. After
+complete consumption of the starting material was indicated by TLC
+analysis, the reaction mass was quenched at 0 °C with saturated
+NH4Cl solution (200 mL). Ethyl acetate (250 mL) was then added,
+and the reaction mixture was allowed to stir at room temperature for
+30 min. The organic layer was then separated, and the aqueous layer
+was extracted once with ethyl acetate (250 mL). The organic layers
+were now combined, dried over anhydrous sodium sulfate, and
+evaporated under vacuum. The residue thus obtained was puriﬁed by
+column chromatography using 10% EtOAc−hexanes to obtain 2-(2-
+bromophenyl)propan-2-ol (28 g, 90% yield, 99% purity from HPLC
+analysis) as a colorless clear liquid. (b) Preparation using MeMgCl.
+Methyl 2-bromobenzoate (5 g, 0.023 mol) was taken in a dry 100 mL
+three-neck round-bottom ﬂask, equipped with a stir bar and a nitrogen
+inlet. The reaction vessel was cooled to 0 °C on an ice bath. MeMgCl
+(23.3 mL, 3.0 M in THF, 0.069 mol) was added dropwise at 0 °C over
+a period of 20 min into the stirred reaction mixture. During the
+addition of the Grignard reagent, the reaction mass turned into an oﬀ-
+white suspension. After the addition of the Grignard reagent was
+complete, the reaction mixture was allowed to stir at 0 °C. The
+reaction mixture gradually turned into a sticky mass over a period of 1
+h. In order to facilitate the stirring at this stage, dry THF (10 mL) was
+introduced into the reaction mixture at 0 °C under nitrogen. After the
+addition of THF, the reaction mixture gradually converted into the
+same oﬀ-white suspension as obtained during the addition of MeMgCl.
+The reaction mixture was now allowed to stir at 0 °C for an additional
+5 h, after which TLC analysis showed complete consumption of the
+</para>
+3897
+
+DOI: 10.1021/acs.joc.5b00197
+J. Org. Chem. 2015, 80, 3891−3901
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+starting material and formation of the desired product. The reaction
+mass was quenched at 0 °C with saturated NH4Cl solution (25 mL)
+and then extracted with ethyl acetate (2 × 25 mL). The organic layers
+were combined, dried over anhydrous sodium sulfate, and evaporated
+under vacuum to obtain a pale yellow liquid that was puriﬁed by
+column chromatography to obtain 2-(2-bromophenyl)propan-2-ol
+(4.1 g, 82% yield, 98% purity from HPLC analysis) as a colorless
+liquid. 1H NMR (400 MHz, CDCl3, 18 °C) δ = 7.67 (dd, J = 7.8, 1.7
+Hz, 1H), 7.57 (dd, J = 7.8, 1.2 Hz, 1H), 7.28 (td, J = 7.8, 1.2 Hz, 1H),
+7.08 (td, J = 7.8, 1.7 Hz, 1H), 2.97 (s, 1H), 1.75 (s, 6H) ppm; 13C
+NMR (100 MHz, CDCl3, 18 °C) δ = 146.1, 135.1, 133.6, 128.6, 128.0,
+127.6, 127.3, 120.5, 73.6, 29.6 ppm.
+
+2-(2-Bromophenyl)propan-2-yl Acetate (12). (a) Preparation
+·Et2O. 2-(2-Bromophenyl)propan-2-ol
+using Ac2O and catalytic BF3
+(2 g, 0.009 mol) was taken in a dry 25 mL round-bottom ﬂask,
+equipped with a stir bar and a nitrogen inlet. Dry dichloromethane (7
+mL),
+followed by acetic anhydride (1.1 mL, 0.012 mol), was
+introduced into the reaction ﬂask at room temperature via the
+standard syringe and septum technique. The resulting reaction mixture
+·Et2O (4
+was stirred at 0 °C to obtain a colorless clear solution. BF3
+drops, ∼2 μL, 1.8 × 10−5 mol) was now added to the reaction mixture
+at 0 °C, which was then stirred at the same temperature for 6 h.
+Thereafter, the reaction mass was quenched with saturated NaHCO3
+solution (20 mL). The organic layer was separated, and the aqueous
+layer was extracted with dichloromethane (2 × 15 mL). The organic
+layers were now combined, dried over anhydrous sodium sulfate, and
+evaporated under vacuum. The pale yellow liquid thus obtained was
+puriﬁed by column chromatography using 10% EtOAc−hexanes to
+obtain the acetate 12 (1.7 g, 71% yield, 99% purity from HPLC
+analysis) as a colorless liquid. (b) Preparation using Ac2O and
+catalytic DMAP. 2-(2-Bromophenyl)propan-2-ol (27 g, 0.125 mol)
+was taken in a dry 500 mL three-neck round-bottom ﬂask, equipped
+with a stir bar, condenser, and a nitrogen inlet. Heptane (285 mL),
+followed by acetic anhydride (32 g, 0.314 mol) and DMAP (0.459 g,
+0.0038 mol), was introduced into the reaction ﬂask at
+room
+temperature under a ﬂow of nitrogen. The resulting reaction mixture
+was stirred and reﬂuxed for 24 h under nitrogen [Note: an additional
+lot of DMAP (0.460 g, 0.0038 mol) was added into the reaction
+mixture after 12 h of reﬂux]. The reaction mixture was then allowed to
+reﬂux at 100 °C for an additional 20 h. After TLC analysis showed
+complete consumption of the starting material, the reaction mixture
+was cooled to room temperature and quenched with saturated
+NaHCO3 solution (100 mL). Thereafter,
+the heptane layer was
+separated and the aqueous layer was extracted with ethyl acetate (2 ×
+250 mL). The organic layers were now combined, dried over
+anhydrous sodium sulfate, and evaporated under vacuum to obtain a
+brown colored liquid. Puriﬁcation of
+residue by column
+chromatography aﬀorded the acetate 12 (27 g, 87% yield, 99% purity
+from HPLC analysis) as a colorless liquid. 1H NMR (400 MHz,
+CDCl3, 18 °C) δ = 7.67 (dd, J = 7.8, 1.7 Hz, 1H), 7.57 (dd, J = 7.8, 1.2
+Hz, 1H), 7.28 (td, J = 7.8, 1.2 Hz, 1H), 7.08 (td, J = 7.8, 1.7 Hz, 1H),
+2.97 (s, 1H), 1.75 (s, 6H) ppm; 13C NMR (100 MHz, CDCl3, 18 °C)
+δ = 146.1, 135.1, 133.6, 128.6, 128.0, 127.6, 127.3, 120.5, 73.6, 29.6
+for C11H13BrO2Na [M + Na]+:
+ppm; HRMS (ES) m/z calcd.
+278.9997; found 279.0000.
+Mizoroki−Heck Reaction between the Acetate 12 and Allyl
+Alcohol 3: Preparation of (E)-2-(2-(3-(3-(2-(7-Chloroquinolin-2-
+yl)vinyl)phenyl)-3-oxopropyl)phenyl)propan-2-yl Acetate (13).
+DMA and DIPEA (10 mL) were degassed thoroughly by the freeze−
+pump−thaw technique. The acetate 12 (7.3 g, 0.0284 mol), allyl
+alcohol 3 (7.2 g, 0.0224 mol), Pd(OAc)2 trimer (0.146 g, 0.00021
+mol), (o-tolyl)3P (0.397 g, 0.0013 mol), and degassed DIPEA (3.514 g,
+0.027 mol) were introduced into degassed DMA (100 mL) taken in a
+dry 250 mL round-bottom ﬂask, equipped with a stir bar, condenser,
+and a nitrogen inlet. The reaction mixture was stirred at room
+temperature to dissolve the solids and obtain a clear orange colored
+solution. The reaction vessel was then dipped into an oil bath heated
+to 120 °C, and the reaction mass was stirred at the same temperature
+for 18 h when complete consumption of 3, as indicated by TLC
+analysis, was noted. The reaction mass was now cooled to 0 °C,
+
+this
+
+diluted with ice-cold water (500 mL), and stirred for 30 min,
+whereupon an oﬀ-white gummy material precipitated out of the
+reaction mixture and clung to the walls of the reaction vessel. The
+aqueous layer was decanted oﬀ, and the solid residue was washed with
+water (100 mL). The aqueous layer and washings were extracted with
+MTBE (2 × 200 mL). These MTBE extracts and THF (200 mL) were
+used to dissolve the precipitated gummy material in the reaction vessel.
+(The gummy residue in the reaction ﬂask was sparingly soluble in
+MTBE, but dissolved gradually in THF to leave behind a small amount
+of gray solid.) The solution thus obtained was ﬁltered, and the ﬁltrate
+was dried over anhydrous sodium sulfate and evaporated under
+vacuum to obtain 15 g of an oﬀ-white solid. The crude material was
+washed with hexanes, which removed some of the nonpolar impurities.
+The solid thereafter was made into a slurry in 120 mL of toluene,
+stirred for 1 h at room temperature, and ﬁnally ﬁltered. The residue
+thus obtained was washed with 50 mL of toluene and dried under
+vacuum to yield the desired product 13 as a grayish-yellow solid. This
+was puriﬁed further by dissolving it in 1:1 THF−methanol at 50 °C,
+ﬁltering the solution through a Celite bed to ﬁlter the precipitated Pd
+metal and concentrating the ﬁltrate to obtain 6.6 g of crude 13 as a
+pale yellow solid. Concentrating the toluene washings and puriﬁcation
+of the residue by column chromatography using 30% EtOAc−hexanes
+aﬀorded an additional 1 g of the desired product 13. The combined
+yield of the Mizoroki−Heck reaction product (95% purity from HPLC
+analysis) was around 70%. 1H NMR (400 MHz, DMSO-d6, 18 °C) δ
+= 8.41 (d, J = 8.8 Hz, 1H), 8.36 (s, 1H), 8.06−7.86 (m, 6H), 7.65−
+7.56 (m, 3H), 7.43−7.37 (m, 1H), 7.35 (dd, J = 7.8, 1.0 Hz, 1H),
+7.27−7.21 (m, 1H), 7.21−7.14 (m, 1H), 3.52−3.37 (m, 2H), 3.27−
+3.08 (m, 2H), 1.91 (s, 3H), 1.78 (s, 6H) ppm; 13C NMR (100 MHz,
+DMSO-d6, 18 °C) δ = 199.6, 169.3, 157.1, 148.5 (2C), 142.8, 138.6,
+137.6, 137.1, 134.8, 134.6, 132.0, 131.0, 130.3, 129.9, 129.8, 128.4,
+127.7, 127.54, 127.51, 127.3, 126.2, 126.1, 125.9, 120.8, 82.4, 40.6,
+40.4, 40.2, 40.0, 39.8, 39.6, 39.4, 29.0 (2C), 26.8, 22.2 (2C) ppm;
+HRMS (ES) m/z calcd. for C31H29ClNO3 [M + H]+: 498.1830; found
+498.1836.
+
+(E)-1-(3-(2-(7-Chloroquinolin-2-yl)vinyl)phenyl)-3-(2-(2-
+hydroxypropan-2-yl)phenyl)propan-1-one (9) via Base Medi-
+ated Transesteriﬁcation of 13. Acetate 13 (8.5 g, 0.017 mol) was
+charged at room temperature into a mixture of THF (56.9 mL) and
+methanol (37.4 mL), taken in a dry 25 mL round-bottom ﬂask
+equipped with a stir bar, condenser, and a nitrogen inlet. KOH (1.436
+g, 0.025 mol) was added to the stirred suspension at room temperature
+under a ﬂow of nitrogen. The reaction mixture was then allowed to stir
+at 45 °C for 6 h. During this interval, the initial yellow colored
+suspension gradually became a brown colored solution. Upon
+complete consumption of the starting material, as indicated by TLC,
+the reaction mixture was cooled to room temperature and treated with
+saturated Na2SO4 solution (40 mL). The organic layer was decanted
+oﬀ, and the solid residue was dissolved in 50 mL of water. The
+aqueous layer thus obtained was extracted with ethyl acetate (2 × 100
+mL). The organic layers were combined, dried over anhydrous sodium
+sulfate, and then evaporated under vacuum to obtain a yellow
+semisolid. The crude residue thus obtained was puriﬁed by column
+chromatography using 30% EtOAc−hexanes to obtain 9 (6.2 g, 80%
+yield, 99% purity from HPLC analysis) as a pale yellow solid. mp 158−
+161 °C; IR (KBr) 3330 (br), 2972, 2927, 1685, 1596, 1497, 1431,
+1406, 1559, 1294, 1162, 1152, 1132, 1076, 967, 949, 930, 888, 862,
+841, 616, 536, and 471 cm−1; 1H NMR (400 MHz, CDCl3, 18 °C) δ =
+8.41 (d, J = 8.8 Hz, 1H), 8.34 (s, 1H), 8.08−7.85 (m, 6H), 7.68−7.48
+(m, 3H), 7.38 (dd, J = 7.7, 1.3 Hz, 1H), 7.28 (dd, J = 7.4, 1.3 Hz, 1H),
+7.18 (td, J = 7.4, 1.5 Hz, 1H), 7.13 (td, J = 7.5, 1.6 Hz, 1H), 5.02 (s,
+1H), 3.47−3.39 (m, 1H), 3.32−3.26 (m, 1H), 1.55 (s, 6H) ppm; 13C
+NMR (100 MHz, CDCl3, 18 °C) δ = 199.5, 156.6, 148.0, 146.8, 139.7,
+137.3, 136.58, 136.57, 134.3, 134.1, 131.4, 131.4, 129.8, 129.4, 129.3,
+128.0, 127.2, 127.0, 126.8, 126.5, 125.6, 125.4, 120.3, 72.0, 41.7, 31.8
+(2C), 28.5 (2C) ppm; HRMS (ES) m/z calcd. for C29H27ClNO2 [M +
+H]+: 456.1730; found 456.1742. calcd for C29H26NO2Cl: C 76.4%, H
+5.8%, N 3.1%, Cl 7.8%; found: C 76.6%, H 5.9%, N 3.2%, Cl 7.9%.
+Methyl 2-Iodobenzoate (11c). 2-Iodobenzoic acid (7 g, 0.0283
+mol) was dissolved in methanol (70 mL) taken in a dry 250 mL
+</para>
+3898
+
+DOI: 10.1021/acs.joc.5b00197
+J. Org. Chem. 2015, 80, 3891−3901
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+round-bottom ﬂask, equipped with a stir bar, condenser, and calcium
+chloride guard tube. The reaction mixture was stirred at room
+temperature in order to dissolve all solids and obtain a clear colorless
+solution. Concentrated H2SO4 (0.9 mL) was added dropwise into the
+reaction mixture at room temperature. The reaction mass was now
+allowed to reﬂux for 24 h, after which it was allowed to cool to room
+temperature. Methanol was then evaporated completely from the
+reaction mixture under vacuum, and the brown syrupy liquid obtained
+was neutralized carefully with saturated NaHCO3 solution (20 mL).
+The product was extracted into hexanes (2 × 50 mL). The organic
+layers were combined and passed through a short silica gel plug, which
+was subsequently washed with ethyl acetate (100 mL). The eluted
+fractions, containing the product, were concentrated under vacuum to
+obtain 11c (7 g, 94% yield, 99% purity from HPLC analysis) as a clear
+pale yellow liquid, which was pure enough to be employed directly for
+the next step. 1H NMR (400 MHz, CDCl3, 18 °C) δ = 7.99 (dd, J =
+7.9, 0.9 Hz, 1H), 7.80 (dd, J = 7.8, 1.6 Hz, 1H), 7.40 (td, J = 7.7, 1.1
+Hz, 1H), 7.15 (td, J = 7.9, 1.8 Hz, 1H), 3.93 (s, 3H) ppm.
+
+2-(2-Iodophenyl)propan-2-ol (10c). The title compound was
+prepared following a modiﬁcation of a literature protocol.24 Thus,
+magnesium turnings (1.17 g, 0.0488 mol) were taken in a dry 100 mL
+two-neck round-bottom ﬂask, equipped with a stir bar, condenser, and
+an argon inlet. The reaction vessel was now evacuated, ﬂame-dried
+under vacuum, and then allowed to cool under argon. Dry Et2O (20
+mL) was added into the reaction ﬂask. A solution of methyl iodide
+(3.34 mL, 0.053 mol) in dry Et2O (10 mL) was now introduced
+dropwise at room temperature over a period of 30 min. Thereafter, the
+reaction mixture was allowed to stir at room temperature for 1 h to
+ensure complete consumption of magnesium. The MeMgI solution,
+thus prepared, was now cooled to 0 °C. A solution of methyl 2-
+iodobenzoate 11c (4 g, 0.0152 mol) in dry Et2O (10 mL) was added
+dropwise into the cooled MeMgI solution over a period of 15 min.
+The reaction mixture obtained was allowed to warm to room
+temperature and then reﬂuxed for 1 h when the initial green colored
+reaction mass turned into a brown colored suspension. The progress of
+the reaction was checked by TLC. Upon complete consumption of the
+starting material, the reaction mass was ﬁrst cooled to 0 °C, and then
+added dropwise into a stirred mixture of saturated NH4Cl solution (50
+mL), ice, and diethyl ether (20 mL). After 30 min of stirring, the
+organic layer was separated and the aqueous layer was extracted with
+diethyl ether (2 × 50 mL). The organic layers were combined, dried
+over potassium carbonate, and evaporated under vacuum to obtain a
+brown colored syrup (3.26 g, containing about 89% 10c) that was
+employed directly for the next step. The proportion of the required
+iodo-carbinol
+in the crude product mixture was determined by
+comparing its HPLC chromatogram with that of a sample, puriﬁed
+from the crude product mixture by column chromatography and
+subsequently characterized on the basis of 1H NMR. The iodo-
+carbinol 10c not only was sensitive to light but also decomposed
+gradually on a silica-gel column. 1H NMR (400 MHz, CDCl3, 18 °C)
+δ = 7.96 (dd, J = 7.9, 1.3 Hz, 1H), 7.62 (dd, J = 8.0, 1.6 Hz, 1H), 7.33
+(td, J = 8.1, 1.3 Hz, 1H), 6.90 (td, J = 7.8, 1.8 Hz, 1H), 1.76 (s, 6H)
+ppm.
+Mizoroki−Heck Reaction between the Iodo-Carbinol 10c
+and Allyl Alcohol 3: (E)-1-(3-(2-(7-Chloroquinolin-2-yl)vinyl)-
+phenyl)-3-(2-(2-hydroxypropan-2-yl)phenyl)propan-1-one (9).
+Dimethylacetamide (14 mL), brieﬂy sparged with nitrogen for 15 min,
+was taken in a 50 mL round-bottom ﬂask, equipped with a stir bar,
+nitrogen inlet, and air condenser. The crude sample of 10c (3.2 g, 89%
+purity from HPLC, 11 mmol) obtained in the previous step was
+charged into the reaction vessel at room temperature along with the
+allyl alcohol 3 (2.33 g, 7.2 mmol), Pd(OAc)2 trimer (4.8 mg, 0.007
+mmol),
+tetrabutylammonium
+chloride (5.03 g, 1.8 mmol), and lithium chloride (377 mg, 8.9 mmol).
+The reaction mixture obtained was stirred at room temperature for 15
+min and then at 120 °C for 1.5 days until complete consumption of
+the starting material was noted. The progress of the reaction was
+monitored by TLC and HPLC/LC-MS. HPLC/LC-MS analysis of the
+reaction mixture showed the following proﬁle with time: (a) after 14 h:
+32% 9, 16% 3; (b) after 24 h: 60% 9, 6% 3; (c) after 30 h: 81% 9, 0%
+
+lithium acetate (1.48 g, 22.4 mol),
+
+3. After completion of the reaction, the reaction mass was cooled to
+room temperature, diluted with 100 mL of ice-cold water, and then
+allowed to stir at room temperature for 15 min when a dark colored
+gummy material separated out. The aqueous layer was decanted oﬀ
+and extracted with dichloromethane (2 × 100 mL). The dichloro-
+methane extracts were now used to dissolve the precipitated gummy
+material in the reaction vessel. The entire solution obtained was dried
+over anhydrous sodium sulfate and evaporated under vacuum to
+obtain a dark colored gummy mass. This was puriﬁed by column
+chromatography to obtain the Mizoroki−Heck reaction product 9 as a
+pale yellow solid (2.5 g, 73%, 94% purity from HPLC analysis).
+
+Small-Scale Preparation of
+
+(2-(2-(3-(3(S)-(2-(7-Chloro-2-
+quinolinyl)ethenyl)phenyl)-3-hydroxypropyl)phenyl)-2-propa-
+nol) (6) Using Enzymatic Reduction. To a solution of D-glucose
+(202 mg), KRED-NADH-129 (13.5 mg, 150U), GDH-102 (0.7 mg,
+100U) and NAD+ (3.2 mg) in 50 mM phosphate buﬀer pH 7.0 (9.5
+mL), 0.5 mL of a 100 mg/mL solution of the ketone 9 in DMSO was
+added, and the ensuing mixture was stirred at 25 °C, while maintaining
+the pH at 7.0 with 1 M NaOH. Samples were prepared for assay by
+diluting a 25 mL aliquot of the reaction to 1 mL with MeCN and
+drying (MgSO4). The liquid was decanted oﬀ and analyzed by SFC
+(vide infra). When the reaction had stopped, the mixture was extracted
+with EtOAc (2 × 10 mL). Emulsions were removed from the organic
+layer by ﬁltration through Celite. The organic layer was then washed
+with sat. brine (10 mL), dried (MgSO4), ﬁltered, and concentrated in
+vacuo to give the product as a colorless oil (30 mg). This was
+determined to be 60:40 9:6 by both NMR and SFC. The ee of the
+alcohol was determined as >99% by SFC.
+
+Small-Scale Preparation of
+
+(2-(2-(3-(3(S)-(2-(7-Chloro-2-
+quinolinyl)ethenyl)phenyl)-3-hydroxypropyl)phenyl)-2-propa-
+nol) (6) Using Biotage Endeavor. A vessel of a Biotage Endeavor
+catalyst screening system was charged with the ketone 9 (880 mg, 1.92
+mmol). The vessel was purged with nitrogen (5 × 10 bar); then,
+deoxygenated isopropyl alcohol (2.4 mL) was added. A solution of
+[((R)-Xyl-BINAP)((R)-DAIPEN)RuCl2] (2.23 mg, 0.0018 mmol) in
+deoxygenated isopropanol (2.37 mL) was prepared, and a 1.0 mL
+(0.00076 mmol) aliquot of this solution was added to the vessel. A
+solution of potassium tert-butoxide (1.0 M in THF, 0.93 mL) in
+deoxygenated isopropyl alcohol (8 mL) was prepared. A 1.0 mL
+aliquot of this solution was charged to the vessel; then, the vessel was
+pressurized to 0.8 bar with hydrogen. The vessel was heated to 40 °C
+and then pressurized to 8 bar with hydrogen and stirred for 18 h at 8
+bar hydrogen pressure and 40 °C while monitoring hydrogen uptake,
+which showed completion to have occurred after 2 h. The temperature
+was allowed to fall to room temperature, the pressure was released,
+and then a solution of acetic acid (0.2 mL, approximately 0.19 mmol of
+a solution of 265 μL, 4.62 mmol in isopropanol (4.5 mL)) was added.
+The solvent was evaporated to give (S)-6 (96.9%ee) as a brown,
+viscous oil (conversion by 1H NMR, 100%).
+
+(2-(2-(3-(3(S)-(2-(7-Chloro-2-quinolinyl)ethenyl)phenyl)-3-
+(6).2,18,21,25 A 600 mL
+hydroxypropyl)phenyl)-2-propanol)
+pressure vessel was charged with the ketone 9 (20.0 g, 43.9 mmol)
+and isopropanol (100 mL). The vessel was purged with nitrogen (5 ×
+7 bar); then, solutions of [((R)-Xyl-BINAP)((R,R)-DPEN)RuCl2]
+(9.8 mg, 0.0088 mmol) in deoxygenated isopropanol (1 mL) and
+potassium tert-butoxide (1.0 M in THF, 3.51 mL) were added. The
+vessel was pressurized to 7.6 bar with hydrogen and then heated to 40
+°C while stirring. Initially, the pressure rose to 8.0 bar. After 3.5 h,
+uptake stopped at 5.9 bar. The reaction was stirred for a further 30 min
+and then cooled to 30 °C, the pressure was released, and acetic acid
+(251 μL, 4.39 mmol) was added. A small sample was withdrawn and
+analyzed showing the enantiomeric excess of the crude 6 to be 98.8%
+(S). About 70 mL of solvent was removed using a rotary evaporator.
+Toluene (50 mL) and 10% sodium carbonate solution (25 mL) were
+added, the mixture was shaken, and the layers were separated. The
+aqueous phase was extracted with toluene (50 mL), the combined
+organic phases were dried (Na2SO4) and ﬁltered, and about 60 mL of
+solvent was removed using a rotary evaporator. The solution was
+seeded with a small quantity of 6 and stirred for 30 min; then, heptane
+(50 mL) was added over 4 h. The suspension was stirred for 18 h and
+</para>
+3899
+
+DOI: 10.1021/acs.joc.5b00197
+J. Org. Chem. 2015, 80, 3891−3901
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+then ﬁltered, and the solid was washed with heptane−toluene (1:2, 4 ×
+20 mL) to give (S)-6 as a white, granular solid (17.3 g, 86%, 99.6%ee
+(S)). Evaporation of the liquors gave a brown foam (2.41 g). Analysis
+showed the product 6 present in this fraction to have an enantiomeric
+25 −23.2° (c = 1.0, THF).
+excess of 87.2% (S). mp 119−120 °C; [α]D
+Sample from known route using (−)-DIP-Cl1,11,12 (99.8% ee) −24.4°
+(c = 1.0, THF); IR (KBr) 3366, 1507, 1595, 1497, 1442, 1407, 1310,
+1160, 1144, 1066, 966, 926, 670, 831, 759, and 692 cm−1. 1H NMR
+(400 MHz, CDCl3, 18 °C) δ = 8.08 (d, J = 8.4 Hz, 1H), 8.06 (d, J =
+1.6 Hz, 1H), 7.71 (s, 1H), 7.67 (d, J = 8.8 Hz, 1H), 7.63 (s, 1H), 7.61
+(d, J = 8.8 Hz, 1H), 7.50 (d, J = 7.2 Hz, 1H), 7.43 (dd, J = 8.8, 2.0 Hz,
+1H), 7.38−7.30 (m, 4H), 7.26 (td, J = 7.2, 1.6 Hz, 1H), 7.22 (td, J =
+7.3, 1.4 Hz, 1H), 7.14 (td, J = 7.4, 2.0 Hz, 1H), 4.74−4.70 (m, 1H),
+3.3 (br s, 1 H), 3.28−3.20 (m, 2H), 3.16−3.10 (m, 1H), 2.5 (br s,
+1H), 2.17−2.10 (m, 2H), 1.70 (s, 3H) and 1.67 (s, 3H) ppm. 1H
+NMR (400 MHz, C6D6, 18 °C) δ = 8.46 (d, 1H, J = 1.6 Hz),8.01 (d,
+1H, J = 16.4 Hz), 7.79 (s, 1H), 7.53−7.46 (m, 3H), 7.38 (d, 1H, J =
+7.6 Hz), 7.33 (d, 1H, J = 8.0 Hz), 7.30−7.13 (m, 7H), 4.75−4.71 (m,
+1H), 3.46−3.38 (m, 1H), 3.26−3.20 (m, 1H), 3.03 (br s, 1H), 2.25−
+2.19 (m), 2.03 (br s, 1H), 1.54 (s, 3H) and 1.53 (s, 6H) ppm; 13C
+NMR (100 MHz, CDCl3, 18 °C) δ = 156.9, 148.5, 145.4, 145.0, 140.2,
+136.2, 136.1, 135.5, 135.2, 131.4, 128.8, 128.6, 128.4, 128.1, 127.2,
+127.0, 126.4, 126.3, 126.0, 125.6, 125.5, 124.7, 119.5, 74.1, 72.9, 41.9,
+32.1, 32.0, and 29.6 ppm; 13C NMR (100 MHz, C6D6, 18 °C) δ =
+157.2. 149.2, 146.4, 145.8, 140.7, 136.8, 135.9, 135.7, 135.6, 131.8,
+129.0, 128.9, 128.7, 128.6, 127.9, 127.9, 127.5, 126.9, 126.9, 126.4,
+126.0, 125.8, 120.1, 125.5, 74.0, 73.0, 42.6, 32.2, 32.1, and 30.1 ppm.
+m/z ES 460 ([M37Cl + H] +, 40), 458 ([M35Cl + H] +, 100).
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+.
+
+Method of chiral analysis for 6, and NMR spectra of 6, 9,
+10b, 10c, 11b, 11c, 12, and 13. Reaction conditions employed
+in unsuccessful reactions between 3 and 10b. This material is
+available free of charge via the Internet at http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: mfox@drreddys.com (M.E.F.).
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+We are grateful to the management of Dr. Reddy’s Laboratories
+Limited for supporting this project.
+■ REFERENCES
+
+(1) (a) Harrington, P.
+J. Pharmaceutical Process Chemistry for
+Synthesis: Rethinking the Routes to Scale-Up; John Wiley & Sons:
+Hoboken, NJ, 2011; pp 164−216. (b) Young, R. N. In Case Studies in
+Modern Drug Discovery and Development; Huang, X., Aslanian, R. G.,
+Eds.; John Wiley & Sons: Hoboken, NJ, 2012; pp 154−195.
+(2) Suri, S.; Sarin, G. S.; Mahendru, M. PCT Patent Application
+WO/2006/021974, 2006.
+(3) A similar strategy also employing Mizoroki−Heck reaction of 3
+with a protected 2-(2-halophenyl)propan-2-ol and asymmetric hydro-
+genation of keto-carbinol 9 is also described in: Albaneze-Walker, J. E.;
+Chen, Y.; Humphrey, G.; Krska, S. W.; Ji, Q.; Tan, L.; Itoh, T.;
+Funane, S.; Yokozawa, T.; Kobayashi, T. PCT Patent Application
+WO/2014/081616, 2014.
+(4) Larock, R. C.; Leung, W. Y.; Stolz−Dunn, S. Tetrahedron Lett.
+1989, 30, 6629−6632.
+(5) Terao, Y.; Wakui, H.; Nomoto, M.; Satoh, T.; Miura, M.;
+Nomura, M. J. Org. Chem. 2003, 68, 5236−5343.
+(6) Mahendar, L.; Satyanarayana, G. J. Org. Chem. 2014, 79, 2059−
+2074.
+
+Article
+
+(7) Motti, E.; Della Ca, N.; Xu, D.; Piersimoni, A.; Bedogni, E.; Zhou,
+Z.-M.; Catellani, M. Org. Lett. 2012, 14, 5792−5795.
+(8) (a) Nagao, Y.; Fujita, E.; Kohno, T.; Yagi, M. Chem. Pharm. Bull.
+1981, 29, 3202−3207. (b) Mehta, G.; Senaiar, R. S.; Bera, M. K.
+Chem.Eur. J. 2003, 9, 2264−2272.
+(9) Sakakura, A.; Kawajiri, K.; Ohkubo, T.; Kosugi, Y.; Ishihara, K. J.
+Am. Chem. Soc. 2007, 129, 14775−14779.
+(10) (a) Melpolder, J. B.; Heck, R. F. J. Org. Chem. 1976, 41, 265.
+(b) Chalk, A. J.; Magennis, S. A. J. Org. Chem. 1976, 41, 273−278.
+(11) King, A. O.; Corley, E. G.; Anderson, R. K.; Larsen, R. D.;
+Verhoeven, T. R.; Reider, P. J.; Xiang, Y. B.; Belley, M.; Leblanc, Y.;
+Labelle, M.; Prasit, P.; Zamboni, R. J. J. Org. Chem. 1993, 58, 3731−
+3735.
+(12) Shinkai, I.; King, A. O.; Larsen, R. D. Pure Appl. Chem. 1994, 66,
+1551−1556.
+(13) (a) Belley, M. L.; Leger, S.; Labelle, M.; Roy, P.; Xiang, Y. B.;
+Guay, D. U.S. Patent 5,565,473, 1996. (b) Belley, M. L.; Leger, S.; Roy,
+P.; Xiang, Y. B.; Labelle, M.; Guay, D. European Patent EP 408,717,
+1998.
+(14) (a) Liang, J.; Lalonde, J.; Borup, B.; Mitchell, V.; Mundorff, E.;
+Trinh, N.; Kochrekar, D. A.; Cherat, R. N.; Pai, G. G. Org. Process. Res.
+Dev. 2010, 14, 193−198. (b) Chartrain, M. M.; Chen, S. T.; Garrity, G.
+M.; Heimbuch, B.; Roberge, C.; Shafiee, A. PCT Patent Application
+WO/199602657, 1996. (c) Roberge, C.; King, A.; Pecore, V.;
+Greasham, R.; Chartrain, M. J. Ferment. Bioeng. 1996, 81, 530−533.
+(d) Shafiee, A.; Motamedi, H.; King, A. Appl. Microbiol. Biotechnol.
+1998, 49, 709−717.
+(15) (a) Fuji, A.; Hashiguchi, S.; Uematsu, N.; Ikariya, T.; Noyori, R.
+J. Am. Chem. Soc. 1996, 118, 2521−2522. (b) Avdagic, A.; Mohar, B.;
+Sterk, D.; Stephan, M. PCT Patent Application WO/2006/008562,
+2006.
+(16) (a) McGarrity, J.; Bappert, E.; Belser, E. PCT Patent Application
+WO/2008/131932, 2008. (b) Abdur-Rashid, K.; Jia, W.; Lu, S.; Guo,
+R.; Chen, X.; Amoroso, D. PCT Patent Application WO 2012031358,
+2012.
+(17) (a) Ohkuma, T.; Koizumi, M.; Doucet, H.; Phang, H. T.;
+Kozawa, M.; Murata, K.; Katayama, E.; Yokozawa, T.; Ikariya, T.;
+Noyori, R. J. Am. Chem. Soc. 1998, 120, 13529−13530. (b) Noyori, R.;
+Ohkuma, T. Angew. Chem. Int. Ed. 2001, 40, 40−73. (c) Burk, M. J.;
+Hems, W.; Herzberg, D.; Malan, C.; Zanotti-Gerosa, A. Org. Lett.
+2000, 2, 4173−4176. (d) Henschke, J. P.; Burk, M. J.; Malan, C. G.;
+Herzberg, D.; Peterson, J. A.; Wildsmith, A. J.; Cobley, C. J.; Casy, G.
+Adv. Synth. Catal. 2003, 345, 300−307. (e) Chaplin, D.; Harrison, P.;
+Henschke, J. P.; Lennon, I. C.; Meek, G.; Moran, P.; Pilkington, C. J.;
+Ramsden, J. A.; Watkins, S.; Zanotti-Gerosa, A. Org. Process. Res. Dev.
+2003, 7, 89−94. (f) Wu, J.; Ji, J.-X.; Guo, R.; Yeung, C.-H.; Chan, A. S.
+C. Chem.Eur. J. 2003, 9, 2963−2968. (g) Xie, J.-H.; Wang, L.-X.;
+Zhu, S.-F.; Fan, B.-M.; Duan, H.-F.; Zhou, Q.-L. J. Am. Chem. Soc.
+2003, 125, 4404−4405. Nara, H.; Yokozawa, T. PCT Patent
+ApplicationWO 2011/135753 A1, 2011.
+(18) A portion of this work is disclosed in: Fox, M. E.; Bollikonda, S.;
+Mohanarangam, S.; Jinna, R. R.; Kandirelli, V. K. K. PCT Patent
+Application WO/2010/148209, 2010.
+(19) Available from Codexis Inc.
+(20) McGarrity,
+2009010230, 2009.
+(21) Reddy, P. P.; Bollikonda, S.; Naidu, N.; Ghosh, D.; Kandirelli, V.
+K. K.; Jinna, R. J.; Kasturi, R. K.; Mohanarangam, S. PCT Patent
+Application WO/2008/058118, 2008.
+(22) Hatano, B.; Miyoshi, K.; Sato, H.; Ito, T.; Ogata, T.; Kijima, T.
+Tetrahedron Lett. 2010, 51, 5399−5401.
+(23) (a) Player, M. R.; Dax, S. L.; Parsons, W. H.; Brandt, M. R.;
+Calvo, R. R.; Patel, S.; Liu, J.; Cheung, W. S.; Jetter, M. C.; Lee, Y.-K.;
+Youngman, M. A.; Pan, W.; Weils, K. M.; Beauchamp, D. A. U.S.
+Patent Application Publication US/2007/0259936, 2007. (b) Li, X.;
+Zhang, S.; Zhang, Y.-K.; Liu, Y.; Ding, C. Z.; Zhou, Y.; Plattner, J. J.;
+Baker, S. J.; Bu, W.; Liu, L.; Kazmierski, W. M.; Duan, M.; Grimes, R.
+M.; Wright, L. L.; Smith, G. K.; Jarvest, R. L.; Ji, J.-J.; Cooper, J. P.;
+
+J.; Djojo, F. PCT Patent Application WO
+
+3900
+
+DOI: 10.1021/acs.joc.5b00197
+J. Org. Chem. 2015, 80, 3891−3901
+
+The Journal of Organic Chemistry
+
+Tallant, M. D.; Crosby, R. M.; Creech, K.; Ni, Z.-J.; Zou, W.; Wright, J.
+Bioorg. Med. Chem. Lett. 2011, 21, 2048−2054.
+(24) Moss, R. A.; Wilk, B.; Krogh-Jespersen, K.; Blair,
+Westbrook, J. D. J. Am. Chem. Soc. 1989, 111, 250−258.
+(25) Caspi, D. D.; Ebner, D. C.; Bognanoff, J. T.; Stolz, B. M. Adv.
+Synth. Catal. 2004, 346, 185−189.
+
+J. T.;
+
+Article
+
+3901
+
+DOI: 10.1021/acs.joc.5b00197
+J. Org. Chem. 2015, 80, 3891−3901
+
+

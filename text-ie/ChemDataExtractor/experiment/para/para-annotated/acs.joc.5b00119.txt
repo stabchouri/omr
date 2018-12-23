@@ -1,0 +1,1382 @@
+Article
+
+pubs.acs.org/joc
+
+Deep-Red Emissive BODIPY−Chlorin Arrays Excitable with Green and
+Red Wavelengths
+Adam Meares,† Andrius Satraitis,† Nithya Santhanam, Zhanqian Yu, and Marcin Ptaszek*
+
+Department of Chemistry and Biochemistry, University of Maryland, Baltimore County, 1000 Hilltop Circle, Baltimore,
+Maryland 21250, United States
+
+*S Supporting Information
+
+ABSTRACT: We report here the synthesis and characterization of
+BODIPY−chlorin arrays containing a chlorin subunit, with tunable
+deep-red (641−685 nm) emission, and one or two BODIPY moieties,
+absorbing at 504 nm. Two types of arrays were examined: one where
+BODIPY moieties are attached through a phenylacetylene linker at the
+13- or 3,13-positions of chlorin, and a second type where BODIPY is
+attached at the 10-position of chlorin through an amide linker. Each of
+the examined arrays exhibits an eﬃcient (≥0.80) energy transfer from
+BODIPY to the chlorin moiety in both toluene and DMF and exhibits
+intense ﬂuorescence of chlorin upon excitation of BODIPY
+at ∼500 nm. Therefore, the eﬀective Stokes shift in such arrays is
+in the range of 140−180 nm. Dyads with BODIPY attached at the 10-
+position of chlorin exhibit a bright ﬂuorescence in a range of solvents
+with diﬀerent polarities (i.e., toluene, MeOH, DMF, and DMSO). In
+contrast to this, some of the arrays in which BODIPY is attached at the 3- or at both 3,13-positons of chlorin exhibit signiﬁcant
+reduction of ﬂuorescence in polar solvents. Overall, dyads where BODIPY is attached at the 10-position of chlorin exhibit ∼5-
+fold brighter ﬂuorescence than corresponding chlorin monomers, upon excitation at 500 nm.
+
+■ INTRODUCTION
+
+Hydroporphyrins (chlorins and bacteriochlorins) are tetrapyrrolic
+macrocycles, which oﬀer unique beneﬁts for in vivo ﬂuorescence
+imaging. They possess multiple absorption bands, e.g., the deep-
+red or near-IR Qy band (650−700 nm for chlorins, 700−800 nm
+for bacteriochlorins), the Qx band, which is located in the green
+range (500−520 nm), and B bands, which are located in the violet
+or UV spectral windows (400−430 nm for chlorins, 360−380 nm
+for bacteriochlorins).1−4 Excitation at each of these absorption
+bands results in an emission in the deep-red (chlorin, 630−700 nm)
+or the near-IR (bacteriochlorin, 720−800 nm) spectral windows.
+Another beneﬁcial feature of hydroporphyrins is their narrow
+(with full-width at half-width-at-half-of-maximum ∼12−20 nm)
+emission bands. Additionally, wavelengths of absorption and
+emission maxima for hydroporphyrins can be precisely tuned
+the macrocycles.2−5
+by substitution on the periphery of
+Both the latter properties should greatly facilitate applications
+of hydroporphyrins as ﬂuorophores for multicolor imaging.
+Recently, our collaborative eﬀorts have demonstrated that
+unique properties of hydroporphyrins are highly beneﬁcial for
+construction of ﬂuorescent probes for anticancer ﬂuorescence-
+guided surgery.6,7 It has been shown that, upon excitation with
+the green light (∼510 nm), a probe containing bacteriochlorin
+as a ﬂuorophore results in near-IR emission (760 nm) with a
+large pseudo-Stokes shift (250 nm) and produces a very sharp
+near-IR image of target tumors located on the tissue surface,
+with a high tumor-to-background ratio.6 This is apparently due
+
+to the large Stokes shift, which enables detection of a near-IR
+emission far from the excitation beam. As a result, both back-
+ground ﬂuorescence and detection of scattered light from the
+excitation source are diminished. Due to very shallow tissue pen-
+etration, green light is unable to excite ﬂuorophores localized deeper
+in the tissue; these can only be detected and visualized upon exci-
+tation with the near-IR wavelengths. However, near-IR excitation,
+due to the small Stokes shift (∼10 nm) and tissue autoﬂuorescence,
+produces blurred images with a tumor-to-background ratio lower
+than that observed for green excitation. Nevertheless, near-IR
+excitation can instead be used for detection of tumors localized
+below the tissue surface (or hidden behind mesentery or intestines),
+while green excitation can be used for precise determination of
+tumor margins. This “double-excitation” approach is not possible
+with ﬂuorophores typically used for near-IR imaging (such as
+cyanines), since the latter do not possess an appreciable absor-
+bance in the green spectral window.6 Typical organic near-IR
+ﬂuorophores usually exhibit a single, relatively narrow absorption
+−S1 absor-
+band in the near-IR spectral window, due to their S0
+−S2 absorption is
+ption, and their band corresponding to S0
+located in the UV spectral window (with λ < 400 nm).8
+
+Subsequently,
+
+it has also been demonstrated that hydro-
+porphyrins can be used for simultaneous visualization of two
+diﬀerent cancer cells in vivo due to their narrow and tunable
+
+Received:
+January 16, 2015
+Published: March 24, 2015
+
+© 2015 American Chemical Society
+
+3858
+
+DOI: 10.1021/acs.joc.5b00119
+J. Org. Chem. 2015, 80, 3858−3869
+
+The Journal of Organic Chemistry
+
+emission bands.7 Chlorins and bacteriochlorins have also been
+utilized by other groups for intracellular and in vivo ﬂuorescence
+or photoaccoustic imaging.9,10
+
+One of the limitations, which potentially might hamper the
+full exploitation of hydroporphyrins’ properties in ﬂuorescence-
+guided surgery, is the relatively low extinction coeﬃcient for the
+Qx band (∼500 nm), which is in the range of ∼8000−13 000 M−1·
+cm−1 for chlorins,11 and 35 000−39 000 M−1·cm−1 for bacterio-
+chlorins.12 These values are substantially lower in comparison
+to typical ﬂuorophores used in ﬂuorescence imaging (>100 000
+M−1·cm−1) and results in substantially lower ﬂuorescence bright-
+ness upon visible excitation (for a compilation of the brightness
+of typical near-IR ﬂuorophores see ref 13).
+We propose to increase the ﬂuorescence brightness of
+hydroporphyrins, upon excitation at ∼500 nm, by utilizing an
+auxiliary chromophore, strongly absorbing in the green region,
+and capable of transferring excitation energy to hydroporphyrins.
+Hydroporphyrins in energy transfer arrays might function as
+both energy donors and acceptors, which was utilized in the
+construction of arrays with potential biomedical or energy-
+related applications.9,14−22 A dyad containing green light-
+absorbing rhodamine as an energy donor and a chlorophyll a
+derivative as an energy acceptor has been reported, and an
+eﬃcient energy transfer from rhodamine to chlorin moiety has
+been determined.9 We anticipated that positively charged
+rhodamine might be an eﬃcient electron acceptor
+for a
+photoexcited chlorin, and thus might signiﬁcantly quench the
+chlorin ﬂuorescence in resulting arrays constructs (as it was
+reported for analogous porphyrin−rhodamine arrays).23,24 There-
+fore, as an auxiliary chromophore, we have chosen a boron
+complex of dipyrrin (often referred to as BODIPY).25−28
+BODIPY is a class of neutral molecules, broadly utilized as
+ﬂuorescent labels and probes, with molar excitation coeﬃcients up
+to 100 000 M−1·cm−1, and usually possessing high ﬂuorescence
+quantum yields. There are numerous examples of energy transfer
+dyads where BODIPY derivatives have been employed as energy
+donor,25,26 including these with red or near-IR emitting
+acceptors,27 and a wide range of BODIPY−porphyrin dyads.28
+To the best of our knowledge, the only examples of BODIPY−
+hydroporphyrin arrays are the aza-BODIPY−chlorin dyads
+reported by Tamiaki, where a chlorophyll-type moiety functions
+as an energy donor, and aza-BODIPY as an energy acceptor.22
+In this paper, we describe the synthesis and evaluation of
+optical properties of BODIPY−chlorin arrays. Our goal was to
+establish a molecular architecture for arrays which assures
+bright emission of the chlorin acceptor upon excitation of the
+BODIPY donor, regardless of polarity of environment. This
+requires eﬃcient energy transfer, and a lack of competitive
+processes, which might quench ﬂuorescence of chlorin. The
+latter processes can be potentially devastating for the emission
+properties of dyads, as signiﬁcant quenching of ﬂuorescence of
+both donor and acceptor has been reported (for example, in
+BODIPY−phthalocyanine dyads29). One such process could be
+photoinduced electron transfer (PET),
+from photoexcited
+chlorin to BODIPY. Chlorins are known as a potent electron
+donor in their excited state,18,30 and quenching of BODIPY
+ﬂuorescence by PET is a well-known phenomenon.31 Indeed,
+signiﬁcant quenching of ﬂuorescence in aza-BODIPY−chlorin
+dyads in polar solvents due to PET has been reported.22
+Additionally, we have been searching for the BODIPY−
+chlorin dyad architecture which would provide versatility in
+tuning the absorption/emission wavelengths of chlorin. The
+wavelength of absorption and emission can be tuned by a
+
+Article
+
+substitution of chlorins at the 3- and 13-positions;3,4 therefore,
+our construct should allow placing diﬀerent substituents at
+these positions.
+
+Toward these goals, we designed two types of arrays (Chart 1).
+In the ﬁrst type [arrays 1-BDP, 2-(BDP)2, and Zn2-(BDP)2], a
+BODIPY unit is attached at the 13- and 3,13-positions, through a
+phenylethynyl linker. In these constructs, the linker functions also
+as an auxochrome which tunes emission properties of chlorin. In
+the second type (dyads 3-BDP, 4-BDP, and Zn4-BDP), a
+BODIPY unit is attached to a phenyl group localized at the
+10-position of chlorin through an amide bond, while
+auxochromes (phenylethynyl groups) are placed independently
+at the 3- and 13-positions. Two corresponding Zn(II) chelates
+of some arrays were prepared [i.e., Zn2-(BDP)2 and Zn4-
+BDP] to evaluate the inﬂuence of metal complexation of
+chlorin on optical properties of resulting arrays. This selection
+of arrays enables us to examine properties of architectures for
+which the chlorin acceptor possesses a broad range of optical
+and redox properties, since both substitution at
+the 3,13-
+positions and zinc metalation markedly alter absorption/
+emission maxima, and redox properties of chlorins.3,4,18 As
+benchmark donors, we investigated corresponding BODIPY
+derivatives, BDP-TMS and BDP-NHBz, and as benchmark
+acceptors, chlorin derivatives, 1−3 and Zn2 (Chart 1).
+■ RESULTS AND DISCUSSION
+<para sub="scope">
+Synthesis. Syntheses of
+
+target BODIPY−chlorin arrays
+required two diﬀerent strategies. The key reaction for the
+synthesis of 1-BDP and 2-(BDP)2 is Sonogashira coupling of
+bromosubstituted chlorins with a BODIPY derivative with a
+4-ethynylphenyl substituent at the meso position (BDP-H). For
+the synthesis of 3-BDP and 4-BDP, we employed amide bond
+formation between chlorin derivatives possessing a carboxylic
+acid function and amine-functionalized BODIPY (BDP-NH2).
+Both strategies utilize similar chlorin building blocks: chlorins
+1-Br, 2-Br2, and 3, each possessing a 4-(methoxycarbonyl)-
+phenyl substituent at the 10-position. The synthesis of 13-
+bromochlorin 1-Br has been previously reported.20 Chlorins
+2-Br2 and 3 were synthesized using reported procedures for
+analogous derivatives (Scheme 1).32,33 Thus, bromination of
+known formyldipyrromethane 520 with 1 or 2 equivs of NBS
+provides 1-bromo-9-formyldipyrromethane 6-Br (94% yield) or
+1,2-dibromo-9-formyldipyrromethane 6-Br2 (67% yield), re-
+spectively. Subsequent condensation of 6-Br with tetrahydro-
+dipyrrin 7, and 6-Br2 with 8-bromotetrahydrodipyrrin 7-Br,
+followed by zinc-mediated oxidative cyclization, and demetala-
+tion provides 3 (25% yield), and 2-Br2 (17% yield).
+</para>
+<para sub="scope">
+The synthesis of requisite BDP-H and BDP-TMS have been
+reported numerous times,34 but here, we prepared it in a
+slightly diﬀerent manner. We synthesized BDP-H following
+the established procedure for meso-substituted BODIPY,
+in one-pot,
+three-step reaction of 2,4-dimethylpyrrole with
+4-[(trimethylsilyl)ethynyl]>benzaldehyde, catalyzed by a trace
+amount of TFA,
+the resulting
+dipyrromethane with DDQ, and complexation of the resulting
+·OEt2 in the presence of Et3N (Scheme 2), to
+dipyrrin by BF3
+aﬀord BDP-TMS in 23% yield. The resulting BDP-TMS with a
+TMS-protected ethynyl functionality was deprotected using a
+previously reported procedure34 (K2CO3 in MeOH/THF), to
+aﬀord a target BDP-H in 60% yield.
+
+followed by oxidation of
+</para>
+<para sub="scope">
+Two diﬀerent sets of copper-free Sonogashira cross-coupling
+conditions, reported previously for hydroporphyrins, were examined
+for reaction of BDP-H with chlorins 1-Br and 2-Br2: Pd2(dba)3 in
+</para>
+3859
+
+DOI: 10.1021/acs.joc.5b00119
+J. Org. Chem. 2015, 80, 3858−3869
+
+The Journal of Organic Chemistry
+Chart 1. Structures of BODIPY−Chlorin Arrays and Benchmark Monomers Discussed in This Paper
+
+Article
+<para sub="scope">
+the presence of (o-tol)3P in toluene/Et3N,33 and (PPh3)2PdCl2
+in DMF/Et3N.35 We found that the latter conditions provided
+desired products with better yields (52% and 47% for 1-BDP
+
+and 2-(BDP)2, respectively, Scheme 3), and the target arrays
+were easier to purify. It is worth noting that reaction of
+analogous BODIPY, without methyl groups at pyrrole units, led
+</para>
+3860
+
+DOI: 10.1021/acs.joc.5b00119
+J. Org. Chem. 2015, 80, 3858−3869
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 1
+
+Scheme 2
+
+Scheme 3
+
+3861
+
+DOI: 10.1021/acs.joc.5b00119
+J. Org. Chem. 2015, 80, 3858−3869
+<para sub="scope">
+to decomposition of starting BODIPY, and no dyad was
+isolated.
+</para>
+<para sub="scope">
+Benchmark monomers 1 and 2 were obtained in analogous
+reactions of 1-Br and 2-Br2 with phenylacetylene in 84% and
+60% yield, respectively (Scheme 4).
+</para>
+<para sub="scope">
+Dyads 3-BDP and 4-BDP were synthesized through the
+EDC-mediated coupling of known, amine-functionalized BDP-
+36 with carboxylic acid functionalized chlorins (Scheme 5).
+NH2
+Ester functions in 2 and 3 were quantitatively hydrolyzed to
+obtain respective chlorins, equipped with a free carboxylic acid
+moiety (2-COOH and 3-COOH, structures not shown). The
+crude chlorin acids were reacted with BDP-NH2 in the pres-
+ence of EDC hydrochloride and DMAP in DMF, to provide
+</para>
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 4
+
+Scheme 5
+<para sub="scope">
+3-BDP and 4-BDP in 53% and 25% yield, respectively. Zn(II)
+chelates (Zn2-(BDP)2, Zn4-BDP, and Zn2) were obtained in
+reaction of corresponding free bases with Zn(OAc)2 in a CHCl3/
+MeOH (5:1) mixture, in 50, 57, and 71% yield, respectively.
+</para>
+<para sub="scope">
+Benchmark monomer BDP-NHBz was obtained by reaction
+of BDP-NH2 with benzoic acid, under analogous conditions as
+for 3-BDP and 4-BDP, to provide the desired product in 80%
+yield (Scheme 6).
+</para>
+<para sub=“props”>
+Characterization. Target arrays were characterized by 1H,
+13C, and 19F NMR, LD-MS, and high-resolution MS. Triad
+2-(BDP)2 shows a low solubility in common organic solvents,
+which prevents recording of a good quality 13C NMR and 19F
+NMR spectra. The NMR spectra for all arrays are consistent
+with expected structures. In particular, 1H NMR spectra for
+dyads 1-BDP, 3-BDP, and 4-BDP show resonances of protons
+from both the chlorin macrocycle and the BODIPY unit, with
+integration indicating a 1-to-1 ratio of chlorin to BODIPY. The
+1H NMR spectrum of 2-(BDP)2 shows resonances from two,
+slightly nonequivalent BODIPY units.
+</para>
+<para sub=“props”>
+Zinc complexation of 2 and 2-(BDP)2 causes an extensive
+the resulting Zn2 and Zn2-(BDP)2, which
+aggregation of
+results in a low solubility of both complexes in common
+solvents and makes the NMR characterization of these chelates
+problematic. We were able to obtain the 1H NMR spectrum
+only for a crude sample of Zn2-(BDP)2. After chromatographic
+puriﬁcation and washing with MeOH and hexanes, the sample
+became insoluble, and no 1H NMR spectra could be recorded.
+Nevertheless, the 1H NMR spectrum of crude Zn2-(BDP)2
+showed a single chlorin, with chlorin and BODIPY resonances
+as expected, and HRMS shows m/z consistent with expected
+structures.
+</para>
+<para sub=“props”>
+Absorption and Emission Properties. Absorption and
+emission properties of BODIPY−chlorin arrays as well as
+benchmark monomers are listed in Table 1, and spectra of
+arrays are presented in Figures 1 and 2 (absorption and emis-
+sion spectra of monomers are presented in Figures S1 and S2,
+Supporting Information). Absorption spectra for chlorin derivatives
+</para>
+Scheme 6
+<para sub=“props”>
+are consistent with these reported in the literature for analogous
+chlorins.4,16 Chlorin monomers 1−3 and Zn2 exhibit strong
+B bands in the range of 403−430 nm, Qx bands in the range of
+499−514 nm, and Qy bands progressively shifted with the number
+of conjugated substituents at 3,13-positions: 636 nm (3), 656 nm
+(1), and 675 nm (2). For Zn2, the absorption maximum of the Qy
+band is shifted hypsochromically by 24 nm, compared to the
+corresponding free base.
+</para>
+3862
+
+DOI: 10.1021/acs.joc.5b00119
+J. Org. Chem. 2015, 80, 3858−3869
+
+The Journal of Organic Chemistry
+Table 1. Absorption and Emission Properties of BODIPY−Chlorin Arrays and Benchmark Monomersa
+
+Article
+
+BODIPY/Qx [nm]
+
+Qy [nm]
+
+λ
+
+em [nm]
+
+Φ
+
+f (toluene)b
+
+ETE (toluene)c
+
+ETE (DMF)c
+
+0.97
+0.96
+0.90
+0.92
+0.88
+0.87
+
+0.96
+0.97
+0.92
+0.88
+c
+
+0.80
+
+Φ
+
+f (DMF)b
+0.25
+0.38
+0.20
+0.36
+0.011
+0.32
+0.34
+0.36
+0.20
+0.38
+
+0.35
+0.41
+0.21
+0.37
+0.37
+0.31
+0.33
+0.37
+0.21
+0.33
+
+B [nm]
+404, 418
+431
+406
+428
+427
+426
+402, 417
+431
+405
+425
+
+compound
+1-BDP
+2-(BDP)2
+3-BDP
+4-BDP
+Zn2-(BDP)2
+Zn4-BDP
+1
+2
+3
+Zn2
+BDP-TMS
+BDP-NHBz
+
+504
+504, 548
+503
+503, 546
+504
+503
+506
+514, 546
+499
+519
+504
+503
+
+657
+678
+636
+675
+658
+651
+656
+675
+636
+651
+
+661
+683
+641
+681
+661
+655
+659
+681
+641
+656
+517
+516
+
+aFluorescence quantum yields of the chlorin component upon excitation at the maximum of the B band. Φ
+f was determined in air-equilibrated
+solvents, using tetraphenylporphyrin (TPP) in nondegassed toluene, as a standard (Φ
+f is ±5%. bEﬃciency of
+energy transfer, deﬁned as a ﬂuorescence quantum yield of the chlorin component upon excitation at the maximum of BODIPY absorbance over
+ﬂuorescence quantum yield of chlorin component upon direct excitation at the maximum of the B band. cETE could not be determined accurately
+due to a low intensity of ﬂuorescence in DMF.
+
+f = 0.070).2 The estimated error in Φ
+
+Figure 1. Absorption spectra of BODIPY−chlorin arrays: 1-BDP (blue), 2-(BDP)2 (red), Zn2-(BDP)2 (red, dashed), 3-BDP (black), 4-BDP
+(green), and Zn4-BDP (green, dashed). All spectra were taken in toluene at room temperature and normalized at the maximum of the B band of chlorin.
+
+Figure 2. Normalized emission spectra of BODIPY−chlorin arrays: 1-BDP (blue), 2-(BDP)2 (red), Zn2-(BDP)2 (red, dashed), 3-BDP (black),
+4-BDP (green), and Zn4-BDP (green, dashed). All spectra were taken in toluene at room temperature, with excitation at 475 nm.
+
+3863
+
+DOI: 10.1021/acs.joc.5b00119
+J. Org. Chem. 2015, 80, 3858−3869
+
+The Journal of Organic Chemistry
+<para sub=“props”>
+Absorption spectra for arrays are essentially the sum of
+absorption spectra of their components (Figure 1, Table 1). For
+dyads 3-BDP, 4-BDP, and Zn4-BDP, the absorption maxima
+are identical to those for corresponding benchmark monomers
+3, 2, and Zn2, respectively, while, for 1-BDP, 2-(BDP)2, and
+Zn2-(BDP)2, absorption bands for chlorin components are
+slightly shifted bathochromically by 1−7 nm compared to those
+for monomers 1, 2, and Zn2, respectively.
+</para>
+<para sub=“props”>
+Emission spectra of chlorin benchmarks contain a narrow
+band, with relatively small Stokes shifts (1−6 nm). BDP-TMS
+and BDP-NHBz show a strong emission band at 517 and
+516 nm, respectively. Emission spectra of all BODIPY−chlorin
+arrays are dominated by emission of the chlorin component.
+The maxima of chlorin emission in dyads 1-BDP, 2-(BDP)2,
+and Zn2-(BDP)2 are shifted bathochromically by 2−5 nm,
+compared to those for benchmark monomers, while emission
+maxima for 3-BDP, 4-BDP, and Zn4-BDP appear exactly at the
+same wavelengths as for corresponding monomers. For each
+array, signiﬁcant quenching of BODIPY ﬂuorescence and almost
+exclusive emission from chlorin components are observed, even
+when BODIPY is directly excited at the wavelength where
+chlorins show a negligible absorbance (Figure 2). Excitation
+spectra, monitored at the wavelengths where chlorin com-
+ponents emit exclusively (not shown) closely resemble the
+corresponding absorption spectra. These indicate an eﬃcient
+excitation energy transfer
+from BODIPY to the chlorin
+chromophore.
+</para>
+
+In order to quantitatively assess the energy transfer eﬃciency
+and presence of putative quenching processes in dyads, we
+determined the quantum yields of ﬂuorescence of chlorin
+components for dyads and benchmark monomers in toluene
+and DMF (Table 1). We determined the relevant quantum
+yields in polar solvent to evaluate the possible quenching of
+chlorin ﬂuorescence via PET, which is facilitated in polar solvents.
+<para sub=“props”>
+The ﬂuorescence quantum yields in toluene for chlorin
+monomers increases with the number of conjugated sub-
+stituents at the 3,13-positions: 0.21 for 3 (no substituents),
+0.33 for 1 (one substituent), and 0.37 for 2 (two substituents).
+Quantum yield of emission for Zn2 in toluene is 0.33. These
+data are consistent with those reported for analogous chlorin
+derivatives.3,16 Quantum yields of ﬂuorescence for monomers
+only slightly depend on solvent polarity, and values are nearly
+identical in DMF as in toluene (Table 1). Only for Zn2, we
+observed an increase in DMF (1.12-fold vs toluene). This
+increase we attributed to coordination of DMF to zinc, since
+such coordination has been reported to increase the ﬂuo-
+rescence quantum yields for porphyrins.37
+</para>
+<para sub=“props”>
+Quantum yields of ﬂuorescence of chlorin components in
+dyads were determined by direct excitation of a given chlorin at
+the maxima of the B bands (410−430 nm), where the BODIPY
+component has a negligible absorbance. In nonpolar solvent
+(toluene), quantum yields for dyads are comparable (3-BDP
+and 4-BDP), or even slightly higher (1-BDP and 2-BDP) than
+those for the corresponding benchmark monomers (Table 1).
+This indicates that,
+in nonpolar solvents, the presence of a
+BODIPY unit does not quench the emission from chlorin.
+</para>
+<para sub=“props”>
+In highly polar DMF, ﬂuorescence of 1-BDP is 0.71-fold of
+that in toluene, while, for 2-BDP, it is 0.93-fold. Fluorescence
+quantum yields for 3-BDP and 4-BDP in DMF are nearly the
+same as those in toluene.
+in toluene (Φ
+corresponding chlorin benchmark Zn2 (Φ
+</para>
+<para sub=“props”>
+Fluorescence quantum yield for zinc complex Zn2-(BDP)2
+f = 0.37) is markedly higher than that for the
+f = 0.33). However,
+</para>
+Article
+<para sub=“props”>
+ﬂuorescence is reduced ∼30 times (Φ
+f = 0.011) in DMF. On
+the contrary, ﬂuorescence quantum yields for Zn4-BDP in both
+toluene and DMF are nearly identical.
+</para>
+<para sub=“props”>
+The eﬃciency of energy transfer (ETE)38 for BODIPY−
+chlorin arrays has been determined by comparison of ﬂuo-
+rescence quantum yields of the chlorin acceptor upon excitation
+at
+the donor absorption maxima (504 nm, where chlorin
+absorbs much less than BODIPY), with ﬂuorescence quantum
+yield obtained upon direct chlorin excitation at the maximum of
+the B band (Table 1). The ETE is relatively high (>0.90) in
+toluene and is rather independent of solvent polarity for 1-BDP
+and 2-(BDP)2. For amide-linked 3-BDP and 4-BDP, ETE in
+DMF is slightly lower than that in toluene; however, it still
+exceeds 0.85. ETE for Zn4-BDP (0.87 and 0.80 in toluene and
+DMF, respectively) is noticeably lower than that
+for the
+corresponding free base;
+this also appears to be true for
+Zn2-(BDP)2 (0.87 in toluene; ETE for Zn2-BDP in DMF
+cannot be determined accurately, due to the low ﬂuorescence
+intensity for excitations at both BODIPY and B bands maxima).
+</para>
+<para sub=“props”>
+The eﬃcient energy transfer between BODIPY and chlorin is
+likely driven by the overlap of the BODIPY emission band with
+the Qx band of chlorin. The lower ETE for dyads containing
+chlorin zinc complexes can be explained by the lower oscillator
+strength of the Qx band for zinc chlorin complexes, compared
+with free bases,4,11 which results in lower spectral overlap.
+Despite the high and comparable ETE, both classes of arrays
+reported here exhibit a diﬀerent behavior in polar solvent. The
+ﬂuorescence quantum yields for amide-linked dyads are nearly
+the same in toluene and DMF. However, for arrays where
+BODIPY is attached through a phenylacetylene linker at the
+3- and 3,13-positions, quantum yields depend on the solvent,
+and ﬂuorescence is diminished in DMF, compared to toluene.
+While reduction of ﬂuorescence in the case of 2-(BDP)2
+(0.93-fold in DMF, compared to toluene) is comparable with
+these observed for amide-linker dyads, a more pronounced
+reduction in intensity is observed for 1-BDP, (0.71-fold
+intensity in DMF of that in toluene), and almost complete
+quenching (∼30 times) for Zn2-(BDP)2. The observed
+reduction of ﬂuorescence in polar DMF is most likely due to
+photoinduced electron transfer (PET) from excited chlorin to
+BODIPY. Such PET would be more favorable in polar solvents,
+due to the stabilization of the resulting ion-radical pair. The
+much more extensive quenching of ﬂuorescence observed for
+Zn2-(BDP)2 can be explained by the lower oxidation potential
+for zinc complexes of chlorins, compared to the corresponding
+free bases;18 hence, the chlorin moiety in Zn2-(BDP)2 is likely
+more prone to oxidation than in 2-(BDP)2. Similarly, it has
+been reported that installation of (phenyl)ethynyl substituents
+at the 3,13-positions of chlorin leads to the increase of the
+oxidation potential of chlorin;4,18 thus, this explains the lower
+ﬂuorescence for 1-BDP vs 2-(BDP)2 in DMF.
+</para>
+<para sub=“props”>
+The important observation is that ﬂuorescence quantum
+yields for amide-linked dyads are nearly identical in DMF and
+toluene. Particularly striking is the diﬀerence between Zn2-
+(BDP)2 and Zn4-BDP, where chlorin macrocycles should
+possess comparable redox properties. The nearly complete
+quenching of ﬂuorescence for Zn2-(BDP)2 in DMF and no
+quenching for Zn4-BDP indicate that
+linker
+connecting the chlorin and BODIPY and perhaps the position
+of BODIPY attachment play a critical role in photochemical
+properties of resulting arrays. A possible reason for the ob-
+served diﬀerences might be the stronger electronic coupling
+between chlorin and BODIPY in phenylethynyl-linked dyads
+
+the type of
+</para>
+3864
+
+DOI: 10.1021/acs.joc.5b00119
+J. Org. Chem. 2015, 80, 3858−3869
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“props”>
+It
+
+1-BDP and (Zn)2-(BDP)2, which facilitates electron transfer
+from photoexcited chlorin to BODIPY.
+is known that
+phenylethynyl-type linkers provide strong electronic coupling
+between dyads’ components and promote ultrafast PET.39
+Electronic communication between BODIPY and chlorin can
+be inferred from absorption and emission spectra of 1-BDP and
+(Zn)2-(BDP)2, which show slight bathochromic shift of both
+Qy absorption and emission bands, and increased ﬂuorescence
+quantum yields (in toluene) of chlorin components, compared
+to the benchmark monomers (see Table 1). For 3-BDP and
+4-BDP, both absorption and emission maxima and ﬂuorescence
+quantum yields are identical to those for the corresponding
+benchmark monomers, which suggests that there is a negligible
+conjugation between chlorin and BODIPY, which, in turn, may
+lead to an attenuation of photoinduced electron transfer.
+However, further systematic time-resolved spectroscopic and
+electrochemical measurements are necessary to elucidate the
+exact mechanism of quenching of ﬂuorescence for chlorin
+components in arrays.
+</para>
+<para sub=“props”>
+In order to further evaluate the applicability of amide-linked
+BODIPY−chlorin dyads for bioimaging, we compared the
+quantum yields of ﬂuorescence for the chlorin component in
+arrays upon excitation at
+the BODIPY
+absorption, in various solvents (toluene, MeOH, DMSO, DMF;
+Table S1, Supporting Information). The data show that the
+dyads 3-BDP, 4-BDP, and Zn4-BDP retain relatively high
+ﬂuorescence quantum yields in solvents of diﬀerent polarities.
+Fluorescence for these arrays is comparable in toluene, DMF, and
+DMSO, and modestly reduced in MeOH (on average ﬂuorescence
+quantum yields in MeOH are 0.71-fold of that in toluene). Finally,
+we compared the ﬂuorescence intensity for dyads vs monomers
+upon excitation at ∼500 nm, at the same concentration. We ob-
+served 5.2-fold and 4.7-fold increases for 3-BDP and 5.5-fold and
+5.2-fold for 4-BDP in toluene and DMF, respectively.
+
+the maximum of
+</para>
+■ CONCLUSION AND OUTLOOK
+We identiﬁed the molecular architecture for BODIPY−chlorin
+arrays with bright ﬂuorescence of chlorin upon excitation
+at ∼500 nm in various solvents of diﬀerent polarities. While all
+examined arrays exhibit an eﬃcient energy transfer
+from
+BODIPY to the chlorin moiety, the dyads where BODIPY is
+attached at 13- or 3,13-positions of chlorin exhibit diminished
+ﬂuorescence in polar solvent, compared to that observed in
+toluene. The reduction of ﬂuorescence is the most pronounced
+in the case of the array comprising a Zn(II) complex of chlorin.
+On the contrary, dyads where BODIPY is attached through an
+amide bond at the 10-position of chlorin exhibit a relatively
+high ﬂuorescence quantum yield in various solvents of diﬀerent
+polarities, for all three dyads examined. Therefore, the con-
+struct, represented by dyads 3-BDP and (Zn)4-BDP, constitutes
+an attractive platform for development of deep-red or near-IR
+ﬂuorophores excitable with green (and near-IR) light. In that
+architecture, the wavelength of chlorin emission can be tuned by
+placing diﬀerent substituents at 3,13-positions of chlorin, or by
+insertion of Zn(II) into the chlorin macrocycle. Obviously,
+application of reported dyads in ﬂuorescence imaging requires
+modiﬁcation of
+their structure to provide water solubility,
+installation of bioconjugatable groups, etc. These are the subjects
+of ongoing research in our laboratory.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Experimental Section. 1H NMR (400 MHz), 13C NMR
+(100 MHz), and 19F NMR (376 MHz) spectra were collected at room
+
+temperature in CDCl3, unless noted otherwise. Chemical shifts (δ)
+were callibrated using solvent peaks (1H signals: residual proton
+signals: 7.26 ppm for chloroform, 2.50 ppm for DMSO; 13C signals:
+77.0 ppm for CDCl3, 39.5 ppm for DMSO-d6). All solvents and com-
+mercially available reagents were used as received. Palladium coupling
+reactions was performed using commercially available anhydrous
+solvents (toluene and DMF). Low-resolution LD-MS analyses were
+performed without matrix. The FT-ICR analyzer was used for ESI and
+MALDI HRMS.
+
+Known compounds 1-Br,20 5,20 7,40 BDP-NH2,36 and 7-Br41 were
+prepared following reported procedures. Known compound 6-Br2,20
+BDP-TMS,34 and BDP-H,34 were prepared by modiﬁed procedure.
+
+3,13-Dibromo-18,18-dimethyl-10-(4-methoxycarbonylphenyl)-
+chlorin (2-Br2). Following a reported precedure,32,33 a solution of
+5 (610 mg, 2.00 mmol) in THF (20 mL) and treated with NBS
+(696 mg, 4.00 mmol) under nitrogen at −78 °C. The resulting
+reaction mixture was stirred for 1 h at −78 °C. The cooling bath was
+removed, the reaction mixture was warmed up to −20 °C, and a
+hexanes/water mixture (∼10 mL, 1:1) was added. The organic layer
+was separated, dried (Na2SO4), and concentrated. Column chroma-
+tography (silica [hexanes/dichloromethane/ethyl acetate, 7:3:2])
+provided a white/pale yellow solid (0.62 g, 67%). The resulting
+6-Br2 was immediately used in the next step without
+further
+characterization.
+
+Following a reported precedure,32,33 a mixture of 6-Br2 (0.516 g,
+1.14 mmol) and 7-Br40 (0.315 g, 1.14 mmol) in CH2Cl2 (30 mL) was
+treated with a solution of p-toluenesulfonic acid (1.26 g, 6.65 mmol) in
+MeOH (10 mL). The resulting mixture was stirred at room tempera-
+ture for 30 min. A sample of 2,2,6,6-tetramethylpiperidine (6.65 mL,
+38.6 mmol) was added to the reaction ﬂask, and the resulting mixture
+was concentrated. The resulting orange-red solid was suspended in
+acetonitrile (100 mL) and treated with Zn(AOc)2 (3.66 g, 20.0 mmol),
+AgOTf (1.0 g, 4.0 mmol), and (TMP (6.78 mL, 39.9 mmol). The
+resulting mixture was reﬂuxed overnight and then concentrated. The
+crude zinc complex of chlorin was ﬁltered through silica (CH2Cl2), and
+all green fractions containing chlorin were collected and concentrated.
+The resulting solid was dissolved in dichloromethane (10 mL), treated
+with TFA (1.00 mL), and stirred for 4 h. Saturated aqueous NaHCO3
+was added and stirred for 5 min. The organic layer was separated,
+washed (water and brine), dried (Na2SO4), and concentrated, to give a
+red-brown solid. Column chromatography [silica, hexane/CH2Cl2
+(1:1)] provided a dark-green solid (125 mg, 17%). 1H NMR δ −2.17
+(s, 1H), −1.78 (s, 1H), 2.04 (s, 6H), 4.13 (s, 3H), 4.63 (s, 2H), 8.18 (d,
+J = 8.0 Hz, 2H), 8.43 (d, J = 8.0 Hz, 2H), 8.50 (d, J = 4.0 Hz, 1H), 8.76
+(s, 1H), 8.78 (s, 1H), 8.94 (d, J = 4.0 Hz, 1H), 8.96 (s, 1H), 9.15(s,
+1H), 9.85 (s, 1H); 13C NMR δ 31.2, 46.5, 52.1, 52.6, 94.8, 95.7, 105.9,
+113.8, 118.8, 120.2, 124.7, 128.3, 128.7, 129.9, 132.2, 132.4, 133.3, 134.0,
+134.1, 137.2, 140.2, 145.9, 151.2, 152.4, 163.7, 167.4, 176.0; MS m/z
+[M + H]+ Calcd for C30H25N4O2Br2 631.0339; Found (HRMS-ESI)
+631.03117.
+
+9-Bromo-1-formyl-5-(4-methoxycarbonylphenyl)dipyrro-
+methane (6-Br). Following a reported procedure,32 a solution of
+520 (1.08 g, 3.51 mmol) in THF (60 mL) was treated with NBS
+(0.640 g, 3.60 mmol) at −78 °C. After 40 min, the cooling bath was
+removed, and a mixture of hexane and water (1:1, 10 mL) was added.
+The resulting mixture was diluted with ethyl acetate, washed with
+brine, and dried (Na2SO4) and concentrated. Column chromatog-
+raphy [silica, hexane/ethyl acetate (2:1)] provided the desired pro-
+duct as a white powder (1.27 g, 94%): 1H NMR (DMSO-d6,) δ 3.83
+(s, 3 H), 5.54 (s, 1H), 5.67 (app t, J = 3.0 Hz, 1H), 6.01−5.93
+(m, 2H), 6.91 (app t, J = 3.0 Hz, 1H), 7.28 (d, J = 8.2 Hz, 2H), 7.90
+(d, J = 8.2 Hz, 2H), 9.39 (s, 1H), 11.46 (br, 1H), 12.09 (br, 1H). The
+product was used immediately in the next step without
+further
+characterization.
+
+10-(4-Methoxycarbonylphenyl)-18,18-dimethylchlorin (3).
+Following a reported procedure,32 a suspension of 740 (0.620 g, 3.26
+mmol) and 6-Br (1.27 g, 3.28 mmol) in dichloromethane (80 mL) was
+treated with a solution of p-toluenesulfonic acid (3.04 g, 16.0 mmol)
+in methanol (20 mL) and stirred at room temperature for 40 min.
+The resulting mixture was treated with 2,2,6,6-tetramethylpiperidine
+</para>
+3865
+
+DOI: 10.1021/acs.joc.5b00119
+J. Org. Chem. 2015, 80, 3858−3869
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+(6.60 mL, 38.9 mmol). The reaction mixture was concentrated, and the
+resulting brown solid was suspended in acetonitrile (300 mL) and
+treated with zinc acetate (8.78 g, 48.0 mmol), 2,2,6,6-tetramethylpiper-
+idine (13.5 mL, 79.5 mmol), and AgOTf (2.50 g, 9.73 mmol). The
+resulting suspension was reﬂuxed for 17 h. The reaction mixture was
+cooled down and concentrated, and the residue was puriﬁed by column
+chromatography [silica, hexanes/dichloromethane (1:2)]. The resulting
+green solid (crude zinc chlorin) was treated with a solution of TFA
+(5.80 mL, 75.3 mmol) in CH2Cl2 (70 mL). The resulting mixture was
+stirred for 3 h, then washed (saturated aqueous NaHCO3 and brine),
+dried (Na2SO4), and concentrated. Column chromatography [silica,
+hexanes/CH2Cl2 (1:2)] provided a green solid (0.422 g, 25%): 1H
+NMR δ −2.34 (s, 1H), −1.96 (s, 1H), 2.07 (s, 6H), 4.13 (s, 3H), 4.64
+(s, 2H), 8.27 (d, J = 8.3 Hz, 2H), 8.45 (d, J = 8.3 Hz, 2H), 8.62 (d, J =
+4.3 Hz, 1H), 8.78 (d, J = 4.9 Hz, 1H), 8.85 (d, J = 4.3 Hz, 1H), 8.96 (s,
+1H), 8.98 (d, J = 4.9 Hz, 1H), 9.01 (d, J = 4.3 Hz, 1H), 9.05 (s, 1H),
+9.26 (d, J = 4.9 Hz, 1H), 9.89 (s, 1H); 13C NMR δ 31.2, 46.4, 52.0, 52.4,
+94.5, 97.1, 107.3, 119.9, 123.4, 123.8, 127.8, 128.0, 128.4, 129.4, 131.6,
+132.6, 134.1, 134.3, 134.7, 139.4, 140.9, 146.6, 150.9, 151.8, 163.0, 167.4,
+175.4; HRMS (ESI) m/z [M + H]+ Calcd for C30H26N4O2 475.2129;
+Found 475.2118.
+
+8-[4-(Trimethylsilyl)ethynylphenyl)]-4,4-diﬂuoro-1,3,5,7-tetra-
+methyl-4-bora-3a,4a-diaza-s-indacene (BDP-TMS).34 A mixture of
+4-[(trimethylsilyl)ethynyl]benzaldehyde (0.404 g, 2.00 mmol) and 2,4-
+dimethylpyrrole (0.440 g, 4.00 mmol) in anhydrous dichloromethane
+(100 mL) was treated with triﬂuoroacetic acid (15 μL, 0.2 mmol), and
+the reaction mixture was stirred at room temperature for 6 h, under N2
+to obtain a deep-red mixture. A sample of DDQ (0.454 g, 2.00 mmol)
+was added, and the resulting mixture was stirred for 1 h. Samples of
+·OEt2 (5.20 g, 36.6 mmol) were
+NEt3 (3.40 g, 33.6 mmol) and BF3
+then added, and the resulting mixture was stirred overnight. The mix-
+ture was washed with saturated aqueous NaHCO3, dried (Na2SO4),
+and concentrated. A viscous oily liquid was obtained. Column chro-
+matography [silica, hexane/ethyl acetate (20:1)] provided a solid,
+which was washed with hexanes, and dried under vacuum to obtain an
+orange solid, (196 mg, 23%). 1H NMR δ 0.28 (s, 9H), 1.40 (s, 6H),
+2.56 (6H), 5.98 (s, 2H), 7.25 (d, J = 8.2 Hz, 2H, overlap with CHCl3
+peak), 7.61 (d, J = 8.2 Hz, 2H); 13C NMR δ (100 MHz): 0.01, 14.7,
+95.9, 100.0, 104.3, 121.5, 124.0, 128.2, 131.3, 132.8, 135.3, 140.9,
+143.1, 155.9; 19F NMR δ −146.1 (q, J = 34.0 Hz); MS m/z [M + H]+
+Calcd for C24H27BF2N2Si 421.2082; Found (LD-MS) 421.6, (HRMS-
+ESI) 421.2094.
+
+8-(4-Ethynylphenyl)-4,4-diﬂuoro-1,3,5,7-tetramethyl-4-bora-
+3a,4a-diaza-s-indacene BDP-H.34 A mixture of BDP-TMS (0.558 g,
+1.33 mmol) and potassium carbonate (0.201 g, 1.459 mmol) in
+methanol/THF (1:1, 66 mL) was stirred for 1 h, after which water was
+added to the mixture. The mixture was extracted thrice with
+dichloromethane. The organic extracts were concentrated, and the
+remaining solid was dried under high vacuum. The dried compound
+was chromatographed [silica, hexane/ethyl acetate (15:1)] to obtain
+an orange solid (0.278 g, 60%). 1H NMR δ 1.39 (s, 6H), 3.17 (s, 1H),
+5.98 (s, 2H), 7.26 (d, J = 8.3 Hz, 2H, overlaps with CHCl3 peak), 7.62
+(d, J = 8.2 Hz, 2H); 13C NMR δ 14.65, 14.69, 78.7, 83.0, 121.5, 123.1,
+128.3, 131.2, 133.0, 135.7, 140.7, 143.1, 155.9; MS m/z [M + H]+
+Calcd for C21H19BF2N2 349.1682; Found: (LD-MS) 349.2, (HRMS-
+ESI) 349.1683.
+
+1-BDP. Following a reported procedure,35 a mixture of 1-Br (20 mg,
+0.036 mmol) and BDP-H (15 mg, 0.043 mmol) in DMF/triethylamine
+(2:1, 6 mL) was degassed by freeze−thaw cycles (two times). A sample
+of (PPh3)2PdCl2 (3.8 mg, 0.0054 mmol) was added under nitrogen.
+The resulting mixture was degassed using a freeze−thaw cycle under
+nitrogen. The reaction ﬂask was placed in an oil bath preheated to
+80 °C. After 2 h, TLC [silica, hexanes/CH2Cl2 (1:1)] showed a
+complete consumption of the starting chlorin. The reaction mixture
+was diluted with ethyl acetate, washed (water and brine), dried
+(Na2CO3), and concentrated. Column chromatography [silica,
+hexane/CH2Cl2 (1:2)] provides a brown solid (which appears green
+in solution and on the chromatography column). Yield: 15 mg, 52%.
+1H NMR δ −2.07 (br, 1H), −1.64 (br, 1H), 1.55 (s, 6H), 2.08 (s, 6H),
+2.60 (s, 6H), 4.11 (s, 3H), 4.71 (s, 2H), 6.04 (s, 2H), 7.44 (d, J = 8.3 Hz,
+
+2H), 8.00 (d, J = 8.2 Hz, 2H), 8.24 (d, J = 8.7 Hz, 2H), 8.43 (d, J = 8.2
+Hz, 2H), 8.58 (d, J = 4.1 Hz, 1H), 8.91−8.97 (m, 4H), 9.23 (d, J = 4.6
+Hz, 1H), 9.37 (s, 1H), 9.80 (s, 1H); 13C NMR δ 14.3, 14.9, 31.2, 46.8,
+52.1, 52.6, 86.0, 95.0, 95.5, 96.0, 107.3, 116.7, 124.4, 124.5, 128.3,
+128.6, 129.2, 129.5, 129.8, 131.4, 132.5, 132.6, 133.0, 133.2, 134.2,
+135.42, 135.44, 139.6, 141.9, 143.2, 146.3, 152.1, 152.2, 156.0, 163.6,
+167.4, 176.7; 19F NMR δ −146.1 (q, J = 30.9 Hz); MS m/z [M + H]+
+Calcd for C51H43BF2N6O2 821.3589; Found (LD-MS) 821.8, (HRMS-ESI)
+821.3597.
+
+2-BDP. Following a reported precedure,35 a mixture of 2-Br2
+(10 mg, 0.016 mmol) and BDP-H (14 mg, 0.040 mmol) in DMF/
+Et3N (6 mL, 2:1) was degassed by freeze/thaw (2 cycles). Then, a
+sample of (PPh3)2PdCl2 (1.5 mg, 0.0021 mmol) was added, and the
+mixture was degassed by one more freeze/thaw cycle. The reaction
+mixture was placed in a preheated oil bath, and stirred at 80 °C for 3 h.
+The resulting mixture was diluted with water and extracted with ethyl
+acetate, and the organic phase was washed (water, brine), dried
+(Na2SO4), and concentrated. Column chromatography (silica, hexanes/
+dichloromethane 1:1 → 1:10) provided a brown solid, which was
+washed with methanol and hexanes (9.1 mg, 47%). 1H NMR δ −1.88
+(br, 1H), −1.45 (br, 1H), 1.55, 1.58 (two singlets overlapped with water
+signal), 2.09 (s, 6H), 2.60−2.61 (broad, two overlapped singlets, 12H),
+4.12 (s, 3H), 4.71 (s, 2H), 6.05, 6.06 (two overlapped singlets, 4H), 7.46
+(d, J = 7.3 Hz, 2H), 7.51 (d, J = 7.3 Hz, 2H), 8.00 (d, J = 7.3 Hz, 2H),
+8.12 (d, J = 7.3 Hz, 2H), 8.24 (d, J = 8.2 Hz, 2H), 8.44 (d, J = 8.2 Hz),
+8.58 (d, J = 4.1 Hz, 1H), 8.87 (s, 1H), 8.89 (s, 1H), 9.02 (d, J = 4.1 Hz,
+1H), 9.35 (s, 1H), 10.07 (s, 1H); MS m/z [M]+ Calcd for
+C72H60B2F4N8O2 1167.49995; Found (HRMS-MALDI) 1167.5024.
+
+Zn2-(BDP)2. A mixture of 2-(BDP)2 (3.5 mg, 0.0036 mmol) in
+CHCl3/MeOH (1 mL, 5:1) was treated with Zn(OAc)2 (10 mg,
+0.055 mmol) and stirred at 50 °C for 1 h. The reaction mixture was
+concentrated (1H NMR was recorded at this point). The sample was
+then dissolved in CH2Cl2, washed (water and brine), dried (Na2SO4),
+and concentrated. The resulting solid was washed with MeOH and
+hexanes (with sonication), to provide a green solid (3.6 mg, 97%). The
+product, after washing with water, MeOH, and hexanes, showed
+extremely low solubility in common organic solvents (CHCl3, CH2Cl2,
+THF, DMSO), which prevents recording a 1H NMR spectrum of the
+pure sample. The 1H NMR data reported here were taken on the
+semipure sample, before washing with water, MeOH, and hexanes. 1H
+NMR δ 1.54 (s, 6H), 1.58 (s, 6H), 2.07 (s, 6H), 2.59 (broad, two
+overlapped singlets, 12H), 4.10 (s, 3H), 4.62 (s, 2H), 6.04 and 6.05
+(two overlapped singlets, 4H), 7.43 (d, J = 8.1 Hz, 2H), 7.49 (d, J =
+8.1 Hz, 2H), 7.96 (d, J = 8.1 Hz, 2H), 8.09 (d, J = 8.1 Hz, 2H), 8.18
+(d, J = 8.1 Hz, 2H), 8.40 (d, J = 8.1 Hz, 2H), 8.50 (d, J = 4.2 Hz, 1H),
+8.63 (s, 1H), 8.80 (s, 1H), 8.96 (s, 1H), 8.96 (d, J = 4.2 Hz, 1H), 9.10
+(s, 1H), 9.93 (s, 1H); MS m/z [M]+ Calcd for C72H58B2F4N8O2Zn
+1228.4113; Found (LD-MS) 1228.3 (HRMS MALDI) 1228.4092.
+
+3-BDP. Following a reported precedure,20 a solution of 3 (118 mg,
+0.249 mmol) in THF (4 mL) and methanol (2 mL) was treated with
+NaOH (1 M aqueous solution, 2 mL) and stirred under nitrogen for
+14 h. The reaction mixture was treated with aqueous HCl solution
+(1M, 10 mL) and extracted with CH2Cl2. Combined organic layers
+were dried over anhydrous Na2SO4 and concentrated to aﬀord an
+intermediate acid 3-COOH as a green powder (112 mg, 98%),
+which was used in the next step without further puriﬁcation: 1H NMR
+(DMSO-d6) δ −2.56 (s, 1H), −2.12 (s, 1H), 2.02 (s, 6H), 4.63
+(s, 2H), 8.24 (d, J = 8.3 Hz, 2H), 8.37 (d, J = 8.3 Hz, 2H), 8.49 (d,
+J = 4.3 Hz, 1H), 8.78 (d, J = 4.9 Hz, 1H), 9.13−9.06 (m, 2H), 9.28−
+9.20 (m, 3H), 9.50 (d, J = 4.2 Hz, 1H), 10.08 (s, 1H), 13.27 (br, 1H);
+13C NMR (DMSO-d6) δ 30.8, 46.2, 51.3, 94.8, 97.3, 107.4, 119.4,
+124.1, 124.7, 127.7, 128.9, 129.1, 130.2, 131.2, 133.1, 133.8, 134.0,
+134.1, 138.9, 140.7, 145.4, 150.3, 151.0, 163.6, 167.6, 175.7; HRMS
+(ESI) m/z [M + H]+ Calcd for C29H24N4O2 461.1972; Found
+461.1972.
+
+A solution of BDP-NH2
+
+36 (14.7 mg, 0.0434 mmol) in DMF (5 mL)
+was treated with crude 3-COOH (20.0 mg, 0.0434 mmol), EDC
+hydrochloride (83.0 mg 0.434 mmol), and DMAP (5.3 mg, 0.043
+mmol) and was stirred at room temperature overnight. The resulting
+mixture was diluted with ethyl acetate (20 mL), and the organic layer
+</para>
+3866
+
+DOI: 10.1021/acs.joc.5b00119
+J. Org. Chem. 2015, 80, 3858−3869
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+was then washed with water and brine, dried (Na2SO4), and
+concentrated. Column chromatography [silica, hexane/CH2Cl2
+(1:2)] provided a brown-green solid; 18.0 mg, 53%. 1H NMR δ
+−2.37 (bs, 1H), −1.98 (bs, 1 H), 1.54 (s, 6H), 2.09 (s, 6H), 2.59 (s,
+6H), 4.68 (s, 2H), 6.03 (s, 2H), 7.39 (d, J = 8.4 Hz, 2H), 7.99 (d, J =
+8.4, 2H), 8.25 (s, 1H), 8.28 (d, J = 8.2 Hz, 2H), 8.33 (d, J = 8.2 Hz,
+2H), 8.61 (d, J = 4.3 Hz, 1H), 8.79 (d, J = 4.7 Hz, 1H), 8.89 (d, J = 4.7
+Hz, 1H), 9.00 (d, J = 4.3 Hz, 1H), 8.97 (s, 1H), 9.02 (d, J = 4.4 Hz,
+1H), 9.10 (s, 1H), 9.29 (d, J = 4.3, 1H), 9.91 (s, 1H); 13C NMR δ
+14.6, 14.8, 31.2, 46.5, 52.0, 94.6, 97.2, 107.4, 119.5, 120.4, 121.3, 123.5,
+123.9, 125.5, 127.7, 128.5, 129.0, 131.0, 131.5, 131.6, 132.7, 133.8,
+134.3, 134.5, 134.7, 138.9, 139.4, 141.0, 141.2, 143.1, 146.0, 150.9,
+151.8, 155.6, 163.2, 165.9, 175.5; 19F NMR δ −146.1 (q, J = 33.4 Hz);
+HRMS (ESI) m/z [M + H]+ Calcd for C48H42BF2N7O 782.359;
+Found 782.3574.
+
+4-BDP. Following a reported precedure,20 a sample of 2 (41.7 mg,
+0.0617 mmol) was dissolved in THF (4 mL) and methanol (3 mL)
+and treated with aqueous NaOH (3 mL, 1.0 M). After 20 h ,TLC
+(dichloromethane) showed consumption of all starting material and a
+single, more polar, red ﬂuorescent spot. The reaction mixture was
+diluted with dichloromethane (15 mL), quenched with HCl (∼3 mL,
+1M), washed with water and brine, dried (Na2SO4), and concentrated.
+1H NMR clearly indicated the loss of the methoxy group. The yield of
+hydrolysis was assumed to be quantitative, and the resulting acid
+2-COOH was used in the next step without further puriﬁcation. 1H
+NMR δ 2.08 (s, 3H), 4.69 (s, 2H), 7.49−7.59 (m, 8H), 7.88−7.90 (m,
+2H), 7.98−8.00 (m, 2H), 8.29 (d, J = 8.2 Hz, 2H), 8.53 (d, J = 8.2 Hz,
+2H), 8.58 (d, J = 4.4 Hz, 1H), 8.86 (s, 1H), 8.88 (s, 1H), 9.02 (d, J =
+4.4 Hz, 1H), 9.05 (s, 1H), 9.35 (s, 1H), 10.07 (s, 1H).
+
+the green-ﬂuorescent
+
+Following a reported precedure,20 a solution of BDP-NH2
+
+36
+(18.0 mg, 0.0530 mmol) in DMF (7 mL) was treated with
+2-COOH (35.0 mg, 0.0530 mmol), EDC hydrochloride (101 mg,
+0.530 mmol), and DMAP (6.5 mg, 0.053 mmol) and was stirred at
+room temperature overnight. The resulting mixture was diluted with
+ethyl acetate (20 mL), and the organic layer was then washed with
+water and brine, dried (Na2SO4), and concentrated. Column
+chromatography [silica, hexane/CH2Cl2 (1:2)] yielded a mixture of
+product and a green-ﬂuorescent impurity. The resulting sample was
+dissolved in CH2Cl2, mixed with silica (∼2g), and concentrated. The
+resulting powder was loaded on the top of a silica column and eluted
+with MeOH (the green-ﬂuorescent impurity was eluted, whereas
+insoluble 4-BDP stayed on the top of the column). Elution with
+MeOH was continued until
+impurity was
+completely eluted. The 4-BDP was then eluted with CH2Cl2. The
+resulting sample was washed with MeOH and hexanes to aﬀord a
+brown solid. 13.1 mg, 25%. 1H NMR δ −1.92 (bs 1H) −1.50 (bs, 1H),
+1.55 (s, 6H), 2.08 (s, 6H), 2.59 (s, 6H), 4.69 (s, 2H), 6.03 (s, 2H),
+7.40 (d, J = 8.5 Hz, 2H), 7.59−7.48 (m, 7H), 7.42−7.38 (m, 2H),
+8.00−7.95 (m, 3H), 8.2 (s, 1H) 8.33−8.27 (m, 4H), 8.58 (d, J = 4.3
+Hz, 1H), 8.86 (s, 1H), 8.87 (s, 1H), 9.02 (d, J = 4.4 Hz, 1H), 9.05 (s,
+1H), 9.34 (s, 1H), 10.07 (s, 1H); 13C NMR δ 14.6, 14.7, 31.1, 46.4,
+52.1, 84.0, 84.1, 95.2, 95.8, 97.1, 98.1, 105.4, 118.2, 120.0, 120.4, 121.3,
+122.9, 123.2, 123.3, 125.2, 125.7, 128.6, 128.7, 128.8, 128.9, 129.0,
+129.4, 131.0, 131.6, 131.8, 132.0, 132.1, 133.4, 134.0, 134.1, 134.5,
+135.4, 138.9, 140.0, 140.1, 141.2, 143.1, 145.3, 151.8, 152.6, 155.6,
+164.1, 165.8, 176.1; 19F NMR δ −146.1 (q, J = 33.1 Hz); HRMS (ESI)
+m/z [M + H]+ Calcd for C64H50BF2N7O 982.4221; Found 982.4193.
+Zn4-BDP. A sample of 4-BDP (4.7 mg, 0.048 mmol) was dissolved
+in chloroform (2.5 mL) and methanol (0.5 mL) and treated with zinc
+acetate (1.9 mg, 0.010 mmol). After 6 h, TLC indicated that all
+starting material had been consumed. The reaction mixture was then
+quenched with saturated aqueous NaHCO3, washed with water and
+brine, dried (Na2SO4), and concentrated. Column chromatography
+[silica, CH2Cl2] provided a green solid that became brown after
+extensive drying 3.0 mg, 57%. 1H NMR δ 1.53 (s, 6H, overlapped with
+water signal), 2.06 (s, 6H), 2.59 (s, 6H), 4.59 (s, 2H), 6.03 (s, 2H),
+7.37 (d, J = 8.4 Hz, 2H), 7.55−7.40 (m, 6H), 7.81 (d, J = 7.0 Hz, 2H),
+7.85 (d, J = 7.7 Hz, 2H), 7.92 (d, J = 6.8 Hz, 2H), 8.10 (d, J = 7.5 Hz,
+2H), 8.24−8.15 (m, 3H), 8.47 (d, J = 4.2 Hz, 1H), 8.60 (s, 1H), 8.77
+(s, 1H), 8.91 (s, 1H), 8.92 (d, J = 4.0 Hz, 1H), 9.07 (s, 1H), 9.87
+
+(s, 1H); MS m/z [M + H]+ Calcd for C64H48BF2N7OZn 1043.32777;
+Found (LD-MS) 1042.9 (HRMS-MALDI) 1043.3265.
+
+18,18-Dimethyl-10-(4-methoxycarbonylphenyl)-13-phenyl-
+ethynylchlorin (1). Following a reported precedure,35 a solution of
+1-Br20 (15.2 mg, 0.0275 mmol),
+in DMF/Et3N (6 mL, 2:1) was
+degassed by freeze/thaw (2 cycles), and a sample of (PPh3)2PdCl2
+(3 mg, 0.004 mmol) was added, and the mixture was degassed by one
+more freeze/thaw cycle. A sample of phenylacetylene (5.6 μL, 0.052
+mmol), and the resulting mixture was stirred at 80 °C for 3 h. The
+reaction mixture was dilluted with water and extracted with ethyl
+acetate. The organic phase was washed (water and brine), dried
+(Na2SO4), and concentrated. Column chromatography (silica,
+hexanes/dichloromethane, 1:2) provided a green solid; 13 mg, 84%:
+1H NMR δ −2.11 (br, 1H), −1.72 (br, 1H), 2.08 (s, 6H), 4.12 (s, 3H),
+4.70 (s, 2H), 7.45−7.54 (m, 3H), 7.87−7.89 (m, 2H), 8.24 (d, J = 8.2
+Hz, 2H), 8.43 (d, J = 8.2 Hz, 2H), 8.58 (d, J = 4.3 Hz, 1H), 8.88 (s,
+1H), 8.91 (s, 1H), 8.94 (d, J = 4.4 Hz, 1H), 8.96 (d, J = 4.3 Hz, 1H),
+9.22 (d, J = 4.4 Hz, 1H), 9.38 (s, 1H), 9.81 (s, 1H); 13C NMR δ 31.2,
+46.8, 52.2, 52.6, 95.0, 95.6, 96.8, 107.3, 117.5, 120.6, 123.6, 124.2,
+128.3, 128.76, 128.81, 129.0, 129.3, 129.7, 132.0, 132.3, 132.9, 133.3,
+134.2, 135.2, 139.7, 141.7, 146.3, 151.9, 152.1, 163.7, 167.5, 176.4;
+HRMS (MALDI) m/z [M + H]+ Calcd for C38H30N4O2 575.2442;
+Found 575.2451.
+
+18,18-Dimethyl-10-(4-methoxycarbonylphenyl)-3,13-diphenyl-
+ethynylchlorin (2). Following a reported precedure,35 a mixture of
+2-Br2 (20 mg, 0.030 mmol) and (PPh3)2PdCl2 (2.1 mg, 0.0030 mmol,
+10 mol %) in DMF/NEt3 (9 mL, 2:1) was placed in a Schlenk ﬂask.
+The mixture was deoxygenated by freeze−pump−thaw cycles (3 times),
+and a sample of phenylacetylene (0.013 mL, 0.012 mmol) was added
+to the reaction ﬂask. The reaction mixture was stirred for 4 h at 80 °C.
+The resulting mixture was washed (water and brine), dried (Na2SO4),
+and concentrated to obtain a dark brown solid. Column chromatog-
+raphy [silica, hexane/ethyl acetate (5:1)] provided a brown solid (12
+mg, 60%). 1H NMR δ −1.93 (s, 1H), −1.50 (s, 1H), 2.07 (s, 6H), 4.11
+(s, 3H), 4.68 (s, 2H), 7.52(m, 6H), 7.87 (d, J = 8.0 Hz, 2H), 7.99 (d,
+J = 8.0 Hz, 2H), 8.24 (d, J = 12 Hz, 2H), 8.43 (d, J = 8 Hz, 2H), 8.55
+(d, J = 4 Hz, 1H), 8.85 (s, 2H, 2 signal overlap), 9.00 (d, J = 4 Hz,
+1H), 9.04 (s, 1H), 9.33 (s, 1H) ; 13C NMR δ 31.3, 46.6, 52.3, 52.6,
+84.2, 84.4, 95.3, 95.9, 97.2, 98.2, 105.6, 118.3, 120.6, 123.0, 123.4,
+123.4, 125.3, 128.4, 128.8, 128.9, 129.0, 129.2, 129.7, 129.8, 132.0,
+132.2, 132.5, 133.6, 134.2, 134.3, 135.6, 140.2, 146.2, 152.0, 152.9,
+164.2, 167.5, 176.2; MS m/z [M + H]+ Calcd for C46H35N4O2
+675.2754; Found (HRMS-ESI) 675.2780, (MALDI-MS) 674.7.
+
+18,18-Dimethyl-10-(4-methoxycarbonylphenyl)-3,13-diphenyl-
+ethynylchlorinato Zinc(II) (Zn2). A solution of 2 (15.0 mg, 0.0222
+mmol) in CHCl3/MeOH (6 mL, 5:1) was treated with Zn(OAc)2 (8.2 mg,
+0.045 mmol). The resulting mixture was stirred at 50 °C for 30 min.
+The reaction mixture was diluted with water, and the resulting mixture
+was extracted with ethyl acetate. Combined organic phases were
+washed (water and brine), dried (Na2SO4), and concentrated. Column
+chromatography [silica, hexanes/CH2Cl2 1:3] provided a green solid,
+which was washed (with sonication) with hexanes and MeOH; 12.1 mg,
+71%). 1H NMR δ 2.05 (s, 6H), 4.08 (s, 3H), 4.58 (s, 2H), 7.55−7.43
+(m, 6H), 7.82 (d, J = 7.0 Hz, 2H), 7.94 (d, J = 7.0 Hz, 2H), 8.16 (d, J =
+8.0 Hz, 2H), 8.37 (d, J = 8.0, 2H), 8.46 (d, J = 4.2 Hz, 1H), 8.57 (s,
+1H), 8.74 (s, 1H), 8.88 (s, 1H), 8.90 (d, J = 4.2 Hz, 1H), 9.05 (s, 1H),
+9.85 (s, 1H); HRMS (MALDI) m/z [M]+ Calcd for C46H32N4O2Zn
+736.1811; Found 736.1819.
+
+8-(4-benzamidophenyl)-4,4-diﬂuoro-1,3,5,7-tetramethyl-4-
+bora-3a,4a-diaza-s-indacene (BDP-NHBz). A solution of BDP-
+36 (0.020 g, 0.059 mmol) in DMF (10 mL) was treated with
+NH2
+benzoic acid (0.072 g, 0.590 mmol), EDC hydrochloride (0.0226 g,
+0.118 mmol), and DMAP (0.0144 g, 0.118 mmol) and was stirred at
+room temperature. After 40 h, the resulting mixture was diluted with
+ethyl acetate (20 mL), and the organic layer was washed with water
+and brine, dried (Na2SO4), and concentrated. Column chromatog-
+raphy [silica, CH2Cl2/hexane/ethyl acetate (20:1:1)] provided a
+semipure compound. Subsequent column chromatography (silica,
+CH2Cl2) provided a bright orange-red solid; 20.8 mg, 80%. 1H NMR δ
+1.46 (s, 6H), 2.56 (s, 6H), 5.99 (s, 2H), 7.30 (d, J = 8.4 Hz, 2H),
+</para>
+3867
+
+DOI: 10.1021/acs.joc.5b00119
+J. Org. Chem. 2015, 80, 3858−3869
+
+The Journal of Organic Chemistry
+7.56−7.50 (m, 2H), 7.62−7.57 (m, 1H), 7.82 (d, J = 8.4 Hz, 2H),
+7.94−7.89 (m, 3H); 13C NMR δ 14.6, 14.7, 120.2, 121.2, 127.0, 128.9,
+128.9, 130.9, 131.6, 132.2, 134.6, 138.7, 141.1, 143.1, 155.5, 165.8; 19F
+NMR δ −146.2 (q, J = 33.7 Hz); HRMS (ESI) m/z [M + H]+ Calcd
+for C26H24BF2N3O 444.2058; Found 444.2052.
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Absorption and emission spectra for benchmark monomers,
+ﬂuorescence data for selected dyads in diﬀerent solvents, and
+copies of 1H, 13C, and 19F NMR spectra for new compounds.
+This material
+is available free of charge via the Internet at
+http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Author
+*E-mail: mptaszek@umbc.edu (M.P.).
+Author Contributions
+†
+These authors contributed equally to this work.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was supported by the University of Maryland,
+Baltimore County (start-up funds and SRAIS Award), and by
+the National Cancer Institute of the National Institutes of
+Health under Award Number U01CA181628. The content is
+solely the responsibility of the authors and does not necessarily
+represent the oﬃcial views of the National Institutes of Health.
+We thank Ms. Lauren N. Resch for a thorough proofreading of
+the manuscript.
+
+■ REFERENCES
+
+(1) Tamiaki, H.; Kunieda, M. In Handbook of Porphyrin Sciences;
+Kadish, K. M., Smith, K. M., Guilard, R., Eds.; World Scientiﬁc
+Publishing: Hackensack, NJ, 2011; Vol. 11, pp 223−285.
+(2) Yang, E.; Kirmaier, C.; Krayer, M.; Taniguchi, M.; Kim, H.-J.;
+Diers, J. R.; Bocian, D. F.; Lindsey, J. S.; Holten, D. J. Phys. Chem. B
+2011, 115, 10801−10816.
+(3) Kee, H. L.; Kirmaier, C.; Tang, Q.; Diers, J. R.; Muthiah, C.;
+Taniguchi, M.; Laha, J. K.; Ptaszek, M.; Lindsey, J. S.; Bocian, D. F.;
+Holten, D. Photochem. Photobiol. 2007, 83, 1110−1124.
+(4) Kee, H. L.; Kirmaier, C.; Tang, Q.; Diers, J. R.; Muthiah, C.;
+Taniguchi, M.; Laha, J. K.; Ptaszek, M.; Lindsey, J. S.; Bocian, D. F.;
+Holten, D. Photochem. Photobiol. 2007, 83, 1125−1143.
+(5) Taniguchi, M.; Cramer, D. L.; Bhise, A. D.; Kee, H. L.; Bocian, D.
+F.; Holten, D.; Lindsey, J. S. New J. Chem. 2008, 32, 947−958.
+(6) Vinita, A. M.; Sano, K.; Yu, Z.; Nakajima, T.; Choyke, P.; Ptaszek,
+M.; Kobayashi, H. Bioconjugate Chem. 2012, 23, 1671−1679.
+(7) Harada, T.; Sano, K.; Sato, K.; Watanabe, R.; Yu, Z.; Hanaoka,
+H.; Nakajima, T.; Choyke, P. L.; Ptaszek, M.; Kobayashi, H.
+Bioconjugate Chem. 2014, 25, 362−369.
+(8) (a) Resch-Genger, U.; Grabolle, M.; Cavaliere-Jaricot, S.;
+Nitschke, R.; Nann, T. Nat. Methods 2008, 5, 763−775. (b) Raines,
+R. T.; Lavis, L. D. ACS Chem. Biol. 2008, 3, 142−155.
+(9) Lovell, J. F.; Chan, M. W.; Qi, Q.; Chen, J.; Zheng, G. J. Am.
+Chem. Soc. 2011, 133, 18580−18582.
+(10) (a) Cao, W.; Ng, K. K.; Corbin, I.; Zhang, Z.; Ding, L.; Chen, J.;
+Zheng, G. Bioconjugate Chem. 2009, 20, 2023−2031. (b) Liu, T. W.;
+Akens, M. K.; Chen, J.; Wise-Milestone, L.; Wilson, B. C.; Zheng, G.
+Bioconjugate Chem. 2011, 22, 1021−1030. (c) Mawn, T. M.; Popov, A.
+V.; Beardsley, N. J.; Stefflova, K.; Milkevitch, M.; Zheng, G.; Delikatny,
+E. J. Bioconjugate Chem. 2011, 22, 2434−2443. (d) Popov, A. V.;
+Mawn, T. M.; Kim, S.; Zheng, G.; Delikatny, E. J. Bioconjugate Chem.
+2010, 21, 1724−1727. (e) Liu, T. W. B.; Chen, J.; Burgess, L.; Cao,
+
+Article
+
+W.; Shi, J.; Wilson, B. C.; Zheng, G. Theranostics 2011, 1, 354−362.
+(f) Lovell, J. F.; Jin, C. S.; Huynh, E.; Jin, H.; Kim, C.; Rubinstein, J. L.;
+Chan, W. C. W.; Cao, W.; Wang, L. V.; Zheng, G. Nat. Mater. 2011,
+10, 324−332. (g) Huynh, E.; Jin, C. S.; Wilson, B. C.; Zheng, G.
+Bioconjugate Chem. 2014, 25, 796−801.
+(11) Strachan, J.-P.; O’Shea, D. F.; Balasubramanian, T.; Lindsey, J. S.
+J. Org. Chem. 2000, 65, 3160−3172.
+(12) Kim, H.-J.; Lindsey, J. S. J. Org. Chem. 2005, 70, 5475−5486.
+(13) Umezawa, K.; Matsui, A.; Nakamura, Y.; Citterio, D.; Suzuki, K.
+Chem.Eur. J. 2009, 15, 1096−1106.
+(14) Taniguchi, M.; Ra, D.; Kirmaier, C.; Hindin, E.; Schwartz, J. K.;
+Diers, J. R.; Knox, R. S.; Bocian, D. F.; Lindsey, J. S.; Holten, D. J. Am.
+Chem. Soc. 2003, 125, 13461−13470.
+(15) Muthukumaran, K.; Loewe, R. S.; Kirmaier, C.; Hindin, E.;
+Schwartz, J. K.; Sazanovich, I. V.; Diers, J. R.; Bocian, D. F.; Holten,
+D.; Lindsey, J. S. J. Phys. Chem. B 2003, 107, 3431−3422.
+(16) Muthiah, C.; Kee, H. L.; Diers, J. R.; Fan, D.; Ptaszek, M.;
+Bocian, D. F.; Holten, D.; Lindsey, J. S. Photochem. Photobiol. 2008, 84,
+786−801.
+(17) Kee, H. L.; Nothdurft, R.; Muthiah, C.; Diers, J. R.; Fan, D.;
+Ptaszek, M.; Bocian, D. F.; Lindsey, J. S.; Culver, J. P.; Holten, D.
+Photochem. Photobiol. 2008, 84, 1061−1072.
+(18) Kee, H. L.; Diers, R. J.; Ptaszek, M.; Muthiah, C.; Fan, D.;
+Bocian, D. F.; Lindsey, J. S.; Culver, J. P.; Holten, D. Photochem.
+Photobiol. 2009, 85, 909−920.
+(19) Laakso, J.; Rosser, G. A.; Szijjártó, C.; Beeby, A.; Borbas, K. E.
+Inorg. Chem. 2012, 51, 10366−10374.
+(20) Yu, Z.; Ptaszek, M. J. Org. Chem. 2013, 78, 10678−10691.
+(21) Voznyak, D. A.; Zakharova, G. V.; Chibisov, A. K.; Kharitonova,
+O. V.; Grin, M. A.; Semenikhin, K. O.; Mironov, A. F. High Energy
+Chem. 2010, 44, 31−36.
+(22) Kataoka, Y.; Shibata, Y.; Tamiaki, H. Chem. Lett. 2010, 39, 953−
+955.
+(23) Finikova, O. S.; Troxler, T.; Senes, A.; DeGrado, W. F.;
+Hochstrasser, R. M.; Vinogradov, S. A. J. Phys. Chem. A 2007, 111,
+6977−6990.
+(24) Mani, T.; Niedzwiedzki, D. M.; Vinogradov, S. A. J. Phys. Chem.
+A 2012, 116, 3568−3610.
+(25) (a) Loudet, A.; Burgess, K. Chem. Rev. 2007, 107, 4891−4932.
+(b) Ziessel, R.; Ulrich, G.; Harriman, A. New J. Chem. 2007, 31, 496−
+501. (c) Boens, N.; Leen, V.; Dehaen, W. Chem. Soc. Rev. 2012, 41,
+1130−1172. (d) Ziessel, R.; Harriman, A. Chem. Commun. 2011, 47,
+611−631. (e) El-Khouly, M. E.; Fukuzumi, S.; D’Souza, F.
+ChemPhysChem 2014, 15, 30−47.
+(26) Some recent representative examples: (a) Erbas-Cakmak, S.;
+Akkaya, E. U. Org. Lett. 2014, 16, 2964−2949. (b) Kostereli, T.;
+Ozdemir, T.; Buyukcakir, O.; Akkaya, E. U. Org. Lett. 2012, 14, 3636−
+3639. (c) Ziessel, R.; Ulrich, G.; Haefele, A.; Harriman, A. J. Am. Chem.
+Soc. 2013, 135, 11330−11344. (d) Harriman, A.; Mallon, L. J.; Elliot,
+K. J.; Haefele, A.; Ulrich, G.; Ziessel, R. J. Am. Chem. Soc. 2009, 131,
+13375−13386. (e) Thivierge, C.; Han, J.; Jenkins, R. M.; Burgess, K. J.
+Org. Chem. 2011, 76, 4219−5228. (f) Wu, L.; Loudet, A.; Barhoumi,
+R.; Burghardt, R. C.; Burgess, K. J. Am. Chem. Soc. 2009, 131, 9156−
+9157. (g) Zhang, X.; Xiao, Y.; He, L.; Zhang, Y. J. Org. Chem. 2014, 79,
+6315−6320. (h) Pochorovski, I.; Knehans, T.; Nettels, D.; Müller, A.
+M.; Schweizer, B.; Caflisch, A.; Schuler, B.; Diederich, F. J. Am. Chem.
+Soc. 2014, 136, 2441−2449. (i) Zhang, C.; Zhao, J.; Wu, S.; Wang, Z.;
+Wu, W.; Ma, J.; Gao, S.; Huang, L. J. Am. Chem. Soc. 2013, 135,
+10566−10578.
+J.; Loudet, A.; Pérez-Bolivar, C.;
+(27) (a) Ueno, Y.;
+Anzenbacher, P., Jr.; Burgess, K. J. Am. Chem. Soc. 2011, 133, 51−
+55. (b) Shi, W.-J.; El-Khouly, M. E.; Ohkubo, K.; Fukuzumi, S.; Ng, D.
+K. P. Chem.Eur. J. 2013, 19, 11332−11341. (c) Bandi, V.; Ohkubo,
+K.; Fukuzumi, S.; D’Souza, F. Chem. Commun. 2013, 49, 2867−2869.
+(d) Bandi, V.; El-Khouly, M. E.; Nesterov, V. N.; Karr, P. A.;
+Fukuzumi, S.; D’Souza, F. J. Phys. Chem. C 2013, 117, 5638−5649.
+(e) El-Khouly, M. E.; Amin, A. N.; Zandler, M. E.; Fukuzumi, S.;
+D’Souza, F. Chem.Eur. J. 2013, 18, 4239−5247. (f) Liu, J.-Y.;
+Ermilov, E. A.; Röder, B.; Ng, D. K. P. Chem. Commun. 2009, 1517−
+
+Jose,
+
+3868
+
+DOI: 10.1021/acs.joc.5b00119
+J. Org. Chem. 2015, 80, 3858−3869
+
+Article
+
+The Journal of Organic Chemistry
+1519. (g) Liu, J.-Y.; Huang, Y.; Menting, R.; Röder, B.; Ermilov, B.;
+Ng, D. K. P. Chem. Commun. 2013, 49, 2998−3000.
+(28) Khan, T. K.; Bröring, M.; Mathur, S.; Ravikanth, M. Coord.
+Chem. Rev. 2013, 257, 2348−2387.
+(29) Rio, Y.; Seitz, W.; Gouloumis, A.; Vázquez, P.; Sessler, J. L.;
+Guldi, D. M.; Torres, T. Chem.Eur. J. 2010, 16, 1929−1940.
+(30) (a) Kirmaier, C.; Hindin, E.; Schwartz, J. K.; Sazanovich, I. V.;
+Diers, J. R.; Muthukumaran, K.; Taniguchi, M.; Bocian, D. F.; Lindsey,
+J. S.; Holten, D. J. Phys. Chem. B 2003, 107, 3443−3454. (b) Kelley, R.
+F.; Tauber, M. J.; Wasielewski, M. R. J. Am. Chem. Soc. 2006, 128,
+4779−4791. (c) Gunderson, V. L.; Smeigh, A. L.; Kim, C. H.; Co, D.
+T.; Wasielewski, M. R. J. Am. Chem. Soc. 2012, 134, 4363−4372.
+(31) Sunahara, H.; Urano, Y.; Kojima, H.; Nagano, T. J. Am. Chem.
+Soc. 2007, 129, 5597−5604.
+(32) Ptaszek, M.; Lahaye, D.; Krayer, M.; Muthiah, C.; Lindsey, J. S.
+J. Org. Chem. 2010, 75, 1659−1673.
+(33) Laha, J. K.; Muthiah, C.; Taniguchi, M.; McDowell, B.; Ptaszek,
+M.; Lindsey, J. S. J. Org. Chem. 2006, 71, 4092−4102.
+(34) (a) Ast, S.; Fischer; Müller, H.; Mickler, W.; Schwichtenberg,
+M.; Rurack, K.; Holdt, H.-J. Chem.Eur. J. 2013, 19, 2990−3005.
+(b) Bura, T.; Nastasi, F.; Puntoriero, F.; Campagna, S.; Ziessel, R.
+Chem.Eur. J. 2013, 19, 8900−8912. (c) Godoy, J.; Vives, G.; Tour, J.
+M. Org. Lett. 2010, 12, 1464−1467. (d) Hayek, A.; Bolze, F.;
+Bourgogne, C.; Baldeck, P. L.; Didier, P.; Arntz, Y.; Mély, Y.; Nicoud,
+J.-F. Inorg. Chem. 2009, 48, 9112−9119.
+(35) Yu, Z.; Ptaszek, M. Org. Lett. 2012, 14, 3708−3711.
+(36) Chen, Y.; Wang, H.; Wan, L.; Bian, Y.; Jiang, J. J. Org. Chem.
+2011, 76, 3774−3781.
+(37) Ambroise, A.; Li, J.; Yu, L.; Lindsey, J. S. Org. Lett. 2000, 2,
+2563−2566.
+(38) Wu, L.; Loudet, A.; Barhoumi, R.; Burghardt, R. C.; Burgess, K.
+J. Am. Chem. Soc. 2009, 131, 9156−9157.
+J.; Göransson, E.; Blart, E.; Becker, H.-C.;
+(39) (a) Fortage,
+Hammarström, L.; Odobel, F. Chem. Commun. 2007, 4629−4631.
+(b) Fortage, J.; Boixel, J.; Blart, E.; Hammarström, L.; Becker, H. C.;
+Odobel, F. Chem.Eur. J. 2008, 14, 3467−3480. (c) Wielopolski, M.;
+Atienza, C.; Clark, T.; Guldi, D. M.; Martin, N. Chem.Eur. J. 2008,
+14, 6379−6390.
+(40) Ptaszek, M.; Bhaumik, J.; Kim, H.-J.; Taniguchi, M.; Lindsey, J.
+S. Org. Process Res. Dev. 2005, 9, 651−659.
+(41) Krayer, M.; Balasubramanian, T.; Ruzié, C.; Ptaszek, M.;
+Cramer, D. L.; Taniguchi, M.; Lindsey,
+J. Porphyrins
+Phthalocyanines 2009, 13, 1098−1110.
+
+J. S.
+
+3869
+
+DOI: 10.1021/acs.joc.5b00119
+J. Org. Chem. 2015, 80, 3858−3869
+
+

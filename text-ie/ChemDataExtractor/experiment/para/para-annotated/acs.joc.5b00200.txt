@@ -1,0 +1,1665 @@
+Article
+
+pubs.acs.org/joc
+
+†
+
+‡
+
+§
+
+Husain N. Kagalwala,
+
+Sharlene Mutto,
+
+Mechanistic Insight into the Dehydro-Diels−Alder Reaction of
+Styrene−Ynes
+Laura S. Kocsis,
+Dean J. Tantillo,*,§
+†
+Department of Chemistry, University of Pittsburgh, Pittsburgh, Pennsylvania 15206, United States
+‡
+Department of Chemistry, Carnegie Mellon University, Pittsburgh, Pennsylvania 15213, United States
+§Department of Chemistry, University of CaliforniaDavis, Davis, California 95616, United States
+*S Supporting Information
+
+and Kay M. Brummond*,†
+
+†
+Bhaskar Godugu,
+
+Stefan Bernhard,
+
+‡
+
+ABSTRACT: The Diels−Alder reaction represents one of the
+most thoroughly studied and well-understood synthetic trans-
+formations for the assembly of six-membered rings. Although
+intramolecular dehydro-Diels−Alder (IMDDA) reactions have
+previously been employed for the preparation of naphthalene
+and dihydronaphthalene substrates,
+low yields and product
+mixtures have reduced the impact and scope of this reaction.
+Through the mechanistic studies described within, we have
+conﬁrmed that the thermal IMDDA reaction of styrene−ynes produces a naphthalene product via loss of hydrogen gas from the
+initially formed cycloadduct, a tetraenyl intermediate. Alternatively, the dihydronaphthalene product is aﬀorded from the same
+tetraenyl intermediate via a radical isomerization process. Moreover, we have identiﬁed conditions that can be used to achieve
+eﬃcient, high-yielding, and selective IMDDA reactions of styrene−ynes to form either naphthalene or dihydronaphthalene
+products. The operational simplicity and retrosynthetic orthogonality of this method for the preparation of naphthalenes and
+dihydronaphthalenes makes this transformation appealing for the synthesis of medicinal and material targets. The mechanistic
+studies within may impact the development of other thermal transformations.
+
+■ INTRODUCTION
+
+Functionalized naphthalenes and their derivatives are valuable
+building blocks that serve as key structural components for
+various material, chemical, and biological applications. Naph-
+thalenes are used as organic semiconductors in organic light-
+emitting diodes (OLEDs)1 and liquid crystalline displays
+(LCDs).2 They are also commonly incorporated into
+pharmaceuticals3 and chiral
+reagents.4 A classic example
+showcasing the importance of this motif is naproxen (2) and
+its derivatives. These COX-2 selective anti-inﬂammatory agents
+are obtained via an asymmetric hydrogenation of methox-
+ynaphthenyl acrylic acid (1) in which high enantioselectivities
+were achieved by employing the chiral biaryl ligand (R)-BINAP
+(3), as depicted in Scheme 1.5 Naphthalenes are present in a
+number of naturally occurring compounds,6 one example being
+michellamine B (4), a compound that captured the attention of
+the research community because of its activity against HIV, as
+well as
+its unusual C2-symmetric naphthylisoquinoline
+structure.7 Naphthalenes possessing electron-donor and -ac-
+ceptor groups also play an important role in bioimaging
+applications.8 For example, dansyl, the structure represented in
+the box of the guanidinium-rich molecular transporter (MoTr)
+5, was used as a ﬂuorescent probe to measure the cellular
+uptake eﬃciency of MoTr analogues.9 Additionally, certain
+bacterial genetic codes have been expanded to include the
+nonnatural naphthalene- and benzo-fused heterocycle base pair
+
+d5SICS-dNaM (6).10 By incorporating these nonnatural base
+pairs into bacterial DNA, nonnatural amino acids were created
+in vitro using the cellular machinery. These and other
+applications have revealed functionalized naphthalenes as
+desirable synthetic targets, but methods to access this valuable
+class of aromatic compounds have not kept up with the demand
+for new, diverse, and structurally complex naphthalene
+substrates.
+
+Because naphthalene represents
+
+the most abundant
+component of coal tar,11 it has been exploited in the industrial
+scale production of dyes, plastics, and insecticides, to name a
+few. Moreover, the methods by which naphthalene-containing
+compounds have conventionally been obtained are directed
+largely by an abundance of this feedstock. As an example,
+electrophilic aromatic substitution (EAS) reactions of naph-
+thalene, such as Friedel−Crafts acylations and alkylations,
+halogenations, and nitrations, are commonly used protocols to
+prepare functionalized naphthalene-containing compounds.12
+While these methods have their place in the synthetic chemist’s
+toolbox, alternative strategies that provide more complex
+naphthalene substructures not readily available using EAS and
+
+Special Issue: 50 Years and Counting: The Woodward-Hoﬀmann
+Rules in the 21st Century
+
+Received:
+January 28, 2015
+Published: February 11, 2015
+
+© 2015 American Chemical Society
+
+11686
+
+DOI: 10.1021/acs.joc.5b00200
+J. Org. Chem. 2015, 80, 11686−11698
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 1. Biologically Relevant Naphthalene-Containing
+Compounds
+
+Scheme 2. Previously Reported IMDDA Reactions of
+Styrene−Ynes
+
+other classical reactions are needed. Others have recognized the
+limitations imposed by these more classical approaches and
+have responded with new methods for naphthalene synthesis,13
+including transition-metal-catalyzed cross-coupling14 and tran-
+sition-metal-mediated reactions,15 Diels−Alder
+reactions of
+benzyne16 or o-quinodimethane derivatives,17 phthalide annu-
+lations,18
+ring-closing metathesis,19 and [2 + 2 + 2]
+cycloaddition reactions.20 Also gaining widespread use is an
+acid-catalyzed benzannulation via [4 + 2] cycloaddition
+reaction of o-alkynyl(oxo)benzenes with alkynes discovered
+by Yamamoto.21
+Intramolecular dehydro-Diels−Alder (IMDDA) reactions
+have previously been used for the construction of naphthalenes
+and other polycyclic aromatic hydrocarbons.22 When aromatic
+products are preferred,
+IMDDA reactions are typically
+conducted with substrates containing two reactive triple
+bonds and one double bond. However, examples exist where
+aromatic products have been obtained from IMDDA precursors
+having one triple bond and two double bonds, a reaction that
+should aﬀord the dihydroaromatic product. The formation of
+this product has in some cases been justiﬁed by the propensity
+of 1,4-cyclohexadiene derivatives to aromatize under oxidative
+conditions. Along similar lines, a potentially valuable IMDDA
+reaction for the preparation of aromatic hydrocarbons involves
+the reaction of styrene and an alkyne to aﬀord a cycloadduct
+that aromatizes to give naphthalene derivatives. Despite the
+tendency for styrene polymerization,
+this
+reaction has been demonstrated, albeit with mixtures of
+products and/or low yields.23
+
+the feasibility of
+<para sub=“ques”>
+Klemm was the ﬁrst to report an IMDDA reaction where
+styrenyl alkynoate 7 was reﬂuxed in acetic anhydride to provide
+dihydronaphthyl lactone 9 in 48% yield (Scheme 2).24 When a
+similar IMDDA precursor 10 containing a terminal alkyne was
+used, only the naphthyl lactone 11 was obtained, but in 13%
+yield.25 Cycloaddition of amide 13 gave naphthalene lactam 14
+
+in 51% yield.26 More recently, Chackalamannil eﬀected an
+IMDDA reaction of alkynoate 16 to aﬀord dihydronaphthofur-
+anone 18 in 57% yield, along with naphthyl lactone 17; the
+unusual position of the double bond in 18 was discussed.27
+Ruijter has reported an IMDDA reaction of styrene-function-
+alized β-carboline 19 that generated compounds 20 and 21 in a
+1.5:1 ratio and 90% yield.28 Interestingly, attempts to oxidize
+the product mixture to 20 using DDQ led to decomposition.
+Terashima reported the IMDDA reaction of alkynone 22,
+which provided only 23 in quantitative yield.29 Finally,
+Matsubara has reported an IMDDA reaction of silyl acetylene
+24 that produced only the naphthalene product 25 in 80%
+yield; ten additional examples were reported.30 While this
+nearly exhaustive listing of research in the area of IMDDA
+reactions of
+this
+reaction,31 its potential has not been realized due to harsh
+reaction conditions,
+long reaction times, mixtures of
+naphthalene and dihydronaphthalene compounds, and the
+inability to predict which product will be obtained.
+
+styrene−ynes provides precedent
+
+for
+</para>
+■ RESULTS AND DISCUSSION
+<para sub=“opt”>
+Recently, an unexpected IMDDA reaction between the styrene
+and alkyne of 26 was observed during our studies directed
+toward capturing a diradical
+intermediate of a thermal
+intramolecular [2 + 2] cycloaddition reaction.32 When
+styrene−yne 26 to
+comparing the IMDDA reaction of
+previously reported examples, we were intrigued by (1) the
+short reaction time, (2) high yield, (3) operational simplicity of
+the “thermal only” reaction conditions, and (4) complete
+</para>
+11687
+
+DOI: 10.1021/acs.joc.5b00200
+J. Org. Chem. 2015, 80, 11686−11698
+
+The Journal of Organic Chemistry
+<para sub=“opt”>
+the formation of
+
+selectivity for
+the aromatic product.
+Investigation into the scope and limitations of the IMDDA
+reaction of styrene−ynes began by making variations to the
+alkyne terminus and ultimately showed selective formation of a
+number of naphthalene products in high yield.33 Further studies
+involving the addition of heteroatoms to the styrene−yne
+tether resulted in very diﬀerent product mixtures. For example,
+replacing the all carbon tether of 26 with heteroatom-
+containing tethers 28 (X = O) and 30 (X = NTs) and
+subjecting these styrene−ynes to our standard microwave
+irradiation (MWI) reaction conditions aﬀorded naphthalenes
+29a and 31a in low yield. Additionally, dihydronaphthalenes
+29b and 31b were obtained in 15% and 56% yields, respectively
+for styrene−yne 30
+(entries 2 and 3, Table 1). Notably,
+containing a tosylamide tether, the dihydronaphthalene product
+31b was formed as the major product.
+</para>
+Table 1. IMDDA Reaction of Styrene−Ynes with
+Heteroatom Tethers
+
+entry
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+30
+
+30
+
+30
+
+30
+
+styrene−yne
+26, X = CH2 DCE, 180 °C, 0.06 M,
+
+conditions
+
+28, X = O
+
+30, X = NTs DCE, 180 °C, 0.06 M,
+
+30 min
+DCE, 180 °C, 0.06 M,
+30 min
+
+10 min
+DCE, 180 °C, 0.06 M,
+60 min
+o-DCB, 120 °C, 0.06 M,
+15 min
+o-DCB, 225 °C, 0.06 M,
+1 min
+o-DCB, 180 °C, 0.50 M,
+1 min
+
+N (%)
+27a, 100
+
+D (%)
+27b, 0
+
+29a, 28
+
+29b, 15
+
+31a, 30
+
+31b, 56
+
+38
+
+7
+
+48
+
+16
+
+8
+
+53
+
+33
+
+60
+<para sub=“opt”>
+Concentration, Temperature, and Atmosphere Stud-
+ies. To further explore this result, styrene−yne 30 was
+subjected to reaction conditions that involved changing the
+temperature, concentration, and atmosphere. Among the
+various experiments that were performed,
+four key results
+have emerged to alter our thoughts regarding this reaction.
+Prolonging microwave irradiation of 30 for 60 min at 180 °C in
+DCE aﬀorded less dihydronaphthalene 31b when compared to
+an example that was irradiated for 10 min (compare entries 3
+and 4, Table 1, 8% vs 56%); however,
+the increase in
+naphthalene 31a was not proportionate (38% vs 30%). This
+data conﬁrms that under extended reaction times, dihydro-
+naphthalene 31b is not
+transforming to naphthalene 31a.
+Lowering the temperature of the reaction from 180 to 120 °C
+aﬀorded a higher ratio of 31b to 31a of 7.6:1 vs 1.9:1 (compare
+entries 3 and 5, Table 1); the mass balance for entry 5 was
+recovered starting material (34%).
+Increasing the reaction
+temperature to 225 °C resulted in a reversal of selectivity,
+giving a 1:1.5 ratio of 31b:31a (entry 6). Thus,
+lower
+temperatures favor formation of dihydronaphthalene 31b, and
+higher reaction temperatures produce more naphthalene 31a.
+Increasing the reaction concentration from 0.06 to 0.50 M
+resulted in a 3.8:1 mixture of the dihydronaphthalene 31b and
+naphthalene 31a products (entry 7). As discussed in further
+</para>
+Article
+<para sub=“opt”>
+detail below, this data combined with the temperature studies
+suggests the possibility that two diﬀerent reaction mechanisms
+are operating to produce the two products. Irradiating styrene−
+yne 30 at 180 °C in DCE either under air or after degassing the
+reaction mixture with argon both generated a 1.9:1 mixture of
+dihydronaphthalene 31b to naphthalene 31a in as little as 2
+min (see Table S1 (Supporting Information) for a complete
+listing of experimental conditions employed). While these
+conditions did not ensure rigorous exclusion of oxygen, this
+experiment
+indicates that performing the reaction in the
+presence or absence of oxygen has no eﬀect on the product
+selectivity or the rate of reaction for the time scale that was
+measured. This data strongly suggests that molecular oxygen is
+not functioning as an adventitious oxidant of dihydronaph-
+thalene 31b to naphthalene 31a. These thought-provoking
+results support the need for a more thorough understanding of
+the mechanism of product formation in this reaction prior to
+embarking on further scope and limitation studies. A discussion
+of the results from these mechanistic investigations is provided
+herein.
+</para>
+<para sub=“opt”>
+Solvent Studies. The IMDDA reaction of 30 was carried
+temperature of 180 °C in solvents of
+out at a constant
+increasing dielectric constant ranging from o-DCB (ε = 9.93) to
+water (ε = 80.10). Regardless of the solvent employed, each
+reaction was complete within 1 min. While there are some
+outlying results, the dielectric constant of the solvent appears to
+correlate well with the selectivity of the reaction, with product
+ratios of 31a:31b ranging from 1:1.2 to 1:10 as the dielectric
+constant of the solvent increases (entries 1−4 and 8, Table
+2).34 A control experiment was performed where 30 was
+</para>
+Table 2. Eﬀect of Solvent on Product Selectivity
+
+entrya
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+solvent
+o-DCB
+DCE
+MEK
+iPrOH
+EtNO2
+NMP
+PhNO2
+DMF
+H2O
+
+tan δ
+0.28
+0.127
+0.079
+0.799
+
+0.275
+0.589
+0.161
+0.123
+
+dielectric constant
+
+31a:31bb
+
+9.93
+10.36
+18.50
+20.18
+28.06
+32.20
+34.82
+36.71
+80.10
+
+1:1.2
+1:1.8
+1:2.6
+1:4.4
+1:1
+1:3
+1:0
+1:10
+1:2
+
+aIrradiated reaction mixture (0.06 M) at 180 °C for 1 min. bRatio of
+products determined by 1H NMR spectroscopy.
+<para sub=“opt”>
+irradiated in DMF-d7 and still yielded the same ratio of
+31a:31b, but with no deuterium incorporation (see the
+Supporting Information). One outlier in the solvent data was
+nitrobenzene (PhNO2), which aﬀorded exclusively naphthalene
+31a in 84% yield. We attribute this result to PhNO2 functioning
+as a dehydrogenating agent,35 and this is supported by the fact
+that as little as 8 equiv of PhNO2 resulted in selective
+naphthalene formation (see Table S2, Supporting Information).
+Thus, solvent does play a signiﬁcant role in the selectivity
+aﬀorded by the IMDDA reaction for
+the formation of
+naphthalene or dihydronaphthalene products.
+</para>
+11688
+
+DOI: 10.1021/acs.joc.5b00200
+J. Org. Chem. 2015, 80, 11686−11698
+
+The Journal of Organic Chemistry
+<para sub="scope">
+Isotopic-Labeling Experiments. Next, experiments in-
+volving the IMDDA reaction of isotopically labeled precursors
+were performed to elucidate the mechanism(s) by which the
+naphthalene 31a and the dihydronaphthalene 31b products are
+formed. Three IMDDA precursors were prepared, one with
+deuterium incorporated into the double bond of the diene and
+the other two with deuteriums incorporated at all remaining
+positions of the aryl ring of the diene.
+</para>
+<para sub="scope">
+Synthetic Protocols. The monodeuterated alkynone 37
+was prepared as follows. Reduction of 3-phenyl-2-propyn-1-ol
+(32) using lithium aluminum deuteride aﬀorded monodeu-
+terated cinnamyl alcohol 33 in quantitative yield;
+the E-
+inferred from 1H NMR spectroscopy
+conﬁguration was
+(Scheme 3). Subjecting 33 to the Mitsunobu reaction
+</para>
+Scheme 3. Synthesis of Isotopically Labeled Styrene−Ynes
+
+Article
+<para sub="scope">
+IMDDA Reactions with Deuterated Substrates. Deu-
+terated styrene−ynes were also subjected to thermal conditions
+to further our understanding of the mechanism of the IMDDA
+reaction. First, heating styrene−yne-d1 37 at 180 °C for 1 min
+in o-DCB-d4 generated naphthalene 31a and dihydronaph-
+thalene-d1 44 in 81% yield and in a 1:5.2 ratio, as determined by
+1H NMR spectroscopy (Scheme 4). This
+represents a
+</para>
+Scheme 4. Deuterium-Labeling Studies
+<para sub="scope">
+signiﬁcant change in the product ratio when compared to
+heating of the nondeuterated precursor 30 and is interpreted as
+a large primary kinetic isotope eﬀect.
+In an additional
+experiment, heating of styrene−yne-d5 42 for 1 min at 180
+°C in o-DCB-d4 resulted in a 1:1 mixture of naphthalene 45 and
+dihydronaphthalene 46 in 68% yield. Naphthalene 45 was
+separated from 46 by HPLC, and characterization of 46 by 1H
+NMR and COSY spectroscopy showed the presence of two
+diastereomers in a 1.5:1 ratio resulting from deuterium
+incorporation at the 4-position of the dihydronaphthalene,
+which was indicative of deuterium atom transfer from the aryl
+ring. Incorporation of a deuterium atom at the 4-position of the
+dihydronaphthalene altered the 1H NMR spectrum of 46,
+allowing for the diastereomeric ratio to be distinguished. For
+example, the doublet of doublets and apparent triplet found at δ
+2.82 and 2.51, representative of the two protons at the 4-
+position of 31b (Figure 1A), each changed upon deuterium
+incorporation in 46 and became two doublets (Hd and He)
+integrating for 0.69 and 0.47 protons,
+respectively. The
+coupling constants of Hd and He were reﬂective of coupling
+only to the neighboring proton (Hc) and not germinal coupling
+(Figure 1B). Additional smaller resonances at δ 2.89, 2.86, 2.81,
+2.80, and 2.54, which were similar to the resonances observed
+for 31b, were also noted in the 1H NMR spectrum of 46.
+</para>
+<para sub="scope">
+As expected, heating 42 in DMF under the same reaction
+conditions resulted in a 70% combined yield of 45 and 46 in a
+1:7 ratio; however, dihydronaphthalene 46 was now generated
+with a much greater diastereoselectivity of 14:1 for the opposite
+diastereomer (Scheme 4). This change in diastereoselectivity
+was also obvious from the 1H NMR spectrum of 46, in which
+the doublet at δ 2.50 (He) was now much more prominent in
+comparison to the doublet at δ 2.80 (Hd), with integrations of
+0.95 and 0.07, respectively (Figure 1C).
+</para>
+<para sub="scope">
+Crossover Experiment.
+
+Incorporation of a deuterium
+atom at the 4-position of dihydronaphthalene 46 could arise via
+either an inter- or intramolecular transfer mechanism. To
+</para>
+11689
+
+DOI: 10.1021/acs.joc.5b00200
+J. Org. Chem. 2015, 80, 11686−11698
+<para sub="scope">
+conditions of triphenylphosphine, diisopropyl azodicarboxylate,
+and 4-methyl-N-(prop-2-yn-1-yl)benzenesulfonamide (34)
+gave styrene−yne 35 in 85% yield.36 N-Methoxy-N-methyl-
+acetamide (36) was then employed to acylate the lithium
+acetylide of 35, providing 46% yield of alkynone 37.37
+</para>
+<para sub="scope">
+The pentadeuterated substrates 42 and 43 were prepared in a
+similar manner as 37; however, the synthesis began by a
+Sonogashira cross-coupling reaction of bromobenzene-d5 (38)
+with propargyl alcohol (39) in the presence of
+tetrakis-
+(triphenylphosphine)palladium(0), copper(I) iodide, and
+pyrrolidine to generate 50% yield of 3-(phenyl-d5)prop-2-yn-
+1-ol (Scheme 3). Subsequent reduction of the alkyne using
+lithium aluminum hydride produced cinnamyl alcohol 40 in
+56% yield. Mitsunobu reaction conditions were utilized for the
+conversion of 40 to styrene−yne 41 in 86% yield. Finally, to the
+lithium acetylide of 41 was added either N-methoxy-N-
+methylacetamide (36) or methyl chloroformate, producing
+alkynone 42 and alkynoate 43 in 80 or 55% yield, respectively.
+</para>
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 5. Crossover Experiment
+<para sub="scope">
+analysis of the remaining two chromatogram peaks showed a
+mixture of dihydronaphthalenes 31b and 46 in one peak, in
+addition to a mixture of 48 and 49 in the other peak. The (M
++H)+ ions of the deuterated products 46 and 48 were observed
+with relative intensities of greater than 55%, thus diﬀerentiating
+these peaks from those that result from the natural abundance
+of carbon-13 for 31b and 49 (see Supporting Information).
+The observation of all possible crossover products indicated
+that transfer of hydrogen or deuterium to the 4-position of the
+dihydronaphthalene was taking place via an intermolecular
+process.
+</para>
+<para sub="scope">
+In turn,
+
+Mechanism for the Formation of Dihydronaphtha-
+lene. As a result of our mechanistic studies, we postulate that
+dihydronaphthalene formation occurs via an initial [4 + 2]
+cycloaddition reaction of 30 to produce the tetraene 50
+(Scheme 6A).
+the tris-allylic hydrogen atom is
+abstracted to aﬀord a carbon-centered radical, depicted as the
+two resonance structures 51 and 52. Next, 52 abstracts a
+hydrogen atom from another equivalent of 50 to give
+dihydronaphthalene 31b, along with an additional radical 51/
+52 which will propagate the reaction. The intermolecular
+hydrogen atom abstraction proposed is supported by both the
+crossover experiment (Scheme 5), as well as the concentration
+studies, which demonstrated that increasing the concentration
+of
+the
+dihydronaphthalene substrate compared to naphthalene (en-
+tries 3 and 7, Table 1). Additionally, the diastereoselectivity that
+is observed for reaction of the deuterated substrate 42 in DMF
+also supports the intermolecular hydrogen atom transfer
+mechanism (Scheme 6B).38
+
+
+the IMDDA reaction provided larger amounts of
+</para>
+<para sub="scope">
+In order to initiate the radical process proposed for the
+formation of dihydronaphthalene 31b, hydrogen atom
+abstraction must occur. It is possible that the tris-allylic C−H
+bond of 50 is spontaneously broken at the temperatures that we
+perform the reaction (120−180 °C).39 However, we propose
+that triplet oxygen initiates the radical reaction by abstraction of
+the tris-allylic hydrogen atom from 50 (Scheme 6C). This
+hypothesis is supported by the work of Hendry et al., who used
+</para>
+11690
+
+DOI: 10.1021/acs.joc.5b00200
+J. Org. Chem. 2015, 80, 11686−11698
+
+Figure 1.
+dihydronaphthalene 46.
+
+1H NMR analysis of deuterium atom transfer
+<para sub="scope">
+in
+
+to test
+
+respectively,
+
+determine which mechanism was operative, a crossover
+experiment was performed employing alkynone 30 and
+alkynoate 43, containing deuterated and nondeuterated aryl
+groups,
+intermolecular hydrogen/
+deuterium atom transfer. If crossover were to occur, six total
+products would be expected (Scheme 5). Heating a 1:1 mixture
+of 30 and 43 for 3 min at 180 °C in o-DCB aﬀorded a mixture
+of six compounds that were separated as four peaks by HPLC.
+Characterization by ESI-MS revealed two of
+the isolated
+chromatogram peaks as naphthalenes 31a and 47, while
+
+for
+</para>
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 6. Proposed Mechanism for Dihydronaphthalene Formation: (A) Intramolecular Deuterium Atom Abstraction To
+Produce Dihydronaphthalene; (B) Proposed Mechanism to Explain the Diastereoselectivity Observed when the IMDDA
+Reaction of 42 Is Performed in DMF; (C) Initiation of the Radical Reaction by Triplet Oxygen; (D) Hendry’s Mechanism for
+Dehydrogenation of 1,4-Cyclohexadiene by Triplet Oxygen
+<para sub="scope">
+kinetic data and quantitative water analysis to reveal that only
+substoichiometric amounts of oxygen were required for the
+thermal dehydrogenation of 1,4-cyclohexadiene to benzene
+(Scheme 6D).40 When we performed the IMDDA reaction in
+the presence or absence of oxygen, the same product selectivity
+for naphthalene 31a and dihydronaphthalene 31b was
+observed; this data is supported by Hendry’s results, which
+indicated that stoichiometric quantities of oxygen are not
+necessary to achieve oxidation.
+</para>
+<para sub="scope">
+Attempts were also made to trap the postulated radical
+intermediates. Utilization of
+standard IMDDA reaction
+conditions, along with 1,4-cyclohexadiene (10 equiv), aﬀorded
+a similar yield and 1:1.2 ratio of 31a and 31b when compared
+to reaction mixtures in which 1,4-cyclohexadiene was not
+present (Scheme 7). No byproducts resulting from trapping of
+radical or biradical intermediates were observed. Increasing the
+concentration of 1,4-cyclohexadiene (88 equiv) led to problems
+reaching the reaction’s
+temperature. Alternatively,
+heating of 30 in DCE at 180 °C for 2 min in the presence of
+
+target
+</para>
+Scheme 7. IMDDA Reactions in the Presence of Radical-
+Trapping Agents
+<para sub="scope">
+excess (2,2,6,6-tetramethylpiperidin-1-yl)oxyl (TEMPO, 1.5
+equiv) resulted in a 52% yield of 31a; 31b and the TEMPO-
+trapped products were not detected. The increase in yield of
+31a from 30% in the absence of TEMPO to 52% in the
+presence of TEMPO may be explained by TEMPO acting as an
+oxidant during the reaction.41 The overall lower yield of the
+reaction and the lack of dihydronaphthalene product observed
+is attributed to decomposition of dihydronaphthalene under the
+reaction conditions and is evidenced by tosyl and unresolved
+aliphatic impurities observed in the 1H NMR spectrum of the
+crude reaction mixture.
+</para>
+<para sub=“ques”>
+Mechanism for the Formation of Naphthalene. The
+data above presents compelling support for the mechanism of
+formation of dihydronaphthalene; however, this data does not
+provide a satisfying explanation for how the naphthalene
+product is generated, aside from evidence strongly suggesting
+that
+the naphthalene is not produced directly from
+dihydronaphthalene (entries 3 and 4, Table 1). The lack of
+evidence for oxidation of dihydronaphthalene to naphthalene,
+along with the large primary kinetic isotope eﬀect observed
+(Scheme 4), implies that the naphthalene and dihydronaph-
+thalene products are being formed by diverging mechanistic
+pathways. One possible pathway by which the naphthalene
+could be formed is a concerted elimination of hydrogen gas via
+the same tetraene intermediate 50, a process that was originally
+proposed by Matsubara (Scheme 8).30
+</para>
+Woodward−Hoﬀmann state that atom transfers via a
+concerted unimolecular process are allowed when m = 4q +
+2, where m is the number of π electrons and q is an integer.42
+Several reactions demonstrating unimolecular elimination of H2
+have been reported that have established a similar mechanism
+
+11691
+
+DOI: 10.1021/acs.joc.5b00200
+J. Org. Chem. 2015, 80, 11686−11698
+
+The Journal of Organic Chemistry
+
+Scheme 8. Proposed Mechanism for Generation of
+Naphthalene via Concerted Loss of H2
+
+Article
+
+to what we suggest for the formation of the naphthalene 31a.
+One such example was published by Wellington and Walters,
+where thermal decomposition of 2,5-dihydrofuran showed
+production of both furan and H2 in equal amounts (eq 1,
+Scheme 9).43 Similar reports that were published independently
+
+Scheme 9. Unimolecular Elimination Reactions
+
+by Ellis and Frey or Benson and Shaw demonstrated a related
+unimolecular elimination of H2 for 1,4-cyclohexadiene in the
+generation of benzene (eq 2).44 Recently, a triphosphabenzene
+was reduced under 4 atm of hydrogen pressure via a reversible
+1,4-H2 addition (eq 3).45
+<para sub="scope">
+To test the hypothesis that the tetraene intermediate 50
+would undergo a concerted unimolecular elimination of H2 to
+generate naphthalene 31a, we performed several
+IMDDA
+reactions with the goal of detecting H2. We previously
+established that conventional heating and microwave irradiation
+conditions provided nearly identical results for the IMDDA
+reaction, and we envisioned that H2 could potentially be
+observed by 1H NMR spectroscopy if the IMDDA reaction was
+conducted in a sealed NMR tube using conventional heating.
+After heating styrene−yne 30 in o-DCB-d4 at 180 °C for 2 min,
+a 1H NMR spectrum of the reaction mixture was acquired
+which showed the presence of a new singlet at δ 4.73 that was
+not attributed to the products 31a or 31b; this resonance was
+assumed to correspond to H2 that was formed during the
+reaction (Figure 2). To conﬁrm that this resonance was H2,
+additional H2 was bubbled through the reaction mixture and an
+increase in the integration value for the resonance at δ 4.73
+from 0.05 to 0.09 was observed, indicating that this resonance
+was correctly identiﬁed as H2. Argon was also bubbled through
+the reaction mixture which resulted in the disappearance of this
+resonance from the 1H NMR spectrum. This information
+</para>
+Figure 2. Detection of hydrogen gas by 1H NMR spectroscopy.
+<para sub="scope">
+supports our hypothesis that H2 was being produced during the
+reaction; however, only the quantity of H2 in solution could be
+determined using this approach.
+</para>
+<para sub="scope">
+In order to quantify the amount of H2 gas that was produced
+during the IMDDA reaction, gas chromatography (GC) was
+utilized to examine the headspace of the reaction. For the GC
+experiments, styrene−yne 30 was irradiated for 1 min at 180 °C
+in o-DCB (see the Supporting Information). Based upon the
+average 80% yield and 1:1.2 ratio of naphthalene 31a and
+dihydronaphthalene 31b products typically generated for these
+IMDDA reactions, the theoretical yield of H2 was calculated
+(see Supporting Information). Overall, a 39−48% yield of H2
+was determined by GC for these experiments. These results
+indicate that a substantial amount of H2 is produced during the
+IMDDA reaction, and that the original hypothesis in which the
+naphthalene product is formed via intramolecular concerted
+elimination of H2 from tetraene intermediate 50 is supported
+(Scheme 8).
+</para>
+<para sub="scope">
+With experimental evidence in hand supporting diverging
+reaction mechanisms for the formation of naphthalene and
+dihydronaphthalene products, further mechanistic insight was
+gained through quantum chemical calculations.46 Both the
+direct expulsion of H2 and hydrogen atom abstraction by triplet
+oxygen, aﬀording the naphthalene and dihydronaphthalene
+products, respectively, were examined for tetraene 50. The
+results from these calculations predict
+the hydrogen atom
+abstraction process to be more favorable by 9.8 kcal/mol
+(Figure 3). This data correlates with the 2-fold preference for
+formation of the dihydronaphthalene over the naphthalene
+product at 180 °C (entry 3, Table 1). Likewise, at lower
+temperatures an 8-fold preference for the dihydronaphthalene
+was observed (120 °C, entry 5, Table 1), whereas at higher
+temperatures the opposite product selectivity was aﬀorded (225
+°C, entry 6, Table 1).
+</para>
+<para sub="scope">
+Predicting selectivity for the formation of the dihydronaph-
+thalene or naphthalene product may also be possible from the
+calculated through-space distance between the ﬂagpole hydro-
+gens of the corresponding tetraene intermediates. For example,
+for the tetraene intermediate with the all-carbon tether, 53, the
+−Hb distance was calculated to be 3.05 Å. By comparison,
+Ha
+this distance for tetraene 50, containing a tosylamide tether,
+was 3.63 Å, representing a diﬀerence of nearly 0.6 Å. These
+calculated distances correlate well with our experimental
+observations for product selectivity, where a shorter calculated
+distance between the hydrogen atoms aﬀords the naphthalene
+</para>
+11692
+
+DOI: 10.1021/acs.joc.5b00200
+J. Org. Chem. 2015, 80, 11686−11698
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 3. Direct H2 expulsion and hydrogen abstraction by 3O2, modeled with SMD(DCE)-UM06-2X/6-31+G(d,p) at 180 °C. Relative free
+energies are shown in kcal/mol and selected distances are shown in angstroms. A mesyl group was used in place of a tosyl group to simplify the
+calculations.
+<para sub="scope">
+product selectively, and a longer distance favors dihydronaph-
+thalene formation. For example, an IMDDA reaction of the all-
+carbon tether precursor 26 aﬀorded the naphthalene product in
+27a quantitative yield, whereas reaction of
+the tosylamide
+tether-containing substrate 30 produced the dihydronaphtha-
+lene 31b in 56% yield and the naphthalene 31a in 30% yield
+when reacted under identical conditions (entries 1 and 3, Table
+1). It is interesting to note that for the latter case, we can alter
+this product
+favor dihydronaphthalene
+formation by lowering the reaction temperature (entry 5,
+Table 1). For the ether tether 54, the Ha-Hb calculated distance
+is 3.58 Å and the dihydronaphthalene was aﬀorded in 15% yield
+and the naphthalene in 28% yield (entry 2, Table 1). To help
+explain this anomalous 1:2 ratio, we suspect that decomposition
+of the dihydronaphthalene 29b during the longer reaction time
+may be skewing this data, as suggested by the low yields.
+
+ratio to further
+</para>
+■ CONCLUSIONS
+In summary, the naphthalene and dihydronaphthalene product
+distribution aﬀorded from the IMDDA reaction of styrene−
+ynes is attributed to mechanistic divergence. Compelling
+evidence, such as the isotopic labeling and hydrogen gas
+detection experiments provided herein, supports the premise
+that both products are obtained from a common intermediate.
+An understanding of the mechanisms of formation of each of
+these products can potentially allow for better control of
+product selectivity during the IMDDA reaction through tuning
+of
+the reaction substrates and conditions. While previous
+examples of thermal IMDDA reactions have been reported with
+variable results, this represents the ﬁrst systematic study of the
+mechanism of the IMDDA reaction of styrene−ynes for the
+production of both naphthalene and dihydronaphthalene
+products. Furthermore, we expect
+these mechanistic
+studies, along with the operational simplicity and synthetic
+orthogonality of this approach, will transform the IMDDA
+reaction into a synthetically useful alternative for
+the
+preparation of naphthalene and dihydronaphthalenes, as well
+as other previously inaccessible aromatic compounds. Finally,
+the removal of hydrogen gas from IMDDA adducts to form
+aromatic compounds oﬀers an environmentally benign
+alternative to typical oxidation protocols.47
+
+that
+
+11693
+
+DOI: 10.1021/acs.joc.5b00200
+J. Org. Chem. 2015, 80, 11686−11698
+
+The Journal of Organic Chemistry
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Experimental Methods. Dichloromethane (DCM) and
+tetrahydrofuran (THF) were dried by passing through alumina, and
+triethylamine was freshly distilled from CaH2 prior to use. 1H and 13C
+NMR spectra were referenced to residual chloroform (7.26 ppm for
+1H NMR spectroscopy, 77.16 ppm for 13C NMR spectroscopy), 1,2-
+dichlorobenzene (7.14 ppm for 1H NMR spectroscopy), or N,N-
+dimethylformamide (8.38 ppm for 1H NMR spectroscopy). Chemical
+shifts are reported in ppm; multiplicities are indicated by s (singlet), b
+s (broad singlet), d (doublet), t (triplet), q (quartet), p (pentet), and
+m (multiplet). In experiments where yields were determined by 1H
+NMR spectroscopy, p-dimethoxybenzene was used as an internal
+standard. A standard solution of p-dimethoxybenzene (20 mg) in o-
+DCB-d4 (0.5 mL) was prepared so that quantities of p-dimethox-
+ybenzene could be accurately added to the reaction mixtures. All
+microwave-mediated reactions were conducted in either a Biotage
+Initiator Exp microwave synthesizer or in an Anton-Paar Monowave
+300 microwave synthesizer. The temperature of reactions in the
+Monowave 300 was monitored internally by a ruby sensor probe,
+unless otherwise speciﬁed. The microwave parameters were set to
+variable power, constant temperature, stirring on, and a ﬁxed hold
+time. Styrene-yne 30, naphthalene 31a, and dihydronaphthalene 31b
+were prepared and characterized according to procedures previously
+reported by our laboratory.14i See the Supporting Information for
+additional general methods and details.
+General Microwave Irradiation Procedure. To a microwave
+irradiation vial were added styrene−yne and the reaction solvent (0.06
+M). The solution was irradiated at 180 °C for 1 min, followed by
+concentration of the reaction mixture under high vacuum. The crude
+material was puriﬁed by silica gel column chromatography to yield the
+naphthalene and/or dihydronaphthalene as a solid. Mixtures of
+naphthalene and dihydronaphthalene products were separated for
+characterization by HPLC. Experiments conducted under argon
+involved initial degassing of the starting solution by bubbling with
+argon through the septum of the microwave irradiation vial for 30 min
+prior to irradiation.
+
+1-(2-Tosyl-2,3-dihydro-1H-benzo[f ]isoindol-4-yl)ethan-1-
+one (31a). Compound 31a was prepared from 30 according to the
+general microwave procedure. Characterization data is consistent with
+previously reported literature data.14i 1H NMR (400 MHz, CDCl3): δ
+7.85−7.79 (m, 4H), 7.70 (s, 1H), 7.54−7.47 (m, 2H), 7.32 (d, J = 8.2
+Hz, 2H), 4.73 (s, 2H), 4.70 (s, 2H), 2.66 (s, 3H), 2.39 (s, 3H). 13C
+NMR (100 MHz, CDCl3): δ 204.1, 144.1, 134.9, 133.8, 133.6, 133.3,
+133.0, 130.1 (2C), 129.1, 128.7, 127.9 (2C), 127.4, 126.6, 124.8, 123.8,
+53.0, 52.9, 32.1, 21.7.
+
+1-(2-Tosyl-2,3,9,9a-tetrahydro-1H-benzo[f ]isoindol-4-yl)-
+ethan-1-one (31b). Compound 31b was prepared from 30 according
+to the general microwave procedure. Characterization data is
+consistent with previously reported literature data.14i 1H NMR (400
+MHz, CDCl3): δ 7.75 (d, J = 8.2 Hz, 2H), 7.34 (d, J = 8.2 Hz, 2H),
+7.24−7.16 (m, 3H), 7.09 (d, J = 6.9 Hz, 1H), 4.53 (dd, J = 18.0, 1.6
+Hz, 1H), 3.95 (dd, J = 9.4, 8.2 Hz, 1H), 3.90 (dd, J = 18.0, 2.8 Hz,
+1H), 3.02−2.93 (m, 1H), 2.86 (app t, J = 9.2 Hz, 1H), 2.82 (dd, J =
+14.8, 6.4 Hz, 1H), 2.51 (app t, J = 14.8 Hz, 1H), 2.44 (s, 3H), 2.34 (s,
+3H). 13C NMR (100 MHz, CDCl3): δ 200.9, 148.1, 144.0, 134.7,
+133.1, 132.1 (2C), 130.0 (2C), 128.2, 128.1, 128.0 (2C), 127.3, 125.8,
+53.1, 51.8, 40.2, 32.4, 30.2, 21.7.
+Irradiation of 30 in DMF-d7. To a G4 Anton-Paar microwave
+irradiation vial were added styrene−yne 30 (0.020 g, 0.054 mmol) and
+DMF-d7 (0.91 mL). The solution was irradiated at 180 °C for 1 min,
+turning the reaction mixture orange in color. The reaction mixture was
+then concentrated under high vacuum and the crude material puriﬁed
+by silica gel ﬂash column chromatography (1.5 cm, 20% ethyl acetate/
+hexanes) to yield the title compounds as a white solid and as a 1:10
+mixture of 31a and 31b (0.015 g, 75%). These products were
+separated for characterization by HPLC, utilizing 10% ethyl acetate/
+hexanes as the eluent and a ﬂow rate of 4 mL/min. The HPLC
+retention time of naphthalene 31a was 34.2 min and the retention
+time of dihydronaphthalene 31b was 38.2 min. An 1H NMR spectrum
+</para>
+Article
+<para sub=“exp”>
+the dihydronaphthalene product 31b showed no deuterium
+
+of
+incorporation (Figure S1, Supporting Information).
+Irradiation of 30 in the Presence of 1,4-Cyclohexadiene. To
+an NMR tube were added styrene−yne 30 (0.013 g, 0.036 mmol), o-
+DCB-d4 (0.55 mL), and a solution of p-dimethoxybenzene in o-DCB-
+d4 (50 μL, 0.002 g) as an internal standard. A 1H NMR spectrum of
+the solution was obtained, followed by transfer of the solution to a G4
+Anton-Paar microwave irradiation vial and addition of 1,4-cyclo-
+hexadiene (34 μL, 0.36 mmol). The solution was then irradiated at
+180 °C for 1 min, turning the reaction mixture light brown in color.
+The reaction mixture was then transferred to an NMR tube, and a 1H
+NMR spectrum was obtained showing conversion of the starting
+material 30 to products 31a and 31b as a 1:1.2 mixture in 81%
+combined yield (Supporting Information).
+Irradiation of 30 in the Presence of TEMPO. To a 0.5−2 mL
+Biotage microwave irradiation vial were added styrene−yne 30 (0.022
+g, 0.060 mmol), DCE (1.0 mL), and (2,2,6,6-tetramethylpiperidin-1-
+yl)oxy (0.014 g, 0.090 mmol). The solution was then irradiated at 180
+°C for 1 min, turning the reaction mixture dark brown in color. The
+reaction mixture was concentrated under reduced pressure and the
+crude material puriﬁed by silica gel ﬂash column chromatography
+(10% ethyl acetate−hexanes) to yield 31a as a light yellow solid (0.011
+g, 52%).
+Conventional Heating and Hydrogen Detection by 1H NMR
+Spectroscopy. To a screw-cap NMR tube were added styrene−yne
+30 (0.013 g, 0.036 mmol), o-DCB-d4 (0.55 mL), and a solution of p-
+dimethoxybenzene in o-DCB-d4 (50 μL, 0.002 g) as an internal
+standard via pipet. The cap was screwed onto the NMR tube, and an
+1H NMR spectrum of the starting solution was obtained. The solution
+was then heated at 180 °C for 2 min in an oil bath, turning the
+reaction mixture brown in color. A 1H NMR spectrum of the reaction
+mixture was obtained showing conversion of the starting material 30 to
+the products 31a and 31b as a 1:1.2 mixture in 86% combined yield
+(Supporting Information).
+
+The 1H NMR spectrum of the products also showed the presence
+of hydrogen gas (H2) in solution as a singlet integrating for 0.06H at
+4.73 ppm (Supporting Information), which indicated a 11:1 ratio of
+31a:H2. To conﬁrm that this resonance corresponded to H2, H2 was
+bubbled through the reaction mixture and another 1H NMR spectrum
+was obtained which showed an increase in the integration value from
+0.06 to 0.10H, representing a 6:1 ratio of 31a:H2 (Supporting
+Information). Argon was then bubbled through the reaction mixture,
+and the resonance corresponding to H2 disappeared (see Figure 2
+manuscript).
+
+(33). To a ﬂame-dried,
+
+(E)-3-Phenylprop-2-en-2-d-1-ol
+
+two-
+neck, 100 mL round-bottomed ﬂask equipped with a condenser and a
+septum under an atmosphere of argon was added lithium aluminum
+deuteride (0.877 g, 20.9 mmol). The round-bottomed ﬂask was
+evacuated and reﬁlled with argon (3×), and THF (35 mL) was added
+via syringe with stirring. 3-Phenyl-2-propyn-1-ol (32) (2.0 mL, 16
+mmol) in THF (5 mL) was then added slowly dropwise via syringe,
+and bubbling occurred along with a color change from dark to light
+gray. The reaction mixture was heated to reﬂux in an oil bath for 5 h,
+turning the reaction mixture brown, followed by cooling to rt then 0
+°C in an ice bath. To quench the reaction, water was added slowly
+dropwise and vigorous bubbling occurred. Once bubbling had ceased
+and the reaction mixture had become white in color, diethyl ether was
+added, and the aqueous layer was separated. The aqueous layer was
+then extracted with diethyl ether (2×), and the combined organic
+layers were washed with brine, dried over magnesium sulfate, gravity
+ﬁltered, and concentrated under reduced pressure to yield the title
+compound as a clear oil (2.23 g, quant). The crude material was
+carried on without puriﬁcation. Analytical TLC on silica gel: Rf = 0.4
+(40% ethyl acetate/hexanes). 1H NMR (500 MHz, CDCl3): δ 7.39 (d,
+J = 7.5 Hz, 2H), 7.32 (t, J = 7.5 Hz, 2H), 7.26 (t, J = 7.5 Hz, 1H), 6.61
+(s, 1H), 4.32 (s, 2H). 13C NMR (100 MHz, CDCl3): δ 136.8, 131.2,
+128.7 (2C), 128.3 (t, J = 24.0 Hz, 1C), 127.8 (2C), 126.6, 63.8. IR
+(ﬁlm): 3338, 3080, 3059, 2919, 2863, 1600, 1493, 1449 cm−1. HRMS
+(ESI): m/z calcd for C9H8DO [M − H]+ 134.0722, found 134.0711.
+</para>
+11694
+
+DOI: 10.1021/acs.joc.5b00200
+J. Org. Chem. 2015, 80, 11686−11698
+
+The Journal of Organic Chemistry
+
+Article
+<para sub=“exp”>
+4-Methyl-N-(prop-2-yn-1-yl)benzenesulfonamide (34). Syn-
+
+thesized according to the procedure reported by Gilbertson.48
+
+(E)-4-Methyl-N-(3-phenylallyl-2-d)-N-(prop-2-yn-1-yl)ben-
+zenesulfonamide (35). To a ﬂame-dried, two-neck, 100 mL round-
+bottomed ﬂask equipped with an argon inlet adapter and a septum
+were added (E)-3-phenylprop-2-en-2-d-1-ol (33) (1.00 g, 7.40 mmol),
+4-methyl-N-(prop-2-yn-1-yl)benzenesulfonamide (34) (1.55 g, 7.40
+mmol), and triphenylphosphine (1.94 g, 7.40 mmol). The round-
+bottomed ﬂask was evacuated and reﬁlled with argon (3×), and THF
+(69 mL) was added via syringe with stirring. Diisopropyl
+azodicarboxylate (1.46 mL, 7.40 mmol) was added dropwise via
+syringe, and the reaction mixture turned bright yellow in color. The
+reaction mixture was stirred at rt for 20 h and was then concentrated
+under reduced pressure. The crude material was puriﬁed by silica gel
+ﬂash column chromatography (5 cm column, 5−15% ethyl acetate/
+hexanes) to yield the title compound as a white solid (2.04 g, 85%).
+Analytical TLC on silica gel: Rf = 0.5 (25% ethyl acetate/hexanes).
+Mp: 74−75 °C. 1H NMR (300 MHz, CDCl3): δ 7.77 (d, J = 8.1 Hz,
+2H), 7.35−7.26 (m, 7H), 6.56 (s, 1H), 4.13 (d, J = 2.4 Hz, 2H), 3.99
+(s, 2H), 2.44 (s, 3H), 2.04 (t, J = 2.4 Hz, 1H). 13C NMR (100 MHz,
+CDCl3): δ 143.7, 136.2 (2C), 134.9, 129.6 (2C), 128.7 (2C), 128.2,
+127.9 (2C), 126.7 (2C), 122.7 (t, J = 24.0 Hz, 1C), 76.8, 74.0, 48.6,
+36.0, 21.7. IR (ﬁlm): 3026, 2921, 2119, 1598, 1495, 1348, 1162 cm−1.
+HRMS (ESI): m/z calcd for C19H19DO2NS [M + H]+ 327.1278,
+found 327.1269.
+
+(E)-4-Methyl-N-(4-oxopent-2-yn-1-yl)-N-(3-phenylallyl-2-d)-
+benzenesulfonamide (37). To a ﬂame-dried, two-neck, 15 mL
+round-bottomed ﬂask equipped with an argon inlet adapter and a
+septum was added styrene−yne 35 (0.112 g, 0.34 mmol) in THF (7.8
+mL). The solution was cooled to −78 °C in a dry ice−acetone bath,
+and then lithium diisopropylamide (0.17 mL of a 2.0 M solution in
+THF/heptane/ethylbenzene, 0.34 mmol) was added slowly dropwise
+via syringe, turning the reaction mixture dark purple. The reaction
+mixture was stirred at −78 °C for 1 h and became green in color. N-
+Methoxy-N-methylacetamide (36) (33 μL, 0.31 mmol) was
+subsequently added via syringe, and the reaction mixture turned
+light purple. The reaction mixture was stirred at −78 °C for 15 min
+and at rt for 1.5 h. Over time, the color became a dark brown. The
+reaction mixture was poured into brine, and satd aq ammonium
+chloride was added. The aqueous layer was separated and extracted
+with ethyl acetate (2×), and the combined organic layers were washed
+with brine, dried over magnesium sulfate, gravity ﬁltered, and
+concentrated under reduced pressure. The crude material was puriﬁed
+by silica gel ﬂash column chromatography (2.5 cm column, 15% ethyl
+acetate/hexanes) to yield the title compound as a light yellow solid
+(0.052 g, 46%). Analytical TLC on silica gel, Rf = 0.3 (25% ethyl
+acetate/hexanes). Mp: 93−94 °C. 1H NMR (400 MHz, CDCl3): δ
+7.76 (d, J = 8.0 Hz, 2H), 7.35−7.24 (m, 7H), 6.55 (s, 1H), 4.27 (s,
+2H), 3.99 (s, 2H), 2.43 (s, 3H), 2.10 (s, 3H). 13C NMR (100 MHz,
+CDCl3): δ 183.3, 144.2, 135.9, 135.7, 135.4, 129.9 (2C), 128.8 (2C),
+128.4, 127.9 (2C), 126.7 (2C), 122.2 (t, J = 24.0 Hz, 1C), 84.9, 84.4,
+49.3, 36.2, 32.4, 21.6. IR (ﬁlm): 3026, 2921, 2210, 1679, 1597, 1495,
+1350, 1163 cm−1. HRMS (ESI): m/z calcd for C21H21DO3NS [M +
+H]+ 369.1374, found 369.1383.
+(E)-3-(Phenyl-d5)prop-2-en-1-ol (40). To a ﬂame-dried, two-
+neck, 50 mL round-bottomed ﬂask equipped with an argon inlet
+adapter and a septum were added bromobenzene-d5 (38) (1.30 mL,
+12.3 mmol) and water (62 mL). Propargyl alcohol (39) (1.1 mL, 19
+mmol), pyrrolidine (1.52 mL, 18.5 mmol), tetrakis(triphenylphos-
+phine)palladium(0) (0.071 g, 0.062 mmol), and copper(I) iodide
+(0.023 g, 0.12 mmol) were added sequentially. The reaction mixture
+was stirred at 70 °C for 1 h, turning the reaction mixture from yellow
+to light green. The reaction mixture was then cooled to rt, and diethyl
+ether was added. The aqueous layer was separated and extracted with
+diethyl ether (2×), and the combined organic layers were washed with
+water and brine, dried over magnesium sulfate, gravity ﬁltered, and
+concentrated under reduced pressure. The crude material was ﬁltered
+through a pad of silica gel with diethyl ether washings and then was
+placed under high vacuum to yield 3-(phenyl-d5)prop-2-yn-1-ol as a
+yellow oil (0.844 g, 50%). Characterization data is consistent with
+
+previously reported literature data.49 Analytical TLC on silica gel: Rf =
+0.3 (20% ethyl acetate/hexanes). 1H NMR (300 MHz, CDCl3): δ 4.51
+(s, 2H), 1.64 (b s, 1H).
+
+To a ﬂame-dried, two-neck, 15 mL round-bottomed ﬂask equipped
+with a condenser and a septum under an atmosphere of argon was
+added lithium aluminum hydride (0.164 g, 4.33 mmol). The round-
+bottomed ﬂask was evacuated and reﬁlled with argon (3×), and THF
+(7.2 mL) was added via syringe with stirring. 3-(Phenyl-d5)prop-2-yn-
+1-ol (0.457 g, 3.33 mmol) in THF (1.1 mL) was then added slowly
+dropwise via syringe, and bubbling occurred. The reaction mixture was
+heated to reﬂux in an oil bath for 1 h, turning the reaction mixture
+from light gray to light brown, followed by cooling to rt then 0 °C in
+an ice bath. To quench the reaction, water was added slowly dropwise
+and vigorous bubbling occurred. Once bubbling had ceased and the
+reaction mixture had become white in color, diethyl ether was added
+and the aqueous layer was separated. The aqueous layer was then
+extracted with diethyl ether (4×), and the combined organic layers
+were washed with brine, dried over magnesium sulfate, gravity ﬁltered,
+and concentrated under reduced pressure to yield the title compound
+as an amber oil (0.257 g, 56%). The crude material was carried on
+without puriﬁcation. Analytical TLC on silica gel: Rf = 0.2 (20% ethyl
+acetate/hexanes). 1H NMR (300 MHz, CDCl3): δ 6.63 (d, J = 15.9
+Hz, 1H), 6.37 (dt, J = 15.9, 5.4 Hz, 1H), 4.33 (d, J = 5.4 Hz, 2H), 1.55
+(b s, 1H).
+
+(E)-4-Methyl-N-(3-(phenyl-d5)allyl)-N-(prop-2-yn-1-yl)ben-
+zenesulfonamide (41). To a ﬂame-dried, two-neck, 25 mL round-
+bottomed ﬂask equipped with an argon inlet adapter and a septum
+were added (E)-3-(phenyl-d5)prop-2-en-1-ol (40) (0.253 g, 1.82
+mmol), 4-methyl-N-(prop-2-yn-1-yl)benzenesulfonamide (34) (0.381
+g, 1.82 mmol), and triphenylphosphine (0.478 g, 1.82 mmol). The
+round-bottomed ﬂask was evacuated and reﬁlled with argon (3×), and
+THF (17 mL) was added via syringe with stirring. Diisopropyl
+azodicarboxylate (0.36 mL, 1.8 mmol) was added dropwise via syringe,
+and the reaction mixture turned bright yellow in color. The reaction
+mixture was stirred at rt for 16 h and was then concentrated under
+reduced pressure. The crude material was puriﬁed by silica gel ﬂash
+column chromatography (2.5 cm column, 15% ethyl acetate/hexanes)
+to yield the title compound as an oﬀ-white solid (0.517 g, 86%).
+Analytical TLC on silica gel, Rf = 0.5 (25% ethyl acetate/hexanes).
+Mp: 69−71 °C. 1H NMR (300 MHz, CDCl3): δ 7.77 (dd, J = 8.4, 1.8
+Hz, 2H), 7.31 (d, J = 8.4 Hz, 2H), 6.58 (td, J = 15.9, 1.2 Hz, 1H), 6.08
+(dt, J = 15.9, 6.9 Hz, 1H), 4.13 (d, J = 2.4 Hz, 2H), 3.99 (dd, J = 6.9,
+1.2 Hz, 2H), 2.44 (s, 3H), 2.04 (t, J = 1.2 Hz, 1H). 13C NMR (100
+MHz, CDCl3): δ 143.7, 136.2, 136.1, 135.0, 129.6 (2C), 128.5−127.5
+(m, 5C), 126.2 (t, J = 24.0 Hz, 2C), 123.0, 76.7, 73.9, 48.7, 36.0, 21.7.
+IR (ﬁlm): 3289, 3034, 2923, 2276, 2118, 1598, 1494, 1346, 1161 cm−1.
+HRMS (ESIMSMS): m/z calcd for C19H15D5O2NS [M + H]+
+331.1518, found 331.1529.
+(E)-4-Methyl-N-(4-oxopent-2-yn-1-yl)-N-(3-(phenyl-d5)allyl)-
+benzenesulfonamide (42). To a ﬂame-dried, two-neck, 25 mL
+round-bottomed ﬂask equipped with an argon inlet adapter and a
+septum was added styrene−yne 41 (0.200 g, 0.61 mmol) in THF (14
+mL). The solution was cooled to −78 °C in a dry ice−acetone bath,
+and then lithium diisopropylamide (0.30 mL of a 2.0 M solution in
+THF/heptane/ethylbenzene, 0.61 mmol) was added slowly dropwise
+via syringe, turning the reaction mixture dark purple. The reaction
+mixture was stirred at −78 °C for 80 min and became light yellow. N-
+Methoxy-N-methylacetamide (36) (58 μL, 0.55 mmol) was
+subsequently added dropwise via syringe, and the reaction mixture
+was stirred at −78 °C for 15 min and at rt for 1 h. Over time, the
+reaction mixture turned reddish in color. Saturated aq ammonium
+chloride was added, and the aqueous layer was separated and extracted
+with ethyl acetate (2×). The combined organic layers were washed
+with brine, dried over magnesium sulfate, gravity ﬁltered, and
+concentrated under reduced pressure. The crude material was puriﬁed
+by silica gel ﬂash column chromatography (2.5 cm column, 15% ethyl
+acetate/hexanes) to yield the title compound as a white solid (0.163 g,
+80%). Analytical TLC on silica gel: Rf = 0.3 (25% ethyl acetate/
+hexanes). Mp: 84−86 °C. 1H NMR (300 MHz, CDCl3): δ 7.77 (d, J =
+8.2 Hz, 2H), 7.34 (d, J = 8.2 Hz, 2H), 6.57 (d, J = 15.9 Hz, 1H), 6.08
+</para>
+11695
+
+DOI: 10.1021/acs.joc.5b00200
+J. Org. Chem. 2015, 80, 11686−11698
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+Methyl
+
+(dt, J = 15.9, 6.9 Hz, 1H), 4.27 (s, 2H), 4.00 (dd, J = 6.9, 0.9 Hz, 2H),
+2.44 (s, 3H), 2.10 (s, 3H). 13C NMR (100 MHz, CDCl3): δ 183.3,
+144.2, 135.8 (2C), 135.4, 129.9 (2C), 128.5−127.6 (m, 5C), 126.3 (t, J
+= 24.0 Hz, 2C), 122.5, 84.9, 84.4, 49.4, 36.2, 32.4, 21.6. IR (ﬁlm):
+3031, 2922, 2246, 2209, 1670, 1597, 1494, 1349, 1163 cm−1. HRMS
+(ESIMSMS): m/z calcd for C21H17D5O3NS [M + H]+ 373.1622,
+found 373.1634.
+(E)-4-((4-Methyl-N-(3-(phenyl-d5)allyl)phenyl)sulfon-
+amido)but-2-ynoate (43). To a ﬂame-dried, two-neck, 5 mL round-
+bottomed ﬂask equipped with an argon inlet adapter and a septum was
+added styrene−yne 41 (0.10 g, 0.30 mmol) in THF (1.5 mL). The
+solution was cooled to −78 °C in a dry ice−acetone bath, and then n-
+butyllithium (0.21 mL of a 1.6 M solution in hexanes, 0.33 mmol) was
+added slowly dropwise via syringe, turning the reaction mixture dark
+purple. The reaction mixture was stirred at −78 °C for 45 min and
+became light brown. Methyl chloroformate (30 μL, 0.39 mmol) was
+subsequently added dropwise via syringe, and the reaction mixture was
+stirred at −78 °C for 1 h, becoming darker brown over time. The
+reaction mixture was allowed to warm slowly to −10 °C, and satd aq
+ammonium chloride was added. The aqueous layer was separated and
+extracted with ethyl acetate (2×), and the combined organic layers
+were washed with brine, dried over magnesium sulfate, gravity ﬁltered,
+and concentrated under reduced pressure. The crude material was
+puriﬁed by silica gel ﬂash column chromatography (2.5 cm column,
+10% ethyl acetate/hexanes) to yield the title compound as a clear oil
+(0.065 g, 55%). Analytical TLC on silica gel: Rf = 0.3 (25% ethyl
+acetate/hexanes). 1H NMR (400 MHz, CDCl3): δ 7.76 (d, J = 8.2 Hz,
+2H), 7.33 (d, J = 8.2 Hz, 2H), 6.58 (td, J = 16.0, 1.2 Hz, 1H), 6.07 (dt,
+J = 16.0, 6.8 Hz, 1H), 4.24 (s, 2H), 3.98 (dd, J = 6.8, 0.8 Hz, 2H), 3.71
+(s, 3H), 2.44 (s, 3H). 13C NMR (125 MHz, CDCl3): δ 153.2, 144.2,
+135.9, 135.6 (2C), 129.9 (2C), 128.5−127.8 (m, 5C), 126.3 (t, J =
+24.0 Hz, 2C), 122.6, 80.8 (2C), 52.9, 49.4, 36.1, 21.7. IR (ﬁlm): 2954,
+2240, 1717, 1597, 1435, 1258, 1162 cm−1. HRMS (ESI) m/z calcd for
+C21H17D5O4NS [M + H]+ 389.1556, found 389.1583.
+1-(2-Tosyl-2,3,9,9a-tetrahydro-1H-benzo[f ]isoindol-4-yl-9a-
+d)ethan-1-one (44). To an NMR tube were added the styrene−yne
+37 (0.013 g, 0.036 mmol), o-DCB-d4 (0.60 mL), and a solution of p-
+dimethoxybenzene in o-DCB-d4 (50 μL, 0.002 g) as an internal
+standard. A 1H NMR spectrum of the solution was obtained, followed
+by transfer of the solution to a G4 Anton-Paar microwave irradiation
+vial which was irradiated at 180 °C for 1 min, turning the reaction
+mixture brown in color. The reaction mixture was then transferred to
+an NMR tube, and a 1H NMR spectrum was obtained showing
+conversion of the starting material 37 to the products 31a and 44 as a
+1:5.2 mixture in 81% combined 1H NMR yield (Supporting
+Information). The reaction mixture was then concentrated under
+high vacuum, and a portion of the mixture was separated by HPLC for
+characterization, utilizing 10% ethyl acetate/hexanes as the eluent and
+a ﬂow rate of 4 mL/min. The HPLC retention time of naphthalene
+31a was 33.9 min, and the retention time of dihydronaphthalene 44
+was 38.2 min. Analytical TLC on silica gel: Rf = 0.5 (35% ethyl
+acetate/hexanes). Mp: 154−156 °C. 1H NMR (400 MHz, CDCl3): δ
+7.75 (d, J = 8.0 Hz, 2H), 7.34 (d, J = 8.0 Hz, 2H), 7.26−7.18 (m, 3H),
+7.09 (dd, J = 6.8, 2.0 Hz, 1H), 4.52 (d, J = 18.0 Hz, 1H), 3.94 (d, J =
+9.6 Hz, 1H), 3.90 (d, J = 18.0 Hz, 1H), 2.86 (d, J = 9.6 Hz, 1H), 2.81
+(d, J = 14.6 Hz, 1H), 2.51 (d, J = 14.6 Hz, 1H), 2.43 (s, 3H), 2.34 (s,
+3H). 13C NMR (125 MHz, CDCl3): δ 200.9, 147.9, 144.0, 134.7,
+133.2 (2C), 132.2, 130.0 (2C), 128.3, 128.1, 128.0 (2C), 127.3, 125.8,
+53.0, 51.8, 39.8 (t, J = 20 Hz, 1C), 32.4, 30.2, 21.7. IR (ﬁlm): 3059,
+2925, 2255, 1682, 1622, 1598, 1347, 1163 cm−1. HRMS (ESI): m/z
+calcd for C21H21DO3NS [M + H]+ 369.1383, found 369.1370.
+1-(2-Tosyl-2,3-dihydro-1H-benzo[f ]isoindol-4-yl-5,6,7,8-d4)-
+ethan-1-one (45) and 1-(2-Tosyl-2,3,9,9a-tetrahydro-1H-
+benzo[f ]isoindol-4-yl-5,6,7,8,9-d5)ethan-1-one (46). To an
+NMR tube were added styrene−yne 42 (0.013 g, 0.036 mmol), o-
+DCB-d4 (0.60 mL), and a solution of p-dimethoxybenzene in o-DCB-
+d4 (50 μL, 0.002 g) as an internal standard. A 1H NMR spectrum of
+the solution was obtained, followed by transfer of the solution to a G4
+Anton-Paar microwave irradiation vial which was irradiated at 180 °C
+for 1 min. The reaction mixture was then transferred to an NMR tube,
+</para>
+Article
+<para sub=“exp”>
+and a 1H NMR spectrum was obtained showing conversion of the
+starting material 42 to the products 45 and 46 as a 1:1 mixture in 70%
+combined 1H NMR yield (Supporting Information). The reaction
+mixture was then concentrated under high vacuum, and a portion of
+the mixture was separated by HPLC for characterization, utilizing 10%
+ethyl acetate/hexanes as the eluent and a ﬂow rate of 4 mL/min. The
+HPLC retention time of naphthalene 45 was 35.0 min, and the
+retention time of dihydronaphthalene 46 was 38.8 min. Dihydronaph-
+thalene 46 was formed as a 1.5:1 ratio of diastereomers, as evidenced
+by 1H NMR spectroscopy after chromatography (major diastereomer
+shown). The diastereomers were not separable by HPLC. 1-(2-Tosyl-
+2,3-dihydro-1H-benzo[f ]isoindol-4-yl-5,6,7,8-d4)ethan-1-one (45).
+Analytical TLC on silica gel: Rf = 0.5 (35% ethyl acetate/hexanes).
+Mp: 134−136 °C. 1H NMR (300 MHz, CDCl3): δ 7.81 (d, J = 8.1 Hz,
+2H), 7.72 (s, 1H), 7.33 (d, J = 8.1 Hz, 2H), 4.74 (s, 2H), 4.72 (s, 2H),
+2.67 (s, 3H), 2.40 (s, 3H). 13C NMR (125 MHz, CDCl3): δ 204.0,
+144.1, 134.9, 133.7, 133.5, 133.3, 133.0, 130.1, 129.0 (2C), 128.3 (t, J
+= 24.3 Hz, 1C), 127.9 (2C), 126.9 (t, J = 24.3 Hz, 1C), 126.1 (t, J =
+24.3 Hz, 1C), 124.3 (t, J = 24.3 Hz, 1C), 123.8, 53.0, 52.9, 32.1, 21.7.
+IR (ﬁlm): 2926, 2258, 1685, 1597, 1461, 1346, 1163 cm−1. HRMS
+(ESI): m/z calcd for C21H16D4O3NS [M + H]+ 370.1415, found
+370.1404. 1-(2-Tosyl-2,3,9,9a-tetrahydro-1H-benzo[f ]isoindol-4-yl-
+5,6,7,8,9-d5)ethan-1-one (46). Analytical TLC on silica gel: Rf = 0.5
+(35% ethyl acetate/hexanes). Mp: 159−160 °C. 1H NMR (400 MHz,
+CDCl3): δ 7.75 (d, J = 8.0 Hz, 2H), 7.34 (d, J = 8.0 Hz, 2H), 4.53 (dd,
+J = 18.0, 1.6 Hz, 1H), 3.95 (dd, J = 9.6, 8.4 Hz, 1H), 3.90 (dd, J = 18.0,
+2.8 Hz, 1H), 3.01−2.93 (m, 1H), 2.85 (app t, J = 9.6 Hz, 1H), 2.80 (d,
+J = 6.4, 0.69H), 2.49 (d, J = 14.8 Hz, 0.47H), 2.43 (s, 3H), 2.34 (s,
+3H).50 13C NMR (175 MHz, CDCl3): δ 200.9, 148.1, 144.0, 134.5,
+133.1 (2C), 132.0, 130.0 (2C), 128.0 (2C), 127.8−127.4 (m, 2C),
+126.7 (t, J = 24.0 Hz, 1C), 125.4 (t, J = 24.0 Hz, 1C), 53.1, 51.8, 40.2,
+32.0 (t, J = 19.3 Hz, 1C), 30.2, 21.7. IR (ﬁlm): 2925, 2255, 1682, 1598,
+1494, 1346, 1162 cm−1. HRMS (ESI): m/z calcd for C21H17D5O3NS
+[M + H]+ 373.1634, found 373.1621.
+Irradiation of 42 in DMF. To a G4 Anton-Paar microwave
+irradiation vial were added styrene−yne 42 (0.015 g, 0.040 mmol) and
+DMF (0.67 mL). The solution was irradiated at 180 °C for 1 min and
+became orange in color. The temperature of
+the reaction was
+monitored by IR sensor (no ruby sensor probe). The reaction mixture
+was then concentrated under high vacuum, and a 1H NMR spectrum
+of the crude material was obtained which showed a 1:7 mixture of 45
+and 46. Puriﬁcation by silica gel ﬂash column chromatography (10%
+ethyl acetate/hexanes) yielded the mixture as a white solid (0.013 g,
+86%). The mixture was then separated by HPLC for characterization,
+utilizing 10% ethyl acetate/hexanes as the eluent and a ﬂow rate of 4
+mL/min. Dihydronaphthalene 46 was formed as a 14:1 ratio of
+diastereomers (major diastereomer shown), as evidenced by 1H NMR
+spectroscopy after chromatography (Supporting Information). The
+diastereomers were not separable by HPLC. 1-(2-Tosyl-2,3,9,9a-
+tetrahydro-1H-benzo[f ]isoindol-4-yl-5,6,7,8,9-d5)ethan-1-one (46).
+1H NMR (400 MHz, CDCl3): δ 7.75 (d, J = 8.2 Hz, 2H), 7.34 (d,
+J = 8.2 Hz, 2H), 4.53 (dd, J = 18.0, 1.6 Hz, 1H), 3.95 (dd, J = 9.6, 8.8
+Hz, 1H), 3.90 (dd, J = 18.0, 2.8 Hz, 1H), 3.00−2.90 (m, 1H), 2.85
+(app t, J = 9.6 Hz, 1H), 2.80 (d, J = 6.4 Hz, 0.07H), 2.49 (d, J = 15.2
+Hz, 0.95H), 2.43 (s, 3H), 2.34 (s, 3H).51
+Methyl 2-Tosyl-2,3-dihydro-1H-benzo[f ]isoindole-4-carbox-
+ylate-5,6,7,8-d4 (47) and Methyl 2-Tosyl-2,3,9,9a-tetrahydro-
+1H-benzo[f ]isoindole-4-carboxylate-5,6,7,8,9-d5 (48). To a G4
+Anton-Paar microwave irradiation vial were added styrene−yne 43
+(0.022 g, 0.057 mmol) and o-DCB (0.95 mL). The solution was
+irradiated at 180 °C for 4 min and became orange/brown in color. The
+temperature in this experiment was monitored by IR sensor (no ruby
+sensor probe). The reaction mixture was then concentrated under high
+vacuum, and a 1H NMR spectrum of the crude material was obtained
+which showed a 1:1.1 mixture of 47 and 48 (Supporting Information).
+Puriﬁcation by silica gel ﬂash column chromatography (1.5 cm
+column, 10−15% ethyl acetate/hexanes) yielded the mixture as a white
+solid (0.013 g, 59%). The mixture was then separated by HPLC for
+characterization utilizing 10% ethyl acetate/hexanes as the eluent and a
+ﬂow rate of 4 mL/min. Dihydronaphthalene 48 was formed as a 2.6:1
+</para>
+11696
+
+DOI: 10.1021/acs.joc.5b00200
+J. Org. Chem. 2015, 80, 11686−11698
+
+The Journal of Organic Chemistry
+<para sub=“exp”>
+ratio of diastereomers, as evidenced by 1H and 2H NMR spectroscopy
+after chromatography. The diastereomers were not separable by
+HPLC. Methyl 2-tosyl-2,3-dihydro-1H-benzo[f ]isoindole-4-carboxy-
+late-5,6,7,8-d4 (47). Analytical TLC on silica gel: Rf = 0.2 (15% ethyl
+acetate/hexanes). HPLC retention time: 27.3 min. Mp: 193−195 °C.
+1H NMR (300 MHz, CDCl3): δ 7.80 (d, J = 8.1 Hz, 2H), 7.76 (s, 1H),
+7.32 (d, J = 8.1 Hz, 2H), 4.92 (s, 2H), 4.74 (d, J = 0.9 Hz, 2H), 4.03
+(s, 3H), 2.39 (s, 3H). 13C NMR (175 MHz, CDCl3): δ 167.4, 144.0,
+138.3, 134.6, 133.6, 133.4, 130.1, 128.1−127.8 (m, 3C), 127.3 (t, J =
+22.2 Hz, 1C), 126.1 (t, J = 22.2 Hz, 1C), 125.7 (2C), 125.4 (t, J = 22.2
+Hz, 1C), 54.8, 52.9, 52.5, 21.7. IR (ﬁlm): 2919, 1713, 1462, 1162
+cm−1. HRMS (ESI): m/z calcd for C21H16D4O4NS [M + H]+
+386.1359,
+found 386.1379. Methyl 2-Tosyl-2,3,9,9a-tetrahydro-1H-
+benzo[f ]isoindole-4-carboxylate-5,6,7,8,9-d5 (48). Analytical TLC on
+silica gel, Rf = 0.2 (15% ethyl acetate/hexanes). HPLC retention time:
+28.7 min. Mp: 148−150 °C. 1H NMR (300 MHz, CDCl3): δ 7.76 (d, J
+= 8.1 Hz, 2H), 7.35 (d, J = 8.1 Hz, 2H), 4.68 (dd, J = 18.6, 1.5 Hz,
+1H), 4.07 (dd, J = 18.6, 3.0 Hz, 1H), 3.99 (dd, J = 9.3, 9.3 Hz, 1H),
+3.86 (s, 3H), 3.07−2.94 (m, 1H), 2.83−2.75 (m, 1.9H), 2.52−2.42 (m,
+3.4H). 13C NMR (175 MHz, CDCl3): δ 166.2, 152.8, 144.1, 134.1,
+132.8, 130.0 (2C), 128.0 (2C), 127.5−127.2 (m, 2C), 126.8−126.2
+(m, 2C), 123.4, 53.4, 52.8, 52.0, 40.7, 31.6 (t, J = 19.0 Hz, 1C), 21.7.
+IR (ﬁlm): 2925, 2854, 1712, 1598, 1494, 664, 595 cm−1. HRMS (ESI):
+m/z calcd for C21H17D5O4NS [M + H]+ 389.1578, found 389.1574.
+Crossover Study. To a G4 Anton-Parr microwave irradiation vial
+were added styrene−ynes 30 (6.6 mg, 0.018 mmol) and 43 (7.0 mg,
+0.018 mmol) in o-DCB (0.3 mL). The solution was irradiated at 180
+°C. After 1 min, the reaction of 30 was complete by TLC, but a
+signiﬁcant amount of 43 remained. The reaction was irradiated for an
+additional 2 min until complete by TLC. After irradiation, the reaction
+mixture was orange/brown in color. The reaction mixture was then
+concentrated under high vacuum, and the crude brown oil was
+subjected to HPLC, utilizing 10% ethyl acetate/hexanes as the eluent
+and a ﬂow rate of 4 mL/min. The HPLC chromatogram showed four
+major peaks with retention times of 27.284, 28.707, 34.210, and 38.200
+min, which were collected and characterized by ESI-MS (Figure S2,
+Supporting Information). Characterization showed that all
+six
+potential compounds of the crossover experiment were present within
+the four HPLC peaks isolated. The data pertaining to which HPLC
+peaks contained which products, as well as comparison of
+found
+masses to calculated masses, are listed in Table S3 (Supporting
+Information).
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+X-ray crystallography data, computational data, and spectra.
+This material
+is available free of charge via the Internet at
+http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+
+Corresponding Authors
+*E-mail: djtantillo@ucdavis.edu.
+*E-mail: kbrummon@pitt.edu.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+K.M.B. and L.S.K. gratefully acknowledge the National
+Institutes of Health (NIGMS P50GM067082), University of
+Pittsburgh, and Andrew Mellon Predoctoral Fellowship for
+ﬁnancial support. D.J.T. acknowledges the XSEDE program for
+computational resources. We also thank Dennis Curran for
+suggesting the crossover substrates, Damodaran Krishnan and
+Viswanathan Elumalai for performing 2H NMR spectroscopy,
+Steve Geib for acquiring the X-ray crystal structure, and David
+
+Article
+for discussions regarding the Woodward−Hoﬀmann
+
+Lamal
+rules.
+
+■ REFERENCES
+
+(1) (a) Lin, S.-H.; Wu, F.-I.; Liu, R.-S. Chem. Commun. 2009, 6961.
+(b) Sommer, M. J. Mater. Chem. C 2014, 2, 3088.
+(2) (a) Lietzau, L.; Bremer, M.; Klassen-Memmer, M.; Heckmeier H.
+Cyclopenta[b]naphthalene derivatives. U.S. Patent 7,291,366, Nov 6,
+2007. (b) Lietzau, L.; Bremer, M.; Klassen-Memmer, M.; Heckmeier
+H. Cyclopenta[b]naphthalene derivatives. U.S. Patent 7,612,243, Nov
+3, 2009. (c) Leight, K. R.; Esarey, B. E.; Murray, A. E.; Reczek, J. J.
+Chem. Mater. 2012, 24, 3318.
+(3) (a) Petranyi, G.; Ryder, N.; Stutz, A. Science 1984, 224, 1239.
+(b) Ryder, N. S.; Frank,
+I.; Dupont, M. C. Antimicrob. Agents
+Chemother. 1986, 29, 858. (c) Tan, A. K.; Fink, A. L. Biochem. J. 1992,
+281, 191. (d) Duggan, K. C.; Walters, M. J.; Musee, J.; Harp, J. M.;
+Kiefer, J. R.; Oates, J. A.; Marnett, L. J. J. Biol. Chem. 2010, 285, 34950.
+(4) (a) Pu, L. Chem. Rev. 1998, 98, 2405. (b) Noyori, R.; Ohkuma, T.
+Angew. Chem., Int. Ed. 2001, 40, 40. (c) Kumobayashi, H.; Miura, T.;
+Sayo, N.; Saito, T.; Zhang, X. Synlett 2001, 2001, 1055. (d) Shibasaki,
+M.; Yoshikawa, N. Chem. Rev. 2002, 102, 2187.
+(5) Ohta, T.; Takaya, H.; Kitamura, M.; Nagai, K.; Noyori, R. J. Org.
+Chem. 1987, 52, 3174.
+(6) (a) Lester, W. Annu. Rev. Microbiol. 1972, 26, 85. (b) Dorsett, P.
+H.; Kerstine, E. E.; Powers, L. J. J. Pharm. Sci. 1975, 64, 1073.
+(c) Radloff, R. J.; Deck, L. M.; Royer, R. E.; Vander Jagt, D. L.
+Pharmacol. Res. Commun. 1986, 18, 1063. (d) Joseph, A. E.; Matlin, S.
+A.; Knox, P. Br. J. Cancer 1986, 54, 511. (e) Lin, T. S.; Schinazi, R.;
+Griffith, B. P.; August, E. M.; Eriksson, B. F.; Zheng, D. K.; Huang, L.
+A.; Prusoff, W. H. Antimicrob. Agents Chemother. 1989, 33, 2149.
+(f) Boyd, M. R.; Hallock, Y. F.; Cardellina, J. H.; Manfredi, K. P.;
+Blunt, J. W.; McMahon, J. B.; Buckheit, R. W.; Bringmann, G.;
+Schaeffer, M. J. Med. Chem. 1994, 37, 1740.
+(7) Xu, G.; Fu, W.; Liu, G.; Senanayake, C. H.; Tang, W. J. Am.
+Chem. Soc. 2014, 136, 570.
+(8) The Molecular Probes Handbook, A Guide to Fluorescent Probes and
+Labeling Technologies, 11th ed.; Life Technologies Corporation: Grand
+Island, NY, 2010.
+(9) Cooley, C. B.; Trantow, B. M.; Nederberg, F.; Kiesewetter, M. K.;
+Hedrick, J. L.; Waymouth, R. M.; Wender, P. A. J. Am. Chem. Soc.
+2009, 131, 16401.
+(10) Malyshev, D. A.; Dhami, K.; Lavergne, T.; Chen, T.; Dai, N.;
+Foster, J. M.; Correa, I. R.; Romesberg, F. E. Nature 2014, 509, 385.
+(11) Kidd, J. Philos. Trans. R. Soc. London 1821, 111, 209.
+(12) (a) Pearson, D. E.; Buehler, C. A. Synthesis 1972, 1972, 533.
+(b) Taylor, R. Electrophilic Aromatic Substitution; John Wiley & Sons:
+New York, 1990. (c) Katritzky, A. R.; Li, J.; Xie, L. Tetrahedron 1999,
+55, 8263.
+(13) (a) Bradsher, C. K. Chem. Rev. 1987, 87, 1277. (b) Katritzky, A.
+R.; Rachwal, S.; Rachwal, B. Tetrahedron 1996, 52, 15031. (c) de
+Koning, C. B.; Rousseau, A. L.; van Otterlo, W. A. L. Tetrahedron
+2003, 59, 7.
+(14) (a) Stará, I. G.; Starý, I.; Kollárovič, A.; Teplý, F.; Šaman, D.;
+Fiedler, P. Tetrahedron 1998, 54, 11209. (b) Suzuki, A. J. Organomet.
+Chem. 1999, 576, 147. (c) Jeffery, T.; Ferber, B. T. Tetrahedron Lett.
+2003, 44, 193. (d) Ohta, K.; Goto, T.; Endo, Y. Inorg. Chem. 2005, 44,
+8569. (e) Mei, X.; Liu, S.; Wolf, C. Org. Lett. 2007, 9, 2729.
+(f) Bhosale, S. V.; Kalyankar, M. B.; Bhosale, S. V.; Langford, S. J.;
+Reid, E. F.; Hogan, C. F. New J. Chem. 2009, 33, 2409. (g) Meng, H.;
+Sun, F. U.S. Patent 20090166590, July 2, 2009. (h) Maiti, D.; Fors, B.
+P.; Henderson, J. L.; Nakamura, Y.; Buchwald, S. L. Chem. Sci. 2011, 2,
+57. (i) Benedetti, E.; Kocsis, L. S.; Brummond, K. M. J. Am. Chem. Soc.
+2012, 134, 12418.
+(15) (a) Snider, B. B.; Zhang, Q. J. Org. Chem. 1993, 58, 3185. (b) H.
+Dotz, K.; Tomuschat, P. Chem. Soc. Rev. 1999, 28, 187. (c) Kang, D.;
+Kim, J.; Oh, S.; Lee, P. H. Org. Lett. 2012, 14, 5636.
+(16) (a) Giles, R. G. F.; Hughes, A. B.; Sargent, M. V. J. Chem. Soc.,
+Perkin Trans. 1 1991, 1581. (b) Yudin, A. K.; Martyn, L. J. P.;
+Pandiaraju, S.; Zheng, J.; Lough, A. Org. Lett. 1999, 2, 41. (c) Hayes,
+
+11697
+
+DOI: 10.1021/acs.joc.5b00200
+J. Org. Chem. 2015, 80, 11686−11698
+
+Article
+
+(39) (a) Alfassi, Z. B.; Benson, S. W.; Golden, D. M. J. Am. Chem.
+Soc. 1973, 95, 4784. (b) Gao, Y.; DeYonker, N. J.; Garrett, E. C.;
+Wilson, A. K.; Cundari, T. R.; Marshall, P. J. Phys. Chem. A 2009, 113,
+6955.
+(40) Hendry, D. G.; Schuetzle, D. J. Am. Chem. Soc. 1975, 97, 7123.
+(41) (a) Souaille, M.; Fischer, H. Macromolecules 2001, 34, 2830.
+(b) Kaim, A. J. Polym. Sci., Part A: Polym. Chem. 2007, 45, 232.
+(42) Woodward, R. B.; Hoffmann, R. Angew. Chem., Int. Ed. Engl.
+1969, 8, 781.
+(43) Wellington, C. A.; Walters, W. D. J. Am. Chem. Soc. 1961, 83,
+4888.
+(44) (a) Ellis, R. J.; Frey, H. M. J. Chem. Soc. A 1966, 553.
+(b) Benson, S. W.; Shaw, R. Trans. Faraday Soc. 1967, 63, 985.
+(45) Longobardi, L. E.; Russell, C. A.; Green, M.; Townsend, N. S.;
+Wang, K.; Holmes, A. J.; Duckett, S. B.; McGrady, J. E.; Stephan, D.
+W. J. Am. Chem. Soc. 2014, 136, 13453.
+(46) Calculations were performed with GAUSSIAN09 (Frisch, M. J.
+et al., full reference in the Supporting Information). Geometries were
+optimized using the M06-2X functional with the 6-31+G(d,p) basis
+set, and stationary points were characterized as minima or transition
+state structures using frequency calculations at the same level: Zhao,
+Y.; Truhlar, D. Theor. Chem. Acc 2008, 120, 215.
+Intrinsic reaction
+coordinate (IRC) calculations were used to further characterize
+transition-state structures: Gonzalez, C.; Schlegel, H. B. J. Phys. Chem.
+1990, 94, 5523. Fukui, K. Acc. Chem. Res. 1981, 14, 363. Free energies
+in solution (DCE, 180 °C) were computed using the SMD solvation
+method: Marenich, A. V.; Cramer, C. J.; Truhlar, D. G. J. Phys. Chem. B
+2009, 113, 6378. Structural images were created using Ball&Stick:
+Müller, N.; Falk, A.; Gsaller, G. Ball & Stick V.4.0a12, Molecular
+Graphics Application for MacOS Computers;
+Johannes Kepler
+University: Linz, 2004.
+(47) Gunanathan, C.; Milstein, D. Science 2013, 341, 249.
+(48) DeBoef, B.; Counts, W. R.; Gilbertson, S. R. J. Org. Chem. 2007,
+72, 799.
+(49) Brooner, R. E. M.; Brown, T. J.; Widenhoefer, R. A. Angew.
+Chem., Int. Ed. 2013, 52, 6259.
+(50) The resonances at 2.85, 2.80, and 2.49 ppm appear to be
+overlapping with peaks at 2.89, 2.86, 2.81, 2.80, and 2.54 ppm that are
+similar in chemical shift and coupling constant to those for the
+nondeuterated substrate 31b.
+(51) The resonances at 2.85, 2.80, and 2.49 ppm appear to be
+overlapping with peaks at 2.89, 2.87, and 2.54 ppm that are similar in
+chemical shift and coupling constant to those for the nondeuterated
+substrate 31b.
+
+The Journal of Organic Chemistry
+
+M. E.; Shinokubo, H.; Danheiser, R. L. Org. Lett. 2005, 7, 3917.
+(d) Procko, K. J.; Li, H.; Martin, S. F. Org. Lett. 2010, 12, 5632.
+(17) (a) Andersen, N. G.; Maddaford, S. P.; Keay, B. A. J. Org. Chem.
+1996, 61, 2885. (b) Ukita, T.; Nakamura, Y.; Kubo, A.; Yamamoto, Y.;
+Takahashi, M.; Kotera, J.; Ikeo, T. J. Med. Chem. 1999, 42, 1293.
+(c) Allen, J. G.; Danishefsky, S. J. J. Am. Chem. Soc. 2000, 123, 351.
+(18) (a) Hauser, F. M.; Rhee, R. P. J. Org. Chem. 1978, 43, 178.
+(b) Kraus, G. A.; Sugimoto, H. Tetrahedron Lett. 1978, 19, 2263.
+(c) Cox, C.; Danishefsky, S. J. Org. Lett. 2000, 2, 3493. (d) Kita, Y.;
+Higuchi, K.; Yoshida, Y.; Iio, K.; Kitagaki, S.; Ueda, K.; Akai, S.;
+Fujioka, H. J. Am. Chem. Soc. 2001, 123, 3214. (e) Mal, D.; De, S. R.
+Org. Lett. 2009, 11, 4398.
+(19) (a) Huang, K.-S.; Wang, E.-C. Tetrahedron Lett. 2001, 42, 6155.
+(b) van Otterlo, W. A. L.; de Koning, C. B. Chem. Rev. 2009, 109,
+3743.
+(20) (a) Peña, D.; Pérez, D.; Guitián, E.; Castedo, L. J. Org. Chem.
+2000, 65, 6944. (b) Sato, Y.; Tamura, T.; Mori, M. Angew. Chem., Int.
+Ed. 2004, 43, 2436. (c) Patel, R. M.; Argade, N. P. Org. Lett. 2012, 15,
+14.
+(21) (a) Asao, N.; Nogami, T.; Lee, S.; Yamamoto, Y. J. Am. Chem.
+Soc. 2003, 125, 10921. (b) Dudnik, A. S.; Schwier, T.; Gevorgyan, V.
+Org. Lett. 2008, 10, 1465. (c) Kang, D.; Kim, J.; Oh, S.; Lee, P. H. Org.
+Lett. 2012, 14, 5636.
+(22) (a) Wessig, P.; Müller, G. Chem. Rev. 2008, 108, 2051.
+(b) Hoye, T. R.; Baire, B.; Niu, D.; Willoughby, P. H.; Woods, B. P.
+Nature 2012, 490, 208.
+(23) Wagner-Jauregg, T. Synthesis 1980, 769.
+(24) Klemm, L. H.; Gopinath, K. W. Tetrahedron Lett. 1963, 4, 1243.
+(25) Klemm, L. H.; Klemm, R. A.; Santhanam, P. S.; White, D. V. J.
+Org. Chem. 1971, 36, 2169.
+(26) Klemm, L. H.; McGuire, T. M.; Gopinath, K. W. J. Org. Chem.
+1976, 41, 2571.
+(27) (a) Chackalamannil, S.; Doller, D.; Clasby, M.; Xia, Y.; Eagen,
+K.; Lin, Y.; Tsai, H.-A.; McPhail, A. T. Tetrahedron Lett. 2000, 41,
+4043. (b) Chackalamannil, S.; Doller, D.; Eagen, K. Tetrahedron Lett.
+2002, 43, 5101.
+(28) Ruijter, E.; Garcia-Hartjes, J.; Hoffmann, F.; van Wandelen, L.
+T. M.; de Kanter, F. J. J.; Janssen, E.; Orru, R. V. A. Synlett. 2010, 16,
+2485.
+(29) Toyota, M.; Terashima, S. Tetrahedron Lett. 1989, 30, 829.
+(30) Ozawa, T.; Kurahashi, T.; Matsubara, S. Org. Lett. 2011, 13,
+5390.
+(31) Gillis, H. R. Stereochemical Aspects of the Intramolecular
+Diels−Alder Reaction. Ph.D. Dissertation, Massachusetts Institute of
+Technology, April 1982.
+(32) Kocsis, L. S. A Dehydrogenative Dehydro-Diels−Alder Reaction
+and Its Application to Fluorescent Tools and Natural Product
+Synthesis. Ph.D. Dissertation, University of Pittsburgh, Pittsburgh,
+PA, 2014.
+(33) (a) Kocsis, L. S.; Benedetti, E.; Brummond, K. M. Org. Lett.
+2012, 14, 4430. (b) Benedetti, B.; Kocsis, L. S.; Brummond, K. M. J.
+Am. Chem. Soc. 2012, 134, 12418.
+(34) For a discussion on the outlying results, see the Supporting
+Information.
+(35) (a) Coellen, M.; Rüchardt, C. Chem.Eur. J. 1995, 1, 564.
+(b) Rüchardt, C.; Gerst, M.; Ebenhoch, J. Angew. Chem., Int. Ed. Engl.
+1997, 36, 1406. (c) Cristiano, M. L. S.; Gago, D. J. P.; d’A Rocha
+Gonsalves, A. M.; Johnstone, R. A. W.; McCarron, M.; Varejao, J. M.
+T. B. Org. Biomol. Chem. 2003, 1, 565.
+(36) Mitsunobu, O. Synthesis 1981, 1.
+(37) (a) Lin, X.; Stien, D.; Weinreb, S. M. Org. Lett. 1999, 1, 637.
+(b) Cadot, C.; Dalko, P. I.; Cossy, J.; Ollivier, C.; Chuard, R.; Renaud,
+P. J. Org. Chem. 2002, 67, 7193. (c) Studer, A. Chem. Soc. Rev. 2004,
+033, 267.
+(38) An X-ray crystal structure was acquired of dihydronaphthalene
+25 and can be found in the Supporting Information. The conformation
+of the dihydronaphthalene determined from the crystal structure
+supports
+the observed
+diastereoselectivity in Scheme 7.
+
+the mechanism that we propose for
+
+11698
+
+DOI: 10.1021/acs.joc.5b00200
+J. Org. Chem. 2015, 80, 11686−11698
+
+

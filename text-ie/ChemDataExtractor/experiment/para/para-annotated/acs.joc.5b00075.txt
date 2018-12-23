@@ -1,0 +1,1012 @@
+Note
+
+pubs.acs.org/joc
+
+Chiral Bifunctional Guanidine-Catalyzed Enantioselective Aza-Henry
+Reaction of Isatin-Derived Ketimines
+Bing Fang, Xiaohua Liu,* Jiannan Zhao, Yu Tang, Lili Lin, and Xiaoming Feng*
+Key Laboratory of Green Chemistry & Technology, Ministry of Education, College of Chemistry, Sichuan University, Chengdu
+610064, P. R. China
+*S Supporting Information
+
+ABSTRACT: An eﬃcient asymmetric aza-Henry reaction of
+isatin-derived ketimines has been achieved by using a chiral
+guanidine−amide organocatalyst. A series of 3-substituted 3-
+amino-2-oxindoles was obtained with excellent results (up to
+99% yield, 94% ee). Other functionalized derivatives were also
+conveniently transformed. This metal-free system was conven-
+ient, practical, and insensitive to air and moisture. On the basis
+of the crystal structure of the catalyst and NMR spectra analysis,
+a bifunctional catalytic model was suggested to explain the origin
+of the asymmetric process.
+
+G uanidines, owing to their prominent role in organo-
+
+catalysis,1 have attracted increasing attention during the
+past two decades. Their characteristics of strong Brønsted
+basicity and molecular recognition through hydrogen bonds2,3
+suggest
+to be used as chiral bifunctional
+organocatalysts.4 Since Nájera et al. reported the ﬁrst chiral
+guanidine in asymmetric organocatalytic Henry reaction,5a a
+number of chiral guanidine and guanidium salt catalysts5 have
+been developed. They are demonstrated eﬃcient for asym-
+metric reactions, such as Michael reaction,5b,c Henry reaction,5d
+Mannich reaction,5e and others. Our group designed bifunc-
+tional acyclic guanidine and bisguanidine catalysts which are
+easily accessible from chiral α-amino acids.6a They are
+convenient
+the
+amino acid backbone, the amide moiety, and the amidine unit
+can be ﬁne-tuned. We have dedicated ourselves to the
+development of such a chiral guanidine catalyst library and
+have disclosed several eﬃcient asymmetric reactions.6 In view
+
+the potential
+
+for manipulation. As shown in Figure 1,
+
+of the previous studies relating to the guanidine-promoted
+Henry reactions,5a,d we envisioned that our bifunctional
+guanidines could be utilized in the aza-Henry reaction of
+isatin-derived ketimines.
+
+The asymmetric aza-Henry reaction,7 an eﬃcient method for
+the synthesis of β-nitro amines, is among the most powerful
+C−C bond formation methodologies. Despite the abundant
+examples of enantioselective aza-Henry reaction with aldi-
+mines,8 the situation in which ketimines are employed as the
+electrophiles is rarely reported9 due to their low reactivity and
+the diﬃculty in enantioface diﬀerentiation. The aza-Henry
+reaction of isatin-derived ketimines is an eﬃcient way to obtain
+privileged oxindole skeletons bearing a stereogenic center at the
+C3-position.10 The resulting 3-amino-2-oxindole framework has
+been recognized as a core structure in pharmaceutical building
+blocks and alkaloid natural products.10a Several catalytic
+systems have been developed for their asymmetric synthesis.11
+−PyBidine complex and
+Two chiral metal complexes, the NiCl2
+−BOX complex have been used in the
+the Cu(BF4)2
+enantioselective aza-Henry reactions of isatin-derived ketimines
+by Arai’s12a and Pedro’s12b groups, respectively. A catalytic
+amount of an achiral organic base was used to deprotonate the
+nitroalkanes for nucleophilic addition. Chiral organic base
+catalysts seem to be an ideal alternative to chiral metal-based
+catalysts, which could simplify the catalytic system. Zhou’s
+group explored a quinine-derived bifunctional organocatalyst
+for this reaction, resulting in moderate to good enantiose-
+lectivities.13 Using a cinchona alkaloid organocatalyst, Chimni
+and co-workers14 realized this reaction with only moderate
+yields and enantioselectivities. In an attempt to identify the
+basicity of our guanidine catalyst and to expand the substrate
+
+Figure 1. Chiral guanidines employed for the aza-Henry reaction.
+
+Received:
+January 12, 2015
+Published: February 27, 2015
+
+© 2015 American Chemical Society
+
+3332
+
+DOI: 10.1021/acs.joc.5b00075
+J. Org. Chem. 2015, 80, 3332−3338
+
+The Journal of Organic Chemistry
+
+scope in an organocatalytic version, we initiated studies for an
+eﬃcient and convenient asymmetric aza-Henry reaction
+promoted by a chiral guanidine organocatalyst. Excellent
+enantioselectivities were achieved for a wide range of ketimines
+derived from isatins.
+<para sub=“opt”>
+We began with a screen of several chiral guanidine catalysts
+for the addition of nitromethane to the isatin-derived N-Boc
+ketimine 2a in toluene at 30 °C. Chiral guanidines 1 bearing
+diﬀerent amino amide backbones all provided complete
+conversion to the adduct 3a with varying enantioselectivities
+(Table 1, entries 1−3). The L-pipecolic acid derivative 1c was
+</para>
+Table 1. Optimization of the Reaction Conditions of the
+Aza-Henry Reaction
+
+entrya
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10d
+11d,e
+
+cat.
+1a
+1b
+1c
+1d
+1e
+1d
+1d
+1d
+1d
+1d
+1d
+
+x
+
+18.0
+18.0
+18.0
+18.0
+18.0
+9.0
+4.5
+9.0
+9.0
+9.0
+9.0
+
+temp (°C)
+
+time (h)
+
+yieldb (%)
+
+eec (%)
+
+30
+30
+30
+30
+30
+30
+30
+0
+−30
+−30
+−30
+
+24
+24
+24
+24
+24
+24
+24
+36
+72
+72
+72
+
+99
+99
+99
+99
+99
+99
+91
+99
+99
+99
+99
+
+31
+17
+56
+79
+50
+83
+83
+87
+91
+94
+94
+
+aUnless otherwise noted, the reactions was performed with 2a (0.1
+mmol) and 1 (10 mol %) in toluene (1.0 mL) under N2. bIsolated
+yield. cDetermined by chiral HPLC analysis. d4 Å MS (10.0 mg) was
+added. eThe reaction was carried out under an air atmosphere.
+<para sub=“opt”>
+superior to (S)-tetrahydroisoquinoline-3-carboxylic acid and L-
+proline-derived catalysts 1a and 1b, giving the adduct 3a in 99%
+yield with 56% ee. When the amide unit was changed from the
+diphenylmethyl group to the more sterically hindered
+the guanidine 1d showed more
+triphenylmethyl group,
+promising results (79% ee; Table 1, entry 4 vs entry 3). But
+guanidine 1e bearing two isopropyl substituents on the amidine
+unit resulted in a lower enantioselectivity (50% ee; Table 1,
+entry 5). Halving the molar equivalents of nitromethane, which
+was supposed to minimize a possible nonenantioselective
+background reaction, resulted in a superior enantioselectivity
+(83% ee), but further decreasing the amount of nitromethane
+led to an obvious drop in the yield without any improvement in
+the enantioselectivity (Table 1, entry 6 vs entries 4 and 7).
+Furthermore, cooling the reaction temperature to −30 °C
+beneﬁted the stereocontrol (91% ee), although a longer
+reaction time was required (Table 1, entry 9). In order to
+improve the results, an additive investigation was carried out,
+and it showed that 4 Å MS could enhance the enantioselectivity
+to 94% ee (Table 1, entry 10). Notably, the reaction system was
+insensitive to air and moisture, which made the operation
+convenient (Table 1, entry 11).
+</para>
+<para sub="scope">
+Having identiﬁed suitable reaction conditions, we next
+evaluated the reactions of various substituted isatin-derived
+ketimines 2 (Scheme 1). The results revealed that the steric
+nature of the N-alkoxycarbonyl groups of the imine unit had a
+</para>
+Note
+<para sub="scope">
+slight inﬂuence on the enantioselectivity. When the N-Boc
+group was changed into an N-CO2Et or N-Cbz group, the
+corresponding ketimines were smoothly converted into the
+adducts with 85% ee and 86% ee, respectively (see 3b and 3c).
+When the N-benzyl protective group at the isatin framework
+was replaced by an N-methyl group, the yield decreased to 81%
+and the ee value to 86% (see 3d). Next, we applied the catalytic
+system to diﬀerent N-Boc-ketimines to deﬁne the scope of this
+aza-Henry reaction. A variety of electronic diverse substituents
+on the aromatic ring of the substrates were tested. To our
+delight, excellent yields (85−99%) and enantioselectivities
+(89−94% ee) were obtained (see 3e−q) for a selection of
+electron-donating and -withdrawing substituents. The results
+indicated that the position of the substituent had an obvious
+eﬀect on the reactivity. For example, the ketimines containing a
+Cl or Br atom at the C6-position showed higher reactivity (see
+3k and 3l) than the substrates with the same substituents at the
+5- or 7-position (see 3f, 3g, 3n, and 3o). An eﬀect of the
+electronic property of the substituents was also observed. A
+general trend observed was the prolonging of the reaction time
+upon changing from an electron-withdrawing group at the 5-
+position to electron-donating ones (see 3e, 3i, 3j, and 3q). The
+conditions were also appropriate for the reaction of nitro-
+ethane, and both diastereomers were obtained in a highly
+enantioselective manner, albeit with low diastereoselectivity
+(65/35 dr; see 3r).
+</para>
+<para sub=“props”>
+To explore the synthetic potential of the current catalytic
+system, the reaction was scaled up to a gram-scale. Under the
+optimal conditions, 3 mmol of isatin-derived N-Boc ketimine
+2a reacted with nitromethane smoothly, giving the adduct 3a in
+99% yield with 94% ee. An X-ray study of enantiomerically pure
+aza-Henry product 3a shows the R absolute conﬁguration.15
+The product 3a could facilitate further
+transformations
+eﬃciently (Scheme 2). Deprotection of the N-Boc group was
+achieved in excellent yield with the enantioselectivity kept. The
+nitro group was reduced by NaBH4/NiCl2,16 giving the
+monoprotected diamines 5 in 91% yield and 94% ee. On the
+other hand, nitrile 6, which is of great synthetic potential,17 was
+obtained through two steps in 75% yield and 93% ee.
+</para>
+<para sub=“props”>
+The X-ray structure of the guanidine 1d (Figure 2)15 showed
+an intramolecular hydrogen bond formed between the imine
+and amide of the catalyst. A comparison with the similar
+guanidine-amide 1f,18 bearing 2,6-diisopropylaniline substitu-
+tion,6a showed an obvious spatial change of the amidine unit.
+The torsions angle between the NH bond and the CN bond
+altered upon the variation of the amide (1d, 101.77° vs 1f,
+10.21°). This indicates that the NH bond of 1d favors an
+orthogonal arrangement with respect to the amidine unit. Next,
+the interaction between the guanidine catalyst 1d and
+nitroalkane was conﬁrmed from an 1H NMR study. When
+nitroethane was added to the solution of the guanidine 1d in
+CDCl3 or DMSO-d6, the integration of the HN peak of the
+amide (δ 10.59 in CDCl3 and δ 3.30 in DMSO-d6) decreases
+signiﬁcantly, indicating the breaking of the intramolecular N−H
+bond. The CH2 group of nitroethane resonates at a slightly
+higher ﬁeld strength (δ 4.43 vs δ 4.41 in CDCl3). The CH2
+peak is less than 2/3 the area of the CH3 peak, indicating that
+deprotonation of
+the guanidine from the nitroethane had
+occurred.
+</para>
+<para sub="scope">
+Therefore, a bifunctional catalytic model was suggested to
+rationalize the observed enantioselection (Figure 2). First, the
+guanidine deprotonates an active hydrogen from the nitro-
+alkane to form a guanidium cation.
+It would bond the
+</para>
+3333
+
+DOI: 10.1021/acs.joc.5b00075
+J. Org. Chem. 2015, 80, 3332−3338
+
+The Journal of Organic Chemistry
+
+Note
+
+Scheme 1. Substrate Scope of the Catalytic Asymmetric Aza-Henry Reaction
+
+Scheme 2. Transformations of the Adduct 3aa
+
+aReaction conditions: (a) CF3CO2H, 0 °C, then K2CO3; (b) NaBH4,
+NiCl2, MeOH, 0 °C; (c) SnCl2
+·2H2O, PhSH, Et3N, EtOH, then
+SOCl2, Et3N, THF.
+<para sub="scope">
+nucleophile in a dual hydrogen-bonding manner. The amide
+unit rotates outwardly when the intramolecular hydrogen-
+bonding disappears.6f Then, the amide could act as a Brønsted
+acid to activate ketimine 2a through an intermolecular
+hydrogen bonding. One face of the ketimine is shielded by
+the phenyl groups of the amide unit, and the nucleophile
+</para>
+Figure 2. Proposed catalytic model based on the X-ray structure of the
+catalyst.
+<para sub="scope">
+attacks the ketimine from the Re-face,
+product 3a.
+</para>
+leading to the (R)-
+
+In conclusion, we have developed an organocatalytic
+procedure for the asymmetric aza-Henry reaction of
+isatin-
+derived ketimines. In the presence of a bifunctional guanidine
+catalyst, this process aﬀorded the desired adducts in high
+enantioselectivity and yield. A range of substrates could tolerate
+well in the reaction. Further application of the chiral guanidine-
+amide catalysts in asymmetric transformations are undergoing
+in our group.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General remarks. Reactions were carried out using commercially
+available reagents in an oven-dried apparatus. Toluene was dried over
+Na and distilled before use. Nitromethane was dried over anhydrous
+</para>
+3334
+
+DOI: 10.1021/acs.joc.5b00075
+J. Org. Chem. 2015, 80, 3332−3338
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+CaCl2 and distilled prior to use. Enantiomeric excesses (ee) were
+determined by HPLC analysis using the corresponding commercial
+chiral column as stated in the experimental procedures at 23 °C with
+UV detection at 254 nm. Optical rotations were reported as follows:
+[α]D
+T (c: g/100 mL, in solvent).1H NMR spectra were recorded on
+commercial instruments (400 MHz). 13C NMR spectra were collected
+on commercial
+instruments (100 MHz) with complete proton
+decoupling.
+
+General Procedure for the Catalytic Asymmetric Aza-Henry
+Reaction. To a stirred solution of ketimine 2a (0.10 mmol, 33.6 mg),
+guanidine catalyst 1d (10 mol %, 0.01 mmol, 5.8 mg), and 4 Å MS in
+toluene (1.0 mL) was added nitromethane (9.0 equiv, 50 μL) at −30
+°C. After being stirred for 72 h, the residue was directly puriﬁed by
+column chromatography on silica gel (pet/EtOAc = 6/1 as the eluent)
+to aﬀord 3a as a white solid (99% yield, 39.6 mg, 94% ee). The
+enantiomeric excess (ee) was determined by high-performance liquid
+chromatography (HPLC).
+Guanidine 1d. Compound 1d was synthesized according to the
+literature.6a White solid: mp 178−180 °C; 1H NMR (CDCl3) δ 10.59
+(s, 1H), 7.32−7.12 (m, 15H), 4.38 (d, J = 4.0 Hz, 1H), 3.44 (d, J =
+13.2 Hz, 1H), 3.21 (d, J = 10.0 Hz, 1H), 3.03−2.841 (m, 1H), 2.84−
+2.59 (m, 2H), 2.16 (d, J = 12.4 Hz, 1H), 1.99−0.84 (m, 25H), 0.46−
+0.25 (m, 1H); 13C NMR (CDCl3) δ 172.7, 172.6, 155.8, 155.7, 145.5,
+145.5, 129.1, 127.6, 126.2, 70.2, 70.2, 57.3, 56.3, 54.0, 53.9, 45.4, 35.6,
+35.0, 33.9, 33.8, 26.4, 25.9, 25.7, 25.5, 25.4, 25.4, 25.3, 21.6; HRMS
+(ESI-TOF) calcd for C38H49N4O ([M + H+]) = 577.3901, found
+577.3909; IR (KBr) ν = 3398, 3142, 3085, 3057, 3024, 2929, 2850,
+1946, 1874, 1802, 1690, 1605, 1544, 1490, 1466, 1446, 1410, 1364,
+1346, 1323, 1298, 1273, 1254, 1239, 1220, 1187, 1171, 1141, 1097,
+1141, 1097, 1074, 1057, 1029, 982, 952, 935, 920, 895, 862, 845, 788,
+766, 741, 700 cm−1.
+
+(R)-tert-Butyl
+
+(1-Benzyl-3-(nitromethyl)-2-oxoindolin-3-yl)-
+carbamate (3a). Puriﬁed by ﬂash chromatography (petroleum
+ether/EtOAc = 6:1) to aﬀord a white solid, 39.6 mg, 99% yield,
+30 = −6.75 (c 1.42, CHCl3); HPLC
+94% ee: mp 98−100 °C; [α]D
+(DAICEL CHIRALCEL IA, n-hexane/2-propanol = 70/30, ﬂow rate
+=1.0 mL/min, λ = 254 nm) tR 6.17 min (minor), 10.38 min (major);
+1H NMR (CDCl3) δ 7.35 (d, J = 7.6 Hz, 1H), 7.32−7.11 (m, 6H),
+6.96 (t, J = 7.6 Hz, 1H), 6.68 (d, J = 7.6 Hz, 1H), 5.96 (s, 1H), 5.03−
+4.84 (m, 2H), 4.84−4.69 (m, 1H), 4.59 (d, J = 12.4 Hz, 1H), 1.27 (s,
+9H); 13C NMR (CDCl3) δ 173.0, 153.8, 142.5, 135.1, 130.3, 128.9,
+127.9, 127.4, 125.9, 124.5, 123.5, 110.0, 81.3, 77.8, 59.9, 44.5, 28.1;
+HRMS (ESI-TOF) calcd for C21H23N3NaO5 ([M + Na+]) = 420.1530,
+found 420.1531; IR (KBr) ν = 3300, 3031, 2984, 2913, 1706, 1611,
+1556, 1533, 1487, 1466, 1418, 1367, 1353, 1337, 1288, 1254, 1223,
+1223, 1162, 1020, 885, 824, 789, 767, 725 cm−1.
+
+Ethyl
+
+(1-Benzyl-3-(nitromethyl)-2-oxoindolin-3-yl)carbamate
+(3b). Puriﬁed by ﬂash chromatography (petroleum ether/EtOAc =
+6:1) to aﬀord a white solid, 33.2 mg, 90% yield, 85% ee: mp 106−108
+30 = −8.94 (c 1.62, CHCl3); HPLC (DAICEL CHIRALCEL
+°C; [α]D
+IA, n-hexane/2-propanol = 70/30, ﬂow rate = 1.0 mL/min, λ = 254
+nm) tR 6.75 min (minor), 9.31 min (major); 1H NMR (CDCl3) δ
+7.44−7.18 (m, 7H), 7.04 (t, J = 7.6 Hz, 1H), 6.75 (d, J = 8 Hz, 1H),
+6.33 (s, 1H), 5.05−4.88 (m, 3H), 4.66 (d, J = 12.4 Hz, 1H), 4.16−3.93
+(m, 2H), 1.21 (s, 3H); 13C NMR (CDCl3) δ 172.74, 154.72, 142.62,
+135.00, 130.52, 128.95, 127.90, 127.31, 125.46, 124.35, 123.57, 110.15,
+77.80, 61.84, 59.91, 44.62, 14.33; HRMS (ESI-TOF) calcd for
+C19H19N3NaO5 ([M + Na+]) = 392.1217, found 392.1218; IR (KBr) ν
+= 3273, 3048, 1710, 1612, 1557, 1489, 1463, 1417, 1374, 1374, 1253,
+1184, 1093, 1043, 807, 761, 739 cm−1.
+
+Benzyl
+
+(1-Benzyl-3-(nitromethyl)-2-oxoindolin-3-yl)carbamate
+(3c). Puriﬁed by ﬂash chromatography (petroleum ether/EtOAc =
+6:1) to aﬀord a white solid, 42.6 mg, 99% yield, 86% ee: mp 42−44
+30 = −2.85 (c 1.41, CHCl3); HPLC (DAICEL CHIRALCEL
+°C; [α]D
+IA, n-hexane/2-propanol = 70/30, ﬂow rate = 1.0 mL/min) λ = 254
+nm, tR: 8.93 min (minor), 13.36 min (major); 1H NMR (CDCl3) δ
+7.49−7.15 (m, 12H), 7.08−7.00 (m, 1H), 6.73 (d, J = 7.8 Hz, 1H),
+6.42 (s, 1H), 5.16−4.69 (m, 5H), 4.63 (d, J = 12.4 Hz, 1H); 13C NMR
+(CDCl3) δ 172.6, 154.5, 142.6, 135.4, 134.9, 130.6, 128.9, 128.6, 128.5,
+128.3, 127.9, 127.3, 125.3, 124.4, 123.6, 110.2, 77.7, 67.7, 59.9, 44.6;
+
+HRMS (ESI-TOF) calcd for C24H21N3NaO5 ([M + Na+]) = 454.1373,
+found 454.1382; IR (KBr) ν = 3308, 3032, 2923, 1957, 1726, 1612,
+1559, 1491, 1468, 1455, 1426, 1374, 1252, 1183, 1051, 915, 845, 752
+cm−1.
+
+tert-Butyl
+
+(1-Methyl-3-(nitromethyl)-2-oxoindolin-3-yl)-
+carbamate (3d). Puriﬁed by ﬂash chromatography (petroleum
+ether/EtOAc = 6:1) to aﬀord a white solid, 26.0 mg, 81% yield,
+30 = −1.66 (c 1.08, CHCl3); HPLC
+86% ee: mp 136−138 °C; [α]D
+(DAICEL CHIRALCEL IA, n-hexane/2-propanol = 70/30, ﬂow rate =
+1.0 mL/min, λ = 254 nm) tR 7.31 min (minor), 8.44 min (major); 1H
+NMR (CDCl3) δ 7.49−7.31 (m, 2H), 7.14−7.06 (m, 1H), 6.90 (d, J =
+7.6 Hz, 1H), 6.00 (s, 1H), 4.92 (d, J = 12.4 Hz, 1H), 4.60 (d, J = 12.4
+Hz, 1H), 3.28 (s, 3H), 1.32 (s, 9H); 13C NMR (CDCl3) δ 172.7,
+153.7, 143.3, 130.4, 125.9, 124.3, 123.5, 108.9, 81.2, 77.8, 59.9, 28.1,
+26.9; HRMS (ESI-TOF) calcd for C15H19N3NaO5 ([M + Na+]) =
+344.1217. Found 344.1217; IR (KBr) ν = 3341, 3011, 2968, 2927,
+1704, 1612, 1563, 1519, 1491, 1471, 1408, 1370, 1320, 1255, 1162,
+1128, 1107, 1054, 1028, 906, 874, 840, 778, 758, 724 cm−1.
+
+tert-Butyl
+
+(1-Benzyl-5-ﬂuoro-3-(nitromethyl)-2-oxoindolin-3-yl)-
+carbamate (3e). Puriﬁed by ﬂash chromatography (petroleum
+ether/EtOAc = 6:1) to aﬀord a white solid, 40.7 mg, 98% yield,
+30 = −4.68 (c 0.790, CHCl3); HPLC
+92% ee: mp 150−152 °C; [α]D
+(DAICEL CHIRALCEL IA, n-hexane/2-propanol = 70/30, ﬂow rate =
+1.0 mL/min, λ = 254 nm) tR 7.07 min (minor), 12.19 min (major); 1H
+NMR (CDCl3) δ 7.41−7.23 (m, 6H), 6.94 (td, J = 8.8, 2.8 Hz, 1H),
+6.68 (dd, J = 8.6, 4.0 Hz, 1H), 5.95 (s, 1H), 5.132−4.955 (m, 2H),
+4.947−4.790 (m, 1H), 4.68 (d, J = 12.4 Hz, 1H), 1.38 (s, 9H); 13C
+NMR (CDCl3) δ 172.8, 160.6, 158.2, 153.8, 138.5 (d, J = 2.2), 134.7,
+129.0, 128.0, 127.3, 116.7 (d, J = 23.4), 113.1 (d, J = 26.1), 110.7 (d, J
+= 7.9), 81.62, 77.4, 60.02, 44.7, 28.1; HRMS (ESI-TOF) calcd for
+C21H22FN3NaO5 ([M + Na+]) = 438.1436, found 438.1437; IR (KBr)
+ν = 3428, 3062, 3031, 2983, 2923, 1719, 1619, 1563, 1493, 1455, 1427,
+1369, 1304, 1276, 1227, 1158, 1055, 993, 913, 882, 854, 821, 726
+cm−1.
+
+tert-Butyl
+
+(1-Benzyl-5-chloro-3-(nitromethyl)-2-oxoindolin-3-yl)-
+carbamate (3f). Puriﬁed by ﬂash chromatography (petroleum
+ether/EtOAc = 6:1) to aﬀord a white solid, 42.7 mg, 99% yield,
+30 = −27.5 (c 0.850, CHCl3); HPLC
+91% ee: mp 156−158 °C; [α]D
+(DAICEL CHIRALCEL IA, n-hexane/2-propanol = 70/30, ﬂow rate =
+1.0 mL/min, λ = 254 nm) tR 6.82 min (minor), 11.66 min (major); 1H
+NMR (CDCl3) δ 7.45 (d, J = 1.6 Hz, 1H), 7.39−7.27 (m, 5H), 7.21
+(dd, J = 8.4, 2.0 Hz, 1H), 6.67 (d, J = 8.4 Hz, 1H), 5.96 (s, 1H), 5.08−
+4.93 (m, 2H), 4.92−4.80 (m, 1H), 4.67 (d, J = 12.6 Hz, 1H), 1.38 (s,
+9H); 13C NMR (CDCl3) δ 172.6, 153.8, 141.1, 134.6, 130.3, 129.0,
+128.0, 127.5, 127.3, 125.1, 111.0, 81.68, 77.5, 59.8, 44.7, 28.2; HRMS
+(ESI-TOF) calcd for C21H22Cl34.9689N3NaO5 ([M + Na+]) = 454.1140,
+found 454.1145; C21H22Cl36.9659N3NaO5 ([M + Na+]) = 456.1111,
+found 456.1130; IR (KBr) ν = 3427, 3031, 2977, 2925, 1720, 1610,
+1564, 1488, 1429, 1369, 1296, 1277, 1159, 1055, 989, 875, 875, 849,
+822, 776, 730 cm−1.
+
+tert-Butyl
+
+(1-Benzyl-5-bromo-3-(nitromethyl)-2-oxoindolin-3-yl)-
+carbamate (3g). Puriﬁed by ﬂash chromatography (petroleum ether/
+EtOAc = 6:1) to aﬀord a white solid, 46.6 mg, 98% yield, 91% ee: mp
+30 = −36.1 (c 0.902, CHCl3); HPLC DAICEL
+149−151 °C; [α]D
+CHIRALCEL IA, n-hexane/2-propanol = 80/20, ﬂow rate = 1.0 mL/
+min, λ = 254 nm, tR 6.98 min (minor), 11.99 min (major); 1H NMR
+(CDCl3) δ 7.58 (s, 1H), 7.39−7.26 (m, 6H), 6.62 (d, J = 8.4 Hz, 1H),
+5.98 (s, 1H), 5.055−4.926 (m, 2H), 4.931−4.811 (m, 1H), 4.67 (d, J =
+12.6 Hz, 1H), 1.38 (s, 9H); 13C NMR (CDCl3) δ 172.5, 153.8, 141.6,
+134.6, 133.2, 129.0, 128.1, 127.9, 127.7, 127.3, 116.2, 111.5, 81.7, 77.5,
+59.8, 44.7, 28.2; HRMS (ESI-TOF) calcd for C21H22Br78.9183N3NaO5
+([M + Na+]) = 498.0635, found 498.0646, C21H22Br80.9163N3NaO5
+([M + Na+]) = 500.0615, found 500.0625; IR (KBr) ν = 3286, 3032,
+2981, 2932, 1713, 1610, 1560, 1534, 1481, 1454, 1427, 1369, 1332,
+1289, 1256, 1161, 1051, 1023, 1000, 875, 845, 813, 778, 719 cm−1.
+(1-Benzyl-5-iodo-3-(nitromethyl)-2-oxoindolin-3-yl)-
+carbamate (3h). Puriﬁed by ﬂash chromatography (petroleum
+ether/EtOAc = 6:1) to aﬀord a white solid, 51.8 mg, 99% yield,
+30 = −46.5 (c 1.81, CHCl3); HPLC
+90% ee: mp 168−170 °C; [α]D
+(DAICEL CHIRALCEL IA, n-hexane/2-propanol = 80/20, ﬂow rate =
+
+tert-Butyl
+</para>
+3335
+
+DOI: 10.1021/acs.joc.5b00075
+J. Org. Chem. 2015, 80, 3332−3338
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+1.0 mL/min, λ = 254 nm) tR 7.37 min (minor), 12.68 min (major); 1H
+NMR (CDCl3) δ 7.65 (s, 1H), 7.47 (d, J = 8.4 Hz, 1H), 7.33−7.13 (m,
+5H), 6.45 (d, J = 8.0 Hz, 1H), 5.91 (s, 1H), 4.98−4.71 (m, 3H), 4.58
+(d, J = 12.8 Hz, 1H), 1.30 (s, 9H); 13C NMR (CDCl3) δ 172.3, 153.8,
+142.3, 139.2, 134.6, 133.1, 129.0, 128.1, 128.1, 127.3, 112.1, 86.0, 81.7,
+77.5, 59.6, 44.6, 28.2; HRMS (ESI-TOF) calcd for C21H22IN3NaO5
+([M + Na+]) = 546.0496, found 546.0502; IR (KBr) ν = 3287, 3031,
+2981, 2927, 1712, 1607, 1558, 1535, 1479, 1453, 1424, 1366, 1331,
+1290, 1257, 1161, 1045, 1022, 1000, 877, 815, 759, 715 cm−1.
+
+tert-Butyl
+
+(1-Benzyl-3-(nitromethyl)-2-oxo-5-(triﬂuoromethoxy)-
+indolin-3-yl)carbamate (3i). Puriﬁed by ﬂash chromatography
+(petroleum ether/EtOAc = 6:1) to aﬀord a white solid, 45.7 mg,
+30 = −5.79 (c 0.518,
+95% yield, 90% ee: mp 106−108 °C; [α]D
+CHCl3); HPLC (DAICEL CHIRALCEL IA, n-hexane/2-propanol =
+70/30, ﬂow rate = 1.0 mL/min, λ = 254 nm) tR 6.39 min (minor), 9.17
+min (major); 1H NMR (CDCl3) δ 7.32 (s, 1H), 7.30−7.17 (m, 5H),
+7.08−7.01 (m, 1H), 6.67 (d, J = 8.6 Hz, 1H), 5.87 (s, 1H), 5.00−4.90
+(m, 2H), 4.80 (d, J = 16.0 Hz, 1H), 4.61 (d, J = 12.8 Hz, 1H), 1.29 (s,
+9H); 13C NMR (CDCl3) δ 172.9, 153.8, 145.1 (d, J = 1.9), 141.3,
+134.5, 129.0, 128.1, 127.4, 123.4, 120.4 (q, J = 255.6), 118.9, 110.5,
+81.9, 59.9, 44.8, 28.1; HRMS (ESI-TOF) calcd for C22H22F3N3NaO6
+([M + Na+]) = 504.1353, found 504.1363; IR (KBr) ν = 3306, 2990,
+1723, 1684, 1621, 1561, 1496, 1454, 1437, 1418, 1396, 1372, 1341,
+1257, 1218, 1166, 1082, 1055, 1024, 975, 928, 879, 854, 810, 743, 701
+cm−1.
+
+tert-Butyl (1-Benzyl-5-methyl-3-(nitromethyl)-2-oxoindolin-3-yl)-
+carbamate (3j). Puriﬁed by ﬂash chromatography (petroleum ether/
+EtOAc = 6:1) to aﬀord a white solid, 40.7 mg, 99% yield, 92% ee: mp
+30 = −6.75 (c 1.42, CHCl3); HPLC (DAICEL
+158−160 °C; [α]D
+CHIRALCEL IA, n-hexane/2-propanol = 70/30, ﬂow rate = 1.0 mL/
+min, λ = 254 nm) tR 7.21 min (minor), 14.94 min (major); 1H NMR
+(CDCl3) δ 7.41−7.29 (m, 4H), 7.29−7.218 (m, 2H), 7.03 (d, J = 7.6
+Hz, 1H), 6.64 (d, J = 8.0 Hz, 1H), 5.98 (s, 1H), 5.083−4.923 (m, 2H),
+4.86 (d, J = 15.6 Hz, 1H), 4.65 (d, J = 12.4 Hz, 1H), 2.28 (s, 3H), 1.36
+(s, 9H); 13C NMR (CDCl3) δ 172.8, 153.8, 140.0, 135.2, 133.2, 130.6,
+128.9, 127.8, 127.4, 125.9, 125.1, 109.8, 81.2, 77.9, 60.0, 44.5, 28.2,
+21.1; HRMS (ESI-TOF) calcd for C22H25N3NaO5 ([M + Na+]) =
+434.1686, found 434.1688; IR (KBr) ν = 3317, 3032, 2975, 2926,
+1703, 1622, 1607, 1563, 1528, 1499, 1452, 1428, 1368, 1315, 1280,
+1250, 1199, 1165, 1032, 910, 861, 829, 780, 726 cm−1.
+
+tert-Butyl
+
+(1-Benzyl-6-chloro-3-(nitromethyl)-2-oxoindolin-3-yl)-
+carbamate (3k). Puriﬁed by ﬂash chromatography (petroleum
+ether/EtOAc = 6:1) to aﬀord a white solid, 42.3 mg, 98% yield,
+30 = −9.71 (c 0.680, CHCl3); HPLC
+94% ee: mp 132−134 °C; [α]D
+(DAICEL CHIRALCEL IA, n-hexane/2-propanol = 80/20, ﬂow rate =
+1.0 mL/min, λ = 254 nm) tR 6.15 min (minor), 9.61 min (major); 1H
+NMR (CDCl3) δ 7.43−7.27 (m, 6H), 7.03 (dd, J = 8.0, 1.6 Hz, 1H),
+6.76 (d, J = 1.4 Hz, 1H), 5.94 (s, 1H), 5.07−4.95 (m, 2H), 4.86 (d, J =
+15.6 Hz, 1H), 4.63 (d, J = 12.4 Hz, 1H), 1.37 (s, 9H); 13C NMR
+(CDCl3) δ 173.0, 153.8, 143.8, 136.3, 134.5, 129.1, 128.1, 127.3, 125.6,
+124.2, 123.5, 110.7, 81.6, 77.6, 59.5, 44.7, 28.1; HRMS (ESI-TOF)
+calcd for C21H22Cl34.9689N3NaO5 ([M + Na+]) = 454.1140, found
+454.1148; C21H22Cl36.9659N3NaO5 ([M + Na+]) = 456.1111, found
+456.1134; IR (KBr) ν = 3317, 3071, 3032, 2976, 2925, 1737, 1705,
+1614, 1557, 1533, 1491, 1448, 1425, 1374, 1291, 1256, 1221, 1162,
+1118, 1074, 1047, 1025, 1000, 914, 883, 844, 761, 718 cm−1.
+
+tert-Butyl
+
+(1-Benzyl-6-bromo-3-(nitromethyl)-2-oxoindolin-3-yl)-
+carbamate (3l). Puriﬁed by ﬂash chromatography (petroleum ether/
+EtOAc = 6:1) to aﬀord a white solid, 45.7 mg, 96% yield, 93% ee: mp
+30 = −10.8 (c 0.814, CHCl3); HPLC (DAICEL
+156−158 °C; [α]D
+CHIRALCEL IA, n-hexane/2-propanol = 80/20, ﬂow rate = 1.0 mL/
+min, λ = 254 nm) tR 6.24 min (minor), 9.76 min (major).1H NMR
+(CDCl3) δ 7.38−7.27 (m, 6H), 7.16−7.21 (m, 1H), 6.91 (s, 1H), 5.95
+(s, 1H), 5.03−4.95 (m, 2H), 4.86 (d, J = 15.7 Hz, 1H), 4.63 (d, J =
+12.5 Hz, 1H), 1.37 (s, 9H); 13C NMR (CDCl3) δ 172.9, 153.8, 143.9,
+134.5, 129.1, 128.1, 127.3, 126.4, 125.9, 124.8, 124.2, 113.4, 81.6, 77.5,
+59.6, 44.7, 28.1; HRMS (ESI-TOF) calcd for C21H22Br78.9183N3NaO5
+([M + Na+]) = 498.0635, found 498.0644, C21H22Br80.9163N3NaO5
+([M + Na+]) = 500.0615, found 500.0627; IR (KBr) ν = 3320, 3066,
+3032, 2976, 2932, 1736, 1705, 1608, 1555, 1532, 1488, 1452, 1441,
+
+1423, 1372, 1290, 1256, 1221, 1163, 1119, 1060, 1025, 999, 912, 885,
+840, 785, 761, 719 cm−1.
+
+tert-Butyl
+
+(1-Benzyl-7-ﬂuoro-3-(nitromethyl)-2-oxoindolin-3-yl)-
+carbamate (3m). Puriﬁed by ﬂash chromatography (petroleum
+ether/EtOAc = 6:1) to aﬀord a white solid, 41.1 mg, 99% yield,
+30 = −7.18 (c 1.62, CHCl3); HPLC
+93% ee: mp 54−56 °C; [α]D
+(DAICEL CHIRALCEL IA, n-hexane/2-propanol = 70/30, ﬂow rate
+=1.0 mL/min, λ = 254 nm) tR 6.83 min (minor), 13.31 min (major);
+1H NMR (CDCl3) δ 7.40 (d, J = 7.4 Hz, 2H), 7.36−7.24 (m, 3H),
+7.18 (d, J = 6.6 Hz, 1H), 7.08−6.94 (m, 2H), 6.09 (s, 1H), 5.09 (dd, J
+= 38.9, 15.3 Hz, 2H), 4.91 (d, J = 12.5 Hz, 1H), 4.58 (d, J = 12.5 Hz,
+1H), 1.34 (s, 9H); 13C NMR (CDCl3) δ 172.7, 153.7, 148.9, 146.5,
+136.4, 129.2 (d, J = 9.1), 128.7, 127.8, 127.6, 124.3 (d, J = 6.4), 120.1,
+118.6 (d, J = 19.4), 81.6, 77.8, 60.0 (d, J = 2.4), 46.2 (d, J = 4.8), 28.1;
+HRMS (ESI-TOF) calcd for C21H22FN3NaO5 ([M + Na+]) =
+438.1436, found 438.1441; IR (KBr) ν = 3339, 2979, 2933, 1721,
+1632, 1604, 1561, 1490, 1425, 1368, 1279, 1250, 1162, 1060, 1025,
+921, 858, 779, 731 cm−1.
+
+tert-Butyl
+
+(1-Benzyl-7-chloro-3-(nitromethyl)-2-oxoindolin-3-yl)-
+carbamate (3n). Puriﬁed by ﬂash chromatography (petroleum
+ether/EtOAc = 6:1) to aﬀord a white solid, 40.6 mg, 94% yield,
+89% ee: mp 100−102 °C; [α]D
+30 = +2.00 (c 0.802, CHCl3); HPLC
+(DAICEL CHIRALCEL IA, n-hexane/2-propanol = 70/30, ﬂow rate =
+1.0 mL/min, λ = 254 nm) tR 6.09 min (minor), 11.13 min (major); 1H
+NMR (CDCl3) δ 7.37−7.28 (m, 5H), 7.27−7.22 (m, 2H), 7.00 (t, J =
+7.8 Hz, 1H), 6.09 (s, 1H), 5.38 (dd, J = 16 Hz, J = 28.4 Hz, 2H), 4.90
+(d, J = 12.4 Hz, 1H), 4.59 (d, J = 12.4 Hz, 1H), 1.36 (s, 9H); 13C
+NMR (CDCl3) δ 173.6, 153.6, 138.7, 136.9, 133.0, 128.9, 128.7, 127.4,
+126.6, 124.4, 122.6, 116.3, 81.6, 77.9, 59.5, 45.7, 28.1; HRMS (ESI-
+TOF) calcd for C21H22Cl34.9689N3NaO5 ([M + Na+]) = 454.1140,
+found 454.1140; C21H22Cl36.9659N3NaO5 ([M + Na+]) = 456.1111,
+found 456.1128; IR (KBr) ν = 3327, 3065, 3031, 2977, 2936, 1937,
+1713, 1612, 1559, 1520, 1457, 1423, 1364, 1335, 1281, 1255, 1159,
+1082, 1022, 1001, 919, 873, 837, 819, 798, 779, 732 cm−1.
+
+tert-Butyl
+
+(1-Benzyl-7-bromo-3-(nitromethyl)-2-oxoindolin-3-yl)-
+carbamate (3o). Puriﬁed by ﬂash chromatography (petroleum ether/
+EtOAc = 6:1) to aﬀord a white solid, 47.1 mg, 99% yield, 90% ee: mp
+126−128 °C; [α]D
+30 = +4.75 (c 1.87, CHCl3); HPLC (DAICEL
+CHIRALCEL IA, n-hexane/2-propanol = 70/30, ﬂow rate = 1.0 mL/
+min, λ = 254 nm) tR 6.12 min (minor), 11.51 min (major); 1H NMR
+(CDCl3) δ 7.36 (d, J = 8.4 Hz, 1H), 7.33−7.21 (m, 5H), 7.20−7.13
+(m, 1H), 6.86 (t, J = 8.0 Hz, 1H), 6.01 (s, 1H), 5.35 (dd, J = 40.0, 16.4
+Hz, 2H), 4.82 (d, J = 12.4 Hz, 1H), 4.51 (d, J = 12.4 Hz, 1H), 1.29 (s,
+9H); 13C NMR (CDCl3) δ 173.8, 153.6, 140.1, 136.9, 136.4, 129.2,
+128.7, 127.3, 126.5, 124.7, 123.2, 103.3, 81.7, 77.9, 59.4, 45.4, 28.1;
+HRMS (ESI-TOF) calcd for C21H22Br78.9183N3NaO5 ([M + Na+]) =
+498.0635, found 498.0646, C21H22Br80.9163N3NaO5 ([M + Na+]) =
+500.0615, found 500.0625; IR (KBr) ν = 3327, 3064, 3030, 2977,
+2934, 1712, 1609, 1558, 1519, 1453, 1422, 1364, 1335, 1282, 1255,
+1255, 1158, 1124, 1082, 1022, 873, 829, 780, 731 cm−1.
+
+tert-Butyl
+
+(1-Benzyl-3-(nitromethyl)-2-oxo-7-(triﬂuoromethyl)-
+indolin-3-yl)carbamate (3p). Puriﬁed by ﬂash chromatography
+(petroleum ether/EtOAc = 6:1) to aﬀord a white solid, 43.7 mg,
+30 = −9.56 (c 0.868,
+94% yield, 89% ee: mp 124−126 °C; [α]D
+CHCl3); HPLC (DAICEL CHIRALCEL IA, n-hexane/2-propanol =
+70/30, ﬂow rate = 1.0 mL/min, λ = 254 nm) tR 6.15 min (minor),
+10.31 min (major); 1H NMR (CDCl3) δ7.63−7.49 (m, 2H), 7.26−
+7.07 (m, 6H), 5.97 (s, 1H), 5.14 (s, 2H), 4.82 (d, J = 12.4 Hz, 1H),
+4.51 (d, J = 12.4 Hz, 1H), 1.28 (s, 9H); 13C NMR (CDCl3) δ 174.4,
+153.6, 141.0, 135.7, 129.9, 128.3−128.6 (m), 127.8, 127.1, 125.9,
+123.0, 113.7(q, J = 32.9), 81.8, 77.8, 58.3, 46.7, 46.7, 29.7, 28.1; HRMS
+(ESI-TOF) calcd for C22H22F3N3NaO5 ([M + Na+]) = 488.1404,
+found 488.1408; IR (KBr) ν = 3328, 3071, 3015, 2980, 2937, 1713,
+1602, 1561, 1518, 1455, 1367, 1326, 1284, 1256, 1169, 1128, 1104,
+1049, 1008, 919, 873, 819, 793, 748, 730, 705 cm−1.
+
+tert-Butyl (1-Benzyl-5,7-dimethyl-3-(nitromethyl)-2-oxoindolin-3-
+yl)carbamate (3q). Puriﬁed by ﬂash chromatography (petroleum
+ether/EtOAc = 6:1) to aﬀord a white solid, 37.8 mg, 89% yield, 89%
+30 = −20.5 (c 0.716, CHCl3); HPLC
+ee: mp 130−132 °C; [α]D
+(DAICEL CHIRALCEL IA, n-hexane/2-propanol = 80/20, ﬂow rate =
+</para>
+3336
+
+DOI: 10.1021/acs.joc.5b00075
+J. Org. Chem. 2015, 80, 3332−3338
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+1.0 mL/min, λ = 254 nm) tR 6.52 min (minor), 14.52 min (major); 1H
+NMR (CDCl3) δ 7.36−7.21 (m, 6H), 7.07 (s, 1H), 6.83 (s, 1H), 6.06
+(s, 1H), 5.18 (s, 2H), 4.88 (d, J = 12.0 Hz, 1H), 4.63 (d, J = 12.0 Hz,
+1H), 2.25 (s, 3H), 2.21 (s, 3H), 1.38 (s, 9H); 13C NMR (CDCl3) δ
+173.9, 153.8, 138.0, 137.2, 134.9, 133.2, 128.9, 127.3, 126.8, 125.9,
+122.6, 120.3, 81.2, 78.4, 59.6, 45.8, 28.2, 20.8, 18.7; HRMS (ESI-TOF)
+calcd for C23H27N3NaO5 ([M + Na+]) = 448.1852, found 448.1852;
+IR (KBr) ν = 3445, 3031, 2980, 2925, 1719, 1604, 1566, 1487, 1414,
+1366, 1326, 1274, 1254, 1157, 1050, 1028, 1002, 906, 867, 843, 771,
+720 cm−1.
+
+tert-Butyl (1-Benzyl-3-(1-nitroethyl)-2-oxoindolin-3-yl)carbamate
+(3r). Puriﬁed by ﬂash chromatography (petroleum ether/EtOAc = 6:1)
+to aﬀord a white solid, 40.7 mg, 99% yield, 65:35 dr 92%/93% ee: mp
+92−94 °C; HPLC (DAICEL CHIRALCEL IA, n-hexane/2-propanol =
+80/20, ﬂow rate = 1.0 mL/min, λ = 254 nm) tR 6.89 min (minor), 7.39
+min (minor), 10.85 min (major), 17.74 min (major); 1H NMR
+(CDCl3) δ 7.44−7.14 (m, 7H), 7.09−6.98 (m, 1H), 6.84−6.72 (m,
+1H), 6.15 (d, J = 5.8 Hz, 1H), 5.19−4.66 (m, 3H), 1.72 (d, J = 6.9 Hz,
+1H), 1.38−1.24 (m, 11H); 13C NMR (CDCl3) δ 173.4, 172.4, 153.9,
+153.4, 143.4, 142.4, 135.4, 135.2, 130.2, 130.1, 128.9, 128.9, 127.9,
+127.6, 127.4, 127.0, 124.7, 124.3, 123.4, 123.2, 123.2, 109.7, 109.5,
+85.6, 84.8, 81.1, 62.7, 62.0, 44.7, 44.5, 28.1, 13.2, 13.0; HRMS (ESI-
+TOF) calcd for C22H25N3NaO5 ([M + Na+]) = 434.1686,
+found
+434.1696; IR (KBr) ν = 3322, 3036, 2964, 2925, 2364, 1709, 1611,
+1558, 1531, 1485, 1467, 1362, 1284, 1255, 1160, 1098, 1035, 1004,
+976, 872, 843, 807, 758 cm−1.
+
+3-Amino-1-benzyl-3-(nitromethyl)indolin-2-one (4). To a solution
+of 3a (0.1 mmol, 39.7 mg) in CH2Cl2 (1.0 mL) was added CF3CO2H
+(1.0 mL) at 0 °C. The mixture was allowed to stir for 2 h. Then the
+mixture was neutralized with K2CO3, washed with brine, and dried
+over Na2SO4. After evaporation of the solvent, the product 4 was
+puriﬁed on silica gel chromatography (pet/EtOAc = 3/1) to aﬀord a
+white solid, 28.5 mg, 96% yield, 94% ee: mp 58−60 °C; [α]D
+30 =
+−53.2 (c 0.528, CHCl3); HPLC (DAICEL CHIRALCEL ID, n-
+hexane/2-propanol = 70/30, ﬂow rate = 1.0 mL/min, λ = 254 nm) tR
+12.32 min (minor), 14.67 min (major); 1H NMR (CDCl3) δ 7.35−
+7.12 (m, 7H), 6.99 (t, J = 7.6 Hz, 1H), 6.69 (d, J = 8.0 Hz, 1H), 4.96
+(d, J = 15.6 Hz, 1H), 4.87−4.68 (m, 3H), 1.85 (s, 2H); 13C NMR
+(CDCl3) δ 177.0, 143.0, 135.2, 130.5 128.9, 127.9, 127.3, 127.3, 123.9,
+123.4, 110.2, 79.3, 59.0, 44.3, 29.7; HRMS (ESI-TOF) calcd for
+C16H15N3NaO3 ([M + Na+]) = 320.1006, found 320.1008; IR (KBr) ν
+= 3369, 3061, 3031, 2922, 1719, 1613, 1551, 1490, 1468, 1422, 1378,
+1177, 1112, 1080, 991, 862, 753, 701 cm−1.
+
+tert-Butyl
+
+(3-(Aminomethyl)-1-benzyl-2-oxoindolin-3-yl)-
+carbamate (5). To a solution of the compound 3a (0.2 mmol, 79.4
+mg) in methanol (2.0 mL) at 0 °C was added NiCl2 (0.2 mmol, 25.8
+mg) followed by NaBH4 (2.4 mmol, 90.7 mg) under nitrogen. The
+mixture was stirred for 2 h. Then saturated aqueous NH4Cl (8 mL)
+was added, and the mixture was extracted with CH2Cl2, washed with
+brine, dried over MgSO4, and concentrated under reduced pressure.
+The product 5 was puriﬁed on silica gel chromatography (pet/EtOAc
+= 1/1) to aﬀord a white solid, 33.4 mg, 91% yield, 94% ee: mp 50−52
+30 = −19.6 (c 1.08, CHCl3); HPLC (DAICEL CHIRALCEL
+°C; [α]D
+IA, n-hexane/2-propanol = 70/30, ﬂow rate =1.0 mL/min, λ = 254
+nm) tR 7.11 min (minor), 10.13 min (major); 1H NMR (CDCl3) δ
+7.40−7.22 (m, 6H), 7.21−7.14 (m, 1H), 7.02 (t, J = 7.6 Hz, 1H), 6.71
+(d, J = 7.6 Hz, 1H), 6.28 (s, 1H), 5.13 (s, 1H), 4.77 (s, 1H), 3.02 (s,
+2H), 1.82 (s, 2H), 1.26 (s, 9H); 13C NMR (CDCl3) δ 176.8, 154.6,
+142.5, 135.9, 130.1, 128.8, 127.6, 127.3, 122.7, 122.5, 109.3, 80.3, 62.2,
+48.4, 44.0, 29.7, 28.1; HRMS (ESI-TOF) calcd for C21H25N3NaO3
+([M + H+]) = 368.1969, found 368.1971; IR (KBr) ν = 3343, 3060,
+2969, 2930, 2866, 1718, 1615, 1467, 1365, 1279, 1172, 1075, 1005,
+879, 749 cm−1.
+
+tert-Butyl
+
+(1-Benzyl-3-cyano-2-oxoindolin-3-yl)carbamate (6).
+The compound 3a (0.3 mmol, 119.1) was added to a solution of
+·2H2O (0.60 mmol, 136.0 mg), thiophenol (1.78 mmol, 183 μL),
+SnCl2
+and triethylamine (1.78 mmol, 247 μL) in absolute EtOH (2.0 mL) at
+room temperature. After 20 min, the reaction mixture was poured into
+1 M aqueous HCl (8 mL) and CH2Cl2 (10 mL) at 0 °C. The layers
+were separated, and the aqueous layer was extracted with CH2Cl2 (3 ×
+
+10 mL). The organic layer was washed with aqueous NaHCO3 (5 mL)
+and brine (5 mL) and dried over MgSO4. After removal of the solvent,
+the residue was chromatographed through a short plug of silica gel
+eluting with pet/EtOAc = 3:1 to remove the excess thiophenol and
+then with EtOAc. The EtOAc fraction was concentrated under
+reduced pressure to give a stereoismeric mixture of oximes. To the
+solution of oximes in THF (5.0 mL) at 0 °C under nitrogen
+atmosphere were added triethylamine (1.12 mmol, 155 μL) and SOCl2
+(0.34 mmol, 25 μL). After 45 min, water (8 mL) was added, and the
+mixture was extracted with EtOAc (2 × 15 mL), washed with brine (3
+mL), dried over MgSO4, and concentrated under reduced pressure.
+Column chromatography eluting with pet/EtOAc = 5/1 gave the
+compound 6 as a white solid, 78.3 mg, 75% yield, 93% ee: mp 58−60
+°C; [α]D
+30 = 72.4 (c 1.30, CHCl3); HPLC (DAICEL CHIRALCEL
+ID, n-hexane/2-propanol = 90/10, ﬂow rate = 1.0 mL/min, λ = 254
+nm) tR 30.19 min (major), 32.53 min (minor); 1H NMR (CDCl3) δ
+7.73 (d, J = 7.6 Hz, 1H), 7.30−7.14 (m, 6H), 7.04 (t, J = 7.6 Hz, 1H),
+6.67 (d, J = 8.0 Hz, 1H), 5.76 (s, 1H), 4.93−4.76 (m, 2H), 1.34 (s,
+9H); 13C NMR (CDCl3) δ 168.3, 153.7, 142.2, 134.3, 131.2, 129.0,
+128.1, 127.3, 126.2, 124.8, 124.3, 114.7, 110.3, 82.4, 54.9, 44.9, 28.1;
+HRMS (ESI-TOF) calcd for C21H21N3NaO3 ([M + Na+]) = 386.1475,
+found 386.1485; IR (KBr) ν = 3319, 3063, 2979, 2933, 2247, 2247,
+1612, 1489, 1370, 1278, 1253, 1160, 1106, 1080, 1044, 1019, 940.96,
+869, 753 cm−1.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Full optimization details, 1H and 13C NMR spectra, and HPLC
+data and X-ray crystal data of compounds 1d and 3a (CIF).
+This material
+is available free of charge via the Internet at
+http://pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Authors
+*E-mail: liuxh@scu.edu.cn.
+*E-mail: xmfeng@scu.edu.cn.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We thank the National Natural Science Foundation of China
+(21222206, 21321061), the Ministry of Education (NCET-11-
+0345), and Fok Ying Tung Education Foundation (141115) for
+ﬁnancial support.
+
+■ REFERENCES
+(1) For review on application of guanidines in organic synthesis, see:
+(a) Ishikawa, T.; Kumamoto, T. Synthesis 2006, 737−752. Bicyclic
+guanidine was shown to bind tightly to nitroalkanes to form an ion
+pair, see: (b) Boyle, P. H.; Convery, M. A.; Davis, A. P.; Hosken, G.
+D.; Murray, B. A. J. Chem. Soc., Chem. Commun. 1992, 239−242.
+(c) van Aken, E.; Wynberg, H.; van Bolhuis, F. J. Chem. Soc., Chem.
+Commun. 1992, 629−630. (d) Ishikawa, T. In Superbases for Organic
+Synthesis; Ishikawa, T., Ed.; Wiley: Chichester, 2009; pp 93−143.
+(e) Liu, X. H.; Lin, L. L.; Feng, X. M. Chem. Commun. 2009, 6145−
+6158.
+(2) For reviews on guanidium-based anionic receptors, see: (a) Best,
+M. D.; Tobey, S. L.; Anslyn, E. V. Coord. Chem. Rev. 2003, 240, 3−15.
+(b) Schug, K. A.; Lindner, W. Chem. Rev. 2005, 105, 67−113.
+(c) Blondeau, P.; Segura, M.; Pérez-Fernández, R.; de Mendoza, J.
+Chem. Soc. Rev. 2007, 36, 198−210.
+(3) (a) Hannon, C. L.; Anslyn, E. V. In Bioorganic Chemistry
+Frontiers; Dugas, H., Ed.; Springer-Verlag: Berlin, 1993; Vol. 3 pp
+193−256. (b) Yamamoto, Y.; Kojima, S. In The Chemistry of Amidines
+and Imidates; Patai, S., Rappoport, Z., Eds.; Wiley: New York, 1991;
+Vol. 2, pp 485−526.
+
+3337
+
+DOI: 10.1021/acs.joc.5b00075
+J. Org. Chem. 2015, 80, 3332−3338
+
+The Journal of Organic Chemistry
+(4) For selected reviews on guanidine-catalyzed reactions, see:
+(a) Leow, D.; Tan, C.-H. Chem.Asian J. 2009, 4, 488−507.
+(b) Terada, M. J. Synth. Org. Chem., Jpn. 2010, 68, 1159−1168. (c) Fu,
+X.; Tan, C.-H. Chem. Commun. 2011, 47, 8210−8222. (d) Rauws, T.
+R. M.; Maes, B. U. W. Chem. Soc. Rev. 2012, 41, 2463−2497.
+(e) Taylor, J. E.; Bull, S. D.; Williams, J. M. J. Chem. Soc. Rev. 2012, 41,
+2109−2121. (f) Selig, P. Synthesis 2013, 45, 703−718.
+(5) For selected examples of guanidine-catalyzed reactions, see:
+(a) Chinchilla, R.; Nájera, C.; Sánchez-Agulló, P. Tetrahedron:
+Asymmetry 1994, 5, 1393−1402. (b) Ishikawa, T.; Araki, Y.;
+Kumamoto, T.; Seki, H.; Fukuda, K.; Isobe, T. Chem. Commun.
+2001, 245−246. (c) Terada, M.; Ube, H.; Yaguchi, Y. J. Am. Chem. Soc.
+2006, 128, 1454−1455. (d) Sohtome, Y.; Hashimoto, Y.; Nagasawa, K.
+Adv. Synth. Catal. 2005, 347, 1643−1648. (e) Corey, E. J.; Grogan, M.
+J. Org. Lett. 1999, 1, 157−160. (f) Shen, J.; Nguyen, T. T.; Goh, Y.-P.;
+Ye, W.; Fu, X.; Xu, J.; Tan, C.-H. J. Am. Chem. Soc. 2006, 128, 13692−
+13693. (g) Misaki, T.; Takimoto, G.; Sugimura, T. J. Am. Chem. Soc.
+2010, 132, 6286−6287. (h) Fu, X.; Loh, W.-T.; Zhang, Y.; Chen, T.;
+Ma, T.; Liu, H.; Wang, J.; Tan, C.-H. Angew. Chem., Int. Ed. 2009, 48,
+7387−7390.
+(6) (a) Yu, Z. P.; Liu, X. H.; Zhou, L.; Lin, L. L.; Feng, X. M. Angew.
+Chem., Int. Ed. 2009, 48, 5195−5198. (b) Dong, S. X.; Liu, X. H.;
+Chen, X. H.; Mei, F.; Zhang, Y. L.; Gao, B.; Lin, L. L.; Feng, X. M. J.
+Am. Chem. Soc. 2010, 132, 10650−10651. (c) Dong, S. X.; Liu, X. H.;
+Zhang, Y. L.; Lin, L. L.; Feng, X. M. Org. Lett. 2011, 13, 5060−5063.
+(d) Xiao, X.; Liu, X. H.; Dong, S. X.; Cai, Y. F.; Lin, L. L.; Feng, X. M.
+Chem.Eur. J. 2012, 18, 15922−15926. (e) Yang, Y.; Dong, S. X.; Liu,
+X. H.; Lin, L. L.; Feng, X. M. Chem. Commun. 2012, 48, 5040−5042.
+(f) Dong, S. X.; Liu, X. H.; Zhu, Y.; He, P.; Lin, L. L.; Feng, X. M. J.
+Am. Chem. Soc. 2013, 135, 10026−10029. (g) Zhu, Y.; Liu, X. H.;
+Dong, S. X.; Zhou, Y. H.; Li, W.; Lin, L. L.; Feng, X. M. Angew. Chem.,
+Int. Ed. 2014, 53, 1636−1640.
+(7) For selected reviews about aza-Henry reactions, see: (a) West-
+ermann, B. Angew. Chem., Int. Ed. 2003, 42, 151−153. (b) Marqués-
+López, E.; Merino, P.; Tejero, T.; Herrera, R. P. Eur. J. Org. Chem.
+2009, 2401−2420. (c) Noble, A.; Anderson, J. C. Chem. Rev. 2013,
+113, 2887−2939.
+(8) (a) Yamada, K.-i; Harwood, S. J.; Gröger, H.; Shibasaki, M.
+Angew. Chem., Int. Ed. 1999, 38, 3504−3506. (b) Knudsen, K. R.;
+Risgaard, T.; Nishiwaki, N.; Gothelf, K. V.; Jørgensen, K. A. J. Am.
+Chem. Soc. 2001, 123, 5843−5844. (c) Nishiwaki, N.; Knudsen, K. R.;
+Gothelf, K. V.; Jørgensen, K. A. Angew. Chem., Int. Ed. 2001, 40, 2992−
+2995. (d) Palomo, C.; Oiarbide, M.; Halder, R.; Laso, A.; López, R.
+Angew. Chem., Int. Ed. 2006, 45, 117−120. (e) Chen, Z.; Morimoto,
+H.; Matsunaga, S.; Shibasaki, M. J. Am. Chem. Soc. 2008, 130, 2170−
+2171. (f) Nugent, B. M.; Yoder, R. A.; Johnston, J. N. J. Am. Chem. Soc.
+2004, 126, 3418−3419. (g) Yoon, T. P.; Jacobsen, E. N. Angew. Chem.,
+Int. Ed. 2005, 44, 466−468. (h) Singh, A.; Yoder, R. A.; Shen, B.;
+Johnston, J. N. J. Am. Chem. Soc. 2007, 129, 3466−3467. (i) Wang, C.-
+J.; Dong, X.-Q.; Zhang, Z.-H.; Xue, Z.-Y.; Teng, H.-L. J. Am. Chem. Soc.
+2008, 130, 8606−8607. (j) Singh, A.; Johnston, J. N. J. Am. Chem. Soc.
+2008, 130, 5866−5867.
+(9) For examples of nitro-Mannich reaction of ketimines, see:
+(a) Tan, C.; Liu, X. H.; Wang, L. W.; Wang, J.; Feng, X. M. Org. Lett.
+2008, 10, 5305−5308. (b) Xie, H.; Zhang, Y.; Zhang, S.; Chen, X.;
+Wang, W. Angew. Chem., Int. Ed. 2011, 50, 11773−11776. (c) Parra,
+A.; Alfaro, R.; Marzo, L.; Moreno-Carrasco, A.; Ruano, J. L. G.;
+Alemán, J. Chem. Commun. 2012, 48, 9759−9761. (d) Núñez, M. G.;
+Farley, A. J. M.; Dixon, D. J. J. Am. Chem. Soc. 2013, 135, 16348−
+16351.
+(10) (a) Lin, H.; Danishefsky, S. J. Angew. Chem., Int. Ed. 2003, 42,
+36−51. (b) Zhou, F.; Liu, Y.-L.; Zhou, J. Adv. Synth. Catal. 2010, 352,
+1381−1407. (c) Galliford, C. V.; Scheidt, K. A. Angew. Chem., Int. Ed.
+2007, 46, 8748−8758. (d) Bernard, K.; Bogliolo, S.; Ehrenfeld, J. Br. J.
+Pharmacol. 2005, 144, 1037−1050. (e) Claudine, S-L. G.; Sylvain, D.;
+Gabrielle, B.; Maurice, M.; Jacques, S.; Rolf, G.; Guy, G.; Gilles, G.
+Stress 2003, 6, 199−206. (f) Horoszok, L.; Leung, C.; Tomaszewski,
+M.; Walpole, C. PCT Int. Appl. WO2007091946, 2007. (g) Shen, K.;
+Liu, X. H.; Lin, L. L.; Feng, X. M. Chem. Sci. 2012, 3, 327−334.
+
+Note
+
+(11) (a) Lesma, G.; Landoni, N.; Pilati, T.; Sacchetti, A.; Silvani, A. J.
+Org. Chem. 2009, 74, 4537−4541. (b) Mouri, S.; Chen, Z.;
+Mitsunuma, H.; Furutachi, M.; Matsunaga, S.; Shibasak, M. J. Am.
+Chem. Soc. 2010, 132, 1255−1257. (c) Jung, H. H.; Buesking, A. W.;
+Ellman, J. A. Org. Lett. 2011, 13, 3912−3915. (d) Shen, K.; Liu, X. H.;
+Wang, G.; Lin, L. L.; Feng, X. M. Angew. Chem., Int. Ed. 2011, 50,
+4684−4688. (e) Yang, Z. G.; Wang, Z.; Bai, S.; Shen, K.; Chen, D. H.;
+Liu, X. H.; Lin, L. L.; Feng, X. M. Chem.Eur. J. 2010, 16, 6632−
+6637. (f) Lesma, G.; Meneghetti, F.; Sacchetti, A.; Stucchi, M.; Silvani,
+A. Beilstein J. Org. Chem. 2014, 10, 1383−1389.
+(12) (a) Arai, T.; Matsumura, E.; Masu, H. Org. Lett. 2014, 16,
+2768−2771. (b) Holmquist, M.; Blay, G.; Pedro, J. R. Chem. Commun.
+2014, 50, 9309−9312.
+(13) (a) Wang, Y.-H.; Liu, Y.-L.; Cao, Z.-Y.; Zhou, J. Asian J. Org.
+Chem. 2014, 3, 429−432. (b) Wang, Y.-H.; Cao, Z.-Y.; Niu, Y.; Zhao,
+X.; Zhou, J. Acta. Chim. Sin. 2014, 72, 867−872.
+(14) Kumar, A.; Kaur, J.; Chimni, S. S.; Jassal, A. K. RSC Adv. 2014,
+4, 24816−24819.
+(15) CCDC 1034682 (3a) and CCDC 1034663 (1d) contain the
+supplementary crystallographic data for this paper. These data can be
+obtained free of charge from the Cambridge Crystallographic Data
+Centre via www.ccdc.cam.ac.uk./data_request/cif.
+(16) Wei, Y.; He, W.; Liu, Y.; Liu, P.; Zhang, S. Org. Lett. 2012, 14,
+704−707.
+(17) Sacchetti, A.; Silvani, A.; Gatti, F. G.; Lesma, G.; Pilati, T.;
+Trucchi, B. Org. Biomol. Chem. 2011, 9, 5515−5522.
+(18) The product was generated in 91% yield, 30% ee by the use of
+1f as the catalyst.
+
+3338
+
+DOI: 10.1021/acs.joc.5b00075
+J. Org. Chem. 2015, 80, 3332−3338
+
+

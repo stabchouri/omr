@@ -1,0 +1,1027 @@
+Note
+
+pubs.acs.org/joc
+
+A One-Pot O‑Sulﬁnative Passerini/Oxidation Reaction: Synthesis of
+α‑(Sulfonyloxy)amide Derivatives
+Takahiro Soeta,* Syunsuke Matsuzaki, and Yutaka Ukaji*
+
+Division of Material Chemistry, Graduate School of Natural Science and Technology, Kanazawa University, Kakuma, Kanazawa
+920-1192, Japan
+*S Supporting Information
+
+ABSTRACT: We have developed a one-pot O-sulﬁnative
+Passerini/oxidation reaction,
+in which a combination of an
+aldehyde, an isocyanide, and a sulﬁnic acid react, followed by
+the addition of mCPBA as an oxidant
+to give the
+corresponding α-(sulfonyloxy)amides in high yields. This
+reaction is the ﬁrst reported demonstration of an isocyanide-
+based multicomponent reaction using a sulﬁnic acid in place of a carboxylic acid. A wide range of aldehydes and isocyanides are
+applicable to this reaction.
+
+M ulticomponent reactions of
+
+isocyanides, such as the
+Passerini and Ugi reactions, are very useful synthetic
+tools for the construction of diverse complex molecules. The
+Passerini reaction, in particular, has been found useful for the
+construction of polyfunctional molecules such as α-acylox-
+yamide in a practical, one-pot process. Since Passerini’s
+development of this multicomponent reaction in 1921,1 various
+modiﬁcations have been reported,2 although it is only recently
+that other species have been substituted for carboxylic acid.
+Typically, a carboxylic acid is a crucial component of the
+mixture due to the speciﬁc mechanism by which the Passerini
+reaction progresses. This mechanism, which has been widely
+studied, appears to involve activation of an aldehyde by the
+carboxylic acid,
+followed by addition of an isocyanide and
+trapping of
+the resulting nitrilium intermediate by the
+carboxylate to aﬀord the ﬁnal product by migration of the
+acyl group onto the oxygen atom derived from the aldehyde.
+Therefore,
+the presence of carboxylic acid is generally a
+necessity during the reaction of an isocyanide with an aldehyde,
+or with an imine, as in the Ugi reaction. This requirement for a
+carboxylic acid unfortunately limits the application of
+this
+reaction to the synthesis of a narrow range of molecules.
+Several examples using other components in place of carboxylic
+acids have been reported to date. One example is the O-
+arylative Passerini
+reaction using nitrophenol derivatives,
+developed by El Kaim and Grimaud in 2006.3 A direct
+alkylative Passerini reaction of an aldehyde, an isocyanide, and a
+free aliphatic alcohol, catalyzed by In(III), was reported by
+Taguchi.4 Acetals and ketals are also useful for the reaction of
+isocyanides when catalyzed by Lewis or Brønsted acids,
+aﬀording α-alkoxyimidates.5 Because, as described above, the
+acyl group of a carboxylic acid acts as an electrophile while its
+OH group acts as a nucleophile for the nitrilium intermediate,
+other molecules containing both electrophilic and nucleophilic
+groups (Z−OH) could potentially act in a similar manner to a
+carboxylic acid in the Passerini
+reaction. Based on this
+hypothesis, we previously developed an O-silylative Passerini
+
+reaction, borinic-acid-catalyzed α-addition of an isocyanide, and
+an O-phosphinative Passerini reaction (Scheme 1).6 In this
+work, we demonstrated the use of sulﬁnic acid as a carboxylic
+acid equivalent
+to aﬀord the desired products from three
+components.
+
+Scheme 1. O-Silylative Passerini Reaction, O-Phosphinative
+Passerini Reaction, and Borinic Acid Catalyzed α-Addition
+of an Isocyanide
+
+We initially examined whether sulﬁnic acid was capable of
+participating in a three-component coupling reaction with an
+aldehyde and an isocyanide to aﬀord the corresponding α-
+(sulﬁnyloxy)amide (eq 1, step 1). We further investigated the
+reaction of the resulting α-(sulﬁnyloxy)amide with an oxidizing
+reagent to generate α-(sulfonyloxy)amide derivatives in a one-
+pot operation (eq 1, step 2). Generally, α-(sulfonyloxy)alkanoic
+acid derivatives are important precursors of α-amino acids.7 In
+addition, α-(sulfonyloxy)amides may be useful as useful
+building blocks in SN2 reactions to convert other functional
+groups.
+
+Received:
+Published: March 9, 2015
+
+January 19, 2015
+
+© 2015 American Chemical Society
+
+3688
+
+DOI: 10.1021/acs.joc.5b00131
+J. Org. Chem. 2015, 80, 3688−3694
+
+The Journal of Organic Chemistry
+<para sub=“opt”>
+In our initial studies, we used a combination of phenyl-
+propionaldehyde (1a), tert-butyl isocyanide (2a) (1.0 equiv),
+and (4-tolyl)sulﬁnic acid (3a) (1.0 equiv) in CH2Cl2 at room
+temperature (entry 1, Table 1). The expected α-(sulﬁnyloxy)-
+</para>
+Table 1. Results of O-Sulﬁnative Passerini Reaction under
+Various Conditions
+
+entrya
+
+R3
+
+1b
+2c
+3d
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+4-MeC6H4 (3a)
+4-MeC6H4 (3a)
+4-MeC6H4 (3a)
+4-MeC6H4 (3a)
+4-MeC6H4 (3a)
+4-MeC6H4 (3a)
+4-MeC6H4 (3a)
+4-MeC6H4 (3a)
+4-CF3C6H4 (3b)
+4-ClC6H4 (3c)
+C6H5 (3d)
+Me (3e)
+
+solvent
+CH2Cl2
+CH2Cl2
+CH2Cl2
+CH2Cl2
+toluene
+Et2O
+THF
+MeOH
+CH2Cl2
+CH2Cl2
+CH2Cl2
+CH2Cl2
+
+4/yield (%)
+40 (4aaa)
+50 (4aaa)
+79 (4aaa)
+87 (4aaa)
+83 (4aaa)
+78 (4aaa)
+66 (4aaa)
+−
+81(4aab)
+89 (4aac)
+82 (4aad)
+88 (4aae)
+
+5/yield (%)
+
+20
+49
+11
+8
+14
+19
+27
+20
+11
+9
+8
+−
+
+aThe reaction was carried out using 2.0 equiv of 2a and 2.0 equiv of 3
+for 24 h unless otherwise mentioned. bUsing 1.0 equiv of 2a and 1.0
+equiv of 3a. cUsing 1.0 equiv of 2a and 2.0 equiv of 3a. dUsing 1.5
+equiv of 2a and 2.0 equiv of 3a.
+<para sub=“opt”>
+amide 4aaa was obtained in 40% yield after 24 h; however, the
+hydrolysis product 5aa6c was also obtained in 20% yield. When
+1.0 equiv of isocyanide and 2.0 equiv of sulﬁnic acid were used,
+4aaa was obtained in 50% yield, but the yield of 5aa increased
+to 49% (entry 2). The hydrolysis side reaction was suppressed
+using 1.5 equiv of isocyanide and 2.0 equiv of sulﬁnic acid,
+giving the desired 4aaa in 79% yield as well as 5aa in 11% yield
+(entry 3). Finally, we were pleased to observe that 4aaa was
+obtained in 87% yield, while the yield of 5aa was decreased to
+8%, when 2 equiv of 2a were used (entry 4). This reaction
+proceeded eﬃciently in both toluene and diethyl ether to aﬀord
+4aaa in high yields (entries 5 and 6). Use of the cyclic ether
+THF as a solvent was less eﬀective, resulting in the formation of
+α-hydroxyamide 5aa in 27% yield, probably due to hydrolysis of
+4aaa (entry 7). Methanol, which has been used in the Ugi
+reaction as a protic solvent, produced a very sluggish reaction
+from which only 5aa was obtained in 20% yield after 24 h
+(entry 8).
+</para>
+<para sub="scope">
+Having established a method for the O-sulﬁnative Passerini
+reaction, we then set out to evaluate the eﬀectiveness of sulﬁnic
+acids bearing other substituents (entries 9−12). When (4-
+triﬂuoromethylphenyl)sulﬁnic acid (3b), (4-chlorophenyl)-
+sulﬁnic acid (3c), or phenylsulﬁnic acid (3d) was used, the
+</para>
+Note
+<para sub="scope">
+product was obtained in high yield (entries 9−11).
+Methanesulﬁnic acid (3e) could also be used, giving the
+product 4aae in 88% yield (entry 12).
+</para>
+<para sub="scope">
+We also attempted to expand the range of isocyanides and
+aldehydes that could be used in the O-sulﬁnative Passerini
+reaction, using (4-tolyl)sulﬁnic acid (3a) in all cases. The
+results are shown in Table 2. Throughout these experiments,
+</para>
+Table 2. Range of Isocyanides and Aldehydes Applicable to
+the O-Sulﬁnative Passerini Reaction
+
+entry
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+R1
+BnCH2 (1a)
+BnCH2 (1a)
+BnCH2 (1a)
+BnCH2 (1a)
+BnCH2 (1a)
+BnCH2 (1a)
+BnCH2 (1a)
+BnCH2 (1a)
+c-Hex (1b)
+i-Pr (1c)
+t-Bu (1d)
+2-phenylethenyl (1e)
+Ph (1f)
+4-F3CC6H4 (1g)
+4-BrC6H4 (1h)
+4-O2NC6H4 (1i)
+
+R2
+t-Bu (2a)
+t-Oct (2b)
+c-Hex (2c)
+Bn (2d)
+4-BrC6H4 (2e)
+Ph (2f)
+4-MeOC6H4 (2g)
+4-Me2NC6H4 (2h)
+t-Bu (2a)
+t-Bu (2a)
+t-Bu (2a)
+t-Bu (2a)
+t-Bu (2a)
+t-Bu (2a)
+t-Bu (2a)
+t-Bu (2a)
+
+4/yield
+
+(%)
+
+87 (4aaa)
+90 (4aba)
+63 (4aca)
+52 (4ada)
+nr
+nr
+trace
+67 (4aha)
+94 (4baa)
+90 (4caa)
+79 (4daa)
+nr
+nr
+15 (4gaa)
+13 (4haa)
+17 (4iaa)
+
+5/yield
+
+(%)
+8 (5aa)
+7 (5ab)
+18 (5ac)
+21 (5ad)
+−
+−
+−
+32 (5ah)
+−
+9 (5ca)
+20 (5da)
+−
+−
+−
+−
+−
+
+isocyanide (2b) and cyclohexyl
+<para sub="scope">
+optimal amounts of aldehydes 1a−i (1.0 equiv) and isocyanides
+2a−h (2.0 equiv) were used in the presence of 2.0 equiv of (4-
+tolyl)sulﬁnic acid (3a). The results demonstrate that these
+conditions allow the reaction to proceed when using a wide
+variety of aliphatic aldehydes and isocyanides and that most
+reactions were complete within 24 h. The reactions of aliphatic
+isocyanides (R2 = t-Oct, c-Hex, and Bn) with 1a and 3a gave
+the products in good to high yields (entries 2−4). When tert-
+isocyanide (2c) were
+octyl
+used, the products were obtained in 90% and 63% yields,
+respectively (entries 2 and 3). In the case of benzyl isocyanide
+(2d), the desired product 4ada was aﬀorded in 52% yield
+(entry 4). Aromatic isocyanides generally showed low reactivity.
+Thus, in the case of aromatic isocyanides bearing an electron-
+withdrawing group at
+the para position, 4-bromophenyl
+isocyanide (2e) and phenyl isocyanide (2f), the reaction did
+not proceed at all (entries 5 and 6). Aromatic isocyanides
+bearing an electron-donating group at the para position also
+exhibited low reactivity;
+for example, the reaction using 4-
+methoxyphenyl isocyanide (2g) gave a trace amount of product
+(entry 7). Finally, 4-(N,N-dimethylamino)phenyl
+isocyanide
+(2h) showed moderate reactivity, aﬀording the corresponding
+product 4aha in 67% yield (entry 8).
+</para>
+<para sub="scope">
+The reactivity of various aldehydes with tert-butyl isocyanide
+(2a) was next examined. Aliphatic aldehydes 1b, 1c, and 1d
+gave the products in 94%, 90%, and 79% yield, respectively
+(entries 9−11). Cinnamaldehyde (1e) and benzaldehyde (1f)
+</para>
+3689
+
+DOI: 10.1021/acs.joc.5b00131
+J. Org. Chem. 2015, 80, 3688−3694
+
+The Journal of Organic Chemistry
+<para sub="scope">
+both demonstrated quite low reactivity, and their reactions did
+not produce any of the desired product (entries 12 and 13).
+However, aromatic aldehydes bearing an electron-withdrawing
+group at the para position also showed low reactivity, aﬀording
+products with yields of around 15% (entries 14−16).
+</para>
+<para sub="scope">
+During the course of this investigation, we anticipated that
+subsequent oxidation of the sulﬁnyl groups could be achieved
+using an oxidizing reagent. We investigated oxidants including
+mCPBA, oxone, and DMDO. After examination of the reaction
+conditions, we found that α-(sulﬁnyloxy)amide derivatives 4
+were oxidized by mCPBA easily and cleanly in CH2Cl2 to aﬀord
+the corresponding α-(sulfonyloxy)amide derivatives 6 in good
+to high yields (Table 3).8
+</para>
+Table 3. Oxidation Reaction To Give α-(Sulfonyloxy)amides
+
+entry
+
+R1, R2
+
+1
+2
+3
+4
+5
+6
+7
+
+BnCH2, t-Bu (4aaa)
+c-Hex, t-Bu (4baa)
+i-Pr, t-Bu (4caa)
+t-Bu, t-Bu (4daa)
+BnCH2, t-Oct (4aba)
+BnCH2, c-Hex (4aca)
+BnCH2, Bn (4ada)
+
+yield/%
+88 (6aaa)
+85 (6baa)
+87 (6caa)
+89 (6daa)
+95 (6aba)
+80 (6aca)
+77 (6ada)
+<para sub="scope">
+Furthermore, we expanded these stepwise reactions to give a
+one-pot reaction (Table 4). A three-component reaction of 1,
+2, and 3a in CH2Cl2, followed by addition of mCPBA, gave the
+α-(sulfonyloxy)amides 6 in moderate to good yields.
+</para>
+Table 4. One-Pot O-Sulﬁnative Passerini/Oxidation
+Reactions
+
+entry
+1
+2
+3
+4a
+5
+6
+7
+
+R1, R2
+
+BnCH2, t-Bu (4aaa)
+c-Hex, t-Bu (4baa)
+i-Pr, t-Bu (4caa)
+t-Bu, t-Bu (4daa)
+BnCH2, t-Oct (4aba)
+BnCH2, c-Hex (4aca)
+BnCH2, Bn (4ada)
+
+yield/%
+69 (6aaa)
+73 (6baa)
+57 (6caa)
+56 (6daa)
+75 (6aba)
+40 (6aca)
+36 (6ada)
+
+aNaHCO3 (3 equiv) was also added to the reaction mixture.
+<para sub="scope">
+the product 6aaa was
+
+The sulfonyl group of
+
+readily
+converted to other functional groups via an SN2 reaction
+(Scheme 2). NaI, NaBr, and dimethylamine were employed as
+nucleophiles in the substitution reaction to aﬀord the α-
+haloamides 8 and 9 as well as α-aminoamide 10 in high yields.
+</para>
+<para sub="scope">
+To reveal the reaction mechanism, we conducted a series of
+controlled experiments. These showed that addition of
+</para>
+Scheme 2. SN2 Reaction Giving α-Substituted Amide
+Derivatives
+
+Note
+<para sub="scope">
+isocyanide 2a to aldehyde 1a in the absence of (4-tolyl)sulﬁnic
+acid (3a) did not proceed in CH2Cl2 over a period of 24 h (eq
+2). In addition, when the reaction of α-hydroxyamide 5aa with
+
+(4-tolyl)sulﬁnic acid (3a) was attempted in CH2Cl2 with room
+temperature, the desired product 4aaa was not obtained, and
+5aa was instead recovered (eq 3). These results indicate that α-
+(sulﬁnyloxy)amides cannot be formed by a dehydration
+reaction between an α-hydroxyamide 5 and a sulﬁnic acid 3.
+</para>
+<para sub="scope">
+Based on these results, we propose a reaction mechanism for
+the O-sulﬁnative Passerini reaction, shown in Scheme 3. In this
+</para>
+Scheme 3. Proposed Reaction Mechanism
+<para sub="scope">
+mechanism, the aldehyde is activated by the acidic proton of
+the sulﬁnic acid 3a (pKa = 2.80 in H2O)9 through coordination
+with the carbonyl oxygen. Subsequently, nucleophilic attack of
+the carbonyl group by isocyanide provides a nitrilium
+intermediate A, which is trapped by the sulﬁnate anion to
+aﬀord the adduct 4 through migration of the sulﬁnate group
+onto the oxygen atom originating from the aldehyde.
+</para>
+3690
+
+DOI: 10.1021/acs.joc.5b00131
+J. Org. Chem. 2015, 80, 3688−3694
+
+The Journal of Organic Chemistry
+
+■ CONCLUSION
+
+In summary, we have developed a one-pot O-sulﬁnative
+Passerini/oxidation reaction,
+in which a combination of an
+aldehyde, an isocyanide, and a sulﬁnic acid react, followed by
+addition of mCPBA as an oxidant to give the corresponding α-
+(sulfonyloxy)amides in high yields. This reaction is the ﬁrst
+reported demonstration of an isocyanide-based multicompo-
+nent reaction using a sulﬁnic acid in place of a carboxylic acid. A
+wide range of aldehydes and isocyanides are applicable to this
+reaction.
+
+■ EXPERIMENTAL SECTION
+<para sub=“exp”>
+General Method. 1H NMR spectra were recorded on a 400 MHz
+NMR spectrometer. Chemical shifts δ are reported in ppm using TMS
+as an internal standard. Data are reported as follows: chemical shift,
+multiplicity (s = singlet, d = doublet, t = triplet, q = quartet, m =
+multiplet), coupling constant (J), and integration. 13C NMR spectra
+were recorded on a 100 MHz NMR spectrometer. The chemical shifts
+were determined in the δ-scale relative to CDCl3 (δ = 77.0 ppm). The
+wave numbers of maximum absorption peaks of IR spectroscopy are
+presented in cm−1. HRMS (DART) was measured with a quadrupole
+and TOF mass spectrometers. All melting points were measured using
+a micro melting point apparatus. Dehydrated solvents were purchased
+for the reactions and used without further desiccation.
+
+stirred at
+
+room temperature. After
+
+General Procedure. To a solution of 1 (0.5 mmol) and 3 (1.0
+mmol) in CH2Cl2 (1 mL), 2 (1.0 mmol) was added, and the whole
+was
+reaction completion
+(monitored by TLC), satd. NaHCO3 aq was added. The aqueous
+layer was separated and extracted with CHCl3 (5 mL × 3). The
+combined organic layers were washed with brine and dried over
+Na2SO4, concentrated, and puriﬁed by silica gel column chromatog-
+raphy.
+
+1-(tert-Butylamino)-1-oxo-4-phenylbutan-2-yl 4-methyl-
+benzenesulﬁnate (4aaa). Silica gel column chromatography
+(hexane/ethyl acetate = 6/1) gave 4aaa (163 mg, 87% yield) as a
+pale yellow oil. The The diastereomeric ratio was determined to be
+10:7 by 1H NMR. 1H NMR (CDCl3): 1.22 (s, 9H), 1.27 (s, 9H), 1.88
+(m, 2H), 2.09 (m, 1H), 2.23 (m, 1H), 2.37 (s, 3H), 2.38 (s, 3H), 2.49
+(m, 2H), 2.63 (m, 2H), 4.45 (dd, J = 4.4, 6.4 Hz, 1H), 4.59 (dd, J =
+4.0, 8.4 Hz, 1H), 6.07 (s, 1H), 6.23 (s, 1H), 7.02 (d, J = 6.8 Hz, 2H),
+7.09−7.22 (m, 8H), 7.30 (m, 4H), 7.57 (m, 4H). 13C NMR (CDCl3):
+21.3, 28.2, 28.4, 30.4, 30.7, 34.6, 34.8. 51.0, 51.1, 76.1, 77.2, 124.5,
+124.6, 125.8, 125.9, 128.0, 128.1, 128.4, 129.7, 129.8, 140.5, 140.6,
+141.1, 141.6, 143.5, 143.6, 168.5, 168.8. IR (KBr): 3340, 2970, 1680,
+1590, 1520, 1500, 1460, 1360, 1220, 1180, 1080 cm−1. HRMS−DART
+(m/z): Calcd for C21H28NO3S [M + H]+: 374.1790. Found: 374.1784.
+1-(tert-Butylamino)-1-oxo-4-phenylbutan-2-yl 4-(triﬂuoro-
+methyl)benzenesulﬁnate (4aab). Silica gel column chromatog-
+raphy (hexane/ethyl acetate = 8/1) gave 4aab (174 mg, 81% yield) as
+a white amorphous solid. The diastereomeric ratio was determined to
+be 5:4 by 1H NMR. 1H NMR (CDCl3): 1.21 (s, 9H), 1.27 (s, 9H),
+1.92 (m, 2H), 2.12 (m, 1H), 2.23 (m, 1H), 2.52 (m, 2H), 2.64 (m,
+2H), 4.46 (dd, J = 5.2, 11.2 Hz, 1H), 4.62 (dd, J = 4.0, 7.2 Hz, 1H),
+5.95 (s, 1H), 6.15 (s, 1H), 7.00 (d, J = 6.8 Hz, 2H), 7.05−7.21 (m,
+10H), 7.72−7.82 (m, 6H). 13C NMR (CDCl3): 28.3, 28.4, 30.4, 30.9,
+34.7, 34.8, 51.3, 51.4, 77.2, 78.8, 123.1 (1JC−F = 271.7 Hz), 125.3,
+125.5, 126.0, 126.1, 126.2 (3JC−F = 3.8 Hz), 128.3, 128.3, 128.4, 128.5,
+134.2 (2JC−F = 33.4 Hz), 140.2, 140.3, 148.1, 148.3, 168.1, 168.4. IR
+(KBr): 3340, 2970, 1680, 1600, 1520, 1500, 1460, 1370, 1320, 1220,
+1170, 1140, 1080, 1060 cm−1. HRMS−DART (m/z): Calcd for
+C21H25F3NO3S [M + H]+: 428.1507. Found: 428.1504.
+
+1-(tert-Butylamino)-1-oxo-4-phenylbutan-2-yl 4-Chloro-
+benzenesulﬁnate (4aac). Silica gel column chromatography
+(hexane/ethyl acetate = 6/1) gave 4aac (175 mg, 89% yield) as a
+yellow oil. The diastereomeric ratio was determined to be 4:3 by 1H
+NMR. 1H NMR (CDCl3): 1.31 (s, 9H), 1.35 (s, 9H), 1.98 (m, 2H),
+2.17 (m, 1H), 2.30 (m, 1H), 2.58 (m, 2H), 2.70 (m, 2H), 4.50 (dd, J =
+6.0, 11.6 Hz, 1H), 4.67 (dd, J = 4.0, 7.2 Hz, 1H), 6.04 (s, 1H), 6.25 (s,
+</para>
+Note
+<para sub=“exp”>
+1H), 7.11 (d, J = 8.4 Hz, 2H), 7.17−7.28 (m, 10H), 7.56 (m, 3H),
+7.68 (m, 3H). 13C NMR (CDCl3): 28.3, 28.5, 30.4, 30.8, 34.6, 34.8,
+51.2, 51.3, 76.5, 78.2, 126.0, 126.1, 126.3, 128.3, 128.4, 129.4, 129.5,
+139.1, 140.4, 142.3, 143.1, 168.2, 168.5. IR (KBr): 3340, 2970, 1680,
+1580, 1520, 1480, 1460, 1390, 1370, 1220, 1140, 1090 cm−1. HRMS−
+DART (m/z): Calcd for C20H25ClNO3S [M + H]+: 394.1244. Found:
+394.1248.
+
+1-(tert-Butylamino)-1-oxo-4-phenylbutan-2-yl Benzenesulﬁ-
+nate (4aad). Silica gel column chromatography (hexane/ethyl acetate
+= 6/1) gave 4aad (148 mg, 82% yield) as a yellow oil. The
+diastereomeric ratio was determined to be 6:5 by 1H NMR. 1H NMR
+(CDCl3): 1.28 (s, 9H), 1.32 (s, 9H), 1.95 (m, 2H), 2.15 (m, 1H), 2.28
+(m, 1H), 2.56 (m, 2H), 2.70 (m, 2H), 4.52 (dd, J = 5.2, 11.6 Hz, 1H),
+4.66 (dd, J = 4.0, 7.6 Hz, 1H), 6.08 (s, 1H), 6.27 (s, 1H), 7.09 (d, J =
+7.2 Hz, 2H), 7.14−7.28 (m, 12 H), 7.58 (m, 3H), 7.73 (m, 3H). 13C
+NMR (CDCl3): 28.3, 28.4, 30.4, 30.8, 34.6, 34.8, 51.1, 51.2, 76.6, 77.7,
+124.5, 124.6, 125.9, 126.0, 128.2, 128.3, 128.3, 129.2, 129.2, 132.7,
+132.8, 140.5, 140.6, 144.2, 144.6, 168.4, 168.7. IR (KBr): 3340, 2970,
+1680, 1520, 1490, 1460, 1390, 1360, 1230, 1140, 1090 cm−1. HRMS−
+DART (m/z): Calcd for C20H26NO3S [M + H]+: 360.1633. Found:
+360.1632.
+
+1-(tert-Butylamino)-1-oxo-4-phenylbutan-2-yl Methane-
+sulﬁnate (4aae). Silica gel column chromatography (hexane/ethyl
+acetate = 4/1) gave 4aae (131 mg, 88% yield) as a yellow oil. The
+diastereomeric ratio was not determined by 1H NMR due to overlap of
+the diastereomers. 1H NMR (CDCl3): 1.29 (s, 18H), 2.15 (m, 4H),
+2.25 (m, 2H), 2.57 (s, 3H), 2.58 (m, 2H), 2.65 (s, 3H), 4.43 (m, 2H),
+5.98 (s, 1H), 6.44 (s, 1H), 7.08−7.21 (m, 10H). 13C NMR (CDCl3):
+28.3, 28.5, 30.5, 30.9, 33.9, 35.0, 44.7, 51.3, 51.3, 78.5, 80.5, 125.9,
+126.0, 128.2, 128.3, 128.4, 140.3, 140.5, 168.5, 168.6. IR (KBr): 3330,
+2970, 1680, 1530, 1490, 1460, 1390, 1360, 1300, 1230, 1140, 1030
+cm−1. HRMS−DART (m/z): Calcd for C15H24NO3S [M + H]+:
+298.1477. Found: 298.1471.
+
+1-Oxo-4-phenyl-1-((2,4,4-trimethylpentan-2-yl)amino)-
+butan-2-yl 4-Methylbenzenesulﬁnate (4aba). Silica gel column
+chromatography (hexane/ethyl acetate = 10/1) gave 4aba (193 mg,
+90% yield) as a yellow oil. The diastereomeric ratio was determined to
+be 5:4 by 1H NMR. 1H NMR (CDCl3): 0.97 (s, 9H), 0.97 (s, 9H),
+1.34 (s, 3H), 1.38 (s, 3H), 1,39 (s, 3H), 1.41 (s, 3H), 1.67 (m, 4H),
+1.94 (m, 2H), 2.16 (m, 1H), 2.34 (m, 1H), 2.44 (s, 3H), 2.46 (s, 3H),
+2.57 (m, 2H), 2.72 (m, 2H), 4.52 (dd, J = 5.6, 11.2 Hz, 1H), 4.64 (dd,
+J = 4.4, 8.0 Hz, 1H), 6.24 (s, 1H), 6.45 (s, 1H), 7.11 (d, J = 6.8 Hz,
+2H), 7.14−7.35 (m, 10 H), 7.36 (m, 3H), 7.64 (m, 3H). 13C NMR
+(CDCl3): 21.5, 28.3, 28.4, 28.9, 30.5, 31.0, 31.4, 31.5, 34.6, 34.7, 51.9,
+52.2, 55.2, 76.4, 78.4, 124.5, 124.7, 125.9, 126.0, 128.3, 128.4, 128.5,
+129.9, 140.7, 140.8, 141.4, 141.9, 143.6, 143.7, 168.1, 168.4. IR (KBr):
+3340, 2960, 1680, 1530, 1500, 1460, 1390, 1370, 1230, 1140, 1030
+cm−1. HRMS−DART (m/z): Calcd for C25H36NO3S [M + H]+:
+430.2416. Found: 430.2406.
+
+1-(Cyclohexylamino)-1-oxo-4-phenylbutan-2-yl 4-Methyl-
+benzenesulﬁnate (4aca). Silica gel column chromatography
+(hexane/ethyl acetate = 6/1) gave 4aca (126 mg, 63% yield) as a
+brown solid of mp = 80.0−82.0 °C (hexane/ethyl acetate). The
+diastereomeric ratio was determined to be 4:3 by 1H NMR. 1H NMR
+(CDCl3): 1.06−2.02 (m, 22H), 2.15 (m, 1H), 2.30 (m, 1H), 2.42 (s,
+3H), 2.43 (s, 3H), 2.53 (m, 2H), 2.69 (m, 2H), 3.72 (m, 2H), 4.58
+(dd, J = 4.8, 11.2 Hz, 1H), 4.72 (dd, J = 4.4, 7.6 Hz, 1H), 6.18 (d, J =
+8.4 Hz, 1H), 6.38 (d, J = 8.4 Hz, 1H), 7.08 (d, J = 6.8 Hz, 2H), 7.12−
+7.29 (m, 10H), 7.35 (m, 3H), 7.61 (m, 3H). 13C NMR (CDCl3): 21.4,
+24.5, 25.3, 30.4, 30.8, 32.5, 32.6, 32.7, 32.8, 34.7, 34.9, 47.9, 75.9, 77.9,
+124.6, 124.8, 125.8, 126.0, 128.2, 128.3, 128.4, 129.8, 140.5, 140.7,
+141.0, 141.6, 143.5, 143.6, 168.3, 168.7. IR (KBr): 3320, 2930, 1680,
+1640, 1540, 1500, 1450, 1350, 1220, 1140, 1080, 1040 cm−1. HRMS−
+DART (m/z): Calcd for C23H30NO3S [M + H]+: 400.1946. Found:
+400.1950.
+
+1-(Benzylamino)-1-oxo-4-phenylbutan-2-yl 4-Methyl-
+benzenesulﬁnate (4ada). Silica gel column chromatography
+(hexane/ethyl acetate = 10/1) gave 4ada (107 mg, 52% yield) as a
+pale yellow solid of mp = 82.6−84.5 °C (hexane/ethyl acetate). The
+diastereomeric ratio was determined to be 10:9 by 1H NMR. 1H NMR
+</para>
+3691
+
+DOI: 10.1021/acs.joc.5b00131
+J. Org. Chem. 2015, 80, 3688−3694
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+(CDCl3): 2.01 (m, 2H), 2.23 (m, 1H), 2.40 (m, 1H), 2.42 (s, 3H),
+2.43 (s, 3H), 2.55 (m, 2H), 2.73 (m, 2H), 4.32−4.52 (m, 4H), 4.68
+(dd, J = 5.2, 10.8 Hz, 1H), 4.82 (dd, J = 4.0, 7.6 Hz, 1H), 6.65 (m,
+1H), 6.84 (m, 1H), 7.07 (d, J = 7.6 Hz, 2H), 7.18−7.35 (m, 22H),
+7.58 (m, 4H). 13C NMR (CDCl3): 21.4, 30.5, 30.9, 34.6, 34.9, 43.1,
+43.2, 75.4, 77.8, 124.6, 124.8, 125.9, 126.0, 127.3, 127.5, 127.6, 128.3,
+128.3, 128.3, 128.4, 128.5, 128.6, 129.8, 137.6, 137.7, 140.4, 140.6,
+140.8, 141.4, 143.6, 143.7, 169.5, 169.8. IR (KBr): 3330, 2930, 1670,
+1530, 1500, 1450, 1390, 1360, 1260, 1180, 1080, 1030 cm−1. HRMS−
+DART (m/z): Calcd for C24H26NO3S [M + H]+: 408.1633. Found:
+408.1636.
+
+1-((4-(Dimethylamino)phenyl)amino)-1-oxo-4-phenylbutan-
+2-yl 4-Methylbenzenesulﬁnate (4aha). Silica gel column chroma-
+tography (hexane/ethyl acetate = 4/1) gave 4aha (147 mg, 67% yield)
+as a brown amorphous solid. The diastereomeric ratio was determined
+to be 6:5 by 1H NMR. 1H NMR (CDCl3): 2.06 (m, 2H), 2.29 (m,
+1H), 2.42 (m, 1H), 2.44 (s, 3H), 2.46 (s, 3H), 2.62 (m, 2H), 2.78 (m,
+2H), 2.92 (s, 6H), 2.93 (s, 6H), 4.73 (dd, J = 6.0, 11.6 Hz, 1H), 4.87
+(dd, J = 3.6, 7.2 Hz, 1H), 6.74 (brs, 4H), 7.10 (d, J = 7.2 Hz, 2H),
+7.14−7.42 (m, 16H), 7.68 (m, 4H), 7.94 (s, 1H), 8.06 (s, 1H). 13C
+NMR (CDCl3): 21.4, 21.5, 30.5, 30.9, 34.5, 34.8, 40.7, 76.0, 77.7,
+112.7, 112.8, 121.5, 121.7, 124.6, 124.8, 125.9, 126.0, 126.6, 126.7,
+128.1, 128.2, 128.3, 128.3, 129.9, 130.0, 140.5, 140.6, 140.9, 141.4,
+143.7, 143.8, 148.1, 167.1, 167.3. IR (KBr): 3310, 2920, 1670, 1520,
+1500, 1450, 1360, 1320, 1220, 1130, 1080, 1030 cm−1. HRMS−DART
+(m/z): Calcd for C25H29N2O3S [M + H]+: 437.1899. Found:
+437.1897.
+
+2-(tert-Butylamino)-1-cyclohexyl-2-oxoethyl 4-Methyl-
+benzenesulﬁnate (4baa). Silica gel column chromatography
+(hexane/ethyl acetate = 6/1) gave 4baa (166 mg, 94% yield) as a a
+brown amorphous solid. The diastereomeric ratio was determined to
+be 10:7 by 1H NMR. 1H NMR (CDCl3): 0.97−2.02 (m, 22H), 1.24
+(s, 9H), 1.26 (s, 9H), 2.37 (s, 6H), 4.22 (d, J = 3.6 Hz, 1H), 4.40 (d, J
+= 3.2 Hz, 1H), 5.86 (s, 1H), 6.12 (s, 1H), 7.29 (d, J = 7.6 Hz, 4H),
+7.58 (d, J = 7.6 Hz, 4H). 13C NMR (CDCl3): 21.4, 25.7, 25.8, 26.0,
+26.2, 26.5, 28.3, 28.5, 28.9, 29.6. 40.4, 40.5, 51.0, 51.1, 81.6, 82.6,
+124.4, 124.5, 129.7, 129.7, 141.7, 141.9, 143.3, 143.4, 168.2, 168.7. IR
+(KBr): 3390, 2930, 1660, 1520, 1450, 1370, 1230, 1140, 1080 cm−1.
+HRMS−DART (m/z): Calcd for C19H30NO3S [M + H]+: 352.1946.
+Found: 352.1951.
+1-(tert-Butylamino)-3-methyl-1-oxobutan-2-yl 4-Methyl-
+benzenesulﬁnate (4caa). Silica gel column chromatography
+(hexane/diethyl ether = 3/1) gave 4caa (140 mg, 90% yield) as a
+yellow oil. The diastereomeric ratio was determined to be 5:3 by 1H
+NMR. 1H NMR (CDCl3): 0.83 (d, J = 7.2 Hz, 6H), 0.87 (d, J = 6.8
+Hz, 3H), 1.03 (d, J = 7.2 Hz, 3H), 1.29 (s, 9H), 1.32 (s, 9H), 2.19 (m,
+1H), 2.41 (m, 1H), 2.44 (s, 6H), 4.31 (d, J = 3.2 Hz, 1H), 4.51 (d, J =
+3.2 Hz, 1H), 5.96 (s, 1H), 6.24 (s, 1H), 7.37 (d, J = 8.4 Hz, 4H), 7.65
+(d, J = 8.4 Hz, 4H). 13C NMR (CDCl3): 15.8, 16.3, 18.6, 19.1, 21.4,
+28.3, 28.4, 30.9, 31.0, 51.0, 51.1, 82.3, 82.5, 124.4, 124.6, 129.7, 141.7,
+141.9, 143.4, 143.5, 168.3, 168.7. IR (KBr): 3340, 2970, 1670, 1640,
+1520, 1460, 1370, 1230, 1140, 1080 cm−1. HRMS−DART (m/z):
+Calcd for C16H26NO3S [M + H]+: 312.1633. Found: 312.1632.
+
+1-(tert-Butylamino)-3,3-dimethyl-1-oxobutan-2-yl 4-Methyl-
+benzenesulﬁnate (4daa). Silica gel column chromatography
+(hexane/ethyl acetate = 6/1) gave 4daa (128 mg, 79% yield) as a
+yellow solid of mp = 85.6−87.0 °C (hexane/ethyl acetate). The
+diastereomeric ratio was determined to be 4:3 by 1H NMR. 1H NMR
+(CDCl3): 0.95 (s, 9H), 1.00 (s, 9H), 1.24 (s, 9H), 1.31 (s, 9H), 2.43
+(s, 3H), 2.45 (s, 3H), 4.13 (s, 1H), 4.26 (s, 1H), 5.72 (s, 1H), 5.91 (s,
+1H), 7.36 (m, 4H), 7.65 (m, 4H). 13C NMR (CDCl3): 21.4, 21.5, 26.3,
+26.5, 28.3, 28.5, 34.4, 34.8, 50.9, 51.1, 83.4, 85.6, 124.5, 124.6, 129.7,
+129.7, 141.9, 142.1, 143.3, 143.4, 167.5, 167.9. IR (KBr): 3330, 2970,
+1680, 1540, 1520, 1460, 1370, 1230, 1120, 1090 cm−1. HRMS−DART
+(m/z): Calcd for C17H28NO3S [M + H]+: 326.1790. Found: 326.1787.
+2-(tert-Butylamino)-2-oxo-1-(4-(triﬂuoromethyl)phenyl)-
+ethyl 4-Methylbenzenesulﬁnate (4gaa). Silica gel column
+chromatography (hexane/ethyl acetate = 6/1) gave 4gaa (32 mg,
+15% yield) as a yellow solid of mp = 82.8−84.8 °C (hexane/ethyl
+acetate). The diastereomeric ratio was determined to be 11:10 by 1H
+
+NMR. 1H NMR (CDCl3): 1.22 (s, 9H), 1.30 (s, 9H), 2.29 (s, 3H),
+2.38 (s, 3H), 5.33 (s, 1H), 5.51 (s, 1H), 6.28 (s, 1H), 6.35 (s, 1H),
+7.09 (m, 4H), 7.30−7.60 (m, 12H). 13C NMR (CDCl3): 21.3, 21.5,
+28.3, 28.5, 51.5, 51.6, 74.3, 76.8, 123.1 (1JC−F = 271.7 Hz), 124.7, 125.1
+(3JC−F = 3.3 Hz), 125.2, (3JC−F = 3.8 Hz), 127.6, 127.7, 129.6, 130.0,
+130.2 (2JC−F = 32.4 Hz), 130.8 (2JC−F = 32.4 Hz), 140.1, 140.3, 140.4,
+141.3, 143.9, 144.0, 166.6, 167.0. IR (KBr): 3300, 2970, 1660, 1590,
+1520, 1460, 1370, 1330, 1220, 1130, 1070 cm−1. HRMS−DART (m/
+z): Calcd for C20H23F3NO3S [M + H]+: 414.1351. Found: 414.1348.
+1-(4-Bromophenyl)-2-(tert-butylamino)-2-oxoethyl 4-
+Methylbenzenesulﬁnate (4haa). Silica gel column chromatography
+(hexane/ethyl acetate = 8/1) gave 4haa (28 mg, 13% yield) as a yellow
+oil. The diastereomeric ratio was determined to be 11:10 by 1H NMR.
+1H NMR (CDCl3): 1.22 (s, 9H), 1.29 (s, 9H), 2.34 (s, 3H), 2.37 (s,
+3H), 5.23 (s, 1H), 5.43 (s, 1H), 6.26 (s, 1H), 6.30 (s, 1H), 6.86 (d, J =
+8.4 Hz, 2H), 7.15−7.30 (m, 8H), 7.42 (m, 4H), 7.50 (d, J = 8.4 Hz,
+2H). 13C NMR (CDCl3): 21.5, 21.5, 28.4, 28.5, 51.4, 51.5, 75.2, 77.3,
+122.5, 122.9, 124.7, 125.1, 129.0, 129.1, 129.6, 130.0, 131.3, 131.7,
+135.3, 135.6, 140.3, 141.4, 143.7, 143.8, 166.8, 167.2. IR (KBr): 3340,
+2970, 1680, 1520, 1460, 1370, 1290, 1220, 1140, 1070 cm−1. HRMS−
+DART (m/z): Calcd for C19H23BrNO3S [M + H]+: 424.0582. Found:
+424.0585.
+
+2-(tert-Butylamino)-1-(4-nitrophenyl)-2-oxoethyl 4-Methyl-
+benzenesulﬁnate (4iaa). Silica gel column chromatography
+(hexane/ethyl acetate = 8/1) gave 4iaa (34 mg, 17% yield) as a
+yellow oil. The diastereomeric ratio was determined to be 1:1 by 1H
+NMR. 1H NMR (CDCl3): 1.21 (s, 9H), 1.29 (s, 9H), 2.30 (s, 3H),
+2.93 (s, 3H), 5.37 (s, 1H), 5.53 (s, 1H), 6.27 (s, 1H), 6.35 (s, 1H),
+7.16 (m, 4H), 7.33 (d, J = 8.0 Hz, 2H), 7.42 (d, J = 8.0 Hz, 2H), 7.53
+(m, 4H), 7.97 (d, J = 8.4 Hz, 2H), 8.16 (d, J = 8.4 Hz, 2H). 13C NMR
+(CDCl3): 21.5, 21.6, 28.4, 28.5, 51.7, 51.8, 73.9, 76.0, 123.2, 123.7,
+124.7, 125.1, 128.1, 128.2, 129.7, 130.1, 140.1, 141.1, 143.3, 143.5,
+144.2, 144.3, 147.5, 147.9, 166.1, 166.5. IR (KBr): 3340, 2970, 1680,
+1520, 1460, 1390, 1350, 1290, 1220, 1180, 1080 cm−1. HRMS−DART
+(m/z): Calcd for C19H23N2O5S [M + H]+: 391.1328. Found:
+391.1333.
+
+General Procedure for the Oxidation of Sulﬁnates 4. To a
+solution of 4 in CH2Cl2 (10 mL), mCPBA (2.5 equiv) was added and
+the whole was stirred at room temperature. After reaction completion
+(monitored by TLC), the reaction mixture was washed with 1 M
+NaOH aq and brine, dried over Na2SO4, concentrated, and puriﬁed by
+silica gel column chromatography.
+
+room temperature. After
+
+General Procedure for the One-Pot O-Sulﬁnative Passerini/
+Oxidation Reaction. To a solution of 1 (0.5 mmol) and 3 (1.0
+mmol) in CH2Cl2 (1 mL), 2 (1.0 mmol) was added, and the whole
+was
+reaction completion
+(monitored by TLC), mCPBA (2.5 equiv) was added and the whole
+was
+reaction completion
+(monitored by TLC), 1 M NaOH was added. The aqueous layer
+was separated and extracted with CHCl3 (5 mL × 3). The combined
+organic layers were washed with brine, dried over Na2SO4,
+concentrated, and puriﬁed by silica gel column chromatography.
+
+room temperature. After
+
+1-(tert-Butylamino)-1-oxo-4-phenylbutan-2-yl 4-Methyl-
+benzenesulfonate (6aaa). Silica gel column chromatography
+(hexane/ethyl acetate = 6/1) gave 6aaa (106 mg, 88% yield, 0.31
+mmol scale) as a white solid of mp = 109.4−110.9 °C (hexane/ethyl
+acetate). 1H NMR (CDCl3): 1.25 (s, 9H), 2.08 (m, 2H), 2.46 (s, 3H),
+2.57 (m, 2H), 4.74 (t, J = 5.6 Hz, 1H), 5.97 (s, 1H), 7.07 (d, J = 8.0
+Hz, 2H), 7.18 (m, 1H), 7.24 (d, J = 8.0 Hz, 2H), 7.38 (d, J = 8.0 Hz,
+2H), 7.81 (d, J = 8.0 Hz, 2H). 13C NMR (CDCl3): 21.5, 28.2, 30.4,
+34.1, 51.3, 80.2, 126.0, 127.8, 128.2, 128.3, 130.0, 132.8, 140.1, 145.5,
+166.9. IR (KBr): 3300, 2970, 1650, 1560, 1460, 1370, 1220, 1180,
+1100, 1020, 980 cm−1. HRMS−DART (m/z): Calcd for C21H28NO4S
+[M + H]+: 390.1739. Found: 390.1736.
+2-(tert-Butylamino)-1-cyclohexyl-2-oxoethyl 4-Methyl-
+benzenesulfonate (6baa). Silica gel column chromatography
+(hexane/ethyl acetate = 6/1) gave 6baa (96 mg, 85% yield, 0.31
+mmol scale) as a white solid of mp = 142.8−144.1 °C (hexane/ethyl
+acetate). 1H NMR (CDCl3): 0.96−1.64 (m, 10H), 1.12 (s, 9H), 1.82
+(m, 1H), 2.39 (s, 3H), 4.49 (d, J = 4.0 Hz, 1H), 5.71 (s, 1H), 7.30 (d, J
+
+stirred at
+
+stirred at
+</para>
+3692
+
+DOI: 10.1021/acs.joc.5b00131
+J. Org. Chem. 2015, 80, 3688−3694
+
+The Journal of Organic Chemistry
+
+Note
+<para sub=“exp”>
+= 8.4 Hz, 2H), 7.73 (d, J = 8.4 Hz, 2H). 13C NMR (CDCl3): 21.5,
+25.6, 25.8, 26.3, 28.2, 28.9, 40.1, 51.2, 84.9, 127.8, 130.0, 133.1, 145.3,
+166.6. IR (KBr): 3400, 2930, 1660, 1530, 1450, 1370, 1230, 1180,
+1100, 1070, 970 cm−1. HRMS−DART (m/z): Calcd for C19H30NO4S
+[M + H]+: 368.1896. Found: 368.1899.
+1-(tert-Butylamino)-3-methyl-1-oxobutan-2-yl 4-Methyl-
+benzenesulfonate (6caa). Silica gel column chromatography
+(hexane/ethyl acetate = 6/1) gave 6caa (115 mg, 87% yield, 0.41
+mmol scale) as a white solid of mp = 106.5−107.1 °C (hexane/ethyl
+acetate). 1H NMR (CDCl3): 0.85 (d, J = 6.8 Hz, 3H), 0.87 (d, J = 6.8
+Hz, 3H), 1.21 (s, 9H), 2.28 (m, 1H), 2.46 (s, 3H), 4.59 (d, J = 3.6 Hz,
+1H), 5.84 (s, 1H), 7.38 (d, J = 7.6 Hz, 2H), 7.80 (d, J = 7.6 Hz, 2H).
+13C NMR (CDCl3): 16.0, 18.5, 21.5, 28.2, 30.8, 51.2, 85.2, 127.8,
+130.0, 133.0, 145.3, 166.8. IR (KBr): 3390, 2980, 1660, 1520, 1460,
+1370, 1340, 1230, 1190, 1090, 970 cm−1. HRMS−DART (m/z):
+Calcd for C16H26NO4S [M + H]+: 328.1583. Found: 328.1582.
+
+1-(tert-Butylamino)-3,3-dimethyl-1-oxobutan-2-yl 4-Methyl-
+benzenesulfonate (6daa). Silica gel column chromatography
+(hexane/ethyl acetate = 6/1) gave 6daa (91 mg, 89% yield, 0.30
+mmol scale) as a white solid of mp = 141.0−142.0 °C (hexane/ethyl
+acetate). 1H NMR (CDCl3): 0.95 (s, 9H), 1.17 (s, 9H), 2.45 (s, 3H),
+4.36 (s, 1H), 5.65 (s, 1H), 7.34 (d, J = 8.4 Hz, 2H), 7.81 (d, J = 8.4
+Hz, 2H). 13C NMR (CDCl3): 21.5, 26.1, 28.2, 34.5, 51.2, 88.0, 127.9,
+130.0, 133.1, 145.3, 165.8. IR (KBr): 3400, 2970, 1660, 1520, 1480,
+1360, 1330, 1230, 1190, 1100, 960 cm−1 HRMS−DART (m/z): Calcd
+for C17H28NO4S [M + H]+: 342.1739. Found: 342.1734.
+
+1-Oxo-4-phenyl-1-((2,4,4-trimethylpentan-2-yl)amino)-
+butan-2-yl 4-Methylbenzenesulfonate (6aba). Silica gel column
+chromatography (hexane/ethyl acetate = 8/1) gave 6aba (112 mg,
+95% yield, 0.27 mmol scale) as a white solid of mp = 75.6−77.2 °C
+(hexane/ethyl acetate). 1H NMR (CDCl3): 0.91 (s, 9H), 1.26 (s, 3H),
+1.28 (s, 3H), 1.53 (d, J = 15.2 Hz, 1H), 1.60 (d, J = 15.2 Hz, 1H), 2.00
+(m, 2H), 2.39 (s, 3H), 2.50 (m, 2H), 4.67 (dd, J = 4.8, 6.0 Hz, 1H),
+6.01 (s, 1H), 6.99 (d, J = 6.8 Hz, 2H), 7.09 (m, 1H), 7.16 (d, J = 8.4
+Hz, 2H), 7.31 (d, J = 8.4 Hz, 2H), 7.74 (d, J = 8.4 Hz, 2H). 13C NMR
+(CDCl3): 21.6, 28.3, 28.6, 30.4, 31.4, 31.5, 34.0, 52.1, 55.5, 80.3, 126.1,
+127.8, 128.3, 128.4, 130.0, 133.0, 140.2, 145.5, 166.6. IR (KBr): 3430,
+2960, 1680, 1530, 1460, 1370, 1220, 1190, 1100, 980 cm−1. HRMS−
+DART (m/z): Calcd for C25H36NO4S [M + H]+: 446.2365. Found:
+446.2376.
+
+1-(Cyclohexylamino)-1-oxo-4-phenylbutan-2-yl 4-Methyl-
+benzenesulfonate (6aca). Silica gel column chromatography
+(hexane/ethyl acetate = 6/1) gave 6aca (138 mg, 80% yield, 0.42
+mmol scale) as a white solid of mp = 132.6−134.6 °C (hexane/ethyl
+acetate). 1H NMR (CDCl3): 1.03−1.84 (m, 10H), 2.09 (m, 2H), 2.46
+(s, 3H), 2.55 (m, 2H), 3.70 (m, 1H), 4.83 (t, J = 5.6 Hz, 1H), 6.09 (d,
+J = 8.0 Hz, 1H), 7.05 (d, J = 7.6 Hz, 2H), 7.16 (m, 1H), 7.23 (d, J =
+7.6 Hz, 2H), 7.37 (d, J = 8.4 Hz, 2H), 7.81 (d, J = 8.4 Hz, 2H). 13C
+NMR (CDCl3): 21.5, 24.5, 25.2, 30.3, 32.4, 32.6, 34.1, 48.0, 80.0,
+126.0, 127.8, 128.2, 128.3, 130.0, 132.7, 140.1, 145.5, 166.8. IR (KBr):
+3260, 2930, 1650, 1570, 1450, 1360, 1340, 1190, 1180, 1100, 1020,
+980 cm−1. HRMS−DART (m/z): Calcd for C23H30NO4S [M + H]+:
+416.1896. Found: 416.1895.
+
+1-(Benzylamino)-1-oxo-4-phenylbutan-2-yl 4-Methyl-
+benzenesulfonate (6ada). Silica gel column chromatography
+(benzene/ethyl acetate = 100/1) gave 6ada (49 mg, 77% yield, 0.15
+mmol scale) as a white solid of mp = 101.9−103.6 °C (hexane/ethyl
+acetate). 1H NMR (CDCl3): 2.12 (m, 2H), 2.45 (s, 3H), 2.55 (m,
+2H), 4.40 (m, 2H), 4.91 (t, J = 5.6 Hz, 1H), 6.57 (s, 1H), 7.04 (d, J =
+6.8 Hz, 2H), 7.15−7.36 (m, 10H), 7.70 (d, J = 6.8 Hz, 2H). 13C NMR
+(CDCl3): 21.7, 30.4, 34.1, 43.3, 79.9, 126.2, 127.6, 127.9, 128.3, 128.4,
+128.7, 130.1, 132.6, 137.3, 140.1, 145.6, 167.9. IR (KBr): 3370, 2920,
+1650, 1530, 1460, 1380, 1350, 1190, 1180, 1100, 1020, 980 cm−1.
+HRMS−DART (m/z): Calcd for C24H26NO4S [M + H]+: 424.1583.
+Found: 424.1580.
+
+General Procedure. The mixture of 6aaa and sodium salt (NaI, or
+NaBr) in MeCN (1 mL) was reﬂuxed for 24 h. After cooling to room
+temperature, the reaction mixture was ﬁltered through Celite, and the
+ﬁltrate was concentrated in vacuo. The residue was puriﬁed by silica
+gel column chromatography.
+
+N-(tert-Butyl)-2-iodo-4-phenylbutanamide (8). Silica gel col-
+umn chromatography (hexane/diethyl ether = 3/1) gave 8 (58 mg,
+84% yield, 0.2 mmol scale) as a white solid of mp = 97.0−98.0 °C
+(hexane/ethyl acetate). 1H NMR (CDCl3): 1.28 (s, 9H), 2.21 (m,
+2H), 2.60 (m, 1H), 2.69 (m, 1H), 3.98 (t, J = 7.2 Hz, 1H), 5.45 (s,
+1H), 7.11−7.25 (m, 5H). 13C NMR (CDCl3): 27.2, 28.3, 35.1, 38.1,
+51.6, 126.3, 128.5, 140.0, 169.1. IR (KBr): 3310, 2970, 1650, 1540,
+1460, 1360, 1280, 1220, 1180 cm−1. HRMS−DART (m/z): Calcd for
+C14H21INO [M + H]+: 346.0668. Found: 346.0667.
+
+N-(tert-Butyl)-2-bromo-4-phenylbutanamide (9). Silica gel
+column chromatography (hexane/diethyl ether = 3/1) gave 9 (59
+mg, 99% yield, 0.2 mmol scale) as a white solid of mp = 79.0−80.2 °C
+(hexane/ethyl acetate). 1H NMR (CDCl3):1.37 (s, 9H), 2.28 (m, 1H),
+2.44 (m, 1H), 2.81 (m, 2H), 4.14 (dd, J = 5.2, 8.8 Hz, 1H), 6.12 (s,
+1H), 7.20−7.31 (m, 5H). 13C NMR (CDCl3): 28.4, 33.1, 37.3, 51.6,
+51.7, 126.2, 128.5, 128.6, 140.1, 167.5. IR (KBr): 3300, 2970, 1650,
+1550, 1450, 1360, 1220, 1030 cm−1. HRMS−DART (m/z): Calcd for
+C14H21BrNO [M + H]+: 298.0807. Found: 298.0804.
+
+The mixture of 6aaa (0.13 mmol) and dimethylamine (50%
+aqueous solution, 1.3 mmol) in MeCN (2 mL) was reﬂuxed for 24 h.
+After cooling to room temperature, the reaction mixture was diluted
+with ethyl acetate, and the organic layer was separated. The organic
+layer was washed with water and brine, dried over Na2SO4,
+concentrated, and puriﬁed by silica gel column chromatography.
+
+N-(tert-Butyl)-2-(dimethylamino)-4-phenylbutanamide (10).
+Silica gel column chromatography (hexane/acetone = 3/1) gave 10
+(33 mg, 98% yield, 0.13 mmol scale) as a colorless oil. 1H NMR
+(CDCl3): 1.38 (s, 9H), 1.92 (m, 2H), 2.25 (s, 6H), 2.64 (m, 2H), 2.77
+(m, 1H), 6.76 (s, 1H), 7.16−7.92 (m, 5H). 13C NMR (CDCl3): 28.8,
+30.2, 32.8, 42.5, 50.4, 69.9, 125.8, 128.3, 128.4, 142.1, 172.3. IR (KBr):
+3340, 2960, 1660, 1510, 1450, 1390, 1360, 1230, 1050 cm−1. HRMS−
+DART (m/z): Calcd for C16H27N2O [M + H]+: 263.2123. Found:
+263.2122.
+</para>
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Copies of 1H NMR and 13C NMR spectra of products. This
+material is available free of charge via the Internet at http://
+pubs.acs.org.
+
+■ AUTHOR INFORMATION
+Corresponding Authors
+*E-mail: soeta@se.kanazawa-u.ac.jp.
+*E-mail: ukaji@staﬀ.kanazawa-u.ac.jp.
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was partially supported by a Grant-in-Aid for Young
+Scientists (B) (24750037) and a Grant in-Aid for Scientiﬁc
+Research (B) (24350022) from the Japan Society for the
+Promotion of Science. The paper is dedicated to Professor
+Amos B. Smith, III on the occasion of his 70th birthday.
+
+recent enantioselective Passerini-type reactions,
+
+■ REFERENCES
+(1) Passerini, M. Gazz. Chem. Ital. 1921, 51, 126−181.
+(2) For
+see:
+(a) Mihara, H.; Xu, Y.; Shepherd, N. E.; Matsunaga, S.; Shibasaki,
+M. J. Am. Chem. Soc. 2009, 131, 8384−8385. (b) Yue, T.; Wang, M.-
+X.; Wang, D.-X.; Zhu, J. Angew. Chem., Int. Ed. 2008, 47, 9454−9457.
+(c) Wang, S.-X.; Wang, M.-X.; Wang, D.-X.; Zhu, J. Angew. Chem., Int.
+Ed. 2008, 47, 388−391. (d) Denmark, S. E.; Fan, Y. J. Org. Chem.
+2005, 70, 9667−9676. (e) Andreana, P. R.; Liu, C. C.; Schreiber, S. L.
+Org. Lett. 2004, 6, 4231−4233. (f) Kusebauch, U.; Beck, B.; Messer,
+K.; Herdtweck, E.; Dömling, A. Org. Lett. 2003, 5, 4021−4024.
+(g) Denmark, S. E.; Fan, Y. J. Am. Chem. Soc. 2003, 125, 7825−7827.
+
+3693
+
+DOI: 10.1021/acs.joc.5b00131
+J. Org. Chem. 2015, 80, 3688−3694
+
+Note
+
+The Journal of Organic Chemistry
+
+(3) (a) El Kaim, L.; Gizolme, M.; Grimaud, L.; Oble, J. J. Org. Chem.
+2007, 72, 4169−4180. (b) El Kaim, L.; Gizolme, M.; Grimaud, L. Org.
+Lett. 2006, 8, 5021−5023.
+(4) (a) Yanai, H.; Sakiyama, T.; Oguchi, T.; Taguchi, T. Tetrahedron
+Lett. 2012, 53, 3161−3164. (b) Yanai, H.; Oguchi, T.; Taguchi, T. J.
+Org. Chem. 2009, 74, 3927−3929.
+(5) (a) Tobisu, M.; Kitajima, A.; Yoshioka, S.; Hyodo, I.; Oshita, M.;
+Chatani, N. J. Am. Chem. Soc. 2007, 129, 11431−11437. (b) Yoshioka,
+S.; Oshita, M.; Tobisu, M.; Chatani, N. Org. Lett. 2005, 7, 3697−3699.
+(6) (a) Soeta, T.; Ukaji, Y. Chem. Rec. 2014, 14, 101−116. (b) Soeta,
+T.; Matsuzaki, S.; Ukaji, Y. Chem.Eur. J. 2014, 20, 5007−5012.
+(c) Soeta, T.; Kojima, Y.; Ukaji, Y.; Inomata, K. Tetrahedron Lett.
+2011, 52, 2557−2559. (d) Soeta, T.; Kojima, Y.; Ukaji, Y.; Inomata, K.
+Org. Lett. 2010, 12, 4341−4343.
+(7) Onomura, O.; Mitsuda, M.; Nguyen, M. T. T.; Demizu, Y.
+Tetrahedron Lett. 2007, 48, 9080−9084.
+(8) Stensaas, K. L.; McCarty, B. V.; Touchette, N. M.; Brock, J. B.
+Tetrahedron 2006, 62, 10683−10687.
+(9) Filippo, D. D.; Momicchioli, F. Tetrahedron 1969, 25, 5733−
+5744.
+
+3694
+
+DOI: 10.1021/acs.joc.5b00131
+J. Org. Chem. 2015, 80, 3688−3694
+
+
